@@ -1,0 +1,2071 @@
+<?xml version="1.0"?>
+<gameList>
+	<game id="46519">
+		<path>./No-Intro/Alien Invasion (USA).bin</path>
+		<name>Videocart-26: Alien Invasion</name>
+		<desc>This game is very similar to Space Invaders. The player controls a gun turret at the bottom of the screen. The turret can move both left and right and is able to shoot missiles. These missiles are used to shoot down the alien invaders which are moving back and forth in rows dropping missiles toward the player's gun turret. Each alien defeated earns the player points toward their score. Every once in a while, a spaceship will fly across the top of the screen and shooting it will give the player extra points. The goal of the game is to clear the screen of Alien Invaders and score as many points as possible. The game ends when the player loses all three of their lives.
+
+There are 10 game options that can be chosen with different number of players, player missiles and alien missiles. Players can also take turns or play simultaneously.</desc>
+		<image>./media/screenshots/Alien Invasion (USA).png</image>
+		<video>./media/videos/Alien Invasion (USA).mp4</video>
+		<marquee>./media/marquees/Alien Invasion (USA).png</marquee>
+		<thumbnail>./images/Alien Invasion (USA)-thumb.png</thumbnail>
+		<fanart>./images/Alien Invasion (USA)-fanart.jpg</fanart>
+		<boxback>./images/Alien Invasion (USA)-boxback.png</boxback>
+		<rating>0.6</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Fairlight</developer>
+		<publisher>Zircon Software</publisher>
+		<genre>Shooter / Space Invaders Like</genre>
+		<players>1-2</players>
+		<kidgame>true</kidgame>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>f7bf7d55a7660ffa80d08ad1ba903ff7</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T193819" />
+	</game>
+	<game id="46503">
+		<path>./No-Intro/Backgammon, Acey-Deucey (USA).bin</path>
+		<name>Videocart-11: Backgammon, Acey-Deucey</name>
+		<desc>The original game of backgammon for the first 2nd-generation console of 1977.  Players take turn rolling dice and then moving their pieces around the game board.  Blue &amp; Red each have to move all their pieces off the board to win, and are competing against each other and against lady luck herself.  
+
+Acey-Deucey is another way to play Backgammon where the starting position is different.  Instead of starting the game with numerous pieces arranged at places around the board, you start with all your pieces at the starting line.  It makes for a longer game, although just as strategic and challenging.</desc>
+		<image>./media/screenshots/Backgammon, Acey-Deucey (USA).png</image>
+		<video>./media/videos/Backgammon, Acey-Deucey (USA).mp4</video>
+		<marquee>./media/marquees/Backgammon, Acey-Deucey (USA).png</marquee>
+		<thumbnail>./images/Backgammon, Acey-Deucey (USA)-thumb.png</thumbnail>
+		<boxback>./images/Backgammon, Acey-Deucey (USA)-boxback.png</boxback>
+		<rating>0.3</rating>
+		<releasedate>19770101T000000</releasedate>
+		<developer>Fairlight</developer>
+		<publisher>Fairlight</publisher>
+		<genre>Board game</genre>
+		<players>2</players>
+		<kidgame>true</kidgame>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>d89b48ae8c906488caac2b2ae1d63d88</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T193822" />
+	</game>
+	<game id="46504">
+		<path>./No-Intro/Baseball (USA).bin</path>
+		<name>Videocart-12: Baseball</name>
+		<desc>Batter up!  Or, uhm... Stick-Men Up!?!   The game of baseball for your very own Fairchild Channel-F home videogame system.  Two players go head-to-head to see who is the King of the Diamond.
+
+One player takes to the field, the other grabs a bat and steps up to the plate.  The pitcher can throw fast, slow, and some wicked curves even at the last moment.  Luckily the single-button swing action makes hitting the ball fairly easy, even if getting a single is harder than hitting a double or home-run.</desc>
+		<image>./media/screenshots/Baseball (USA).png</image>
+		<video>./media/videos/Baseball (USA).mp4</video>
+		<marquee>./media/marquees/Baseball (USA).png</marquee>
+		<thumbnail>./images/Baseball (USA)-thumb.png</thumbnail>
+		<manual>./manuals/Baseball (USA)-manual.pdf</manual>
+		<boxback>./images/Baseball (USA)-boxback.png</boxback>
+		<rating>0.35</rating>
+		<releasedate>19770101T000000</releasedate>
+		<developer>Fairlight</developer>
+		<publisher>Fairlight</publisher>
+		<genre>Sports / Baseball</genre>
+		<players>2</players>
+		<kidgame>true</kidgame>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>4fa83f734c139963aa02bdbb7a52e500</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T193824" />
+	</game>
+	<game id="46514">
+		<path>./No-Intro/Bowling (USA).bin</path>
+		<name>Videocart-21: Bowling</name>
+		<desc>The object of the game is to knock down as many pins in 10 frames of bowling, The game gives the player an overhead view of a bowling lane. The player's bowling ball starts out moving back and forth across the front of the lane. This has the player trying to get the lane position they want the ball to start traveling down. Once the ball starts rolling down the lane, the player can curve the ball left or right. Once the curve has started, it can't be changed further.
+
+The game contains 18 game variations. They involve choosing the combination of number of players (1 or 2 players), playing either a regular or split game, and then choosing the speed of play (slow,normal,fast, and fastest).
+
+The regular game, just like it sounds like, is a regular game of bowling featuring the usual rules of play.
+
+The split game has each frame starting  with some combination of less than 10 pins. The player has 2 balls to knock down the remaining pins in each frame.</desc>
+		<image>./media/screenshots/Bowling (USA).png</image>
+		<video>./media/videos/Bowling (USA).mp4</video>
+		<marquee>./media/marquees/Bowling (USA).png</marquee>
+		<thumbnail>./images/Bowling (USA)-thumb.png</thumbnail>
+		<boxback>./images/Bowling (USA)-boxback.png</boxback>
+		<rating>0.7</rating>
+		<releasedate>19780101T000000</releasedate>
+		<developer>Fairlight</developer>
+		<publisher>Fairlight</publisher>
+		<genre>Sports / Bowling</genre>
+		<players>1-2</players>
+		<kidgame>true</kidgame>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>25e231e7a464a32b4715bfb47af89240</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T193826" />
+	</game>
+	<game id="46518">
+		<path>./No-Intro/Casino Poker (USA).bin</path>
+		<name>Videocart-25: Casino Poker</name>
+		<desc>This game features a simulation of the card game five-card draw poker. 3 players (either 1 or 2 can be human, the rest are controlled by the computer) are dealt five cards each. Players then take turns either calling or raising a bet (which can be up to $25), or if they don't like their cards they can fold. Once that round of betting is done players then can choose to discard up to three of their cards in exchange for three new cards in an attempt to make a better hand. Another round of betting then takes place and after that all the players that didn't fold their hands show their cards and whoever has the highest hand wins all the money in the pot.</desc>
+		<image>./media/screenshots/Casino Poker (USA).png</image>
+		<video>./media/videos/Casino Poker (USA).mp4</video>
+		<marquee>./media/marquees/Casino Poker (USA).png</marquee>
+		<thumbnail>./images/Casino Poker (USA)-thumb.png</thumbnail>
+		<boxback>./images/Casino Poker (USA)-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Fairlight</developer>
+		<publisher>Zircon Software</publisher>
+		<genre>Casino / Cards</genre>
+		<players>1-2</players>
+		<kidgame>true</kidgame>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>bb7f7bbbe21f142591cdcafa98d7f6e4</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T193828" />
+	</game>
+	<game id="46511">
+		<path>./No-Intro/Checkers (USA).bin</path>
+		<name>Videocart-19: Checkers</name>
+		<desc>This game features a playable version of the board game Checkers. Players control the 12 checkers at the bottom of the screen and attempt to remove the 12 checkers at the top of the screen which are controlled by a computer opponent. Players can only move their checkers diagonally toward their opponents side of the board. A checker can be jumped when two opposing checkers are next to each other and there is an empty space on the diagonal of the checker getting jumped. If a checker is put into a position of being able to be jumped it must be jumped. If a checker happens to reach the other side of the board, that checker is kinged and is allowed to move both back and forth in diagonal movements. The game is won by the player who removes all their opponents checkers from the board.</desc>
+		<image>./media/screenshots/Checkers (USA).png</image>
+		<video>./media/videos/Checkers (USA).mp4</video>
+		<marquee>./media/marquees/Checkers (USA).png</marquee>
+		<thumbnail>./images/Checkers (USA)-thumb.png</thumbnail>
+		<boxback>./images/Checkers (USA)-boxback.png</boxback>
+		<rating>0.7</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Fairlight</developer>
+		<publisher>Zircon Software</publisher>
+		<genre>Board game</genre>
+		<players>1</players>
+		<kidgame>true</kidgame>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>35d61d40ef7ec337cba092aabac74dbd</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T193831" />
+	</game>
+	<game id="46531">
+		<path>./No-Intro/Demonstration Cartridge (USA).bin</path>
+		<name>Demonstration Cartridge</name>
+		<image>./media/screenshots/Demonstration Cartridge (USA).png</image>
+		<video>./media/videos/Demonstration Cartridge (USA).mp4</video>
+		<marquee>./media/marquees/Demonstration Cartridge (USA).png</marquee>
+		<thumbnail>./images/Demonstration Cartridge (USA)-thumb.png</thumbnail>
+		<boxback>./images/Demonstration Cartridge (USA)-boxback.png</boxback>
+		<rating>0.5</rating>
+		<releasedate>19770101T000000</releasedate>
+		<developer>Fairlight</developer>
+		<publisher>Fairlight</publisher>
+		<genre>Demo</genre>
+		<players>1</players>
+		<kidgame>true</kidgame>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>54cf17c48707467295749490d458eafb</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T193833" />
+	</game>
+	<game id="46532">
+		<path>./No-Intro/Demonstration Cartridge 2 (USA).bin</path>
+		<name>Demonstration Cartridge 2</name>
+		<image>./media/screenshots/Demonstration Cartridge 2 (USA).png</image>
+		<video>./media/videos/Demonstration Cartridge 2 (USA).mp4</video>
+		<marquee>./media/marquees/Demonstration Cartridge 2 (USA).png</marquee>
+		<thumbnail>./images/Demonstration Cartridge 2 (USA)-thumb.png</thumbnail>
+		<boxback>./images/Demonstration Cartridge 2 (USA)-boxback.png</boxback>
+		<rating>0.5</rating>
+		<releasedate>19770101T000000</releasedate>
+		<developer>Fairlight</developer>
+		<publisher>Fairlight</publisher>
+		<genre>Demo</genre>
+		<players>1</players>
+		<kidgame>true</kidgame>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>f6916b665893aa8138cde57c37e50ada</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T193836" />
+	</game>
+	<game id="46520">
+		<path>./No-Intro/Desert Fox, Shooting Gallery (USA).bin</path>
+		<name>Videocart-2: Desert Fox, Shooting Gallery</name>
+		<desc>Videocart-2 features two game programs.
+
+Desert Fox. In this game you control one of two tanks engaged in a battle. The goal is to earn as many points as possible by shooting your opponent. On the game screen there are two barriers and five mines. The tanks can not shoot through the barriers or mines making them ideal for cover. The tanks can drive through the barriers, but attempting to drive through a mine will cause your tank to explode awarding your opponent a point.
+
+Shooting Gallery. In this game you control a rifle on the left side of the screen and need to hit a target on the right side of the screen. The goal is to earn as many points as possible by hitting the target with as few misses as possible. You can play with no time limit at an average speed, or increase the challenge by adding a time limit and increasing the game speed. This game can also be played by two players to see who can score the most hits.</desc>
+		<image>./media/screenshots/Desert Fox, Shooting Gallery (USA).png</image>
+		<video>./media/videos/Desert Fox, Shooting Gallery (USA).mp4</video>
+		<marquee>./media/marquees/Desert Fox, Shooting Gallery (USA).png</marquee>
+		<thumbnail>./images/Desert Fox, Shooting Gallery (USA)-thumb.png</thumbnail>
+		<manual>./manuals/Desert Fox, Shooting Gallery (USA)-manual.pdf</manual>
+		<boxback>./images/Desert Fox, Shooting Gallery (USA)-boxback.png</boxback>
+		<rating>0.4</rating>
+		<releasedate>19760101T000000</releasedate>
+		<developer>Fairlight</developer>
+		<publisher>Fairlight</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<kidgame>true</kidgame>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>4f11f13cbca685cb20e888f87b3b1586</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T193838" />
+	</game>
+	<game id="46508">
+		<path>./No-Intro/Dodge It (USA).bin</path>
+		<name>Videocart-16: Dodge-It</name>
+		<desc>Dodge-it is a take on the game of Dodgeball. The player is trapped inside a playfield and has to dodge a ball that continuously keeps bouncing of the sides of the playfield. The longer the player is able to dodge the ball, the more points are earned. After a certain amount of points are earned, another ball enters the playfield thus making the player have to dodge two balls. More balls keep getting added at fixed intervals after that until a total of 9 balls enter the playfield. The game ends when the player is finally hit by the ball.
+
+In the 2 player game, both players are put into the same playfield and try to outlast the other player in not trying to get hit by the balls being thrown by the computer.
+
+The game features random variations in the gameplay, such as having different sized playfields, ball sizes and speeds, and changing the players size and speed.
+
+The game features four different modes which are either a 1 or 2 player Amateur mode or a 1 or 2 player Pro mode.</desc>
+		<image>./media/screenshots/Dodge It (USA).png</image>
+		<video>./media/videos/Dodge It (USA).mp4</video>
+		<marquee>./media/marquees/Dodge It (USA).png</marquee>
+		<thumbnail>./images/Dodge It (USA)-thumb.png</thumbnail>
+		<boxback>./images/Dodge It (USA)-boxback.png</boxback>
+		<rating>0.7</rating>
+		<releasedate>19780101T000000</releasedate>
+		<developer>Fairlight</developer>
+		<publisher>Fairlight</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<kidgame>true</kidgame>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>6ffedaed3c5cd8ba74d98901849cc451</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T193840" />
+	</game>
+	<game id="46527">
+		<path>./No-Intro/Drag Race (USA).bin</path>
+		<name>Videocart-9: Drag Strip</name>
+		<desc>This drag racing simulator makes use of the Channel F's special controllers. While twisting the joystick's head to the left or right controls the engine throttle, the stick movement itself is used to shift gears in a realistic H-pattern.
+
+Depending on the chosen skill level the car available is a family sedan, a modified sedan, a funny car, or a real dragster, although they all look the same on screen. One player can try to beat the predefined par time of 7.7 seconds, or compete against a friend to see who reaches the finish line first. The game manual mentions that a player only wins the game when he brings his victory counter to 99.</desc>
+		<image>./media/screenshots/Drag Race (USA).png</image>
+		<video>./media/videos/Drag Race (USA).mp4</video>
+		<marquee>./media/marquees/Drag Race (USA).png</marquee>
+		<thumbnail>./images/Drag Race (USA)-thumb.png</thumbnail>
+		<manual>./manuals/Drag Race (USA)-manual.pdf</manual>
+		<boxback>./images/Drag Race (USA)-boxback.png</boxback>
+		<rating>0.4</rating>
+		<releasedate>19770101T000000</releasedate>
+		<developer>Fairlight</developer>
+		<publisher>Fairlight</publisher>
+		<genre>Race, Driving</genre>
+		<players>1-2</players>
+		<kidgame>true</kidgame>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>f80af74b09d058b90e719bb7dfbdd50e</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T193843" />
+	</game>
+	<game id="46516">
+		<path>./No-Intro/Galactic Space Wars, Lunar Lander (USA).bin</path>
+		<name>Videocart-23: Galactic Space Wars, Lunar Lander</name>
+		<desc>This game cart contains 2 space themed games.
+
+In Galactic Space Wars, players take control of a fighter spacecraft to find and destroy enemy spacecrafts. Players take a first person perspective from inside the cockpit of the spacecraft to search the vast area of space. Once an enemy craft is located, players try to quickly scroll the ship into their lasers sight. If the enemy stays on the screen too long, it will fire at the player's ship. The player has a limited amount of time to destroy as many ships as possible and not get hit.
+
+Lunar Lander seems to have been inspired by the same titled arcade game. Players pilot a lunar lander and attempt to have a soft landing. The lander only has a certain amount of fuel to maneuver around with thus adding to the challenge. The key is to gently and smoothly lower the lander onto the platform, as coming down too fast or missing the platform crashes the lunar lander. The objective is to land the craft in the least amount of time possible.</desc>
+		<image>./media/screenshots/Galactic Space Wars, Lunar Lander (USA).png</image>
+		<video>./media/videos/Galactic Space Wars, Lunar Lander (USA).mp4</video>
+		<marquee>./media/marquees/Galactic Space Wars, Lunar Lander (USA).png</marquee>
+		<thumbnail>./images/Galactic Space Wars, Lunar Lander (USA)-thumb.png</thumbnail>
+		<manual>./manuals/Galactic Space Wars, Lunar Lander (USA)-manual.pdf</manual>
+		<boxback>./images/Galactic Space Wars, Lunar Lander (USA)-boxback.png</boxback>
+		<rating>0.5</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Fairlight</developer>
+		<publisher>Zircon Software</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<kidgame>true</kidgame>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>9e0711b140e22729687db1e1354980ab</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T193845" />
+	</game>
+	<game id="46510">
+		<path>./No-Intro/Hangman (USA).bin</path>
+		<name>Videocart-18: Hangman</name>
+		<desc>This game lets the player play the classic game of Hangman, in which the player is given an unknown word of a certain length and has to guess the correct letters that are contained in it. The player is only allowed a certain number of guesses. Every incorrect guess will add a body part to a drawing of a man being hanged at the gallows. Once all the man's body parts are drawn from several incorrect guesses, he is hanged and the player loses.
+
+The game contains 64 variations of this basic premise for either 1 or 2 players, with or without a score. Variations include having the computer come up with a word, have a player come up with a word for another player to solve, giving the player one of the letters in the word to help them get started, telling the player the letter belongs to the word but not where, not tolling how long the word is, having the player guess the correct letter and place it where it belongs in a word, and a variation where the player has to solve an anagram.</desc>
+		<image>./media/screenshots/Hangman (USA).png</image>
+		<video>./media/videos/Hangman (USA).mp4</video>
+		<marquee>./media/marquees/Hangman (USA).png</marquee>
+		<thumbnail>./images/Hangman (USA)-thumb.png</thumbnail>
+		<boxback>./images/Hangman (USA)-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>19780101T000000</releasedate>
+		<developer>Fairlight</developer>
+		<publisher>Fairlight</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1-2</players>
+		<kidgame>true</kidgame>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>0124cd0b61df5502aabd59029ccb6d5a</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T193848" />
+	</game>
+	<game id="46526">
+		<path>./No-Intro/Magic Numbers - Mind Reader + Nim (USA).bin</path>
+		<name>Videocart-8: Magic Numbers</name>
+		<desc>Videocart-8 contains two traditional number games.
+
+Mind Reader is a numerical version of the popular combination guessing game Master Mind. The console chooses a random number and the player is given 20 chances to guess it. After every guess, the display shows how many numbers were correctly placed, and how many numbers are correct but in the wrong spot. Every wrong guess increases the computer's score, and finding the code increases the player's score. The game can be played with a time limit instead of a limited number of guesses.
+
+Nim is a single-player adaptation of a traditional 2-player number game. Depending on the options, there are some piles on screen with a certain number of elements. The player and the console take turns at removing arbitrary numbers of elements from the piles. They have to remove at least 1 element and only from one pile in any turn. The side that gets to remove the last element wins the round. The game can also be played with a time limit.</desc>
+		<image>./media/screenshots/Magic Numbers - Mind Reader + Nim (USA).png</image>
+		<video>./media/videos/Magic Numbers - Mind Reader + Nim (USA).mp4</video>
+		<marquee>./media/marquees/Magic Numbers - Mind Reader + Nim (USA).png</marquee>
+		<thumbnail>./images/Magic Numbers - Mind Reader + Nim (USA)-thumb.png</thumbnail>
+		<boxback>./images/Magic Numbers - Mind Reader + Nim (USA)-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>19770101T000000</releasedate>
+		<developer>Fairlight</developer>
+		<publisher>Fairlight</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<kidgame>true</kidgame>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>4c10fa5c7316c59efa241043fc67dfa8</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T193850" />
+	</game>
+	<game id="46524">
+		<path>./No-Intro/Math Quiz I - Addition + Subtraction (USA).bin</path>
+		<name>Videocart-6: Math Quiz I</name>
+		<desc>Videocart-6 is a math game which focuses on addition and subtraction. The game presents a series of problems to solve; using the controller you need enter in the correct answer. A correct answer earns a point; if you enter an incorrect answer you are then given a second chance. Answer incorrectly a second time and then a point is given to the computer which will also show you how to solve the problem. These are the only variations featured within the game itself, however the instruction manual includes a variety of suggestions for games that can be played by two or more players. These include Mathematical Chairs (two players take turns seeing who can answer the most problems in a row), Math Maze (the manual features a maze drawn on a grid; answer a question correctly and you can move that many spaces), Hang Math (a variation of hang man), Up to 1000 (answer problems correctly to add the value to your score; try to end up with 1000 points without going over), and several more.</desc>
+		<image>./media/screenshots/Math Quiz I - Addition + Subtraction (USA).png</image>
+		<video>./media/videos/Math Quiz I - Addition + Subtraction (USA).mp4</video>
+		<marquee>./media/marquees/Math Quiz I - Addition + Subtraction (USA).png</marquee>
+		<thumbnail>./images/Math Quiz I - Addition + Subtraction (USA)-thumb.png</thumbnail>
+		<manual>./manuals/Math Quiz I - Addition + Subtraction (USA)-manual.pdf</manual>
+		<boxback>./images/Math Quiz I - Addition + Subtraction (USA)-boxback.png</boxback>
+		<rating>0.45</rating>
+		<releasedate>19770101T000000</releasedate>
+		<developer>Fairlight</developer>
+		<publisher>Fairlight</publisher>
+		<genre>Educational</genre>
+		<players>1</players>
+		<kidgame>true</kidgame>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>a8e6103fcae4d0f9e14d9edcfc3fc493</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T193852" />
+	</game>
+	<game id="46525">
+		<path>./No-Intro/Math Quiz II - Multiplication + Division (USA).bin</path>
+		<name>Videocart-7: Math Quiz II</name>
+		<desc>Videocart-7 contains the second and last part of the Math Quiz series started with Videocart-6. While the first part lets the players train addition and subtraction, Math Quiz II deals with multiplication and division.
+
+Once again, the game presents the player with a series of problems, simple multiplications in the first game variation, and simple divisions in the second. The results have to be entered using the controller. If the answer is correct, a point will be added to the left counter. After entering a wrong answer, the player gets another chance to correct the result. If it is wrong again, the right counter will be increased, counting the mistakes made so far.</desc>
+		<image>./media/screenshots/Math Quiz II - Multiplication + Division (USA).png</image>
+		<video>./media/videos/Math Quiz II - Multiplication + Division (USA).mp4</video>
+		<marquee>./media/marquees/Math Quiz II - Multiplication + Division (USA).png</marquee>
+		<thumbnail>./images/Math Quiz II - Multiplication + Division (USA)-thumb.png</thumbnail>
+		<manual>./manuals/Math Quiz II - Multiplication + Division (USA)-manual.pdf</manual>
+		<boxback>./images/Math Quiz II - Multiplication + Division (USA)-boxback.png</boxback>
+		<rating>0.5</rating>
+		<releasedate>19770101T000000</releasedate>
+		<developer>Fairlight</developer>
+		<publisher>Fairlight</publisher>
+		<genre>Educational</genre>
+		<players>1</players>
+		<kidgame>true</kidgame>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>86b77eafdf7b806e19e01724987e384f</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T193855" />
+	</game>
+	<game id="46502">
+		<path>./No-Intro/Maze, Jailbreak, Blind-man's-bluff, Trailblazer (USA) (Alt 1).bin</path>
+		<name>Videocart-10: Maze -Jailbreak - Blind Man's Bluff - Trailblazer</name>
+		<desc>Poor little mice, doomed to run around in a maze and escape as quickly as they can.  As if that's not enough, the owner's of this maze pit you against a friend to see who will escape first.  And then the diabolical owners take it one step further and add a cat to the maze mix -- forcing you not only to escape first, but escape alive!
+
+This game contains a few variations:  A straight maze run, a jailbreak maze (break through each square), an invisible maze, and a hidden maze (eat your way through I guess).  In all the variations you can choose between 1-4 speeds and/or throw the cat in the maze for an extra challenge.</desc>
+		<image>./media/screenshots/Maze, Jailbreak, Blind-man's-bluff, Trailblazer (USA) (Alt 1).png</image>
+		<video>./media/videos/Maze, Jailbreak, Blind-man's-bluff, Trailblazer (USA) (Alt 1).mp4</video>
+		<marquee>./media/marquees/Maze, Jailbreak, Blind-man's-bluff, Trailblazer (USA) (Alt 1).png</marquee>
+		<thumbnail>./images/Maze, Jailbreak, Blind-man's-bluff, Trailblazer (USA) (Alt 1)-thumb.png</thumbnail>
+		<manual>./manuals/Maze, Jailbreak, Blind-man's-bluff, Trailblazer (USA) (Alt 1)-manual.pdf</manual>
+		<boxback>./images/Maze, Jailbreak, Blind-man's-bluff, Trailblazer (USA) (Alt 1)-boxback.png</boxback>
+		<rating>0.3</rating>
+		<releasedate>19770101T000000</releasedate>
+		<developer>Fairlight</developer>
+		<publisher>Fairlight</publisher>
+		<genre>Action / Labyrinth</genre>
+		<players>1-2</players>
+		<kidgame>true</kidgame>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>53e4cc2da0f2c167e0692b794cb7692c</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T193857" />
+	</game>
+	<game id="46502">
+		<path>./No-Intro/Maze, Jailbreak, Blind-man's-bluff, Trailblazer (USA).bin</path>
+		<name>Videocart-10: Maze -Jailbreak - Blind Man's Bluff - Trailblazer</name>
+		<desc>Poor little mice, doomed to run around in a maze and escape as quickly as they can.  As if that's not enough, the owner's of this maze pit you against a friend to see who will escape first.  And then the diabolical owners take it one step further and add a cat to the maze mix -- forcing you not only to escape first, but escape alive!
+
+This game contains a few variations:  A straight maze run, a jailbreak maze (break through each square), an invisible maze, and a hidden maze (eat your way through I guess).  In all the variations you can choose between 1-4 speeds and/or throw the cat in the maze for an extra challenge.</desc>
+		<image>./media/screenshots/Maze, Jailbreak, Blind-man's-bluff, Trailblazer (USA).png</image>
+		<video>./media/videos/Maze, Jailbreak, Blind-man's-bluff, Trailblazer (USA).mp4</video>
+		<marquee>./media/marquees/Maze, Jailbreak, Blind-man's-bluff, Trailblazer (USA).png</marquee>
+		<thumbnail>./images/Maze, Jailbreak, Blind-man's-bluff, Trailblazer (USA)-thumb.png</thumbnail>
+		<manual>./manuals/Maze, Jailbreak, Blind-man's-bluff, Trailblazer (USA)-manual.pdf</manual>
+		<boxback>./images/Maze, Jailbreak, Blind-man's-bluff, Trailblazer (USA)-boxback.png</boxback>
+		<rating>0.3</rating>
+		<releasedate>19770101T000000</releasedate>
+		<developer>Fairlight</developer>
+		<publisher>Fairlight</publisher>
+		<genre>Action / Labyrinth</genre>
+		<players>1-2</players>
+		<kidgame>true</kidgame>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>6565df74539476d66fd78de1bac0259c</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T193859" />
+	</game>
+	<game id="46507">
+		<path>./No-Intro/Memory Match 1 &amp; 2 (USA).bin</path>
+		<name>Videocart-15: Memory Match</name>
+		<desc>Memory Match is a game where the player is given the task of flipping over cards two at a time in the hopes of having them match. If the cards match, they disappear from the playfield. If they don't match, the cards are flipped back over face down again and the player tries again. The better the player is at memorizing where the overturned cards were, the easier it will be for them to find a match.
+
+The game contains 4 variations of its basic premise. The Memory Match 1 variations offer a smaller grid thus making it an easier mode for the player(s).
+
+Memory Match 1:
+Cipher-24 (6x4 grid with numbers) 
+Symbol-24 (6x4 grid with symbols)
+
+Memory Match 2:
+Super Cipher-40 (10x4 grid with numbers)
+Super symbol-40 (10x4 grid with symbols) 
+
+The game offers both a 1 player and 2 player mode. In the 1 player game, the player tries to clear the board in the fewest amount of guesses. In the 2 player game, both players try to get more matches than their opponent.</desc>
+		<image>./media/screenshots/Memory Match 1 &amp; 2 (USA).png</image>
+		<video>./media/videos/Memory Match 1 &amp; 2 (USA).mp4</video>
+		<marquee>./media/marquees/Memory Match 1 &amp; 2 (USA).png</marquee>
+		<thumbnail>./images/Memory Match 1 &amp; 2 (USA)-thumb.png</thumbnail>
+		<manual>./manuals/Memory Match 1 &amp; 2 (USA)-manual.pdf</manual>
+		<boxback>./images/Memory Match 1 &amp; 2 (USA)-boxback.png</boxback>
+		<rating>0.4</rating>
+		<releasedate>19780101T000000</releasedate>
+		<developer>Fairlight</developer>
+		<publisher>Fairlight</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1-2</players>
+		<kidgame>true</kidgame>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>2b3ca549e27579e4519a765fd8f52d0f</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T193901" />
+	</game>
+	<game id="46509">
+		<path>./No-Intro/Pinball Challenge (USA) (Alt 1).bin</path>
+		<name>Videocart-17: Pinball Challenge</name>
+		<desc>Although the title of the game may indicate a pinball game, it is actually a game more inspired by Breakout. The basic gameplay features the player bouncing a ball off of a paddle into a wall of bricks, chipping them off one brick at a time. Each brick destroyed earns the player points depending on its color. Once the ball bounces off the wall of bricks, its up to the player to maneuver the paddle under the falling ball in order to hit it back up into the wall of bricks. 
+
+
+The player loses a life if they miss a ball with their paddle and the ball falls into the abyss. The game ends when the player loses 7 balls. To keep up with the pinball motif, the wall of bricks are referred to as different colored skill lanes, the walls on the side as side rails, and the paddle as a flipper. The game offers 132 variations of this gameplay idea, including variations with different sized paddles, ball speeds, invisible bricks, and even one where the paddle shrinks when the ball is hit.</desc>
+		<image>./media/screenshots/Pinball Challenge (USA) (Alt 1).png</image>
+		<video>./media/videos/Pinball Challenge (USA) (Alt 1).mp4</video>
+		<marquee>./media/marquees/Pinball Challenge (USA) (Alt 1).png</marquee>
+		<thumbnail>./images/Pinball Challenge (USA) (Alt 1)-thumb.png</thumbnail>
+		<boxback>./images/Pinball Challenge (USA) (Alt 1)-boxback.png</boxback>
+		<rating>0.6</rating>
+		<releasedate>19780101T000000</releasedate>
+		<developer>Fairlight</developer>
+		<publisher>Fairlight</publisher>
+		<genre>Action / Breakout games</genre>
+		<players>1-2</players>
+		<kidgame>true</kidgame>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>5cbcda1c44f0dad02b0dfe209b6325d5</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T193904" />
+	</game>
+	<game id="46509">
+		<path>./No-Intro/Pinball Challenge (USA).bin</path>
+		<name>Videocart-17: Pinball Challenge</name>
+		<desc>Although the title of the game may indicate a pinball game, it is actually a game more inspired by Breakout. The basic gameplay features the player bouncing a ball off of a paddle into a wall of bricks, chipping them off one brick at a time. Each brick destroyed earns the player points depending on its color. Once the ball bounces off the wall of bricks, its up to the player to maneuver the paddle under the falling ball in order to hit it back up into the wall of bricks. 
+
+
+The player loses a life if they miss a ball with their paddle and the ball falls into the abyss. The game ends when the player loses 7 balls. To keep up with the pinball motif, the wall of bricks are referred to as different colored skill lanes, the walls on the side as side rails, and the paddle as a flipper. The game offers 132 variations of this gameplay idea, including variations with different sized paddles, ball speeds, invisible bricks, and even one where the paddle shrinks when the ball is hit.</desc>
+		<image>./media/screenshots/Pinball Challenge (USA).png</image>
+		<video>./media/videos/Pinball Challenge (USA).mp4</video>
+		<marquee>./media/marquees/Pinball Challenge (USA).png</marquee>
+		<thumbnail>./images/Pinball Challenge (USA)-thumb.png</thumbnail>
+		<boxback>./images/Pinball Challenge (USA)-boxback.png</boxback>
+		<rating>0.6</rating>
+		<releasedate>19780101T000000</releasedate>
+		<developer>Fairlight</developer>
+		<publisher>Fairlight</publisher>
+		<genre>Action / Breakout games</genre>
+		<players>1-2</players>
+		<kidgame>true</kidgame>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>e90339b7068c6227d54f3c0ca637e017</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T193906" />
+	</game>
+	<game id="46517">
+		<path>./No-Intro/Pro Football (USA).bin</path>
+		<name>Videocart-24: Pro Football</name>
+		<desc>This is a 2 player American Football game played on a horizontal football field. Players take control of a 6 player team and play both offense and defense against an opposing player's team with the objective to outscore their opponent. There are 8 offensive and 8 defensive plays for a total of 16 different plays to call.  On offense, the player can either pass the ball or run using the quarterback to try to score a touchdown. Also available is the option to kick a field goal to score points. On defense, players can have linebackers blitz or try to defend the pass from being completed.
+
+The game contains four different game speeds which are slowest, slow, fast, and fastest.</desc>
+		<image>./media/screenshots/Pro Football (USA).png</image>
+		<video>./media/videos/Pro Football (USA).mp4</video>
+		<marquee>./media/marquees/Pro Football (USA).png</marquee>
+		<thumbnail>./images/Pro Football (USA)-thumb.png</thumbnail>
+		<boxback>./images/Pro Football (USA)-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Fairlight</developer>
+		<publisher>Zircon Software</publisher>
+		<genre>Sports / Football</genre>
+		<players>2</players>
+		<kidgame>true</kidgame>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>9a894d745356a050f95410983c3bc54a</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T193908" />
+	</game>
+	<game id="46505">
+		<path>./No-Intro/Robot War, Torpedo Alley (USA).bin</path>
+		<name>Videocart-13: Robot War, Torpedo Alley</name>
+		<desc>The hunter or the hunted. Choose between these 1 or 2 player action games. ROBOT WAR: The space station computer has gone haywire - four robots are on the hunt and you're in! Take them to one of the electrified force fields and short-circuit their calculated plans! TORPEDO ALLEY: Play against the clock or take on another gunner - take off with your ground battery and "deep six" the invading fleet!</desc>
+		<image>./media/screenshots/Robot War, Torpedo Alley (USA).png</image>
+		<video>./media/videos/Robot War, Torpedo Alley (USA).mp4</video>
+		<marquee>./media/marquees/Robot War, Torpedo Alley (USA).png</marquee>
+		<thumbnail>./images/Robot War, Torpedo Alley (USA)-thumb.png</thumbnail>
+		<manual>./manuals/Robot War, Torpedo Alley (USA)-manual.pdf</manual>
+		<boxback>./images/Robot War, Torpedo Alley (USA)-boxback.png</boxback>
+		<rating>0.6</rating>
+		<releasedate>19770101T000000</releasedate>
+		<developer>Fairlight</developer>
+		<publisher>Fairlight</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<players>1-2</players>
+		<kidgame>true</kidgame>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>3783b6ac359e21b99cfa17773aa811c6</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T193910" />
+	</game>
+	<game id="46515">
+		<path>./No-Intro/Slot Machine (USA).bin</path>
+		<name>Videocart-22: Slot Machine</name>
+		<desc>This game attempts to simulate a slot machine. The player can choose their starting purse (from $1 up to $99 in one dollar or $10 increments) and then choose how much they want to bet on each spin of the slot reels.  Each bet can be either for 5¢,10¢,25¢, or 50¢.
+
+The game offers two modes. Random Play mode lets the wheel spin and then stop randomly and the Select Play mode lets the player stop each wheel one at a time when it's spinning.</desc>
+		<image>./media/screenshots/Slot Machine (USA).png</image>
+		<video>./media/videos/Slot Machine (USA).mp4</video>
+		<marquee>./media/marquees/Slot Machine (USA).png</marquee>
+		<thumbnail>./images/Slot Machine (USA)-thumb.png</thumbnail>
+		<boxback>./images/Slot Machine (USA)-boxback.png</boxback>
+		<rating>0.2</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Fairlight</developer>
+		<publisher>Zircon Software</publisher>
+		<genre>Casino / Slot machine</genre>
+		<players>1</players>
+		<kidgame>true</kidgame>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>dfb66ee145fab65062fdeadafc8dc34c</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T193913" />
+	</game>
+	<game id="46506">
+		<path>./No-Intro/Sonar Search (USA).bin</path>
+		<name>Videocart-14: Sonar Search</name>
+		<desc>Sonar Search features the basic gameplay idea of Battleship, but with a unique twist. Instead of trying to randomly guess what grid an opponent's battleship is on, after the player takes a shot, the player will hear a  sonar ping noise. The shorter the noise, the closer the player is to hitting a target.
+
+In the 1 player game, the player has a limited number of chances to sink the enemy fleet of ships, while in the 2 player game,  players take turns trying to sink their opponents ships before  having their own ships sunk.</desc>
+		<image>./media/screenshots/Sonar Search (USA).png</image>
+		<video>./media/videos/Sonar Search (USA).mp4</video>
+		<marquee>./media/marquees/Sonar Search (USA).png</marquee>
+		<thumbnail>./images/Sonar Search (USA)-thumb.png</thumbnail>
+		<manual>./manuals/Sonar Search (USA)-manual.pdf</manual>
+		<boxback>./images/Sonar Search (USA)-boxback.png</boxback>
+		<rating>0.7</rating>
+		<releasedate>19770101T000000</releasedate>
+		<developer>Fairlight</developer>
+		<publisher>Fairlight</publisher>
+		<genre>Strategy</genre>
+		<players>1-2</players>
+		<kidgame>true</kidgame>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>4cb12edae37df23851884b82ca410754</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T193915" />
+	</game>
+	<game id="46523">
+		<path>./No-Intro/Space War (USA).bin</path>
+		<name>Videocart-5: Space War</name>
+		<desc>Videocart-5: Space War is an action game where two players each control spaceships. The goal is to destroy your opponents ship by depleting its energy supply; success will earn you a point. Each ship is capable of flying anywhere on the screen and is also equipped with lasers for attacking your opponent. At the beginning of the game each spaceship has 90 energy units; when no energy is left that  ship will be destroyed. Energy can be depleted in two ways: 2 points are used up every time you fire your lasers, and 5 points are lost if hit by enemy laser fire. Should your energy level drop to 10 points or less, you will be unable to fire your lasers; this prevents you from accidentally obliterating your own spaceship! Energy units can be replenished by flying through one of the two starbases located at opposite ends of the screen.</desc>
+		<image>./media/screenshots/Space War (USA).png</image>
+		<video>./media/videos/Space War (USA).mp4</video>
+		<marquee>./media/marquees/Space War (USA).png</marquee>
+		<thumbnail>./images/Space War (USA)-thumb.png</thumbnail>
+		<manual>./manuals/Space War (USA)-manual.pdf</manual>
+		<boxback>./images/Space War (USA)-boxback.png</boxback>
+		<rating>0.4</rating>
+		<releasedate>19770101T000000</releasedate>
+		<developer>Fairlight</developer>
+		<publisher>Fairlight</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>2</players>
+		<kidgame>true</kidgame>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>32cca8ff09041a39251d7aade21ee22f</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T193917" />
+	</game>
+	<game id="46522">
+		<path>./No-Intro/Spitfire (USA).bin</path>
+		<name>Videocart-4: Spitfire</name>
+		<desc>Videocart-4 features the action game Spitfire. This is an aerial dogfighting game that pits the Red Baron against the Blue Max. The goal is to try to shoot down your opponent to score a point, and the player with the most points wins. Viewed from the side, your bi-planes have the freedom to fly anywhere on the screen; the screen wraps, so if you fly off of one side you will appear again on the other side. You can also hide just off screen to attempt to sneak up on an opponent; be careful, even though you may not be visible you are still vulnerable to attacks! The game can be played by two players against each other, or one player against the computer. When playing against the computer, the computer's skill level will vary throughout the game; the more times you are successful in shooting down the computer, the more its skill level will increase! However the more the computer shoots you down, the more its skill level will decrease.</desc>
+		<image>./media/screenshots/Spitfire (USA).png</image>
+		<video>./media/videos/Spitfire (USA).mp4</video>
+		<marquee>./media/marquees/Spitfire (USA).png</marquee>
+		<thumbnail>./images/Spitfire (USA)-thumb.png</thumbnail>
+		<manual>./manuals/Spitfire (USA)-manual.pdf</manual>
+		<boxback>./images/Spitfire (USA)-boxback.png</boxback>
+		<rating>0.45</rating>
+		<releasedate>19770101T000000</releasedate>
+		<developer>Fairlight</developer>
+		<publisher>Fairlight</publisher>
+		<genre>Shooter / Plane, 3rd person</genre>
+		<players>1-2</players>
+		<kidgame>true</kidgame>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>1b409fe1154584f4d1ab76b344a73d99</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T193919" />
+	</game>
+	<game id="46512">
+		<path>./No-Intro/Tic-Tac-Toe, Shooting Gallery, Doodle, Quadra-Doodle (USA).bin</path>
+		<name>Videocart-1: Tic-Tac-Toe, Shooting Gallery, Doodle</name>
+		<desc>Videocart-1 features 4 different programs.
+
+Tic-Tac-Toe. A computerized version of the popular game. You play the X's and the computer the O's; taking turns your goal is the place three X's on the 3x3 grid before the computer. You always get to move first.
+
+Shooting Gallery. In this game, for 1 or 2 players, you control a rifle and need to hit a target on the other side of the screen. The goal is to hit the target with as few misses as possible. You can play with or without a time limit and at different speeds.
+
+Doodle. This is a drawing program. Using the controller you can draw any picture you like on the screen. There are five different line sizes and three available colors.
+
+Quadra-Doodle. Here the computer will draw random patterns influenced by the player, such as changing the colors used and the size of the lines. You can switch back and forth between Quadra-Doodle and Doodle, allowing you to draw on top of the generated image or the computer to draw on top of yours.</desc>
+		<image>./media/screenshots/Tic-Tac-Toe, Shooting Gallery, Doodle, Quadra-Doodle (USA).png</image>
+		<video>./media/videos/Tic-Tac-Toe, Shooting Gallery, Doodle, Quadra-Doodle (USA).mp4</video>
+		<marquee>./media/marquees/Tic-Tac-Toe, Shooting Gallery, Doodle, Quadra-Doodle (USA).png</marquee>
+		<thumbnail>./images/Tic-Tac-Toe, Shooting Gallery, Doodle, Quadra-Doodle (USA)-thumb.png</thumbnail>
+		<manual>./manuals/Tic-Tac-Toe, Shooting Gallery, Doodle, Quadra-Doodle (USA)-manual.pdf</manual>
+		<boxback>./images/Tic-Tac-Toe, Shooting Gallery, Doodle, Quadra-Doodle (USA)-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>19760101T000000</releasedate>
+		<developer>Fairlight</developer>
+		<publisher>Fairlight</publisher>
+		<genre>Casual Game</genre>
+		<players>1-2</players>
+		<kidgame>true</kidgame>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>7e5c26a6d1f9a90c68669a9800ba522d</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T193921" />
+	</game>
+	<game id="46521">
+		<path>./No-Intro/Video Blackjack (USA).bin</path>
+		<name>Videocart-3: Video Blackjack</name>
+		<desc>Videocart-3 features a computerized version of the card game blackjack. The game follows the typical blackjack rules; your goal is to get cards totaling as close to 21 as possible without going over. The computer acts as the dealer, and is required to hit on a 16 or 'soft 17' and is required to stay on a 'hard 17'. The game features a full 52 card deck, and the computer will automatically shuffle the deck if there are less than 16 cards left; optionally you can request the computer reshuffle the deck at any time. One or two players can play, each player beginning the game with $500. There is a minimum bet of $1 and a maximum bet of $99. In the two player game a player who has gone broke may optionally borrow $100 from the house to re-enter the game.</desc>
+		<image>./media/screenshots/Video Blackjack (USA).png</image>
+		<video>./media/videos/Video Blackjack (USA).mp4</video>
+		<marquee>./media/marquees/Video Blackjack (USA).png</marquee>
+		<thumbnail>./images/Video Blackjack (USA)-thumb.png</thumbnail>
+		<manual>./manuals/Video Blackjack (USA)-manual.pdf</manual>
+		<boxback>./images/Video Blackjack (USA)-boxback.png</boxback>
+		<rating>0.5</rating>
+		<releasedate>19760101T000000</releasedate>
+		<developer>Fairlight</developer>
+		<publisher>Fairlight</publisher>
+		<genre>Casino / Cards</genre>
+		<players>1-2</players>
+		<kidgame>true</kidgame>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>b074c867f235fb69ced96c6916673b45</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T193923" />
+	</game>
+	<game id="46513">
+		<path>./No-Intro/Video Whizball (USA).bin</path>
+		<name>Videocart-20: Video Whizball</name>
+		<desc>Video Whizball is a game where players control paddles to protect a goal from being entered by whizballs. To protect their goal, the player's paddle can fire missiles which can be aimed straight or angled. Missiles that hit whizballs can help propel in an opposite direction. If one of the missiles (or the whizballs) hit the player's or an opponent's paddle, they will temporarily disappear leaving their goal undefended. The game is won when one of the players gets to a selected score.
+
+The game contains 72 game variations of this basic premise, including having from 1 to 4 whizballs and 6 different game types. Game types are Basic where each whizball is worth 1 point, Basic Plus where players can guide the missile shots, Bonus where whizballs are worth 1 to 4 points each, Bonus Plus which adds guided missiles to the Bonus mode, Super Bonus where whizballs increase in value the longer they stay in play, and Super Bonus Plus which adds guided missile shots to the Super Bonus mode.</desc>
+		<image>./media/screenshots/Video Whizball (USA).png</image>
+		<video>./media/videos/Video Whizball (USA).mp4</video>
+		<marquee>./media/marquees/Video Whizball (USA).png</marquee>
+		<thumbnail>./images/Video Whizball (USA)-thumb.png</thumbnail>
+		<boxback>./images/Video Whizball (USA)-boxback.png</boxback>
+		<rating>0.7</rating>
+		<releasedate>19780101T000000</releasedate>
+		<developer>Fairlight</developer>
+		<publisher>Fairlight</publisher>
+		<genre>Shoot'em up / Horizontal</genre>
+		<players>1-2</players>
+		<kidgame>true</kidgame>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>90a9b3952568f91502a7088bfb0ae07e</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T193926" />
+	</game>
+	<game id="46528">
+		<path>./No-Intro/[BIOS] Fairchild Channel F (USA) (SL31253).bin</path>
+		<name>ZZZ(notgame):[bios] Fairchild Channel F</name>
+		<image>./media/screenshots/[BIOS] Fairchild Channel F (USA) (SL31253).png</image>
+		<rating>0</rating>
+		<hidden>true</hidden>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>ac9804d4c0e9d07e33472e3726ed15c3</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T193928" />
+	</game>
+	<game id="46528">
+		<path>./No-Intro/[BIOS] Fairchild Channel F (USA) (SL31254).bin</path>
+		<name>ZZZ(notgame):[bios] Fairchild Channel F</name>
+		<image>./media/screenshots/[BIOS] Fairchild Channel F (USA) (SL31254).png</image>
+		<rating>0</rating>
+		<hidden>true</hidden>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>da98f4bb3242ab80d76629021bb27585</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T193930" />
+	</game>
+	<game id="46528">
+		<path>./No-Intro/[BIOS] Fairchild Channel F (USA) (SL90025).bin</path>
+		<name>ZZZ(notgame):[bios] Fairchild Channel F</name>
+		<image>./media/screenshots/[BIOS] Fairchild Channel F (USA) (SL90025).png</image>
+		<rating>0</rating>
+		<hidden>true</hidden>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>95d339631d867c8f1d15a5f2ec26069d</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T193932" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/Test Controls (200x)(e5frog)(PD)/Test Controls (200x)(e5frog)(PD).bin</path>
+		<name>Test Controls (200x)(e5frog)(PD)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>f680225a38c3c4a66e30dbca8d351407</md5>
+		<scrap name="ScreenScraper" date="20230222T193934" />
+	</game>
+	<game>
+		<path>./TOSEC/Firmware/Fairchild VES &amp; Channel F BIOS (1976)(Fairchild)[b concatenated SL31253 &amp; SL31254]/Fairchild VES &amp; Channel F BIOS (1976)(Fairchild)[b concatenated SL31253 &amp; SL31254].bin</path>
+		<name>Fairchild VES &amp; Channel F BIOS (1976)(Fairchild)[b concatenated SL31253 &amp; SL31254]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>495aa78eefd90504a15e20dddcc4943f</md5>
+		<scrap name="ScreenScraper" date="20230222T193936" />
+	</game>
+	<game>
+		<path>./TOSEC/Firmware/Fairchild VES &amp; Channel F BIOS (1976)(Fairchild)[SL31253]/Fairchild VES &amp; Channel F BIOS (1976)(Fairchild)[SL31253].bin</path>
+		<name>Fairchild VES &amp; Channel F BIOS (1976)(Fairchild)[SL31253]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>ac9804d4c0e9d07e33472e3726ed15c3</md5>
+		<scrap name="ScreenScraper" date="20230222T193937" />
+	</game>
+	<game>
+		<path>./TOSEC/Firmware/Fairchild VES &amp; Channel F BIOS (1976)(Fairchild)[SL31254]/Fairchild VES &amp; Channel F BIOS (1976)(Fairchild)[SL31254].bin</path>
+		<name>Fairchild VES &amp; Channel F BIOS (1976)(Fairchild)[SL31254]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>da98f4bb3242ab80d76629021bb27585</md5>
+		<scrap name="ScreenScraper" date="20230222T193939" />
+	</game>
+	<game>
+		<path>./TOSEC/Firmware/Fairchild VES &amp; Channel F BIOS (1976)(Fairchild)[SL90025]/Fairchild VES &amp; Channel F BIOS (1976)(Fairchild)[SL90025].bin</path>
+		<name>Fairchild VES &amp; Channel F BIOS (1976)(Fairchild)[SL90025]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>95d339631d867c8f1d15a5f2ec26069d</md5>
+		<scrap name="ScreenScraper" date="20230222T193940" />
+	</game>
+	<game id="46519">
+		<path>./TOSEC/Games/Alien Invasion (1978)(Zircon)/Alien Invasion (1978)(Zircon).bin</path>
+		<name>Videocart-26: Alien Invasion</name>
+		<desc>This game is very similar to Space Invaders. The player controls a gun turret at the bottom of the screen. The turret can move both left and right and is able to shoot missiles. These missiles are used to shoot down the alien invaders which are moving back and forth in rows dropping missiles toward the player's gun turret. Each alien defeated earns the player points toward their score. Every once in a while, a spaceship will fly across the top of the screen and shooting it will give the player extra points. The goal of the game is to clear the screen of Alien Invaders and score as many points as possible. The game ends when the player loses all three of their lives.
+
+There are 10 game options that can be chosen with different number of players, player missiles and alien missiles. Players can also take turns or play simultaneously.</desc>
+		<image>./images/Alien Invasion (1978)(Zircon)-image.png</image>
+		<video>./videos/Alien Invasion (1978)(Zircon)-video.mp4</video>
+		<marquee>./images/Alien Invasion (1978)(Zircon)-marquee.png</marquee>
+		<thumbnail>./images/Alien Invasion (1978)(Zircon)-thumb.png</thumbnail>
+		<fanart>./images/Alien Invasion (1978)(Zircon)-fanart.jpg</fanart>
+		<boxback>./images/Alien Invasion (1978)(Zircon)-boxback.png</boxback>
+		<rating>0.6</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Fairlight</developer>
+		<publisher>Zircon Software</publisher>
+		<genre>Shooter / Space Invaders Like</genre>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>f7bf7d55a7660ffa80d08ad1ba903ff7</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193942" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/Backgammon + Acey-Ducey (1977)(Fairchild)/Backgammon + Acey-Ducey (1977)(Fairchild).bin</path>
+		<name>Backgammon + Acey-Ducey (1977)(Fairchild)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>d89b48ae8c906488caac2b2ae1d63d88</md5>
+		<scrap name="ScreenScraper" date="20230222T193944" />
+	</game>
+	<game id="46504">
+		<path>./TOSEC/Games/Baseball (1977)(Fairchild)/Baseball (1977)(Fairchild).bin</path>
+		<name>Videocart-12: Baseball</name>
+		<desc>Batter up!  Or, uhm... Stick-Men Up!?!   The game of baseball for your very own Fairchild Channel-F home videogame system.  Two players go head-to-head to see who is the King of the Diamond.
+
+One player takes to the field, the other grabs a bat and steps up to the plate.  The pitcher can throw fast, slow, and some wicked curves even at the last moment.  Luckily the single-button swing action makes hitting the ball fairly easy, even if getting a single is harder than hitting a double or home-run.</desc>
+		<image>./images/Baseball (1977)(Fairchild)-image.png</image>
+		<video>./videos/Baseball (1977)(Fairchild)-video.mp4</video>
+		<marquee>./images/Baseball (1977)(Fairchild)-marquee.png</marquee>
+		<thumbnail>./images/Baseball (1977)(Fairchild)-thumb.png</thumbnail>
+		<manual>./manuals/Baseball (1977)(Fairchild)-manual.pdf</manual>
+		<boxback>./images/Baseball (1977)(Fairchild)-boxback.png</boxback>
+		<rating>0.35</rating>
+		<releasedate>19770101T000000</releasedate>
+		<developer>Fairlight</developer>
+		<publisher>Fairlight</publisher>
+		<genre>Sports / Baseball</genre>
+		<players>2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>4fa83f734c139963aa02bdbb7a52e500</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193946" />
+	</game>
+	<game id="46514">
+		<path>./TOSEC/Games/Bowling (1978)(Fairchild)/Bowling (1978)(Fairchild).bin</path>
+		<name>Videocart-21: Bowling</name>
+		<desc>The object of the game is to knock down as many pins in 10 frames of bowling, The game gives the player an overhead view of a bowling lane. The player's bowling ball starts out moving back and forth across the front of the lane. This has the player trying to get the lane position they want the ball to start traveling down. Once the ball starts rolling down the lane, the player can curve the ball left or right. Once the curve has started, it can't be changed further.
+
+The game contains 18 game variations. They involve choosing the combination of number of players (1 or 2 players), playing either a regular or split game, and then choosing the speed of play (slow,normal,fast, and fastest).
+
+The regular game, just like it sounds like, is a regular game of bowling featuring the usual rules of play.
+
+The split game has each frame starting  with some combination of less than 10 pins. The player has 2 balls to knock down the remaining pins in each frame.</desc>
+		<image>./images/Bowling (1978)(Fairchild)-image.png</image>
+		<video>./videos/Bowling (1978)(Fairchild)-video.mp4</video>
+		<marquee>./images/Bowling (1978)(Fairchild)-marquee.png</marquee>
+		<thumbnail>./images/Bowling (1978)(Fairchild)-thumb.png</thumbnail>
+		<boxback>./images/Bowling (1978)(Fairchild)-boxback.png</boxback>
+		<rating>0.7</rating>
+		<releasedate>19780101T000000</releasedate>
+		<developer>Fairlight</developer>
+		<publisher>Fairlight</publisher>
+		<genre>Sports / Bowling</genre>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>25e231e7a464a32b4715bfb47af89240</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193949" />
+	</game>
+	<game id="46518">
+		<path>./TOSEC/Games/Casino Poker (1978)(Zircon)/Casino Poker (1978)(Zircon).bin</path>
+		<name>Videocart-25: Casino Poker</name>
+		<desc>This game features a simulation of the card game five-card draw poker. 3 players (either 1 or 2 can be human, the rest are controlled by the computer) are dealt five cards each. Players then take turns either calling or raising a bet (which can be up to $25), or if they don't like their cards they can fold. Once that round of betting is done players then can choose to discard up to three of their cards in exchange for three new cards in an attempt to make a better hand. Another round of betting then takes place and after that all the players that didn't fold their hands show their cards and whoever has the highest hand wins all the money in the pot.</desc>
+		<image>./images/Casino Poker (1978)(Zircon)-image.png</image>
+		<video>./videos/Casino Poker (1978)(Zircon)-video.mp4</video>
+		<marquee>./images/Casino Poker (1978)(Zircon)-marquee.png</marquee>
+		<thumbnail>./images/Casino Poker (1978)(Zircon)-thumb.png</thumbnail>
+		<boxback>./images/Casino Poker (1978)(Zircon)-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Fairlight</developer>
+		<publisher>Zircon Software</publisher>
+		<genre>Casino / Cards</genre>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>bb7f7bbbe21f142591cdcafa98d7f6e4</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193951" />
+	</game>
+	<game id="192443">
+		<path>./TOSEC/Games/Channel F Multi-Cart (2004)(Riddle, Sean)/Channel F Multi-Cart (2004)(Riddle, Sean).bin</path>
+		<name>ZZZ(notgame):Channel F Multi-cart</name>
+		<rating>0</rating>
+		<hidden>true</hidden>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>dfc3df32f9fb558a6e54928559d67fe7</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193953" />
+	</game>
+	<game id="192443">
+		<path>./TOSEC/Games/Channel F Multi-Cart (2004)(Riddle, Sean)[a]/Channel F Multi-Cart (2004)(Riddle, Sean)[a].bin</path>
+		<name>ZZZ(notgame):Channel F Multi-cart</name>
+		<rating>0</rating>
+		<hidden>true</hidden>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>0c8ae0e5776d48022f8d2b9642c6a197</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193955" />
+	</game>
+	<game id="46511">
+		<path>./TOSEC/Games/Checkers (1978)(Zircon)/Checkers (1978)(Zircon).bin</path>
+		<name>Videocart-19: Checkers</name>
+		<desc>This game features a playable version of the board game Checkers. Players control the 12 checkers at the bottom of the screen and attempt to remove the 12 checkers at the top of the screen which are controlled by a computer opponent. Players can only move their checkers diagonally toward their opponents side of the board. A checker can be jumped when two opposing checkers are next to each other and there is an empty space on the diagonal of the checker getting jumped. If a checker is put into a position of being able to be jumped it must be jumped. If a checker happens to reach the other side of the board, that checker is kinged and is allowed to move both back and forth in diagonal movements. The game is won by the player who removes all their opponents checkers from the board.</desc>
+		<image>./images/Checkers (1978)(Zircon)-image.png</image>
+		<video>./videos/Checkers (1978)(Zircon)-video.mp4</video>
+		<marquee>./images/Checkers (1978)(Zircon)-marquee.png</marquee>
+		<thumbnail>./images/Checkers (1978)(Zircon)-thumb.png</thumbnail>
+		<boxback>./images/Checkers (1978)(Zircon)-boxback.png</boxback>
+		<rating>0.7</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Fairlight</developer>
+		<publisher>Zircon Software</publisher>
+		<genre>Board game</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>35d61d40ef7ec337cba092aabac74dbd</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193958" />
+	</game>
+	<game id="46520">
+		<path>./TOSEC/Games/Desert Fox + Shooting Gallery (1976)(Fairchild)/Desert Fox + Shooting Gallery (1976)(Fairchild).bin</path>
+		<name>Videocart-2: Desert Fox, Shooting Gallery</name>
+		<desc>Videocart-2 features two game programs.
+
+Desert Fox. In this game you control one of two tanks engaged in a battle. The goal is to earn as many points as possible by shooting your opponent. On the game screen there are two barriers and five mines. The tanks can not shoot through the barriers or mines making them ideal for cover. The tanks can drive through the barriers, but attempting to drive through a mine will cause your tank to explode awarding your opponent a point.
+
+Shooting Gallery. In this game you control a rifle on the left side of the screen and need to hit a target on the right side of the screen. The goal is to earn as many points as possible by hitting the target with as few misses as possible. You can play with no time limit at an average speed, or increase the challenge by adding a time limit and increasing the game speed. This game can also be played by two players to see who can score the most hits.</desc>
+		<image>./images/Desert Fox + Shooting Gallery (1976)(Fairchild)-image.png</image>
+		<video>./videos/Desert Fox + Shooting Gallery (1976)(Fairchild)-video.mp4</video>
+		<marquee>./images/Desert Fox + Shooting Gallery (1976)(Fairchild)-marquee.png</marquee>
+		<thumbnail>./images/Desert Fox + Shooting Gallery (1976)(Fairchild)-thumb.png</thumbnail>
+		<manual>./manuals/Desert Fox + Shooting Gallery (1976)(Fairchild)-manual.pdf</manual>
+		<boxback>./images/Desert Fox + Shooting Gallery (1976)(Fairchild)-boxback.png</boxback>
+		<rating>0.4</rating>
+		<releasedate>19760101T000000</releasedate>
+		<developer>Fairlight</developer>
+		<publisher>Fairlight</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>4f11f13cbca685cb20e888f87b3b1586</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T194000" />
+	</game>
+	<game id="46508">
+		<path>./TOSEC/Games/Dodge-It (1978)(Fairchild)/Dodge-It (1978)(Fairchild).bin</path>
+		<name>Videocart-16: Dodge-It</name>
+		<desc>Dodge-it is a take on the game of Dodgeball. The player is trapped inside a playfield and has to dodge a ball that continuously keeps bouncing of the sides of the playfield. The longer the player is able to dodge the ball, the more points are earned. After a certain amount of points are earned, another ball enters the playfield thus making the player have to dodge two balls. More balls keep getting added at fixed intervals after that until a total of 9 balls enter the playfield. The game ends when the player is finally hit by the ball.
+
+In the 2 player game, both players are put into the same playfield and try to outlast the other player in not trying to get hit by the balls being thrown by the computer.
+
+The game features random variations in the gameplay, such as having different sized playfields, ball sizes and speeds, and changing the players size and speed.
+
+The game features four different modes which are either a 1 or 2 player Amateur mode or a 1 or 2 player Pro mode.</desc>
+		<image>./images/Dodge-It (1978)(Fairchild)-image.png</image>
+		<video>./videos/Dodge-It (1978)(Fairchild)-video.mp4</video>
+		<marquee>./images/Dodge-It (1978)(Fairchild)-marquee.png</marquee>
+		<thumbnail>./images/Dodge-It (1978)(Fairchild)-thumb.png</thumbnail>
+		<boxback>./images/Dodge-It (1978)(Fairchild)-boxback.png</boxback>
+		<rating>0.7</rating>
+		<releasedate>19780101T000000</releasedate>
+		<developer>Fairlight</developer>
+		<publisher>Fairlight</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>6ffedaed3c5cd8ba74d98901849cc451</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T194002" />
+	</game>
+	<game id="46527">
+		<path>./TOSEC/Games/Drag Race (1977)(Fairchild)/Drag Race (1977)(Fairchild).bin</path>
+		<name>Videocart-9: Drag Strip</name>
+		<desc>This drag racing simulator makes use of the Channel F's special controllers. While twisting the joystick's head to the left or right controls the engine throttle, the stick movement itself is used to shift gears in a realistic H-pattern.
+
+Depending on the chosen skill level the car available is a family sedan, a modified sedan, a funny car, or a real dragster, although they all look the same on screen. One player can try to beat the predefined par time of 7.7 seconds, or compete against a friend to see who reaches the finish line first. The game manual mentions that a player only wins the game when he brings his victory counter to 99.</desc>
+		<image>./images/Drag Race (1977)(Fairchild)-image.png</image>
+		<video>./videos/Drag Race (1977)(Fairchild)-video.mp4</video>
+		<marquee>./images/Drag Race (1977)(Fairchild)-marquee.png</marquee>
+		<thumbnail>./images/Drag Race (1977)(Fairchild)-thumb.png</thumbnail>
+		<manual>./manuals/Drag Race (1977)(Fairchild)-manual.pdf</manual>
+		<boxback>./images/Drag Race (1977)(Fairchild)-boxback.png</boxback>
+		<rating>0.4</rating>
+		<releasedate>19770101T000000</releasedate>
+		<developer>Fairlight</developer>
+		<publisher>Fairlight</publisher>
+		<genre>Race, Driving</genre>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>f80af74b09d058b90e719bb7dfbdd50e</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T194004" />
+	</game>
+	<game id="46518">
+		<path>./TOSEC/Games/Draw Poker (197x)(Zircon)(proto)/Draw Poker (197x)(Zircon)(proto).bin</path>
+		<name>Videocart-25: Casino Poker</name>
+		<desc>This game features a simulation of the card game five-card draw poker. 3 players (either 1 or 2 can be human, the rest are controlled by the computer) are dealt five cards each. Players then take turns either calling or raising a bet (which can be up to $25), or if they don't like their cards they can fold. Once that round of betting is done players then can choose to discard up to three of their cards in exchange for three new cards in an attempt to make a better hand. Another round of betting then takes place and after that all the players that didn't fold their hands show their cards and whoever has the highest hand wins all the money in the pot.</desc>
+		<image>./images/Draw Poker (197x)(Zircon)(proto)-image.png</image>
+		<video>./videos/Draw Poker (197x)(Zircon)(proto)-video.mp4</video>
+		<marquee>./images/Draw Poker (197x)(Zircon)(proto)-marquee.png</marquee>
+		<thumbnail>./images/Draw Poker (197x)(Zircon)(proto)-thumb.png</thumbnail>
+		<boxback>./images/Draw Poker (197x)(Zircon)(proto)-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Fairlight</developer>
+		<publisher>Zircon Software</publisher>
+		<genre>Casino / Cards</genre>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>06cd8cfe851390c92ac2b7c4d28d6b97</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T194007" />
+	</game>
+	<game id="192444">
+		<path>./TOSEC/Games/F8 of Nations (200x)(nycurt)(PD)/F8 of Nations (200x)(nycurt)(PD).bin</path>
+		<name>F8 Of Nations</name>
+		<image>./images/F8 of Nations (200x)(nycurt)(PD)-image.png</image>
+		<video>./videos/F8 of Nations (200x)(nycurt)(PD)-video.mp4</video>
+		<rating>0</rating>
+		<developer>nycurt</developer>
+		<genre>Casual Game</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>cd4f1532783b016a84b6dc85163ded2c</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T194009" />
+	</game>
+	<game id="192444">
+		<path>./TOSEC/Games/F8 of Nations (200x)(nycurt)(PD)[a]/F8 of Nations (200x)(nycurt)(PD)[a].bin</path>
+		<name>F8 Of Nations</name>
+		<image>./images/F8 of Nations (200x)(nycurt)(PD)[a]-image.png</image>
+		<video>./videos/F8 of Nations (200x)(nycurt)(PD)[a]-video.mp4</video>
+		<rating>0</rating>
+		<developer>nycurt</developer>
+		<genre>Casual Game</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>4e1ba63a395c10fb840b0562f85b78b9</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T194011" />
+	</game>
+	<game id="46517">
+		<path>./TOSEC/Games/Football (197x)(Zircon)(proto)/Football (197x)(Zircon)(proto).bin</path>
+		<name>Videocart-24: Pro Football</name>
+		<desc>This is a 2 player American Football game played on a horizontal football field. Players take control of a 6 player team and play both offense and defense against an opposing player's team with the objective to outscore their opponent. There are 8 offensive and 8 defensive plays for a total of 16 different plays to call.  On offense, the player can either pass the ball or run using the quarterback to try to score a touchdown. Also available is the option to kick a field goal to score points. On defense, players can have linebackers blitz or try to defend the pass from being completed.
+
+The game contains four different game speeds which are slowest, slow, fast, and fastest.</desc>
+		<image>./images/Football (197x)(Zircon)(proto)-image.png</image>
+		<video>./videos/Football (197x)(Zircon)(proto)-video.mp4</video>
+		<marquee>./images/Football (197x)(Zircon)(proto)-marquee.png</marquee>
+		<thumbnail>./images/Football (197x)(Zircon)(proto)-thumb.png</thumbnail>
+		<boxback>./images/Football (197x)(Zircon)(proto)-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Fairlight</developer>
+		<publisher>Zircon Software</publisher>
+		<genre>Sports / Football</genre>
+		<players>2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>819f06cfc48d7f38e756f82b22dcaf4d</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T194013" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/Galactic Space Wars + Luna Lander (1978)(Zircon)/Galactic Space Wars + Luna Lander (1978)(Zircon).bin</path>
+		<name>Galactic Space Wars + Luna Lander (1978)(Zircon)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>9e0711b140e22729687db1e1354980ab</md5>
+		<scrap name="ScreenScraper" date="20230222T194014" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/Glactic Space War (197x)(Zircon)(proto)/Glactic Space War (197x)(Zircon)(proto).bin</path>
+		<name>Glactic Space War (197x)(Zircon)(proto)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>5cccee534fd002af6eb4fcaaa6b95d88</md5>
+		<scrap name="ScreenScraper" date="20230222T194016" />
+	</game>
+	<game id="46510">
+		<path>./TOSEC/Games/Hangman (1978)(Fairchild)/Hangman (1978)(Fairchild).bin</path>
+		<name>Videocart-18: Hangman</name>
+		<desc>This game lets the player play the classic game of Hangman, in which the player is given an unknown word of a certain length and has to guess the correct letters that are contained in it. The player is only allowed a certain number of guesses. Every incorrect guess will add a body part to a drawing of a man being hanged at the gallows. Once all the man's body parts are drawn from several incorrect guesses, he is hanged and the player loses.
+
+The game contains 64 variations of this basic premise for either 1 or 2 players, with or without a score. Variations include having the computer come up with a word, have a player come up with a word for another player to solve, giving the player one of the letters in the word to help them get started, telling the player the letter belongs to the word but not where, not tolling how long the word is, having the player guess the correct letter and place it where it belongs in a word, and a variation where the player has to solve an anagram.</desc>
+		<image>./images/Hangman (1978)(Fairchild)-image.png</image>
+		<video>./videos/Hangman (1978)(Fairchild)-video.mp4</video>
+		<marquee>./images/Hangman (1978)(Fairchild)-marquee.png</marquee>
+		<thumbnail>./images/Hangman (1978)(Fairchild)-thumb.png</thumbnail>
+		<boxback>./images/Hangman (1978)(Fairchild)-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>19780101T000000</releasedate>
+		<developer>Fairlight</developer>
+		<publisher>Fairlight</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>0124cd0b61df5502aabd59029ccb6d5a</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T194019" />
+	</game>
+	<game id="46510">
+		<path>./TOSEC/Games/Hangman (1978)(Fairchild)[h]/Hangman (1978)(Fairchild)[h].bin</path>
+		<name>Videocart-18: Hangman</name>
+		<desc>This game lets the player play the classic game of Hangman, in which the player is given an unknown word of a certain length and has to guess the correct letters that are contained in it. The player is only allowed a certain number of guesses. Every incorrect guess will add a body part to a drawing of a man being hanged at the gallows. Once all the man's body parts are drawn from several incorrect guesses, he is hanged and the player loses.
+
+The game contains 64 variations of this basic premise for either 1 or 2 players, with or without a score. Variations include having the computer come up with a word, have a player come up with a word for another player to solve, giving the player one of the letters in the word to help them get started, telling the player the letter belongs to the word but not where, not tolling how long the word is, having the player guess the correct letter and place it where it belongs in a word, and a variation where the player has to solve an anagram.</desc>
+		<image>./images/Hangman (1978)(Fairchild)[h]-image.png</image>
+		<video>./videos/Hangman (1978)(Fairchild)[h]-video.mp4</video>
+		<marquee>./images/Hangman (1978)(Fairchild)[h]-marquee.png</marquee>
+		<thumbnail>./images/Hangman (1978)(Fairchild)[h]-thumb.png</thumbnail>
+		<boxback>./images/Hangman (1978)(Fairchild)[h]-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>19780101T000000</releasedate>
+		<developer>Fairlight</developer>
+		<publisher>Fairlight</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>533bac14de68fba49078eef8e9502dd2</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T194021" />
+	</game>
+	<game id="191771">
+		<path>./TOSEC/Games/Hockey + Tennis (1976)(Fairchild)[bios rip]/Hockey + Tennis (1976)(Fairchild)[bios rip].bin</path>
+		<name>Hockey And Tennis</name>
+		<desc>Fairchild's Channel F console comes with two built-in games.
+
+Hockey. An extended version of the Pong concept. Two players try to get the ball to land in their opponent's goal. The paddles can be moved not only up and down, but all across the playfield and even tilted to have the ball reflect in another direction. Players also have a goal keeper paddle that they can move between the poles. There are four ball speeds to choose from. Matches end when either one of the players reaches a score of 15, or after a time limit of 2, 5, 10, or 20 minutes. If the game ends in a tie, the players can decide to play 1 minute of overtime.
+
+Tennis. A simple Pong variant. Two players compete by passing back and forth a ball with paddles. If a player misses the ball, his opponent gets a point. In Tennis, the players can choose from 4 different game speeds. A round can be configured to end as soon as one player reaches a score of 15, or after a time limit of 2, 5, 10, or 20 minutes.</desc>
+		<image>./images/Hockey + Tennis (1976)(Fairchild)[bios rip]-image.png</image>
+		<video>./videos/Hockey + Tennis (1976)(Fairchild)[bios rip]-video.mp4</video>
+		<marquee>./images/Hockey + Tennis (1976)(Fairchild)[bios rip]-marquee.png</marquee>
+		<thumbnail>./images/Hockey + Tennis (1976)(Fairchild)[bios rip]-thumb.png</thumbnail>
+		<manual>./manuals/Hockey + Tennis (1976)(Fairchild)[bios rip]-manual.pdf</manual>
+		<boxback>./images/Hockey + Tennis (1976)(Fairchild)[bios rip]-boxback.png</boxback>
+		<rating>0.7</rating>
+		<releasedate>19760101T000000</releasedate>
+		<developer>Fairlight</developer>
+		<publisher>Fairlight</publisher>
+		<genre>Sports / Tennis</genre>
+		<players>2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>0a723f631ca45ad290e9f3aeba8ddb6f</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T194023" />
+	</game>
+	<game id="191773">
+		<path>./TOSEC/Games/Lights Out (2004)(Riddle, Sean)(PD)/Lights Out (2004)(Riddle, Sean)(PD).bin</path>
+		<name>Lights Out</name>
+		<desc>Lights Out consists of a 5 by 5 light square grid. When the game starts, a random or pre-recorded pattern of lights is lit on the grid. By pressing one of the lights, you will switch between it and the adjacent lights, the goal being to get all the lights off.</desc>
+		<image>./images/Lights Out (2004)(Riddle, Sean)(PD)-image.png</image>
+		<video>./videos/Lights Out (2004)(Riddle, Sean)(PD)-video.mp4</video>
+		<rating>0.75</rating>
+		<releasedate>20040101T000000</releasedate>
+		<developer>Sean Riddle</developer>
+		<publisher>Sean Riddle</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>28af9c65dc23035a8ba0b0b7444b2bfc</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T194025" />
+	</game>
+	<game id="191773">
+		<path>./TOSEC/Games/Lights Out (2004)(Riddle, Sean)(PD)[a2]/Lights Out (2004)(Riddle, Sean)(PD)[a2].bin</path>
+		<name>Lights Out</name>
+		<desc>Lights Out consists of a 5 by 5 light square grid. When the game starts, a random or pre-recorded pattern of lights is lit on the grid. By pressing one of the lights, you will switch between it and the adjacent lights, the goal being to get all the lights off.</desc>
+		<image>./images/Lights Out (2004)(Riddle, Sean)(PD)[a2]-image.png</image>
+		<video>./videos/Lights Out (2004)(Riddle, Sean)(PD)[a2]-video.mp4</video>
+		<rating>0.75</rating>
+		<releasedate>20040101T000000</releasedate>
+		<developer>Sean Riddle</developer>
+		<publisher>Sean Riddle</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>c0d3793beffa7710975ba2973fcc175f</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T194028" />
+	</game>
+	<game id="191773">
+		<path>./TOSEC/Games/Lights Out (2004)(Riddle, Sean)(PD)[a]/Lights Out (2004)(Riddle, Sean)(PD)[a].bin</path>
+		<name>Lights Out</name>
+		<desc>Lights Out consists of a 5 by 5 light square grid. When the game starts, a random or pre-recorded pattern of lights is lit on the grid. By pressing one of the lights, you will switch between it and the adjacent lights, the goal being to get all the lights off.</desc>
+		<image>./images/Lights Out (2004)(Riddle, Sean)(PD)[a]-image.png</image>
+		<video>./videos/Lights Out (2004)(Riddle, Sean)(PD)[a]-video.mp4</video>
+		<rating>0.75</rating>
+		<releasedate>20040101T000000</releasedate>
+		<developer>Sean Riddle</developer>
+		<publisher>Sean Riddle</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>d4a7f300e076b9552bfaefb039967fc5</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T194030" />
+	</game>
+	<game id="46526">
+		<path>./TOSEC/Games/Magic Numbers + Mind Reader + Nim (1977)(Fairchild)/Magic Numbers + Mind Reader + Nim (1977)(Fairchild).bin</path>
+		<name>Videocart-8: Magic Numbers</name>
+		<desc>Videocart-8 contains two traditional number games.
+
+Mind Reader is a numerical version of the popular combination guessing game Master Mind. The console chooses a random number and the player is given 20 chances to guess it. After every guess, the display shows how many numbers were correctly placed, and how many numbers are correct but in the wrong spot. Every wrong guess increases the computer's score, and finding the code increases the player's score. The game can be played with a time limit instead of a limited number of guesses.
+
+Nim is a single-player adaptation of a traditional 2-player number game. Depending on the options, there are some piles on screen with a certain number of elements. The player and the console take turns at removing arbitrary numbers of elements from the piles. They have to remove at least 1 element and only from one pile in any turn. The side that gets to remove the last element wins the round. The game can also be played with a time limit.</desc>
+		<image>./images/Magic Numbers + Mind Reader + Nim (1977)(Fairchild)-image.png</image>
+		<video>./videos/Magic Numbers + Mind Reader + Nim (1977)(Fairchild)-video.mp4</video>
+		<marquee>./images/Magic Numbers + Mind Reader + Nim (1977)(Fairchild)-marquee.png</marquee>
+		<thumbnail>./images/Magic Numbers + Mind Reader + Nim (1977)(Fairchild)-thumb.png</thumbnail>
+		<boxback>./images/Magic Numbers + Mind Reader + Nim (1977)(Fairchild)-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>19770101T000000</releasedate>
+		<developer>Fairlight</developer>
+		<publisher>Fairlight</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>4c10fa5c7316c59efa241043fc67dfa8</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T194032" />
+	</game>
+	<game id="46524">
+		<path>./TOSEC/Games/Math Quiz I - Addition + Subtraction (1976)(Fairchild)/Math Quiz I - Addition + Subtraction (1976)(Fairchild).bin</path>
+		<name>Videocart-6: Math Quiz I</name>
+		<desc>Videocart-6 is a math game which focuses on addition and subtraction. The game presents a series of problems to solve; using the controller you need enter in the correct answer. A correct answer earns a point; if you enter an incorrect answer you are then given a second chance. Answer incorrectly a second time and then a point is given to the computer which will also show you how to solve the problem. These are the only variations featured within the game itself, however the instruction manual includes a variety of suggestions for games that can be played by two or more players. These include Mathematical Chairs (two players take turns seeing who can answer the most problems in a row), Math Maze (the manual features a maze drawn on a grid; answer a question correctly and you can move that many spaces), Hang Math (a variation of hang man), Up to 1000 (answer problems correctly to add the value to your score; try to end up with 1000 points without going over), and several more.</desc>
+		<image>./images/Math Quiz I - Addition + Subtraction (1976)(Fairchild)-image.png</image>
+		<video>./videos/Math Quiz I - Addition + Subtraction (1976)(Fairchild)-video.mp4</video>
+		<marquee>./images/Math Quiz I - Addition + Subtraction (1976)(Fairchild)-marquee.png</marquee>
+		<thumbnail>./images/Math Quiz I - Addition + Subtraction (1976)(Fairchild)-thumb.png</thumbnail>
+		<manual>./manuals/Math Quiz I - Addition + Subtraction (1976)(Fairchild)-manual.pdf</manual>
+		<boxback>./images/Math Quiz I - Addition + Subtraction (1976)(Fairchild)-boxback.png</boxback>
+		<rating>0.45</rating>
+		<releasedate>19770101T000000</releasedate>
+		<developer>Fairlight</developer>
+		<publisher>Fairlight</publisher>
+		<genre>Educational</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>a8e6103fcae4d0f9e14d9edcfc3fc493</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T194034" />
+	</game>
+	<game id="46525">
+		<path>./TOSEC/Games/Math Quiz II - Multiplication + Division (1977)(Fairchild)/Math Quiz II - Multiplication + Division (1977)(Fairchild).bin</path>
+		<name>Videocart-7: Math Quiz II</name>
+		<desc>Videocart-7 contains the second and last part of the Math Quiz series started with Videocart-6. While the first part lets the players train addition and subtraction, Math Quiz II deals with multiplication and division.
+
+Once again, the game presents the player with a series of problems, simple multiplications in the first game variation, and simple divisions in the second. The results have to be entered using the controller. If the answer is correct, a point will be added to the left counter. After entering a wrong answer, the player gets another chance to correct the result. If it is wrong again, the right counter will be increased, counting the mistakes made so far.</desc>
+		<image>./images/Math Quiz II - Multiplication + Division (1977)(Fairchild)-image.png</image>
+		<video>./videos/Math Quiz II - Multiplication + Division (1977)(Fairchild)-video.mp4</video>
+		<marquee>./images/Math Quiz II - Multiplication + Division (1977)(Fairchild)-marquee.png</marquee>
+		<thumbnail>./images/Math Quiz II - Multiplication + Division (1977)(Fairchild)-thumb.png</thumbnail>
+		<manual>./manuals/Math Quiz II - Multiplication + Division (1977)(Fairchild)-manual.pdf</manual>
+		<boxback>./images/Math Quiz II - Multiplication + Division (1977)(Fairchild)-boxback.png</boxback>
+		<rating>0.5</rating>
+		<releasedate>19770101T000000</releasedate>
+		<developer>Fairlight</developer>
+		<publisher>Fairlight</publisher>
+		<genre>Educational</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>86b77eafdf7b806e19e01724987e384f</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T194036" />
+	</game>
+	<game id="46502">
+		<path>./TOSEC/Games/Maze + Jailbreak + Blind-man's-bluff + Trailblazer (1977)(Fairchild)/Maze + Jailbreak + Blind-man's-bluff + Trailblazer (1977)(Fairchild).bin</path>
+		<name>Videocart-10: Maze -Jailbreak - Blind Man's Bluff - Trailblazer</name>
+		<desc>Poor little mice, doomed to run around in a maze and escape as quickly as they can.  As if that's not enough, the owner's of this maze pit you against a friend to see who will escape first.  And then the diabolical owners take it one step further and add a cat to the maze mix -- forcing you not only to escape first, but escape alive!
+
+This game contains a few variations:  A straight maze run, a jailbreak maze (break through each square), an invisible maze, and a hidden maze (eat your way through I guess).  In all the variations you can choose between 1-4 speeds and/or throw the cat in the maze for an extra challenge.</desc>
+		<image>./images/Maze + Jailbreak + Blind-man's-bluff + Trailblazer (1977)(Fairchild)-image.png</image>
+		<video>./videos/Maze + Jailbreak + Blind-man's-bluff + Trailblazer (1977)(Fairchild)-video.mp4</video>
+		<marquee>./images/Maze + Jailbreak + Blind-man's-bluff + Trailblazer (1977)(Fairchild)-marquee.png</marquee>
+		<thumbnail>./images/Maze + Jailbreak + Blind-man's-bluff + Trailblazer (1977)(Fairchild)-thumb.png</thumbnail>
+		<manual>./manuals/Maze + Jailbreak + Blind-man's-bluff + Trailblazer (1977)(Fairchild)-manual.pdf</manual>
+		<boxback>./images/Maze + Jailbreak + Blind-man's-bluff + Trailblazer (1977)(Fairchild)-boxback.png</boxback>
+		<rating>0.3</rating>
+		<releasedate>19770101T000000</releasedate>
+		<developer>Fairlight</developer>
+		<publisher>Fairlight</publisher>
+		<genre>Action / Labyrinth</genre>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>6565df74539476d66fd78de1bac0259c</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T194038" />
+	</game>
+	<game id="46502">
+		<path>./TOSEC/Games/Maze + Jailbreak + Blind-man's-bluff + Trailblazer (1977)(Fairchild)[a]/Maze + Jailbreak + Blind-man's-bluff + Trailblazer (1977)(Fairchild)[a].bin</path>
+		<name>Videocart-10: Maze -Jailbreak - Blind Man's Bluff - Trailblazer</name>
+		<desc>Poor little mice, doomed to run around in a maze and escape as quickly as they can.  As if that's not enough, the owner's of this maze pit you against a friend to see who will escape first.  And then the diabolical owners take it one step further and add a cat to the maze mix -- forcing you not only to escape first, but escape alive!
+
+This game contains a few variations:  A straight maze run, a jailbreak maze (break through each square), an invisible maze, and a hidden maze (eat your way through I guess).  In all the variations you can choose between 1-4 speeds and/or throw the cat in the maze for an extra challenge.</desc>
+		<image>./images/Maze + Jailbreak + Blind-man's-bluff + Trailblazer (1977)(Fairchild)[a]-image.png</image>
+		<video>./videos/Maze + Jailbreak + Blind-man's-bluff + Trailblazer (1977)(Fairchild)[a]-video.mp4</video>
+		<marquee>./images/Maze + Jailbreak + Blind-man's-bluff + Trailblazer (1977)(Fairchild)[a]-marquee.png</marquee>
+		<thumbnail>./images/Maze + Jailbreak + Blind-man's-bluff + Trailblazer (1977)(Fairchild)[a]-thumb.png</thumbnail>
+		<manual>./manuals/Maze + Jailbreak + Blind-man's-bluff + Trailblazer (1977)(Fairchild)[a]-manual.pdf</manual>
+		<boxback>./images/Maze + Jailbreak + Blind-man's-bluff + Trailblazer (1977)(Fairchild)[a]-boxback.png</boxback>
+		<rating>0.3</rating>
+		<releasedate>19770101T000000</releasedate>
+		<developer>Fairlight</developer>
+		<publisher>Fairlight</publisher>
+		<genre>Action / Labyrinth</genre>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>53e4cc2da0f2c167e0692b794cb7692c</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T194040" />
+	</game>
+	<game id="46502">
+		<path>./TOSEC/Games/Maze + Jailbreak + Blind-man's-bluff + Trailblazer (1977)(Fairchild)[b]/Maze + Jailbreak + Blind-man's-bluff + Trailblazer (1977)(Fairchild)[b].bin</path>
+		<name>Videocart-10: Maze -Jailbreak - Blind Man's Bluff - Trailblazer</name>
+		<desc>Poor little mice, doomed to run around in a maze and escape as quickly as they can.  As if that's not enough, the owner's of this maze pit you against a friend to see who will escape first.  And then the diabolical owners take it one step further and add a cat to the maze mix -- forcing you not only to escape first, but escape alive!
+
+This game contains a few variations:  A straight maze run, a jailbreak maze (break through each square), an invisible maze, and a hidden maze (eat your way through I guess).  In all the variations you can choose between 1-4 speeds and/or throw the cat in the maze for an extra challenge.</desc>
+		<image>./images/Maze + Jailbreak + Blind-man's-bluff + Trailblazer (1977)(Fairchild)[b]-image.png</image>
+		<video>./videos/Maze + Jailbreak + Blind-man's-bluff + Trailblazer (1977)(Fairchild)[b]-video.mp4</video>
+		<marquee>./images/Maze + Jailbreak + Blind-man's-bluff + Trailblazer (1977)(Fairchild)[b]-marquee.png</marquee>
+		<thumbnail>./images/Maze + Jailbreak + Blind-man's-bluff + Trailblazer (1977)(Fairchild)[b]-thumb.png</thumbnail>
+		<manual>./manuals/Maze + Jailbreak + Blind-man's-bluff + Trailblazer (1977)(Fairchild)[b]-manual.pdf</manual>
+		<boxback>./images/Maze + Jailbreak + Blind-man's-bluff + Trailblazer (1977)(Fairchild)[b]-boxback.png</boxback>
+		<rating>0.3</rating>
+		<releasedate>19770101T000000</releasedate>
+		<developer>Fairlight</developer>
+		<publisher>Fairlight</publisher>
+		<genre>Action / Labyrinth</genre>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>5db71e3b0cd13f7c42790a2cd9072ca1</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T194042" />
+	</game>
+	<game id="46502">
+		<path>./TOSEC/Games/Maze + Jailbreak + Blind-man's-bluff + Trailblazer (1977)(Fairchild)[h]/Maze + Jailbreak + Blind-man's-bluff + Trailblazer (1977)(Fairchild)[h].bin</path>
+		<name>Videocart-10: Maze -Jailbreak - Blind Man's Bluff - Trailblazer</name>
+		<desc>Poor little mice, doomed to run around in a maze and escape as quickly as they can.  As if that's not enough, the owner's of this maze pit you against a friend to see who will escape first.  And then the diabolical owners take it one step further and add a cat to the maze mix -- forcing you not only to escape first, but escape alive!
+
+This game contains a few variations:  A straight maze run, a jailbreak maze (break through each square), an invisible maze, and a hidden maze (eat your way through I guess).  In all the variations you can choose between 1-4 speeds and/or throw the cat in the maze for an extra challenge.</desc>
+		<image>./images/Maze + Jailbreak + Blind-man's-bluff + Trailblazer (1977)(Fairchild)[h]-image.png</image>
+		<video>./videos/Maze + Jailbreak + Blind-man's-bluff + Trailblazer (1977)(Fairchild)[h]-video.mp4</video>
+		<marquee>./images/Maze + Jailbreak + Blind-man's-bluff + Trailblazer (1977)(Fairchild)[h]-marquee.png</marquee>
+		<thumbnail>./images/Maze + Jailbreak + Blind-man's-bluff + Trailblazer (1977)(Fairchild)[h]-thumb.png</thumbnail>
+		<manual>./manuals/Maze + Jailbreak + Blind-man's-bluff + Trailblazer (1977)(Fairchild)[h]-manual.pdf</manual>
+		<boxback>./images/Maze + Jailbreak + Blind-man's-bluff + Trailblazer (1977)(Fairchild)[h]-boxback.png</boxback>
+		<rating>0.3</rating>
+		<releasedate>19770101T000000</releasedate>
+		<developer>Fairlight</developer>
+		<publisher>Fairlight</publisher>
+		<genre>Action / Labyrinth</genre>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>abc6fc7083b66a65c1e18ebf911f6689</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T194044" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/Memory Match (1978)(Fairchild)/Memory Match (1978)(Fairchild).bin</path>
+		<name>Memory Match (1978)(Fairchild)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>2b3ca549e27579e4519a765fd8f52d0f</md5>
+		<scrap name="ScreenScraper" date="20230222T194046" />
+	</game>
+	<game id="191772">
+		<path>./TOSEC/Games/Pac-Man (2004)(Blackbird - e5frog)[p]/Pac-Man (2004)(Blackbird - e5frog)[p].bin</path>
+		<name>Videocart-27: Pac-man</name>
+		<desc>An unauthorized version of Pac-Man.
+
+Pac-Man is a game where the eponymous Pac-Man goes around a maze in the cardinal directions munching pellets as he goes. The goal is to eat all the pellets found on the maze. While trying to do this, Pac-Man is harassed by four ghosts (Blinky, Pinky, Inky, and Clyde) who constantly chase him around the maze. If the ghosts touch Pac-Man, he will lose a life. Pac-Man starts with three lives and if he loses all of them the game will end.
+
+Pac-Man is not completely defenseless as on each maze, there are four power pellets, that when Pac-Man consumes them, will cause the tides to turn, as Pac-Man will be able to temporarily chase the ghosts to eat them and temporarily send them back to the middle of the maze from whence they came. Pac-Man can also eat randomly appearing fruit to earn bonus points.
+
+This version of Pac-Man retains the intermissions found in the original game.</desc>
+		<image>./images/Pac-Man (2004)(Blackbird - e5frog)[p]-image.png</image>
+		<video>./videos/Pac-Man (2004)(Blackbird - e5frog)[p]-video.mp4</video>
+		<marquee>./images/Pac-Man (2004)(Blackbird - e5frog)[p]-marquee.png</marquee>
+		<thumbnail>./images/Pac-Man (2004)(Blackbird - e5frog)[p]-thumb.png</thumbnail>
+		<boxback>./images/Pac-Man (2004)(Blackbird - e5frog)[p]-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>20090101T000000</releasedate>
+		<developer>e5frog</developer>
+		<publisher>e5frog</publisher>
+		<genre>Action / Labyrinth</genre>
+		<family>Pac-Man</family>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>c8c6d4ab5693ee6996f60d43f47327cf</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T194048" />
+	</game>
+	<game id="191772">
+		<path>./TOSEC/Games/Pac-Man (2004)(Blackbird - e5frog)[p][a2]/Pac-Man (2004)(Blackbird - e5frog)[p][a2].bin</path>
+		<name>Videocart-27: Pac-man</name>
+		<desc>An unauthorized version of Pac-Man.
+
+Pac-Man is a game where the eponymous Pac-Man goes around a maze in the cardinal directions munching pellets as he goes. The goal is to eat all the pellets found on the maze. While trying to do this, Pac-Man is harassed by four ghosts (Blinky, Pinky, Inky, and Clyde) who constantly chase him around the maze. If the ghosts touch Pac-Man, he will lose a life. Pac-Man starts with three lives and if he loses all of them the game will end.
+
+Pac-Man is not completely defenseless as on each maze, there are four power pellets, that when Pac-Man consumes them, will cause the tides to turn, as Pac-Man will be able to temporarily chase the ghosts to eat them and temporarily send them back to the middle of the maze from whence they came. Pac-Man can also eat randomly appearing fruit to earn bonus points.
+
+This version of Pac-Man retains the intermissions found in the original game.</desc>
+		<image>./images/Pac-Man (2004)(Blackbird - e5frog)[p][a2]-image.png</image>
+		<video>./videos/Pac-Man (2004)(Blackbird - e5frog)[p][a2]-video.mp4</video>
+		<marquee>./images/Pac-Man (2004)(Blackbird - e5frog)[p][a2]-marquee.png</marquee>
+		<thumbnail>./images/Pac-Man (2004)(Blackbird - e5frog)[p][a2]-thumb.png</thumbnail>
+		<boxback>./images/Pac-Man (2004)(Blackbird - e5frog)[p][a2]-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>20090101T000000</releasedate>
+		<developer>e5frog</developer>
+		<publisher>e5frog</publisher>
+		<genre>Action / Labyrinth</genre>
+		<family>Pac-Man</family>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>035b5a2a18e0d2755a839faec62c8999</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T194050" />
+	</game>
+	<game id="191772">
+		<path>./TOSEC/Games/Pac-Man (2004)(Blackbird - e5frog)[p][a3]/Pac-Man (2004)(Blackbird - e5frog)[p][a3].bin</path>
+		<name>Videocart-27: Pac-man</name>
+		<desc>An unauthorized version of Pac-Man.
+
+Pac-Man is a game where the eponymous Pac-Man goes around a maze in the cardinal directions munching pellets as he goes. The goal is to eat all the pellets found on the maze. While trying to do this, Pac-Man is harassed by four ghosts (Blinky, Pinky, Inky, and Clyde) who constantly chase him around the maze. If the ghosts touch Pac-Man, he will lose a life. Pac-Man starts with three lives and if he loses all of them the game will end.
+
+Pac-Man is not completely defenseless as on each maze, there are four power pellets, that when Pac-Man consumes them, will cause the tides to turn, as Pac-Man will be able to temporarily chase the ghosts to eat them and temporarily send them back to the middle of the maze from whence they came. Pac-Man can also eat randomly appearing fruit to earn bonus points.
+
+This version of Pac-Man retains the intermissions found in the original game.</desc>
+		<image>./images/Pac-Man (2004)(Blackbird - e5frog)[p][a3]-image.png</image>
+		<video>./videos/Pac-Man (2004)(Blackbird - e5frog)[p][a3]-video.mp4</video>
+		<marquee>./images/Pac-Man (2004)(Blackbird - e5frog)[p][a3]-marquee.png</marquee>
+		<thumbnail>./images/Pac-Man (2004)(Blackbird - e5frog)[p][a3]-thumb.png</thumbnail>
+		<boxback>./images/Pac-Man (2004)(Blackbird - e5frog)[p][a3]-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>20090101T000000</releasedate>
+		<developer>e5frog</developer>
+		<publisher>e5frog</publisher>
+		<genre>Action / Labyrinth</genre>
+		<family>Pac-Man</family>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>42e57a820062aac34f489453f5764901</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T194052" />
+	</game>
+	<game id="191772">
+		<path>./TOSEC/Games/Pac-Man (2004)(Blackbird - e5frog)[p][a4]/Pac-Man (2004)(Blackbird - e5frog)[p][a4].bin</path>
+		<name>Videocart-27: Pac-man</name>
+		<desc>An unauthorized version of Pac-Man.
+
+Pac-Man is a game where the eponymous Pac-Man goes around a maze in the cardinal directions munching pellets as he goes. The goal is to eat all the pellets found on the maze. While trying to do this, Pac-Man is harassed by four ghosts (Blinky, Pinky, Inky, and Clyde) who constantly chase him around the maze. If the ghosts touch Pac-Man, he will lose a life. Pac-Man starts with three lives and if he loses all of them the game will end.
+
+Pac-Man is not completely defenseless as on each maze, there are four power pellets, that when Pac-Man consumes them, will cause the tides to turn, as Pac-Man will be able to temporarily chase the ghosts to eat them and temporarily send them back to the middle of the maze from whence they came. Pac-Man can also eat randomly appearing fruit to earn bonus points.
+
+This version of Pac-Man retains the intermissions found in the original game.</desc>
+		<image>./images/Pac-Man (2004)(Blackbird - e5frog)[p][a4]-image.png</image>
+		<video>./videos/Pac-Man (2004)(Blackbird - e5frog)[p][a4]-video.mp4</video>
+		<marquee>./images/Pac-Man (2004)(Blackbird - e5frog)[p][a4]-marquee.png</marquee>
+		<thumbnail>./images/Pac-Man (2004)(Blackbird - e5frog)[p][a4]-thumb.png</thumbnail>
+		<boxback>./images/Pac-Man (2004)(Blackbird - e5frog)[p][a4]-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>20090101T000000</releasedate>
+		<developer>e5frog</developer>
+		<publisher>e5frog</publisher>
+		<genre>Action / Labyrinth</genre>
+		<family>Pac-Man</family>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>30b8112ef589da0948e913eed52eabf6</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T194055" />
+	</game>
+	<game id="191772">
+		<path>./TOSEC/Games/Pac-Man (2004)(Blackbird - e5frog)[p][a5]/Pac-Man (2004)(Blackbird - e5frog)[p][a5].bin</path>
+		<name>Videocart-27: Pac-man</name>
+		<desc>An unauthorized version of Pac-Man.
+
+Pac-Man is a game where the eponymous Pac-Man goes around a maze in the cardinal directions munching pellets as he goes. The goal is to eat all the pellets found on the maze. While trying to do this, Pac-Man is harassed by four ghosts (Blinky, Pinky, Inky, and Clyde) who constantly chase him around the maze. If the ghosts touch Pac-Man, he will lose a life. Pac-Man starts with three lives and if he loses all of them the game will end.
+
+Pac-Man is not completely defenseless as on each maze, there are four power pellets, that when Pac-Man consumes them, will cause the tides to turn, as Pac-Man will be able to temporarily chase the ghosts to eat them and temporarily send them back to the middle of the maze from whence they came. Pac-Man can also eat randomly appearing fruit to earn bonus points.
+
+This version of Pac-Man retains the intermissions found in the original game.</desc>
+		<image>./images/Pac-Man (2004)(Blackbird - e5frog)[p][a5]-image.png</image>
+		<video>./videos/Pac-Man (2004)(Blackbird - e5frog)[p][a5]-video.mp4</video>
+		<marquee>./images/Pac-Man (2004)(Blackbird - e5frog)[p][a5]-marquee.png</marquee>
+		<thumbnail>./images/Pac-Man (2004)(Blackbird - e5frog)[p][a5]-thumb.png</thumbnail>
+		<boxback>./images/Pac-Man (2004)(Blackbird - e5frog)[p][a5]-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>20090101T000000</releasedate>
+		<developer>e5frog</developer>
+		<publisher>e5frog</publisher>
+		<genre>Action / Labyrinth</genre>
+		<family>Pac-Man</family>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>489b63ef6de0dbe13acaa703770681d4</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T194057" />
+	</game>
+	<game id="191772">
+		<path>./TOSEC/Games/Pac-Man (2004)(Blackbird - e5frog)[p][a6]/Pac-Man (2004)(Blackbird - e5frog)[p][a6].bin</path>
+		<name>Videocart-27: Pac-man</name>
+		<desc>An unauthorized version of Pac-Man.
+
+Pac-Man is a game where the eponymous Pac-Man goes around a maze in the cardinal directions munching pellets as he goes. The goal is to eat all the pellets found on the maze. While trying to do this, Pac-Man is harassed by four ghosts (Blinky, Pinky, Inky, and Clyde) who constantly chase him around the maze. If the ghosts touch Pac-Man, he will lose a life. Pac-Man starts with three lives and if he loses all of them the game will end.
+
+Pac-Man is not completely defenseless as on each maze, there are four power pellets, that when Pac-Man consumes them, will cause the tides to turn, as Pac-Man will be able to temporarily chase the ghosts to eat them and temporarily send them back to the middle of the maze from whence they came. Pac-Man can also eat randomly appearing fruit to earn bonus points.
+
+This version of Pac-Man retains the intermissions found in the original game.</desc>
+		<image>./images/Pac-Man (2004)(Blackbird - e5frog)[p][a6]-image.png</image>
+		<video>./videos/Pac-Man (2004)(Blackbird - e5frog)[p][a6]-video.mp4</video>
+		<marquee>./images/Pac-Man (2004)(Blackbird - e5frog)[p][a6]-marquee.png</marquee>
+		<thumbnail>./images/Pac-Man (2004)(Blackbird - e5frog)[p][a6]-thumb.png</thumbnail>
+		<boxback>./images/Pac-Man (2004)(Blackbird - e5frog)[p][a6]-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>20090101T000000</releasedate>
+		<developer>e5frog</developer>
+		<publisher>e5frog</publisher>
+		<genre>Action / Labyrinth</genre>
+		<family>Pac-Man</family>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>b50537597ee60c94004d668accf030bf</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T194059" />
+	</game>
+	<game id="191772">
+		<path>./TOSEC/Games/Pac-Man (2004)(Blackbird - e5frog)[p][a7]/Pac-Man (2004)(Blackbird - e5frog)[p][a7].bin</path>
+		<name>Videocart-27: Pac-man</name>
+		<desc>An unauthorized version of Pac-Man.
+
+Pac-Man is a game where the eponymous Pac-Man goes around a maze in the cardinal directions munching pellets as he goes. The goal is to eat all the pellets found on the maze. While trying to do this, Pac-Man is harassed by four ghosts (Blinky, Pinky, Inky, and Clyde) who constantly chase him around the maze. If the ghosts touch Pac-Man, he will lose a life. Pac-Man starts with three lives and if he loses all of them the game will end.
+
+Pac-Man is not completely defenseless as on each maze, there are four power pellets, that when Pac-Man consumes them, will cause the tides to turn, as Pac-Man will be able to temporarily chase the ghosts to eat them and temporarily send them back to the middle of the maze from whence they came. Pac-Man can also eat randomly appearing fruit to earn bonus points.
+
+This version of Pac-Man retains the intermissions found in the original game.</desc>
+		<image>./images/Pac-Man (2004)(Blackbird - e5frog)[p][a7]-image.png</image>
+		<video>./videos/Pac-Man (2004)(Blackbird - e5frog)[p][a7]-video.mp4</video>
+		<marquee>./images/Pac-Man (2004)(Blackbird - e5frog)[p][a7]-marquee.png</marquee>
+		<thumbnail>./images/Pac-Man (2004)(Blackbird - e5frog)[p][a7]-thumb.png</thumbnail>
+		<boxback>./images/Pac-Man (2004)(Blackbird - e5frog)[p][a7]-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>20090101T000000</releasedate>
+		<developer>e5frog</developer>
+		<publisher>e5frog</publisher>
+		<genre>Action / Labyrinth</genre>
+		<family>Pac-Man</family>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>e38cd8185b02d5c2fe4b3a1309682722</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T194101" />
+	</game>
+	<game id="191772">
+		<path>./TOSEC/Games/Pac-Man (2004)(Blackbird - e5frog)[p][a8]/Pac-Man (2004)(Blackbird - e5frog)[p][a8].bin</path>
+		<name>Videocart-27: Pac-man</name>
+		<desc>An unauthorized version of Pac-Man.
+
+Pac-Man is a game where the eponymous Pac-Man goes around a maze in the cardinal directions munching pellets as he goes. The goal is to eat all the pellets found on the maze. While trying to do this, Pac-Man is harassed by four ghosts (Blinky, Pinky, Inky, and Clyde) who constantly chase him around the maze. If the ghosts touch Pac-Man, he will lose a life. Pac-Man starts with three lives and if he loses all of them the game will end.
+
+Pac-Man is not completely defenseless as on each maze, there are four power pellets, that when Pac-Man consumes them, will cause the tides to turn, as Pac-Man will be able to temporarily chase the ghosts to eat them and temporarily send them back to the middle of the maze from whence they came. Pac-Man can also eat randomly appearing fruit to earn bonus points.
+
+This version of Pac-Man retains the intermissions found in the original game.</desc>
+		<image>./images/Pac-Man (2004)(Blackbird - e5frog)[p][a8]-image.png</image>
+		<video>./videos/Pac-Man (2004)(Blackbird - e5frog)[p][a8]-video.mp4</video>
+		<marquee>./images/Pac-Man (2004)(Blackbird - e5frog)[p][a8]-marquee.png</marquee>
+		<thumbnail>./images/Pac-Man (2004)(Blackbird - e5frog)[p][a8]-thumb.png</thumbnail>
+		<boxback>./images/Pac-Man (2004)(Blackbird - e5frog)[p][a8]-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>20090101T000000</releasedate>
+		<developer>e5frog</developer>
+		<publisher>e5frog</publisher>
+		<genre>Action / Labyrinth</genre>
+		<family>Pac-Man</family>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>3978864e041cade7d9ff40d69ac658c5</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T194103" />
+	</game>
+	<game id="191772">
+		<path>./TOSEC/Games/Pac-Man (2004)(Blackbird - e5frog)[p][a]/Pac-Man (2004)(Blackbird - e5frog)[p][a].bin</path>
+		<name>Videocart-27: Pac-man</name>
+		<desc>An unauthorized version of Pac-Man.
+
+Pac-Man is a game where the eponymous Pac-Man goes around a maze in the cardinal directions munching pellets as he goes. The goal is to eat all the pellets found on the maze. While trying to do this, Pac-Man is harassed by four ghosts (Blinky, Pinky, Inky, and Clyde) who constantly chase him around the maze. If the ghosts touch Pac-Man, he will lose a life. Pac-Man starts with three lives and if he loses all of them the game will end.
+
+Pac-Man is not completely defenseless as on each maze, there are four power pellets, that when Pac-Man consumes them, will cause the tides to turn, as Pac-Man will be able to temporarily chase the ghosts to eat them and temporarily send them back to the middle of the maze from whence they came. Pac-Man can also eat randomly appearing fruit to earn bonus points.
+
+This version of Pac-Man retains the intermissions found in the original game.</desc>
+		<image>./images/Pac-Man (2004)(Blackbird - e5frog)[p][a]-image.png</image>
+		<video>./videos/Pac-Man (2004)(Blackbird - e5frog)[p][a]-video.mp4</video>
+		<marquee>./images/Pac-Man (2004)(Blackbird - e5frog)[p][a]-marquee.png</marquee>
+		<thumbnail>./images/Pac-Man (2004)(Blackbird - e5frog)[p][a]-thumb.png</thumbnail>
+		<boxback>./images/Pac-Man (2004)(Blackbird - e5frog)[p][a]-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>20090101T000000</releasedate>
+		<developer>e5frog</developer>
+		<publisher>e5frog</publisher>
+		<genre>Action / Labyrinth</genre>
+		<family>Pac-Man</family>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>4305cead642f79d1f4e503c54913836f</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T194105" />
+	</game>
+	<game id="191772">
+		<path>./TOSEC/Games/Pac-Man v20041211-14 (2004)(Blackbird - e5frog)[p]/Pac-Man v20041211-14 (2004)(Blackbird - e5frog)[p].bin</path>
+		<name>Videocart-27: Pac-man</name>
+		<desc>An unauthorized version of Pac-Man.
+
+Pac-Man is a game where the eponymous Pac-Man goes around a maze in the cardinal directions munching pellets as he goes. The goal is to eat all the pellets found on the maze. While trying to do this, Pac-Man is harassed by four ghosts (Blinky, Pinky, Inky, and Clyde) who constantly chase him around the maze. If the ghosts touch Pac-Man, he will lose a life. Pac-Man starts with three lives and if he loses all of them the game will end.
+
+Pac-Man is not completely defenseless as on each maze, there are four power pellets, that when Pac-Man consumes them, will cause the tides to turn, as Pac-Man will be able to temporarily chase the ghosts to eat them and temporarily send them back to the middle of the maze from whence they came. Pac-Man can also eat randomly appearing fruit to earn bonus points.
+
+This version of Pac-Man retains the intermissions found in the original game.</desc>
+		<image>./images/Pac-Man v20041211-14 (2004)(Blackbird - e5frog)[p]-image.png</image>
+		<video>./videos/Pac-Man v20041211-14 (2004)(Blackbird - e5frog)[p]-video.mp4</video>
+		<marquee>./images/Pac-Man v20041211-14 (2004)(Blackbird - e5frog)[p]-marquee.png</marquee>
+		<thumbnail>./images/Pac-Man v20041211-14 (2004)(Blackbird - e5frog)[p]-thumb.png</thumbnail>
+		<boxback>./images/Pac-Man v20041211-14 (2004)(Blackbird - e5frog)[p]-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>20090101T000000</releasedate>
+		<developer>e5frog</developer>
+		<publisher>e5frog</publisher>
+		<genre>Action / Labyrinth</genre>
+		<family>Pac-Man</family>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>f10e5997e23127dcfe6108bd47910094</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T194107" />
+	</game>
+	<game id="46509">
+		<path>./TOSEC/Games/Pinball Challenge (1978)(Fairchild)/Pinball Challenge (1978)(Fairchild).bin</path>
+		<name>Videocart-17: Pinball Challenge</name>
+		<desc>Although the title of the game may indicate a pinball game, it is actually a game more inspired by Breakout. The basic gameplay features the player bouncing a ball off of a paddle into a wall of bricks, chipping them off one brick at a time. Each brick destroyed earns the player points depending on its color. Once the ball bounces off the wall of bricks, its up to the player to maneuver the paddle under the falling ball in order to hit it back up into the wall of bricks. 
+
+
+The player loses a life if they miss a ball with their paddle and the ball falls into the abyss. The game ends when the player loses 7 balls. To keep up with the pinball motif, the wall of bricks are referred to as different colored skill lanes, the walls on the side as side rails, and the paddle as a flipper. The game offers 132 variations of this gameplay idea, including variations with different sized paddles, ball speeds, invisible bricks, and even one where the paddle shrinks when the ball is hit.</desc>
+		<image>./images/Pinball Challenge (1978)(Fairchild)-image.png</image>
+		<video>./videos/Pinball Challenge (1978)(Fairchild)-video.mp4</video>
+		<marquee>./images/Pinball Challenge (1978)(Fairchild)-marquee.png</marquee>
+		<thumbnail>./images/Pinball Challenge (1978)(Fairchild)-thumb.png</thumbnail>
+		<boxback>./images/Pinball Challenge (1978)(Fairchild)-boxback.png</boxback>
+		<rating>0.6</rating>
+		<releasedate>19780101T000000</releasedate>
+		<developer>Fairlight</developer>
+		<publisher>Fairlight</publisher>
+		<genre>Action / Breakout games</genre>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>e90339b7068c6227d54f3c0ca637e017</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T194109" />
+	</game>
+	<game id="46509">
+		<path>./TOSEC/Games/Pinball Challenge (1978)(Fairchild)[a]/Pinball Challenge (1978)(Fairchild)[a].bin</path>
+		<name>Videocart-17: Pinball Challenge</name>
+		<desc>Although the title of the game may indicate a pinball game, it is actually a game more inspired by Breakout. The basic gameplay features the player bouncing a ball off of a paddle into a wall of bricks, chipping them off one brick at a time. Each brick destroyed earns the player points depending on its color. Once the ball bounces off the wall of bricks, its up to the player to maneuver the paddle under the falling ball in order to hit it back up into the wall of bricks. 
+
+
+The player loses a life if they miss a ball with their paddle and the ball falls into the abyss. The game ends when the player loses 7 balls. To keep up with the pinball motif, the wall of bricks are referred to as different colored skill lanes, the walls on the side as side rails, and the paddle as a flipper. The game offers 132 variations of this gameplay idea, including variations with different sized paddles, ball speeds, invisible bricks, and even one where the paddle shrinks when the ball is hit.</desc>
+		<image>./images/Pinball Challenge (1978)(Fairchild)[a]-image.png</image>
+		<video>./videos/Pinball Challenge (1978)(Fairchild)[a]-video.mp4</video>
+		<marquee>./images/Pinball Challenge (1978)(Fairchild)[a]-marquee.png</marquee>
+		<thumbnail>./images/Pinball Challenge (1978)(Fairchild)[a]-thumb.png</thumbnail>
+		<boxback>./images/Pinball Challenge (1978)(Fairchild)[a]-boxback.png</boxback>
+		<rating>0.6</rating>
+		<releasedate>19780101T000000</releasedate>
+		<developer>Fairlight</developer>
+		<publisher>Fairlight</publisher>
+		<genre>Action / Breakout games</genre>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>5cbcda1c44f0dad02b0dfe209b6325d5</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T194111" />
+	</game>
+	<game id="46517">
+		<path>./TOSEC/Games/Pro Football (1978)(Zircon)/Pro Football (1978)(Zircon).bin</path>
+		<name>Videocart-24: Pro Football</name>
+		<desc>This is a 2 player American Football game played on a horizontal football field. Players take control of a 6 player team and play both offense and defense against an opposing player's team with the objective to outscore their opponent. There are 8 offensive and 8 defensive plays for a total of 16 different plays to call.  On offense, the player can either pass the ball or run using the quarterback to try to score a touchdown. Also available is the option to kick a field goal to score points. On defense, players can have linebackers blitz or try to defend the pass from being completed.
+
+The game contains four different game speeds which are slowest, slow, fast, and fastest.</desc>
+		<image>./images/Pro Football (1978)(Zircon)-image.png</image>
+		<video>./videos/Pro Football (1978)(Zircon)-video.mp4</video>
+		<marquee>./images/Pro Football (1978)(Zircon)-marquee.png</marquee>
+		<thumbnail>./images/Pro Football (1978)(Zircon)-thumb.png</thumbnail>
+		<boxback>./images/Pro Football (1978)(Zircon)-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Fairlight</developer>
+		<publisher>Zircon Software</publisher>
+		<genre>Sports / Football</genre>
+		<players>2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>9a894d745356a050f95410983c3bc54a</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T194113" />
+	</game>
+	<game id="46505">
+		<path>./TOSEC/Games/Robot War (1977)(Fairchild)(proto)/Robot War (1977)(Fairchild)(proto).bin</path>
+		<name>Videocart-13: Robot War, Torpedo Alley</name>
+		<desc>The hunter or the hunted. Choose between these 1 or 2 player action games. ROBOT WAR: The space station computer has gone haywire - four robots are on the hunt and you're in! Take them to one of the electrified force fields and short-circuit their calculated plans! TORPEDO ALLEY: Play against the clock or take on another gunner - take off with your ground battery and "deep six" the invading fleet!</desc>
+		<image>./images/Robot War (1977)(Fairchild)(proto)-image.png</image>
+		<video>./videos/Robot War (1977)(Fairchild)(proto)-video.mp4</video>
+		<marquee>./images/Robot War (1977)(Fairchild)(proto)-marquee.png</marquee>
+		<thumbnail>./images/Robot War (1977)(Fairchild)(proto)-thumb.png</thumbnail>
+		<manual>./manuals/Robot War (1977)(Fairchild)(proto)-manual.pdf</manual>
+		<boxback>./images/Robot War (1977)(Fairchild)(proto)-boxback.png</boxback>
+		<rating>0.6</rating>
+		<releasedate>19770101T000000</releasedate>
+		<developer>Fairlight</developer>
+		<publisher>Fairlight</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>facb452602f59fddde1cfbc4d598a282</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T194115" />
+	</game>
+	<game id="46505">
+		<path>./TOSEC/Games/Robot War (1977)(Fairchild)(proto)[b]/Robot War (1977)(Fairchild)(proto)[b].bin</path>
+		<name>Videocart-13: Robot War, Torpedo Alley</name>
+		<desc>The hunter or the hunted. Choose between these 1 or 2 player action games. ROBOT WAR: The space station computer has gone haywire - four robots are on the hunt and you're in! Take them to one of the electrified force fields and short-circuit their calculated plans! TORPEDO ALLEY: Play against the clock or take on another gunner - take off with your ground battery and "deep six" the invading fleet!</desc>
+		<image>./images/Robot War (1977)(Fairchild)(proto)[b]-image.png</image>
+		<video>./videos/Robot War (1977)(Fairchild)(proto)[b]-video.mp4</video>
+		<marquee>./images/Robot War (1977)(Fairchild)(proto)[b]-marquee.png</marquee>
+		<thumbnail>./images/Robot War (1977)(Fairchild)(proto)[b]-thumb.png</thumbnail>
+		<manual>./manuals/Robot War (1977)(Fairchild)(proto)[b]-manual.pdf</manual>
+		<boxback>./images/Robot War (1977)(Fairchild)(proto)[b]-boxback.png</boxback>
+		<rating>0.6</rating>
+		<releasedate>19770101T000000</releasedate>
+		<developer>Fairlight</developer>
+		<publisher>Fairlight</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>e1fb8d61ffe07b53869a93a8ad0c04a8</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T194118" />
+	</game>
+	<game id="46505">
+		<path>./TOSEC/Games/Robot War + Torpedo Alley (1977)(Fairchild)/Robot War + Torpedo Alley (1977)(Fairchild).bin</path>
+		<name>Videocart-13: Robot War, Torpedo Alley</name>
+		<desc>The hunter or the hunted. Choose between these 1 or 2 player action games. ROBOT WAR: The space station computer has gone haywire - four robots are on the hunt and you're in! Take them to one of the electrified force fields and short-circuit their calculated plans! TORPEDO ALLEY: Play against the clock or take on another gunner - take off with your ground battery and "deep six" the invading fleet!</desc>
+		<image>./images/Robot War + Torpedo Alley (1977)(Fairchild)-image.png</image>
+		<video>./videos/Robot War + Torpedo Alley (1977)(Fairchild)-video.mp4</video>
+		<marquee>./images/Robot War + Torpedo Alley (1977)(Fairchild)-marquee.png</marquee>
+		<thumbnail>./images/Robot War + Torpedo Alley (1977)(Fairchild)-thumb.png</thumbnail>
+		<manual>./manuals/Robot War + Torpedo Alley (1977)(Fairchild)-manual.pdf</manual>
+		<boxback>./images/Robot War + Torpedo Alley (1977)(Fairchild)-boxback.png</boxback>
+		<rating>0.6</rating>
+		<releasedate>19770101T000000</releasedate>
+		<developer>Fairlight</developer>
+		<publisher>Fairlight</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>3783b6ac359e21b99cfa17773aa811c6</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T194120" />
+	</game>
+	<game id="46515">
+		<path>./TOSEC/Games/Slot Machine (1978)(Zircon)/Slot Machine (1978)(Zircon).bin</path>
+		<name>Videocart-22: Slot Machine</name>
+		<desc>This game attempts to simulate a slot machine. The player can choose their starting purse (from $1 up to $99 in one dollar or $10 increments) and then choose how much they want to bet on each spin of the slot reels.  Each bet can be either for 5¢,10¢,25¢, or 50¢.
+
+The game offers two modes. Random Play mode lets the wheel spin and then stop randomly and the Select Play mode lets the player stop each wheel one at a time when it's spinning.</desc>
+		<image>./images/Slot Machine (1978)(Zircon)-image.png</image>
+		<video>./videos/Slot Machine (1978)(Zircon)-video.mp4</video>
+		<marquee>./images/Slot Machine (1978)(Zircon)-marquee.png</marquee>
+		<thumbnail>./images/Slot Machine (1978)(Zircon)-thumb.png</thumbnail>
+		<boxback>./images/Slot Machine (1978)(Zircon)-boxback.png</boxback>
+		<rating>0.2</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Fairlight</developer>
+		<publisher>Zircon Software</publisher>
+		<genre>Casino / Slot machine</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>dfb66ee145fab65062fdeadafc8dc34c</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T194122" />
+	</game>
+	<game id="46506">
+		<path>./TOSEC/Games/Sonar Search (1977)(Fairchild)/Sonar Search (1977)(Fairchild).bin</path>
+		<name>Videocart-14: Sonar Search</name>
+		<desc>Sonar Search features the basic gameplay idea of Battleship, but with a unique twist. Instead of trying to randomly guess what grid an opponent's battleship is on, after the player takes a shot, the player will hear a  sonar ping noise. The shorter the noise, the closer the player is to hitting a target.
+
+In the 1 player game, the player has a limited number of chances to sink the enemy fleet of ships, while in the 2 player game,  players take turns trying to sink their opponents ships before  having their own ships sunk.</desc>
+		<image>./images/Sonar Search (1977)(Fairchild)-image.png</image>
+		<video>./videos/Sonar Search (1977)(Fairchild)-video.mp4</video>
+		<marquee>./images/Sonar Search (1977)(Fairchild)-marquee.png</marquee>
+		<thumbnail>./images/Sonar Search (1977)(Fairchild)-thumb.png</thumbnail>
+		<manual>./manuals/Sonar Search (1977)(Fairchild)-manual.pdf</manual>
+		<boxback>./images/Sonar Search (1977)(Fairchild)-boxback.png</boxback>
+		<rating>0.7</rating>
+		<releasedate>19770101T000000</releasedate>
+		<developer>Fairlight</developer>
+		<publisher>Fairlight</publisher>
+		<genre>Strategy</genre>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>4cb12edae37df23851884b82ca410754</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T194124" />
+	</game>
+	<game id="46523">
+		<path>./TOSEC/Games/Space War (1977)(Zircon)/Space War (1977)(Zircon).bin</path>
+		<name>Videocart-5: Space War</name>
+		<desc>Videocart-5: Space War is an action game where two players each control spaceships. The goal is to destroy your opponents ship by depleting its energy supply; success will earn you a point. Each ship is capable of flying anywhere on the screen and is also equipped with lasers for attacking your opponent. At the beginning of the game each spaceship has 90 energy units; when no energy is left that  ship will be destroyed. Energy can be depleted in two ways: 2 points are used up every time you fire your lasers, and 5 points are lost if hit by enemy laser fire. Should your energy level drop to 10 points or less, you will be unable to fire your lasers; this prevents you from accidentally obliterating your own spaceship! Energy units can be replenished by flying through one of the two starbases located at opposite ends of the screen.</desc>
+		<image>./images/Space War (1977)(Zircon)-image.png</image>
+		<video>./videos/Space War (1977)(Zircon)-video.mp4</video>
+		<marquee>./images/Space War (1977)(Zircon)-marquee.png</marquee>
+		<thumbnail>./images/Space War (1977)(Zircon)-thumb.png</thumbnail>
+		<manual>./manuals/Space War (1977)(Zircon)-manual.pdf</manual>
+		<boxback>./images/Space War (1977)(Zircon)-boxback.png</boxback>
+		<rating>0.4</rating>
+		<releasedate>19770101T000000</releasedate>
+		<developer>Fairlight</developer>
+		<publisher>Fairlight</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>32cca8ff09041a39251d7aade21ee22f</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T194126" />
+	</game>
+	<game id="46522">
+		<path>./TOSEC/Games/Spitfire (1976)(Zircon)/Spitfire (1976)(Zircon).bin</path>
+		<name>Videocart-4: Spitfire</name>
+		<desc>Videocart-4 features the action game Spitfire. This is an aerial dogfighting game that pits the Red Baron against the Blue Max. The goal is to try to shoot down your opponent to score a point, and the player with the most points wins. Viewed from the side, your bi-planes have the freedom to fly anywhere on the screen; the screen wraps, so if you fly off of one side you will appear again on the other side. You can also hide just off screen to attempt to sneak up on an opponent; be careful, even though you may not be visible you are still vulnerable to attacks! The game can be played by two players against each other, or one player against the computer. When playing against the computer, the computer's skill level will vary throughout the game; the more times you are successful in shooting down the computer, the more its skill level will increase! However the more the computer shoots you down, the more its skill level will decrease.</desc>
+		<image>./images/Spitfire (1976)(Zircon)-image.png</image>
+		<video>./videos/Spitfire (1976)(Zircon)-video.mp4</video>
+		<marquee>./images/Spitfire (1976)(Zircon)-marquee.png</marquee>
+		<thumbnail>./images/Spitfire (1976)(Zircon)-thumb.png</thumbnail>
+		<manual>./manuals/Spitfire (1976)(Zircon)-manual.pdf</manual>
+		<boxback>./images/Spitfire (1976)(Zircon)-boxback.png</boxback>
+		<rating>0.45</rating>
+		<releasedate>19770101T000000</releasedate>
+		<developer>Fairlight</developer>
+		<publisher>Fairlight</publisher>
+		<genre>Shooter / Plane, 3rd person</genre>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>1b409fe1154584f4d1ab76b344a73d99</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T194128" />
+	</game>
+	<game id="46522">
+		<path>./TOSEC/Games/Spitfire (1976)(Zircon)(proto)/Spitfire (1976)(Zircon)(proto).bin</path>
+		<name>Videocart-4: Spitfire</name>
+		<desc>Videocart-4 features the action game Spitfire. This is an aerial dogfighting game that pits the Red Baron against the Blue Max. The goal is to try to shoot down your opponent to score a point, and the player with the most points wins. Viewed from the side, your bi-planes have the freedom to fly anywhere on the screen; the screen wraps, so if you fly off of one side you will appear again on the other side. You can also hide just off screen to attempt to sneak up on an opponent; be careful, even though you may not be visible you are still vulnerable to attacks! The game can be played by two players against each other, or one player against the computer. When playing against the computer, the computer's skill level will vary throughout the game; the more times you are successful in shooting down the computer, the more its skill level will increase! However the more the computer shoots you down, the more its skill level will decrease.</desc>
+		<image>./images/Spitfire (1976)(Zircon)(proto)-image.png</image>
+		<video>./videos/Spitfire (1976)(Zircon)(proto)-video.mp4</video>
+		<marquee>./images/Spitfire (1976)(Zircon)(proto)-marquee.png</marquee>
+		<thumbnail>./images/Spitfire (1976)(Zircon)(proto)-thumb.png</thumbnail>
+		<manual>./manuals/Spitfire (1976)(Zircon)(proto)-manual.pdf</manual>
+		<boxback>./images/Spitfire (1976)(Zircon)(proto)-boxback.png</boxback>
+		<rating>0.45</rating>
+		<releasedate>19770101T000000</releasedate>
+		<developer>Fairlight</developer>
+		<publisher>Fairlight</publisher>
+		<genre>Shooter / Plane, 3rd person</genre>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>5b86fe22007e6d0a92247809ac8934e9</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T194130" />
+	</game>
+	<game id="46522">
+		<path>./TOSEC/Games/Spitfire (1976)(Zircon)(proto)[b]/Spitfire (1976)(Zircon)(proto)[b].bin</path>
+		<name>Videocart-4: Spitfire</name>
+		<desc>Videocart-4 features the action game Spitfire. This is an aerial dogfighting game that pits the Red Baron against the Blue Max. The goal is to try to shoot down your opponent to score a point, and the player with the most points wins. Viewed from the side, your bi-planes have the freedom to fly anywhere on the screen; the screen wraps, so if you fly off of one side you will appear again on the other side. You can also hide just off screen to attempt to sneak up on an opponent; be careful, even though you may not be visible you are still vulnerable to attacks! The game can be played by two players against each other, or one player against the computer. When playing against the computer, the computer's skill level will vary throughout the game; the more times you are successful in shooting down the computer, the more its skill level will increase! However the more the computer shoots you down, the more its skill level will decrease.</desc>
+		<image>./images/Spitfire (1976)(Zircon)(proto)[b]-image.png</image>
+		<video>./videos/Spitfire (1976)(Zircon)(proto)[b]-video.mp4</video>
+		<marquee>./images/Spitfire (1976)(Zircon)(proto)[b]-marquee.png</marquee>
+		<thumbnail>./images/Spitfire (1976)(Zircon)(proto)[b]-thumb.png</thumbnail>
+		<manual>./manuals/Spitfire (1976)(Zircon)(proto)[b]-manual.pdf</manual>
+		<boxback>./images/Spitfire (1976)(Zircon)(proto)[b]-boxback.png</boxback>
+		<rating>0.45</rating>
+		<releasedate>19770101T000000</releasedate>
+		<developer>Fairlight</developer>
+		<publisher>Fairlight</publisher>
+		<genre>Shooter / Plane, 3rd person</genre>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>0cfd9b9213cff4a9df9dd7fea4663236</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T194132" />
+	</game>
+	<game id="191774">
+		<path>./TOSEC/Games/Tetris (2004)(Trauner, Peter)[p]/Tetris (2004)(Trauner, Peter)[p].bin</path>
+		<name>Tetris</name>
+		<desc>In Tetris, players complete lines by moving differently shaped pieces (tetrominoes), which descend onto the playing field. The completed lines disappear and grant the player points, and the player can proceed to fill the vacated spaces. The game ends when the playing field is filled. The longer the player can delay this inevitable outcome, the higher their score will be.</desc>
+		<image>./images/Tetris (2004)(Trauner, Peter)[p]-image.png</image>
+		<video>./videos/Tetris (2004)(Trauner, Peter)[p]-video.mp4</video>
+		<marquee>./images/Tetris (2004)(Trauner, Peter)[p]-marquee.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20040101T000000</releasedate>
+		<developer>Peter Trauner</developer>
+		<publisher>Peter Trauner</publisher>
+		<genre>Casual Game</genre>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>d7050af61479aa549206250441aa2b0f</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T194134" />
+	</game>
+	<game id="191774">
+		<path>./TOSEC/Games/Tetris (2004)(Trauner, Peter)[p][a]/Tetris (2004)(Trauner, Peter)[p][a].bin</path>
+		<name>Tetris</name>
+		<desc>In Tetris, players complete lines by moving differently shaped pieces (tetrominoes), which descend onto the playing field. The completed lines disappear and grant the player points, and the player can proceed to fill the vacated spaces. The game ends when the playing field is filled. The longer the player can delay this inevitable outcome, the higher their score will be.</desc>
+		<image>./images/Tetris (2004)(Trauner, Peter)[p][a]-image.png</image>
+		<video>./videos/Tetris (2004)(Trauner, Peter)[p][a]-video.mp4</video>
+		<marquee>./images/Tetris (2004)(Trauner, Peter)[p][a]-marquee.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20040101T000000</releasedate>
+		<developer>Peter Trauner</developer>
+		<publisher>Peter Trauner</publisher>
+		<genre>Casual Game</genre>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>2aebeda05478e8b7f5c1eca037ac6c2f</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T194137" />
+	</game>
+	<game id="46512">
+		<path>./TOSEC/Games/Tic Tac Toe + Shooting Gallery + Doodle + Quadra Doodle (1976)(Fairchild)/Tic Tac Toe + Shooting Gallery + Doodle + Quadra Doodle (1976)(Fairchild).bin</path>
+		<name>Videocart-1: Tic-Tac-Toe, Shooting Gallery, Doodle</name>
+		<desc>Videocart-1 features 4 different programs.
+
+Tic-Tac-Toe. A computerized version of the popular game. You play the X's and the computer the O's; taking turns your goal is the place three X's on the 3x3 grid before the computer. You always get to move first.
+
+Shooting Gallery. In this game, for 1 or 2 players, you control a rifle and need to hit a target on the other side of the screen. The goal is to hit the target with as few misses as possible. You can play with or without a time limit and at different speeds.
+
+Doodle. This is a drawing program. Using the controller you can draw any picture you like on the screen. There are five different line sizes and three available colors.
+
+Quadra-Doodle. Here the computer will draw random patterns influenced by the player, such as changing the colors used and the size of the lines. You can switch back and forth between Quadra-Doodle and Doodle, allowing you to draw on top of the generated image or the computer to draw on top of yours.</desc>
+		<image>./images/Tic Tac Toe + Shooting Gallery + Doodle + Quadra Doodle (1976)(Fairchild)-image.png</image>
+		<video>./videos/Tic Tac Toe + Shooting Gallery + Doodle + Quadra Doodle (1976)(Fairchild)-video.mp4</video>
+		<marquee>./images/Tic Tac Toe + Shooting Gallery + Doodle + Quadra Doodle (1976)(Fairchild)-marquee.png</marquee>
+		<thumbnail>./images/Tic Tac Toe + Shooting Gallery + Doodle + Quadra Doodle (1976)(Fairchild)-thumb.png</thumbnail>
+		<manual>./manuals/Tic Tac Toe + Shooting Gallery + Doodle + Quadra Doodle (1976)(Fairchild)-manual.pdf</manual>
+		<boxback>./images/Tic Tac Toe + Shooting Gallery + Doodle + Quadra Doodle (1976)(Fairchild)-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>19760101T000000</releasedate>
+		<developer>Fairlight</developer>
+		<publisher>Fairlight</publisher>
+		<genre>Casual Game</genre>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>7e5c26a6d1f9a90c68669a9800ba522d</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T194139" />
+	</game>
+	<game id="46521">
+		<path>./TOSEC/Games/Video Blackjack (1976)(Fairchild)/Video Blackjack (1976)(Fairchild).bin</path>
+		<name>Videocart-3: Video Blackjack</name>
+		<desc>Videocart-3 features a computerized version of the card game blackjack. The game follows the typical blackjack rules; your goal is to get cards totaling as close to 21 as possible without going over. The computer acts as the dealer, and is required to hit on a 16 or 'soft 17' and is required to stay on a 'hard 17'. The game features a full 52 card deck, and the computer will automatically shuffle the deck if there are less than 16 cards left; optionally you can request the computer reshuffle the deck at any time. One or two players can play, each player beginning the game with $500. There is a minimum bet of $1 and a maximum bet of $99. In the two player game a player who has gone broke may optionally borrow $100 from the house to re-enter the game.</desc>
+		<image>./images/Video Blackjack (1976)(Fairchild)-image.png</image>
+		<video>./videos/Video Blackjack (1976)(Fairchild)-video.mp4</video>
+		<marquee>./images/Video Blackjack (1976)(Fairchild)-marquee.png</marquee>
+		<thumbnail>./images/Video Blackjack (1976)(Fairchild)-thumb.png</thumbnail>
+		<manual>./manuals/Video Blackjack (1976)(Fairchild)-manual.pdf</manual>
+		<boxback>./images/Video Blackjack (1976)(Fairchild)-boxback.png</boxback>
+		<rating>0.5</rating>
+		<releasedate>19760101T000000</releasedate>
+		<developer>Fairlight</developer>
+		<publisher>Fairlight</publisher>
+		<genre>Casino / Cards</genre>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>b074c867f235fb69ced96c6916673b45</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T194141" />
+	</game>
+	<game id="46513">
+		<path>./TOSEC/Games/Video Whizball (1978)(Fairchild)/Video Whizball (1978)(Fairchild).bin</path>
+		<name>Videocart-20: Video Whizball</name>
+		<desc>Video Whizball is a game where players control paddles to protect a goal from being entered by whizballs. To protect their goal, the player's paddle can fire missiles which can be aimed straight or angled. Missiles that hit whizballs can help propel in an opposite direction. If one of the missiles (or the whizballs) hit the player's or an opponent's paddle, they will temporarily disappear leaving their goal undefended. The game is won when one of the players gets to a selected score.
+
+The game contains 72 game variations of this basic premise, including having from 1 to 4 whizballs and 6 different game types. Game types are Basic where each whizball is worth 1 point, Basic Plus where players can guide the missile shots, Bonus where whizballs are worth 1 to 4 points each, Bonus Plus which adds guided missiles to the Bonus mode, Super Bonus where whizballs increase in value the longer they stay in play, and Super Bonus Plus which adds guided missile shots to the Super Bonus mode.</desc>
+		<image>./images/Video Whizball (1978)(Fairchild)-image.png</image>
+		<video>./videos/Video Whizball (1978)(Fairchild)-video.mp4</video>
+		<marquee>./images/Video Whizball (1978)(Fairchild)-marquee.png</marquee>
+		<thumbnail>./images/Video Whizball (1978)(Fairchild)-thumb.png</thumbnail>
+		<boxback>./images/Video Whizball (1978)(Fairchild)-boxback.png</boxback>
+		<rating>0.7</rating>
+		<releasedate>19780101T000000</releasedate>
+		<developer>Fairlight</developer>
+		<publisher>Fairlight</publisher>
+		<genre>Shoot'em up / Horizontal</genre>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>90a9b3952568f91502a7088bfb0ae07e</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T194144" />
+	</game>
+</gameList>

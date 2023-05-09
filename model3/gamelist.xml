@@ -1,0 +1,1527 @@
+<?xml version="1.0"?>
+<gameList>
+	<game id="94370">
+		<path>./Games/bassdx.zip</path>
+		<name>Sega Bass Fishing</name>
+		<desc>Get Bass - Sega Bass Fishing is a fishing game from Sega.</desc>
+		<image>./images/bassdx-image.png</image>
+		<video>./videos/bassdx-video.mp4</video>
+		<marquee>./images/bassdx-marquee.png</marquee>
+		<thumbnail>./images/bassdx-thumb.png</thumbnail>
+		<fanart>./images/bassdx-fanart.jpg</fanart>
+		<boxback>./images/bassdx-boxback.png</boxback>
+		<rating>0.7</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Hunting and Fishing / Fishing</genre>
+		<family>Get Bass - Sega Bass Fishing</family>
+		<arcadesystemname>model3</arcadesystemname>
+		<players>1</players>
+		<md5>d0439ff057ea7437b3cb17b060017688</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230218T024103" />
+	</game>
+	<game id="37509">
+		<path>./Games/dayto2pe.zip</path>
+		<name>Daytona USA 2: Power Edition</name>
+		<desc>Daytona USA 2 grades up! Experience the force and the excitement of the stock cars. This time, the player can use the Hornet Classic, the car from "Daytona USA". There are new features such as the Mix Course, the combination of Medium, Expert, and Beginners, and the player can drive the reverse direction.</desc>
+		<image>./images/dayto2pe-image.png</image>
+		<video>./videos/dayto2pe-video.mp4</video>
+		<marquee>./images/dayto2pe-marquee.png</marquee>
+		<thumbnail>./images/dayto2pe-thumb.png</thumbnail>
+		<fanart>./images/dayto2pe-fanart.jpg</fanart>
+		<boxback>./images/dayto2pe-boxback.png</boxback>
+		<rating>0.85</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving / Race 3rd Pers. view</genre>
+		<family>Daytona USA</family>
+		<arcadesystemname>model3</arcadesystemname>
+		<players>1</players>
+		<md5>d05ef348c9be8408ef50ea74dae29f71</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230218T024125" />
+	</game>
+	<game id="37508">
+		<path>./Games/daytona2.zip</path>
+		<name>Daytona USA 2: Battle on the Edge</name>
+		<desc>The wild and hot run is back. 16 people can run together. Not only the body of the machine and the road surface, but also smoke and the flames for the crash scenes are reproduced beautifully. The game also uses the real engines' sounds from the real cars.</desc>
+		<image>./images/daytona2-image.png</image>
+		<video>./videos/daytona2-video.mp4</video>
+		<marquee>./images/daytona2-marquee.png</marquee>
+		<thumbnail>./images/daytona2-thumb.png</thumbnail>
+		<fanart>./images/daytona2-fanart.jpg</fanart>
+		<boxback>./images/daytona2-boxback.png</boxback>
+		<rating>0.85</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving / Race 3rd Pers. view</genre>
+		<family>Daytona USA</family>
+		<arcadesystemname>model3</arcadesystemname>
+		<players>1-2</players>
+		<md5>6d26677eb531870542347e7503762a27</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230218T024149" />
+	</game>
+	<game id="37510">
+		<path>./Games/dirtdvls.zip</path>
+		<name>Dirt Devils</name>
+		<desc>Dirt Devils is a racing game from Sega with all terrain vehicles such as a Humvee, a Sand Buggy, and a Beetle Buggy. There are 3 standard stages plus 1 hidden stage inside the big arena dome.</desc>
+		<image>./images/dirtdvls-image.png</image>
+		<video>./videos/dirtdvls-video.mp4</video>
+		<marquee>./images/dirtdvls-marquee.png</marquee>
+		<thumbnail>./images/dirtdvls-thumb.png</thumbnail>
+		<fanart>./images/dirtdvls-fanart.jpg</fanart>
+		<boxback>./images/dirtdvls-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving / Race</genre>
+		<arcadesystemname>model3</arcadesystemname>
+		<players>1-2</players>
+		<md5>a5a37d1edc6ea2bfea68cf89dfe6cb2e</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230218T024207" />
+	</game>
+	<game id="37510">
+		<path>./Games/dirtdvlsau.zip</path>
+		<name>Dirt Devils</name>
+		<desc>Dirt Devils is a racing game from Sega with all terrain vehicles such as a Humvee, a Sand Buggy, and a Beetle Buggy. There are 3 standard stages plus 1 hidden stage inside the big arena dome.</desc>
+		<image>./images/dirtdvlsau-image.png</image>
+		<video>./videos/dirtdvlsau-video.mp4</video>
+		<marquee>./images/dirtdvlsau-marquee.png</marquee>
+		<thumbnail>./images/dirtdvlsau-thumb.png</thumbnail>
+		<fanart>./images/dirtdvlsau-fanart.jpg</fanart>
+		<boxback>./images/dirtdvlsau-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving / Race</genre>
+		<arcadesystemname>model3</arcadesystemname>
+		<players>1-2</players>
+		<md5>8f714a0e47e6a74600cbc5c7b4c4a400</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230218T024209" />
+	</game>
+	<game id="37510">
+		<path>./Games/dirtdvlsg.zip</path>
+		<name>Dirt Devils</name>
+		<desc>Dirt Devils is a racing game from Sega with all terrain vehicles such as a Humvee, a Sand Buggy, and a Beetle Buggy. There are 3 standard stages plus 1 hidden stage inside the big arena dome.</desc>
+		<image>./images/dirtdvlsg-image.png</image>
+		<video>./videos/dirtdvlsg-video.mp4</video>
+		<marquee>./images/dirtdvlsg-marquee.png</marquee>
+		<thumbnail>./images/dirtdvlsg-thumb.png</thumbnail>
+		<fanart>./images/dirtdvlsg-fanart.jpg</fanart>
+		<boxback>./images/dirtdvlsg-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving / Race</genre>
+		<arcadesystemname>model3</arcadesystemname>
+		<players>1-2</players>
+		<md5>efeee5318e5417d167525e9a3b85c285</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230218T024225" />
+	</game>
+	<game id="37510">
+		<path>./Games/dirtdvlsj.zip</path>
+		<name>Dirt Devils</name>
+		<desc>Dirt Devils is a racing game from Sega with all terrain vehicles such as a Humvee, a Sand Buggy, and a Beetle Buggy. There are 3 standard stages plus 1 hidden stage inside the big arena dome.</desc>
+		<image>./images/dirtdvlsj-image.png</image>
+		<video>./videos/dirtdvlsj-video.mp4</video>
+		<marquee>./images/dirtdvlsj-marquee.png</marquee>
+		<thumbnail>./images/dirtdvlsj-thumb.png</thumbnail>
+		<fanart>./images/dirtdvlsj-fanart.jpg</fanart>
+		<boxback>./images/dirtdvlsj-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving / Race</genre>
+		<arcadesystemname>model3</arcadesystemname>
+		<players>1-2</players>
+		<md5>93f26b3232cb35fb4fbf4408808d2e1e</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230218T024241" />
+	</game>
+	<game id="37510">
+		<path>./Games/dirtdvlsu.zip</path>
+		<name>Dirt Devils</name>
+		<desc>Dirt Devils is a racing game from Sega with all terrain vehicles such as a Humvee, a Sand Buggy, and a Beetle Buggy. There are 3 standard stages plus 1 hidden stage inside the big arena dome.</desc>
+		<image>./images/dirtdvlsu-image.png</image>
+		<video>./videos/dirtdvlsu-video.mp4</video>
+		<marquee>./images/dirtdvlsu-marquee.png</marquee>
+		<thumbnail>./images/dirtdvlsu-thumb.png</thumbnail>
+		<fanart>./images/dirtdvlsu-fanart.jpg</fanart>
+		<boxback>./images/dirtdvlsu-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving / Race</genre>
+		<arcadesystemname>model3</arcadesystemname>
+		<players>1-2</players>
+		<md5>67b3ceea7f089f2d0873cb9e782ebbc7</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230218T024243" />
+	</game>
+	<game id="37511">
+		<path>./Games/eca.zip</path>
+		<name>Emergency Call Ambulance</name>
+		<desc>Become an emergency medical technician in Emergency Call Ambulance. Day or night, you're on the call! Race to the scene of a serious traffic accident, spectacular fire or senseless act of big city violence. You're mission: get the injured to the hospital emergency room as quickly and safely as possible! Players are kept aware of their patient's condition by monitoring their 'health point' indicator. Reckless driving or hitting other vehicles will dramatically reduce your patient's 'health point' indicator. Follow the on-screen directions or choose your own route. The game ends if the 'health point' indicator reaches zero before you deliver the patient to the hospital. Make it in time, and you're off to the next emergency call!</desc>
+		<image>./images/eca-image.png</image>
+		<video>./videos/eca-video.mp4</video>
+		<marquee>./images/eca-marquee.png</marquee>
+		<thumbnail>./images/eca-thumb.png</thumbnail>
+		<fanart>./images/eca-fanart.jpg</fanart>
+		<manual>./manuals/eca-manual.pdf</manual>
+		<boxback>./images/eca-boxback.png</boxback>
+		<rating>0.65</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving</genre>
+		<family>Emergency Call Ambulance</family>
+		<arcadesystemname>model3</arcadesystemname>
+		<players>1</players>
+		<md5>9db8d0ddee9c1621a04c09745b21559a</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230218T024310" />
+	</game>
+	<game id="37511">
+		<path>./Games/ecaj.zip</path>
+		<name>Emergency Call Ambulance</name>
+		<desc>Become an emergency medical technician in Emergency Call Ambulance. Day or night, you're on the call! Race to the scene of a serious traffic accident, spectacular fire or senseless act of big city violence. You're mission: get the injured to the hospital emergency room as quickly and safely as possible! Players are kept aware of their patient's condition by monitoring their 'health point' indicator. Reckless driving or hitting other vehicles will dramatically reduce your patient's 'health point' indicator. Follow the on-screen directions or choose your own route. The game ends if the 'health point' indicator reaches zero before you deliver the patient to the hospital. Make it in time, and you're off to the next emergency call!</desc>
+		<image>./images/ecaj-image.png</image>
+		<video>./videos/ecaj-video.mp4</video>
+		<marquee>./images/ecaj-marquee.png</marquee>
+		<thumbnail>./images/ecaj-thumb.png</thumbnail>
+		<fanart>./images/ecaj-fanart.jpg</fanart>
+		<manual>./manuals/ecaj-manual.pdf</manual>
+		<boxback>./images/ecaj-boxback.png</boxback>
+		<rating>0.65</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving</genre>
+		<family>Emergency Call Ambulance</family>
+		<arcadesystemname>model3</arcadesystemname>
+		<players>1</players>
+		<md5>6bca4046554c3484c80b4c146d98f86e</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230218T024326" />
+	</game>
+	<game id="37511">
+		<path>./Games/ecap.zip</path>
+		<name>Emergency Call Ambulance</name>
+		<desc>Become an emergency medical technician in Emergency Call Ambulance. Day or night, you're on the call! Race to the scene of a serious traffic accident, spectacular fire or senseless act of big city violence. You're mission: get the injured to the hospital emergency room as quickly and safely as possible! Players are kept aware of their patient's condition by monitoring their 'health point' indicator. Reckless driving or hitting other vehicles will dramatically reduce your patient's 'health point' indicator. Follow the on-screen directions or choose your own route. The game ends if the 'health point' indicator reaches zero before you deliver the patient to the hospital. Make it in time, and you're off to the next emergency call!</desc>
+		<image>./images/ecap-image.png</image>
+		<video>./videos/ecap-video.mp4</video>
+		<marquee>./images/ecap-marquee.png</marquee>
+		<thumbnail>./images/ecap-thumb.png</thumbnail>
+		<fanart>./images/ecap-fanart.jpg</fanart>
+		<manual>./manuals/ecap-manual.pdf</manual>
+		<boxback>./images/ecap-boxback.png</boxback>
+		<rating>0.65</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving</genre>
+		<family>Emergency Call Ambulance</family>
+		<arcadesystemname>model3</arcadesystemname>
+		<players>1</players>
+		<md5>044a14e998f68bc30aa3c3728c6aa017</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230218T024342" />
+	</game>
+	<game id="37511">
+		<path>./Games/ecau.zip</path>
+		<name>Emergency Call Ambulance</name>
+		<desc>Become an emergency medical technician in Emergency Call Ambulance. Day or night, you're on the call! Race to the scene of a serious traffic accident, spectacular fire or senseless act of big city violence. You're mission: get the injured to the hospital emergency room as quickly and safely as possible! Players are kept aware of their patient's condition by monitoring their 'health point' indicator. Reckless driving or hitting other vehicles will dramatically reduce your patient's 'health point' indicator. Follow the on-screen directions or choose your own route. The game ends if the 'health point' indicator reaches zero before you deliver the patient to the hospital. Make it in time, and you're off to the next emergency call!</desc>
+		<image>./images/ecau-image.png</image>
+		<video>./videos/ecau-video.mp4</video>
+		<marquee>./images/ecau-marquee.png</marquee>
+		<thumbnail>./images/ecau-thumb.png</thumbnail>
+		<fanart>./images/ecau-fanart.jpg</fanart>
+		<manual>./manuals/ecau-manual.pdf</manual>
+		<boxback>./images/ecau-boxback.png</boxback>
+		<rating>0.65</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving</genre>
+		<family>Emergency Call Ambulance</family>
+		<arcadesystemname>model3</arcadesystemname>
+		<players>1</players>
+		<md5>bda19556baec63bff13da562b7e0c8cd</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230218T024357" />
+	</game>
+	<game id="37512">
+		<path>./Games/fvipers2.zip</path>
+		<name>Fighting Vipers 2</name>
+		<desc>Fighting Vipers 2 is a 3-D fighting game.</desc>
+		<image>./images/fvipers2-image.png</image>
+		<video>./videos/fvipers2-video.mp4</video>
+		<marquee>./images/fvipers2-marquee.png</marquee>
+		<thumbnail>./images/fvipers2-thumb.png</thumbnail>
+		<fanart>./images/fvipers2-fanart.jpg</fanart>
+		<boxback>./images/fvipers2-boxback.png</boxback>
+		<rating>0.6</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fight / 3D</genre>
+		<family>Fighting Vipers</family>
+		<arcadesystemname>model3</arcadesystemname>
+		<players>1-2</players>
+		<md5>13cc273e66751207a2ece693ac8300ed</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230218T024421" />
+	</game>
+	<game id="37512">
+		<path>./Games/fvipers2o.zip</path>
+		<name>Fighting Vipers 2</name>
+		<desc>Fighting Vipers 2 is a 3-D fighting game.</desc>
+		<image>./images/fvipers2o-image.png</image>
+		<video>./videos/fvipers2o-video.mp4</video>
+		<marquee>./images/fvipers2o-marquee.png</marquee>
+		<thumbnail>./images/fvipers2o-thumb.png</thumbnail>
+		<fanart>./images/fvipers2o-fanart.jpg</fanart>
+		<boxback>./images/fvipers2o-boxback.png</boxback>
+		<rating>0.6</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fight / 3D</genre>
+		<family>Fighting Vipers</family>
+		<arcadesystemname>model3</arcadesystemname>
+		<players>1-2</players>
+		<md5>2ea53cda1ee53e5eda72bf55ee7d6b90</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230218T024436" />
+	</game>
+	<game id="94370">
+		<path>./Games/getbass.zip</path>
+		<name>Sega Bass Fishing</name>
+		<desc>Get Bass - Sega Bass Fishing is a fishing game from Sega.</desc>
+		<image>./images/getbass-image.png</image>
+		<video>./videos/getbass-video.mp4</video>
+		<marquee>./images/getbass-marquee.png</marquee>
+		<thumbnail>./images/getbass-thumb.png</thumbnail>
+		<fanart>./images/getbass-fanart.jpg</fanart>
+		<boxback>./images/getbass-boxback.png</boxback>
+		<rating>0.7</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Hunting and Fishing / Fishing</genre>
+		<family>Get Bass - Sega Bass Fishing</family>
+		<arcadesystemname>model3</arcadesystemname>
+		<players>1</players>
+		<md5>ce37eaa349150484147d1031b7e8663b</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230218T024450" />
+	</game>
+	<game id="94370">
+		<path>./Games/getbassdx.zip</path>
+		<name>Sega Bass Fishing</name>
+		<desc>Get Bass - Sega Bass Fishing is a fishing game from Sega.</desc>
+		<image>./images/getbassdx-image.png</image>
+		<video>./videos/getbassdx-video.mp4</video>
+		<marquee>./images/getbassdx-marquee.png</marquee>
+		<thumbnail>./images/getbassdx-thumb.png</thumbnail>
+		<fanart>./images/getbassdx-fanart.jpg</fanart>
+		<boxback>./images/getbassdx-boxback.png</boxback>
+		<rating>0.7</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Hunting and Fishing / Fishing</genre>
+		<family>Get Bass - Sega Bass Fishing</family>
+		<arcadesystemname>model3</arcadesystemname>
+		<players>1</players>
+		<md5>065d74aad51be1e5c030b59996f4b5f0</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230218T024453" />
+	</game>
+	<game id="94370">
+		<path>./Games/getbassur.zip</path>
+		<name>Sega Bass Fishing</name>
+		<desc>Get Bass - Sega Bass Fishing is a fishing game from Sega.</desc>
+		<image>./images/getbassur-image.png</image>
+		<video>./videos/getbassur-video.mp4</video>
+		<marquee>./images/getbassur-marquee.png</marquee>
+		<thumbnail>./images/getbassur-thumb.png</thumbnail>
+		<fanart>./images/getbassur-fanart.jpg</fanart>
+		<boxback>./images/getbassur-boxback.png</boxback>
+		<rating>0.7</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Hunting and Fishing / Fishing</genre>
+		<family>Get Bass - Sega Bass Fishing</family>
+		<arcadesystemname>model3</arcadesystemname>
+		<players>1</players>
+		<md5>9088e138f4dc31a31dd02853dd02974f</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230218T024455" />
+	</game>
+	<game id="37513">
+		<path>./Games/harley.zip</path>
+		<name>Harley-Davidson &amp; L.A. Riders</name>
+		<desc>Harley-Davidson &amp; L.A. Riders is a motorcycle game that allows players to choose from 5 different Harleys to ride. The goal is to race to various points around Los Angeles under a time limit, and to avoid crashing many times into cars. The game's style is very similar to 1993's "OutRunners".</desc>
+		<image>./images/harley-image.png</image>
+		<video>./videos/harley-video.mp4</video>
+		<marquee>./images/harley-marquee.png</marquee>
+		<thumbnail>./images/harley-thumb.png</thumbnail>
+		<fanart>./images/harley-fanart.jpg</fanart>
+		<manual>./manuals/harley-manual.pdf</manual>
+		<boxback>./images/harley-boxback.png</boxback>
+		<rating>0.6</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving / Motorcycle Race, 3rd Pers.</genre>
+		<arcadesystemname>model3</arcadesystemname>
+		<players>1</players>
+		<md5>9b34e363e5c2bf75fdf0a4bb0ffadaf7</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230218T024517" />
+	</game>
+	<game id="37513">
+		<path>./Games/harleya.zip</path>
+		<name>Harley-Davidson &amp; L.A. Riders</name>
+		<desc>Harley-Davidson &amp; L.A. Riders is a motorcycle game that allows players to choose from 5 different Harleys to ride. The goal is to race to various points around Los Angeles under a time limit, and to avoid crashing many times into cars. The game's style is very similar to 1993's "OutRunners".</desc>
+		<image>./images/harleya-image.png</image>
+		<video>./videos/harleya-video.mp4</video>
+		<marquee>./images/harleya-marquee.png</marquee>
+		<thumbnail>./images/harleya-thumb.png</thumbnail>
+		<fanart>./images/harleya-fanart.jpg</fanart>
+		<manual>./manuals/harleya-manual.pdf</manual>
+		<boxback>./images/harleya-boxback.png</boxback>
+		<rating>0.6</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving / Motorcycle Race, 3rd Pers.</genre>
+		<arcadesystemname>model3</arcadesystemname>
+		<players>1</players>
+		<md5>529d08da5e533e8756c75e8ef3cad82b</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230218T024535" />
+	</game>
+	<game id="37514">
+		<path>./Games/lamachin.zip</path>
+		<name>L.A. Machineguns</name>
+		<desc>During your mission, you will encounter enormous amounts of enemies ranging from human size robots to lightning fast weapon pods. The player is armed with a heavy machine gun which he uses to survive the 4 stages of the game.</desc>
+		<image>./images/lamachin-image.png</image>
+		<video>./videos/lamachin-video.mp4</video>
+		<marquee>./images/lamachin-marquee.png</marquee>
+		<thumbnail>./images/lamachin-thumb.png</thumbnail>
+		<fanart>./images/lamachin-fanart.jpg</fanart>
+		<boxback>./images/lamachin-boxback.png</boxback>
+		<rating>0.7</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shooter</genre>
+		<family>Gunblade</family>
+		<arcadesystemname>model3</arcadesystemname>
+		<players>1</players>
+		<md5>fd3f7f76ddc71f205153d0abe7a42ada</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230218T024556" />
+	</game>
+	<game id="37515">
+		<path>./Games/lemans24.zip</path>
+		<name>Le Mans 24</name>
+		<desc>The world's top 6 car manufacturers battle it out over 24 gruelling hours.</desc>
+		<image>./images/lemans24-image.png</image>
+		<video>./videos/lemans24-video.mp4</video>
+		<marquee>./images/lemans24-marquee.png</marquee>
+		<thumbnail>./images/lemans24-thumb.png</thumbnail>
+		<fanart>./images/lemans24-fanart.jpg</fanart>
+		<manual>./manuals/lemans24-manual.pdf</manual>
+		<boxback>./images/lemans24-boxback.png</boxback>
+		<rating>0.7</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving</genre>
+		<arcadesystemname>model3</arcadesystemname>
+		<players>1</players>
+		<md5>e3e46c8324e3370cfade12b8a79c6cec</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230218T024616" />
+	</game>
+	<game id="37516">
+		<path>./Games/lostwsga.zip</path>
+		<name>The Lost World: Jurassic Park</name>
+		<desc>If you have a good arm at shooting games you're fine. But if you don't have a good arm at shooting games better start practicing, because half of the whole game you'll be shooting a lot of raptors coming at you 30 miles per hour!!!</desc>
+		<image>./images/lostwsga-image.png</image>
+		<video>./videos/lostwsga-video.mp4</video>
+		<marquee>./images/lostwsga-marquee.png</marquee>
+		<thumbnail>./images/lostwsga-thumb.png</thumbnail>
+		<fanart>./images/lostwsga-fanart.jpg</fanart>
+		<manual>./manuals/lostwsga-manual.pdf</manual>
+		<boxback>./images/lostwsga-boxback.png</boxback>
+		<rating>0.7</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shooter</genre>
+		<family>Jurassic Park</family>
+		<arcadesystemname>model3</arcadesystemname>
+		<players>1-2</players>
+		<md5>27ddbad70782e824e74b6ea3e8c39f18</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230218T024639" />
+	</game>
+	<game id="37516">
+		<path>./Games/lostwsgp.zip</path>
+		<name>The Lost World: Jurassic Park</name>
+		<desc>If you have a good arm at shooting games you're fine. But if you don't have a good arm at shooting games better start practicing, because half of the whole game you'll be shooting a lot of raptors coming at you 30 miles per hour!!!</desc>
+		<image>./images/lostwsgp-image.png</image>
+		<video>./videos/lostwsgp-video.mp4</video>
+		<marquee>./images/lostwsgp-marquee.png</marquee>
+		<thumbnail>./images/lostwsgp-thumb.png</thumbnail>
+		<fanart>./images/lostwsgp-fanart.jpg</fanart>
+		<manual>./manuals/lostwsgp-manual.pdf</manual>
+		<boxback>./images/lostwsgp-boxback.png</boxback>
+		<rating>0.7</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shooter</genre>
+		<family>Jurassic Park</family>
+		<arcadesystemname>model3</arcadesystemname>
+		<players>1-2</players>
+		<md5>91589ca9cc18a566d08d51805cfc3ead</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230218T024654" />
+	</game>
+	<game id="94371">
+		<path>./Games/magtruck.zip</path>
+		<name>Magical Truck Adventure</name>
+		<desc>Magical Truck Adventure gives the player the feel of actually riding a rail car. An action-pedal and truck lever assists the player in chasing, jumping, and dodging the evil villains that threaten to steal Alma's precious stone.
+
+All this excitement takes place on a railroad track with 6 amazingly detailed scenic routes. The 3 challenging stages include an array of obstacles, wild rhino's, hungry crocodiles, and speeding trains to name a few.</desc>
+		<image>./images/magtruck-image.png</image>
+		<video>./videos/magtruck-video.mp4</video>
+		<marquee>./images/magtruck-marquee.png</marquee>
+		<thumbnail>./images/magtruck-thumb.png</thumbnail>
+		<fanart>./images/magtruck-fanart.jpg</fanart>
+		<boxback>./images/magtruck-boxback.png</boxback>
+		<rating>0.7</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Platform / Run Jump Scrolling</genre>
+		<arcadesystemname>model3</arcadesystemname>
+		<players>1-2</players>
+		<md5>0df0a5dc867c1996e1ee3c10afce124a</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230218T024716" />
+	</game>
+	<game id="37474">
+		<path>./Games/manxtt.zip</path>
+		<name>ManxTT Superbike</name>
+		<desc>This game is a motorcycle race with the standard schema "gone last, finish first". It was based on the real-life Isle of Man Trophy race. Only 2 tracks are available, a short and a long version of the course.
+The arcade cabinet provided a life-size bike on which to sit, which was really fun. However, it aged more badly than other similar games.</desc>
+		<image>./images/manxtt-image.png</image>
+		<video>./videos/manxtt-video.mp4</video>
+		<marquee>./images/manxtt-marquee.png</marquee>
+		<thumbnail>./images/manxtt-thumb.png</thumbnail>
+		<fanart>./images/manxtt-fanart.jpg</fanart>
+		<boxback>./images/manxtt-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving / Motorcycle Race, 3rd Pers.</genre>
+		<arcadesystemname>model2</arcadesystemname>
+		<players>1</players>
+		<md5>ffdc48400e9ac3b9aac4f84e980fc897</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230218T024729" />
+	</game>
+	<game id="78977">
+		<path>./Games/motoraiddx.zip</path>
+		<name>Motor Raid - Twin</name>
+		<desc>Motor Raid (c) 1997 Sega.  - TECHNICAL -  Sega Model 2A hardware.  Main CPU : i960KB, 68000 Sound Chips : SCSP  Players : 2 Buttons : 4  This was a rom swap upgrade for "Manx TT Superbike".  - TRIVIA -  Released in October 1997.  Marvelous Entertainment r</desc>
+		<image>./images/motoraiddx-image.png</image>
+		<video>./videos/motoraiddx-video.mp4</video>
+		<marquee>./images/motoraiddx-marquee.png</marquee>
+		<thumbnail>./images/motoraiddx-thumb.png</thumbnail>
+		<fanart>./images/motoraiddx-fanart.jpg</fanart>
+		<boxback>./images/motoraiddx-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving / Motorcycle Race, 1st Pers.</genre>
+		<arcadesystemname>sega</arcadesystemname>
+		<players>1</players>
+		<md5>ffdc48400e9ac3b9aac4f84e980fc897</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230218T024744" />
+	</game>
+	<game id="37524">
+		<path>./Games/oceanhun.zip</path>
+		<name>The Ocean Hunter</name>
+		<desc>Players will encounter an array of marine life, which dominate the seven seas, while exploring ancient ruins indicating the fascinated by the spectrum of colors, created by the sun light shining through the water, The battle is not only against the threatening marine life, but the titanic icebergs, which are capable of sinking the Ocean Hunter. Featuring spectacular underwater graphics and effects through seven stages.</desc>
+		<image>./images/oceanhun-image.png</image>
+		<video>./videos/oceanhun-video.mp4</video>
+		<marquee>./images/oceanhun-marquee.png</marquee>
+		<thumbnail>./images/oceanhun-thumb.png</thumbnail>
+		<fanart>./images/oceanhun-fanart.jpg</fanart>
+		<manual>./manuals/oceanhun-manual.pdf</manual>
+		<boxback>./images/oceanhun-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving / Race 1st Pers. view</genre>
+		<arcadesystemname>model3</arcadesystemname>
+		<players>1-2</players>
+		<md5>7610d3fcb112c7ef175bf991499d19c6</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230218T024808" />
+	</game>
+	<game id="37517">
+		<path>./Games/scud.zip</path>
+		<name>Scud Race</name>
+		<desc>Scud Race (stylized as SCUD Race, "Sport Car Ultimate Drive"), or otherwise known as Sega Super GT in North America, is an arcade racing game released by Sega in 1996. It is the first racing game to be using the Sega Model 3 hardware.</desc>
+		<image>./images/scud-image.png</image>
+		<video>./videos/scud-video.mp4</video>
+		<marquee>./images/scud-marquee.png</marquee>
+		<thumbnail>./images/scud-thumb.png</thumbnail>
+		<fanart>./images/scud-fanart.jpg</fanart>
+		<manual>./manuals/scud-manual.pdf</manual>
+		<boxback>./images/scud-boxback.png</boxback>
+		<rating>0.85</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving / Race 3rd Pers. view</genre>
+		<arcadesystemname>model3</arcadesystemname>
+		<players>1</players>
+		<md5>d2d619b0ee5cbf74596431b28080c420</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230218T024834" />
+	</game>
+	<game id="37517">
+		<path>./Games/scudau.zip</path>
+		<name>Scud Race</name>
+		<desc>Scud Race (stylized as SCUD Race, "Sport Car Ultimate Drive"), or otherwise known as Sega Super GT in North America, is an arcade racing game released by Sega in 1996. It is the first racing game to be using the Sega Model 3 hardware.</desc>
+		<image>./images/scudau-image.png</image>
+		<video>./videos/scudau-video.mp4</video>
+		<marquee>./images/scudau-marquee.png</marquee>
+		<thumbnail>./images/scudau-thumb.png</thumbnail>
+		<fanart>./images/scudau-fanart.jpg</fanart>
+		<manual>./manuals/scudau-manual.pdf</manual>
+		<boxback>./images/scudau-boxback.png</boxback>
+		<rating>0.85</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving / Race 3rd Pers. view</genre>
+		<arcadesystemname>model3</arcadesystemname>
+		<players>1</players>
+		<md5>1d526f8298a14f9f34b45ed6494e270b</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230218T024836" />
+	</game>
+	<game id="37517">
+		<path>./Games/scuddx.zip</path>
+		<name>Scud Race</name>
+		<desc>Scud Race (stylized as SCUD Race, "Sport Car Ultimate Drive"), or otherwise known as Sega Super GT in North America, is an arcade racing game released by Sega in 1996. It is the first racing game to be using the Sega Model 3 hardware.</desc>
+		<image>./images/scuddx-image.png</image>
+		<video>./videos/scuddx-video.mp4</video>
+		<marquee>./images/scuddx-marquee.png</marquee>
+		<thumbnail>./images/scuddx-thumb.png</thumbnail>
+		<fanart>./images/scuddx-fanart.jpg</fanart>
+		<manual>./manuals/scuddx-manual.pdf</manual>
+		<boxback>./images/scuddx-boxback.png</boxback>
+		<rating>0.85</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving / Race 3rd Pers. view</genre>
+		<arcadesystemname>model3</arcadesystemname>
+		<players>1</players>
+		<md5>f2c369450aa27b0af03fd3d5054a02c4</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230218T024843" />
+	</game>
+	<game id="37517">
+		<path>./Games/scudplus.zip</path>
+		<name>Scud Race</name>
+		<desc>Scud Race (stylized as SCUD Race, "Sport Car Ultimate Drive"), or otherwise known as Sega Super GT in North America, is an arcade racing game released by Sega in 1996. It is the first racing game to be using the Sega Model 3 hardware.</desc>
+		<image>./images/scudplus-image.png</image>
+		<video>./videos/scudplus-video.mp4</video>
+		<marquee>./images/scudplus-marquee.png</marquee>
+		<thumbnail>./images/scudplus-thumb.png</thumbnail>
+		<fanart>./images/scudplus-fanart.jpg</fanart>
+		<manual>./manuals/scudplus-manual.pdf</manual>
+		<boxback>./images/scudplus-boxback.png</boxback>
+		<rating>0.85</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving / Race 3rd Pers. view</genre>
+		<arcadesystemname>model3</arcadesystemname>
+		<players>1</players>
+		<md5>42c7dae57d444c8b4326274e279f5635</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230218T024905" />
+	</game>
+	<game id="37517">
+		<path>./Games/scudplusa.zip</path>
+		<name>Scud Race</name>
+		<desc>Scud Race (stylized as SCUD Race, "Sport Car Ultimate Drive"), or otherwise known as Sega Super GT in North America, is an arcade racing game released by Sega in 1996. It is the first racing game to be using the Sega Model 3 hardware.</desc>
+		<image>./images/scudplusa-image.png</image>
+		<video>./videos/scudplusa-video.mp4</video>
+		<marquee>./images/scudplusa-marquee.png</marquee>
+		<thumbnail>./images/scudplusa-thumb.png</thumbnail>
+		<fanart>./images/scudplusa-fanart.jpg</fanart>
+		<manual>./manuals/scudplusa-manual.pdf</manual>
+		<boxback>./images/scudplusa-boxback.png</boxback>
+		<rating>0.85</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving / Race 3rd Pers. view</genre>
+		<arcadesystemname>model3</arcadesystemname>
+		<players>1</players>
+		<md5>510b96389340773c13a2d820601c805e</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230218T024921" />
+	</game>
+	<game id="37483">
+		<path>./Games/sgt24h.zip</path>
+		<name>Super GT 24h</name>
+		<desc>1996 arcade racing game. Work your way to the top spot within 5 laps</desc>
+		<image>./images/sgt24h-image.png</image>
+		<video>./videos/sgt24h-video.mp4</video>
+		<marquee>./images/sgt24h-marquee.png</marquee>
+		<thumbnail>./images/sgt24h-thumb.png</thumbnail>
+		<fanart>./images/sgt24h-fanart.jpg</fanart>
+		<boxback>./images/sgt24h-boxback.png</boxback>
+		<rating>0.85</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Jaleco</developer>
+		<publisher>Jaleco</publisher>
+		<genre>Race, Driving / Race 3rd Pers. view</genre>
+		<arcadesystemname>model2</arcadesystemname>
+		<players>1</players>
+		<md5>ffdc48400e9ac3b9aac4f84e980fc897</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230218T024934" />
+	</game>
+	<game id="37520">
+		<path>./Games/skichamp.zip</path>
+		<name>Ski Champ</name>
+		<desc>Sega's Ski Champ is an arcade downhill skiing game released in 1998 that runs on Sega Model 3 hardware and features a stand-up cabinet that simulates real skiing motions.</desc>
+		<image>./images/skichamp-image.png</image>
+		<video>./videos/skichamp-video.mp4</video>
+		<marquee>./images/skichamp-marquee.png</marquee>
+		<thumbnail>./images/skichamp-thumb.png</thumbnail>
+		<fanart>./images/skichamp-fanart.jpg</fanart>
+		<boxback>./images/skichamp-boxback.png</boxback>
+		<rating>0.65</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports / Skiing</genre>
+		<family>Sega Ski</family>
+		<arcadesystemname>model3</arcadesystemname>
+		<players>1</players>
+		<md5>5cf1c78b224c8dc95c2879b9b9b940e8</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230218T024955" />
+	</game>
+	<game id="37522">
+		<path>./Games/spikeofe.zip</path>
+		<name>Spikeout: Final Edition</name>
+		<desc>Spikeout Final Edition is an Action game, developed and published by Sega,  which was released in 1999.</desc>
+		<image>./images/spikeofe-image.png</image>
+		<video>./videos/spikeofe-video.mp4</video>
+		<marquee>./images/spikeofe-marquee.png</marquee>
+		<thumbnail>./images/spikeofe-thumb.png</thumbnail>
+		<fanart>./images/spikeofe-fanart.jpg</fanart>
+		<boxback>./images/spikeofe-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fight / 3D</genre>
+		<family>Spikeout</family>
+		<arcadesystemname>model3</arcadesystemname>
+		<players>1</players>
+		<md5>d2572738f9f034c39d383ac2a172439e</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230218T025022" />
+	</game>
+	<game id="37521">
+		<path>./Games/spikeout.zip</path>
+		<name>Spikeout: Digital Battle Online</name>
+		<desc>Spikeout: Digital Battle Online is a 3D beat 'em up video game developed by Toshihiro Nagoshi, and released by Sega for their Model 3 Step 2.1 arcade system board in 1998. An update, Spikeout: Final Edition, was released in 1999.</desc>
+		<image>./images/spikeout-image.png</image>
+		<video>./videos/spikeout-video.mp4</video>
+		<marquee>./images/spikeout-marquee.png</marquee>
+		<thumbnail>./images/spikeout-thumb.png</thumbnail>
+		<fanart>./images/spikeout-fanart.jpg</fanart>
+		<boxback>./images/spikeout-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Beat'em Up</genre>
+		<family>Spikeout</family>
+		<arcadesystemname>model3</arcadesystemname>
+		<players>1</players>
+		<lang>fr</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230218T025038" />
+	</game>
+	<game id="37519">
+		<path>./Games/srally2.zip</path>
+		<name>Sega Rally 2</name>
+		<desc>Sega Rally 2 is the sequel to Sega Rally Championship. It was released in 1998 in the arcades and was later ported to the Dreamcast and PC.</desc>
+		<image>./images/srally2-image.png</image>
+		<video>./videos/srally2-video.mp4</video>
+		<marquee>./images/srally2-marquee.png</marquee>
+		<thumbnail>./images/srally2-thumb.png</thumbnail>
+		<fanart>./images/srally2-fanart.jpg</fanart>
+		<manual>./manuals/srally2-manual.pdf</manual>
+		<boxback>./images/srally2-boxback.png</boxback>
+		<rating>0.9</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving / Race 3rd Pers. view</genre>
+		<family>Sega Rally</family>
+		<arcadesystemname>model3</arcadesystemname>
+		<players>1</players>
+		<md5>a0ac3f1d8b2185dde3993cf8ab1219ce</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230218T025106" />
+	</game>
+	<game id="37519">
+		<path>./Games/srally2dx.zip</path>
+		<name>Sega Rally 2</name>
+		<desc>Sega Rally 2 is the sequel to Sega Rally Championship. It was released in 1998 in the arcades and was later ported to the Dreamcast and PC.</desc>
+		<image>./images/srally2dx-image.png</image>
+		<video>./videos/srally2dx-video.mp4</video>
+		<marquee>./images/srally2dx-marquee.png</marquee>
+		<thumbnail>./images/srally2dx-thumb.png</thumbnail>
+		<fanart>./images/srally2dx-fanart.jpg</fanart>
+		<manual>./manuals/srally2dx-manual.pdf</manual>
+		<boxback>./images/srally2dx-boxback.png</boxback>
+		<rating>0.9</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving / Race 3rd Pers. view</genre>
+		<family>Sega Rally</family>
+		<arcadesystemname>model3</arcadesystemname>
+		<players>1</players>
+		<md5>a831ae8a70788a1f44af6250e190278b</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230218T025114" />
+	</game>
+	<game id="37519">
+		<path>./Games/srally2p.zip</path>
+		<name>Sega Rally 2</name>
+		<desc>Sega Rally 2 is the sequel to Sega Rally Championship. It was released in 1998 in the arcades and was later ported to the Dreamcast and PC.</desc>
+		<image>./images/srally2p-image.png</image>
+		<video>./videos/srally2p-video.mp4</video>
+		<marquee>./images/srally2p-marquee.png</marquee>
+		<thumbnail>./images/srally2p-thumb.png</thumbnail>
+		<fanart>./images/srally2p-fanart.jpg</fanart>
+		<manual>./manuals/srally2p-manual.pdf</manual>
+		<boxback>./images/srally2p-boxback.png</boxback>
+		<rating>0.9</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving / Race 3rd Pers. view</genre>
+		<family>Sega Rally</family>
+		<arcadesystemname>model3</arcadesystemname>
+		<players>1</players>
+		<md5>d2151fb791b33c53f995273587a793ea</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230218T025133" />
+	</game>
+	<game id="37519">
+		<path>./Games/srally2pa.zip</path>
+		<name>Sega Rally 2</name>
+		<desc>Sega Rally 2 is the sequel to Sega Rally Championship. It was released in 1998 in the arcades and was later ported to the Dreamcast and PC.</desc>
+		<image>./images/srally2pa-image.png</image>
+		<video>./videos/srally2pa-video.mp4</video>
+		<marquee>./images/srally2pa-marquee.png</marquee>
+		<thumbnail>./images/srally2pa-thumb.png</thumbnail>
+		<fanart>./images/srally2pa-fanart.jpg</fanart>
+		<manual>./manuals/srally2pa-manual.pdf</manual>
+		<boxback>./images/srally2pa-boxback.png</boxback>
+		<rating>0.9</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving / Race 3rd Pers. view</genre>
+		<family>Sega Rally</family>
+		<arcadesystemname>model3</arcadesystemname>
+		<players>1</players>
+		<md5>0e5ad74b5a7fc85a6414fe34b64a270c</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230218T025152" />
+	</game>
+	<game id="37523">
+		<path>./Games/swtrilgy.zip</path>
+		<name>Star Wars Trilogy Arcade</name>
+		<desc>Star Wars Trilogy Arcade is a Model 3 shooter allowing the player to ride, fly, and shoot in galactic vehicles.
+
+Players will travel through 6 incredibly detailed intergalactic stages, featuring scenes from A New Hope, Empire Strikes Back, and Return of the Jedi, both challenging the players shooting accuracy as well as vehicle maneuvering capabilities.
+
+Hidden secrets, located in all stages, allow the player to alter the course of the stage, making each game an unconventional and thrilling experience.</desc>
+		<image>./images/swtrilgy-image.png</image>
+		<video>./videos/swtrilgy-video.mp4</video>
+		<marquee>./images/swtrilgy-marquee.png</marquee>
+		<thumbnail>./images/swtrilgy-thumb.png</thumbnail>
+		<fanart>./images/swtrilgy-fanart.jpg</fanart>
+		<manual>./manuals/swtrilgy-manual.pdf</manual>
+		<boxback>./images/swtrilgy-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shoot'em Up</genre>
+		<family>Star Wars</family>
+		<arcadesystemname>model3</arcadesystemname>
+		<players>1</players>
+		<md5>9bac39d3454ccbe096ff5ef2f3fa8066</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230218T025217" />
+	</game>
+	<game id="37523">
+		<path>./Games/swtrilgya.zip</path>
+		<name>Star Wars Trilogy Arcade</name>
+		<desc>Star Wars Trilogy Arcade is a Model 3 shooter allowing the player to ride, fly, and shoot in galactic vehicles.
+
+Players will travel through 6 incredibly detailed intergalactic stages, featuring scenes from A New Hope, Empire Strikes Back, and Return of the Jedi, both challenging the players shooting accuracy as well as vehicle maneuvering capabilities.
+
+Hidden secrets, located in all stages, allow the player to alter the course of the stage, making each game an unconventional and thrilling experience.</desc>
+		<image>./images/swtrilgya-image.png</image>
+		<video>./videos/swtrilgya-video.mp4</video>
+		<marquee>./images/swtrilgya-marquee.png</marquee>
+		<thumbnail>./images/swtrilgya-thumb.png</thumbnail>
+		<fanart>./images/swtrilgya-fanart.jpg</fanart>
+		<manual>./manuals/swtrilgya-manual.pdf</manual>
+		<boxback>./images/swtrilgya-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shoot'em Up</genre>
+		<family>Star Wars</family>
+		<arcadesystemname>model3</arcadesystemname>
+		<players>1</players>
+		<md5>1ac87e3211217b49e70ae8902684be35</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230218T025234" />
+	</game>
+	<game id="37523">
+		<path>./Games/swtrilgyp.zip</path>
+		<name>Star Wars Trilogy Arcade</name>
+		<desc>Star Wars Trilogy Arcade is a Model 3 shooter allowing the player to ride, fly, and shoot in galactic vehicles.
+
+Players will travel through 6 incredibly detailed intergalactic stages, featuring scenes from A New Hope, Empire Strikes Back, and Return of the Jedi, both challenging the players shooting accuracy as well as vehicle maneuvering capabilities.
+
+Hidden secrets, located in all stages, allow the player to alter the course of the stage, making each game an unconventional and thrilling experience.</desc>
+		<image>./images/swtrilgyp-image.png</image>
+		<video>./videos/swtrilgyp-video.mp4</video>
+		<marquee>./images/swtrilgyp-marquee.png</marquee>
+		<thumbnail>./images/swtrilgyp-thumb.png</thumbnail>
+		<fanart>./images/swtrilgyp-fanart.jpg</fanart>
+		<manual>./manuals/swtrilgyp-manual.pdf</manual>
+		<boxback>./images/swtrilgyp-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shoot'em Up</genre>
+		<family>Star Wars</family>
+		<arcadesystemname>model3</arcadesystemname>
+		<players>1</players>
+		<md5>bfcf9fdd68ca8da20965c331970618cd</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230218T025255" />
+	</game>
+	<game id="37525">
+		<path>./Games/vf3.zip</path>
+		<name>Virtua Fighter 3</name>
+		<desc>Virtua Fighter 3 is the 3rd in the Virtua Fighter series.
+
+The game adds a 4th button, the Dodge button, that lets you dodge your opponent's attacks. You can move into the screen (by pressing the Dodge button with the joystick in neutral) or out of the screen (by pressing the Dodge button with the joystick held down).
+
+Virtua Fighter 3 also adds undulations in the stages - knowing how to use these to your advantage is key to winning the game (by moving to higher ground, for instance).</desc>
+		<image>./images/vf3-image.png</image>
+		<video>./videos/vf3-video.mp4</video>
+		<marquee>./images/vf3-marquee.png</marquee>
+		<thumbnail>./images/vf3-thumb.png</thumbnail>
+		<fanart>./images/vf3-fanart.jpg</fanart>
+		<boxback>./images/vf3-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fight / 3D</genre>
+		<family>Virtua Fighter</family>
+		<arcadesystemname>model3</arcadesystemname>
+		<players>1-2</players>
+		<md5>bd7c9d97814a9be590e4716ebf5bf804</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230218T025319" />
+	</game>
+	<game id="37525">
+		<path>./Games/vf3a.zip</path>
+		<name>Virtua Fighter 3</name>
+		<desc>Virtua Fighter 3 is the 3rd in the Virtua Fighter series.
+
+The game adds a 4th button, the Dodge button, that lets you dodge your opponent's attacks. You can move into the screen (by pressing the Dodge button with the joystick in neutral) or out of the screen (by pressing the Dodge button with the joystick held down).
+
+Virtua Fighter 3 also adds undulations in the stages - knowing how to use these to your advantage is key to winning the game (by moving to higher ground, for instance).</desc>
+		<image>./images/vf3a-image.png</image>
+		<video>./videos/vf3a-video.mp4</video>
+		<marquee>./images/vf3a-marquee.png</marquee>
+		<thumbnail>./images/vf3a-thumb.png</thumbnail>
+		<fanart>./images/vf3a-fanart.jpg</fanart>
+		<boxback>./images/vf3a-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fight / 3D</genre>
+		<family>Virtua Fighter</family>
+		<arcadesystemname>model3</arcadesystemname>
+		<players>1-2</players>
+		<md5>85818c091bcca57a94aab8bdb7bb3cd3</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230218T025334" />
+	</game>
+	<game id="37525">
+		<path>./Games/vf3c.zip</path>
+		<name>Virtua Fighter 3</name>
+		<desc>Virtua Fighter 3 is the 3rd in the Virtua Fighter series.
+
+The game adds a 4th button, the Dodge button, that lets you dodge your opponent's attacks. You can move into the screen (by pressing the Dodge button with the joystick in neutral) or out of the screen (by pressing the Dodge button with the joystick held down).
+
+Virtua Fighter 3 also adds undulations in the stages - knowing how to use these to your advantage is key to winning the game (by moving to higher ground, for instance).</desc>
+		<image>./images/vf3c-image.png</image>
+		<video>./videos/vf3c-video.mp4</video>
+		<marquee>./images/vf3c-marquee.png</marquee>
+		<thumbnail>./images/vf3c-thumb.png</thumbnail>
+		<fanart>./images/vf3c-fanart.jpg</fanart>
+		<boxback>./images/vf3c-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fight / 3D</genre>
+		<family>Virtua Fighter</family>
+		<arcadesystemname>model3</arcadesystemname>
+		<players>1-2</players>
+		<md5>9ba912e123b4e03a4667d8b55b27278a</md5>
+		<lang>fr</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230218T025348" />
+	</game>
+	<game id="37499">
+		<path>./Games/von.zip</path>
+		<name>Cyber Troopers Virtual-On</name>
+		<desc>Virtual-On is set up similar to a Versus fighting game. Two Virtuaroids (Mecha) face each other on a stage. The player(s) use a variety of firearms, explosives, melee weapons, and other techniques to destroy the enemy for a set number of rounds, usually a single battle, or best two out of three rounds, like fighting games.
+
+The game is made to be played with a two-joystick setup, known as the twin-sticks. Each stick is equipped with a trigger and a button on top of the stick.</desc>
+		<image>./images/von-image.png</image>
+		<video>./videos/von-video.mp4</video>
+		<marquee>./images/von-marquee.png</marquee>
+		<thumbnail>./images/von-thumb.png</thumbnail>
+		<fanart>./images/von-fanart.jpg</fanart>
+		<boxback>./images/von-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fight</genre>
+		<family>Virtual On</family>
+		<arcadesystemname>model2</arcadesystemname>
+		<players>1-2</players>
+		<md5>ffdc48400e9ac3b9aac4f84e980fc897</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230218T025413" />
+	</game>
+	<game id="37507">
+		<path>./Games/von2.zip</path>
+		<name>Virtual On 2: Oratorio Tangram</name>
+		<desc>Cyber Troopers Virtual-On Oratorio Tangram is a 1998 Japanese Sega Model 3 arcade game that was later ported to the Sega NAOMI arcades and then later for the Dreamcast home console in both Japan in 1999 &amp; America in 2000. Oratorio Tangram is a 3D fighting game where the player assumes control of a giant humanoid robot, and a sequel to the 1995 video game Cyber Troopers Virtual-On: Operation Moongate. It was released on April 29, 2009 for the Xbox 360 on the Xbox Live Arcade as a remake of the Version 5.66. It is the most popular game in the series by far according to a SEGA poll taken in Japan.</desc>
+		<image>./images/von2-image.png</image>
+		<video>./videos/von2-video.mp4</video>
+		<marquee>./images/von2-marquee.png</marquee>
+		<thumbnail>./images/von2-thumb.png</thumbnail>
+		<fanart>./images/von2-fanart.jpg</fanart>
+		<boxback>./images/von2-boxback.png</boxback>
+		<rating>0.7</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fight</genre>
+		<family>Virtual On</family>
+		<arcadesystemname>model3</arcadesystemname>
+		<players>1</players>
+		<md5>0c273b2ab09c6d8ee786946a4ecadb07</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230218T025435" />
+	</game>
+	<game id="37507">
+		<path>./Games/von254g.zip</path>
+		<name>Virtual On 2: Oratorio Tangram</name>
+		<desc>Cyber Troopers Virtual-On Oratorio Tangram is a 1998 Japanese Sega Model 3 arcade game that was later ported to the Sega NAOMI arcades and then later for the Dreamcast home console in both Japan in 1999 &amp; America in 2000. Oratorio Tangram is a 3D fighting game where the player assumes control of a giant humanoid robot, and a sequel to the 1995 video game Cyber Troopers Virtual-On: Operation Moongate. It was released on April 29, 2009 for the Xbox 360 on the Xbox Live Arcade as a remake of the Version 5.66. It is the most popular game in the series by far according to a SEGA poll taken in Japan.</desc>
+		<image>./images/von254g-image.png</image>
+		<video>./videos/von254g-video.mp4</video>
+		<marquee>./images/von254g-marquee.png</marquee>
+		<thumbnail>./images/von254g-thumb.png</thumbnail>
+		<fanart>./images/von254g-fanart.jpg</fanart>
+		<boxback>./images/von254g-boxback.png</boxback>
+		<rating>0.7</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fight</genre>
+		<family>Virtual On</family>
+		<arcadesystemname>model3</arcadesystemname>
+		<players>1</players>
+		<md5>e6040624b3f5b69632aabe3a0f40c923</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230218T025450" />
+	</game>
+	<game id="37507">
+		<path>./Games/von2a.zip</path>
+		<name>Virtual On 2: Oratorio Tangram</name>
+		<desc>Cyber Troopers Virtual-On Oratorio Tangram is a 1998 Japanese Sega Model 3 arcade game that was later ported to the Sega NAOMI arcades and then later for the Dreamcast home console in both Japan in 1999 &amp; America in 2000. Oratorio Tangram is a 3D fighting game where the player assumes control of a giant humanoid robot, and a sequel to the 1995 video game Cyber Troopers Virtual-On: Operation Moongate. It was released on April 29, 2009 for the Xbox 360 on the Xbox Live Arcade as a remake of the Version 5.66. It is the most popular game in the series by far according to a SEGA poll taken in Japan.</desc>
+		<image>./images/von2a-image.png</image>
+		<video>./videos/von2a-video.mp4</video>
+		<marquee>./images/von2a-marquee.png</marquee>
+		<thumbnail>./images/von2a-thumb.png</thumbnail>
+		<fanart>./images/von2a-fanart.jpg</fanart>
+		<boxback>./images/von2a-boxback.png</boxback>
+		<rating>0.7</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fight</genre>
+		<family>Virtual On</family>
+		<arcadesystemname>model3</arcadesystemname>
+		<players>1</players>
+		<md5>6f22af19436d34ceefc61bffe9cd1714</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230218T025506" />
+	</game>
+	<game id="46857">
+		<path>./Games/von2o.zip</path>
+		<name>Virtua Athlete</name>
+		<desc>Virtua Athlete is a sport simulation.</desc>
+		<image>./images/von2o-image.png</image>
+		<video>./videos/von2o-video.mp4</video>
+		<marquee>./images/von2o-marquee.png</marquee>
+		<thumbnail>./images/von2o-thumb.png</thumbnail>
+		<boxback>./images/von2o-boxback.png</boxback>
+		<releasedate>20020101T000000</releasedate>
+		<developer>Hitmaker</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<md5>0e1a1b077dc704828567d46a7048cb99</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230218T025519" />
+	</game>
+	<game id="37526">
+		<path>./Games/vs2.zip</path>
+		<name>Virtua Striker 2</name>
+		<desc>The Virtua Striker video games are arcade-style football/soccer sports games by Sega. Originally developed by Sega AM2, the series moved to Amusement Vision with Virtua Striker 3. But the series moved again to Sega AM2 with Virtua Striker 4. The original Virtua Striker, released in 1994, was the first association football game to use 3D computer graphics, and was also notable for its early use of texture mapping,[1] along with Sega's own racing video game Daytona USA.</desc>
+		<image>./images/vs2-image.png</image>
+		<video>./videos/vs2-video.mp4</video>
+		<marquee>./images/vs2-marquee.png</marquee>
+		<thumbnail>./images/vs2-thumb.png</thumbnail>
+		<fanart>./images/vs2-fanart.jpg</fanart>
+		<boxback>./images/vs2-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports / Soccer</genre>
+		<family>Virtua Striker</family>
+		<arcadesystemname>model3</arcadesystemname>
+		<players>1-2</players>
+		<md5>7eb4cc1efff7db71277ec38e93e19090</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230218T025540" />
+	</game>
+	<game id="37526">
+		<path>./Games/vs215.zip</path>
+		<name>Virtua Striker 2</name>
+		<desc>The Virtua Striker video games are arcade-style football/soccer sports games by Sega. Originally developed by Sega AM2, the series moved to Amusement Vision with Virtua Striker 3. But the series moved again to Sega AM2 with Virtua Striker 4. The original Virtua Striker, released in 1994, was the first association football game to use 3D computer graphics, and was also notable for its early use of texture mapping,[1] along with Sega's own racing video game Daytona USA.</desc>
+		<image>./images/vs215-image.png</image>
+		<video>./videos/vs215-video.mp4</video>
+		<marquee>./images/vs215-marquee.png</marquee>
+		<thumbnail>./images/vs215-thumb.png</thumbnail>
+		<fanart>./images/vs215-fanart.jpg</fanart>
+		<boxback>./images/vs215-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports / Soccer</genre>
+		<family>Virtua Striker</family>
+		<arcadesystemname>model3</arcadesystemname>
+		<players>1-2</players>
+		<md5>6ee21026fc6cd9c34fb8dbd19ffde5d5</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230218T025543" />
+	</game>
+	<game id="37526">
+		<path>./Games/vs215o.zip</path>
+		<name>Virtua Striker 2</name>
+		<desc>The Virtua Striker video games are arcade-style football/soccer sports games by Sega. Originally developed by Sega AM2, the series moved to Amusement Vision with Virtua Striker 3. But the series moved again to Sega AM2 with Virtua Striker 4. The original Virtua Striker, released in 1994, was the first association football game to use 3D computer graphics, and was also notable for its early use of texture mapping,[1] along with Sega's own racing video game Daytona USA.</desc>
+		<image>./images/vs215o-image.png</image>
+		<video>./videos/vs215o-video.mp4</video>
+		<marquee>./images/vs215o-marquee.png</marquee>
+		<thumbnail>./images/vs215o-thumb.png</thumbnail>
+		<fanart>./images/vs215o-fanart.jpg</fanart>
+		<boxback>./images/vs215o-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports / Soccer</genre>
+		<family>Virtua Striker</family>
+		<arcadesystemname>model3</arcadesystemname>
+		<players>1-2</players>
+		<md5>1f64b8b332e8ef69b6625c7f3d3ec7b7</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230218T025545" />
+	</game>
+	<game id="214447">
+		<path>./Games/vs298.zip</path>
+		<name>Virtua Striker 2 '98</name>
+		<desc>Virtua Striker 2 version '98 (c) 1998 Sega.  - TECHNICAL -  Sega Model 3 Step 2.0 hardware  Main CPU : PPC603 (@ 166 Mhz)  Players : 1 Control : 8-way joystick Buttons : 4  There's also a version that runs on Sega Model 3 Step 1.5 hardware.  - TRIVIA -  V</desc>
+		<image>./images/vs298-image.png</image>
+		<video>./videos/vs298-video.mp4</video>
+		<marquee>./images/vs298-marquee.png</marquee>
+		<thumbnail>./images/vs298-thumb.png</thumbnail>
+		<fanart>./images/vs298-fanart.jpg</fanart>
+		<boxback>./images/vs298-boxback.png</boxback>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports / Soccer</genre>
+		<family>Virtua Striker</family>
+		<arcadesystemname>model3</arcadesystemname>
+		<players>1-2</players>
+		<md5>02b27f69eae1d353f52e80f96d5689cd</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230218T025553" />
+	</game>
+	<game id="214447">
+		<path>./Games/vs29815.zip</path>
+		<name>Virtua Striker 2 '98</name>
+		<desc>Virtua Striker 2 version '98 (c) 1998 Sega.  - TECHNICAL -  Sega Model 3 Step 2.0 hardware  Main CPU : PPC603 (@ 166 Mhz)  Players : 1 Control : 8-way joystick Buttons : 4  There's also a version that runs on Sega Model 3 Step 1.5 hardware.  - TRIVIA -  V</desc>
+		<image>./images/vs29815-image.png</image>
+		<video>./videos/vs29815-video.mp4</video>
+		<marquee>./images/vs29815-marquee.png</marquee>
+		<thumbnail>./images/vs29815-thumb.png</thumbnail>
+		<fanart>./images/vs29815-fanart.jpg</fanart>
+		<boxback>./images/vs29815-boxback.png</boxback>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports / Soccer</genre>
+		<family>Virtua Striker</family>
+		<arcadesystemname>model3</arcadesystemname>
+		<players>1-2</players>
+		<md5>d0495d544d9261738d29545f9ef18076</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230218T025555" />
+	</game>
+	<game id="43989">
+		<path>./Games/vs299.zip</path>
+		<name>Virtua Striker 2 '99.1</name>
+		<desc>Virtua Striker 2 version '99 (c) 1998 Sega.  - TECHNICAL -  Sega Model 3 Step 2.1 hardware  Main CPU : PPC603 (@ 166 Mhz)  Players : 1 Control : 8-way joystick Buttons : 4  - TRIVIA -  Released in December 1998.  - TIPS AND TRICKS -  * Selecting MVP Yuki-</desc>
+		<image>./images/vs299-image.png</image>
+		<video>./videos/vs299-video.mp4</video>
+		<marquee>./images/vs299-marquee.png</marquee>
+		<thumbnail>./images/vs299-thumb.png</thumbnail>
+		<boxback>./images/vs299-boxback.png</boxback>
+		<releasedate>19990101T000000</releasedate>
+		<publisher>SEGA</publisher>
+		<genre>Sports / Soccer</genre>
+		<family>Virtua Striker</family>
+		<arcadesystemname>sega</arcadesystemname>
+		<players>1-2</players>
+		<md5>566caf049899215c7c678896926ea6f5</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230218T025558" />
+	</game>
+	<game id="43989">
+		<path>./Games/vs29915.zip</path>
+		<name>Virtua Striker 2 '99.1</name>
+		<desc>Virtua Striker 2 version '99 (c) 1998 Sega.  - TECHNICAL -  Sega Model 3 Step 2.1 hardware  Main CPU : PPC603 (@ 166 Mhz)  Players : 1 Control : 8-way joystick Buttons : 4  - TRIVIA -  Released in December 1998.  - TIPS AND TRICKS -  * Selecting MVP Yuki-</desc>
+		<image>./images/vs29915-image.png</image>
+		<video>./videos/vs29915-video.mp4</video>
+		<marquee>./images/vs29915-marquee.png</marquee>
+		<thumbnail>./images/vs29915-thumb.png</thumbnail>
+		<boxback>./images/vs29915-boxback.png</boxback>
+		<releasedate>19990101T000000</releasedate>
+		<publisher>SEGA</publisher>
+		<genre>Sports / Soccer</genre>
+		<family>Virtua Striker</family>
+		<arcadesystemname>sega</arcadesystemname>
+		<players>1-2</players>
+		<md5>8ede365a2ce9f2fd1f88c394304251cc</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230218T025600" />
+	</game>
+	<game id="43989">
+		<path>./Games/vs29915a.zip</path>
+		<name>Virtua Striker 2 '99.1</name>
+		<desc>Virtua Striker 2 version '99 (c) 1998 Sega.  - TECHNICAL -  Sega Model 3 Step 2.1 hardware  Main CPU : PPC603 (@ 166 Mhz)  Players : 1 Control : 8-way joystick Buttons : 4  - TRIVIA -  Released in December 1998.  - TIPS AND TRICKS -  * Selecting MVP Yuki-</desc>
+		<image>./images/vs29915a-image.png</image>
+		<video>./videos/vs29915a-video.mp4</video>
+		<marquee>./images/vs29915a-marquee.png</marquee>
+		<thumbnail>./images/vs29915a-thumb.png</thumbnail>
+		<boxback>./images/vs29915a-boxback.png</boxback>
+		<releasedate>19990101T000000</releasedate>
+		<publisher>SEGA</publisher>
+		<genre>Sports / Soccer</genre>
+		<family>Virtua Striker</family>
+		<arcadesystemname>sega</arcadesystemname>
+		<players>1-2</players>
+		<md5>3c603f6432518db158ee6faee7eb098b</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230218T025602" />
+	</game>
+	<game id="43989">
+		<path>./Games/vs29915j.zip</path>
+		<name>Virtua Striker 2 '99.1</name>
+		<desc>Virtua Striker 2 version '99 (c) 1998 Sega.  - TECHNICAL -  Sega Model 3 Step 2.1 hardware  Main CPU : PPC603 (@ 166 Mhz)  Players : 1 Control : 8-way joystick Buttons : 4  - TRIVIA -  Released in December 1998.  - TIPS AND TRICKS -  * Selecting MVP Yuki-</desc>
+		<image>./images/vs29915j-image.png</image>
+		<video>./videos/vs29915j-video.mp4</video>
+		<marquee>./images/vs29915j-marquee.png</marquee>
+		<thumbnail>./images/vs29915j-thumb.png</thumbnail>
+		<boxback>./images/vs29915j-boxback.png</boxback>
+		<releasedate>19990101T000000</releasedate>
+		<publisher>SEGA</publisher>
+		<genre>Sports / Soccer</genre>
+		<family>Virtua Striker</family>
+		<arcadesystemname>sega</arcadesystemname>
+		<players>1-2</players>
+		<md5>fb4c314679b7698c4838123828dbc322</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230218T025605" />
+	</game>
+	<game id="43989">
+		<path>./Games/vs299a.zip</path>
+		<name>Virtua Striker 2 '99.1</name>
+		<desc>Virtua Striker 2 version '99 (c) 1998 Sega.  - TECHNICAL -  Sega Model 3 Step 2.1 hardware  Main CPU : PPC603 (@ 166 Mhz)  Players : 1 Control : 8-way joystick Buttons : 4  - TRIVIA -  Released in December 1998.  - TIPS AND TRICKS -  * Selecting MVP Yuki-</desc>
+		<image>./images/vs299a-image.png</image>
+		<video>./videos/vs299a-video.mp4</video>
+		<marquee>./images/vs299a-marquee.png</marquee>
+		<thumbnail>./images/vs299a-thumb.png</thumbnail>
+		<boxback>./images/vs299a-boxback.png</boxback>
+		<releasedate>19990101T000000</releasedate>
+		<publisher>SEGA</publisher>
+		<genre>Sports / Soccer</genre>
+		<family>Virtua Striker</family>
+		<arcadesystemname>sega</arcadesystemname>
+		<players>1-2</players>
+		<md5>fb33169750af57b4c56194188c5b9e41</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230218T025607" />
+	</game>
+	<game id="43989">
+		<path>./Games/vs299j.zip</path>
+		<name>Virtua Striker 2 '99.1</name>
+		<desc>Virtua Striker 2 version '99 (c) 1998 Sega.  - TECHNICAL -  Sega Model 3 Step 2.1 hardware  Main CPU : PPC603 (@ 166 Mhz)  Players : 1 Control : 8-way joystick Buttons : 4  - TRIVIA -  Released in December 1998.  - TIPS AND TRICKS -  * Selecting MVP Yuki-</desc>
+		<image>./images/vs299j-image.png</image>
+		<video>./videos/vs299j-video.mp4</video>
+		<marquee>./images/vs299j-marquee.png</marquee>
+		<thumbnail>./images/vs299j-thumb.png</thumbnail>
+		<boxback>./images/vs299j-boxback.png</boxback>
+		<releasedate>19990101T000000</releasedate>
+		<publisher>SEGA</publisher>
+		<genre>Sports / Soccer</genre>
+		<family>Virtua Striker</family>
+		<arcadesystemname>sega</arcadesystemname>
+		<players>1-2</players>
+		<md5>50033a99d18829ba28136bc53acaa7fd</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230218T025609" />
+	</game>
+	<game id="43989">
+		<path>./Games/vs2v991.zip</path>
+		<name>Virtua Striker 2 '99.1</name>
+		<desc>Virtua Striker 2 version '99 (c) 1998 Sega.  - TECHNICAL -  Sega Model 3 Step 2.1 hardware  Main CPU : PPC603 (@ 166 Mhz)  Players : 1 Control : 8-way joystick Buttons : 4  - TRIVIA -  Released in December 1998.  - TIPS AND TRICKS -  * Selecting MVP Yuki-</desc>
+		<image>./images/vs2v991-image.png</image>
+		<video>./videos/vs2v991-video.mp4</video>
+		<marquee>./images/vs2v991-marquee.png</marquee>
+		<thumbnail>./images/vs2v991-thumb.png</thumbnail>
+		<boxback>./images/vs2v991-boxback.png</boxback>
+		<releasedate>19990101T000000</releasedate>
+		<publisher>SEGA</publisher>
+		<genre>Sports / Soccer</genre>
+		<family>Virtua Striker</family>
+		<arcadesystemname>sega</arcadesystemname>
+		<players>1-2</players>
+		<md5>8ce66dba63fe1345fba96eee1a289bb6</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230218T025627" />
+	</game>
+	<game>
+		<path>./Games/vf3tb.zip</path>
+		<name>Virtua Fighter 3 Team Battle</name>
+		<desc>Arcade Video game published 25 years ago:
+
+Virtua Fighter 3 Team Battle (c) 1997 Sega.
+
+A new feature is added compared to "Virtua Fighter 3". The player can organize a favorite team. More strategic and more enhanced. New moves are added too, and Taka-Arashi now has the jump moves.
+
+- TECHNICAL -
+
+Runs on the Sega "Model 3" hardware.
+
+Control: 8-way joystick
+Buttons: 4
+
+Upgrading from Virtua Fighter 3 to Virtua Fighter 3TB required the operator to change 8 roms. There were 4 128k program roms and 4 4mb graphics roms.
+
+- TRIVIA -
+
+Virtua Fighter 3 Team Battle was released on September 26, 1997.
+
+- TIPS AND TRICKS -
+
+* Different costumes: Hold Start and then select your character with any button.
+
+* Select victory pose: After defeating your opponent, press G, P, K, escape or a combination of 2 keys.
+
+- SERIES -
+
+1. Virtua Fighter (1993) 
+2. Virtua Fighter 2 (1994) 
+3. Virtua Fighter Remix [Model 610-0373-02] (1995) 
+4. Virtua Fighter Kids [Model 610-0373-14] (1996) 
+5. Virtua Fighter 3 (1996) 
+6. Virtua Fighter 3 Team Battle (1997) 
+7. Virtua Fighter 4 [GDS-0012] (2001) 
+8. Virtua Fighter 4 Evolution (2002) 
+9. Virtua Fighter 4 Final Tuned (2004) 
+10. Virtua Fighter 5 (2006)
+11. Virtua Fighter 5 Version B (2006)
+12. Virtua Fighter 5 Version C (2006)
+13. Virtua Fighter 5 Version D (2006)
+14. Virtua Fighter 5 R (2008)
+15. Virtua Fighter 5 Final Showdown (2010)
+
+- PORTS -
+
+* CONSOLES:
+Sega Dreamcast [JP] (Nov. 27, 1998) "Virtua Fighter 3tb [Model HDR-0002]"
+Sega Dreamcast [JP] (???. ??, ????) "Virtua Fighter 3tb [Repeat Edition] [Model HDR-0017]"
+
+- CONTRIBUTE -
+
+Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=3681&amp;o=2</desc>
+		<image>./images/vf3tb-image.png</image>
+		<marquee>./images/vf3tb-marquee.png</marquee>
+		<thumbnail>./images/vf3tb-thumb.png</thumbnail>
+		<boxback>./images/vf3tb-boxback.png</boxback>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Fighter / Versus</genre>
+		<players>2</players>
+		<md5>20389f1fd8a7fff014dfc38dfde00783</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230218T025359" />
+		<scrap name="ArcadeDB" date="20230228T174735" />
+	</game>
+</gameList>

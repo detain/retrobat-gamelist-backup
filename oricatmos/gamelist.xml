@@ -1,0 +1,1521 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./TOSEC/Applications/[DSK]/Font Editor 2.1 (19xx)(Chouchoulas, Alexios)/Font Editor 2.1 (19xx)(Chouchoulas, Alexios).dsk</path>
+		<name>Font Editor 2.1 (19xx)(Chouchoulas, Alexios)</name>
+		<md5>e51de3df32cb0469ecbfe4052d3a919a</md5>
+		<scrap name="ScreenScraper" date="20230218T022807" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/[DSK]/Forth 83-Standard v2.4 (19xx)(-)[b][req Sedoric system disk]/Forth 83-Standard v2.4 (19xx)(-)[b][req Sedoric system disk].dsk</path>
+		<name>Forth 83-Standard v2.4 (19xx)(-)[b][req Sedoric system disk]</name>
+		<md5>df66f8e5ed4c97d89ae79f09c656db33</md5>
+		<scrap name="ScreenScraper" date="20230218T022809" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/[DSK]/Forth 83-Standard v3.1F (19xx)(-)[req Sedoric system disk]/Forth 83-Standard v3.1F (19xx)(-)[req Sedoric system disk].dsk</path>
+		<name>Forth 83-Standard v3.1F (19xx)(-)[req Sedoric system disk]</name>
+		<md5>91e62cfec089dbe9e3e247ea38e05f28</md5>
+		<scrap name="ScreenScraper" date="20230218T022811" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/[DSK]/Forth 83-Standard v3.1G (19xx)(-)[req Sedoric system disk]/Forth 83-Standard v3.1G (19xx)(-)[req Sedoric system disk].dsk</path>
+		<name>Forth 83-Standard v3.1G (19xx)(-)[req Sedoric system disk]</name>
+		<md5>0d6cb0ce8304ebffcfe76d7bb06246ee</md5>
+		<scrap name="ScreenScraper" date="20230218T022812" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/[DSK]/Forth-F83 v2.0 (1987)(Zupan, Michael)/Forth-F83 v2.0 (1987)(Zupan, Michael).dsk</path>
+		<name>Forth-F83 v2.0 (1987)(Zupan, Michael)</name>
+		<md5>cb86e511d12665f89914da1088f553e8</md5>
+		<scrap name="ScreenScraper" date="20230218T022814" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/[DSK]/HIDE - Hi-Res Bit Editor v1.1 (1999-04-13)(Twilighte)/HIDE - Hi-Res Bit Editor v1.1 (1999-04-13)(Twilighte).dsk</path>
+		<name>HIDE - Hi-Res Bit Editor v1.1 (1999-04-13)(Twilighte)</name>
+		<md5>9086f35274bd74393f1109833ce472f5</md5>
+		<scrap name="ScreenScraper" date="20230218T022816" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/[DSK]/Linker (1985)(Neuville, Frederic - Weber, A. - Chiacchierini, L.)/Linker (1985)(Neuville, Frederic - Weber, A. - Chiacchierini, L.).dsk</path>
+		<name>Linker (1985)(Neuville, Frederic - Weber, A. - Chiacchierini, L.)</name>
+		<md5>46a119b0988c3c92c0bbdeaae8c88067</md5>
+		<scrap name="ScreenScraper" date="20230218T022818" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/[DSK]/Linker (19xx)(-)[b]/Linker (19xx)(-)[b].dsk</path>
+		<name>Linker (19xx)(-)[b]</name>
+		<md5>c9bb62c90cce3807222fc59013ae6133</md5>
+		<scrap name="ScreenScraper" date="20230218T022819" />
+	</game>
+	<game id="251307">
+		<path>./TOSEC/Applications/[DSK]/Magutils #1 (1998-11-28)(-)/Magutils #1 (1998-11-28)(-).dsk</path>
+		<name>ZZZ(notgame):ZZZ-UNK</name>
+		<hidden>true</hidden>
+		<md5>2677478649d0ac0fcc6520f60bd96471</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230218T022822" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/[DSK]/MIDIPSG (19xx)(Frances, F.)/MIDIPSG (19xx)(Frances, F.).dsk</path>
+		<name>MIDIPSG (19xx)(Frances, F.)</name>
+		<md5>bdf9fb6d10e5fc44fe5d7b4a087ed5a4</md5>
+		<scrap name="ScreenScraper" date="20230218T022824" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/[DSK]/Modem (19xx)(Blathras, Vagelis)/Modem (19xx)(Blathras, Vagelis).dsk</path>
+		<name>Modem (19xx)(Blathras, Vagelis)</name>
+		<md5>61431c99c704e3dc116615e0abe4f56b</md5>
+		<scrap name="ScreenScraper" date="20230218T022825" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/[DSK]/Mused v1.3 (1991)(Mirage Software)/Mused v1.3 (1991)(Mirage Software).dsk</path>
+		<name>Mused v1.3 (1991)(Mirage Software)</name>
+		<md5>a940e2f4b6ce603cba1d23212a94f044</md5>
+		<scrap name="ScreenScraper" date="20230218T022827" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/[DSK]/Musics for Mused (19xx)(-)/Musics for Mused (19xx)(-).dsk</path>
+		<name>Musics for Mused (19xx)(-)</name>
+		<md5>9d95bf2da5a421c730acadb7c6972093</md5>
+		<scrap name="ScreenScraper" date="20230218T022829" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/[DSK]/Oric Karaoke v4 (19xx)(-)/Oric Karaoke v4 (19xx)(-).dsk</path>
+		<name>Oric Karaoke v4 (19xx)(-)</name>
+		<md5>3793624c1894c94d2f902c13992b8862</md5>
+		<scrap name="ScreenScraper" date="20230218T022831" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/[DSK]/Pinforic - Standard Release (19xx)(Enguita, Jose-Maria - Frances, Fabrice)/Pinforic - Standard Release (19xx)(Enguita, Jose-Maria - Frances, Fabrice).dsk</path>
+		<name>Pinforic - Standard Release (19xx)(Enguita, Jose-Maria - Frances, Fabrice)</name>
+		<md5>780bd8ee122dd6dbc86e24b23f40f818</md5>
+		<scrap name="ScreenScraper" date="20230218T022832" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/[DSK]/Pinforic - Standard Release v1.01 (19xx)(Enguita, Jose-Maria - Frances, Fabrice)/Pinforic - Standard Release v1.01 (19xx)(Enguita, Jose-Maria - Frances, Fabrice).dsk</path>
+		<name>Pinforic - Standard Release v1.01 (19xx)(Enguita, Jose-Maria - Frances, Fabrice)</name>
+		<md5>93efdb21b6e40bc5ffdb2452bcd87c79</md5>
+		<scrap name="ScreenScraper" date="20230218T022834" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/[DSK]/Sample EDitor (1999-05-19)(-)/Sample EDitor (1999-05-19)(-).dsk</path>
+		<name>Sample EDitor (1999-05-19)(-)</name>
+		<md5>12f9cac140403c7e99126285760755ad</md5>
+		<scrap name="ScreenScraper" date="20230218T022836" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/[DSK]/Sonix v3.40 (1993)(JCB Techniques)/Sonix v3.40 (1993)(JCB Techniques).dsk</path>
+		<name>Sonix v3.40 (1993)(JCB Techniques)</name>
+		<md5>08fbe99aa4b0832edae853686bed39cb</md5>
+		<scrap name="ScreenScraper" date="20230218T022837" />
+	</game>
+	<game id="104466">
+		<path>./TOSEC/Applications/[DSK]/Sound Tracker (1997)(Twilyte Software)/Sound Tracker (1997)(Twilyte Software).dsk</path>
+		<name>ZZZ(notgame):Soundtracker</name>
+		<hidden>true</hidden>
+		<md5>949d600c607a35efbdcaacd0232d3de5</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230218T022839" />
+	</game>
+	<game id="104466">
+		<path>./TOSEC/Applications/[DSK]/Sound Tracker (1997)(Twilyte Software)[a]/Sound Tracker (1997)(Twilyte Software)[a].dsk</path>
+		<name>ZZZ(notgame):Soundtracker</name>
+		<hidden>true</hidden>
+		<md5>c7db5b4c6f3f6e0c375f81b4e33b583a</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230218T022841" />
+	</game>
+	<game id="249814">
+		<path>./TOSEC/Applications/[DSK]/SPaint (2003)(TheSpider)/SPaint (2003)(TheSpider).dsk</path>
+		<name>Spaint</name>
+		<md5>4e24ed4de7c610df8221e47c4fe015eb</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230218T022844" />
+	</game>
+	<game id="249814">
+		<path>./TOSEC/Applications/[DSK]/SPaint (2003)(TheSpider)[a]/SPaint (2003)(TheSpider)[a].dsk</path>
+		<name>Spaint</name>
+		<md5>e1a459ccd1863ef129cb69549b8221da</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230218T022846" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/[DSK]/Sprite Editor 2 (19xx)(-)/Sprite Editor 2 (19xx)(-).dsk</path>
+		<name>Sprite Editor 2 (19xx)(-)</name>
+		<md5>5a04b660dbcaeb3a91497aabc368c985</md5>
+		<scrap name="ScreenScraper" date="20230218T022847" />
+	</game>
+	<game id="103712">
+		<path>./TOSEC/Applications/[TAP]/Assemblermonitor WAP v2.3 for LAB 6502 Assembler (1983-11-13)(Bostrom, Anders)/Assemblermonitor WAP v2.3 for LAB 6502 Assembler (1983-11-13)(Bostrom, Anders).tap</path>
+		<name>ZZZ(notgame):Assemblermonitor Wap V2.3 For Lab 6502 Assembler</name>
+		<hidden>true</hidden>
+		<md5>09e8548044d302e287fe87243b1da22f</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230218T022849" />
+	</game>
+	<game id="104211">
+		<path>./TOSEC/Applications/[TAP]/Oric-BASIC Plus 1 (1984)(Bertin, G.)(Atmos)/Oric-BASIC Plus 1 (1984)(Bertin, G.)(Atmos).tap</path>
+		<name>Oric-Basic Plus 1</name>
+		<releasedate>19840101T000000</releasedate>
+		<publisher>G.Bertin</publisher>
+		<md5>d8beed6be7c62b3aa07642e94bd28a76</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230218T022851" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[DSK]/Ballyhoo r97 (1985-12-18)(Infocom)[req Pinforic]/Ballyhoo r97 (1985-12-18)(Infocom)[req Pinforic].dsk</path>
+		<name>Ballyhoo r97 (1985-12-18)(Infocom)[req Pinforic]</name>
+		<md5>ccf4c668f26821ed884e6de50cde6a4a</md5>
+		<scrap name="ScreenScraper" date="20230218T022853" />
+	</game>
+	<game id="103824">
+		<path>./TOSEC/Games/[DSK]/Chopper (19xx)(-)[b][Sedoric]/Chopper (19xx)(-)[b][Sedoric].dsk</path>
+		<name>Chopper</name>
+		<desc>In this game you will have to fly your helicopter through three levels where you will have to destroy enemy planes and helicopters while avoiding their missiles, avoid enemy balloons and airships and finally attack the enemy base. Between each level you will need to refuel.</desc>
+		<image>./images/Chopper (19xx)(-)[b][Sedoric]-image.png</image>
+		<thumbnail>./images/Chopper (19xx)(-)[b][Sedoric]-thumb.png</thumbnail>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Dennis Salisbury</developer>
+		<publisher>Severn Software</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
+		<md5>7541c18b07ee8440d192feb858f664c9</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230218T022859" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[DSK]/Columns (1993)(Bullet Proof Software)/Columns (1993)(Bullet Proof Software).dsk</path>
+		<name>Columns (1993)(Bullet Proof Software)</name>
+		<md5>16388abbbe027ae8351cd3e932aaa1dc</md5>
+		<scrap name="ScreenScraper" date="20230218T022900" />
+	</game>
+	<game id="103857">
+		<path>./TOSEC/Games/[DSK]/Creepy Castle (19xx)(Dunlop, Myles)[m Euphoric Oguzhan Yilmaz]/Creepy Castle (19xx)(Dunlop, Myles)[m Euphoric Oguzhan Yilmaz].dsk</path>
+		<name>Creepy Castle</name>
+		<image>./images/Creepy Castle (19xx)(Dunlop, Myles)[m Euphoric Oguzhan Yilmaz]-image.png</image>
+		<md5>15cbb656bd74947bbe947e7800087e79</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230218T022904" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[DSK]/Cutthroats r23 (1984-08-09)(Infocom)[req Pinforic]/Cutthroats r23 (1984-08-09)(Infocom)[req Pinforic].dsk</path>
+		<name>Cutthroats r23 (1984-08-09)(Infocom)[req Pinforic]</name>
+		<md5>f9bda0abd27560ac3c1e764cd4e56b52</md5>
+		<scrap name="ScreenScraper" date="20230218T022906" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[DSK]/Deadline - An Interlogic Mystery r27 (1983-10-05)(Infocom)[req Pinforic]/Deadline - An Interlogic Mystery r27 (1983-10-05)(Infocom)[req Pinforic].dsk</path>
+		<name>Deadline - An Interlogic Mystery r27 (1983-10-05)(Infocom)[req Pinforic]</name>
+		<md5>93eb3255e13c0f6d53faca4cf17d82b3</md5>
+		<scrap name="ScreenScraper" date="20230218T022907" />
+	</game>
+	<game id="103880">
+		<path>./TOSEC/Games/[DSK]/Defense Force (19xx)(Tansoft)[Sedoric]/Defense Force (19xx)(Tansoft)[Sedoric].dsk</path>
+		<name>Defence Force</name>
+		<desc>Defence Force is a clone of the game "Defender": a side scrolling shoot'em up where you have to defend humans.
+Humanity has been almost totally destroyed. You are a pilot of the Defence Force and you have to kill waves of aliens coming from both sides of the screen. You will meet 16 different types of aliens, some moving only in one direction, others trying to crash in to your ship, others dividing in smaller ships when shot, and some are even invisible. Radar shows you where enemies (even invisible ones) and humans are located on the level.</desc>
+		<image>./images/Defense Force (19xx)(Tansoft)[Sedoric]-image.png</image>
+		<video>./videos/Defense Force (19xx)(Tansoft)[Sedoric]-video.mp4</video>
+		<thumbnail>./images/Defense Force (19xx)(Tansoft)[Sedoric]-thumb.png</thumbnail>
+		<releasedate>19830101T000000</releasedate>
+		<publisher>Tansoft</publisher>
+		<genre>Shoot'em up / Horizontal</genre>
+		<family>Defender</family>
+		<players>1</players>
+		<md5>a6dea7d659fe0416e9be74db8d242ec9</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230218T022914" />
+	</game>
+	<game id="249646">
+		<path>./TOSEC/Games/[DSK]/Don't Panic (1992)(Mirage Software)/Don't Panic (1992)(Mirage Software).dsk</path>
+		<name>DontPanic!</name>
+		<md5>89f6085421523ef9e5a6a097e3d3c1a5</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230218T022916" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[DSK]/Dungeon Preview (1986)(Dbug)(PD)/Dungeon Preview (1986)(Dbug)(PD).dsk</path>
+		<name>Dungeon Preview (1986)(Dbug)(PD)</name>
+		<md5>86b48b64529e0d4bb801957c9de4e9a3</md5>
+		<scrap name="ScreenScraper" date="20230218T022918" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[DSK]/Enchanter r29 (1986-08-20)(Infocom)[req Pinforic]/Enchanter r29 (1986-08-20)(Infocom)[req Pinforic].dsk</path>
+		<name>Enchanter r29 (1986-08-20)(Infocom)[req Pinforic]</name>
+		<md5>421ea48e061dcc178e9be3682a1e88bb</md5>
+		<scrap name="ScreenScraper" date="20230218T022919" />
+	</game>
+	<game id="103938">
+		<path>./TOSEC/Games/[DSK]/Fire Flash (1984)(No Man's Land)[Sedoric]/Fire Flash (1984)(No Man's Land)[Sedoric].dsk</path>
+		<name>Fire Flash</name>
+		<image>./images/Fire Flash (1984)(No Man's Land)[Sedoric]-image.png</image>
+		<thumbnail>./images/Fire Flash (1984)(No Man's Land)[Sedoric]-thumb.png</thumbnail>
+		<releasedate>19840101T000000</releasedate>
+		<publisher>No Man's Land</publisher>
+		<md5>53037bb1f618332b489abe106b96939b</md5>
+		<lang>no</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230218T022925" />
+	</game>
+	<game id="249751">
+		<path>./TOSEC/Games/[DSK]/Grendel (1990)(Mirage Software)/Grendel (1990)(Mirage Software).dsk</path>
+		<name>Grendel</name>
+		<md5>997417f7e1ce53b5fd9b5cc70dbf51aa</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230218T022927" />
+	</game>
+	<game id="103984">
+		<path>./TOSEC/Games/[DSK]/Gubbie (1985)(Aghassipour, Alexander)[Sedoric]/Gubbie (1985)(Aghassipour, Alexander)[Sedoric].dsk</path>
+		<name>Gubbie</name>
+		<image>./images/Gubbie (1985)(Aghassipour, Alexander)[Sedoric]-image.png</image>
+		<releasedate>19850101T000000</releasedate>
+		<publisher>Alexander Aghassipour</publisher>
+		<md5>542748547df05c3b5c2c81bd55e52347</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230218T022931" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[DSK]/Hibernated 1 Director's Cut r10 (2021-12-27)(Puddle Soft)(Disk 1 of 2)/Hibernated 1 Director's Cut r10 (2021-12-27)(Puddle Soft)(Disk 1 of 2).dsk</path>
+		<name>Hibernated 1 Director's Cut r10 (2021-12-27)(Puddle Soft)(Disk 1 of 2)</name>
+		<md5>3fa2898d55934b23d27a31bb6ea57647</md5>
+		<scrap name="ScreenScraper" date="20230218T022932" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[DSK]/Hibernated 1 Director's Cut r10 (2021-12-27)(Puddle Soft)(Disk 2 of 2)/Hibernated 1 Director's Cut r10 (2021-12-27)(Puddle Soft)(Disk 2 of 2).dsk</path>
+		<name>Hibernated 1 Director's Cut r10 (2021-12-27)(Puddle Soft)(Disk 2 of 2)</name>
+		<md5>0f7c2e0749e2f5d0492b8fb0c798d1e9</md5>
+		<scrap name="ScreenScraper" date="20230218T022934" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[DSK]/Hibernated 1 Director's Cut r9 (2021-06-27)(Vogt, Stefan)(Disk 1 of 2)/Hibernated 1 Director's Cut r9 (2021-06-27)(Vogt, Stefan)(Disk 1 of 2).dsk</path>
+		<name>Hibernated 1 Director's Cut r9 (2021-06-27)(Vogt, Stefan)(Disk 1 of 2)</name>
+		<md5>3fa2898d55934b23d27a31bb6ea57647</md5>
+		<scrap name="ScreenScraper" date="20230218T022936" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[DSK]/Hibernated 1 Director's Cut r9 (2021-06-27)(Vogt, Stefan)(Disk 2 of 2)/Hibernated 1 Director's Cut r9 (2021-06-27)(Vogt, Stefan)(Disk 2 of 2).dsk</path>
+		<name>Hibernated 1 Director's Cut r9 (2021-06-27)(Vogt, Stefan)(Disk 2 of 2)</name>
+		<md5>71ccea42853000447be40731f57746a1</md5>
+		<scrap name="ScreenScraper" date="20230218T022937" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[DSK]/Hitchhiker's Guide to the Galaxy, The r56 (1984-12-21)(Infocom)[b][req Pinforic]/Hitchhiker's Guide to the Galaxy, The r56 (1984-12-21)(Infocom)[b][req Pinforic].dsk</path>
+		<name>Hitchhiker's Guide to the Galaxy, The r56 (1984-12-21)(Infocom)[b][req Pinforic]</name>
+		<md5>a993795c9785f4bc7f6f7bf608bdf718</md5>
+		<scrap name="ScreenScraper" date="20230218T022939" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[DSK]/Hitchhiker's Guide to the Galaxy, The r56 (1984-12-21)(Infocom)[req Pinforic]/Hitchhiker's Guide to the Galaxy, The r56 (1984-12-21)(Infocom)[req Pinforic].dsk</path>
+		<name>Hitchhiker's Guide to the Galaxy, The r56 (1984-12-21)(Infocom)[req Pinforic]</name>
+		<md5>4d770a392c21ef5888d15722a72277b3</md5>
+		<scrap name="ScreenScraper" date="20230218T022940" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[DSK]/Hollywood Hijinx r37 (1986-12-15)(Infocom)[req Pinforic]/Hollywood Hijinx r37 (1986-12-15)(Infocom)[req Pinforic].dsk</path>
+		<name>Hollywood Hijinx r37 (1986-12-15)(Infocom)[req Pinforic]</name>
+		<md5>f15e08aa44dc5c2173d4688e2654f987</md5>
+		<scrap name="ScreenScraper" date="20230218T022942" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[DSK]/Infidel r22 (1983-09-16)(Infocom)[req Pinforic]/Infidel r22 (1983-09-16)(Infocom)[req Pinforic].dsk</path>
+		<name>Infidel r22 (1983-09-16)(Infocom)[req Pinforic]</name>
+		<md5>27c92b9e9910b8d44c92d4b1d72fe688</md5>
+		<scrap name="ScreenScraper" date="20230218T022943" />
+	</game>
+	<game id="251333">
+		<path>./TOSEC/Games/[DSK]/Infocom Sampler - Zork I, Planetfall, Infidel, The Witness (19xx)(Infocom)[req Pinforic]/Infocom Sampler - Zork I, Planetfall, Infidel, The Witness (19xx)(Infocom)[req Pinforic].dsk</path>
+		<name>ZZZ(notgame):Interactive Fiction Tutorial : Sampler 2</name>
+		<hidden>true</hidden>
+		<md5>f0d990854037f3990c6fb834aec5351d</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230218T022945" />
+	</game>
+	<game id="251333">
+		<path>./TOSEC/Games/[DSK]/Infocom Sampler - Zork I, Trinity, Leather Goddesses of Phobos (19xx)(Infocom)[b][req Pinforic]/Infocom Sampler - Zork I, Trinity, Leather Goddesses of Phobos (19xx)(Infocom)[b][req Pinforic].dsk</path>
+		<name>ZZZ(notgame):Interactive Fiction Tutorial : Sampler 2</name>
+		<hidden>true</hidden>
+		<md5>96357921b096c5c86459ddc9df844291</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230218T022947" />
+	</game>
+	<game id="251333">
+		<path>./TOSEC/Games/[DSK]/Infocom Sampler - Zork I, Trinity, Leather Goddesses of Phobos (19xx)(Infocom)[req Pinforic]/Infocom Sampler - Zork I, Trinity, Leather Goddesses of Phobos (19xx)(Infocom)[req Pinforic].dsk</path>
+		<name>ZZZ(notgame):Interactive Fiction Tutorial : Sampler 2</name>
+		<hidden>true</hidden>
+		<md5>498a83821385970552aef227b54ffdd6</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230218T022949" />
+	</game>
+	<game id="104027">
+		<path>./TOSEC/Games/[DSK]/Insect Insanity (1984)(Tansoft Ltd)[Sedoric]/Insect Insanity (1984)(Tansoft Ltd)[Sedoric].dsk</path>
+		<name>Insect Insanity</name>
+		<desc>Taking control of a boot, you have to jump around a hive, crushing bugs beneath your size nines.</desc>
+		<image>./images/Insect Insanity (1984)(Tansoft Ltd)[Sedoric]-image.png</image>
+		<thumbnail>./images/Insect Insanity (1984)(Tansoft Ltd)[Sedoric]-thumb.png</thumbnail>
+		<releasedate>19840101T000000</releasedate>
+		<publisher>Tansoft Ltd</publisher>
+		<md5>4f02bdcb8b9e667b923f0be13909a095</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230218T022955" />
+	</game>
+	<game id="104032">
+		<path>./TOSEC/Games/[DSK]/Invaders (1983)(IJK Software)[Sedoric]/Invaders (1983)(IJK Software)[Sedoric].dsk</path>
+		<name>The Invaders</name>
+		<image>./images/Invaders (1983)(IJK Software)[Sedoric]-image.png</image>
+		<developer>Public Domain</developer>
+		<publisher>Public Domain</publisher>
+		<md5>7763060895b137798582cf9099fdef72</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230218T022959" />
+	</game>
+	<game id="104059">
+		<path>./TOSEC/Games/[DSK]/Killing in Sark (2003)(CEO Software)/Killing in Sark (2003)(CEO Software).dsk</path>
+		<name>Killing In Sark</name>
+		<image>./images/Killing in Sark (2003)(CEO Software)-image.png</image>
+		<md5>3cb99d1f9de1d29c4ac04135f3dfef5c</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230218T023002" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[DSK]/Krystal Worlds Part 2 (1996)(Mirage Software)/Krystal Worlds Part 2 (1996)(Mirage Software).dsk</path>
+		<name>Krystal Worlds Part 2 (1996)(Mirage Software)</name>
+		<md5>aafd7d883eea996206132b478573f9fa</md5>
+		<scrap name="ScreenScraper" date="20230218T023004" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[DSK]/Krystal Worlds Part 2 (1996)(Mirage Software)[a]/Krystal Worlds Part 2 (1996)(Mirage Software)[a].dsk</path>
+		<name>Krystal Worlds Part 2 (1996)(Mirage Software)[a]</name>
+		<md5>40a4c8ecbe5c34e32e2550cfc2c7beaf</md5>
+		<scrap name="ScreenScraper" date="20230218T023006" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[DSK]/Leather Goddesses of Phobos r59 (1986-07-30)(Infocom)[req Pinforic]/Leather Goddesses of Phobos r59 (1986-07-30)(Infocom)[req Pinforic].dsk</path>
+		<name>Leather Goddesses of Phobos r59 (1986-07-30)(Infocom)[req Pinforic]</name>
+		<md5>a1bd9a5aae40c3826a1863a28f5b931d</md5>
+		<scrap name="ScreenScraper" date="20230218T023007" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[DSK]/Lurking Horror, The r203 (1987-05-06)(Infocom)[not Pinforic compatible]/Lurking Horror, The r203 (1987-05-06)(Infocom)[not Pinforic compatible].dsk</path>
+		<name>Lurking Horror, The r203 (1987-05-06)(Infocom)[not Pinforic compatible]</name>
+		<md5>43e766fd3daf97f4f50ae5713b0e087e</md5>
+		<scrap name="ScreenScraper" date="20230218T023009" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[DSK]/Lurking Horror, The r203 (1987-05-06)(Infocom)[req Pinforic]/Lurking Horror, The r203 (1987-05-06)(Infocom)[req Pinforic].dsk</path>
+		<name>Lurking Horror, The r203 (1987-05-06)(Infocom)[req Pinforic]</name>
+		<md5>efb2d58c80a7fac82824288397b8b47a</md5>
+		<scrap name="ScreenScraper" date="20230218T023010" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[DSK]/Magnetix (1994)(Mirage Software)/Magnetix (1994)(Mirage Software).dsk</path>
+		<name>Magnetix (1994)(Mirage Software)</name>
+		<md5>e5bed910648885490329166c44db1d73</md5>
+		<scrap name="ScreenScraper" date="20230218T023012" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[DSK]/Magnetix (1994)(Mirage Software)[a]/Magnetix (1994)(Mirage Software)[a].dsk</path>
+		<name>Magnetix (1994)(Mirage Software)[a]</name>
+		<md5>1ae067c4082234503bec2359f8d41814</md5>
+		<scrap name="ScreenScraper" date="20230218T023013" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[DSK]/Magnetix (demo) (1994)(Mirage Software)/Magnetix (demo) (1994)(Mirage Software).dsk</path>
+		<name>Magnetix (demo) (1994)(Mirage Software)</name>
+		<md5>2327444d9902c7d7d9a95564e10a5a2a</md5>
+		<scrap name="ScreenScraper" date="20230218T023015" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[DSK]/Magnetix (demo) (1994)(Mirage Software)[b track 14, sector 01][Sedoric]/Magnetix (demo) (1994)(Mirage Software)[b track 14, sector 01][Sedoric].dsk</path>
+		<name>Magnetix (demo) (1994)(Mirage Software)[b track 14, sector 01][Sedoric]</name>
+		<md5>4b6feb536cbf04db17a9592ff1adfa11</md5>
+		<scrap name="ScreenScraper" date="20230218T023017" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[DSK]/Magnetix (demo) (1994)(Mirage Software)[Sedoric]/Magnetix (demo) (1994)(Mirage Software)[Sedoric].dsk</path>
+		<name>Magnetix (demo) (1994)(Mirage Software)[Sedoric]</name>
+		<md5>1bf6805ae7047414bee1e4ad45ecab0e</md5>
+		<scrap name="ScreenScraper" date="20230218T023019" />
+	</game>
+	<game id="104108">
+		<path>./TOSEC/Games/[DSK]/Manic Miner (1985)(Software Projects)[cr The Shaddock Group - T.C.S][Sedoric]/Manic Miner (1985)(Software Projects)[cr The Shaddock Group - T.C.S][Sedoric].dsk</path>
+		<name>Manic Miner</name>
+		<desc>You play the role of Miner Willy, a bold explorer and adventurer. He discovers a network of underground caverns used by an advanced but now extinct civilization, and realizes that the mines contain lucrative metal ores. Through 20 caverns, you must collect all treasures before all time (air) runs out, watching out for the nasty guardians, the obstacles, dead falls, quicksands and all elements to be found in a classic platform game.</desc>
+		<image>./images/Manic Miner (1985)(Software Projects)[cr The Shaddock Group - T.C.S][Sedoric]-image.png</image>
+		<marquee>./images/Manic Miner (1985)(Software Projects)[cr The Shaddock Group - T.C.S][Sedoric]-marquee.png</marquee>
+		<thumbnail>./images/Manic Miner (1985)(Software Projects)[cr The Shaddock Group - T.C.S][Sedoric]-thumb.png</thumbnail>
+		<boxback>./images/Manic Miner (1985)(Software Projects)[cr The Shaddock Group - T.C.S][Sedoric]-boxback.png</boxback>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Public Domain</developer>
+		<publisher>Software Projects</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>1f197ddc3c5fbd3fb8762ab671b06f0a</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230218T023029" />
+	</game>
+	<game id="251365">
+		<path>./TOSEC/Games/[DSK]/Master Mind (19xx)(-)[b boot]/Master Mind (19xx)(-)[b boot].dsk</path>
+		<name>Master Mind</name>
+		<md5>03833f5edb8f27ce0948ef75f8139152</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230218T023032" />
+	</game>
+	<game id="251377">
+		<path>./TOSEC/Games/[DSK]/Mine Sweeper (1992)(JCB Techniques)/Mine Sweeper (1992)(JCB Techniques).dsk</path>
+		<name>Mine Sweeper</name>
+		<md5>180372c1dc76f2261821cafc380306f6</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230218T023034" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[DSK]/Moonmist r9 (1986-10-22)(Infocom)[req Pinforic]/Moonmist r9 (1986-10-22)(Infocom)[req Pinforic].dsk</path>
+		<name>Moonmist r9 (1986-10-22)(Infocom)[req Pinforic]</name>
+		<md5>6a2323e4035064c617b8ede619ebad93</md5>
+		<scrap name="ScreenScraper" date="20230218T023035" />
+	</game>
+	<game id="104162">
+		<path>./TOSEC/Games/[DSK]/Mr Wimpy (1984)(Ocean Software Ltd)[Sedoric]/Mr Wimpy (1984)(Ocean Software Ltd)[Sedoric].dsk</path>
+		<name>Mr. Wimpy</name>
+		<desc>Mr. Wimpy's task is to make the best burgers in town and you must guide him around the screen to achieve this. The zaniest, craziest burger battle! Fight Waldo and the rebel ingredients to make your delicious Wimpy burger.</desc>
+		<image>./images/Mr Wimpy (1984)(Ocean Software Ltd)[Sedoric]-image.png</image>
+		<video>./videos/Mr Wimpy (1984)(Ocean Software Ltd)[Sedoric]-video.mp4</video>
+		<marquee>./images/Mr Wimpy (1984)(Ocean Software Ltd)[Sedoric]-marquee.png</marquee>
+		<thumbnail>./images/Mr Wimpy (1984)(Ocean Software Ltd)[Sedoric]-thumb.png</thumbnail>
+		<boxback>./images/Mr Wimpy (1984)(Ocean Software Ltd)[Sedoric]-boxback.png</boxback>
+		<releasedate>19840101T000000</releasedate>
+		<developer>John Woods</developer>
+		<publisher>Ocean</publisher>
+		<players>1</players>
+		<md5>331270e18f86e3a4f755dbf91fc8ad6d</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230218T023047" />
+	</game>
+	<game id="104171">
+		<path>./TOSEC/Games/[DSK]/Mushroom Mania (1986)(Trans S Software)[Sedoric]/Mushroom Mania (1986)(Trans S Software)[Sedoric].dsk</path>
+		<name>Mushroom Mania</name>
+		<desc>Similar to Centipede, the object of the game is to destroy a centipede that advances downward from the top of the screen. The centipede moves horizontally until it hits an obstacle or reaches the edge of the screen, after which it falls from a row and changes direction. Once it enters the player's gray maneuver area, it stays there and additional heads spawn at intervals until they and the centipede are destroyed. Pulling on a segment of the body splits the centipede in half, with the rear part sprouting its own head. Colliding with an enemy costs the player one life.</desc>
+		<image>./images/Mushroom Mania (1986)(Trans S Software)[Sedoric]-image.png</image>
+		<video>./videos/Mushroom Mania (1986)(Trans S Software)[Sedoric]-video.mp4</video>
+		<marquee>./images/Mushroom Mania (1986)(Trans S Software)[Sedoric]-marquee.png</marquee>
+		<thumbnail>./images/Mushroom Mania (1986)(Trans S Software)[Sedoric]-thumb.png</thumbnail>
+		<manual>./manuals/Mushroom Mania (1986)(Trans S Software)[Sedoric]-manual.pdf</manual>
+		<boxback>./images/Mushroom Mania (1986)(Trans S Software)[Sedoric]-boxback.png</boxback>
+		<releasedate>19860101T000000</releasedate>
+		<publisher>Arcadia Software</publisher>
+		<players>1-2</players>
+		<md5>719d6f535d62fe050508f1cd08cfb3d4</md5>
+		<lang>es</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230218T023103" />
+	</game>
+	<game id="104222">
+		<path>./TOSEC/Games/[DSK]/Oric Lander (1984-04)(Your Computer Magazine)[h Herve, Janod][Sedoric]/Oric Lander (1984-04)(Your Computer Magazine)[h Herve, Janod][Sedoric].dsk</path>
+		<name>Oric Lander</name>
+		<image>./images/Oric Lander (1984-04)(Your Computer Magazine)[h Herve, Janod][Sedoric]-image.png</image>
+		<md5>53db351d376fc5265ae51bb965cab558</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230218T023107" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[DSK]/Oric-Raid (demo-playable) (19xx)(Peacer)/Oric-Raid (demo-playable) (19xx)(Peacer).dsk</path>
+		<name>Oric-Raid (demo-playable) (19xx)(Peacer)</name>
+		<md5>843b45dde6fd5e544b797480350a21e1</md5>
+		<scrap name="ScreenScraper" date="20230218T023108" />
+	</game>
+	<game id="104266">
+		<path>./TOSEC/Games/[DSK]/Pente (19xx)(CEO Software)/Pente (19xx)(CEO Software).dsk</path>
+		<name>Pente</name>
+		<image>./images/Pente (19xx)(CEO Software)-image.png</image>
+		<md5>2c5e47396cfa75ef576c0ceb777e95ee</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230218T023112" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[DSK]/Planetfall r37 (1985-10-03)(Infocom)[req Pinforic]/Planetfall r37 (1985-10-03)(Infocom)[req Pinforic].dsk</path>
+		<name>Planetfall r37 (1985-10-03)(Infocom)[req Pinforic]</name>
+		<md5>f3af4ced5dc64187da78c3b62ae3e307</md5>
+		<scrap name="ScreenScraper" date="20230218T023114" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[DSK]/Plundered Hearts r26 (1987-07-30)(Infocom)[req Pinforic]/Plundered Hearts r26 (1987-07-30)(Infocom)[req Pinforic].dsk</path>
+		<name>Plundered Hearts r26 (1987-07-30)(Infocom)[req Pinforic]</name>
+		<md5>451565942bf1824c89d79502e8a238ba</md5>
+		<scrap name="ScreenScraper" date="20230218T023116" />
+	</game>
+	<game id="104295">
+		<path>./TOSEC/Games/[DSK]/Probe 3 (1985)(IJK Software)[Sedoric]/Probe 3 (1985)(IJK Software)[Sedoric].dsk</path>
+		<name>Probe 3</name>
+		<image>./images/Probe 3 (1985)(IJK Software)[Sedoric]-image.png</image>
+		<releasedate>19850101T000000</releasedate>
+		<publisher>IJK Software</publisher>
+		<md5>200c643f36e2b3d4390251bd3e6a67af</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230218T023120" />
+	</game>
+	<game id="104303">
+		<path>./TOSEC/Games/[DSK]/Pulsoids (2002-12)(Club Europe Oric)(en)(FW)/Pulsoids (2002-12)(Club Europe Oric)(en)(FW).dsk</path>
+		<name>Pulsoids</name>
+		<desc>PULSOIDS is an arcade game for one or two players (Alternating).
+Each player must clear the screen of tiles by deflecting pulsoids (Energy pulses) off their energy mirror (Bat). Each player starts with one pulse. However, Aliens also play in this arena, entering from the eye at the top of the screen. If a pulsoid collides with it, the alien will be destroyed and the Pulsoid will split into two. Bonuses also fall for some tiles that are destroyed. Collect them to earn extra power-ups and increase your score.</desc>
+		<image>./images/Pulsoids (2002-12)(Club Europe Oric)(en)(FW)-image.png</image>
+		<marquee>./images/Pulsoids (2002-12)(Club Europe Oric)(en)(FW)-marquee.png</marquee>
+		<thumbnail>./images/Pulsoids (2002-12)(Club Europe Oric)(en)(FW)-thumb.png</thumbnail>
+		<boxback>./images/Pulsoids (2002-12)(Club Europe Oric)(en)(FW)-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>20021201T000000</releasedate>
+		<developer>Jonathan Bristow</developer>
+		<publisher>Oric.org</publisher>
+		<genre>Action / Breakout games</genre>
+		<players>1-2</players>
+		<md5>50fd8261f22bbca344fdcc665d0258c5</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230218T023130" />
+	</game>
+	<game id="104324">
+		<path>./TOSEC/Games/[DSK]/Rat Splat (19xx)(Tansoft)[Sedoric]/Rat Splat (19xx)(Tansoft)[Sedoric].dsk</path>
+		<name>Rat Splat</name>
+		<desc>A truly revolting game ! Chase the rats down the sewers, splat them with your hammer, spray the monsters with your aerosol can, and rescue the cheese !</desc>
+		<image>./images/Rat Splat (19xx)(Tansoft)[Sedoric]-image.png</image>
+		<marquee>./images/Rat Splat (19xx)(Tansoft)[Sedoric]-marquee.png</marquee>
+		<thumbnail>./images/Rat Splat (19xx)(Tansoft)[Sedoric]-thumb.png</thumbnail>
+		<boxback>./images/Rat Splat (19xx)(Tansoft)[Sedoric]-boxback.png</boxback>
+		<releasedate>19830101T000000</releasedate>
+		<developer>John Marshall</developer>
+		<publisher>Tansoft</publisher>
+		<players>1</players>
+		<md5>683ceb69bd82bd3932fb79edaca0cefb</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230218T023139" />
+	</game>
+	<game id="104364">
+		<path>./TOSEC/Games/[DSK]/Scuba Dive (1984)(Jeffs, Ronald)[Sedoric]/Scuba Dive (1984)(Jeffs, Ronald)[Sedoric].dsk</path>
+		<name>Scuba Dive</name>
+		<desc>The object of the game is to collect, and return to the boat as much treasure as possible avoiding all underwater dangers you will face.</desc>
+		<image>./images/Scuba Dive (1984)(Jeffs, Ronald)[Sedoric]-image.png</image>
+		<marquee>./images/Scuba Dive (1984)(Jeffs, Ronald)[Sedoric]-marquee.png</marquee>
+		<thumbnail>./images/Scuba Dive (1984)(Jeffs, Ronald)[Sedoric]-thumb.png</thumbnail>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Ronald Jeffs</developer>
+		<publisher>Durell Software</publisher>
+		<players>1</players>
+		<md5>9e4c52f647d5d0f631db659fe0fe2b42</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230218T023147" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[DSK]/Seastalker - You and the Ultramarine Bioceptor r16 (1985-06-03)(Infocom)[req Pinforic]/Seastalker - You and the Ultramarine Bioceptor r16 (1985-06-03)(Infocom)[req Pinforic].dsk</path>
+		<name>Seastalker - You and the Ultramarine Bioceptor r16 (1985-06-03)(Infocom)[req Pinforic]</name>
+		<md5>8e03df4f18b7f0570e066f236641540e</md5>
+		<scrap name="ScreenScraper" date="20230218T023149" />
+	</game>
+	<game id="104375">
+		<path>./TOSEC/Games/[DSK]/Shuttle Simulator (1983)(Microdeal)/Shuttle Simulator (1983)(Microdeal).dsk</path>
+		<name>Shuttle Simulator</name>
+		<image>./images/Shuttle Simulator (1983)(Microdeal)-image.png</image>
+		<thumbnail>./images/Shuttle Simulator (1983)(Microdeal)-thumb.png</thumbnail>
+		<releasedate>19830101T000000</releasedate>
+		<publisher>Microdeal</publisher>
+		<md5>23e54c68cfd7f6e3b5181c60ae635ff1</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230218T023155" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[DSK]/Sorcerer r15 (1985-11-08)(Infocom)[Pinforic 1.0.2]/Sorcerer r15 (1985-11-08)(Infocom)[Pinforic 1.0.2].dsk</path>
+		<name>Sorcerer r15 (1985-11-08)(Infocom)[Pinforic 1.0.2]</name>
+		<md5>e9acff342f9b1090ae9fe2d6e6821fa6</md5>
+		<scrap name="ScreenScraper" date="20230218T023157" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[DSK]/Sorcerer r15 (1985-11-08)(Infocom)[req Pinforic]/Sorcerer r15 (1985-11-08)(Infocom)[req Pinforic].dsk</path>
+		<name>Sorcerer r15 (1985-11-08)(Infocom)[req Pinforic]</name>
+		<md5>6a3d41a19c583bf98db3381f9938a009</md5>
+		<scrap name="ScreenScraper" date="20230218T023158" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[DSK]/Spellbreaker r87 (1986-09-04)(Infocom)[req Pinforic]/Spellbreaker r87 (1986-09-04)(Infocom)[req Pinforic].dsk</path>
+		<name>Spellbreaker r87 (1986-09-04)(Infocom)[req Pinforic]</name>
+		<md5>244d2910df40783a08890a8f57966820</md5>
+		<scrap name="ScreenScraper" date="20230218T023200" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[DSK]/Squeek II - The High Pitched Whine (1992)(JCB Techniques)/Squeek II - The High Pitched Whine (1992)(JCB Techniques).dsk</path>
+		<name>Squeek II - The High Pitched Whine (1992)(JCB Techniques)</name>
+		<md5>c3fea1f9b208661f850e5300112aace4</md5>
+		<scrap name="ScreenScraper" date="20230218T023201" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[DSK]/Starcross r17 (1982-10-21)(Infocom)[req Pinforic]/Starcross r17 (1982-10-21)(Infocom)[req Pinforic].dsk</path>
+		<name>Starcross r17 (1982-10-21)(Infocom)[req Pinforic]</name>
+		<md5>dd26c7a88ca49cffab341bc2ced1894e</md5>
+		<scrap name="ScreenScraper" date="20230218T023203" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[DSK]/Stationfall r107 (1987-04-30)(Infocom)[req Pinforic]/Stationfall r107 (1987-04-30)(Infocom)[req Pinforic].dsk</path>
+		<name>Stationfall r107 (1987-04-30)(Infocom)[req Pinforic]</name>
+		<md5>65cacec20465bd96900f7df588d52ea8</md5>
+		<scrap name="ScreenScraper" date="20230218T023204" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[DSK]/Suspect r14 (1984-10-05)(Infocom)[req Pinforic]/Suspect r14 (1984-10-05)(Infocom)[req Pinforic].dsk</path>
+		<name>Suspect r14 (1984-10-05)(Infocom)[req Pinforic]</name>
+		<md5>b871b4106138dac27c00a0581dd1a229</md5>
+		<scrap name="ScreenScraper" date="20230218T023206" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[DSK]/Suspended r8 (1984-05-21)(Infocom)[a][req Pinforic]/Suspended r8 (1984-05-21)(Infocom)[a][req Pinforic].dsk</path>
+		<name>Suspended r8 (1984-05-21)(Infocom)[a][req Pinforic]</name>
+		<md5>a6f065193dd2a8e919214d957520069c</md5>
+		<scrap name="ScreenScraper" date="20230218T023207" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[DSK]/Suspended r8 (1984-05-21)(Infocom)[req Pinforic]/Suspended r8 (1984-05-21)(Infocom)[req Pinforic].dsk</path>
+		<name>Suspended r8 (1984-05-21)(Infocom)[req Pinforic]</name>
+		<md5>c0967f5be722a1e8ee80fdbf0caecc68</md5>
+		<scrap name="ScreenScraper" date="20230218T023209" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[DSK]/Tea for Two Blitz (1995)(Frances, Fabrice)/Tea for Two Blitz (1995)(Frances, Fabrice).dsk</path>
+		<name>Tea for Two Blitz (1995)(Frances, Fabrice)</name>
+		<md5>5595067f3c3e8a39dc982466804050ef</md5>
+		<scrap name="ScreenScraper" date="20230218T023210" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[DSK]/Tetris GB (1992)(JCB Techniques)/Tetris GB (1992)(JCB Techniques)(PD).dsk</path>
+		<name>Tetris GB (1992)(JCB Techniques)(PD)</name>
+		<md5>2b79e9262cc4bb6f89ba89c649505afd</md5>
+		<scrap name="ScreenScraper" date="20230218T023212" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[DSK]/Toxic Slime Considered Harmful (1995)(Chouchoulas, Alexios)/Toxic Slime Considered Harmful (1995)(Chouchoulas, Alexios).dsk</path>
+		<name>Toxic Slime Considered Harmful (1995)(Chouchoulas, Alexios)</name>
+		<md5>ac87548e5d57097aa08368cb26593936</md5>
+		<scrap name="ScreenScraper" date="20230218T023213" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[DSK]/Toxic Slime Considered Harmful (1995)(Chouchoulas, Alexios)[a]/Toxic Slime Considered Harmful (1995)(Chouchoulas, Alexios)[a].dsk</path>
+		<name>Toxic Slime Considered Harmful (1995)(Chouchoulas, Alexios)[a]</name>
+		<md5>19ef5729ec6a30d24a8fc549366a9d67</md5>
+		<scrap name="ScreenScraper" date="20230218T023214" />
+	</game>
+	<game id="104575">
+		<path>./TOSEC/Games/[DSK]/Tyrann (1984)(Norsoft)/Tyrann (1984)(Norsoft).dsk</path>
+		<name>Tyrann</name>
+		<image>./images/Tyrann (1984)(Norsoft)-image.png</image>
+		<thumbnail>./images/Tyrann (1984)(Norsoft)-thumb.png</thumbnail>
+		<releasedate>19840101T000000</releasedate>
+		<publisher>Norsoft</publisher>
+		<md5>40fd349c6b58e516278ac74da0177fba</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230218T023219" />
+	</game>
+	<game id="104589">
+		<path>./TOSEC/Games/[DSK]/Ultra (19xx)(-)[Sedoric]/Ultra (19xx)(-)[Sedoric].dsk</path>
+		<name>Ultra</name>
+		<image>./images/Ultra (19xx)(-)[Sedoric]-image.png</image>
+		<thumbnail>./images/Ultra (19xx)(-)[Sedoric]-thumb.png</thumbnail>
+		<releasedate>19830101T000000</releasedate>
+		<md5>d49e73d7af5e39e0ffc5a860adc74095</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230218T023225" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[DSK]/Wishbringer - The Magick Stone of Dreams r69 (1985-09-20)(Infocom)[req Pinforic]/Wishbringer - The Magick Stone of Dreams r69 (1985-09-20)(Infocom)[req Pinforic].dsk</path>
+		<name>Wishbringer - The Magick Stone of Dreams r69 (1985-09-20)(Infocom)[req Pinforic]</name>
+		<md5>a3f14d568138bc2316806c185bc24b19</md5>
+		<scrap name="ScreenScraper" date="20230218T023227" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[DSK]/Witness, The r22 (1984-09-24)(Infocom)[req Pinforic]/Witness, The r22 (1984-09-24)(Infocom)[req Pinforic].dsk</path>
+		<name>Witness, The r22 (1984-09-24)(Infocom)[req Pinforic]</name>
+		<md5>b12bf345c8ab3d31e7c5efe2bed5a86e</md5>
+		<scrap name="ScreenScraper" date="20230218T023228" />
+	</game>
+	<game id="104649">
+		<path>./TOSEC/Games/[DSK]/Zorgon's Revenge (1983)(IJK Software Ltd)[Sedoric]/Zorgon's Revenge (1983)(IJK Software Ltd)[Sedoric].dsk</path>
+		<name>Zorgon's Revenge</name>
+		<desc>Following their defeat at the hands of the Xenon fleet the Zorgons have captured the Xenon princess Roz and have imprisoned her in their castle. You are commissioned to rescue her by scouring the four corners of the Zorgon Empire to capture the magic stones. These stones, guarded by the Quadnogs, Terrapods and many other strange beasts, are needed to bridge the bottomless chasm surrounding the castle, enabling you to achieve your goal.</desc>
+		<image>./images/Zorgon's Revenge (1983)(IJK Software Ltd)[Sedoric]-image.png</image>
+		<video>./videos/Zorgon's Revenge (1983)(IJK Software Ltd)[Sedoric]-video.mp4</video>
+		<marquee>./images/Zorgon's Revenge (1983)(IJK Software Ltd)[Sedoric]-marquee.png</marquee>
+		<rating>0.9</rating>
+		<developer>John S. Sinclair</developer>
+		<publisher>IJK Software</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>27fbdec3b97f85efec94e4966062c173</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230218T023235" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[DSK]/Zork I - The Great Underground Empire r88 (1984-07-26)(Infocom)[req Pinforic]/Zork I - The Great Underground Empire r88 (1984-07-26)(Infocom)[req Pinforic].dsk</path>
+		<name>Zork I - The Great Underground Empire r88 (1984-07-26)(Infocom)[req Pinforic]</name>
+		<md5>ff21207d70b729569b27162d8cc85e30</md5>
+		<scrap name="ScreenScraper" date="20230218T023237" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[DSK]/Zork II - The Wizard of Frobozz v48 (1984-09-04)(Infocom)[req Pinforic]/Zork II - The Wizard of Frobozz v48 (1984-09-04)(Infocom)[req Pinforic].dsk</path>
+		<name>Zork II - The Wizard of Frobozz v48 (1984-09-04)(Infocom)[req Pinforic]</name>
+		<md5>0f9ef9294a154228a89ce525a7f7c9f4</md5>
+		<scrap name="ScreenScraper" date="20230218T023239" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[DSK]/Zork III - The Dungeon Master r17 (1984-07-27)(Infocom)[req Pinforic]/Zork III - The Dungeon Master r17 (1984-07-27)(Infocom)[req Pinforic].dsk</path>
+		<name>Zork III - The Dungeon Master r17 (1984-07-27)(Infocom)[req Pinforic]</name>
+		<md5>ab3e8f286448f8592074c6d1fd62f581</md5>
+		<scrap name="ScreenScraper" date="20230218T023240" />
+	</game>
+	<game id="103660">
+		<path>./TOSEC/Games/[TAP]/3D Luffar-Schack v1.2 (1983)(-)(en-sv)/3D Luffar-Schack v1.2 (1983)(-)(en-sv).tap</path>
+		<name>3d Luffar-schack</name>
+		<image>./images/3D Luffar-Schack v1.2 (1983)(-)(en-sv)-image.png</image>
+		<md5>4c311914da94b57d4b72427e6e78052b</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230218T023243" />
+	</game>
+	<game id="103661">
+		<path>./TOSEC/Games/[TAP]/3D Maze (19xx)(-)/3D Maze (19xx)(-).tap</path>
+		<name>3D Maze</name>
+		<image>./images/3D Maze (19xx)(-)-image.png</image>
+		<marquee>./images/3D Maze (19xx)(-)-marquee.png</marquee>
+		<thumbnail>./images/3D Maze (19xx)(-)-thumb.png</thumbnail>
+		<md5>5d20afebf6046e49c7456548ebf40888</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230218T023250" />
+	</game>
+	<game id="103665">
+		<path>./TOSEC/Games/[TAP]/3D Tunnel, The (1998)(Dbug)(PD)/3D Tunnel, The (1998)(Dbug)(PD).tap</path>
+		<name>ZZZ(notgame):3d Tunnel</name>
+		<marquee>./images/3D Tunnel, The (1998)(Dbug)(PD)-marquee.png</marquee>
+		<developer>Public Domain</developer>
+		<publisher>Public Domain</publisher>
+		<hidden>true</hidden>
+		<md5>bde296686abab3cc133d595f9803a37f</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230218T023254" />
+	</game>
+	<game id="103682">
+		<path>./TOSEC/Games/[TAP]/Airline (1983)(C.C.S)/Airline (1983)(C.C.S).tap</path>
+		<name>Airline</name>
+		<desc>Airline is an economic strategy game, with the player taking the role of a Chairman for L-AIR, an air company whose business starts off with £3 million. He has 7 years to increase his net assets to £30 million. The player can charter, buy or sell aircraft, as well as managing staffing, maintenance and insurance. Situations in game (like hijacks, air crashes and sabotage) and costs (of fuel and aircrafts, tax demands etc.) are realistic.The graphics are simplified, made ​​up almost entirely of tables and texts.</desc>
+		<image>./images/Airline (1983)(C.C.S)-image.png</image>
+		<marquee>./images/Airline (1983)(C.C.S)-marquee.png</marquee>
+		<thumbnail>./images/Airline (1983)(C.C.S)-thumb.png</thumbnail>
+		<boxback>./images/Airline (1983)(C.C.S)-boxback.png</boxback>
+		<rating>0.4</rating>
+		<releasedate>19830101T000000</releasedate>
+		<publisher>Cases Computer Simulations</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<md5>91229fea23625545998a753b994a235c</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230218T023302" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[TAP]/ASCII Chase (2017-06-12)(Caruso, Fabrizio)/ASCII Chase (2017-06-12)(Caruso, Fabrizio).tap</path>
+		<name>ASCII Chase (2017-06-12)(Caruso, Fabrizio)</name>
+		<md5>8cf77589bc0f175a931161f9cb0d0db8</md5>
+		<scrap name="ScreenScraper" date="20230218T023304" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[TAP]/ASCII Chase (2017-06-20)(Caruso, Fabrizio)/ASCII Chase (2017-06-20)(Caruso, Fabrizio).tap</path>
+		<name>ASCII Chase (2017-06-20)(Caruso, Fabrizio)</name>
+		<md5>87c913e9987ee9009f45b40c81394698</md5>
+		<scrap name="ScreenScraper" date="20230218T023305" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[TAP]/ASCII Chase (2017-06-26)(Caruso, Fabrizio)/ASCII Chase (2017-06-26)(Caruso, Fabrizio).tap</path>
+		<name>ASCII Chase (2017-06-26)(Caruso, Fabrizio)</name>
+		<md5>c1235d336d904b6e2715f64f545a72a0</md5>
+		<scrap name="ScreenScraper" date="20230218T023307" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[TAP]/ASCII Chase (2017-07-01)(Caruso, Fabrizio)/ASCII Chase (2017-07-01)(Caruso, Fabrizio).tap</path>
+		<name>ASCII Chase (2017-07-01)(Caruso, Fabrizio)</name>
+		<md5>525399673fd6d77060689589e40db7d1</md5>
+		<scrap name="ScreenScraper" date="20230218T023308" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[TAP]/ASCII Chase (2017-07-01)(Caruso, Fabrizio)[latest]/ASCII Chase (2017-07-01)(Caruso, Fabrizio)[latest].tap</path>
+		<name>ASCII Chase (2017-07-01)(Caruso, Fabrizio)[latest]</name>
+		<md5>cfecb82395abd4693b64caf47df7b16b</md5>
+		<scrap name="ScreenScraper" date="20230218T023310" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[TAP]/ASCII Chase (2017-07-05)(Caruso, Fabrizio)/ASCII Chase (2017-07-05)(Caruso, Fabrizio).tap</path>
+		<name>ASCII Chase (2017-07-05)(Caruso, Fabrizio)</name>
+		<md5>0e2974cbe0ab232c4937051263e0b5c4</md5>
+		<scrap name="ScreenScraper" date="20230218T023312" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[TAP]/ASCII Chase (2017-07-07)(Caruso, Fabrizio)/ASCII Chase (2017-07-07)(Caruso, Fabrizio).tap</path>
+		<name>ASCII Chase (2017-07-07)(Caruso, Fabrizio)</name>
+		<md5>aabf2e90813c22c74a8e304070e1e237</md5>
+		<scrap name="ScreenScraper" date="20230218T023313" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[TAP]/ASCII Chase (2017-07-08)(Caruso, Fabrizio)/ASCII Chase (2017-07-08)(Caruso, Fabrizio).tap</path>
+		<name>ASCII Chase (2017-07-08)(Caruso, Fabrizio)</name>
+		<md5>1b44f2598465a005d50e0abafed34205</md5>
+		<scrap name="ScreenScraper" date="20230218T023315" />
+	</game>
+	<game id="103714">
+		<path>./TOSEC/Games/[TAP]/Astro-Lander (1984)(Gardner, A.P.)/Astro-Lander (1984)(Gardner, A.P.).tap</path>
+		<name>Astro Lander By A.p. Gardner</name>
+		<image>./images/Astro-Lander (1984)(Gardner, A.P.)-image.png</image>
+		<developer>Public Domain</developer>
+		<publisher>Public Domain</publisher>
+		<md5>040ce4bd4c6562db528c6ede2df46a75</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230218T023318" />
+	</game>
+	<game id="103718">
+		<path>./TOSEC/Games/[TAP]/Attack of the Cybermen (1984)(IJK Software)/Attack of the Cybermen (1984)(IJK Software).tap</path>
+		<name>Attack Of The Cybermen</name>
+		<image>./images/Attack of the Cybermen (1984)(IJK Software)-image.png</image>
+		<thumbnail>./images/Attack of the Cybermen (1984)(IJK Software)-thumb.png</thumbnail>
+		<releasedate>19840101T000000</releasedate>
+		<publisher>Stephen Haigh</publisher>
+		<md5>4e757f654a493ecc24c0c6ab69879e3d</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230218T023324" />
+	</game>
+	<game id="103725">
+		<path>./TOSEC/Games/[TAP]/Awari (1983)(Phillips, G.)/Awari (1983)(Phillips, G.).tap</path>
+		<name>Awari</name>
+		<image>./images/Awari (1983)(Phillips, G.)-image.png</image>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Geoff M Phillips</developer>
+		<publisher>Oric Owner</publisher>
+		<md5>5473f081b9780d6f3a8615b3c4598b04</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230218T023327" />
+	</game>
+	<game id="192824">
+		<path>./TOSEC/Games/[TAP]/Bananas (19xx)(-)[b]/Bananas (19xx)(-)[b].tap</path>
+		<name>Bananas</name>
+		<md5>ff71bed996887eda919c933419ab5e86</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230218T023329" />
+	</game>
+	<game id="103759">
+		<path>./TOSEC/Games/[TAP]/Battle Flight 4 (1983)(Stour Computing)/Battle Flight 4 (1983)(Stour Computing).tap</path>
+		<name>Battle Flight 4</name>
+		<image>./images/Battle Flight 4 (1983)(Stour Computing)-image.png</image>
+		<releasedate>19840101T000000</releasedate>
+		<publisher>Stour Computing</publisher>
+		<md5>30255c912fed1c399568327c00923ecd</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230218T023333" />
+	</game>
+	<game id="103763">
+		<path>./TOSEC/Games/[TAP]/Blitz (19xx)(-)(Atmos)/Blitz (19xx)(-)(Atmos).tap</path>
+		<name>Blitz</name>
+		<image>./images/Blitz (19xx)(-)(Atmos)-image.png</image>
+		<md5>38e157d3f496382d2a4fe56c24f4a02e</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230218T023336" />
+	</game>
+	<game id="103764">
+		<path>./TOSEC/Games/[TAP]/Blockbuster (1983)(Gardner, A.P.)(PD)/Blockbuster (1983)(Gardner, A.P.)(PD).tap</path>
+		<name>Blockbuster By A.p. Gardner</name>
+		<image>./images/Blockbuster (1983)(Gardner, A.P.)(PD)-image.png</image>
+		<developer>Public Domain</developer>
+		<publisher>Public Domain</publisher>
+		<md5>ae0ef97152ffbc3729e1e9de830844d9</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230218T023340" />
+	</game>
+	<game id="103782">
+		<path>./TOSEC/Games/[TAP]/Business, The (19xx)(Arnold, Peter - Goodrum, David)[BBC Port]/Business, The (19xx)(Arnold, Peter - Goodrum, David)[BBC Port].tap</path>
+		<name>Business</name>
+		<image>./images/Business, The (19xx)(Arnold, Peter - Goodrum, David)[BBC Port]-image.png</image>
+		<md5>37a6425bb1c47476cba3e3a497edd577</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230218T023343" />
+	</game>
+	<game id="103831">
+		<path>./TOSEC/Games/[TAP]/Cite (1984)(Loriciels)/Cite (1984)(Loriciels).tap</path>
+		<name>Citadelle</name>
+		<image>./images/Cite (1984)(Loriciels)-image.png</image>
+		<releasedate>19840101T000000</releasedate>
+		<publisher>Loriciels</publisher>
+		<md5>97ff176c8f568f83b0ebbca65096c9f3</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230218T023347" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[TAP]/Cross Bomber (2020-08-26)(Caruso, Fabrizio)[48K]/Cross Bomber (2020-08-26)(Caruso, Fabrizio)[48K].tap</path>
+		<name>Cross Bomber (2020-08-26)(Caruso, Fabrizio)[48K]</name>
+		<md5>dba301079d1983faa2390952fd955d21</md5>
+		<scrap name="ScreenScraper" date="20230218T023348" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[TAP]/Cross Bomber (2021-05-13)(Caruso, Fabrizio)[48K]/Cross Bomber (2021-05-13)(Caruso, Fabrizio)[48K].tap</path>
+		<name>Cross Bomber (2021-05-13)(Caruso, Fabrizio)[48K]</name>
+		<md5>7487e9790ee13659a8fcf7d282d1cb02</md5>
+		<scrap name="ScreenScraper" date="20230218T023350" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[TAP]/Cross Chase (2017-07-09)(Caruso, Fabrizio)/Cross Chase (2017-07-09)(Caruso, Fabrizio).tap</path>
+		<name>Cross Chase (2017-07-09)(Caruso, Fabrizio)</name>
+		<md5>7b8c12250e41e39627bf5301995d5165</md5>
+		<scrap name="ScreenScraper" date="20230218T023351" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[TAP]/Cross Chase (2017-07-10)(Caruso, Fabrizio)/Cross Chase (2017-07-10)(Caruso, Fabrizio).tap</path>
+		<name>Cross Chase (2017-07-10)(Caruso, Fabrizio)</name>
+		<md5>af118635a3c3c5babcf73e943361e81c</md5>
+		<scrap name="ScreenScraper" date="20230218T023353" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[TAP]/Cross Chase (2017-07-13)(Caruso, Fabrizio)/Cross Chase (2017-07-13)(Caruso, Fabrizio).tap</path>
+		<name>Cross Chase (2017-07-13)(Caruso, Fabrizio)</name>
+		<md5>234c6e5c8e4ec01044c4f3510c430924</md5>
+		<scrap name="ScreenScraper" date="20230218T023355" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[TAP]/Cross Chase (2017-07-14)(Caruso, Fabrizio)/Cross Chase (2017-07-14)(Caruso, Fabrizio).tap</path>
+		<name>Cross Chase (2017-07-14)(Caruso, Fabrizio)</name>
+		<md5>d9813da15fb5d68569adb5d0045247b9</md5>
+		<scrap name="ScreenScraper" date="20230218T023356" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[TAP]/Cross Chase (2017-07-21)(Caruso, Fabrizio)/Cross Chase (2017-07-21)(Caruso, Fabrizio).tap</path>
+		<name>Cross Chase (2017-07-21)(Caruso, Fabrizio)</name>
+		<md5>50c30553dc4134dd651e522592ffedc7</md5>
+		<scrap name="ScreenScraper" date="20230218T023358" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[TAP]/Cross Chase (2017-07-28)(Caruso, Fabrizio)/Cross Chase (2017-07-28)(Caruso, Fabrizio).tap</path>
+		<name>Cross Chase (2017-07-28)(Caruso, Fabrizio)</name>
+		<md5>7e4cbb95dada5c164952b3a3c29daed1</md5>
+		<scrap name="ScreenScraper" date="20230218T023359" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[TAP]/Cross Chase (2017-07-30)(Caruso, Fabrizio)/Cross Chase (2017-07-30)(Caruso, Fabrizio).tap</path>
+		<name>Cross Chase (2017-07-30)(Caruso, Fabrizio)</name>
+		<md5>bd170d9de26e9e17b0e2fc3d9bf612fc</md5>
+		<scrap name="ScreenScraper" date="20230218T023401" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[TAP]/Cross Chase (2017-08-02)(Caruso, Fabrizio)/Cross Chase (2017-08-02)(Caruso, Fabrizio).tap</path>
+		<name>Cross Chase (2017-08-02)(Caruso, Fabrizio)</name>
+		<md5>93209192c307c13f269d3b698b9bbba6</md5>
+		<scrap name="ScreenScraper" date="20230218T023402" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[TAP]/Cross Chase (2017-08-08)(Caruso, Fabrizio)/Cross Chase (2017-08-08)(Caruso, Fabrizio).tap</path>
+		<name>Cross Chase (2017-08-08)(Caruso, Fabrizio)</name>
+		<md5>6bfbacff4faa5de55a40668fb1720e07</md5>
+		<scrap name="ScreenScraper" date="20230218T023404" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[TAP]/Cross Chase (2017-08-11)(Caruso, Fabrizio)/Cross Chase (2017-08-11)(Caruso, Fabrizio).tap</path>
+		<name>Cross Chase (2017-08-11)(Caruso, Fabrizio)</name>
+		<md5>9dfca02c5db42b42e9bf03955fce1508</md5>
+		<scrap name="ScreenScraper" date="20230218T023405" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[TAP]/Cross Chase (2017-08-16)(Caruso, Fabrizio)/Cross Chase (2017-08-16)(Caruso, Fabrizio).tap</path>
+		<name>Cross Chase (2017-08-16)(Caruso, Fabrizio)</name>
+		<md5>756f807088002b4fe021b157c85be65e</md5>
+		<scrap name="ScreenScraper" date="20230218T023407" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[TAP]/Cross Chase (2017-08-20)(Caruso, Fabrizio)/Cross Chase (2017-08-20)(Caruso, Fabrizio).tap</path>
+		<name>Cross Chase (2017-08-20)(Caruso, Fabrizio)</name>
+		<md5>2abc78b94c5828767ed37a4d3f695b69</md5>
+		<scrap name="ScreenScraper" date="20230218T023409" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[TAP]/Cross Chase (2017-08-26)(Caruso, Fabrizio)/Cross Chase (2017-08-26)(Caruso, Fabrizio).tap</path>
+		<name>Cross Chase (2017-08-26)(Caruso, Fabrizio)</name>
+		<md5>c34ef046066738a4e1101c1a6f4097ed</md5>
+		<scrap name="ScreenScraper" date="20230218T023410" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[TAP]/Cross Chase (2017-08-27)(Caruso, Fabrizio)/Cross Chase (2017-08-27)(Caruso, Fabrizio).tap</path>
+		<name>Cross Chase (2017-08-27)(Caruso, Fabrizio)</name>
+		<md5>c34ef046066738a4e1101c1a6f4097ed</md5>
+		<scrap name="ScreenScraper" date="20230218T023412" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[TAP]/Cross Chase (2017-09-15)(Caruso, Fabrizio)[full]/Cross Chase (2017-09-15)(Caruso, Fabrizio)[full].tap</path>
+		<name>Cross Chase (2017-09-15)(Caruso, Fabrizio)[full]</name>
+		<md5>71f4a73c216399bafba7aa4083e6a097</md5>
+		<scrap name="ScreenScraper" date="20230218T023413" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[TAP]/Cross Chase (2017-09-15)(Caruso, Fabrizio)[minimal]/Cross Chase (2017-09-15)(Caruso, Fabrizio)[minimal].tap</path>
+		<name>Cross Chase (2017-09-15)(Caruso, Fabrizio)[minimal]</name>
+		<md5>63ad773faf1661aca7e9b18479405eca</md5>
+		<scrap name="ScreenScraper" date="20230218T023415" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[TAP]/Cross Chase (2017-09-15)(Caruso, Fabrizio)[minimal][redefined chars]/Cross Chase (2017-09-15)(Caruso, Fabrizio)[minimal][redefined chars].tap</path>
+		<name>Cross Chase (2017-09-15)(Caruso, Fabrizio)[minimal][redefined chars]</name>
+		<md5>1fe4a835aa3a503a7e7a7a6950f1b191</md5>
+		<scrap name="ScreenScraper" date="20230218T023417" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[TAP]/Cross Chase (2017-10-11)(Caruso, Fabrizio)[16K][light]/Cross Chase (2017-10-11)(Caruso, Fabrizio)[16K][light].tap</path>
+		<name>Cross Chase (2017-10-11)(Caruso, Fabrizio)[16K][light]</name>
+		<md5>195fe5cae89a24f69bc44fa75403ba51</md5>
+		<scrap name="ScreenScraper" date="20230218T023418" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[TAP]/Cross Chase (2017-10-11)(Caruso, Fabrizio)[full]/Cross Chase (2017-10-11)(Caruso, Fabrizio)[full].tap</path>
+		<name>Cross Chase (2017-10-11)(Caruso, Fabrizio)[full]</name>
+		<md5>2be4423acb60e177c57784d3b1181887</md5>
+		<scrap name="ScreenScraper" date="20230218T023420" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[TAP]/Cross Chase (2017-10-30)(Caruso, Fabrizio)[16K][light]/Cross Chase (2017-10-30)(Caruso, Fabrizio)[16K][light].tap</path>
+		<name>Cross Chase (2017-10-30)(Caruso, Fabrizio)[16K][light]</name>
+		<md5>d4c0a30b40b5aaeaae31d4c62eece38e</md5>
+		<scrap name="ScreenScraper" date="20230218T023421" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[TAP]/Cross Chase (2017-10-30)(Caruso, Fabrizio)[full]/Cross Chase (2017-10-30)(Caruso, Fabrizio)[full].tap</path>
+		<name>Cross Chase (2017-10-30)(Caruso, Fabrizio)[full]</name>
+		<md5>2438096d5136230347b3a131f5dab2d0</md5>
+		<scrap name="ScreenScraper" date="20230218T023423" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[TAP]/Cross Chase (2017-12-10)(Caruso, Fabrizio)(Oric-1)[16K][light]/Cross Chase (2017-12-10)(Caruso, Fabrizio)(Oric-1)[16K][light].tap</path>
+		<name>Cross Chase (2017-12-10)(Caruso, Fabrizio)(Oric-1)[16K][light]</name>
+		<md5>5a87680e8e1161cf433de88a51ea98da</md5>
+		<scrap name="ScreenScraper" date="20230218T023425" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[TAP]/Cross Chase (2017-12-10)(Caruso, Fabrizio)[48K][full]/Cross Chase (2017-12-10)(Caruso, Fabrizio)[48K][full].tap</path>
+		<name>Cross Chase (2017-12-10)(Caruso, Fabrizio)[48K][full]</name>
+		<md5>164fe218df810e8895305717188ea619</md5>
+		<scrap name="ScreenScraper" date="20230218T023426" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[TAP]/Cross Chase (2018-02-03)(Caruso, Fabrizio)[16K][light]/Cross Chase (2018-02-03)(Caruso, Fabrizio)[16K][light].tap</path>
+		<name>Cross Chase (2018-02-03)(Caruso, Fabrizio)[16K][light]</name>
+		<md5>506f8b929d7a0dacb7e4ea9858c3116c</md5>
+		<scrap name="ScreenScraper" date="20230218T023428" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[TAP]/Cross Chase (2018-02-03)(Caruso, Fabrizio)[48K][full]/Cross Chase (2018-02-03)(Caruso, Fabrizio)[48K][full].tap</path>
+		<name>Cross Chase (2018-02-03)(Caruso, Fabrizio)[48K][full]</name>
+		<md5>96239e8d69c5eb82a39c29ad22e3131b</md5>
+		<scrap name="ScreenScraper" date="20230218T023430" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[TAP]/Cross Chase (2018-04-15)(Caruso, Fabrizio)(Oric-1)[16K][light]/Cross Chase (2018-04-15)(Caruso, Fabrizio)(Oric-1)[16K][light].tap</path>
+		<name>Cross Chase (2018-04-15)(Caruso, Fabrizio)(Oric-1)[16K][light]</name>
+		<md5>4afa7b86c2c9031b52d426fe4d52cd00</md5>
+		<scrap name="ScreenScraper" date="20230218T023431" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[TAP]/Cross Chase (2018-04-15)(Caruso, Fabrizio)[48K][full]/Cross Chase (2018-04-15)(Caruso, Fabrizio)[48K][full].tap</path>
+		<name>Cross Chase (2018-04-15)(Caruso, Fabrizio)[48K][full]</name>
+		<md5>31a849e8f15ae9c1750b44375dbe8460</md5>
+		<scrap name="ScreenScraper" date="20230218T023433" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[TAP]/Cross Chase (2018-05-19)(Caruso, Fabrizio)(Oric-1)[16K][light]/Cross Chase (2018-05-19)(Caruso, Fabrizio)(Oric-1)[16K][light].tap</path>
+		<name>Cross Chase (2018-05-19)(Caruso, Fabrizio)(Oric-1)[16K][light]</name>
+		<md5>1ceccdb96e638420256e902b2a49de18</md5>
+		<scrap name="ScreenScraper" date="20230218T023434" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[TAP]/Cross Chase (2018-05-19)(Caruso, Fabrizio)[48K][full]/Cross Chase (2018-05-19)(Caruso, Fabrizio)[48K][full].tap</path>
+		<name>Cross Chase (2018-05-19)(Caruso, Fabrizio)[48K][full]</name>
+		<md5>56e3a789adec8910a7cfbc6b4455889f</md5>
+		<scrap name="ScreenScraper" date="20230218T023436" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[TAP]/Cross Chase (2018-07-19)(Caruso, Fabrizio)(Oric-1)[16K][light]/Cross Chase (2018-07-19)(Caruso, Fabrizio)(Oric-1)[16K][light].tap</path>
+		<name>Cross Chase (2018-07-19)(Caruso, Fabrizio)(Oric-1)[16K][light]</name>
+		<md5>50d3803b86cad3a290463c379218f8fc</md5>
+		<scrap name="ScreenScraper" date="20230218T023438" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[TAP]/Cross Chase (2018-07-19)(Caruso, Fabrizio)[48K][full]/Cross Chase (2018-07-19)(Caruso, Fabrizio)[48K][full].tap</path>
+		<name>Cross Chase (2018-07-19)(Caruso, Fabrizio)[48K][full]</name>
+		<md5>b7a72636fa68edfb9eac1a3ffa159d79</md5>
+		<scrap name="ScreenScraper" date="20230218T023439" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[TAP]/Cross Chase (2018-08-04)(Caruso, Fabrizio)(Oric-1)[16K][light]/Cross Chase (2018-08-04)(Caruso, Fabrizio)(Oric-1)[16K][light].tap</path>
+		<name>Cross Chase (2018-08-04)(Caruso, Fabrizio)(Oric-1)[16K][light]</name>
+		<md5>5a71c3baf7a925e10f1b45ff83437764</md5>
+		<scrap name="ScreenScraper" date="20230218T023441" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[TAP]/Cross Chase (2018-08-04)(Caruso, Fabrizio)[48K][full]/Cross Chase (2018-08-04)(Caruso, Fabrizio)[48K][full].tap</path>
+		<name>Cross Chase (2018-08-04)(Caruso, Fabrizio)[48K][full]</name>
+		<md5>7b855d0fa7ef7cfe94f3ec0839629f56</md5>
+		<scrap name="ScreenScraper" date="20230218T023442" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[TAP]/Cross Chase (2018-10-29)(Caruso, Fabrizio)(Oric-1)[16K][light]/Cross Chase (2018-10-29)(Caruso, Fabrizio)(Oric-1)[16K][light].tap</path>
+		<name>Cross Chase (2018-10-29)(Caruso, Fabrizio)(Oric-1)[16K][light]</name>
+		<md5>239b6aebdca71540ba854b07991e9280</md5>
+		<scrap name="ScreenScraper" date="20230218T023444" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[TAP]/Cross Chase (2018-10-29)(Caruso, Fabrizio)[48K][full]/Cross Chase (2018-10-29)(Caruso, Fabrizio)[48K][full].tap</path>
+		<name>Cross Chase (2018-10-29)(Caruso, Fabrizio)[48K][full]</name>
+		<md5>31c0801da0028d9fcb28cc1c947edf2e</md5>
+		<scrap name="ScreenScraper" date="20230218T023446" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[TAP]/Cross Chase (2020-04-02)(Caruso, Fabrizio)(Oric-1)[16K][less text]/Cross Chase (2020-04-02)(Caruso, Fabrizio)(Oric-1)[16K][less text].tap</path>
+		<name>Cross Chase (2020-04-02)(Caruso, Fabrizio)(Oric-1)[16K][less text]</name>
+		<md5>7d6e1e6ff02458c016b18d38130bbe25</md5>
+		<scrap name="ScreenScraper" date="20230218T023447" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[TAP]/Cross Chase (2020-04-02)(Caruso, Fabrizio)(Oric-1)[16K][light]/Cross Chase (2020-04-02)(Caruso, Fabrizio)(Oric-1)[16K][light].tap</path>
+		<name>Cross Chase (2020-04-02)(Caruso, Fabrizio)(Oric-1)[16K][light]</name>
+		<md5>21eaf88c2efa0a26151a59b86a5a87f5</md5>
+		<scrap name="ScreenScraper" date="20230218T023449" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[TAP]/Cross Chase (2020-04-02)(Caruso, Fabrizio)[48K]/Cross Chase (2020-04-02)(Caruso, Fabrizio)[48K].tap</path>
+		<name>Cross Chase (2020-04-02)(Caruso, Fabrizio)[48K]</name>
+		<md5>2572bdcea68042007f5247eae39c1dab</md5>
+		<scrap name="ScreenScraper" date="20230218T023450" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[TAP]/Cross Chase (2021-05-13)(Caruso, Fabrizio)(Oric-1)[16K][less text]/Cross Chase (2021-05-13)(Caruso, Fabrizio)(Oric-1)[16K][less text].tap</path>
+		<name>Cross Chase (2021-05-13)(Caruso, Fabrizio)(Oric-1)[16K][less text]</name>
+		<md5>ae9a1bbb30b5f628986255be08b50703</md5>
+		<scrap name="ScreenScraper" date="20230218T023452" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[TAP]/Cross Chase (2021-05-13)(Caruso, Fabrizio)[48K]/Cross Chase (2021-05-13)(Caruso, Fabrizio)[48K].tap</path>
+		<name>Cross Chase (2021-05-13)(Caruso, Fabrizio)[48K]</name>
+		<md5>657ccb12a4fc9e5c1a019759b324baa6</md5>
+		<scrap name="ScreenScraper" date="20230218T023454" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[TAP]/Cross Horde v1.0 (2021-05-01)(Caruso, Fabrizio)[48K]/Cross Horde v1.0 (2021-05-01)(Caruso, Fabrizio)[48K].tap</path>
+		<name>Cross Horde v1.0 (2021-05-01)(Caruso, Fabrizio)[48K]</name>
+		<md5>285207c9c2b3bce621083b1e5f6336e2</md5>
+		<scrap name="ScreenScraper" date="20230218T023456" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[TAP]/Cross Shoot (2020-07-03)(Caruso, Fabrizio)[48K]/Cross Shoot (2020-07-03)(Caruso, Fabrizio)[48K].tap</path>
+		<name>Cross Shoot (2020-07-03)(Caruso, Fabrizio)[48K]</name>
+		<md5>cdba3fe0e58259d9d06a695cc14d0dea</md5>
+		<scrap name="ScreenScraper" date="20230218T023457" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[TAP]/Cross Shoot (2021-05-13)(Caruso, Fabrizio)[48K]/Cross Shoot (2021-05-13)(Caruso, Fabrizio)[48K].tap</path>
+		<name>Cross Shoot (2021-05-13)(Caruso, Fabrizio)[48K]</name>
+		<md5>cdba3fe0e58259d9d06a695cc14d0dea</md5>
+		<scrap name="ScreenScraper" date="20230218T023459" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[TAP]/Cross Snake Preview (2020-12-05)(Caruso, Fabrizio)[48K]/Cross Snake Preview (2020-12-05)(Caruso, Fabrizio)[48K].tap</path>
+		<name>Cross Snake Preview (2020-12-05)(Caruso, Fabrizio)[48K]</name>
+		<md5>8e4383c690593c1736598b8aa3bf881d</md5>
+		<scrap name="ScreenScraper" date="20230218T023501" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[TAP]/Cross Snake v1.0 (2020-12-12)(Caruso, Fabrizio)[48K]/Cross Snake v1.0 (2020-12-12)(Caruso, Fabrizio)[48K].tap</path>
+		<name>Cross Snake v1.0 (2020-12-12)(Caruso, Fabrizio)[48K]</name>
+		<md5>561aae6d8f8c19a5af22861d41fb57e8</md5>
+		<scrap name="ScreenScraper" date="20230218T023502" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[TAP]/Cross Snake v2.0 (2020-12-31)(Caruso, Fabrizio)[48K]/Cross Snake v2.0 (2020-12-31)(Caruso, Fabrizio)[48K].tap</path>
+		<name>Cross Snake v2.0 (2020-12-31)(Caruso, Fabrizio)[48K]</name>
+		<md5>83a56417ed3a792f46580cd6f2d821b7</md5>
+		<scrap name="ScreenScraper" date="20230218T023504" />
+	</game>
+	<game id="103868">
+		<path>./TOSEC/Games/[TAP]/Dallas (1983)(C.C.S.)/Dallas (1983)(C.C.S.).tap</path>
+		<name>Dallas</name>
+		<desc>This is a business simulation of the wheeler-dealer oil rich folk who live in Dallas. The game starts with setting up a map of Texas, splitting the region into hundreds of plots, each with a potential to discover oil. You are required to make seismic surveys, bid for concessions, drill for oil, build production facilities and lay pipelines. The game is menu driven and the player is able to direct his corporation along many diverse routes. The object of the game is to accumultate $200M in net assets and $80M cash in order to take over Euing Associates.</desc>
+		<image>./images/Dallas (1983)(C.C.S.)-image.png</image>
+		<marquee>./images/Dallas (1983)(C.C.S.)-marquee.png</marquee>
+		<thumbnail>./images/Dallas (1983)(C.C.S.)-thumb.png</thumbnail>
+		<boxback>./images/Dallas (1983)(C.C.S.)-boxback.png</boxback>
+		<rating>0.45</rating>
+		<releasedate>19830101T000000</releasedate>
+		<publisher>Cases Computer Simulations</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<md5>f37b5aea32018d37721d8d66618ad812</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230218T023514" />
+	</game>
+	<game id="103908">
+		<path>./TOSEC/Games/[TAP]/Dracula's Revenge (1983)(Softek)/Dracula's Revenge (1983)(Softek).tap</path>
+		<name>Dracula's Revenge</name>
+		<image>./images/Dracula's Revenge (1983)(Softek)-image.png</image>
+		<thumbnail>./images/Dracula's Revenge (1983)(Softek)-thumb.png</thumbnail>
+		<releasedate>19830101T000000</releasedate>
+		<publisher>Softek Software</publisher>
+		<md5>d37d6dfe900908eb7c475dde800c0a26</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230218T023519" />
+	</game>
+	<game id="103908">
+		<path>./TOSEC/Games/[TAP]/Dracula's Revenge (1983)(Softek)[a]/Dracula's Revenge (1983)(Softek)[a].tap</path>
+		<name>Dracula's Revenge</name>
+		<image>./images/Dracula's Revenge (1983)(Softek)[a]-image.png</image>
+		<thumbnail>./images/Dracula's Revenge (1983)(Softek)[a]-thumb.png</thumbnail>
+		<releasedate>19830101T000000</releasedate>
+		<publisher>Softek Software</publisher>
+		<md5>18dd99c20fcc3e8789876943739aab84</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230218T023525" />
+	</game>
+	<game id="103919">
+		<path>./TOSEC/Games/[TAP]/Electric Eel (19xx)(Poeschel, Knut)/Electric Eel (19xx)(Poeschel, Knut).tap</path>
+		<name>Electric Eel</name>
+		<image>./images/Electric Eel (19xx)(Poeschel, Knut)-image.png</image>
+		<publisher>Knut Poeschel</publisher>
+		<md5>ba75f35e6eaa62ebc9e02f42e1586c50</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230218T023530" />
+	</game>
+	<game id="103959">
+		<path>./TOSEC/Games/[TAP]/Galaxians (19xx)(Softek Software)(Atmos)/Galaxians (19xx)(Softek Software)(Atmos).tap</path>
+		<name>Galaxians</name>
+		<image>./images/Galaxians (19xx)(Softek Software)(Atmos)-image.png</image>
+		<thumbnail>./images/Galaxians (19xx)(Softek Software)(Atmos)-thumb.png</thumbnail>
+		<developer>Softek Software</developer>
+		<publisher>Softek Software</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<family>Galaxian</family>
+		<players>1</players>
+		<md5>a1e960f8d3c2f114983fc6609e049701</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230218T023537" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[TAP]/Ghosts and Ghouls (19xx)(Overy, Simon)/Ghosts and Ghouls (19xx)(Overy, Simon).tap</path>
+		<name>Ghosts and Ghouls (19xx)(Overy, Simon)</name>
+		<md5>6708537a8a35f65b8c4ffb3b737ef6a5</md5>
+		<scrap name="ScreenScraper" date="20230218T023539" />
+	</game>
+	<game id="104010">
+		<path>./TOSEC/Games/[TAP]/Hover Rescue (1984)(Prowse, Barbara)/Hover Rescue (1984)(Prowse, Barbara).tap</path>
+		<name>Hover Rescue</name>
+		<image>./images/Hover Rescue (1984)(Prowse, Barbara)-image.png</image>
+		<releasedate>19840101T000000</releasedate>
+		<publisher>Barbara Prowse</publisher>
+		<md5>8e8d92ec0971970988b6f57f70d1ad94</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230218T023543" />
+	</game>
+	<game id="104020">
+		<path>./TOSEC/Games/[TAP]/Ice Giant (1983)(Softek)/Ice Giant (1983)(Softek).tap</path>
+		<name>Ice Giant</name>
+		<image>./images/Ice Giant (1983)(Softek)-image.png</image>
+		<thumbnail>./images/Ice Giant (1983)(Softek)-thumb.png</thumbnail>
+		<releasedate>19830101T000000</releasedate>
+		<publisher>Softek Software</publisher>
+		<md5>25fdafa0cc1c852bcfd9a9fa63ce116c</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230218T023548" />
+	</game>
+	<game id="104096">
+		<path>./TOSEC/Games/[TAP]/Luna Landa (1984)(Meteoric Programming)[type-in]/Luna Landa (1984)(Meteoric Programming)[type-in].tap</path>
+		<name>Luna Landa</name>
+		<image>./images/Luna Landa (1984)(Meteoric Programming)[type-in]-image.png</image>
+		<releasedate>19840101T000000</releasedate>
+		<md5>7d3afce557b7b6dba4b93d4c2c35c6bd</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230218T023552" />
+	</game>
+	<game id="192818">
+		<path>./TOSEC/Games/[TAP]/Maze (19xx)(-)[b]/Maze (19xx)(-)[b].tap</path>
+		<name>Maze</name>
+		<md5>a8f0458dd9e42b16d0f66b183b75477b</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230218T023554" />
+	</game>
+	<game id="192828">
+		<path>./TOSEC/Games/[TAP]/Oric Golf (1983)(R&amp;R Software)[48K]/Oric Golf (1983)(R&amp;R Software)[48K].tap</path>
+		<name>Oric Golf</name>
+		<genre>Sports / Golf</genre>
+		<md5>2e2fcf5579dc638dbc2918c7b4bfbacc</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230218T023556" />
+	</game>
+	<game id="104221">
+		<path>./TOSEC/Games/[TAP]/Oric Invaders (1983)(Arcadia Software)/Oric Invaders (1983)(Arcadia Software).tap</path>
+		<name>Oric Invaders</name>
+		<image>./images/Oric Invaders (1983)(Arcadia Software)-image.png</image>
+		<releasedate>19830101T000000</releasedate>
+		<publisher>Arcadia Software</publisher>
+		<md5>38640e3cd7662a25f4f6e7e81dd8a87c</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230218T023559" />
+	</game>
+	<game id="104230">
+		<path>./TOSEC/Games/[TAP]/Oric Squash (19xx)(-)[b]/Oric Squash (19xx)(-)[b].tap</path>
+		<name>Oric Squash</name>
+		<image>./images/Oric Squash (19xx)(-)[b]-image.png</image>
+		<md5>de322f01e083127aa0aec07f8d678e08</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230218T023603" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[TAP]/Oric-1 48K Backgammon v3.4 (1984-09-14)(IJK Software)/Oric-1 48K Backgammon v3.4 (1984-09-14)(IJK Software).tap</path>
+		<name>Oric-1 48K Backgammon v3.4 (1984-09-14)(IJK Software)</name>
+		<md5>10a9bacdd9ade4649ea049e90378f19f</md5>
+		<scrap name="ScreenScraper" date="20230218T023605" />
+	</game>
+	<game id="192830">
+		<path>./TOSEC/Games/[TAP]/Oricqs (1984)(Lars, L.)[b]/Oricqs (1984)(Lars, L.)[b].tap</path>
+		<name>Oricqs</name>
+		<md5>c676f81f42b11eb762ba34a32495e9ef</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230218T023607" />
+	</game>
+	<game id="213741">
+		<path>./TOSEC/Games/[TAP]/Plouf (19xx)(Larcher, Dominique)(en)/Plouf (19xx)(Larcher, Dominique)(en).tap</path>
+		<name>Plouf</name>
+		<md5>fcdd8063542a344da43744291a090dc0</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230218T023609" />
+	</game>
+	<game id="104286">
+		<path>./TOSEC/Games/[TAP]/Pontoon (19xx)(-)/Pontoon (19xx)(-).tap</path>
+		<name>Pontoon By A.p. Gardner</name>
+		<developer>Public Domain</developer>
+		<publisher>Public Domain</publisher>
+		<md5>88cd75eedb6b44a8ec81201e4c9d0113</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230218T023611" />
+	</game>
+	<game id="104333">
+		<path>./TOSEC/Games/[TAP]/Reversi (19xx)(-)(en-fr)/Reversi (19xx)(-)(en-fr).tap</path>
+		<name>Reversi</name>
+		<image>./images/Reversi (19xx)(-)(en-fr)-image.png</image>
+		<publisher>fr</publisher>
+		<md5>a368b0ca7380676f06f759524f497700</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230218T023615" />
+	</game>
+	<game id="104374">
+		<path>./TOSEC/Games/[TAP]/Show-Jumping (1984)(No Man's Land)/Show-Jumping (1984)(No Man's Land).tap</path>
+		<name>Show-Jumping</name>
+		<image>./images/Show-Jumping (1984)(No Man's Land)-image.png</image>
+		<releasedate>19840101T000000</releasedate>
+		<publisher>JM Cruells</publisher>
+		<md5>da4bebe771ced3962337257fedc297c2</md5>
+		<lang>no</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230218T023619" />
+	</game>
+	<game id="124625">
+		<path>./TOSEC/Games/[TAP]/Star Probe (19xx)(Chymesoft)[b]/Star Probe (19xx)(Chymesoft)[b].tap</path>
+		<name>Star Probe</name>
+		<image>./images/Star Probe (19xx)(Chymesoft)[b]-image.png</image>
+		<publisher>Chymesoft</publisher>
+		<md5>076e0a94815a425d2e5b1b76169e9a47</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230218T023623" />
+	</game>
+	<game id="192835">
+		<path>./TOSEC/Games/[TAP]/Story Book Example - Proverbs (1984)(-)/Story Book Example - Proverbs (1984)(-).tap</path>
+		<name>Story Book Example - Proverbs</name>
+		<md5>b36fd7909830414cdb5582f0c7bb99a3</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230218T023625" />
+	</game>
+	<game id="104508">
+		<path>./TOSEC/Games/[TAP]/Super-Maze v0.2 (1983-07-31)(Bostrom, Anders - Bostrom, Jan)/Super-Maze v0.2 (1983-07-31)(Bostrom, Anders - Bostrom, Jan).tap</path>
+		<name>Super Maze</name>
+		<image>./images/Super-Maze v0.2 (1983-07-31)(Bostrom, Anders - Bostrom, Jan)-image.png</image>
+		<md5>1a044807a7d85b4061777b1d3ab8e407</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230218T023629" />
+	</game>
+	<game id="104554">
+		<path>./TOSEC/Games/[TAP]/Time Switch (1983)(Lundgren, Lars)/Time Switch (1983)(Lundgren, Lars).tap</path>
+		<name>Time Switch</name>
+		<image>./images/Time Switch (1983)(Lundgren, Lars)-image.png</image>
+		<md5>f59bea19c3050cecc5ac7aeeffb27101</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230218T023632" />
+	</game>
+	<game>
+		<path>./TOSEC/Operating Systems/[DSK]/Mini-Sedoric v2.1 (19xx)(-)/Mini-Sedoric v2.1 (19xx)(-).dsk</path>
+		<name>Mini-Sedoric v2.1 (19xx)(-)</name>
+		<md5>c8be4aabede5458a3958d6cbf2543902</md5>
+		<scrap name="ScreenScraper" date="20230218T023633" />
+	</game>
+	<game>
+		<path>./TOSEC/Operating Systems/[DSK]/Mini-Sedoric v2.1 (19xx)(-)[a]/Mini-Sedoric v2.1 (19xx)(-)[a].dsk</path>
+		<name>Mini-Sedoric v2.1 (19xx)(-)[a]</name>
+		<md5>5f97708b3f562f2c47285feae1395987</md5>
+		<scrap name="ScreenScraper" date="20230218T023635" />
+	</game>
+	<game id="251307">
+		<path>./TOSEC/Operating Systems/[DSK]/Oric DOS v1.13 (19xx)(-)/Oric DOS v1.13 (19xx)(-).dsk</path>
+		<name>ZZZ(notgame):ZZZ-UNK</name>
+		<hidden>true</hidden>
+		<md5>90945c230ee502aefb1a4c1243a9f039</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230218T023637" />
+	</game>
+	<game id="251307">
+		<path>./TOSEC/Operating Systems/[DSK]/Oric DOS v1.13 (19xx)(-)[a]/Oric DOS v1.13 (19xx)(-)[a].dsk</path>
+		<name>ZZZ(notgame):ZZZ-UNK</name>
+		<hidden>true</hidden>
+		<md5>6f31aa43a3aa3b5bf44236c0c99d4f77</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230218T023639" />
+	</game>
+	<game id="251307">
+		<path>./TOSEC/Operating Systems/[DSK]/Oric DOS v1.13 (19xx)(-)[disk configuration only]/Oric DOS v1.13 (19xx)(-)[disk configuration only].dsk</path>
+		<name>ZZZ(notgame):ZZZ-UNK</name>
+		<hidden>true</hidden>
+		<md5>e6cd34f960f0c9697be22fc894e5238e</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230218T023641" />
+	</game>
+	<game>
+		<path>./TOSEC/Operating Systems/[DSK]/Randos v2.0 (2002)(ISPL - Francès, Fabrice)(en-fr)/Randos v2.0 (2002)(ISPL - Francès, Fabrice)(en-fr).dsk</path>
+		<name>Randos v2.0 (2002)(ISPL - Francès, Fabrice)(en-fr)</name>
+		<md5>30919af426ef29275594eb58ab5af989</md5>
+		<scrap name="ScreenScraper" date="20230218T023643" />
+	</game>
+	<game id="104370">
+		<path>./TOSEC/Operating Systems/[DSK]/Sedoric v2.1 (19xx)(OUM - Oric Enthusiast)/Sedoric v2.1 (19xx)(OUM - Oric Enthusiast).dsk</path>
+		<name>Sedoric V2.1</name>
+		<md5>1d189922ff4484913a0cfc9eda471002</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230218T023645" />
+	</game>
+	<game id="251307">
+		<path>./TOSEC/Operating Systems/[DSK]/Sedoric v3.006 (1996)(Club Europe Oric)(en)/Sedoric v3.006 (1996)(Club Europe Oric)(en).dsk</path>
+		<name>ZZZ(notgame):ZZZ-UNK</name>
+		<hidden>true</hidden>
+		<md5>a8d7e2f11921d01ba29bad0628f7e2a8</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230218T023647" />
+	</game>
+	<game id="251307">
+		<path>./TOSEC/Operating Systems/[DSK]/Sedoric v3.006 (1996)(Club Europe Oric)(en)[b]/Sedoric v3.006 (1996)(Club Europe Oric)(en)[b].dsk</path>
+		<name>ZZZ(notgame):ZZZ-UNK</name>
+		<hidden>true</hidden>
+		<md5>b04ce6cba3f0e538f1d8b32dcf8df1f1</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230218T023649" />
+	</game>
+	<game>
+		<path>./TOSEC/Operating Systems/[DSK]/Super DOS 2.2 (19xx)(-)/Super DOS 2.2 (19xx)(-).dsk</path>
+		<name>Super DOS 2.2 (19xx)(-)</name>
+		<md5>2e3054382a2537e1741109c25e5975c2</md5>
+		<scrap name="ScreenScraper" date="20230218T023651" />
+	</game>
+</gameList>

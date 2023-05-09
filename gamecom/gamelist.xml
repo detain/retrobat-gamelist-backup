@@ -1,0 +1,1182 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./No-Intro/Castlevania - Symphony of the Night (Unknown) (Proto).tgc</path>
+		<name>Castlevania - Symphony of the Night (Unknown) (Proto)</name>
+		<crc32>EEC4E8E3</crc32>
+		<md5>76ceda41231eafa9d39df77011a90c30</md5>
+		<scrap name="ScreenScraper" date="20230217T110907" />
+	</game>
+	<game id="99418">
+		<path>./TOSEC/Applications/Internet (1997)(Tiger Electronics)/Internet (1997)(Tiger Electronics).bin</path>
+		<name>ZZZ(notgame):Internet</name>
+		<image>./images/Internet (1997)(Tiger Electronics)-image.png</image>
+		<thumbnail>./images/Internet (1997)(Tiger Electronics)-thumb.png</thumbnail>
+		<boxback>./images/Internet (1997)(Tiger Electronics)-boxback.png</boxback>
+		<hidden>true</hidden>
+		<crc32>7E721A84</crc32>
+		<md5>16dccfeb686746787f80d045cd9d3ab9</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230217T110916" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/Web Link (1997)(Tiger Electronics)/Web Link (1997)(Tiger Electronics).bin</path>
+		<name>Web Link (1997)(Tiger Electronics)</name>
+		<crc32>4C13E65B</crc32>
+		<md5>d81f29d4946b376b01574f6c35879628</md5>
+		<scrap name="ScreenScraper" date="20230217T110918" />
+	</game>
+	<game>
+		<path>./TOSEC/Firmware/Tiger Game.com BIOS (1997)(Tiger Electronics)/Tiger Game.com BIOS (1997)(Tiger Electronics).bin</path>
+		<name>Tiger Game.com BIOS (1997)(Tiger Electronics)</name>
+		<crc32>A0CEC361</crc32>
+		<md5>f7bcefb6daf923c8e5ea2eb69f619efe</md5>
+		<scrap name="ScreenScraper" date="20230217T110920" />
+	</game>
+	<game>
+		<path>./TOSEC/Firmware/Tiger Game.com System ROM (1997)(Tiger Electronics)/Tiger Game.com System ROM (1997)(Tiger Electronics).bin</path>
+		<name>Tiger Game.com System ROM (1997)(Tiger Electronics)</name>
+		<crc32>E235A589</crc32>
+		<md5>813364d4863b1d7b7b8fd6a97a416bcf</md5>
+		<scrap name="ScreenScraper" date="20230217T110922" />
+	</game>
+	<game>
+		<path>./TOSEC/Firmware/Tiger Game.com System ROM (1997)(Tiger Electronics)[a]/Tiger Game.com System ROM (1997)(Tiger Electronics)[a].bin</path>
+		<name>Tiger Game.com System ROM (1997)(Tiger Electronics)[a]</name>
+		<crc32>C1031233</crc32>
+		<md5>fa6dde26fdbb3e9b0678721031385d47</md5>
+		<scrap name="ScreenScraper" date="20230217T110924" />
+	</game>
+	<game id="99411">
+		<path>./TOSEC/Games/Batman &amp; Robin (1997)(Tiger Electronics)/Batman &amp; Robin (1997)(Tiger Electronics).bin</path>
+		<name>Batman And Robin</name>
+		<desc>An evil chill confronts Batman and Robin. The sinister Mr. Freeze intends to remake Gotham City in the image of his own cold heart. Encouraged by the diabolical Poison Ivy, Mr. Freeze plans to steal all the city's diamonds. Playing as Batman or Robin, it's your mission to put these criminals in the cooler!</desc>
+		<image>./images/Batman &amp; Robin (1997)(Tiger Electronics)-image.png</image>
+		<video>./videos/Batman &amp; Robin (1997)(Tiger Electronics)-video.mp4</video>
+		<marquee>./images/Batman &amp; Robin (1997)(Tiger Electronics)-marquee.png</marquee>
+		<thumbnail>./images/Batman &amp; Robin (1997)(Tiger Electronics)-thumb.png</thumbnail>
+		<manual>./manuals/Batman &amp; Robin (1997)(Tiger Electronics)-manual.pdf</manual>
+		<boxback>./images/Batman &amp; Robin (1997)(Tiger Electronics)-boxback.png</boxback>
+		<rating>0.65</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Tiger Electronics</developer>
+		<publisher>Tiger Electronics</publisher>
+		<genre>Action</genre>
+		<family>Batman</family>
+		<players>1</players>
+		<crc32>B336E530</crc32>
+		<md5>6e074ab25011af7b2d9a5d1b2d53b425</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230217T110926" />
+	</game>
+	<game id="99412">
+		<path>./TOSEC/Games/Centipede (1999)(Hasbro - Tiger Electronics)/Centipede (1999)(Hasbro - Tiger Electronics).bin</path>
+		<name>Centipede</name>
+		<desc>Centipede for the Game.Com is an updated version of the classic arcade game. Besides an adaptation of the original game, the cartridge also includes an updated mode with higher resolution graphics and increased difficulty. Up to four players can play taking turns.
+
+Gameplay is unchanged from the original. The player controls a figure at the bottom of the screen that has to shoot at insects, including spiders, fleas and scorpions, and most importantly, a centipede that moves horizontally and moves closer towards the bottom of the screen when hitting an obstacle. When hit by a shot, the centipede splits into two separate sections.
+
+Game options include selectable difficulty, number of lives and movement speed. The start level can also be chosen. There is also an option to flip the screen so the game can be played with d-pad and buttons reversed from the standard.</desc>
+		<image>./images/Centipede (1999)(Hasbro - Tiger Electronics)-image.png</image>
+		<video>./videos/Centipede (1999)(Hasbro - Tiger Electronics)-video.mp4</video>
+		<marquee>./images/Centipede (1999)(Hasbro - Tiger Electronics)-marquee.png</marquee>
+		<thumbnail>./images/Centipede (1999)(Hasbro - Tiger Electronics)-thumb.png</thumbnail>
+		<manual>./manuals/Centipede (1999)(Hasbro - Tiger Electronics)-manual.pdf</manual>
+		<boxback>./images/Centipede (1999)(Hasbro - Tiger Electronics)-boxback.png</boxback>
+		<rating>0.9</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Handheld Games</developer>
+		<publisher>Tiger Electronics, Ltd</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1-4</players>
+		<crc32>1A041FF0</crc32>
+		<md5>c10a26933ff3167507fcdf0dbe212327</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230217T110928" />
+	</game>
+	<game id="99413">
+		<path>./TOSEC/Games/Duke Nukem 3D (1997)(Tiger Electronics)/Duke Nukem 3D (1997)(Tiger Electronics).bin</path>
+		<name>Duke Nukem 3d</name>
+		<desc>The Game.Com version of Duke Nukem 3D plays more like a dungeon crawler rather than an FPS due to Game.Com's hardware limitations. The player can only move Duke forward, backwards, strafe left or right, one screen at a time. By pressing B or C the player can turn Duke to shoot left or right, but can't turn him to face that direction and move.
+
+The game is divided in three episodes (L.A. Meltdown, Lunar Apocalypse and Shrapnel City) comprised of a total of twelve missions loosely based on the original ones of the same name, which can be accessed via passwords (given after the player dies). There are four weapons available (boot, pistol, shotgun and RPG) and four different kinds of enemies: Assault Troops, Pig Cops, Enforcers and Octobrains. Items like armor and key cards can be collected, as well as med kits and ammunition. There are four difficulty levels and the game also features Duke's digitized one-liners and other speech.</desc>
+		<image>./images/Duke Nukem 3D (1997)(Tiger Electronics)-image.png</image>
+		<video>./videos/Duke Nukem 3D (1997)(Tiger Electronics)-video.mp4</video>
+		<marquee>./images/Duke Nukem 3D (1997)(Tiger Electronics)-marquee.png</marquee>
+		<thumbnail>./images/Duke Nukem 3D (1997)(Tiger Electronics)-thumb.png</thumbnail>
+		<manual>./manuals/Duke Nukem 3D (1997)(Tiger Electronics)-manual.pdf</manual>
+		<boxback>./images/Duke Nukem 3D (1997)(Tiger Electronics)-boxback.png</boxback>
+		<rating>0.15</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>GT Interactive</developer>
+		<publisher>Tiger Electronics</publisher>
+		<genre>Shooter / 1st person</genre>
+		<family>Duke Nukem</family>
+		<players>1</players>
+		<crc32>884568D1</crc32>
+		<md5>4877b49ade7eae99a00abb842db43f63</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230217T110931" />
+	</game>
+	<game id="99414">
+		<path>./TOSEC/Games/Fighters Megamix (1998)(Sega)/Fighters Megamix (1998)(Sega).bin</path>
+		<name>Fighters Megamix</name>
+		<desc>It's Virtua Fighter 2 vs. Fighting Vipers!
+Two arcade smash hits, smashing into each other in the ultimate battle for supremacy. It's cutting-edge combat.
+It's also filled with suprises - try to unlock your favorite characters from Daytona USA and Virtua Cop!</desc>
+		<image>./images/Fighters Megamix (1998)(Sega)-image.png</image>
+		<video>./videos/Fighters Megamix (1998)(Sega)-video.mp4</video>
+		<marquee>./images/Fighters Megamix (1998)(Sega)-marquee.png</marquee>
+		<thumbnail>./images/Fighters Megamix (1998)(Sega)-thumb.png</thumbnail>
+		<manual>./manuals/Fighters Megamix (1998)(Sega)-manual.pdf</manual>
+		<boxback>./images/Fighters Megamix (1998)(Sega)-boxback.png</boxback>
+		<rating>0.05</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>AM2</developer>
+		<publisher>Tiger Electronics</publisher>
+		<genre>Fight</genre>
+		<players>1-2</players>
+		<crc32>061E943F</crc32>
+		<md5>86703ceb47787f9e124bac8a173cc6c9</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230217T110933" />
+	</game>
+	<game id="99414">
+		<path>./TOSEC/Games/Fighters Megamix (1998)(Sega)[b]/Fighters Megamix (1998)(Sega)[b].bin</path>
+		<name>Fighters Megamix</name>
+		<desc>It's Virtua Fighter 2 vs. Fighting Vipers!
+Two arcade smash hits, smashing into each other in the ultimate battle for supremacy. It's cutting-edge combat.
+It's also filled with suprises - try to unlock your favorite characters from Daytona USA and Virtua Cop!</desc>
+		<image>./images/Fighters Megamix (1998)(Sega)[b]-image.png</image>
+		<video>./videos/Fighters Megamix (1998)(Sega)[b]-video.mp4</video>
+		<marquee>./images/Fighters Megamix (1998)(Sega)[b]-marquee.png</marquee>
+		<thumbnail>./images/Fighters Megamix (1998)(Sega)[b]-thumb.png</thumbnail>
+		<manual>./manuals/Fighters Megamix (1998)(Sega)[b]-manual.pdf</manual>
+		<boxback>./images/Fighters Megamix (1998)(Sega)[b]-boxback.png</boxback>
+		<rating>0.05</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>AM2</developer>
+		<publisher>Tiger Electronics</publisher>
+		<genre>Fight</genre>
+		<players>1-2</players>
+		<crc32>0142A7A2</crc32>
+		<md5>93683e5dd11d4089013ec6dc8daefd07</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230217T110936" />
+	</game>
+	<game id="99415">
+		<path>./TOSEC/Games/Frogger (1999)(Hasbro - Tiger Electronics)/Frogger (1999)(Hasbro - Tiger Electronics).bin</path>
+		<name>Frogger</name>
+		<desc>Poor Frog. He just wants to get home safe but must first cross a road and a river full of dangers.
+
+The Game.com version of Frogger has two versions on the cartridge. The classic version is like the original arcade game: guide five frogs, one at a time, across a busy street and a river to the safety of his home. The second version is an updated version that contains newer levels. Some are nothing but two areas of river or road and others are one big area of road with no safe area in the middle. The Game.com also has up to four players, playing in turn.</desc>
+		<image>./images/Frogger (1999)(Hasbro - Tiger Electronics)-image.png</image>
+		<video>./videos/Frogger (1999)(Hasbro - Tiger Electronics)-video.mp4</video>
+		<marquee>./images/Frogger (1999)(Hasbro - Tiger Electronics)-marquee.png</marquee>
+		<thumbnail>./images/Frogger (1999)(Hasbro - Tiger Electronics)-thumb.png</thumbnail>
+		<manual>./manuals/Frogger (1999)(Hasbro - Tiger Electronics)-manual.pdf</manual>
+		<boxback>./images/Frogger (1999)(Hasbro - Tiger Electronics)-boxback.png</boxback>
+		<rating>0.9</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Handheld Games</developer>
+		<publisher>Tiger Electronics, Inc.</publisher>
+		<family>Frogger</family>
+		<players>1-4</players>
+		<crc32>10E4C5CD</crc32>
+		<md5>fa21cc065473e9631561e7392f3c2ddd</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230217T110939" />
+	</game>
+	<game id="99416">
+		<path>./TOSEC/Games/Henry (1997)(Tiger Electronics)/Henry (1997)(Tiger Electronics).bin</path>
+		<name>Henry</name>
+		<desc>This is a match game using sound and pictures. You have 16 buttons with sounds and pictures under them, given a clue you have to match a sound and picture. If you find a match the button will light, get 4 lights and the game is over. If you found the last one you when if not then your opponent wins. There are 3 game modes:Practice - Compete against yourself to get use to the game.
+Single - This pits you against Henry.
+Two Players - You can play against another person by alternating turns.
+You also have the option to play with or without sound clues or visual clues.</desc>
+		<image>./images/Henry (1997)(Tiger Electronics)-image.png</image>
+		<video>./videos/Henry (1997)(Tiger Electronics)-video.mp4</video>
+		<marquee>./images/Henry (1997)(Tiger Electronics)-marquee.png</marquee>
+		<thumbnail>./images/Henry (1997)(Tiger Electronics)-thumb.png</thumbnail>
+		<manual>./manuals/Henry (1997)(Tiger Electronics)-manual.pdf</manual>
+		<boxback>./images/Henry (1997)(Tiger Electronics)-boxback.png</boxback>
+		<rating>0.25</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Tiger Electronics, Inc.</developer>
+		<publisher>Tiger Electronics, Inc.</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1-2</players>
+		<crc32>75D3C8D8</crc32>
+		<md5>70cf0d6dd2e85249a6cd8f1652f75fbc</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230217T110942" />
+	</game>
+	<game id="99417">
+		<path>./TOSEC/Games/Indy 500 (1997)(Tiger Electronics)/Indy 500 (1997)(Tiger Electronics).bin</path>
+		<name>Indy 500</name>
+		<desc>Indy 500 is an officially licensed Indianapolis 500 game that starts you off following a pace car leading into a rolling start to kick off the race.</desc>
+		<image>./images/Indy 500 (1997)(Tiger Electronics)-image.png</image>
+		<video>./videos/Indy 500 (1997)(Tiger Electronics)-video.mp4</video>
+		<marquee>./images/Indy 500 (1997)(Tiger Electronics)-marquee.png</marquee>
+		<thumbnail>./images/Indy 500 (1997)(Tiger Electronics)-thumb.png</thumbnail>
+		<manual>./manuals/Indy 500 (1997)(Tiger Electronics)-manual.pdf</manual>
+		<boxback>./images/Indy 500 (1997)(Tiger Electronics)-boxback.png</boxback>
+		<rating>0.25</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Tiger Electronics, Inc.</developer>
+		<publisher>Tiger Electronics, Inc.</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+		<crc32>845ED281</crc32>
+		<md5>9bda8ce6a6b253d02a1538bd52a7ba1b</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230217T110944" />
+	</game>
+	<game id="99419">
+		<path>./TOSEC/Games/Jeopardy! (1997)(Tiger Electronics)/Jeopardy! (1997)(Tiger Electronics).bin</path>
+		<name>Jeopardy!</name>
+		<desc>Jeopardy! for the Game.Com is an adaptation of the popular TV quiz show in which contestants must provide the questions for the answers given.
+
+The game is for one or two players (via compete.com cable). At the start of the game, players can select their appearance from a choice of five male and five female options and can enter their name. The game is played using a touch interface. Selecting the next answer from the board, buzzing in and entering the questions is all done by tapping the appropriate icons. 
+
+The game follows the rules of the show, with regular, double and final rounds and hidden daily doubles. The overall time limit for the rounds can be turned off, as can voice samples. The game includes hundreds of answers and questions.</desc>
+		<image>./images/Jeopardy! (1997)(Tiger Electronics)-image.png</image>
+		<video>./videos/Jeopardy! (1997)(Tiger Electronics)-video.mp4</video>
+		<marquee>./images/Jeopardy! (1997)(Tiger Electronics)-marquee.png</marquee>
+		<thumbnail>./images/Jeopardy! (1997)(Tiger Electronics)-thumb.png</thumbnail>
+		<manual>./manuals/Jeopardy! (1997)(Tiger Electronics)-manual.pdf</manual>
+		<boxback>./images/Jeopardy! (1997)(Tiger Electronics)-boxback.png</boxback>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Tiger Electronics, Ltd</developer>
+		<publisher>Tiger Electronics, Ltd</publisher>
+		<genre>Puzzle-Game</genre>
+		<family>Jeopardy</family>
+		<players>1-3</players>
+		<crc32>8C512912</crc32>
+		<md5>0166dbff51138b866d51de137266974d</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230217T110946" />
+	</game>
+	<game id="99421">
+		<path>./TOSEC/Games/Lights Out (1997)(Tiger Electronics)/Lights Out (1997)(Tiger Electronics).bin</path>
+		<name>Lights Out</name>
+		<desc>You are holding in your hands the most addictive,brain boggling puzzle ever created. The object of thepuzzle is simple...turn the LIGHTS OUT. It seems soeasy...at first. The problem is that every press of abutton has an effect on the puzzle. Lights that are onwill shut off, and “off” lights will turn on. (So, if youtouch a button that is lit, it will shut off. Conversely,touching an unlit button will cause it to light up).Moreover, when you touch a button, it not onlychanges that light, but it also changes the adjacentlights (those that are directly above, below, or next tothe  pressed  button).  Every  pre-programmed  puzzlehas a solution. Your goal is to solve each puzzle inthe  fewest  number  of  “moves”,  or  steps.</desc>
+		<image>./images/Lights Out (1997)(Tiger Electronics)-image.png</image>
+		<video>./videos/Lights Out (1997)(Tiger Electronics)-video.mp4</video>
+		<marquee>./images/Lights Out (1997)(Tiger Electronics)-marquee.png</marquee>
+		<thumbnail>./images/Lights Out (1997)(Tiger Electronics)-thumb.png</thumbnail>
+		<manual>./manuals/Lights Out (1997)(Tiger Electronics)-manual.pdf</manual>
+		<boxback>./images/Lights Out (1997)(Tiger Electronics)-boxback.png</boxback>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Tiger Electronics, Inc.</developer>
+		<publisher>Tiger Electronics, Inc.</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<crc32>496EFA62</crc32>
+		<md5>d1a158ad9e1c77d576f3385a09b63685</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230217T110949" />
+	</game>
+	<game id="99420">
+		<path>./TOSEC/Games/Lost World, The - Jurassic Park (1997)(Tiger Electronics)/Lost World, The - Jurassic Park (1997)(Tiger Electronics).bin</path>
+		<name>Jurassic Park - The Lost World</name>
+		<desc>In this movie inspired game, you play as either Sarah Harding, anthropologist or as Roland Tembo, lead hunter of the InGen team. Harding wants to study the dinosaurs while the InGen team is intent on hunting and returning dinosaurs to the mainland.
+
+As Tembo or Harding, you travel to 6 Nest Areas to retrieve  eggs using the Game Trails. On the Game Trails you must drive and avoid the dinosaurs and other obstacles from damaging your vehicle. While in the Nest Area you have to search for the eggs. You are given Tranquilizer Darts and Harding uses Flares while Tembo has a Sonic Screamer Device to frighten off the dinosaurs.
+
+There are 3 difficulty settings, as you select a harder setting the dinosaurs will do more damage. After you complete each level you will be given a password so you can return to that level if need be.</desc>
+		<image>./images/Lost World, The - Jurassic Park (1997)(Tiger Electronics)-image.png</image>
+		<video>./videos/Lost World, The - Jurassic Park (1997)(Tiger Electronics)-video.mp4</video>
+		<marquee>./images/Lost World, The - Jurassic Park (1997)(Tiger Electronics)-marquee.png</marquee>
+		<thumbnail>./images/Lost World, The - Jurassic Park (1997)(Tiger Electronics)-thumb.png</thumbnail>
+		<manual>./manuals/Lost World, The - Jurassic Park (1997)(Tiger Electronics)-manual.pdf</manual>
+		<boxback>./images/Lost World, The - Jurassic Park (1997)(Tiger Electronics)-boxback.png</boxback>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Tiger Electronics</developer>
+		<publisher>Tiger Electronics</publisher>
+		<genre>Action</genre>
+		<family>Jurassic Park</family>
+		<players>1</players>
+		<crc32>B422C5F8</crc32>
+		<md5>cb137ab815c85424fbe5b2ce9f6bed44</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230217T110952" />
+	</game>
+	<game id="99422">
+		<path>./TOSEC/Games/Monopoly (1999)(Tiger Electronics)/Monopoly (1999)(Tiger Electronics).bin</path>
+		<name>Monopoly</name>
+		<desc>Pass GO - and go directly to fun! It's all here, the best-loved board games of all time.
+Play against game.com or against your friends (up to 6 can compete).
+Trade railroads! Buy houses! Build hotels! GET RICH!</desc>
+		<image>./images/Monopoly (1999)(Tiger Electronics)-image.png</image>
+		<video>./videos/Monopoly (1999)(Tiger Electronics)-video.mp4</video>
+		<marquee>./images/Monopoly (1999)(Tiger Electronics)-marquee.png</marquee>
+		<thumbnail>./images/Monopoly (1999)(Tiger Electronics)-thumb.png</thumbnail>
+		<manual>./manuals/Monopoly (1999)(Tiger Electronics)-manual.pdf</manual>
+		<boxback>./images/Monopoly (1999)(Tiger Electronics)-boxback.png</boxback>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Tiger Electronics, Ltd</developer>
+		<publisher>Tiger Electronics, Ltd</publisher>
+		<genre>Board game</genre>
+		<family>Monopoly</family>
+		<players>1-6</players>
+		<crc32>D6A65A07</crc32>
+		<md5>eb184a1cd54a76851ebfd47407b018af</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230217T110954" />
+	</game>
+	<game id="99423">
+		<path>./TOSEC/Games/Mortal Kombat Trilogy (1997)(Midway)/Mortal Kombat Trilogy (1997)(Midway).bin</path>
+		<name>Mortal Kombat Trilogy</name>
+		<desc>All the characters from the first three Mortal Kombat games return for the ultimate battle. You can play as Kano, Reptile, Mileena, Kung Lao, Shang Tsung, Sindel, Sketor, Stryker, Nightwolf, Sheeva, Kitana, Scorpion, Sonya, Smoke (Cyber Ninja), Rain, Jade, Baraka, Johnny Cage, Ermac, Noob Saibot, Sub-Zero (Unmasked), Sub-Zero (Classic), Jax, Rayden, Cyrax, Liu Kang, Smoke (Human), Kabal, Goro, Kintaro, Motaro, or Shao Kahn.
+
+This game is one-on-one martial arts fighting. The player can choose from over thirty different characters, all with their own fighting style and their own special moves. Trilogy differs from the other games in that you can play combinations of people that otherwise isn't possible, such as old Liu Kang vs. new Liu Kang, etc.
+
+Mortal Kombat Trilogy also allows you to challenge a friend to a fight through a Windows IPX network connection.</desc>
+		<image>./images/Mortal Kombat Trilogy (1997)(Midway)-image.png</image>
+		<video>./videos/Mortal Kombat Trilogy (1997)(Midway)-video.mp4</video>
+		<marquee>./images/Mortal Kombat Trilogy (1997)(Midway)-marquee.png</marquee>
+		<thumbnail>./images/Mortal Kombat Trilogy (1997)(Midway)-thumb.png</thumbnail>
+		<manual>./manuals/Mortal Kombat Trilogy (1997)(Midway)-manual.pdf</manual>
+		<boxback>./images/Mortal Kombat Trilogy (1997)(Midway)-boxback.png</boxback>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Tiger Electronics</publisher>
+		<genre>Fight</genre>
+		<family>Mortal Kombat</family>
+		<players>1-2</players>
+		<crc32>72893A77</crc32>
+		<md5>72bfd2f2285b9fd542be90ae9f71b235</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230217T110956" />
+	</game>
+	<game id="99423">
+		<path>./TOSEC/Games/Mortal Kombat Trilogy (1997)(Midway)[b]/Mortal Kombat Trilogy (1997)(Midway)[b].bin</path>
+		<name>Mortal Kombat Trilogy</name>
+		<desc>All the characters from the first three Mortal Kombat games return for the ultimate battle. You can play as Kano, Reptile, Mileena, Kung Lao, Shang Tsung, Sindel, Sketor, Stryker, Nightwolf, Sheeva, Kitana, Scorpion, Sonya, Smoke (Cyber Ninja), Rain, Jade, Baraka, Johnny Cage, Ermac, Noob Saibot, Sub-Zero (Unmasked), Sub-Zero (Classic), Jax, Rayden, Cyrax, Liu Kang, Smoke (Human), Kabal, Goro, Kintaro, Motaro, or Shao Kahn.
+
+This game is one-on-one martial arts fighting. The player can choose from over thirty different characters, all with their own fighting style and their own special moves. Trilogy differs from the other games in that you can play combinations of people that otherwise isn't possible, such as old Liu Kang vs. new Liu Kang, etc.
+
+Mortal Kombat Trilogy also allows you to challenge a friend to a fight through a Windows IPX network connection.</desc>
+		<image>./images/Mortal Kombat Trilogy (1997)(Midway)[b]-image.png</image>
+		<video>./videos/Mortal Kombat Trilogy (1997)(Midway)[b]-video.mp4</video>
+		<marquee>./images/Mortal Kombat Trilogy (1997)(Midway)[b]-marquee.png</marquee>
+		<thumbnail>./images/Mortal Kombat Trilogy (1997)(Midway)[b]-thumb.png</thumbnail>
+		<manual>./manuals/Mortal Kombat Trilogy (1997)(Midway)[b]-manual.pdf</manual>
+		<boxback>./images/Mortal Kombat Trilogy (1997)(Midway)[b]-boxback.png</boxback>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Tiger Electronics</publisher>
+		<genre>Fight</genre>
+		<family>Mortal Kombat</family>
+		<players>1-2</players>
+		<crc32>BD29C844</crc32>
+		<md5>19a2c977ceeaff193e7e4d37effbdf92</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230217T110959" />
+	</game>
+	<game id="99424">
+		<path>./TOSEC/Games/Quiz Wiz - Cyber Trivia (1997)(Tiger Electronics)/Quiz Wiz - Cyber Trivia (1997)(Tiger Electronics).bin</path>
+		<name>Quiz Wiz - Cyber Trivia</name>
+		<desc>Based on the electronic game that was made by Tiger, Quiz Wiz: Cyber Trivia challenges up to three players to answer a series of questions in five categories: Sports, Famous People, Film and TV, Potpourri, and General Knowledge. In addition to the five categories, the player can choose from five lengths of game, from five up to thirty questions, and can also choose to be timed when answering a question (from 5 up to 20 seconds). In the game, the player(s) uses the stylus to answer the questions, either by directly touching the answer or touching the letter corresponding to his/her choice. Each answer is met by a word from your Quiz Wiz host, the Wise Guy, whether correct or incorrect (which you can turn off in Options). After the chosen amount of questions have elapsed, the game is over and players' scores are displayed.</desc>
+		<image>./images/Quiz Wiz - Cyber Trivia (1997)(Tiger Electronics)-image.png</image>
+		<video>./videos/Quiz Wiz - Cyber Trivia (1997)(Tiger Electronics)-video.mp4</video>
+		<marquee>./images/Quiz Wiz - Cyber Trivia (1997)(Tiger Electronics)-marquee.png</marquee>
+		<thumbnail>./images/Quiz Wiz - Cyber Trivia (1997)(Tiger Electronics)-thumb.png</thumbnail>
+		<manual>./manuals/Quiz Wiz - Cyber Trivia (1997)(Tiger Electronics)-manual.pdf</manual>
+		<boxback>./images/Quiz Wiz - Cyber Trivia (1997)(Tiger Electronics)-boxback.png</boxback>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Tiger Electronics, Inc.</developer>
+		<publisher>Tiger Electronics, Inc.</publisher>
+		<genre>Educational</genre>
+		<players>1-3</players>
+		<crc32>0E018F6A</crc32>
+		<md5>b5b7fba3bd7ad97cdab419eb68365100</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230217T111001" />
+	</game>
+	<game id="99425">
+		<path>./TOSEC/Games/Resident Evil 2 (1998)(Capcom)/Resident Evil 2 (1998)(Capcom).bin</path>
+		<name>Resident Evil 2</name>
+		<desc>The Game.Com edition of Resident Evil 2 follows much the same structure and story of its console counterpart. This version has the player control Leon by positioning him in the direction he needs to go and by having him move forward whilst engaging zombies. Leon can only be moved over three horizontal planes as in a 2D game with a side view, but with a pseudo 3D effect. Each non-scrolling location holds different zombies and once they are dead Leon moves to a new screen. He has access to an inventory to cycle between weapons. There is support for options such as touchscreen inventory menus, in addition to the game keeping track of the time the player has spent with the game.</desc>
+		<image>./images/Resident Evil 2 (1998)(Capcom)-image.png</image>
+		<video>./videos/Resident Evil 2 (1998)(Capcom)-video.mp4</video>
+		<marquee>./images/Resident Evil 2 (1998)(Capcom)-marquee.png</marquee>
+		<thumbnail>./images/Resident Evil 2 (1998)(Capcom)-thumb.png</thumbnail>
+		<fanart>./images/Resident Evil 2 (1998)(Capcom)-fanart.jpg</fanart>
+		<manual>./manuals/Resident Evil 2 (1998)(Capcom)-manual.pdf</manual>
+		<boxback>./images/Resident Evil 2 (1998)(Capcom)-boxback.png</boxback>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Tiger Electronics</developer>
+		<publisher>Tiger Electronics</publisher>
+		<genre>Adventure / Survival Horror</genre>
+		<family>Resident Evil</family>
+		<players>1</players>
+		<crc32>4F09457D</crc32>
+		<md5>101f50871ffd3d99464b5f630abcf112</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230217T111004" />
+	</game>
+	<game id="99425">
+		<path>./TOSEC/Games/Resident Evil 2 (1998)(Capcom)[b]/Resident Evil 2 (1998)(Capcom)[b].bin</path>
+		<name>Resident Evil 2</name>
+		<desc>The Game.Com edition of Resident Evil 2 follows much the same structure and story of its console counterpart. This version has the player control Leon by positioning him in the direction he needs to go and by having him move forward whilst engaging zombies. Leon can only be moved over three horizontal planes as in a 2D game with a side view, but with a pseudo 3D effect. Each non-scrolling location holds different zombies and once they are dead Leon moves to a new screen. He has access to an inventory to cycle between weapons. There is support for options such as touchscreen inventory menus, in addition to the game keeping track of the time the player has spent with the game.</desc>
+		<image>./images/Resident Evil 2 (1998)(Capcom)[b]-image.png</image>
+		<video>./videos/Resident Evil 2 (1998)(Capcom)[b]-video.mp4</video>
+		<marquee>./images/Resident Evil 2 (1998)(Capcom)[b]-marquee.png</marquee>
+		<thumbnail>./images/Resident Evil 2 (1998)(Capcom)[b]-thumb.png</thumbnail>
+		<fanart>./images/Resident Evil 2 (1998)(Capcom)[b]-fanart.jpg</fanart>
+		<manual>./manuals/Resident Evil 2 (1998)(Capcom)[b]-manual.pdf</manual>
+		<boxback>./images/Resident Evil 2 (1998)(Capcom)[b]-boxback.png</boxback>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Tiger Electronics</developer>
+		<publisher>Tiger Electronics</publisher>
+		<genre>Adventure / Survival Horror</genre>
+		<family>Resident Evil</family>
+		<players>1</players>
+		<crc32>0984C7F5</crc32>
+		<md5>78cd38ae5188559a76e8086f0b9e3832</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230217T111006" />
+	</game>
+	<game id="99426">
+		<path>./TOSEC/Games/Scrabble (1999)(Hasbro - Tiger Electronics)/Scrabble (1999)(Hasbro - Tiger Electronics).bin</path>
+		<name>Scrabble</name>
+		<desc>Scrabble for the Game.Com is an adaptation of the popular word construction board game.
+
+The game can be played by two to four players, either on the same handheld, via compete.com cable, or against CPU opponents (with three difficulty settings available). Options include the toggling of the tournament timer and penalty timer and sort order of tiles on the rack.
+
+During a game, the board is seen from the top with player scores at the right and the tile rack at the bottom. The game starts with the full board in view, but two zoom settings are available to check out the details and to place tiles via touch interface. When playing against human opponents, it is possible to challenge their constructed words. This is not possible against CPU opponents, who check their words against a built-in dictionary.</desc>
+		<image>./images/Scrabble (1999)(Hasbro - Tiger Electronics)-image.png</image>
+		<video>./videos/Scrabble (1999)(Hasbro - Tiger Electronics)-video.mp4</video>
+		<marquee>./images/Scrabble (1999)(Hasbro - Tiger Electronics)-marquee.png</marquee>
+		<thumbnail>./images/Scrabble (1999)(Hasbro - Tiger Electronics)-thumb.png</thumbnail>
+		<manual>./manuals/Scrabble (1999)(Hasbro - Tiger Electronics)-manual.pdf</manual>
+		<boxback>./images/Scrabble (1999)(Hasbro - Tiger Electronics)-boxback.png</boxback>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Hasbro Interactive</developer>
+		<publisher>Tiger Electronics, Ltd</publisher>
+		<genre>Board game</genre>
+		<players>1-4</players>
+		<crc32>4D4AD909</crc32>
+		<md5>82792aba49381b4f90af02971e383162</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230217T111009" />
+	</game>
+	<game id="99427">
+		<path>./TOSEC/Games/Sonic Jam (1998)(Sega)/Sonic Jam (1998)(Sega).bin</path>
+		<name>Sonic Jam</name>
+		<desc>A "greatest hits" compilation of levels inspired by Sonic 2, Sonic 3, and Sonic &amp; Knuckles. The player first selects one of the three games, each spanning multiple bosses and five levels based on one zone from the original games (Emerald Hill for Sonic 2, Angel Island for Sonic 3, and Mushroom Hill for Sonic and Knuckles). The player can then select from Sonic, Tails, or Knuckles, each of which has their unique abilities, except for Knuckles, who can neither glide nor climb. Sonic 3's bonus stage is also included.</desc>
+		<image>./images/Sonic Jam (1998)(Sega)-image.png</image>
+		<video>./videos/Sonic Jam (1998)(Sega)-video.mp4</video>
+		<marquee>./images/Sonic Jam (1998)(Sega)-marquee.png</marquee>
+		<thumbnail>./images/Sonic Jam (1998)(Sega)-thumb.png</thumbnail>
+		<manual>./manuals/Sonic Jam (1998)(Sega)-manual.pdf</manual>
+		<boxback>./images/Sonic Jam (1998)(Sega)-boxback.png</boxback>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>Tiger Electronics</publisher>
+		<genre>Platform</genre>
+		<family>Sonic</family>
+		<players>1</players>
+		<crc32>8B4A63F9</crc32>
+		<md5>10a19c8b536ce8e767445e04abdea9cb</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230217T111011" />
+	</game>
+	<game id="99427">
+		<path>./TOSEC/Games/Sonic Jam (1998)(Sega)[b]/Sonic Jam (1998)(Sega)[b].bin</path>
+		<name>Sonic Jam</name>
+		<desc>A "greatest hits" compilation of levels inspired by Sonic 2, Sonic 3, and Sonic &amp; Knuckles. The player first selects one of the three games, each spanning multiple bosses and five levels based on one zone from the original games (Emerald Hill for Sonic 2, Angel Island for Sonic 3, and Mushroom Hill for Sonic and Knuckles). The player can then select from Sonic, Tails, or Knuckles, each of which has their unique abilities, except for Knuckles, who can neither glide nor climb. Sonic 3's bonus stage is also included.</desc>
+		<image>./images/Sonic Jam (1998)(Sega)[b]-image.png</image>
+		<video>./videos/Sonic Jam (1998)(Sega)[b]-video.mp4</video>
+		<marquee>./images/Sonic Jam (1998)(Sega)[b]-marquee.png</marquee>
+		<thumbnail>./images/Sonic Jam (1998)(Sega)[b]-thumb.png</thumbnail>
+		<manual>./manuals/Sonic Jam (1998)(Sega)[b]-manual.pdf</manual>
+		<boxback>./images/Sonic Jam (1998)(Sega)[b]-boxback.png</boxback>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>Tiger Electronics</publisher>
+		<genre>Platform</genre>
+		<family>Sonic</family>
+		<players>1</players>
+		<crc32>8C165064</crc32>
+		<md5>62b80c09596dc4c6932c0d996360f186</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230217T111013" />
+	</game>
+	<game id="99428">
+		<path>./TOSEC/Games/Tiger Casino (1998)(Tiger Electronics)/Tiger Casino (1998)(Tiger Electronics).bin</path>
+		<name>Tiger Casino</name>
+		<desc>You have a choice of playing 5 different casino games following the Tiger Casino House Rules. The game you get to choose from are Video Poker, Video Black Jack, Hi-Low, Slots, and Roulette. Video Poker is a standard game of poker. Video Black Jack - get a higher total over the computer without going over 21. Hi-Low, flip a card and the higher one wins, but if you tie you have to go to War. Slots - there are 2 different slot machines to play - T-Rex and Slots O' Fruit. Roulette is a standard game of roulette.
+
+In the options you can choose to change your starting amount and set a credit limit. When you are tired of playing a game you can cash out and the game will give you a password so you can continue your game again later.</desc>
+		<image>./images/Tiger Casino (1998)(Tiger Electronics)-image.png</image>
+		<video>./videos/Tiger Casino (1998)(Tiger Electronics)-video.mp4</video>
+		<marquee>./images/Tiger Casino (1998)(Tiger Electronics)-marquee.png</marquee>
+		<thumbnail>./images/Tiger Casino (1998)(Tiger Electronics)-thumb.png</thumbnail>
+		<manual>./manuals/Tiger Casino (1998)(Tiger Electronics)-manual.pdf</manual>
+		<boxback>./images/Tiger Casino (1998)(Tiger Electronics)-boxback.png</boxback>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Tiger Electronics, Ltd</developer>
+		<publisher>Tiger Electronics, Ltd</publisher>
+		<genre>Casino</genre>
+		<players>1</players>
+		<crc32>BA698142</crc32>
+		<md5>cb9e36df6e91ce1f4dc392f144ee3da2</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230217T111015" />
+	</game>
+	<game id="99428">
+		<path>./TOSEC/Games/Tiger Casino (1998)(Tiger Electronics)[b]/Tiger Casino (1998)(Tiger Electronics)[b].bin</path>
+		<name>Tiger Casino</name>
+		<desc>You have a choice of playing 5 different casino games following the Tiger Casino House Rules. The game you get to choose from are Video Poker, Video Black Jack, Hi-Low, Slots, and Roulette. Video Poker is a standard game of poker. Video Black Jack - get a higher total over the computer without going over 21. Hi-Low, flip a card and the higher one wins, but if you tie you have to go to War. Slots - there are 2 different slot machines to play - T-Rex and Slots O' Fruit. Roulette is a standard game of roulette.
+
+In the options you can choose to change your starting amount and set a credit limit. When you are tired of playing a game you can cash out and the game will give you a password so you can continue your game again later.</desc>
+		<image>./images/Tiger Casino (1998)(Tiger Electronics)[b]-image.png</image>
+		<video>./videos/Tiger Casino (1998)(Tiger Electronics)[b]-video.mp4</video>
+		<marquee>./images/Tiger Casino (1998)(Tiger Electronics)[b]-marquee.png</marquee>
+		<thumbnail>./images/Tiger Casino (1998)(Tiger Electronics)[b]-thumb.png</thumbnail>
+		<manual>./manuals/Tiger Casino (1998)(Tiger Electronics)[b]-manual.pdf</manual>
+		<boxback>./images/Tiger Casino (1998)(Tiger Electronics)[b]-boxback.png</boxback>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Tiger Electronics, Ltd</developer>
+		<publisher>Tiger Electronics, Ltd</publisher>
+		<genre>Casino</genre>
+		<players>1</players>
+		<crc32>E7FB8FD9</crc32>
+		<md5>368b9cc007917688a3882746bba5903d</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230217T111018" />
+	</game>
+	<game id="99430">
+		<path>./TOSEC/Games/Wheel of Fortune (1997)(Tiger Electronics)/Wheel of Fortune (1997)(Tiger Electronics).bin</path>
+		<name>Wheel Of Fortune</name>
+		<desc>Wheel of Fortune for Game.Com is an adaptation of the popular TV game show where contestants spin the wheel to win money and have to guess letters in a puzzle.
+
+The game can be played by up to three players. If only one human player is available, they play against an AI opponent. Before the start of the game, the players can choose their appearance from a number of male and female portraits. The game is played entirely using a touch interface. The game screen displays the word puzzle at the top, the current player and their score in the center and the input panel (with the possible actions and a virtual keyboard for letter input) at the bottom. When the wheel is spinning, it and a close-up of the wheel values are superimposed over the game screen. The game follows the rules of the TV show, with three regular rounds and a final bonus round for the contestant who won the most money.
+
+The game includes 750 word puzzles in more than a dozen categories.</desc>
+		<image>./images/Wheel of Fortune (1997)(Tiger Electronics)-image.png</image>
+		<video>./videos/Wheel of Fortune (1997)(Tiger Electronics)-video.mp4</video>
+		<marquee>./images/Wheel of Fortune (1997)(Tiger Electronics)-marquee.png</marquee>
+		<thumbnail>./images/Wheel of Fortune (1997)(Tiger Electronics)-thumb.png</thumbnail>
+		<manual>./manuals/Wheel of Fortune (1997)(Tiger Electronics)-manual.pdf</manual>
+		<boxback>./images/Wheel of Fortune (1997)(Tiger Electronics)-boxback.png</boxback>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Tiger Electronics, Inc.</developer>
+		<publisher>Tiger Electronics, Inc.</publisher>
+		<genre>Quiz</genre>
+		<players>1-3</players>
+		<crc32>048347A0</crc32>
+		<md5>890b7afe263c49ac764a5d10479898d4</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230217T111020" />
+	</game>
+	<game id="99431">
+		<path>./TOSEC/Games/Wheel of Fortune 2 (1998)(Tiger Electronics)/Wheel of Fortune 2 (1998)(Tiger Electronics).bin</path>
+		<name>Wheel Of Fortune 2</name>
+		<desc>Wheel of Fortune 2 is the second adaptation of the popular TV game show on the Game.Com. It is very similar to the previous game, with some minor graphical differences and a new set of puzzles.
+
+As before, up to three players can play. There is an all-new selection of portraits for players to choose from. Game graphics and touch controls are unchanged: the game screen displays the word puzzle at the top, the current player and their score in the center and the input panel (with the possible actions and a virtual keyboard for letter input) at the bottom. When the wheel is spinning, it and a close-up of the wheel values are superimposed over the game screen. The game follows the rules of the TV show, with three regular rounds and a final bonus round for the contestant who won the most money.
+
+The game includes a new set of 750 word puzzles, some of which are in new categories like Fictional Character or Title &amp; Author.</desc>
+		<image>./images/Wheel of Fortune 2 (1998)(Tiger Electronics)-image.png</image>
+		<video>./videos/Wheel of Fortune 2 (1998)(Tiger Electronics)-video.mp4</video>
+		<marquee>./images/Wheel of Fortune 2 (1998)(Tiger Electronics)-marquee.png</marquee>
+		<thumbnail>./images/Wheel of Fortune 2 (1998)(Tiger Electronics)-thumb.png</thumbnail>
+		<manual>./manuals/Wheel of Fortune 2 (1998)(Tiger Electronics)-manual.pdf</manual>
+		<boxback>./images/Wheel of Fortune 2 (1998)(Tiger Electronics)-boxback.png</boxback>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Tiger Electronics, Inc.</developer>
+		<publisher>Tiger Electronics, Inc.</publisher>
+		<genre>Quiz</genre>
+		<players>1-3</players>
+		<crc32>B91E2E32</crc32>
+		<md5>20347cfa962765c6f22a6ea48d3abe83</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230217T111022" />
+	</game>
+	<game id="99432">
+		<path>./TOSEC/Games/Williams Arcade Classics (1997)(Tiger Electronics)/Williams Arcade Classics (1997)(Tiger Electronics).bin</path>
+		<name>Williams Arcade Classics</name>
+		<desc>Williams Arcade Classics is a compilation that includes the following games:
+
+Defender
+Defender II
+Joust
+Robotron: 2084
+Sinistar
+
+The PC, PlayStation, and Dreamcast versions also contain Bubbles. The PC and Playstation versions contain FMV supplements, including interviews with the original programmers.</desc>
+		<image>./images/Williams Arcade Classics (1997)(Tiger Electronics)-image.png</image>
+		<video>./videos/Williams Arcade Classics (1997)(Tiger Electronics)-video.mp4</video>
+		<marquee>./images/Williams Arcade Classics (1997)(Tiger Electronics)-marquee.png</marquee>
+		<thumbnail>./images/Williams Arcade Classics (1997)(Tiger Electronics)-thumb.png</thumbnail>
+		<manual>./manuals/Williams Arcade Classics (1997)(Tiger Electronics)-manual.pdf</manual>
+		<boxback>./images/Williams Arcade Classics (1997)(Tiger Electronics)-boxback.png</boxback>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Digital Eclipse Software, Inc.</developer>
+		<publisher>Tiger Electronics, Inc.</publisher>
+		<genre>Compilation</genre>
+		<players>1-2</players>
+		<crc32>F894065D</crc32>
+		<md5>6b4dc428a6eb45b130265f86e0116d58</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230217T111025" />
+	</game>
+	<game id="99411">
+		<path>./No-Intro/Batman &amp; Robin (USA).tgc</path>
+		<name>Batman And Robin</name>
+		<desc>An evil chill confronts Batman and Robin. The sinister Mr. Freeze intends to remake Gotham City in the image of his own cold heart. Encouraged by the diabolical Poison Ivy, Mr. Freeze plans to steal all the city's diamonds. Playing as Batman or Robin, it's your mission to put these criminals in the cooler!</desc>
+		<image>./images/Batman &amp; Robin (USA)-image.png</image>
+		<video>./videos/Batman &amp; Robin (USA)-video.mp4</video>
+		<marquee>./images/Batman &amp; Robin (USA)-marquee.png</marquee>
+		<thumbnail>./images/Batman &amp; Robin (USA)-thumb.png</thumbnail>
+		<manual>./manuals/Batman &amp; Robin (USA)-manual.pdf</manual>
+		<boxback>./images/Batman &amp; Robin (USA)-boxback.png</boxback>
+		<rating>0.65</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Tiger Electronics</developer>
+		<publisher>Tiger Electronics</publisher>
+		<genre>Action</genre>
+		<family>Batman</family>
+		<players>1</players>
+		<crc32>B336E530</crc32>
+		<md5>6e074ab25011af7b2d9a5d1b2d53b425</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T203150" />
+		<scrap name="ArcadeDB" date="20221212T180922" />
+	</game>
+	<game id="99412">
+		<path>./No-Intro/Centipede (USA).tgc</path>
+		<name>Centipede</name>
+		<desc>Centipede for the Game.Com is an updated version of the classic arcade game. Besides an adaptation of the original game, the cartridge also includes an updated mode with higher resolution graphics and increased difficulty. Up to four players can play taking turns.
+
+Gameplay is unchanged from the original. The player controls a figure at the bottom of the screen that has to shoot at insects, including spiders, fleas and scorpions, and most importantly, a centipede that moves horizontally and moves closer towards the bottom of the screen when hitting an obstacle. When hit by a shot, the centipede splits into two separate sections.
+
+Game options include selectable difficulty, number of lives and movement speed. The start level can also be chosen. There is also an option to flip the screen so the game can be played with d-pad and buttons reversed from the standard.</desc>
+		<image>./images/Centipede (USA)-image.png</image>
+		<video>./videos/Centipede (USA)-video.mp4</video>
+		<marquee>./images/Centipede (USA)-marquee.png</marquee>
+		<thumbnail>./images/Centipede (USA)-thumb.png</thumbnail>
+		<manual>./manuals/Centipede (USA)-manual.pdf</manual>
+		<boxback>./images/Centipede (USA)-boxback.png</boxback>
+		<rating>0.9</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Handheld Games</developer>
+		<publisher>Tiger Electronics, Ltd</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1-4</players>
+		<crc32>1A041FF0</crc32>
+		<md5>c10a26933ff3167507fcdf0dbe212327</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T203152" />
+		<scrap name="ArcadeDB" date="20221212T180922" />
+	</game>
+	<game id="99413">
+		<path>./No-Intro/Duke Nukem 3D (USA).tgc</path>
+		<name>Duke Nukem 3d</name>
+		<desc>The Game.Com version of Duke Nukem 3D plays more like a dungeon crawler rather than an FPS due to Game.Com's hardware limitations. The player can only move Duke forward, backwards, strafe left or right, one screen at a time. By pressing B or C the player can turn Duke to shoot left or right, but can't turn him to face that direction and move.
+
+The game is divided in three episodes (L.A. Meltdown, Lunar Apocalypse and Shrapnel City) comprised of a total of twelve missions loosely based on the original ones of the same name, which can be accessed via passwords (given after the player dies). There are four weapons available (boot, pistol, shotgun and RPG) and four different kinds of enemies: Assault Troops, Pig Cops, Enforcers and Octobrains. Items like armor and key cards can be collected, as well as med kits and ammunition. There are four difficulty levels and the game also features Duke's digitized one-liners and other speech.</desc>
+		<image>./images/Duke Nukem 3D (USA)-image.png</image>
+		<video>./videos/Duke Nukem 3D (USA)-video.mp4</video>
+		<marquee>./images/Duke Nukem 3D (USA)-marquee.png</marquee>
+		<thumbnail>./images/Duke Nukem 3D (USA)-thumb.png</thumbnail>
+		<manual>./manuals/Duke Nukem 3D (USA)-manual.pdf</manual>
+		<boxback>./images/Duke Nukem 3D (USA)-boxback.png</boxback>
+		<rating>0.15</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>GT Interactive</developer>
+		<publisher>Tiger Electronics</publisher>
+		<genre>Shooter / 1st person</genre>
+		<family>Duke Nukem</family>
+		<players>1</players>
+		<crc32>884568D1</crc32>
+		<md5>4877b49ade7eae99a00abb842db43f63</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T203153" />
+		<scrap name="ArcadeDB" date="20221212T180922" />
+	</game>
+	<game id="99414">
+		<path>./No-Intro/Fighters Megamix (USA).tgc</path>
+		<name>Fighters Megamix</name>
+		<desc>It's Virtua Fighter 2 vs. Fighting Vipers!
+Two arcade smash hits, smashing into each other in the ultimate battle for supremacy. It's cutting-edge combat.
+It's also filled with suprises - try to unlock your favorite characters from Daytona USA and Virtua Cop!</desc>
+		<image>./images/Fighters Megamix (USA)-image.png</image>
+		<video>./videos/Fighters Megamix (USA)-video.mp4</video>
+		<marquee>./images/Fighters Megamix (USA)-marquee.png</marquee>
+		<thumbnail>./images/Fighters Megamix (USA)-thumb.png</thumbnail>
+		<manual>./manuals/Fighters Megamix (USA)-manual.pdf</manual>
+		<boxback>./images/Fighters Megamix (USA)-boxback.png</boxback>
+		<rating>0.05</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>AM2</developer>
+		<publisher>Tiger Electronics</publisher>
+		<genre>Fight</genre>
+		<players>1-2</players>
+		<crc32>061E943F</crc32>
+		<md5>86703ceb47787f9e124bac8a173cc6c9</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T203155" />
+		<scrap name="ArcadeDB" date="20221212T180922" />
+	</game>
+	<game id="99415">
+		<path>./No-Intro/Frogger (USA).tgc</path>
+		<name>Frogger</name>
+		<desc>Poor Frog. He just wants to get home safe but must first cross a road and a river full of dangers.
+
+The Game.com version of Frogger has two versions on the cartridge. The classic version is like the original arcade game: guide five frogs, one at a time, across a busy street and a river to the safety of his home. The second version is an updated version that contains newer levels. Some are nothing but two areas of river or road and others are one big area of road with no safe area in the middle. The Game.com also has up to four players, playing in turn.</desc>
+		<image>./images/Frogger (USA)-image.png</image>
+		<video>./videos/Frogger (USA)-video.mp4</video>
+		<marquee>./images/Frogger (USA)-marquee.png</marquee>
+		<thumbnail>./images/Frogger (USA)-thumb.png</thumbnail>
+		<manual>./manuals/Frogger (USA)-manual.pdf</manual>
+		<boxback>./images/Frogger (USA)-boxback.png</boxback>
+		<rating>0.9</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Handheld Games</developer>
+		<publisher>Tiger Electronics, Inc.</publisher>
+		<family>Frogger</family>
+		<players>1-4</players>
+		<crc32>10E4C5CD</crc32>
+		<md5>fa21cc065473e9631561e7392f3c2ddd</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T203156" />
+		<scrap name="ArcadeDB" date="20221212T180922" />
+	</game>
+	<game id="99416">
+		<path>./No-Intro/Henry (USA).tgc</path>
+		<name>Henry</name>
+		<desc>This is a match game using sound and pictures. You have 16 buttons with sounds and pictures under them, given a clue you have to match a sound and picture. If you find a match the button will light, get 4 lights and the game is over. If you found the last one you when if not then your opponent wins. There are 3 game modes:Practice - Compete against yourself to get use to the game.
+Single - This pits you against Henry.
+Two Players - You can play against another person by alternating turns.
+You also have the option to play with or without sound clues or visual clues.</desc>
+		<image>./images/Henry (USA)-image.png</image>
+		<video>./videos/Henry (USA)-video.mp4</video>
+		<marquee>./images/Henry (USA)-marquee.png</marquee>
+		<thumbnail>./images/Henry (USA)-thumb.png</thumbnail>
+		<manual>./manuals/Henry (USA)-manual.pdf</manual>
+		<boxback>./images/Henry (USA)-boxback.png</boxback>
+		<rating>0.25</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Tiger Electronics, Inc.</developer>
+		<publisher>Tiger Electronics, Inc.</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1-2</players>
+		<crc32>75D3C8D8</crc32>
+		<md5>70cf0d6dd2e85249a6cd8f1652f75fbc</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T203157" />
+		<scrap name="ArcadeDB" date="20221212T180922" />
+	</game>
+	<game id="99417">
+		<path>./No-Intro/Indy 500 (USA).tgc</path>
+		<name>Indy 500</name>
+		<desc>Indy 500 is an officially licensed Indianapolis 500 game that starts you off following a pace car leading into a rolling start to kick off the race.</desc>
+		<image>./images/Indy 500 (USA)-image.png</image>
+		<video>./videos/Indy 500 (USA)-video.mp4</video>
+		<marquee>./images/Indy 500 (USA)-marquee.png</marquee>
+		<thumbnail>./images/Indy 500 (USA)-thumb.png</thumbnail>
+		<manual>./manuals/Indy 500 (USA)-manual.pdf</manual>
+		<boxback>./images/Indy 500 (USA)-boxback.png</boxback>
+		<rating>0.25</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Tiger Electronics, Inc.</developer>
+		<publisher>Tiger Electronics, Inc.</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+		<crc32>845ED281</crc32>
+		<md5>9bda8ce6a6b253d02a1538bd52a7ba1b</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T203159" />
+		<scrap name="ArcadeDB" date="20221212T180923" />
+	</game>
+	<game id="99418">
+		<path>./No-Intro/Internet (USA).tgc</path>
+		<name>ZZZ(notgame):Internet</name>
+		<image>./images/Internet (USA)-image.png</image>
+		<thumbnail>./images/Internet (USA)-thumb.png</thumbnail>
+		<boxback>./images/Internet (USA)-boxback.png</boxback>
+		<hidden>true</hidden>
+		<crc32>7E721A84</crc32>
+		<md5>16dccfeb686746787f80d045cd9d3ab9</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T203200" />
+		<scrap name="ArcadeDB" date="20221212T180923" />
+	</game>
+	<game id="99419">
+		<path>./No-Intro/Jeopardy! (USA).tgc</path>
+		<name>Jeopardy!</name>
+		<desc>Jeopardy! for the Game.Com is an adaptation of the popular TV quiz show in which contestants must provide the questions for the answers given.
+
+The game is for one or two players (via compete.com cable). At the start of the game, players can select their appearance from a choice of five male and five female options and can enter their name. The game is played using a touch interface. Selecting the next answer from the board, buzzing in and entering the questions is all done by tapping the appropriate icons. 
+
+The game follows the rules of the show, with regular, double and final rounds and hidden daily doubles. The overall time limit for the rounds can be turned off, as can voice samples. The game includes hundreds of answers and questions.</desc>
+		<image>./images/Jeopardy! (USA)-image.png</image>
+		<video>./videos/Jeopardy! (USA)-video.mp4</video>
+		<marquee>./images/Jeopardy! (USA)-marquee.png</marquee>
+		<thumbnail>./images/Jeopardy! (USA)-thumb.png</thumbnail>
+		<manual>./manuals/Jeopardy! (USA)-manual.pdf</manual>
+		<boxback>./images/Jeopardy! (USA)-boxback.png</boxback>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Tiger Electronics, Ltd</developer>
+		<publisher>Tiger Electronics, Ltd</publisher>
+		<genre>Puzzle-Game</genre>
+		<family>Jeopardy</family>
+		<players>1-3</players>
+		<crc32>8C512912</crc32>
+		<md5>0166dbff51138b866d51de137266974d</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T203202" />
+		<scrap name="ArcadeDB" date="20221212T180923" />
+	</game>
+	<game id="99420">
+		<path>./No-Intro/Jurassic Park - The Lost World (USA).tgc</path>
+		<name>Jurassic Park - The Lost World</name>
+		<desc>In this movie inspired game, you play as either Sarah Harding, anthropologist or as Roland Tembo, lead hunter of the InGen team. Harding wants to study the dinosaurs while the InGen team is intent on hunting and returning dinosaurs to the mainland.
+
+As Tembo or Harding, you travel to 6 Nest Areas to retrieve  eggs using the Game Trails. On the Game Trails you must drive and avoid the dinosaurs and other obstacles from damaging your vehicle. While in the Nest Area you have to search for the eggs. You are given Tranquilizer Darts and Harding uses Flares while Tembo has a Sonic Screamer Device to frighten off the dinosaurs.
+
+There are 3 difficulty settings, as you select a harder setting the dinosaurs will do more damage. After you complete each level you will be given a password so you can return to that level if need be.</desc>
+		<image>./images/Jurassic Park - The Lost World (USA)-image.png</image>
+		<video>./videos/Jurassic Park - The Lost World (USA)-video.mp4</video>
+		<marquee>./images/Jurassic Park - The Lost World (USA)-marquee.png</marquee>
+		<thumbnail>./images/Jurassic Park - The Lost World (USA)-thumb.png</thumbnail>
+		<manual>./manuals/Jurassic Park - The Lost World (USA)-manual.pdf</manual>
+		<boxback>./images/Jurassic Park - The Lost World (USA)-boxback.png</boxback>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Tiger Electronics</developer>
+		<publisher>Tiger Electronics</publisher>
+		<genre>Action</genre>
+		<family>Jurassic Park</family>
+		<players>1</players>
+		<crc32>B422C5F8</crc32>
+		<md5>cb137ab815c85424fbe5b2ce9f6bed44</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T203203" />
+		<scrap name="ArcadeDB" date="20221212T180923" />
+	</game>
+	<game id="99421">
+		<path>./No-Intro/Lights Out (USA).tgc</path>
+		<name>Lights Out</name>
+		<desc>You are holding in your hands the most addictive,brain boggling puzzle ever created. The object of thepuzzle is simple...turn the LIGHTS OUT. It seems soeasy...at first. The problem is that every press of abutton has an effect on the puzzle. Lights that are onwill shut off, and “off” lights will turn on. (So, if youtouch a button that is lit, it will shut off. Conversely,touching an unlit button will cause it to light up).Moreover, when you touch a button, it not onlychanges that light, but it also changes the adjacentlights (those that are directly above, below, or next tothe  pressed  button).  Every  pre-programmed  puzzlehas a solution. Your goal is to solve each puzzle inthe  fewest  number  of  “moves”,  or  steps.</desc>
+		<image>./images/Lights Out (USA)-image.png</image>
+		<video>./videos/Lights Out (USA)-video.mp4</video>
+		<marquee>./images/Lights Out (USA)-marquee.png</marquee>
+		<thumbnail>./images/Lights Out (USA)-thumb.png</thumbnail>
+		<manual>./manuals/Lights Out (USA)-manual.pdf</manual>
+		<boxback>./images/Lights Out (USA)-boxback.png</boxback>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Tiger Electronics, Inc.</developer>
+		<publisher>Tiger Electronics, Inc.</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<crc32>496EFA62</crc32>
+		<md5>d1a158ad9e1c77d576f3385a09b63685</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T203204" />
+		<scrap name="ArcadeDB" date="20221212T180923" />
+	</game>
+	<game id="99422">
+		<path>./No-Intro/Monopoly (USA).tgc</path>
+		<name>Monopoly</name>
+		<desc>Pass GO - and go directly to fun! It's all here, the best-loved board games of all time.
+Play against game.com or against your friends (up to 6 can compete).
+Trade railroads! Buy houses! Build hotels! GET RICH!</desc>
+		<image>./images/Monopoly (USA)-image.png</image>
+		<video>./videos/Monopoly (USA)-video.mp4</video>
+		<marquee>./images/Monopoly (USA)-marquee.png</marquee>
+		<thumbnail>./images/Monopoly (USA)-thumb.png</thumbnail>
+		<manual>./manuals/Monopoly (USA)-manual.pdf</manual>
+		<boxback>./images/Monopoly (USA)-boxback.png</boxback>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Tiger Electronics, Ltd</developer>
+		<publisher>Tiger Electronics, Ltd</publisher>
+		<genre>Board game</genre>
+		<family>Monopoly</family>
+		<players>1-6</players>
+		<crc32>D6A65A07</crc32>
+		<md5>eb184a1cd54a76851ebfd47407b018af</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T203206" />
+		<scrap name="ArcadeDB" date="20221212T180923" />
+	</game>
+	<game id="99423">
+		<path>./No-Intro/Mortal Kombat Trilogy (USA).tgc</path>
+		<name>Mortal Kombat Trilogy</name>
+		<desc>All the characters from the first three Mortal Kombat games return for the ultimate battle. You can play as Kano, Reptile, Mileena, Kung Lao, Shang Tsung, Sindel, Sketor, Stryker, Nightwolf, Sheeva, Kitana, Scorpion, Sonya, Smoke (Cyber Ninja), Rain, Jade, Baraka, Johnny Cage, Ermac, Noob Saibot, Sub-Zero (Unmasked), Sub-Zero (Classic), Jax, Rayden, Cyrax, Liu Kang, Smoke (Human), Kabal, Goro, Kintaro, Motaro, or Shao Kahn.
+
+This game is one-on-one martial arts fighting. The player can choose from over thirty different characters, all with their own fighting style and their own special moves. Trilogy differs from the other games in that you can play combinations of people that otherwise isn't possible, such as old Liu Kang vs. new Liu Kang, etc.
+
+Mortal Kombat Trilogy also allows you to challenge a friend to a fight through a Windows IPX network connection.</desc>
+		<image>./images/Mortal Kombat Trilogy (USA)-image.png</image>
+		<video>./videos/Mortal Kombat Trilogy (USA)-video.mp4</video>
+		<marquee>./images/Mortal Kombat Trilogy (USA)-marquee.png</marquee>
+		<thumbnail>./images/Mortal Kombat Trilogy (USA)-thumb.png</thumbnail>
+		<manual>./manuals/Mortal Kombat Trilogy (USA)-manual.pdf</manual>
+		<boxback>./images/Mortal Kombat Trilogy (USA)-boxback.png</boxback>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Tiger Electronics</publisher>
+		<genre>Fight</genre>
+		<family>Mortal Kombat</family>
+		<players>1-2</players>
+		<crc32>BD29C844</crc32>
+		<md5>19a2c977ceeaff193e7e4d37effbdf92</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T203207" />
+		<scrap name="ArcadeDB" date="20221212T180923" />
+	</game>
+	<game id="99424">
+		<path>./No-Intro/Quiz Wiz - Cyber Trivia (USA).tgc</path>
+		<name>Quiz Wiz - Cyber Trivia</name>
+		<desc>Based on the electronic game that was made by Tiger, Quiz Wiz: Cyber Trivia challenges up to three players to answer a series of questions in five categories: Sports, Famous People, Film and TV, Potpourri, and General Knowledge. In addition to the five categories, the player can choose from five lengths of game, from five up to thirty questions, and can also choose to be timed when answering a question (from 5 up to 20 seconds). In the game, the player(s) uses the stylus to answer the questions, either by directly touching the answer or touching the letter corresponding to his/her choice. Each answer is met by a word from your Quiz Wiz host, the Wise Guy, whether correct or incorrect (which you can turn off in Options). After the chosen amount of questions have elapsed, the game is over and players' scores are displayed.</desc>
+		<image>./images/Quiz Wiz - Cyber Trivia (USA)-image.png</image>
+		<video>./videos/Quiz Wiz - Cyber Trivia (USA)-video.mp4</video>
+		<marquee>./images/Quiz Wiz - Cyber Trivia (USA)-marquee.png</marquee>
+		<thumbnail>./images/Quiz Wiz - Cyber Trivia (USA)-thumb.png</thumbnail>
+		<manual>./manuals/Quiz Wiz - Cyber Trivia (USA)-manual.pdf</manual>
+		<boxback>./images/Quiz Wiz - Cyber Trivia (USA)-boxback.png</boxback>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Tiger Electronics, Inc.</developer>
+		<publisher>Tiger Electronics, Inc.</publisher>
+		<genre>Educational</genre>
+		<players>1-3</players>
+		<crc32>0E018F6A</crc32>
+		<md5>b5b7fba3bd7ad97cdab419eb68365100</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T203209" />
+		<scrap name="ArcadeDB" date="20221212T180923" />
+	</game>
+	<game id="99425">
+		<path>./No-Intro/Resident Evil 2 (USA).tgc</path>
+		<name>Resident Evil 2</name>
+		<desc>The Game.Com edition of Resident Evil 2 follows much the same structure and story of its console counterpart. This version has the player control Leon by positioning him in the direction he needs to go and by having him move forward whilst engaging zombies. Leon can only be moved over three horizontal planes as in a 2D game with a side view, but with a pseudo 3D effect. Each non-scrolling location holds different zombies and once they are dead Leon moves to a new screen. He has access to an inventory to cycle between weapons. There is support for options such as touchscreen inventory menus, in addition to the game keeping track of the time the player has spent with the game.</desc>
+		<image>./images/Resident Evil 2 (USA)-image.png</image>
+		<video>./videos/Resident Evil 2 (USA)-video.mp4</video>
+		<marquee>./images/Resident Evil 2 (USA)-marquee.png</marquee>
+		<thumbnail>./images/Resident Evil 2 (USA)-thumb.png</thumbnail>
+		<fanart>./images/Resident Evil 2 (USA)-fanart.jpg</fanart>
+		<manual>./manuals/Resident Evil 2 (USA)-manual.pdf</manual>
+		<boxback>./images/Resident Evil 2 (USA)-boxback.png</boxback>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Tiger Electronics</developer>
+		<publisher>Tiger Electronics</publisher>
+		<genre>Adventure / Survival Horror</genre>
+		<family>Resident Evil</family>
+		<players>1</players>
+		<crc32>0984C7F5</crc32>
+		<md5>78cd38ae5188559a76e8086f0b9e3832</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T203210" />
+	</game>
+	<game id="99426">
+		<path>./No-Intro/Scrabble (USA).tgc</path>
+		<name>Scrabble</name>
+		<desc>Scrabble for the Game.Com is an adaptation of the popular word construction board game.
+
+The game can be played by two to four players, either on the same handheld, via compete.com cable, or against CPU opponents (with three difficulty settings available). Options include the toggling of the tournament timer and penalty timer and sort order of tiles on the rack.
+
+During a game, the board is seen from the top with player scores at the right and the tile rack at the bottom. The game starts with the full board in view, but two zoom settings are available to check out the details and to place tiles via touch interface. When playing against human opponents, it is possible to challenge their constructed words. This is not possible against CPU opponents, who check their words against a built-in dictionary.</desc>
+		<image>./images/Scrabble (USA)-image.png</image>
+		<video>./videos/Scrabble (USA)-video.mp4</video>
+		<marquee>./images/Scrabble (USA)-marquee.png</marquee>
+		<thumbnail>./images/Scrabble (USA)-thumb.png</thumbnail>
+		<manual>./manuals/Scrabble (USA)-manual.pdf</manual>
+		<boxback>./images/Scrabble (USA)-boxback.png</boxback>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Hasbro Interactive</developer>
+		<publisher>Tiger Electronics, Ltd</publisher>
+		<genre>Board game</genre>
+		<players>1-4</players>
+		<crc32>4D4AD909</crc32>
+		<md5>82792aba49381b4f90af02971e383162</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T203212" />
+		<scrap name="ArcadeDB" date="20221212T180924" />
+	</game>
+	<game id="99427">
+		<path>./No-Intro/Sonic Jam (USA).tgc</path>
+		<name>Sonic Jam</name>
+		<desc>A "greatest hits" compilation of levels inspired by Sonic 2, Sonic 3, and Sonic &amp; Knuckles. The player first selects one of the three games, each spanning multiple bosses and five levels based on one zone from the original games (Emerald Hill for Sonic 2, Angel Island for Sonic 3, and Mushroom Hill for Sonic and Knuckles). The player can then select from Sonic, Tails, or Knuckles, each of which has their unique abilities, except for Knuckles, who can neither glide nor climb. Sonic 3's bonus stage is also included.</desc>
+		<image>./images/Sonic Jam (USA)-image.png</image>
+		<video>./videos/Sonic Jam (USA)-video.mp4</video>
+		<marquee>./images/Sonic Jam (USA)-marquee.png</marquee>
+		<thumbnail>./images/Sonic Jam (USA)-thumb.png</thumbnail>
+		<manual>./manuals/Sonic Jam (USA)-manual.pdf</manual>
+		<boxback>./images/Sonic Jam (USA)-boxback.png</boxback>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>Tiger Electronics</publisher>
+		<genre>Platform</genre>
+		<family>Sonic</family>
+		<players>1</players>
+		<crc32>8B4A63F9</crc32>
+		<md5>10a19c8b536ce8e767445e04abdea9cb</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T203213" />
+		<scrap name="ArcadeDB" date="20221212T180924" />
+	</game>
+	<game id="99428">
+		<path>./No-Intro/Tiger Casino (USA).tgc</path>
+		<name>Tiger Casino</name>
+		<desc>You have a choice of playing 5 different casino games following the Tiger Casino House Rules. The game you get to choose from are Video Poker, Video Black Jack, Hi-Low, Slots, and Roulette. Video Poker is a standard game of poker. Video Black Jack - get a higher total over the computer without going over 21. Hi-Low, flip a card and the higher one wins, but if you tie you have to go to War. Slots - there are 2 different slot machines to play - T-Rex and Slots O' Fruit. Roulette is a standard game of roulette.
+
+In the options you can choose to change your starting amount and set a credit limit. When you are tired of playing a game you can cash out and the game will give you a password so you can continue your game again later.</desc>
+		<image>./images/Tiger Casino (USA)-image.png</image>
+		<video>./videos/Tiger Casino (USA)-video.mp4</video>
+		<marquee>./images/Tiger Casino (USA)-marquee.png</marquee>
+		<thumbnail>./images/Tiger Casino (USA)-thumb.png</thumbnail>
+		<manual>./manuals/Tiger Casino (USA)-manual.pdf</manual>
+		<boxback>./images/Tiger Casino (USA)-boxback.png</boxback>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Tiger Electronics, Ltd</developer>
+		<publisher>Tiger Electronics, Ltd</publisher>
+		<genre>Casino</genre>
+		<players>1</players>
+		<crc32>E7FB8FD9</crc32>
+		<md5>368b9cc007917688a3882746bba5903d</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T203215" />
+		<scrap name="ArcadeDB" date="20221212T180924" />
+	</game>
+	<game id="99429">
+		<path>./No-Intro/Tiger Web Link (USA).tgc</path>
+		<name>ZZZ(notgame):Tiger Web Link</name>
+		<image>./images/Tiger Web Link (USA)-image.png</image>
+		<thumbnail>./images/Tiger Web Link (USA)-thumb.png</thumbnail>
+		<boxback>./images/Tiger Web Link (USA)-boxback.png</boxback>
+		<hidden>true</hidden>
+		<crc32>4C13E65B</crc32>
+		<md5>d81f29d4946b376b01574f6c35879628</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T203216" />
+		<scrap name="ArcadeDB" date="20221212T180924" />
+	</game>
+	<game id="99430">
+		<path>./No-Intro/Wheel of Fortune (USA).tgc</path>
+		<name>Wheel Of Fortune</name>
+		<desc>Wheel of Fortune for Game.Com is an adaptation of the popular TV game show where contestants spin the wheel to win money and have to guess letters in a puzzle.
+
+The game can be played by up to three players. If only one human player is available, they play against an AI opponent. Before the start of the game, the players can choose their appearance from a number of male and female portraits. The game is played entirely using a touch interface. The game screen displays the word puzzle at the top, the current player and their score in the center and the input panel (with the possible actions and a virtual keyboard for letter input) at the bottom. When the wheel is spinning, it and a close-up of the wheel values are superimposed over the game screen. The game follows the rules of the TV show, with three regular rounds and a final bonus round for the contestant who won the most money.
+
+The game includes 750 word puzzles in more than a dozen categories.</desc>
+		<image>./images/Wheel of Fortune (USA)-image.png</image>
+		<video>./videos/Wheel of Fortune (USA)-video.mp4</video>
+		<marquee>./images/Wheel of Fortune (USA)-marquee.png</marquee>
+		<thumbnail>./images/Wheel of Fortune (USA)-thumb.png</thumbnail>
+		<manual>./manuals/Wheel of Fortune (USA)-manual.pdf</manual>
+		<boxback>./images/Wheel of Fortune (USA)-boxback.png</boxback>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Tiger Electronics, Inc.</developer>
+		<publisher>Tiger Electronics, Inc.</publisher>
+		<genre>Quiz</genre>
+		<players>1-3</players>
+		<crc32>048347A0</crc32>
+		<md5>890b7afe263c49ac764a5d10479898d4</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T203218" />
+		<scrap name="ArcadeDB" date="20221212T180924" />
+	</game>
+	<game id="99431">
+		<path>./No-Intro/Wheel of Fortune 2 (USA).tgc</path>
+		<name>Wheel Of Fortune 2</name>
+		<desc>Wheel of Fortune 2 is the second adaptation of the popular TV game show on the Game.Com. It is very similar to the previous game, with some minor graphical differences and a new set of puzzles.
+
+As before, up to three players can play. There is an all-new selection of portraits for players to choose from. Game graphics and touch controls are unchanged: the game screen displays the word puzzle at the top, the current player and their score in the center and the input panel (with the possible actions and a virtual keyboard for letter input) at the bottom. When the wheel is spinning, it and a close-up of the wheel values are superimposed over the game screen. The game follows the rules of the TV show, with three regular rounds and a final bonus round for the contestant who won the most money.
+
+The game includes a new set of 750 word puzzles, some of which are in new categories like Fictional Character or Title &amp; Author.</desc>
+		<image>./images/Wheel of Fortune 2 (USA)-image.png</image>
+		<video>./videos/Wheel of Fortune 2 (USA)-video.mp4</video>
+		<marquee>./images/Wheel of Fortune 2 (USA)-marquee.png</marquee>
+		<thumbnail>./images/Wheel of Fortune 2 (USA)-thumb.png</thumbnail>
+		<manual>./manuals/Wheel of Fortune 2 (USA)-manual.pdf</manual>
+		<boxback>./images/Wheel of Fortune 2 (USA)-boxback.png</boxback>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Tiger Electronics, Inc.</developer>
+		<publisher>Tiger Electronics, Inc.</publisher>
+		<genre>Quiz</genre>
+		<players>1-3</players>
+		<crc32>B91E2E32</crc32>
+		<md5>20347cfa962765c6f22a6ea48d3abe83</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T203220" />
+		<scrap name="ArcadeDB" date="20221212T180924" />
+	</game>
+	<game id="99432">
+		<path>./No-Intro/Williams Arcade Classics (USA).tgc</path>
+		<name>Williams Arcade Classics</name>
+		<desc>Williams Arcade Classics is a compilation that includes the following games:
+
+Defender
+Defender II
+Joust
+Robotron: 2084
+Sinistar
+
+The PC, PlayStation, and Dreamcast versions also contain Bubbles. The PC and Playstation versions contain FMV supplements, including interviews with the original programmers.</desc>
+		<image>./images/Williams Arcade Classics (USA)-image.png</image>
+		<video>./videos/Williams Arcade Classics (USA)-video.mp4</video>
+		<marquee>./images/Williams Arcade Classics (USA)-marquee.png</marquee>
+		<thumbnail>./images/Williams Arcade Classics (USA)-thumb.png</thumbnail>
+		<manual>./manuals/Williams Arcade Classics (USA)-manual.pdf</manual>
+		<boxback>./images/Williams Arcade Classics (USA)-boxback.png</boxback>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Digital Eclipse Software, Inc.</developer>
+		<publisher>Tiger Electronics, Inc.</publisher>
+		<genre>Compilation</genre>
+		<players>1-2</players>
+		<crc32>F894065D</crc32>
+		<md5>6b4dc428a6eb45b130265f86e0116d58</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T203221" />
+		<scrap name="ArcadeDB" date="20221212T180924" />
+	</game>
+	<game id="99409">
+		<path>./No-Intro/[BIOS] Tiger Game.com (USA) (External).tgc</path>
+		<name>ZZZ(notgame):[bios] Tiger Game.com</name>
+		<hidden>true</hidden>
+		<crc32>E235A589</crc32>
+		<md5>813364d4863b1d7b7b8fd6a97a416bcf</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T203223" />
+		<scrap name="ArcadeDB" date="20221212T180924" />
+	</game>
+	<game id="99409">
+		<path>./No-Intro/[BIOS] Tiger Game.com (USA) (Internal).tgc</path>
+		<name>ZZZ(notgame):[bios] Tiger Game.com</name>
+		<hidden>true</hidden>
+		<crc32>A0CEC361</crc32>
+		<md5>f7bcefb6daf923c8e5ea2eb69f619efe</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T203225" />
+		<scrap name="ArcadeDB" date="20221212T180924" />
+	</game>
+</gameList>

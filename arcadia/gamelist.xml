@@ -1,0 +1,1220 @@
+<?xml version="1.0"?>
+<gameList>
+	<game id="57576">
+		<path>./No-Intro/3D Bowling (USA, Europe).bin</path>
+		<name>3d Bowling</name>
+		<desc>Despite the title, 3D Bowling has two-dimensional graphics. However, it does employ a pseudo-3D effect similar to Basketball for the Atari 2600. When the game begins, players are shown an angled/ overhead view of the pins (which look like plus signs and simply flatten when knocked over) at the top of the screen and a side-view of the bowler on the lower half of the screen. Lining up the bowler involves moving him up and down, which is how it's done in PBA Bowling for the Intellivision. The bowler is very nicely animated, and the ball is even shown rolling back to him after each throw. The ball has a natural curve to the left (imitating the roll of an accomplished right-handed bowler), but players can push the keypad buttons to hook the ball right or left. - Brett Weiss.</desc>
+		<image>./images/3D Bowling (USA, Europe)-image.png</image>
+		<video>./videos/3D Bowling (USA, Europe)-video.mp4</video>
+		<marquee>./images/3D Bowling (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/3D Bowling (USA, Europe)-thumb.png</thumbnail>
+		<manual>./manuals/3D Bowling (USA, Europe)-manual.pdf</manual>
+		<boxback>./images/3D Bowling (USA, Europe)-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>19821201T000000</releasedate>
+		<developer>UA Limited</developer>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Sports / Bowling</genre>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>F3C08E19</crc32>
+		<md5>88df3f6943cab668df299c3dcb0e20c9</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230222T193554" />
+	</game>
+	<game id="57578">
+		<path>./No-Intro/Alien Invaders (USA, Europe).bin</path>
+		<name>Alien Invaders</name>
+		<desc>Space Invaders clone. Seventy space invaders are fast on their way towards your city. And you can be sure they're not dropping in for afternoon tea!
+
+You have just five minutes of accelerated computer time to blast the nasties and save your city from certain destruction.
+
+There are three fortresses, behind which your missiles are safe.
+
+But watch out! These invaders are smart!
+
+If you hide too long, they'll bombard the castle walls. So keep moving around or the evil space critters will get you. And we wouldn't wish that on anyone!</desc>
+		<image>./images/Alien Invaders (USA, Europe)-image.png</image>
+		<video>./videos/Alien Invaders (USA, Europe)-video.mp4</video>
+		<marquee>./images/Alien Invaders (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Alien Invaders (USA, Europe)-thumb.png</thumbnail>
+		<manual>./manuals/Alien Invaders (USA, Europe)-manual.pdf</manual>
+		<boxback>./images/Alien Invaders (USA, Europe)-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>19820501T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>1F65B21E</crc32>
+		<md5>f73756c9c837e892857967ed45b7f6f0</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230222T193557" />
+	</game>
+	<game id="57579">
+		<path>./No-Intro/American Football (USA, Europe).bin</path>
+		<name>American Football</name>
+		<desc>The title screen for American Football gives an isometric view of the field, but, when the action actually begins, the viewpoint switches to overhead, with 11 small stick figure players on each team. The field scrolls horizontally and is 100 "yards" in le</desc>
+		<image>./images/American Football (USA, Europe)-image.png</image>
+		<video>./videos/American Football (USA, Europe)-video.mp4</video>
+		<marquee>./images/American Football (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/American Football (USA, Europe)-thumb.png</thumbnail>
+		<manual>./manuals/American Football (USA, Europe)-manual.pdf</manual>
+		<boxback>./images/American Football (USA, Europe)-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>19820601T000000</releasedate>
+		<developer>Emerson Radio Corp</developer>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>22624414</crc32>
+		<md5>2e2c4344430903bfc2bcb7fd1b44e290</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230222T193559" />
+	</game>
+	<game id="57582">
+		<path>./No-Intro/Baseball (USA, Europe).bin</path>
+		<name>Baseball</name>
+		<desc>Pitch 'em up pitcher boy!   The crowd are on their toes. It's two strikes, three balls. And the bases are loaded. What will you deliver?  A right curve ball? A leftie? Or your special super-speed bat-buster? Your heart's pumping. The crowd is silent. You</desc>
+		<image>./images/Baseball (USA, Europe)-image.png</image>
+		<video>./videos/Baseball (USA, Europe)-video.mp4</video>
+		<marquee>./images/Baseball (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Baseball (USA, Europe)-thumb.png</thumbnail>
+		<manual>./manuals/Baseball (USA, Europe)-manual.pdf</manual>
+		<boxback>./images/Baseball (USA, Europe)-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>UA Limited</developer>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Sports / Baseball</genre>
+		<players>2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>1CF08155</crc32>
+		<md5>8a655e8bb999e3e085737cb2815f6447</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230222T193601" />
+	</game>
+	<game id="57586">
+		<path>./No-Intro/Brain Quiz (USA, Europe).bin</path>
+		<name>Brain Quiz</name>
+		<desc>Brain Quiz contains three competently programmed games.  Mind Breaker has players using clues to guess a secret five-digit number. In Maxit, each gamer moves their cursor around a number grid, trying to select the highest numbers possible in order to outs</desc>
+		<image>./images/Brain Quiz (USA, Europe)-image.png</image>
+		<video>./videos/Brain Quiz (USA, Europe)-video.mp4</video>
+		<marquee>./images/Brain Quiz (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Brain Quiz (USA, Europe)-thumb.png</thumbnail>
+		<boxback>./images/Brain Quiz (USA, Europe)-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Various</genre>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>CA58B3F8</crc32>
+		<md5>e9f1f348ebd4fa5400f895a7a15637c6</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230222T193604" />
+	</game>
+	<game id="57587">
+		<path>./No-Intro/Breakaway (USA, Europe).bin</path>
+		<name>Breakaway</name>
+		<desc>Breakaway is a Breakout clone, but it's not as good as the arcade or Atari 2600 versions of Breakout because the Arcadia 2001 lacks a rotary controller. Making up for this shortcoming to a small degree is a keypad button that speeds up the paddle. Also, t</desc>
+		<image>./images/Breakaway (USA, Europe)-image.png</image>
+		<video>./videos/Breakaway (USA, Europe)-video.mp4</video>
+		<marquee>./images/Breakaway (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Breakaway (USA, Europe)-thumb.png</thumbnail>
+		<manual>./manuals/Breakaway (USA, Europe)-manual.pdf</manual>
+		<boxback>./images/Breakaway (USA, Europe)-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>33C348C1</crc32>
+		<md5>4fa044f9c77f5f442e0af786f8f502f6</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230222T193606" />
+	</game>
+	<game id="57588">
+		<path>./No-Intro/Capture (USA, Europe).bin</path>
+		<name>Capture</name>
+		<desc>Battle the computer or take on a friend. You'll need immense concentration.   The object is to surround your opponent's men on all 4 sides and take him off the board. When all the squares are occupied, the player with the most squares on the board wins. S</desc>
+		<image>./images/Capture (USA, Europe)-image.png</image>
+		<video>./videos/Capture (USA, Europe)-video.mp4</video>
+		<marquee>./images/Capture (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Capture (USA, Europe)-thumb.png</thumbnail>
+		<manual>./manuals/Capture (USA, Europe)-manual.pdf</manual>
+		<boxback>./images/Capture (USA, Europe)-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>UA Limited</developer>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Strategy</genre>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>AEB803E4</crc32>
+		<md5>46f95a6915f00091c8aaf049f7623d39</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230222T193608" />
+	</game>
+	<game id="57589">
+		<path>./No-Intro/Cat Trax (USA, Europe).bin</path>
+		<name>Cat Trax</name>
+		<desc>This is the among the oldest of battles: cat vs. dog.  You are the cat. You are trying to gather up the cat food pellets in a maze. As wonderful as that may be, the pesky canines are determined to catch you. You are chased by three dogs through the maze.</desc>
+		<image>./images/Cat Trax (USA, Europe)-image.png</image>
+		<video>./videos/Cat Trax (USA, Europe)-video.mp4</video>
+		<marquee>./images/Cat Trax (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Cat Trax (USA, Europe)-thumb.png</thumbnail>
+		<manual>./manuals/Cat Trax (USA, Europe)-manual.pdf</manual>
+		<boxback>./images/Cat Trax (USA, Europe)-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>FD2CF496</crc32>
+		<md5>d7e9ec7f57d9951dd5b4456f1929f0d0</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230222T193610" />
+	</game>
+	<game id="57596">
+		<path>./No-Intro/Escape (USA, Europe).bin</path>
+		<name>Escape</name>
+		<desc>A BerZerk clone.  You are trapped in a maze and enemy robots are all over! Shoot them down with your laser gun, but watch out for their counterattack: They are armed too! Be careful: Walls are electrified.   Game for 1 player.</desc>
+		<image>./images/Escape (USA, Europe)-image.png</image>
+		<video>./videos/Escape (USA, Europe)-video.mp4</video>
+		<marquee>./images/Escape (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Escape (USA, Europe)-thumb.png</thumbnail>
+		<manual>./manuals/Escape (USA, Europe)-manual.pdf</manual>
+		<boxback>./images/Escape (USA, Europe)-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>FC7EBA76</crc32>
+		<md5>cac0be0920cce44838ca998b52b7f5ca</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230222T193612" />
+	</game>
+	<game id="57600">
+		<path>./No-Intro/Grand Slam Tennis (USA, Europe).bin</path>
+		<name>Grand Slam Tennis</name>
+		<desc>One or two player game (uses left or both controllers)   Play against the "PRO" competitor or against a friend  Serve an "ACE"  Try your backhand  Watch out for the smash  No worry about the weather - play "Grand Slam Tennis" any time  Scores and plays li</desc>
+		<image>./images/Grand Slam Tennis (USA, Europe)-image.png</image>
+		<video>./videos/Grand Slam Tennis (USA, Europe)-video.mp4</video>
+		<marquee>./images/Grand Slam Tennis (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Grand Slam Tennis (USA, Europe)-thumb.png</thumbnail>
+		<boxback>./images/Grand Slam Tennis (USA, Europe)-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Sports / Tennis</genre>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>8BF2DFA9</crc32>
+		<md5>1e826acc96ea1831da7c02540f4ea4f3</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230222T193615" />
+	</game>
+	<game id="57605">
+		<path>./No-Intro/Jungler (USA, Europe).bin</path>
+		<name>Jungler</name>
+		<desc>Jungler is based upon an arcade game of the same name designed by Konami in 1981. Gameplay revolves around survival of the fittest among giant worms that reside underground. Each level is comprised of a single screen maze with a large open vertical area i</desc>
+		<image>./images/Jungler (USA, Europe)-image.png</image>
+		<video>./videos/Jungler (USA, Europe)-video.mp4</video>
+		<marquee>./images/Jungler (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Jungler (USA, Europe)-thumb.png</thumbnail>
+		<boxback>./images/Jungler (USA, Europe)-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>DFB5DD55</crc32>
+		<md5>bf10520aef366afdcf6c29e1c97afefe</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230222T193617" />
+	</game>
+	<game id="57606">
+		<path>./No-Intro/Missile War (USA, Europe).bin</path>
+		<name>Missile War</name>
+		<desc>An attack warning alarm sounds...enemy missiles are on the way!   Don't waste a second. It's up to you to single-handedly save 4 cities from death and destruction. You have 2 missile launchers at your fingertips, each loaded with 10 missiles. Don't waste</desc>
+		<image>./images/Missile War (USA, Europe)-image.png</image>
+		<video>./videos/Missile War (USA, Europe)-video.mp4</video>
+		<marquee>./images/Missile War (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Missile War (USA, Europe)-thumb.png</thumbnail>
+		<manual>./manuals/Missile War (USA, Europe)-manual.pdf</manual>
+		<boxback>./images/Missile War (USA, Europe)-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>A615F068</crc32>
+		<md5>4a9404e44df9a747549f7af0b18df632</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230222T193619" />
+	</game>
+	<game id="57609">
+		<path>./No-Intro/Ocean Battle (USA, Europe).bin</path>
+		<name>Ocean Battle</name>
+		<desc>Somewhat similar to (but not as good as) Sea Battle for the Intellivision, Ocean Battle has each player deploying a fleet consisting of blocky looking cruisers, destroyers and submarines. Each vessel is ranked according to firing range, endurance and othe</desc>
+		<image>./images/Ocean Battle (USA, Europe)-image.png</image>
+		<video>./videos/Ocean Battle (USA, Europe)-video.mp4</video>
+		<marquee>./images/Ocean Battle (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Ocean Battle (USA, Europe)-thumb.png</thumbnail>
+		<manual>./manuals/Ocean Battle (USA, Europe)-manual.pdf</manual>
+		<boxback>./images/Ocean Battle (USA, Europe)-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Strategy</genre>
+		<players>2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>449E80CB</crc32>
+		<md5>35801dafa6a8eeadc51418f0e9377ca0</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230222T193621" />
+	</game>
+	<game id="57614">
+		<path>./No-Intro/Red Clash (USA, Europe).bin</path>
+		<name>Red Clash</name>
+		<desc>A solid port of the 1981 Tekhan arcade game (which was licensed to Kaneko in 1982), Red Clash lets players move their rocket in four directions, but the action scrolls vertically, and shots go straight up the screen. Gamers fire at flying saucers, aliens</desc>
+		<image>./images/Red Clash (USA, Europe)-image.png</image>
+		<video>./videos/Red Clash (USA, Europe)-video.mp4</video>
+		<marquee>./images/Red Clash (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Red Clash (USA, Europe)-thumb.png</thumbnail>
+		<boxback>./images/Red Clash (USA, Europe)-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>06A86F4A</crc32>
+		<md5>6c1b145d9afc220dd3d81e9eca715dfa</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230222T193623" />
+	</game>
+	<game id="57617">
+		<path>./No-Intro/Soccer (USA, Europe).bin</path>
+		<name>Soccer</name>
+		<desc>An expectant hush settles over the crowd as the players take their positions on the field. A whistle blows. Kick-off!!  Your player takes the ball well...he's moving down the field fast. Suddenly, his path is blocked. He passes to the Centre Forward. The</desc>
+		<image>./images/Soccer (USA, Europe)-image.png</image>
+		<video>./videos/Soccer (USA, Europe)-video.mp4</video>
+		<marquee>./images/Soccer (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Soccer (USA, Europe)-thumb.png</thumbnail>
+		<manual>./manuals/Soccer (USA, Europe)-manual.pdf</manual>
+		<boxback>./images/Soccer (USA, Europe)-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>8C0C456E</crc32>
+		<md5>d91afcc96ea973615c0acca70bb2a216</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230222T193626" />
+	</game>
+	<game id="57618">
+		<path>./No-Intro/Space Attack (USA, Europe).bin</path>
+		<name>Space Attack</name>
+		<desc>The sky is thick with death-dealing aliens as they jostle for the privilege of blasting you into tiny specks of space dust. With ear-shattering explosions, their rockets send your senses reeling. You want to scream. But you know you must stay alert and re</desc>
+		<image>./images/Space Attack (USA, Europe)-image.png</image>
+		<video>./videos/Space Attack (USA, Europe)-video.mp4</video>
+		<marquee>./images/Space Attack (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Space Attack (USA, Europe)-thumb.png</thumbnail>
+		<manual>./manuals/Space Attack (USA, Europe)-manual.pdf</manual>
+		<boxback>./images/Space Attack (USA, Europe)-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>E3794A2C</crc32>
+		<md5>dbd76221e35fa6c8133a03f57dfe79d2</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230222T193628" />
+	</game>
+	<game id="57619">
+		<path>./No-Intro/Space Mission (USA, Europe).bin</path>
+		<name>Space Mission</name>
+		<desc>The player's mission in Space Mission is to rebuild a four-piece space station within about two minutes. This is done by launching a "droneship", guiding it towards each piece of the station, loading each piece onto the ship, and placing the pieces in a s</desc>
+		<image>./images/Space Mission (USA, Europe)-image.png</image>
+		<video>./videos/Space Mission (USA, Europe)-video.mp4</video>
+		<marquee>./images/Space Mission (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Space Mission (USA, Europe)-thumb.png</thumbnail>
+		<manual>./manuals/Space Mission (USA, Europe)-manual.pdf</manual>
+		<boxback>./images/Space Mission (USA, Europe)-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>3FF224E5</crc32>
+		<md5>bcb44b9296aad132d54d6e3a362131e6</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230222T193630" />
+	</game>
+	<game id="57620">
+		<path>./No-Intro/Space Raiders (USA, Europe).bin</path>
+		<name>Space Raiders</name>
+		<desc>You're under attack by enemy flying saucers, energy bombs, missiles and deadly mutants.  Four of your spacefighters have already been blasted into outer space and the energy meter on your only remaining craft is falling fast!  10...9...8...Just a few prec</desc>
+		<image>./images/Space Raiders (USA, Europe)-image.png</image>
+		<video>./videos/Space Raiders (USA, Europe)-video.mp4</video>
+		<marquee>./images/Space Raiders (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Space Raiders (USA, Europe)-thumb.png</thumbnail>
+		<manual>./manuals/Space Raiders (USA, Europe)-manual.pdf</manual>
+		<boxback>./images/Space Raiders (USA, Europe)-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>88DEFACF</crc32>
+		<md5>892b0783499f89d45ff49d708d46d190</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230222T193632" />
+	</game>
+	<game id="57622">
+		<path>./No-Intro/Space Vultures (USA, Europe).bin</path>
+		<name>Space Vultures</name>
+		<desc>Who's Not a Pretty Boy Then!  Space Vultures are a vicious breed of birdlike aliens who can fly through space without the aid of space ships. They will attack any old planet that takes their fancy on their strange intergalactic migration. Nobody seems to</desc>
+		<image>./images/Space Vultures (USA, Europe)-image.png</image>
+		<video>./videos/Space Vultures (USA, Europe)-video.mp4</video>
+		<marquee>./images/Space Vultures (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Space Vultures (USA, Europe)-thumb.png</thumbnail>
+		<boxback>./images/Space Vultures (USA, Europe)-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>7666A712</crc32>
+		<md5>2fa678cb9c4ed86fcbb5bc87c232d345</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230222T193634" />
+	</game>
+	<game id="57623">
+		<path>./No-Intro/Spiders (USA, Europe).bin</path>
+		<name>Spiders</name>
+		<desc>If you're scared of creepie-crawlies, this game will really have you reaching for the insect spray. These Space-spiders are mean. They arrive on your screen in red cocoons, then the horrible things start dropping from the sky.  If a spider scores a direct</desc>
+		<image>./images/Spiders (USA, Europe)-image.png</image>
+		<video>./videos/Spiders (USA, Europe)-video.mp4</video>
+		<marquee>./images/Spiders (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Spiders (USA, Europe)-thumb.png</thumbnail>
+		<manual>./manuals/Spiders (USA, Europe)-manual.pdf</manual>
+		<boxback>./images/Spiders (USA, Europe)-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>F9D9EC5B</crc32>
+		<md5>874852b47d98b309defed34fbc4fb894</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230222T193636" />
+	</game>
+	<game id="57624">
+		<path>./No-Intro/Star Chess (USA, Europe).bin</path>
+		<name>Star Chess</name>
+		<desc>It's the final of the inter-galactic chess championships. As the representative for planet Earth, you're pitted against the best chess strategists in the universe!  A game of fun and strategy for two players based on the well-known game of chess, but your</desc>
+		<image>./images/Star Chess (USA, Europe)-image.png</image>
+		<video>./videos/Star Chess (USA, Europe)-video.mp4</video>
+		<marquee>./images/Star Chess (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Star Chess (USA, Europe)-thumb.png</thumbnail>
+		<manual>./manuals/Star Chess (USA, Europe)-manual.pdf</manual>
+		<boxback>./images/Star Chess (USA, Europe)-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>83E6E40B</crc32>
+		<md5>7dee92f7e4767b728717c44bc9c3b51a</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230222T193639" />
+	</game>
+	<game id="57627">
+		<path>./No-Intro/Tanks a Lot (USA, Europe).bin</path>
+		<name>Tanks A Lot</name>
+		<desc>The enemy tanks are approaching  You are armed with a bazooka  "Crouch", "Aim" - Fire! You got him and more points  Watch out for his shells  Close the gates to block the enemy tanks  Protect your commanding base vehicle  You must penetrate his barricade</desc>
+		<image>./images/Tanks a Lot (USA, Europe)-image.png</image>
+		<video>./videos/Tanks a Lot (USA, Europe)-video.mp4</video>
+		<marquee>./images/Tanks a Lot (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Tanks a Lot (USA, Europe)-thumb.png</thumbnail>
+		<manual>./manuals/Tanks a Lot (USA, Europe)-manual.pdf</manual>
+		<boxback>./images/Tanks a Lot (USA, Europe)-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>0076422E</crc32>
+		<md5>3bc3df43b6d82f10cf9651372a784f9b</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230222T193641" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/Dictionary (198x)(UA)[English + German]/Dictionary (198x)(UA)[English + German].bin</path>
+		<name>Dictionary (198x)(UA)[English + German]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>6289F607</crc32>
+		<md5>573d47d0343fb12481c88b918c839abb</md5>
+		<scrap name="ScreenScraper" date="20230222T193642" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/Dictionary (198x)(UA)[English subcart only]/Dictionary (198x)(UA)[English subcart only].bin</path>
+		<name>Dictionary (198x)(UA)[English subcart only]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>320B0A9D</crc32>
+		<md5>1c359db79abacbf03a953594ac55846b</md5>
+		<scrap name="ScreenScraper" date="20230222T193644" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/Dictionary (198x)(UA)[German + English]/Dictionary (198x)(UA)[German + English].bin</path>
+		<name>Dictionary (198x)(UA)[German + English]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>0739504D</crc32>
+		<md5>0e043dcebbbca7f3720a0b5bd62b836a</md5>
+		<scrap name="ScreenScraper" date="20230222T193646" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/Dictionary (198x)(UA)[German subcart only]/Dictionary (198x)(UA)[German subcart only].bin</path>
+		<name>Dictionary (198x)(UA)[German subcart only]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>B2B9B5D8</crc32>
+		<md5>d410b992e8f7ef7fe2be6f59739cbbd5</md5>
+		<scrap name="ScreenScraper" date="20230222T193647" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/Dictionary (198x)(UA)[main cart only]/Dictionary (198x)(UA)[main cart only].bin</path>
+		<name>Dictionary (198x)(UA)[main cart only]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>E0A9DD9A</crc32>
+		<md5>9909f339e6475509f41e697011910086</md5>
+		<scrap name="ScreenScraper" date="20230222T193649" />
+	</game>
+	<game id="57586">
+		<path>./TOSEC/Educational/Brain Quiz (1982)(UA)(EU-US)[aka Math Logic]/Brain Quiz (1982)(UA)(EU-US)[aka Math Logic].bin</path>
+		<name>Brain Quiz</name>
+		<desc>Brain Quiz contains three competently programmed games.  Mind Breaker has players using clues to guess a secret five-digit number. In Maxit, each gamer moves their cursor around a number grid, trying to select the highest numbers possible in order to outs</desc>
+		<image>./images/Brain Quiz (1982)(UA)(EU-US)[aka Math Logic]-image.png</image>
+		<video>./videos/Brain Quiz (1982)(UA)(EU-US)[aka Math Logic]-video.mp4</video>
+		<marquee>./images/Brain Quiz (1982)(UA)(EU-US)[aka Math Logic]-marquee.png</marquee>
+		<thumbnail>./images/Brain Quiz (1982)(UA)(EU-US)[aka Math Logic]-thumb.png</thumbnail>
+		<boxback>./images/Brain Quiz (1982)(UA)(EU-US)[aka Math Logic]-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Various</genre>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>CA58B3F8</crc32>
+		<md5>e9f1f348ebd4fa5400f895a7a15637c6</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193652" />
+	</game>
+	<game id="57576">
+		<path>./TOSEC/Games/3D Bowling (1982)(UA)(EU-US)/3D Bowling (1982)(UA)(EU-US).bin</path>
+		<name>3d Bowling</name>
+		<desc>Despite the title, 3D Bowling has two-dimensional graphics. However, it does employ a pseudo-3D effect similar to Basketball for the Atari 2600. When the game begins, players are shown an angled/ overhead view of the pins (which look like plus signs and simply flatten when knocked over) at the top of the screen and a side-view of the bowler on the lower half of the screen. Lining up the bowler involves moving him up and down, which is how it's done in PBA Bowling for the Intellivision. The bowler is very nicely animated, and the ball is even shown rolling back to him after each throw. The ball has a natural curve to the left (imitating the roll of an accomplished right-handed bowler), but players can push the keypad buttons to hook the ball right or left. - Brett Weiss.</desc>
+		<image>./images/3D Bowling (1982)(UA)(EU-US)-image.png</image>
+		<video>./videos/3D Bowling (1982)(UA)(EU-US)-video.mp4</video>
+		<marquee>./images/3D Bowling (1982)(UA)(EU-US)-marquee.png</marquee>
+		<thumbnail>./images/3D Bowling (1982)(UA)(EU-US)-thumb.png</thumbnail>
+		<manual>./manuals/3D Bowling (1982)(UA)(EU-US)-manual.pdf</manual>
+		<boxback>./images/3D Bowling (1982)(UA)(EU-US)-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>19821201T000000</releasedate>
+		<developer>UA Limited</developer>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Sports / Bowling</genre>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>F3C08E19</crc32>
+		<md5>88df3f6943cab668df299c3dcb0e20c9</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193653" />
+	</game>
+	<game id="57578">
+		<path>./TOSEC/Games/Alien Invaders (1983)(UA)(EU-US)/Alien Invaders (1983)(UA)(EU-US).bin</path>
+		<name>Alien Invaders</name>
+		<desc>Space Invaders clone. Seventy space invaders are fast on their way towards your city. And you can be sure they're not dropping in for afternoon tea!
+
+You have just five minutes of accelerated computer time to blast the nasties and save your city from certain destruction.
+
+There are three fortresses, behind which your missiles are safe.
+
+But watch out! These invaders are smart!
+
+If you hide too long, they'll bombard the castle walls. So keep moving around or the evil space critters will get you. And we wouldn't wish that on anyone!</desc>
+		<image>./images/Alien Invaders (1983)(UA)(EU-US)-image.png</image>
+		<video>./videos/Alien Invaders (1983)(UA)(EU-US)-video.mp4</video>
+		<marquee>./images/Alien Invaders (1983)(UA)(EU-US)-marquee.png</marquee>
+		<thumbnail>./images/Alien Invaders (1983)(UA)(EU-US)-thumb.png</thumbnail>
+		<manual>./manuals/Alien Invaders (1983)(UA)(EU-US)-manual.pdf</manual>
+		<boxback>./images/Alien Invaders (1983)(UA)(EU-US)-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>19820501T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>1F65B21E</crc32>
+		<md5>f73756c9c837e892857967ed45b7f6f0</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193656" />
+	</game>
+	<game id="57579">
+		<path>./TOSEC/Games/American Football (1982)(UA)(EU-US)/American Football (1982)(UA)(EU-US).bin</path>
+		<name>American Football</name>
+		<desc>The title screen for American Football gives an isometric view of the field, but, when the action actually begins, the viewpoint switches to overhead, with 11 small stick figure players on each team. The field scrolls horizontally and is 100 "yards" in le</desc>
+		<image>./images/American Football (1982)(UA)(EU-US)-image.png</image>
+		<video>./videos/American Football (1982)(UA)(EU-US)-video.mp4</video>
+		<marquee>./images/American Football (1982)(UA)(EU-US)-marquee.png</marquee>
+		<thumbnail>./images/American Football (1982)(UA)(EU-US)-thumb.png</thumbnail>
+		<manual>./manuals/American Football (1982)(UA)(EU-US)-manual.pdf</manual>
+		<boxback>./images/American Football (1982)(UA)(EU-US)-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>19820601T000000</releasedate>
+		<developer>Emerson Radio Corp</developer>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>22624414</crc32>
+		<md5>2e2c4344430903bfc2bcb7fd1b44e290</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193658" />
+	</game>
+	<game id="57579">
+		<path>./TOSEC/Games/American Football (1982)(UA)(EU-US)[o]/American Football (1982)(UA)(EU-US)[o].bin</path>
+		<name>American Football</name>
+		<desc>The title screen for American Football gives an isometric view of the field, but, when the action actually begins, the viewpoint switches to overhead, with 11 small stick figure players on each team. The field scrolls horizontally and is 100 "yards" in le</desc>
+		<image>./images/American Football (1982)(UA)(EU-US)[o]-image.png</image>
+		<video>./videos/American Football (1982)(UA)(EU-US)[o]-video.mp4</video>
+		<marquee>./images/American Football (1982)(UA)(EU-US)[o]-marquee.png</marquee>
+		<thumbnail>./images/American Football (1982)(UA)(EU-US)[o]-thumb.png</thumbnail>
+		<manual>./manuals/American Football (1982)(UA)(EU-US)[o]-manual.pdf</manual>
+		<boxback>./images/American Football (1982)(UA)(EU-US)[o]-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>19820601T000000</releasedate>
+		<developer>Emerson Radio Corp</developer>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>B10A08B5</crc32>
+		<md5>809aaf48b2c38394b4f93ef0787b2ad0</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193700" />
+	</game>
+	<game id="57582">
+		<path>./TOSEC/Games/Baseball (1982)(UA)(EU-US)/Baseball (1982)(UA)(EU-US).bin</path>
+		<name>Baseball</name>
+		<desc>Pitch 'em up pitcher boy!   The crowd are on their toes. It's two strikes, three balls. And the bases are loaded. What will you deliver?  A right curve ball? A leftie? Or your special super-speed bat-buster? Your heart's pumping. The crowd is silent. You</desc>
+		<image>./images/Baseball (1982)(UA)(EU-US)-image.png</image>
+		<video>./videos/Baseball (1982)(UA)(EU-US)-video.mp4</video>
+		<marquee>./images/Baseball (1982)(UA)(EU-US)-marquee.png</marquee>
+		<thumbnail>./images/Baseball (1982)(UA)(EU-US)-thumb.png</thumbnail>
+		<manual>./manuals/Baseball (1982)(UA)(EU-US)-manual.pdf</manual>
+		<boxback>./images/Baseball (1982)(UA)(EU-US)-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>UA Limited</developer>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Sports / Baseball</genre>
+		<players>2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>1CF08155</crc32>
+		<md5>8a655e8bb999e3e085737cb2815f6447</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193702" />
+	</game>
+	<game id="57587">
+		<path>./TOSEC/Games/Breakaway (1982)(UA)(EU-US)[aka Evasion]/Breakaway (1982)(UA)(EU-US)[aka Evasion].bin</path>
+		<name>Breakaway</name>
+		<desc>Breakaway is a Breakout clone, but it's not as good as the arcade or Atari 2600 versions of Breakout because the Arcadia 2001 lacks a rotary controller. Making up for this shortcoming to a small degree is a keypad button that speeds up the paddle. Also, t</desc>
+		<image>./images/Breakaway (1982)(UA)(EU-US)[aka Evasion]-image.png</image>
+		<video>./videos/Breakaway (1982)(UA)(EU-US)[aka Evasion]-video.mp4</video>
+		<marquee>./images/Breakaway (1982)(UA)(EU-US)[aka Evasion]-marquee.png</marquee>
+		<thumbnail>./images/Breakaway (1982)(UA)(EU-US)[aka Evasion]-thumb.png</thumbnail>
+		<manual>./manuals/Breakaway (1982)(UA)(EU-US)[aka Evasion]-manual.pdf</manual>
+		<boxback>./images/Breakaway (1982)(UA)(EU-US)[aka Evasion]-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>33C348C1</crc32>
+		<md5>4fa044f9c77f5f442e0af786f8f502f6</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193704" />
+	</game>
+	<game id="57588">
+		<path>./TOSEC/Games/Capture (1982)(UA)(EU-US)/Capture (1982)(UA)(EU-US).bin</path>
+		<name>Capture</name>
+		<desc>Battle the computer or take on a friend. You'll need immense concentration.   The object is to surround your opponent's men on all 4 sides and take him off the board. When all the squares are occupied, the player with the most squares on the board wins. S</desc>
+		<image>./images/Capture (1982)(UA)(EU-US)-image.png</image>
+		<video>./videos/Capture (1982)(UA)(EU-US)-video.mp4</video>
+		<marquee>./images/Capture (1982)(UA)(EU-US)-marquee.png</marquee>
+		<thumbnail>./images/Capture (1982)(UA)(EU-US)-thumb.png</thumbnail>
+		<manual>./manuals/Capture (1982)(UA)(EU-US)-manual.pdf</manual>
+		<boxback>./images/Capture (1982)(UA)(EU-US)-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>UA Limited</developer>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Strategy</genre>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>AEB803E4</crc32>
+		<md5>46f95a6915f00091c8aaf049f7623d39</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193706" />
+	</game>
+	<game id="57589">
+		<path>./TOSEC/Games/Cat Trax (1982)(UA)(EU-US)/Cat Trax (1982)(UA)(EU-US).bin</path>
+		<name>Cat Trax</name>
+		<desc>This is the among the oldest of battles: cat vs. dog.  You are the cat. You are trying to gather up the cat food pellets in a maze. As wonderful as that may be, the pesky canines are determined to catch you. You are chased by three dogs through the maze.</desc>
+		<image>./images/Cat Trax (1982)(UA)(EU-US)-image.png</image>
+		<video>./videos/Cat Trax (1982)(UA)(EU-US)-video.mp4</video>
+		<marquee>./images/Cat Trax (1982)(UA)(EU-US)-marquee.png</marquee>
+		<thumbnail>./images/Cat Trax (1982)(UA)(EU-US)-thumb.png</thumbnail>
+		<manual>./manuals/Cat Trax (1982)(UA)(EU-US)-manual.pdf</manual>
+		<boxback>./images/Cat Trax (1982)(UA)(EU-US)-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>FD2CF496</crc32>
+		<md5>d7e9ec7f57d9951dd5b4456f1929f0d0</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193708" />
+	</game>
+	<game id="57596">
+		<path>./TOSEC/Games/Escape (1982)(UA)(EU-US)/Escape (1982)(UA)(EU-US).bin</path>
+		<name>Escape</name>
+		<desc>A BerZerk clone.  You are trapped in a maze and enemy robots are all over! Shoot them down with your laser gun, but watch out for their counterattack: They are armed too! Be careful: Walls are electrified.   Game for 1 player.</desc>
+		<image>./images/Escape (1982)(UA)(EU-US)-image.png</image>
+		<video>./videos/Escape (1982)(UA)(EU-US)-video.mp4</video>
+		<marquee>./images/Escape (1982)(UA)(EU-US)-marquee.png</marquee>
+		<thumbnail>./images/Escape (1982)(UA)(EU-US)-thumb.png</thumbnail>
+		<manual>./manuals/Escape (1982)(UA)(EU-US)-manual.pdf</manual>
+		<boxback>./images/Escape (1982)(UA)(EU-US)-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>FC7EBA76</crc32>
+		<md5>cac0be0920cce44838ca998b52b7f5ca</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193710" />
+	</game>
+	<game id="191343">
+		<path>./TOSEC/Games/Frogger v1.03 (200x)(Amigan Software)/Frogger v1.03 (200x)(Amigan Software).bin</path>
+		<name>Frogger</name>
+		<image>./images/Frogger v1.03 (200x)(Amigan Software)-image.png</image>
+		<video>./videos/Frogger v1.03 (200x)(Amigan Software)-video.mp4</video>
+		<marquee>./images/Frogger v1.03 (200x)(Amigan Software)-marquee.png</marquee>
+		<thumbnail>./images/Frogger v1.03 (200x)(Amigan Software)-thumb.png</thumbnail>
+		<boxback>./images/Frogger v1.03 (200x)(Amigan Software)-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>20040101T000000</releasedate>
+		<developer>Amigan Software</developer>
+		<publisher>Amigan Software</publisher>
+		<genre>Action</genre>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>FF013B36</crc32>
+		<md5>f41fc491b1b095492485e2743c2ddc54</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193713" />
+	</game>
+	<game id="57600">
+		<path>./TOSEC/Games/Grand Slam Tennis (1982)(UA)(EU-US)[aka Tennis Yannick Noah]/Grand Slam Tennis (1982)(UA)(EU-US)[aka Tennis Yannick Noah].bin</path>
+		<name>Grand Slam Tennis</name>
+		<desc>One or two player game (uses left or both controllers)   Play against the "PRO" competitor or against a friend  Serve an "ACE"  Try your backhand  Watch out for the smash  No worry about the weather - play "Grand Slam Tennis" any time  Scores and plays li</desc>
+		<image>./images/Grand Slam Tennis (1982)(UA)(EU-US)[aka Tennis Yannick Noah]-image.png</image>
+		<video>./videos/Grand Slam Tennis (1982)(UA)(EU-US)[aka Tennis Yannick Noah]-video.mp4</video>
+		<marquee>./images/Grand Slam Tennis (1982)(UA)(EU-US)[aka Tennis Yannick Noah]-marquee.png</marquee>
+		<thumbnail>./images/Grand Slam Tennis (1982)(UA)(EU-US)[aka Tennis Yannick Noah]-thumb.png</thumbnail>
+		<boxback>./images/Grand Slam Tennis (1982)(UA)(EU-US)[aka Tennis Yannick Noah]-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Sports / Tennis</genre>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>8BF2DFA9</crc32>
+		<md5>1e826acc96ea1831da7c02540f4ea4f3</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193715" />
+	</game>
+	<game id="191344">
+		<path>./TOSEC/Games/JTron v1.0 (2003)(Amigan Software)/JTron v1.0 (2003)(Amigan Software).bin</path>
+		<name>Jtron</name>
+		<image>./images/JTron v1.0 (2003)(Amigan Software)-image.png</image>
+		<video>./videos/JTron v1.0 (2003)(Amigan Software)-video.mp4</video>
+		<marquee>./images/JTron v1.0 (2003)(Amigan Software)-marquee.png</marquee>
+		<thumbnail>./images/JTron v1.0 (2003)(Amigan Software)-thumb.png</thumbnail>
+		<boxback>./images/JTron v1.0 (2003)(Amigan Software)-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>20030101T000000</releasedate>
+		<developer>Amigan Software</developer>
+		<publisher>Amigan Software</publisher>
+		<genre>Puzzle-Game</genre>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>8286BC61</crc32>
+		<md5>6230758a35f7282b86833fd901943125</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193717" />
+	</game>
+	<game id="191344">
+		<path>./TOSEC/Games/JTron v1.1 (2003)(Amigan Software)/JTron v1.1 (2003)(Amigan Software).bin</path>
+		<name>Jtron</name>
+		<image>./images/JTron v1.1 (2003)(Amigan Software)-image.png</image>
+		<video>./videos/JTron v1.1 (2003)(Amigan Software)-video.mp4</video>
+		<marquee>./images/JTron v1.1 (2003)(Amigan Software)-marquee.png</marquee>
+		<thumbnail>./images/JTron v1.1 (2003)(Amigan Software)-thumb.png</thumbnail>
+		<boxback>./images/JTron v1.1 (2003)(Amigan Software)-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>20030101T000000</releasedate>
+		<developer>Amigan Software</developer>
+		<publisher>Amigan Software</publisher>
+		<genre>Puzzle-Game</genre>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>AC32E456</crc32>
+		<md5>4a434fcb3fa79a67a3d91d105cfe21ca</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193719" />
+	</game>
+	<game id="57605">
+		<path>./TOSEC/Games/Jungler (1982)(UA)(EU-US)/Jungler (1982)(UA)(EU-US).bin</path>
+		<name>Jungler</name>
+		<desc>Jungler is based upon an arcade game of the same name designed by Konami in 1981. Gameplay revolves around survival of the fittest among giant worms that reside underground. Each level is comprised of a single screen maze with a large open vertical area i</desc>
+		<image>./images/Jungler (1982)(UA)(EU-US)-image.png</image>
+		<video>./videos/Jungler (1982)(UA)(EU-US)-video.mp4</video>
+		<marquee>./images/Jungler (1982)(UA)(EU-US)-marquee.png</marquee>
+		<thumbnail>./images/Jungler (1982)(UA)(EU-US)-thumb.png</thumbnail>
+		<boxback>./images/Jungler (1982)(UA)(EU-US)-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>DFB5DD55</crc32>
+		<md5>bf10520aef366afdcf6c29e1c97afefe</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193721" />
+	</game>
+	<game id="57606">
+		<path>./TOSEC/Games/Missile War (1982)(UA)(EU-US)/Missile War (1982)(UA)(EU-US).bin</path>
+		<name>Missile War</name>
+		<desc>An attack warning alarm sounds...enemy missiles are on the way!   Don't waste a second. It's up to you to single-handedly save 4 cities from death and destruction. You have 2 missile launchers at your fingertips, each loaded with 10 missiles. Don't waste</desc>
+		<image>./images/Missile War (1982)(UA)(EU-US)-image.png</image>
+		<video>./videos/Missile War (1982)(UA)(EU-US)-video.mp4</video>
+		<marquee>./images/Missile War (1982)(UA)(EU-US)-marquee.png</marquee>
+		<thumbnail>./images/Missile War (1982)(UA)(EU-US)-thumb.png</thumbnail>
+		<manual>./manuals/Missile War (1982)(UA)(EU-US)-manual.pdf</manual>
+		<boxback>./images/Missile War (1982)(UA)(EU-US)-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>A615F068</crc32>
+		<md5>4a9404e44df9a747549f7af0b18df632</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193723" />
+	</game>
+	<game id="57609">
+		<path>./TOSEC/Games/Ocean Battle (1982)(UA)(EU-US)[aka Sea Battle]/Ocean Battle (1982)(UA)(EU-US)[aka Sea Battle].bin</path>
+		<name>Ocean Battle</name>
+		<desc>Somewhat similar to (but not as good as) Sea Battle for the Intellivision, Ocean Battle has each player deploying a fleet consisting of blocky looking cruisers, destroyers and submarines. Each vessel is ranked according to firing range, endurance and othe</desc>
+		<image>./images/Ocean Battle (1982)(UA)(EU-US)[aka Sea Battle]-image.png</image>
+		<video>./videos/Ocean Battle (1982)(UA)(EU-US)[aka Sea Battle]-video.mp4</video>
+		<marquee>./images/Ocean Battle (1982)(UA)(EU-US)[aka Sea Battle]-marquee.png</marquee>
+		<thumbnail>./images/Ocean Battle (1982)(UA)(EU-US)[aka Sea Battle]-thumb.png</thumbnail>
+		<manual>./manuals/Ocean Battle (1982)(UA)(EU-US)[aka Sea Battle]-manual.pdf</manual>
+		<boxback>./images/Ocean Battle (1982)(UA)(EU-US)[aka Sea Battle]-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Strategy</genre>
+		<players>2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>449E80CB</crc32>
+		<md5>35801dafa6a8eeadc51418f0e9377ca0</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193725" />
+	</game>
+	<game id="57614">
+		<path>./TOSEC/Games/Red Clash (1982)(UA)(EU-US)/Red Clash (1982)(UA)(EU-US).bin</path>
+		<name>Red Clash</name>
+		<desc>A solid port of the 1981 Tekhan arcade game (which was licensed to Kaneko in 1982), Red Clash lets players move their rocket in four directions, but the action scrolls vertically, and shots go straight up the screen. Gamers fire at flying saucers, aliens</desc>
+		<image>./images/Red Clash (1982)(UA)(EU-US)-image.png</image>
+		<video>./videos/Red Clash (1982)(UA)(EU-US)-video.mp4</video>
+		<marquee>./images/Red Clash (1982)(UA)(EU-US)-marquee.png</marquee>
+		<thumbnail>./images/Red Clash (1982)(UA)(EU-US)-thumb.png</thumbnail>
+		<boxback>./images/Red Clash (1982)(UA)(EU-US)-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>A06F284B</crc32>
+		<md5>7cd3db82543cb0fdd72638d397ef29d6</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193728" />
+	</game>
+	<game id="57614">
+		<path>./TOSEC/Games/Red Clash (1982)(UA)(EU-US)[o]/Red Clash (1982)(UA)(EU-US)[o].bin</path>
+		<name>Red Clash</name>
+		<desc>A solid port of the 1981 Tekhan arcade game (which was licensed to Kaneko in 1982), Red Clash lets players move their rocket in four directions, but the action scrolls vertically, and shots go straight up the screen. Gamers fire at flying saucers, aliens</desc>
+		<image>./images/Red Clash (1982)(UA)(EU-US)[o]-image.png</image>
+		<video>./videos/Red Clash (1982)(UA)(EU-US)[o]-video.mp4</video>
+		<marquee>./images/Red Clash (1982)(UA)(EU-US)[o]-marquee.png</marquee>
+		<thumbnail>./images/Red Clash (1982)(UA)(EU-US)[o]-thumb.png</thumbnail>
+		<boxback>./images/Red Clash (1982)(UA)(EU-US)[o]-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>06A86F4A</crc32>
+		<md5>6c1b145d9afc220dd3d81e9eca715dfa</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193730" />
+	</game>
+	<game id="57617">
+		<path>./TOSEC/Games/Soccer (1982)(UA)(EU-US)[aka Football]/Soccer (1982)(UA)(EU-US)[aka Football].bin</path>
+		<name>Soccer</name>
+		<desc>An expectant hush settles over the crowd as the players take their positions on the field. A whistle blows. Kick-off!!  Your player takes the ball well...he's moving down the field fast. Suddenly, his path is blocked. He passes to the Centre Forward. The</desc>
+		<image>./images/Soccer (1982)(UA)(EU-US)[aka Football]-image.png</image>
+		<video>./videos/Soccer (1982)(UA)(EU-US)[aka Football]-video.mp4</video>
+		<marquee>./images/Soccer (1982)(UA)(EU-US)[aka Football]-marquee.png</marquee>
+		<thumbnail>./images/Soccer (1982)(UA)(EU-US)[aka Football]-thumb.png</thumbnail>
+		<manual>./manuals/Soccer (1982)(UA)(EU-US)[aka Football]-manual.pdf</manual>
+		<boxback>./images/Soccer (1982)(UA)(EU-US)[aka Football]-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>B0B98A92</crc32>
+		<md5>746bb03d637377cea04f06851f0df5ee</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193732" />
+	</game>
+	<game id="57617">
+		<path>./TOSEC/Games/Soccer (1982)(UA)(EU-US)[b][aka Football]/Soccer (1982)(UA)(EU-US)[b][aka Football].bin</path>
+		<name>Soccer</name>
+		<desc>An expectant hush settles over the crowd as the players take their positions on the field. A whistle blows. Kick-off!!  Your player takes the ball well...he's moving down the field fast. Suddenly, his path is blocked. He passes to the Centre Forward. The</desc>
+		<image>./images/Soccer (1982)(UA)(EU-US)[b][aka Football]-image.png</image>
+		<video>./videos/Soccer (1982)(UA)(EU-US)[b][aka Football]-video.mp4</video>
+		<marquee>./images/Soccer (1982)(UA)(EU-US)[b][aka Football]-marquee.png</marquee>
+		<thumbnail>./images/Soccer (1982)(UA)(EU-US)[b][aka Football]-thumb.png</thumbnail>
+		<manual>./manuals/Soccer (1982)(UA)(EU-US)[b][aka Football]-manual.pdf</manual>
+		<boxback>./images/Soccer (1982)(UA)(EU-US)[b][aka Football]-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>8C0C456E</crc32>
+		<md5>d91afcc96ea973615c0acca70bb2a216</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193734" />
+	</game>
+	<game id="57618">
+		<path>./TOSEC/Games/Space Attack (1982)(UA)(EU-US)/Space Attack (1982)(UA)(EU-US).bin</path>
+		<name>Space Attack</name>
+		<desc>The sky is thick with death-dealing aliens as they jostle for the privilege of blasting you into tiny specks of space dust. With ear-shattering explosions, their rockets send your senses reeling. You want to scream. But you know you must stay alert and re</desc>
+		<image>./images/Space Attack (1982)(UA)(EU-US)-image.png</image>
+		<video>./videos/Space Attack (1982)(UA)(EU-US)-video.mp4</video>
+		<marquee>./images/Space Attack (1982)(UA)(EU-US)-marquee.png</marquee>
+		<thumbnail>./images/Space Attack (1982)(UA)(EU-US)-thumb.png</thumbnail>
+		<manual>./manuals/Space Attack (1982)(UA)(EU-US)-manual.pdf</manual>
+		<boxback>./images/Space Attack (1982)(UA)(EU-US)-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>E3794A2C</crc32>
+		<md5>dbd76221e35fa6c8133a03f57dfe79d2</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193736" />
+	</game>
+	<game id="57618">
+		<path>./TOSEC/Games/Space Attack (1982)(UA)(EU-US)[a]/Space Attack (1982)(UA)(EU-US)[a].bin</path>
+		<name>Space Attack</name>
+		<desc>The sky is thick with death-dealing aliens as they jostle for the privilege of blasting you into tiny specks of space dust. With ear-shattering explosions, their rockets send your senses reeling. You want to scream. But you know you must stay alert and re</desc>
+		<image>./images/Space Attack (1982)(UA)(EU-US)[a]-image.png</image>
+		<video>./videos/Space Attack (1982)(UA)(EU-US)[a]-video.mp4</video>
+		<marquee>./images/Space Attack (1982)(UA)(EU-US)[a]-marquee.png</marquee>
+		<thumbnail>./images/Space Attack (1982)(UA)(EU-US)[a]-thumb.png</thumbnail>
+		<manual>./manuals/Space Attack (1982)(UA)(EU-US)[a]-manual.pdf</manual>
+		<boxback>./images/Space Attack (1982)(UA)(EU-US)[a]-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>669632EC</crc32>
+		<md5>7e14c473545a9524905558d6f773c767</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193738" />
+	</game>
+	<game id="57618">
+		<path>./TOSEC/Games/Space Attack (1982)(UA)(proto)/Space Attack (1982)(UA)(proto).bin</path>
+		<name>Space Attack</name>
+		<desc>The sky is thick with death-dealing aliens as they jostle for the privilege of blasting you into tiny specks of space dust. With ear-shattering explosions, their rockets send your senses reeling. You want to scream. But you know you must stay alert and re</desc>
+		<image>./images/Space Attack (1982)(UA)(proto)-image.png</image>
+		<video>./videos/Space Attack (1982)(UA)(proto)-video.mp4</video>
+		<marquee>./images/Space Attack (1982)(UA)(proto)-marquee.png</marquee>
+		<thumbnail>./images/Space Attack (1982)(UA)(proto)-thumb.png</thumbnail>
+		<manual>./manuals/Space Attack (1982)(UA)(proto)-manual.pdf</manual>
+		<boxback>./images/Space Attack (1982)(UA)(proto)-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>C91828CB</crc32>
+		<md5>5adf5149d2a0d7063ea05eae10fbc80a</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193741" />
+	</game>
+	<game id="57619">
+		<path>./TOSEC/Games/Space Mission (1982)(UA)(EU-US)/Space Mission (1982)(UA)(EU-US).bin</path>
+		<name>Space Mission</name>
+		<desc>The player's mission in Space Mission is to rebuild a four-piece space station within about two minutes. This is done by launching a "droneship", guiding it towards each piece of the station, loading each piece onto the ship, and placing the pieces in a s</desc>
+		<image>./images/Space Mission (1982)(UA)(EU-US)-image.png</image>
+		<video>./videos/Space Mission (1982)(UA)(EU-US)-video.mp4</video>
+		<marquee>./images/Space Mission (1982)(UA)(EU-US)-marquee.png</marquee>
+		<thumbnail>./images/Space Mission (1982)(UA)(EU-US)-thumb.png</thumbnail>
+		<manual>./manuals/Space Mission (1982)(UA)(EU-US)-manual.pdf</manual>
+		<boxback>./images/Space Mission (1982)(UA)(EU-US)-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>3FF224E5</crc32>
+		<md5>bcb44b9296aad132d54d6e3a362131e6</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193743" />
+	</game>
+	<game id="57620">
+		<path>./TOSEC/Games/Space Raiders (1982)(UA)(EU-US)/Space Raiders (1982)(UA)(EU-US).bin</path>
+		<name>Space Raiders</name>
+		<desc>You're under attack by enemy flying saucers, energy bombs, missiles and deadly mutants.  Four of your spacefighters have already been blasted into outer space and the energy meter on your only remaining craft is falling fast!  10...9...8...Just a few prec</desc>
+		<image>./images/Space Raiders (1982)(UA)(EU-US)-image.png</image>
+		<video>./videos/Space Raiders (1982)(UA)(EU-US)-video.mp4</video>
+		<marquee>./images/Space Raiders (1982)(UA)(EU-US)-marquee.png</marquee>
+		<thumbnail>./images/Space Raiders (1982)(UA)(EU-US)-thumb.png</thumbnail>
+		<manual>./manuals/Space Raiders (1982)(UA)(EU-US)-manual.pdf</manual>
+		<boxback>./images/Space Raiders (1982)(UA)(EU-US)-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>88DEFACF</crc32>
+		<md5>892b0783499f89d45ff49d708d46d190</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193745" />
+	</game>
+	<game id="57622">
+		<path>./TOSEC/Games/Space Vultures (1982)(UA)(EU-US)/Space Vultures (1982)(UA)(EU-US).bin</path>
+		<name>Space Vultures</name>
+		<desc>Who's Not a Pretty Boy Then!  Space Vultures are a vicious breed of birdlike aliens who can fly through space without the aid of space ships. They will attack any old planet that takes their fancy on their strange intergalactic migration. Nobody seems to</desc>
+		<image>./images/Space Vultures (1982)(UA)(EU-US)-image.png</image>
+		<video>./videos/Space Vultures (1982)(UA)(EU-US)-video.mp4</video>
+		<marquee>./images/Space Vultures (1982)(UA)(EU-US)-marquee.png</marquee>
+		<thumbnail>./images/Space Vultures (1982)(UA)(EU-US)-thumb.png</thumbnail>
+		<boxback>./images/Space Vultures (1982)(UA)(EU-US)-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>7666A712</crc32>
+		<md5>2fa678cb9c4ed86fcbb5bc87c232d345</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193747" />
+	</game>
+	<game id="57623">
+		<path>./TOSEC/Games/Spiders (1982)(UA)(EU-US)/Spiders (1982)(UA)(EU-US).bin</path>
+		<name>Spiders</name>
+		<desc>If you're scared of creepie-crawlies, this game will really have you reaching for the insect spray. These Space-spiders are mean. They arrive on your screen in red cocoons, then the horrible things start dropping from the sky.  If a spider scores a direct</desc>
+		<image>./images/Spiders (1982)(UA)(EU-US)-image.png</image>
+		<video>./videos/Spiders (1982)(UA)(EU-US)-video.mp4</video>
+		<marquee>./images/Spiders (1982)(UA)(EU-US)-marquee.png</marquee>
+		<thumbnail>./images/Spiders (1982)(UA)(EU-US)-thumb.png</thumbnail>
+		<manual>./manuals/Spiders (1982)(UA)(EU-US)-manual.pdf</manual>
+		<boxback>./images/Spiders (1982)(UA)(EU-US)-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>BB88DAEA</crc32>
+		<md5>463fcdc2f5667e23700e6c8f75495fa9</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193750" />
+	</game>
+	<game id="57623">
+		<path>./TOSEC/Games/Spiders (1982)(UA)(EU-US)[o]/Spiders (1982)(UA)(EU-US)[o].bin</path>
+		<name>Spiders</name>
+		<desc>If you're scared of creepie-crawlies, this game will really have you reaching for the insect spray. These Space-spiders are mean. They arrive on your screen in red cocoons, then the horrible things start dropping from the sky.  If a spider scores a direct</desc>
+		<image>./images/Spiders (1982)(UA)(EU-US)[o]-image.png</image>
+		<video>./videos/Spiders (1982)(UA)(EU-US)[o]-video.mp4</video>
+		<marquee>./images/Spiders (1982)(UA)(EU-US)[o]-marquee.png</marquee>
+		<thumbnail>./images/Spiders (1982)(UA)(EU-US)[o]-thumb.png</thumbnail>
+		<manual>./manuals/Spiders (1982)(UA)(EU-US)[o]-manual.pdf</manual>
+		<boxback>./images/Spiders (1982)(UA)(EU-US)[o]-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>F9D9EC5B</crc32>
+		<md5>874852b47d98b309defed34fbc4fb894</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193752" />
+	</game>
+	<game id="57624">
+		<path>./TOSEC/Games/Star Chess (1982)(UA)(EU-US)[aka Video Chess]/Star Chess (1982)(UA)(EU-US)[aka Video Chess].bin</path>
+		<name>Star Chess</name>
+		<desc>It's the final of the inter-galactic chess championships. As the representative for planet Earth, you're pitted against the best chess strategists in the universe!  A game of fun and strategy for two players based on the well-known game of chess, but your</desc>
+		<image>./images/Star Chess (1982)(UA)(EU-US)[aka Video Chess]-image.png</image>
+		<video>./videos/Star Chess (1982)(UA)(EU-US)[aka Video Chess]-video.mp4</video>
+		<marquee>./images/Star Chess (1982)(UA)(EU-US)[aka Video Chess]-marquee.png</marquee>
+		<thumbnail>./images/Star Chess (1982)(UA)(EU-US)[aka Video Chess]-thumb.png</thumbnail>
+		<manual>./manuals/Star Chess (1982)(UA)(EU-US)[aka Video Chess]-manual.pdf</manual>
+		<boxback>./images/Star Chess (1982)(UA)(EU-US)[aka Video Chess]-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>83E6E40B</crc32>
+		<md5>7dee92f7e4767b728717c44bc9c3b51a</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193754" />
+	</game>
+	<game id="57627">
+		<path>./TOSEC/Games/Tanks a Lot (1982)(UA)(EU-US)/Tanks a Lot (1982)(UA)(EU-US).bin</path>
+		<name>Tanks A Lot</name>
+		<desc>The enemy tanks are approaching  You are armed with a bazooka  "Crouch", "Aim" - Fire! You got him and more points  Watch out for his shells  Close the gates to block the enemy tanks  Protect your commanding base vehicle  You must penetrate his barricade</desc>
+		<image>./images/Tanks a Lot (1982)(UA)(EU-US)-image.png</image>
+		<video>./videos/Tanks a Lot (1982)(UA)(EU-US)-video.mp4</video>
+		<marquee>./images/Tanks a Lot (1982)(UA)(EU-US)-marquee.png</marquee>
+		<thumbnail>./images/Tanks a Lot (1982)(UA)(EU-US)-thumb.png</thumbnail>
+		<manual>./manuals/Tanks a Lot (1982)(UA)(EU-US)-manual.pdf</manual>
+		<boxback>./images/Tanks a Lot (1982)(UA)(EU-US)-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>0076422E</crc32>
+		<md5>3bc3df43b6d82f10cf9651372a784f9b</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193756" />
+	</game>
+	<game id="191345">
+		<path>./TOSEC/Games/Tetris (2003)(Trauner, Peter)/Tetris (2003)(Trauner, Peter).bin</path>
+		<name>Tetris</name>
+		<image>./images/Tetris (2003)(Trauner, Peter)-image.png</image>
+		<video>./videos/Tetris (2003)(Trauner, Peter)-video.mp4</video>
+		<marquee>./images/Tetris (2003)(Trauner, Peter)-marquee.png</marquee>
+		<thumbnail>./images/Tetris (2003)(Trauner, Peter)-thumb.png</thumbnail>
+		<boxback>./images/Tetris (2003)(Trauner, Peter)-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>20030101T000000</releasedate>
+		<developer>Peter Trauner</developer>
+		<publisher>Homebrew</publisher>
+		<genre>Puzzle-Game</genre>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>0F069C23</crc32>
+		<md5>e279d94e9e9d7c596c5eab23949f9ee0</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193757" />
+	</game>
+</gameList>

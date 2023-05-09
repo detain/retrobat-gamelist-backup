@@ -1,0 +1,1134 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./MO5/TOSEC/Applications/[K7]/Catalog (198x)(-)(PD)/Catalog (198x)(-)(PD).k7</path>
+		<name>Catalog (198x)(-)(PD)</name>
+		<crc32>3B9FB1B0</crc32>
+		<md5>fe0596e8ad5ba695d557f35e08fea630</md5>
+		<scrap name="ScreenScraper" date="20230217T110453" />
+	</game>
+	<game>
+		<path>./MO5/TOSEC/Applications/[K7]/Chardata (198x)(-)(PD)/Chardata (198x)(-)(PD).k7</path>
+		<name>Chardata (198x)(-)(PD)</name>
+		<crc32>2619447A</crc32>
+		<md5>4039955fe5e58f1b8a2db666624f1853</md5>
+		<scrap name="ScreenScraper" date="20230217T110455" />
+	</game>
+	<game>
+		<path>./MO5/TOSEC/Applications/[K7]/Mcass (1985)(-)(PD)/Mcass (1985)(-)(PD).k7</path>
+		<name>Mcass (1985)(-)(PD)</name>
+		<crc32>59F704A3</crc32>
+		<md5>9d556e631bac6ef8d1ef09ab20ec634a</md5>
+		<scrap name="ScreenScraper" date="20230217T110457" />
+	</game>
+	<game>
+		<path>./MO5/TOSEC/Applications/[K7]/Mdsk (1985)(-)(PD)/Mdsk (1985)(-)(PD).k7</path>
+		<name>Mdsk (1985)(-)(PD)</name>
+		<crc32>B03EA7D5</crc32>
+		<md5>07432626fb39a1d4ac221f7f3807d843</md5>
+		<scrap name="ScreenScraper" date="20230217T110459" />
+	</game>
+	<game>
+		<path>./MO5/TOSEC/Applications/[M5]/6809 Language Module v1.0 (1984)(Microsoft)/6809 Language Module v1.0 (1984)(Microsoft).m5</path>
+		<name>6809 Language Module v1.0 (1984)(Microsoft)</name>
+		<crc32>77BE59BE</crc32>
+		<md5>65537384980f46b5ee39fa39129a7c5e</md5>
+		<scrap name="ScreenScraper" date="20230217T110501" />
+	</game>
+	<game>
+		<path>./MO5/TOSEC/Applications/[M5]/6809 Language Module v1.0 (1984)(Microsoft)[a]/6809 Language Module v1.0 (1984)(Microsoft)[a].m5</path>
+		<name>6809 Language Module v1.0 (1984)(Microsoft)[a]</name>
+		<crc32>F9467E6F</crc32>
+		<md5>01d023b6599c2796f9d09ee8f15264ae</md5>
+		<scrap name="ScreenScraper" date="20230217T110502" />
+	</game>
+	<game>
+		<path>./MO5/TOSEC/Applications/[M5]/6809 MacroAssembler v3.6 (1984)(Microsoft)[h Prehisto]/6809 MacroAssembler v3.6 (1984)(Microsoft)[h Prehisto].m5</path>
+		<name>6809 MacroAssembler v3.6 (1984)(Microsoft)[h Prehisto]</name>
+		<crc32>7A6A3AE0</crc32>
+		<md5>8853f623ffd3c2710f3395348da96c4c</md5>
+		<scrap name="ScreenScraper" date="20230217T110504" />
+	</game>
+	<game>
+		<path>./MO5/TOSEC/Educational/[K7]/Francais CE - Grammaire et Orthographe 1 - Mot Croises-Images (1985)(Vifi-Nathan)/Francais CE - Grammaire et Orthographe 1 - Mot Croises-Images (1985)(Vifi-Nathan).k7</path>
+		<name>Francais CE - Grammaire et Orthographe 1 - Mot Croises-Images (1985)(Vifi-Nathan)</name>
+		<crc32>FA6F9CBC</crc32>
+		<md5>23ae8eab3104d4e70121d13ef6ece924</md5>
+		<scrap name="ScreenScraper" date="20230217T110506" />
+	</game>
+	<game>
+		<path>./MO5/TOSEC/Educational/[K7]/Francais CE - Grammaire et Orthographe 1 - Mot Croises-Images (1985)(Vifi-Nathan)[a]/Francais CE - Grammaire et Orthographe 1 - Mot Croises-Images (1985)(Vifi-Nathan)[a].k7</path>
+		<name>Francais CE - Grammaire et Orthographe 1 - Mot Croises-Images (1985)(Vifi-Nathan)[a]</name>
+		<crc32>4862C190</crc32>
+		<md5>85c7e5cf8251b962a05c1e2e4b1be198</md5>
+		<scrap name="ScreenScraper" date="20230217T110508" />
+	</game>
+	<game id="113475">
+		<path>./MO5/TOSEC/Games/[K7]/Chicago 90 (198x)(Microids)[b]/Chicago 90 (198x)(Microids)[b].k7</path>
+		<name>Chicago 90</name>
+		<desc>"Priority call - Central to all cars - Hold up on 12th Street - suspects heading east in a red interior driver's license CHGO90. Warning, armed and dangerous suspects! Intercept them by all means before they leave the city. I repeat: Dangerous suspects to be intercepted by all means! Over and out". Choose your side: gangsters or police. Your goal: to get out of the city as quickly as possible if you are a gangster and to successfully intercept the thieves if you are in uniform. Skids, stunts, accidents... nothing will be spared you! Strong emotions and thrills guaranteed! A real action game but also a strategy game. With CHICAGO 90 you will have to study the movements of the different police vehicles by choosing the level of difficulty that suits you.</desc>
+		<image>./images/Chicago 90 (198x)(Microids)[b]-image.png</image>
+		<video>./videos/Chicago 90 (198x)(Microids)[b]-video.mp4</video>
+		<thumbnail>./images/Chicago 90 (198x)(Microids)[b]-thumb.png</thumbnail>
+		<boxback>./images/Chicago 90 (198x)(Microids)[b]-boxback.png</boxback>
+		<publisher>Microïds</publisher>
+		<players>1</players>
+		<crc32>1C31551E</crc32>
+		<md5>e6ac9241251a3b0c2480e5ddeffa5ece</md5>
+		<lang>fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230217T110511" />
+	</game>
+	<game>
+		<path>./MO5/TOSEC/Games/[K7]/Cross Bomber (2020-08-26)(Caruso, Fabrizio)/Cross Bomber (2020-08-26)(Caruso, Fabrizio).k7</path>
+		<name>Cross Bomber (2020-08-26)(Caruso, Fabrizio)</name>
+		<crc32>44D4FD0A</crc32>
+		<md5>3e55eceb899df51bc586ed70202fcd0b</md5>
+		<scrap name="ScreenScraper" date="20230217T110513" />
+	</game>
+	<game>
+		<path>./MO5/TOSEC/Games/[K7]/Cross Bomber (2021-05-13)(Caruso, Fabrizio)/Cross Bomber (2021-05-13)(Caruso, Fabrizio).k7</path>
+		<name>Cross Bomber (2021-05-13)(Caruso, Fabrizio)</name>
+		<crc32>955D9F23</crc32>
+		<md5>90ad37449976c188f4e6a3c2b8e4ad7e</md5>
+		<scrap name="ScreenScraper" date="20230217T110514" />
+	</game>
+	<game>
+		<path>./MO5/TOSEC/Games/[K7]/Cross Chase (2020-04-02)(Caruso, Fabrizio)/Cross Chase (2020-04-02)(Caruso, Fabrizio).k7</path>
+		<name>Cross Chase (2020-04-02)(Caruso, Fabrizio)</name>
+		<crc32>A1349865</crc32>
+		<md5>82efe1e33e8c97dfd013dec50e4516c9</md5>
+		<scrap name="ScreenScraper" date="20230217T110516" />
+	</game>
+	<game>
+		<path>./MO5/TOSEC/Games/[K7]/Cross Chase (2021-05-13)(Caruso, Fabrizio)/Cross Chase (2021-05-13)(Caruso, Fabrizio).k7</path>
+		<name>Cross Chase (2021-05-13)(Caruso, Fabrizio)</name>
+		<crc32>8252CCB2</crc32>
+		<md5>ec5ddab573b9837fa18fc4a7b69e87ab</md5>
+		<scrap name="ScreenScraper" date="20230217T110518" />
+	</game>
+	<game>
+		<path>./MO5/TOSEC/Games/[K7]/Cross Horde (2021-04-16)(Caruso, Fabrizio)/Cross Horde (2021-04-16)(Caruso, Fabrizio).k7</path>
+		<name>Cross Horde (2021-04-16)(Caruso, Fabrizio)</name>
+		<crc32>91A052E4</crc32>
+		<md5>ee6274af91ca5abf917a6eb60b27964c</md5>
+		<scrap name="ScreenScraper" date="20230217T110519" />
+	</game>
+	<game>
+		<path>./MO5/TOSEC/Games/[K7]/Cross Horde (2021-04-25)(Caruso, Fabrizio)/Cross Horde (2021-04-25)(Caruso, Fabrizio).k7</path>
+		<name>Cross Horde (2021-04-25)(Caruso, Fabrizio)</name>
+		<crc32>0F1A968E</crc32>
+		<md5>318b729d24901e9e1fcbf99b3eaed3bf</md5>
+		<scrap name="ScreenScraper" date="20230217T110521" />
+	</game>
+	<game>
+		<path>./MO5/TOSEC/Games/[K7]/Cross Horde v1.0 (2021-05-01)(Caruso, Fabrizio)/Cross Horde v1.0 (2021-05-01)(Caruso, Fabrizio).k7</path>
+		<name>Cross Horde v1.0 (2021-05-01)(Caruso, Fabrizio)</name>
+		<crc32>4447B144</crc32>
+		<md5>8620fb8174b3b2ae8ed455fd2dd5f092</md5>
+		<scrap name="ScreenScraper" date="20230217T110523" />
+	</game>
+	<game>
+		<path>./MO5/TOSEC/Games/[K7]/Cross Snake Preview (2020-12-05)(Caruso, Fabrizio)/Cross Snake Preview (2020-12-05)(Caruso, Fabrizio).k7</path>
+		<name>Cross Snake Preview (2020-12-05)(Caruso, Fabrizio)</name>
+		<crc32>12AE1EE7</crc32>
+		<md5>03f2bf04c3131be432fb2d31e90b5b3d</md5>
+		<scrap name="ScreenScraper" date="20230217T110525" />
+	</game>
+	<game>
+		<path>./MO5/TOSEC/Games/[K7]/Cross Snake v1.0 (2020-12-12)(Caruso, Fabrizio)/Cross Snake v1.0 (2020-12-12)(Caruso, Fabrizio).k7</path>
+		<name>Cross Snake v1.0 (2020-12-12)(Caruso, Fabrizio)</name>
+		<crc32>86840518</crc32>
+		<md5>c4e23842ecfd1dae5d1a3cf51e7a4d71</md5>
+		<scrap name="ScreenScraper" date="20230217T110527" />
+	</game>
+	<game>
+		<path>./MO5/TOSEC/Games/[K7]/Cross Snake v2.0 (2020-12-31)(Caruso, Fabrizio)/Cross Snake v2.0 (2020-12-31)(Caruso, Fabrizio).k7</path>
+		<name>Cross Snake v2.0 (2020-12-31)(Caruso, Fabrizio)</name>
+		<crc32>5325C63A</crc32>
+		<md5>7159299e4ff7aa441ee27e6422e5c0f5</md5>
+		<scrap name="ScreenScraper" date="20230217T110530" />
+	</game>
+	<game id="113485">
+		<path>./MO5/TOSEC/Games/[K7]/Demineur (1992)(ASCI)[b]/Demineur (1992)(ASCI)[b].k7</path>
+		<name>Demineur</name>
+		<image>./images/Demineur (1992)(ASCI)[b]-image.png</image>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Michel Saint-Briant</developer>
+		<publisher>ASCII Corporation</publisher>
+		<crc32>42FE77F3</crc32>
+		<md5>4a8a1be179d49e3a8674f54fe71319cb</md5>
+		<lang>fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230217T110533" />
+	</game>
+	<game id="113488">
+		<path>./MO5/TOSEC/Games/[K7]/Dossier Boerhaave (1986)(Infogrames)[b2]/Dossier Boerhaave (1986)(Infogrames)[b2].k7</path>
+		<name>Dossier Boerhaave</name>
+		<image>./images/Dossier Boerhaave (1986)(Infogrames)[b2]-image.png</image>
+		<thumbnail>./images/Dossier Boerhaave (1986)(Infogrames)[b2]-thumb.png</thumbnail>
+		<boxback>./images/Dossier Boerhaave (1986)(Infogrames)[b2]-boxback.png</boxback>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Pierre Bayle, Roger Granier</developer>
+		<publisher>Infogrames</publisher>
+		<crc32>C1765672</crc32>
+		<md5>9e341dc13b147f9a275c9fa66fc8f028</md5>
+		<lang>fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230217T110536" />
+	</game>
+	<game id="113488">
+		<path>./MO5/TOSEC/Games/[K7]/Dossier Boerhaave (1986)(Infogrames)[b]/Dossier Boerhaave (1986)(Infogrames)[b].k7</path>
+		<name>Dossier Boerhaave</name>
+		<image>./images/Dossier Boerhaave (1986)(Infogrames)[b]-image.png</image>
+		<thumbnail>./images/Dossier Boerhaave (1986)(Infogrames)[b]-thumb.png</thumbnail>
+		<boxback>./images/Dossier Boerhaave (1986)(Infogrames)[b]-boxback.png</boxback>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Pierre Bayle, Roger Granier</developer>
+		<publisher>Infogrames</publisher>
+		<crc32>C2A4F6DD</crc32>
+		<md5>74b2162cd8dba0e77b3a815cb04a3f5c</md5>
+		<lang>fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230217T110538" />
+	</game>
+	<game id="113501">
+		<path>./MO5/TOSEC/Games/[K7]/Erebus (198x)(EH Services)/Erebus (198x)(EH Services).k7</path>
+		<name>Erebus</name>
+		<image>./images/Erebus (198x)(EH Services)-image.png</image>
+		<marquee>./images/Erebus (198x)(EH Services)-marquee.png</marquee>
+		<thumbnail>./images/Erebus (198x)(EH Services)-thumb.png</thumbnail>
+		<boxback>./images/Erebus (198x)(EH Services)-boxback.png</boxback>
+		<developer>Eric Zmiro, Jean-Charles Meyrignac</developer>
+		<publisher>EH Services</publisher>
+		<crc32>87F297B7</crc32>
+		<md5>8626f5e992e6b83ac606912fe2bb91a0</md5>
+		<lang>fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230217T110540" />
+	</game>
+	<game id="113501">
+		<path>./MO5/TOSEC/Games/[K7]/Erebus (198x)(EH Services)[a]/Erebus (198x)(EH Services)[a].k7</path>
+		<name>Erebus</name>
+		<image>./images/Erebus (198x)(EH Services)[a]-image.png</image>
+		<marquee>./images/Erebus (198x)(EH Services)[a]-marquee.png</marquee>
+		<thumbnail>./images/Erebus (198x)(EH Services)[a]-thumb.png</thumbnail>
+		<boxback>./images/Erebus (198x)(EH Services)[a]-boxback.png</boxback>
+		<developer>Eric Zmiro, Jean-Charles Meyrignac</developer>
+		<publisher>EH Services</publisher>
+		<crc32>95A10B9E</crc32>
+		<md5>61bd7f0f6a7a6152da41ad38a9088a51</md5>
+		<lang>fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230217T110543" />
+	</game>
+	<game id="113508">
+		<path>./MO5/TOSEC/Games/[K7]/Football (1987)(Infogrames)[b]/Football (1987)(Infogrames)[b].k7</path>
+		<name>Football</name>
+		<image>./images/Football (1987)(Infogrames)[b]-image.png</image>
+		<video>./videos/Football (1987)(Infogrames)[b]-video.mp4</video>
+		<thumbnail>./images/Football (1987)(Infogrames)[b]-thumb.png</thumbnail>
+		<boxback>./images/Football (1987)(Infogrames)[b]-boxback.png</boxback>
+		<releasedate>19870101T000000</releasedate>
+		<publisher>Infogrames</publisher>
+		<crc32>493F4579</crc32>
+		<md5>373370510e815b0e4178fee98d20d28d</md5>
+		<lang>fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230217T110546" />
+	</game>
+	<game id="119078">
+		<path>./MO5/TOSEC/Games/[K7]/Intrigo a Parigi (1986)(Infogrames)[b]/Intrigo a Parigi (1986)(Infogrames)[b].k7</path>
+		<name>Intrigue à Paris</name>
+		<image>./images/Intrigo a Parigi (1986)(Infogrames)[b]-image.png</image>
+		<thumbnail>./images/Intrigo a Parigi (1986)(Infogrames)[b]-thumb.png</thumbnail>
+		<boxback>./images/Intrigo a Parigi (1986)(Infogrames)[b]-boxback.png</boxback>
+		<releasedate>19860101T000000</releasedate>
+		<publisher>Infogrames</publisher>
+		<crc32>601680FD</crc32>
+		<md5>ec70317f8fc6f6647c4ce7a5039ec612</md5>
+		<lang>fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230217T110548" />
+	</game>
+	<game id="113542">
+		<path>./MO5/TOSEC/Games/[K7]/Keep Yourself Alive (1988)(Loriciels)[b]/Keep Yourself Alive (1988)(Loriciels)[b].k7</path>
+		<name>Keep Yourself Alive</name>
+		<image>./images/Keep Yourself Alive (1988)(Loriciels)[b]-image.png</image>
+		<thumbnail>./images/Keep Yourself Alive (1988)(Loriciels)[b]-thumb.png</thumbnail>
+		<boxback>./images/Keep Yourself Alive (1988)(Loriciels)[b]-boxback.png</boxback>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Yves Ada</developer>
+		<publisher>Loriciels</publisher>
+		<crc32>1AD031C5</crc32>
+		<md5>a444813563a7ab45127094c3986c8ecd</md5>
+		<lang>fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230217T110551" />
+	</game>
+	<game id="113864">
+		<path>./MO5/TOSEC/Games/[K7]/Malefice des Atlantes, Le (1987)(Chip)[b]/Malefice des Atlantes, Le (1987)(Chip)[b].k7</path>
+		<name>Le Malefice des Atlantes</name>
+		<image>./images/Malefice des Atlantes, Le (1987)(Chip)[b]-image.png</image>
+		<video>./videos/Malefice des Atlantes, Le (1987)(Chip)[b]-video.mp4</video>
+		<thumbnail>./images/Malefice des Atlantes, Le (1987)(Chip)[b]-thumb.png</thumbnail>
+		<boxback>./images/Malefice des Atlantes, Le (1987)(Chip)[b]-boxback.png</boxback>
+		<publisher>Chip</publisher>
+		<crc32>FD9E5618</crc32>
+		<md5>652c00a5419bffd9358ccb6528ca439e</md5>
+		<lang>fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230217T110554" />
+	</game>
+	<game id="119082">
+		<path>./MO5/TOSEC/Games/[K7]/MGT (198x)(Loriciels)[b]/MGT (198x)(Loriciels)[b].k7</path>
+		<name>MGT</name>
+		<image>./images/MGT (198x)(Loriciels)[b]-image.png</image>
+		<video>./videos/MGT (198x)(Loriciels)[b]-video.mp4</video>
+		<marquee>./images/MGT (198x)(Loriciels)[b]-marquee.png</marquee>
+		<thumbnail>./images/MGT (198x)(Loriciels)[b]-thumb.png</thumbnail>
+		<boxback>./images/MGT (198x)(Loriciels)[b]-boxback.png</boxback>
+		<rating>0.9</rating>
+		<publisher>Loriciels</publisher>
+		<crc32>9DC90455</crc32>
+		<md5>6181ef44703186461fdb75752147b40e</md5>
+		<lang>fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230217T110557" />
+	</game>
+	<game id="113923">
+		<path>./MO5/TOSEC/Games/[K7]/OK Cowboy (1987)(Infogrames)[b]/OK Cowboy (1987)(Infogrames)[b].k7</path>
+		<name>OK Cowboy</name>
+		<image>./images/OK Cowboy (1987)(Infogrames)[b]-image.png</image>
+		<thumbnail>./images/OK Cowboy (1987)(Infogrames)[b]-thumb.png</thumbnail>
+		<boxback>./images/OK Cowboy (1987)(Infogrames)[b]-boxback.png</boxback>
+		<developer>Pierre Bayle, Roger Granier</developer>
+		<publisher>Infogrames</publisher>
+		<crc32>DFAAE0AC</crc32>
+		<md5>128d8e2c7e9b086cc2fe08ba9aef86d4</md5>
+		<lang>fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230217T110559" />
+	</game>
+	<game id="113647">
+		<path>./MO5/TOSEC/Games/[K7]/Quad (198x)(Microids)[b]/Quad (198x)(Microids)[b].k7</path>
+		<name>Quad</name>
+		<image>./images/Quad (198x)(Microids)[b]-image.png</image>
+		<video>./videos/Quad (198x)(Microids)[b]-video.mp4</video>
+		<thumbnail>./images/Quad (198x)(Microids)[b]-thumb.png</thumbnail>
+		<boxback>./images/Quad (198x)(Microids)[b]-boxback.png</boxback>
+		<publisher>Microïds</publisher>
+		<crc32>F664118E</crc32>
+		<md5>bf46b2896e19c80b6ea2c70d004913be</md5>
+		<lang>fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230217T110601" />
+	</game>
+	<game id="113668">
+		<path>./MO5/TOSEC/Games/[K7]/Snaky (1990)(-)[b]/Snaky (1990)(-)[b].k7</path>
+		<name>Snaky</name>
+		<image>./images/Snaky (1990)(-)[b]-image.png</image>
+		<releasedate>19900101T000000</releasedate>
+		<crc32>AEA593B9</crc32>
+		<md5>4b7a773e44f2ba69a9afa530c6a8ee8a</md5>
+		<lang>fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230217T110604" />
+	</game>
+	<game id="113670">
+		<path>./MO5/TOSEC/Games/[K7]/Sorcery (1986)(Virgin Games)[b]/Sorcery (1986)(Virgin Games)[b].k7</path>
+		<name>Sorcery</name>
+		<image>./images/Sorcery (1986)(Virgin Games)[b]-image.png</image>
+		<video>./videos/Sorcery (1986)(Virgin Games)[b]-video.mp4</video>
+		<marquee>./images/Sorcery (1986)(Virgin Games)[b]-marquee.png</marquee>
+		<thumbnail>./images/Sorcery (1986)(Virgin Games)[b]-thumb.png</thumbnail>
+		<boxback>./images/Sorcery (1986)(Virgin Games)[b]-boxback.png</boxback>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Virgin</developer>
+		<publisher>FIL</publisher>
+		<players>1</players>
+		<crc32>97C831E2</crc32>
+		<md5>a071b6d89ef7524b3adcaeebe7bfb860</md5>
+		<lang>fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230217T110606" />
+	</game>
+	<game id="113672">
+		<path>./MO5/TOSEC/Games/[K7]/Sortileges (1986)(Infogrames)[b2]/Sortileges (1986)(Infogrames)[b2].k7</path>
+		<name>Sortileges</name>
+		<image>./images/Sortileges (1986)(Infogrames)[b2]-image.png</image>
+		<video>./videos/Sortileges (1986)(Infogrames)[b2]-video.mp4</video>
+		<thumbnail>./images/Sortileges (1986)(Infogrames)[b2]-thumb.png</thumbnail>
+		<boxback>./images/Sortileges (1986)(Infogrames)[b2]-boxback.png</boxback>
+		<releasedate>19860101T000000</releasedate>
+		<developer>William Hennebois</developer>
+		<publisher>Infogrames</publisher>
+		<crc32>F1393ADA</crc32>
+		<md5>2cfccba4793faeb50affcf24becad5ba</md5>
+		<lang>fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230217T110609" />
+	</game>
+	<game id="113672">
+		<path>./MO5/TOSEC/Games/[K7]/Sortileges (1986)(Infogrames)[b]/Sortileges (1986)(Infogrames)[b].k7</path>
+		<name>Sortileges</name>
+		<image>./images/Sortileges (1986)(Infogrames)[b]-image.png</image>
+		<video>./videos/Sortileges (1986)(Infogrames)[b]-video.mp4</video>
+		<thumbnail>./images/Sortileges (1986)(Infogrames)[b]-thumb.png</thumbnail>
+		<boxback>./images/Sortileges (1986)(Infogrames)[b]-boxback.png</boxback>
+		<releasedate>19860101T000000</releasedate>
+		<developer>William Hennebois</developer>
+		<publisher>Infogrames</publisher>
+		<crc32>54114675</crc32>
+		<md5>e3f5f8480e88f7873bf07221d9848587</md5>
+		<lang>fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230217T110611" />
+	</game>
+	<game id="113684">
+		<path>./MO5/TOSEC/Games/[K7]/Super Ski (198x)(Microids)[b2]/Super Ski (198x)(Microids)[b2].k7</path>
+		<name>Super Ski</name>
+		<desc>With SUPER SKI, go full steam ahead on the slopes. Slalom, Downhill, Giant Slalom and Ski Jumping : SUPER SKI offers you the most prestigious alpine skiing events on the best competition slopes ! SUPER SKI is a 3D ski simulator with impressive speed and unmatched realism! Beware of spectators, trees... collisions are often dangerous! Put on your best pair of skis, choose your event, your slope and fight against the stopwatch in a simulation where everything is possible ... without the risk of a fracture.</desc>
+		<image>./images/Super Ski (198x)(Microids)[b2]-image.png</image>
+		<video>./videos/Super Ski (198x)(Microids)[b2]-video.mp4</video>
+		<marquee>./images/Super Ski (198x)(Microids)[b2]-marquee.png</marquee>
+		<thumbnail>./images/Super Ski (198x)(Microids)[b2]-thumb.png</thumbnail>
+		<boxback>./images/Super Ski (198x)(Microids)[b2]-boxback.png</boxback>
+		<developer>C. Bertrand, Elliot Grassiano</developer>
+		<publisher>Microïds</publisher>
+		<crc32>8F2F4EA9</crc32>
+		<md5>1d3c60630222fe38c197282c61d123e8</md5>
+		<lang>fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230217T110614" />
+	</game>
+	<game id="113684">
+		<path>./MO5/TOSEC/Games/[K7]/Super Ski (198x)(Microids)[b3]/Super Ski (198x)(Microids)[b3].k7</path>
+		<name>Super Ski</name>
+		<desc>With SUPER SKI, go full steam ahead on the slopes. Slalom, Downhill, Giant Slalom and Ski Jumping : SUPER SKI offers you the most prestigious alpine skiing events on the best competition slopes ! SUPER SKI is a 3D ski simulator with impressive speed and unmatched realism! Beware of spectators, trees... collisions are often dangerous! Put on your best pair of skis, choose your event, your slope and fight against the stopwatch in a simulation where everything is possible ... without the risk of a fracture.</desc>
+		<image>./images/Super Ski (198x)(Microids)[b3]-image.png</image>
+		<video>./videos/Super Ski (198x)(Microids)[b3]-video.mp4</video>
+		<marquee>./images/Super Ski (198x)(Microids)[b3]-marquee.png</marquee>
+		<thumbnail>./images/Super Ski (198x)(Microids)[b3]-thumb.png</thumbnail>
+		<boxback>./images/Super Ski (198x)(Microids)[b3]-boxback.png</boxback>
+		<developer>C. Bertrand, Elliot Grassiano</developer>
+		<publisher>Microïds</publisher>
+		<crc32>232CEF42</crc32>
+		<md5>67c92622d3766365c5f91a834fd7b635</md5>
+		<lang>fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230217T110616" />
+	</game>
+	<game id="113684">
+		<path>./MO5/TOSEC/Games/[K7]/Super Ski (198x)(Microids)[b]/Super Ski (198x)(Microids)[b].k7</path>
+		<name>Super Ski</name>
+		<desc>With SUPER SKI, go full steam ahead on the slopes. Slalom, Downhill, Giant Slalom and Ski Jumping : SUPER SKI offers you the most prestigious alpine skiing events on the best competition slopes ! SUPER SKI is a 3D ski simulator with impressive speed and unmatched realism! Beware of spectators, trees... collisions are often dangerous! Put on your best pair of skis, choose your event, your slope and fight against the stopwatch in a simulation where everything is possible ... without the risk of a fracture.</desc>
+		<image>./images/Super Ski (198x)(Microids)[b]-image.png</image>
+		<video>./videos/Super Ski (198x)(Microids)[b]-video.mp4</video>
+		<marquee>./images/Super Ski (198x)(Microids)[b]-marquee.png</marquee>
+		<thumbnail>./images/Super Ski (198x)(Microids)[b]-thumb.png</thumbnail>
+		<boxback>./images/Super Ski (198x)(Microids)[b]-boxback.png</boxback>
+		<developer>C. Bertrand, Elliot Grassiano</developer>
+		<publisher>Microïds</publisher>
+		<crc32>01E79F7F</crc32>
+		<md5>c50616655e1c8483f8531df00f4afe0f</md5>
+		<lang>fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230217T110618" />
+	</game>
+	<game id="114001">
+		<path>./MO5/TOSEC/Games/[K7]/T.N.T. (1986)(Infogrames)[b]/T.N.T. (1986)(Infogrames)[b].k7</path>
+		<name>T.N.T.</name>
+		<image>./images/T.N.T. (1986)(Infogrames)[b]-image.png</image>
+		<video>./videos/T.N.T. (1986)(Infogrames)[b]-video.mp4</video>
+		<thumbnail>./images/T.N.T. (1986)(Infogrames)[b]-thumb.png</thumbnail>
+		<boxback>./images/T.N.T. (1986)(Infogrames)[b]-boxback.png</boxback>
+		<developer>Najib El Maadani, Dominique Girou</developer>
+		<publisher>Infogrames</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<crc32>64F6CEB6</crc32>
+		<md5>b17572d29d13c0a66c61dedbc128c73c</md5>
+		<lang>fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230217T110621" />
+	</game>
+	<game id="119094">
+		<path>./MO5/TOSEC/Games/[K7]/Y (1988)(Fetis, G.)/Y (1988)(Fetis, G.).k7</path>
+		<name>Y</name>
+		<releasedate>19880101T000000</releasedate>
+		<publisher>Fetis, G.</publisher>
+		<crc32>B211BCC7</crc32>
+		<md5>1e04c208a3e6d5d7d52643601b01b1ad</md5>
+		<lang>fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230217T110624" />
+	</game>
+	<game id="113449">
+		<path>./MO5/TOSEC/Games/[M5]/Blitz (1985)(To Tek)/Blitz (1985)(To Tek).m5</path>
+		<name>Blitz</name>
+		<image>./images/Blitz (1985)(To Tek)-image.png</image>
+		<video>./videos/Blitz (1985)(To Tek)-video.mp4</video>
+		<thumbnail>./images/Blitz (1985)(To Tek)-thumb.png</thumbnail>
+		<boxback>./images/Blitz (1985)(To Tek)-boxback.png</boxback>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Richard Lang</developer>
+		<publisher>Intelligent Software</publisher>
+		<crc32>9725C110</crc32>
+		<md5>6a1bad0554829dc1e518880e710288df</md5>
+		<lang>fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230217T110626" />
+	</game>
+	<game id="113449">
+		<path>./MO5/TOSEC/Games/[M5]/Blitz! (1985)(To Tek)[a]/Blitz! (1985)(To Tek)[a].m5</path>
+		<name>Blitz</name>
+		<image>./images/Blitz! (1985)(To Tek)[a]-image.png</image>
+		<thumbnail>./images/Blitz! (1985)(To Tek)[a]-thumb.png</thumbnail>
+		<boxback>./images/Blitz! (1985)(To Tek)[a]-boxback.png</boxback>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Richard Lang</developer>
+		<publisher>Intelligent Software</publisher>
+		<crc32>19DDE6C1</crc32>
+		<md5>bfa10931d02b14ac50b72b7622d274de</md5>
+		<lang>fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230217T110628" />
+	</game>
+	<game id="113478">
+		<path>./MO5/TOSEC/Games/[M5]/Controle Aerien (1984)(Vifi-Nathan)/Controle Aerien (1984)(Vifi-Nathan).m5</path>
+		<name>Controle Aerien</name>
+		<image>./images/Controle Aerien (1984)(Vifi-Nathan)-image.png</image>
+		<thumbnail>./images/Controle Aerien (1984)(Vifi-Nathan)-thumb.png</thumbnail>
+		<boxback>./images/Controle Aerien (1984)(Vifi-Nathan)-boxback.png</boxback>
+		<releasedate>19840101T000000</releasedate>
+		<developer>G. Claustre, C. de Stanski, M. Faraut, A. Mousset</developer>
+		<publisher>Vifi-Nathan</publisher>
+		<crc32>897687FA</crc32>
+		<md5>596e879670a73a8020a43c522d0947f0</md5>
+		<lang>fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230217T110631" />
+	</game>
+	<game>
+		<path>./MO5/TOSEC/Games/[M5]/Cross Bomber (2022-04-29)(Caruso, Fabrizio)/Cross Bomber (2022-04-29)(Caruso, Fabrizio).m5</path>
+		<name>Cross Bomber (2022-04-29)(Caruso, Fabrizio)</name>
+		<crc32>0AB52C63</crc32>
+		<md5>e51f6e4d8a2e21e8ded05d89fd377d3e</md5>
+		<scrap name="ScreenScraper" date="20230217T110633" />
+	</game>
+	<game>
+		<path>./MO5/TOSEC/Games/[M5]/Cross Chase (2020-04-02)(Caruso, Fabrizio)/Cross Chase (2020-04-02)(Caruso, Fabrizio).m5</path>
+		<name>Cross Chase (2020-04-02)(Caruso, Fabrizio)</name>
+		<crc32>BA127A01</crc32>
+		<md5>7eb8283657518ff43b27e2a4dddd068b</md5>
+		<scrap name="ScreenScraper" date="20230217T110634" />
+	</game>
+	<game>
+		<path>./MO5/TOSEC/Games/[M5]/Cross Chase (2021-05-13)(Caruso, Fabrizio)/Cross Chase (2021-05-13)(Caruso, Fabrizio).m5</path>
+		<name>Cross Chase (2021-05-13)(Caruso, Fabrizio)</name>
+		<crc32>6A6CD0E0</crc32>
+		<md5>76a974f694bd2ca318c460c839b185a2</md5>
+		<scrap name="ScreenScraper" date="20230217T110636" />
+	</game>
+	<game>
+		<path>./MO5/TOSEC/Games/[M5]/Cross Chase (2022-04-29)(Caruso, Fabrizio)/Cross Chase (2022-04-29)(Caruso, Fabrizio).m5</path>
+		<name>Cross Chase (2022-04-29)(Caruso, Fabrizio)</name>
+		<crc32>FFD92DAB</crc32>
+		<md5>238f9ee4f72a7bec37f7fe618992aeb7</md5>
+		<scrap name="ScreenScraper" date="20230217T110638" />
+	</game>
+	<game>
+		<path>./MO5/TOSEC/Games/[M5]/Cross Horde (2022-04-29)(Caruso, Fabrizio)/Cross Horde (2022-04-29)(Caruso, Fabrizio).m5</path>
+		<name>Cross Horde (2022-04-29)(Caruso, Fabrizio)</name>
+		<crc32>9575C69D</crc32>
+		<md5>8665b495d72c22deffe223bdabc7af9e</md5>
+		<scrap name="ScreenScraper" date="20230217T110640" />
+	</game>
+	<game>
+		<path>./MO5/TOSEC/Games/[M5]/Cross Shoot (2022-04-29)(Caruso, Fabrizio)/Cross Shoot (2022-04-29)(Caruso, Fabrizio).m5</path>
+		<name>Cross Shoot (2022-04-29)(Caruso, Fabrizio)</name>
+		<crc32>4BA180B6</crc32>
+		<md5>3bbade4932f64557a4fbbcf00c9fb553</md5>
+		<scrap name="ScreenScraper" date="20230217T110642" />
+	</game>
+	<game>
+		<path>./MO5/TOSEC/Games/[M5]/Cross Snake (2022-04-29)(Caruso, Fabrizio)/Cross Snake (2022-04-29)(Caruso, Fabrizio).m5</path>
+		<name>Cross Snake (2022-04-29)(Caruso, Fabrizio)</name>
+		<crc32>0AA6975A</crc32>
+		<md5>ca4a0c66f345383cf1c13d5c88aa9d7c</md5>
+		<scrap name="ScreenScraper" date="20230217T110644" />
+	</game>
+	<game>
+		<path>./MO5/TOSEC/Games/[M5]/Cross Snake Preview (2020-12-05)(Caruso, Fabrizio)/Cross Snake Preview (2020-12-05)(Caruso, Fabrizio).m5</path>
+		<name>Cross Snake Preview (2020-12-05)(Caruso, Fabrizio)</name>
+		<crc32>75267A68</crc32>
+		<md5>a8f3b54b76a4dc97cfba48607ea05525</md5>
+		<scrap name="ScreenScraper" date="20230217T110646" />
+	</game>
+	<game>
+		<path>./MO5/TOSEC/Games/[SAP]/Cross Bomber (2020-08-26)(Caruso, Fabrizio)/Cross Bomber (2020-08-26)(Caruso, Fabrizio).sap</path>
+		<name>Cross Bomber (2020-08-26)(Caruso, Fabrizio)</name>
+		<crc32>C5AE1F91</crc32>
+		<md5>60d7ffb3f12ff823cc2aaa5799a6ce52</md5>
+		<scrap name="ScreenScraper" date="20230217T110648" />
+	</game>
+	<game>
+		<path>./MO5/TOSEC/Games/[SAP]/Cross Bomber (2021-05-13)(Caruso, Fabrizio)/Cross Bomber (2021-05-13)(Caruso, Fabrizio).sap</path>
+		<name>Cross Bomber (2021-05-13)(Caruso, Fabrizio)</name>
+		<crc32>57F0197E</crc32>
+		<md5>101da25bc9b243e007875d9461c0ed3c</md5>
+		<scrap name="ScreenScraper" date="20230217T110650" />
+	</game>
+	<game>
+		<path>./MO5/TOSEC/Games/[SAP]/Cross Bomber (2022-04-29)(Caruso, Fabrizio)/Cross Bomber (2022-04-29)(Caruso, Fabrizio).sap</path>
+		<name>Cross Bomber (2022-04-29)(Caruso, Fabrizio)</name>
+		<crc32>A59CED95</crc32>
+		<md5>2cae0b27e13f13b1e3d45a6d94eb589a</md5>
+		<scrap name="ScreenScraper" date="20230217T110652" />
+	</game>
+	<game>
+		<path>./MO5/TOSEC/Games/[SAP]/Cross Chase (2021-05-13)(Caruso, Fabrizio)/Cross Chase (2021-05-13)(Caruso, Fabrizio).sap</path>
+		<name>Cross Chase (2021-05-13)(Caruso, Fabrizio)</name>
+		<crc32>3741CFB3</crc32>
+		<md5>4ba09c0a73e70a13ce5ef8c810add98a</md5>
+		<scrap name="ScreenScraper" date="20230217T110654" />
+	</game>
+	<game>
+		<path>./MO5/TOSEC/Games/[SAP]/Cross Chase (2022-04-29)(Caruso, Fabrizio)/Cross Chase (2022-04-29)(Caruso, Fabrizio).sap</path>
+		<name>Cross Chase (2022-04-29)(Caruso, Fabrizio)</name>
+		<crc32>DAC756BA</crc32>
+		<md5>fba84f238db5f71e7a9d8514d70b4e70</md5>
+		<scrap name="ScreenScraper" date="20230217T110656" />
+	</game>
+	<game>
+		<path>./MO5/TOSEC/Games/[SAP]/Cross Horde (2021-04-16)(Caruso, Fabrizio)/Cross Horde (2021-04-16)(Caruso, Fabrizio).sap</path>
+		<name>Cross Horde (2021-04-16)(Caruso, Fabrizio)</name>
+		<crc32>A5FF64AF</crc32>
+		<md5>c43cb73c8a8ec8bd79ecbc89b9d4371d</md5>
+		<scrap name="ScreenScraper" date="20230217T110658" />
+	</game>
+	<game>
+		<path>./MO5/TOSEC/Games/[SAP]/Cross Horde (2021-04-25)(Caruso, Fabrizio)/Cross Horde (2021-04-25)(Caruso, Fabrizio).sap</path>
+		<name>Cross Horde (2021-04-25)(Caruso, Fabrizio)</name>
+		<crc32>72A895C7</crc32>
+		<md5>047ef3eb38246198921e7a77074f5809</md5>
+		<scrap name="ScreenScraper" date="20230217T110700" />
+	</game>
+	<game>
+		<path>./MO5/TOSEC/Games/[SAP]/Cross Horde (2022-04-29)(Caruso, Fabrizio)/Cross Horde (2022-04-29)(Caruso, Fabrizio).sap</path>
+		<name>Cross Horde (2022-04-29)(Caruso, Fabrizio)</name>
+		<crc32>A14ED3DD</crc32>
+		<md5>29b7552f4863e1fcc603ac18b049088a</md5>
+		<scrap name="ScreenScraper" date="20230217T110702" />
+	</game>
+	<game>
+		<path>./MO5/TOSEC/Games/[SAP]/Cross Horde v1.0 (2021-05-01)(Caruso, Fabrizio)/Cross Horde v1.0 (2021-05-01)(Caruso, Fabrizio).sap</path>
+		<name>Cross Horde v1.0 (2021-05-01)(Caruso, Fabrizio)</name>
+		<crc32>FA761E1C</crc32>
+		<md5>5deec9ad379b544c5d98a39936c8b151</md5>
+		<scrap name="ScreenScraper" date="20230217T110704" />
+	</game>
+	<game>
+		<path>./MO5/TOSEC/Games/[SAP]/Cross Shoot (2022-04-29)(Caruso, Fabrizio)/Cross Shoot (2022-04-29)(Caruso, Fabrizio).sap</path>
+		<name>Cross Shoot (2022-04-29)(Caruso, Fabrizio)</name>
+		<crc32>4064E278</crc32>
+		<md5>0f83f0d9b0d42b098410d010e8bae299</md5>
+		<scrap name="ScreenScraper" date="20230217T110706" />
+	</game>
+	<game>
+		<path>./MO5/TOSEC/Games/[SAP]/Cross Snake (2022-04-29)(Caruso, Fabrizio)/Cross Snake (2022-04-29)(Caruso, Fabrizio).sap</path>
+		<name>Cross Snake (2022-04-29)(Caruso, Fabrizio)</name>
+		<crc32>D2ADECF2</crc32>
+		<md5>34d427088b6cafb61a73efceba56dfcf</md5>
+		<scrap name="ScreenScraper" date="20230217T110708" />
+	</game>
+	<game>
+		<path>./MO5/TOSEC/Games/[SAP]/Cross Snake Preview (2020-12-05)(Caruso, Fabrizio)/Cross Snake Preview (2020-12-05)(Caruso, Fabrizio).sap</path>
+		<name>Cross Snake Preview (2020-12-05)(Caruso, Fabrizio)</name>
+		<crc32>8ED8D9BA</crc32>
+		<md5>32253de59c973ce224c7df8af25778b0</md5>
+		<scrap name="ScreenScraper" date="20230217T110710" />
+	</game>
+	<game>
+		<path>./MO5/TOSEC/Games/[SAP]/Cross Snake v1.0 (2020-12-12)(Caruso, Fabrizio)/Cross Snake v1.0 (2020-12-12)(Caruso, Fabrizio).sap</path>
+		<name>Cross Snake v1.0 (2020-12-12)(Caruso, Fabrizio)</name>
+		<crc32>190BD9A4</crc32>
+		<md5>ede52f0e0424b66d144a58fac645abf6</md5>
+		<scrap name="ScreenScraper" date="20230217T110712" />
+	</game>
+	<game>
+		<path>./MO5/TOSEC/Games/[SAP]/Cross Snake v2.0 (2020-12-31)(Caruso, Fabrizio)/Cross Snake v2.0 (2020-12-31)(Caruso, Fabrizio).sap</path>
+		<name>Cross Snake v2.0 (2020-12-31)(Caruso, Fabrizio)</name>
+		<crc32>64B2A40B</crc32>
+		<md5>d1660bbd0ecdf53c0c6af2a0b068f7bd</md5>
+		<scrap name="ScreenScraper" date="20230217T110714" />
+	</game>
+	<game>
+		<path>./MO5/TOSEC/Operating Systems/[FD]/3'5 Disk BASIC v1.0 (1985)(Microsoft)[3.5'']/3'5 Disk BASIC v1.0 (1985)(Microsoft)[3.5''].fd</path>
+		<name>3'5 Disk BASIC v1.0 (1985)(Microsoft)[3.5'']</name>
+		<crc32>D3BDC693</crc32>
+		<md5>de99e30637a736447852ddcfc1a1c5e3</md5>
+		<scrap name="ScreenScraper" date="20230217T110715" />
+	</game>
+	<game>
+		<path>./MO5/TOSEC/Operating Systems/[FD]/MO5 Disk BASIC v1.0 (1985)(Microsoft)[5.25'' SD]/MO5 Disk BASIC v1.0 (1985)(Microsoft)[5.25'' SD].fd</path>
+		<name>MO5 Disk BASIC v1.0 (1985)(Microsoft)[5.25'' SD]</name>
+		<crc32>A51BF32B</crc32>
+		<md5>a5ee7e4f87c13f015635964939f50d88</md5>
+		<scrap name="ScreenScraper" date="20230217T110717" />
+	</game>
+	<game>
+		<path>./MO5/TOSEC/Operating Systems/[FD]/MO5 Disk BASIC v1.1 (1985)(Microsoft)[5.25'' DD]/MO5 Disk BASIC v1.1 (1985)(Microsoft)[5.25'' DD].fd</path>
+		<name>MO5 Disk BASIC v1.1 (1985)(Microsoft)[5.25'' DD]</name>
+		<crc32>BA22A699</crc32>
+		<md5>ac0f69bd05ad16786eeb4c98466c9aef</md5>
+		<scrap name="ScreenScraper" date="20230217T110720" />
+	</game>
+	<game>
+		<path>./MO5/TOSEC/Operating Systems/[SAP]/MO5 Disk BASIC v1.1 (1985)(Microsoft)[3.5'']/MO5 Disk BASIC v1.1 (1985)(Microsoft)[3.5''].sap</path>
+		<name>MO5 Disk BASIC v1.1 (1985)(Microsoft)[3.5'']</name>
+		<crc32>BA25C82C</crc32>
+		<md5>8d7f851462e95221160f44f2c269af38</md5>
+		<scrap name="ScreenScraper" date="20230217T110721" />
+	</game>
+	<game id="113856">
+		<path>./MO6/TOSEC/Games/5eme Axe (1985)(Loriciels)[b]/5eme Axe (1985)(Loriciels)[b].k7</path>
+		<name>5eme Axe</name>
+		<image>./images/5eme Axe (1985)(Loriciels)[b]-image.png</image>
+		<video>./videos/5eme Axe (1985)(Loriciels)[b]-video.mp4</video>
+		<marquee>./images/5eme Axe (1985)(Loriciels)[b]-marquee.png</marquee>
+		<thumbnail>./images/5eme Axe (1985)(Loriciels)[b]-thumb.png</thumbnail>
+		<boxback>./images/5eme Axe (1985)(Loriciels)[b]-boxback.png</boxback>
+		<developer>Didier Guillon, Olivier Guillion</developer>
+		<publisher>Loriciels</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<crc32>844284DC</crc32>
+		<md5>0f59f0818c47dc04f5469c552859b4d4</md5>
+		<lang>fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230217T110723" />
+	</game>
+	<game id="113753">
+		<path>./MO6/TOSEC/Games/Blue Star (1987)(Free Game Blot)/Blue Star (1987)(Free Game Blot).k7</path>
+		<name>Blue Star</name>
+		<image>./images/Blue Star (1987)(Free Game Blot)-image.png</image>
+		<video>./videos/Blue Star (1987)(Free Game Blot)-video.mp4</video>
+		<thumbnail>./images/Blue Star (1987)(Free Game Blot)-thumb.png</thumbnail>
+		<boxback>./images/Blue Star (1987)(Free Game Blot)-boxback.png</boxback>
+		<developer>L. Giacinti</developer>
+		<publisher>Free Game Blot</publisher>
+		<crc32>07F0944B</crc32>
+		<md5>2536eb99cff476c55f7cefb237812726</md5>
+		<lang>fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230217T110726" />
+	</game>
+	<game id="113754">
+		<path>./MO6/TOSEC/Games/Blue War (1986)(Free Game Blot)/Blue War (1986)(Free Game Blot).k7</path>
+		<name>Blue War</name>
+		<image>./images/Blue War (1986)(Free Game Blot)-image.png</image>
+		<thumbnail>./images/Blue War (1986)(Free Game Blot)-thumb.png</thumbnail>
+		<boxback>./images/Blue War (1986)(Free Game Blot)-boxback.png</boxback>
+		<developer>Alain Guiri</developer>
+		<publisher>Free Game Blot</publisher>
+		<crc32>4ACA3466</crc32>
+		<md5>fb9035bb019b683ad382c6dc0ad9fc3d</md5>
+		<lang>fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230217T110728" />
+	</game>
+	<game id="113457">
+		<path>./MO6/TOSEC/Games/Bomber (19xx)(Hebdogiciel)(PD)/Bomber (19xx)(Hebdogiciel)(PD).k7</path>
+		<name>Bomber</name>
+		<image>./images/Bomber (19xx)(Hebdogiciel)(PD)-image.png</image>
+		<video>./videos/Bomber (19xx)(Hebdogiciel)(PD)-video.mp4</video>
+		<marquee>./images/Bomber (19xx)(Hebdogiciel)(PD)-marquee.png</marquee>
+		<thumbnail>./images/Bomber (19xx)(Hebdogiciel)(PD)-thumb.png</thumbnail>
+		<developer>Alain Riboud</developer>
+		<publisher>Hebdogiciel</publisher>
+		<crc32>1ADD4DE5</crc32>
+		<md5>c086df4bb7ae5b5f6eb80d076abdd326</md5>
+		<lang>fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230217T110730" />
+	</game>
+	<game id="113531">
+		<path>./MO6/TOSEC/Games/Isabelle et le Dragon (19xx)(Hebdogiciel)(PD)/Isabelle et le Dragon (19xx)(Hebdogiciel)(PD).k7</path>
+		<name>Isabelle et le Dragon</name>
+		<image>./images/Isabelle et le Dragon (19xx)(Hebdogiciel)(PD)-image.png</image>
+		<publisher>Hebdogiciel</publisher>
+		<crc32>2D19F913</crc32>
+		<md5>b858ba72357b3bffd18be37abe0f67be</md5>
+		<lang>fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230217T110733" />
+	</game>
+	<game id="113616">
+		<path>./MO6/TOSEC/Games/Mission U72 (19xx)(Hebdogiciel)(PD)/Mission U72 (19xx)(Hebdogiciel)(PD).k7</path>
+		<name>Mission U72</name>
+		<image>./images/Mission U72 (19xx)(Hebdogiciel)(PD)-image.png</image>
+		<developer>Olivier Andr</developer>
+		<publisher>Hebdogiciel</publisher>
+		<crc32>7711543F</crc32>
+		<md5>d832fb8d18c0af488e9f39900c260110</md5>
+		<lang>fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230217T110736" />
+	</game>
+	<game id="113647">
+		<path>./MO6/TOSEC/Games/Quad (19xx)(Microid)[nb]/Quad (19xx)(Microid)[nb].k7</path>
+		<name>Quad</name>
+		<image>./images/Quad (19xx)(Microid)[nb]-image.png</image>
+		<video>./videos/Quad (19xx)(Microid)[nb]-video.mp4</video>
+		<thumbnail>./images/Quad (19xx)(Microid)[nb]-thumb.png</thumbnail>
+		<boxback>./images/Quad (19xx)(Microid)[nb]-boxback.png</boxback>
+		<publisher>Microïds</publisher>
+		<crc32>2E9EEC90</crc32>
+		<md5>2e1009537a3ffa9b96fd2339c576b966</md5>
+		<lang>fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230217T110738" />
+	</game>
+	<game>
+		<path>./TO7/TOSEC/Applications/[K7]/Bras (198x)(Huet, Sylvain)/Bras (198x)(Huet, Sylvain).k7</path>
+		<name>Bras (198x)(Huet, Sylvain)</name>
+		<crc32>59D20D24</crc32>
+		<md5>99e9655f1ef9a3cebe0bd6254f428289</md5>
+		<scrap name="ScreenScraper" date="20230217T110740" />
+	</game>
+	<game>
+		<path>./TO7/TOSEC/Applications/[K7]/Code-ssc (198x)(Huet, Sylvain)(PD)[password required]/Code-ssc (198x)(Huet, Sylvain)(PD)[password required].k7</path>
+		<name>Code-ssc (198x)(Huet, Sylvain)(PD)[password required]</name>
+		<crc32>34AED8B3</crc32>
+		<md5>9dc8dfbe1e9b04c2b0aa0bc59dec6257</md5>
+		<scrap name="ScreenScraper" date="20230217T110742" />
+	</game>
+	<game id="119100">
+		<path>./TO7/TOSEC/Games/[K7]/Bubul (198x)(Huet, Sylvain)(PD)/Bubul (198x)(Huet, Sylvain)(PD).k7</path>
+		<name>Bubul</name>
+		<publisher>Huet, Sylvain</publisher>
+		<crc32>C0D91547</crc32>
+		<md5>6141342fa668d9ebcf2bb3c7f0e2ca2a</md5>
+		<lang>fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230217T110745" />
+	</game>
+	<game id="119115">
+		<path>./TO7/TOSEC/Games/[K7]/Dungeons &amp; Dragons (198x)(Huet, Sylvain)(PD)/Dungeons &amp; Dragons (198x)(Huet, Sylvain)(PD).k7</path>
+		<name>Dungeons &amp; Dragons</name>
+		<publisher>Huet, Sylvain</publisher>
+		<family>Dungeons &amp; Dragons</family>
+		<crc32>F3A92D41</crc32>
+		<md5>f2192a49fe807c342c8b43862d13d691</md5>
+		<lang>fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230217T110747" />
+	</game>
+	<game id="119118">
+		<path>./TO7/TOSEC/Games/[K7]/Flight (198x)(Huet, Sylvain)(PD)/Flight (198x)(Huet, Sylvain)(PD).k7</path>
+		<name>Flight</name>
+		<image>./images/Flight (198x)(Huet, Sylvain)(PD)-image.png</image>
+		<publisher>Huet, Sylvain</publisher>
+		<crc32>0B7E76BF</crc32>
+		<md5>0116aaf2e5609333378fc28f329c0ca2</md5>
+		<lang>fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230217T110750" />
+	</game>
+	<game>
+		<path>./TO7/TOSEC/Games/[SAP]/Cross Bomber (2020-08-26)(Caruso, Fabrizio)/Cross Bomber (2020-08-26)(Caruso, Fabrizio).sap</path>
+		<name>Cross Bomber (2020-08-26)(Caruso, Fabrizio)</name>
+		<crc32>D017DE7F</crc32>
+		<md5>317726b9e6b0251ca2ab6aafa0e02a4b</md5>
+		<scrap name="ScreenScraper" date="20230217T110752" />
+	</game>
+	<game>
+		<path>./TO7/TOSEC/Games/[SAP]/Cross Bomber (2021-05-13)(Caruso, Fabrizio)/Cross Bomber (2021-05-13)(Caruso, Fabrizio).sap</path>
+		<name>Cross Bomber (2021-05-13)(Caruso, Fabrizio)</name>
+		<crc32>027349B1</crc32>
+		<md5>d1428fa626e823da3f3514286deaa9f3</md5>
+		<scrap name="ScreenScraper" date="20230217T110754" />
+	</game>
+	<game>
+		<path>./TO7/TOSEC/Games/[SAP]/Cross Bomber (2022-04-29)(Caruso, Fabrizio)/Cross Bomber (2022-04-29)(Caruso, Fabrizio).sap</path>
+		<name>Cross Bomber (2022-04-29)(Caruso, Fabrizio)</name>
+		<crc32>3A384469</crc32>
+		<md5>12359b77f7203404f8c1bd9a3a782bc8</md5>
+		<scrap name="ScreenScraper" date="20230217T110756" />
+	</game>
+	<game>
+		<path>./TO7/TOSEC/Games/[SAP]/Cross Chase (2020-04-02)(Caruso, Fabrizio)/Cross Chase (2020-04-02)(Caruso, Fabrizio).sap</path>
+		<name>Cross Chase (2020-04-02)(Caruso, Fabrizio)</name>
+		<crc32>0F7EA891</crc32>
+		<md5>371ee0dd22ff91756ce09e12e3c95d38</md5>
+		<scrap name="ScreenScraper" date="20230217T110758" />
+	</game>
+	<game>
+		<path>./TO7/TOSEC/Games/[SAP]/Cross Chase (2021-05-13)(Caruso, Fabrizio)/Cross Chase (2021-05-13)(Caruso, Fabrizio).sap</path>
+		<name>Cross Chase (2021-05-13)(Caruso, Fabrizio)</name>
+		<crc32>74AB4A7D</crc32>
+		<md5>14e55f3b42b3853736c6ee3b62e2ff8b</md5>
+		<scrap name="ScreenScraper" date="20230217T110800" />
+	</game>
+	<game>
+		<path>./TO7/TOSEC/Games/[SAP]/Cross Chase (2022-04-29)(Caruso, Fabrizio)/Cross Chase (2022-04-29)(Caruso, Fabrizio).sap</path>
+		<name>Cross Chase (2022-04-29)(Caruso, Fabrizio)</name>
+		<crc32>7DD8A9D4</crc32>
+		<md5>9b6cf8a3a2bf4bd0bc5d955024b74f95</md5>
+		<scrap name="ScreenScraper" date="20230217T110802" />
+	</game>
+	<game>
+		<path>./TO7/TOSEC/Games/[SAP]/Cross Horde (2021-04-16)(Caruso, Fabrizio)/Cross Horde (2021-04-16)(Caruso, Fabrizio).sap</path>
+		<name>Cross Horde (2021-04-16)(Caruso, Fabrizio)</name>
+		<crc32>610C0F54</crc32>
+		<md5>db15a5ed0edf0c3a7efe33f1d02aab35</md5>
+		<scrap name="ScreenScraper" date="20230217T110804" />
+	</game>
+	<game>
+		<path>./TO7/TOSEC/Games/[SAP]/Cross Horde (2021-04-25)(Caruso, Fabrizio)/Cross Horde (2021-04-25)(Caruso, Fabrizio).sap</path>
+		<name>Cross Horde (2021-04-25)(Caruso, Fabrizio)</name>
+		<crc32>5B56BF24</crc32>
+		<md5>3a7d688285994dd3f37fc3cb0769aab7</md5>
+		<scrap name="ScreenScraper" date="20230217T110806" />
+	</game>
+	<game>
+		<path>./TO7/TOSEC/Games/[SAP]/Cross Horde (2022-04-29)(Caruso, Fabrizio)/Cross Horde (2022-04-29)(Caruso, Fabrizio).sap</path>
+		<name>Cross Horde (2022-04-29)(Caruso, Fabrizio)</name>
+		<crc32>28F365DE</crc32>
+		<md5>53c32cd07fb7941fa5b94cf63ff81887</md5>
+		<scrap name="ScreenScraper" date="20230217T110808" />
+	</game>
+	<game>
+		<path>./TO7/TOSEC/Games/[SAP]/Cross Horde v1.0 (2021-05-01)(Caruso, Fabrizio)/Cross Horde v1.0 (2021-05-01)(Caruso, Fabrizio).sap</path>
+		<name>Cross Horde v1.0 (2021-05-01)(Caruso, Fabrizio)</name>
+		<crc32>73C71D8B</crc32>
+		<md5>a58654b8013bd95f34b955b22428755d</md5>
+		<scrap name="ScreenScraper" date="20230217T110809" />
+	</game>
+	<game>
+		<path>./TO7/TOSEC/Games/[SAP]/Cross Shoot (2022-04-29)(Caruso, Fabrizio)/Cross Shoot (2022-04-29)(Caruso, Fabrizio).sap</path>
+		<name>Cross Shoot (2022-04-29)(Caruso, Fabrizio)</name>
+		<crc32>5384D2C1</crc32>
+		<md5>58c16d32c87f977374eb800a57a62a88</md5>
+		<scrap name="ScreenScraper" date="20230217T110811" />
+	</game>
+	<game>
+		<path>./TO7/TOSEC/Games/[SAP]/Cross Snake (2022-04-29)(Caruso, Fabrizio)/Cross Snake (2022-04-29)(Caruso, Fabrizio).sap</path>
+		<name>Cross Snake (2022-04-29)(Caruso, Fabrizio)</name>
+		<crc32>E5A2CE22</crc32>
+		<md5>c10b3c2ed10cfd0ef1b8d060a30bc9a4</md5>
+		<scrap name="ScreenScraper" date="20230217T110813" />
+	</game>
+	<game>
+		<path>./TO7/TOSEC/Games/[SAP]/Cross Snake v1.0 (2020-12-12)(Caruso, Fabrizio)/Cross Snake v1.0 (2020-12-12)(Caruso, Fabrizio).sap</path>
+		<name>Cross Snake v1.0 (2020-12-12)(Caruso, Fabrizio)</name>
+		<crc32>411C6496</crc32>
+		<md5>0d898c010decd07aaad40fc0e4d9ac43</md5>
+		<scrap name="ScreenScraper" date="20230217T110815" />
+	</game>
+	<game>
+		<path>./TO7/TOSEC/Games/[SAP]/Cross Snake v2.0 (2020-12-31)(Caruso, Fabrizio)/Cross Snake v2.0 (2020-12-31)(Caruso, Fabrizio).sap</path>
+		<name>Cross Snake v2.0 (2020-12-31)(Caruso, Fabrizio)</name>
+		<crc32>9A708225</crc32>
+		<md5>0805559ef002616ffa1aae2a1585c857</md5>
+		<scrap name="ScreenScraper" date="20230217T110818" />
+	</game>
+	<game>
+		<path>./TO7/TOSEC/Operating Systems/[FD]/3''1-2 Disk BASIC v1.1 (1986)(Microsoft)[3.5'']/3''1-2 Disk BASIC v1.1 (1986)(Microsoft)[3.5''].fd</path>
+		<name>3''1-2 Disk BASIC v1.1 (1986)(Microsoft)[3.5'']</name>
+		<crc32>F291912B</crc32>
+		<md5>8dddadbfb31ea757d65ae01031559d00</md5>
+		<scrap name="ScreenScraper" date="20230217T110820" />
+	</game>
+	<game>
+		<path>./TO7/TOSEC/Operating Systems/[FD]/TO7 Disk BASIC v1.0 (1983)(Microsoft)[5.25'' SD]/TO7 Disk BASIC v1.0 (1983)(Microsoft)[5.25'' SD].fd</path>
+		<name>TO7 Disk BASIC v1.0 (1983)(Microsoft)[5.25'' SD]</name>
+		<crc32>27D64E76</crc32>
+		<md5>4b1d3626fa4a119a20b2d0fd85bf3151</md5>
+		<scrap name="ScreenScraper" date="20230217T110822" />
+	</game>
+	<game>
+		<path>./TO8, TO8D, TO9, TO9+/TOSEC/Applications/[FD]/Mega Tetes (19xx)(-)/Mega Tetes (19xx)(-).fd</path>
+		<name>Mega Tetes (19xx)(-)</name>
+		<crc32>609582CD</crc32>
+		<md5>97a648b69ff1492fbfb152dc97a03bf9</md5>
+		<scrap name="ScreenScraper" date="20230217T110824" />
+	</game>
+	<game>
+		<path>./TO8, TO8D, TO9, TO9+/TOSEC/Applications/[SAP]/SystemePPM v6.8 (2000)(Bledor-Soft)(PD)(Disk 2 of 2)/SystemePPM v6.8 (2000)(Bledor-Soft)(PD)(Disk 2 of 2).sap</path>
+		<name>SystemePPM v6.8 (2000)(Bledor-Soft)(PD)(Disk 2 of 2)</name>
+		<crc32>82D4BB6D</crc32>
+		<md5>6d545932aa815c494184a0b956d41d70</md5>
+		<scrap name="ScreenScraper" date="20230217T110826" />
+	</game>
+	<game>
+		<path>./TO8, TO8D, TO9, TO9+/TOSEC/Applications/[SAP]/SystemePPM v6.9 (2000)(Bledor-Soft)(PD)(Disk 1 of 2)[boot disk]/SystemePPM v6.9 (2000)(Bledor-Soft)(PD)(Disk 1 of 2)[boot disk].sap</path>
+		<name>SystemePPM v6.9 (2000)(Bledor-Soft)(PD)(Disk 1 of 2)[boot disk]</name>
+		<crc32>ED6881F8</crc32>
+		<md5>96f8b1cba677dde83d254dc4d07cec11</md5>
+		<scrap name="ScreenScraper" date="20230217T110828" />
+	</game>
+	<game>
+		<path>./TO8, TO8D, TO9, TO9+/TOSEC/Applications/[SAP]/SystemePPM v6.9 (2000)(Bledor-Soft)(PD)(Disk 2 of 2)/SystemePPM v6.9 (2000)(Bledor-Soft)(PD)(Disk 2 of 2).sap</path>
+		<name>SystemePPM v6.9 (2000)(Bledor-Soft)(PD)(Disk 2 of 2)</name>
+		<crc32>1A954A0B</crc32>
+		<md5>d1d003cf977aafd8e58243033fde22fd</md5>
+		<scrap name="ScreenScraper" date="20230217T110830" />
+	</game>
+	<game>
+		<path>./TO8, TO8D, TO9, TO9+/TOSEC/Applications/[SAP]/SystemePPM v7.0 (2000)(Bledor-Soft)(PD)(Disk 1 of 3)[boot disk]/SystemePPM v7.0 (2000)(Bledor-Soft)(PD)(Disk 1 of 3)[boot disk].sap</path>
+		<name>SystemePPM v7.0 (2000)(Bledor-Soft)(PD)(Disk 1 of 3)[boot disk]</name>
+		<crc32>7DDB32F4</crc32>
+		<md5>c2e754e600587bbdc5bf6b18cd3ec5cf</md5>
+		<scrap name="ScreenScraper" date="20230217T110832" />
+	</game>
+	<game>
+		<path>./TO8, TO8D, TO9, TO9+/TOSEC/Applications/[SAP]/SystemePPM v7.0 (2000)(Bledor-Soft)(PD)(Disk 2 of 3)/SystemePPM v7.0 (2000)(Bledor-Soft)(PD)(Disk 2 of 3).sap</path>
+		<name>SystemePPM v7.0 (2000)(Bledor-Soft)(PD)(Disk 2 of 3)</name>
+		<crc32>20F385EF</crc32>
+		<md5>c38ecec5f5c98e9e8cf16b7ba58578f6</md5>
+		<scrap name="ScreenScraper" date="20230217T110834" />
+	</game>
+	<game>
+		<path>./TO8, TO8D, TO9, TO9+/TOSEC/Applications/[SAP]/SystemePPM v7.0 (2000)(Bledor-Soft)(PD)(Disk 3 of 3)/SystemePPM v7.0 (2000)(Bledor-Soft)(PD)(Disk 3 of 3).sap</path>
+		<name>SystemePPM v7.0 (2000)(Bledor-Soft)(PD)(Disk 3 of 3)</name>
+		<crc32>2F4DE5C9</crc32>
+		<md5>d92f0d4770eaeedc897512f8ff1cc9f1</md5>
+		<scrap name="ScreenScraper" date="20230217T110836" />
+	</game>
+	<game>
+		<path>./TO8, TO8D, TO9, TO9+/TOSEC/Applications/[SAP]/UCSD Pascal (19xx)(UCSD)(Disk 1 of 2)[b][chg file]/UCSD Pascal (19xx)(UCSD)(Disk 1 of 2)[b][chg file].sap</path>
+		<name>UCSD Pascal (19xx)(UCSD)(Disk 1 of 2)[b][chg file]</name>
+		<crc32>1DB3593E</crc32>
+		<md5>eb5a5e3c989adcdec872eb2668145261</md5>
+		<scrap name="ScreenScraper" date="20230217T110838" />
+	</game>
+	<game>
+		<path>./TO8, TO8D, TO9, TO9+/TOSEC/Applications/[SAP]/UCSD Pascal (19xx)(UCSD)(Disk 2 of 2)[b]/UCSD Pascal (19xx)(UCSD)(Disk 2 of 2)[b].sap</path>
+		<name>UCSD Pascal (19xx)(UCSD)(Disk 2 of 2)[b]</name>
+		<crc32>8A05AD77</crc32>
+		<md5>b284c8cb5a7817000677107adebb3d1a</md5>
+		<scrap name="ScreenScraper" date="20230217T110841" />
+	</game>
+	<game>
+		<path>./TO8, TO8D, TO9, TO9+/TOSEC/Educational/[FD]/Grammaire - Langue Francaise 6e (1987)(Cedic-Nathan)/Grammaire - Langue Francaise 6e (1987)(Cedic-Nathan).fd</path>
+		<name>Grammaire - Langue Francaise 6e (1987)(Cedic-Nathan)</name>
+		<crc32>DECC5539</crc32>
+		<md5>c032c94908f44108745503145e85c8a2</md5>
+		<scrap name="ScreenScraper" date="20230217T110842" />
+	</game>
+	<game>
+		<path>./TO8, TO8D, TO9, TO9+/TOSEC/Educational/[SAP]/Encyclopaedia Thomsonis - Mammiferes Vol 3-1 (1998)(Bledor-Soft - Serveur 87)(PD)(Disk 1 of 2)/Encyclopaedia Thomsonis - Mammiferes Vol 3-1 (1998)(Bledor-Soft - Serveur 87)(PD)(Disk 1 of 2).sap</path>
+		<name>Encyclopaedia Thomsonis - Mammiferes Vol 3-1 (1998)(Bledor-Soft - Serveur 87)(PD)(Disk 1 of 2)</name>
+		<scrap name="ScreenScraper" date="20230217T110844" />
+	</game>
+	<game>
+		<path>./TO8, TO8D, TO9, TO9+/TOSEC/Educational/[SAP]/Encyclopaedia Thomsonis - Mammiferes Vol 3-1 (1998)(Bledor-Soft - Serveur 87)(PD)(Disk 2 of 2)/Encyclopaedia Thomsonis - Mammiferes Vol 3-1 (1998)(Bledor-Soft - Serveur 87)(PD)(Disk 2 of 2).sap</path>
+		<name>Encyclopaedia Thomsonis - Mammiferes Vol 3-1 (1998)(Bledor-Soft - Serveur 87)(PD)(Disk 2 of 2)</name>
+		<scrap name="ScreenScraper" date="20230217T110845" />
+	</game>
+	<game id="113816">
+		<path>./TO8, TO8D, TO9, TO9+/TOSEC/Games/[FD]/Grand-Siecle (1987)(Free Game Blot)/Grand-Siecle (1987)(Free Game Blot).fd</path>
+		<name>Grand Siècle</name>
+		<image>./images/Grand-Siecle (1987)(Free Game Blot)-image.png</image>
+		<thumbnail>./images/Grand-Siecle (1987)(Free Game Blot)-thumb.png</thumbnail>
+		<boxback>./images/Grand-Siecle (1987)(Free Game Blot)-boxback.png</boxback>
+		<developer>Eric et Isabelle Gurgey</developer>
+		<publisher>Free Game Blot</publisher>
+		<crc32>3D02054C</crc32>
+		<md5>63373ba49f0c88ff50f7e956399008cb</md5>
+		<lang>fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230217T110848" />
+	</game>
+	<game id="113972">
+		<path>./TO8, TO8D, TO9, TO9+/TOSEC/Games/[FD]/Sokoban (19xx)(Breaker, John)/Sokoban (19xx)(Breaker, John).fd</path>
+		<name>Sokoban</name>
+		<image>./images/Sokoban (19xx)(Breaker, John)-image.png</image>
+		<developer>John Breaker</developer>
+		<crc32>DA657210</crc32>
+		<md5>df8e632e114067fd146a1568f28918ff</md5>
+		<lang>fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230217T110850" />
+	</game>
+	<game id="113997">
+		<path>./TO8, TO8D, TO9, TO9+/TOSEC/Games/[FD]/Tetris (19xx)(Breaker, John)/Tetris (19xx)(Breaker, John).fd</path>
+		<name>Tetris Jb</name>
+		<image>./images/Tetris (19xx)(Breaker, John)-image.png</image>
+		<video>./videos/Tetris (19xx)(Breaker, John)-video.mp4</video>
+		<thumbnail>./images/Tetris (19xx)(Breaker, John)-thumb.png</thumbnail>
+		<developer>John Breaker</developer>
+		<family>Tetris</family>
+		<crc32>A8B466C6</crc32>
+		<md5>56a690d99bb54d8a94fc2149ea8654e5</md5>
+		<lang>fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230217T110853" />
+	</game>
+	<game id="114010">
+		<path>./TO8, TO8D, TO9, TO9+/TOSEC/Games/[FD]/Turlogh de Penroth (1988)(Cobra Soft)[cr A. Hitler]/Turlogh de Penroth (1988)(Cobra Soft)[cr A. Hitler].fd</path>
+		<name>Turlogh de Penroth</name>
+		<image>./images/Turlogh de Penroth (1988)(Cobra Soft)[cr A. Hitler]-image.png</image>
+		<video>./videos/Turlogh de Penroth (1988)(Cobra Soft)[cr A. Hitler]-video.mp4</video>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Jean-Michel Baudequin</developer>
+		<publisher>Cobra Soft</publisher>
+		<crc32>85201F45</crc32>
+		<md5>f8f81f945aaad6fbfe7e2db1905302c1</md5>
+		<lang>fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230217T110855" />
+	</game>
+	<game id="119127">
+		<path>./TO8, TO8D, TO9, TO9+/TOSEC/Games/[SAP]/Jack-Pot (199x)(Wolff, Y.)(PD)[non-bootable]/Jack-Pot (199x)(Wolff, Y.)(PD)[non-bootable].sap</path>
+		<name>Jack-Pot</name>
+		<image>./images/Jack-Pot (199x)(Wolff, Y.)(PD)[non-bootable]-image.png</image>
+		<publisher>Wolff, Y.</publisher>
+		<genre>Casino / Slot machine</genre>
+		<players>1</players>
+		<crc32>C5B1A2E6</crc32>
+		<md5>18b89252f5ccdfdbaa6c371e37a5dfed</md5>
+		<lang>fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230217T110857" />
+	</game>
+	<game id="119176">
+		<path>./TO8, TO8D, TO9, TO9+/TOSEC/Games/[SAP]/Star-Trek (198x)(-)(PD)/Star-Trek (198x)(-)(PD).sap</path>
+		<name>Star-Trek</name>
+		<image>./images/Star-Trek (198x)(-)(PD)-image.png</image>
+		<marquee>./images/Star-Trek (198x)(-)(PD)-marquee.png</marquee>
+		<crc32>23D72076</crc32>
+		<md5>23b38db54b35e11ef7bf7337182601cd</md5>
+		<lang>fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230217T110900" />
+	</game>
+	<game id="119176">
+		<path>./TO8, TO8D, TO9, TO9+/TOSEC/Games/[SAP]/Star-Trek (198x)(-)(PD)[a]/Star-Trek (198x)(-)(PD)[a].sap</path>
+		<name>Star-Trek</name>
+		<image>./images/Star-Trek (198x)(-)(PD)[a]-image.png</image>
+		<marquee>./images/Star-Trek (198x)(-)(PD)[a]-marquee.png</marquee>
+		<crc32>84A7DA1C</crc32>
+		<md5>66f8501ab823e582fe541f28c839a10d</md5>
+		<lang>fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230217T110902" />
+	</game>
+	<game id="114010">
+		<path>./TO8, TO8D, TO9, TO9+/TOSEC/Games/[SAP]/Turlogh de Penroth (1988)(Cobra Soft)[cr A. Hitler]/Turlogh de Penroth (1988)(Cobra Soft)[cr A. Hitler].sap</path>
+		<name>Turlogh de Penroth</name>
+		<image>./images/Turlogh de Penroth (1988)(Cobra Soft)[cr A. Hitler]-image.png</image>
+		<video>./videos/Turlogh de Penroth (1988)(Cobra Soft)[cr A. Hitler]-video.mp4</video>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Jean-Michel Baudequin</developer>
+		<publisher>Cobra Soft</publisher>
+		<crc32>AB5B1EF2</crc32>
+		<md5>a17791bfc0f7f52d0331baa07ad3adcd</md5>
+		<lang>fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230217T110904" />
+	</game>
+</gameList>

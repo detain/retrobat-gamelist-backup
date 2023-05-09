@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./No-Intro/Fire Lancer (USA) (Demo) (2018-12-25) (Aftermarket) (Unl).wsc</path>
+		<name>Fire Lancer</name>
+		<rating>0</rating>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>02882FFE</crc32>
+		<md5>f94293c253b319244167722160e7ab86</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230228T211851" />
+	</game>
+	<game>
+		<path>./No-Intro/Fire Lancer (USA) (Demo) (2019-01-03) (Aftermarket) (Unl).wsc</path>
+		<name>Fire Lancer</name>
+		<rating>0</rating>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>2399F778</crc32>
+		<md5>72869347ffb792af0761f2ab0aa15fc3</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230228T211852" />
+	</game>
+	<game>
+		<path>./No-Intro/Flash Masta Firmware (USA) (2016-05-13).wsc</path>
+		<name>Flash Masta Firmware</name>
+		<rating>0</rating>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>AABCE377</crc32>
+		<md5>13bf6cd03774fb7ddb70d62813aa89b9</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230228T211854" />
+	</game>
+	<game>
+		<path>./No-Intro/Flash Masta Firmware (USA) (2016-08-29) (Unl).wsc</path>
+		<name>Flash Masta Firmware</name>
+		<rating>0</rating>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>C071D240</crc32>
+		<md5>53a132ba86468f4b94ba5677ba8e6005</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230228T211855" />
+	</game>
+</gameList>

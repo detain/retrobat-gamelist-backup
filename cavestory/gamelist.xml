@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Cave Story (en)/Doukutsu.exe</path>
+		<name>Cave Story (En)</name>
+		<desc>Cave Story takes you into a rare world where a curious race of innocent, rabbit-like creatures called Mimiga run free. You wake up in a dark cave with no memory of who you are, where you came from or why you're in such a place. Uncovering Mimiga Village, you discover that the once-carefree Mimiga are in danger at the hands of a maniacal scientist. Their only hope rests squarely on the shoulders of a quiet, amnesiac boy who can't remember his own name. Take control, learn the origins of this world's power, stop the delusional villain and save the Mimiga.</desc>
+		<image>./images/Doukutsu-thumb.png</image>
+		<video>./videos/Doukutsu-video.mp4</video>
+		<marquee>./images/Doukutsu-marquee.png</marquee>
+		<thumbnail>./images/Doukutsu-image.png</thumbnail>
+		<manual>./manuals/Doukutsu-manual.pdf</manual>
+		<rating>0.9</rating>
+		<releasedate>20041220T000000</releasedate>
+		<developer>Pixel Studios</developer>
+		<publisher>Pixel Studios</publisher>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>38695d3d69d7a0ada8178072dad4c58b</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235158" />
+	</game>
+</gameList>

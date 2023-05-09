@@ -1,0 +1,614 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Games/Adventure Time Explore the Dungeon Because I DON'T KNOW ATETDBIDNKUS/ATETDBIDNKUS.3ds</path>
+		<name>Adventure Time: Explore the Dungeon Because I DON'T KNOW!</name>
+		<desc>Princess Bubblegum summons Finn and Jake to investigate a rash of thefts and kidnappings that have plagued the Candy Kingdom. She thinks the cause lies within her Secret Royal Dungeon, where only the nastiest monsters and criminals are locked up. If they've found a way to escape, the Land of Ooo will be in danger!
+
+Show creator Pendleton Ward teams up again with developer WayForward in an all-new action game! Select from fan favorite characters from the show, including Finn, Jake, and many more, as the Adventure Time world comes to life through beautiful pixel animations, and voiceover from the original cast.</desc>
+		<image>./media/screenshots/ATETDBIDNKUS.png</image>
+		<video>./videos/ATETDBIDNKUS-video.mp4</video>
+		<marquee>./media/marquees/ATETDBIDNKUS.png</marquee>
+		<thumbnail>./images/ATETDBIDNKUS-thumb.png</thumbnail>
+		<fanart>./images/ATETDBIDNKUS-fanart.jpg</fanart>
+		<rating>0.75</rating>
+		<releasedate>20230222T000000</releasedate>
+		<developer>Wayforward</developer>
+		<publisher>D3 Publisher</publisher>
+		<genre>Action</genre>
+		<family>Adventure Time</family>
+		<players>1</players>
+		<kidgame>true</kidgame>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>9de2a5e57a0206e13d71c9171af3b947</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230223T075753" />
+		<boxback>./images/ATETDBIDNKUS-boxback.png</boxback>
+	</game>
+	<game>
+		<path>./Games/Art Academy Lessons for Everyone AALFEUS/AALFEUS.3ds</path>
+		<name>AALFEUS</name>
+		<desc>Art Academy?: Lessons for Everyone! is a Nintendo 3DS? XL title that offers art lessons and art-on-the-go for everyone. An in-game tutor walks you through step-by-step lessons as you explore art theory and concepts behind drawing and painting. The stylus and Touch Screen controls offer a lifelike feel, whether you?re layering paint on stroke by stroke, blending pastels, or shading with the side of the pencil. You can also use these tools in Free Paint, where you can sketch and paint pictures of any subject in a variety of mediums. You can even take 3D pictures of subjects when inspiration hits in the real world and reference them later to turn those subjects into works of art. Then share your artistic creations with friends through a number of simple and easy means. This game is also perfect for use on Nintendo 3DS XL?s larger screens.
+
+Anyone can learn to draw and paint, from kids looking to supplement their art classes to adults looking to unleash their creativity in a fun and relaxing way.
+In-game tutor offers customizable learning, with real-world art theory explored in step-by-step bites that can be skimmed or replayed over and over.
+Stylus and Touch Screen controls offer lifelike feel, whether you are drawing with the tip of a pencil, shading with the side of the pencil, or layering on paint or pastels stroke by stroke.
+A range of new lessons cover still life to scenery to portraiture. Optional add-on content is also available for purchase from the Nintendo eShop for even more content.*
+Share your artistic creations, locally, via the SpotPass? feature, or by exporting images to the Nintendo 3DS system?s SD card.
+Sketch with colored pencils, blend pastels or layer on paint, anywhere and on-the-go.
+Take a picture anywhere with your Nintendo 3DS, then use it as a subject in Free Paint.
+In-game content available for purchase using stored account funds.</desc>
+		<image>./media/screenshots/AALFEUS.png</image>
+		<marquee>./media/marquees/AALFEUS.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20120101T000000</releasedate>
+		<developer>Headstrong Games Ltd.</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Various, Educational</genre>
+		<players>1</players>
+		<kidgame>true</kidgame>
+		<lastplayed>20230222T000000</lastplayed>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230223T075755" />
+	</game>
+	<game id="176020">
+		<path>./Games/Barbie - Fun &amp; Fashion Dogs (EU) (En,Fr,De,Es,It,Nl).3ds</path>
+		<name>Barbie - Fun &amp; Fashion Dogs</name>
+		<image>./media/screenshots/Barbie - Fun &amp; Fashion Dogs (EU) (En,Fr,De,Es,It,Nl).png</image>
+		<video>./videos/Barbie - Fun &amp; Fashion Dogs (EU) (En,Fr,De,Es,It,Nl)-video.mp4</video>
+		<marquee>./images/Barbie - Fun &amp; Fashion Dogs (EU) (En,Fr,De,Es,It,Nl)-marquee.png</marquee>
+		<thumbnail>./images/Barbie - Fun &amp; Fashion Dogs (EU) (En,Fr,De,Es,It,Nl)-thumb.png</thumbnail>
+		<fanart>./images/Barbie - Fun &amp; Fashion Dogs (EU) (En,Fr,De,Es,It,Nl)-fanart.jpg</fanart>
+		<boxback>./images/Barbie - Fun &amp; Fashion Dogs (EU) (En,Fr,De,Es,It,Nl)-boxback.png</boxback>
+		<rating>0</rating>
+		<publisher>THQ</publisher>
+		<genre>Simulation</genre>
+		<family>Barbie</family>
+		<kidgame>true</kidgame>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>dbcf68b82812ede449e536ab49eb208a</md5>
+		<lang>de,en,es,fr,it,nl</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230223T075757" />
+	</game>
+	<game id="11607">
+		<path>./Games/Cats &amp; Dogs Pets At Play (EU)(en,fr,de,it,es).3ds</path>
+		<name>Cats &amp; Dogs - Pets at Play</name>
+		<image>./media/screenshots/Cats &amp; Dogs Pets At Play (EU)(en,fr,de,it,es).png</image>
+		<video>./videos/Cats &amp; Dogs Pets At Play (EU)(en,fr,de,it,es)-video.mp4</video>
+		<marquee>./media/marquees/Cats &amp; Dogs Pets At Play (EU)(en,fr,de,it,es).png</marquee>
+		<thumbnail>./images/Cats &amp; Dogs Pets At Play (EU)(en,fr,de,it,es)-thumb.png</thumbnail>
+		<boxback>./images/Cats &amp; Dogs Pets At Play (EU)(en,fr,de,it,es)-boxback.png</boxback>
+		<rating>0</rating>
+		<developer>KOCH Media</developer>
+		<publisher>KOCH Media</publisher>
+		<genre>Simulation</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>a1b0ed14efb6ae802cf4c0af2584e042</md5>
+		<lang>de,en,es,fr,it</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230223T075758" />
+	</game>
+	<game>
+		<path>./Games/Crimson_Shroud_USA_3DSWARE_3DS-XPA/xpa-crim.3ds</path>
+		<name>xpa-crim</name>
+		<rating>0</rating>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230223T075800" />
+	</game>
+	<game>
+		<path>./Games/Etrian Odyssey IV Legends of the Titan [US] GW1.2 [3DS]/EOIVLOTTUS.3ds</path>
+		<name>EOIVLOTTUS</name>
+		<desc>For centuries, the tree Yggdrasil has been a constant presence in the lives of the people of Tharsis. It looms on the horizon, visible from everywhere in the city. But its roots are in a far-off land where no one has ventured until the Outland Count of Tharsis sponsors an Explorers Guild to reach Yggdrasil and discover its secrets. You are the latest explorer arriving in Tharsis to seek your fame and fortune. Board your skyship and set out into the clouds in search of treasure, glory, and the answer to Tharsis' oldest mystery.</desc>
+		<image>./media/screenshots/EOIVLOTTUS.png</image>
+		<marquee>./media/marquees/EOIVLOTTUS.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20130226T000000</releasedate>
+		<developer>NIS America</developer>
+		<publisher>Atlus</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230223T075801" />
+	</game>
+	<game>
+		<path>./Games/Kirby Triple Deluxe [US] [3DS]/KTDUS.3ds</path>
+		<name>KTDUS</name>
+		<rating>0</rating>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230223T075802" />
+	</game>
+	<game>
+		<path>./Games/LEGO Marvel Super Heroes Universe in Peril LMSHUIPUS/LMSHUIPUS.3ds</path>
+		<name>LMSHUIPUS</name>
+		<desc>LEGO Marvel Super Heroes features an original story crossing the entire Marvel Universe. Players take control of Iron Man, Spider-Man, the Hulk, Captain America, Wolverine and many more Marvel characters as they unite to stop Loki and a host of other Marvel villains from assembling a super-weapon capable of destroying the world. Players will chase down Cosmic Bricks as they travel across LEGO Manhattan and visit key locations from the Marvel Universe, such as Stark Tower, Asteroid M, a Hydra base and the X-Mansion.</desc>
+		<image>./media/screenshots/LMSHUIPUS.png</image>
+		<marquee>./media/marquees/LMSHUIPUS.png</marquee>
+		<rating>0.65</rating>
+		<releasedate>20131115T000000</releasedate>
+		<developer>Warner Bros. Interactive</developer>
+		<publisher>TT Games</publisher>
+		<genre>Adventure</genre>
+		<players>0</players>
+		<kidgame>true</kidgame>
+		<lastplayed>20230222T000000</lastplayed>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230223T075803" />
+	</game>
+	<game id="11011">
+		<path>./Games/Luigi's Mansion - Dark Moon (US) GW 2.6 (3DS) AGGE.3DS</path>
+		<name>Luigi's Mansion: Dark Moon</name>
+		<desc>After the happenings of Luigi's Mansion, Luigi once again has to put on his ghostbusting gear. This time he visits Evershade Valley, where the destruction of the Dark Moon caused all ghosts to become hostile to humans. Luigi is hired by the eccentric professor Gadd to visit five haunted mansions to retrieve the Dark Moon parts.
+
+Luigi's weapon of choice is vacuum device called PolterGust 5000 which is used to fight against the numerous ghost enemies. The basic procedure is always the same: Luigi has to stun the ghosts with the flashlight (in contrast to the predecessor, now the position and angle is important) so he can vacuum them in. Of course the ghosts struggle against it, so their movement has to be countered with the analogue stick. There are different kinds of enemies which require a variation of tactics, e.g. some ghosts have sunglasses which have to be removed first and others are only vulnerable briefly. There are also multi-stage bossfights. 
+
+The PolterGust 5000 is also used to solve puzzles, for example by sucking in a stove and using the flames to ignite something else. It is also a good idea to use the vacuum device on physical objects in the mansions in order to find secret passages or treasure. When Luigi picks up enough treasure, the PolterGust 5000 is automatically upgraded.
+
+Besides the campaign, there is also a multiplayer mode which takes place in the ScareScraper, mansion with 25 floors. The available modes are hunter (sucking in as many ghosts as possible in a limited amount of time), rush (finding the exit in a limited amount of time; clocks can be picked up to extend the time limit) and polterpup (tracking down polterpulps, invisible ghosts, with the flashlight).</desc>
+		<image>./media/screenshots/Luigi's Mansion - Dark Moon (US) GW 2.6 (3DS) AGGE.png</image>
+		<video>./media/videos/Luigi's Mansion - Dark Moon (US) GW 2.6 (3DS) AGGE.mp4</video>
+		<marquee>./media/marquees/Luigi's Mansion - Dark Moon (US) GW 2.6 (3DS) AGGE.png</marquee>
+		<thumbnail>./images/Luigi's Mansion - Dark Moon (US) GW 2.6 (3DS) AGGE-thumb.png</thumbnail>
+		<manual>./manuals/Luigi's Mansion - Dark Moon (US) GW 2.6 (3DS) AGGE-manual.pdf</manual>
+		<bezel>./images/Luigi's Mansion - Dark Moon (US) GW 2.6 (3DS) AGGE-bezel.png</bezel>
+		<boxback>./images/Luigi's Mansion - Dark Moon (US) GW 2.6 (3DS) AGGE-boxback.png</boxback>
+		<rating>0.9</rating>
+		<releasedate>20130320T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Next Level Games</publisher>
+		<genre>Adventure</genre>
+		<players>1-4</players>
+		<kidgame>true</kidgame>
+		<lastplayed>20230222T000000</lastplayed>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230223T075805" />
+	</game>
+	<game id="176233">
+		<path>./Games/MapleStory - The Girls Fate.3ds</path>
+		<name>Maple Story - Unmei No Shoujo</name>
+		<desc>MapleStory: The Girlâ€™s Fate is the first title from the franchise to be released on the 3DS and represents a big step forward for the series. It sees you take control of a young girl who has a mysterious spirit trapped inside her and the only way for her to be rid of it is to head out on an adventure!
+
+The game will retain its simplistic look and playing style, with characters drawn up as sprites and everything being controlled by a single button. In keeping with the RPG genre you'll be able to customise your character by selecting her weapon speciality and giving her a specific skill set.
+
+Surprisingly, MapleStory: The Girlâ€™s Fate is a single player game and doesn't feature any MMO elements. It will be hitting South Korean shelves on 25th April; the series is gaining momentum in the West, so we wouldn't rule out an eventual localisation completely.</desc>
+		<image>./media/screenshots/MapleStory - The Girls Fate.png</image>
+		<marquee>./media/marquees/MapleStory - The Girls Fate.png</marquee>
+		<thumbnail>./images/MapleStory - The Girls Fate-thumb.png</thumbnail>
+		<bezel>./images/MapleStory - The Girls Fate-bezel.png</bezel>
+		<boxback>./images/MapleStory - The Girls Fate-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>20140424T000000</releasedate>
+		<publisher>Nexon</publisher>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230223T075806" />
+	</game>
+	<game id="11038">
+		<path>./Games/Mario &amp; Luigi - Dream Team Bros. (EU)(en,fr,de,it,es,nb,pt,ru).3ds</path>
+		<name>Mario &amp; Luigi: Dream Team</name>
+		<desc>Mario and Luigi embark on the adventure of their dreams in a hilarious action RPG that combines the resort world of Pi'illo Island with the wild landscapes of Luigi's imagination, where anything can happen. Meet a host of hilarious characters as you strive to rescue Princess Peach and help Prince Dreambert free his petrified Pi'illo people from the bat-king Antasma's curse.
+
+Features:
+
+* Spawn hundreds of Luigis that mold into different forms like bouncy towers, wrecking balls and giant hammers for special attacks or to pass obstacles.
+* Poke, tickle and move a sleeping Luigi on the lower touch screen to alter the dream world on the upper screen.
+* Master two worlds by switching between controlling both brothers when battling in the real world and controlling Mario and an army of Luigis in dream-world battles.
+* With the Nintendo 3DS system turned sideways like a book, experience larger-than-life Giant Battles with a gargantuan-size Luigi on one screen and the enemy on the other screen.
+* Find new items and gear to customize Mario &amp; Luigi to fit your play style.
+* To help players through the adventure, the game offers various support features, like a Hint System that offers tips on surviving a particular engagement, or an Easy Mode to make a particular battle easier.</desc>
+		<image>./media/screenshots/Mario &amp; Luigi - Dream Team Bros. (EU)(en,fr,de,it,es,nb,pt,ru).png</image>
+		<marquee>./media/marquees/Mario &amp; Luigi - Dream Team Bros. (EU)(en,fr,de,it,es,nb,pt,ru).png</marquee>
+		<thumbnail>./images/Mario &amp; Luigi - Dream Team Bros. (EU)(en,fr,de,it,es,nb,pt,ru)-thumb.png</thumbnail>
+		<manual>./manuals/Mario &amp; Luigi - Dream Team Bros. (EU)(en,fr,de,it,es,nb,pt,ru)-manual.pdf</manual>
+		<boxback>./images/Mario &amp; Luigi - Dream Team Bros. (EU)(en,fr,de,it,es,nb,pt,ru)-boxback.png</boxback>
+		<rating>0.85</rating>
+		<developer>Alpha Dream</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<kidgame>true</kidgame>
+		<lastplayed>20230222T000000</lastplayed>
+		<lang>de,en,pt,es,fr,ru,it</lang>
+		<region>ru</region>
+		<scrap name="ScreenScraper" date="20230223T075808" />
+	</game>
+	<game>
+		<path>./Games/Mario &amp; Luigi Dream Team MALDTUS/MALDTUS.3ds</path>
+		<name>MALDTUS</name>
+		<desc>Mario and Luigi embark on the adventure of their dreams in a hilarious action RPG that combines the resort world of Pi'illo Island with the wild landscapes of Luigi's imagination, where anything can happen. Meet a host of hilarious characters as you strive to rescue Princess Peach and help Prince Dreambert free his petrified Pi'illo people from the bat-king Antasma's curse.
+
+Features:
+
+* Spawn hundreds of Luigis that mold into different forms like bouncy towers, wrecking balls and giant hammers for special attacks or to pass obstacles.
+* Poke, tickle and move a sleeping Luigi on the lower touch screen to alter the dream world on the upper screen.
+* Master two worlds by switching between controlling both brothers when battling in the real world and controlling Mario and an army of Luigis in dream-world battles.
+* With the Nintendo 3DS system turned sideways like a book, experience larger-than-life Giant Battles with a gargantuan-size Luigi on one screen and the enemy on the other screen.
+* Find new items and gear to customize Mario &amp; Luigi to fit your play style.
+* To help players through the adventure, the game offers various support features, like a Hint System that offers tips on surviving a particular engagement, or an Easy Mode to make a particular battle easier.</desc>
+		<image>./media/screenshots/MALDTUS.png</image>
+		<marquee>./media/marquees/MALDTUS.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20130712T000000</releasedate>
+		<developer>Alpha Dream</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<kidgame>true</kidgame>
+		<lastplayed>20230222T000000</lastplayed>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230223T075809" />
+	</game>
+	<game id="10992">
+		<path>./Games/Monster Hunter 3 - Ultimate.3ds</path>
+		<name>Monster Hunter 3 Ultimate</name>
+		<desc>The popular fantasy action franchise Monster Hunter is now one of the most iconic gaming series in the world selling over 21 million copies worldwide since the series began in 2004. Players take on the role of a hunter and are sent to explore a settlement within the Monster Hunter universe, completing quests on their journey to seek and slay monsters whilst improving their skills and earning equipment upgrades. With many challenging monsters and over 200 quests the latest edition to the series is set to be the most expansive offering to date. Monster Hunter 3 Ultimate utilizes the functionalities of the Nintendo 3DS system to provide players with a truly intuitive hunting experience. The touch screen feature allows players to quickly access in-game books, weapons, field maps and mini games whilst the high quality graphics 3D visuals of Nintendo 3DS powered by the latest iteration of Capcom's MT Framework deliver a unique and stunning world for players to explore. Taking advantage of the portability of Nintendo 3DS, players can exchange their guild card that contains all their hunter's information with other players via StreetPass. Players can experience the world of Monster Hunter alone or in four player local play using Nintendo 3DS. Finding nearby hunters to adventure on quests with is now even easier via the local Nintendo 3DS search feature. Wii U players will be able to enjoy the hunt with Nintendo 3DS players via a local wireless connection. Gamers that own both a Wii U and Nintendo 3DS can take advantage of the inter compatibility of save data between the two consoles, taking the hunt from the living room wherever they go.</desc>
+		<image>./media/screenshots/Monster Hunter 3 - Ultimate.png</image>
+		<marquee>./media/marquees/Monster Hunter 3 - Ultimate.png</marquee>
+		<thumbnail>./images/Monster Hunter 3 - Ultimate-thumb.png</thumbnail>
+		<fanart>./images/Monster Hunter 3 - Ultimate-fanart.jpg</fanart>
+		<bezel>./images/Monster Hunter 3 - Ultimate-bezel.png</bezel>
+		<boxback>./images/Monster Hunter 3 - Ultimate-boxback.png</boxback>
+		<rating>0.9</rating>
+		<releasedate>20130302T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Role playing games</genre>
+		<family>Monster Hunter</family>
+		<lastplayed>20230222T000000</lastplayed>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230223T075812" />
+	</game>
+	<game>
+		<path>./Games/Nano Assault NASSUS/NASSUS.3ds</path>
+		<name>NASSUS</name>
+		<desc>Stop the deadly Nanostray virus from spreading and contaminating civilization in Nano Assault EX, a fast-paced action shooter set within a visually stunning cellular system that leaps off the screen in full 3D. Control your microscopic Nanite ship inside the dangerous virus to fight off infections, navigate through alien cell clusters, battle bosses, and ultimately analyze and destroy the virus' core to save humanity.
+
+Nano Assault EX is based on the original Nano Assault retail game plus the all-new survivor mode, new online rankings, support for Circle Pad Pro, improved gameplay, updated graphics, etc.</desc>
+		<image>./media/screenshots/NASSUS.png</image>
+		<marquee>./media/marquees/NASSUS.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20111205T000000</releasedate>
+		<developer>Shin'en Multimedia</developer>
+		<publisher>Majesco</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>0</players>
+		<kidgame>true</kidgame>
+		<lastplayed>20230222T000000</lastplayed>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230223T075813" />
+	</game>
+	<game>
+		<path>./Games/New Super Mario Bros. 2 [US] GW1.2 [3DS]/NSMB2EU.3ds</path>
+		<name>NSMB2EU</name>
+		<desc>New Super Mario Bros. 2 is a traditional side-scrolling adventure game featuring Mario, Luigi and loads of other favorite characters from the popular Mario series. The game was created specifically as a pick-up-and-play experience that can be instantly enjoyed by players of all skill levels on the Nintendo 3DS system.</desc>
+		<image>./media/screenshots/NSMB2EU.png</image>
+		<video>./media/videos/NSMB2EU.mp4</video>
+		<marquee>./media/marquees/NSMB2EU.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20120817T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+		<kidgame>true</kidgame>
+		<lastplayed>20230222T000000</lastplayed>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230223T075815" />
+	</game>
+	<game>
+		<path>./Games/Pokemon Alpha Saphire (US) GW 2.6 (3DS) ECLA.3DS</path>
+		<name>Pokémon Alpha Sapphire</name>
+		<desc>Prepare for an epic adventure exploring a world filled with PokÃ©mon in PokÃ©mon Alpha Sapphire for the Nintendo 3DS family of systems. Your adventure takes place in Hoenn, a region that consists of a main island that stretches widely from east to west, along with countless small islets that dot the deep blue sea around it. A live volcano steams constantly in the heart of this green-covered island. Look forward to a region rich with natural beauty, a variety of PokÃ©mon, and extraordinary people! During your journey through Hoenn, youâ€™ll be able to build and invite friends to visit your personal Super-Secret Base! Come up with your own Secret Base design, including selecting and placing Decorations however you like. You can also use Super-Secret Bases to play a capture-the-flag activity. Stop Team Aqua from going after the Legendary PokÃ©mon Kyogre. Also look out for Omega Ruby and all new Mega Evolutions as well.</desc>
+		<image>./media/screenshots/Pokemon Alpha Saphire (US) GW 2.6 (3DS) ECLA.png</image>
+		<marquee>./media/marquees/Pokemon Alpha Saphire (US) GW 2.6 (3DS) ECLA.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20141120T000000</releasedate>
+		<developer>Game Freak</developer>
+		<publisher>The Pokémon Company</publisher>
+		<genre>Role playing games</genre>
+		<players>4</players>
+		<kidgame>true</kidgame>
+		<lastplayed>20230222T000000</lastplayed>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230223T075816" />
+	</game>
+	<game>
+		<path>./Games/Pokemon Omega Ruby US (ECRA) GW 2.6/ECRA (headerless).3DS</path>
+		<name>ECRA</name>
+		<desc>In this enhanced remake of Pokémon Ruby Version, players travel throughout the Hoenn region on a journey to become a Pokémon Master. Like the original, the goal is to challenge the eight Pokémon Gyms of the Hoenn League and earn badges from their Gym Leaders, then take on the Elite Four and the Champion. However, the world is endangered when the villainous Team Magma tries to expand the continents by resurrecting the ancient Legendary Pokémon Groudon.
+
+Aside from technical upgrades, the game is drastically changed in certain aspects. The Hoenn Pokédex is changed to add the evolutionary relatives of Pokémon from its original incarnation. Some Pokédex entries are also changed. Mega Evolution plays a major part of the storyline, and a new form change is introduced in the form of Primal Reversion, exclusive to Groudon and Kyogre. Some characters have had major redesigns in terms of appearance. Instead of roaming Hoenn after defeating the Champion as in the original, Latios automatically joins the player's party after summoning the player Southern Island. Latios can be used to soar through the skies of Hoenn, taking the player to locations known as Mirage Spots that cannot be reached otherwise. Pokémon Contests return under the name "Contest Spectacular" and have some new mechanics, while the basic format is largely the same.
+
+After the main story, a new chapter called the Delta Episode is unlocked, allowing the player to once again save Hoenn from disaster. Finally, the Battle Tower is replaced by the Battle Resort, which features tough Trainers as well as a replica of the Battle Maison from Pokémon X and Y.</desc>
+		<image>./media/screenshots/ECRA (headerless).png</image>
+		<marquee>./media/marquees/ECRA (headerless).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20141120T000000</releasedate>
+		<developer>Game Freak</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role playing games</genre>
+		<players>4</players>
+		<kidgame>true</kidgame>
+		<lastplayed>20230222T000000</lastplayed>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230223T075818" />
+	</game>
+	<game id="10983">
+		<path>./Games/Pokemon X (US) GW 2.6 (3DS) EKJA.3DS</path>
+		<name>Pokémon X</name>
+		<desc>An all-new 3D Pokemon adventure packed with never-before-seen Pokemon will launch worldwide in October 2013. Pokemon X and Pokemon Y will present a new generation of Pokemon, and introduce players to an exciting new adventure in a breathtaking 3D world.</desc>
+		<image>./media/screenshots/Pokemon X (US) GW 2.6 (3DS) EKJA.png</image>
+		<video>./videos/Pokemon X (US) GW 2.6 (3DS) EKJA-video.mp4</video>
+		<marquee>./media/marquees/Pokemon X (US) GW 2.6 (3DS) EKJA.png</marquee>
+		<thumbnail>./images/Pokemon X (US) GW 2.6 (3DS) EKJA-thumb.png</thumbnail>
+		<boxback>./images/Pokemon X (US) GW 2.6 (3DS) EKJA-boxback.png</boxback>
+		<rating>0.85</rating>
+		<releasedate>20131012T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role playing games</genre>
+		<family>Pokémon</family>
+		<players>2-4</players>
+		<kidgame>true</kidgame>
+		<lastplayed>20230222T000000</lastplayed>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230223T075819" />
+	</game>
+	<game>
+		<path>./Games/Professor Layton and the Miracle Mask [US] GW1.2 [3DS]/PLNMMUS.3ds</path>
+		<name>PLNMMUS</name>
+		<desc>Professor Layton and Luke head to the town of miracles, Montdol, in search of the Mask of Miracle. The mask has the ability to grant wishes to its wearer. Layton and Luke arrive at the town to see they are too late, as a mysterious man is using the power of the mask to turn people to stone. Layton and Luke task themselves with solving the mystery of Montdol and the Mask of Miracles.
+
+This fifth game in the Professor Layton series makes more use of the physical button controls for puzzle-solving as opposed to just the touchscreen. To take advantage of the hardware capabilities of the Nintendo 3DS, the characters are rendered in polygons outside of cutscenes, as opposed to sprites, in addition to other polishings of the interface.
+
+Beside the regular adventure where you traverse the town, talk to the characters and solve puzzles, there are several mini-games that get gradually unlocked as you play and find the unlockable items:
+
+ Bunny - after a while, you will stumble upon a circus bunny that isn't performing well and decide to help it along. This will require constant training of new moves which will become available over time as you acquire them. After you teach the bunny new moves, you will be able to instruct it to use those moves during the theatrical performances. Theatrical performances consist of a director telling you what the story is about and what he wants to see in each scene, and you will have to instruct bunny to act accordingly, providing you have taught it the moves necessary to perform the full play.
+ Robot - after you acquire a toy robot from one of the street vendors, you will be able to play levels that will become gradually available. Levels are rectangular in shape and you can move your robot left, right, up or down through the field of squares. Each movement uses some of the battery and you have to reach the end square before the battery depletes which still gives you a lot of time for trial and error. Single movement will move your robot by three steps unless it bumps into a wall or picks up some special items that may temporarily boost its power to eat through the wall and enemies that move in pre-defined patterns.
+ Shop - helping the friend in need, as a true gentleman, this mini-game will let you order the items in the store so that when customer comes to buy what he or she wants, the rest of the items also catch his/her eye and in turn you end up selling all your wares. Base item is initially set in the store, and you can place other items only adjacent to already placed items in the store. What will catch the eye of the customer after purchasing some item is the adjacent item that is either of the same type or of the same color. Placing two similar items might confuse the customer due to ambiguity which may lead the customer to stop buying after a while if the net remaining adjacent item has no connection to the last item he or she purchased.
+
+Beside mini-games there are many collectible items you can find during your exploration and some of the flashback sub-stories become available after certain key events which can then be watched as short episodes where characters vary from event to event, and might not even be one of the leading three characters.</desc>
+		<image>./media/screenshots/PLNMMUS.png</image>
+		<marquee>./media/marquees/PLNMMUS.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20121028T000000</releasedate>
+		<developer>Level-5</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle-Game, Adventure</genre>
+		<players>1</players>
+		<kidgame>true</kidgame>
+		<lastplayed>20230222T000000</lastplayed>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230223T075821" />
+	</game>
+	<game>
+		<path>./Games/Resident Evil Revelations RERUS/RERUS.3ds</path>
+		<name>RERUS</name>
+		<desc>Taking place in 2005, between the events of Resident Evil 4 and Resident Evil 5, the action centers on BSAA (Bioterrorism Security Assessment Alliance) member Jill Valentine and introduces her new partner, Parker Luciani. The story is set principally on board a supposedly abandoned cruise ship in the Mediterranean, where Jill and Parker have been sent to search for Chris Redfield, based on his last known GPS coordinates. Far from being empty, the ship hides danger around every corner as Jill and Parker explore the confined space of the ship and must face a menacing new horror that emerges from the darkness.
+ 
+Adding a new unique horror setting to the series, Resident Evil: Revelations gives players the chance to venture underwater as they try to escape the terrifying creatures that are roaming the ship. But even the water does not provide safety as the creatures continue to attack from the depths while Jill and Parker make a desperate bid to make it off the ship alive.</desc>
+		<image>./media/screenshots/RERUS.png</image>
+		<marquee>./media/marquees/RERUS.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20120207T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230223T075822" />
+	</game>
+	<game id="11068">
+		<path>./Games/Rune Factory 4.3ds</path>
+		<name>Rune Factory 4</name>
+		<desc>Rune Factory 4 marks the return of the popular Harvest Moon spinoff that combines farming with dungeon adventuring. For the first time in the series, the player can select to play as a male or female hero, and potential suitors of either gender are also available in order to pursue love, marriage, and possibly a child. As the newly-appointed prince or princess, you can fulfill your royal duties of protecting the town from invaders, or take a more rural approach to governing by raising your own fruits and vegetables and helping townsfolk. Should some dungeon adventuring be on the days itinerary, you can select from the castles vast armament of swords, spears, and staffs along with magic for battle against dangerous foes, or even bring along a companion or friendly monster to aid you during your travels.</desc>
+		<image>./media/screenshots/Rune Factory 4.png</image>
+		<marquee>./media/marquees/Rune Factory 4.png</marquee>
+		<thumbnail>./images/Rune Factory 4-thumb.png</thumbnail>
+		<fanart>./images/Rune Factory 4-fanart.jpg</fanart>
+		<boxback>./images/Rune Factory 4-boxback.png</boxback>
+		<rating>0.9</rating>
+		<releasedate>20131002T000000</releasedate>
+		<developer>Xseed Games</developer>
+		<publisher>Neverland</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230223T075824" />
+	</game>
+	<game id="11081">
+		<path>./Games/Sonic &amp; All-Stars Racing Transformed (EU)(en,fr,de,it,es).3DS</path>
+		<name>Sonic &amp; All-Stars Racing Transformed</name>
+		<desc>Sonic and the All-Stars cast line up on the starting grid once again to battle for supremacy in the ultimate race. Compete across land, water and air in incredible transforming vehicles that change from cars to boats to planes mid-race. Master your driving skills as you drift, barrel role and boost to overtake your rivals, or use your weapons tactically and unleash your All-Star move to gain the winning advantage. It's not just your fellow racers you need to watch out for, as the road falls away beneath you, or the river runs dry, new routes emerge and your vehicle transforms to take advantage of the terrain. Discover alternative routes and short cuts as you perfect the course in this adrenaline fuelled dash to the finish line - racing will never be the same again. This is not just racing, it's racing transformed!</desc>
+		<image>./media/screenshots/Sonic &amp; All-Stars Racing Transformed (EU)(en,fr,de,it,es).png</image>
+		<marquee>./media/marquees/Sonic &amp; All-Stars Racing Transformed (EU)(en,fr,de,it,es).png</marquee>
+		<thumbnail>./images/Sonic &amp; All-Stars Racing Transformed (EU)(en,fr,de,it,es)-thumb.png</thumbnail>
+		<boxback>./images/Sonic &amp; All-Stars Racing Transformed (EU)(en,fr,de,it,es)-boxback.png</boxback>
+		<rating>0.7</rating>
+		<developer>Sumo Digital</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving</genre>
+		<family>Sonic</family>
+		<players>2-8</players>
+		<kidgame>true</kidgame>
+		<lastplayed>20230222T000000</lastplayed>
+		<lang>de,en,es,fr,it</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230223T075825" />
+	</game>
+	<game>
+		<path>./Games/Spider-Man Edge of Time SMEOTUS/SMEOTUS.3ds</path>
+		<name>SMEOTUS</name>
+		<desc>Spider-Man: Edge of Time challenges the player to take on the roles of both classic Amazing Spider-Man and Spider-Man 2099 to correct a timestream gone awry and prevent a catastrophic future brought on by the early and untimely death of Peter Parker.</desc>
+		<image>./media/screenshots/SMEOTUS.png</image>
+		<marquee>./media/marquees/SMEOTUS.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20111014T000000</releasedate>
+		<developer>Beenox Studios</developer>
+		<publisher>Activision</publisher>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230223T075827" />
+	</game>
+	<game id="176424">
+		<path>./Games/Style Savvy - Trendsetters.3ds</path>
+		<name>Style Savvy: Trendsetters</name>
+		<desc>In the Style Savvy: Trendsetters game, you take on the role of a budding fashion mogul, working your way to the top of the fashion world! Manage your own boutique and help customers find the perfect outfit by keeping up with fashion trends, stocking new clothes for your store, and customizing your shop to reflect your personality. 
+
+Choose from over 12,000 clothing items and accessories spanning 19 different brands to put together dream-come-true ensembles for hundreds of customers. Share your creations with friends who have the game through an online* shopping portal, download additional outfits online*, and discover an AR Photo Shoot mode that virtually puts your outfits into the real world! 
+
+Set the trends and become a fashion superstar in Style Savvy: Trendsetters-only for Nintendo 3DS.</desc>
+		<image>./media/screenshots/Style Savvy - Trendsetters.png</image>
+		<marquee>./media/marquees/Style Savvy - Trendsetters.png</marquee>
+		<thumbnail>./images/Style Savvy - Trendsetters-thumb.png</thumbnail>
+		<boxback>./images/Style Savvy - Trendsetters-boxback.png</boxback>
+		<rating>0.9</rating>
+		<releasedate>20121022T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Various</genre>
+		<kidgame>true</kidgame>
+		<lastplayed>20230222T000000</lastplayed>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230223T075828" />
+	</game>
+	<game>
+		<path>./Games/Super_Smash_Bros_for_Nintendo_3DS_USA_3DS-ABSTRAKT/as-ssb.3ds</path>
+		<name>as-ssb</name>
+		<desc>Super Smash Bros. for Nintendo 3DS is the first portable entry in the renowned series, in which game worlds collide. Up to four players battle each other locally or online using some of Nintendo's most well-known and iconic characters across beautifully designed stages inspired by classic portable Nintendo games. It's a genuine, massive Super Smash Bros. experience that's available to play on the go, anytime, anywhere.</desc>
+		<image>./media/screenshots/as-ssb.png</image>
+		<marquee>./media/marquees/as-ssb.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20141003T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Sora Ltd.</publisher>
+		<genre>Fight</genre>
+		<players>4</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230223T075830" />
+	</game>
+	<game>
+		<path>./Games/Teenage Mutant Ninja Turtles TMNTUS/TMNTUS.3ds</path>
+		<name>TMNTUS</name>
+		<desc>Teenage Mutant Ninja Turtles is a beat 'em up game based on the 2012 television series developed by Nickelodeon. The game takes place in New York. The four turtles Leonardo, Michelangelo, Donatello and Raphael are ambushed by Foot Soldiers. It turns out that the Foot Soldiers created a Mutagen bomb to mutate the whole city. The turtles eventually stop this treat, but a sudden call gets them on edge again. April O'Neil has been kidnapped by Shredder and he demands Splinter. The turtles fight their way through Foot Soldiers, Kraang, Baxter Stockman and his Mousers to be able to defeat Shredder and save April.
+
+Just like the original games it is a brawler game, but now in 3D. Many sequences use the classic side view, but there are also many other perspectives used. Each turtle has a specific attack and the four turtles are always on the screen. When not playing in co-op, the other ones are controller by the AI. During the game the turtles have to be upgraded. This can be done by collecting points by defeating enemies and breaking items. Health of any of the turtles is increased by eating pizza's, sushi and other food items. The collectibles in this game are Mutagen Canisters which are used to unlock extras.</desc>
+		<image>./media/screenshots/TMNTUS.png</image>
+		<marquee>./media/marquees/TMNTUS.png</marquee>
+		<rating>0.3</rating>
+		<releasedate>20131025T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Magic Pockets</publisher>
+		<genre>Beat'em Up</genre>
+		<players>0</players>
+		<kidgame>true</kidgame>
+		<playcount>1</playcount>
+		<lastplayed>20220510T000000</lastplayed>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230223T075831" />
+	</game>
+	<game>
+		<path>./Games/The Legend of Zelda Ocarina of Time 3D TLOZOOT3DUS/TLOZOOT3DUS.3ds</path>
+		<name>TLOZOOT3DUS</name>
+		<desc>The Legend of Zelda: Ocarina of Time 3D brings a completely re-mastered version of an epic entry in the beloved The Legend of Zelda game series to Nintendos newest hand-held system, Nintendo 3DS. The game couples phenomenally enhanced graphics with stunning, glasses-free 3D visuals to bring to life the daring adventures of its hero, Link. A streamlined touch-screen interface and newly implemented motion controls provide a fresh and intuitive feel as players immerse themselves in the tale of the creation of Hyrule and the struggle for control of its all-powerful ancient relic. The game will also feature new challenges not included in the original game. The Legend of Zelda veterans can look forward to the Master Quest a second quest with revamped puzzles and redesigned dungeons that feature the same graphical and interface upgrades as the main game. The Legend of Zelda: Ocarina of Time 3D is a masterful improvement on one of the landmark releases in video game history.</desc>
+		<image>./media/screenshots/TLOZOOT3DUS.png</image>
+		<video>./media/videos/TLOZOOT3DUS.mp4</video>
+		<marquee>./media/marquees/TLOZOOT3DUS.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20110619T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Grezzo</publisher>
+		<genre>Adventure</genre>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230223T075832" />
+	</game>
+	<game>
+		<path>./Games/The LEGO Movie Videogame [US] [3DS]/TLMVUS.3ds</path>
+		<name>TLMVUS</name>
+		<desc>The LEGO Movie Videogame for handheld and mobile platforms plays very similar to the console versions, except that gameplay is viewed from an isometric view instead of the third-person view. The in-game cutscenes consist of FMV sequences taken from the 2014 film of the same name (just like the other console versions).
+
+Controls for the 3DS version include using the Circle Pad to move characters, the L and R buttons to swap characters in the levels, Y and X to attack (for short and far ranges, respectively), B to dodge and A to build several LEGO objects, as well as interacting with other characters and objects.
+
+The 3DS version includes a total of 15 stages to complete and include timed quests (which grant the player gold bricks that add towards the completion percentage) to carry out against the clock. Emmet and Wildstyle are the main characters controlled during the story, though more characters can be unlocked later to find inaccessible collectibles in Free Play mode.</desc>
+		<image>./media/screenshots/TLMVUS.png</image>
+		<marquee>./media/marquees/TLMVUS.png</marquee>
+		<rating>0.5</rating>
+		<releasedate>20140219T000000</releasedate>
+		<developer>Tt Fusion</developer>
+		<publisher>Warner Bros. Interactive</publisher>
+		<genre>Action</genre>
+		<players>0</players>
+		<kidgame>true</kidgame>
+		<lastplayed>20230222T000000</lastplayed>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230223T075834" />
+	</game>
+	<game>
+		<path>./Games/Theatrhythm_Final_Fantasy_Curtain_Call_USA_3DS-XPA/xpa-ffcc.3ds</path>
+		<name>xpa-ffcc</name>
+		<desc>A sequel to the first FINAL FANTASY rhythm action game released in 2012, THEATRHYTHM FINAL FANTASY CURTAIN CALL expands on the original in every way with new gameplay modes, over 200 songs, and 60 playable characters. Featuring music that spans the full breadth of the storied FINAL FANTASY franchise, players tap along to the memorable beats and harmonies as the adorable, stylized characters battle and quest through their worlds. The music of over 20 titles is brought together in one package, fusing together the moving scores, cinematic visuals, and role-playing elements the series is known for.</desc>
+		<image>./media/screenshots/xpa-ffcc.png</image>
+		<marquee>./media/marquees/xpa-ffcc.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20140424T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>Indies Zero</publisher>
+		<genre>Music and Dance</genre>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230223T075835" />
+	</game>
+	<game>
+		<path>./Games/Turbo Super Stunt Squad TSSQUS/TSSQUS.3ds</path>
+		<name>Turbo - Super Stunt Squad</name>
+		<desc>Turbo: Super Stunt Squad is a high-velocity action game featuring the super-charged crew of characters from the upcoming film. Each playable character has their own signature street style and tricked-out skills which will come in handy when showing-off and earning respect with super-cool stunt moves. Expert skills will also prove useful to earn power-ups, customize your character, win competitive challenges and discover shortcuts in the dynamic larger-than-life environments of Turbo?s world.</desc>
+		<image>./media/screenshots/TSSQUS.png</image>
+		<marquee>./media/marquees/TSSQUS.png</marquee>
+		<thumbnail>./images/TSSQUS-thumb.png</thumbnail>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<developer>Torus Games</developer>
+		<publisher>D3 Publisher</publisher>
+		<genre>Action</genre>
+		<players>0</players>
+		<kidgame>true</kidgame>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>8f50b304da867f340ea9b6f2101e5dfa</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230223T075836" />
+		<boxback>./images/TSSQUS-boxback.png</boxback>
+	</game>
+	<game>
+		<path>./Games/Yoshis.New.Island.USA.3DS-BigBlueBox.3ds</path>
+		<name>Yoshi's New Island</name>
+		<desc>Yoshi and Baby Mario are back in Yoshi's New Island, the third installment in the beloved franchise. The series' fun game-play mechanics such as Yoshi's Flutter Jump, Ground Pound and Egg Throw return, but now Yoshi knows a ton of new tricks too. Yoshi gets to bash and thrash his environment by throwing around Mega Eggdozers and Metal Eggdozers. Yoshi also can transform into a variety of objects, such as a jackhammer or a submarine, both of which can be manipulated using the Nintendo 3DS gyro controls. A certain type of star even transforms him into Super Yoshi, giving him the ability to fly through the sky or run along walls and ceilings. Players who are having trouble completing a level might see the appearance of Flutter Wings, which let Yoshi fly through the air.</desc>
+		<image>./media/screenshots/Yoshis.New.Island.USA.3DS-BigBlueBox.png</image>
+		<marquee>./media/marquees/Yoshis.New.Island.USA.3DS-BigBlueBox.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20140313T000000</releasedate>
+		<developer>Arzest</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<kidgame>true</kidgame>
+		<lastplayed>20230222T000000</lastplayed>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230223T075838" />
+	</game>
+</gameList>

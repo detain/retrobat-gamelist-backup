@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<gameList>
+	<game id="57631">
+		<path>./No-Intro/Astro Bomber (Japan).bin</path>
+		<name>Asutorobombā</name>
+		<desc>Fly your ship over mountains and through corridors, all the while shooting, bombing, or dodging enemies.</desc>
+		<image>./images/Astro Bomber (Japan)-image.png</image>
+		<video>./videos/Astro Bomber (Japan)-video.mp4</video>
+		<marquee>./images/Astro Bomber (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Astro Bomber (Japan)-thumb.png</thumbnail>
+		<boxback>./images/Astro Bomber (Japan)-boxback.png</boxback>
+		<publisher>Epoch</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
+		<crc32>B0FD260F</crc32>
+		<md5>bda9bc4a736a6d57dad4c7fe388dce74</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221212T045836" />
+		<scrap name="ArcadeDB" date="20221212T082233" />
+	</game>
+	<game id="57632">
+		<path>./No-Intro/Block Maze (Japan).bin</path>
+		<name>Burokkumeizu</name>
+		<desc>Block Maze takes its basic concept from Pengo and adds in some Ladybug to make a concept of its own. In a Pacman-like maze, you must push four central blocks marked with letters into a box in each corner marked with the same letter. As in Pengo, the blocks slide when pushed until they reach a wall or another block. The maze is also littered with plain black blocks, which can be used both to crush the two nasties roaming the maze (though they respawn after a few seconds) and to stop the alphabetic blocks at a desired position. To complicate things, there are rotating ramps near each corner. If a block slides into the ramp, it is deflected 90 degrees, which can be used both to reach otherwise unreachable nasties or to get the alphablocks in the right position without too many pushes. Blocks can, and must often, be destroyed to make way for the player sprite and other blocks. Once an alphablock reaches its corner, a fruit machine marked with the letters of the four corners is started on the top of the screen, granting you up to 1000 points if the letter you've cleared turns up.</desc>
+		<image>./images/Block Maze (Japan)-image.png</image>
+		<video>./videos/Block Maze (Japan)-video.mp4</video>
+		<marquee>./images/Block Maze (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Block Maze (Japan)-thumb.png</thumbnail>
+		<boxback>./images/Block Maze (Japan)-boxback.png</boxback>
+		<releasedate>19840101T000000</releasedate>
+		<publisher>Epoch</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<crc32>CFB3291B</crc32>
+		<md5>ac66f07a6026950cf91faf0b3a1157f0</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221212T045839" />
+		<scrap name="ArcadeDB" date="20221212T082233" />
+	</game>
+	<game id="57633">
+		<path>./No-Intro/Pocket Computer Mahjong (Japan).bin</path>
+		<name>Pokekonmājyan</name>
+		<desc>Simple black and white mahjong game.</desc>
+		<image>./images/Pocket Computer Mahjong (Japan)-image.png</image>
+		<video>./videos/Pocket Computer Mahjong (Japan)-video.mp4</video>
+		<marquee>./images/Pocket Computer Mahjong (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Pocket Computer Mahjong (Japan)-thumb.png</thumbnail>
+		<boxback>./images/Pocket Computer Mahjong (Japan)-boxback.png</boxback>
+		<publisher>Epoch</publisher>
+		<genre>Board game</genre>
+		<crc32>5C3EED48</crc32>
+		<md5>3b3992e081e3d690875a511deb33461b</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221212T045843" />
+		<scrap name="ArcadeDB" date="20221212T082233" />
+	</game>
+	<game id="57635">
+		<path>./No-Intro/Pocket Computer Reversi (Japan).bin</path>
+		<name>Pokekonribāsi</name>
+		<desc>Reversi is a strategy board game for two players, played on an 8×8 uncheckered board. There are sixty-four identical game pieces called disks (often spelled "discs"), which are light on one side and dark on the other. Players take turns placing disks on the board with their assigned color facing up. During a play, any disks of the opponent's color that are in a straight line and bounded by the disk just placed and another disk of the current player's color are turned over to the current player's color. The object of the game is to have the majority of disks turned to display your color when the last playable empty square is filled.</desc>
+		<image>./images/Pocket Computer Reversi (Japan)-image.png</image>
+		<video>./videos/Pocket Computer Reversi (Japan)-video.mp4</video>
+		<marquee>./images/Pocket Computer Reversi (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Pocket Computer Reversi (Japan)-thumb.png</thumbnail>
+		<boxback>./images/Pocket Computer Reversi (Japan)-boxback.png</boxback>
+		<publisher>Epoch</publisher>
+		<genre>Puzzle-Game</genre>
+		<crc32>1C461F91</crc32>
+		<md5>96ef8b859dca62460364f3e750271591</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221212T045847" />
+		<scrap name="ArcadeDB" date="20221212T082233" />
+	</game>
+	<game id="57636">
+		<path>./No-Intro/Soukoban (Japan).bin</path>
+		<name>Sōko-ban</name>
+		<desc>Soko-Ban is a classic puzzle game, the basis of numerous clones in the later years. It is set in a warehouse. On each level, the player must push crates (from square to square) to get them onto designated spots; once each crate is on a marked spot, the level is complete. Crates can only be pushed one at a time (so two crates next to each other cannot be pushed together), and cannot be pulled--so it's possible to get a crate stuck in a corner, where it cannot be retrieved! By the last levels, you must plan 40 steps in advance.</desc>
+		<image>./images/Soukoban (Japan)-image.png</image>
+		<video>./videos/Soukoban (Japan)-video.mp4</video>
+		<marquee>./images/Soukoban (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Soukoban (Japan)-thumb.png</thumbnail>
+		<boxback>./images/Soukoban (Japan)-boxback.png</boxback>
+		<publisher>Epoch</publisher>
+		<genre>Puzzle-Game</genre>
+		<crc32>5D6F7819</crc32>
+		<md5>636bf3f99923725d94e6674c22ccc6e2</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221212T045849" />
+		<scrap name="ArcadeDB" date="20221212T082233" />
+	</game>
+</gameList>

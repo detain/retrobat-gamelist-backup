@@ -1,0 +1,1177 @@
+<?xml version="1.0"?>
+<gameList>
+	<game id="47054">
+		<path>./No-Intro/Sonic The Hedgehog - Pocket Adventure (World) (En,Ja).ngc</path>
+		<name>Sonic the Hedgehog - Pocket Adventure</name>
+		<desc>Sonic the Hedgehog Pocket Adventure, or Sonic Pocket Adventure for short, is a 1999 platform video game in the Sonic the Hedgehog series developed by SNK. It was released in December 1999 in North America, and May 2000 in Japan, exclusively for the Neo Geo Pocket Color handheld game console. It is also only the second game of the Sonic series ever to be released on a non-Sega video game console, the first being Sonic Jam on the Game.com. The game was praised by critics, receiving perfect scores from multiple reviews.</desc>
+		<image>./images/Sonic The Hedgehog - Pocket Adventure (World) (En,Ja)-image.png</image>
+		<video>./videos/Sonic The Hedgehog - Pocket Adventure (World) (En,Ja)-video.mp4</video>
+		<marquee>./images/Sonic The Hedgehog - Pocket Adventure (World) (En,Ja)-marquee.png</marquee>
+		<thumbnail>./images/Sonic The Hedgehog - Pocket Adventure (World) (En,Ja)-thumb.png</thumbnail>
+		<fanart>./images/Sonic The Hedgehog - Pocket Adventure (World) (En,Ja)-fanart.jpg</fanart>
+		<manual>./manuals/Sonic The Hedgehog - Pocket Adventure (World) (En,Ja)-manual.pdf</manual>
+		<boxback>./images/Sonic The Hedgehog - Pocket Adventure (World) (En,Ja)-boxback.png</boxback>
+		<rating>0.9</rating>
+		<releasedate>20000525T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Platform</genre>
+		<family>Sonic</family>
+		<players>1-2</players>
+		<crc32>8BD22145</crc32>
+		<md5>6123e8a783b146bdcdc6a9fa95abb0bd</md5>
+		<lang>en,jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230217T110451" />
+	</game>
+	<game>
+		<path>./No-Intro/Baseball Stars Color - Pocket Sports Series (World) (En,Ja).ngc</path>
+		<name>Baseball Stars Color - Pocket Sports Series</name>
+		<video>./videos/Baseball Stars Color - Pocket Sports Series (World) (En,Ja)-video.mp4</video>
+		<marquee>./images/Baseball Stars Color - Pocket Sports Series (World) (En,Ja)-marquee.png</marquee>
+		<thumbnail>./images/Baseball Stars Color - Pocket Sports Series (World) (En,Ja)-thumb.png</thumbnail>
+		<manual>./manuals/Baseball Stars Color - Pocket Sports Series (World) (En,Ja)-manual.pdf</manual>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>D1434DF5</crc32>
+		<md5>6f9f680b659369448f01508501c5a709</md5>
+		<lang>en,jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230302T190819" />
+		<scrap name="HfsDB" date="20230127T144858" />
+		<scrap name="ArcadeDB" date="20221212T175955" />
+	</game>
+	<game id="47025">
+		<path>./No-Intro/Biomotor Unitron (USA, Europe).ngc</path>
+		<name>Biomotor Unitron</name>
+		<desc>Biomotor Unitron is a RPG for the Neo Geo Pocket Color.
+
+After a meteor brings a new source of energy to the world, the construction of giant robots begins. These robots are used for entertainment and fight in arena fights against one-another for the title Master of Masters. You play a duo of characters that participates in these gladiator battles. You can control both characters and have to explore and perform quests to earn money and items to upgrade your Unitron robot with. You can talk to inhabitants of the city and buy new items at stores.
+
+The Unitron changes visibly when you apply upgrades and a great deal of upgrades are at hand. Over two hundred different weapon configurations are possible. Each weapon and part has a certain material and element. Fire weapons will work better against wooden robots than water-based robots.
+
+Beneath the city there are large dungeons where most quests will have to be solved and most items will be found.
+
+The battles are like in Pokémon, completely menu based. You pick whatever powers you want to use from a drop-down list.</desc>
+		<image>./media/screenshots/Biomotor Unitron (USA, Europe).png</image>
+		<video>./media/videos/Biomotor Unitron (USA, Europe).mp4</video>
+		<marquee>./media/marquees/Biomotor Unitron (USA, Europe).png</marquee>
+		<thumbnail>./images/Biomotor Unitron (USA, Europe)-thumb.png</thumbnail>
+		<manual>./manuals/Biomotor Unitron (USA, Europe)-manual.pdf</manual>
+		<boxback>./images/Biomotor Unitron (USA, Europe)-boxback.png</boxback>
+		<rating>0.7</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Yumekobo</developer>
+		<publisher>SNK</publisher>
+		<genre>Role playing games</genre>
+		<players>1-2</players>
+		<kidgame>true</kidgame>
+		<crc32>3807DF4F</crc32>
+		<md5>f4bbe8cf42074b75c8a911bf7b0562d5</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230302T190821" />
+		<scrap name="HfsDB" date="20230127T140834" />
+		<scrap name="ArcadeDB" date="20221212T175956" />
+	</game>
+	<game id="87588">
+		<path>./No-Intro/Bust-A-Move Pocket (USA) (Demo).ngc</path>
+		<name>Bust-A-Move Pocket</name>
+		<desc>The classic game Bubble Bobble is the ancestor of Puzzle Bobble. Your aim in each stage is to break all the bubbles, by breaking 3 or more of the same color.  The game contains a two-player mode where each player tries to break all bubbles first.</desc>
+		<image>./media/screenshots/Bust-A-Move Pocket (USA) (Demo).png</image>
+		<video>./media/videos/Bust-A-Move Pocket (USA) (Demo).mp4</video>
+		<marquee>./media/marquees/Bust-A-Move Pocket (USA) (Demo).png</marquee>
+		<thumbnail>./images/Bust-A-Move Pocket (USA) (Demo)-thumb.png</thumbnail>
+		<manual>./manuals/Bust-A-Move Pocket (USA) (Demo)-manual.pdf</manual>
+		<boxback>./images/Bust-A-Move Pocket (USA) (Demo)-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>SNK</publisher>
+		<genre>Strategy</genre>
+		<players>1-2</players>
+		<kidgame>true</kidgame>
+		<crc32>78A1361D</crc32>
+		<md5>29a8a310b704e8dafee71cea0ad53df0</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T190823" />
+		<scrap name="HfsDB" date="20230127T140933" />
+		<scrap name="ArcadeDB" date="20221212T175956" />
+	</game>
+	<game id="87588">
+		<path>./No-Intro/Bust-A-Move Pocket (USA).ngc</path>
+		<name>Bust-A-Move Pocket</name>
+		<desc>The classic game Bubble Bobble is the ancestor of Puzzle Bobble. Your aim in each stage is to break all the bubbles, by breaking 3 or more of the same color.  The game contains a two-player mode where each player tries to break all bubbles first.</desc>
+		<image>./media/screenshots/Bust-A-Move Pocket (USA).png</image>
+		<video>./media/videos/Bust-A-Move Pocket (USA).mp4</video>
+		<marquee>./media/marquees/Bust-A-Move Pocket (USA).png</marquee>
+		<thumbnail>./images/Bust-A-Move Pocket (USA)-thumb.png</thumbnail>
+		<manual>./manuals/Bust-A-Move Pocket (USA)-manual.pdf</manual>
+		<boxback>./images/Bust-A-Move Pocket (USA)-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>SNK</publisher>
+		<genre>Strategy</genre>
+		<players>1-2</players>
+		<kidgame>true</kidgame>
+		<crc32>B073D601</crc32>
+		<md5>d91fd1c6c941bc2bde4ada3580fe408f</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T190824" />
+		<scrap name="HfsDB" date="20230127T140934" />
+		<scrap name="ArcadeDB" date="20221212T175956" />
+	</game>
+	<game id="51139">
+		<path>./No-Intro/Cool Cool Jam (USA) (Proto).ngc</path>
+		<name>Cool Cool Jam</name>
+		<desc>Cool Cool Jam is a rhythm video game which appeared on the Neo Geo Pocket Color in 2000. Cool Cool Jam is comparable in gameplay to other rhythm games such as: PaRappa the Rapper, Donkey Konga or Beatmania.
+
+The storyline involves a boy and a girl who are transported 1,000 years into the future. To return home they must form a successful and popular music band.
+
+The game can be played by one or two players. In two player mode the game plays like a duet; the players take it in turn to play tune and receive a message after completion. The game also features a single player storymode which has adventure game elements. Various instruments can be played in the game. Each instrument has a different playing style. The instruments include:
+
+Clapping to a beat - a bar moves across the screen the player taps a button when they see a red dot. If successful the dot glows.
+
+Violin - The player taps either the A or B when a red light (button A) or a green light (button B) appears. The power can be altered by moving the joystick up and down.
+
+Bluesharp - The player moves the joystick to coincide with the position of the lights. The player then pushes A or B depending whether a red or green light appears.
+
+Guitar - The player pushes A or B to play the strings and the joystick controls the pick.
+
+Saxophone - The player moves the joystick and the buttons to control the pitch as the symbols appear on screen.
+
+Trumpet - The player moves the joystick in four directions to change the pitch to coincide with the coloured symbols. The player then pushes A or B when the marker appears. A bar indicates air pressure.
+
+Guitar 2 - Plays the same as the previous Guitar game only upside down.</desc>
+		<image>./media/screenshots/Cool Cool Jam (USA) (Proto).png</image>
+		<video>./media/videos/Cool Cool Jam (USA) (Proto).mp4</video>
+		<marquee>./media/marquees/Cool Cool Jam (USA) (Proto).png</marquee>
+		<thumbnail>./images/Cool Cool Jam (USA) (Proto)-thumb.png</thumbnail>
+		<boxback>./images/Cool Cool Jam (USA) (Proto)-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>20000810T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Music and Dance / Rhythm</genre>
+		<players>2</players>
+		<crc32>4D8D27F0</crc32>
+		<md5>ca88e3d6291c5cdf7b518d43df5d0d98</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T190826" />
+		<scrap name="HfsDB" date="20230127T141034" />
+		<scrap name="ArcadeDB" date="20221212T175957" />
+	</game>
+	<game id="47027">
+		<path>./No-Intro/Crush Roller (World) (En,Ja).ngc</path>
+		<name>Crush Roller</name>
+		<desc>Crush Roller is a game for the Neo Geo Pocket Color based on the 1981 arcade game Make Trax, which was released as Crush Roller in Europe and Asia.
+
+The object of the game is to color the entire maze-like playing field with a paint brush. While you paint, two enemies walk around in the maze, when they hit you, you lose a life.
+
+A level has rollers which you can push forward with your paint brush. If you capture an enemy in the path of the roller he dies and is temporarily taken out of the game. This scores you extra points. Each subsequent enemy rolled over is worth more points.
+
+Every once in a while another creature will pop up, it will run around leaving behind track marks in your paint. Painting over this creature removes it from the game and scores you additional points. His tracks have to be repainted.
+
+When the entire maze is painted you win the level. Unlike the original arcade version the Neo Geo Pocket Color version has multiple levels.</desc>
+		<image>./media/screenshots/Crush Roller (World) (En,Ja).png</image>
+		<video>./media/videos/Crush Roller (World) (En,Ja).mp4</video>
+		<marquee>./media/marquees/Crush Roller (World) (En,Ja).png</marquee>
+		<thumbnail>./images/Crush Roller (World) (En,Ja)-thumb.png</thumbnail>
+		<manual>./manuals/Crush Roller (World) (En,Ja)-manual.pdf</manual>
+		<boxback>./images/Crush Roller (World) (En,Ja)-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>19990415T000000</releasedate>
+		<developer>ADK</developer>
+		<publisher>SNK</publisher>
+		<genre>Action / Labyrinth</genre>
+		<players>1-2</players>
+		<kidgame>true</kidgame>
+		<crc32>F20FF9F2</crc32>
+		<md5>100f6086bbcd6bccd2ac6f79242f5a87</md5>
+		<lang>en,jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230302T190828" />
+		<scrap name="HfsDB" date="20230127T141034" />
+		<scrap name="ArcadeDB" date="20221212T175957" />
+	</game>
+	<game id="47028">
+		<path>./No-Intro/Dark Arms - Beast Buster 1999 (World) (En,Ja).ngc</path>
+		<name>Beast Busters: Yami no Seitai Heiki</name>
+		<desc>Dark Arms: Beast Buster 1999 is a RPG for the Neo Geo Pocket Color. It's a spin-off from the arcade game Beast Busters.
+
+Parallel to our world we find the Dark Realm. As the player, you find access to this parallel dimension after signing a pact with the Master of the Dark Realm. In his realm, you are supposed to catch monsters. These can be fed to your biological weapons: Dark Arms. You weapons gain abilities from consumed monsters and can evolve into more powerful equipment. You can also find seeds in the Dark Realm that turn into new weapons.
+
+The game features puzzles that have to be solved and a wide array of undead monsters that can be fed to your Dark Arms.</desc>
+		<image>./media/screenshots/Dark Arms - Beast Buster 1999 (World) (En,Ja).png</image>
+		<video>./media/videos/Dark Arms - Beast Buster 1999 (World) (En,Ja).mp4</video>
+		<marquee>./media/marquees/Dark Arms - Beast Buster 1999 (World) (En,Ja).png</marquee>
+		<thumbnail>./images/Dark Arms - Beast Buster 1999 (World) (En,Ja)-thumb.png</thumbnail>
+		<manual>./manuals/Dark Arms - Beast Buster 1999 (World) (En,Ja)-manual.pdf</manual>
+		<boxback>./images/Dark Arms - Beast Buster 1999 (World) (En,Ja)-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>19991021T000000</releasedate>
+		<developer>Noise Factory</developer>
+		<publisher>SNK</publisher>
+		<genre>Role playing games</genre>
+		<players>1-2</players>
+		<kidgame>true</kidgame>
+		<crc32>77CAA548</crc32>
+		<md5>4fb30b1b905ed1f975efb9a8fceb9a62</md5>
+		<lang>en,jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230302T190829" />
+		<scrap name="HfsDB" date="20230127T141133" />
+		<scrap name="ArcadeDB" date="20221212T175957" />
+	</game>
+	<game id="47031">
+		<path>./No-Intro/Dive Alert - Becky's Version (USA, Europe).ngc</path>
+		<name>Dive Alert - Becky's Version</name>
+		<desc>Dive Alert: Becky's Version is an RPG for the Neo Geo Pocket Color. There is another version of Dive Alert called Dive Alert: Matt's Version. The two games are rather like joint Pokemon releases (Red/Blue, etc) wherein they are overall the same game with a variety of smaller differences.
+
+The player takes control of a character named Becky. The game takes place in the future and the world is primarily surrounded by water. The only land is a small patch called Terra. The player must prove their worth to be accepted on to Terra by proving their skill as a submarine commander and destroying enemy vessels.
+
+Becky's version features different characters, items and boats from Matt's Version. These are logged in a device similar to a Pokédex (from Pokemon). Battles take place against enemy ships and a radar view is used to help the player guide torpedoes towards the enemy vessels. Much of the game is text-based with animated cutscenes. 
+
+The game features the ability for two players to link up Neo Geo Pocket Color units to exchanges ships and data, and to battle one on one.  The game also features battery back-up and a training mode.</desc>
+		<image>./media/screenshots/Dive Alert - Becky's Version (USA, Europe).png</image>
+		<video>./media/videos/Dive Alert - Becky's Version (USA, Europe).mp4</video>
+		<marquee>./media/marquees/Dive Alert - Becky's Version (USA, Europe).png</marquee>
+		<thumbnail>./images/Dive Alert - Becky's Version (USA, Europe)-thumb.png</thumbnail>
+		<manual>./manuals/Dive Alert - Becky's Version (USA, Europe)-manual.pdf</manual>
+		<boxback>./images/Dive Alert - Becky's Version (USA, Europe)-boxback.png</boxback>
+		<rating>0.55</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Sacnoth</developer>
+		<publisher>SNK</publisher>
+		<genre>Role playing games</genre>
+		<players>1-2</players>
+		<kidgame>true</kidgame>
+		<crc32>83DB5772</crc32>
+		<md5>c148b30103de704eeed63dfe7a7d6100</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230302T190831" />
+		<scrap name="HfsDB" date="20230127T141235" />
+		<scrap name="ArcadeDB" date="20221212T175957" />
+	</game>
+	<game id="87554">
+		<path>./No-Intro/Dive Alert - Matt's Version (USA, Europe).ngc</path>
+		<name>Dive Alert : Matt's Version</name>
+		<desc>The player takes control of a character named Matt. The game is set in the future and the world is primarily surrounded by water. The only small patch of land called is called Terra. The player must show their worth to be accepted on to Terra by proving their skill as a submarine commander and destroying enemy vessels.
+
+Matt's version features different characters, items and boats to Becky's version. These are logged in a device similar to a Pokédex. The battles take place against other ships. A radar view is used to help players guide torpedoes against the enemy. A large part of the game is text based with animated cutscenes. Two players can link-up with the cable to battle, exchange ships and accumulate other data.</desc>
+		<image>./media/screenshots/Dive Alert - Matt's Version (USA, Europe).png</image>
+		<video>./media/videos/Dive Alert - Matt's Version (USA, Europe).mp4</video>
+		<marquee>./media/marquees/Dive Alert - Matt's Version (USA, Europe).png</marquee>
+		<thumbnail>./images/Dive Alert - Matt's Version (USA, Europe)-thumb.png</thumbnail>
+		<boxback>./images/Dive Alert - Matt's Version (USA, Europe)-boxback.png</boxback>
+		<rating>0.5</rating>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Sacnoth</developer>
+		<publisher>SNK</publisher>
+		<genre>Role playing games</genre>
+		<players>1-2</players>
+		<kidgame>true</kidgame>
+		<crc32>EF75081B</crc32>
+		<md5>0c38b2d5d1a2be15d6c15c6b16b7bc98</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230302T190833" />
+		<scrap name="HfsDB" date="20230127T141334" />
+		<scrap name="ArcadeDB" date="20221212T175958" />
+	</game>
+	<game id="47034">
+		<path>./No-Intro/Faselei! (USA, Europe).ngc</path>
+		<name>Faselei!</name>
+		<desc>Faselei! is one of the last titles to be released for the Neo Geo Pocket Color and even features digitised lyrics to the game's main theme. Heavily story driven, this strategy RPG takes place in a time when mechs known as TS are the weapon of choice for combat. Gameplay revolves around the battles and customising your TS between those battles.
+
+Battles are part turn based and part realtime. The player inputs their actions at the beginning of the turn. The amount of actions they can input is dependant on their type of TS. Once they have finished their selection everything is played out in realtime for the duration of the turn. This makes thinking about what your opponents and allies will do in advance essential before taking your turn.</desc>
+		<image>./media/screenshots/Faselei! (USA, Europe).png</image>
+		<video>./media/videos/Faselei! (USA, Europe).mp4</video>
+		<marquee>./media/marquees/Faselei! (USA, Europe).png</marquee>
+		<thumbnail>./images/Faselei! (USA, Europe)-thumb.png</thumbnail>
+		<manual>./manuals/Faselei! (USA, Europe)-manual.pdf</manual>
+		<boxback>./images/Faselei! (USA, Europe)-boxback.png</boxback>
+		<rating>0.85</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Sacnoth</developer>
+		<publisher>SNK</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<kidgame>true</kidgame>
+		<crc32>E705E30E</crc32>
+		<md5>f580078164dc2b8dffb9f38eeec1035d</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230302T190834" />
+		<scrap name="HfsDB" date="20230127T141736" />
+		<scrap name="ArcadeDB" date="20221212T175959" />
+	</game>
+	<game id="47035">
+		<path>./No-Intro/Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja).ngc</path>
+		<name>Garou Densetsu : First Contact</name>
+		<desc>Using the world-famous Japanese "SD" (Super-Deformed) artwork style, this is the only title of the Fatal Fury series to be released on SNK's color handheld.
+
+The game is based on its arcade/console counterpart Real Bout Fatal Fury 2: The Newcomers, and has its main characteristics, like the possibility of execute special moves while blocking (a.k.a. Breakshots), the execution of high-strength blows (a.k.a. S. Power and P. Power moves) and the starring of two new combatants (Li Xiangfei and Rick Strowd).
+
+Due to NGPC hardware limitations, some characters have been removed from the main cast (as well as the background/foreground battle plane system). With this, the fighters initially available for this contest are: Andy Bogard, Terry Bogard, Joe Higashi, Mai Shiranui, Kim Kaphwan, Ryuji Yamazaki, Rick Strowd, Li Xiangfei, Billy Kane, Wolfgang Krauser and Geese Howard.</desc>
+		<image>./media/screenshots/Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja).png</image>
+		<video>./media/videos/Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja).mp4</video>
+		<marquee>./media/marquees/Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja).png</marquee>
+		<thumbnail>./images/Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja)-thumb.png</thumbnail>
+		<manual>./manuals/Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja)-manual.pdf</manual>
+		<boxback>./images/Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja)-boxback.png</boxback>
+		<rating>0.7</rating>
+		<releasedate>19990527T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Fatal Fury</family>
+		<players>1-2</players>
+		<kidgame>true</kidgame>
+		<crc32>E7E5D6E8</crc32>
+		<md5>8f3175df433b78dfa1a0663f493e1fea</md5>
+		<lang>en,jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230302T190836" />
+		<scrap name="HfsDB" date="20230127T141835" />
+		<scrap name="ArcadeDB" date="20221212T175959" />
+	</game>
+	<game id="47038">
+		<path>./No-Intro/King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja).ngc</path>
+		<name>King of Fighters R-2</name>
+		<desc>Using again the Japanese "SD" (Super-Deformed) artwork style (now reworked), the KOF Series makes your debut in the new SNK's color handheld. The title brings the same gameplay characteristics present in its arcade/console counter-part The King of Fighters '98, like the possibility of choose between two game modes (Advanced or Extra), an identical adaptation of the battle stages, the addition of "Advantage System" (directly related to the power gauges) and the chance to battle with a powered version of the "franchise boss", Rugal Bernstein.
+
+Unlike the previous game (The King of Fighters R-1), this sequence doesn't have a defined storyline, but it's implicit that Rugal is still alive and returns once again to try conquer the world and satisfy his evil ambitions.
+
+The teams included in the game were slightly reformulated and now are the following ones (this time, Leona Heidern and Iori Yagami are single entries):
+
+1. Team Kusanagi (Kyo Kusanagi, Saisyu Kusanagi and Shingo Yabuki)Super Babe Team (Athena Asamiya, Yuri Sakazaki and Kasumi Todo)
+2. New Southtown Team (Ryo Sakazaki, Mai Shiranui and Terry Bogard)
+3. Orochi Team (Yashiro Nanakase, Shermie and Chris)</desc>
+		<image>./media/screenshots/King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja).png</image>
+		<video>./media/videos/King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja).mp4</video>
+		<marquee>./media/marquees/King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja).png</marquee>
+		<thumbnail>./images/King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja)-thumb.png</thumbnail>
+		<manual>./manuals/King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja)-manual.pdf</manual>
+		<boxback>./images/King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja)-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>19990319T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fight</genre>
+		<family>The King of Fighters</family>
+		<players>1-2</players>
+		<kidgame>true</kidgame>
+		<crc32>9BC63F27</crc32>
+		<md5>269ee4a53a63ec36f996fd9d205513ae</md5>
+		<lang>en,jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230302T190838" />
+		<scrap name="HfsDB" date="20230127T141936" />
+		<scrap name="ArcadeDB" date="20221212T180000" />
+	</game>
+	<game id="47064">
+		<path>./No-Intro/Last Blade, The - Beyond the Destiny (USA, Europe).ngc</path>
+		<name>The Last Blade : Beyond the Destiny</name>
+		<desc>1863. History's hidden secret is revealed. During the age known as "Bakumatsu", 135 years ago, chaos rules! It's all yours: A new type of weapon fighting game in which Power and Speed weapons, in addition to various Repel moves can be used to experience a new sensation in video game thrills!</desc>
+		<image>./media/screenshots/Last Blade, The - Beyond the Destiny (USA, Europe).png</image>
+		<video>./media/videos/Last Blade, The - Beyond the Destiny (USA, Europe).mp4</video>
+		<marquee>./media/marquees/Last Blade, The - Beyond the Destiny (USA, Europe).png</marquee>
+		<thumbnail>./images/Last Blade, The - Beyond the Destiny (USA, Europe)-thumb.png</thumbnail>
+		<manual>./manuals/Last Blade, The - Beyond the Destiny (USA, Europe)-manual.pdf</manual>
+		<boxback>./images/Last Blade, The - Beyond the Destiny (USA, Europe)-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Saurus</developer>
+		<publisher>SNK</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<kidgame>true</kidgame>
+		<crc32>94FCFD1E</crc32>
+		<md5>83fa4cb3c629aa57c12f9cec52c5a53d</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230302T190840" />
+		<scrap name="HfsDB" date="20230127T142139" />
+		<scrap name="ArcadeDB" date="20221212T180000" />
+	</game>
+	<game id="87560">
+		<path>./No-Intro/Magical Drop Pocket (USA, Europe).ngc</path>
+		<name>Magical Drop Pocket</name>
+		<desc>Magical Drop Pocket's core mechanics are similar to those of Magical Drop III. The only exception is that that the battlefield consists of six columns instead of seven, akin to the Super Famicom ports of the first two Magical Drop games.
+
+The game features Story, Self Challenge and Friend Challenge; these correspond to the standard 1P VS Com, Solo, and 2P VS modes featured in other Magical Drop games. Story features five difficulty modes while Self Challenge features three.
+
+Like many other handheld puzzle games of the time, Story does not feature a "true" AI opponent; instead, the player attempts to fill a gauge by creating chains. While the player attempts to fill this gauge, the AI attacks at random intervals.</desc>
+		<image>./media/screenshots/Magical Drop Pocket (USA, Europe).png</image>
+		<video>./media/videos/Magical Drop Pocket (USA, Europe).mp4</video>
+		<marquee>./media/marquees/Magical Drop Pocket (USA, Europe).png</marquee>
+		<thumbnail>./images/Magical Drop Pocket (USA, Europe)-thumb.png</thumbnail>
+		<manual>./manuals/Magical Drop Pocket (USA, Europe)-manual.pdf</manual>
+		<boxback>./images/Magical Drop Pocket (USA, Europe)-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>20000304T000000</releasedate>
+		<developer>SAS Sakata</developer>
+		<publisher>SNK</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1-2</players>
+		<kidgame>true</kidgame>
+		<crc32>7712F82D</crc32>
+		<md5>6acfef5fe57d592ea7321e0e440c4ecf</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230302T190841" />
+		<scrap name="HfsDB" date="20230127T142244" />
+		<scrap name="ArcadeDB" date="20221212T180001" />
+	</game>
+	<game id="47040">
+		<path>./No-Intro/Metal Slug - 1st Mission (World) (En,Ja).ngc</path>
+		<name>Metal Slug : 1st Mission</name>
+		<desc>As a member of the elite forces squad "Peregrine Falcons," your mission is to eliminate the evil Colonel Bildegaarn. Using the Metal Slug multifunction tank and the Slug Flyer as well as your wits and handgun blast through up to 17 missions in your quest to make the world safe from tyranny. Multiple stage progressions and a gameplay ranking system give reason to play through more than once. In-game save lets the player on the go turn off the Neo Geo Pocket and not lose progress.</desc>
+		<image>./media/screenshots/Metal Slug - 1st Mission (World) (En,Ja).png</image>
+		<video>./media/videos/Metal Slug - 1st Mission (World) (En,Ja).mp4</video>
+		<marquee>./media/marquees/Metal Slug - 1st Mission (World) (En,Ja).png</marquee>
+		<thumbnail>./images/Metal Slug - 1st Mission (World) (En,Ja)-thumb.png</thumbnail>
+		<fanart>./images/Metal Slug - 1st Mission (World) (En,Ja)-fanart.jpg</fanart>
+		<manual>./manuals/Metal Slug - 1st Mission (World) (En,Ja)-manual.pdf</manual>
+		<boxback>./images/Metal Slug - 1st Mission (World) (En,Ja)-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>19990527T000000</releasedate>
+		<developer>Ukiyotei</developer>
+		<publisher>SNK</publisher>
+		<genre>Shooter / Run and Gun</genre>
+		<family>Metal Slug</family>
+		<players>1</players>
+		<kidgame>true</kidgame>
+		<crc32>D29EC1BA</crc32>
+		<md5>054d066ca6ebcf0b0020dbeea2e80762</md5>
+		<lang>en,jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230302T190843" />
+		<scrap name="ArcadeDB" date="20221212T180002" />
+	</game>
+	<game id="47041">
+		<path>./No-Intro/Metal Slug - 2nd Mission (World) (En,Ja) (Demo).ngc</path>
+		<name>Metal Slug : 2nd Mission</name>
+		<desc>Take control of the Metal Slug tank on the NGPC once again, this time to defeat the rebel strike force "Phantom." Travel through 38 stages in a non-linear battle path defeating enemy troops and rescuing hostages. Pilot the Metal Slug tank, Slug Flyer combat jet, and the Slug Sub submarine and fire the heavy machine gun, rocket launcher, and fire gun. Two unique playable characters, a list of rescued hostages, and a time attack mode add depth to this side-scroller.</desc>
+		<image>./media/screenshots/Metal Slug - 2nd Mission (World) (En,Ja) (Demo).png</image>
+		<video>./media/videos/Metal Slug - 2nd Mission (World) (En,Ja) (Demo).mp4</video>
+		<marquee>./media/marquees/Metal Slug - 2nd Mission (World) (En,Ja) (Demo).png</marquee>
+		<thumbnail>./images/Metal Slug - 2nd Mission (World) (En,Ja) (Demo)-thumb.png</thumbnail>
+		<fanart>./images/Metal Slug - 2nd Mission (World) (En,Ja) (Demo)-fanart.jpg</fanart>
+		<manual>./manuals/Metal Slug - 2nd Mission (World) (En,Ja) (Demo)-manual.pdf</manual>
+		<boxback>./images/Metal Slug - 2nd Mission (World) (En,Ja) (Demo)-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>20000309T000000</releasedate>
+		<developer>Ukiyotei</developer>
+		<publisher>SNK</publisher>
+		<genre>Shooter / Run and Gun</genre>
+		<family>Metal Slug</family>
+		<players>1</players>
+		<kidgame>true</kidgame>
+		<crc32>8B1647D4</crc32>
+		<md5>3e46efdd356157e9d41056ca0885ab65</md5>
+		<lang>en,jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230302T190845" />
+		<scrap name="ArcadeDB" date="20221212T180002" />
+	</game>
+	<game id="47041">
+		<path>./No-Intro/Metal Slug - 2nd Mission (World) (En,Ja).ngc</path>
+		<name>Metal Slug : 2nd Mission</name>
+		<desc>Take control of the Metal Slug tank on the NGPC once again, this time to defeat the rebel strike force "Phantom." Travel through 38 stages in a non-linear battle path defeating enemy troops and rescuing hostages. Pilot the Metal Slug tank, Slug Flyer combat jet, and the Slug Sub submarine and fire the heavy machine gun, rocket launcher, and fire gun. Two unique playable characters, a list of rescued hostages, and a time attack mode add depth to this side-scroller.</desc>
+		<image>./media/screenshots/Metal Slug - 2nd Mission (World) (En,Ja).png</image>
+		<video>./media/videos/Metal Slug - 2nd Mission (World) (En,Ja).mp4</video>
+		<marquee>./media/marquees/Metal Slug - 2nd Mission (World) (En,Ja).png</marquee>
+		<thumbnail>./images/Metal Slug - 2nd Mission (World) (En,Ja)-thumb.png</thumbnail>
+		<fanart>./images/Metal Slug - 2nd Mission (World) (En,Ja)-fanart.jpg</fanart>
+		<manual>./manuals/Metal Slug - 2nd Mission (World) (En,Ja)-manual.pdf</manual>
+		<boxback>./images/Metal Slug - 2nd Mission (World) (En,Ja)-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>20000309T000000</releasedate>
+		<developer>Ukiyotei</developer>
+		<publisher>SNK</publisher>
+		<genre>Shooter / Run and Gun</genre>
+		<family>Metal Slug</family>
+		<players>1</players>
+		<kidgame>true</kidgame>
+		<crc32>18E692A5</crc32>
+		<md5>816b37b41aebe5055d5ef2c079997e7d</md5>
+		<lang>en,jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230302T190846" />
+		<scrap name="ArcadeDB" date="20221212T180002" />
+	</game>
+	<game>
+		<path>./No-Intro/Neo 21 - Pocket Casino Series (World).ngc</path>
+		<name>Neo 21 : Real Casino Series</name>
+		<desc>Neo 21 is a casino-style blackjack game that offers three modes of play: Casino Mode, Original Mode, and Versus mode. As a casino style game, it supports all the actions that players sitting at a casino blackjack table can perform.
+
+Blackjack, also known as "twenty-one," is a card game where players attempt to put together a hand that adds up to as close to 21 in total points without going over. Aces count for one or eleven, face cards count for ten, and the other cards count as their respective values.
+
+At the beginning of each hand, the dealer deals each player, including the dealer, two cards. Each round players can opt to hit, stand, split or double down. When a player calls for a hit, the dealer deals another card. A player who stands is dealt no more cards for the rest of the hand. Players who get dealt two cards of the same value can split them, put another wager down and play both as individual hands. Doubling down is the act of calling for one last hit, and doubling your wager at the same time. Any player who goes over 21 in value busts and loses.
+
+In Neo 21, players engage in a one-on-one match against a CPU dealer, or in the Versus Mode, two players can compete via the link cable, with one acting as the dealer.</desc>
+		<image>./media/screenshots/Neo 21 - Pocket Casino Series (World).png</image>
+		<marquee>./images/Neo 21 - Pocket Casino Series (World)-marquee.png</marquee>
+		<rating></rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Dyna Corp.</developer>
+		<publisher>Dyna Corp</publisher>
+		<genre>Casino</genre>
+		<players>2</players>
+		<crc32>95C38985</crc32>
+		<md5>a60719b4839dd94bb3a8aa93ce91983d</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230302T190847" />
+		<scrap name="HfsDB" date="20230127T144858" />
+		<scrap name="ArcadeDB" date="20221212T180003" />
+	</game>
+	<game id="87566">
+		<path>./No-Intro/Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja) (Demo).ngc</path>
+		<name>Neo Cherry Master Color : Real Casino Series</name>
+		<desc>Experience the play of actual casino gaming! Feel the fun of ultra-real slot machine game simulation!!
+	
+"Cherry Master", the slot machine popular in casinos throughout the world becomes part of the NEOGEO POCKET COLOR. With the vivid screen and the system of no different from the real thing, making for real, adult gaming entertainment!
+
+Includes 2 modes for that tantalizing taste of slot machine gaming! (Original mode for professionals / Simple Mode for beginners)</desc>
+		<image>./media/screenshots/Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja) (Demo).png</image>
+		<video>./media/videos/Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja) (Demo).mp4</video>
+		<marquee>./media/marquees/Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja) (Demo).png</marquee>
+		<thumbnail>./images/Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja) (Demo)-thumb.png</thumbnail>
+		<manual>./manuals/Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja) (Demo)-manual.pdf</manual>
+		<boxback>./images/Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja) (Demo)-boxback.png</boxback>
+		<rating>1</rating>
+		<releasedate>19990319T000000</releasedate>
+		<developer>Dyna Corp.</developer>
+		<publisher>SNK</publisher>
+		<genre>Casino</genre>
+		<players>2</players>
+		<kidgame>true</kidgame>
+		<crc32>1A288507</crc32>
+		<md5>608b25f117cfe8a475f868e0ca17f39c</md5>
+		<lang>en,jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230302T190849" />
+		<scrap name="HfsDB" date="20230127T142551" />
+		<scrap name="ArcadeDB" date="20221212T180003" />
+	</game>
+	<game id="87566">
+		<path>./No-Intro/Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja).ngc</path>
+		<name>Neo Cherry Master Color : Real Casino Series</name>
+		<desc>Experience the play of actual casino gaming! Feel the fun of ultra-real slot machine game simulation!!
+	
+"Cherry Master", the slot machine popular in casinos throughout the world becomes part of the NEOGEO POCKET COLOR. With the vivid screen and the system of no different from the real thing, making for real, adult gaming entertainment!
+
+Includes 2 modes for that tantalizing taste of slot machine gaming! (Original mode for professionals / Simple Mode for beginners)</desc>
+		<image>./media/screenshots/Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja).png</image>
+		<video>./media/videos/Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja).mp4</video>
+		<marquee>./media/marquees/Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja).png</marquee>
+		<thumbnail>./images/Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja)-thumb.png</thumbnail>
+		<manual>./manuals/Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja)-manual.pdf</manual>
+		<boxback>./images/Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja)-boxback.png</boxback>
+		<rating>1</rating>
+		<releasedate>19990319T000000</releasedate>
+		<developer>Dyna Corp.</developer>
+		<publisher>SNK</publisher>
+		<genre>Casino</genre>
+		<players>2</players>
+		<kidgame>true</kidgame>
+		<crc32>2F6EB991</crc32>
+		<md5>279b9bf6ec9b7c473d310cfd6e3cee4d</md5>
+		<lang>en,jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230302T190850" />
+		<scrap name="HfsDB" date="20230127T142648" />
+		<scrap name="ArcadeDB" date="20221212T180003" />
+	</game>
+	<game id="87568">
+		<path>./No-Intro/Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (v11).ngc</path>
+		<name>Neo Dragon's Wild : Real Casino Series</name>
+		<desc>The super authentic Poker game simulation!!
+
+The popular casino poker game for NEOGEO POCKET! This system can be enjoyed by everyone: from enthusiasts who enjoy casino game realism, to casino game novices. Now you can enjoy true game excitement with Neo Dragon's Wild - the new pocket casino game!
+
+Beginners can select Simple Mode for easier game settings.
+Skilled players can choose Original Mode to enjoy real poker with authentic feel.</desc>
+		<image>./media/screenshots/Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (v11).png</image>
+		<video>./media/videos/Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (v11).mp4</video>
+		<marquee>./media/marquees/Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (v11).png</marquee>
+		<thumbnail>./images/Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (v11)-thumb.png</thumbnail>
+		<boxback>./images/Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (v11)-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>19990319T000000</releasedate>
+		<developer>Dyna Corp.</developer>
+		<publisher>SNK</publisher>
+		<genre>Casino</genre>
+		<players>1</players>
+		<kidgame>true</kidgame>
+		<crc32>225FD7F9</crc32>
+		<md5>c0ced1d22506e46c4667bc0e926d921e</md5>
+		<lang>en,jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230302T190852" />
+		<scrap name="HfsDB" date="20230127T142747" />
+		<scrap name="ArcadeDB" date="20221212T180003" />
+	</game>
+	<game id="87568">
+		<path>./No-Intro/Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (v13).ngc</path>
+		<name>Neo Dragon's Wild : Real Casino Series</name>
+		<desc>The super authentic Poker game simulation!!
+
+The popular casino poker game for NEOGEO POCKET! This system can be enjoyed by everyone: from enthusiasts who enjoy casino game realism, to casino game novices. Now you can enjoy true game excitement with Neo Dragon's Wild - the new pocket casino game!
+
+Beginners can select Simple Mode for easier game settings.
+Skilled players can choose Original Mode to enjoy real poker with authentic feel.</desc>
+		<image>./media/screenshots/Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (v13).png</image>
+		<video>./media/videos/Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (v13).mp4</video>
+		<marquee>./media/marquees/Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (v13).png</marquee>
+		<thumbnail>./images/Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (v13)-thumb.png</thumbnail>
+		<boxback>./images/Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (v13)-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>19990319T000000</releasedate>
+		<developer>Dyna Corp.</developer>
+		<publisher>SNK</publisher>
+		<genre>Casino</genre>
+		<players>1</players>
+		<kidgame>true</kidgame>
+		<crc32>5D028C99</crc32>
+		<md5>f0fdd57f4d1a1470b826082586ead479</md5>
+		<lang>en,jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230302T190854" />
+		<scrap name="HfsDB" date="20230127T142747" />
+		<scrap name="ArcadeDB" date="20221212T180004" />
+	</game>
+	<game id="87569">
+		<path>./No-Intro/Neo Mystery Bonus - Pocket Casino Series (World) (En,Ja).ngc</path>
+		<name>Neo Mystery Bonus : Real Casino Series</name>
+		<desc>Neo Mystery Bonus, while not the most fully featured slots game around, is quick and simple to get into. Like most other slots games You start by placing your bet then spin the slots and test your luck. The graphics are plain and depict the different icons on the machine very clearly. There are no extra modes in the game, just basic slots.</desc>
+		<image>./media/screenshots/Neo Mystery Bonus - Pocket Casino Series (World) (En,Ja).png</image>
+		<video>./media/videos/Neo Mystery Bonus - Pocket Casino Series (World) (En,Ja).mp4</video>
+		<marquee>./media/marquees/Neo Mystery Bonus - Pocket Casino Series (World) (En,Ja).png</marquee>
+		<thumbnail>./images/Neo Mystery Bonus - Pocket Casino Series (World) (En,Ja)-thumb.png</thumbnail>
+		<boxback>./images/Neo Mystery Bonus - Pocket Casino Series (World) (En,Ja)-boxback.png</boxback>
+		<rating>0.95</rating>
+		<releasedate>19990319T000000</releasedate>
+		<developer>Dyna Corp.</developer>
+		<publisher>SNK</publisher>
+		<genre>Casino</genre>
+		<players>1</players>
+		<kidgame>true</kidgame>
+		<crc32>E79DC5B3</crc32>
+		<md5>cef050e2591435a5c41ff851afa55a82</md5>
+		<lang>en,jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230302T190855" />
+		<scrap name="HfsDB" date="20230127T142748" />
+		<scrap name="ArcadeDB" date="20221212T180004" />
+	</game>
+	<game id="47043">
+		<path>./No-Intro/Neo Turf Masters (World) (En,Ja) (Demo).ngc</path>
+		<name>Big Tournament Golf</name>
+		<desc>Neo Turf Masters is a golf game that offers play in three different countries. You can play in the US, Germany, and Japan. There are 18 holes per course, just like in real life, which totals to 54 holes. The game features a two-player versus mode and three single player modes. You can choose from one of six different characters, who each have their own strengths and weaknesses. Like many other golf games, you use an accurate click type of play, where you click in an overhead map where you want to hit the ball, then adjust hook, slice, and power. In Versus mode, you can earn "super-clubs" that can only be used once. These can also be traded between friends.</desc>
+		<image>./media/screenshots/Neo Turf Masters (World) (En,Ja) (Demo).png</image>
+		<video>./media/videos/Neo Turf Masters (World) (En,Ja) (Demo).mp4</video>
+		<marquee>./media/marquees/Neo Turf Masters (World) (En,Ja) (Demo).png</marquee>
+		<thumbnail>./images/Neo Turf Masters (World) (En,Ja) (Demo)-thumb.png</thumbnail>
+		<manual>./manuals/Neo Turf Masters (World) (En,Ja) (Demo)-manual.pdf</manual>
+		<boxback>./images/Neo Turf Masters (World) (En,Ja) (Demo)-boxback.png</boxback>
+		<rating>0.85</rating>
+		<releasedate>19990729T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Sports / Golf</genre>
+		<players>1-2</players>
+		<kidgame>true</kidgame>
+		<crc32>9DCA6ED6</crc32>
+		<md5>f78476c51c398b28e1d2257299d14758</md5>
+		<lang>en,jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230302T190857" />
+		<scrap name="HfsDB" date="20230127T142848" />
+		<scrap name="ArcadeDB" date="20221212T180004" />
+	</game>
+	<game id="47043">
+		<path>./No-Intro/Neo Turf Masters (World) (En,Ja).ngc</path>
+		<name>Big Tournament Golf</name>
+		<desc>Neo Turf Masters is a golf game that offers play in three different countries. You can play in the US, Germany, and Japan. There are 18 holes per course, just like in real life, which totals to 54 holes. The game features a two-player versus mode and three single player modes. You can choose from one of six different characters, who each have their own strengths and weaknesses. Like many other golf games, you use an accurate click type of play, where you click in an overhead map where you want to hit the ball, then adjust hook, slice, and power. In Versus mode, you can earn "super-clubs" that can only be used once. These can also be traded between friends.</desc>
+		<image>./media/screenshots/Neo Turf Masters (World) (En,Ja).png</image>
+		<video>./media/videos/Neo Turf Masters (World) (En,Ja).mp4</video>
+		<marquee>./media/marquees/Neo Turf Masters (World) (En,Ja).png</marquee>
+		<thumbnail>./images/Neo Turf Masters (World) (En,Ja)-thumb.png</thumbnail>
+		<manual>./manuals/Neo Turf Masters (World) (En,Ja)-manual.pdf</manual>
+		<boxback>./images/Neo Turf Masters (World) (En,Ja)-boxback.png</boxback>
+		<rating>0.85</rating>
+		<releasedate>19990729T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Sports / Golf</genre>
+		<players>1-2</players>
+		<kidgame>true</kidgame>
+		<crc32>E0E853DD</crc32>
+		<md5>1222a2eca8db9b54f044fa2fe2f50a61</md5>
+		<lang>en,jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230302T190858" />
+		<scrap name="HfsDB" date="20230127T142849" />
+		<scrap name="ArcadeDB" date="20221212T180004" />
+	</game>
+	<game id="47042">
+		<path>./No-Intro/NeoGeo Cup '98 Plus Color - Pocket Sports Series (World) (En,Ja).ngc</path>
+		<name>NeoGeo Cup '98 Plus</name>
+		<desc>Neo Geo Cup '98 Plus is a soccer game for the Neo Geo Pocket. The game features single match play, head-to-head play (using a link cable), and story mode. You can choose to play one of 16 international teams. Each team has their own collective stats. On the field you can perform passes, shots, dribbles, slidings and charges. In the story mode you have to win as many matches as possible in a series of tournaments. Before and during matches you can change the field formations and switch players. Each won match gives you prize money, this can be used to buy items for your team. These items usually improve one stat, but decrease another.</desc>
+		<image>./media/screenshots/NeoGeo Cup '98 Plus Color - Pocket Sports Series (World) (En,Ja).png</image>
+		<video>./media/videos/NeoGeo Cup '98 Plus Color - Pocket Sports Series (World) (En,Ja).mp4</video>
+		<marquee>./media/marquees/NeoGeo Cup '98 Plus Color - Pocket Sports Series (World) (En,Ja).png</marquee>
+		<thumbnail>./images/NeoGeo Cup '98 Plus Color - Pocket Sports Series (World) (En,Ja)-thumb.png</thumbnail>
+		<manual>./manuals/NeoGeo Cup '98 Plus Color - Pocket Sports Series (World) (En,Ja)-manual.pdf</manual>
+		<boxback>./images/NeoGeo Cup '98 Plus Color - Pocket Sports Series (World) (En,Ja)-boxback.png</boxback>
+		<rating>0.6</rating>
+		<releasedate>19990415T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Sports / Soccer</genre>
+		<players>1</players>
+		<kidgame>true</kidgame>
+		<crc32>C0DA4FE9</crc32>
+		<md5>a6c3369f28558e4a9719dc54d50be713</md5>
+		<lang>en,jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230302T190859" />
+		<scrap name="HfsDB" date="20230127T142948" />
+		<scrap name="ArcadeDB" date="20221212T180004" />
+	</game>
+	<game id="47044">
+		<path>./No-Intro/Pac-Man (World) (En,Ja).ngc</path>
+		<name>Pac-Man</name>
+		<desc>One of the most popular and influential games of the 1980's, Pac-Man stars a little, yellow dot-muncher who works his way around to clear a maze of the various dots and fruit which inhabit the board.
+
+Pac-Man's goal is continually challenged by four ghosts: The shy blue ghost Bashful (Inky), the trailing red ghost Shadow (Blinky), the fast pink ghost Speedy (Pinky), and the forgetful orange ghost Pokey (Clyde).  One touch from any of these ghosts means a loss of life for Pac-Man.
+
+Pac-Man can turn the tables on his pursuers by eating of the four Energizers located within the maze.  During this time, the ghosts turn blue, and Pac-Man can eat them for bonus points.  This only lasts for a limited amount of time, as the ghost's eyes float back to their center box, and regenerate to chase after Pac-Man again.
+
+Survive a few rounds of gameplay, and be treated to humorous intermissions between Pac-Man and the ghosts.</desc>
+		<image>./media/screenshots/Pac-Man (World) (En,Ja).png</image>
+		<video>./media/videos/Pac-Man (World) (En,Ja).mp4</video>
+		<marquee>./media/marquees/Pac-Man (World) (En,Ja).png</marquee>
+		<thumbnail>./images/Pac-Man (World) (En,Ja)-thumb.png</thumbnail>
+		<fanart>./images/Pac-Man (World) (En,Ja)-fanart.jpg</fanart>
+		<manual>./manuals/Pac-Man (World) (En,Ja)-manual.pdf</manual>
+		<boxback>./images/Pac-Man (World) (En,Ja)-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>19990826T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>SNK</publisher>
+		<genre>Action / Labyrinth</genre>
+		<family>Pac-Man</family>
+		<players>1</players>
+		<kidgame>true</kidgame>
+		<crc32>21E8CC15</crc32>
+		<md5>ac5ad76d5e6614ae576c2c837f0fab1d</md5>
+		<lang>en,jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230302T190901" />
+		<scrap name="ArcadeDB" date="20221212T180005" />
+	</game>
+	<game id="87585">
+		<path>./No-Intro/Pocket Tennis Color - Pocket Sports Series (World) (En,Ja).ngc</path>
+		<name>Pocket Tennis Color : Pocket Sports Series</name>
+		<desc>This sports favorite boasts eight playable characters and enough tennis action to keep any fan happy. Enjoy realistic play that gives you complete array of shots, including lobs, high-speed smashes and more. Exhibition mode sets up a single match against the computer, or, with the NeoGeo Cable Link (sold separately), a friend. Tournament mode pits you against stiff competition to see if you've got what it takes to earn the title. Save your match results so you can brag later. Record mode lets you relax and enjoy your on-court accomplishments by viewing your records and trophies.</desc>
+		<image>./media/screenshots/Pocket Tennis Color - Pocket Sports Series (World) (En,Ja).png</image>
+		<video>./media/videos/Pocket Tennis Color - Pocket Sports Series (World) (En,Ja).mp4</video>
+		<marquee>./media/marquees/Pocket Tennis Color - Pocket Sports Series (World) (En,Ja).png</marquee>
+		<thumbnail>./images/Pocket Tennis Color - Pocket Sports Series (World) (En,Ja)-thumb.png</thumbnail>
+		<boxback>./images/Pocket Tennis Color - Pocket Sports Series (World) (En,Ja)-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>19990319T000000</releasedate>
+		<developer>Yumekobo</developer>
+		<publisher>SNK</publisher>
+		<genre>Sports / Tennis</genre>
+		<players>1</players>
+		<kidgame>true</kidgame>
+		<crc32>E0B9AA22</crc32>
+		<md5>8b7105aee46be795f1ee0a0f9efdb445</md5>
+		<lang>en,jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230302T190902" />
+		<scrap name="HfsDB" date="20230127T143751" />
+		<scrap name="ArcadeDB" date="20221212T180008" />
+	</game>
+	<game id="87587">
+		<path>./No-Intro/Puyo Pop (World) (En,Ja) (v05).ngc</path>
+		<name>Puyo Puyo 2</name>
+		<desc>The object of this head-to-head puzzle game is to clear your grid of falling patterns called puyos by forming chains of four or more same-colored puyos in a straight line or one of several geometric patterns. What makes this a challenging two-player contest is the fact that when you clear a chain of puyos from your grid, it drops a random piece of filler onto your opponent's grid. The more puyos you clear, the more you fill your opponent's grid, and if you can clutter up his grid enough to fill it to the top, you've won the game.</desc>
+		<image>./media/screenshots/Puyo Pop (World) (En,Ja) (v05).png</image>
+		<video>./media/videos/Puyo Pop (World) (En,Ja) (v05).mp4</video>
+		<marquee>./media/marquees/Puyo Pop (World) (En,Ja) (v05).png</marquee>
+		<thumbnail>./images/Puyo Pop (World) (En,Ja) (v05)-thumb.png</thumbnail>
+		<manual>./manuals/Puyo Pop (World) (En,Ja) (v05)-manual.pdf</manual>
+		<boxback>./images/Puyo Pop (World) (En,Ja) (v05)-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>19990722T000000</releasedate>
+		<developer>Compile</developer>
+		<publisher>SNK</publisher>
+		<genre>Puzzle-Game / Fall</genre>
+		<family>Puyo Puyo</family>
+		<players>1</players>
+		<kidgame>true</kidgame>
+		<crc32>3090B2FD</crc32>
+		<md5>7ff625dc216783b034b011351c98255f</md5>
+		<lang>en,jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230302T190904" />
+		<scrap name="HfsDB" date="20230127T143752" />
+		<scrap name="ArcadeDB" date="20221212T180008" />
+	</game>
+	<game id="87587">
+		<path>./No-Intro/Puyo Pop (World) (En,Ja) (v06).ngc</path>
+		<name>Puyo Puyo 2</name>
+		<desc>The object of this head-to-head puzzle game is to clear your grid of falling patterns called puyos by forming chains of four or more same-colored puyos in a straight line or one of several geometric patterns. What makes this a challenging two-player contest is the fact that when you clear a chain of puyos from your grid, it drops a random piece of filler onto your opponent's grid. The more puyos you clear, the more you fill your opponent's grid, and if you can clutter up his grid enough to fill it to the top, you've won the game.</desc>
+		<image>./media/screenshots/Puyo Pop (World) (En,Ja) (v06).png</image>
+		<video>./media/videos/Puyo Pop (World) (En,Ja) (v06).mp4</video>
+		<marquee>./media/marquees/Puyo Pop (World) (En,Ja) (v06).png</marquee>
+		<thumbnail>./images/Puyo Pop (World) (En,Ja) (v06)-thumb.png</thumbnail>
+		<manual>./manuals/Puyo Pop (World) (En,Ja) (v06)-manual.pdf</manual>
+		<boxback>./images/Puyo Pop (World) (En,Ja) (v06)-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>19990722T000000</releasedate>
+		<developer>Compile</developer>
+		<publisher>SNK</publisher>
+		<genre>Puzzle-Game / Fall</genre>
+		<family>Puyo Puyo</family>
+		<players>1</players>
+		<kidgame>true</kidgame>
+		<crc32>5C649D1E</crc32>
+		<md5>d40dc57b9cc3a30a2400f8cfd8724578</md5>
+		<lang>en,jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230302T190906" />
+		<scrap name="HfsDB" date="20230127T143752" />
+		<scrap name="ArcadeDB" date="20221212T180008" />
+	</game>
+	<game id="47046">
+		<path>./No-Intro/Puzzle Link (USA, Europe).ngc</path>
+		<name>Puzzle Link</name>
+		<desc>Puzzle Link is a game where blocks of matching color have to be dissolved. New blocks constantly scroll into the screen from the top. The game is over when the first blocks reach the bottom of the screen. You can dissolve blocks by shooting at them. The shots form a line where they impact. If that line connects otherwise unconnected blocks of the same color they will dissolve.
+
+There are three different modes: In "Normal" you have to link two special blocks that appear after some time. If you manage to finish the level within the time limit you will unlock one of 50 collectible cards. In "Clear Mode" you have to clear a given constellation of blocks. "Battle Mode" is a two player link-cable mode.</desc>
+		<image>./media/screenshots/Puzzle Link (USA, Europe).png</image>
+		<video>./media/videos/Puzzle Link (USA, Europe).mp4</video>
+		<marquee>./media/marquees/Puzzle Link (USA, Europe).png</marquee>
+		<thumbnail>./images/Puzzle Link (USA, Europe)-thumb.png</thumbnail>
+		<manual>./manuals/Puzzle Link (USA, Europe)-manual.pdf</manual>
+		<boxback>./images/Puzzle Link (USA, Europe)-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Yumekobo</developer>
+		<publisher>SNK</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<kidgame>true</kidgame>
+		<crc32>8D0610AC</crc32>
+		<md5>df694e1f69ded1df68a4ac52a13fb44a</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230302T190907" />
+		<scrap name="HfsDB" date="20230127T143851" />
+		<scrap name="ArcadeDB" date="20221212T180008" />
+	</game>
+	<game id="47047">
+		<path>./No-Intro/Puzzle Link 2 (USA, Europe).ngc</path>
+		<name>Puzzle Link 2</name>
+		<desc>The gameplay of Puzzle Link 2 is generally identical to the first game: Puzzle Link is a game where blocks of matching color have to be dissolved. New blocks constantly scroll into the screen from the top. The game is over when the first blocks reach the bottom of the screen. You can dissolve blocks by shooting at them. The shots form a line where they impact. If that line connects otherwise unconnected blocks of the same color they will dissolve.
+
+There are new modes in Puzzle Link 2. Like the original, there are the standard challenge and puzzle rounds. But new to the series is the marathon-style game where you continue eliminating pieces as the game gradually increases speed. In this mode, more power-ups appear as the player performs faster. Here, you get three shots that will eliminate the same color tile from the board. The game also has link cable support for two players.</desc>
+		<image>./media/screenshots/Puzzle Link 2 (USA, Europe).png</image>
+		<video>./media/videos/Puzzle Link 2 (USA, Europe).mp4</video>
+		<marquee>./media/marquees/Puzzle Link 2 (USA, Europe).png</marquee>
+		<thumbnail>./images/Puzzle Link 2 (USA, Europe)-thumb.png</thumbnail>
+		<manual>./manuals/Puzzle Link 2 (USA, Europe)-manual.pdf</manual>
+		<boxback>./images/Puzzle Link 2 (USA, Europe)-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Yumekobo</developer>
+		<publisher>SNK</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<kidgame>true</kidgame>
+		<crc32>BA9CA21C</crc32>
+		<md5>9b30216da76c9de87caea93f13977396</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230302T190909" />
+		<scrap name="HfsDB" date="20230127T143852" />
+		<scrap name="ArcadeDB" date="20221212T180008" />
+	</game>
+	<game id="47048">
+		<path>./No-Intro/Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja).ngc</path>
+		<name>Samurai Spirits! 2</name>
+		<desc>One of SNK's legendary fighting game series has made a return! In Samurai Shodown II, you can take on one of the roles of 15 warriors as you fight your way through the land to defeat the evil Mizuki! Slash, kick, and slice your opponents in half...do whatever it takes...live by the sword, and die by its blade.</desc>
+		<image>./media/screenshots/Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja).png</image>
+		<video>./media/videos/Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja).mp4</video>
+		<marquee>./media/marquees/Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja).png</marquee>
+		<thumbnail>./images/Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja)-thumb.png</thumbnail>
+		<manual>./manuals/Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja)-manual.pdf</manual>
+		<boxback>./images/Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja)-boxback.png</boxback>
+		<rating>0.7</rating>
+		<releasedate>19990610T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Samurai Shodown</family>
+		<players>1-2</players>
+		<kidgame>true</kidgame>
+		<crc32>58A62FB2</crc32>
+		<md5>9b11b2632f926301096a40491042a089</md5>
+		<lang>en,jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230302T190911" />
+		<scrap name="HfsDB" date="20230127T143953" />
+		<scrap name="ArcadeDB" date="20221212T180009" />
+	</game>
+	<game id="47049">
+		<path>./No-Intro/Shanghai Mini (World) (En,Ja) (Beta 1).ngc</path>
+		<name>Shanghai Mini</name>
+		<desc>Shanghai Mini is a release for one more platform in the for ever continuing series of Activision's tile matching game. 
+
+Included are classic, tournament and dynasty modes. Classic is normal game with six different board layouts. In tournament game player challenges the Tower of Shanghai and tries to beat the Shanghai Master by solving different board layouts within time limit. Dynasty is two player competition - against computer or human (requires link cable) opponent.</desc>
+		<image>./media/screenshots/Shanghai Mini (World) (En,Ja) (Beta 1).png</image>
+		<video>./media/videos/Shanghai Mini (World) (En,Ja) (Beta 1).mp4</video>
+		<marquee>./media/marquees/Shanghai Mini (World) (En,Ja) (Beta 1).png</marquee>
+		<thumbnail>./images/Shanghai Mini (World) (En,Ja) (Beta 1)-thumb.png</thumbnail>
+		<boxback>./images/Shanghai Mini (World) (En,Ja) (Beta 1)-boxback.png</boxback>
+		<rating>0.7</rating>
+		<releasedate>19990729T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Strategy</genre>
+		<players>1-2</players>
+		<kidgame>true</kidgame>
+		<crc32>79620C3F</crc32>
+		<md5>100760e5f548abff92a36761fcf6ee14</md5>
+		<lang>en,jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230302T190912" />
+		<scrap name="HfsDB" date="20230127T143953" />
+		<scrap name="ArcadeDB" date="20221212T180009" />
+	</game>
+	<game id="47049">
+		<path>./No-Intro/Shanghai Mini (World) (En,Ja) (Beta 2).ngc</path>
+		<name>Shanghai Mini</name>
+		<desc>Shanghai Mini is a release for one more platform in the for ever continuing series of Activision's tile matching game. 
+
+Included are classic, tournament and dynasty modes. Classic is normal game with six different board layouts. In tournament game player challenges the Tower of Shanghai and tries to beat the Shanghai Master by solving different board layouts within time limit. Dynasty is two player competition - against computer or human (requires link cable) opponent.</desc>
+		<image>./media/screenshots/Shanghai Mini (World) (En,Ja) (Beta 2).png</image>
+		<video>./media/videos/Shanghai Mini (World) (En,Ja) (Beta 2).mp4</video>
+		<marquee>./media/marquees/Shanghai Mini (World) (En,Ja) (Beta 2).png</marquee>
+		<thumbnail>./images/Shanghai Mini (World) (En,Ja) (Beta 2)-thumb.png</thumbnail>
+		<boxback>./images/Shanghai Mini (World) (En,Ja) (Beta 2)-boxback.png</boxback>
+		<rating>0.7</rating>
+		<releasedate>19990729T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Strategy</genre>
+		<players>1-2</players>
+		<kidgame>true</kidgame>
+		<crc32>920AF0ED</crc32>
+		<md5>f547e657f717223c8a286e51aa159f86</md5>
+		<lang>en,jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230302T190914" />
+		<scrap name="HfsDB" date="20230127T144054" />
+		<scrap name="ArcadeDB" date="20221212T180009" />
+	</game>
+	<game id="47049">
+		<path>./No-Intro/Shanghai Mini (World) (En,Ja).ngc</path>
+		<name>Shanghai Mini</name>
+		<desc>Shanghai Mini is a release for one more platform in the for ever continuing series of Activision's tile matching game. 
+
+Included are classic, tournament and dynasty modes. Classic is normal game with six different board layouts. In tournament game player challenges the Tower of Shanghai and tries to beat the Shanghai Master by solving different board layouts within time limit. Dynasty is two player competition - against computer or human (requires link cable) opponent.</desc>
+		<image>./media/screenshots/Shanghai Mini (World) (En,Ja).png</image>
+		<video>./media/videos/Shanghai Mini (World) (En,Ja).mp4</video>
+		<marquee>./media/marquees/Shanghai Mini (World) (En,Ja).png</marquee>
+		<thumbnail>./images/Shanghai Mini (World) (En,Ja)-thumb.png</thumbnail>
+		<boxback>./images/Shanghai Mini (World) (En,Ja)-boxback.png</boxback>
+		<rating>0.7</rating>
+		<releasedate>19990729T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Strategy</genre>
+		<players>1-2</players>
+		<kidgame>true</kidgame>
+		<crc32>90732D53</crc32>
+		<md5>7c262a2c6390445170d0bf83290c939c</md5>
+		<lang>en,jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230302T190916" />
+		<scrap name="HfsDB" date="20230127T144055" />
+		<scrap name="ArcadeDB" date="20221212T180009" />
+	</game>
+	<game id="47050">
+		<path>./No-Intro/SNK Gals' Fighters (USA, Europe).ngc</path>
+		<name>SNK Gals Fighters</name>
+		<desc>Organized and sponsored by a mysterious fighter nicknamed as "Miss X", the first Queen of Fighters Tournament is officially open, but this competition differs of the others for allowing ONLY women as participants. Meanwhile, after have passed for several and tough fights (including a final showdown with Miss X), the winner will be rewarded with a mystical artifact known as the "K Talisman", that has the capacity to grant any wish. With this rare-unique possibility of accomplish their pessoal dreams and ambitions, 8 powerful femme fatale fighters were invited to face the biggest combat of their lives...
+
+Behind this simple storyline, the title brings a cast of 8 all-female characters taken from SNK's fighting series The King of Fighters (Mai Shiranui, Yuri Sakazaki, Athena Asamiya, Leona Heidern, Shermie), The Last Blade (Akari Ichijyou) and Samurai Shodown (Shiki, Nakoruru); all with the same blows (parodied or not) of their origin games.
+
+The gameplay is identical to KOF's Advanced Mode (e.g. Emergency Evasion and Run commands), but without SDMs. To increase the replay factor, a power-up mode was included: depending on your combat performance, you'll be favored with several random items (e.g. Start with full MAX gauge, Speed Up etc.) that can be used to improve your character for a while.</desc>
+		<image>./media/screenshots/SNK Gals' Fighters (USA, Europe).png</image>
+		<video>./media/videos/SNK Gals' Fighters (USA, Europe).mp4</video>
+		<marquee>./media/marquees/SNK Gals' Fighters (USA, Europe).png</marquee>
+		<thumbnail>./images/SNK Gals' Fighters (USA, Europe)-thumb.png</thumbnail>
+		<manual>./manuals/SNK Gals' Fighters (USA, Europe)-manual.pdf</manual>
+		<boxback>./images/SNK Gals' Fighters (USA, Europe)-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Yumekobo</developer>
+		<publisher>SNK</publisher>
+		<genre>Fight</genre>
+		<players>1-2</players>
+		<kidgame>true</kidgame>
+		<crc32>B02C2BE7</crc32>
+		<md5>08922d2bdc6c80d56ddf50836ccad77c</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230302T190917" />
+		<scrap name="HfsDB" date="20230127T144255" />
+		<scrap name="ArcadeDB" date="20221212T180010" />
+	</game>
+	<game id="47051">
+		<path>./No-Intro/SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe).ngc</path>
+		<name>SNK vs. Capcom : Card Fighters Clash - Capcom Version</name>
+		<desc>Compete in the SC Card Fighters' Clash tournament with your Capcom deck in this NGPC card game. Collect the 300 cards from both SNK and Capcom franchises and duel and trade with your friends using the extensive link mode. With mechanics similar to CCGs such as Yu-Gi-Oh and popular characters from both SNK and Capcom, Card Fighters clash offers both collection and strategy gameplay. This game also allows linking with SNK vs. Capcom: Match of the Millennium to transfer collectible points.</desc>
+		<image>./media/screenshots/SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe).png</image>
+		<video>./media/videos/SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe).mp4</video>
+		<marquee>./media/marquees/SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe).png</marquee>
+		<thumbnail>./images/SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe)-thumb.png</thumbnail>
+		<boxback>./images/SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe)-boxback.png</boxback>
+		<rating>0.9</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>Capcom</publisher>
+		<genre>Strategy</genre>
+		<players>1-2</players>
+		<kidgame>true</kidgame>
+		<crc32>80CE137B</crc32>
+		<md5>3bcc1c9ef59a75e3c2e6b49be6b84bab</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230302T190919" />
+		<scrap name="HfsDB" date="20230127T144255" />
+		<scrap name="ArcadeDB" date="20221212T180010" />
+	</game>
+	<game id="47052">
+		<path>./No-Intro/SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe).ngc</path>
+		<name>SNK vs. Capcom - Card Fighters Clash - SNK Version</name>
+		<desc>Compete in the SC Card Fighters' Clash tournament with your SNK deck in this NGPC card game. Collect the 300 cards from both SNK and Capcom franchises and duel and trade with your friends using the extensive link mode. With mechanics similar to CCGs such as Yu-Gi-Oh and popular characters from both SNK and Capcom, Card Fighters clash offers both collection and strategy gameplay. This game also allows linking with SNK vs. Capcom: Match of the Millennium to transfer collectible points.</desc>
+		<image>./media/screenshots/SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe).png</image>
+		<video>./media/videos/SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe).mp4</video>
+		<marquee>./media/marquees/SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe).png</marquee>
+		<thumbnail>./images/SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe)-thumb.png</thumbnail>
+		<boxback>./images/SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe)-boxback.png</boxback>
+		<rating>0.9</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>Capcom</publisher>
+		<genre>Strategy</genre>
+		<players>1-2</players>
+		<kidgame>true</kidgame>
+		<crc32>94B63A97</crc32>
+		<md5>74e8381e94565e21a3197449bb4423bf</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230302T190920" />
+		<scrap name="HfsDB" date="20230127T144356" />
+		<scrap name="ArcadeDB" date="20221212T180010" />
+	</game>
+	<game id="47053">
+		<path>./No-Intro/SNK vs. Capcom - The Match of the Millennium (World) (En,Ja).ngc</path>
+		<name>Choujou Kessen Saikyou Fighters : SNK vs. Capcom</name>
+		<desc>With 18 starting characters (26 total after unlocking), numerous battle modes and varied minigames, this may be the largest fighting game for the Neo Geo Pocket Color. Choose the fighting style that suits you from the available Single, Tag and Team modes. The SC Olympic mode grants access to minigames from a music game featuring Felicia to a whack-a-mole style game with Jubei. The Olympic mode also allows players to compete for gold, silver and bronze medals in various fighting challenges. Link features include NGPC-to-NGPC battles and NGPC-to-Dreamcast data exchange with other SNK titles.</desc>
+		<image>./media/screenshots/SNK vs. Capcom - The Match of the Millennium (World) (En,Ja).png</image>
+		<video>./media/videos/SNK vs. Capcom - The Match of the Millennium (World) (En,Ja).mp4</video>
+		<marquee>./media/marquees/SNK vs. Capcom - The Match of the Millennium (World) (En,Ja).png</marquee>
+		<thumbnail>./images/SNK vs. Capcom - The Match of the Millennium (World) (En,Ja)-thumb.png</thumbnail>
+		<manual>./manuals/SNK vs. Capcom - The Match of the Millennium (World) (En,Ja)-manual.pdf</manual>
+		<boxback>./images/SNK vs. Capcom - The Match of the Millennium (World) (En,Ja)-boxback.png</boxback>
+		<rating>0.9</rating>
+		<releasedate>19991022T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight</genre>
+		<players>1-2</players>
+		<kidgame>true</kidgame>
+		<crc32>682A7A7B</crc32>
+		<md5>dd285dbdb0e46a1b0e8ea9a5d840e070</md5>
+		<lang>en,jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230302T190922" />
+		<scrap name="HfsDB" date="20230127T144557" />
+		<scrap name="ArcadeDB" date="20221212T180011" />
+	</game>
+	<game id="47054">
+		<path>./No-Intro/Sonic The Hedgehog - Pocket Adventure (World) (Beta) (1999-10-22).ngc</path>
+		<name>Sonic the Hedgehog - Pocket Adventure</name>
+		<desc>Sonic the Hedgehog Pocket Adventure, or Sonic Pocket Adventure for short, is a 1999 platform video game in the Sonic the Hedgehog series developed by SNK. It was released in December 1999 in North America, and May 2000 in Japan, exclusively for the Neo Geo Pocket Color handheld game console. It is also only the second game of the Sonic series ever to be released on a non-Sega video game console, the first being Sonic Jam on the Game.com. The game was praised by critics, receiving perfect scores from multiple reviews.</desc>
+		<image>./media/screenshots/Sonic The Hedgehog - Pocket Adventure (World) (Beta) (1999-10-22).png</image>
+		<video>./media/videos/Sonic The Hedgehog - Pocket Adventure (World) (Beta) (1999-10-22).mp4</video>
+		<marquee>./media/marquees/Sonic The Hedgehog - Pocket Adventure (World) (Beta) (1999-10-22).png</marquee>
+		<thumbnail>./images/Sonic The Hedgehog - Pocket Adventure (World) (Beta) (1999-10-22)-thumb.png</thumbnail>
+		<fanart>./images/Sonic The Hedgehog - Pocket Adventure (World) (Beta) (1999-10-22)-fanart.jpg</fanart>
+		<manual>./manuals/Sonic The Hedgehog - Pocket Adventure (World) (Beta) (1999-10-22)-manual.pdf</manual>
+		<boxback>./images/Sonic The Hedgehog - Pocket Adventure (World) (Beta) (1999-10-22)-boxback.png</boxback>
+		<rating>0.9</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Platform</genre>
+		<family>Sonic</family>
+		<players>1-2</players>
+		<kidgame>true</kidgame>
+		<crc32>45FC3BCA</crc32>
+		<md5>69c5d58770f111037f565efbcc366b53</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230302T190924" />
+		<scrap name="ArcadeDB" date="20221212T180011" />
+	</game>
+	<game id="88104">
+		<path>./No-Intro/Sonic The Hedgehog - Pocket Adventure (World) (Demo).ngc</path>
+		<name>ZZZ(notgame):Sonic The Hedgehog - Pocket Adventure</name>
+		<image>./media/screenshots/Sonic The Hedgehog - Pocket Adventure (World) (Demo).png</image>
+		<video>./media/videos/Sonic The Hedgehog - Pocket Adventure (World) (Demo).mp4</video>
+		<marquee>./media/marquees/Sonic The Hedgehog - Pocket Adventure (World) (Demo).png</marquee>
+		<thumbnail>./images/Sonic The Hedgehog - Pocket Adventure (World) (Demo)-thumb.png</thumbnail>
+		<boxback>./images/Sonic The Hedgehog - Pocket Adventure (World) (Demo)-boxback.png</boxback>
+		<rating>0.9</rating>
+		<hidden>true</hidden>
+		<kidgame>true</kidgame>
+		<crc32>189A9141</crc32>
+		<md5>67bb8f5377e1673c0277e3222186435d</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230302T190925" />
+		<scrap name="HfsDB" date="20230127T144557" />
+		<scrap name="ArcadeDB" date="20221212T180011" />
+	</game>
+	<game id="47063">
+		<path>./No-Intro/[BIOS] SNK Neo Geo Pocket Color (World) (En,Ja).ngp</path>
+		<name>ZZZ(notgame):[bios] Snk Neo Geo Pocket</name>
+		<image>./images/[BIOS] SNK Neo Geo Pocket Color (World) (En,Ja)-image.png</image>
+		<hidden>true</hidden>
+		<crc32>6EEB6F40</crc32>
+		<md5>3655aacebb43a963607d4cf821fc1301</md5>
+		<lang>en,jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230302T190926" />
+		<scrap name="HfsDB" date="20230127T144858" />
+		<scrap name="ArcadeDB" date="20221212T180012" />
+	</game>
+</gameList>

@@ -1,0 +1,213 @@
+<?xml version="1.0"?>
+<gameList>
+	<game id="46346">
+		<path>./No-Intro/Defender (USA, Europe).bin</path>
+		<name>Defender</name>
+		<desc>The Defender cartridge is patterned after the world famous Defender video arcade machine by Williams. The object of Defender is to score as many points as possible by defending the earth and the humans from wave after wave of evil invaders from outer space. You are in command of the Defender ship with its laser cannons and smart bombs. If all the humans are stolen, the earth will be destroyed and you will find yourself in outer space fighting fleet after fleet of mutants.</desc>
+		<image>./images/Defender (USA, Europe)-image.png</image>
+		<video>./videos/Defender (USA, Europe)-video.mp4</video>
+		<marquee>./images/Defender (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Defender (USA, Europe)-thumb.png</thumbnail>
+		<boxback>./images/Defender (USA, Europe)-boxback.png</boxback>
+		<rating>0.7</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Entex Industries, Inc</developer>
+		<publisher>Entex Industries, Inc</publisher>
+		<genre>Shoot'em up / Horizontal</genre>
+		<family>Defender</family>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>3E280096</crc32>
+		<md5>24fa782ff3e76241c4862481802e5347</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230222T193759" />
+	</game>
+	<game id="46347">
+		<path>./No-Intro/Space Force (USA, Europe).bin</path>
+		<name>Space Force</name>
+		<desc>The Adventure Vision Space Force cartridge is based on the famous Venture Line arcade game and includes all the key features of its big brother. Your mission is to fly the mothership through wave after wave of meteor showers launched by the evil alliance power from the planets Zereal and Xenac. Your job is to blow all alien life forms and meteors to atoms with your phaser canon, but, you had better be quick in your ability to manuever and fire. So, plug your cartridge into Adventure Vision, grab the joystick and get ready for action.</desc>
+		<image>./images/Space Force (USA, Europe)-image.png</image>
+		<video>./videos/Space Force (USA, Europe)-video.mp4</video>
+		<marquee>./images/Space Force (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Space Force (USA, Europe)-thumb.png</thumbnail>
+		<boxback>./images/Space Force (USA, Europe)-boxback.png</boxback>
+		<rating>0.45</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Entex Industries, Inc</developer>
+		<publisher>Entex Industries, Inc</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>C70D4028</crc32>
+		<md5>a991ce001b95c2c3455a8b2b30a47f61</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230222T193801" />
+	</game>
+	<game id="46348">
+		<path>./No-Intro/Super Cobra (USA, Europe).bin</path>
+		<name>Super Cobra</name>
+		<desc>This Adventure Vision cartridge is based on the famous KONAMI arcade game and includes all the key features and elements of its big brother. You are the pilot and your chopper awaits full of fuel and armed with sidewinder missles and bombs. Your mission is to fly your helicopter over 10 different terrains and get the booty at the end of the secret enemy base. It may sound easy but watch out. There are enemy rockets, magnetic space mines, UFO's, and the most treacherous terrain an Ace pilot like you has ever encountered. So plug this cartridge into an Adventure Vision, grab the joystick, and get ready for action.</desc>
+		<image>./images/Super Cobra (USA, Europe)-image.png</image>
+		<video>./videos/Super Cobra (USA, Europe)-video.mp4</video>
+		<marquee>./images/Super Cobra (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Super Cobra (USA, Europe)-thumb.png</thumbnail>
+		<fanart>./images/Super Cobra (USA, Europe)-fanart.jpg</fanart>
+		<boxback>./images/Super Cobra (USA, Europe)-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Entex Industries, Inc</publisher>
+		<genre>Shoot'em up / Horizontal</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>B6045C9E</crc32>
+		<md5>42acae1f1005044cc912853bf729331c</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230222T193802" />
+	</game>
+	<game id="46349">
+		<path>./No-Intro/Turtles (USA, Europe).bin</path>
+		<name>Turtles</name>
+		<desc>This Adventure Vision cartridge is based on the famous Konami arcade game and includes all the key features and elements of its big brother.  It's your job to rescue six little turtlettes and take them home.  It may sound easy, but you had better watch out because the beetles are after you.  Each floor contains eight mystery squares.  Behind six of the squares are those cute little turtlettes.  But beware, 'cause the other two contain beetles.  If a beetle gets too close you can use a bug bomb, but use them wisely, because you only can use one at a time.  So plug your cartridge into Adventure Vision, grab the joystick, hit the start button and get ready for action and excitement.</desc>
+		<image>./images/Turtles (USA, Europe)-image.png</image>
+		<video>./videos/Turtles (USA, Europe)-video.mp4</video>
+		<marquee>./images/Turtles (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Turtles (USA, Europe)-thumb.png</thumbnail>
+		<boxback>./images/Turtles (USA, Europe)-boxback.png</boxback>
+		<rating>0.85</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Entex Industries, Inc</developer>
+		<publisher>Entex Industries, Inc</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>33A23EBA</crc32>
+		<md5>3e7a1ce7b7d69fecd67792a375864759</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230222T193804" />
+	</game>
+	<game id="46345">
+		<path>./No-Intro/[BIOS] Entex Adventure Vision (USA, Europe).bin</path>
+		<name>ZZZ(notgame):Advision</name>
+		<rating>0</rating>
+		<hidden>true</hidden>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>279E33D1</crc32>
+		<md5>5729638bd856c475678467a353bd921c</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230222T193806" />
+	</game>
+	<game>
+		<path>./TOSEC/Firmware/Entex Adventure Vision BIOS (1982)(Entex)(EU-US)/Entex Adventure Vision BIOS (1982)(Entex)(EU-US).bin</path>
+		<name>Entex Adventure Vision BIOS (1982)(Entex)(EU-US)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>279E33D1</crc32>
+		<md5>5729638bd856c475678467a353bd921c</md5>
+		<scrap name="ScreenScraper" date="20230222T193807" />
+	</game>
+	<game>
+		<path>./TOSEC/Firmware/Entex Adventure Vision Sound ROM (1982)(Entex)(EU-US)/Entex Adventure Vision Sound ROM (1982)(Entex)(EU-US).bin</path>
+		<name>Entex Adventure Vision Sound ROM (1982)(Entex)(EU-US)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>81E95975</crc32>
+		<md5>fc5e71445e4947a9d00eedbc66b13a8f</md5>
+		<scrap name="ScreenScraper" date="20230222T193809" />
+	</game>
+	<game id="46346">
+		<path>./TOSEC/Games/Defender (1982)(Entex Industries)[release number 6075]/Defender (1982)(Entex Industries)[release number 6075].bin</path>
+		<name>Defender</name>
+		<desc>The Defender cartridge is patterned after the world famous Defender video arcade machine by Williams. The object of Defender is to score as many points as possible by defending the earth and the humans from wave after wave of evil invaders from outer space. You are in command of the Defender ship with its laser cannons and smart bombs. If all the humans are stolen, the earth will be destroyed and you will find yourself in outer space fighting fleet after fleet of mutants.</desc>
+		<image>./images/Defender (1982)(Entex Industries)[release number 6075]-image.png</image>
+		<video>./videos/Defender (1982)(Entex Industries)[release number 6075]-video.mp4</video>
+		<marquee>./images/Defender (1982)(Entex Industries)[release number 6075]-marquee.png</marquee>
+		<thumbnail>./images/Defender (1982)(Entex Industries)[release number 6075]-thumb.png</thumbnail>
+		<boxback>./images/Defender (1982)(Entex Industries)[release number 6075]-boxback.png</boxback>
+		<rating>0.7</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Entex Industries, Inc</developer>
+		<publisher>Entex Industries, Inc</publisher>
+		<genre>Shoot'em up / Horizontal</genre>
+		<family>Defender</family>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>3E280096</crc32>
+		<md5>24fa782ff3e76241c4862481802e5347</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193811" />
+	</game>
+	<game id="46347">
+		<path>./TOSEC/Games/Space Force (1982)(Entex Industries)[release number 6078]/Space Force (1982)(Entex Industries)[release number 6078].bin</path>
+		<name>Space Force</name>
+		<desc>The Adventure Vision Space Force cartridge is based on the famous Venture Line arcade game and includes all the key features of its big brother. Your mission is to fly the mothership through wave after wave of meteor showers launched by the evil alliance power from the planets Zereal and Xenac. Your job is to blow all alien life forms and meteors to atoms with your phaser canon, but, you had better be quick in your ability to manuever and fire. So, plug your cartridge into Adventure Vision, grab the joystick and get ready for action.</desc>
+		<image>./images/Space Force (1982)(Entex Industries)[release number 6078]-image.png</image>
+		<video>./videos/Space Force (1982)(Entex Industries)[release number 6078]-video.mp4</video>
+		<marquee>./images/Space Force (1982)(Entex Industries)[release number 6078]-marquee.png</marquee>
+		<thumbnail>./images/Space Force (1982)(Entex Industries)[release number 6078]-thumb.png</thumbnail>
+		<boxback>./images/Space Force (1982)(Entex Industries)[release number 6078]-boxback.png</boxback>
+		<rating>0.45</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Entex Industries, Inc</developer>
+		<publisher>Entex Industries, Inc</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>C70D4028</crc32>
+		<md5>a991ce001b95c2c3455a8b2b30a47f61</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193813" />
+	</game>
+	<game id="46348">
+		<path>./TOSEC/Games/Super Cobra (1982)(Entex Industries)[release number 6077]/Super Cobra (1982)(Entex Industries)[release number 6077].bin</path>
+		<name>Super Cobra</name>
+		<desc>This Adventure Vision cartridge is based on the famous KONAMI arcade game and includes all the key features and elements of its big brother. You are the pilot and your chopper awaits full of fuel and armed with sidewinder missles and bombs. Your mission is to fly your helicopter over 10 different terrains and get the booty at the end of the secret enemy base. It may sound easy but watch out. There are enemy rockets, magnetic space mines, UFO's, and the most treacherous terrain an Ace pilot like you has ever encountered. So plug this cartridge into an Adventure Vision, grab the joystick, and get ready for action.</desc>
+		<image>./images/Super Cobra (1982)(Entex Industries)[release number 6077]-image.png</image>
+		<video>./videos/Super Cobra (1982)(Entex Industries)[release number 6077]-video.mp4</video>
+		<marquee>./images/Super Cobra (1982)(Entex Industries)[release number 6077]-marquee.png</marquee>
+		<thumbnail>./images/Super Cobra (1982)(Entex Industries)[release number 6077]-thumb.png</thumbnail>
+		<fanart>./images/Super Cobra (1982)(Entex Industries)[release number 6077]-fanart.jpg</fanart>
+		<boxback>./images/Super Cobra (1982)(Entex Industries)[release number 6077]-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Entex Industries, Inc</publisher>
+		<genre>Shoot'em up / Horizontal</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>B6045C9E</crc32>
+		<md5>42acae1f1005044cc912853bf729331c</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193815" />
+	</game>
+	<game id="46349">
+		<path>./TOSEC/Games/Turtles (1982)(Entex Industries)[release number 6076]/Turtles (1982)(Entex Industries)[release number 6076].bin</path>
+		<name>Turtles</name>
+		<desc>This Adventure Vision cartridge is based on the famous Konami arcade game and includes all the key features and elements of its big brother.  It's your job to rescue six little turtlettes and take them home.  It may sound easy, but you had better watch out because the beetles are after you.  Each floor contains eight mystery squares.  Behind six of the squares are those cute little turtlettes.  But beware, 'cause the other two contain beetles.  If a beetle gets too close you can use a bug bomb, but use them wisely, because you only can use one at a time.  So plug your cartridge into Adventure Vision, grab the joystick, hit the start button and get ready for action and excitement.</desc>
+		<image>./images/Turtles (1982)(Entex Industries)[release number 6076]-image.png</image>
+		<video>./videos/Turtles (1982)(Entex Industries)[release number 6076]-video.mp4</video>
+		<marquee>./images/Turtles (1982)(Entex Industries)[release number 6076]-marquee.png</marquee>
+		<thumbnail>./images/Turtles (1982)(Entex Industries)[release number 6076]-thumb.png</thumbnail>
+		<boxback>./images/Turtles (1982)(Entex Industries)[release number 6076]-boxback.png</boxback>
+		<rating>0.85</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Entex Industries, Inc</developer>
+		<publisher>Entex Industries, Inc</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>33A23EBA</crc32>
+		<md5>3e7a1ce7b7d69fecd67792a375864759</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193817" />
+	</game>
+</gameList>

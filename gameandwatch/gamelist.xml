@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<gameList>
+	<game id="418845">
+		<path>./No-Intro/Oil Panic (World).zip</path>
+		<name>Oil Panic</name>
+		<crc32>31C288C9</crc32>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20221227T183110" />
+	</game>
+	<game id="143408">
+		<path>./No-Intro/Ball (World).zip</path>
+		<name>Electronic Toss-Up</name>
+		<desc>"Ball" was the very first "Game &amp; Watch" handheld game ever made by Nintendo on April 28,1980. It was part of the "Silver" series, which later spawned the popular "Gold" series.</desc>
+		<image>./images/Ball (World)-image.png</image>
+		<video>./videos/Ball (World)-video.mp4</video>
+		<marquee>./images/Ball (World)-marquee.png</marquee>
+		<thumbnail>./images/Ball (World)-thumb.png</thumbnail>
+		<manual>./manuals/Ball (World)-manual.pdf</manual>
+		<boxback>./images/Ball (World)-boxback.png</boxback>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<players>1</players>
+		<crc32>CB820C32</crc32>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20221227T183115" />
+	</game>
+</gameList>

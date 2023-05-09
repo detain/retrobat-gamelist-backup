@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./TOSEC/Games/Cross Chase (2018-10-29)(Caruso, Fabrizio)[full]/Cross Chase (2018-10-29)(Caruso, Fabrizio)[full].bin</path>
+		<name>Cross Chase (2018-10-29)(Caruso, Fabrizio)[full]</name>
+		<crc32>E0283128</crc32>
+		<md5>060d2d7c2807429c07903a847c02cc04</md5>
+		<scrap name="ScreenScraper" date="20230217T163255" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/Cross Chase (2018-10-29)(Caruso, Fabrizio)[light]/Cross Chase (2018-10-29)(Caruso, Fabrizio)[light].bin</path>
+		<name>Cross Chase (2018-10-29)(Caruso, Fabrizio)[light]</name>
+		<crc32>B1F495E0</crc32>
+		<md5>76549010961675bba99540f78875b649</md5>
+		<scrap name="ScreenScraper" date="20230217T163256" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/Cross Chase (2020-04-02)(Caruso, Fabrizio)[full]/Cross Chase (2020-04-02)(Caruso, Fabrizio)[full].bin</path>
+		<name>Cross Chase (2020-04-02)(Caruso, Fabrizio)[full]</name>
+		<crc32>692EF88A</crc32>
+		<md5>b87c138c65623345e974863cbb12283d</md5>
+		<scrap name="ScreenScraper" date="20230217T163258" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/Cross Chase (2020-04-02)(Caruso, Fabrizio)[light]/Cross Chase (2020-04-02)(Caruso, Fabrizio)[light].bin</path>
+		<name>Cross Chase (2020-04-02)(Caruso, Fabrizio)[light]</name>
+		<crc32>3574DB7A</crc32>
+		<md5>b5348f931d96afd424ed95384286e02f</md5>
+		<scrap name="ScreenScraper" date="20230217T163300" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/Cross Chase (2021-05-13)(Caruso, Fabrizio)/Cross Chase (2021-05-13)(Caruso, Fabrizio).bin</path>
+		<name>Cross Chase (2021-05-13)(Caruso, Fabrizio)</name>
+		<crc32>55157AA1</crc32>
+		<md5>3c587d21b0b3eb6a87d3b177d8a16dae</md5>
+		<scrap name="ScreenScraper" date="20230217T163302" />
+	</game>
+</gameList>

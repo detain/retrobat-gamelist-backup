@@ -1,0 +1,3622 @@
+<?xml version="1.0"?>
+<gameList>
+	<game id="39873">
+		<path>./Games/1941.zip</path>
+		<name>1941: Counter Attack</name>
+		<desc>The goal is to shoot down enemy airplanes and collect weapon power-ups (POW). One is only able to perform three loops per level and a bonus is awarded at the end of the level for unused loops. Player 1 uses a P-38 Lightning and Player 2 uses a Mosquito Mk IV. The game shifts from the original Pacific Front setting with that of the Western Front.
+
+The game consists of six levels.
+
+It was the first shoot 'em up to add +1 to the score when a continue is used.[1]</desc>
+		<image>./images/1941-image.png</image>
+		<video>./videos/1941-video.mp4</video>
+		<marquee>./images/1941-marquee.png</marquee>
+		<thumbnail>./images/1941-thumb.png</thumbnail>
+		<fanart>./images/1941-fanart.jpg</fanart>
+		<bezel>./images/1941-bezel.png</bezel>
+		<boxback>./images/1941-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>19900201T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<family>194X</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>DE03FB24</crc32>
+		<md5>3a72d8463b47ce63dee199137a13ac64</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230222T190019" />
+	</game>
+	<game id="39873">
+		<path>./Games/1941j.zip</path>
+		<name>1941: Counter Attack</name>
+		<desc>The goal is to shoot down enemy airplanes and collect weapon power-ups (POW). One is only able to perform three loops per level and a bonus is awarded at the end of the level for unused loops. Player 1 uses a P-38 Lightning and Player 2 uses a Mosquito Mk IV. The game shifts from the original Pacific Front setting with that of the Western Front.
+
+The game consists of six levels.
+
+It was the first shoot 'em up to add +1 to the score when a continue is used.[1]</desc>
+		<image>./images/1941j-image.png</image>
+		<video>./videos/1941j-video.mp4</video>
+		<marquee>./images/1941j-marquee.png</marquee>
+		<thumbnail>./images/1941j-thumb.png</thumbnail>
+		<fanart>./images/1941j-fanart.jpg</fanart>
+		<bezel>./images/1941j-bezel.png</bezel>
+		<boxback>./images/1941j-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>19900201T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<family>194X</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>5C6E2B4A</crc32>
+		<md5>07ca05847594994b8b3051a528ce1022</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230222T190021" />
+	</game>
+	<game>
+		<path>./Games/3wonderh.zip</path>
+		<name>3wonderh</name>
+		<image>./images/3wonderh-image.png</image>
+		<video>./videos/3wonderh-video.mp4</video>
+		<marquee>./images/3wonderh-marquee.png</marquee>
+		<thumbnail>./images/3wonderh-thumb.png</thumbnail>
+		<fanart>./images/3wonderh-fanart.jpg</fanart>
+		<manual>./manuals/3wonderh-manual.pdf</manual>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>A5006905</crc32>
+		<md5>22114766ed74b3951e5528ec9dc0f9ca</md5>
+		<scrap name="ScreenScraper" date="20230222T190024" />
+		<boxback>./images/3wonderh-boxback.png</boxback>
+	</game>
+	<game id="37357">
+		<path>./Games/3wonders.zip</path>
+		<name>Three Wonders</name>
+		<desc>Three Wonders contains three games from which a player may choose:
+
+Midnight Wanderers: Quest for the Chariot - A platform game that sees the player control a hobbit named Lou and his traveling companion, Siva, to run, climb, and shoot at enemies.
+Chariot: Adventure through the Sky - A shoot 'em up game featuring the characters from Midnight Wanderers, but in a Gradius-esque game.
+Don't Pull - A puzzle game similar to games like the Eggerland series, Pengo and Capcom's own puzzle game Pirate Ship Higemaru. It involves the player controlling either a rabbit named Don (Player 1) or a squirrel called Pull (Player 2), pushing blocks to crush monsters.</desc>
+		<image>./images/3wonders-image.png</image>
+		<video>./videos/3wonders-video.mp4</video>
+		<marquee>./images/3wonders-marquee.png</marquee>
+		<thumbnail>./images/3wonders-thumb.png</thumbnail>
+		<fanart>./images/3wonders-fanart.jpg</fanart>
+		<manual>./manuals/3wonders-manual.pdf</manual>
+		<bezel>./images/3wonders-bezel.png</bezel>
+		<boxback>./images/3wonders-boxback.png</boxback>
+		<rating>0.7</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Compilation</genre>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>6DABA1FD</crc32>
+		<md5>bd70948de6c09afd6c05901aa3033c45</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230222T190026" />
+	</game>
+	<game id="37357">
+		<path>./Games/3wonderu.zip</path>
+		<name>Three Wonders</name>
+		<desc>Three Wonders contains three games from which a player may choose:
+
+Midnight Wanderers: Quest for the Chariot - A platform game that sees the player control a hobbit named Lou and his traveling companion, Siva, to run, climb, and shoot at enemies.
+Chariot: Adventure through the Sky - A shoot 'em up game featuring the characters from Midnight Wanderers, but in a Gradius-esque game.
+Don't Pull - A puzzle game similar to games like the Eggerland series, Pengo and Capcom's own puzzle game Pirate Ship Higemaru. It involves the player controlling either a rabbit named Don (Player 1) or a squirrel called Pull (Player 2), pushing blocks to crush monsters.</desc>
+		<image>./images/3wonderu-image.png</image>
+		<video>./videos/3wonderu-video.mp4</video>
+		<marquee>./images/3wonderu-marquee.png</marquee>
+		<thumbnail>./images/3wonderu-thumb.png</thumbnail>
+		<fanart>./images/3wonderu-fanart.jpg</fanart>
+		<manual>./manuals/3wonderu-manual.pdf</manual>
+		<bezel>./images/3wonderu-bezel.png</bezel>
+		<boxback>./images/3wonderu-boxback.png</boxback>
+		<rating>0.7</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Compilation</genre>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>42A1B2AF</crc32>
+		<md5>60b5de4b7b0fc1216bb3ed9d9c7d22c0</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T190029" />
+	</game>
+	<game id="43837">
+		<path>./Games/area88.zip</path>
+		<name>U.N. Squadron</name>
+		<desc>U.N. Squadron / Area 88 is a horizontally-scrolling shoot-em-up and is based on the Manga series of the same name. The game features characters from the original Manga and their mission is to battle their way through enemy-packed levels to stop a terrorist group known as 'Project 4'.</desc>
+		<image>./images/area88-image.png</image>
+		<video>./videos/area88-video.mp4</video>
+		<marquee>./images/area88-marquee.png</marquee>
+		<thumbnail>./images/area88-thumb.png</thumbnail>
+		<fanart>./images/area88-fanart.jpg</fanart>
+		<bezel>./images/area88-bezel.png</bezel>
+		<boxback>./images/area88-boxback.png</boxback>
+		<rating>0.7</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shoot'em up / Horizontal</genre>
+		<family>U.N. Squadron</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>6237B24E</crc32>
+		<md5>a076a752ae1d5582c510a9a28273b12d</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230222T190031" />
+	</game>
+	<game>
+		<path>./Games/captcomb.zip</path>
+		<name>captcomb</name>
+		<image>./images/captcomb-image.png</image>
+		<video>./videos/captcomb-video.mp4</video>
+		<marquee>./images/captcomb-marquee.png</marquee>
+		<thumbnail>./images/captcomb-thumb.png</thumbnail>
+		<fanart>./images/captcomb-fanart.jpg</fanart>
+		<manual>./manuals/captcomb-manual.pdf</manual>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>8E3B5D37</crc32>
+		<md5>45bb2e193bbc8756f4e75f0b45cd490e</md5>
+		<scrap name="ScreenScraper" date="20230222T190034" />
+		<boxback>./images/captcomb-boxback.png</boxback>
+	</game>
+	<game id="37358">
+		<path>./Games/captcomj.zip</path>
+		<name>Captain Commando</name>
+		<desc>Captain Commando is set in a crime-ridden future in the year 2026, where a superhero named Captain Commando, assisted by his three faithful Commando Companions rise up to protect the Earth and all the Galaxy from a gang of super-powered criminals.</desc>
+		<image>./images/captcomj-image.png</image>
+		<video>./videos/captcomj-video.mp4</video>
+		<marquee>./images/captcomj-marquee.png</marquee>
+		<thumbnail>./images/captcomj-thumb.png</thumbnail>
+		<fanart>./images/captcomj-fanart.jpg</fanart>
+		<manual>./manuals/captcomj-manual.pdf</manual>
+		<bezel>./images/captcomj-bezel.png</bezel>
+		<boxback>./images/captcomj-boxback.png</boxback>
+		<rating>0.9</rating>
+		<releasedate>19910928T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat'em Up</genre>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-4</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>7CE92143</crc32>
+		<md5>eb423ddf0021e6c0f448d7c133e5613d</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230222T190036" />
+	</game>
+	<game id="37358">
+		<path>./Games/captcomm.zip</path>
+		<name>Captain Commando</name>
+		<desc>Captain Commando is set in a crime-ridden future in the year 2026, where a superhero named Captain Commando, assisted by his three faithful Commando Companions rise up to protect the Earth and all the Galaxy from a gang of super-powered criminals.</desc>
+		<image>./images/captcomm-image.png</image>
+		<video>./videos/captcomm-video.mp4</video>
+		<marquee>./images/captcomm-marquee.png</marquee>
+		<thumbnail>./images/captcomm-thumb.png</thumbnail>
+		<fanart>./images/captcomm-fanart.jpg</fanart>
+		<manual>./manuals/captcomm-manual.pdf</manual>
+		<bezel>./images/captcomm-bezel.png</bezel>
+		<boxback>./images/captcomm-boxback.png</boxback>
+		<rating>0.9</rating>
+		<releasedate>19910928T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat'em Up</genre>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-4</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>249BD59D</crc32>
+		<md5>8c4be3cede9a759e3c3163ae009504fd</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230222T190038" />
+	</game>
+	<game id="37358">
+		<path>./Games/captcomu.zip</path>
+		<name>Captain Commando</name>
+		<desc>Captain Commando is set in a crime-ridden future in the year 2026, where a superhero named Captain Commando, assisted by his three faithful Commando Companions rise up to protect the Earth and all the Galaxy from a gang of super-powered criminals.</desc>
+		<image>./images/captcomu-image.png</image>
+		<video>./videos/captcomu-video.mp4</video>
+		<marquee>./images/captcomu-marquee.png</marquee>
+		<thumbnail>./images/captcomu-thumb.png</thumbnail>
+		<fanart>./images/captcomu-fanart.jpg</fanart>
+		<manual>./manuals/captcomu-manual.pdf</manual>
+		<bezel>./images/captcomu-bezel.png</bezel>
+		<boxback>./images/captcomu-boxback.png</boxback>
+		<rating>0.9</rating>
+		<releasedate>19910928T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat'em Up</genre>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-4</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>06031588</crc32>
+		<md5>ff788bddf33b7de9ec39ddbb40a9438c</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T190040" />
+	</game>
+	<game id="37359">
+		<path>./Games/cawing.zip</path>
+		<name>Carrier Air Wing</name>
+		<desc>Carrier Air Wing / U.S. Navy is a horizontally-scrolling shoot-em-up for one or two players set in the 1990s, a decade of great change marked by growing friendships between old enemies and never before seen levels of co-operation between powerful nations of the world. However, in 1997, using new weapons designed in secrecy, the Middle Eastern country of 'Rabu' threatens to destroy this new and fragile peace. 
+
+Players chose to pilot any one of three different jet fighters and must battle their way through ten enemy-packed stages. Each fighter has a fuel bar which is full at the start of each stage but gradually decreases, additional fuel is lost each time the fighter takes damage from an enemy.</desc>
+		<image>./images/cawing-image.png</image>
+		<video>./videos/cawing-video.mp4</video>
+		<marquee>./images/cawing-marquee.png</marquee>
+		<thumbnail>./images/cawing-thumb.png</thumbnail>
+		<fanart>./images/cawing-fanart.jpg</fanart>
+		<manual>./manuals/cawing-manual.pdf</manual>
+		<bezel>./images/cawing-bezel.png</bezel>
+		<boxback>./images/cawing-boxback.png</boxback>
+		<rating>0.85</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shoot'em up / Horizontal</genre>
+		<family>U.N. Squadron</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>31B0791C</crc32>
+		<md5>692befb8ff004fc9b76ccf7ea3150c05</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230222T190043" />
+	</game>
+	<game id="37359">
+		<path>./Games/cawingj.zip</path>
+		<name>Carrier Air Wing</name>
+		<desc>Carrier Air Wing / U.S. Navy is a horizontally-scrolling shoot-em-up for one or two players set in the 1990s, a decade of great change marked by growing friendships between old enemies and never before seen levels of co-operation between powerful nations of the world. However, in 1997, using new weapons designed in secrecy, the Middle Eastern country of 'Rabu' threatens to destroy this new and fragile peace. 
+
+Players chose to pilot any one of three different jet fighters and must battle their way through ten enemy-packed stages. Each fighter has a fuel bar which is full at the start of each stage but gradually decreases, additional fuel is lost each time the fighter takes damage from an enemy.</desc>
+		<image>./images/cawingj-image.png</image>
+		<video>./videos/cawingj-video.mp4</video>
+		<marquee>./images/cawingj-marquee.png</marquee>
+		<thumbnail>./images/cawingj-thumb.png</thumbnail>
+		<fanart>./images/cawingj-fanart.jpg</fanart>
+		<manual>./manuals/cawingj-manual.pdf</manual>
+		<bezel>./images/cawingj-bezel.png</bezel>
+		<boxback>./images/cawingj-boxback.png</boxback>
+		<rating>0.85</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shoot'em up / Horizontal</genre>
+		<family>U.N. Squadron</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>95B61A3D</crc32>
+		<md5>898db77895fd06b9b07c1321da159a72</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230222T190045" />
+	</game>
+	<game id="37359">
+		<path>./Games/cawingr1.zip</path>
+		<name>Carrier Air Wing</name>
+		<desc>Carrier Air Wing / U.S. Navy is a horizontally-scrolling shoot-em-up for one or two players set in the 1990s, a decade of great change marked by growing friendships between old enemies and never before seen levels of co-operation between powerful nations of the world. However, in 1997, using new weapons designed in secrecy, the Middle Eastern country of 'Rabu' threatens to destroy this new and fragile peace. 
+
+Players chose to pilot any one of three different jet fighters and must battle their way through ten enemy-packed stages. Each fighter has a fuel bar which is full at the start of each stage but gradually decreases, additional fuel is lost each time the fighter takes damage from an enemy.</desc>
+		<image>./images/cawingr1-image.png</image>
+		<video>./videos/cawingr1-video.mp4</video>
+		<marquee>./images/cawingr1-marquee.png</marquee>
+		<thumbnail>./images/cawingr1-thumb.png</thumbnail>
+		<fanart>./images/cawingr1-fanart.jpg</fanart>
+		<manual>./manuals/cawingr1-manual.pdf</manual>
+		<bezel>./images/cawingr1-bezel.png</bezel>
+		<boxback>./images/cawingr1-boxback.png</boxback>
+		<rating>0.85</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shoot'em up / Horizontal</genre>
+		<family>U.N. Squadron</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>2F27C335</crc32>
+		<md5>9716da37320f42b18c4be1ff8670c8d5</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230222T190047" />
+	</game>
+	<game id="37359">
+		<path>./Games/cawingu.zip</path>
+		<name>Carrier Air Wing</name>
+		<desc>Carrier Air Wing / U.S. Navy is a horizontally-scrolling shoot-em-up for one or two players set in the 1990s, a decade of great change marked by growing friendships between old enemies and never before seen levels of co-operation between powerful nations of the world. However, in 1997, using new weapons designed in secrecy, the Middle Eastern country of 'Rabu' threatens to destroy this new and fragile peace. 
+
+Players chose to pilot any one of three different jet fighters and must battle their way through ten enemy-packed stages. Each fighter has a fuel bar which is full at the start of each stage but gradually decreases, additional fuel is lost each time the fighter takes damage from an enemy.</desc>
+		<image>./images/cawingu-image.png</image>
+		<video>./videos/cawingu-video.mp4</video>
+		<marquee>./images/cawingu-marquee.png</marquee>
+		<thumbnail>./images/cawingu-thumb.png</thumbnail>
+		<fanart>./images/cawingu-fanart.jpg</fanart>
+		<manual>./manuals/cawingu-manual.pdf</manual>
+		<bezel>./images/cawingu-bezel.png</bezel>
+		<boxback>./images/cawingu-boxback.png</boxback>
+		<rating>0.85</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shoot'em up / Horizontal</genre>
+		<family>U.N. Squadron</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>B2835BEE</crc32>
+		<md5>d2904bdaa25b6340683ab470bbfef9fb</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T190050" />
+	</game>
+	<game id="37371">
+		<path>./Games/chikij.zip</path>
+		<name>Mega Twins</name>
+		<desc>The game features two twins who are attempting to re-take control of their land, Alurea, after a monster unexpectedly attacks, destroying everything in its path. The people of Alurea have lived in peace for a thousand years and have forgotten how to fight, yet the land's only survivors, the twin sons of the king, must take up the challenge and return their kingdom to its former glory. The two twins, aged around 15 at the time the game takes place, venture forth in search of a legendary stone known as "Dragon Blue Eyes", which is rumored to be able to put everything back to rights.</desc>
+		<image>./images/chikij-image.png</image>
+		<video>./videos/chikij-video.mp4</video>
+		<marquee>./images/chikij-marquee.png</marquee>
+		<thumbnail>./images/chikij-thumb.png</thumbnail>
+		<fanart>./images/chikij-fanart.jpg</fanart>
+		<bezel>./images/chikij-bezel.png</bezel>
+		<boxback>./images/chikij-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform / Fighter Scrolling</genre>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>6094803E</crc32>
+		<md5>be53aae55c8b6faa80c0b9a48524fc15</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230222T190052" />
+	</game>
+	<game id="40781">
+		<path>./Games/cworld2j.zip</path>
+		<name>Adventure Quiz Capcom World 2</name>
+		<desc>Capcom World 2 - Adventure Quiz is a Japanese quiz game.</desc>
+		<image>./images/cworld2j-image.png</image>
+		<video>./videos/cworld2j-video.mp4</video>
+		<marquee>./images/cworld2j-marquee.png</marquee>
+		<thumbnail>./images/cworld2j-thumb.png</thumbnail>
+		<fanart>./images/cworld2j-fanart.jpg</fanart>
+		<boxback>./images/cworld2j-boxback.png</boxback>
+		<rating>0.5</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Quiz / Japanese</genre>
+		<family>Capcom World</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>86324F66</crc32>
+		<md5>8dfd11b29f74b961a209d4e38c443a94</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230222T190054" />
+	</game>
+	<game id="41441">
+		<path>./Games/daimakai.zip</path>
+		<name>Ghouls'n Ghosts</name>
+		<desc>Three years have passed since the events of "Ghosts'n Goblins" and the knight Arthur finds himself once again facing the horrible creatures of Demon World. This time the demons have invaded the kingdom and upon his return, Arthur is the only survivor, his beloved Genever having been killed by Lucifer. Arthur embarks once again on a quest to defeat the demonic invaders and save Genever's soul.</desc>
+		<image>./images/daimakai-image.png</image>
+		<video>./videos/daimakai-video.mp4</video>
+		<marquee>./images/daimakai-marquee.png</marquee>
+		<thumbnail>./images/daimakai-thumb.png</thumbnail>
+		<fanart>./images/daimakai-fanart.jpg</fanart>
+		<manual>./manuals/daimakai-manual.pdf</manual>
+		<bezel>./images/daimakai-bezel.png</bezel>
+		<boxback>./images/daimakai-boxback.png</boxback>
+		<rating>0.9</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform / Fighter Scrolling</genre>
+		<family>Ghosts'n Goblins</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>9D10860C</crc32>
+		<md5>7926d2fbe48aa3287e2a4a4386e9aaa1</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230222T190056" />
+	</game>
+	<game>
+		<path>./Games/daimakr2.zip</path>
+		<name>daimakr2</name>
+		<image>./images/daimakr2-image.png</image>
+		<video>./videos/daimakr2-video.mp4</video>
+		<marquee>./images/daimakr2-marquee.png</marquee>
+		<thumbnail>./images/daimakr2-thumb.png</thumbnail>
+		<fanart>./images/daimakr2-fanart.jpg</fanart>
+		<manual>./manuals/daimakr2-manual.pdf</manual>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>DA3DA9B7</crc32>
+		<md5>f50374ab79b1cdb6a57b51ba66fd2db1</md5>
+		<scrap name="ScreenScraper" date="20230222T190058" />
+		<boxback>./images/daimakr2-boxback.png</boxback>
+	</game>
+	<game id="37360">
+		<path>./Games/dino.zip</path>
+		<name>Cadillacs and Dinosaurs</name>
+		<desc>Cadillacs and Dinosaurs: The Arcade Game, known in Japan as Cadillacs: Dinosaurs of a New Century is a 1993 arcade game released by Capcom. It is a side-scrolling beat 'em up based on the comic book series Xenozoic Tales. The game was produced as a tie-in to the Cadillacs and Dinosaurs animated series which was aired during the same year the game was released.</desc>
+		<image>./images/dino-image.png</image>
+		<video>./videos/dino-video.mp4</video>
+		<marquee>./images/dino-marquee.png</marquee>
+		<thumbnail>./images/dino-thumb.png</thumbnail>
+		<fanart>./images/dino-fanart.jpg</fanart>
+		<manual>./manuals/dino-manual.pdf</manual>
+		<bezel>./images/dino-bezel.png</bezel>
+		<boxback>./images/dino-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat'em Up</genre>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-3</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>74DD0061</crc32>
+		<md5>1247c41dda579ea70c7063fb1f289a79</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230222T190100" />
+	</game>
+	<game id="37360">
+		<path>./Games/dinoh.zip</path>
+		<name>Cadillacs and Dinosaurs</name>
+		<desc>Cadillacs and Dinosaurs: The Arcade Game, known in Japan as Cadillacs: Dinosaurs of a New Century is a 1993 arcade game released by Capcom. It is a side-scrolling beat 'em up based on the comic book series Xenozoic Tales. The game was produced as a tie-in to the Cadillacs and Dinosaurs animated series which was aired during the same year the game was released.</desc>
+		<image>./images/dinoh-image.png</image>
+		<video>./videos/dinoh-video.mp4</video>
+		<marquee>./images/dinoh-marquee.png</marquee>
+		<thumbnail>./images/dinoh-thumb.png</thumbnail>
+		<fanart>./images/dinoh-fanart.jpg</fanart>
+		<manual>./manuals/dinoh-manual.pdf</manual>
+		<bezel>./images/dinoh-bezel.png</bezel>
+		<boxback>./images/dinoh-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat'em Up</genre>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-3</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>33B3E129</crc32>
+		<md5>732dc705abfae4d238e6a1375f6170d9</md5>
+		<lang>cn</lang>
+		<region>cn</region>
+		<scrap name="ScreenScraper" date="20230222T190103" />
+	</game>
+	<game id="37360">
+		<path>./Games/dinoj.zip</path>
+		<name>Cadillacs and Dinosaurs</name>
+		<desc>Cadillacs and Dinosaurs: The Arcade Game, known in Japan as Cadillacs: Dinosaurs of a New Century is a 1993 arcade game released by Capcom. It is a side-scrolling beat 'em up based on the comic book series Xenozoic Tales. The game was produced as a tie-in to the Cadillacs and Dinosaurs animated series which was aired during the same year the game was released.</desc>
+		<image>./images/dinoj-image.png</image>
+		<video>./videos/dinoj-video.mp4</video>
+		<marquee>./images/dinoj-marquee.png</marquee>
+		<thumbnail>./images/dinoj-thumb.png</thumbnail>
+		<fanart>./images/dinoj-fanart.jpg</fanart>
+		<manual>./manuals/dinoj-manual.pdf</manual>
+		<bezel>./images/dinoj-bezel.png</bezel>
+		<boxback>./images/dinoj-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat'em Up</genre>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-3</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>9089E01D</crc32>
+		<md5>06fb870685305c3ac97bb80f46117647</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230222T190105" />
+	</game>
+	<game id="37360">
+		<path>./Games/dinopic.zip</path>
+		<name>Cadillacs and Dinosaurs</name>
+		<desc>Cadillacs and Dinosaurs: The Arcade Game, known in Japan as Cadillacs: Dinosaurs of a New Century is a 1993 arcade game released by Capcom. It is a side-scrolling beat 'em up based on the comic book series Xenozoic Tales. The game was produced as a tie-in to the Cadillacs and Dinosaurs animated series which was aired during the same year the game was released.</desc>
+		<image>./images/dinopic-image.png</image>
+		<video>./videos/dinopic-video.mp4</video>
+		<marquee>./images/dinopic-marquee.png</marquee>
+		<thumbnail>./images/dinopic-thumb.png</thumbnail>
+		<fanart>./images/dinopic-fanart.jpg</fanart>
+		<manual>./manuals/dinopic-manual.pdf</manual>
+		<bezel>./images/dinopic-bezel.png</bezel>
+		<boxback>./images/dinopic-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat'em Up</genre>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-3</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>A37CBA2E</crc32>
+		<md5>5f0491a2bf256fae8a08e3ce88385800</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T190108" />
+	</game>
+	<game id="37360">
+		<path>./Games/dinopic2.zip</path>
+		<name>Cadillacs and Dinosaurs</name>
+		<desc>Cadillacs and Dinosaurs: The Arcade Game, known in Japan as Cadillacs: Dinosaurs of a New Century is a 1993 arcade game released by Capcom. It is a side-scrolling beat 'em up based on the comic book series Xenozoic Tales. The game was produced as a tie-in to the Cadillacs and Dinosaurs animated series which was aired during the same year the game was released.</desc>
+		<image>./images/dinopic2-image.png</image>
+		<video>./videos/dinopic2-video.mp4</video>
+		<marquee>./images/dinopic2-marquee.png</marquee>
+		<thumbnail>./images/dinopic2-thumb.png</thumbnail>
+		<fanart>./images/dinopic2-fanart.jpg</fanart>
+		<manual>./manuals/dinopic2-manual.pdf</manual>
+		<bezel>./images/dinopic2-bezel.png</bezel>
+		<boxback>./images/dinopic2-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat'em Up</genre>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-3</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>8F91BB31</crc32>
+		<md5>4df959bff06afbf5a9b671fe0b4ae7db</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T190110" />
+	</game>
+	<game id="37360">
+		<path>./Games/dinou.zip</path>
+		<name>Cadillacs and Dinosaurs</name>
+		<desc>Cadillacs and Dinosaurs: The Arcade Game, known in Japan as Cadillacs: Dinosaurs of a New Century is a 1993 arcade game released by Capcom. It is a side-scrolling beat 'em up based on the comic book series Xenozoic Tales. The game was produced as a tie-in to the Cadillacs and Dinosaurs animated series which was aired during the same year the game was released.</desc>
+		<image>./images/dinou-image.png</image>
+		<video>./videos/dinou-video.mp4</video>
+		<marquee>./images/dinou-marquee.png</marquee>
+		<thumbnail>./images/dinou-thumb.png</thumbnail>
+		<fanart>./images/dinou-fanart.jpg</fanart>
+		<manual>./manuals/dinou-manual.pdf</manual>
+		<bezel>./images/dinou-bezel.png</bezel>
+		<boxback>./images/dinou-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat'em Up</genre>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-3</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>29AAC8B4</crc32>
+		<md5>70b94474665888a3b15ec05ad6d6b5c6</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T190112" />
+	</game>
+	<game id="41078">
+		<path>./Games/dynwar.zip</path>
+		<name>Dynasty Wars</name>
+		<desc>This game is a side-scrolling beat-em-up based on Japanese manga books of the same name and is a re-enactment of the historical battles between the Kingdom of Shu and the Yellow Turban rebels. Up to two players assume the roles of one of the four Chinese generals riding on horseback whose goal is to wipe out the 'Huang Ching', the organization responsible for the unrest of the Han Dynasty, and to eventually defeat the tyrant, Dong Zhuo.</desc>
+		<image>./images/dynwar-image.png</image>
+		<video>./videos/dynwar-video.mp4</video>
+		<marquee>./images/dynwar-marquee.png</marquee>
+		<thumbnail>./images/dynwar-thumb.png</thumbnail>
+		<fanart>./images/dynwar-fanart.jpg</fanart>
+		<bezel>./images/dynwar-bezel.png</bezel>
+		<boxback>./images/dynwar-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat'em Up</genre>
+		<family>Dynasty Wars</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>B629FF5E</crc32>
+		<md5>1ad551932e0e1f70e71a857fd1ff1bea</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T190115" />
+	</game>
+	<game id="41078">
+		<path>./Games/dynwarj.zip</path>
+		<name>Dynasty Wars</name>
+		<desc>This game is a side-scrolling beat-em-up based on Japanese manga books of the same name and is a re-enactment of the historical battles between the Kingdom of Shu and the Yellow Turban rebels. Up to two players assume the roles of one of the four Chinese generals riding on horseback whose goal is to wipe out the 'Huang Ching', the organization responsible for the unrest of the Han Dynasty, and to eventually defeat the tyrant, Dong Zhuo.</desc>
+		<image>./images/dynwarj-image.png</image>
+		<video>./videos/dynwarj-video.mp4</video>
+		<marquee>./images/dynwarj-marquee.png</marquee>
+		<thumbnail>./images/dynwarj-thumb.png</thumbnail>
+		<fanart>./images/dynwarj-fanart.jpg</fanart>
+		<bezel>./images/dynwarj-bezel.png</bezel>
+		<boxback>./images/dynwarj-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat'em Up</genre>
+		<family>Dynasty Wars</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>9DBE3198</crc32>
+		<md5>21d6e33f16a17ce103b9bf3df39cba16</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230222T190117" />
+	</game>
+	<game id="41078">
+		<path>./Games/dynwaru.zip</path>
+		<name>Dynasty Wars</name>
+		<desc>This game is a side-scrolling beat-em-up based on Japanese manga books of the same name and is a re-enactment of the historical battles between the Kingdom of Shu and the Yellow Turban rebels. Up to two players assume the roles of one of the four Chinese generals riding on horseback whose goal is to wipe out the 'Huang Ching', the organization responsible for the unrest of the Han Dynasty, and to eventually defeat the tyrant, Dong Zhuo.</desc>
+		<image>./images/dynwaru-image.png</image>
+		<video>./videos/dynwaru-video.mp4</video>
+		<marquee>./images/dynwaru-marquee.png</marquee>
+		<thumbnail>./images/dynwaru-thumb.png</thumbnail>
+		<fanart>./images/dynwaru-fanart.jpg</fanart>
+		<bezel>./images/dynwaru-bezel.png</bezel>
+		<boxback>./images/dynwaru-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat'em Up</genre>
+		<family>Dynasty Wars</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>67F214B7</crc32>
+		<md5>bde5296651d408ed910ea7f3b0136e8e</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T190119" />
+	</game>
+	<game id="37362">
+		<path>./Games/ffight.zip</path>
+		<name>Final Fight</name>
+		<desc>Final Fight can be played by up to two players simultaneously, with each player controlling a different character. Before the game begins, the player chooses between the three main characters, Guy, Cody, and Haggar, each with his own fighting style and attributes. Guy is the weakest but has faster attacks, Haggar is the strongest but also the slowest, and Cody has all-round attributes.
+
+Final Fight consists of six stages or "rounds", as well as two bonus rounds. Each round takes place in a different section of Metro City such as the Slums and the Subway, with most rounds featuring more than one level. At the end of each round the player will face a boss character unique to that round.</desc>
+		<image>./images/ffight-image.png</image>
+		<video>./videos/ffight-video.mp4</video>
+		<marquee>./images/ffight-marquee.png</marquee>
+		<thumbnail>./images/ffight-thumb.png</thumbnail>
+		<fanart>./images/ffight-fanart.jpg</fanart>
+		<bezel>./images/ffight-bezel.png</bezel>
+		<boxback>./images/ffight-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat'em Up</genre>
+		<family>Final Fight</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>981C6248</crc32>
+		<md5>aa673bfc76dc8c24bf3f388dd4a2cf78</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230222T190121" />
+	</game>
+	<game id="37362">
+		<path>./Games/ffightj.zip</path>
+		<name>Final Fight</name>
+		<desc>Final Fight can be played by up to two players simultaneously, with each player controlling a different character. Before the game begins, the player chooses between the three main characters, Guy, Cody, and Haggar, each with his own fighting style and attributes. Guy is the weakest but has faster attacks, Haggar is the strongest but also the slowest, and Cody has all-round attributes.
+
+Final Fight consists of six stages or "rounds", as well as two bonus rounds. Each round takes place in a different section of Metro City such as the Slums and the Subway, with most rounds featuring more than one level. At the end of each round the player will face a boss character unique to that round.</desc>
+		<image>./images/ffightj-image.png</image>
+		<video>./videos/ffightj-video.mp4</video>
+		<marquee>./images/ffightj-marquee.png</marquee>
+		<thumbnail>./images/ffightj-thumb.png</thumbnail>
+		<fanart>./images/ffightj-fanart.jpg</fanart>
+		<bezel>./images/ffightj-bezel.png</bezel>
+		<boxback>./images/ffightj-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat'em Up</genre>
+		<family>Final Fight</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>A2AAB4BF</crc32>
+		<md5>431cd526fe7ac270a01ca32163f87e48</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230222T190124" />
+	</game>
+	<game id="37362">
+		<path>./Games/ffightj1.zip</path>
+		<name>Final Fight</name>
+		<desc>Final Fight can be played by up to two players simultaneously, with each player controlling a different character. Before the game begins, the player chooses between the three main characters, Guy, Cody, and Haggar, each with his own fighting style and attributes. Guy is the weakest but has faster attacks, Haggar is the strongest but also the slowest, and Cody has all-round attributes.
+
+Final Fight consists of six stages or "rounds", as well as two bonus rounds. Each round takes place in a different section of Metro City such as the Slums and the Subway, with most rounds featuring more than one level. At the end of each round the player will face a boss character unique to that round.</desc>
+		<image>./images/ffightj1-image.png</image>
+		<video>./videos/ffightj1-video.mp4</video>
+		<marquee>./images/ffightj1-marquee.png</marquee>
+		<thumbnail>./images/ffightj1-thumb.png</thumbnail>
+		<fanart>./images/ffightj1-fanart.jpg</fanart>
+		<bezel>./images/ffightj1-bezel.png</bezel>
+		<boxback>./images/ffightj1-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat'em Up</genre>
+		<family>Final Fight</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>CE853D7C</crc32>
+		<md5>14e633b9ed2c74d232f948c9ce2a9aa9</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230222T190126" />
+	</game>
+	<game id="37362">
+		<path>./Games/ffightj2.zip</path>
+		<name>Final Fight</name>
+		<desc>Final Fight can be played by up to two players simultaneously, with each player controlling a different character. Before the game begins, the player chooses between the three main characters, Guy, Cody, and Haggar, each with his own fighting style and attributes. Guy is the weakest but has faster attacks, Haggar is the strongest but also the slowest, and Cody has all-round attributes.
+
+Final Fight consists of six stages or "rounds", as well as two bonus rounds. Each round takes place in a different section of Metro City such as the Slums and the Subway, with most rounds featuring more than one level. At the end of each round the player will face a boss character unique to that round.</desc>
+		<image>./images/ffightj2-image.png</image>
+		<video>./videos/ffightj2-video.mp4</video>
+		<marquee>./images/ffightj2-marquee.png</marquee>
+		<thumbnail>./images/ffightj2-thumb.png</thumbnail>
+		<fanart>./images/ffightj2-fanart.jpg</fanart>
+		<bezel>./images/ffightj2-bezel.png</bezel>
+		<boxback>./images/ffightj2-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat'em Up</genre>
+		<family>Final Fight</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>5561933B</crc32>
+		<md5>aecb4169725c839af119891dbc6b5fcd</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230222T190128" />
+	</game>
+	<game id="37362">
+		<path>./Games/ffightu.zip</path>
+		<name>Final Fight</name>
+		<desc>Final Fight can be played by up to two players simultaneously, with each player controlling a different character. Before the game begins, the player chooses between the three main characters, Guy, Cody, and Haggar, each with his own fighting style and attributes. Guy is the weakest but has faster attacks, Haggar is the strongest but also the slowest, and Cody has all-round attributes.
+
+Final Fight consists of six stages or "rounds", as well as two bonus rounds. Each round takes place in a different section of Metro City such as the Slums and the Subway, with most rounds featuring more than one level. At the end of each round the player will face a boss character unique to that round.</desc>
+		<image>./images/ffightu-image.png</image>
+		<video>./videos/ffightu-video.mp4</video>
+		<marquee>./images/ffightu-marquee.png</marquee>
+		<thumbnail>./images/ffightu-thumb.png</thumbnail>
+		<fanart>./images/ffightu-fanart.jpg</fanart>
+		<bezel>./images/ffightu-bezel.png</bezel>
+		<boxback>./images/ffightu-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat'em Up</genre>
+		<family>Final Fight</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>F23F360E</crc32>
+		<md5>01995fa68ed1fada14233b25d0d74309</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T190130" />
+	</game>
+	<game id="37362">
+		<path>./Games/ffightua.zip</path>
+		<name>Final Fight</name>
+		<desc>Final Fight can be played by up to two players simultaneously, with each player controlling a different character. Before the game begins, the player chooses between the three main characters, Guy, Cody, and Haggar, each with his own fighting style and attributes. Guy is the weakest but has faster attacks, Haggar is the strongest but also the slowest, and Cody has all-round attributes.
+
+Final Fight consists of six stages or "rounds", as well as two bonus rounds. Each round takes place in a different section of Metro City such as the Slums and the Subway, with most rounds featuring more than one level. At the end of each round the player will face a boss character unique to that round.</desc>
+		<image>./images/ffightua-image.png</image>
+		<video>./videos/ffightua-video.mp4</video>
+		<marquee>./images/ffightua-marquee.png</marquee>
+		<thumbnail>./images/ffightua-thumb.png</thumbnail>
+		<fanart>./images/ffightua-fanart.jpg</fanart>
+		<bezel>./images/ffightua-bezel.png</bezel>
+		<boxback>./images/ffightua-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat'em Up</genre>
+		<family>Final Fight</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>5546D3A3</crc32>
+		<md5>9a94f95785ea363636d87897b3ccf2c9</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T190133" />
+	</game>
+	<game id="37362">
+		<path>./Games/ffightub.zip</path>
+		<name>Final Fight</name>
+		<desc>Final Fight can be played by up to two players simultaneously, with each player controlling a different character. Before the game begins, the player chooses between the three main characters, Guy, Cody, and Haggar, each with his own fighting style and attributes. Guy is the weakest but has faster attacks, Haggar is the strongest but also the slowest, and Cody has all-round attributes.
+
+Final Fight consists of six stages or "rounds", as well as two bonus rounds. Each round takes place in a different section of Metro City such as the Slums and the Subway, with most rounds featuring more than one level. At the end of each round the player will face a boss character unique to that round.</desc>
+		<image>./images/ffightub-image.png</image>
+		<video>./videos/ffightub-video.mp4</video>
+		<marquee>./images/ffightub-marquee.png</marquee>
+		<thumbnail>./images/ffightub-thumb.png</thumbnail>
+		<fanart>./images/ffightub-fanart.jpg</fanart>
+		<bezel>./images/ffightub-bezel.png</bezel>
+		<boxback>./images/ffightub-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat'em Up</genre>
+		<family>Final Fight</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>279B210D</crc32>
+		<md5>523f612c871905cd7a54b03b105703c1</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T190135" />
+	</game>
+	<game id="37363">
+		<path>./Games/forgott1.zip</path>
+		<name>Forgotten Worlds</name>
+		<desc>The planet used to be beautiful, with gorgeous cities and gleaming countrysides. Until the Aliens attacked! With fire, bombs, and napalm they devastated the world! They made the planet so abominable that it became an outcast in the universe - the Forgotten World. Until you, the Nameless One, appear. You're a Super Warrior of incredible power and energy. You make it your business to reclaim the panet for its rightful owners - the Human Beings!</desc>
+		<image>./images/forgott1-image.png</image>
+		<video>./videos/forgott1-video.mp4</video>
+		<marquee>./images/forgott1-marquee.png</marquee>
+		<thumbnail>./images/forgott1-thumb.png</thumbnail>
+		<fanart>./images/forgott1-fanart.jpg</fanart>
+		<bezel>./images/forgott1-bezel.png</bezel>
+		<boxback>./images/forgott1-boxback.png</boxback>
+		<rating>0.65</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shoot'em up / Horizontal</genre>
+		<family>Forgotten Worlds</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>3699ADB4</crc32>
+		<md5>367299833e93cd71b82ae1c104229002</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T190137" />
+	</game>
+	<game id="37363">
+		<path>./Games/forgottn.zip</path>
+		<name>Forgotten Worlds</name>
+		<desc>The planet used to be beautiful, with gorgeous cities and gleaming countrysides. Until the Aliens attacked! With fire, bombs, and napalm they devastated the world! They made the planet so abominable that it became an outcast in the universe - the Forgotten World. Until you, the Nameless One, appear. You're a Super Warrior of incredible power and energy. You make it your business to reclaim the panet for its rightful owners - the Human Beings!</desc>
+		<image>./images/forgottn-image.png</image>
+		<video>./videos/forgottn-video.mp4</video>
+		<marquee>./images/forgottn-marquee.png</marquee>
+		<thumbnail>./images/forgottn-thumb.png</thumbnail>
+		<fanart>./images/forgottn-fanart.jpg</fanart>
+		<bezel>./images/forgottn-bezel.png</bezel>
+		<boxback>./images/forgottn-boxback.png</boxback>
+		<rating>0.65</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shoot'em up / Horizontal</genre>
+		<family>Forgotten Worlds</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>61D9D400</crc32>
+		<md5>0ca3669f77d4ef4cd76f4f146e254cfc</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230222T190143" />
+	</game>
+	<game id="41441">
+		<path>./Games/ghouls.zip</path>
+		<name>Ghouls'n Ghosts</name>
+		<desc>Three years have passed since the events of "Ghosts'n Goblins" and the knight Arthur finds himself once again facing the horrible creatures of Demon World. This time the demons have invaded the kingdom and upon his return, Arthur is the only survivor, his beloved Genever having been killed by Lucifer. Arthur embarks once again on a quest to defeat the demonic invaders and save Genever's soul.</desc>
+		<image>./images/ghouls-image.png</image>
+		<video>./videos/ghouls-video.mp4</video>
+		<marquee>./images/ghouls-marquee.png</marquee>
+		<thumbnail>./images/ghouls-thumb.png</thumbnail>
+		<fanart>./images/ghouls-fanart.jpg</fanart>
+		<manual>./manuals/ghouls-manual.pdf</manual>
+		<bezel>./images/ghouls-bezel.png</bezel>
+		<boxback>./images/ghouls-boxback.png</boxback>
+		<rating>0.9</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform / Fighter Scrolling</genre>
+		<family>Ghosts'n Goblins</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>6CFB871E</crc32>
+		<md5>43e5dad65d6c83fde83c658349bd2641</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230222T190145" />
+	</game>
+	<game id="41441">
+		<path>./Games/ghoulsu.zip</path>
+		<name>Ghouls'n Ghosts</name>
+		<desc>Three years have passed since the events of "Ghosts'n Goblins" and the knight Arthur finds himself once again facing the horrible creatures of Demon World. This time the demons have invaded the kingdom and upon his return, Arthur is the only survivor, his beloved Genever having been killed by Lucifer. Arthur embarks once again on a quest to defeat the demonic invaders and save Genever's soul.</desc>
+		<image>./images/ghoulsu-image.png</image>
+		<video>./videos/ghoulsu-video.mp4</video>
+		<marquee>./images/ghoulsu-marquee.png</marquee>
+		<thumbnail>./images/ghoulsu-thumb.png</thumbnail>
+		<fanart>./images/ghoulsu-fanart.jpg</fanart>
+		<manual>./manuals/ghoulsu-manual.pdf</manual>
+		<bezel>./images/ghoulsu-bezel.png</bezel>
+		<boxback>./images/ghoulsu-boxback.png</boxback>
+		<rating>0.9</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform / Fighter Scrolling</genre>
+		<family>Ghosts'n Goblins</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>509EE67A</crc32>
+		<md5>166ee8354816e0acc52aac2638f53f49</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T190147" />
+	</game>
+	<game id="42020">
+		<path>./Games/knights.zip</path>
+		<name>Knights of the Round</name>
+		<desc>Knights of the Round is an arcade game released by Capcom in 1991. A side-scrolling beat 'em up based loosely on the legend of King Arthur and the Knights of the Round Table, the game features an role-playing video game-like level advancement system, with fighters getting new weapons and armour as they advance through the game, however the player can not choose how to upgrade his/her character - the level up system is static.</desc>
+		<image>./images/knights-image.png</image>
+		<video>./videos/knights-video.mp4</video>
+		<marquee>./images/knights-marquee.png</marquee>
+		<thumbnail>./images/knights-thumb.png</thumbnail>
+		<fanart>./images/knights-fanart.jpg</fanart>
+		<bezel>./images/knights-bezel.png</bezel>
+		<boxback>./images/knights-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat'em Up</genre>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-3</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>32457DF9</crc32>
+		<md5>85f378b10e9e07c0c17969d3a560f6ed</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230222T190149" />
+	</game>
+	<game id="42020">
+		<path>./Games/knightsh.zip</path>
+		<name>Knights of the Round</name>
+		<desc>Knights of the Round is an arcade game released by Capcom in 1991. A side-scrolling beat 'em up based loosely on the legend of King Arthur and the Knights of the Round Table, the game features an role-playing video game-like level advancement system, with fighters getting new weapons and armour as they advance through the game, however the player can not choose how to upgrade his/her character - the level up system is static.</desc>
+		<image>./images/knightsh-image.png</image>
+		<video>./videos/knightsh-video.mp4</video>
+		<marquee>./images/knightsh-marquee.png</marquee>
+		<thumbnail>./images/knightsh-thumb.png</thumbnail>
+		<fanart>./images/knightsh-fanart.jpg</fanart>
+		<bezel>./images/knightsh-bezel.png</bezel>
+		<boxback>./images/knightsh-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat'em Up</genre>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-3</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>20E7F114</crc32>
+		<md5>9d613095d2d553d2b42cbd39a4c413dc</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T190152" />
+	</game>
+	<game id="42020">
+		<path>./Games/knightsj.zip</path>
+		<name>Knights of the Round</name>
+		<desc>Knights of the Round is an arcade game released by Capcom in 1991. A side-scrolling beat 'em up based loosely on the legend of King Arthur and the Knights of the Round Table, the game features an role-playing video game-like level advancement system, with fighters getting new weapons and armour as they advance through the game, however the player can not choose how to upgrade his/her character - the level up system is static.</desc>
+		<image>./images/knightsj-image.png</image>
+		<video>./videos/knightsj-video.mp4</video>
+		<marquee>./images/knightsj-marquee.png</marquee>
+		<thumbnail>./images/knightsj-thumb.png</thumbnail>
+		<fanart>./images/knightsj-fanart.jpg</fanart>
+		<bezel>./images/knightsj-bezel.png</bezel>
+		<boxback>./images/knightsj-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat'em Up</genre>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-3</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>667E6C70</crc32>
+		<md5>a1d8ffcf645ff3a142d45d26c8283171</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230222T190154" />
+	</game>
+	<game id="42020">
+		<path>./Games/knightsu.zip</path>
+		<name>Knights of the Round</name>
+		<desc>Knights of the Round is an arcade game released by Capcom in 1991. A side-scrolling beat 'em up based loosely on the legend of King Arthur and the Knights of the Round Table, the game features an role-playing video game-like level advancement system, with fighters getting new weapons and armour as they advance through the game, however the player can not choose how to upgrade his/her character - the level up system is static.</desc>
+		<image>./images/knightsu-image.png</image>
+		<video>./videos/knightsu-video.mp4</video>
+		<marquee>./images/knightsu-marquee.png</marquee>
+		<thumbnail>./images/knightsu-thumb.png</thumbnail>
+		<fanart>./images/knightsu-fanart.jpg</fanart>
+		<bezel>./images/knightsu-bezel.png</bezel>
+		<boxback>./images/knightsu-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat'em Up</genre>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-3</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>8C618030</crc32>
+		<md5>afbdbc542c9e1d7bd45ea729c2ef7926</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T190156" />
+	</game>
+	<game id="37366">
+		<path>./Games/kod.zip</path>
+		<name>The King of Dragons</name>
+		<desc>The King of Dragons is a 1991 side-scrolling hack and slash video game by Capcom that allows players to choose from five characters (Elf, Wizard, Fighter, Cleric, and Dwarf) in order to travel through the kingdom of Malus and defeat the monsters that have taken over, as well as their leader, the red dragon Gildiss. Like Capcom's Knights of the Round, it features a level advancement system, allowing character attributes to be upgraded as players progress through the game. The setting is very similar to that of Dungeons &amp; Dragons and other medieval fantasy worlds, with familiar monsters such as Orcs, Gnolls, Harpies, Wyverns, Cyclopes, and Minotaurs.
+
+The game was ported to the Super NES and released in 1994. An emulated version of the game was released as part of Capcom Classics Collection Vol. 2 and Capcom Classics Collection: Reloaded.</desc>
+		<image>./images/kod-image.png</image>
+		<video>./videos/kod-video.mp4</video>
+		<marquee>./images/kod-marquee.png</marquee>
+		<thumbnail>./images/kod-thumb.png</thumbnail>
+		<fanart>./images/kod-fanart.jpg</fanart>
+		<bezel>./images/kod-bezel.png</bezel>
+		<boxback>./images/kod-boxback.png</boxback>
+		<rating>0.6</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight / 2.5D</genre>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-3</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>A654D39F</crc32>
+		<md5>c57c91e221294c004a7bf43a4b72668a</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230222T190159" />
+	</game>
+	<game id="37366">
+		<path>./Games/kodj.zip</path>
+		<name>The King of Dragons</name>
+		<desc>The King of Dragons is a 1991 side-scrolling hack and slash video game by Capcom that allows players to choose from five characters (Elf, Wizard, Fighter, Cleric, and Dwarf) in order to travel through the kingdom of Malus and defeat the monsters that have taken over, as well as their leader, the red dragon Gildiss. Like Capcom's Knights of the Round, it features a level advancement system, allowing character attributes to be upgraded as players progress through the game. The setting is very similar to that of Dungeons &amp; Dragons and other medieval fantasy worlds, with familiar monsters such as Orcs, Gnolls, Harpies, Wyverns, Cyclopes, and Minotaurs.
+
+The game was ported to the Super NES and released in 1994. An emulated version of the game was released as part of Capcom Classics Collection Vol. 2 and Capcom Classics Collection: Reloaded.</desc>
+		<image>./images/kodj-image.png</image>
+		<video>./videos/kodj-video.mp4</video>
+		<marquee>./images/kodj-marquee.png</marquee>
+		<thumbnail>./images/kodj-thumb.png</thumbnail>
+		<fanart>./images/kodj-fanart.jpg</fanart>
+		<bezel>./images/kodj-bezel.png</bezel>
+		<boxback>./images/kodj-boxback.png</boxback>
+		<rating>0.6</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight / 2.5D</genre>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-3</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>E45FD2B3</crc32>
+		<md5>f806cb5670739b088ff4cffefb228f7e</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230222T190201" />
+	</game>
+	<game id="37366">
+		<path>./Games/kodu.zip</path>
+		<name>The King of Dragons</name>
+		<desc>The King of Dragons is a 1991 side-scrolling hack and slash video game by Capcom that allows players to choose from five characters (Elf, Wizard, Fighter, Cleric, and Dwarf) in order to travel through the kingdom of Malus and defeat the monsters that have taken over, as well as their leader, the red dragon Gildiss. Like Capcom's Knights of the Round, it features a level advancement system, allowing character attributes to be upgraded as players progress through the game. The setting is very similar to that of Dungeons &amp; Dragons and other medieval fantasy worlds, with familiar monsters such as Orcs, Gnolls, Harpies, Wyverns, Cyclopes, and Minotaurs.
+
+The game was ported to the Super NES and released in 1994. An emulated version of the game was released as part of Capcom Classics Collection Vol. 2 and Capcom Classics Collection: Reloaded.</desc>
+		<image>./images/kodu-image.png</image>
+		<video>./videos/kodu-video.mp4</video>
+		<marquee>./images/kodu-marquee.png</marquee>
+		<thumbnail>./images/kodu-thumb.png</thumbnail>
+		<fanart>./images/kodu-fanart.jpg</fanart>
+		<bezel>./images/kodu-bezel.png</bezel>
+		<boxback>./images/kodu-boxback.png</boxback>
+		<rating>0.6</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight / 2.5D</genre>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-3</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>3DCE2CEA</crc32>
+		<md5>4565e99e1aa2b3979f925320066d6d4d</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T190203" />
+	</game>
+	<game id="37363">
+		<path>./Games/lostwrld.zip</path>
+		<name>Forgotten Worlds</name>
+		<desc>The planet used to be beautiful, with gorgeous cities and gleaming countrysides. Until the Aliens attacked! With fire, bombs, and napalm they devastated the world! They made the planet so abominable that it became an outcast in the universe - the Forgotten World. Until you, the Nameless One, appear. You're a Super Warrior of incredible power and energy. You make it your business to reclaim the panet for its rightful owners - the Human Beings!</desc>
+		<image>./images/lostwrld-image.png</image>
+		<video>./videos/lostwrld-video.mp4</video>
+		<marquee>./images/lostwrld-marquee.png</marquee>
+		<thumbnail>./images/lostwrld-thumb.png</thumbnail>
+		<fanart>./images/lostwrld-fanart.jpg</fanart>
+		<bezel>./images/lostwrld-bezel.png</bezel>
+		<boxback>./images/lostwrld-boxback.png</boxback>
+		<rating>0.65</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shoot'em up / Horizontal</genre>
+		<family>Forgotten Worlds</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>D0499A0B</crc32>
+		<md5>71921853036c252725037f02620f950e</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230222T190209" />
+	</game>
+	<game id="37379">
+		<path>./Games/mbomberj.zip</path>
+		<name>Saturday Night Slam Masters</name>
+		<desc>A 1-on-1 fighting game in which players choose from 10 different wrestlers and take to the ring to try and defeat their larger-than-life opponents. Each wrestler has an assortment of moves, including his own special 'super slam'. The object of the game is to win and defend the championship by pinning or putting a submission hold on your opponent.</desc>
+		<image>./images/mbomberj-image.png</image>
+		<video>./videos/mbomberj-video.mp4</video>
+		<marquee>./images/mbomberj-marquee.png</marquee>
+		<thumbnail>./images/mbomberj-thumb.png</thumbnail>
+		<fanart>./images/mbomberj-fanart.jpg</fanart>
+		<bezel>./images/mbomberj-bezel.png</bezel>
+		<boxback>./images/mbomberj-boxback.png</boxback>
+		<rating>0.9</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Sports / Wrestling</genre>
+		<family>Slam Masters</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-4</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>8D26C425</crc32>
+		<md5>0e2585515c14b9e37c1e2ecc83cc5046</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230222T190211" />
+	</game>
+	<game id="37367">
+		<path>./Games/mbombrd.zip</path>
+		<name>Muscle Bomber Duo : Ultimate Team Battle</name>
+		<desc>Professional wrestling experienced a sudden increase in popularity during the early 1980s, where many professional wrestling organizations were started all over the world. A severe rivalry existed among the organizations.
+
+In order to resolve this conflict, 8 organizations combined to form the Capcom Professional Wrestling Association (CPWA), led by Victor Ortega, the CPWA?s first champion.
+
+One day, Ortega suddenly vanished. He was considered to be the axis of the sport and his unexpected disappearance caused the CPWA to enter an age of confusion and disorder. The BPWA, a dark underground wrestling organization, chose to take advantage of this opportunity and began moving. With "Fighters of Muscle Bomber = Destiny" as the theme, the CPWA chief executives decided to hold a world tour called the ?Crash Carnival,? to decide the new king of the CPWA.
+
+The gong that determines the new ?Master of Muscle Bomber? is sounded?</desc>
+		<image>./images/mbombrd-image.png</image>
+		<video>./videos/mbombrd-video.mp4</video>
+		<marquee>./images/mbombrd-marquee.png</marquee>
+		<thumbnail>./images/mbombrd-thumb.png</thumbnail>
+		<fanart>./images/mbombrd-fanart.jpg</fanart>
+		<boxback>./images/mbombrd-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Sports / Wrestling</genre>
+		<family>Slam Masters</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-4</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>6D38D56F</crc32>
+		<md5>0dc93d3ffdd1f1606e478e17eb3d418d</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230222T190213" />
+	</game>
+	<game id="37367">
+		<path>./Games/mbombrdj.zip</path>
+		<name>Muscle Bomber Duo : Ultimate Team Battle</name>
+		<desc>Professional wrestling experienced a sudden increase in popularity during the early 1980s, where many professional wrestling organizations were started all over the world. A severe rivalry existed among the organizations.
+
+In order to resolve this conflict, 8 organizations combined to form the Capcom Professional Wrestling Association (CPWA), led by Victor Ortega, the CPWA?s first champion.
+
+One day, Ortega suddenly vanished. He was considered to be the axis of the sport and his unexpected disappearance caused the CPWA to enter an age of confusion and disorder. The BPWA, a dark underground wrestling organization, chose to take advantage of this opportunity and began moving. With "Fighters of Muscle Bomber = Destiny" as the theme, the CPWA chief executives decided to hold a world tour called the ?Crash Carnival,? to decide the new king of the CPWA.
+
+The gong that determines the new ?Master of Muscle Bomber? is sounded?</desc>
+		<image>./images/mbombrdj-image.png</image>
+		<video>./videos/mbombrdj-video.mp4</video>
+		<marquee>./images/mbombrdj-marquee.png</marquee>
+		<thumbnail>./images/mbombrdj-thumb.png</thumbnail>
+		<fanart>./images/mbombrdj-fanart.jpg</fanart>
+		<boxback>./images/mbombrdj-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Sports / Wrestling</genre>
+		<family>Slam Masters</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-4</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>4FB92510</crc32>
+		<md5>39f38fd890954593b41880c6f33c45d5</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230222T190215" />
+	</game>
+	<game id="78892">
+		<path>./Games/megaman.zip</path>
+		<name>Mega Man: The Power Battle</name>
+		<desc>Have you ever pictured a Rockman or Megaman game that allows to skip all the platform elements and just grapple against the bosses? That's pretty much the main idea in this game! Choose from Rockman/Megaman, Protoman or Bass and battle against classic bosses in the series. Features great 2-D graphics, solid control, and a nice use of strategy (since the right order of weapons will rid you of specific enemies in no time!).</desc>
+		<image>./images/megaman-image.png</image>
+		<video>./videos/megaman-video.mp4</video>
+		<marquee>./images/megaman-marquee.png</marquee>
+		<thumbnail>./images/megaman-thumb.png</thumbnail>
+		<fanart>./images/megaman-fanart.jpg</fanart>
+		<manual>./manuals/megaman-manual.pdf</manual>
+		<bezel>./images/megaman-bezel.png</bezel>
+		<boxback>./images/megaman-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight /  Co-op</genre>
+		<family>Mega Man</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>AE7A4592</crc32>
+		<md5>c9ad34a11ad7cccefe832d92ac98e07e</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T190218" />
+	</game>
+	<game id="78903">
+		<path>./Games/mercs.zip</path>
+		<name>Mercs</name>
+		<desc>The US faces a grave crisis! The former president has been kidnapped by a group of revolutionaries while on a trip on Central Africa meant to promote world peace. Take control of three highly skilled anti-terrorist soldiers and venture through enemy lines to save the former president &amp; annihilate the rebel army in the process. Features solid graphics &amp; sound, plenty of weapons &amp; vehicles to use and hulking bosses to defeat.</desc>
+		<image>./images/mercs-image.png</image>
+		<video>./videos/mercs-video.mp4</video>
+		<marquee>./images/mercs-marquee.png</marquee>
+		<thumbnail>./images/mercs-thumb.png</thumbnail>
+		<fanart>./images/mercs-fanart.jpg</fanart>
+		<bezel>./images/mercs-bezel.png</bezel>
+		<boxback>./images/mercs-boxback.png</boxback>
+		<rating>0.9</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shooter / Run and Gun</genre>
+		<family>Commando</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-3</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>7F0F6AE0</crc32>
+		<md5>4dd1875c9615e631e2c0194b25f3a3ff</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230222T190220" />
+	</game>
+	<game id="78903">
+		<path>./Games/mercsj.zip</path>
+		<name>Mercs</name>
+		<desc>The US faces a grave crisis! The former president has been kidnapped by a group of revolutionaries while on a trip on Central Africa meant to promote world peace. Take control of three highly skilled anti-terrorist soldiers and venture through enemy lines to save the former president &amp; annihilate the rebel army in the process. Features solid graphics &amp; sound, plenty of weapons &amp; vehicles to use and hulking bosses to defeat.</desc>
+		<image>./images/mercsj-image.png</image>
+		<video>./videos/mercsj-video.mp4</video>
+		<marquee>./images/mercsj-marquee.png</marquee>
+		<thumbnail>./images/mercsj-thumb.png</thumbnail>
+		<fanart>./images/mercsj-fanart.jpg</fanart>
+		<bezel>./images/mercsj-bezel.png</bezel>
+		<boxback>./images/mercsj-boxback.png</boxback>
+		<rating>0.9</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shooter / Run and Gun</genre>
+		<family>Commando</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-3</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>5060CD61</crc32>
+		<md5>13fda61a50470c73cee77f21b7bb5063</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230222T190222" />
+	</game>
+	<game id="78903">
+		<path>./Games/mercsu.zip</path>
+		<name>Mercs</name>
+		<desc>The US faces a grave crisis! The former president has been kidnapped by a group of revolutionaries while on a trip on Central Africa meant to promote world peace. Take control of three highly skilled anti-terrorist soldiers and venture through enemy lines to save the former president &amp; annihilate the rebel army in the process. Features solid graphics &amp; sound, plenty of weapons &amp; vehicles to use and hulking bosses to defeat.</desc>
+		<image>./images/mercsu-image.png</image>
+		<video>./videos/mercsu-video.mp4</video>
+		<marquee>./images/mercsu-marquee.png</marquee>
+		<thumbnail>./images/mercsu-thumb.png</thumbnail>
+		<fanart>./images/mercsu-fanart.jpg</fanart>
+		<bezel>./images/mercsu-bezel.png</bezel>
+		<boxback>./images/mercsu-boxback.png</boxback>
+		<rating>0.9</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shooter / Run and Gun</genre>
+		<family>Commando</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-3</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>DEBB8C66</crc32>
+		<md5>0f67d0188b09ee3994821a4c802369b1</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T190225" />
+	</game>
+	<game id="78903">
+		<path>./Games/mercsua.zip</path>
+		<name>Mercs</name>
+		<desc>The US faces a grave crisis! The former president has been kidnapped by a group of revolutionaries while on a trip on Central Africa meant to promote world peace. Take control of three highly skilled anti-terrorist soldiers and venture through enemy lines to save the former president &amp; annihilate the rebel army in the process. Features solid graphics &amp; sound, plenty of weapons &amp; vehicles to use and hulking bosses to defeat.</desc>
+		<image>./images/mercsua-image.png</image>
+		<video>./videos/mercsua-video.mp4</video>
+		<marquee>./images/mercsua-marquee.png</marquee>
+		<thumbnail>./images/mercsua-thumb.png</thumbnail>
+		<fanart>./images/mercsua-fanart.jpg</fanart>
+		<bezel>./images/mercsua-bezel.png</bezel>
+		<boxback>./images/mercsua-boxback.png</boxback>
+		<rating>0.9</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shooter / Run and Gun</genre>
+		<family>Commando</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-3</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>9C217EC1</crc32>
+		<md5>f6c9d280d048d604fa493dd8581807cf</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T190227" />
+	</game>
+	<game id="57920">
+		<path>./Games/msword.zip</path>
+		<name>Magic Sword: Heroic Fantasy</name>
+		<desc>Magic Sword: Heroic Fantasy is a side-scrolling fantasy arcade game released by Capcom in 1990. The player can use a sword, an axe, or magic, and can also rescue and recruit potential allies from different character classes, each with their own special abilities. Three years earlier, Capcom had released the similar Black Tiger in 1987.
+
+Magic Sword is set in a nameless world threatened by the dark lord Drokmar, who is in control of an evil crystal known as the "Black Orb" that would allow him to rule the world. To prevent this from happening, the Brave Hero must climb to the top of the 50-story tower that Drokmar resides in, known as the Dragon Keep. After Drokmar is defeated, the player has the option of two endings: destroy the Black Orb, or take control of it and become the new Dark Lord.</desc>
+		<image>./images/msword-image.png</image>
+		<video>./videos/msword-video.mp4</video>
+		<marquee>./images/msword-marquee.png</marquee>
+		<thumbnail>./images/msword-thumb.png</thumbnail>
+		<fanart>./images/msword-fanart.jpg</fanart>
+		<bezel>./images/msword-bezel.png</bezel>
+		<boxback>./images/msword-boxback.png</boxback>
+		<rating>0.9</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform / Fighter Scrolling</genre>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>F330F19E</crc32>
+		<md5>e9e1d247610b3e76e590d4c59ccf03c3</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230222T190230" />
+	</game>
+	<game id="57920">
+		<path>./Games/mswordj.zip</path>
+		<name>Magic Sword: Heroic Fantasy</name>
+		<desc>Magic Sword: Heroic Fantasy is a side-scrolling fantasy arcade game released by Capcom in 1990. The player can use a sword, an axe, or magic, and can also rescue and recruit potential allies from different character classes, each with their own special abilities. Three years earlier, Capcom had released the similar Black Tiger in 1987.
+
+Magic Sword is set in a nameless world threatened by the dark lord Drokmar, who is in control of an evil crystal known as the "Black Orb" that would allow him to rule the world. To prevent this from happening, the Brave Hero must climb to the top of the 50-story tower that Drokmar resides in, known as the Dragon Keep. After Drokmar is defeated, the player has the option of two endings: destroy the Black Orb, or take control of it and become the new Dark Lord.</desc>
+		<image>./images/mswordj-image.png</image>
+		<video>./videos/mswordj-video.mp4</video>
+		<marquee>./images/mswordj-marquee.png</marquee>
+		<thumbnail>./images/mswordj-thumb.png</thumbnail>
+		<fanart>./images/mswordj-fanart.jpg</fanart>
+		<bezel>./images/mswordj-bezel.png</bezel>
+		<boxback>./images/mswordj-boxback.png</boxback>
+		<rating>0.9</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform / Fighter Scrolling</genre>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>88949A43</crc32>
+		<md5>d58483b162e107caa095af8972153fd4</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230222T190232" />
+	</game>
+	<game id="57920">
+		<path>./Games/mswordr1.zip</path>
+		<name>Magic Sword: Heroic Fantasy</name>
+		<desc>Magic Sword: Heroic Fantasy is a side-scrolling fantasy arcade game released by Capcom in 1990. The player can use a sword, an axe, or magic, and can also rescue and recruit potential allies from different character classes, each with their own special abilities. Three years earlier, Capcom had released the similar Black Tiger in 1987.
+
+Magic Sword is set in a nameless world threatened by the dark lord Drokmar, who is in control of an evil crystal known as the "Black Orb" that would allow him to rule the world. To prevent this from happening, the Brave Hero must climb to the top of the 50-story tower that Drokmar resides in, known as the Dragon Keep. After Drokmar is defeated, the player has the option of two endings: destroy the Black Orb, or take control of it and become the new Dark Lord.</desc>
+		<image>./images/mswordr1-image.png</image>
+		<video>./videos/mswordr1-video.mp4</video>
+		<marquee>./images/mswordr1-marquee.png</marquee>
+		<thumbnail>./images/mswordr1-thumb.png</thumbnail>
+		<fanart>./images/mswordr1-fanart.jpg</fanart>
+		<bezel>./images/mswordr1-bezel.png</bezel>
+		<boxback>./images/mswordr1-boxback.png</boxback>
+		<rating>0.9</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform / Fighter Scrolling</genre>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>A9389993</crc32>
+		<md5>0d97ee5c0a1e1327022712b7bd3ce64f</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230222T190234" />
+	</game>
+	<game id="57920">
+		<path>./Games/mswordu.zip</path>
+		<name>Magic Sword: Heroic Fantasy</name>
+		<desc>Magic Sword: Heroic Fantasy is a side-scrolling fantasy arcade game released by Capcom in 1990. The player can use a sword, an axe, or magic, and can also rescue and recruit potential allies from different character classes, each with their own special abilities. Three years earlier, Capcom had released the similar Black Tiger in 1987.
+
+Magic Sword is set in a nameless world threatened by the dark lord Drokmar, who is in control of an evil crystal known as the "Black Orb" that would allow him to rule the world. To prevent this from happening, the Brave Hero must climb to the top of the 50-story tower that Drokmar resides in, known as the Dragon Keep. After Drokmar is defeated, the player has the option of two endings: destroy the Black Orb, or take control of it and become the new Dark Lord.</desc>
+		<image>./images/mswordu-image.png</image>
+		<video>./videos/mswordu-video.mp4</video>
+		<marquee>./images/mswordu-marquee.png</marquee>
+		<thumbnail>./images/mswordu-thumb.png</thumbnail>
+		<fanart>./images/mswordu-fanart.jpg</fanart>
+		<bezel>./images/mswordu-bezel.png</bezel>
+		<boxback>./images/mswordu-boxback.png</boxback>
+		<rating>0.9</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform / Fighter Scrolling</genre>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>D92B5723</crc32>
+		<md5>51577a1fe5172c8efd2a2c7459f2a9fa</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T190236" />
+	</game>
+	<game id="37371">
+		<path>./Games/mtwins.zip</path>
+		<name>Mega Twins</name>
+		<desc>The game features two twins who are attempting to re-take control of their land, Alurea, after a monster unexpectedly attacks, destroying everything in its path. The people of Alurea have lived in peace for a thousand years and have forgotten how to fight, yet the land's only survivors, the twin sons of the king, must take up the challenge and return their kingdom to its former glory. The two twins, aged around 15 at the time the game takes place, venture forth in search of a legendary stone known as "Dragon Blue Eyes", which is rumored to be able to put everything back to rights.</desc>
+		<image>./images/mtwins-image.png</image>
+		<video>./videos/mtwins-video.mp4</video>
+		<marquee>./images/mtwins-marquee.png</marquee>
+		<thumbnail>./images/mtwins-thumb.png</thumbnail>
+		<fanart>./images/mtwins-fanart.jpg</fanart>
+		<bezel>./images/mtwins-bezel.png</bezel>
+		<boxback>./images/mtwins-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform / Fighter Scrolling</genre>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>A6D453A8</crc32>
+		<md5>2f7ee0a03dc427945d954447871b1769</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230222T190239" />
+	</game>
+	<game id="37372">
+		<path>./Games/nemo.zip</path>
+		<name>Nemo</name>
+		<desc>One night, as Nemo sleeps, he is visited in a dream by the King of Slumberland, who invites Nemo to come and play with the King's daughter, the Princess. Nemo finds himself unable to find the Princess however, so he and 'Flip', a strange companion who also turns up in the dream, decide to explore Slumberland and find the king.
+
+Nemo is a colourful and abstract platform shoot-em-up set in the dream world of Slumberland, a surreal world in which childrens' toys are running amok and must be destroyed. Nemo is armed with a magical staff that emits a burst of magic to destroy the many enemies, some of which require multiple hits. A number of power-ups also appear at regular intervals to aid Nemo in his quest through seven tough stages.</desc>
+		<image>./images/nemo-image.png</image>
+		<video>./videos/nemo-video.mp4</video>
+		<marquee>./images/nemo-marquee.png</marquee>
+		<thumbnail>./images/nemo-thumb.png</thumbnail>
+		<fanart>./images/nemo-fanart.jpg</fanart>
+		<bezel>./images/nemo-bezel.png</bezel>
+		<boxback>./images/nemo-boxback.png</boxback>
+		<rating>0.9</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform / Fighter Scrolling</genre>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>9A85ACB2</crc32>
+		<md5>6964ca6211da83c831d4e166b4acb016</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230222T190241" />
+	</game>
+	<game id="37372">
+		<path>./Games/nemoj.zip</path>
+		<name>Nemo</name>
+		<desc>One night, as Nemo sleeps, he is visited in a dream by the King of Slumberland, who invites Nemo to come and play with the King's daughter, the Princess. Nemo finds himself unable to find the Princess however, so he and 'Flip', a strange companion who also turns up in the dream, decide to explore Slumberland and find the king.
+
+Nemo is a colourful and abstract platform shoot-em-up set in the dream world of Slumberland, a surreal world in which childrens' toys are running amok and must be destroyed. Nemo is armed with a magical staff that emits a burst of magic to destroy the many enemies, some of which require multiple hits. A number of power-ups also appear at regular intervals to aid Nemo in his quest through seven tough stages.</desc>
+		<image>./images/nemoj-image.png</image>
+		<video>./videos/nemoj-video.mp4</video>
+		<marquee>./images/nemoj-marquee.png</marquee>
+		<thumbnail>./images/nemoj-thumb.png</thumbnail>
+		<fanart>./images/nemoj-fanart.jpg</fanart>
+		<bezel>./images/nemoj-bezel.png</bezel>
+		<boxback>./images/nemoj-boxback.png</boxback>
+		<rating>0.9</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform / Fighter Scrolling</genre>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>8AE19236</crc32>
+		<md5>0baf2d45659ca760f98e0b973d3afab6</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230222T190243" />
+	</game>
+	<game id="37373">
+		<path>./Games/pang3.zip</path>
+		<name>Pang! 3</name>
+		<desc>Pang! 3 is the second sequel to the superb 1989 original, Pang! 3 retains the same gameplay of its predecessors but adds vastly improved graphics and a choice of three difficulty levels; Beginner, Normal and Panic. On both the 'Normal' and 'Panic' skill levels, players can choose from 4 different playable characters; each possessing different strengths and weaknesses, such as a double harpoon or quick shots. On the beginner level, players can only use the Mexican character.
+
+Another notable difference is in the game's use of backdrops: instead of the world landmarks of the first two games, Pang! 3 features classical works of art in the form of paintings and sculptures.</desc>
+		<image>./images/pang3-image.png</image>
+		<video>./videos/pang3-video.mp4</video>
+		<marquee>./images/pang3-marquee.png</marquee>
+		<thumbnail>./images/pang3-thumb.png</thumbnail>
+		<fanart>./images/pang3-fanart.jpg</fanart>
+		<bezel>./images/pang3-bezel.png</bezel>
+		<boxback>./images/pang3-boxback.png</boxback>
+		<rating>0.85</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Mitchell</developer>
+		<publisher>Capcom</publisher>
+		<genre>Puzzle-Game</genre>
+		<family>Pang</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>995BDD76</crc32>
+		<md5>378ef9265f364a22c4f023c1346f7926</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230222T190245" />
+	</game>
+	<game id="37373">
+		<path>./Games/pang3j.zip</path>
+		<name>Pang! 3</name>
+		<desc>Pang! 3 is the second sequel to the superb 1989 original, Pang! 3 retains the same gameplay of its predecessors but adds vastly improved graphics and a choice of three difficulty levels; Beginner, Normal and Panic. On both the 'Normal' and 'Panic' skill levels, players can choose from 4 different playable characters; each possessing different strengths and weaknesses, such as a double harpoon or quick shots. On the beginner level, players can only use the Mexican character.
+
+Another notable difference is in the game's use of backdrops: instead of the world landmarks of the first two games, Pang! 3 features classical works of art in the form of paintings and sculptures.</desc>
+		<image>./images/pang3j-image.png</image>
+		<video>./videos/pang3j-video.mp4</video>
+		<marquee>./images/pang3j-marquee.png</marquee>
+		<thumbnail>./images/pang3j-thumb.png</thumbnail>
+		<fanart>./images/pang3j-fanart.jpg</fanart>
+		<bezel>./images/pang3j-bezel.png</bezel>
+		<boxback>./images/pang3j-boxback.png</boxback>
+		<rating>0.85</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Mitchell</developer>
+		<publisher>Capcom</publisher>
+		<genre>Puzzle-Game</genre>
+		<family>Pang</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>167BA7D2</crc32>
+		<md5>f38c44eefd0d5b48cac2a772eb044fb9</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230222T190247" />
+	</game>
+	<game id="37374">
+		<path>./Games/pnickj.zip</path>
+		<name>Pnickies</name>
+		<desc>A falling blocks game released only to arcades. Like-colored blocks merge together and more points are awarded for larger masses.</desc>
+		<image>./images/pnickj-image.png</image>
+		<video>./videos/pnickj-video.mp4</video>
+		<marquee>./images/pnickj-marquee.png</marquee>
+		<thumbnail>./images/pnickj-thumb.png</thumbnail>
+		<fanart>./images/pnickj-fanart.jpg</fanart>
+		<boxback>./images/pnickj-boxback.png</boxback>
+		<rating>0.7</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Puzzle-Game / Fall</genre>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>9F57EB7E</crc32>
+		<md5>1e2bf5efc5e97052434f1a8ad2e05500</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230222T190249" />
+	</game>
+	<game id="37375">
+		<path>./Games/punipic.zip</path>
+		<name>The Punisher</name>
+		<desc>A Capcom arcade beat-em-up game similar to games like Double Dragon featuring the Marvel character The Punisher. Nick Fury is also a playable character in this game.</desc>
+		<image>./images/punipic-image.png</image>
+		<video>./videos/punipic-video.mp4</video>
+		<marquee>./images/punipic-marquee.png</marquee>
+		<thumbnail>./images/punipic-thumb.png</thumbnail>
+		<fanart>./images/punipic-fanart.jpg</fanart>
+		<bezel>./images/punipic-bezel.png</bezel>
+		<boxback>./images/punipic-boxback.png</boxback>
+		<rating>0.85</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat'em Up</genre>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>4D05A956</crc32>
+		<md5>7c033fa46bb130a1ebd513f196f9b9bb</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T190251" />
+	</game>
+	<game id="37375">
+		<path>./Games/punipic2.zip</path>
+		<name>The Punisher</name>
+		<desc>A Capcom arcade beat-em-up game similar to games like Double Dragon featuring the Marvel character The Punisher. Nick Fury is also a playable character in this game.</desc>
+		<image>./images/punipic2-image.png</image>
+		<video>./videos/punipic2-video.mp4</video>
+		<marquee>./images/punipic2-marquee.png</marquee>
+		<thumbnail>./images/punipic2-thumb.png</thumbnail>
+		<fanart>./images/punipic2-fanart.jpg</fanart>
+		<bezel>./images/punipic2-bezel.png</bezel>
+		<boxback>./images/punipic2-boxback.png</boxback>
+		<rating>0.85</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat'em Up</genre>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>268830B5</crc32>
+		<md5>4d11b267226b92e9fae8dd283c6bd3c7</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T190254" />
+	</game>
+	<game id="37375">
+		<path>./Games/punipic3.zip</path>
+		<name>The Punisher</name>
+		<desc>A Capcom arcade beat-em-up game similar to games like Double Dragon featuring the Marvel character The Punisher. Nick Fury is also a playable character in this game.</desc>
+		<image>./images/punipic3-image.png</image>
+		<video>./videos/punipic3-video.mp4</video>
+		<marquee>./images/punipic3-marquee.png</marquee>
+		<thumbnail>./images/punipic3-thumb.png</thumbnail>
+		<fanart>./images/punipic3-fanart.jpg</fanart>
+		<bezel>./images/punipic3-bezel.png</bezel>
+		<boxback>./images/punipic3-boxback.png</boxback>
+		<rating>0.85</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat'em Up</genre>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>2732F08A</crc32>
+		<md5>d8d2f64191e5a8bdc947bb0ab1f2aa2d</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T190256" />
+	</game>
+	<game id="37375">
+		<path>./Games/punisher.zip</path>
+		<name>The Punisher</name>
+		<desc>A Capcom arcade beat-em-up game similar to games like Double Dragon featuring the Marvel character The Punisher. Nick Fury is also a playable character in this game.</desc>
+		<image>./images/punisher-image.png</image>
+		<video>./videos/punisher-video.mp4</video>
+		<marquee>./images/punisher-marquee.png</marquee>
+		<thumbnail>./images/punisher-thumb.png</thumbnail>
+		<fanart>./images/punisher-fanart.jpg</fanart>
+		<bezel>./images/punisher-bezel.png</bezel>
+		<boxback>./images/punisher-boxback.png</boxback>
+		<rating>0.85</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat'em Up</genre>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>ED7E3054</crc32>
+		<md5>b6ad71b5c534987a1e99f599eba0ce11</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230222T190259" />
+	</game>
+	<game id="37375">
+		<path>./Games/punishrj.zip</path>
+		<name>The Punisher</name>
+		<desc>A Capcom arcade beat-em-up game similar to games like Double Dragon featuring the Marvel character The Punisher. Nick Fury is also a playable character in this game.</desc>
+		<image>./images/punishrj-image.png</image>
+		<video>./videos/punishrj-video.mp4</video>
+		<marquee>./images/punishrj-marquee.png</marquee>
+		<thumbnail>./images/punishrj-thumb.png</thumbnail>
+		<fanart>./images/punishrj-fanart.jpg</fanart>
+		<bezel>./images/punishrj-bezel.png</bezel>
+		<boxback>./images/punishrj-boxback.png</boxback>
+		<rating>0.85</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat'em Up</genre>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>29C3D4F9</crc32>
+		<md5>416ad59afe0d70683da35dd9b1cab21e</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230222T190301" />
+	</game>
+	<game id="37375">
+		<path>./Games/punishru.zip</path>
+		<name>The Punisher</name>
+		<desc>A Capcom arcade beat-em-up game similar to games like Double Dragon featuring the Marvel character The Punisher. Nick Fury is also a playable character in this game.</desc>
+		<image>./images/punishru-image.png</image>
+		<video>./videos/punishru-video.mp4</video>
+		<marquee>./images/punishru-marquee.png</marquee>
+		<thumbnail>./images/punishru-thumb.png</thumbnail>
+		<fanart>./images/punishru-fanart.jpg</fanart>
+		<bezel>./images/punishru-bezel.png</bezel>
+		<boxback>./images/punishru-boxback.png</boxback>
+		<rating>0.85</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat'em Up</genre>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>D217E18A</crc32>
+		<md5>2e3e432d0753f305f5b7e60db2e39de4</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T190303" />
+	</game>
+	<game id="42583">
+		<path>./Games/qad.zip</path>
+		<name>Quiz &amp; Dragons: Capcom Quiz Game</name>
+		<desc>The game plays similar to a board game, where the player is given a predetermined dice roll that moves the player up to six spaces on the board; however, if the player is so given the choice, he can move to a space of his choosing if there is a fork in the road. After landing on a space, the player is given a series of questions (the amount of questions needed to be answered increase as the game progresses) in order to proceed back to the board for another dice roll. The player is given a time limit to answer the question, with points given that vary based on how fast the player answered the question correctly. If the player is successful in answering a question, one of the orbs above the enemy's portrait will light up, indicating a correct answer. If the player answers a question incorrectly, he will lose a life point. if the player loses all life points, the player must continue within the time limit or else the game is over.</desc>
+		<image>./images/qad-image.png</image>
+		<video>./videos/qad-video.mp4</video>
+		<marquee>./images/qad-marquee.png</marquee>
+		<thumbnail>./images/qad-thumb.png</thumbnail>
+		<fanart>./images/qad-fanart.jpg</fanart>
+		<boxback>./images/qad-boxback.png</boxback>
+		<rating>0.7</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Quiz / English</genre>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>7D614CBA</crc32>
+		<md5>3d6139212998d61f3753d84b06dca92e</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T190306" />
+	</game>
+	<game id="42583">
+		<path>./Games/qadj.zip</path>
+		<name>Quiz &amp; Dragons: Capcom Quiz Game</name>
+		<desc>The game plays similar to a board game, where the player is given a predetermined dice roll that moves the player up to six spaces on the board; however, if the player is so given the choice, he can move to a space of his choosing if there is a fork in the road. After landing on a space, the player is given a series of questions (the amount of questions needed to be answered increase as the game progresses) in order to proceed back to the board for another dice roll. The player is given a time limit to answer the question, with points given that vary based on how fast the player answered the question correctly. If the player is successful in answering a question, one of the orbs above the enemy's portrait will light up, indicating a correct answer. If the player answers a question incorrectly, he will lose a life point. if the player loses all life points, the player must continue within the time limit or else the game is over.</desc>
+		<image>./images/qadj-image.png</image>
+		<video>./videos/qadj-video.mp4</video>
+		<marquee>./images/qadj-marquee.png</marquee>
+		<thumbnail>./images/qadj-thumb.png</thumbnail>
+		<fanart>./images/qadj-fanart.jpg</fanart>
+		<boxback>./images/qadj-boxback.png</boxback>
+		<rating>0.7</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Quiz / English</genre>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>AA909B67</crc32>
+		<md5>f57ae9bdeaddc4056a17c3e542221f58</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230222T190308" />
+	</game>
+	<game id="42606">
+		<path>./Games/qtono2.zip</path>
+		<name>Quiz Tonosama no Yabou 2: Zenkoku-ban</name>
+		<desc>Quiz Tonosama no Yabou 2 - Zenkoku-ban is a feudal Japanese quiz game from Capcom.</desc>
+		<image>./images/qtono2-image.png</image>
+		<video>./videos/qtono2-video.mp4</video>
+		<marquee>./images/qtono2-marquee.png</marquee>
+		<thumbnail>./images/qtono2-thumb.png</thumbnail>
+		<fanart>./images/qtono2-fanart.jpg</fanart>
+		<boxback>./images/qtono2-boxback.png</boxback>
+		<rating>0.5</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Quiz / Japanese</genre>
+		<family>Quiz Tonosama no Yabou</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>36AB73C7</crc32>
+		<md5>0447b67c9e67e98697f09a8cef0fba6a</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230222T190310" />
+	</game>
+	<game id="78892">
+		<path>./Games/rockmanj.zip</path>
+		<name>Mega Man: The Power Battle</name>
+		<desc>Have you ever pictured a Rockman or Megaman game that allows to skip all the platform elements and just grapple against the bosses? That's pretty much the main idea in this game! Choose from Rockman/Megaman, Protoman or Bass and battle against classic bosses in the series. Features great 2-D graphics, solid control, and a nice use of strategy (since the right order of weapons will rid you of specific enemies in no time!).</desc>
+		<image>./images/rockmanj-image.png</image>
+		<video>./videos/rockmanj-video.mp4</video>
+		<marquee>./images/rockmanj-marquee.png</marquee>
+		<thumbnail>./images/rockmanj-thumb.png</thumbnail>
+		<fanart>./images/rockmanj-fanart.jpg</fanart>
+		<manual>./manuals/rockmanj-manual.pdf</manual>
+		<bezel>./images/rockmanj-bezel.png</bezel>
+		<boxback>./images/rockmanj-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight /  Co-op</genre>
+		<family>Mega Man</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>74F459D1</crc32>
+		<md5>79a0da3166dab00679ba4cfbd3e2cf3f</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230222T190313" />
+	</game>
+	<game id="42982">
+		<path>./Games/sf2.zip</path>
+		<name>Street Fighter II : The World Warrior</name>
+		<desc>GET READY TO RUMBLE!
+
+From across the globe comes eight of the wildest fighters the world has ever known. Choose your champion, gather your courage and prepare to battle your opponents in a bare knuckle brawl. Face Ken and his devastating "Dragon Punch"! Watch the temperature rise as Dhalsim incinerates you with his mystical Yoga Flame! Hear your spine crack as Zangief smashes you to the pavement with his spinning pile driver! Cover your ears as Guile breaks the sound barrier with the awesome power of the Sonic Boom!
+
+Annihilate your competition and claim the right to test your skills against the bone-crushing power of the Grand Masters! Can you survive? Can Anyone?</desc>
+		<image>./images/sf2-image.png</image>
+		<video>./videos/sf2-video.mp4</video>
+		<marquee>./images/sf2-marquee.png</marquee>
+		<thumbnail>./images/sf2-thumb.png</thumbnail>
+		<fanart>./images/sf2-fanart.jpg</fanart>
+		<bezel>./images/sf2-bezel.png</bezel>
+		<boxback>./images/sf2-boxback.png</boxback>
+		<rating>0.85</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Street Fighter</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>CB828384</crc32>
+		<md5>274928de9a9b3b63d479ec7ec35a0050</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230222T190315" />
+	</game>
+	<game id="37377">
+		<path>./Games/sf2accp2.zip</path>
+		<name>Street Fighter II' : Champion Edition</name>
+		<desc>From the corners of the globe come twelve of the toughest fighters to ever prowl the streets. Choose your champion and step into the arena as one of the eight original challengers or as one of the four Grand Masters! Pound your opponent as Balrog and knock them out for the count. Tower over your prey as Sagat and daze them with your awesome Tiger Shot. Slash your opponent with Vega's claw and send them running for cover. Or strike fear into your enemies as M. Bison, the greatest Grand Master of them all!</desc>
+		<image>./images/sf2accp2-image.png</image>
+		<video>./videos/sf2accp2-video.mp4</video>
+		<marquee>./images/sf2accp2-marquee.png</marquee>
+		<thumbnail>./images/sf2accp2-thumb.png</thumbnail>
+		<fanart>./images/sf2accp2-fanart.jpg</fanart>
+		<bezel>./images/sf2accp2-bezel.png</bezel>
+		<boxback>./images/sf2accp2-boxback.png</boxback>
+		<rating>0.9</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Street Fighter</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>F1B0BA97</crc32>
+		<md5>eb475aa4bc749e52db504a7388e6005e</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T190318" />
+	</game>
+	<game id="37377">
+		<path>./Games/sf2ce.zip</path>
+		<name>Street Fighter II' : Champion Edition</name>
+		<desc>From the corners of the globe come twelve of the toughest fighters to ever prowl the streets. Choose your champion and step into the arena as one of the eight original challengers or as one of the four Grand Masters! Pound your opponent as Balrog and knock them out for the count. Tower over your prey as Sagat and daze them with your awesome Tiger Shot. Slash your opponent with Vega's claw and send them running for cover. Or strike fear into your enemies as M. Bison, the greatest Grand Master of them all!</desc>
+		<image>./images/sf2ce-image.png</image>
+		<video>./videos/sf2ce-video.mp4</video>
+		<marquee>./images/sf2ce-marquee.png</marquee>
+		<thumbnail>./images/sf2ce-thumb.png</thumbnail>
+		<fanart>./images/sf2ce-fanart.jpg</fanart>
+		<bezel>./images/sf2ce-bezel.png</bezel>
+		<boxback>./images/sf2ce-boxback.png</boxback>
+		<rating>0.9</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Street Fighter</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>48474DC8</crc32>
+		<md5>8196b967f3dbbb940b9e5c0842674e39</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230222T190320" />
+	</game>
+	<game id="37377">
+		<path>./Games/sf2cej.zip</path>
+		<name>Street Fighter II' : Champion Edition</name>
+		<desc>From the corners of the globe come twelve of the toughest fighters to ever prowl the streets. Choose your champion and step into the arena as one of the eight original challengers or as one of the four Grand Masters! Pound your opponent as Balrog and knock them out for the count. Tower over your prey as Sagat and daze them with your awesome Tiger Shot. Slash your opponent with Vega's claw and send them running for cover. Or strike fear into your enemies as M. Bison, the greatest Grand Master of them all!</desc>
+		<image>./images/sf2cej-image.png</image>
+		<video>./videos/sf2cej-video.mp4</video>
+		<marquee>./images/sf2cej-marquee.png</marquee>
+		<thumbnail>./images/sf2cej-thumb.png</thumbnail>
+		<fanart>./images/sf2cej-fanart.jpg</fanart>
+		<bezel>./images/sf2cej-bezel.png</bezel>
+		<boxback>./images/sf2cej-boxback.png</boxback>
+		<rating>0.9</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Street Fighter</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>CC80D137</crc32>
+		<md5>c3ba95ae0737ae4a858d4ca749e4d9d0</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230222T190323" />
+	</game>
+	<game id="37377">
+		<path>./Games/sf2ceua.zip</path>
+		<name>Street Fighter II' : Champion Edition</name>
+		<desc>From the corners of the globe come twelve of the toughest fighters to ever prowl the streets. Choose your champion and step into the arena as one of the eight original challengers or as one of the four Grand Masters! Pound your opponent as Balrog and knock them out for the count. Tower over your prey as Sagat and daze them with your awesome Tiger Shot. Slash your opponent with Vega's claw and send them running for cover. Or strike fear into your enemies as M. Bison, the greatest Grand Master of them all!</desc>
+		<image>./images/sf2ceua-image.png</image>
+		<video>./videos/sf2ceua-video.mp4</video>
+		<marquee>./images/sf2ceua-marquee.png</marquee>
+		<thumbnail>./images/sf2ceua-thumb.png</thumbnail>
+		<fanart>./images/sf2ceua-fanart.jpg</fanart>
+		<bezel>./images/sf2ceua-bezel.png</bezel>
+		<boxback>./images/sf2ceua-boxback.png</boxback>
+		<rating>0.9</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Street Fighter</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>F71E13AA</crc32>
+		<md5>78f8a0eda0400dbb60a9c57e5742b02f</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T190325" />
+	</game>
+	<game id="37377">
+		<path>./Games/sf2ceub.zip</path>
+		<name>Street Fighter II' : Champion Edition</name>
+		<desc>From the corners of the globe come twelve of the toughest fighters to ever prowl the streets. Choose your champion and step into the arena as one of the eight original challengers or as one of the four Grand Masters! Pound your opponent as Balrog and knock them out for the count. Tower over your prey as Sagat and daze them with your awesome Tiger Shot. Slash your opponent with Vega's claw and send them running for cover. Or strike fear into your enemies as M. Bison, the greatest Grand Master of them all!</desc>
+		<image>./images/sf2ceub-image.png</image>
+		<video>./videos/sf2ceub-video.mp4</video>
+		<marquee>./images/sf2ceub-marquee.png</marquee>
+		<thumbnail>./images/sf2ceub-thumb.png</thumbnail>
+		<fanart>./images/sf2ceub-fanart.jpg</fanart>
+		<bezel>./images/sf2ceub-bezel.png</bezel>
+		<boxback>./images/sf2ceub-boxback.png</boxback>
+		<rating>0.9</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Street Fighter</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>DAD249B7</crc32>
+		<md5>ddfa2f81b96351fa5e99c0f030ec0093</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T190328" />
+	</game>
+	<game id="37377">
+		<path>./Games/sf2ceuc.zip</path>
+		<name>Street Fighter II' : Champion Edition</name>
+		<desc>From the corners of the globe come twelve of the toughest fighters to ever prowl the streets. Choose your champion and step into the arena as one of the eight original challengers or as one of the four Grand Masters! Pound your opponent as Balrog and knock them out for the count. Tower over your prey as Sagat and daze them with your awesome Tiger Shot. Slash your opponent with Vega's claw and send them running for cover. Or strike fear into your enemies as M. Bison, the greatest Grand Master of them all!</desc>
+		<image>./images/sf2ceuc-image.png</image>
+		<video>./videos/sf2ceuc-video.mp4</video>
+		<marquee>./images/sf2ceuc-marquee.png</marquee>
+		<thumbnail>./images/sf2ceuc-thumb.png</thumbnail>
+		<fanart>./images/sf2ceuc-fanart.jpg</fanart>
+		<bezel>./images/sf2ceuc-bezel.png</bezel>
+		<boxback>./images/sf2ceuc-boxback.png</boxback>
+		<rating>0.9</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Street Fighter</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>CCB8B5A1</crc32>
+		<md5>1c7a13b187b8e87260fd9b774a317425</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T190330" />
+	</game>
+	<game id="42982">
+		<path>./Games/sf2eb.zip</path>
+		<name>Street Fighter II : The World Warrior</name>
+		<desc>GET READY TO RUMBLE!
+
+From across the globe comes eight of the wildest fighters the world has ever known. Choose your champion, gather your courage and prepare to battle your opponents in a bare knuckle brawl. Face Ken and his devastating "Dragon Punch"! Watch the temperature rise as Dhalsim incinerates you with his mystical Yoga Flame! Hear your spine crack as Zangief smashes you to the pavement with his spinning pile driver! Cover your ears as Guile breaks the sound barrier with the awesome power of the Sonic Boom!
+
+Annihilate your competition and claim the right to test your skills against the bone-crushing power of the Grand Masters! Can you survive? Can Anyone?</desc>
+		<image>./images/sf2eb-image.png</image>
+		<video>./videos/sf2eb-video.mp4</video>
+		<marquee>./images/sf2eb-marquee.png</marquee>
+		<thumbnail>./images/sf2eb-thumb.png</thumbnail>
+		<fanart>./images/sf2eb-fanart.jpg</fanart>
+		<bezel>./images/sf2eb-bezel.png</bezel>
+		<boxback>./images/sf2eb-boxback.png</boxback>
+		<rating>0.85</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Street Fighter</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>6B2B7257</crc32>
+		<md5>6053d298c1b4d0cc0d65a70312bcbf51</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230222T190332" />
+	</game>
+	<game id="37378">
+		<path>./Games/sf2hf.zip</path>
+		<name>Street Fighter II' : Hyper Fighting</name>
+		<desc>Street Fighter II': Hyper Fighting (Street Fighter II' Turbo: Hyper Fighting in Japan) is the second upgrade to the Street Fighter II series after Street Fighter II': Champion Edition. It is a simple modification of the game made by Capcom USA (James Goddard), in an attempt to counter the proliferation of the many unofficial hacks available at the time, and to incorporate into the official game some of the most popular improvements made by them, including attack speed and new paddles on certain hacks.nnThe speed of the game has been greatly increased (hence the Turbo on the console port of the game); and new special moves are available to certain characters, making combat much more strategic.</desc>
+		<image>./images/sf2hf-image.png</image>
+		<video>./videos/sf2hf-video.mp4</video>
+		<marquee>./images/sf2hf-marquee.png</marquee>
+		<thumbnail>./images/sf2hf-thumb.png</thumbnail>
+		<fanart>./images/sf2hf-fanart.jpg</fanart>
+		<bezel>./images/sf2hf-bezel.png</bezel>
+		<boxback>./images/sf2hf-boxback.png</boxback>
+		<rating>0.85</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Street Fighter</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>35FD07C1</crc32>
+		<md5>d2e863f09a6e87cbb7596b1fbcf4be2d</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230222T190334" />
+	</game>
+	<game id="42982">
+		<path>./Games/sf2j.zip</path>
+		<name>Street Fighter II : The World Warrior</name>
+		<desc>GET READY TO RUMBLE!
+
+From across the globe comes eight of the wildest fighters the world has ever known. Choose your champion, gather your courage and prepare to battle your opponents in a bare knuckle brawl. Face Ken and his devastating "Dragon Punch"! Watch the temperature rise as Dhalsim incinerates you with his mystical Yoga Flame! Hear your spine crack as Zangief smashes you to the pavement with his spinning pile driver! Cover your ears as Guile breaks the sound barrier with the awesome power of the Sonic Boom!
+
+Annihilate your competition and claim the right to test your skills against the bone-crushing power of the Grand Masters! Can you survive? Can Anyone?</desc>
+		<image>./images/sf2j-image.png</image>
+		<video>./videos/sf2j-video.mp4</video>
+		<marquee>./images/sf2j-marquee.png</marquee>
+		<thumbnail>./images/sf2j-thumb.png</thumbnail>
+		<fanart>./images/sf2j-fanart.jpg</fanart>
+		<bezel>./images/sf2j-bezel.png</bezel>
+		<boxback>./images/sf2j-boxback.png</boxback>
+		<rating>0.85</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Street Fighter</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>06FF1C9B</crc32>
+		<md5>5db760246ca531e9dedc427dea4b924b</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230222T190337" />
+	</game>
+	<game id="42982">
+		<path>./Games/sf2ja.zip</path>
+		<name>Street Fighter II : The World Warrior</name>
+		<desc>GET READY TO RUMBLE!
+
+From across the globe comes eight of the wildest fighters the world has ever known. Choose your champion, gather your courage and prepare to battle your opponents in a bare knuckle brawl. Face Ken and his devastating "Dragon Punch"! Watch the temperature rise as Dhalsim incinerates you with his mystical Yoga Flame! Hear your spine crack as Zangief smashes you to the pavement with his spinning pile driver! Cover your ears as Guile breaks the sound barrier with the awesome power of the Sonic Boom!
+
+Annihilate your competition and claim the right to test your skills against the bone-crushing power of the Grand Masters! Can you survive? Can Anyone?</desc>
+		<image>./images/sf2ja-image.png</image>
+		<video>./videos/sf2ja-video.mp4</video>
+		<marquee>./images/sf2ja-marquee.png</marquee>
+		<thumbnail>./images/sf2ja-thumb.png</thumbnail>
+		<fanart>./images/sf2ja-fanart.jpg</fanart>
+		<bezel>./images/sf2ja-bezel.png</bezel>
+		<boxback>./images/sf2ja-boxback.png</boxback>
+		<rating>0.85</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Street Fighter</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>C680F3CE</crc32>
+		<md5>e53b5c382563870064b4bf8c53a94eda</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230222T190339" />
+	</game>
+	<game id="42982">
+		<path>./Games/sf2jc.zip</path>
+		<name>Street Fighter II : The World Warrior</name>
+		<desc>GET READY TO RUMBLE!
+
+From across the globe comes eight of the wildest fighters the world has ever known. Choose your champion, gather your courage and prepare to battle your opponents in a bare knuckle brawl. Face Ken and his devastating "Dragon Punch"! Watch the temperature rise as Dhalsim incinerates you with his mystical Yoga Flame! Hear your spine crack as Zangief smashes you to the pavement with his spinning pile driver! Cover your ears as Guile breaks the sound barrier with the awesome power of the Sonic Boom!
+
+Annihilate your competition and claim the right to test your skills against the bone-crushing power of the Grand Masters! Can you survive? Can Anyone?</desc>
+		<image>./images/sf2jc-image.png</image>
+		<video>./videos/sf2jc-video.mp4</video>
+		<marquee>./images/sf2jc-marquee.png</marquee>
+		<thumbnail>./images/sf2jc-thumb.png</thumbnail>
+		<fanart>./images/sf2jc-fanart.jpg</fanart>
+		<bezel>./images/sf2jc-bezel.png</bezel>
+		<boxback>./images/sf2jc-boxback.png</boxback>
+		<rating>0.85</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Street Fighter</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>0763943A</crc32>
+		<md5>3fe99898dcfe5553c42b691fdec7f653</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230222T190342" />
+	</game>
+	<game id="37377">
+		<path>./Games/sf2koryu.zip</path>
+		<name>Street Fighter II' : Champion Edition</name>
+		<desc>From the corners of the globe come twelve of the toughest fighters to ever prowl the streets. Choose your champion and step into the arena as one of the eight original challengers or as one of the four Grand Masters! Pound your opponent as Balrog and knock them out for the count. Tower over your prey as Sagat and daze them with your awesome Tiger Shot. Slash your opponent with Vega's claw and send them running for cover. Or strike fear into your enemies as M. Bison, the greatest Grand Master of them all!</desc>
+		<image>./images/sf2koryu-image.png</image>
+		<video>./videos/sf2koryu-video.mp4</video>
+		<marquee>./images/sf2koryu-marquee.png</marquee>
+		<thumbnail>./images/sf2koryu-thumb.png</thumbnail>
+		<fanart>./images/sf2koryu-fanart.jpg</fanart>
+		<bezel>./images/sf2koryu-bezel.png</bezel>
+		<boxback>./images/sf2koryu-boxback.png</boxback>
+		<rating>0.9</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Street Fighter</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>13CEA317</crc32>
+		<md5>d7b1562b964348d412bd7e26d46edc5b</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T190344" />
+	</game>
+	<game id="37377">
+		<path>./Games/sf2m1.zip</path>
+		<name>Street Fighter II' : Champion Edition</name>
+		<desc>From the corners of the globe come twelve of the toughest fighters to ever prowl the streets. Choose your champion and step into the arena as one of the eight original challengers or as one of the four Grand Masters! Pound your opponent as Balrog and knock them out for the count. Tower over your prey as Sagat and daze them with your awesome Tiger Shot. Slash your opponent with Vega's claw and send them running for cover. Or strike fear into your enemies as M. Bison, the greatest Grand Master of them all!</desc>
+		<image>./images/sf2m1-image.png</image>
+		<video>./videos/sf2m1-video.mp4</video>
+		<marquee>./images/sf2m1-marquee.png</marquee>
+		<thumbnail>./images/sf2m1-thumb.png</thumbnail>
+		<fanart>./images/sf2m1-fanart.jpg</fanart>
+		<bezel>./images/sf2m1-bezel.png</bezel>
+		<boxback>./images/sf2m1-boxback.png</boxback>
+		<rating>0.9</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Street Fighter</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>584C33F6</crc32>
+		<md5>86ba504172c3de9aa6db78add3a58560</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T190347" />
+	</game>
+	<game id="37377">
+		<path>./Games/sf2m2.zip</path>
+		<name>Street Fighter II' : Champion Edition</name>
+		<desc>From the corners of the globe come twelve of the toughest fighters to ever prowl the streets. Choose your champion and step into the arena as one of the eight original challengers or as one of the four Grand Masters! Pound your opponent as Balrog and knock them out for the count. Tower over your prey as Sagat and daze them with your awesome Tiger Shot. Slash your opponent with Vega's claw and send them running for cover. Or strike fear into your enemies as M. Bison, the greatest Grand Master of them all!</desc>
+		<image>./images/sf2m2-image.png</image>
+		<video>./videos/sf2m2-video.mp4</video>
+		<marquee>./images/sf2m2-marquee.png</marquee>
+		<thumbnail>./images/sf2m2-thumb.png</thumbnail>
+		<fanart>./images/sf2m2-fanart.jpg</fanart>
+		<bezel>./images/sf2m2-bezel.png</bezel>
+		<boxback>./images/sf2m2-boxback.png</boxback>
+		<rating>0.9</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Street Fighter</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>B6B50D9D</crc32>
+		<md5>e48d7263b5f7f47f98dd93f564443cc0</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T190349" />
+	</game>
+	<game id="37377">
+		<path>./Games/sf2m3.zip</path>
+		<name>Street Fighter II' : Champion Edition</name>
+		<desc>From the corners of the globe come twelve of the toughest fighters to ever prowl the streets. Choose your champion and step into the arena as one of the eight original challengers or as one of the four Grand Masters! Pound your opponent as Balrog and knock them out for the count. Tower over your prey as Sagat and daze them with your awesome Tiger Shot. Slash your opponent with Vega's claw and send them running for cover. Or strike fear into your enemies as M. Bison, the greatest Grand Master of them all!</desc>
+		<image>./images/sf2m3-image.png</image>
+		<video>./videos/sf2m3-video.mp4</video>
+		<marquee>./images/sf2m3-marquee.png</marquee>
+		<thumbnail>./images/sf2m3-thumb.png</thumbnail>
+		<fanart>./images/sf2m3-fanart.jpg</fanart>
+		<bezel>./images/sf2m3-bezel.png</bezel>
+		<boxback>./images/sf2m3-boxback.png</boxback>
+		<rating>0.9</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Street Fighter</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>28C7B30B</crc32>
+		<md5>b33d1ca0c98f6030ee75fe5ffb539a4e</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T190351" />
+	</game>
+	<game id="37377">
+		<path>./Games/sf2m4.zip</path>
+		<name>Street Fighter II' : Champion Edition</name>
+		<desc>From the corners of the globe come twelve of the toughest fighters to ever prowl the streets. Choose your champion and step into the arena as one of the eight original challengers or as one of the four Grand Masters! Pound your opponent as Balrog and knock them out for the count. Tower over your prey as Sagat and daze them with your awesome Tiger Shot. Slash your opponent with Vega's claw and send them running for cover. Or strike fear into your enemies as M. Bison, the greatest Grand Master of them all!</desc>
+		<image>./images/sf2m4-image.png</image>
+		<video>./videos/sf2m4-video.mp4</video>
+		<marquee>./images/sf2m4-marquee.png</marquee>
+		<thumbnail>./images/sf2m4-thumb.png</thumbnail>
+		<fanart>./images/sf2m4-fanart.jpg</fanart>
+		<bezel>./images/sf2m4-bezel.png</bezel>
+		<boxback>./images/sf2m4-boxback.png</boxback>
+		<rating>0.9</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Street Fighter</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>51775804</crc32>
+		<md5>a6bada1be23ea775072ced0038bee64f</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T190354" />
+	</game>
+	<game id="37377">
+		<path>./Games/sf2m5.zip</path>
+		<name>Street Fighter II' : Champion Edition</name>
+		<desc>From the corners of the globe come twelve of the toughest fighters to ever prowl the streets. Choose your champion and step into the arena as one of the eight original challengers or as one of the four Grand Masters! Pound your opponent as Balrog and knock them out for the count. Tower over your prey as Sagat and daze them with your awesome Tiger Shot. Slash your opponent with Vega's claw and send them running for cover. Or strike fear into your enemies as M. Bison, the greatest Grand Master of them all!</desc>
+		<image>./images/sf2m5-image.png</image>
+		<video>./videos/sf2m5-video.mp4</video>
+		<marquee>./images/sf2m5-marquee.png</marquee>
+		<thumbnail>./images/sf2m5-thumb.png</thumbnail>
+		<fanart>./images/sf2m5-fanart.jpg</fanart>
+		<bezel>./images/sf2m5-bezel.png</bezel>
+		<boxback>./images/sf2m5-boxback.png</boxback>
+		<rating>0.9</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Street Fighter</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>820DE4B0</crc32>
+		<md5>2a638f7448514855d6ea6fa27d6583fe</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T190356" />
+	</game>
+	<game id="37377">
+		<path>./Games/sf2m6.zip</path>
+		<name>Street Fighter II' : Champion Edition</name>
+		<desc>From the corners of the globe come twelve of the toughest fighters to ever prowl the streets. Choose your champion and step into the arena as one of the eight original challengers or as one of the four Grand Masters! Pound your opponent as Balrog and knock them out for the count. Tower over your prey as Sagat and daze them with your awesome Tiger Shot. Slash your opponent with Vega's claw and send them running for cover. Or strike fear into your enemies as M. Bison, the greatest Grand Master of them all!</desc>
+		<image>./images/sf2m6-image.png</image>
+		<video>./videos/sf2m6-video.mp4</video>
+		<marquee>./images/sf2m6-marquee.png</marquee>
+		<thumbnail>./images/sf2m6-thumb.png</thumbnail>
+		<fanart>./images/sf2m6-fanart.jpg</fanart>
+		<bezel>./images/sf2m6-bezel.png</bezel>
+		<boxback>./images/sf2m6-boxback.png</boxback>
+		<rating>0.9</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Street Fighter</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>5301F8C8</crc32>
+		<md5>a711d708fee86bd69000062503b295a1</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T190359" />
+	</game>
+	<game id="37377">
+		<path>./Games/sf2m7.zip</path>
+		<name>Street Fighter II' : Champion Edition</name>
+		<desc>From the corners of the globe come twelve of the toughest fighters to ever prowl the streets. Choose your champion and step into the arena as one of the eight original challengers or as one of the four Grand Masters! Pound your opponent as Balrog and knock them out for the count. Tower over your prey as Sagat and daze them with your awesome Tiger Shot. Slash your opponent with Vega's claw and send them running for cover. Or strike fear into your enemies as M. Bison, the greatest Grand Master of them all!</desc>
+		<image>./images/sf2m7-image.png</image>
+		<video>./videos/sf2m7-video.mp4</video>
+		<marquee>./images/sf2m7-marquee.png</marquee>
+		<thumbnail>./images/sf2m7-thumb.png</thumbnail>
+		<fanart>./images/sf2m7-fanart.jpg</fanart>
+		<bezel>./images/sf2m7-bezel.png</bezel>
+		<boxback>./images/sf2m7-boxback.png</boxback>
+		<rating>0.9</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Street Fighter</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>07CA3C09</crc32>
+		<md5>845efa80d7602404a7028afd3e94dd6d</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T190401" />
+	</game>
+	<game id="37377">
+		<path>./Games/sf2mdt.zip</path>
+		<name>Street Fighter II' : Champion Edition</name>
+		<desc>From the corners of the globe come twelve of the toughest fighters to ever prowl the streets. Choose your champion and step into the arena as one of the eight original challengers or as one of the four Grand Masters! Pound your opponent as Balrog and knock them out for the count. Tower over your prey as Sagat and daze them with your awesome Tiger Shot. Slash your opponent with Vega's claw and send them running for cover. Or strike fear into your enemies as M. Bison, the greatest Grand Master of them all!</desc>
+		<image>./images/sf2mdt-image.png</image>
+		<video>./videos/sf2mdt-video.mp4</video>
+		<marquee>./images/sf2mdt-marquee.png</marquee>
+		<thumbnail>./images/sf2mdt-thumb.png</thumbnail>
+		<fanart>./images/sf2mdt-fanart.jpg</fanart>
+		<bezel>./images/sf2mdt-bezel.png</bezel>
+		<boxback>./images/sf2mdt-boxback.png</boxback>
+		<rating>0.9</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Street Fighter</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>A4FA7D2B</crc32>
+		<md5>75a4ce45cdb9af9ec586a8644de50a87</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T190404" />
+	</game>
+	<game id="37377">
+		<path>./Games/sf2rb.zip</path>
+		<name>Street Fighter II' : Champion Edition</name>
+		<desc>From the corners of the globe come twelve of the toughest fighters to ever prowl the streets. Choose your champion and step into the arena as one of the eight original challengers or as one of the four Grand Masters! Pound your opponent as Balrog and knock them out for the count. Tower over your prey as Sagat and daze them with your awesome Tiger Shot. Slash your opponent with Vega's claw and send them running for cover. Or strike fear into your enemies as M. Bison, the greatest Grand Master of them all!</desc>
+		<image>./images/sf2rb-image.png</image>
+		<video>./videos/sf2rb-video.mp4</video>
+		<marquee>./images/sf2rb-marquee.png</marquee>
+		<thumbnail>./images/sf2rb-thumb.png</thumbnail>
+		<fanart>./images/sf2rb-fanart.jpg</fanart>
+		<bezel>./images/sf2rb-bezel.png</bezel>
+		<boxback>./images/sf2rb-boxback.png</boxback>
+		<rating>0.9</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Street Fighter</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>E4CA2C22</crc32>
+		<md5>72e96da9eb26c11246971c0bcbfef27e</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T190406" />
+	</game>
+	<game id="37377">
+		<path>./Games/sf2rb2.zip</path>
+		<name>Street Fighter II' : Champion Edition</name>
+		<desc>From the corners of the globe come twelve of the toughest fighters to ever prowl the streets. Choose your champion and step into the arena as one of the eight original challengers or as one of the four Grand Masters! Pound your opponent as Balrog and knock them out for the count. Tower over your prey as Sagat and daze them with your awesome Tiger Shot. Slash your opponent with Vega's claw and send them running for cover. Or strike fear into your enemies as M. Bison, the greatest Grand Master of them all!</desc>
+		<image>./images/sf2rb2-image.png</image>
+		<video>./videos/sf2rb2-video.mp4</video>
+		<marquee>./images/sf2rb2-marquee.png</marquee>
+		<thumbnail>./images/sf2rb2-thumb.png</thumbnail>
+		<fanart>./images/sf2rb2-fanart.jpg</fanart>
+		<bezel>./images/sf2rb2-bezel.png</bezel>
+		<boxback>./images/sf2rb2-boxback.png</boxback>
+		<rating>0.9</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Street Fighter</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>2EB4F840</crc32>
+		<md5>44ba38bdb8ebc452efa779082f492877</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T190409" />
+	</game>
+	<game id="37377">
+		<path>./Games/sf2rb3.zip</path>
+		<name>Street Fighter II' : Champion Edition</name>
+		<desc>From the corners of the globe come twelve of the toughest fighters to ever prowl the streets. Choose your champion and step into the arena as one of the eight original challengers or as one of the four Grand Masters! Pound your opponent as Balrog and knock them out for the count. Tower over your prey as Sagat and daze them with your awesome Tiger Shot. Slash your opponent with Vega's claw and send them running for cover. Or strike fear into your enemies as M. Bison, the greatest Grand Master of them all!</desc>
+		<image>./images/sf2rb3-image.png</image>
+		<video>./videos/sf2rb3-video.mp4</video>
+		<marquee>./images/sf2rb3-marquee.png</marquee>
+		<thumbnail>./images/sf2rb3-thumb.png</thumbnail>
+		<fanart>./images/sf2rb3-fanart.jpg</fanart>
+		<bezel>./images/sf2rb3-bezel.png</bezel>
+		<boxback>./images/sf2rb3-boxback.png</boxback>
+		<rating>0.9</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Street Fighter</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>6EF45D72</crc32>
+		<md5>03e6ea6d0a8f349782cb48b7819d36a1</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T190411" />
+	</game>
+	<game id="37377">
+		<path>./Games/sf2red.zip</path>
+		<name>Street Fighter II' : Champion Edition</name>
+		<desc>From the corners of the globe come twelve of the toughest fighters to ever prowl the streets. Choose your champion and step into the arena as one of the eight original challengers or as one of the four Grand Masters! Pound your opponent as Balrog and knock them out for the count. Tower over your prey as Sagat and daze them with your awesome Tiger Shot. Slash your opponent with Vega's claw and send them running for cover. Or strike fear into your enemies as M. Bison, the greatest Grand Master of them all!</desc>
+		<image>./images/sf2red-image.png</image>
+		<video>./videos/sf2red-video.mp4</video>
+		<marquee>./images/sf2red-marquee.png</marquee>
+		<thumbnail>./images/sf2red-thumb.png</thumbnail>
+		<fanart>./images/sf2red-fanart.jpg</fanart>
+		<bezel>./images/sf2red-bezel.png</bezel>
+		<boxback>./images/sf2red-boxback.png</boxback>
+		<rating>0.9</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Street Fighter</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>5DBDF210</crc32>
+		<md5>a557171bce6837e44a2ec40a559aaa17</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T190414" />
+	</game>
+	<game id="37377">
+		<path>./Games/sf2t.zip</path>
+		<name>Street Fighter II' : Champion Edition</name>
+		<desc>From the corners of the globe come twelve of the toughest fighters to ever prowl the streets. Choose your champion and step into the arena as one of the eight original challengers or as one of the four Grand Masters! Pound your opponent as Balrog and knock them out for the count. Tower over your prey as Sagat and daze them with your awesome Tiger Shot. Slash your opponent with Vega's claw and send them running for cover. Or strike fear into your enemies as M. Bison, the greatest Grand Master of them all!</desc>
+		<image>./images/sf2t-image.png</image>
+		<video>./videos/sf2t-video.mp4</video>
+		<marquee>./images/sf2t-marquee.png</marquee>
+		<thumbnail>./images/sf2t-thumb.png</thumbnail>
+		<fanart>./images/sf2t-fanart.jpg</fanart>
+		<bezel>./images/sf2t-bezel.png</bezel>
+		<boxback>./images/sf2t-boxback.png</boxback>
+		<rating>0.9</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Street Fighter</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>A1316DA8</crc32>
+		<md5>ceb43cde2707ab864c287ebd3e9436cb</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T190416" />
+	</game>
+	<game id="37378">
+		<path>./Games/sf2tj.zip</path>
+		<name>Street Fighter II' : Hyper Fighting</name>
+		<desc>Street Fighter II': Hyper Fighting (Street Fighter II' Turbo: Hyper Fighting in Japan) is the second upgrade to the Street Fighter II series after Street Fighter II': Champion Edition. It is a simple modification of the game made by Capcom USA (James Goddard), in an attempt to counter the proliferation of the many unofficial hacks available at the time, and to incorporate into the official game some of the most popular improvements made by them, including attack speed and new paddles on certain hacks.nnThe speed of the game has been greatly increased (hence the Turbo on the console port of the game); and new special moves are available to certain characters, making combat much more strategic.</desc>
+		<image>./images/sf2tj-image.png</image>
+		<video>./videos/sf2tj-video.mp4</video>
+		<marquee>./images/sf2tj-marquee.png</marquee>
+		<thumbnail>./images/sf2tj-thumb.png</thumbnail>
+		<fanart>./images/sf2tj-fanart.jpg</fanart>
+		<bezel>./images/sf2tj-bezel.png</bezel>
+		<boxback>./images/sf2tj-boxback.png</boxback>
+		<rating>0.85</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Street Fighter</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>6B0298D3</crc32>
+		<md5>b780418ae1ee6cd2ebec0c1f1a840f51</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230222T190418" />
+	</game>
+	<game id="37377">
+		<path>./Games/sf2toryu.zip</path>
+		<name>Street Fighter II' : Champion Edition</name>
+		<desc>From the corners of the globe come twelve of the toughest fighters to ever prowl the streets. Choose your champion and step into the arena as one of the eight original challengers or as one of the four Grand Masters! Pound your opponent as Balrog and knock them out for the count. Tower over your prey as Sagat and daze them with your awesome Tiger Shot. Slash your opponent with Vega's claw and send them running for cover. Or strike fear into your enemies as M. Bison, the greatest Grand Master of them all!</desc>
+		<image>./images/sf2toryu-image.png</image>
+		<video>./videos/sf2toryu-video.mp4</video>
+		<marquee>./images/sf2toryu-marquee.png</marquee>
+		<thumbnail>./images/sf2toryu-thumb.png</thumbnail>
+		<fanart>./images/sf2toryu-fanart.jpg</fanart>
+		<bezel>./images/sf2toryu-bezel.png</bezel>
+		<boxback>./images/sf2toryu-boxback.png</boxback>
+		<rating>0.9</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Street Fighter</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>6E62F4C6</crc32>
+		<md5>0670f1588d11443484bfc5bd88805ce1</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T190421" />
+	</game>
+	<game id="37377">
+		<path>./Games/sf2turyu.zip</path>
+		<name>Street Fighter II' : Champion Edition</name>
+		<desc>From the corners of the globe come twelve of the toughest fighters to ever prowl the streets. Choose your champion and step into the arena as one of the eight original challengers or as one of the four Grand Masters! Pound your opponent as Balrog and knock them out for the count. Tower over your prey as Sagat and daze them with your awesome Tiger Shot. Slash your opponent with Vega's claw and send them running for cover. Or strike fear into your enemies as M. Bison, the greatest Grand Master of them all!</desc>
+		<image>./images/sf2turyu-image.png</image>
+		<video>./videos/sf2turyu-video.mp4</video>
+		<marquee>./images/sf2turyu-marquee.png</marquee>
+		<thumbnail>./images/sf2turyu-thumb.png</thumbnail>
+		<fanart>./images/sf2turyu-fanart.jpg</fanart>
+		<bezel>./images/sf2turyu-bezel.png</bezel>
+		<boxback>./images/sf2turyu-boxback.png</boxback>
+		<rating>0.9</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Street Fighter</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>011FB0B2</crc32>
+		<md5>481725ea7182cf30ae08187eac60820d</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T190423" />
+	</game>
+	<game id="37377">
+		<path>./Games/sf2turyu1.zip</path>
+		<name>Street Fighter II' : Champion Edition</name>
+		<desc>From the corners of the globe come twelve of the toughest fighters to ever prowl the streets. Choose your champion and step into the arena as one of the eight original challengers or as one of the four Grand Masters! Pound your opponent as Balrog and knock them out for the count. Tower over your prey as Sagat and daze them with your awesome Tiger Shot. Slash your opponent with Vega's claw and send them running for cover. Or strike fear into your enemies as M. Bison, the greatest Grand Master of them all!</desc>
+		<image>./images/sf2turyu1-image.png</image>
+		<video>./videos/sf2turyu1-video.mp4</video>
+		<marquee>./images/sf2turyu1-marquee.png</marquee>
+		<thumbnail>./images/sf2turyu1-thumb.png</thumbnail>
+		<fanart>./images/sf2turyu1-fanart.jpg</fanart>
+		<bezel>./images/sf2turyu1-bezel.png</bezel>
+		<boxback>./images/sf2turyu1-boxback.png</boxback>
+		<rating>0.9</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Street Fighter</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>892A41BA</crc32>
+		<md5>d5fb3b32e6eb8d90be0c58b2fd61d6c7</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T190426" />
+	</game>
+	<game id="42982">
+		<path>./Games/sf2ua.zip</path>
+		<name>Street Fighter II : The World Warrior</name>
+		<desc>GET READY TO RUMBLE!
+
+From across the globe comes eight of the wildest fighters the world has ever known. Choose your champion, gather your courage and prepare to battle your opponents in a bare knuckle brawl. Face Ken and his devastating "Dragon Punch"! Watch the temperature rise as Dhalsim incinerates you with his mystical Yoga Flame! Hear your spine crack as Zangief smashes you to the pavement with his spinning pile driver! Cover your ears as Guile breaks the sound barrier with the awesome power of the Sonic Boom!
+
+Annihilate your competition and claim the right to test your skills against the bone-crushing power of the Grand Masters! Can you survive? Can Anyone?</desc>
+		<image>./images/sf2ua-image.png</image>
+		<video>./videos/sf2ua-video.mp4</video>
+		<marquee>./images/sf2ua-marquee.png</marquee>
+		<thumbnail>./images/sf2ua-thumb.png</thumbnail>
+		<fanart>./images/sf2ua-fanart.jpg</fanart>
+		<bezel>./images/sf2ua-bezel.png</bezel>
+		<boxback>./images/sf2ua-boxback.png</boxback>
+		<rating>0.85</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Street Fighter</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>8C42BCCE</crc32>
+		<md5>e7edbdc4740aea0bb62f5400d0748b26</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T190428" />
+	</game>
+	<game id="42982">
+		<path>./Games/sf2ub.zip</path>
+		<name>Street Fighter II : The World Warrior</name>
+		<desc>GET READY TO RUMBLE!
+
+From across the globe comes eight of the wildest fighters the world has ever known. Choose your champion, gather your courage and prepare to battle your opponents in a bare knuckle brawl. Face Ken and his devastating "Dragon Punch"! Watch the temperature rise as Dhalsim incinerates you with his mystical Yoga Flame! Hear your spine crack as Zangief smashes you to the pavement with his spinning pile driver! Cover your ears as Guile breaks the sound barrier with the awesome power of the Sonic Boom!
+
+Annihilate your competition and claim the right to test your skills against the bone-crushing power of the Grand Masters! Can you survive? Can Anyone?</desc>
+		<image>./images/sf2ub-image.png</image>
+		<video>./videos/sf2ub-video.mp4</video>
+		<marquee>./images/sf2ub-marquee.png</marquee>
+		<thumbnail>./images/sf2ub-thumb.png</thumbnail>
+		<fanart>./images/sf2ub-fanart.jpg</fanart>
+		<bezel>./images/sf2ub-bezel.png</bezel>
+		<boxback>./images/sf2ub-boxback.png</boxback>
+		<rating>0.85</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Street Fighter</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>6FE4EB2D</crc32>
+		<md5>69e52045c644652cc76ea1b44372db6a</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T190430" />
+	</game>
+	<game id="42982">
+		<path>./Games/sf2ud.zip</path>
+		<name>Street Fighter II : The World Warrior</name>
+		<desc>GET READY TO RUMBLE!
+
+From across the globe comes eight of the wildest fighters the world has ever known. Choose your champion, gather your courage and prepare to battle your opponents in a bare knuckle brawl. Face Ken and his devastating "Dragon Punch"! Watch the temperature rise as Dhalsim incinerates you with his mystical Yoga Flame! Hear your spine crack as Zangief smashes you to the pavement with his spinning pile driver! Cover your ears as Guile breaks the sound barrier with the awesome power of the Sonic Boom!
+
+Annihilate your competition and claim the right to test your skills against the bone-crushing power of the Grand Masters! Can you survive? Can Anyone?</desc>
+		<image>./images/sf2ud-image.png</image>
+		<video>./videos/sf2ud-video.mp4</video>
+		<marquee>./images/sf2ud-marquee.png</marquee>
+		<thumbnail>./images/sf2ud-thumb.png</thumbnail>
+		<fanart>./images/sf2ud-fanart.jpg</fanart>
+		<bezel>./images/sf2ud-bezel.png</bezel>
+		<boxback>./images/sf2ud-boxback.png</boxback>
+		<rating>0.85</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Street Fighter</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>D424EABB</crc32>
+		<md5>a7dde65c64567ad98e8fd0b1008487fe</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T190433" />
+	</game>
+	<game id="42982">
+		<path>./Games/sf2ue.zip</path>
+		<name>Street Fighter II : The World Warrior</name>
+		<desc>GET READY TO RUMBLE!
+
+From across the globe comes eight of the wildest fighters the world has ever known. Choose your champion, gather your courage and prepare to battle your opponents in a bare knuckle brawl. Face Ken and his devastating "Dragon Punch"! Watch the temperature rise as Dhalsim incinerates you with his mystical Yoga Flame! Hear your spine crack as Zangief smashes you to the pavement with his spinning pile driver! Cover your ears as Guile breaks the sound barrier with the awesome power of the Sonic Boom!
+
+Annihilate your competition and claim the right to test your skills against the bone-crushing power of the Grand Masters! Can you survive? Can Anyone?</desc>
+		<image>./images/sf2ue-image.png</image>
+		<video>./videos/sf2ue-video.mp4</video>
+		<marquee>./images/sf2ue-marquee.png</marquee>
+		<thumbnail>./images/sf2ue-thumb.png</thumbnail>
+		<fanart>./images/sf2ue-fanart.jpg</fanart>
+		<bezel>./images/sf2ue-bezel.png</bezel>
+		<boxback>./images/sf2ue-boxback.png</boxback>
+		<rating>0.85</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Street Fighter</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>774E4D9B</crc32>
+		<md5>c26ad41048b35309ea3e9444d51c6043</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T190435" />
+	</game>
+	<game id="42982">
+		<path>./Games/sf2uf.zip</path>
+		<name>Street Fighter II : The World Warrior</name>
+		<desc>GET READY TO RUMBLE!
+
+From across the globe comes eight of the wildest fighters the world has ever known. Choose your champion, gather your courage and prepare to battle your opponents in a bare knuckle brawl. Face Ken and his devastating "Dragon Punch"! Watch the temperature rise as Dhalsim incinerates you with his mystical Yoga Flame! Hear your spine crack as Zangief smashes you to the pavement with his spinning pile driver! Cover your ears as Guile breaks the sound barrier with the awesome power of the Sonic Boom!
+
+Annihilate your competition and claim the right to test your skills against the bone-crushing power of the Grand Masters! Can you survive? Can Anyone?</desc>
+		<image>./images/sf2uf-image.png</image>
+		<video>./videos/sf2uf-video.mp4</video>
+		<marquee>./images/sf2uf-marquee.png</marquee>
+		<thumbnail>./images/sf2uf-thumb.png</thumbnail>
+		<fanart>./images/sf2uf-fanart.jpg</fanart>
+		<bezel>./images/sf2uf-bezel.png</bezel>
+		<boxback>./images/sf2uf-boxback.png</boxback>
+		<rating>0.85</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Street Fighter</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>86281160</crc32>
+		<md5>10e87910e9056399749a06523c0ca0b1</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T190438" />
+	</game>
+	<game id="42982">
+		<path>./Games/sf2ui.zip</path>
+		<name>Street Fighter II : The World Warrior</name>
+		<desc>GET READY TO RUMBLE!
+
+From across the globe comes eight of the wildest fighters the world has ever known. Choose your champion, gather your courage and prepare to battle your opponents in a bare knuckle brawl. Face Ken and his devastating "Dragon Punch"! Watch the temperature rise as Dhalsim incinerates you with his mystical Yoga Flame! Hear your spine crack as Zangief smashes you to the pavement with his spinning pile driver! Cover your ears as Guile breaks the sound barrier with the awesome power of the Sonic Boom!
+
+Annihilate your competition and claim the right to test your skills against the bone-crushing power of the Grand Masters! Can you survive? Can Anyone?</desc>
+		<image>./images/sf2ui-image.png</image>
+		<video>./videos/sf2ui-video.mp4</video>
+		<marquee>./images/sf2ui-marquee.png</marquee>
+		<thumbnail>./images/sf2ui-thumb.png</thumbnail>
+		<fanart>./images/sf2ui-fanart.jpg</fanart>
+		<bezel>./images/sf2ui-bezel.png</bezel>
+		<boxback>./images/sf2ui-boxback.png</boxback>
+		<rating>0.85</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Street Fighter</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>2E5C15DE</crc32>
+		<md5>a11003e075e03305431b1fe61b61adf4</md5>
+		<lang>en,it</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230222T190440" />
+	</game>
+	<game id="42982">
+		<path>./Games/sf2uk.zip</path>
+		<name>Street Fighter II : The World Warrior</name>
+		<desc>GET READY TO RUMBLE!
+
+From across the globe comes eight of the wildest fighters the world has ever known. Choose your champion, gather your courage and prepare to battle your opponents in a bare knuckle brawl. Face Ken and his devastating "Dragon Punch"! Watch the temperature rise as Dhalsim incinerates you with his mystical Yoga Flame! Hear your spine crack as Zangief smashes you to the pavement with his spinning pile driver! Cover your ears as Guile breaks the sound barrier with the awesome power of the Sonic Boom!
+
+Annihilate your competition and claim the right to test your skills against the bone-crushing power of the Grand Masters! Can you survive? Can Anyone?</desc>
+		<image>./images/sf2uk-image.png</image>
+		<video>./videos/sf2uk-video.mp4</video>
+		<marquee>./images/sf2uk-marquee.png</marquee>
+		<thumbnail>./images/sf2uk-thumb.png</thumbnail>
+		<fanart>./images/sf2uk-fanart.jpg</fanart>
+		<bezel>./images/sf2uk-bezel.png</bezel>
+		<boxback>./images/sf2uk-boxback.png</boxback>
+		<rating>0.85</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Street Fighter</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>FC19C814</crc32>
+		<md5>36e98fa027f69e30e5c8fee021eec4ac</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T190442" />
+	</game>
+	<game id="37377">
+		<path>./Games/sf2v004.zip</path>
+		<name>Street Fighter II' : Champion Edition</name>
+		<desc>From the corners of the globe come twelve of the toughest fighters to ever prowl the streets. Choose your champion and step into the arena as one of the eight original challengers or as one of the four Grand Masters! Pound your opponent as Balrog and knock them out for the count. Tower over your prey as Sagat and daze them with your awesome Tiger Shot. Slash your opponent with Vega's claw and send them running for cover. Or strike fear into your enemies as M. Bison, the greatest Grand Master of them all!</desc>
+		<image>./images/sf2v004-image.png</image>
+		<video>./videos/sf2v004-video.mp4</video>
+		<marquee>./images/sf2v004-marquee.png</marquee>
+		<thumbnail>./images/sf2v004-thumb.png</thumbnail>
+		<fanart>./images/sf2v004-fanart.jpg</fanart>
+		<bezel>./images/sf2v004-bezel.png</bezel>
+		<boxback>./images/sf2v004-boxback.png</boxback>
+		<rating>0.9</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Street Fighter</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>F9899D15</crc32>
+		<md5>7bdd7332f0ce75916be2f7142445f9ad</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T190445" />
+	</game>
+	<game id="37377">
+		<path>./Games/sf2yyc.zip</path>
+		<name>Street Fighter II' : Champion Edition</name>
+		<desc>From the corners of the globe come twelve of the toughest fighters to ever prowl the streets. Choose your champion and step into the arena as one of the eight original challengers or as one of the four Grand Masters! Pound your opponent as Balrog and knock them out for the count. Tower over your prey as Sagat and daze them with your awesome Tiger Shot. Slash your opponent with Vega's claw and send them running for cover. Or strike fear into your enemies as M. Bison, the greatest Grand Master of them all!</desc>
+		<image>./images/sf2yyc-image.png</image>
+		<video>./videos/sf2yyc-video.mp4</video>
+		<marquee>./images/sf2yyc-marquee.png</marquee>
+		<thumbnail>./images/sf2yyc-thumb.png</thumbnail>
+		<fanart>./images/sf2yyc-fanart.jpg</fanart>
+		<bezel>./images/sf2yyc-bezel.png</bezel>
+		<boxback>./images/sf2yyc-boxback.png</boxback>
+		<rating>0.9</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Street Fighter</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>36FFD676</crc32>
+		<md5>67ca815ed275fd572c517f4e08e610ae</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T190447" />
+	</game>
+	<game id="64254">
+		<path>./Games/sfach.zip</path>
+		<name>Street Fighter Alpha: Warriors' Dreams</name>
+		<desc>The game introduces several new features, expanding on the Super Combo system previously featured in Super Street Fighter II Turbo, with graphics drawn in the same cartoonish style Capcom employed in Darkstalkers and X-Men: Children of the Atom.[2][3] The plot of Street Fighter Alpha is set after the original Street Fighter but before Street Fighter II and thus the game features younger versions of established characters, as well as characters from the original Street Fighter and Final Fight, and a few who are new to the series.</desc>
+		<image>./images/sfach-image.png</image>
+		<video>./videos/sfach-video.mp4</video>
+		<marquee>./images/sfach-marquee.png</marquee>
+		<thumbnail>./images/sfach-thumb.png</thumbnail>
+		<fanart>./images/sfach-fanart.jpg</fanart>
+		<boxback>./images/sfach-boxback.png</boxback>
+		<rating>0.9</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight / 2D</genre>
+		<family>Street Fighter</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>C07D2BCD</crc32>
+		<md5>4466dec0f57a5c205cd548137228267e</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T190450" />
+	</game>
+	<game id="64254">
+		<path>./Games/sfzch.zip</path>
+		<name>Street Fighter Alpha: Warriors' Dreams</name>
+		<desc>The game introduces several new features, expanding on the Super Combo system previously featured in Super Street Fighter II Turbo, with graphics drawn in the same cartoonish style Capcom employed in Darkstalkers and X-Men: Children of the Atom.[2][3] The plot of Street Fighter Alpha is set after the original Street Fighter but before Street Fighter II and thus the game features younger versions of established characters, as well as characters from the original Street Fighter and Final Fight, and a few who are new to the series.</desc>
+		<image>./images/sfzch-image.png</image>
+		<video>./videos/sfzch-video.mp4</video>
+		<marquee>./images/sfzch-marquee.png</marquee>
+		<thumbnail>./images/sfzch-thumb.png</thumbnail>
+		<fanart>./images/sfzch-fanart.jpg</fanart>
+		<boxback>./images/sfzch-boxback.png</boxback>
+		<rating>0.9</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight / 2D</genre>
+		<family>Street Fighter</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>1D232DDF</crc32>
+		<md5>b25d488ea4bd983d604db97515399b3a</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230222T190452" />
+	</game>
+	<game id="37379">
+		<path>./Games/slammast.zip</path>
+		<name>Saturday Night Slam Masters</name>
+		<desc>A 1-on-1 fighting game in which players choose from 10 different wrestlers and take to the ring to try and defeat their larger-than-life opponents. Each wrestler has an assortment of moves, including his own special 'super slam'. The object of the game is to win and defend the championship by pinning or putting a submission hold on your opponent.</desc>
+		<image>./images/slammast-image.png</image>
+		<video>./videos/slammast-video.mp4</video>
+		<marquee>./images/slammast-marquee.png</marquee>
+		<thumbnail>./images/slammast-thumb.png</thumbnail>
+		<fanart>./images/slammast-fanart.jpg</fanart>
+		<bezel>./images/slammast-bezel.png</bezel>
+		<boxback>./images/slammast-boxback.png</boxback>
+		<rating>0.9</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Sports / Wrestling</genre>
+		<family>Slam Masters</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-4</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>88884103</crc32>
+		<md5>6a9e68f3f8d1da22380ab9bc3d65b239</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230222T190454" />
+	</game>
+	<game id="37379">
+		<path>./Games/slammasu.zip</path>
+		<name>Saturday Night Slam Masters</name>
+		<desc>A 1-on-1 fighting game in which players choose from 10 different wrestlers and take to the ring to try and defeat their larger-than-life opponents. Each wrestler has an assortment of moves, including his own special 'super slam'. The object of the game is to win and defend the championship by pinning or putting a submission hold on your opponent.</desc>
+		<image>./images/slammasu-image.png</image>
+		<video>./videos/slammasu-video.mp4</video>
+		<marquee>./images/slammasu-marquee.png</marquee>
+		<thumbnail>./images/slammasu-thumb.png</thumbnail>
+		<fanart>./images/slammasu-fanart.jpg</fanart>
+		<bezel>./images/slammasu-bezel.png</bezel>
+		<boxback>./images/slammasu-boxback.png</boxback>
+		<rating>0.9</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Sports / Wrestling</genre>
+		<family>Slam Masters</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-4</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>18415BAD</crc32>
+		<md5>a538889c3c6caf88d57d824e2fc37c83</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T190456" />
+	</game>
+	<game id="37380">
+		<path>./Games/strider.zip</path>
+		<name>Strider</name>
+		<desc>Strider is a multi-directional scrolling platform beat-em-up in which the player takes control of 'Strider Hiryu', a ninja-style warrior who must defeat a legendary being known as 'Grandmaster Meio'. 
+
+Set in a dystopian future in the year 2048, Meio has been watching Earth from his own distant galaxy and has created a space station (known as 'The Third Moon') between Earth and its moon in order to rule over the Human race.</desc>
+		<image>./images/strider-image.png</image>
+		<video>./videos/strider-video.mp4</video>
+		<marquee>./images/strider-marquee.png</marquee>
+		<thumbnail>./images/strider-thumb.png</thumbnail>
+		<fanart>./images/strider-fanart.jpg</fanart>
+		<bezel>./images/strider-bezel.png</bezel>
+		<boxback>./images/strider-boxback.png</boxback>
+		<rating>0.85</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform / Fighter Scrolling</genre>
+		<family>Strider</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>2F0E0969</crc32>
+		<md5>bc6861c1563a6132cd5e2fb9b7169d78</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T190459" />
+	</game>
+	<game id="37380">
+		<path>./Games/striderj.zip</path>
+		<name>Strider</name>
+		<desc>Strider is a multi-directional scrolling platform beat-em-up in which the player takes control of 'Strider Hiryu', a ninja-style warrior who must defeat a legendary being known as 'Grandmaster Meio'. 
+
+Set in a dystopian future in the year 2048, Meio has been watching Earth from his own distant galaxy and has created a space station (known as 'The Third Moon') between Earth and its moon in order to rule over the Human race.</desc>
+		<image>./images/striderj-image.png</image>
+		<video>./videos/striderj-video.mp4</video>
+		<marquee>./images/striderj-marquee.png</marquee>
+		<thumbnail>./images/striderj-thumb.png</thumbnail>
+		<fanart>./images/striderj-fanart.jpg</fanart>
+		<bezel>./images/striderj-bezel.png</bezel>
+		<boxback>./images/striderj-boxback.png</boxback>
+		<rating>0.85</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform / Fighter Scrolling</genre>
+		<family>Strider</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>5E98BF02</crc32>
+		<md5>88377ab1391a921ba0bb7ae85fbe861c</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230222T190501" />
+	</game>
+	<game id="37380">
+		<path>./Games/stridrja.zip</path>
+		<name>Strider</name>
+		<desc>Strider is a multi-directional scrolling platform beat-em-up in which the player takes control of 'Strider Hiryu', a ninja-style warrior who must defeat a legendary being known as 'Grandmaster Meio'. 
+
+Set in a dystopian future in the year 2048, Meio has been watching Earth from his own distant galaxy and has created a space station (known as 'The Third Moon') between Earth and its moon in order to rule over the Human race.</desc>
+		<image>./images/stridrja-image.png</image>
+		<video>./videos/stridrja-video.mp4</video>
+		<marquee>./images/stridrja-marquee.png</marquee>
+		<thumbnail>./images/stridrja-thumb.png</thumbnail>
+		<fanart>./images/stridrja-fanart.jpg</fanart>
+		<bezel>./images/stridrja-bezel.png</bezel>
+		<boxback>./images/stridrja-boxback.png</boxback>
+		<rating>0.85</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform / Fighter Scrolling</genre>
+		<family>Strider</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>AD40DC7D</crc32>
+		<md5>a650173dd03e4656d9453846b9118f08</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230222T190504" />
+	</game>
+	<game id="37380">
+		<path>./Games/stridrua.zip</path>
+		<name>Strider</name>
+		<desc>Strider is a multi-directional scrolling platform beat-em-up in which the player takes control of 'Strider Hiryu', a ninja-style warrior who must defeat a legendary being known as 'Grandmaster Meio'. 
+
+Set in a dystopian future in the year 2048, Meio has been watching Earth from his own distant galaxy and has created a space station (known as 'The Third Moon') between Earth and its moon in order to rule over the Human race.</desc>
+		<image>./images/stridrua-image.png</image>
+		<video>./videos/stridrua-video.mp4</video>
+		<marquee>./images/stridrua-marquee.png</marquee>
+		<thumbnail>./images/stridrua-thumb.png</thumbnail>
+		<fanart>./images/stridrua-fanart.jpg</fanart>
+		<bezel>./images/stridrua-bezel.png</bezel>
+		<boxback>./images/stridrua-boxback.png</boxback>
+		<rating>0.85</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform / Fighter Scrolling</genre>
+		<family>Strider</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>0802313A</crc32>
+		<md5>9f96b2f91d6bf4bd25dd469a216c1f87</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T190506" />
+	</game>
+	<game id="43837">
+		<path>./Games/unsquad.zip</path>
+		<name>U.N. Squadron</name>
+		<desc>U.N. Squadron / Area 88 is a horizontally-scrolling shoot-em-up and is based on the Manga series of the same name. The game features characters from the original Manga and their mission is to battle their way through enemy-packed levels to stop a terrorist group known as 'Project 4'.</desc>
+		<image>./images/unsquad-image.png</image>
+		<video>./videos/unsquad-video.mp4</video>
+		<marquee>./images/unsquad-marquee.png</marquee>
+		<thumbnail>./images/unsquad-thumb.png</thumbnail>
+		<fanart>./images/unsquad-fanart.jpg</fanart>
+		<bezel>./images/unsquad-bezel.png</bezel>
+		<boxback>./images/unsquad-boxback.png</boxback>
+		<rating>0.7</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shoot'em up / Horizontal</genre>
+		<family>U.N. Squadron</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>E3D19389</crc32>
+		<md5>e15dcd710a337a97d89e2fe1d965cd13</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T190508" />
+	</game>
+	<game id="37382">
+		<path>./Games/varth.zip</path>
+		<name>Varth: Operation Thunderstorm</name>
+		<desc>Varth: Operation Thunderstorm is an arcade game in the vertical scrolling shooter genre, published in 1992. The game did not see a console port following its initial release, but 14 years later Digital Eclipse Software would port the game onto the PlayStation 2, PSP and Xbox as part of the Capcom Classics Collection Vol. 2.</desc>
+		<image>./images/varth-image.png</image>
+		<video>./videos/varth-video.mp4</video>
+		<marquee>./images/varth-marquee.png</marquee>
+		<thumbnail>./images/varth-thumb.png</thumbnail>
+		<fanart>./images/varth-fanart.jpg</fanart>
+		<bezel>./images/varth-bezel.png</bezel>
+		<boxback>./images/varth-boxback.png</boxback>
+		<rating>0.7</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>73B4E630</crc32>
+		<md5>d9f9c105a19e454def14e3f194b649dd</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230222T190511" />
+	</game>
+	<game id="37382">
+		<path>./Games/varthj.zip</path>
+		<name>Varth: Operation Thunderstorm</name>
+		<desc>Varth: Operation Thunderstorm is an arcade game in the vertical scrolling shooter genre, published in 1992. The game did not see a console port following its initial release, but 14 years later Digital Eclipse Software would port the game onto the PlayStation 2, PSP and Xbox as part of the Capcom Classics Collection Vol. 2.</desc>
+		<image>./images/varthj-image.png</image>
+		<video>./videos/varthj-video.mp4</video>
+		<marquee>./images/varthj-marquee.png</marquee>
+		<thumbnail>./images/varthj-thumb.png</thumbnail>
+		<fanart>./images/varthj-fanart.jpg</fanart>
+		<bezel>./images/varthj-bezel.png</bezel>
+		<boxback>./images/varthj-boxback.png</boxback>
+		<rating>0.7</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>4A12DC5D</crc32>
+		<md5>50d422c2ad83450786faa60e96443d23</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230222T190513" />
+	</game>
+	<game id="37382">
+		<path>./Games/varthr1.zip</path>
+		<name>Varth: Operation Thunderstorm</name>
+		<desc>Varth: Operation Thunderstorm is an arcade game in the vertical scrolling shooter genre, published in 1992. The game did not see a console port following its initial release, but 14 years later Digital Eclipse Software would port the game onto the PlayStation 2, PSP and Xbox as part of the Capcom Classics Collection Vol. 2.</desc>
+		<image>./images/varthr1-image.png</image>
+		<video>./videos/varthr1-video.mp4</video>
+		<marquee>./images/varthr1-marquee.png</marquee>
+		<thumbnail>./images/varthr1-thumb.png</thumbnail>
+		<fanart>./images/varthr1-fanart.jpg</fanart>
+		<bezel>./images/varthr1-bezel.png</bezel>
+		<boxback>./images/varthr1-boxback.png</boxback>
+		<rating>0.7</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>D79966B6</crc32>
+		<md5>dfc1d50f27d7f3db58b79b05c826f02a</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230222T190515" />
+	</game>
+	<game id="37382">
+		<path>./Games/varthu.zip</path>
+		<name>Varth: Operation Thunderstorm</name>
+		<desc>Varth: Operation Thunderstorm is an arcade game in the vertical scrolling shooter genre, published in 1992. The game did not see a console port following its initial release, but 14 years later Digital Eclipse Software would port the game onto the PlayStation 2, PSP and Xbox as part of the Capcom Classics Collection Vol. 2.</desc>
+		<image>./images/varthu-image.png</image>
+		<video>./videos/varthu-video.mp4</video>
+		<marquee>./images/varthu-marquee.png</marquee>
+		<thumbnail>./images/varthu-thumb.png</thumbnail>
+		<fanart>./images/varthu-fanart.jpg</fanart>
+		<bezel>./images/varthu-bezel.png</bezel>
+		<boxback>./images/varthu-boxback.png</boxback>
+		<rating>0.7</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>20D5FB76</crc32>
+		<md5>2da42aba80139dbddf2ef381fa8349f7</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T190516" />
+	</game>
+	<game id="37383">
+		<path>./Games/willow.zip</path>
+		<name>Willow</name>
+		<desc>Willow is a sideways scrolling platform shoot-em-up game loosely based upon the movie of the same name. Players take on the role of one of two characters: Willow Ufgood or Madmartigan. The hero's mission is to rescue the baby Elora Danan from the evil Queen Bavmorda and bring her back safely. If the quest fails, the Queen will plunge the world into darkness and chaos.
+
+The game consists of 6 levels, each representing a scene from the movie. Defeated enemies drop gold coins that can be collected by the player. In addition, each level is littered with locked treasure chests that can be shot open and the treasure within collected. The gold can be used to purchase a number of weapons and character power-ups from a nearby shop (represented on screen by a wise old man). All power-ups will stay with the player until all lives are lost and the game is over.</desc>
+		<image>./images/willow-image.png</image>
+		<video>./videos/willow-video.mp4</video>
+		<marquee>./images/willow-marquee.png</marquee>
+		<thumbnail>./images/willow-thumb.png</thumbnail>
+		<fanart>./images/willow-fanart.jpg</fanart>
+		<bezel>./images/willow-bezel.png</bezel>
+		<boxback>./images/willow-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Lucasfilm Games</publisher>
+		<genre>Platform / Shooter Scrolling</genre>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>9BCF6255</crc32>
+		<md5>06d63f57e53285a0ab366aa659f49faf</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230222T190518" />
+	</game>
+	<game id="37383">
+		<path>./Games/willowj.zip</path>
+		<name>Willow</name>
+		<desc>Willow is a sideways scrolling platform shoot-em-up game loosely based upon the movie of the same name. Players take on the role of one of two characters: Willow Ufgood or Madmartigan. The hero's mission is to rescue the baby Elora Danan from the evil Queen Bavmorda and bring her back safely. If the quest fails, the Queen will plunge the world into darkness and chaos.
+
+The game consists of 6 levels, each representing a scene from the movie. Defeated enemies drop gold coins that can be collected by the player. In addition, each level is littered with locked treasure chests that can be shot open and the treasure within collected. The gold can be used to purchase a number of weapons and character power-ups from a nearby shop (represented on screen by a wise old man). All power-ups will stay with the player until all lives are lost and the game is over.</desc>
+		<image>./images/willowj-image.png</image>
+		<video>./videos/willowj-video.mp4</video>
+		<marquee>./images/willowj-marquee.png</marquee>
+		<thumbnail>./images/willowj-thumb.png</thumbnail>
+		<fanart>./images/willowj-fanart.jpg</fanart>
+		<bezel>./images/willowj-bezel.png</bezel>
+		<boxback>./images/willowj-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Lucasfilm Games</publisher>
+		<genre>Platform / Shooter Scrolling</genre>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>7CE8717A</crc32>
+		<md5>5a427ab044c1f1695aaaa64b6235c39a</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230222T190521" />
+	</game>
+	<game id="37383">
+		<path>./Games/willowje.zip</path>
+		<name>Willow</name>
+		<desc>Willow is a sideways scrolling platform shoot-em-up game loosely based upon the movie of the same name. Players take on the role of one of two characters: Willow Ufgood or Madmartigan. The hero's mission is to rescue the baby Elora Danan from the evil Queen Bavmorda and bring her back safely. If the quest fails, the Queen will plunge the world into darkness and chaos.
+
+The game consists of 6 levels, each representing a scene from the movie. Defeated enemies drop gold coins that can be collected by the player. In addition, each level is littered with locked treasure chests that can be shot open and the treasure within collected. The gold can be used to purchase a number of weapons and character power-ups from a nearby shop (represented on screen by a wise old man). All power-ups will stay with the player until all lives are lost and the game is over.</desc>
+		<image>./images/willowje-image.png</image>
+		<video>./videos/willowje-video.mp4</video>
+		<marquee>./images/willowje-marquee.png</marquee>
+		<thumbnail>./images/willowje-thumb.png</thumbnail>
+		<fanart>./images/willowje-fanart.jpg</fanart>
+		<bezel>./images/willowje-bezel.png</bezel>
+		<boxback>./images/willowje-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Lucasfilm Games</publisher>
+		<genre>Platform / Shooter Scrolling</genre>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>CA8EE252</crc32>
+		<md5>765bf6f2fdfc05f57e4d9f9d7dc8a0da</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230222T190523" />
+	</game>
+	<game id="44111">
+		<path>./Games/wof.zip</path>
+		<name>Warriors of Fate</name>
+		<desc>Warriors of Fate is a side-scrolling beat 'em up produced by Capcom, first released as a coin-operated arcade game in 1992 and later ported to the Sega Saturn and Sony PlayStation. It is Capcom's third game based on the Tenchi wo Kurau manga, following Dynasty Wars and Destiny of an Emperor.</desc>
+		<image>./images/wof-image.png</image>
+		<video>./videos/wof-video.mp4</video>
+		<marquee>./images/wof-marquee.png</marquee>
+		<thumbnail>./images/wof-thumb.png</thumbnail>
+		<fanart>./images/wof-fanart.jpg</fanart>
+		<bezel>./images/wof-bezel.png</bezel>
+		<boxback>./images/wof-boxback.png</boxback>
+		<rating>0.6</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat'em Up</genre>
+		<family>Dynasty Wars</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-3</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>72F653DA</crc32>
+		<md5>b9203a658976aaa6518e2a3e346bde45</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230222T190525" />
+	</game>
+	<game id="44111">
+		<path>./Games/wofa.zip</path>
+		<name>Warriors of Fate</name>
+		<desc>Warriors of Fate is a side-scrolling beat 'em up produced by Capcom, first released as a coin-operated arcade game in 1992 and later ported to the Sega Saturn and Sony PlayStation. It is Capcom's third game based on the Tenchi wo Kurau manga, following Dynasty Wars and Destiny of an Emperor.</desc>
+		<image>./images/wofa-image.png</image>
+		<video>./videos/wofa-video.mp4</video>
+		<marquee>./images/wofa-marquee.png</marquee>
+		<thumbnail>./images/wofa-thumb.png</thumbnail>
+		<fanart>./images/wofa-fanart.jpg</fanart>
+		<bezel>./images/wofa-bezel.png</bezel>
+		<boxback>./images/wofa-boxback.png</boxback>
+		<rating>0.6</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat'em Up</genre>
+		<family>Dynasty Wars</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-3</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>F1B42E2E</crc32>
+		<md5>2735503b05bc5824da5a710a2b1ff4aa</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T190528" />
+	</game>
+	<game id="44111">
+		<path>./Games/wofh.zip</path>
+		<name>Warriors of Fate</name>
+		<desc>Warriors of Fate is a side-scrolling beat 'em up produced by Capcom, first released as a coin-operated arcade game in 1992 and later ported to the Sega Saturn and Sony PlayStation. It is Capcom's third game based on the Tenchi wo Kurau manga, following Dynasty Wars and Destiny of an Emperor.</desc>
+		<image>./images/wofh-image.png</image>
+		<video>./videos/wofh-video.mp4</video>
+		<marquee>./images/wofh-marquee.png</marquee>
+		<thumbnail>./images/wofh-thumb.png</thumbnail>
+		<fanart>./images/wofh-fanart.jpg</fanart>
+		<bezel>./images/wofh-bezel.png</bezel>
+		<boxback>./images/wofh-boxback.png</boxback>
+		<rating>0.6</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat'em Up</genre>
+		<family>Dynasty Wars</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-3</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>63233C89</crc32>
+		<md5>f91441ce126912aa5a335dec5b097016</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T190530" />
+	</game>
+	<game id="44111">
+		<path>./Games/wofhfh.zip</path>
+		<name>Warriors of Fate</name>
+		<desc>Warriors of Fate is a side-scrolling beat 'em up produced by Capcom, first released as a coin-operated arcade game in 1992 and later ported to the Sega Saturn and Sony PlayStation. It is Capcom's third game based on the Tenchi wo Kurau manga, following Dynasty Wars and Destiny of an Emperor.</desc>
+		<image>./images/wofhfh-image.png</image>
+		<video>./videos/wofhfh-video.mp4</video>
+		<marquee>./images/wofhfh-marquee.png</marquee>
+		<thumbnail>./images/wofhfh-thumb.png</thumbnail>
+		<fanart>./images/wofhfh-fanart.jpg</fanart>
+		<bezel>./images/wofhfh-bezel.png</bezel>
+		<boxback>./images/wofhfh-boxback.png</boxback>
+		<rating>0.6</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat'em Up</genre>
+		<family>Dynasty Wars</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-3</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>194F7292</crc32>
+		<md5>5f52a7cd0e18b86b16a6c44526679648</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T190532" />
+	</game>
+	<game id="44111">
+		<path>./Games/wofj.zip</path>
+		<name>Warriors of Fate</name>
+		<desc>Warriors of Fate is a side-scrolling beat 'em up produced by Capcom, first released as a coin-operated arcade game in 1992 and later ported to the Sega Saturn and Sony PlayStation. It is Capcom's third game based on the Tenchi wo Kurau manga, following Dynasty Wars and Destiny of an Emperor.</desc>
+		<image>./images/wofj-image.png</image>
+		<video>./videos/wofj-video.mp4</video>
+		<marquee>./images/wofj-marquee.png</marquee>
+		<thumbnail>./images/wofj-thumb.png</thumbnail>
+		<fanart>./images/wofj-fanart.jpg</fanart>
+		<bezel>./images/wofj-bezel.png</bezel>
+		<boxback>./images/wofj-boxback.png</boxback>
+		<rating>0.6</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat'em Up</genre>
+		<family>Dynasty Wars</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-3</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>070CED25</crc32>
+		<md5>930f9a2dd15c9c8d7ec1e34c6f2d240f</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230222T190535" />
+	</game>
+	<game id="44111">
+		<path>./Games/wofu.zip</path>
+		<name>Warriors of Fate</name>
+		<desc>Warriors of Fate is a side-scrolling beat 'em up produced by Capcom, first released as a coin-operated arcade game in 1992 and later ported to the Sega Saturn and Sony PlayStation. It is Capcom's third game based on the Tenchi wo Kurau manga, following Dynasty Wars and Destiny of an Emperor.</desc>
+		<image>./images/wofu-image.png</image>
+		<video>./videos/wofu-video.mp4</video>
+		<marquee>./images/wofu-marquee.png</marquee>
+		<thumbnail>./images/wofu-thumb.png</thumbnail>
+		<fanart>./images/wofu-fanart.jpg</fanart>
+		<bezel>./images/wofu-bezel.png</bezel>
+		<boxback>./images/wofu-boxback.png</boxback>
+		<rating>0.6</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat'em Up</genre>
+		<family>Dynasty Wars</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-3</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>5D1C591F</crc32>
+		<md5>bff129edd2579d6e7ddb5851adffc877</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230222T190537" />
+	</game>
+	<game id="37357">
+		<path>./Games/wonder3.zip</path>
+		<name>Three Wonders</name>
+		<desc>Three Wonders contains three games from which a player may choose:
+
+Midnight Wanderers: Quest for the Chariot - A platform game that sees the player control a hobbit named Lou and his traveling companion, Siva, to run, climb, and shoot at enemies.
+Chariot: Adventure through the Sky - A shoot 'em up game featuring the characters from Midnight Wanderers, but in a Gradius-esque game.
+Don't Pull - A puzzle game similar to games like the Eggerland series, Pengo and Capcom's own puzzle game Pirate Ship Higemaru. It involves the player controlling either a rabbit named Don (Player 1) or a squirrel called Pull (Player 2), pushing blocks to crush monsters.</desc>
+		<image>./images/wonder3-image.png</image>
+		<video>./videos/wonder3-video.mp4</video>
+		<marquee>./images/wonder3-marquee.png</marquee>
+		<thumbnail>./images/wonder3-thumb.png</thumbnail>
+		<fanart>./images/wonder3-fanart.jpg</fanart>
+		<manual>./manuals/wonder3-manual.pdf</manual>
+		<bezel>./images/wonder3-bezel.png</bezel>
+		<boxback>./images/wonder3-boxback.png</boxback>
+		<rating>0.7</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Compilation</genre>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>2DDA0E7A</crc32>
+		<md5>a2c20f71f326f9d0448372c85301046b</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230222T190540" />
+	</game>
+</gameList>

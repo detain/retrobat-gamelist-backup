@@ -1,0 +1,458 @@
+<?xml version="1.0"?>
+<gameList>
+	<game id="58781">
+		<path>./No-Intro/2nd Space (World).bin</path>
+		<name>2nd Space</name>
+		<desc>Using your character / vehicle, cross the streets to cover all the slabs. When a neighborhood is browsed, a piece of image appears. You win when when all is discovered. Watch out for enemies!</desc>
+		<image>./images/2nd Space (World)-image.png</image>
+		<video>./videos/2nd Space (World)-video.mp4</video>
+		<marquee>./images/2nd Space (World)-marquee.png</marquee>
+		<thumbnail>./images/2nd Space (World)-thumb.png</thumbnail>
+		<boxback>./images/2nd Space (World)-boxback.png</boxback>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Sachen</developer>
+		<publisher>Timlex International</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<crc32>43272949</crc32>
+		<md5>4d35d82d4d0d1c1a4709e39fa2015061</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230301T193023" />
+		<scrap name="ArcadeDB" date="20221212T140000" />
+	</game>
+	<game id="261604">
+		<path>./No-Intro/Ant Soldiers (World).bin</path>
+		<name>Ant Soldiers</name>
+		<desc>Ant Soldiers is a real-time puzzle/strategy game where you are tasked with guiding your wandering herd to an end goal by assigning individual members different tasks from a preset list of abilities. The game is essentially a clone of Lemmings.</desc>
+		<image>./images/Ant Soldiers (World)-image.png</image>
+		<video>./videos/Ant Soldiers (World)-video.mp4</video>
+		<thumbnail>./images/Ant Soldiers (World)-thumb.png</thumbnail>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Sachen</developer>
+		<genre>Puzzle-Game</genre>
+		<crc32>4907C1D8</crc32>
+		<md5>d446648d78544497d8a1f654ba19e423</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230301T193025" />
+		<scrap name="ArcadeDB" date="20221212T140000" />
+	</game>
+	<game id="56864">
+		<path>./No-Intro/Arctic Zone (World).bin</path>
+		<name>Arctic Zone</name>
+		<desc>Artic Zone is a puzzle game, developed by Commin and published by Timlex International Limited, which was released in 1993.</desc>
+		<image>./images/Arctic Zone (World)-image.png</image>
+		<video>./videos/Arctic Zone (World)-video.mp4</video>
+		<marquee>./images/Arctic Zone (World)-marquee.png</marquee>
+		<thumbnail>./images/Arctic Zone (World)-thumb.png</thumbnail>
+		<boxback>./images/Arctic Zone (World)-boxback.png</boxback>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Commin</developer>
+		<publisher>Timlex International</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<crc32>F88F2D25</crc32>
+		<md5>d9206a9aa8a80650dc14467f1c3a1e9e</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230301T193026" />
+		<scrap name="ArcadeDB" date="20221212T140000" />
+	</game>
+	<game id="261598">
+		<path>./No-Intro/Armour Force (World).bin</path>
+		<name>Armour Force</name>
+		<image>./images/Armour Force (World)-image.png</image>
+		<video>./videos/Armour Force (World)-video.mp4</video>
+		<thumbnail>./images/Armour Force (World)-thumb.png</thumbnail>
+		<boxback>./images/Armour Force (World)-boxback.png</boxback>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Commin</developer>
+		<crc32>ECA6C0AD</crc32>
+		<md5>ddd2e71a525be1ed6605e933b3f1a616</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230301T193028" />
+		<scrap name="ArcadeDB" date="20221212T140000" />
+	</game>
+	<game id="261595">
+		<path>./No-Intro/Beast Fighter (World).bin</path>
+		<name>Beast Fighter</name>
+		<image>./images/Beast Fighter (World)-image.png</image>
+		<video>./videos/Beast Fighter (World)-video.mp4</video>
+		<thumbnail>./images/Beast Fighter (World)-thumb.png</thumbnail>
+		<boxback>./images/Beast Fighter (World)-boxback.png</boxback>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Sachen</developer>
+		<crc32>2ADB7253</crc32>
+		<md5>51a5520a1757aded4bb3baf5993b5dc8</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230301T193030" />
+		<scrap name="ArcadeDB" date="20221212T140001" />
+	</game>
+	<game id="261589">
+		<path>./No-Intro/Black Forest Tale (World).bin</path>
+		<name>Black Forest Tale</name>
+		<image>./images/Black Forest Tale (World)-image.png</image>
+		<video>./videos/Black Forest Tale (World)-video.mp4</video>
+		<thumbnail>./images/Black Forest Tale (World)-thumb.png</thumbnail>
+		<boxback>./images/Black Forest Tale (World)-boxback.png</boxback>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Commin</developer>
+		<crc32>211D268B</crc32>
+		<md5>19e82a8a681ffdbdb40b2d2308242830</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230301T193031" />
+		<scrap name="ArcadeDB" date="20221212T140003" />
+	</game>
+	<game id="256141">
+		<path>./No-Intro/Bomb Disposer (World).bin</path>
+		<name>Bomb Disposer</name>
+		<image>./images/Bomb Disposer (World)-image.png</image>
+		<video>./videos/Bomb Disposer (World)-video.mp4</video>
+		<thumbnail>./images/Bomb Disposer (World)-thumb.png</thumbnail>
+		<boxback>./images/Bomb Disposer (World)-boxback.png</boxback>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Commin</developer>
+		<crc32>CAC582AD</crc32>
+		<md5>e07e5a8e3c65cb78d7dc39d905de8147</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230301T193033" />
+		<scrap name="ArcadeDB" date="20221212T140003" />
+	</game>
+	<game id="261586">
+		<path>./No-Intro/Captain Knick Knack (World).bin</path>
+		<name>Captain Knick Knack</name>
+		<image>./images/Captain Knick Knack (World)-image.png</image>
+		<video>./videos/Captain Knick Knack (World)-video.mp4</video>
+		<thumbnail>./images/Captain Knick Knack (World)-thumb.png</thumbnail>
+		<boxback>./images/Captain Knick Knack (World)-boxback.png</boxback>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Sachen</developer>
+		<crc32>A17DE1A3</crc32>
+		<md5>97aedcfc742ba7e93d37d9c3096d565d</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230301T193034" />
+		<scrap name="ArcadeDB" date="20221212T140003" />
+	</game>
+	<game id="56865">
+		<path>./No-Intro/Commin 5 in 1 (World).bin</path>
+		<name>Commin 5 In 1</name>
+		<image>./images/Commin 5 in 1 (World)-image.png</image>
+		<video>./videos/Commin 5 in 1 (World)-video.mp4</video>
+		<marquee>./images/Commin 5 in 1 (World)-marquee.png</marquee>
+		<thumbnail>./images/Commin 5 in 1 (World)-thumb.png</thumbnail>
+		<boxback>./images/Commin 5 in 1 (World)-boxback.png</boxback>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Commin</developer>
+		<publisher>Timlex International</publisher>
+		<genre>Various</genre>
+		<players>1</players>
+		<crc32>FF0DA355</crc32>
+		<md5>b9d32795ac1004892e7f75fbbabefcc6</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230301T193035" />
+		<scrap name="ArcadeDB" date="20221212T140003" />
+	</game>
+	<game id="360526">
+		<path>./No-Intro/Duck Adventures (World).bin</path>
+		<name>Duck Adventures</name>
+		<image>./images/Duck Adventures (World)-image.png</image>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Commin</developer>
+		<genre>Action / Climbing</genre>
+		<crc32>CC9C6D10</crc32>
+		<md5>08056eec0bd9252dba8e138c886bafe5</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230301T193039" />
+		<scrap name="ArcadeDB" date="20221212T140003" />
+	</game>
+	<game id="58782">
+		<path>./No-Intro/Magic Maze (World).bin</path>
+		<name>Magic Maze</name>
+		<image>./images/Magic Maze (World)-image.png</image>
+		<video>./videos/Magic Maze (World)-video.mp4</video>
+		<marquee>./images/Magic Maze (World)-marquee.png</marquee>
+		<thumbnail>./images/Magic Maze (World)-thumb.png</thumbnail>
+		<boxback>./images/Magic Maze (World)-boxback.png</boxback>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Commin</developer>
+		<publisher>Timlex International</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<crc32>93C878BE</crc32>
+		<md5>0f1f07f00d2477bfaea726a00ef9874a</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230301T193040" />
+		<scrap name="ArcadeDB" date="20221212T140004" />
+	</game>
+	<game id="56866">
+		<path>./No-Intro/Magical Tower (World).bin</path>
+		<name>Magical Tower</name>
+		<image>./images/Magical Tower (World)-image.png</image>
+		<video>./videos/Magical Tower (World)-video.mp4</video>
+		<marquee>./images/Magical Tower (World)-marquee.png</marquee>
+		<thumbnail>./images/Magical Tower (World)-thumb.png</thumbnail>
+		<boxback>./images/Magical Tower (World)-boxback.png</boxback>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Sachen</developer>
+		<publisher>Timlex International</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<crc32>98694021</crc32>
+		<md5>fecedeed294a15226bf83f6bdb9bd874</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230301T193042" />
+		<scrap name="ArcadeDB" date="20221212T140004" />
+	</game>
+	<game id="56867">
+		<path>./No-Intro/Mega Duck 4 in 1 (World).bin</path>
+		<name>Mega Duck 4 In 1 Game</name>
+		<desc>Four in One was the cartridge that accompanied the Cougar Boy / Mega Duck, which contains 4 games: Virus Attack (space shooting game, Space Invaders clone); Electron World (maze action game); Trouble Zone (puzzle game); Says Block (adventure game)., developed by Sachen and published by Timlex International Limited, which was released in 1993.</desc>
+		<image>./images/Mega Duck 4 in 1 (World)-image.png</image>
+		<video>./videos/Mega Duck 4 in 1 (World)-video.mp4</video>
+		<marquee>./images/Mega Duck 4 in 1 (World)-marquee.png</marquee>
+		<thumbnail>./images/Mega Duck 4 in 1 (World)-thumb.png</thumbnail>
+		<boxback>./images/Mega Duck 4 in 1 (World)-boxback.png</boxback>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Sachen</developer>
+		<publisher>Timlex International</publisher>
+		<genre>Various</genre>
+		<players>1</players>
+		<crc32>8046EA70</crc32>
+		<md5>b69258fca964f04c09217318759a242b</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230301T193043" />
+		<scrap name="ArcadeDB" date="20221212T140004" />
+	</game>
+	<game id="56868">
+		<path>./No-Intro/Pile Wonder (World) (Alt).bin</path>
+		<name>Pile Wonder</name>
+		<image>./images/Pile Wonder (World) (Alt)-image.png</image>
+		<video>./videos/Pile Wonder (World) (Alt)-video.mp4</video>
+		<marquee>./images/Pile Wonder (World) (Alt)-marquee.png</marquee>
+		<thumbnail>./images/Pile Wonder (World) (Alt)-thumb.png</thumbnail>
+		<boxback>./images/Pile Wonder (World) (Alt)-boxback.png</boxback>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Commin</developer>
+		<publisher>Timlex International</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<crc32>61C81E06</crc32>
+		<md5>41f5481a13c8e52aafe8266db52e622f</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230301T193044" />
+		<scrap name="ArcadeDB" date="20221212T140004" />
+	</game>
+	<game id="56868">
+		<path>./No-Intro/Pile Wonder (World).bin</path>
+		<name>Pile Wonder</name>
+		<image>./images/Pile Wonder (World)-image.png</image>
+		<video>./videos/Pile Wonder (World)-video.mp4</video>
+		<marquee>./images/Pile Wonder (World)-marquee.png</marquee>
+		<thumbnail>./images/Pile Wonder (World)-thumb.png</thumbnail>
+		<boxback>./images/Pile Wonder (World)-boxback.png</boxback>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Commin</developer>
+		<publisher>Timlex International</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<crc32>D71F1770</crc32>
+		<md5>475ef85a3329c9c7f79db9ea3ac74bd9</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230301T193046" />
+		<scrap name="ArcadeDB" date="20221212T140004" />
+	</game>
+	<game id="261610">
+		<path>./No-Intro/Puppet Knight (World).bin</path>
+		<name>Puppet Knight</name>
+		<image>./images/Puppet Knight (World)-image.png</image>
+		<video>./videos/Puppet Knight (World)-video.mp4</video>
+		<thumbnail>./images/Puppet Knight (World)-thumb.png</thumbnail>
+		<boxback>./images/Puppet Knight (World)-boxback.png</boxback>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Commin</developer>
+		<crc32>35FB1616</crc32>
+		<md5>f2083d19412a8f1a688eedf3288d438b</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230301T193047" />
+		<scrap name="ArcadeDB" date="20221212T140004" />
+	</game>
+	<game id="56869">
+		<path>./No-Intro/Railway (World).bin</path>
+		<name>Railway</name>
+		<image>./images/Railway (World)-image.png</image>
+		<video>./videos/Railway (World)-video.mp4</video>
+		<marquee>./images/Railway (World)-marquee.png</marquee>
+		<thumbnail>./images/Railway (World)-thumb.png</thumbnail>
+		<boxback>./images/Railway (World)-boxback.png</boxback>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Sachen</developer>
+		<publisher>Timlex International</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<crc32>2BB6AEB9</crc32>
+		<md5>c217738067267475f86eec9bc19f462b</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230301T193049" />
+		<scrap name="ArcadeDB" date="20221212T140004" />
+	</game>
+	<game id="261601">
+		<path>./No-Intro/Snake Roy (World).bin</path>
+		<name>Snake Roy</name>
+		<image>./images/Snake Roy (World)-image.png</image>
+		<video>./videos/Snake Roy (World)-video.mp4</video>
+		<thumbnail>./images/Snake Roy (World)-thumb.png</thumbnail>
+		<boxback>./images/Snake Roy (World)-boxback.png</boxback>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Sachen</developer>
+		<crc32>315EF9F2</crc32>
+		<md5>0bd39f37e9589a4dec2b3ebf535ef7b7</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230301T193050" />
+		<scrap name="ArcadeDB" date="20221212T140004" />
+	</game>
+	<game id="56870">
+		<path>./No-Intro/Street Rider (World).bin</path>
+		<name>Street Rider</name>
+		<image>./images/Street Rider (World)-image.png</image>
+		<video>./videos/Street Rider (World)-video.mp4</video>
+		<marquee>./images/Street Rider (World)-marquee.png</marquee>
+		<thumbnail>./images/Street Rider (World)-thumb.png</thumbnail>
+		<boxback>./images/Street Rider (World)-boxback.png</boxback>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Commin</developer>
+		<publisher>Timlex International</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+		<crc32>74C3377F</crc32>
+		<md5>284b8c671a7fb408aaa601be44e1f0b5</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230301T193052" />
+		<scrap name="ArcadeDB" date="20221212T140005" />
+	</game>
+	<game id="56871">
+		<path>./No-Intro/Suleiman's Treasure (World).bin</path>
+		<name>Suleiman's Treasure</name>
+		<image>./images/Suleiman's Treasure (World)-image.png</image>
+		<video>./videos/Suleiman's Treasure (World)-video.mp4</video>
+		<marquee>./images/Suleiman's Treasure (World)-marquee.png</marquee>
+		<thumbnail>./images/Suleiman's Treasure (World)-thumb.png</thumbnail>
+		<boxback>./images/Suleiman's Treasure (World)-boxback.png</boxback>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Commin</developer>
+		<publisher>Timlex International</publisher>
+		<genre>Adventure</genre>
+		<crc32>CD2730AC</crc32>
+		<md5>343da38521cbfb60df79a5e4eb392cf8</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230301T193053" />
+		<scrap name="ArcadeDB" date="20221212T140005" />
+	</game>
+	<game id="56872">
+		<path>./No-Intro/The Brick Wall (World).bin</path>
+		<name>The Brick Wall</name>
+		<image>./images/The Brick Wall (World)-image.png</image>
+		<video>./videos/The Brick Wall (World)-video.mp4</video>
+		<thumbnail>./images/The Brick Wall (World)-thumb.png</thumbnail>
+		<boxback>./images/The Brick Wall (World)-boxback.png</boxback>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Timlex International</developer>
+		<publisher>Timlex International</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<crc32>58EFE338</crc32>
+		<md5>48170b7d77fc96d4f72adccb51299b87</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230301T193055" />
+		<scrap name="ArcadeDB" date="20221212T140005" />
+	</game>
+	<game id="58783">
+		<path>./No-Intro/Trap Turn (World).bin</path>
+		<name>Trap And Turn</name>
+		<image>./images/Trap Turn (World)-image.png</image>
+		<video>./videos/Trap Turn (World)-video.mp4</video>
+		<marquee>./images/Trap Turn (World)-marquee.png</marquee>
+		<thumbnail>./images/Trap Turn (World)-thumb.png</thumbnail>
+		<boxback>./images/Trap Turn (World)-boxback.png</boxback>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Commin</developer>
+		<publisher>Timlex International</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<crc32>2B58D9A4</crc32>
+		<md5>ae12c30ad7b294c999c935bfcbb94600</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230301T193056" />
+		<scrap name="ArcadeDB" date="20221212T140005" />
+	</game>
+	<game id="58784">
+		<path>./No-Intro/Vex (World).bin</path>
+		<name>Vex</name>
+		<image>./images/Vex (World)-image.png</image>
+		<video>./videos/Vex (World)-video.mp4</video>
+		<marquee>./images/Vex (World)-marquee.png</marquee>
+		<thumbnail>./images/Vex (World)-thumb.png</thumbnail>
+		<boxback>./images/Vex (World)-boxback.png</boxback>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Commin</developer>
+		<publisher>Timlex International</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<crc32>B26BB405</crc32>
+		<md5>7a5162ecd0cbc020bd3d098b75af64de</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230301T193058" />
+		<scrap name="ArcadeDB" date="20221212T140005" />
+	</game>
+	<game id="261592">
+		<path>./No-Intro/Worm Visitor (World).bin</path>
+		<name>Worm Visitor</name>
+		<image>./images/Worm Visitor (World)-image.png</image>
+		<video>./videos/Worm Visitor (World)-video.mp4</video>
+		<thumbnail>./images/Worm Visitor (World)-thumb.png</thumbnail>
+		<boxback>./images/Worm Visitor (World)-boxback.png</boxback>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Sachen</developer>
+		<crc32>DA4743E7</crc32>
+		<md5>4b6abd84db818e1ca574f3af9ffcc2d5</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230301T193059" />
+		<scrap name="ArcadeDB" date="20221212T140005" />
+	</game>
+	<game id="261607">
+		<path>./No-Intro/Zipball (World).bin</path>
+		<name>Zipball</name>
+		<image>./images/Zipball (World)-image.png</image>
+		<video>./videos/Zipball (World)-video.mp4</video>
+		<boxback>./images/Zipball (World)-boxback.png</boxback>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Sachen</developer>
+		<crc32>2004C1FB</crc32>
+		<md5>60a0d647166971c5da6862d1db3916a2</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230301T193100" />
+		<scrap name="ArcadeDB" date="20221212T140005" />
+	</game>
+</gameList>

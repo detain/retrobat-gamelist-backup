@@ -1,0 +1,1522 @@
+<?xml version="1.0"?>
+<gameList>
+	<game id="47925">
+		<path>./No-Intro/Boulder Dash (France).bin</path>
+		<name>Boulder Dash</name>
+		<desc>The ultimate underground journey, but be forewarned - nothing less than perfection is required! Boulder Dash will challenge your mind and reflexes like no other game. The objective is to search throughout each cave and collect as many jewels in as short a time as possible. Once the indicated amount has been collected, the door to the mysterious escape tunnel is revealed and you go to the next level. Boulders drop predictably enough, but you and Rockford also have to block growing amoebas, transform butterflies, outmaneuver fireflies, and overcome other numerous obstacles.</desc>
+		<image>./images/Boulder Dash (France)-image.png</image>
+		<video>./videos/Boulder Dash (France)-video.mp4</video>
+		<marquee>./images/Boulder Dash (France)-marquee.png</marquee>
+		<thumbnail>./images/Boulder Dash (France)-thumb.png</thumbnail>
+		<fanart>./images/Boulder Dash (France)-fanart.jpg</fanart>
+		<manual>./manuals/Boulder Dash (France)-manual.pdf</manual>
+		<boxback>./images/Boulder Dash (France)-boxback.png</boxback>
+		<rating>0.5</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Epoch</developer>
+		<publisher>Epoch</publisher>
+		<genre>Puzzle-Game</genre>
+		<family>Boulder Dash</family>
+		<players>1-2</players>
+		<crc32>5DB59007</crc32>
+		<md5>21b1f2432b4ea67dc7162630100b2cd5</md5>
+		<lang>fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20221212T034727" />
+	</game>
+	<game id="47925">
+		<path>./No-Intro/Boulder Dash (Japan) (En).bin</path>
+		<name>Boulder Dash</name>
+		<desc>The ultimate underground journey, but be forewarned - nothing less than perfection is required! Boulder Dash will challenge your mind and reflexes like no other game. The objective is to search throughout each cave and collect as many jewels in as short a time as possible. Once the indicated amount has been collected, the door to the mysterious escape tunnel is revealed and you go to the next level. Boulders drop predictably enough, but you and Rockford also have to block growing amoebas, transform butterflies, outmaneuver fireflies, and overcome other numerous obstacles.</desc>
+		<image>./images/Boulder Dash (Japan) (En)-image.png</image>
+		<video>./videos/Boulder Dash (Japan) (En)-video.mp4</video>
+		<marquee>./images/Boulder Dash (Japan) (En)-marquee.png</marquee>
+		<thumbnail>./images/Boulder Dash (Japan) (En)-thumb.png</thumbnail>
+		<fanart>./images/Boulder Dash (Japan) (En)-fanart.jpg</fanart>
+		<boxback>./images/Boulder Dash (Japan) (En)-boxback.png</boxback>
+		<rating>0.5</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Epoch</developer>
+		<publisher>Epoch</publisher>
+		<genre>Puzzle-Game</genre>
+		<family>Boulder Dash</family>
+		<players>2</players>
+		<crc32>E045884C</crc32>
+		<md5>4471a0938102c21a49635d3e4efb61bc</md5>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221212T034729" />
+		<scrap name="ArcadeDB" date="20221212T082234" />
+	</game>
+	<game>
+		<path>./No-Intro/Mappy (Japan) (En).bin</path>
+		<name>Mappy</name>
+		<desc>Arcade Video game published 39 years ago:
+
+Mappy (c) 1983 Bally Midway Mfg. Co.
+
+Export version by Bally/Midway for North America. Game developed in Japan by Namco. For more information about the game, please see the original Namco version entry.
+
+- TECHNICAL -
+
+[Upright model]
+[Game No. 353]
+
+- TRIVIA -
+
+Mappy was released by Bally/Midway, under license by Namco, in April 1983 in the USA.
+
+In this export version: 
+* Nyamco is named 'Goro'. 
+* The name of the cat gang is known as 'Meowky'.
+
+- PORTS -
+
+NOTE: Only ports released in North America [US] are listed here. For ports released in other regions, please see the original Namco version entry.
+
+* CONSOLES: 
+Sony PlayStation (sept.30, 1996) "Namco Museum Vol.2 [Model SLUS-00216]" 
+Microsoft XBOX (aug.30, 2005) "Namco Museum - 50th Anniversary [Model NMO-2201A-NM]" 
+Nintendo GameCube (aug.30, 2005) "Namco Museum - 50th Anniversary [Model DOL-G5NE-USA]" 
+Sony PS2 (aug.30, 2005) "Namco Museum - 50th Anniversary [Model SLUS-21164]" 
+Nintendo DS (sept.18, 2007) "Namco Museum DS [Model NTR-YNME-USA]"
+Nintendo Wii (oct.23, 2007) "Namco Museum Remix [Model RVL-R2NE-USA]" 
+Microsoft XBOX 360 (nov.4, 2008) "Namco Museum - Virtual Arcade [Model 21022]" 
+Nintendo Wii [Virtual Console Arcade] (mar.25, 2009) 
+Nintendo Wii (nov.16, 2010) "Namco Museum Megamix" 
+
+* HANDHELDS: 
+Sony PSP (aug.23, 2005) "Namco Museum Battle Collection [Model ULUS-10035]" 
+
+* COMPUTERS: 
+PC [MS Windows, CD-ROM] (jul.31, 1998) "Microsoft Revenge of Arcade" 
+PC [MS Windows, CD-ROM] (oct.25, 2005) "Namco Museum 50th Anniversary" 
+
+* OTHERS: 
+LCD handheld game (19??) by Micro Games of America 
+Arcade (1995) "Namco Classics Collection Vol.1" 
+Ms. Pac-Man TV Game (2004) by Jakks Pacific 
+Ms. Pac-Man TV Game Wireless Version (2005) by Jakks Pacific 
+Retro Arcade featuring Pac-Man (2008) by Jakks Pacific 
+Arcade (2010) "Pac-Man's Arcade Party" 
+Apple iPhone/iPad (mar.3, 2011) "Mappy by Namco [Model 410516206]" 
+Pac-Man Connect and Play (2012) by Bandai
+Arcade (2018) "Pac-Man's Pixel Bash"
+
+- CONTRIBUTE -
+
+Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=37045&amp;o=2</desc>
+		<image>./images/Mappy (Japan) (En)-image.png</image>
+		<video>./videos/Mappy (Japan) (En)-video.mp4</video>
+		<marquee>./images/Mappy (Japan) (En)-marquee.png</marquee>
+		<thumbnail>./images/Mappy (Japan) (En)-thumb.png</thumbnail>
+		<fanart>./images/Mappy (Japan) (En)-fanart.jpg</fanart>
+		<boxback>./images/Mappy (Japan) (En)-boxback.png</boxback>
+		<rating>0.55</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Platform / Run Jump</genre>
+		<players>2</players>
+		<crc32>605829BB</crc32>
+		<md5>801619e946eb962fe13f4582751c7588</md5>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221212T034741" />
+		<scrap name="ArcadeDB" date="20221212T082235" />
+	</game>
+	<game id="47925">
+		<path>./TOSEC/Boulder Dash (1985)(Epoch)(FR)(en).bin</path>
+		<name>Boulder Dash</name>
+		<desc>The ultimate underground journey, but be forewarned - nothing less than perfection is required! Boulder Dash will challenge your mind and reflexes like no other game. The objective is to search throughout each cave and collect as many jewels in as short a time as possible. Once the indicated amount has been collected, the door to the mysterious escape tunnel is revealed and you go to the next level. Boulders drop predictably enough, but you and Rockford also have to block growing amoebas, transform butterflies, outmaneuver fireflies, and overcome other numerous obstacles.</desc>
+		<image>./images/Boulder Dash (1985)(Epoch)(FR)(en)-image.png</image>
+		<video>./videos/Boulder Dash (1985)(Epoch)(FR)(en)-video.mp4</video>
+		<marquee>./images/Boulder Dash (1985)(Epoch)(FR)(en)-marquee.png</marquee>
+		<thumbnail>./images/Boulder Dash (1985)(Epoch)(FR)(en)-thumb.png</thumbnail>
+		<fanart>./images/Boulder Dash (1985)(Epoch)(FR)(en)-fanart.jpg</fanart>
+		<boxback>./images/Boulder Dash (1985)(Epoch)(FR)(en)-boxback.png</boxback>
+		<rating>0.5</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Epoch</developer>
+		<publisher>Epoch</publisher>
+		<genre>Puzzle-Game</genre>
+		<family>Boulder Dash</family>
+		<players>2</players>
+		<crc32>5DB59007</crc32>
+		<md5>21b1f2432b4ea67dc7162630100b2cd5</md5>
+		<lang>fr,en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20221212T034827" />
+		<scrap name="ArcadeDB" date="20221212T082237" />
+	</game>
+	<game id="47925">
+		<path>./TOSEC/Boulder Dash (1985)(Epoch)(JP)(en).bin</path>
+		<name>Boulder Dash</name>
+		<desc>The ultimate underground journey, but be forewarned - nothing less than perfection is required! Boulder Dash will challenge your mind and reflexes like no other game. The objective is to search throughout each cave and collect as many jewels in as short a time as possible. Once the indicated amount has been collected, the door to the mysterious escape tunnel is revealed and you go to the next level. Boulders drop predictably enough, but you and Rockford also have to block growing amoebas, transform butterflies, outmaneuver fireflies, and overcome other numerous obstacles.</desc>
+		<image>./images/Boulder Dash (1985)(Epoch)(JP)(en)-image.png</image>
+		<video>./videos/Boulder Dash (1985)(Epoch)(JP)(en)-video.mp4</video>
+		<marquee>./images/Boulder Dash (1985)(Epoch)(JP)(en)-marquee.png</marquee>
+		<thumbnail>./images/Boulder Dash (1985)(Epoch)(JP)(en)-thumb.png</thumbnail>
+		<fanart>./images/Boulder Dash (1985)(Epoch)(JP)(en)-fanart.jpg</fanart>
+		<boxback>./images/Boulder Dash (1985)(Epoch)(JP)(en)-boxback.png</boxback>
+		<rating>0.5</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Epoch</developer>
+		<publisher>Epoch</publisher>
+		<genre>Puzzle-Game</genre>
+		<family>Boulder Dash</family>
+		<players>2</players>
+		<crc32>E045884C</crc32>
+		<md5>4471a0938102c21a49635d3e4efb61bc</md5>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221212T034829" />
+		<scrap name="ArcadeDB" date="20221212T082238" />
+	</game>
+	<game>
+		<path>./TOSEC/Mappy (1986)(Epoch)(JP)(en).bin</path>
+		<name>Mappy</name>
+		<desc>Arcade Video game published 39 years ago:
+
+Mappy (c) 1983 Bally Midway Mfg. Co.
+
+Export version by Bally/Midway for North America. Game developed in Japan by Namco. For more information about the game, please see the original Namco version entry.
+
+- TECHNICAL -
+
+[Upright model]
+[Game No. 353]
+
+- TRIVIA -
+
+Mappy was released by Bally/Midway, under license by Namco, in April 1983 in the USA.
+
+In this export version: 
+* Nyamco is named 'Goro'. 
+* The name of the cat gang is known as 'Meowky'.
+
+- PORTS -
+
+NOTE: Only ports released in North America [US] are listed here. For ports released in other regions, please see the original Namco version entry.
+
+* CONSOLES: 
+Sony PlayStation (sept.30, 1996) "Namco Museum Vol.2 [Model SLUS-00216]" 
+Microsoft XBOX (aug.30, 2005) "Namco Museum - 50th Anniversary [Model NMO-2201A-NM]" 
+Nintendo GameCube (aug.30, 2005) "Namco Museum - 50th Anniversary [Model DOL-G5NE-USA]" 
+Sony PS2 (aug.30, 2005) "Namco Museum - 50th Anniversary [Model SLUS-21164]" 
+Nintendo DS (sept.18, 2007) "Namco Museum DS [Model NTR-YNME-USA]"
+Nintendo Wii (oct.23, 2007) "Namco Museum Remix [Model RVL-R2NE-USA]" 
+Microsoft XBOX 360 (nov.4, 2008) "Namco Museum - Virtual Arcade [Model 21022]" 
+Nintendo Wii [Virtual Console Arcade] (mar.25, 2009) 
+Nintendo Wii (nov.16, 2010) "Namco Museum Megamix" 
+
+* HANDHELDS: 
+Sony PSP (aug.23, 2005) "Namco Museum Battle Collection [Model ULUS-10035]" 
+
+* COMPUTERS: 
+PC [MS Windows, CD-ROM] (jul.31, 1998) "Microsoft Revenge of Arcade" 
+PC [MS Windows, CD-ROM] (oct.25, 2005) "Namco Museum 50th Anniversary" 
+
+* OTHERS: 
+LCD handheld game (19??) by Micro Games of America 
+Arcade (1995) "Namco Classics Collection Vol.1" 
+Ms. Pac-Man TV Game (2004) by Jakks Pacific 
+Ms. Pac-Man TV Game Wireless Version (2005) by Jakks Pacific 
+Retro Arcade featuring Pac-Man (2008) by Jakks Pacific 
+Arcade (2010) "Pac-Man's Arcade Party" 
+Apple iPhone/iPad (mar.3, 2011) "Mappy by Namco [Model 410516206]" 
+Pac-Man Connect and Play (2012) by Bandai
+Arcade (2018) "Pac-Man's Pixel Bash"
+
+- CONTRIBUTE -
+
+Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=37045&amp;o=2</desc>
+		<image>./images/Mappy (1986)(Epoch)(JP)(en)-image.png</image>
+		<video>./videos/Mappy (1986)(Epoch)(JP)(en)-video.mp4</video>
+		<marquee>./images/Mappy (1986)(Epoch)(JP)(en)-marquee.png</marquee>
+		<thumbnail>./images/Mappy (1986)(Epoch)(JP)(en)-thumb.png</thumbnail>
+		<fanart>./images/Mappy (1986)(Epoch)(JP)(en)-fanart.jpg</fanart>
+		<boxback>./images/Mappy (1986)(Epoch)(JP)(en)-boxback.png</boxback>
+		<rating>0.55</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Platform / Run Jump</genre>
+		<players>2</players>
+		<crc32>605829BB</crc32>
+		<md5>801619e946eb962fe13f4582751c7588</md5>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221212T034842" />
+		<scrap name="ArcadeDB" date="20221212T082238" />
+	</game>
+	<game id="47922">
+		<path>./No-Intro/Astro Wars - Invaders from Space (Japan, France).bin</path>
+		<name>Astro Wars</name>
+		<desc>On board of your spacecraft, destroy the Invaders!
+A laser beam helps you to destroy these formidable enemies!
+Will you reach the end of your dangerous mission? It would be better, because your life and that of the Earth depends!</desc>
+		<image>./images/Astro Wars - Invaders from Space (Japan, France)-image.png</image>
+		<video>./videos/Astro Wars - Invaders from Space (Japan, France)-video.mp4</video>
+		<marquee>./images/Astro Wars - Invaders from Space (Japan, France)-marquee.png</marquee>
+		<thumbnail>./images/Astro Wars - Invaders from Space (Japan, France)-thumb.png</thumbnail>
+		<boxback>./images/Astro Wars - Invaders from Space (Japan, France)-boxback.png</boxback>
+		<rating>0.65</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Epoch</developer>
+		<publisher>Epoch</publisher>
+		<genre>Shooter / Space Invaders Like</genre>
+		<family>Astro Wars</family>
+		<players>1</players>
+		<crc32>2DBDB166</crc32>
+		<md5>5c0a8b9e0ae3bdc62cf758c8de3c621c</md5>
+		<lang>jp,fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20221212T034722" />
+		<scrap name="ArcadeDB" date="20221212T140024" />
+	</game>
+	<game id="47923">
+		<path>./No-Intro/Astro Wars II - Battle in Galaxy (Japan) (En).bin</path>
+		<name>Astro Wars 2 - Battle In Galaxy</name>
+		<desc>The second part of Astro Wars, which takes place in space. This is a Galaxian style game, whereas the first is an Invaders style game.</desc>
+		<image>./images/Astro Wars II - Battle in Galaxy (Japan) (En)-image.png</image>
+		<video>./videos/Astro Wars II - Battle in Galaxy (Japan) (En)-video.mp4</video>
+		<marquee>./images/Astro Wars II - Battle in Galaxy (Japan) (En)-marquee.png</marquee>
+		<thumbnail>./images/Astro Wars II - Battle in Galaxy (Japan) (En)-thumb.png</thumbnail>
+		<boxback>./images/Astro Wars II - Battle in Galaxy (Japan) (En)-boxback.png</boxback>
+		<rating>0.65</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Epoch</developer>
+		<publisher>Epoch</publisher>
+		<genre>Shooter / Space Invaders Like</genre>
+		<family>Astro Wars</family>
+		<players>1</players>
+		<crc32>34781DE1</crc32>
+		<md5>28b41f62cefae2524f6ae1b980d054d7</md5>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221212T034724" />
+		<scrap name="ArcadeDB" date="20221212T140024" />
+	</game>
+	<game id="47924">
+		<path>./No-Intro/Basic Nyuumon (Japan) (En).bin</path>
+		<name>ZZZ(notgame):Basic Nyuumon</name>
+		<video>./videos/Basic Nyuumon (Japan) (En)-video.mp4</video>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Epoch</developer>
+		<publisher>Epoch</publisher>
+		<hidden>true</hidden>
+		<crc32>CA965C2B</crc32>
+		<md5>6da4e79f9dd60abe222ae8f95023ad48</md5>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221212T034724" />
+		<scrap name="ArcadeDB" date="20221212T140024" />
+	</game>
+	<game id="47926">
+		<path>./No-Intro/Comic Circus (Japan) (En).bin</path>
+		<name>Comic Circus</name>
+		<desc>You end up at the Circus with a friend and you have to try to catch balloons hanging from the top of a rope using a springboard that will make you flutter. You also have to catch bags dropped by pigeons. During the second phase, the jump is made on a trampolino and in the third phase you have to hang on to the trapeze artists to catch the pigeons. If you do not catch up the jumper, he will fall to the ground and you will lose any chance of winning. There are different stages available. For one to four people who can play together.</desc>
+		<image>./images/Comic Circus (Japan) (En)-image.png</image>
+		<video>./videos/Comic Circus (Japan) (En)-video.mp4</video>
+		<marquee>./images/Comic Circus (Japan) (En)-marquee.png</marquee>
+		<thumbnail>./images/Comic Circus (Japan) (En)-thumb.png</thumbnail>
+		<boxback>./images/Comic Circus (Japan) (En)-boxback.png</boxback>
+		<rating>0.65</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Epoch</developer>
+		<publisher>Epoch</publisher>
+		<genre>Action</genre>
+		<players>4</players>
+		<crc32>EA55FAED</crc32>
+		<md5>ec261a6208094fceb7a4f8cc60db24b4</md5>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221212T034731" />
+		<scrap name="ArcadeDB" date="20221212T140024" />
+	</game>
+	<game id="47928">
+		<path>./No-Intro/Dragon Ball - Dragon Dai Hikyou (Japan) (En).bin</path>
+		<name>Dragon Ball: Dragon Daihikyō</name>
+		<desc>Dragon Ball - Dragon Dai Hikyou is a shoot'em up. The player take the role of Son Goku moving on Kinto-un in order to collect all the Dragon Balls. Goku can shoot Kamé Hamé Ha or strike with his Nyoï Bo to kill enemies or destroy objects in front of him. Food spawns after eliminating an enemy. If Goku starts to get hungry, his attack power decreases and his Nyoi Bo shortens.</desc>
+		<image>./images/Dragon Ball - Dragon Dai Hikyou (Japan) (En)-image.png</image>
+		<video>./videos/Dragon Ball - Dragon Dai Hikyou (Japan) (En)-video.mp4</video>
+		<marquee>./images/Dragon Ball - Dragon Dai Hikyou (Japan) (En)-marquee.png</marquee>
+		<thumbnail>./images/Dragon Ball - Dragon Dai Hikyou (Japan) (En)-thumb.png</thumbnail>
+		<boxback>./images/Dragon Ball - Dragon Dai Hikyou (Japan) (En)-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>19860926T000000</releasedate>
+		<developer>Epoch</developer>
+		<publisher>Epoch</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<family>Dragon Ball</family>
+		<players>2</players>
+		<crc32>EA251664</crc32>
+		<md5>6d11d49390d0946501b39d9f9688ae9d</md5>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221212T034733" />
+		<scrap name="ArcadeDB" date="20221212T140024" />
+	</game>
+	<game id="47929">
+		<path>./No-Intro/Dragon Slayer (Japan) (En).bin</path>
+		<name>Dragon Slayer</name>
+		<desc>Dragon Slayer is commonly considered one of the progenitors of the action RPG genre. The premise is similar to Roguelikes: the player takes control of a knight who must fight his way through large overhead maze-like dungeons. Unlike roguelikes, the combat in the game is fully action-oriented: the player must approach the monster and "bump" into it in order to inflict damage, at the same time trying to avoid its blows. Combat takes place on the same screen as the exploration; monsters will also sometimes pursue the knight if he attempts to escape. Also contrary to roguelikes, none of the locations or items in the game is randomized.</desc>
+		<image>./images/Dragon Slayer (Japan) (En)-image.png</image>
+		<video>./videos/Dragon Slayer (Japan) (En)-video.mp4</video>
+		<marquee>./images/Dragon Slayer (Japan) (En)-marquee.png</marquee>
+		<thumbnail>./images/Dragon Slayer (Japan) (En)-thumb.png</thumbnail>
+		<boxback>./images/Dragon Slayer (Japan) (En)-boxback.png</boxback>
+		<rating>0.65</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Nihon Falcom</developer>
+		<publisher>Epoch</publisher>
+		<genre>Role playing games / Action RPG</genre>
+		<family>Dragon Slayer</family>
+		<players>1</players>
+		<crc32>5971940F</crc32>
+		<md5>9c688c8f43b142a84b90181d717df6d2</md5>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221212T034735" />
+		<scrap name="ArcadeDB" date="20221212T140024" />
+	</game>
+	<game id="47930">
+		<path>./No-Intro/Elevator Fight (Japan) (En).bin</path>
+		<name>Elevator Fight</name>
+		<desc>Arin, your space suit-clad hero, must travel downwards in shaft of 31 floors populated by dangerous robots, space mice and aliens and filled with traps, in order to destroy the central computer of the Gashim empire on the bottom floor. The shaft is divided in a multitude of floors, connected by lifts. Both you and your enemies may use the lifts, using them both to advance, to escape and to ambush. The enemies have different behaviours, with some rushing toward you and some shooting. Traps include grappling claws and lasers in the ceilings and electrical floors. For defence, you have a gun.</desc>
+		<image>./images/Elevator Fight (Japan) (En)-image.png</image>
+		<video>./videos/Elevator Fight (Japan) (En)-video.mp4</video>
+		<marquee>./images/Elevator Fight (Japan) (En)-marquee.png</marquee>
+		<thumbnail>./images/Elevator Fight (Japan) (En)-thumb.png</thumbnail>
+		<manual>./manuals/Elevator Fight (Japan) (En)-manual.pdf</manual>
+		<boxback>./images/Elevator Fight (Japan) (En)-boxback.png</boxback>
+		<rating>0.65</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Epoch</developer>
+		<publisher>Epoch</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<crc32>72DD6031</crc32>
+		<md5>3ac6b89ba13e57100d522921abb7319c</md5>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221212T034737" />
+		<scrap name="ArcadeDB" date="20221212T140024" />
+	</game>
+	<game id="47931">
+		<path>./No-Intro/Lupin Sansei (Japan) (En).bin</path>
+		<name>Lupin III</name>
+		<desc>This adventure takes place successively in an underground, in a cave, and in the jungle. You are LUPINE III and you run in search of diamonds. But beware, crocodiles, vultures, snakes, tree trunks are chasing you. One thing to do: jump over them or destroy them. During the fourth phase, you are in a room in which you have to shoot at moving targets in order to be able to escape. So hurry yourself and don't waste a minute, because time is precious. For one or two players.</desc>
+		<image>./images/Lupin Sansei (Japan) (En)-image.png</image>
+		<video>./videos/Lupin Sansei (Japan) (En)-video.mp4</video>
+		<marquee>./images/Lupin Sansei (Japan) (En)-marquee.png</marquee>
+		<thumbnail>./images/Lupin Sansei (Japan) (En)-thumb.png</thumbnail>
+		<boxback>./images/Lupin Sansei (Japan) (En)-boxback.png</boxback>
+		<rating>0.6</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Epoch</developer>
+		<publisher>Epoch</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+		<crc32>16D7EB4A</crc32>
+		<md5>e1547118cf5a9e88825408f12550b890</md5>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221212T034739" />
+		<scrap name="ArcadeDB" date="20221212T140024" />
+	</game>
+	<game id="47933">
+		<path>./No-Intro/Milky Princess (Japan) (En).bin</path>
+		<name>Milky Princess</name>
+		<desc>Game delivered with a particular version of the Epoch Super Cassette called "the Super Cassette Vision Lady's". The goal is to predict the future! To give credit to the title, Epoch linked the name of René Van Dale Watanabe (a famous astrologer) to the game.</desc>
+		<image>./images/Milky Princess (Japan) (En)-image.png</image>
+		<video>./videos/Milky Princess (Japan) (En)-video.mp4</video>
+		<marquee>./images/Milky Princess (Japan) (En)-marquee.png</marquee>
+		<thumbnail>./images/Milky Princess (Japan) (En)-thumb.png</thumbnail>
+		<boxback>./images/Milky Princess (Japan) (En)-boxback.png</boxback>
+		<rating>0.5</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Epoch</developer>
+		<publisher>Epoch</publisher>
+		<genre>Adventure / Text</genre>
+		<players>1</players>
+		<crc32>B2457990</crc32>
+		<md5>9449bddc1056d51c7147dc2e6329d2ed</md5>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221212T034743" />
+		<scrap name="ArcadeDB" date="20221212T140025" />
+	</game>
+	<game id="47934">
+		<path>./No-Intro/Miner 2049er (Japan) (En).bin</path>
+		<name>Miner 2049er</name>
+		<desc>The player controls Bounty Bob, a character who explores the depths of an underground mine in a radioactive future. He can scratch the ground as he walks and must dodge or crush the irradiated monsters that walk by him. The levels are made of beams, ladders, sliding platforms and teleporters. The player must scrape each piece of ground to reach the next level. The game has ten or eleven levels depending on the version.</desc>
+		<image>./images/Miner 2049er (Japan) (En)-image.png</image>
+		<video>./videos/Miner 2049er (Japan) (En)-video.mp4</video>
+		<marquee>./images/Miner 2049er (Japan) (En)-marquee.png</marquee>
+		<thumbnail>./images/Miner 2049er (Japan) (En)-thumb.png</thumbnail>
+		<manual>./manuals/Miner 2049er (Japan) (En)-manual.pdf</manual>
+		<boxback>./images/Miner 2049er (Japan) (En)-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Big Five Software</developer>
+		<publisher>Epoch</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<crc32>B0FFC6E2</crc32>
+		<md5>f4a3f4f5a08a15ec62a32e959a528eac</md5>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221212T034746" />
+		<scrap name="ArcadeDB" date="20221212T140025" />
+	</game>
+	<game id="47935">
+		<path>./No-Intro/Nebula (Japan) (En) (Alt 1).bin</path>
+		<name>Nebula</name>
+		<desc>You are on the Planet NEBULA during the time of the Pharaohs in 2019. A thousand of pitfalls await you and the Gods see you when you approach their tombs. Can you use your laser beams and homing bombs to destroy them? Make no mistake, because it will be fatal! Contains four levels for one or two players.</desc>
+		<image>./images/Nebula (Japan) (En) (Alt 1)-image.png</image>
+		<video>./videos/Nebula (Japan) (En) (Alt 1)-video.mp4</video>
+		<marquee>./images/Nebula (Japan) (En) (Alt 1)-marquee.png</marquee>
+		<thumbnail>./images/Nebula (Japan) (En) (Alt 1)-thumb.png</thumbnail>
+		<boxback>./images/Nebula (Japan) (En) (Alt 1)-boxback.png</boxback>
+		<rating>0.7</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Epoch</developer>
+		<publisher>Epoch</publisher>
+		<genre>Shoot'em up / Horizontal</genre>
+		<players>2</players>
+		<crc32>EFB4BDCD</crc32>
+		<md5>ac629947980bbd14478c29c1645efa41</md5>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221212T034747" />
+		<scrap name="ArcadeDB" date="20221212T140025" />
+	</game>
+	<game id="47935">
+		<path>./No-Intro/Nebula (Japan) (En).bin</path>
+		<name>Nebula</name>
+		<desc>You are on the Planet NEBULA during the time of the Pharaohs in 2019. A thousand of pitfalls await you and the Gods see you when you approach their tombs. Can you use your laser beams and homing bombs to destroy them? Make no mistake, because it will be fatal! Contains four levels for one or two players.</desc>
+		<image>./images/Nebula (Japan) (En)-image.png</image>
+		<video>./videos/Nebula (Japan) (En)-video.mp4</video>
+		<marquee>./images/Nebula (Japan) (En)-marquee.png</marquee>
+		<thumbnail>./images/Nebula (Japan) (En)-thumb.png</thumbnail>
+		<boxback>./images/Nebula (Japan) (En)-boxback.png</boxback>
+		<rating>0.7</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Epoch</developer>
+		<publisher>Epoch</publisher>
+		<genre>Shoot'em up / Horizontal</genre>
+		<players>2</players>
+		<crc32>5E6A4CAF</crc32>
+		<md5>e86aab083fc9722f8a44b356139522c2</md5>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221212T034749" />
+		<scrap name="ArcadeDB" date="20221212T140025" />
+	</game>
+	<game id="47937">
+		<path>./No-Intro/Pole Position II (Japan) (En).bin</path>
+		<name>Pole Position II</name>
+		<desc>In Pole Position II, based on the arcade sequel to Pole Position, you are again driving an F-1 racer in a timed qualifying run, trying to achieve the pole position. Then it is off to the race, in hopes of taking that top spot. The difference in Pole...</desc>
+		<image>./images/Pole Position II (Japan) (En)-image.png</image>
+		<video>./videos/Pole Position II (Japan) (En)-video.mp4</video>
+		<marquee>./images/Pole Position II (Japan) (En)-marquee.png</marquee>
+		<thumbnail>./images/Pole Position II (Japan) (En)-thumb.png</thumbnail>
+		<boxback>./images/Pole Position II (Japan) (En)-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Epoch</publisher>
+		<genre>Race, Driving</genre>
+		<family>Pole Position</family>
+		<players>1</players>
+		<crc32>CB69903D</crc32>
+		<md5>78249cfb10962347a8001ba102992503</md5>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221212T034751" />
+		<scrap name="ArcadeDB" date="20221212T140025" />
+	</game>
+	<game id="47938">
+		<path>./No-Intro/Pop &amp; Chips (Japan) (En).bin</path>
+		<name>Pop And Chips</name>
+		<desc>The adventure of Pop and Chips begins with the fairy Pippi, who has been kidnapped by Pumpkin the Great.
+There are blocks that can be broken and blocks that cannot be broken on the screen. When you break the fruit block, Pippi appears and moves up and down on the screen, and when you go around and back to the original position, he returns to the original fruit block.
+If you touch Pippi, he will be collected at the top left of the screen.
+Once you return to the fruit, the movement will be faster from the second time. Clear the screen by collecting all the pippi.</desc>
+		<image>./images/Pop &amp; Chips (Japan) (En)-image.png</image>
+		<video>./videos/Pop &amp; Chips (Japan) (En)-video.mp4</video>
+		<marquee>./images/Pop &amp; Chips (Japan) (En)-marquee.png</marquee>
+		<thumbnail>./images/Pop &amp; Chips (Japan) (En)-thumb.png</thumbnail>
+		<boxback>./images/Pop &amp; Chips (Japan) (En)-boxback.png</boxback>
+		<rating>0.55</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Epoch</developer>
+		<publisher>Epoch</publisher>
+		<genre>Platform</genre>
+		<players>4</players>
+		<crc32>CC4FB04D</crc32>
+		<md5>e2488c33d92ef9985e6b62b45644303c</md5>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221212T034753" />
+		<scrap name="ArcadeDB" date="20221212T140025" />
+	</game>
+	<game id="47940">
+		<path>./No-Intro/Professional Wrestling (Japan) (En).bin</path>
+		<name>Rantou Pro-Wrestling</name>
+		<desc>In single combat, or in 4-man wrestling, you must defeat your opponent according to the rules of the art:
+Cuffs, arm locks, throws or immobilizations are part of the technique of the champion you choose.</desc>
+		<image>./images/Professional Wrestling (Japan) (En)-image.png</image>
+		<video>./videos/Professional Wrestling (Japan) (En)-video.mp4</video>
+		<marquee>./images/Professional Wrestling (Japan) (En)-marquee.png</marquee>
+		<thumbnail>./images/Professional Wrestling (Japan) (En)-thumb.png</thumbnail>
+		<boxback>./images/Professional Wrestling (Japan) (En)-boxback.png</boxback>
+		<rating>0.55</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Epoch</developer>
+		<publisher>Epoch</publisher>
+		<genre>Sports / Fighting</genre>
+		<players>2</players>
+		<crc32>5B1FB2A8</crc32>
+		<md5>44d432cb0093a1992beb806a68e7aaad</md5>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221212T034755" />
+		<scrap name="ArcadeDB" date="20221212T140025" />
+	</game>
+	<game id="47939">
+		<path>./No-Intro/Punch Boy (Japan) (En).bin</path>
+		<name>Punch Boy</name>
+		<desc>Armed with a mini-punch, the main character, "Punch Boy," goes through a maze of various gimmicks to "Monster Castle," defeats four "bosses," and saves the captured "Lady." In the maze, monsters are born from rock-like eggs (which can be rolled with a punch). The monster does not accept mini punches from other than the front, faints with the mini punch from the front, and can be defeated with another blow. Some eggs do not hatch, and monsters and punch boys often roll eggs (1 down even if crushed by rolling eggs).</desc>
+		<image>./images/Punch Boy (Japan) (En)-image.png</image>
+		<video>./videos/Punch Boy (Japan) (En)-video.mp4</video>
+		<marquee>./images/Punch Boy (Japan) (En)-marquee.png</marquee>
+		<thumbnail>./images/Punch Boy (Japan) (En)-thumb.png</thumbnail>
+		<manual>./manuals/Punch Boy (Japan) (En)-manual.pdf</manual>
+		<boxback>./images/Punch Boy (Japan) (En)-boxback.png</boxback>
+		<rating>0.5</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Epoch</developer>
+		<publisher>Epoch</publisher>
+		<genre>Action / Labyrinth</genre>
+		<players>2</players>
+		<crc32>4107F03A</crc32>
+		<md5>7c10f8df512ce0bbfad7505ccca88827</md5>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221212T034758" />
+		<scrap name="ArcadeDB" date="20221212T140025" />
+	</game>
+	<game id="47946">
+		<path>./No-Intro/Real Graphic Mahjongg (Japan).bin</path>
+		<name>Real Graphic Mahjongg</name>
+		<desc>Mahjong is a tile-based game that was developed during the Qing dynasty in China and has spread throughout the world since the early 20th century.The game is played with a set of 144 tiles based on Chinese characters and symbols, although some regional variations may omit some tiles or add unique ones. In most variations, each player begins by receiving 13 tiles. In turn players draw and discard tiles until they complete a legal hand using the 14th drawn tile to form four melds (or sets) and a pair (eye). A player can also win with a small class of special hands.</desc>
+		<image>./images/Real Graphic Mahjongg (Japan)-image.png</image>
+		<video>./videos/Real Graphic Mahjongg (Japan)-video.mp4</video>
+		<marquee>./images/Real Graphic Mahjongg (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Real Graphic Mahjongg (Japan)-thumb.png</thumbnail>
+		<manual>./manuals/Real Graphic Mahjongg (Japan)-manual.pdf</manual>
+		<boxback>./images/Real Graphic Mahjongg (Japan)-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Epoch</developer>
+		<publisher>Epoch</publisher>
+		<genre>Asiatic board game / Mahjong</genre>
+		<players>1</players>
+		<crc32>D3D9106C</crc32>
+		<md5>c9e1042402b5a0ff6f75b737fec8a08a</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221212T034800" />
+		<scrap name="ArcadeDB" date="20221212T140026" />
+	</game>
+	<game id="58786">
+		<path>./No-Intro/Sansupyuta (Japan) (En).bin</path>
+		<name>Super Sansuu Puter</name>
+		<desc>Arithmetic learning software for kindergarten children to sixth graders . It inherits the name of the company's electronic game , Sun Pewter .
+
+You can learn math like a game by using the numeric keypad on the main unit. The pause key on the main unit is diverted as a button for entering the decimal point, but the pause key on the SCV is essentially a semi-forced pause button, and such diversion is rare.</desc>
+		<image>./images/Sansupyuta (Japan) (En)-image.png</image>
+		<video>./videos/Sansupyuta (Japan) (En)-video.mp4</video>
+		<marquee>./images/Sansupyuta (Japan) (En)-marquee.png</marquee>
+		<thumbnail>./images/Sansupyuta (Japan) (En)-thumb.png</thumbnail>
+		<boxback>./images/Sansupyuta (Japan) (En)-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Epoch</developer>
+		<publisher>Epoch</publisher>
+		<genre>Educational</genre>
+		<players>1</players>
+		<crc32>6E7E01B5</crc32>
+		<md5>05f2b3b1a5e450c8ead224c3ebf5b75f</md5>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221212T034802" />
+		<scrap name="ArcadeDB" date="20221212T140026" />
+	</game>
+	<game id="47941">
+		<path>./No-Intro/Shougi Nyuumon (Japan).bin</path>
+		<name>Shogi Nyuumon</name>
+		<desc>The objective of the game is to take the opposing king. When the king cannot avoid being caught on the next move, the game is over. They say the king is "Matt". The shogi opposes two players who take turns playing. The Shogi chess board is called Shogi Ban ("Shogi table") and has 81 squares (9 x 9), the three rows furthest from the players constituting their promotion area. At the start of the game each player has 20 pieces: a king, a rook, a bishop, two gold generals, two silver generals, two horsemen, two spears, and nine pawns.</desc>
+		<image>./images/Shougi Nyuumon (Japan)-image.png</image>
+		<video>./videos/Shougi Nyuumon (Japan)-video.mp4</video>
+		<marquee>./images/Shougi Nyuumon (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Shougi Nyuumon (Japan)-thumb.png</thumbnail>
+		<boxback>./images/Shougi Nyuumon (Japan)-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Epoch</developer>
+		<publisher>Epoch</publisher>
+		<genre>Asiatic board game / Shougi</genre>
+		<players>1</players>
+		<crc32>84005C4C</crc32>
+		<md5>b248fff8526d5c3cfba82a6e036815ca</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221212T034804" />
+		<scrap name="ArcadeDB" date="20221212T140026" />
+	</game>
+	<game id="47942">
+		<path>./No-Intro/Sky Kid (Japan) (En).bin</path>
+		<name>Sky Kid</name>
+		<desc>You are the legendary Red Baron, flying a plane through a horizontal side-scrolling scenery set during World War I. To complete a mission, you simply need to get to the landing spot on the other side without being shot down, but you can gain extra points by destroying enemy vehicles and planes. For huge points, pick up a bomb hidden in the level (you will be warned by a sound when approaching it) and drop it on a large structure. If you fail to land on the landing strip, you run out of fuel and crash.
+
+You can only shoot horizontally and diagonally by tilting the plane's nose. When in trouble, perform an aerial loop with the secondary button, this often destroys other planes and avoids bullets. There is a co-op mode with the character Max as well.</desc>
+		<image>./images/Sky Kid (Japan) (En)-image.png</image>
+		<video>./videos/Sky Kid (Japan) (En)-video.mp4</video>
+		<marquee>./images/Sky Kid (Japan) (En)-marquee.png</marquee>
+		<thumbnail>./images/Sky Kid (Japan) (En)-thumb.png</thumbnail>
+		<boxback>./images/Sky Kid (Japan) (En)-boxback.png</boxback>
+		<rating>0.65</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Namcot</developer>
+		<publisher>Epoch</publisher>
+		<genre>Shoot'em up / Horizontal</genre>
+		<players>2</players>
+		<crc32>F49F2085</crc32>
+		<md5>9b6dd35dd278bcfaa98d4ecf531654cf</md5>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221212T034806" />
+		<scrap name="ArcadeDB" date="20221212T140026" />
+	</game>
+	<game id="47944">
+		<path>./No-Intro/Super Baseball (Japan) (En).bin</path>
+		<name>Super Base Ball</name>
+		<desc>It is a relatively orthodox system for an early baseball game, and the basic operation method is not much different from that of subsequent family stadiums (there are also changing balls and ball speed adjustments). It has some pioneering features as a baseball game of the pre-Family era.</desc>
+		<image>./images/Super Baseball (Japan) (En)-image.png</image>
+		<video>./videos/Super Baseball (Japan) (En)-video.mp4</video>
+		<marquee>./images/Super Baseball (Japan) (En)-marquee.png</marquee>
+		<thumbnail>./images/Super Baseball (Japan) (En)-thumb.png</thumbnail>
+		<boxback>./images/Super Baseball (Japan) (En)-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Epoch</developer>
+		<publisher>Epoch</publisher>
+		<genre>Sports / Baseball</genre>
+		<players>2</players>
+		<crc32>56F1C473</crc32>
+		<md5>c800d70c4a1f9600407d8392b9455015</md5>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221212T034808" />
+		<scrap name="ArcadeDB" date="20221212T140026" />
+	</game>
+	<game id="47945">
+		<path>./No-Intro/Super Golf (Japan) (En).bin</path>
+		<name>Super Golf</name>
+		<desc>The course has 18 holes and a total length of 5,805 meters. You have to get the ball into the hole with a minimum of strokes, despite the wind and many obstacles. You can choose the club, the direction and the force with which the ball will be sent. Challenge your friends, one to four people can play together.</desc>
+		<image>./images/Super Golf (Japan) (En)-image.png</image>
+		<video>./videos/Super Golf (Japan) (En)-video.mp4</video>
+		<marquee>./images/Super Golf (Japan) (En)-marquee.png</marquee>
+		<thumbnail>./images/Super Golf (Japan) (En)-thumb.png</thumbnail>
+		<manual>./manuals/Super Golf (Japan) (En)-manual.pdf</manual>
+		<boxback>./images/Super Golf (Japan) (En)-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Epoch</developer>
+		<publisher>Epoch</publisher>
+		<genre>Sports / Golf</genre>
+		<players>4</players>
+		<crc32>0C0581C9</crc32>
+		<md5>734091f00d410fc4251f0aae7d47e4c1</md5>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221212T034810" />
+		<scrap name="ArcadeDB" date="20221212T140026" />
+	</game>
+	<game id="47948">
+		<path>./No-Intro/Super Soccer (France).bin</path>
+		<name>Super Soccer</name>
+		<desc>Find yourself facing your opponents on a football stadium! You can dribble, pass, shoot, or send the ball with your head. You can control the trajectory of the ball and the length of each pass. You can also shoot corners, free kicks and penalties. For one or two players.</desc>
+		<image>./images/Super Soccer (France)-image.png</image>
+		<video>./videos/Super Soccer (France)-video.mp4</video>
+		<marquee>./images/Super Soccer (France)-marquee.png</marquee>
+		<thumbnail>./images/Super Soccer (France)-thumb.png</thumbnail>
+		<boxback>./images/Super Soccer (France)-boxback.png</boxback>
+		<rating>0.85</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Epoch</developer>
+		<publisher>Epoch</publisher>
+		<genre>Sports / Soccer</genre>
+		<players>2</players>
+		<crc32>8283907C</crc32>
+		<md5>dd60e91b361fdc8bc8ead3d76c45897c</md5>
+		<lang>fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20221212T034812" />
+		<scrap name="ArcadeDB" date="20221212T140026" />
+	</game>
+	<game id="47948">
+		<path>./No-Intro/Super Soccer (Japan) (En).bin</path>
+		<name>Super Soccer</name>
+		<desc>Find yourself facing your opponents on a football stadium! You can dribble, pass, shoot, or send the ball with your head. You can control the trajectory of the ball and the length of each pass. You can also shoot corners, free kicks and penalties. For one or two players.</desc>
+		<image>./images/Super Soccer (Japan) (En)-image.png</image>
+		<video>./videos/Super Soccer (Japan) (En)-video.mp4</video>
+		<marquee>./images/Super Soccer (Japan) (En)-marquee.png</marquee>
+		<thumbnail>./images/Super Soccer (Japan) (En)-thumb.png</thumbnail>
+		<boxback>./images/Super Soccer (Japan) (En)-boxback.png</boxback>
+		<rating>0.85</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Epoch</developer>
+		<publisher>Epoch</publisher>
+		<genre>Sports / Soccer</genre>
+		<players>2</players>
+		<crc32>590EEEFD</crc32>
+		<md5>5cd60ad0a9bfb818db9c4e5accc05537</md5>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221212T034814" />
+		<scrap name="ArcadeDB" date="20221212T140026" />
+	</game>
+	<game id="47949">
+		<path>./No-Intro/Ton Ton Ball (Japan) (En).bin</path>
+		<name>Ton Ton Ball</name>
+		<desc>A billiard- style pinball game with action elements . Clear the surface when you finish putting Tonton in the house within the time limit.</desc>
+		<image>./images/Ton Ton Ball (Japan) (En)-image.png</image>
+		<video>./videos/Ton Ton Ball (Japan) (En)-video.mp4</video>
+		<marquee>./images/Ton Ton Ball (Japan) (En)-marquee.png</marquee>
+		<thumbnail>./images/Ton Ton Ball (Japan) (En)-thumb.png</thumbnail>
+		<boxback>./images/Ton Ton Ball (Japan) (En)-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Epoch</developer>
+		<publisher>Epoch</publisher>
+		<players>2</players>
+		<crc32>7F873BFA</crc32>
+		<md5>622cbb0451fbf82b9b7834c5ca589443</md5>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221212T034816" />
+		<scrap name="ArcadeDB" date="20221212T140027" />
+	</game>
+	<game id="47950">
+		<path>./No-Intro/Wai Wai Monster Land (Japan) (En).bin</path>
+		<name>Y2 Monster Land</name>
+		<desc>In order to rescue the heroine "Naoko" who was kidnapped by "Monster Land" who got lost in the amusement park, "Tooru"'s great adventure begins with a cross in one hand.
+
+Monster Land consists of 6 areas, and unique monsters await, from Zako enemies called mini monsters to strong enemies called big monsters. If you follow the road on the map, the order of capture of the area is free to some extent, but you can not rescue Naoko unless you search all 6 places. Hidden items and hidden rooms may be found by hitting blocks or hitting the cross. In the hidden room, characters from other SCV games may appear depending on the conditions.</desc>
+		<image>./images/Wai Wai Monster Land (Japan) (En)-image.png</image>
+		<video>./videos/Wai Wai Monster Land (Japan) (En)-video.mp4</video>
+		<marquee>./images/Wai Wai Monster Land (Japan) (En)-marquee.png</marquee>
+		<thumbnail>./images/Wai Wai Monster Land (Japan) (En)-thumb.png</thumbnail>
+		<boxback>./images/Wai Wai Monster Land (Japan) (En)-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Epoch</developer>
+		<publisher>Epoch</publisher>
+		<genre>Action / Adventure</genre>
+		<players>1</players>
+		<crc32>3AC28FE0</crc32>
+		<md5>64d6268aebabedb1552c2cd565ec32a7</md5>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221212T034818" />
+		<scrap name="ArcadeDB" date="20221212T140027" />
+	</game>
+	<game id="47951">
+		<path>./No-Intro/Wheelie Racer (Japan, France).bin</path>
+		<name>Wheelie Racer</name>
+		<desc>Take part in three rallies in America, Africa and Europe behind the wheel of your car. Be aware of dangerous turns, damaged cars, puddles. Also monitor your fuel level and don't forget to stop at a pump if necessary. You have to overtake other cars and avoid rocks and tree trunks as well as trucks that get in the middle of the road. A game full of surprises along the way. Be the best Driver and good chance for the first prize.</desc>
+		<image>./images/Wheelie Racer (Japan, France)-image.png</image>
+		<video>./videos/Wheelie Racer (Japan, France)-video.mp4</video>
+		<thumbnail>./images/Wheelie Racer (Japan, France)-thumb.png</thumbnail>
+		<boxback>./images/Wheelie Racer (Japan, France)-boxback.png</boxback>
+		<rating>0.6</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Epoch</developer>
+		<publisher>Epoch</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+		<crc32>9D9B29DB</crc32>
+		<md5>ef4ab0300b9e056d1ba9873b63a1b6cf</md5>
+		<lang>jp,fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20221212T034820" />
+		<scrap name="ArcadeDB" date="20221212T140027" />
+	</game>
+	<game id="214649">
+		<path>./No-Intro/[BIOS] Super Cassette Vision (Japan, France).bin</path>
+		<name>ZZZ(notgame):[BIOS] Super Cassette Vision</name>
+		<hidden>true</hidden>
+		<crc32>7AC06182</crc32>
+		<md5>635a978fd40db9a18ee44eff449fc126</md5>
+		<lang>jp,fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20221212T034820" />
+		<scrap name="ArcadeDB" date="20221212T140027" />
+	</game>
+	<game id="47922">
+		<path>./TOSEC/Astro Wars - Invaders from Space (1984)(Epoch)(JP)(en).bin</path>
+		<name>Astro Wars : Invader from Space</name>
+		<desc>On board of your spacecraft, destroy the Invaders!
+A laser beam helps you to destroy these formidable enemies!
+Will you reach the end of your dangerous mission? It would be better, because your life and that of the Earth depends!</desc>
+		<image>./images/Astro Wars - Invaders from Space (1984)(Epoch)(JP)(en)-image.png</image>
+		<video>./videos/Astro Wars - Invaders from Space (1984)(Epoch)(JP)(en)-video.mp4</video>
+		<marquee>./images/Astro Wars - Invaders from Space (1984)(Epoch)(JP)(en)-marquee.png</marquee>
+		<thumbnail>./images/Astro Wars - Invaders from Space (1984)(Epoch)(JP)(en)-thumb.png</thumbnail>
+		<boxback>./images/Astro Wars - Invaders from Space (1984)(Epoch)(JP)(en)-boxback.png</boxback>
+		<rating>0.65</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Epoch</developer>
+		<publisher>Epoch</publisher>
+		<genre>Shooter / Space Invaders Like</genre>
+		<family>Astro Wars</family>
+		<players>1</players>
+		<crc32>2DBDB166</crc32>
+		<md5>5c0a8b9e0ae3bdc62cf758c8de3c621c</md5>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221212T034822" />
+		<scrap name="ArcadeDB" date="20221212T140027" />
+	</game>
+	<game id="47923">
+		<path>./TOSEC/Astro Wars 2 - Battle in Galaxy (1984)(Epoch)(JP)(en).bin</path>
+		<name>Astro Wars 2 - Battle In Galaxy</name>
+		<desc>The second part of Astro Wars, which takes place in space. This is a Galaxian style game, whereas the first is an Invaders style game.</desc>
+		<image>./images/Astro Wars 2 - Battle in Galaxy (1984)(Epoch)(JP)(en)-image.png</image>
+		<video>./videos/Astro Wars 2 - Battle in Galaxy (1984)(Epoch)(JP)(en)-video.mp4</video>
+		<marquee>./images/Astro Wars 2 - Battle in Galaxy (1984)(Epoch)(JP)(en)-marquee.png</marquee>
+		<thumbnail>./images/Astro Wars 2 - Battle in Galaxy (1984)(Epoch)(JP)(en)-thumb.png</thumbnail>
+		<boxback>./images/Astro Wars 2 - Battle in Galaxy (1984)(Epoch)(JP)(en)-boxback.png</boxback>
+		<rating>0.65</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Epoch</developer>
+		<publisher>Epoch</publisher>
+		<genre>Shooter / Space Invaders Like</genre>
+		<family>Astro Wars</family>
+		<players>1</players>
+		<crc32>34781DE1</crc32>
+		<md5>28b41f62cefae2524f6ae1b980d054d7</md5>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221212T034824" />
+		<scrap name="ArcadeDB" date="20221212T140027" />
+	</game>
+	<game id="47924">
+		<path>./TOSEC/BASIC Nyuumon (1985)(Epoch)(JP)(en).bin</path>
+		<name>ZZZ(notgame):Basic Nyuumon</name>
+		<video>./videos/BASIC Nyuumon (1985)(Epoch)(JP)(en)-video.mp4</video>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Epoch</developer>
+		<publisher>Epoch</publisher>
+		<hidden>true</hidden>
+		<crc32>CA965C2B</crc32>
+		<md5>6da4e79f9dd60abe222ae8f95023ad48</md5>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221212T034825" />
+		<scrap name="ArcadeDB" date="20221212T140027" />
+	</game>
+	<game id="47926">
+		<path>./TOSEC/Comic Circus (1985)(Epoch)(JP)(en).bin</path>
+		<name>Comic Circus</name>
+		<desc>You end up at the Circus with a friend and you have to try to catch balloons hanging from the top of a rope using a springboard that will make you flutter. You also have to catch bags dropped by pigeons. During the second phase, the jump is made on a trampolino and in the third phase you have to hang on to the trapeze artists to catch the pigeons. If you do not catch up the jumper, he will fall to the ground and you will lose any chance of winning. There are different stages available. For one to four people who can play together.</desc>
+		<image>./images/Comic Circus (1985)(Epoch)(JP)(en)-image.png</image>
+		<video>./videos/Comic Circus (1985)(Epoch)(JP)(en)-video.mp4</video>
+		<marquee>./images/Comic Circus (1985)(Epoch)(JP)(en)-marquee.png</marquee>
+		<thumbnail>./images/Comic Circus (1985)(Epoch)(JP)(en)-thumb.png</thumbnail>
+		<boxback>./images/Comic Circus (1985)(Epoch)(JP)(en)-boxback.png</boxback>
+		<rating>0.65</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Epoch</developer>
+		<publisher>Epoch</publisher>
+		<genre>Action</genre>
+		<players>4</players>
+		<crc32>EA55FAED</crc32>
+		<md5>ec261a6208094fceb7a4f8cc60db24b4</md5>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221212T034831" />
+		<scrap name="ArcadeDB" date="20221212T140027" />
+	</game>
+	<game id="47928">
+		<path>./TOSEC/Dragon Ball - Dragon Dai Hikyou (1986)(Epoch)(JP)(en).bin</path>
+		<name>Dragon Ball: Dragon Daihikyō</name>
+		<desc>Dragon Ball - Dragon Dai Hikyou is a shoot'em up. The player take the role of Son Goku moving on Kinto-un in order to collect all the Dragon Balls. Goku can shoot Kamé Hamé Ha or strike with his Nyoï Bo to kill enemies or destroy objects in front of him. Food spawns after eliminating an enemy. If Goku starts to get hungry, his attack power decreases and his Nyoi Bo shortens.</desc>
+		<image>./images/Dragon Ball - Dragon Dai Hikyou (1986)(Epoch)(JP)(en)-image.png</image>
+		<video>./videos/Dragon Ball - Dragon Dai Hikyou (1986)(Epoch)(JP)(en)-video.mp4</video>
+		<marquee>./images/Dragon Ball - Dragon Dai Hikyou (1986)(Epoch)(JP)(en)-marquee.png</marquee>
+		<thumbnail>./images/Dragon Ball - Dragon Dai Hikyou (1986)(Epoch)(JP)(en)-thumb.png</thumbnail>
+		<boxback>./images/Dragon Ball - Dragon Dai Hikyou (1986)(Epoch)(JP)(en)-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>19860926T000000</releasedate>
+		<developer>Epoch</developer>
+		<publisher>Epoch</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<family>Dragon Ball</family>
+		<players>2</players>
+		<crc32>EA251664</crc32>
+		<md5>6d11d49390d0946501b39d9f9688ae9d</md5>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221212T034833" />
+		<scrap name="ArcadeDB" date="20221212T140027" />
+	</game>
+	<game id="47929">
+		<path>./TOSEC/Dragon Slayer (1986)(Epoch)(JP)(en).bin</path>
+		<name>Dragon Slayer</name>
+		<desc>Dragon Slayer is commonly considered one of the progenitors of the action RPG genre. The premise is similar to Roguelikes: the player takes control of a knight who must fight his way through large overhead maze-like dungeons. Unlike roguelikes, the combat in the game is fully action-oriented: the player must approach the monster and "bump" into it in order to inflict damage, at the same time trying to avoid its blows. Combat takes place on the same screen as the exploration; monsters will also sometimes pursue the knight if he attempts to escape. Also contrary to roguelikes, none of the locations or items in the game is randomized.</desc>
+		<image>./images/Dragon Slayer (1986)(Epoch)(JP)(en)-image.png</image>
+		<video>./videos/Dragon Slayer (1986)(Epoch)(JP)(en)-video.mp4</video>
+		<marquee>./images/Dragon Slayer (1986)(Epoch)(JP)(en)-marquee.png</marquee>
+		<thumbnail>./images/Dragon Slayer (1986)(Epoch)(JP)(en)-thumb.png</thumbnail>
+		<boxback>./images/Dragon Slayer (1986)(Epoch)(JP)(en)-boxback.png</boxback>
+		<rating>0.65</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Nihon Falcom</developer>
+		<publisher>Epoch</publisher>
+		<genre>Role playing games / Action RPG</genre>
+		<family>Dragon Slayer</family>
+		<players>1</players>
+		<crc32>5971940F</crc32>
+		<md5>9c688c8f43b142a84b90181d717df6d2</md5>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221212T034835" />
+		<scrap name="ArcadeDB" date="20221212T140028" />
+	</game>
+	<game id="47930">
+		<path>./TOSEC/Elevator Fight (1984)(Epoch)(JP)(en).bin</path>
+		<name>Elevator Fight</name>
+		<desc>Arin, your space suit-clad hero, must travel downwards in shaft of 31 floors populated by dangerous robots, space mice and aliens and filled with traps, in order to destroy the central computer of the Gashim empire on the bottom floor. The shaft is divided in a multitude of floors, connected by lifts. Both you and your enemies may use the lifts, using them both to advance, to escape and to ambush. The enemies have different behaviours, with some rushing toward you and some shooting. Traps include grappling claws and lasers in the ceilings and electrical floors. For defence, you have a gun.</desc>
+		<image>./images/Elevator Fight (1984)(Epoch)(JP)(en)-image.png</image>
+		<video>./videos/Elevator Fight (1984)(Epoch)(JP)(en)-video.mp4</video>
+		<marquee>./images/Elevator Fight (1984)(Epoch)(JP)(en)-marquee.png</marquee>
+		<thumbnail>./images/Elevator Fight (1984)(Epoch)(JP)(en)-thumb.png</thumbnail>
+		<manual>./manuals/Elevator Fight (1984)(Epoch)(JP)(en)-manual.pdf</manual>
+		<boxback>./images/Elevator Fight (1984)(Epoch)(JP)(en)-boxback.png</boxback>
+		<rating>0.65</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Epoch</developer>
+		<publisher>Epoch</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<crc32>72DD6031</crc32>
+		<md5>3ac6b89ba13e57100d522921abb7319c</md5>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221212T034838" />
+		<scrap name="ArcadeDB" date="20221212T140028" />
+	</game>
+	<game id="47931">
+		<path>./TOSEC/Lupin III (1984)(Epoch)(JP)(en).bin</path>
+		<name>Lupin III</name>
+		<desc>This adventure takes place successively in an underground, in a cave, and in the jungle. You are LUPINE III and you run in search of diamonds. But beware, crocodiles, vultures, snakes, tree trunks are chasing you. One thing to do: jump over them or destroy them. During the fourth phase, you are in a room in which you have to shoot at moving targets in order to be able to escape. So hurry yourself and don't waste a minute, because time is precious. For one or two players.</desc>
+		<image>./images/Lupin III (1984)(Epoch)(JP)(en)-image.png</image>
+		<video>./videos/Lupin III (1984)(Epoch)(JP)(en)-video.mp4</video>
+		<marquee>./images/Lupin III (1984)(Epoch)(JP)(en)-marquee.png</marquee>
+		<thumbnail>./images/Lupin III (1984)(Epoch)(JP)(en)-thumb.png</thumbnail>
+		<boxback>./images/Lupin III (1984)(Epoch)(JP)(en)-boxback.png</boxback>
+		<rating>0.6</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Epoch</developer>
+		<publisher>Epoch</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+		<crc32>16D7EB4A</crc32>
+		<md5>e1547118cf5a9e88825408f12550b890</md5>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221212T034840" />
+		<scrap name="ArcadeDB" date="20221212T140028" />
+	</game>
+	<game id="47933">
+		<path>./TOSEC/Milky Princess (1985)(Epoch)(JP).bin</path>
+		<name>Milky Princess</name>
+		<desc>Game delivered with a particular version of the Epoch Super Cassette called "the Super Cassette Vision Lady's". The goal is to predict the future! To give credit to the title, Epoch linked the name of René Van Dale Watanabe (a famous astrologer) to the game.</desc>
+		<image>./images/Milky Princess (1985)(Epoch)(JP)-image.png</image>
+		<video>./videos/Milky Princess (1985)(Epoch)(JP)-video.mp4</video>
+		<marquee>./images/Milky Princess (1985)(Epoch)(JP)-marquee.png</marquee>
+		<thumbnail>./images/Milky Princess (1985)(Epoch)(JP)-thumb.png</thumbnail>
+		<boxback>./images/Milky Princess (1985)(Epoch)(JP)-boxback.png</boxback>
+		<rating>0.5</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Epoch</developer>
+		<publisher>Epoch</publisher>
+		<genre>Adventure / Text</genre>
+		<players>1</players>
+		<crc32>B2457990</crc32>
+		<md5>9449bddc1056d51c7147dc2e6329d2ed</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221212T034844" />
+		<scrap name="ArcadeDB" date="20221212T140028" />
+	</game>
+	<game id="47934">
+		<path>./TOSEC/Miner 2049er (1985)(Epoch)(JP)(en).bin</path>
+		<name>Miner 2049er</name>
+		<desc>The player controls Bounty Bob, a character who explores the depths of an underground mine in a radioactive future. He can scratch the ground as he walks and must dodge or crush the irradiated monsters that walk by him. The levels are made of beams, ladders, sliding platforms and teleporters. The player must scrape each piece of ground to reach the next level. The game has ten or eleven levels depending on the version.</desc>
+		<image>./images/Miner 2049er (1985)(Epoch)(JP)(en)-image.png</image>
+		<video>./videos/Miner 2049er (1985)(Epoch)(JP)(en)-video.mp4</video>
+		<marquee>./images/Miner 2049er (1985)(Epoch)(JP)(en)-marquee.png</marquee>
+		<thumbnail>./images/Miner 2049er (1985)(Epoch)(JP)(en)-thumb.png</thumbnail>
+		<manual>./manuals/Miner 2049er (1985)(Epoch)(JP)(en)-manual.pdf</manual>
+		<boxback>./images/Miner 2049er (1985)(Epoch)(JP)(en)-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Big Five Software</developer>
+		<publisher>Epoch</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<crc32>B0FFC6E2</crc32>
+		<md5>f4a3f4f5a08a15ec62a32e959a528eac</md5>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221212T034846" />
+		<scrap name="ArcadeDB" date="20221212T140028" />
+	</game>
+	<game id="47935">
+		<path>./TOSEC/Nebula (1984)(Epoch)(JP)(en).bin</path>
+		<name>Nebula</name>
+		<desc>You are on the Planet NEBULA during the time of the Pharaohs in 2019. A thousand of pitfalls await you and the Gods see you when you approach their tombs. Can you use your laser beams and homing bombs to destroy them? Make no mistake, because it will be fatal! Contains four levels for one or two players.</desc>
+		<image>./images/Nebula (1984)(Epoch)(JP)(en)-image.png</image>
+		<video>./videos/Nebula (1984)(Epoch)(JP)(en)-video.mp4</video>
+		<marquee>./images/Nebula (1984)(Epoch)(JP)(en)-marquee.png</marquee>
+		<thumbnail>./images/Nebula (1984)(Epoch)(JP)(en)-thumb.png</thumbnail>
+		<boxback>./images/Nebula (1984)(Epoch)(JP)(en)-boxback.png</boxback>
+		<rating>0.7</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Epoch</developer>
+		<publisher>Epoch</publisher>
+		<genre>Shoot'em up / Horizontal</genre>
+		<players>2</players>
+		<crc32>5E6A4CAF</crc32>
+		<md5>e86aab083fc9722f8a44b356139522c2</md5>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221212T034848" />
+		<scrap name="ArcadeDB" date="20221212T140028" />
+	</game>
+	<game id="47935">
+		<path>./TOSEC/Nebula (1984)(Epoch)(JP)(en)[a].bin</path>
+		<name>Nebula</name>
+		<desc>You are on the Planet NEBULA during the time of the Pharaohs in 2019. A thousand of pitfalls await you and the Gods see you when you approach their tombs. Can you use your laser beams and homing bombs to destroy them? Make no mistake, because it will be fatal! Contains four levels for one or two players.</desc>
+		<image>./images/Nebula (1984)(Epoch)(JP)(en)[a]-image.png</image>
+		<video>./videos/Nebula (1984)(Epoch)(JP)(en)[a]-video.mp4</video>
+		<marquee>./images/Nebula (1984)(Epoch)(JP)(en)[a]-marquee.png</marquee>
+		<thumbnail>./images/Nebula (1984)(Epoch)(JP)(en)[a]-thumb.png</thumbnail>
+		<boxback>./images/Nebula (1984)(Epoch)(JP)(en)[a]-boxback.png</boxback>
+		<rating>0.7</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Epoch</developer>
+		<publisher>Epoch</publisher>
+		<genre>Shoot'em up / Horizontal</genre>
+		<players>2</players>
+		<crc32>EFB4BDCD</crc32>
+		<md5>ac629947980bbd14478c29c1645efa41</md5>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221212T034850" />
+		<scrap name="ArcadeDB" date="20221212T140028" />
+	</game>
+	<game id="47937">
+		<path>./TOSEC/Pole Position II (1985)(Epoch)(JP)(en).bin</path>
+		<name>Pole Position II</name>
+		<desc>In Pole Position II, based on the arcade sequel to Pole Position, you are again driving an F-1 racer in a timed qualifying run, trying to achieve the pole position. Then it is off to the race, in hopes of taking that top spot. The difference in Pole...</desc>
+		<image>./images/Pole Position II (1985)(Epoch)(JP)(en)-image.png</image>
+		<video>./videos/Pole Position II (1985)(Epoch)(JP)(en)-video.mp4</video>
+		<marquee>./images/Pole Position II (1985)(Epoch)(JP)(en)-marquee.png</marquee>
+		<thumbnail>./images/Pole Position II (1985)(Epoch)(JP)(en)-thumb.png</thumbnail>
+		<boxback>./images/Pole Position II (1985)(Epoch)(JP)(en)-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Epoch</publisher>
+		<genre>Race, Driving</genre>
+		<family>Pole Position</family>
+		<players>1</players>
+		<crc32>CB69903D</crc32>
+		<md5>78249cfb10962347a8001ba102992503</md5>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221212T034852" />
+		<scrap name="ArcadeDB" date="20221212T140029" />
+	</game>
+	<game id="47937">
+		<path>./TOSEC/Pole Position II (1985)(Epoch)(JP)(en)[a].bin</path>
+		<name>Pole Position II</name>
+		<desc>In Pole Position II, based on the arcade sequel to Pole Position, you are again driving an F-1 racer in a timed qualifying run, trying to achieve the pole position. Then it is off to the race, in hopes of taking that top spot. The difference in Pole...</desc>
+		<image>./images/Pole Position II (1985)(Epoch)(JP)(en)[a]-image.png</image>
+		<video>./videos/Pole Position II (1985)(Epoch)(JP)(en)[a]-video.mp4</video>
+		<marquee>./images/Pole Position II (1985)(Epoch)(JP)(en)[a]-marquee.png</marquee>
+		<thumbnail>./images/Pole Position II (1985)(Epoch)(JP)(en)[a]-thumb.png</thumbnail>
+		<boxback>./images/Pole Position II (1985)(Epoch)(JP)(en)[a]-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Epoch</publisher>
+		<genre>Race, Driving</genre>
+		<family>Pole Position</family>
+		<players>1</players>
+		<crc32>5B3A04E0</crc32>
+		<md5>7c3cb94c676502b8b149afdbf6fbd3f0</md5>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221212T034854" />
+		<scrap name="ArcadeDB" date="20221212T140029" />
+	</game>
+	<game id="47938">
+		<path>./TOSEC/Pop &amp; Chips (1985)(Epoch)(JP)(en).bin</path>
+		<name>Pop And Chips</name>
+		<desc>The adventure of Pop and Chips begins with the fairy Pippi, who has been kidnapped by Pumpkin the Great.
+There are blocks that can be broken and blocks that cannot be broken on the screen. When you break the fruit block, Pippi appears and moves up and down on the screen, and when you go around and back to the original position, he returns to the original fruit block.
+If you touch Pippi, he will be collected at the top left of the screen.
+Once you return to the fruit, the movement will be faster from the second time. Clear the screen by collecting all the pippi.</desc>
+		<image>./images/Pop &amp; Chips (1985)(Epoch)(JP)(en)-image.png</image>
+		<video>./videos/Pop &amp; Chips (1985)(Epoch)(JP)(en)-video.mp4</video>
+		<marquee>./images/Pop &amp; Chips (1985)(Epoch)(JP)(en)-marquee.png</marquee>
+		<thumbnail>./images/Pop &amp; Chips (1985)(Epoch)(JP)(en)-thumb.png</thumbnail>
+		<boxback>./images/Pop &amp; Chips (1985)(Epoch)(JP)(en)-boxback.png</boxback>
+		<rating>0.55</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Epoch</developer>
+		<publisher>Epoch</publisher>
+		<genre>Platform</genre>
+		<players>4</players>
+		<crc32>CC4FB04D</crc32>
+		<md5>e2488c33d92ef9985e6b62b45644303c</md5>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221212T034855" />
+		<scrap name="ArcadeDB" date="20221212T140029" />
+	</game>
+	<game id="47940">
+		<path>./TOSEC/Professional Wrestling (1986)(Epoch)(JP)(en).bin</path>
+		<name>Rantou Pro-Wrestling</name>
+		<desc>In single combat, or in 4-man wrestling, you must defeat your opponent according to the rules of the art:
+Cuffs, arm locks, throws or immobilizations are part of the technique of the champion you choose.</desc>
+		<image>./images/Professional Wrestling (1986)(Epoch)(JP)(en)-image.png</image>
+		<video>./videos/Professional Wrestling (1986)(Epoch)(JP)(en)-video.mp4</video>
+		<marquee>./images/Professional Wrestling (1986)(Epoch)(JP)(en)-marquee.png</marquee>
+		<thumbnail>./images/Professional Wrestling (1986)(Epoch)(JP)(en)-thumb.png</thumbnail>
+		<boxback>./images/Professional Wrestling (1986)(Epoch)(JP)(en)-boxback.png</boxback>
+		<rating>0.55</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Epoch</developer>
+		<publisher>Epoch</publisher>
+		<genre>Sports / Fighting</genre>
+		<players>2</players>
+		<crc32>5B1FB2A8</crc32>
+		<md5>44d432cb0093a1992beb806a68e7aaad</md5>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221212T034857" />
+		<scrap name="ArcadeDB" date="20221212T140029" />
+	</game>
+	<game id="47939">
+		<path>./TOSEC/Punch Boy (1984)(Epoch)(JP)(en).bin</path>
+		<name>Punch Boy</name>
+		<desc>Armed with a mini-punch, the main character, "Punch Boy," goes through a maze of various gimmicks to "Monster Castle," defeats four "bosses," and saves the captured "Lady." In the maze, monsters are born from rock-like eggs (which can be rolled with a punch). The monster does not accept mini punches from other than the front, faints with the mini punch from the front, and can be defeated with another blow. Some eggs do not hatch, and monsters and punch boys often roll eggs (1 down even if crushed by rolling eggs).</desc>
+		<image>./images/Punch Boy (1984)(Epoch)(JP)(en)-image.png</image>
+		<video>./videos/Punch Boy (1984)(Epoch)(JP)(en)-video.mp4</video>
+		<marquee>./images/Punch Boy (1984)(Epoch)(JP)(en)-marquee.png</marquee>
+		<thumbnail>./images/Punch Boy (1984)(Epoch)(JP)(en)-thumb.png</thumbnail>
+		<manual>./manuals/Punch Boy (1984)(Epoch)(JP)(en)-manual.pdf</manual>
+		<boxback>./images/Punch Boy (1984)(Epoch)(JP)(en)-boxback.png</boxback>
+		<rating>0.5</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Epoch</developer>
+		<publisher>Epoch</publisher>
+		<genre>Action / Labyrinth</genre>
+		<players>2</players>
+		<crc32>4107F03A</crc32>
+		<md5>7c10f8df512ce0bbfad7505ccca88827</md5>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221212T034900" />
+		<scrap name="ArcadeDB" date="20221212T140029" />
+	</game>
+	<game id="47946">
+		<path>./TOSEC/Real Graphic Mahjongg (1984)(Epoch)(JP)(en).bin</path>
+		<name>Real Graphic Mahjongg</name>
+		<desc>Mahjong is a tile-based game that was developed during the Qing dynasty in China and has spread throughout the world since the early 20th century.The game is played with a set of 144 tiles based on Chinese characters and symbols, although some regional variations may omit some tiles or add unique ones. In most variations, each player begins by receiving 13 tiles. In turn players draw and discard tiles until they complete a legal hand using the 14th drawn tile to form four melds (or sets) and a pair (eye). A player can also win with a small class of special hands.</desc>
+		<image>./images/Real Graphic Mahjongg (1984)(Epoch)(JP)(en)-image.png</image>
+		<video>./videos/Real Graphic Mahjongg (1984)(Epoch)(JP)(en)-video.mp4</video>
+		<marquee>./images/Real Graphic Mahjongg (1984)(Epoch)(JP)(en)-marquee.png</marquee>
+		<thumbnail>./images/Real Graphic Mahjongg (1984)(Epoch)(JP)(en)-thumb.png</thumbnail>
+		<manual>./manuals/Real Graphic Mahjongg (1984)(Epoch)(JP)(en)-manual.pdf</manual>
+		<boxback>./images/Real Graphic Mahjongg (1984)(Epoch)(JP)(en)-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Epoch</developer>
+		<publisher>Epoch</publisher>
+		<genre>Asiatic board game / Mahjong</genre>
+		<players>1</players>
+		<crc32>D3D9106C</crc32>
+		<md5>c9e1042402b5a0ff6f75b737fec8a08a</md5>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221212T034902" />
+		<scrap name="ArcadeDB" date="20221212T140029" />
+	</game>
+	<game id="58786">
+		<path>./TOSEC/Sansupyuta (1985)(Epoch)(JP)(en).bin</path>
+		<name>Super Sansuu Puter</name>
+		<desc>Arithmetic learning software for kindergarten children to sixth graders . It inherits the name of the company's electronic game , Sun Pewter .
+
+You can learn math like a game by using the numeric keypad on the main unit. The pause key on the main unit is diverted as a button for entering the decimal point, but the pause key on the SCV is essentially a semi-forced pause button, and such diversion is rare.</desc>
+		<image>./images/Sansupyuta (1985)(Epoch)(JP)(en)-image.png</image>
+		<video>./videos/Sansupyuta (1985)(Epoch)(JP)(en)-video.mp4</video>
+		<marquee>./images/Sansupyuta (1985)(Epoch)(JP)(en)-marquee.png</marquee>
+		<thumbnail>./images/Sansupyuta (1985)(Epoch)(JP)(en)-thumb.png</thumbnail>
+		<boxback>./images/Sansupyuta (1985)(Epoch)(JP)(en)-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Epoch</developer>
+		<publisher>Epoch</publisher>
+		<genre>Educational</genre>
+		<players>1</players>
+		<crc32>6E7E01B5</crc32>
+		<md5>05f2b3b1a5e450c8ead224c3ebf5b75f</md5>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221212T034904" />
+		<scrap name="ArcadeDB" date="20221212T140029" />
+	</game>
+	<game id="47941">
+		<path>./TOSEC/Shogi Nyuumon (1985)(Epoch)(JP).bin</path>
+		<name>Shogi Nyuumon</name>
+		<desc>The objective of the game is to take the opposing king. When the king cannot avoid being caught on the next move, the game is over. They say the king is "Matt". The shogi opposes two players who take turns playing. The Shogi chess board is called Shogi Ban ("Shogi table") and has 81 squares (9 x 9), the three rows furthest from the players constituting their promotion area. At the start of the game each player has 20 pieces: a king, a rook, a bishop, two gold generals, two silver generals, two horsemen, two spears, and nine pawns.</desc>
+		<image>./images/Shogi Nyuumon (1985)(Epoch)(JP)-image.png</image>
+		<video>./videos/Shogi Nyuumon (1985)(Epoch)(JP)-video.mp4</video>
+		<marquee>./images/Shogi Nyuumon (1985)(Epoch)(JP)-marquee.png</marquee>
+		<thumbnail>./images/Shogi Nyuumon (1985)(Epoch)(JP)-thumb.png</thumbnail>
+		<boxback>./images/Shogi Nyuumon (1985)(Epoch)(JP)-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Epoch</developer>
+		<publisher>Epoch</publisher>
+		<genre>Asiatic board game / Shougi</genre>
+		<players>1</players>
+		<crc32>84005C4C</crc32>
+		<md5>b248fff8526d5c3cfba82a6e036815ca</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221212T034905" />
+		<scrap name="ArcadeDB" date="20221212T140029" />
+	</game>
+	<game id="47942">
+		<path>./TOSEC/Sky Kid (1986)(Epoch)(JP)(en).bin</path>
+		<name>Sky Kid</name>
+		<desc>You are the legendary Red Baron, flying a plane through a horizontal side-scrolling scenery set during World War I. To complete a mission, you simply need to get to the landing spot on the other side without being shot down, but you can gain extra points by destroying enemy vehicles and planes. For huge points, pick up a bomb hidden in the level (you will be warned by a sound when approaching it) and drop it on a large structure. If you fail to land on the landing strip, you run out of fuel and crash.
+
+You can only shoot horizontally and diagonally by tilting the plane's nose. When in trouble, perform an aerial loop with the secondary button, this often destroys other planes and avoids bullets. There is a co-op mode with the character Max as well.</desc>
+		<image>./images/Sky Kid (1986)(Epoch)(JP)(en)-image.png</image>
+		<video>./videos/Sky Kid (1986)(Epoch)(JP)(en)-video.mp4</video>
+		<marquee>./images/Sky Kid (1986)(Epoch)(JP)(en)-marquee.png</marquee>
+		<thumbnail>./images/Sky Kid (1986)(Epoch)(JP)(en)-thumb.png</thumbnail>
+		<boxback>./images/Sky Kid (1986)(Epoch)(JP)(en)-boxback.png</boxback>
+		<rating>0.65</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Namcot</developer>
+		<publisher>Epoch</publisher>
+		<genre>Shoot'em up / Horizontal</genre>
+		<players>2</players>
+		<crc32>F49F2085</crc32>
+		<md5>9b6dd35dd278bcfaa98d4ecf531654cf</md5>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221212T034907" />
+		<scrap name="ArcadeDB" date="20221212T140030" />
+	</game>
+	<game id="47944">
+		<path>./TOSEC/Super Baseball (1984)(Epoch)(JP)(en).bin</path>
+		<name>Super Base Ball</name>
+		<desc>It is a relatively orthodox system for an early baseball game, and the basic operation method is not much different from that of subsequent family stadiums (there are also changing balls and ball speed adjustments). It has some pioneering features as a baseball game of the pre-Family era.</desc>
+		<image>./images/Super Baseball (1984)(Epoch)(JP)(en)-image.png</image>
+		<video>./videos/Super Baseball (1984)(Epoch)(JP)(en)-video.mp4</video>
+		<marquee>./images/Super Baseball (1984)(Epoch)(JP)(en)-marquee.png</marquee>
+		<thumbnail>./images/Super Baseball (1984)(Epoch)(JP)(en)-thumb.png</thumbnail>
+		<boxback>./images/Super Baseball (1984)(Epoch)(JP)(en)-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Epoch</developer>
+		<publisher>Epoch</publisher>
+		<genre>Sports / Baseball</genre>
+		<players>2</players>
+		<crc32>56F1C473</crc32>
+		<md5>c800d70c4a1f9600407d8392b9455015</md5>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221212T034909" />
+		<scrap name="ArcadeDB" date="20221212T140030" />
+	</game>
+	<game id="47945">
+		<path>./TOSEC/Super Golf (1984)(Epoch)(JP)(en).bin</path>
+		<name>Super Golf</name>
+		<desc>The course has 18 holes and a total length of 5,805 meters. You have to get the ball into the hole with a minimum of strokes, despite the wind and many obstacles. You can choose the club, the direction and the force with which the ball will be sent. Challenge your friends, one to four people can play together.</desc>
+		<image>./images/Super Golf (1984)(Epoch)(JP)(en)-image.png</image>
+		<video>./videos/Super Golf (1984)(Epoch)(JP)(en)-video.mp4</video>
+		<marquee>./images/Super Golf (1984)(Epoch)(JP)(en)-marquee.png</marquee>
+		<thumbnail>./images/Super Golf (1984)(Epoch)(JP)(en)-thumb.png</thumbnail>
+		<manual>./manuals/Super Golf (1984)(Epoch)(JP)(en)-manual.pdf</manual>
+		<boxback>./images/Super Golf (1984)(Epoch)(JP)(en)-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Epoch</developer>
+		<publisher>Epoch</publisher>
+		<genre>Sports / Golf</genre>
+		<players>4</players>
+		<crc32>0C0581C9</crc32>
+		<md5>734091f00d410fc4251f0aae7d47e4c1</md5>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221212T034912" />
+		<scrap name="ArcadeDB" date="20221212T140030" />
+	</game>
+	<game id="47948">
+		<path>./TOSEC/Super Soccer (1985)(Epoch)(JP)(en).bin</path>
+		<name>Super Soccer</name>
+		<desc>Find yourself facing your opponents on a football stadium! You can dribble, pass, shoot, or send the ball with your head. You can control the trajectory of the ball and the length of each pass. You can also shoot corners, free kicks and penalties. For one or two players.</desc>
+		<image>./images/Super Soccer (1985)(Epoch)(JP)(en)-image.png</image>
+		<video>./videos/Super Soccer (1985)(Epoch)(JP)(en)-video.mp4</video>
+		<marquee>./images/Super Soccer (1985)(Epoch)(JP)(en)-marquee.png</marquee>
+		<thumbnail>./images/Super Soccer (1985)(Epoch)(JP)(en)-thumb.png</thumbnail>
+		<boxback>./images/Super Soccer (1985)(Epoch)(JP)(en)-boxback.png</boxback>
+		<rating>0.85</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Epoch</developer>
+		<publisher>Epoch</publisher>
+		<genre>Sports / Soccer</genre>
+		<players>2</players>
+		<crc32>590EEEFD</crc32>
+		<md5>5cd60ad0a9bfb818db9c4e5accc05537</md5>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221212T034914" />
+		<scrap name="ArcadeDB" date="20221212T140030" />
+	</game>
+	<game id="47948">
+		<path>./TOSEC/Super Soccer (1985)(Epoch)(JP)(en)[a].bin</path>
+		<name>Super Soccer</name>
+		<desc>Find yourself facing your opponents on a football stadium! You can dribble, pass, shoot, or send the ball with your head. You can control the trajectory of the ball and the length of each pass. You can also shoot corners, free kicks and penalties. For one or two players.</desc>
+		<image>./images/Super Soccer (1985)(Epoch)(JP)(en)[a]-image.png</image>
+		<video>./videos/Super Soccer (1985)(Epoch)(JP)(en)[a]-video.mp4</video>
+		<marquee>./images/Super Soccer (1985)(Epoch)(JP)(en)[a]-marquee.png</marquee>
+		<thumbnail>./images/Super Soccer (1985)(Epoch)(JP)(en)[a]-thumb.png</thumbnail>
+		<boxback>./images/Super Soccer (1985)(Epoch)(JP)(en)[a]-boxback.png</boxback>
+		<rating>0.85</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Epoch</developer>
+		<publisher>Epoch</publisher>
+		<genre>Sports / Soccer</genre>
+		<players>2</players>
+		<crc32>8283907C</crc32>
+		<md5>dd60e91b361fdc8bc8ead3d76c45897c</md5>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221212T034916" />
+		<scrap name="ArcadeDB" date="20221212T140030" />
+	</game>
+	<game id="47949">
+		<path>./TOSEC/Ton Ton Ball (1985)(Epoch)(JP)(en).bin</path>
+		<name>Ton Ton Ball</name>
+		<desc>A billiard- style pinball game with action elements . Clear the surface when you finish putting Tonton in the house within the time limit.</desc>
+		<image>./images/Ton Ton Ball (1985)(Epoch)(JP)(en)-image.png</image>
+		<video>./videos/Ton Ton Ball (1985)(Epoch)(JP)(en)-video.mp4</video>
+		<marquee>./images/Ton Ton Ball (1985)(Epoch)(JP)(en)-marquee.png</marquee>
+		<thumbnail>./images/Ton Ton Ball (1985)(Epoch)(JP)(en)-thumb.png</thumbnail>
+		<boxback>./images/Ton Ton Ball (1985)(Epoch)(JP)(en)-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Epoch</developer>
+		<publisher>Epoch</publisher>
+		<players>2</players>
+		<crc32>7F873BFA</crc32>
+		<md5>622cbb0451fbf82b9b7834c5ca589443</md5>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221212T034919" />
+		<scrap name="ArcadeDB" date="20221212T140030" />
+	</game>
+	<game id="47951">
+		<path>./TOSEC/Wheelie Racer (1985)(Epoch)(JP)(en).bin</path>
+		<name>Wheelie Racer</name>
+		<desc>Take part in three rallies in America, Africa and Europe behind the wheel of your car. Be aware of dangerous turns, damaged cars, puddles. Also monitor your fuel level and don't forget to stop at a pump if necessary. You have to overtake other cars and avoid rocks and tree trunks as well as trucks that get in the middle of the road. A game full of surprises along the way. Be the best Driver and good chance for the first prize.</desc>
+		<image>./images/Wheelie Racer (1985)(Epoch)(JP)(en)-image.png</image>
+		<video>./videos/Wheelie Racer (1985)(Epoch)(JP)(en)-video.mp4</video>
+		<thumbnail>./images/Wheelie Racer (1985)(Epoch)(JP)(en)-thumb.png</thumbnail>
+		<boxback>./images/Wheelie Racer (1985)(Epoch)(JP)(en)-boxback.png</boxback>
+		<rating>0.6</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Epoch</developer>
+		<publisher>Epoch</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+		<crc32>9D9B29DB</crc32>
+		<md5>ef4ab0300b9e056d1ba9873b63a1b6cf</md5>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221212T034920" />
+		<scrap name="ArcadeDB" date="20221212T140030" />
+	</game>
+	<game id="47951">
+		<path>./TOSEC/Wheelie Racer (1985)(Epoch)(JP)(en)[a].bin</path>
+		<name>Wheelie Racer</name>
+		<desc>Take part in three rallies in America, Africa and Europe behind the wheel of your car. Be aware of dangerous turns, damaged cars, puddles. Also monitor your fuel level and don't forget to stop at a pump if necessary. You have to overtake other cars and avoid rocks and tree trunks as well as trucks that get in the middle of the road. A game full of surprises along the way. Be the best Driver and good chance for the first prize.</desc>
+		<image>./images/Wheelie Racer (1985)(Epoch)(JP)(en)[a]-image.png</image>
+		<video>./videos/Wheelie Racer (1985)(Epoch)(JP)(en)[a]-video.mp4</video>
+		<thumbnail>./images/Wheelie Racer (1985)(Epoch)(JP)(en)[a]-thumb.png</thumbnail>
+		<boxback>./images/Wheelie Racer (1985)(Epoch)(JP)(en)[a]-boxback.png</boxback>
+		<rating>0.6</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Epoch</developer>
+		<publisher>Epoch</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+		<crc32>04860245</crc32>
+		<md5>c6a2d7b69be41d1de936c7643527f842</md5>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221212T034922" />
+		<scrap name="ArcadeDB" date="20221212T140030" />
+	</game>
+	<game id="47950">
+		<path>./TOSEC/Y2 Monster Land (1986)(Epoch)(JP)(en).bin</path>
+		<name>Y2 Monster Land</name>
+		<desc>In order to rescue the heroine "Naoko" who was kidnapped by "Monster Land" who got lost in the amusement park, "Tooru"'s great adventure begins with a cross in one hand.
+
+Monster Land consists of 6 areas, and unique monsters await, from Zako enemies called mini monsters to strong enemies called big monsters. If you follow the road on the map, the order of capture of the area is free to some extent, but you can not rescue Naoko unless you search all 6 places. Hidden items and hidden rooms may be found by hitting blocks or hitting the cross. In the hidden room, characters from other SCV games may appear depending on the conditions.</desc>
+		<image>./images/Y2 Monster Land (1986)(Epoch)(JP)(en)-image.png</image>
+		<video>./videos/Y2 Monster Land (1986)(Epoch)(JP)(en)-video.mp4</video>
+		<marquee>./images/Y2 Monster Land (1986)(Epoch)(JP)(en)-marquee.png</marquee>
+		<thumbnail>./images/Y2 Monster Land (1986)(Epoch)(JP)(en)-thumb.png</thumbnail>
+		<boxback>./images/Y2 Monster Land (1986)(Epoch)(JP)(en)-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Epoch</developer>
+		<publisher>Epoch</publisher>
+		<genre>Action / Adventure</genre>
+		<players>1</players>
+		<crc32>3AC28FE0</crc32>
+		<md5>64d6268aebabedb1552c2cd565ec32a7</md5>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221212T034924" />
+		<scrap name="ArcadeDB" date="20221212T140031" />
+	</game>
+</gameList>

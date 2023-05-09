@@ -1,0 +1,364 @@
+<?xml version="1.0"?>
+<gameList>
+	<game id="59224">
+		<path>./No-Intro/Boom Zoo (Taiwan).bin</path>
+		<name>Boom Zoo</name>
+		<desc>Boom Zoo is a clone of the game Bomberman starring cute animals.</desc>
+		<video>./videos/Boom Zoo (Taiwan)-video.mp4</video>
+		<marquee>./images/Boom Zoo (Taiwan)-marquee.png</marquee>
+		<thumbnail>./images/Boom Zoo (Taiwan)-thumb.png</thumbnail>
+		<boxback>./images/Boom Zoo (Taiwan)-boxback.png</boxback>
+		<rating>0.6</rating>
+		<developer>Funtech Technology</developer>
+		<publisher>Funtech Technology</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<crc32>6099BB44</crc32>
+		<md5>62aba0124eec12567f0facd8475d4ef8</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221211T065503" />
+		<scrap name="ArcadeDB" date="20221212T082214" />
+	</game>
+	<game id="59229">
+		<path>./No-Intro/Formosa Duel (Taiwan).bin</path>
+		<name>Formosa Duel</name>
+		<desc>Formosa Duel is a puzzle game like Puyo Puyo developed by AV Artisan. You can choose between a story mode where you will go to face to face with 12 colorful Chinese celebrities and a 2-player battle in duel mode.</desc>
+		<video>./videos/Formosa Duel (Taiwan)-video.mp4</video>
+		<marquee>./images/Formosa Duel (Taiwan)-marquee.png</marquee>
+		<thumbnail>./images/Formosa Duel (Taiwan)-thumb.png</thumbnail>
+		<rating>0.65</rating>
+		<developer>AV Artisan</developer>
+		<publisher>Funtech Technology</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>2</players>
+		<crc32>B2BF31DC</crc32>
+		<md5>7c637797ae8f3c1e92230a9fa80e8269</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221211T065507" />
+		<scrap name="ArcadeDB" date="20221212T082214" />
+	</game>
+	<game id="59227">
+		<path>./No-Intro/Gambling Lord (Taiwan).bin</path>
+		<name>Gambling Lord</name>
+		<desc>Players select the cartoonish likeness of various celebrities to play Mahjong. It's a pretty standard mahjong game other than the fact that it uses Taiwanese 16 tile rules.</desc>
+		<video>./videos/Gambling Lord (Taiwan)-video.mp4</video>
+		<marquee>./images/Gambling Lord (Taiwan)-marquee.png</marquee>
+		<thumbnail>./images/Gambling Lord (Taiwan)-thumb.png</thumbnail>
+		<boxback>./images/Gambling Lord (Taiwan)-boxback.png</boxback>
+		<rating>0.6</rating>
+		<developer>Panda Entertainment Technology Co., Ltd.</developer>
+		<publisher>Funtech Technology</publisher>
+		<genre>Casino</genre>
+		<players>1</players>
+		<crc32>AC4FA721</crc32>
+		<md5>99a7216288b76485dbfea69f679ae002</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221211T065511" />
+		<scrap name="ArcadeDB" date="20221212T082214" />
+	</game>
+	<game id="99441">
+		<path>./No-Intro/Journey to the Laugh (Taiwan).bin</path>
+		<name>ZZZ(notgame):16005</name>
+		<hidden>true</hidden>
+		<crc32>CEE25EEA</crc32>
+		<md5>fb45bfe814878e759ecb413484848db9</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221211T065512" />
+		<scrap name="ArcadeDB" date="20221212T082214" />
+	</game>
+	<game id="59230">
+		<path>./No-Intro/Magical Pool (Taiwan).bin</path>
+		<name>Magical Pool</name>
+		<desc>Magical Pool is a classic billiards game with the usual options for the genre and Just like Super Taiwanese Baseball League, there are digitized photos as avatars.</desc>
+		<video>./videos/Magical Pool (Taiwan)-video.mp4</video>
+		<marquee>./images/Magical Pool (Taiwan)-marquee.png</marquee>
+		<thumbnail>./images/Magical Pool (Taiwan)-thumb.png</thumbnail>
+		<rating>0.55</rating>
+		<developer>Funtech Technology</developer>
+		<publisher>Funtech Technology</publisher>
+		<genre>Sports / Pool</genre>
+		<players>2</players>
+		<crc32>AED4E4F8</crc32>
+		<md5>17c068084dc1e4ebafc78e2653e0e26a</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221211T065516" />
+		<scrap name="ArcadeDB" date="20221212T082214" />
+	</game>
+	<game id="99444">
+		<path>./No-Intro/Monopoly - Adventure in Africa (Taiwan).bin</path>
+		<name>ZZZ(notgame):08003</name>
+		<hidden>true</hidden>
+		<crc32>DC3B7B84</crc32>
+		<md5>2f738d44d74f987be4b96b6ee4097e1e</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221211T065516" />
+		<scrap name="ArcadeDB" date="20221212T082214" />
+	</game>
+	<game id="59232">
+		<path>./No-Intro/Sango Fighter (Taiwan).bin</path>
+		<name>Sango Fighter</name>
+		<desc>Sango Fighter is a versus fighting game set in the Three Kingdoms era in China. The player can choose between five different characters from the time period, and fight other characters in either a one-on-one combat or a story mode. The story is loosely based on real historical events of the Three Kingdoms era.</desc>
+		<video>./videos/Sango Fighter (Taiwan)-video.mp4</video>
+		<marquee>./images/Sango Fighter (Taiwan)-marquee.png</marquee>
+		<thumbnail>./images/Sango Fighter (Taiwan)-thumb.png</thumbnail>
+		<boxback>./images/Sango Fighter (Taiwan)-boxback.png</boxback>
+		<rating>0.65</rating>
+		<developer>Panda Entertainment Technology Co., Ltd.</developer>
+		<publisher>Funtech Technology</publisher>
+		<genre>Fight</genre>
+		<players>2</players>
+		<crc32>A4DE6DDE</crc32>
+		<md5>45e297d693cd2308f637f68a2389ace4</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221211T065521" />
+		<scrap name="ArcadeDB" date="20221212T082214" />
+	</game>
+	<game id="99446">
+		<path>./No-Intro/Speedy Dragon (Taiwan).bin</path>
+		<name>ZZZ(notgame):16003</name>
+		<hidden>true</hidden>
+		<crc32>F631383C</crc32>
+		<md5>16ff1f3d682d582b696d86ad1a128efd</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221211T065522" />
+		<scrap name="ArcadeDB" date="20221212T082214" />
+	</game>
+	<game id="99443">
+		<path>./No-Intro/Super Dragon Force (Taiwan)/08002 (Taiwan).bin</path>
+		<name>ZZZ(notgame):08002</name>
+		<hidden>true</hidden>
+		<crc32>FC79F05F</crc32>
+		<md5>927f0738d3ebe5f0d9267d05bf96b1da</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221211T065523" />
+		<scrap name="ArcadeDB" date="20221212T082215" />
+	</game>
+	<game id="59225">
+		<path>./No-Intro/Super Dragon Force (Taiwan)/16007 (Taiwan).bin</path>
+		<name>Super Dragon Force</name>
+		<desc>Super Dragon Force is a port of a Taiwanese DOS Strategy RPG very similar to Shining Force. When brought to a console, the graphics were simplified but an overhead town exploration mode was created just for this version, making it even more similar to Shining Force.</desc>
+		<video>./videos/16007 (Taiwan)-video.mp4</video>
+		<marquee>./images/16007 (Taiwan)-marquee.png</marquee>
+		<thumbnail>./images/16007 (Taiwan)-thumb.png</thumbnail>
+		<boxback>./images/16007 (Taiwan)-boxback.png</boxback>
+		<rating>0.65</rating>
+		<developer>Kingformation Co.</developer>
+		<publisher>Funtech Technology</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<crc32>56C1C3FB</crc32>
+		<md5>7e7e1321ad9e4f3e1a512ab4fe3abb0c</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221211T065528" />
+		<scrap name="ArcadeDB" date="20221212T082215" />
+	</game>
+	<game id="99442">
+		<path>./No-Intro/Super Taiwanese Baseball League (Taiwan).bin</path>
+		<name>ZZZ(notgame):16004</name>
+		<hidden>true</hidden>
+		<crc32>CCF6829B</crc32>
+		<md5>dc2d01a03d210d2ce937efd6685d6a28</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221211T065529" />
+		<scrap name="ArcadeDB" date="20221212T082215" />
+	</game>
+	<game id="99445">
+		<path>./No-Intro/The Son of Evil (Taiwan).bin</path>
+		<name>ZZZ(notgame):16002</name>
+		<hidden>true</hidden>
+		<crc32>9F6119A7</crc32>
+		<md5>517316018ed64cd43e225f1dd074eaf2</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221211T065530" />
+		<scrap name="ArcadeDB" date="20221212T082215" />
+	</game>
+	<game id="59224">
+		<path>./TOSEC/Boom Zoo ~ Bao Bao Dong Wu Yuan (1995)(Funtech)(TW)[F011].bin</path>
+		<name>Explosive Burst Zoo</name>
+		<desc>Boom Zoo is a clone of the game Bomberman starring cute animals.</desc>
+		<image>./images/Boom Zoo ~ Bao Bao Dong Wu Yuan (1995)(Funtech)(TW)[F011]-image.png</image>
+		<video>./videos/Boom Zoo ~ Bao Bao Dong Wu Yuan (1995)(Funtech)(TW)[F011]-video.mp4</video>
+		<marquee>./images/Boom Zoo ~ Bao Bao Dong Wu Yuan (1995)(Funtech)(TW)[F011]-marquee.png</marquee>
+		<thumbnail>./images/Boom Zoo ~ Bao Bao Dong Wu Yuan (1995)(Funtech)(TW)[F011]-thumb.png</thumbnail>
+		<boxback>./images/Boom Zoo ~ Bao Bao Dong Wu Yuan (1995)(Funtech)(TW)[F011]-boxback.png</boxback>
+		<rating>0.6</rating>
+		<developer>Funtech Technology</developer>
+		<publisher>Funtech Technology</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<crc32>6099BB44</crc32>
+		<md5>62aba0124eec12567f0facd8475d4ef8</md5>
+		<lang>cn</lang>
+		<region>cn</region>
+		<scrap name="ScreenScraper" date="20221211T065534" />
+		<scrap name="ArcadeDB" date="20221212T082215" />
+	</game>
+	<game id="59229">
+		<path>./TOSEC/Formosa Duel (1995)(AV Artisan)(TW)[F001].bin</path>
+		<name>Formosa Duel</name>
+		<desc>Formosa Duel is a puzzle game like Puyo Puyo developed by AV Artisan. You can choose between a story mode where you will go to face to face with 12 colorful Chinese celebrities and a 2-player battle in duel mode.</desc>
+		<image>./images/Formosa Duel (1995)(AV Artisan)(TW)[F001]-image.png</image>
+		<video>./videos/Formosa Duel (1995)(AV Artisan)(TW)[F001]-video.mp4</video>
+		<marquee>./images/Formosa Duel (1995)(AV Artisan)(TW)[F001]-marquee.png</marquee>
+		<thumbnail>./images/Formosa Duel (1995)(AV Artisan)(TW)[F001]-thumb.png</thumbnail>
+		<rating>0.65</rating>
+		<developer>AV Artisan</developer>
+		<publisher>Funtech Technology</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>2</players>
+		<crc32>B2BF31DC</crc32>
+		<md5>7c637797ae8f3c1e92230a9fa80e8269</md5>
+		<lang>cn</lang>
+		<region>cn</region>
+		<scrap name="ScreenScraper" date="20221211T065539" />
+		<scrap name="ArcadeDB" date="20221212T082215" />
+	</game>
+	<game id="59227">
+		<path>./TOSEC/Gambling Lord (1996)(Funtech)(TW)[F009].bin</path>
+		<name>Gambling Lord</name>
+		<desc>Players select the cartoonish likeness of various celebrities to play Mahjong. It's a pretty standard mahjong game other than the fact that it uses Taiwanese 16 tile rules.</desc>
+		<image>./images/Gambling Lord (1996)(Funtech)(TW)[F009]-image.png</image>
+		<video>./videos/Gambling Lord (1996)(Funtech)(TW)[F009]-video.mp4</video>
+		<marquee>./images/Gambling Lord (1996)(Funtech)(TW)[F009]-marquee.png</marquee>
+		<thumbnail>./images/Gambling Lord (1996)(Funtech)(TW)[F009]-thumb.png</thumbnail>
+		<boxback>./images/Gambling Lord (1996)(Funtech)(TW)[F009]-boxback.png</boxback>
+		<rating>0.6</rating>
+		<developer>Panda Entertainment Technology Co., Ltd.</developer>
+		<publisher>Funtech Technology</publisher>
+		<genre>Casino</genre>
+		<players>1</players>
+		<crc32>AC4FA721</crc32>
+		<md5>99a7216288b76485dbfea69f679ae002</md5>
+		<lang>cn</lang>
+		<region>cn</region>
+		<scrap name="ScreenScraper" date="20221211T065543" />
+		<scrap name="ArcadeDB" date="20221212T082215" />
+	</game>
+	<game id="99441">
+		<path>./TOSEC/Journey to the Laugh ~ Xi You Ji (1995)(Funtech)(TW)[F006].bin</path>
+		<name>ZZZ(notgame):16005</name>
+		<hidden>true</hidden>
+		<crc32>CEE25EEA</crc32>
+		<md5>fb45bfe814878e759ecb413484848db9</md5>
+		<lang>cn</lang>
+		<region>cn</region>
+		<scrap name="ScreenScraper" date="20221211T065543" />
+		<scrap name="ArcadeDB" date="20221212T082215" />
+	</game>
+	<game id="59230">
+		<path>./TOSEC/Magical Pool (199x)(Funtech)(TW)[F010].bin</path>
+		<name>Magical Pool</name>
+		<desc>Magical Pool is a classic billiards game with the usual options for the genre and Just like Super Taiwanese Baseball League, there are digitized photos as avatars.</desc>
+		<video>./videos/Magical Pool (199x)(Funtech)(TW)[F010]-video.mp4</video>
+		<marquee>./images/Magical Pool (199x)(Funtech)(TW)[F010]-marquee.png</marquee>
+		<thumbnail>./images/Magical Pool (199x)(Funtech)(TW)[F010]-thumb.png</thumbnail>
+		<rating>0.55</rating>
+		<developer>Funtech Technology</developer>
+		<publisher>Funtech Technology</publisher>
+		<genre>Sports / Pool</genre>
+		<players>2</players>
+		<crc32>AED4E4F8</crc32>
+		<md5>17c068084dc1e4ebafc78e2653e0e26a</md5>
+		<lang>cn</lang>
+		<region>cn</region>
+		<scrap name="ScreenScraper" date="20221211T065546" />
+		<scrap name="ArcadeDB" date="20221212T082216" />
+	</game>
+	<game id="99444">
+		<path>./TOSEC/Monopoly - Adventure in Africa ~ Fei Zhou Tan Xian Da Fu Weng (1995)(Panda Entertainment Technology)(TW)[F008].bin</path>
+		<name>ZZZ(notgame):08003</name>
+		<hidden>true</hidden>
+		<crc32>DC3B7B84</crc32>
+		<md5>2f738d44d74f987be4b96b6ee4097e1e</md5>
+		<lang>cn</lang>
+		<region>cn</region>
+		<scrap name="ScreenScraper" date="20221211T065547" />
+		<scrap name="ArcadeDB" date="20221212T082216" />
+	</game>
+	<game id="59232">
+		<path>./TOSEC/Sango Fighter ~ Wu Jiang Zheng Ba - San Guo Zhi (1995)(Panda Entertainment Technology)(TW)[F002].bin</path>
+		<name>Sango Fighter</name>
+		<desc>Sango Fighter is a versus fighting game set in the Three Kingdoms era in China. The player can choose between five different characters from the time period, and fight other characters in either a one-on-one combat or a story mode. The story is loosely based on real historical events of the Three Kingdoms era.</desc>
+		<image>./images/Sango Fighter ~ Wu Jiang Zheng Ba - San Guo Zhi (1995)(Panda Entertainment Technology)(TW)[F002]-image.png</image>
+		<video>./videos/Sango Fighter ~ Wu Jiang Zheng Ba - San Guo Zhi (1995)(Panda Entertainment Technology)(TW)[F002]-video.mp4</video>
+		<marquee>./images/Sango Fighter ~ Wu Jiang Zheng Ba - San Guo Zhi (1995)(Panda Entertainment Technology)(TW)[F002]-marquee.png</marquee>
+		<thumbnail>./images/Sango Fighter ~ Wu Jiang Zheng Ba - San Guo Zhi (1995)(Panda Entertainment Technology)(TW)[F002]-thumb.png</thumbnail>
+		<boxback>./images/Sango Fighter ~ Wu Jiang Zheng Ba - San Guo Zhi (1995)(Panda Entertainment Technology)(TW)[F002]-boxback.png</boxback>
+		<rating>0.65</rating>
+		<developer>Panda Entertainment Technology Co., Ltd.</developer>
+		<publisher>Funtech Technology</publisher>
+		<genre>Fight</genre>
+		<players>2</players>
+		<crc32>A4DE6DDE</crc32>
+		<md5>45e297d693cd2308f637f68a2389ace4</md5>
+		<lang>cn</lang>
+		<region>cn</region>
+		<scrap name="ScreenScraper" date="20221211T065550" />
+		<scrap name="ArcadeDB" date="20221212T082216" />
+	</game>
+	<game id="99445">
+		<path>./TOSEC/Son of Evil, The ~ Xie E Zhi Zi (1995)(Funtech)(TW)[F003].bin</path>
+		<name>ZZZ(notgame):16002</name>
+		<hidden>true</hidden>
+		<crc32>9F6119A7</crc32>
+		<md5>517316018ed64cd43e225f1dd074eaf2</md5>
+		<lang>cn</lang>
+		<region>cn</region>
+		<scrap name="ScreenScraper" date="20221211T065551" />
+		<scrap name="ArcadeDB" date="20221212T082216" />
+	</game>
+	<game id="99446">
+		<path>./TOSEC/Speedy Dragon ~ Yin Su Fei Long (1995)(AV Artisan)(TW)[F004].bin</path>
+		<name>ZZZ(notgame):16003</name>
+		<hidden>true</hidden>
+		<crc32>F631383C</crc32>
+		<md5>16ff1f3d682d582b696d86ad1a128efd</md5>
+		<lang>cn</lang>
+		<region>cn</region>
+		<scrap name="ScreenScraper" date="20221211T065551" />
+		<scrap name="ArcadeDB" date="20221212T082216" />
+	</game>
+	<game id="99443">
+		<path>./TOSEC/Super Light Saga - Dragon Force ~ Chao Ji Guang Ming Zhan Shi (1996)(Kingformation)(TW)[F007]/Super Light Saga - Dragon Force ~ Chao Ji Guang Ming Zhan Shi (1996)(Kingformation)(TW)[F007][08002].bin</path>
+		<name>ZZZ(notgame):08002</name>
+		<hidden>true</hidden>
+		<crc32>FC79F05F</crc32>
+		<md5>927f0738d3ebe5f0d9267d05bf96b1da</md5>
+		<lang>cn</lang>
+		<region>cn</region>
+		<scrap name="ScreenScraper" date="20221211T065552" />
+		<scrap name="ArcadeDB" date="20221212T082216" />
+	</game>
+	<game id="59225">
+		<path>./TOSEC/Super Light Saga - Dragon Force ~ Chao Ji Guang Ming Zhan Shi (1996)(Kingformation)(TW)[F007]/Super Light Saga - Dragon Force ~ Chao Ji Guang Ming Zhan Shi (1996)(Kingformation)(TW)[F007][16007].bin</path>
+		<name>Super Light Saga: Dragon Force</name>
+		<desc>Super Dragon Force is a port of a Taiwanese DOS Strategy RPG very similar to Shining Force. When brought to a console, the graphics were simplified but an overhead town exploration mode was created just for this version, making it even more similar to Shining Force.</desc>
+		<image>./images/Super Light Saga - Dragon Force ~ Chao Ji Guang Ming Zhan Shi (1996)(Kingformation)(TW)[F007][16007]-image.png</image>
+		<video>./videos/Super Light Saga - Dragon Force ~ Chao Ji Guang Ming Zhan Shi (1996)(Kingformation)(TW)[F007][16007]-video.mp4</video>
+		<marquee>./images/Super Light Saga - Dragon Force ~ Chao Ji Guang Ming Zhan Shi (1996)(Kingformation)(TW)[F007][16007]-marquee.png</marquee>
+		<thumbnail>./images/Super Light Saga - Dragon Force ~ Chao Ji Guang Ming Zhan Shi (1996)(Kingformation)(TW)[F007][16007]-thumb.png</thumbnail>
+		<boxback>./images/Super Light Saga - Dragon Force ~ Chao Ji Guang Ming Zhan Shi (1996)(Kingformation)(TW)[F007][16007]-boxback.png</boxback>
+		<rating>0.65</rating>
+		<developer>Kingformation Co.</developer>
+		<publisher>Funtech Technology</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<crc32>56C1C3FB</crc32>
+		<md5>7e7e1321ad9e4f3e1a512ab4fe3abb0c</md5>
+		<lang>cn</lang>
+		<region>cn</region>
+		<scrap name="ScreenScraper" date="20221211T065556" />
+		<scrap name="ArcadeDB" date="20221212T082216" />
+	</game>
+	<game id="99442">
+		<path>./TOSEC/Super Taiwanese Baseball League ~ Chao Ji Zhong Hua Zhi Bang Lian Meng (1995)(C&amp;E Soft)(TW)[F005].bin</path>
+		<name>ZZZ(notgame):16004</name>
+		<hidden>true</hidden>
+		<crc32>CCF6829B</crc32>
+		<md5>dc2d01a03d210d2ce937efd6685d6a28</md5>
+		<lang>cn</lang>
+		<region>cn</region>
+		<scrap name="ScreenScraper" date="20221211T065556" />
+		<scrap name="ArcadeDB" date="20221212T082217" />
+	</game>
+</gameList>

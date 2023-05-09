@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./TOSEC/Games/Car-azy Racer (1991)(TM)/Car-azy Racer (1991)(TM).bin</path>
+		<name>Car-azy Racer (1991)(TM)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>D3D9E415</crc32>
+	</game>
+	<game>
+		<path>./TOSEC/Games/Cave Crawlers (1991)(TM)/Cave Crawlers (1991)(TM).bin</path>
+		<name>Cave Crawlers (1991)(TM)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>6969757D</crc32>
+	</game>
+	<game>
+		<path>./TOSEC/Games/Deep Six (1991)(TM)/Deep Six (1991)(TM).bin</path>
+		<name>Deep Six (1991)(TM)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>6B8A878F</crc32>
+	</game>
+	<game>
+		<path>./TOSEC/Games/Jungler (1991)(TM)/Jungler (1991)(TM).bin</path>
+		<name>Jungler (1991)(TM)</name>
+		<image>./images/Jungler (1991)(TM)-image.png</image>
+		<video>./videos/Jungler (1991)(TM)-video.mp4</video>
+		<marquee>./images/Jungler (1991)(TM)-marquee.png</marquee>
+		<thumbnail>./images/Jungler (1991)(TM)-thumb.png</thumbnail>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>38DCE126</crc32>
+	</game>
+	<game>
+		<path>./TOSEC/Games/Loco-motion (1991)(TM)/Loco-motion (1991)(TM).bin</path>
+		<name>Loco-motion (1991)(TM)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>EDE5ED83</crc32>
+	</game>
+	<game>
+		<path>./TOSEC/Games/Pooyan (1991)(TM)/Pooyan (1991)(TM).bin</path>
+		<name>Pooyan (1991)(TM)</name>
+		<image>./images/Pooyan (1991)(TM)-image.png</image>
+		<video>./videos/Pooyan (1991)(TM)-video.mp4</video>
+		<marquee>./images/Pooyan (1991)(TM)-marquee.png</marquee>
+		<thumbnail>./images/Pooyan (1991)(TM)-thumb.png</thumbnail>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>96F805E4</crc32>
+	</game>
+	<game>
+		<path>./TOSEC/Games/Scramble (199x)(TM)/Scramble (199x)(TM).bin</path>
+		<name>Scramble (199x)(TM)</name>
+		<image>./images/Scramble (199x)(TM)-image.png</image>
+		<video>./videos/Scramble (199x)(TM)-video.mp4</video>
+		<marquee>./images/Scramble (199x)(TM)-marquee.png</marquee>
+		<thumbnail>./images/Scramble (199x)(TM)-thumb.png</thumbnail>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>3C23D24F</crc32>
+	</game>
+	<game>
+		<path>./TOSEC/Games/Torpedo Terror (1991)(TM)/Torpedo Terror (1991)(TM).bin</path>
+		<name>Torpedo Terror (1991)(TM)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>40F82FB3</crc32>
+	</game>
+	<game>
+		<path>./TOSEC/Games/Traffic Jam (1991)(TM)/Traffic Jam (1991)(TM).bin</path>
+		<name>Traffic Jam (1991)(TM)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>81F529F9</crc32>
+	</game>
+	<game>
+		<path>./TOSEC/Firmware/Tomy Tutor BIOS Image (1983)(Tomy)[16k]/Tomy Tutor BIOS Image (1983)(Tomy)[16k].bin</path>
+		<name>Tomy Tutor BIOS Image (1983)(Tomy)[16k]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>05F228F5</crc32>
+	</game>
+	<game>
+		<path>./TOSEC/Firmware/Tomy Tutor BIOS Image (1983)(Tomy)[32k]/Tomy Tutor BIOS Image (1983)(Tomy)[32k].bin</path>
+		<name>Tomy Tutor BIOS Image (1983)(Tomy)[32k]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>702C38BA</crc32>
+	</game>
+</gameList>

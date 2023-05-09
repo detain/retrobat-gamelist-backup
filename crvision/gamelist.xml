@@ -1,0 +1,583 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./TOSEC/Applications/CreatiVision BASIC Interpreter v1.0 (1981)(VTL)/CreatiVision BASIC Interpreter v1.0 (1981)(VTL).bin</path>
+		<name>CreatiVision BASIC Interpreter v1.0 (1981)(VTL)</name>
+		<crc32>10409A1D</crc32>
+		<md5>0e43eb5caf9c0128998d04e033016556</md5>
+		<scrap name="ScreenScraper" date="20230217T111027" />
+	</game>
+	<game id="250165">
+		<path>./TOSEC/Applications/Music Maker (1983)(VTL)/Music Maker (1983)(VTL).bin</path>
+		<name>Music Maker</name>
+		<desc>Select instrument, rhythm and tempo and play. Simply press the note-keys indicated on your Music Maker grid and play whatever piece of music you wish. As you play, the notes will appear on screen in correct musical notation with the choosen instrument.</desc>
+		<image>./images/Music Maker (1983)(VTL)-image.png</image>
+		<video>./videos/Music Maker (1983)(VTL)-video.mp4</video>
+		<marquee>./images/Music Maker (1983)(VTL)-marquee.png</marquee>
+		<thumbnail>./images/Music Maker (1983)(VTL)-thumb.png</thumbnail>
+		<manual>./manuals/Music Maker (1983)(VTL)-manual.pdf</manual>
+		<boxback>./images/Music Maker (1983)(VTL)-boxback.png</boxback>
+		<rating>0.5</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Music and Dance / Rhythm</genre>
+		<players>1</players>
+		<crc32>F8383D33</crc32>
+		<md5>c19cbb873193f6441ff793b82a5ec19c</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230217T111045" />
+	</game>
+	<game id="250168">
+		<path>./TOSEC/Games/Air Sea Attack (1981)(VTL)/Air Sea Attack (1981)(VTL).bin</path>
+		<name>Air/Sea Attack</name>
+		<desc>Hours of exhilaration await you and your family and friends as you take command of your nuclear submarine deep in hostile waters. The enemy is completely ruthless and is out to destroy you with every weapon at his command. His bombers, helicopters and jet-fighters along with his destroyers cruisers, battleships and submarines are armed to the teeth and have only one mission... to find and annihilate you !</desc>
+		<image>./images/Air Sea Attack (1981)(VTL)-image.png</image>
+		<video>./videos/Air Sea Attack (1981)(VTL)-video.mp4</video>
+		<marquee>./images/Air Sea Attack (1981)(VTL)-marquee.png</marquee>
+		<thumbnail>./images/Air Sea Attack (1981)(VTL)-thumb.png</thumbnail>
+		<manual>./manuals/Air Sea Attack (1981)(VTL)-manual.pdf</manual>
+		<boxback>./images/Air Sea Attack (1981)(VTL)-boxback.png</boxback>
+		<rating>0.55</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1-2</players>
+		<crc32>81A9257D</crc32>
+		<md5>2a3000132c6ae8f6712eaee387ad851c</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230217T111047" />
+	</game>
+	<game id="250144">
+		<path>./TOSEC/Games/Astro Pinball (1981)(VTL)/Astro Pinball (1981)(VTL).bin</path>
+		<name>Astro Pinball</name>
+		<desc>Each player gets 5 balls to start and controls the plunger which puts the balls into play. One ball is played at a time. As the ball approaches the flippers, the player attempts to hit the ball to keep it in play. You can choose the number of pins, the speed of the ball and the layout of the pinball game, simply by picking the appropriate game number.</desc>
+		<image>./images/Astro Pinball (1981)(VTL)-image.png</image>
+		<video>./videos/Astro Pinball (1981)(VTL)-video.mp4</video>
+		<marquee>./images/Astro Pinball (1981)(VTL)-marquee.png</marquee>
+		<thumbnail>./images/Astro Pinball (1981)(VTL)-thumb.png</thumbnail>
+		<manual>./manuals/Astro Pinball (1981)(VTL)-manual.pdf</manual>
+		<boxback>./images/Astro Pinball (1981)(VTL)-boxback.png</boxback>
+		<rating>0.5</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Pinball</genre>
+		<players>1-4</players>
+		<crc32>CF7BDFC2</crc32>
+		<md5>da1efcd608ee688ec76fb806b28a8f04</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230217T111053" />
+	</game>
+	<game id="250144">
+		<path>./TOSEC/Games/Astro Pinball (1981)(VTL)[a]/Astro Pinball (1981)(VTL)[a].bin</path>
+		<name>Astro Pinball</name>
+		<desc>Each player gets 5 balls to start and controls the plunger which puts the balls into play. One ball is played at a time. As the ball approaches the flippers, the player attempts to hit the ball to keep it in play. You can choose the number of pins, the speed of the ball and the layout of the pinball game, simply by picking the appropriate game number.</desc>
+		<image>./images/Astro Pinball (1981)(VTL)[a]-image.png</image>
+		<video>./videos/Astro Pinball (1981)(VTL)[a]-video.mp4</video>
+		<marquee>./images/Astro Pinball (1981)(VTL)[a]-marquee.png</marquee>
+		<thumbnail>./images/Astro Pinball (1981)(VTL)[a]-thumb.png</thumbnail>
+		<manual>./manuals/Astro Pinball (1981)(VTL)[a]-manual.pdf</manual>
+		<boxback>./images/Astro Pinball (1981)(VTL)[a]-boxback.png</boxback>
+		<rating>0.5</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Pinball</genre>
+		<players>1-4</players>
+		<crc32>D03C0603</crc32>
+		<md5>639d6df87e991247b438c8d015a70d4d</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230217T111053" />
+	</game>
+	<game id="250147">
+		<path>./TOSEC/Games/Auto Chase (1981)(VTL)/Auto Chase (1981)(VTL).bin</path>
+		<name>Auto Chase</name>
+		<desc>On holiday in an evil dictatorship country, you are contacted by the freedom fighters and asked to deliver vital cash reserves to the free world. But first you have to drive around the city and pick up the money bags. Unfortunately the evil secret police have been notified and are out in force to stop you. Your mission is to pick up as much of the money as possible and the freedom fighters have equipped your getaway car with special poison gas, soif the secret police get too close, you can leave a trail of poison gas in front of them, which will make them go off the road.</desc>
+		<image>./images/Auto Chase (1981)(VTL)-image.png</image>
+		<video>./videos/Auto Chase (1981)(VTL)-video.mp4</video>
+		<marquee>./images/Auto Chase (1981)(VTL)-marquee.png</marquee>
+		<thumbnail>./images/Auto Chase (1981)(VTL)-thumb.png</thumbnail>
+		<manual>./manuals/Auto Chase (1981)(VTL)-manual.pdf</manual>
+		<boxback>./images/Auto Chase (1981)(VTL)-boxback.png</boxback>
+		<rating>0.45</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Race, Driving</genre>
+		<players>1-2</players>
+		<crc32>BD091EE0</crc32>
+		<md5>b6bfea8987d76872661e1dd25ba5d542</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230217T111054" />
+	</game>
+	<game id="250150">
+		<path>./TOSEC/Games/Chopper Rescue (1982)(VTL)/Chopper Rescue (1982)(VTL).bin</path>
+		<name>Chopper Rescue</name>
+		<desc>You have to do some of the trickiest flying that's ever been done over three types of terrain. But you can't let anything stop you. You have to pick up vital medical supplies and deliver them where disaster has struck. If you fail, thousands will die. You have to avoid tall buildings and high-flying birds just to make the pick-up. And things get worse after that. In order to make the drop you have to have pinpoint accuracy and very steady nerves.</desc>
+		<image>./images/Chopper Rescue (1982)(VTL)-image.png</image>
+		<video>./videos/Chopper Rescue (1982)(VTL)-video.mp4</video>
+		<marquee>./images/Chopper Rescue (1982)(VTL)-marquee.png</marquee>
+		<manual>./manuals/Chopper Rescue (1982)(VTL)-manual.pdf</manual>
+		<rating>0.65</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
+		<crc32>14179570</crc32>
+		<md5>6c3abd51286ee689d3576cd6f50269ff</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230217T111057" />
+	</game>
+	<game id="250150">
+		<path>./TOSEC/Games/Chopper Rescue (1982)(VTL)[a]/Chopper Rescue (1982)(VTL)[a].bin</path>
+		<name>Chopper Rescue</name>
+		<desc>You have to do some of the trickiest flying that's ever been done over three types of terrain. But you can't let anything stop you. You have to pick up vital medical supplies and deliver them where disaster has struck. If you fail, thousands will die. You have to avoid tall buildings and high-flying birds just to make the pick-up. And things get worse after that. In order to make the drop you have to have pinpoint accuracy and very steady nerves.</desc>
+		<image>./images/Chopper Rescue (1982)(VTL)[a]-image.png</image>
+		<video>./videos/Chopper Rescue (1982)(VTL)[a]-video.mp4</video>
+		<marquee>./images/Chopper Rescue (1982)(VTL)[a]-marquee.png</marquee>
+		<manual>./manuals/Chopper Rescue (1982)(VTL)[a]-manual.pdf</manual>
+		<rating>0.65</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
+		<crc32>48E7E8B8</crc32>
+		<md5>91a60dbb91668023629ae5165cbab9d5</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230217T111059" />
+	</game>
+	<game id="250153">
+		<path>./TOSEC/Games/Crazy Chicky (1981)(VTL)/Crazy Chicky (1981)(VTL).bin</path>
+		<name>Crazy Chicky</name>
+		<desc>Now, as everyone knows, the one thing a chicky does best is to lay eggs. And that's why you travel all over the Happy Daze Maze laying eggs wherever you go. Your mission is to fill the whole maze with eggs. While you travel around the Happy Daze Maze, laying your eggs and not bothering anybody, don't forget about the 4 Funky Foxes. They will sneak around and try and catch you, and if they do, they'll gobble you up for dinner. So watch out ! Funky Foxes can run faster than you can, but they can't see very good, so they go slower around corners and you might be able to get away, but remember, there are 4 of them and only 1 of you, so be careful.</desc>
+		<image>./images/Crazy Chicky (1981)(VTL)-image.png</image>
+		<video>./videos/Crazy Chicky (1981)(VTL)-video.mp4</video>
+		<marquee>./images/Crazy Chicky (1981)(VTL)-marquee.png</marquee>
+		<thumbnail>./images/Crazy Chicky (1981)(VTL)-thumb.png</thumbnail>
+		<manual>./manuals/Crazy Chicky (1981)(VTL)-manual.pdf</manual>
+		<boxback>./images/Crazy Chicky (1981)(VTL)-boxback.png</boxback>
+		<rating>0.6</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Action / Labyrinth</genre>
+		<players>1-4</players>
+		<crc32>B1B5BFE5</crc32>
+		<md5>46831e263fdd536a7740861d28f24cc2</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230217T111101" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/Cross Bomber (2020-08-26)(Caruso, Fabrizio)[16K][swapped]/Cross Bomber (2020-08-26)(Caruso, Fabrizio)[16K][swapped].bin</path>
+		<name>Cross Bomber (2020-08-26)(Caruso, Fabrizio)[16K][swapped]</name>
+		<crc32>EBD420D6</crc32>
+		<md5>6e445b959b1078c05b9ef85623a300da</md5>
+		<scrap name="ScreenScraper" date="20230217T111102" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/Cross Bomber (2021-05-13)(Caruso, Fabrizio)[16K][swapped]/Cross Bomber (2021-05-13)(Caruso, Fabrizio)[16K][swapped].bin</path>
+		<name>Cross Bomber (2021-05-13)(Caruso, Fabrizio)[16K][swapped]</name>
+		<crc32>61B63A76</crc32>
+		<md5>f2dcf3be495ed549d10bf4d3d6f5ca8e</md5>
+		<scrap name="ScreenScraper" date="20230217T111104" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/Cross Chase (2017-12-10)(Caruso, Fabrizio)[8K][tiny]/Cross Chase (2017-12-10)(Caruso, Fabrizio)[8K][tiny].bin</path>
+		<name>Cross Chase (2017-12-10)(Caruso, Fabrizio)[8K][tiny]</name>
+		<crc32>8E8093F2</crc32>
+		<md5>cb8841b75a3d8ff0c67f22dd9e6ffc43</md5>
+		<scrap name="ScreenScraper" date="20230217T111106" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/Cross Chase (2018-02-03)(Caruso, Fabrizio)[8K][tiny]/Cross Chase (2018-02-03)(Caruso, Fabrizio)[8K][tiny].bin</path>
+		<name>Cross Chase (2018-02-03)(Caruso, Fabrizio)[8K][tiny]</name>
+		<crc32>F7DC58CF</crc32>
+		<md5>8e6f027f9f655b0594d2ea155825f5f7</md5>
+		<scrap name="ScreenScraper" date="20230217T111108" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/Cross Chase (2018-04-15)(Caruso, Fabrizio)[8K][tiny]/Cross Chase (2018-04-15)(Caruso, Fabrizio)[8K][tiny].bin</path>
+		<name>Cross Chase (2018-04-15)(Caruso, Fabrizio)[8K][tiny]</name>
+		<crc32>85AC1CE4</crc32>
+		<md5>c6c7ed5ccba98d0c262ee96092868949</md5>
+		<scrap name="ScreenScraper" date="20230217T111110" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/Cross Chase (2018-04-15)(Caruso, Fabrizio)[full][16K][swapped]/Cross Chase (2018-04-15)(Caruso, Fabrizio)[full][16K][swapped].bin</path>
+		<name>Cross Chase (2018-04-15)(Caruso, Fabrizio)[full][16K][swapped]</name>
+		<crc32>D7111E78</crc32>
+		<md5>a1a04afcf7c7ead283c1d858bd57c7df</md5>
+		<scrap name="ScreenScraper" date="20230217T111112" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/Cross Chase (2018-05-19)(Caruso, Fabrizio)[16K][full][swapped]/Cross Chase (2018-05-19)(Caruso, Fabrizio)[16K][full][swapped].bin</path>
+		<name>Cross Chase (2018-05-19)(Caruso, Fabrizio)[16K][full][swapped]</name>
+		<crc32>E9202979</crc32>
+		<md5>fe3f3ddb4cc6bc57ed646810851fe0c6</md5>
+		<scrap name="ScreenScraper" date="20230217T111114" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/Cross Chase (2018-05-19)(Caruso, Fabrizio)[8K][light][less text]/Cross Chase (2018-05-19)(Caruso, Fabrizio)[8K][light][less text].bin</path>
+		<name>Cross Chase (2018-05-19)(Caruso, Fabrizio)[8K][light][less text]</name>
+		<crc32>DB04AB24</crc32>
+		<md5>893bfbfbab84477153c74f70a9d1aef9</md5>
+		<scrap name="ScreenScraper" date="20230217T111116" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/Cross Chase (2018-05-19)(Caruso, Fabrizio)[8K][tiny]/Cross Chase (2018-05-19)(Caruso, Fabrizio)[8K][tiny].bin</path>
+		<name>Cross Chase (2018-05-19)(Caruso, Fabrizio)[8K][tiny]</name>
+		<crc32>46021AA9</crc32>
+		<md5>88eb476645c54379af408be059efbec7</md5>
+		<scrap name="ScreenScraper" date="20230217T111117" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/Cross Chase (2018-07-19)(Caruso, Fabrizio)[16K][full][swapped]/Cross Chase (2018-07-19)(Caruso, Fabrizio)[16K][full][swapped].bin</path>
+		<name>Cross Chase (2018-07-19)(Caruso, Fabrizio)[16K][full][swapped]</name>
+		<crc32>99438235</crc32>
+		<md5>d721d65e55bea20924135ce13a45e872</md5>
+		<scrap name="ScreenScraper" date="20230217T111119" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/Cross Chase (2018-07-19)(Caruso, Fabrizio)[8K][light][less text]/Cross Chase (2018-07-19)(Caruso, Fabrizio)[8K][light][less text].bin</path>
+		<name>Cross Chase (2018-07-19)(Caruso, Fabrizio)[8K][light][less text]</name>
+		<crc32>C9A8F0D5</crc32>
+		<md5>8fa72b1d456d9e68c3da7158cf7409d8</md5>
+		<scrap name="ScreenScraper" date="20230217T111121" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/Cross Chase (2018-07-19)(Caruso, Fabrizio)[8K][tiny]/Cross Chase (2018-07-19)(Caruso, Fabrizio)[8K][tiny].bin</path>
+		<name>Cross Chase (2018-07-19)(Caruso, Fabrizio)[8K][tiny]</name>
+		<crc32>9F1D2BE9</crc32>
+		<md5>b9c9f4b554bd2e35c17c44ec1ca4573c</md5>
+		<scrap name="ScreenScraper" date="20230217T111123" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/Cross Chase (2018-08-04)(Caruso, Fabrizio)[16K][full][swapped]/Cross Chase (2018-08-04)(Caruso, Fabrizio)[16K][full][swapped].bin</path>
+		<name>Cross Chase (2018-08-04)(Caruso, Fabrizio)[16K][full][swapped]</name>
+		<crc32>E5FBA262</crc32>
+		<md5>ce36f6f0cdc1f55a5f3427c9b9511626</md5>
+		<scrap name="ScreenScraper" date="20230217T111125" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/Cross Chase (2018-08-04)(Caruso, Fabrizio)[8K][tiny]/Cross Chase (2018-08-04)(Caruso, Fabrizio)[8K][tiny].bin</path>
+		<name>Cross Chase (2018-08-04)(Caruso, Fabrizio)[8K][tiny]</name>
+		<crc32>79121DA5</crc32>
+		<md5>a47902b4b414239585271e35b438a5fd</md5>
+		<scrap name="ScreenScraper" date="20230217T111127" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/Cross Chase (2018-10-29)(Caruso, Fabrizio)[16K][full][swapped]/Cross Chase (2018-10-29)(Caruso, Fabrizio)[16K][full][swapped].bin</path>
+		<name>Cross Chase (2018-10-29)(Caruso, Fabrizio)[16K][full][swapped]</name>
+		<crc32>93C75373</crc32>
+		<md5>67052290549684458a4791d6c50f9d1a</md5>
+		<scrap name="ScreenScraper" date="20230217T111129" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/Cross Chase (2018-10-29)(Caruso, Fabrizio)[8K]/Cross Chase (2018-10-29)(Caruso, Fabrizio)[8K].bin</path>
+		<name>Cross Chase (2018-10-29)(Caruso, Fabrizio)[8K]</name>
+		<crc32>A46922E7</crc32>
+		<md5>ea4396630850290a32a773a92cb80988</md5>
+		<scrap name="ScreenScraper" date="20230217T111131" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/Cross Chase (2018-10-29)(Caruso, Fabrizio)[8K][light][less text]/Cross Chase (2018-10-29)(Caruso, Fabrizio)[8K][light][less text].bin</path>
+		<name>Cross Chase (2018-10-29)(Caruso, Fabrizio)[8K][light][less text]</name>
+		<crc32>47709C22</crc32>
+		<md5>bc1266a91383f4304715b7fe69c4d083</md5>
+		<scrap name="ScreenScraper" date="20230217T111133" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/Cross Chase (2020-04-02)(Caruso, Fabrizio)[16K][full][swapped]/Cross Chase (2020-04-02)(Caruso, Fabrizio)[16K][full][swapped].bin</path>
+		<name>Cross Chase (2020-04-02)(Caruso, Fabrizio)[16K][full][swapped]</name>
+		<crc32>401DCAB7</crc32>
+		<md5>e790ecf58e4e821634b9fa12c28bbabe</md5>
+		<scrap name="ScreenScraper" date="20230217T111134" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/Cross Chase (2020-04-02)(Caruso, Fabrizio)[8K][light][less text]/Cross Chase (2020-04-02)(Caruso, Fabrizio)[8K][light][less text].bin</path>
+		<name>Cross Chase (2020-04-02)(Caruso, Fabrizio)[8K][light][less text]</name>
+		<crc32>178DF16C</crc32>
+		<md5>9f43bfefaf5ccaa7c1ce537239e9bc1e</md5>
+		<scrap name="ScreenScraper" date="20230217T111136" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/Cross Chase (2020-04-02)(Caruso, Fabrizio)[8K][tiny]/Cross Chase (2020-04-02)(Caruso, Fabrizio)[8K][tiny].bin</path>
+		<name>Cross Chase (2020-04-02)(Caruso, Fabrizio)[8K][tiny]</name>
+		<crc32>569D14E7</crc32>
+		<md5>3aba8cbf1dc13893a53c1d74848c35a3</md5>
+		<scrap name="ScreenScraper" date="20230217T111138" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/Cross Chase (2021-05-13)(Caruso, Fabrizio)[16K][swapped]/Cross Chase (2021-05-13)(Caruso, Fabrizio)[16K][swapped].bin</path>
+		<name>Cross Chase (2021-05-13)(Caruso, Fabrizio)[16K][swapped]</name>
+		<crc32>126840AE</crc32>
+		<md5>989d86be539302c420cd87ff4ca4f1d5</md5>
+		<scrap name="ScreenScraper" date="20230217T111140" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/Cross Chase (2021-05-13)(Caruso, Fabrizio)[8K][light][less text]/Cross Chase (2021-05-13)(Caruso, Fabrizio)[8K][light][less text].bin</path>
+		<name>Cross Chase (2021-05-13)(Caruso, Fabrizio)[8K][light][less text]</name>
+		<crc32>12B4C993</crc32>
+		<md5>07ff2b1ad75390004660f374ae1869b9</md5>
+		<scrap name="ScreenScraper" date="20230217T111142" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/Cross Horde v1.0 (2021-05-01)(Caruso, Fabrizio)[16K][swapped]/Cross Horde v1.0 (2021-05-01)(Caruso, Fabrizio)[16K][swapped].bin</path>
+		<name>Cross Horde v1.0 (2021-05-01)(Caruso, Fabrizio)[16K][swapped]</name>
+		<crc32>FE368B2E</crc32>
+		<md5>d3c47cfc76dd702a0adadec083ef3b8a</md5>
+		<scrap name="ScreenScraper" date="20230217T111143" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/Cross Snake v2.0 (2020-12-31)(Caruso, Fabrizio)[16K][swapped]/Cross Snake v2.0 (2020-12-31)(Caruso, Fabrizio)[16K][swapped].bin</path>
+		<name>Cross Snake v2.0 (2020-12-31)(Caruso, Fabrizio)[16K][swapped]</name>
+		<crc32>6115732D</crc32>
+		<md5>47f2c4d23aa60c0245e4f13699ca5fb7</md5>
+		<scrap name="ScreenScraper" date="20230217T111145" />
+	</game>
+	<game id="250156">
+		<path>./TOSEC/Games/Deep Sea Adventure (198x)(VTL)/Deep Sea Adventure (198x)(VTL).bin</path>
+		<name>Deep Sea Adventure</name>
+		<desc>As you explore the sea bottom, thousands of feet under water, the nastiest creatures of the sea are after you. The devious clicklaw crab, a giant armoured beast. The fanged ray, a huge demented animal. And the slip-slimy octopus, with eight giant tentacles. All of them are trying to attack you for no reason at all. Luckily, you have remembered to bring along your undersea death ray, so you can fight back. But remember, you can only shoot in the direction you are travelling. So be prepared to turn around fast.</desc>
+		<image>./images/Deep Sea Adventure (198x)(VTL)-image.png</image>
+		<video>./videos/Deep Sea Adventure (198x)(VTL)-video.mp4</video>
+		<marquee>./images/Deep Sea Adventure (198x)(VTL)-marquee.png</marquee>
+		<thumbnail>./images/Deep Sea Adventure (198x)(VTL)-thumb.png</thumbnail>
+		<manual>./manuals/Deep Sea Adventure (198x)(VTL)-manual.pdf</manual>
+		<boxback>./images/Deep Sea Adventure (198x)(VTL)-boxback.png</boxback>
+		<rating>0.65</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1-2</players>
+		<crc32>2E0DDD86</crc32>
+		<md5>11ad7d0a0caead0e6d22f055dc0aba6e</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230217T111148" />
+	</game>
+	<game id="250195">
+		<path>./TOSEC/Games/Hapmon (1981)(VTL)/Hapmon (1981)(VTL).bin</path>
+		<name>ZZZ(notgame):Ha.P. Monitor</name>
+		<marquee>./images/Hapmon (1981)(VTL)-marquee.png</marquee>
+		<hidden>true</hidden>
+		<crc32>15D07B96</crc32>
+		<md5>3d3dc6cb1374cca0b2a7fb4e898c98c8</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230217T111150" />
+	</game>
+	<game id="250159">
+		<path>./TOSEC/Games/Locomotive (1981)(VTL)/Locomotive (1981)(VTL).bin</path>
+		<name>Locomotive</name>
+		<desc>You're a prisoner in a train factory and the only way out is to build your own train. You have to run across dangerous catwalks, high in the air and drop all the right parts onto the tracks below, in the right order, if you want to survive. The hammers and wrenches and even the nails left around the factory are enchanted and will come to life and try to hammer, wrench and nail you ! All you have is an oil can to destroy them.</desc>
+		<image>./images/Locomotive (1981)(VTL)-image.png</image>
+		<video>./videos/Locomotive (1981)(VTL)-video.mp4</video>
+		<marquee>./images/Locomotive (1981)(VTL)-marquee.png</marquee>
+		<thumbnail>./images/Locomotive (1981)(VTL)-thumb.png</thumbnail>
+		<manual>./manuals/Locomotive (1981)(VTL)-manual.pdf</manual>
+		<boxback>./images/Locomotive (1981)(VTL)-boxback.png</boxback>
+		<rating>0.65</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+		<crc32>3618B415</crc32>
+		<md5>f86dc1a3df3e1f25ebd60c0f1de4fdb5</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230217T111152" />
+	</game>
+	<game id="250162">
+		<path>./TOSEC/Games/Mouse Puzzle (1983)(VTL)/Mouse Puzzle (1983)(VTL).bin</path>
+		<name>Mouse Puzzle</name>
+		<desc>A poor little mouse is hungry and looking for food. He walks through pipes inside the wall, but he can't see too well. So you have to move the pipes around to help him go in the right direction. Otherwise he'll fall out the end of a pipe or maybe bonk right into a wall and that will be the end of him. Only you can help to keep him going. City Kitty is a nasty, sneaky, rotten cat. In some games he will sneak into the pipes and chase your mouse. Don't let him catch up because he is hungry too. And he only eats poor little mouse.</desc>
+		<image>./images/Mouse Puzzle (1983)(VTL)-image.png</image>
+		<video>./videos/Mouse Puzzle (1983)(VTL)-video.mp4</video>
+		<marquee>./images/Mouse Puzzle (1983)(VTL)-marquee.png</marquee>
+		<thumbnail>./images/Mouse Puzzle (1983)(VTL)-thumb.png</thumbnail>
+		<manual>./manuals/Mouse Puzzle (1983)(VTL)-manual.pdf</manual>
+		<boxback>./images/Mouse Puzzle (1983)(VTL)-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1-2</players>
+		<crc32>E954C46B</crc32>
+		<md5>136caa24d077372d94594cc722a00cf8</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230217T111155" />
+	</game>
+	<game id="250171">
+		<path>./TOSEC/Games/Planet Defender (1982)(VTL)/Planet Defender (1982)(VTL).bin</path>
+		<name>Planet Defender</name>
+		<desc>You command the hyperspace cruiser. Aliens, from a far galaxy are attacking earth, but first they must conquer the heavily fortified moonbase. As they swoop in to attack in unearthly formations, only you, in your speedy hyperspace cruiser stand between them and total devastation. Blast them out of the sky with your lethal laser cannon and watch them disintegrate.</desc>
+		<image>./images/Planet Defender (1982)(VTL)-image.png</image>
+		<video>./videos/Planet Defender (1982)(VTL)-video.mp4</video>
+		<marquee>./images/Planet Defender (1982)(VTL)-marquee.png</marquee>
+		<thumbnail>./images/Planet Defender (1982)(VTL)-thumb.png</thumbnail>
+		<manual>./manuals/Planet Defender (1982)(VTL)-manual.pdf</manual>
+		<boxback>./images/Planet Defender (1982)(VTL)-boxback.png</boxback>
+		<rating>0.6</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1-2</players>
+		<crc32>4B463C18</crc32>
+		<md5>8aecbd20173bf4af56a1eb641cba492e</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230217T111157" />
+	</game>
+	<game id="250171">
+		<path>./TOSEC/Games/Planet Defender (1982)(VTL)[a]/Planet Defender (1982)(VTL)[a].bin</path>
+		<name>Planet Defender</name>
+		<desc>You command the hyperspace cruiser. Aliens, from a far galaxy are attacking earth, but first they must conquer the heavily fortified moonbase. As they swoop in to attack in unearthly formations, only you, in your speedy hyperspace cruiser stand between them and total devastation. Blast them out of the sky with your lethal laser cannon and watch them disintegrate.</desc>
+		<image>./images/Planet Defender (1982)(VTL)[a]-image.png</image>
+		<video>./videos/Planet Defender (1982)(VTL)[a]-video.mp4</video>
+		<marquee>./images/Planet Defender (1982)(VTL)[a]-marquee.png</marquee>
+		<thumbnail>./images/Planet Defender (1982)(VTL)[a]-thumb.png</thumbnail>
+		<manual>./manuals/Planet Defender (1982)(VTL)[a]-manual.pdf</manual>
+		<boxback>./images/Planet Defender (1982)(VTL)[a]-boxback.png</boxback>
+		<rating>0.6</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1-2</players>
+		<crc32>4457C7B3</crc32>
+		<md5>02cd5364ee077e02b3d0e1c0a6d2adef</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230217T111200" />
+	</game>
+	<game id="250174">
+		<path>./TOSEC/Games/Police Jump (1981)(VTL)/Police Jump (1981)(VTL).bin</path>
+		<name>Police Jump</name>
+		<desc>You are a police inspector. The notorious criminal, Dangerous Dan, has kidnapped a beautiful rich girl and you've tracked him down to his sky-scraper hideaway, but that's the easy part. Now you have to go up there, all by yourself and get him. There are twenty floors between you and your goal, every one of them filled with treacherous booby traps.</desc>
+		<image>./images/Police Jump (1981)(VTL)-image.png</image>
+		<video>./videos/Police Jump (1981)(VTL)-video.mp4</video>
+		<marquee>./images/Police Jump (1981)(VTL)-marquee.png</marquee>
+		<thumbnail>./images/Police Jump (1981)(VTL)-thumb.png</thumbnail>
+		<manual>./manuals/Police Jump (1981)(VTL)-manual.pdf</manual>
+		<boxback>./images/Police Jump (1981)(VTL)-boxback.png</boxback>
+		<rating>0.4</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Platform / Run Jump</genre>
+		<players>1-2</players>
+		<crc32>DB3D50B2</crc32>
+		<md5>9cb73c1ca4853ba299a97ed55b17727e</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230217T111202" />
+	</game>
+	<game id="250177">
+		<path>./TOSEC/Games/Soccer (1983)(VTL)/Soccer (1983)(VTL).bin</path>
+		<name>Soccer</name>
+		<desc>You plan the strategies and you make the plays. You control different players to advance the ball, to intercept passes and to score. The player or goalie which is under your control will be flashing. A clock on the top of your screen will time the game. When the time ius up, the game is over.</desc>
+		<image>./images/Soccer (1983)(VTL)-image.png</image>
+		<video>./videos/Soccer (1983)(VTL)-video.mp4</video>
+		<marquee>./images/Soccer (1983)(VTL)-marquee.png</marquee>
+		<thumbnail>./images/Soccer (1983)(VTL)-thumb.png</thumbnail>
+		<manual>./manuals/Soccer (1983)(VTL)-manual.pdf</manual>
+		<boxback>./images/Soccer (1983)(VTL)-boxback.png</boxback>
+		<rating>0.5</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Sports / Soccer</genre>
+		<players>1-2</players>
+		<crc32>90A7438D</crc32>
+		<md5>facb2b5308502f8acec4d77eaed6ea3a</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230217T111204" />
+	</game>
+	<game id="250189">
+		<path>./TOSEC/Games/Sonic Invader (1981)(VTL)/Sonic Invader (1981)(VTL).bin</path>
+		<name>Sonic Invader</name>
+		<desc>Your mission is to command a squad of formidable Battle Wagons... ground-based, highly mobile fortresses that are Earth's last defence against the dreaded Sonic Invader from a far solar system. The ruthless Sonic Invader with his tight formation of deadly fighters has attacked thousands of planets all across the galaxy and never tasted defeat. Only you can save the earth.</desc>
+		<image>./images/Sonic Invader (1981)(VTL)-image.png</image>
+		<video>./videos/Sonic Invader (1981)(VTL)-video.mp4</video>
+		<marquee>./images/Sonic Invader (1981)(VTL)-marquee.png</marquee>
+		<thumbnail>./images/Sonic Invader (1981)(VTL)-thumb.png</thumbnail>
+		<manual>./manuals/Sonic Invader (1981)(VTL)-manual.pdf</manual>
+		<boxback>./images/Sonic Invader (1981)(VTL)-boxback.png</boxback>
+		<rating>0.65</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Shooter / Space Invaders Like</genre>
+		<players>1-4</players>
+		<crc32>767A1F38</crc32>
+		<md5>fa49471a2d8d3482fddd77a35655aa26</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230217T111207" />
+	</game>
+	<game id="250180">
+		<path>./TOSEC/Games/Tank Attack (1981)(VTL)/Tank Attack (1981)(VTL).bin</path>
+		<name>Tank Attack</name>
+		<desc>You are engaged in a battle to the death with another tank commander who has the same weapons as you have, so only your superior skill can win the day ! There are many obstacles on the battleground, such as buildings, trees and the river all of which can be used for defence and to help in your attack.</desc>
+		<image>./images/Tank Attack (1981)(VTL)-image.png</image>
+		<video>./videos/Tank Attack (1981)(VTL)-video.mp4</video>
+		<marquee>./images/Tank Attack (1981)(VTL)-marquee.png</marquee>
+		<thumbnail>./images/Tank Attack (1981)(VTL)-thumb.png</thumbnail>
+		<manual>./manuals/Tank Attack (1981)(VTL)-manual.pdf</manual>
+		<boxback>./images/Tank Attack (1981)(VTL)-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Shooter / Vehicle, 3rd person</genre>
+		<players>1-2</players>
+		<crc32>2621FFCA</crc32>
+		<md5>68fc7cf9039568e8be17d2175d1e342c</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230217T111209" />
+	</game>
+	<game id="250183">
+		<path>./TOSEC/Games/Tennis (1981)(VTL)/Tennis (1981)(VTL).bin</path>
+		<name>Tennis</name>
+		<desc>You can play at any level of skill you desire, from novice right up to world cup matches with friends or by yourself. The players are realistic and move all around the court and the ball follows the trajectories it would during a real game.</desc>
+		<image>./images/Tennis (1981)(VTL)-image.png</image>
+		<video>./videos/Tennis (1981)(VTL)-video.mp4</video>
+		<marquee>./images/Tennis (1981)(VTL)-marquee.png</marquee>
+		<thumbnail>./images/Tennis (1981)(VTL)-thumb.png</thumbnail>
+		<manual>./manuals/Tennis (1981)(VTL)-manual.pdf</manual>
+		<boxback>./images/Tennis (1981)(VTL)-boxback.png</boxback>
+		<rating>0.5</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Sports / Tennis</genre>
+		<players>1-2</players>
+		<crc32>8BED8745</crc32>
+		<md5>1a60104942ef675d6d34c0c3361025de</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230217T111211" />
+	</game>
+	<game id="250183">
+		<path>./TOSEC/Games/Tennis (1981)(VTL)[a]/Tennis (1981)(VTL)[a].bin</path>
+		<name>Tennis</name>
+		<desc>You can play at any level of skill you desire, from novice right up to world cup matches with friends or by yourself. The players are realistic and move all around the court and the ball follows the trajectories it would during a real game.</desc>
+		<image>./images/Tennis (1981)(VTL)[a]-image.png</image>
+		<video>./videos/Tennis (1981)(VTL)[a]-video.mp4</video>
+		<marquee>./images/Tennis (1981)(VTL)[a]-marquee.png</marquee>
+		<thumbnail>./images/Tennis (1981)(VTL)[a]-thumb.png</thumbnail>
+		<manual>./manuals/Tennis (1981)(VTL)[a]-manual.pdf</manual>
+		<boxback>./images/Tennis (1981)(VTL)[a]-boxback.png</boxback>
+		<rating>0.5</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Sports / Tennis</genre>
+		<players>1-2</players>
+		<crc32>C914C092</crc32>
+		<md5>1bda4ee02466b98c6c4cf8c962838d3f</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230217T111214" />
+	</game>
+</gameList>

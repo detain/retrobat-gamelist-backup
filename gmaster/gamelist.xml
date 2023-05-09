@@ -1,0 +1,183 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./TOSEC/Games/3-on-3 Soccer - Fussball (1990)(Hartung)/3-on-3 Soccer - Fussball (1990)(Hartung).bin</path>
+		<name>3-on-3 Soccer - Fussball (1990)(Hartung)</name>
+		<image>./images/3-on-3 Soccer - Fussball (1990)(Hartung)-image.png</image>
+		<crc32>76CF4C92</crc32>
+		<md5>21ed82e77ac793904d226e2f80decec8</md5>
+		<scrap name="ScreenScraper" date="20230217T195629" />
+	</game>
+	<game id="59489">
+		<path>./TOSEC/Games/Bubble Boy (1990)(Hartung)/Bubble Boy (1990)(Hartung).bin</path>
+		<name>Bubble Boy</name>
+		<desc>Falling bubbles must be correctly rotated and placed in a matter of seconds. And if it doesn't work out, the only thing that helps is the bomb ... Here are responsive people with an overview required - a real challenge for all game fans. Who can register as a champion in the current leaderboard?nnWith 5 levels of play, chicane function and record list!</desc>
+		<image>./images/Bubble Boy (1990)(Hartung)-image.png</image>
+		<video>./videos/Bubble Boy (1990)(Hartung)-video.mp4</video>
+		<marquee>./images/Bubble Boy (1990)(Hartung)-marquee.png</marquee>
+		<developer>Hartung</developer>
+		<publisher>Hartung</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<crc32>EDD0679D</crc32>
+		<md5>a03ca20479ff776e0217313edafe4047</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230217T195631" />
+	</game>
+	<game id="59490">
+		<path>./TOSEC/Games/Continental Galaxy 2020 (1990)(Hartung)/Continental Galaxy 2020 (1990)(Hartung).bin</path>
+		<name>Continental Galaxy 2020</name>
+		<desc>Red alert!!!! The invaders of Minus-Delta-T approaching our solar system - and only you in your space glider can still avert the catastrophe on earth. You need a crystal clear head and nerves of steel ...</desc>
+		<image>./images/Continental Galaxy 2020 (1990)(Hartung)-image.png</image>
+		<video>./videos/Continental Galaxy 2020 (1990)(Hartung)-video.mp4</video>
+		<marquee>./images/Continental Galaxy 2020 (1990)(Hartung)-marquee.png</marquee>
+		<developer>Hartung</developer>
+		<publisher>Hartung</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<players>1</players>
+		<crc32>FEDEC9D5</crc32>
+		<md5>cb8b5a9e6f73fc86dc5837869492e837</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230217T195633" />
+	</game>
+	<game id="59491">
+		<path>./TOSEC/Games/Dungeon Adventure (1990)(Hartung)/Dungeon Adventure (1990)(Hartung).bin</path>
+		<name>Dungeon Adventure</name>
+		<desc>Falling Block! is a puzzle game, developed and published by Hartung, which was released in Germany in 1990.</desc>
+		<image>./images/Dungeon Adventure (1990)(Hartung)-image.png</image>
+		<video>./videos/Dungeon Adventure (1990)(Hartung)-video.mp4</video>
+		<marquee>./images/Dungeon Adventure (1990)(Hartung)-marquee.png</marquee>
+		<developer>Hartung</developer>
+		<publisher>Hartung</publisher>
+		<players>1</players>
+		<crc32>60AFB4B5</crc32>
+		<md5>809df2a9559f6a860c877f914912aa88</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230217T195636" />
+	</game>
+	<game id="59492">
+		<path>./TOSEC/Games/Falling Block! (1990)(Hartung)/Falling Block! (1990)(Hartung).bin</path>
+		<name>Falling Block!</name>
+		<desc>The new super video game from Game Master: Spatial imagination and lightning-fast reactions are required here.nn9 game levels and various chicanes with increasing difficulty ensure fascinating gaming fun.</desc>
+		<image>./images/Falling Block! (1990)(Hartung)-image.png</image>
+		<video>./videos/Falling Block! (1990)(Hartung)-video.mp4</video>
+		<marquee>./images/Falling Block! (1990)(Hartung)-marquee.png</marquee>
+		<developer>Hartung</developer>
+		<publisher>Hartung</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<crc32>58E409FB</crc32>
+		<md5>fd09a58f4dcd275dcbc5f1d4bc2f3e09</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230217T195638" />
+	</game>
+	<game id="59493">
+		<path>./TOSEC/Games/Go Bang (1990)(Hartung)/Go Bang (1990)(Hartung).bin</path>
+		<name>Go Bang</name>
+		<desc>The fascinating old-Asian strategy game as a video game for the game master. 3 different game levels for beginners, advanced and experts make the Game Master either an ideal practice partner or a serious opponent in this game.</desc>
+		<image>./images/Go Bang (1990)(Hartung)-image.png</image>
+		<video>./videos/Go Bang (1990)(Hartung)-video.mp4</video>
+		<marquee>./images/Go Bang (1990)(Hartung)-marquee.png</marquee>
+		<developer>Hartung</developer>
+		<publisher>Hartung</publisher>
+		<genre>Asiatic board game / Go</genre>
+		<players>1</players>
+		<crc32>FDA2C4E6</crc32>
+		<md5>c2e198743c83fea5b5176c8811f334f2</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230217T195640" />
+	</game>
+	<game id="59494">
+		<path>./TOSEC/Games/Hyper Space (1990)(Hartung)/Hyper Space (1990)(Hartung).bin</path>
+		<name>Hyper Space</name>
+		<desc>Hyper Space is a shooting game, developed and published by Hartung, which was released in Germany in 1990.</desc>
+		<image>./images/Hyper Space (1990)(Hartung)-image.png</image>
+		<video>./videos/Hyper Space (1990)(Hartung)-video.mp4</video>
+		<marquee>./images/Hyper Space (1990)(Hartung)-marquee.png</marquee>
+		<developer>Hartung</developer>
+		<publisher>Hartung</publisher>
+		<players>1</players>
+		<crc32>95E0CEAC</crc32>
+		<md5>2ec75fcdf4ec1c87d86215caa5d26193</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230217T195641" />
+	</game>
+	<game id="59495">
+		<path>./TOSEC/Games/Kung Fu Challenge (1990)(Hartung)/Kung Fu Challenge (1990)(Hartung).bin</path>
+		<name>Kung Fu Challenge</name>
+		<desc>The Shaolin monastery is in danger - deceitful fighters from Mandushuria are threatening to level the center of the monks to the ground. And only you are left to save the holy place: With the edge of your hand against ninja throwing stars, clubs and trident.</desc>
+		<image>./images/Kung Fu Challenge (1990)(Hartung)-image.png</image>
+		<video>./videos/Kung Fu Challenge (1990)(Hartung)-video.mp4</video>
+		<marquee>./images/Kung Fu Challenge (1990)(Hartung)-marquee.png</marquee>
+		<developer>Hartung</developer>
+		<publisher>Hartung</publisher>
+		<crc32>3EA0670B</crc32>
+		<md5>9da233d4ce78262063087cbd72f7c7a1</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230217T195643" />
+	</game>
+	<game id="59496">
+		<path>./TOSEC/Games/Pin Ball (1990)(Hartung)/Pin Ball (1990)(Hartung).bin</path>
+		<name>Pin Ball</name>
+		<desc>With this cartridge the Game Master turns into an electronic super pinball machine: Simply tension the launch spring, let go and off you go...
+And whoever scores the most points can register as a pinball champion on the current leaderboard!
+The new super game with 4 levels, bonus functions and realistic pinball effects!</desc>
+		<video>./videos/Pin Ball (1990)(Hartung)-video.mp4</video>
+		<marquee>./images/Pin Ball (1990)(Hartung)-marquee.png</marquee>
+		<developer>Hartung</developer>
+		<publisher>Hartung</publisher>
+		<genre>Pinball</genre>
+		<players>1</players>
+		<crc32>F5FFC768</crc32>
+		<md5>ea07da74db1cec925554e216e18a77ad</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230217T195645" />
+	</game>
+	<game id="59497">
+		<path>./TOSEC/Games/Space Castle (1990)(Hartung)/Space Castle (1990)(Hartung).bin</path>
+		<name>Space Castle</name>
+		<desc>With a space jet against 5 intergalactic battle stars. An exciting Game Master adventure in which you have to use quick reactions and tactical skills to save the world from the attack of hostile aliens.nnWith bonus function and automatic point counting.</desc>
+		<image>./images/Space Castle (1990)(Hartung)-image.png</image>
+		<video>./videos/Space Castle (1990)(Hartung)-video.mp4</video>
+		<marquee>./images/Space Castle (1990)(Hartung)-marquee.png</marquee>
+		<developer>Hartung</developer>
+		<publisher>Hartung</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<players>1</players>
+		<crc32>11D734F1</crc32>
+		<md5>db6f4c5272d6d400339bbae4b27aeca8</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230217T195648" />
+	</game>
+	<game id="59498">
+		<path>./TOSEC/Games/Tennis Master (1990)(Hartung)/Tennis Master (1990)(Hartung).bin</path>
+		<name>Tennis Master</name>
+		<desc>Game, set and victory - high sporting excitement is guaranteed here: The brand new tennis cardrige for the "Game Masters" tournament ensures realistic gameplay on the LCD screen. So nothing like throwing the ball up, pressing the punch button and blasting off ...nnWith beginner and professional levels, referee function and score display like in real tennis!</desc>
+		<image>./images/Tennis Master (1990)(Hartung)-image.png</image>
+		<video>./videos/Tennis Master (1990)(Hartung)-video.mp4</video>
+		<marquee>./images/Tennis Master (1990)(Hartung)-marquee.png</marquee>
+		<developer>Hartung</developer>
+		<publisher>Hartung</publisher>
+		<genre>Sports / Tennis</genre>
+		<players>1</players>
+		<crc32>48D425CF</crc32>
+		<md5>c8a03104f14efb82614377258c930b6e</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230217T195650" />
+	</game>
+	<game id="59499">
+		<path>./TOSEC/Games/Urban Champion (1990)(Hartung)/Urban Champion (1990)(Hartung).bin</path>
+		<name>Urban Champion</name>
+		<desc>Urban Champion is a shooting game, developed and published by Hartung, which was released in Germany in 1990.</desc>
+		<image>./images/Urban Champion (1990)(Hartung)-image.png</image>
+		<video>./videos/Urban Champion (1990)(Hartung)-video.mp4</video>
+		<marquee>./images/Urban Champion (1990)(Hartung)-marquee.png</marquee>
+		<developer>Hartung</developer>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<crc32>D53E6CAC</crc32>
+		<md5>052b4ee08184b1dda2af62d5b2cec46a</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230217T195652" />
+	</game>
+</gameList>

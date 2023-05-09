@@ -1,0 +1,1481 @@
+<?xml version="1.0"?>
+<gameList>
+	<game id="152246">
+		<path>./TOSEC-ISO/Games/[BIN]/Rebellion (1996-10-15)(-)(US)(proto).cue</path>
+		<name>Lost And Found Volume 3 - Rebellion</name>
+		<video>./videos/Rebellion (1996-10-15)(-)(US)(proto)-video.mp4</video>
+		<releasedate>20070929T000000</releasedate>
+		<publisher>Oldergames.com</publisher>
+		<genre>Adventure</genre>
+		<crc32>2F59D3F6</crc32>
+		<md5>8871f21c3064ba3471a617280e5b201c</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230216T092619" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[BIN]/Deep Fear v1.000 (1998-07-15)(Sega)(US)(Disc 1 of 2)(proto).cue</path>
+		<name>Deep Fear v1.000 (1998-07-15)(Sega)(US)(Disc 1 of 2)(proto)</name>
+		<crc32>AA3F66A2</crc32>
+		<md5>f99e051bc6b873e0c4510538d53666c3</md5>
+		<scrap name="ScreenScraper" date="20230217T020127" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[BIN]/Deep Fear v1.000 (1998-07-15)(Sega)(US)(Disc 2 of 2)(proto).cue</path>
+		<name>Deep Fear v1.000 (1998-07-15)(Sega)(US)(Disc 2 of 2)(proto)</name>
+		<crc32>DC120F8D</crc32>
+		<md5>c478a5f7dcc151ffaa4aa72ea304db4a</md5>
+		<scrap name="ScreenScraper" date="20230217T020128" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/A+M+O+K v1.010 (1997)(Sega)(US)(Track 1 of 8)[!].iso</path>
+		<name>A+M+O+K v1.010 (1997)(Sega)(US)(Track 1 of 8)[!]</name>
+		<crc32>4FDF92E4</crc32>
+		<md5>0e2b2fb394b2866a039788a3bb0ba885</md5>
+		<scrap name="ScreenScraper" date="20230217T020129" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Blast Chamber v1.000 (1996)(Activision)(US)(Track 01 of 23)[!].iso</path>
+		<name>Blast Chamber v1.000 (1996)(Activision)(US)(Track 01 of 23)[!]</name>
+		<crc32>33BA076F</crc32>
+		<md5>fd52f12bbb341d245716e3197af51294</md5>
+		<scrap name="ScreenScraper" date="20230217T020131" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Blazing Dragons v1.000 (1996)(Mindscape)(US)(Track 1 of 2)[!].iso</path>
+		<name>Blazing Dragons v1.000 (1996)(Mindscape)(US)(Track 1 of 2)[!]</name>
+		<crc32>1655BCD1</crc32>
+		<scrap name="ScreenScraper" date="20230217T020132" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Brain Dead 13 v1.000 (1996)(ReadySoft)(US)(Track 1 of 2)[!].iso</path>
+		<name>Brain Dead 13 v1.000 (1996)(ReadySoft)(US)(Track 1 of 2)[!]</name>
+		<crc32>7EF6E635</crc32>
+		<scrap name="ScreenScraper" date="20230217T020134" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Casper v1.003 (1996)(Interplay)(US)(Track 1 of 8)[!].iso</path>
+		<name>Casper v1.003 (1996)(Interplay)(US)(Track 1 of 8)[!]</name>
+		<crc32>74916547</crc32>
+		<md5>f3950c79b76b1f68a534ca731b0fe12b</md5>
+		<scrap name="ScreenScraper" date="20230217T020136" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Center Ring Boxing v1.02U (1995)(JVC)(US)(Track 1 of 7)[!].iso</path>
+		<name>Center Ring Boxing v1.02U (1995)(JVC)(US)(Track 1 of 7)[!]</name>
+		<crc32>66C9FFF5</crc32>
+		<md5>d770fab3b74882067f73c85324014019</md5>
+		<scrap name="ScreenScraper" date="20230217T020137" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Clockwork Knight v1.002 (1995)(Sega)(US)(Track 1 of 3)[!][1008681007 6-95 5SA1].iso</path>
+		<name>Clockwork Knight v1.002 (1995)(Sega)(US)(Track 1 of 3)[!][1008681007 6-95 5SA1]</name>
+		<crc32>1492F083</crc32>
+		<scrap name="ScreenScraper" date="20230217T020138" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/College Slam v1.000 (1996)(Acclaim)(US)(Track 01 of 54)[!].iso</path>
+		<name>College Slam v1.000 (1996)(Acclaim)(US)(Track 01 of 54)[!]</name>
+		<crc32>C162A690</crc32>
+		<md5>ea56225037a22ef1108bcf651b26ef5f</md5>
+		<scrap name="ScreenScraper" date="20230217T020139" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Criticom v1.000 (1996)(Vic Tokai)(US)(Track 01 of 12)[!].iso</path>
+		<name>Criticom v1.000 (1996)(Vic Tokai)(US)(Track 01 of 12)[!]</name>
+		<crc32>CC5C9B7C</crc32>
+		<scrap name="ScreenScraper" date="20230217T020141" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Cyber Speedway v1.004 (1995)(Sega)(US)(Track 01 of 21)[!].iso</path>
+		<name>Cyber Speedway v1.004 (1995)(Sega)(US)(Track 01 of 21)[!]</name>
+		<crc32>3822A394</crc32>
+		<md5>ead875e344fc22863335e99ce18f66ca</md5>
+		<scrap name="ScreenScraper" date="20230217T020145" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Cyberia v1.000 (1995)(Interplay)(US)(M3)(Track 1 of 2)[!].iso</path>
+		<name>Cyberia v1.000 (1995)(Interplay)(US)(M3)(Track 1 of 2)[!]</name>
+		<crc32>159F1C60</crc32>
+		<scrap name="ScreenScraper" date="20230217T020146" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/D v1.000 (1996)(Acclaim)(US)(Disc 2 of 2)(Track 1 of 2)[!].iso</path>
+		<name>D v1.000 (1996)(Acclaim)(US)(Disc 2 of 2)(Track 1 of 2)[!]</name>
+		<crc32>E6DEAC39</crc32>
+		<scrap name="ScreenScraper" date="20230217T020147" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Dark Legend v1.002 (1995)(Data East)(US)(Track 01 of 27)[!].iso</path>
+		<name>Dark Legend v1.002 (1995)(Data East)(US)(Track 01 of 27)[!]</name>
+		<crc32>07A9DCD8</crc32>
+		<md5>e711e9d0fa1e9d5bb187c60e67718760</md5>
+		<scrap name="ScreenScraper" date="20230217T020148" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Daytona USA - Championship Circuit Edition v1.001 (1996)(Sega)(US)(Track 01 of 27)[!][SATURN81213 P1H].iso</path>
+		<name>Daytona USA - Championship Circuit Edition v1.001 (1996)(Sega)(US)(Track 01 of 27)[!][SATURN81213 P1H]</name>
+		<crc32>689CD274</crc32>
+		<md5>e61fef127d29e87a4b38243182adfc82</md5>
+		<scrap name="ScreenScraper" date="20230217T020149" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Daytona USA v1.000 (1995)(Sega)(US)(Track 01 of 22)[!][1008681200].iso</path>
+		<name>Daytona USA v1.000 (1995)(Sega)(US)(Track 01 of 22)[!][1008681200]</name>
+		<crc32>239F42BD</crc32>
+		<md5>51edb9fe298165ae3b52b30f33046cec</md5>
+		<scrap name="ScreenScraper" date="20230217T020151" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Decathlete v1.000 (1996)(Sega)(US)(Track 01 of 11)[!].iso</path>
+		<name>Decathlete v1.000 (1996)(Sega)(US)(Track 01 of 11)[!]</name>
+		<crc32>DAACB90F</crc32>
+		<md5>226b32e044a5073bb317221914f835ce</md5>
+		<scrap name="ScreenScraper" date="20230217T020152" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Defcon 5 v1.000 (1995)(Data East)(US)(Track 1 of 3)[!].iso</path>
+		<name>Defcon 5 v1.000 (1995)(Data East)(US)(Track 1 of 3)[!]</name>
+		<crc32>8BDD8A22</crc32>
+		<scrap name="ScreenScraper" date="20230217T020153" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Die Hard Arcade v1.001 (1996)(Sega)(US)(Track 01 of 43)[!].iso</path>
+		<name>Die Hard Arcade v1.001 (1996)(Sega)(US)(Track 01 of 43)[!]</name>
+		<crc32>AAEBFB49</crc32>
+		<md5>14bbd1258f65ddea56d7052f44f1bce5</md5>
+		<scrap name="ScreenScraper" date="20230217T020155" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Die Hard Trilogy v1.000 (1996)(Fox)(US)(Track 01 of 27)[!].iso</path>
+		<name>Die Hard Trilogy v1.000 (1996)(Fox)(US)(Track 01 of 27)[!]</name>
+		<crc32>CDD9063D</crc32>
+		<md5>f7dc9e137595ddc6574f8fcd0481d7f6</md5>
+		<scrap name="ScreenScraper" date="20230217T020157" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Double Switch v1.000 (1995)(Digital Pictures)(US)(Disc 1 of 2)(Track 1 of 2)[!].iso</path>
+		<name>Double Switch v1.000 (1995)(Digital Pictures)(US)(Disc 1 of 2)(Track 1 of 2)[!]</name>
+		<crc32>9D1F596D</crc32>
+		<scrap name="ScreenScraper" date="20230217T020158" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Double Switch v1.000 (1995)(Digital Pictures)(US)(Disc 2 of 2)(Track 1 of 2)[!].iso</path>
+		<name>Double Switch v1.000 (1995)(Digital Pictures)(US)(Disc 2 of 2)(Track 1 of 2)[!]</name>
+		<crc32>3156705B</crc32>
+		<scrap name="ScreenScraper" date="20230217T020159" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/F1 Challenge v1.000 (1996)(Sega - Virgin)(US)(Track 01 of 17)[!].iso</path>
+		<name>F1 Challenge v1.000 (1996)(Sega - Virgin)(US)(Track 01 of 17)[!]</name>
+		<crc32>4C320492</crc32>
+		<md5>e4467f4a66c30225831425a1ff50a70d</md5>
+		<scrap name="ScreenScraper" date="20230217T020200" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/FIFA - Road to World Cup 98 v1.000 (1997)(Electronic Arts)(US)(M7)(Track 1 of 2)[!].iso</path>
+		<name>FIFA - Road to World Cup 98 v1.000 (1997)(Electronic Arts)(US)(M7)(Track 1 of 2)[!]</name>
+		<crc32>C9E09A61</crc32>
+		<scrap name="ScreenScraper" date="20230217T020201" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Fighters Megamix v1.004 (1997)(Sega)(US)(Track 01 of 42)[!].iso</path>
+		<name>Fighters Megamix v1.004 (1997)(Sega)(US)(Track 01 of 42)[!]</name>
+		<crc32>ADCFCEB6</crc32>
+		<md5>22f6a185a8e7fcd32d901114e6fcd9aa</md5>
+		<scrap name="ScreenScraper" date="20230217T020203" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Fighting Vipers v2.000 (1996)(Sega)(US)(Track 01 of 17)[!].iso</path>
+		<name>Fighting Vipers v2.000 (1996)(Sega)(US)(Track 01 of 17)[!]</name>
+		<crc32>6BB0B71E</crc32>
+		<md5>4e1b6a8fd1b1c4985c5c355fe8da414d</md5>
+		<scrap name="ScreenScraper" date="20230217T020205" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Galactic Attack v1.000 (1996)(Acclaim)(US)(Track 01 of 18)[!].iso</path>
+		<name>Galactic Attack v1.000 (1996)(Acclaim)(US)(Track 01 of 18)[!]</name>
+		<thumbnail>./images/Galactic Attack v1.000 (1996)(Acclaim)(US)(Track 01 of 18)[!]-thumb.png</thumbnail>
+		<fanart>./images/Galactic Attack v1.000 (1996)(Acclaim)(US)(Track 01 of 18)[!]-fanart.jpg</fanart>
+		<manual>./manuals/Galactic Attack v1.000 (1996)(Acclaim)(US)(Track 01 of 18)[!]-manual.pdf</manual>
+		<boxback>./images/Galactic Attack v1.000 (1996)(Acclaim)(US)(Track 01 of 18)[!]-boxback.png</boxback>
+		<crc32>325B4691</crc32>
+		<md5>1223207a213daa0de91ec7a6c120aebd</md5>
+		<scrap name="ScreenScraper" date="20230217T020206" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Grid Runner v1.000 (1996)(Virgin)(US)(Track 01 of 19)[!].iso</path>
+		<name>Grid Runner v1.000 (1996)(Virgin)(US)(Track 01 of 19)[!]</name>
+		<crc32>7B5B07FF</crc32>
+		<md5>f3ca36f7ba1f3389aab7c76fede5cdc6</md5>
+		<scrap name="ScreenScraper" date="20230217T020208" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/High Velocity - Mountain Racing Challenge v1.002 (1995)(Atlus)(US)(Track 1 of 7)[!].iso</path>
+		<name>High Velocity - Mountain Racing Challenge v1.002 (1995)(Atlus)(US)(Track 1 of 7)[!]</name>
+		<crc32>BC97DF89</crc32>
+		<md5>a06c700aa754b5f4fd92a29599f63509</md5>
+		<scrap name="ScreenScraper" date="20230217T020209" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Iron Man X-O Manowar in Heavy Metal v1.000 (1996)(Acclaim)(US)(Track 01 of 21)[!].iso</path>
+		<name>Iron Man X-O Manowar in Heavy Metal v1.000 (1996)(Acclaim)(US)(Track 01 of 21)[!]</name>
+		<crc32>7FFA7A83</crc32>
+		<scrap name="ScreenScraper" date="20230217T020211" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Iron Storm v1.000 (1996)(Working Designs)(US)(Track 1 of 2)[!].iso</path>
+		<name>Iron Storm v1.000 (1996)(Working Designs)(US)(Track 1 of 2)[!]</name>
+		<crc32>7AD64326</crc32>
+		<scrap name="ScreenScraper" date="20230217T020212" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Legend of Oasis, The v1.002 (1996)(Sega)(US)(Track 1 of 2)[!].iso</path>
+		<name>Legend of Oasis, The v1.002 (1996)(Sega)(US)(Track 1 of 2)[!]</name>
+		<crc32>AE7ECD02</crc32>
+		<md5>3a0219e363577d5ea379c1f848f6dd55</md5>
+		<scrap name="ScreenScraper" date="20230217T020214" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Legend of Oasis, The v1.002 (1996)(Sega)(US)(Track 1 of 2)[tr pt Waldsonglym].iso</path>
+		<name>Legend of Oasis, The v1.002 (1996)(Sega)(US)(Track 1 of 2)[tr pt Waldsonglym]</name>
+		<crc32>1B4F4CC7</crc32>
+		<md5>b039d5a7839f9043feefc1c1becc4df4</md5>
+		<scrap name="ScreenScraper" date="20230217T020216" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Lightning Gunner (1997-04-14)(E.O. Imagination)(proto).cue</path>
+		<name>Lightning Gunner (1997-04-14)(E.O. Imagination)(proto)</name>
+		<crc32>CCEA2D9C</crc32>
+		<md5>ef0b2c319a0ef62afa83d880f3d53875</md5>
+		<scrap name="ScreenScraper" date="20230217T020217" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Lightning Gunner (1997-04-14)(E.O. Imagination)(proto).iso</path>
+		<name>Lightning Gunner (1997-04-14)(E.O. Imagination)(proto)</name>
+		<crc32>4F88817D</crc32>
+		<md5>64591755a0460ad56e95c1a18fe050ec</md5>
+		<scrap name="ScreenScraper" date="20230217T020218" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Madden NFL 97 v1.000 (1996)(Electronic Arts)(US)(Track 1 of 2)[!].iso</path>
+		<name>Madden NFL 97 v1.000 (1996)(Electronic Arts)(US)(Track 1 of 2)[!]</name>
+		<crc32>6DCB85F7</crc32>
+		<scrap name="ScreenScraper" date="20230217T020220" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Madden NFL 98 v1.000 (1997)(Electronic Arts)(US)(Track 1 of 2)[!].iso</path>
+		<name>Madden NFL 98 v1.000 (1997)(Electronic Arts)(US)(Track 1 of 2)[!]</name>
+		<crc32>0EDFBEEF</crc32>
+		<scrap name="ScreenScraper" date="20230217T020221" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Mansion of Hidden Souls, The v1.006 (1995)(Sega)(US)(Track 1 of 2)[!].iso</path>
+		<name>Mansion of Hidden Souls, The v1.006 (1995)(Sega)(US)(Track 1 of 2)[!]</name>
+		<crc32>5E03AB9A</crc32>
+		<scrap name="ScreenScraper" date="20230217T020222" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Myst v1.001 (1995)(Acclaim)(US)(Track 1 of 2)[!].iso</path>
+		<name>Myst v1.001 (1995)(Acclaim)(US)(Track 1 of 2)[!]</name>
+		<crc32>785D8664</crc32>
+		<scrap name="ScreenScraper" date="20230217T020223" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Need for Speed, The v1.000 (1996)(Electronic Arts)(US)(de-en)(Track 01 of 11)[!].iso</path>
+		<name>Need for Speed, The v1.000 (1996)(Electronic Arts)(US)(de-en)(Track 01 of 11)[!]</name>
+		<crc32>036D6554</crc32>
+		<scrap name="ScreenScraper" date="20230217T020224" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/NFL '97 v1.010 (1996)(Sega)(US)(Track 01 of 98)[!].iso</path>
+		<name>NFL '97 v1.010 (1996)(Sega)(US)(Track 01 of 98)[!]</name>
+		<crc32>B0768FE9</crc32>
+		<md5>d85fdacaff2a1fc5458a7775ae10d496</md5>
+		<scrap name="ScreenScraper" date="20230217T020226" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/NFL Quarterback Club '97 v1.001 (1997)(Acclaim)(US)(Track 1 of 2)[!].iso</path>
+		<name>NFL Quarterback Club '97 v1.001 (1997)(Acclaim)(US)(Track 1 of 2)[!]</name>
+		<crc32>ED56A340</crc32>
+		<md5>d257917644469a60760870e16e5825c1</md5>
+		<scrap name="ScreenScraper" date="20230217T020228" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/NHL 97 v1.000 (1996)(Electronic Arts)(US)(Track 1 of 8)[!].iso</path>
+		<name>NHL 97 v1.000 (1996)(Electronic Arts)(US)(Track 1 of 8)[!]</name>
+		<crc32>33B3AD6C</crc32>
+		<scrap name="ScreenScraper" date="20230217T020230" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/NHL All-Star Hockey 98 v1.015 (1998)(Sega)(US)(M3)(Track 1 of 2)[!].iso</path>
+		<name>NHL All-Star Hockey 98 v1.015 (1998)(Sega)(US)(M3)(Track 1 of 2)[!]</name>
+		<crc32>AEA6A49B</crc32>
+		<scrap name="ScreenScraper" date="20230217T020231" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/NHL All-Star Hockey v1.072 (1995)(Sega)(US)(Track 01 of 36)[!][1008681102 9-95 2SA2].iso</path>
+		<name>NHL All-Star Hockey v1.072 (1995)(Sega)(US)(Track 01 of 36)[!][1008681102 9-95 2SA2]</name>
+		<crc32>3B6969A0</crc32>
+		<scrap name="ScreenScraper" date="20230217T020232" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/NHL Powerplay '96 v1.000 (1996)(Virgin)(US)(Track 1 of 2)[!].iso</path>
+		<name>NHL Powerplay '96 v1.000 (1996)(Virgin)(US)(Track 1 of 2)[!]</name>
+		<crc32>9DC2028B</crc32>
+		<scrap name="ScreenScraper" date="20230217T020233" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Night Warriors - Darkstalkers' Revenge v1.001 (1996)(Capcom)(US)(Track 1 of 2)[!].iso</path>
+		<name>Night Warriors - Darkstalkers' Revenge v1.001 (1996)(Capcom)(US)(Track 1 of 2)[!]</name>
+		<crc32>A71857EB</crc32>
+		<scrap name="ScreenScraper" date="20230217T020234" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Pebble Beach Golf Links v0.001 (1995)(Sega)(US)(Track 1 of 2)[!].iso</path>
+		<name>Pebble Beach Golf Links v0.001 (1995)(Sega)(US)(Track 1 of 2)[!]</name>
+		<crc32>25485D62</crc32>
+		<scrap name="ScreenScraper" date="20230217T020236" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Quarterback Attack v1.000 (1995)(Digital Pictures)(US)(Track 1 of 2)[!].iso</path>
+		<name>Quarterback Attack v1.000 (1995)(Digital Pictures)(US)(Track 1 of 2)[!]</name>
+		<crc32>D5B13DD6</crc32>
+		<scrap name="ScreenScraper" date="20230217T020237" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Rayman v1.000 (1995)(Ubi Soft)(US)(Track 01 of 51)[tr pt Waldsonglym].iso</path>
+		<name>Rayman v1.000 (1995)(Ubi Soft)(US)(Track 01 of 51)[tr pt Waldsonglym]</name>
+		<crc32>855A08A7</crc32>
+		<md5>30761c9fa915e3e62676087f29a61584</md5>
+		<scrap name="ScreenScraper" date="20230217T020239" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Revolution X v1.000 (1995)(Acclaim)(US)(Track 01 of 23)[!][T-8107H 2-96 2SA1, 5A25].iso</path>
+		<name>Revolution X v1.000 (1995)(Acclaim)(US)(Track 01 of 23)[!][T-8107H 2-96 2SA1, 5A25]</name>
+		<crc32>93082DC2</crc32>
+		<md5>18d2424dab88a6d63792f9d85a417955</md5>
+		<scrap name="ScreenScraper" date="20230217T020240" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Scud - The Disposable Assassin v1.015 (1997)(SegaSoft)(US)(Track 1 of 9)[!].iso</path>
+		<name>Scud - The Disposable Assassin v1.015 (1997)(SegaSoft)(US)(Track 1 of 9)[!]</name>
+		<crc32>863EB6AC</crc32>
+		<scrap name="ScreenScraper" date="20230217T020241" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Sega Rally Championship v1.006 (1995)(Sega)(US)(Track 01 of 17)[!].iso</path>
+		<name>Sega Rally Championship v1.006 (1995)(Sega)(US)(Track 01 of 17)[!]</name>
+		<thumbnail>./images/Sega Rally Championship v1.006 (1995)(Sega)(US)(Track 01 of 17)[!]-thumb.png</thumbnail>
+		<fanart>./images/Sega Rally Championship v1.006 (1995)(Sega)(US)(Track 01 of 17)[!]-fanart.jpg</fanart>
+		<manual>./manuals/Sega Rally Championship v1.006 (1995)(Sega)(US)(Track 01 of 17)[!]-manual.pdf</manual>
+		<boxback>./images/Sega Rally Championship v1.006 (1995)(Sega)(US)(Track 01 of 17)[!]-boxback.png</boxback>
+		<crc32>9E67F765</crc32>
+		<md5>0c025ff76e376671cb4881e5b8278e90</md5>
+		<scrap name="ScreenScraper" date="20230217T020242" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Sega Touring Car Championship v1.001 (1997)(Sega)(US)(Track 01 of 19)[!].iso</path>
+		<name>Sega Touring Car Championship v1.001 (1997)(Sega)(US)(Track 01 of 19)[!]</name>
+		<crc32>3A387360</crc32>
+		<md5>9bcd6d4777dba8c14eb27b0108567f93</md5>
+		<scrap name="ScreenScraper" date="20230217T020244" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/SimCity 2000 v1.401 (1995)(Maxis)(US)(Track 1 of 2)[!].iso</path>
+		<name>SimCity 2000 v1.401 (1995)(Maxis)(US)(Track 1 of 2)[!]</name>
+		<crc32>F3DCA4C9</crc32>
+		<scrap name="ScreenScraper" date="20230217T020245" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Solar Eclipse v1.000 (1995)(Crystal Dynamics)(US)(Track 1 of 2)[!].iso</path>
+		<name>Solar Eclipse v1.000 (1995)(Crystal Dynamics)(US)(Track 1 of 2)[!]</name>
+		<crc32>AADF843F</crc32>
+		<scrap name="ScreenScraper" date="20230217T020246" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Sonic 3D Blast v1.000 (1996)(Sega)(US)(Track 01 of 25)[!].iso</path>
+		<name>Sonic 3D Blast v1.000 (1996)(Sega)(US)(Track 01 of 25)[!]</name>
+		<crc32>DF709CDA</crc32>
+		<md5>37d036e470891e5f49f05c030e6f3d4c</md5>
+		<scrap name="ScreenScraper" date="20230217T020248" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Sonic R v1.000 (1997)(Sega)(US)(Track 01 of 21)[!].iso</path>
+		<name>Sonic R v1.000 (1997)(Sega)(US)(Track 01 of 21)[!]</name>
+		<crc32>0E946856</crc32>
+		<md5>bc9055b88378a25cd79e207b403c4cb3</md5>
+		<scrap name="ScreenScraper" date="20230217T020249" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Soviet Strike v1.000 (1997)(Electronic Arts)(US)(Track 1 of 2)[!].iso</path>
+		<name>Soviet Strike v1.000 (1997)(Electronic Arts)(US)(Track 1 of 2)[!]</name>
+		<crc32>6639F879</crc32>
+		<scrap name="ScreenScraper" date="20230217T020251" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Space Jam v1.000 (1996)(Acclaim)(US)(Track 01 of 16)[!].iso</path>
+		<name>Space Jam v1.000 (1996)(Acclaim)(US)(Track 01 of 16)[!]</name>
+		<crc32>E8125207</crc32>
+		<md5>811e8e2cfcb0b3e138c1e4a9046a441e</md5>
+		<scrap name="ScreenScraper" date="20230217T020252" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Street Fighter Alpha - Warrior's Dreams v1.000 (1995)(Capcom)(US)(Track 01 of 50)[!].iso</path>
+		<name>Street Fighter Alpha - Warrior's Dreams v1.000 (1995)(Capcom)(US)(Track 01 of 50)[!]</name>
+		<thumbnail>./images/Street Fighter Alpha - Warrior's Dreams v1.000 (1995)(Capcom)(US)(Track 01 of 50)[!]-thumb.png</thumbnail>
+		<manual>./manuals/Street Fighter Alpha - Warrior's Dreams v1.000 (1995)(Capcom)(US)(Track 01 of 50)[!]-manual.pdf</manual>
+		<boxback>./images/Street Fighter Alpha - Warrior's Dreams v1.000 (1995)(Capcom)(US)(Track 01 of 50)[!]-boxback.png</boxback>
+		<crc32>8E69DBCC</crc32>
+		<md5>4ff0749f4a4005912a65b8fe915f84de</md5>
+		<scrap name="ScreenScraper" date="20230217T020254" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Tempest 2000 v1.000 (1996)(Interplay)(US)(Track 01 of 12)[!].iso</path>
+		<name>Tempest 2000 v1.000 (1996)(Interplay)(US)(Track 01 of 12)[!]</name>
+		<crc32>3BBCCE7B</crc32>
+		<md5>5f0abf240438a0d83852866e82135c3a</md5>
+		<scrap name="ScreenScraper" date="20230217T020255" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Tomb Raider v1.000 (1996)(Eidos)(US)(Track 01 of 57)[!].iso</path>
+		<name>Tomb Raider v1.000 (1996)(Eidos)(US)(Track 01 of 57)[!]</name>
+		<crc32>D86BF49B</crc32>
+		<scrap name="ScreenScraper" date="20230217T020256" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Ultimate Mortal Kombat 3 v1.006 (1996)(Williams)(US)(Track 01 of 96)[!].iso</path>
+		<name>Ultimate Mortal Kombat 3 v1.006 (1996)(Williams)(US)(Track 01 of 96)[!]</name>
+		<crc32>C4F13777</crc32>
+		<md5>b67d7569d60c14e442e74ba71df71499</md5>
+		<scrap name="ScreenScraper" date="20230217T020258" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Virtua Cop v1.001 (1996)(Sega)(US)(Track 01 of 19)[!][12S].iso</path>
+		<name>Virtua Cop v1.001 (1996)(Sega)(US)(Track 01 of 19)[!][12S]</name>
+		<thumbnail>./images/Virtua Cop v1.001 (1996)(Sega)(US)(Track 01 of 19)[!][12S]-thumb.png</thumbnail>
+		<manual>./manuals/Virtua Cop v1.001 (1996)(Sega)(US)(Track 01 of 19)[!][12S]-manual.pdf</manual>
+		<boxback>./images/Virtua Cop v1.001 (1996)(Sega)(US)(Track 01 of 19)[!][12S]-boxback.png</boxback>
+		<crc32>6F730036</crc32>
+		<md5>bc29baf6c5cd434cbc58edfe3b206dc0</md5>
+		<scrap name="ScreenScraper" date="20230217T020259" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Virtua Fighter 2 v1.005 (1995)(Sega)(US)(Track 01 of 34)[!][1008681014].iso</path>
+		<name>Virtua Fighter 2 v1.005 (1995)(Sega)(US)(Track 01 of 34)[!][1008681014]</name>
+		<thumbnail>./images/Virtua Fighter 2 v1.005 (1995)(Sega)(US)(Track 01 of 34)[!][1008681014]-thumb.png</thumbnail>
+		<manual>./manuals/Virtua Fighter 2 v1.005 (1995)(Sega)(US)(Track 01 of 34)[!][1008681014]-manual.pdf</manual>
+		<boxback>./images/Virtua Fighter 2 v1.005 (1995)(Sega)(US)(Track 01 of 34)[!][1008681014]-boxback.png</boxback>
+		<crc32>CA854746</crc32>
+		<md5>671e27f4b1a839b221f2aa1d7cbc6d0e</md5>
+		<scrap name="ScreenScraper" date="20230217T020301" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Virtua Fighter 2 v1.005 (1995)(Sega)(US)(Track 01 of 34)[!][SATURN81014 P1H].iso</path>
+		<name>Virtua Fighter 2 v1.005 (1995)(Sega)(US)(Track 01 of 34)[!][SATURN81014 P1H]</name>
+		<crc32>EF7104EC</crc32>
+		<md5>5b7a9b22eebe5961c183838101f897f2</md5>
+		<scrap name="ScreenScraper" date="20230217T020303" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Virtua Fighter 2 v1.005 (1995)(Sega)(US)(Track 01 of 34)[!][SATURN81014RE P1H].iso</path>
+		<name>Virtua Fighter 2 v1.005 (1995)(Sega)(US)(Track 01 of 34)[!][SATURN81014RE P1H]</name>
+		<thumbnail>./images/Virtua Fighter 2 v1.005 (1995)(Sega)(US)(Track 01 of 34)[!][SATURN81014RE P1H]-thumb.png</thumbnail>
+		<manual>./manuals/Virtua Fighter 2 v1.005 (1995)(Sega)(US)(Track 01 of 34)[!][SATURN81014RE P1H]-manual.pdf</manual>
+		<boxback>./images/Virtua Fighter 2 v1.005 (1995)(Sega)(US)(Track 01 of 34)[!][SATURN81014RE P1H]-boxback.png</boxback>
+		<crc32>CA854746</crc32>
+		<md5>671e27f4b1a839b221f2aa1d7cbc6d0e</md5>
+		<scrap name="ScreenScraper" date="20230217T020304" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Virtua Fighter Remix v0.003 (1995)(Sega)(US)(Track 01 of 19)[!].iso</path>
+		<name>Virtua Fighter Remix v0.003 (1995)(Sega)(US)(Track 01 of 19)[!]</name>
+		<crc32>5FB1DC60</crc32>
+		<md5>3dcf72def5b75b69bf6b6ac218432ac4</md5>
+		<scrap name="ScreenScraper" date="20230217T020306" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/WipEout v1.002 (1996)(Sega)(US)(Track 01 of 11)[!].iso</path>
+		<name>WipEout v1.002 (1996)(Sega)(US)(Track 01 of 11)[!]</name>
+		<crc32>F4A554F3</crc32>
+		<md5>b45d4294f3eea99f67de1780fcb5593f</md5>
+		<scrap name="ScreenScraper" date="20230217T020307" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/World Series Baseball 98 v1.006 (1997)(Sega)(US)(Track 1 of 5)[!].iso</path>
+		<name>World Series Baseball 98 v1.006 (1997)(Sega)(US)(Track 1 of 5)[!]</name>
+		<crc32>DB7E60CD</crc32>
+		<scrap name="ScreenScraper" date="20230217T020308" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/World Series Baseball v1.003 (1995)(Sega)(US)(Track 1 of 2)[!][SATURN81109 P1H].iso</path>
+		<name>World Series Baseball v1.003 (1995)(Sega)(US)(Track 1 of 2)[!][SATURN81109 P1H]</name>
+		<crc32>5AABBB85</crc32>
+		<md5>6cde21edb506d13af664f3b4e1652602</md5>
+		<scrap name="ScreenScraper" date="20230217T020311" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Worldwide Soccer '98 v1.001 (1997)(Sega)(US)(M3)(Track 1 of 6)[!].iso</path>
+		<name>Worldwide Soccer '98 v1.001 (1997)(Sega)(US)(M3)(Track 1 of 6)[!]</name>
+		<crc32>AA970E77</crc32>
+		<scrap name="ScreenScraper" date="20230217T020312" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Worldwide Soccer - Sega International Victory Goal Edition v1.002 (1995)(Sega)(US)(Track 01 of 17)[!].iso</path>
+		<name>Worldwide Soccer - Sega International Victory Goal Edition v1.002 (1995)(Sega)(US)(Track 01 of 17)[!]</name>
+		<crc32>23DB4658</crc32>
+		<md5>647a91395a1d7bef7ae4288c7f4240bd</md5>
+		<scrap name="ScreenScraper" date="20230217T020314" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/X-Men - Children of the Atom v1.000 (1996)(Acclaim)(US)(Track 01 of 29)[!].iso</path>
+		<name>X-Men - Children of the Atom v1.000 (1996)(Acclaim)(US)(Track 01 of 29)[!]</name>
+		<crc32>AC270C16</crc32>
+		<md5>adb9f701a0196ff14043fa6358a37ead</md5>
+		<scrap name="ScreenScraper" date="20230217T020316" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[BIN]/Legend of Oasis, The v1.002 (1996)(Sega)(US)[tr pt Waldsonglym].cue</path>
+		<name>Legend of Oasis, The v1.002</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>A39E4234</crc32>
+		<md5>151ec4637e18f6d805f66e67ca71c5d5</md5>
+		<lang>en,pt</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230302T185821" />
+		<scrap name="ArcadeDB" date="20221212T162007" />
+	</game>
+	<game id="13087">
+		<path>./TOSEC-ISO/Games/[BIN]/Mortal Kombat Trilogy (1997)(Midway)(US)[h quality paul_met][v1.1].cue</path>
+		<name>Mortal Kombat Trilogy</name>
+		<desc>All the characters from the first three Mortal Kombat games return for the ultimate battle. You can play as Kano, Reptile, Mileena, Kung Lao, Shang Tsung, Sindel, Sketor, Stryker, Nightwolf, Sheeva, Kitana, Scorpion, Sonya, Smoke (Cyber Ninja), Rain, Jade, Baraka, Johnny Cage, Ermac, Noob Saibot, Sub-Zero (Unmasked), Sub-Zero (Classic), Jax, Rayden, Cyrax, Liu Kang, Smoke (Human), Kabal, Goro, Kintaro, Motaro, or Shao Kahn.
+
+This game is one-on-one martial arts fighting. The player can choose from over thirty different characters, all with their own fighting style and their own special moves. Trilogy differs from the other games in that you can play combinations of people that otherwise isn't possible, such as old Liu Kang vs. new Liu Kang, etc.
+
+Mortal Kombat Trilogy also allows you to challenge a friend to a fight through a Windows IPX network connection.</desc>
+		<image>./media/screenshots/Mortal Kombat Trilogy (1997)(Midway)(US)[h quality paul_met][v1.1].png</image>
+		<video>./media/videos/Mortal Kombat Trilogy (1997)(Midway)(US)[h quality paul_met][v1.1].mp4</video>
+		<marquee>./media/marquees/Mortal Kombat Trilogy (1997)(Midway)(US)[h quality paul_met][v1.1].png</marquee>
+		<thumbnail>./images/Mortal Kombat Trilogy (1997)(Midway)(US)[h quality paul_met][v1.1]-thumb.png</thumbnail>
+		<manual>./manuals/Mortal Kombat Trilogy (1997)(Midway)(US)[h quality paul_met][v1.1]-manual.pdf</manual>
+		<bezel>./images/Mortal Kombat Trilogy (1997)(Midway)(US)[h quality paul_met][v1.1]-bezel.png</bezel>
+		<boxback>./images/Mortal Kombat Trilogy (1997)(Midway)(US)[h quality paul_met][v1.1]-boxback.png</boxback>
+		<rating>0.9</rating>
+		<releasedate>19970808T000000</releasedate>
+		<developer>Point of View</developer>
+		<publisher>Midway</publisher>
+		<genre>Action</genre>
+		<family>Mortal Kombat</family>
+		<players>1-2</players>
+		<crc32>3DAF2593</crc32>
+		<md5>7742413718171c50960b7dbcb3bdb196</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T185822" />
+		<scrap name="ArcadeDB" date="20221212T162007" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[BIN]/Rayman v1.000 (1995)(Ubi Soft)(US)[tr pt Waldsonglym].cue</path>
+		<name>Rayman v1.000</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>DAF71024</crc32>
+		<md5>87f1aa93bfb2a93b70f823162d9e4f5e</md5>
+		<lang>en,pt</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230302T185824" />
+		<scrap name="ArcadeDB" date="20221212T162007" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/A+M+O+K v1.010 (1997)(Sega)(US)[!].cue</path>
+		<name>A+M+O+K v1.010</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>BA12DEFB</crc32>
+		<md5>c0dc3af5083c28421224c6100c13c576</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T185825" />
+		<scrap name="ArcadeDB" date="20221212T162008" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Blast Chamber v1.000 (1996)(Activision)(US)[!].cue</path>
+		<name>Blast Chamber v1.000</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>B87BF514</crc32>
+		<md5>956864df19811a7f022f8275478f0257</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T185826" />
+		<scrap name="ArcadeDB" date="20221212T162014" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Blazing Dragons v1.000 (1996)(Mindscape)(US)[!].cue</path>
+		<name>Blazing Dragons v1.000</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>E520FB0D</crc32>
+		<md5>a9c16c6776c4cd1785b5f4580d5d2ad9</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T185828" />
+		<scrap name="ArcadeDB" date="20221212T162014" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Brain Dead 13 v1.000 (1996)(ReadySoft)(US)[!].cue</path>
+		<name>Brain Dead 13 v1.000</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>F118ABD9</crc32>
+		<md5>8d0a0565021202e4f17ae3ef7cb4eba7</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T185829" />
+		<scrap name="ArcadeDB" date="20221212T162015" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Casper v1.003 (1996)(Interplay)(US)[!].cue</path>
+		<name>Casper v1.003</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>7279BB88</crc32>
+		<md5>cc01b444ba4c4a94410d91de98a305ea</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T185830" />
+		<scrap name="ArcadeDB" date="20221212T162018" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Center Ring Boxing v1.02U (1995)(JVC)(US)[!].cue</path>
+		<name>Center Ring Boxing v1.02U</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>C7F1EC6E</crc32>
+		<md5>df629a9b46e339c0b53251444a89c514</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T185832" />
+		<scrap name="ArcadeDB" date="20221212T162018" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Clockwork Knight v1.002 (1995)(Sega)(US)[!][1008681007 6-95 5SA1].cue</path>
+		<name>Clockwork Knight v1.002</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>CC86A0D0</crc32>
+		<md5>e14efa3735a57b1340e2b905f6de622e</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T185833" />
+		<scrap name="ArcadeDB" date="20221212T162019" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/College Slam v1.000 (1996)(Acclaim)(US)[!].cue</path>
+		<name>College Slam v1.000</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>E546D742</crc32>
+		<md5>d02faeaeeca59cac190456e86582d0a1</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T185834" />
+		<scrap name="ArcadeDB" date="20221212T162020" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Criticom v1.000 (1996)(Vic Tokai)(US)[!].cue</path>
+		<name>Criticom v1.000</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>6B80ADD8</crc32>
+		<md5>5b932137a64db7ad52d1ca945b51afef</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T185836" />
+		<scrap name="ArcadeDB" date="20221212T162021" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Cyber Speedway v1.004 (1995)(Sega)(US)[!].cue</path>
+		<name>Cyber Speedway v1.004</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>036DA90A</crc32>
+		<md5>d2bae9df57b4aaf842214f03cca767c6</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T185837" />
+		<scrap name="ArcadeDB" date="20221212T162023" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Cyberia v1.000 (1995)(Interplay)(US)(M3)[!].cue</path>
+		<name>Cyberia v1.000</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>E132DA35</crc32>
+		<md5>c93d9dcd3acb72559959a5635b8675f0</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T185838" />
+		<scrap name="ArcadeDB" date="20221212T162023" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/D v1.000 (1996)(Acclaim)(US)(Disc 2 of 2)[!].cue</path>
+		<name>D v1.000</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>901A515F</crc32>
+		<md5>c49cbc563be02ef3f7bd572b8a50e9cb</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T185840" />
+		<scrap name="ArcadeDB" date="20221212T162025" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Dark Legend v1.002 (1995)(Data East)(US)[!].cue</path>
+		<name>Dark Legend v1.002</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>240DEF88</crc32>
+		<md5>9b04c0946def982fa77f2df764b65bfa</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T185841" />
+		<scrap name="ArcadeDB" date="20221212T162026" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Daytona USA - Championship Circuit Edition v1.001 (1996)(Sega)(US)[!][SATURN81213 P1H].cue</path>
+		<name>Daytona USA - Championship Circuit Edition v1.001</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>BEE892C0</crc32>
+		<md5>17ef5f1e5fb153a4dbfa9fe9aef77f2b</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T185842" />
+		<scrap name="ArcadeDB" date="20221212T162026" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Daytona USA v1.000 (1995)(Sega)(US)[!][1008681200].cue</path>
+		<name>Daytona USA v1.000</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>576F7512</crc32>
+		<md5>72d1f953924bc7280501a24d199d38fe</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T185844" />
+		<scrap name="ArcadeDB" date="20221212T162028" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Decathlete v1.000 (1996)(Sega)(US)[!].cue</path>
+		<name>Decathlete v1.000</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>AD860A9C</crc32>
+		<md5>e72c4455d0128c3e41a518ad0bbf49a3</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T185845" />
+		<scrap name="ArcadeDB" date="20221212T162029" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Defcon 5 v1.000 (1995)(Data East)(US)[!].cue</path>
+		<name>Defcon 5 v1.000</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>DEC9C048</crc32>
+		<md5>4daf7ef7a2192d8f62b8f8a4a84b21a9</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T185847" />
+		<scrap name="ArcadeDB" date="20221212T162031" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Die Hard Arcade v1.001 (1996)(Sega)(US)[!].cue</path>
+		<name>Die Hard Arcade v1.001</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>0F75C84E</crc32>
+		<md5>0b7e22bebda0a4753615fdfe9f842474</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T185848" />
+		<scrap name="ArcadeDB" date="20221212T162034" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Die Hard Trilogy v1.000 (1996)(Fox)(US)[!].cue</path>
+		<name>Die Hard Trilogy v1.000</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>34FC6630</crc32>
+		<md5>6cde85e09eec1282d723cfa347858dbd</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T185850" />
+		<scrap name="ArcadeDB" date="20221212T162034" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Double Switch v1.000 (1995)(Digital Pictures)(US)(Disc 1 of 2)[!].cue</path>
+		<name>Double Switch v1.000</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>10A11E15</crc32>
+		<md5>faa4ac1fc3a3289a3e2249574d0ac3e2</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T185851" />
+		<scrap name="ArcadeDB" date="20221212T162036" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Double Switch v1.000 (1995)(Digital Pictures)(US)(Disc 2 of 2)[!].cue</path>
+		<name>Double Switch v1.000</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>02901D3E</crc32>
+		<md5>3c05697ed1b6db635a484acfe10be1ab</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T185852" />
+		<scrap name="ArcadeDB" date="20221212T162036" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/F1 Challenge v1.000 (1996)(Sega - Virgin)(US)[!].cue</path>
+		<name>F1 Challenge v1.000</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>EE14BC0F</crc32>
+		<md5>6ebda5ef23c26e292ca8f7685f4370fd</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T185854" />
+		<scrap name="ArcadeDB" date="20221212T162043" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/FIFA - Road to World Cup 98 v1.000 (1997)(Electronic Arts)(US)(M7)[!].cue</path>
+		<name>FIFA - Road to World Cup 98 v1.000</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>A57B8E53</crc32>
+		<md5>5061f5338c9c7a8daaa35bd3cea4d008</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T185855" />
+		<scrap name="ArcadeDB" date="20221212T162044" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Fighters Megamix v1.004 (1997)(Sega)(US)[!].cue</path>
+		<name>Fighters Megamix v1.004</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>AD7455A0</crc32>
+		<md5>cdeff46ec9784dc270a76961459d5cf7</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T185856" />
+		<scrap name="ArcadeDB" date="20221212T162045" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Fighting Vipers v2.000 (1996)(Sega)(US)[!].cue</path>
+		<name>Fighting Vipers v2.000</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>72CA3CAF</crc32>
+		<md5>f3c25585acb98b9cb362072647281a99</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T185858" />
+		<scrap name="ArcadeDB" date="20221212T162046" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Galactic Attack v1.000 (1996)(Acclaim)(US)[!].cue</path>
+		<name>Galactic Attack v1.000</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>88E8FDA0</crc32>
+		<md5>eac4f97516444286e9e5594d121cd586</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T185859" />
+		<scrap name="ArcadeDB" date="20221212T162049" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Grid Runner v1.000 (1996)(Virgin)(US)[!].cue</path>
+		<name>Grid Runner v1.000</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>53F04C6E</crc32>
+		<md5>d341af5d7dd5f561809407cae5ce3842</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T185900" />
+		<scrap name="ArcadeDB" date="20221212T162052" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/High Velocity - Mountain Racing Challenge v1.002 (1995)(Atlus)(US)[!].cue</path>
+		<name>High Velocity - Mountain Racing Challenge v1.002</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>AE85685B</crc32>
+		<md5>b9a6153e1bb7674a9cc611f9abe449c1</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T185902" />
+		<scrap name="ArcadeDB" date="20221212T162055" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Iron Man X-O Manowar in Heavy Metal v1.000 (1996)(Acclaim)(US)[!].cue</path>
+		<name>Iron Man X-O Manowar in Heavy Metal v1.000</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>0AE4CAC9</crc32>
+		<md5>800a21d1212722bcd3e3e3fbdd4f537d</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T185903" />
+		<scrap name="ArcadeDB" date="20221212T162057" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Iron Storm v1.000 (1996)(Working Designs)(US)[!].cue</path>
+		<name>Iron Storm v1.000</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>5ECBF259</crc32>
+		<md5>28b994ebe3d53646bd6c7e0d56058332</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T185905" />
+		<scrap name="ArcadeDB" date="20221212T162057" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Legend of Oasis, The v1.002 (1996)(Sega)(US)[!].cue</path>
+		<name>Legend of Oasis, The v1.002</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>8D008057</crc32>
+		<md5>d99e75a00e10e8210ea17ab8a3fa7a3d</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T185906" />
+		<scrap name="ArcadeDB" date="20221212T162105" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Legend of Oasis, The v1.002 (1996)(Sega)(US)[tr pt Waldsonglym].cue</path>
+		<name>Legend of Oasis, The v1.002</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>A7FDD822</crc32>
+		<md5>b9fe953d6f81317ddb9454335f05a9d6</md5>
+		<lang>en,pt</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230302T185907" />
+		<scrap name="ArcadeDB" date="20221212T162105" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Lost &amp; Found Vol. 2 (2007)(Oldergames)(US)(Disc 1 of 2)[Rebellion].cue</path>
+		<name>Lost &amp; Found Vol. 2</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>3AD158CD</crc32>
+		<md5>532ef92c6f5b0a61bb141a8ae6497516</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T185909" />
+		<scrap name="ArcadeDB" date="20221212T162106" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Lost &amp; Found Vol. 2 (2007)(Oldergames)(US)(Disc 1 of 2)[Rebellion].iso</path>
+		<name>Lost And Found Volume 2</name>
+		<rating></rating>
+		<releasedate>20070728T000000</releasedate>
+		<developer>Oldergames.com</developer>
+		<publisher>Oldergames.com</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1</players>
+		<crc32>E99FFDBC</crc32>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T185910" />
+		<scrap name="ArcadeDB" date="20221212T162106" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Madden NFL 97 v1.000 (1996)(Electronic Arts)(US)[!].cue</path>
+		<name>Madden NFL 97 v1.000</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>EDD0CE02</crc32>
+		<md5>e4a0f5f3dca8e9371e64dcf53241610b</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T185912" />
+		<scrap name="ArcadeDB" date="20221212T162107" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Madden NFL 98 v1.000 (1997)(Electronic Arts)(US)[!].cue</path>
+		<name>Madden NFL 98 v1.000</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>F85745B1</crc32>
+		<md5>3afe04acbef90fb53c1e527fdfa9a38c</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T185913" />
+		<scrap name="ArcadeDB" date="20221212T162107" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Mansion of Hidden Souls, The v1.006 (1995)(Sega)(US)[!].cue</path>
+		<name>Mansion of Hidden Souls, The v1.006</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>D9EBCB80</crc32>
+		<md5>0838eb05cf9835325ad25f8b4ee80ed2</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T185915" />
+		<scrap name="ArcadeDB" date="20221212T162108" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Myst v1.001 (1995)(Acclaim)(US)[!].cue</path>
+		<name>Myst v1.001</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>A286329E</crc32>
+		<md5>ab1e64da7700972a0957068174067e58</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T185916" />
+		<scrap name="ArcadeDB" date="20221212T162111" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Need for Speed, The v1.000 (1996)(Electronic Arts)(US)(de-en)[!].cue</path>
+		<name>Need for Speed, The v1.000</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>E9600D76</crc32>
+		<md5>2a7e6da5047d1848a2a9f487faa0879f</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T185917" />
+		<scrap name="ArcadeDB" date="20221212T162114" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/NFL '97 v1.010 (1996)(Sega)(US)[!].cue</path>
+		<name>NFL '97 v1.010</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>6056A7AF</crc32>
+		<md5>f5bf38b88d832634f42aea339c611ba0</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T185919" />
+		<scrap name="ArcadeDB" date="20221212T162114" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/NFL Quarterback Club '97 v1.001 (1997)(Acclaim)(US)[!].cue</path>
+		<name>NFL Quarterback Club '97 v1.001</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>7F60FB0B</crc32>
+		<md5>516c0b6daa13f5fbff778281b5fd7dab</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T185920" />
+		<scrap name="ArcadeDB" date="20221212T162115" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/NHL 97 v1.000 (1996)(Electronic Arts)(US)[!].cue</path>
+		<name>NHL 97 v1.000</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>4B360C71</crc32>
+		<md5>7a164f73ccfcd018016914adef80f9d7</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T185922" />
+		<scrap name="ArcadeDB" date="20221212T162115" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/NHL All-Star Hockey 98 v1.015 (1998)(Sega)(US)(M3)[!].cue</path>
+		<name>NHL All-Star Hockey 98 v1.015</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>BF996D6B</crc32>
+		<md5>dac9c8d5d2cb76c9da4ab02ef5c40713</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T185923" />
+		<scrap name="ArcadeDB" date="20221212T162115" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/NHL All-Star Hockey v1.072 (1995)(Sega)(US)[!][1008681102 9-95 2SA2].cue</path>
+		<name>NHL All-Star Hockey v1.072</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>328379B1</crc32>
+		<md5>02b0651b435907ec65deaa3aae0a99d1</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T185924" />
+		<scrap name="ArcadeDB" date="20221212T162116" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/NHL Powerplay '96 v1.000 (1996)(Virgin)(US)[!].cue</path>
+		<name>NHL Powerplay '96 v1.000</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>E1ED58A3</crc32>
+		<md5>8092e4d9415286bd1f5977b74f9376b5</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T185926" />
+		<scrap name="ArcadeDB" date="20221212T162116" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Night Warriors - Darkstalkers' Revenge v1.001 (1996)(Capcom)(US)[!].cue</path>
+		<name>Night Warriors - Darkstalkers' Revenge v1.001</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>93D4B634</crc32>
+		<md5>cab74337fc93c2e55352453f9d87f5dc</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T185927" />
+		<scrap name="ArcadeDB" date="20221212T162117" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Pebble Beach Golf Links v0.001 (1995)(Sega)(US)[!].cue</path>
+		<name>Pebble Beach Golf Links v0.001</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>03B54122</crc32>
+		<md5>1b5d227011489bc1fffed6552b5480d3</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T185929" />
+		<scrap name="ArcadeDB" date="20221212T162121" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Quarterback Attack v1.000 (1995)(Digital Pictures)(US)[!].cue</path>
+		<name>Quarterback Attack v1.000</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>B7B1A01C</crc32>
+		<md5>739ef4092d769133b014f0e86cf7fbb8</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T185930" />
+		<scrap name="ArcadeDB" date="20221212T162126" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Rayman v1.000 (1995)(Ubi Soft)(US)[tr pt Waldsonglym].cue</path>
+		<name>Rayman v1.000</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>22CB4356</crc32>
+		<md5>9bc8f9f423337630d75659d94a3f63a8</md5>
+		<lang>en,pt</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230302T185931" />
+		<scrap name="ArcadeDB" date="20221212T162128" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Revolution X v1.000 (1995)(Acclaim)(US)[!][T-8107H 2-96 2SA1, 5A25].cue</path>
+		<name>Revolution X v1.000</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>92D09440</crc32>
+		<md5>11df29b333fced882c44b0d2f62d29f4</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T185933" />
+		<scrap name="ArcadeDB" date="20221212T162128" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Scud - The Disposable Assassin v1.015 (1997)(SegaSoft)(US)[!].cue</path>
+		<name>Scud - The Disposable Assassin v1.015</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>06D04341</crc32>
+		<md5>5de960398137a0219b5090ec9f497d4b</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T185934" />
+		<scrap name="ArcadeDB" date="20221212T162133" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Sega Rally Championship v1.006 (1995)(Sega)(US)[!].cue</path>
+		<name>Sega Rally Championship v1.006</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>65921AF4</crc32>
+		<md5>0c51b6d5d364b2f77af98cfc974253ec</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T185936" />
+		<scrap name="ArcadeDB" date="20221212T162135" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Sega Touring Car Championship v1.001 (1997)(Sega)(US)[!].cue</path>
+		<name>Sega Touring Car Championship v1.001</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>8D324A77</crc32>
+		<md5>6935381fddf0489018c26af56d0f6d8a</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T185937" />
+		<scrap name="ArcadeDB" date="20221212T162135" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/SimCity 2000 v1.401 (1995)(Maxis)(US)[!].cue</path>
+		<name>SimCity 2000 v1.401</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>396E4DFA</crc32>
+		<md5>4cce1bed045f9f7b5a36b280cd8314a8</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T185938" />
+		<scrap name="ArcadeDB" date="20221212T162141" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Solar Eclipse v1.000 (1995)(Crystal Dynamics)(US)[!].cue</path>
+		<name>Solar Eclipse v1.000</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>5BE4E406</crc32>
+		<md5>0ef9823db2ce64df157c575b37810ca0</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T185940" />
+		<scrap name="ArcadeDB" date="20221212T162142" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Sonic 3D Blast v1.000 (1996)(Sega)(US)[!].cue</path>
+		<name>Sonic 3D Blast v1.000</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>D2314AEC</crc32>
+		<md5>247172cbe52d1d9ce745edd2374fe979</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T185941" />
+		<scrap name="ArcadeDB" date="20221212T162142" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Sonic R v1.000 (1997)(Sega)(US)[!].cue</path>
+		<name>Sonic R v1.000</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>7FC17C7C</crc32>
+		<md5>095080eb97e7087a9aeaab3cca8540a0</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T185943" />
+		<scrap name="ArcadeDB" date="20221212T162143" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Soviet Strike v1.000 (1997)(Electronic Arts)(US)[!].cue</path>
+		<name>Soviet Strike v1.000</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>3F02A88E</crc32>
+		<md5>f29c9f7705f62405b75dfa1b97464722</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T185944" />
+		<scrap name="ArcadeDB" date="20221212T162144" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Space Jam v1.000 (1996)(Acclaim)(US)[!].cue</path>
+		<name>Space Jam v1.000</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>E9EC32FB</crc32>
+		<md5>71d84afca7b59cf08b548272da0ead2a</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T185946" />
+		<scrap name="ArcadeDB" date="20221212T162145" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Street Fighter Alpha - Warrior's Dreams v1.000 (1995)(Capcom)(US)[!].cue</path>
+		<name>Street Fighter Alpha - Warrior's Dreams v1.000</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>6D5AE6CE</crc32>
+		<md5>f6d469aaa9c742ccde042faef5e98cf2</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T185947" />
+		<scrap name="ArcadeDB" date="20221212T162147" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Tempest 2000 v1.000 (1996)(Interplay)(US)[!].cue</path>
+		<name>Tempest 2000 v1.000</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>17D2CA9A</crc32>
+		<md5>9b0413df6fc2f8e305da2d7002d32ed3</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T185949" />
+		<scrap name="ArcadeDB" date="20221212T162151" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Tomb Raider v1.000 (1996)(Eidos)(US)[!].cue</path>
+		<name>Tomb Raider v1.000</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>18342288</crc32>
+		<md5>8777c80e43791ec4da3c6793e409bca3</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T185950" />
+		<scrap name="ArcadeDB" date="20221212T162155" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Ultimate Mortal Kombat 3 v1.006 (1996)(Williams)(US)[!].cue</path>
+		<name>Ultimate Mortal Kombat 3 v1.006</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>B0FDC0FF</crc32>
+		<md5>75837af09a273759128a7ca16a7bb7c2</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T185951" />
+		<scrap name="ArcadeDB" date="20221212T162156" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Virtua Cop v1.001 (1996)(Sega)(US)[!][12S].cue</path>
+		<name>Virtua Cop v1.001</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>2A7DA539</crc32>
+		<md5>7790430624f3f38cee31f7a76c510cd1</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T185953" />
+		<scrap name="ArcadeDB" date="20221212T162159" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Virtua Fighter 2 v1.005 (1995)(Sega)(US)[!][1008681014].cue</path>
+		<name>Virtua Fighter 2 v1.005</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>D698630F</crc32>
+		<md5>7ddb71c51715a136f81df8b8f15d8127</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T185954" />
+		<scrap name="ArcadeDB" date="20221212T162202" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Virtua Fighter 2 v1.005 (1995)(Sega)(US)[!][SATURN81014 P1H].cue</path>
+		<name>Virtua Fighter 2 v1.005</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>FD2F0F12</crc32>
+		<md5>5b50dc4384025181e77a37b876ada7eb</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T185955" />
+		<scrap name="ArcadeDB" date="20221212T162202" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Virtua Fighter 2 v1.005 (1995)(Sega)(US)[!][SATURN81014RE P1H].cue</path>
+		<name>Virtua Fighter 2 v1.005</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>FD37CC66</crc32>
+		<md5>44438886801aa6766e2ebcac4731f8d5</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T185957" />
+		<scrap name="ArcadeDB" date="20221212T162203" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Virtua Fighter Remix v0.003 (1995)(Sega)(US)[!].cue</path>
+		<name>Virtua Fighter Remix v0.003</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>2AFEC155</crc32>
+		<md5>c25ed53a78835af9b4a17a9408937e17</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T185958" />
+		<scrap name="ArcadeDB" date="20221212T162204" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/WipEout v1.002 (1996)(Sega)(US)[!].cue</path>
+		<name>WipEout v1.002</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>445C6540</crc32>
+		<md5>fbfb3d71a33600f469d9cb2ad3d7eb80</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T190000" />
+		<scrap name="ArcadeDB" date="20221212T162209" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/World Series Baseball 98 v1.006 (1997)(Sega)(US)[!].cue</path>
+		<name>World Series Baseball 98 v1.006</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>F48B0E01</crc32>
+		<md5>279a6b1ba9c4a14f6afc116a08bc5c77</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T190001" />
+		<scrap name="ArcadeDB" date="20221212T162211" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/World Series Baseball v1.003 (1995)(Sega)(US)[!][SATURN81109 P1H].cue</path>
+		<name>World Series Baseball v1.003</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>101D55EA</crc32>
+		<md5>a9c2c2d921df0d73e8209afefcd7b615</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T190002" />
+		<scrap name="ArcadeDB" date="20221212T162211" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Worldwide Soccer '98 v1.001 (1997)(Sega)(US)(M3)[!].cue</path>
+		<name>Worldwide Soccer '98 v1.001</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>653EBDBF</crc32>
+		<md5>75118ca1d229563f538de990a9d0faa4</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T190004" />
+		<scrap name="ArcadeDB" date="20221212T162212" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Worldwide Soccer - Sega International Victory Goal Edition v1.002 (1995)(Sega)(US)[!].cue</path>
+		<name>Worldwide Soccer - Sega International Victory Goal Edition v1.002</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>FDBE69FB</crc32>
+		<md5>667601f5079c0a74b5440e3fac7eb6e4</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T190005" />
+		<scrap name="ArcadeDB" date="20221212T162212" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/X-Men - Children of the Atom v1.000 (1996)(Acclaim)(US)[!].cue</path>
+		<name>X-Men - Children of the Atom v1.000</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<crc32>98BBE050</crc32>
+		<md5>304a7bde570254ec46774678868285a8</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230302T190007" />
+		<scrap name="ArcadeDB" date="20221212T162213" />
+	</game>
+</gameList>

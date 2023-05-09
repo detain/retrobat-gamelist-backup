@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./No-Intro/[BIOS] Nintendo 64DD IPL (USA) (Proto).z64</path>
+		<name>[BIOS] Nintendo 64DD IPL (USA) (Proto)</name>
+		<crc32>D0F567CA</crc32>
+		<md5>37c36e4286d36892a9fc70eafe4104be</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>37C36E4286D36892A9FC70EAFE4104BE</cheevosHash>
+		<scrap name="ScreenScraper" date="20230301T215008" />
+	</game>
+</gameList>

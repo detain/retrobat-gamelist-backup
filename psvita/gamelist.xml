@@ -1,0 +1,354 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./VPK/Aegis of Earth - Protonovus Assault (USA).vpk</path>
+		<name>Aegis of Earth - Protonovus Assault (USA)</name>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230217T032022" />
+	</game>
+	<game id="29629">
+		<path>./VPK/Amazing Spider-Man, The (USA) [b].vpk</path>
+		<name>The Amazing Spider-Man</name>
+		<marquee>./images/Amazing Spider-Man, The (USA) [b]-marquee.png</marquee>
+		<rating>0.75</rating>
+		<developer>Beenox Studios</developer>
+		<publisher>Activision</publisher>
+		<family>Spider-Man</family>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230217T032026" />
+	</game>
+	<game>
+		<path>./VPK/Assassin's Creed Chronicles (USA).vpk</path>
+		<name>Assassin's Creed Chronicles (USA)</name>
+		<scrap name="ScreenScraper" date="20230217T032027" />
+	</game>
+	<game>
+		<path>./VPK/Bad Apple Wars (USA).vpk</path>
+		<name>Bad Apple Wars (USA)</name>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230217T032029" />
+	</game>
+	<game id="30003">
+		<path>./VPK/Ben 10 - Galactic Racing (USA) (En,Fr).vpk</path>
+		<name>Ben 10 : Galactic Racing</name>
+		<desc>BEN 10 Galactic Racing presents the ultimate racing experience! While Ben makes use of his Ultimatrix to transform into his alien forms mid-race, every other character utilizes their unique special abilities, based on powers straight out of the television series, to affect the outcome of each race. All characters can pick up special Omni-Node Power-Ups with varying alien-based abilities, including an Ultimate move that unleashes a super-charged, race-changing boost of speed and power that is themed to that character's abilities. Players will race with or against friends in any of the various game modes. They can also win trophies in each of the Galactic Grand Prix circuits, or they can race their favorite tracks in an attempt to set record-breaking times in Time Trials mode.</desc>
+		<rating>0.8</rating>
+		<releasedate>20120222T000000</releasedate>
+		<developer>Monkey Bar Games</developer>
+		<publisher>D3 Publisher</publisher>
+		<genre>Race, Driving</genre>
+		<family>Ben 10</family>
+		<lang>en,fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230217T032031" />
+	</game>
+	<game id="29661">
+		<path>./VPK/BlazBlue - Chrono Phantasma (USA) (En,Ja).vpk</path>
+		<name>BlazBlue : Chrono Phantasma</name>
+		<desc>BlazBlue: Chrono Phantasma is a 2-D fighting game developed by Arc System Works. It is the third game of the Blazblue series, set after the events of BlazBlue: Continuum Shift. Besides normal rebalancing from Continuum Shift Extend, Chrono Phantasma features several revamped gameplay mechanics and introduces seven new characters to the roster (with two additional characters added to the Extend version of Chrono Phantasma). The character sprites have also been redrawn and several new songs were composed for the game. All previous musical themes were re-arranged. The storyline continues after events of Continuum Shift.[10]
+A new mechanic called "Overdrive" has been added to the game, replacing the Gold Bursts from Continuum Shift. Green Bursts are still in but are the only form of Burst available. Distortion Drives such as Ragna's "Blood Kain", Taokaka's "Almost Becoming Two!", Litchi's "Great Wheel" and Bang's "Fu-Rin-Ka-Zan" have been retooled to be their respective characters' Overdrives. The length of an Overdrive increases the lower a character's health is, and performing an Overdrive stops the round timer while it is active.
+Guard Primers have been removed entirely and the Guard Crush has been moved to a new mechanic called "Crush Trigger" where, at the cost of 25 Heat, a player may hit the A and B attack buttons simultaneously to cause a Guard Crush against blocking opponents, provided the opponent is not using Barrier Block.</desc>
+		<rating>0.7</rating>
+		<releasedate>20140424T000000</releasedate>
+		<developer>Arc System Works</developer>
+		<publisher>Arc System Works</publisher>
+		<genre>Fight</genre>
+		<family>BlazBlue</family>
+		<lang>en,jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230217T032033" />
+	</game>
+	<game id="29664">
+		<path>./VPK/BlazBlue - Continuum Shift - EXTEND (USA).vpk</path>
+		<name>BlazBlue : Continuum Shift Extend</name>
+		<desc>BlazBlue: Continuum Shift EXTEND makes a grand return with the devious all new playable character Relius Clover, new story scenarios, new gameplay modes, and competitively balanced action!
+
+BlazBlue: Continuum Shift EXTEND Key Features
+
+   - Enhanced Story Mode: Relive and rediscover the events that took place in BlazBlue: Calamity Trigger or venture forth into one of four all new story scenarios!
+   - New and Revised Game Modes to Explore: Take on the strongest of foes in Unlimited Mars Mode, dungeoneer your way to the bottom of Abyss Mode, or refine your skills in the improved Challenge Mode!
+   - Fully Revised Combat System: All characters new and old have been thoroughly rebalanced and armed with all new strategies and combos to take your game to the top!
+   - Improved Online Multiplayer: Battle it out in BlazBlueâ€™s acclaimed online mode with all new online multiplayer features, such as online team battles!</desc>
+		<image>./images/BlazBlue - Continuum Shift - EXTEND (USA)-image.jpg</image>
+		<thumbnail>./images/BlazBlue - Continuum Shift - EXTEND (USA)-thumb.png</thumbnail>
+		<fanart>./images/BlazBlue - Continuum Shift - EXTEND (USA)-fanart.jpg</fanart>
+		<boxback>./images/BlazBlue - Continuum Shift - EXTEND (USA)-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>20120114T000000</releasedate>
+		<developer>Arc System Works</developer>
+		<publisher>Aksys Games Localization</publisher>
+		<genre>Fight</genre>
+		<family>BlazBlue</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230217T032042" />
+	</game>
+	<game>
+		<path>./VPK/Chaos-Child (USA).vpk</path>
+		<name>Chaos-Child (USA)</name>
+		<scrap name="ScreenScraper" date="20230217T032043" />
+	</game>
+	<game>
+		<path>./VPK/Code - Realize - Future Blessings (USA).vpk</path>
+		<name>Code - Realize - Future Blessings (USA)</name>
+		<scrap name="ScreenScraper" date="20230217T032045" />
+	</game>
+	<game id="30599">
+		<path>./VPK/Code - Realize - Guardian of Rebirth (USA).vpk</path>
+		<name>Code : Realize ~Guardian of Rebirth~</name>
+		<desc>Aksys Games and Idea Factory (creators of the Hakuoki series) proudly present Code: Realize ~Guardian of Rebirth~, an adventure/visual novel game that sweeps you off to times long past. A visionary reimagining of Victorian era London melds with steampunk motifs to create a world unlike any seen before. Play as a lonesome youth whose poisonous touch renders swift death unto would be companions. Unravel the secrets of her past with the aid of five unlikely heroes! Code: Realize ~Guardian of Rebirth~ is exclusive only for PS Vita and will release Fall 2015.</desc>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230217T032046" />
+	</game>
+	<game>
+		<path>./VPK/Collar x Malice (USA).vpk</path>
+		<name>Collar x Malice (USA)</name>
+		<scrap name="ScreenScraper" date="20230217T032048" />
+	</game>
+	<game id="29648">
+		<path>./VPK/Conception II - Children of the Seven Stars (USA).vpk</path>
+		<name>Conception II : Children of the Seven Stars</name>
+		<desc>In the world called Aterra where the Star God is worshipped, monsters have begun to spawn from the mysterious labyrinth. However, the Star God has imbued certain young adults--Disciples--with the power to fight monsters, as well as create Star Children to aid in the battle. Only Disciples and Star Children can defeat the monsters, and you, as God's Gift, have an additional weighty task: to bond with seven other Disciples and bear many Star Children to help your world survive!</desc>
+		<thumbnail>./images/Conception II - Children of the Seven Stars (USA)-thumb.png</thumbnail>
+		<boxback>./images/Conception II - Children of the Seven Stars (USA)-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>20140415T000000</releasedate>
+		<developer>Spike Chunsoft</developer>
+		<publisher>Atlus</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230217T032053" />
+	</game>
+	<game id="29874">
+		<path>./VPK/Corpse Party - Blood Drive (USA).vpk</path>
+		<name>Corpse Party : BloodDrive</name>
+		<desc>Corpse Party: Blood Drive is the final installment of the story that began with Corpse Party and continued in Corpse Party: Book of Shadows. Players take direct control of a character or party of characters and explore the ruins of Heavenly Host Elementary and other locations from a top-down 3D perspective. Along the way, they'll be dodging or disarming traps, running from malicious entities, solving puzzles and directly interacting with the environment to trigger visual novel-style cutscenes that advance the story and lead to one of many endings, with very few of them being happy...</desc>
+		<image>./images/Corpse Party - Blood Drive (USA)-image.jpg</image>
+		<marquee>./images/Corpse Party - Blood Drive (USA)-marquee.png</marquee>
+		<thumbnail>./images/Corpse Party - Blood Drive (USA)-thumb.png</thumbnail>
+		<boxback>./images/Corpse Party - Blood Drive (USA)-boxback.png</boxback>
+		<releasedate>20130101T000000</releasedate>
+		<developer>Team GrisGris</developer>
+		<publisher>5pb</publisher>
+		<genre>Action</genre>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230217T032101" />
+	</game>
+	<game id="29762">
+		<path>./VPK/Criminal Girls - Invite Only (USA).vpk</path>
+		<name>Criminal Girls : Invite Only</name>
+		<desc>Lead seven sinful delinquents through the redemption program to return to their old lives as changed women. Just hired for a new, mysterious job, you soon discover that this isn't your normal prison gig. You've been entrusted with the care of a crew of girls whose sins have damned their souls to Hell and an eternity of punishment. Their only hope of salvation is for you to recognize their unique histories, and to guide them along the path to redemption. Navigate through the four trials of the Redemption Program, use the touch screen and rear touch pad to motivate your crew of delinquents to learn the skills to redeem themselves, or leave them to their fate.</desc>
+		<thumbnail>./images/Criminal Girls - Invite Only (USA)-thumb.png</thumbnail>
+		<boxback>./images/Criminal Girls - Invite Only (USA)-boxback.png</boxback>
+		<rating>0.85</rating>
+		<releasedate>20150203T000000</releasedate>
+		<developer>Nippon Ichi Software</developer>
+		<publisher>Nippon Ichi Software</publisher>
+		<genre>Role playing games</genre>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230217T032106" />
+	</game>
+	<game id="29575">
+		<path>./VPK/Danganronpa - Trigger Happy Havoc (USA).vpk</path>
+		<name>Danganronpa : Trigger Happy Havoc</name>
+		<desc>DanganRonpa: Trigger Happy Havoc is a revised and revamped edition of a title originally released on the PlayStationÂ®Portable in Japan in 2010. You'll take on the role of Makoto Naegi, a desperately average teenager who somehow finds himself accepted into Hope's Peak Academy, a prestigious high school normally reserved for the nation's "ultimate" students. But when he arrives, he and the other students soon find themselves trapped in a battle for survival against a twisted mastermind who has taken them all prisoner. You'll have to unmask the villain and uncover the secret of the school...or die trying!</desc>
+		<image>./images/Danganronpa - Trigger Happy Havoc (USA)-image.jpg</image>
+		<thumbnail>./images/Danganronpa - Trigger Happy Havoc (USA)-thumb.png</thumbnail>
+		<boxback>./images/Danganronpa - Trigger Happy Havoc (USA)-boxback.png</boxback>
+		<rating>0.85</rating>
+		<releasedate>20140211T000000</releasedate>
+		<developer>NIS America</developer>
+		<publisher>Spike Chunsoft</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230217T032112" />
+	</game>
+	<game id="29558">
+		<path>./VPK/Danganronpa 2 - Goodbye Despair (USA).vpk</path>
+		<name>Danganronpa 2 : Goodbye Despair</name>
+		<desc>Danganronpa 2: Goodbye Despair is the sequel to the highly popular mystery adventure game Danganronpa: Trigger Happy Havoc for the PlayStation Vita. As in the first game, players will take on the role of a high school student as they are thrust into a life-or-death situation, and must use their wits and teamwork to survive. Each student was chosen for a special ability they possess, making them the "ultimate" example of something. Characters in this title are also designed by Rui Komatsuzaki for a unique and darker take on the anime style.</desc>
+		<thumbnail>./images/Danganronpa 2 - Goodbye Despair (USA)-thumb.png</thumbnail>
+		<boxback>./images/Danganronpa 2 - Goodbye Despair (USA)-boxback.png</boxback>
+		<rating>0.9</rating>
+		<releasedate>20140904T000000</releasedate>
+		<developer>Spike Chunsoft</developer>
+		<publisher>NIS America</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230217T032117" />
+	</game>
+	<game>
+		<path>./VPK/Danganronpa V3 - Killing Harmony (USA).vpk</path>
+		<name>Danganronpa V3 - Killing Harmony (USA)</name>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230217T032118" />
+	</game>
+	<game id="29676">
+		<path>./VPK/Deception IV - Blood Ties (USA) (En,Ja,Fr,De).vpk</path>
+		<name>Deception IV : Blood Ties</name>
+		<desc>DECEPTION IV: BLOOD TIES follows the story of Laegrinna, an animated fragment of an imprisoned Devil's soul, as she battles her enemies by mischievously luring them into strategically placed traps. From rolling boulders and spiked walls to spring boards, iron maidens, human cannons, falling bathtubs and banana peels, the player can choose from a multitude of dramatic, sadistic, and comical traps in order to finish off an enemy.
+
+However, simply setting traps is not enough, as they need to be activated in turn. Timing also plays an important role, as an untimely activation could result in Laegrinna falling into her own trap or allowing her rivals to catch her. Depending on the manner in which an enemy is killed or captured, the Devil's three servants - Veruza, Caelea and Lilia (each representing a different aspect of cruelty: Sadistic Torment, Elaborate Death and Humiliating Demise) - reward points and upgraded traps.</desc>
+		<image>./images/Deception IV - Blood Ties (USA) (En,Ja,Fr,De)-image.jpg</image>
+		<thumbnail>./images/Deception IV - Blood Ties (USA) (En,Ja,Fr,De)-thumb.png</thumbnail>
+		<boxback>./images/Deception IV - Blood Ties (USA) (En,Ja,Fr,De)-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>20140101T000000</releasedate>
+		<developer>Tecmo</developer>
+		<publisher>Tecmo</publisher>
+		<genre>Strategy</genre>
+		<lang>de,en,jp,fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230217T032125" />
+	</game>
+	<game>
+		<path>./VPK/Demon Gaze II (USA).vpk</path>
+		<name>Demon Gaze II (USA)</name>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230217T032126" />
+	</game>
+	<game id="29710">
+		<path>./VPK/Dengeki Bunko - Fighting Climax (USA).vpk</path>
+		<name>Dengeki Bunko : Fighting Climax</name>
+		<desc>Get ready for a dream duel of epic proportions in Dengeki Bunko: Fighting Climax, a 2D fighting game featuring an all-star cast of popular characters from Dengeki Bunko novels set against Sega-themed worlds. Developed by Ecole and French Bread, this mash up features a fighting system that is both easily understood yet complex in depth catering to veterans and newcomers alike.</desc>
+		<thumbnail>./images/Dengeki Bunko - Fighting Climax (USA)-thumb.png</thumbnail>
+		<boxback>./images/Dengeki Bunko - Fighting Climax (USA)-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>20141113T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fight</genre>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230217T032131" />
+	</game>
+	<game id="29645">
+		<path>./VPK/Disgaea 3 - Absence of Detention (USA) (En,Ja).vpk</path>
+		<name>Disgaea 3 : Absence of Detention</name>
+		<desc>Disgaea 3 is a sequel to Disgaea, a hardcore, turn-based strategy RPG. The game follows the exploits of Mao, the most honored student at Evil Academy, a school where the tardiest, laziest, and rudest demons receive the highest marks. The son of the school chairman, Mao has never once attended class nor opened a textbook. He longs to overthrow his father and assume the title of Overlord, which he decides he must become a hero to achieve. Join him on his zany adventure filled with witty dialogue, exciting events, and thrilling strategy battles.</desc>
+		<image>./images/Disgaea 3 - Absence of Detention (USA) (En,Ja)-image.jpg</image>
+		<thumbnail>./images/Disgaea 3 - Absence of Detention (USA) (En,Ja)-thumb.png</thumbnail>
+		<boxback>./images/Disgaea 3 - Absence of Detention (USA) (En,Ja)-boxback.png</boxback>
+		<rating>0.9</rating>
+		<releasedate>20111217T000000</releasedate>
+		<developer>Nippon Ichi Software</developer>
+		<publisher>NIS America</publisher>
+		<genre>Strategy</genre>
+		<family>Disgaea</family>
+		<players>1</players>
+		<lang>en,jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230217T032137" />
+	</game>
+	<game id="29554">
+		<path>./VPK/Disgaea 4 - A Promise Revisited (USA) (En,Ja).vpk</path>
+		<name>Disgaea 4 : A Promise Revisited</name>
+		<desc>Disgaea 4: A Promise Revisited is a port of Disgaea 4: A Promise Unforgotten on the Playstation Vita. It contains all of the downloadable content made available in the original PS3 game and also features newly added game content. However some content was also cut out, such as the old SD sprites and voice acting for certain scenes.
+
+Hit the cam-pain trail with Valvatorez, Fenrich, and the rest of the Hades Party as Disgaea 4 returns on the PlayStation Vita! Enjoy beautiful sunsets while Fuka complains about being stuck in her dream! Featuring 4 new chapters, it's time to travel back to where the promise all began!</desc>
+		<releasedate>20140130T000000</releasedate>
+		<developer>Nippon Ichi Software</developer>
+		<publisher>Nippon Ichi Software</publisher>
+		<genre>Strategy</genre>
+		<family>Disgaea</family>
+		<players>1</players>
+		<lang>en,jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230217T032139" />
+	</game>
+	<game>
+		<path>./VPK/Disney Infinity - 2.0 Edition - Marvel Super Heroes (USA).vpk</path>
+		<name>Disney Infinity - 2.0 Edition - Marvel Super Heroes (USA)</name>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230217T032141" />
+	</game>
+	<game id="29991">
+		<path>./VPK/DJMax Technika Tune (USA).vpk</path>
+		<name>Dj Max Technika Tune</name>
+		<desc>DJMAX TECHNIKAâ„¢ has made a huge splash in the arcade scene, and now players can experience it anywhere! Thanks to the PS Vita's touchscreen technology, the gameplay that has made the arcade title such a hit can make the transition to the home market as well! Exclusively for the PlayStationÂ®Vita system, DJMAX TECHNIKA TUNEâ„¢ has been built from the ground up to take advantage of everything the system has to offer.
+
+Featuring in-game trophies, unlockable galleries, real time online rankings and more, the replay value is endless! DJMAX TECHNIKA TUNEâ„¢ features the best tracks from all 3 iterations of the DJMAX TECHNIKAâ„¢ arcade game along with new songs, and classic DJMAX Online tracks with updated background movies and new charts. All of this content is all wrapped up in a bundle set to deliver one of the most well rounded, genre encompassing music games of all time!
+
+1 player(s)
+Network Features
+1024KB Minimum
+Touchscreen
+Rear Touch Pad</desc>
+		<rating>0.8</rating>
+		<releasedate>20120101T000000</releasedate>
+		<developer>Cyberfront Corporation</developer>
+		<publisher>Neowiz</publisher>
+		<genre>Music and Dance</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230217T032142" />
+	</game>
+	<game>
+		<path>./VPK/Dragon Fantasy - Black Tome of Ice (USA).vpk</path>
+		<name>Dragon Fantasy - Black Tome of Ice (USA)</name>
+		<md5>acd705786f30f0a9bb29757db3d4f09d</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230217T032146" />
+	</game>
+	<game id="30602">
+		<path>./VPK/Dragon Quest Builders (USA) (Day One Edition).vpk</path>
+		<name>Dragon Quest Builders</name>
+		<thumbnail>./images/Dragon Quest Builders (USA) (Day One Edition)-thumb.png</thumbnail>
+		<boxback>./images/Dragon Quest Builders (USA) (Day One Edition)-boxback.png</boxback>
+		<releasedate>20160128T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>Square Enix</publisher>
+		<genre>N</genre>
+		<family>Dragon Quest</family>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230217T032150" />
+	</game>
+	<game>
+		<path>./VPK/Drive Girls (USA).vpk</path>
+		<name>Drive Girls (USA)</name>
+		<scrap name="ScreenScraper" date="20230217T032152" />
+	</game>
+	<game id="29577">
+		<path>./VPK/Dynasty Warriors 8 - Xtreme Legends Complete Edition (USA).vpk</path>
+		<name>Dynasty Warriors 8 : Xtreme Legends - Complete Edi</name>
+		<desc>The Complete Edition includes all of the content from both DYNASTY WARRIORS 8 and DYNASTY WARRIORS 8: XTREME LEGENDS, thus giving new fans the opportunity to play through both titles. As an added bonus, PlayStationÂ®3 system Dynasty Warriors 8 save data is transferable across all platforms. 
+
+DYNASTY WARRIORS 8 is a historical tactical action game that follows the stories of the kingdoms of Wei, Wu, Shu and Jin through the actions of historical military and political figures of the time as they fight to gain control over the Three Kingdoms of China. It features more than 40 completely new stages: verdant plains, desolate wastelands, sharp ravines, huge castles, and other breath-taking sites, giving stronger emphasis in the stage of these epic battles and inspired by ancient landscapes.
+
+DW8 + DW8 Xtreme Legends content together in one game!
+PS4 Functionality: SHARE and Touch Pad functions for the PS4; touch screen functions for PS Vita.
+Cross-Play and Cross-Share between PS4 and PS Vita
+Easily over 100 Hours of Gameplay: 218 Scenarios, 82 Playable Characters, and 492 Different Weapons
+New Story: experience a brand new story based on the strongest and most-feared warriors - Lu Bu!
+New CHALLENGE Mode: compete for high scores with players around the world
+Co-op play: Offline and online co-op play for two players!</desc>
+		<thumbnail>./images/Dynasty Warriors 8 - Xtreme Legends Complete Edition (USA)-thumb.png</thumbnail>
+		<boxback>./images/Dynasty Warriors 8 - Xtreme Legends Complete Edition (USA)-boxback.png</boxback>
+		<rating>0.65</rating>
+		<developer>Tecmo</developer>
+		<publisher>Tecmo</publisher>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230217T032156" />
+	</game>
+</gameList>

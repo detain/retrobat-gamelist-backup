@@ -1,0 +1,244 @@
+<?xml version="1.0"?>
+<gameList>
+	<game id="189019">
+		<path>./No-Intro/Lunch Time (USA) (GameCube).min</path>
+		<name>Lunch Time</name>
+		<desc>Snorlax's Lunch Time is an unused Pokémon Party Mini mini game that could be found amongst the other mini games in Pokémon Channel for the Nintendo GameCube.</desc>
+		<image>./media/screenshots/Lunch Time (USA) (GameCube).png</image>
+		<video>./media/videos/Lunch Time (USA) (GameCube).mp4</video>
+		<marquee>./media/marquees/Lunch Time (USA) (GameCube).png</marquee>
+		<thumbnail>./images/Lunch Time (USA) (GameCube)-thumb.png</thumbnail>
+		<boxback>./images/Lunch Time (USA) (GameCube)-boxback.png</boxback>
+		<rating></rating>
+		<releasedate>20031201T000000</releasedate>
+		<developer>Ambrella</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Casual Game</genre>
+		<family>Pokémon</family>
+		<players>1</players>
+		<md5>199aaed9afb5851c4d39ef78c29b86d1</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230301T215553" />
+		<scrap name="ArcadeDB" date="20221212T154403" />
+	</game>
+	<game id="189008">
+		<path>./No-Intro/Pokemon Party Mini (USA).min</path>
+		<name>Pokémon Party Mini</name>
+		<desc>Pokémon Party Mini is a collection of several minigames, including: Hitmonchan's Boxing, where you shake the system to ?punch'; Pikachu's Rocket Start, a game where you have to launch off a starting line before another Pokémon; Bellossom's Dance, a DDR-like game; Chansey's Dribble, kick the ball to the finish line as quickly as possible; Slowking's Judge, predict if the tennis ball will land in or out of the court; Sneasel's Fakeout, a rock-paper-scissors-like game for two players; Battlefield, where two to six players battle for the highest score; and Celebi's Clock, which is essentially a clock with date, alarm and stopwatch function.</desc>
+		<image>./media/screenshots/Pokemon Party Mini (USA).png</image>
+		<video>./media/videos/Pokemon Party Mini (USA).mp4</video>
+		<marquee>./media/marquees/Pokemon Party Mini (USA).png</marquee>
+		<thumbnail>./images/Pokemon Party Mini (USA)-thumb.png</thumbnail>
+		<fanart>./images/Pokemon Party Mini (USA)-fanart.jpg</fanart>
+		<manual>./manuals/Pokemon Party Mini (USA)-manual.pdf</manual>
+		<boxback>./images/Pokemon Party Mini (USA)-boxback.png</boxback>
+		<rating></rating>
+		<releasedate>20011116T000000</releasedate>
+		<developer>Denyusha Co.,Ltd.</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Casual Game</genre>
+		<family>Pokémon</family>
+		<players>1-6</players>
+		<md5>e0a064e6d758f958752a49c0ce798388</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230301T215554" />
+		<scrap name="ArcadeDB" date="20221212T154404" />
+	</game>
+	<game id="189687">
+		<path>./No-Intro/Pokemon Party Mini - Baseline Judge (USA) (GameCube).min</path>
+		<name>Pokémon Party Mini : Baseline Judge</name>
+		<desc>The player (a Slowking) is the judge of a tennis court. The object of the game is to watch the tennis balls go by and make the correct call based on where they land. If they land to the left of the line, they're in. If they land to the right or go straight through without landing, they're out. The A button makes Slowking rule an out, and the B button makes it rule an in. Rather quickly, the game begins to get tricky; A ball may suddenly change direction in midair, making it land in when it looked like an out, or vice versa; a ball may also vanish for a second, then reappear as it hits the ground; Two balls may appear simultaneously (the trick with this one is to only rule the ball that can actually be seen hitting the ground). If Slowking makes an incorrect call, the game is over. Failing to make a call in time is counted as an incorrect call.
+
+This minigame was emulated onto Pokémon Channel as an entire Pokémon mini cartridge.</desc>
+		<image>./media/screenshots/Pokemon Party Mini - Baseline Judge (USA) (GameCube).png</image>
+		<video>./media/videos/Pokemon Party Mini - Baseline Judge (USA) (GameCube).mp4</video>
+		<marquee>./media/marquees/Pokemon Party Mini - Baseline Judge (USA) (GameCube).png</marquee>
+		<thumbnail>./images/Pokemon Party Mini - Baseline Judge (USA) (GameCube)-thumb.png</thumbnail>
+		<boxback>./images/Pokemon Party Mini - Baseline Judge (USA) (GameCube)-boxback.png</boxback>
+		<rating></rating>
+		<developer>Ambrella</developer>
+		<publisher>Nintendo</publisher>
+		<family>Pokémon</family>
+		<players>1</players>
+		<md5>2dea1b54200cea6389357cda076933e5</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230301T215556" />
+		<scrap name="ArcadeDB" date="20221212T154405" />
+	</game>
+	<game id="189685">
+		<path>./No-Intro/Pokemon Party Mini - Ricochet Dribble (USA) (GameCube).min</path>
+		<name>Pokémon Party Mini : Ricochet Dribble</name>
+		<desc>The player (a Chansey) must kick the ball to the finish line as quickly as possible. The only buttons necessary are the left and right arrows on the D-pad, as Chansey moves forward automatically. The player must ensure that whenever Chansey approaches the soccer ball, it hits the ball as close to dead center as possible. If Chansey hits the ball more to the side, it will zigzag wildly and become harder to hit. If Chansey misses the ball, it will dash back behind the ball (the player can shake the game to speed this up), wasting precious seconds.
+
+This minigame was emulated onto Pokémon Channel as an entire Pokémon mini cartridge.</desc>
+		<image>./media/screenshots/Pokemon Party Mini - Ricochet Dribble (USA) (GameCube).png</image>
+		<video>./media/videos/Pokemon Party Mini - Ricochet Dribble (USA) (GameCube).mp4</video>
+		<marquee>./media/marquees/Pokemon Party Mini - Ricochet Dribble (USA) (GameCube).png</marquee>
+		<thumbnail>./images/Pokemon Party Mini - Ricochet Dribble (USA) (GameCube)-thumb.png</thumbnail>
+		<boxback>./images/Pokemon Party Mini - Ricochet Dribble (USA) (GameCube)-boxback.png</boxback>
+		<rating></rating>
+		<developer>Ambrella</developer>
+		<publisher>Nintendo</publisher>
+		<family>Pokémon</family>
+		<players>1</players>
+		<md5>21e538081f163dc394a48f17fe5fe39b</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230301T215557" />
+		<scrap name="ArcadeDB" date="20221212T154405" />
+	</game>
+	<game id="189684">
+		<path>./No-Intro/Pokemon Party Mini - Rocket Start (USA) (GameCube).min</path>
+		<name>Pokémon Party Mini : Rocket Start</name>
+		<desc>An Elekid pits the player (a Pikachu) against a Rattata, an Eevee, and even another Pikachu. The object of the game is to make Pikachu start running as soon as Elekid gives the signal (the system rumbles), and make it start before its opponent. Pikachu can be made to run by pressing any button or shaking the system. If Pikachu starts before Elekid's signal, or if Pikachu loses a race, the game is over.
+
+This minigame was emulated onto Pokémon Channel as an entire Pokémon mini cartridge.</desc>
+		<image>./media/screenshots/Pokemon Party Mini - Rocket Start (USA) (GameCube).png</image>
+		<video>./media/videos/Pokemon Party Mini - Rocket Start (USA) (GameCube).mp4</video>
+		<marquee>./media/marquees/Pokemon Party Mini - Rocket Start (USA) (GameCube).png</marquee>
+		<thumbnail>./images/Pokemon Party Mini - Rocket Start (USA) (GameCube)-thumb.png</thumbnail>
+		<boxback>./images/Pokemon Party Mini - Rocket Start (USA) (GameCube)-boxback.png</boxback>
+		<rating></rating>
+		<developer>Ambrella</developer>
+		<publisher>Nintendo</publisher>
+		<family>Pokémon</family>
+		<players>1</players>
+		<md5>f899cab8f35452f83705484e16fef27a</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230301T215559" />
+		<scrap name="ArcadeDB" date="20221212T154405" />
+	</game>
+	<game id="189011">
+		<path>./No-Intro/Pokemon Pinball Mini (USA) (GameCube Preview).min</path>
+		<name>Pokémon Pinball Mini</name>
+		<desc>Pokémon Pinball mini? is a pinball game with several levels where a Diglett or a Pikachu acts as the ?bumping' mechanism.</desc>
+		<image>./media/screenshots/Pokemon Pinball Mini (USA) (GameCube Preview).png</image>
+		<video>./media/videos/Pokemon Pinball Mini (USA) (GameCube Preview).mp4</video>
+		<marquee>./media/marquees/Pokemon Pinball Mini (USA) (GameCube Preview).png</marquee>
+		<thumbnail>./images/Pokemon Pinball Mini (USA) (GameCube Preview)-thumb.png</thumbnail>
+		<fanart>./images/Pokemon Pinball Mini (USA) (GameCube Preview)-fanart.jpg</fanart>
+		<manual>./manuals/Pokemon Pinball Mini (USA) (GameCube Preview)-manual.pdf</manual>
+		<boxback>./images/Pokemon Pinball Mini (USA) (GameCube Preview)-boxback.png</boxback>
+		<rating></rating>
+		<releasedate>20011116T000000</releasedate>
+		<developer>Jupiter Corporation</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Pinball</genre>
+		<family>Pokémon</family>
+		<players>1</players>
+		<md5>b69528f2a1cf9f263cd24f9372dd33f1</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230301T215600" />
+		<scrap name="ArcadeDB" date="20221212T154406" />
+	</game>
+	<game id="189011">
+		<path>./No-Intro/Pokemon Pinball Mini (USA, Europe).min</path>
+		<name>Pokémon Pinball Mini</name>
+		<desc>Pokémon Pinball mini? is a pinball game with several levels where a Diglett or a Pikachu acts as the ?bumping' mechanism.</desc>
+		<image>./media/screenshots/Pokemon Pinball Mini (USA, Europe).png</image>
+		<video>./media/videos/Pokemon Pinball Mini (USA, Europe).mp4</video>
+		<marquee>./media/marquees/Pokemon Pinball Mini (USA, Europe).png</marquee>
+		<thumbnail>./images/Pokemon Pinball Mini (USA, Europe)-thumb.png</thumbnail>
+		<fanart>./images/Pokemon Pinball Mini (USA, Europe)-fanart.jpg</fanart>
+		<manual>./manuals/Pokemon Pinball Mini (USA, Europe)-manual.pdf</manual>
+		<boxback>./images/Pokemon Pinball Mini (USA, Europe)-boxback.png</boxback>
+		<rating></rating>
+		<releasedate>20020316T000000</releasedate>
+		<developer>Jupiter Corporation</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Pinball</genre>
+		<family>Pokémon</family>
+		<players>1</players>
+		<md5>086ec88930aa624a09d470858ccc9911</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230301T215601" />
+		<scrap name="ArcadeDB" date="20221212T154406" />
+	</game>
+	<game id="189012">
+		<path>./No-Intro/Pokemon Puzzle Collection (USA) (GameCube Preview).min</path>
+		<name>Pokémon Puzzle Collection</name>
+		<desc>Pokémon Puzzle Collection is a collection of different puzzle games such as: Shadow Puzzle, where different shapes are put together to make an image of a Pokémon; Motion Puzzle, a sliding game where an image of a Pokémon has to be unscrambled; Escape, where one has to move blocks to let a Pokémon out of a maze; and a bonus for completing most of your Minidex is the game Power On, a ?Pipe Dream'-like game where one has to connect a Pikachu to a light bulb, creating a circuit).</desc>
+		<image>./media/screenshots/Pokemon Puzzle Collection (USA) (GameCube Preview).png</image>
+		<video>./media/videos/Pokemon Puzzle Collection (USA) (GameCube Preview).mp4</video>
+		<marquee>./media/marquees/Pokemon Puzzle Collection (USA) (GameCube Preview).png</marquee>
+		<thumbnail>./images/Pokemon Puzzle Collection (USA) (GameCube Preview)-thumb.png</thumbnail>
+		<manual>./manuals/Pokemon Puzzle Collection (USA) (GameCube Preview)-manual.pdf</manual>
+		<boxback>./images/Pokemon Puzzle Collection (USA) (GameCube Preview)-boxback.png</boxback>
+		<rating></rating>
+		<releasedate>20020314T000000</releasedate>
+		<developer>Jupiter Corporation</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle-Game</genre>
+		<family>Pokémon</family>
+		<players>1</players>
+		<md5>f8dd05808312ffa9cf200bf4633821af</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230301T215603" />
+		<scrap name="ArcadeDB" date="20221212T154407" />
+	</game>
+	<game id="189012">
+		<path>./No-Intro/Pokemon Puzzle Collection (USA, Europe).min</path>
+		<name>Pokémon Puzzle Collection</name>
+		<desc>Pokémon Puzzle Collection is a collection of different puzzle games such as: Shadow Puzzle, where different shapes are put together to make an image of a Pokémon; Motion Puzzle, a sliding game where an image of a Pokémon has to be unscrambled; Escape, where one has to move blocks to let a Pokémon out of a maze; and a bonus for completing most of your Minidex is the game Power On, a ?Pipe Dream'-like game where one has to connect a Pikachu to a light bulb, creating a circuit).</desc>
+		<image>./media/screenshots/Pokemon Puzzle Collection (USA, Europe).png</image>
+		<video>./media/videos/Pokemon Puzzle Collection (USA, Europe).mp4</video>
+		<marquee>./media/marquees/Pokemon Puzzle Collection (USA, Europe).png</marquee>
+		<thumbnail>./images/Pokemon Puzzle Collection (USA, Europe)-thumb.png</thumbnail>
+		<manual>./manuals/Pokemon Puzzle Collection (USA, Europe)-manual.pdf</manual>
+		<boxback>./images/Pokemon Puzzle Collection (USA, Europe)-boxback.png</boxback>
+		<rating></rating>
+		<releasedate>20020314T000000</releasedate>
+		<developer>Jupiter Corporation</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle-Game</genre>
+		<family>Pokémon</family>
+		<players>1</players>
+		<md5>1bb47758e8ea1c5ba39acf4a1d10c78e</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230301T215604" />
+		<scrap name="ArcadeDB" date="20221212T154407" />
+	</game>
+	<game id="189018">
+		<path>./No-Intro/Pokemon Zany Cards (USA, Europe).min</path>
+		<name>Pokémon Zany Cards</name>
+		<desc>Pokémon Zany Cards is a small collection of four card games featuring Pokémon-oriented cards.</desc>
+		<image>./media/screenshots/Pokemon Zany Cards (USA, Europe).png</image>
+		<video>./media/videos/Pokemon Zany Cards (USA, Europe).mp4</video>
+		<marquee>./media/marquees/Pokemon Zany Cards (USA, Europe).png</marquee>
+		<thumbnail>./images/Pokemon Zany Cards (USA, Europe)-thumb.png</thumbnail>
+		<manual>./manuals/Pokemon Zany Cards (USA, Europe)-manual.pdf</manual>
+		<boxback>./images/Pokemon Zany Cards (USA, Europe)-boxback.png</boxback>
+		<rating></rating>
+		<releasedate>20011116T000000</releasedate>
+		<developer>Denyusha Co.,Ltd.</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Casino / Cards</genre>
+		<family>Pokémon</family>
+		<players>1-5</players>
+		<md5>28ddb09ed326df90b706aa61a851c732</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230301T215606" />
+		<scrap name="ArcadeDB" date="20221212T154408" />
+	</game>
+	<game id="189021">
+		<path>./No-Intro/[BIOS] Nintendo Pokemon Mini (World).min</path>
+		<name>ZZZ(notgame):[ B I O S] Nintendo Pokemon Mini</name>
+		<image>./media/screenshots/[BIOS] Nintendo Pokemon Mini (World).png</image>
+		<rating></rating>
+		<hidden>true</hidden>
+		<md5>1e4fb124a3a886865acb574f388c803d</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230301T215607" />
+		<scrap name="ArcadeDB" date="20221212T154408" />
+	</game>
+</gameList>

@@ -1,0 +1,1792 @@
+<?xml version="1.0"?>
+<gameList>
+	<game id="415885">
+		<path>./TOSEC/Applications/[ROM]/Art Gallery (1981)(Tandy)[26-3061]/Art Gallery (1981)(Tandy)[26-3061].rom</path>
+		<name>ZZZ(notgame):Art Gallery</name>
+		<rating>0</rating>
+		<hidden>true</hidden>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>2FDF5B58</crc32>
+		<md5>e12ab409bdaa205b7a6a824494bdd50d</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235200" />
+	</game>
+	<game id="415903">
+		<path>./TOSEC/Applications/[ROM]/Audio Spectrum Analyzer (1981)(Tandy)[26-3156]/Audio Spectrum Analyzer (1981)(Tandy)[26-3156].rom</path>
+		<name>ZZZ(notgame):Audio Spectrum Analyzer</name>
+		<rating>0</rating>
+		<hidden>true</hidden>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>16D2D946</crc32>
+		<md5>bde00a8f3b9d2e4bcd7f2d545adf235c</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235202" />
+	</game>
+	<game id="418775">
+		<path>./TOSEC/Applications/[ROM]/Color Computer Diagnostic Program (198x)(Tandy)/Color Computer Diagnostic Program (198x)(Tandy).rom</path>
+		<name>ZZZ(notgame):Color Computer Diagnostic Program</name>
+		<rating>0</rating>
+		<hidden>true</hidden>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>8CD56308</crc32>
+		<md5>3e252a690d2eafc5cc8834fc2b1475a6</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235203" />
+	</game>
+	<game id="418775">
+		<path>./TOSEC/Applications/[ROM]/Color Computer Diagnostic Program (198x)(Tandy)[a]/Color Computer Diagnostic Program (198x)(Tandy)[a].rom</path>
+		<name>ZZZ(notgame):Color Computer Diagnostic Program</name>
+		<rating>0</rating>
+		<hidden>true</hidden>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>D5257B50</crc32>
+		<md5>1271f0bd852c2c8284a8dd2d33f4ba6f</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235204" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/[ROM]/Color Computer Disk BASIC for FD502 (1982)(Tandy)(26-3131)/Color Computer Disk BASIC for FD502 (1982)(Tandy)(26-3131).rom</path>
+		<name>Color Computer Disk BASIC for FD502 (1982)(Tandy)(26-3131)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>58D32DFE</crc32>
+		<md5>b2d43757dc6851d866021ff6c4f59205</md5>
+		<scrap name="ScreenScraper" date="20230227T235206" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/[ROM]/Color Computer Disk BASIC v1.1 (1982)(Tandy)[26-3022]/Color Computer Disk BASIC v1.1 (1982)(Tandy)[26-3022].rom</path>
+		<name>Color Computer Disk BASIC v1.1 (1982)(Tandy)[26-3022]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>0B9C5415</crc32>
+		<md5>8cab28f4b7311b8df63c07bb3b59bfd5</md5>
+		<scrap name="ScreenScraper" date="20230227T235207" />
+	</game>
+	<game id="418824">
+		<path>./TOSEC/Applications/[ROM]/Color Computer Modem Pak (1985)(Tandy)[26-2228]/Color Computer Modem Pak (1985)(Tandy)[26-2228].rom</path>
+		<name>ZZZ(notgame):#NONJEU</name>
+		<rating>0</rating>
+		<hidden>true</hidden>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>667BC55D</crc32>
+		<md5>94c58128d8effaf9a7cbb33ec5a0e706</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235208" />
+	</game>
+	<game id="416002">
+		<path>./TOSEC/Applications/[ROM]/Color File (1981)(Tandy)[26-3103]/Color File (1981)(Tandy)[26-3103].rom</path>
+		<name>ZZZ(notgame):Color File</name>
+		<rating>0</rating>
+		<hidden>true</hidden>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>D78BE10A</crc32>
+		<md5>f2c05091326c378e9209428000555799</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235210" />
+	</game>
+	<game id="418824">
+		<path>./TOSEC/Applications/[ROM]/Color Forth (1981)(Tandy)/Color Forth (1981)(Tandy).rom</path>
+		<name>ZZZ(notgame):#NONJEU</name>
+		<rating>0</rating>
+		<hidden>true</hidden>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>8ACD7EA2</crc32>
+		<md5>2b93e279cdff2c309b31d4172625e284</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235211" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/[ROM]/Color Logo (1982)(Tandy)[26-2722]/Color Logo (1982)(Tandy)[26-2722].rom</path>
+		<name>Color Logo (1982)(Tandy)[26-2722]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>9FB1E7D9</crc32>
+		<md5>182927a1f9ca7cb988ad3ab0f7d90dfe</md5>
+		<scrap name="ScreenScraper" date="20230227T235212" />
+	</game>
+	<game id="418824">
+		<path>./TOSEC/Applications/[ROM]/Color Scripsit (1982)(Tandy)[26-3105]/Color Scripsit (1982)(Tandy)[26-3105].rom</path>
+		<name>ZZZ(notgame):#NONJEU</name>
+		<rating>0</rating>
+		<hidden>true</hidden>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>3ACA199B</crc32>
+		<md5>d45d170544b2822e796aec81784db90e</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235214" />
+	</game>
+	<game id="417196">
+		<path>./TOSEC/Applications/[ROM]/Color SCRIPSIT II (1986)(Tandy)[26-3109]/Color SCRIPSIT II (1986)(Tandy)[26-3109].rom</path>
+		<name>Color SCRIPSIT II</name>
+		<rating>0</rating>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>7BFFD03A</crc32>
+		<md5>da2ed7d7351b429fff33b3076e7f68d5</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235215" />
+	</game>
+	<game id="418824">
+		<path>./TOSEC/Applications/[ROM]/Deluxe RS-232 Program Pak (1983)(Tandy)[26-2226]/Deluxe RS-232 Program Pak (1983)(Tandy)[26-2226].rom</path>
+		<name>ZZZ(notgame):#NONJEU</name>
+		<rating>0</rating>
+		<hidden>true</hidden>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>D990E1F9</crc32>
+		<md5>5a48cc69bffa89c78941a773d88adc80</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235216" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/[ROM]/EDTASM+ (1982)(Tandy)[26-3250]/EDTASM+ (1982)(Tandy)[26-3250].rom</path>
+		<name>EDTASM+ (1982)(Tandy)[26-3250]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>F4374A55</crc32>
+		<md5>7b5e43fb2c64d630044560c83c884678</md5>
+		<scrap name="ScreenScraper" date="20230227T235218" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/[ROM]/JDOS V1.08 (1983)(J&amp;M Systems)/JDOS V1.08 (1983)(J&amp;M Systems).rom</path>
+		<name>JDOS V1.08 (1983)(J&amp;M Systems)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>174CF6EA</crc32>
+		<md5>6f3fed36c8d3b36b6288de5ef4c77583</md5>
+		<scrap name="ScreenScraper" date="20230227T235219" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/[ROM]/JDOS V1.10 (1983)(J&amp;M Systems)/JDOS V1.10 (1983)(J&amp;M Systems).rom</path>
+		<name>JDOS V1.10 (1983)(J&amp;M Systems)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>9A2F498A</crc32>
+		<md5>b72499e4506e024cca27d8883c9f09f5</md5>
+		<scrap name="ScreenScraper" date="20230227T235220" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/[ROM]/JDOS V1.23 (1985)(J&amp;M Systems)/JDOS V1.23 (1985)(J&amp;M Systems).rom</path>
+		<name>JDOS V1.23 (1985)(J&amp;M Systems)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>F1050D71</crc32>
+		<md5>92018e6e4f3d4a6e927232d5f6e14091</md5>
+		<scrap name="ScreenScraper" date="20230227T235221" />
+	</game>
+	<game id="369652">
+		<path>./TOSEC/Applications/[ROM]/Orchestra-90 (198x)(Tandy)[26-3143]/Orchestra-90 (198x)(Tandy)[26-3143].rom</path>
+		<name>ZZZ(notgame):Orchestra-90</name>
+		<rating>0</rating>
+		<hidden>true</hidden>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>15FB39AF</crc32>
+		<md5>171fb7a5d3b808565295b45c773abaaf</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235223" />
+	</game>
+	<game id="418824">
+		<path>./TOSEC/Applications/[ROM]/Personal Finance (1980)(Tandy)[26-3101]/Personal Finance (1980)(Tandy)[26-3101].rom</path>
+		<name>ZZZ(notgame):#NONJEU</name>
+		<rating>0</rating>
+		<hidden>true</hidden>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>D577436A</crc32>
+		<md5>6cfaeafe85dc44b7e6304c27215b8aad</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235224" />
+	</game>
+	<game id="418824">
+		<path>./TOSEC/Applications/[ROM]/Personal Finance II (1983)(Tandy)[26-3106]/Personal Finance II (1983)(Tandy)[26-3106].rom</path>
+		<name>ZZZ(notgame):#NONJEU</name>
+		<rating>0</rating>
+		<hidden>true</hidden>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>73C41FDE</crc32>
+		<md5>556b34173d760e45a48dba3bd0747131</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235226" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/[ROM]/TypeMate (1988)(Tandy)[26-3155]/TypeMate (1988)(Tandy)[26-3155].rom</path>
+		<name>TypeMate (1988)(Tandy)[26-3155]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>54F38AB8</crc32>
+		<md5>b8fc0727cff759585bc9ecdaa0b1b654</md5>
+		<scrap name="ScreenScraper" date="20230227T235227" />
+	</game>
+	<game id="417151">
+		<path>./TOSEC/Applications/[ROM]/Typing Tutor (1980)(Tandy)(26-3152)/Typing Tutor (1980)(Tandy)(26-3152).rom</path>
+		<name>ZZZ(notgame):Typing Tutor</name>
+		<rating>0</rating>
+		<hidden>true</hidden>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>CEBD3196</crc32>
+		<md5>a98b89b45501aa307701fba4d8faa77d</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235228" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/[ROM]/Videotex v1.1 (1981)(Tandy)[26-2222]/Videotex v1.1 (1981)(Tandy)[26-2222].rom</path>
+		<name>Videotex v1.1 (1981)(Tandy)[26-2222]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>8987B1E3</crc32>
+		<md5>4bf86166787d64f821b11378295f05e0</md5>
+		<scrap name="ScreenScraper" date="20230227T235230" />
+	</game>
+	<game id="418824">
+		<path>./TOSEC/Applications/[ROM]/Videotex v1.2 (1981)(Tandy)[26-2222]/Videotex v1.2 (1981)(Tandy)[26-2222].rom</path>
+		<name>ZZZ(notgame):#NONJEU</name>
+		<rating>0</rating>
+		<hidden>true</hidden>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>1CD04106</crc32>
+		<md5>1aac1a5bd222994330893c8ee4232875</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235231" />
+	</game>
+	<game id="129453">
+		<path>./TOSEC/Educational/[ROM]/Bingo Math (1983)(Tandy)[26-3150]/Bingo Math (1983)(Tandy)[26-3150].rom</path>
+		<name>Bingo Math</name>
+		<rating>0</rating>
+		<publisher>Tandy</publisher>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>3BE0CF60</crc32>
+		<md5>09b299894c8271063cc6ddbccbf78f4e</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235232" />
+	</game>
+	<game>
+		<path>./TOSEC/Educational/[ROM]/Blackboard (1983)(Tandy)/Blackboard (1983)(Tandy).ROM</path>
+		<name>Blackboard (1983)(Tandy)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>5DEB7A51</crc32>
+		<md5>3df943b2fb13142afec03ef21b906a7c</md5>
+		<scrap name="ScreenScraper" date="20230227T235234" />
+	</game>
+	<game>
+		<path>./TOSEC/Educational/[ROM]/Doodle Bug 1 (1982)(Computerware)/Doodle Bug 1 (1982)(Computerware).rom</path>
+		<name>Doodle Bug 1 (1982)(Computerware)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>B86830A9</crc32>
+		<md5>f62a58b18ba8f3ed599da91d42901d78</md5>
+		<scrap name="ScreenScraper" date="20230227T235235" />
+	</game>
+	<game>
+		<path>./TOSEC/Educational/[ROM]/Doodle Bug 2 (1982)(Computerware)/Doodle Bug 2 (1982)(Computerware).rom</path>
+		<name>Doodle Bug 2 (1982)(Computerware)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>C3D41232</crc32>
+		<md5>dd29460e33e51a8e242abbe88bf8411e</md5>
+		<scrap name="ScreenScraper" date="20230227T235236" />
+	</game>
+	<game>
+		<path>./TOSEC/Educational/[ROM]/Doodle Bug 3 (1982)(Computerware)/Doodle Bug 3 (1982)(Computerware).rom</path>
+		<name>Doodle Bug 3 (1982)(Computerware)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>EA820C39</crc32>
+		<md5>d08b376b5e2577df5770e5c1d1406f08</md5>
+		<scrap name="ScreenScraper" date="20230227T235237" />
+	</game>
+	<game id="368612">
+		<path>./TOSEC/Educational/[ROM]/Fraction Fever (198x)(Tandy)[25-1103]/Fraction Fever (198x)(Tandy)[25-1103].rom</path>
+		<name>ZZZ(notgame):Fraction Fever</name>
+		<rating>0</rating>
+		<hidden>true</hidden>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>93153B15</crc32>
+		<md5>a7768f8cee8df652597748200e6c8cc5</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235239" />
+	</game>
+	<game id="368616">
+		<path>./TOSEC/Educational/[ROM]/Kids on Keys (198x)(Tandy)[25-1101]/Kids on Keys (198x)(Tandy)[25-1101].rom</path>
+		<name>ZZZ(notgame):Kids on Keys</name>
+		<rating>0</rating>
+		<hidden>true</hidden>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>B2E463B6</crc32>
+		<md5>9080bfe376619c42a7839312fc628cf8</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235240" />
+	</game>
+	<game id="369644">
+		<path>./TOSEC/Educational/[ROM]/Kindercomp (1984)(Tandy)[25-1102]/Kindercomp (1984)(Tandy)[25-1102].rom</path>
+		<name>ZZZ(notgame):Kindercomp</name>
+		<rating>0</rating>
+		<hidden>true</hidden>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>36EECAC4</crc32>
+		<md5>4d0b58024c4ab15c12d2952f73edb2d3</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235242" />
+	</game>
+	<game id="129452">
+		<path>./TOSEC/Games/[CAS]/Bedlam (1982)(Tandy)[26-3312]/Bedlam (1982)(Tandy)[26-3312].cas</path>
+		<name>Bedlam</name>
+		<video>./videos/Bedlam (1982)(Tandy)[26-3312]-video.mp4</video>
+		<marquee>./images/Bedlam (1982)(Tandy)[26-3312]-marquee.png</marquee>
+		<rating>0</rating>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>160DDFB9</crc32>
+		<md5>e82b907f06b6695c71ab80e70d483df7</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235243" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[CAS]/Cross Bomber (2020-08-26)(Caruso, Fabrizio)/Cross Bomber (2020-08-26)(Caruso, Fabrizio).cas</path>
+		<name>Cross Bomber (2020-08-26)(Caruso, Fabrizio)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>644F8E51</crc32>
+		<md5>798b4a0e137c43216c7d7156f9483088</md5>
+		<scrap name="ScreenScraper" date="20230227T235244" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[CAS]/Cross Bomber (2021-05-13)(Caruso, Fabrizio)/Cross Bomber (2021-05-13)(Caruso, Fabrizio).cas</path>
+		<name>Cross Bomber (2021-05-13)(Caruso, Fabrizio)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>A1082A8B</crc32>
+		<md5>ae01a75c554af8027a8a59086d75cacf</md5>
+		<scrap name="ScreenScraper" date="20230227T235246" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[CAS]/Cross Chase (2018-04-15)(Caruso, Fabrizio)[full]/Cross Chase (2018-04-15)(Caruso, Fabrizio)[full].cas</path>
+		<name>Cross Chase (2018-04-15)(Caruso, Fabrizio)[full]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>6C221B53</crc32>
+		<md5>8a2afa5bbb9b21564c69d5c3dbdab95b</md5>
+		<scrap name="ScreenScraper" date="20230227T235247" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[CAS]/Cross Chase (2018-04-15)(Caruso, Fabrizio)[tiny]/Cross Chase (2018-04-15)(Caruso, Fabrizio)[tiny].cas</path>
+		<name>Cross Chase (2018-04-15)(Caruso, Fabrizio)[tiny]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>4EFDA2B3</crc32>
+		<md5>cd8d49129032b86dd57357eb7b387543</md5>
+		<scrap name="ScreenScraper" date="20230227T235248" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[CAS]/Cross Chase (2018-05-19)(Caruso, Fabrizio)[full]/Cross Chase (2018-05-19)(Caruso, Fabrizio)[full].cas</path>
+		<name>Cross Chase (2018-05-19)(Caruso, Fabrizio)[full]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>C1EC3B01</crc32>
+		<md5>9a582e9eecc1de395ae416093ddc4f2c</md5>
+		<scrap name="ScreenScraper" date="20230227T235250" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[CAS]/Cross Chase (2018-05-19)(Caruso, Fabrizio)[tiny]/Cross Chase (2018-05-19)(Caruso, Fabrizio)[tiny].cas</path>
+		<name>Cross Chase (2018-05-19)(Caruso, Fabrizio)[tiny]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>400EBBC7</crc32>
+		<md5>864e470e19dc6ca45872fbc9a1b0a3e3</md5>
+		<scrap name="ScreenScraper" date="20230227T235251" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[CAS]/Cross Chase (2018-07-19)(Caruso, Fabrizio)[full]/Cross Chase (2018-07-19)(Caruso, Fabrizio)[full].cas</path>
+		<name>Cross Chase (2018-07-19)(Caruso, Fabrizio)[full]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>68348F87</crc32>
+		<md5>5794c983996f7d831567333b8a9093a2</md5>
+		<scrap name="ScreenScraper" date="20230227T235252" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[CAS]/Cross Chase (2018-07-19)(Caruso, Fabrizio)[tiny]/Cross Chase (2018-07-19)(Caruso, Fabrizio)[tiny].cas</path>
+		<name>Cross Chase (2018-07-19)(Caruso, Fabrizio)[tiny]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>4C78BC09</crc32>
+		<md5>641366bef17f5a8175f816d1a4e99644</md5>
+		<scrap name="ScreenScraper" date="20230227T235253" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[CAS]/Cross Chase (2018-08-04)(Caruso, Fabrizio)[full]/Cross Chase (2018-08-04)(Caruso, Fabrizio)[full].cas</path>
+		<name>Cross Chase (2018-08-04)(Caruso, Fabrizio)[full]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>A4173494</crc32>
+		<md5>6f647d1b6d56c3aa5b88ad75bb1c3f22</md5>
+		<scrap name="ScreenScraper" date="20230227T235254" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[CAS]/Cross Chase (2018-08-04)(Caruso, Fabrizio)[tiny]/Cross Chase (2018-08-04)(Caruso, Fabrizio)[tiny].cas</path>
+		<name>Cross Chase (2018-08-04)(Caruso, Fabrizio)[tiny]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>7F9B9153</crc32>
+		<md5>8d40cc683ba24d7ae3fdd7daddc3b209</md5>
+		<scrap name="ScreenScraper" date="20230227T235256" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[CAS]/Cross Chase (2018-10-29)(Caruso, Fabrizio)[full]/Cross Chase (2018-10-29)(Caruso, Fabrizio)[full].cas</path>
+		<name>Cross Chase (2018-10-29)(Caruso, Fabrizio)[full]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>60E4E707</crc32>
+		<md5>3d31a82ef03d101a75539dad632328f4</md5>
+		<scrap name="ScreenScraper" date="20230227T235257" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[CAS]/Cross Chase (2018-10-29)(Caruso, Fabrizio)[full][chars]/Cross Chase (2018-10-29)(Caruso, Fabrizio)[full][chars].cas</path>
+		<name>Cross Chase (2018-10-29)(Caruso, Fabrizio)[full][chars]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>52F83F00</crc32>
+		<md5>f0863d80694f73728d910f664df57698</md5>
+		<scrap name="ScreenScraper" date="20230227T235258" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[CAS]/Cross Chase (2018-10-29)(Caruso, Fabrizio)[tiny]/Cross Chase (2018-10-29)(Caruso, Fabrizio)[tiny].cas</path>
+		<name>Cross Chase (2018-10-29)(Caruso, Fabrizio)[tiny]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>D8380515</crc32>
+		<md5>5062dc6dda0f665b824c6b26cbe7201c</md5>
+		<scrap name="ScreenScraper" date="20230227T235259" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[CAS]/Cross Chase (2020-04-02)(Caruso, Fabrizio)/Cross Chase (2020-04-02)(Caruso, Fabrizio).cas</path>
+		<name>Cross Chase (2020-04-02)(Caruso, Fabrizio)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>53902FDA</crc32>
+		<md5>9ffdb3407d435714658a11c5b9b6b283</md5>
+		<scrap name="ScreenScraper" date="20230227T235300" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[CAS]/Cross Chase (2020-04-02)(Caruso, Fabrizio)[full]/Cross Chase (2020-04-02)(Caruso, Fabrizio)[full].cas</path>
+		<name>Cross Chase (2020-04-02)(Caruso, Fabrizio)[full]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>45A80950</crc32>
+		<md5>edba429315a7262f2ad0efc1905e820b</md5>
+		<scrap name="ScreenScraper" date="20230227T235302" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[CAS]/Cross Chase (2020-04-02)(Caruso, Fabrizio)[full][chars]/Cross Chase (2020-04-02)(Caruso, Fabrizio)[full][chars].cas</path>
+		<name>Cross Chase (2020-04-02)(Caruso, Fabrizio)[full][chars]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>53D39534</crc32>
+		<md5>033a52b219e550b196ca5f1b967334d0</md5>
+		<scrap name="ScreenScraper" date="20230227T235303" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[CAS]/Cross Chase (2020-04-02)(Caruso, Fabrizio)[tiny]/Cross Chase (2020-04-02)(Caruso, Fabrizio)[tiny].cas</path>
+		<name>Cross Chase (2020-04-02)(Caruso, Fabrizio)[tiny]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>117BCA75</crc32>
+		<md5>99d8e5913eaf29c110ff91cee8f7ab73</md5>
+		<scrap name="ScreenScraper" date="20230227T235304" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[CAS]/Cross Chase (2021-05-13)(Caruso, Fabrizio)/Cross Chase (2021-05-13)(Caruso, Fabrizio).cas</path>
+		<name>Cross Chase (2021-05-13)(Caruso, Fabrizio)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>6C9A6030</crc32>
+		<md5>28b83007e6e5c1da61cde90353489b58</md5>
+		<scrap name="ScreenScraper" date="20230227T235305" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[CAS]/Cross Horde (2021-04-16)(Caruso, Fabrizio)/Cross Horde (2021-04-16)(Caruso, Fabrizio).cas</path>
+		<name>Cross Horde (2021-04-16)(Caruso, Fabrizio)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>957A2315</crc32>
+		<md5>54cbda010b703ac5da650a7c1e619f43</md5>
+		<scrap name="ScreenScraper" date="20230227T235307" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[CAS]/Cross Horde (2021-04-25)(Caruso, Fabrizio)/Cross Horde (2021-04-25)(Caruso, Fabrizio).cas</path>
+		<name>Cross Horde (2021-04-25)(Caruso, Fabrizio)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>DA0410D4</crc32>
+		<md5>ed70a70e24db339d5d6b06b779ddbec1</md5>
+		<scrap name="ScreenScraper" date="20230227T235308" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[CAS]/Cross Horde v1.0 (2021-05-01)(Caruso, Fabrizio)/Cross Horde v1.0 (2021-05-01)(Caruso, Fabrizio).cas</path>
+		<name>Cross Horde v1.0 (2021-05-01)(Caruso, Fabrizio)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>F6D1E67D</crc32>
+		<md5>01b7769164e01778373f537b8e11d918</md5>
+		<scrap name="ScreenScraper" date="20230227T235309" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[CAS]/Cross Snake Preview (2020-12-05)(Caruso, Fabrizio)/Cross Snake Preview (2020-12-05)(Caruso, Fabrizio).cas</path>
+		<name>Cross Snake Preview (2020-12-05)(Caruso, Fabrizio)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>AC6F9CB3</crc32>
+		<md5>89471a3888f22aa54ab936a1fc8260c3</md5>
+		<scrap name="ScreenScraper" date="20230227T235310" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[CAS]/Cross Snake v1.0 (2020-12-12)(Caruso, Fabrizio)/Cross Snake v1.0 (2020-12-12)(Caruso, Fabrizio).cas</path>
+		<name>Cross Snake v1.0 (2020-12-12)(Caruso, Fabrizio)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>6E299624</crc32>
+		<md5>47943fe0cfe841c9a66f2511721c9085</md5>
+		<scrap name="ScreenScraper" date="20230227T235311" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[CAS]/Cross Snake v2.0 (2020-12-31)(Caruso, Fabrizio)/Cross Snake v2.0 (2020-12-31)(Caruso, Fabrizio).cas</path>
+		<name>Cross Snake v2.0 (2020-12-31)(Caruso, Fabrizio)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>3A5A4ABC</crc32>
+		<md5>2b2e44c1afb4baed8656de168615cb24</md5>
+		<scrap name="ScreenScraper" date="20230227T235312" />
+	</game>
+	<game id="129507">
+		<path>./TOSEC/Games/[CAS]/Donkey King (1982)(Tom Mix Software)/Donkey King (1982)(Tom Mix Software).cas</path>
+		<name>Donkey King</name>
+		<video>./videos/Donkey King (1982)(Tom Mix Software)-video.mp4</video>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Tom Mix</developer>
+		<publisher>Tom Mix</publisher>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>4BCD3EAA</crc32>
+		<md5>2697407c8c23ed8c6ef59a9d2f8fc39a</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235314" />
+	</game>
+	<game id="129509">
+		<path>./TOSEC/Games/[CAS]/Donkey Monkey (1985)(Engesoft)/Donkey Monkey (1985)(Engesoft).cas</path>
+		<name>Donkey Monkey</name>
+		<rating>0</rating>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>FE7A5747</crc32>
+		<md5>8ab63a957e20f69e633a9881c3a59f46</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235316" />
+	</game>
+	<game id="129571">
+		<path>./TOSEC/Games/[CAS]/Pengon (1983)(Spectral Associates)/Pengon (1983)(Spectral Associates).cas</path>
+		<name>Pengon</name>
+		<rating>0</rating>
+		<developer>MegaSoft Entertainment</developer>
+		<publisher>Spectral Associates</publisher>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>B4D72772</crc32>
+		<md5>7f989751f43d01674e2e83e8fab16204</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235317" />
+	</game>
+	<game id="129584">
+		<path>./TOSEC/Games/[CAS]/Pyramid 2000 (1982)(Tandy)[26-3310]/Pyramid 2000 (1982)(Tandy)[26-3310].cas</path>
+		<name>Pyramid 2000</name>
+		<video>./videos/Pyramid 2000 (1982)(Tandy)[26-3310]-video.mp4</video>
+		<rating>0</rating>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>C4267D72</crc32>
+		<md5>0200fb7795533b269b475ac9c868300b</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235319" />
+	</game>
+	<game id="129597">
+		<path>./TOSEC/Games/[CAS]/Rommel-3D (1985)(MichTron)/Rommel-3D (1985)(MichTron).cas</path>
+		<name>Rommel-3d</name>
+		<video>./videos/Rommel-3D (1985)(MichTron)-video.mp4</video>
+		<rating>0</rating>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>5250EBD7</crc32>
+		<md5>fb67bb217e1e57003a90828baa39fb87</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235320" />
+	</game>
+	<game id="129602">
+		<path>./TOSEC/Games/[CAS]/Shanghai (1987)(Activision)/Shanghai (1987)(Activision).cas</path>
+		<name>Shanghai</name>
+		<image>./images/Shanghai (1987)(Activision)-image.png</image>
+		<video>./videos/Shanghai (1987)(Activision)-video.mp4</video>
+		<marquee>./images/Shanghai (1987)(Activision)-marquee.png</marquee>
+		<thumbnail>./images/Shanghai (1987)(Activision)-thumb.png</thumbnail>
+		<fanart>./images/Shanghai (1987)(Activision)-fanart.jpg</fanart>
+		<rating>0</rating>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>6034E94E</crc32>
+		<md5>d4934c5e21bee7640653cc7282666c29</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235322" />
+	</game>
+	<game id="129647">
+		<path>./TOSEC/Games/[CAS]/Zaxxon (1983)(Tandy)[26-3062]/Zaxxon (1983)(Tandy)[26-3062].cas</path>
+		<name>Zaxxon</name>
+		<desc>The Zaxxon defence system must be destroyed in this isometric-viewed shoot 'em up. The game has three stages, first taking you through Asteroid City, which is heavily protected by aircraft, guns and missiles. Many barriers are alarmed, leaving you with limited space to progress through, and fire must constantly be dodged.
+
+Stage two is a space shoot out against hordes of enemy aircraft - those you failed to destroy in the first part of the task. Complete this and you reach the final battle with Zaxxon, the game looping with increased difficulty if you can survive the first time. There are three distinct skill levels, while controls involve using forward to dive and back to climb, in the manner of flight simulation.</desc>
+		<image>./images/Zaxxon (1983)(Tandy)[26-3062]-image.png</image>
+		<video>./videos/Zaxxon (1983)(Tandy)[26-3062]-video.mp4</video>
+		<marquee>./images/Zaxxon (1983)(Tandy)[26-3062]-marquee.png</marquee>
+		<thumbnail>./images/Zaxxon (1983)(Tandy)[26-3062]-thumb.png</thumbnail>
+		<rating>0</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>Tandy</publisher>
+		<genre>Shoot'em Up</genre>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>BF0E414C</crc32>
+		<md5>52b7cc733642c752460e6ef063ca2cf7</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235323" />
+	</game>
+	<game id="129436">
+		<path>./TOSEC/Games/[ROM]/A Mazing World of Malcom Mortar (1987)(Tandy)[26-3160]/A Mazing World of Malcom Mortar (1987)(Tandy)[26-3160].rom</path>
+		<name>Mazing World Of Malcom Mortar, A</name>
+		<rating>0</rating>
+		<publisher>ZCT Systems</publisher>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>93DDFC53</crc32>
+		<md5>dc1524ef2e06b0f8af0ab6b0ceb59638</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235324" />
+	</game>
+	<game id="129436">
+		<path>./TOSEC/Games/[ROM]/A Mazing World of Malcom Mortar (1987)(Tandy)[a][26-3160]/A Mazing World of Malcom Mortar (1987)(Tandy)[a][26-3160].rom</path>
+		<name>Mazing World Of Malcom Mortar, A</name>
+		<rating>0</rating>
+		<publisher>ZCT Systems</publisher>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>D4BBE731</crc32>
+		<md5>e17ef3bc5a2caa4ec123bf656b56439f</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235326" />
+	</game>
+	<game id="129439">
+		<path>./TOSEC/Games/[ROM]/Androne (1983)(Tandy)[26-3096]/Androne (1983)(Tandy)[26-3096].rom</path>
+		<name>Androne</name>
+		<image>./images/Androne (1983)(Tandy)[26-3096]-image.jpg</image>
+		<rating>0</rating>
+		<publisher>Robert Arnstein</publisher>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>7D1CAC0E</crc32>
+		<md5>5f1c5584547999ee1b083976082b0fb2</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235327" />
+	</game>
+	<game id="129441">
+		<path>./TOSEC/Games/[ROM]/Arkanoid (1987)(Tandy)[26-3043]/Arkanoid (1987)(Tandy)[26-3043].rom</path>
+		<name>Arkanoid</name>
+		<desc>The original Breakout concept involves controlling a bat at the bottom of the screen and using it to catch and direct a ball so as to hit all the bricks which are arranged at the top of the screen. It was unpopular for over a decade, before Taito revived it with some new ideas in this arcade game.
+The game's plot redefines the bat as a Vaus spaceship, the ball as an energy bolt, and the bricks form a mysterious wall stopping the ship from progressing to safety.
+By the mid-80s, power-ups were popular in most types of arcade games, and Arkanoid features them. They are caught by positioning the bat below them as they fall (meaning that you risk missing the ball if you go for them at the wrong time). The power-ups include lasers (which are mounted to each side of the ship and allow you to shoot out the blocks), a catching device (so as to be able to fire the ball off at a different angle every time you hit it) and one that slows the bolt down.</desc>
+		<image>./images/Arkanoid (1987)(Tandy)[26-3043]-image.png</image>
+		<video>./videos/Arkanoid (1987)(Tandy)[26-3043]-video.mp4</video>
+		<marquee>./images/Arkanoid (1987)(Tandy)[26-3043]-marquee.png</marquee>
+		<thumbnail>./images/Arkanoid (1987)(Tandy)[26-3043]-thumb.png</thumbnail>
+		<fanart>./images/Arkanoid (1987)(Tandy)[26-3043]-fanart.jpg</fanart>
+		<rating>0</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Tandy</publisher>
+		<genre>Action / Breakout games</genre>
+		<family>Arkanoid</family>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>2FAB4955</crc32>
+		<md5>a46167c2e706883002f1cb5cbaedcc99</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235329" />
+	</game>
+	<game id="129441">
+		<path>./TOSEC/Games/[ROM]/Arkanoid (1987)(Tandy)[u][26-3043]/Arkanoid (1987)(Tandy)[u][26-3043].rom</path>
+		<name>Arkanoid</name>
+		<desc>The original Breakout concept involves controlling a bat at the bottom of the screen and using it to catch and direct a ball so as to hit all the bricks which are arranged at the top of the screen. It was unpopular for over a decade, before Taito revived it with some new ideas in this arcade game.
+The game's plot redefines the bat as a Vaus spaceship, the ball as an energy bolt, and the bricks form a mysterious wall stopping the ship from progressing to safety.
+By the mid-80s, power-ups were popular in most types of arcade games, and Arkanoid features them. They are caught by positioning the bat below them as they fall (meaning that you risk missing the ball if you go for them at the wrong time). The power-ups include lasers (which are mounted to each side of the ship and allow you to shoot out the blocks), a catching device (so as to be able to fire the ball off at a different angle every time you hit it) and one that slows the bolt down.</desc>
+		<image>./images/Arkanoid (1987)(Tandy)[u][26-3043]-image.png</image>
+		<video>./videos/Arkanoid (1987)(Tandy)[u][26-3043]-video.mp4</video>
+		<marquee>./images/Arkanoid (1987)(Tandy)[u][26-3043]-marquee.png</marquee>
+		<thumbnail>./images/Arkanoid (1987)(Tandy)[u][26-3043]-thumb.png</thumbnail>
+		<fanart>./images/Arkanoid (1987)(Tandy)[u][26-3043]-fanart.jpg</fanart>
+		<rating>0</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Tandy</publisher>
+		<genre>Action / Breakout games</genre>
+		<family>Arkanoid</family>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>E79644A9</crc32>
+		<md5>38bb79a5d5935ee0818721678bd4d12a</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230227T235330" />
+	</game>
+	<game id="129446">
+		<path>./TOSEC/Games/[ROM]/Atom (1983)(Tandy)[26-3149]/Atom (1983)(Tandy)[26-3149].rom</path>
+		<name>Atom</name>
+		<image>./images/Atom (1983)(Tandy)[26-3149]-image.png</image>
+		<marquee>./images/Atom (1983)(Tandy)[26-3149]-marquee.png</marquee>
+		<thumbnail>./images/Atom (1983)(Tandy)[26-3149]-thumb.png</thumbnail>
+		<rating>0</rating>
+		<publisher>Tandy</publisher>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>04D9CFE4</crc32>
+		<md5>ec69f8ec6ff32fdf077cb057426a6f4b</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235332" />
+	</game>
+	<game id="129456">
+		<path>./TOSEC/Games/[ROM]/Bridge Tutor I (1983)(Tandy)[26-3158]/Bridge Tutor I (1983)(Tandy)[26-3158].rom</path>
+		<name>Bridge Tutor I</name>
+		<image>./images/Bridge Tutor I (1983)(Tandy)[26-3158]-image.jpg</image>
+		<rating>0</rating>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>D6B940F1</crc32>
+		<md5>816bb299f31631d7b1397191b63c26e6</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235333" />
+	</game>
+	<game id="129462">
+		<path>./TOSEC/Games/[ROM]/Canyon Climber (1982)(Tandy)[26-3089]/Canyon Climber (1982)(Tandy)[26-3089].rom</path>
+		<name>Canyon Climber</name>
+		<desc>Canyon Climber consists of three non-scrolling screens that are endlessly cycled through. In the first, similar to the rivet screen from Donkey Kong, the goal is to place explosive charges on both ends of each of four bridges, using ladders to climb between them, then trigger a detonator. Goats pursue the player and can be jumped over. The second screen resembles Donkey Kong's opening level, with angled platforms and connecting ladders. Native Americans ("Indians" in the manual) on each platform shoot arrows which can be jumped or avoided. The goal is to reach the top. The objective of the third screen is also to climb to the top. Brick-dropping birds are the primary obstacle.</desc>
+		<image>./images/Canyon Climber (1982)(Tandy)[26-3089]-image.jpg</image>
+		<video>./videos/Canyon Climber (1982)(Tandy)[26-3089]-video.mp4</video>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Datasoft</publisher>
+		<genre>Platform / Run Jump</genre>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>23E3869F</crc32>
+		<md5>5a7f2ccb32bcf299df679bbff839fc40</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235335" />
+	</game>
+	<game id="129463">
+		<path>./TOSEC/Games/[ROM]/Castle Guard (1982)(Tandy)[26-3079]/Castle Guard (1982)(Tandy)[26-3079].rom</path>
+		<name>Castle Guard</name>
+		<desc>Your challenge is to defend your castle from the soaring fireball. Maneuver your pike in a way that will keep the ball from striking your castle-while sending it back to the opponent's. Be warned! Merlin's pikes are spellbound and seem almost to have power of their own!</desc>
+		<image>./images/Castle Guard (1982)(Tandy)[26-3079]-image.jpg</image>
+		<video>./videos/Castle Guard (1982)(Tandy)[26-3079]-video.mp4</video>
+		<manual>./manuals/Castle Guard (1982)(Tandy)[26-3079]-manual.pdf</manual>
+		<rating>0</rating>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>8869EDDC</crc32>
+		<md5>50d2a18fa5af7f6566ca8c131b37ad0d</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235336" />
+	</game>
+	<game id="129464">
+		<path>./TOSEC/Games/[ROM]/Castle of Tharoggad (1988)(Tandy)[26-3159]/Castle of Tharoggad (1988)(Tandy)[26-3159].rom</path>
+		<name>Castle Of Tharoggad</name>
+		<image>./images/Castle of Tharoggad (1988)(Tandy)[26-3159]-image.jpg</image>
+		<rating>0</rating>
+		<publisher>Tandy</publisher>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>82929650</crc32>
+		<md5>b0b11fc4cbe3a526c2f948ce120fd535</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235337" />
+	</game>
+	<game id="129468">
+		<path>./TOSEC/Games/[ROM]/Checker King (1980)(Tandy)[26-3055]/Checker King (1980)(Tandy)[26-3055].rom</path>
+		<name>Checker King</name>
+		<image>./images/Checker King (1980)(Tandy)[26-3055]-image.jpg</image>
+		<rating>0</rating>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>05DC5EF3</crc32>
+		<md5>42ae9c7bf158dc7a9ddc18e431931a8e</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235339" />
+	</game>
+	<game id="129470">
+		<path>./TOSEC/Games/[ROM]/Chess (1980)(Tandy)[26-3050]/Chess (1980)(Tandy)[26-3050].rom</path>
+		<name>Chess</name>
+		<marquee>./images/Chess (1980)(Tandy)[26-3050]-marquee.png</marquee>
+		<rating>0</rating>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>7ABB161B</crc32>
+		<md5>8e938d574bc7b86c4fa9de77e66668fb</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235340" />
+	</game>
+	<game id="129470">
+		<path>./TOSEC/Games/[ROM]/Chess (1980)(Tandy)[a][26-3050]/Chess (1980)(Tandy)[a][26-3050].rom</path>
+		<name>Chess</name>
+		<marquee>./images/Chess (1980)(Tandy)[a][26-3050]-marquee.png</marquee>
+		<rating>0</rating>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>66130DAA</crc32>
+		<md5>8578388cd6bd3bd288277a81980e5b40</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235342" />
+	</game>
+	<game id="129473">
+		<path>./TOSEC/Games/[ROM]/Clowns &amp; Balloons (1982)(Tandy)[26-3087]/Clowns &amp; Balloons (1982)(Tandy)[26-3087].rom</path>
+		<name>Clowns And Balloons</name>
+		<video>./videos/Clowns &amp; Balloons (1982)(Tandy)[26-3087]-video.mp4</video>
+		<rating>0</rating>
+		<developer>Datasoft</developer>
+		<publisher>Tandy</publisher>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>FE4C93E4</crc32>
+		<md5>ce3463d9deb97ae2480921cb93af9ae0</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235343" />
+	</game>
+	<game id="129475">
+		<path>./TOSEC/Games/[ROM]/Color Backgammon (1980)(Tandy)[26-3059]/Color Backgammon (1980)(Tandy)[26-3059].rom</path>
+		<name>Color Backgammon</name>
+		<rating>0</rating>
+		<publisher>Tandy</publisher>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>A3B8BA85</crc32>
+		<md5>ac82476109804dcd2178d4bc9dc7a07b</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235344" />
+	</game>
+	<game id="129476">
+		<path>./TOSEC/Games/[ROM]/Color Baseball (1980)(Tandy)[26-3095]/Color Baseball (1980)(Tandy)[26-3095].rom</path>
+		<name>Color Baseball</name>
+		<rating>0</rating>
+		<publisher>Dale A. Lear</publisher>
+		<genre>Sports / Baseball</genre>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>AD1937C1</crc32>
+		<md5>68ed274a5dd7faa3249d8221bda20158</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235345" />
+	</game>
+	<game id="129480">
+		<path>./TOSEC/Games/[ROM]/Color Cubes (1981)(Tandy)[26-3075]/Color Cubes (1981)(Tandy)[26-3075].rom</path>
+		<name>Color Cubes</name>
+		<rating>0</rating>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>F4BE90BC</crc32>
+		<md5>f9956c5ae103ca4651bfa03c9a0ff5eb</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235347" />
+	</game>
+	<game id="129494">
+		<path>./TOSEC/Games/[ROM]/Cyrus Chess (1982)(Tandy)[26-3064]/Cyrus Chess (1982)(Tandy)[26-3064].rom</path>
+		<name>Cyrus Chess</name>
+		<rating>0</rating>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>BFA3585D</crc32>
+		<md5>c65d23c3ee5b9ff9f387fcdfb480d1d5</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235348" />
+	</game>
+	<game id="129498">
+		<path>./TOSEC/Games/[ROM]/Demolition Derby (1984)(Tandy)[26-3044]/Demolition Derby (1984)(Tandy)[26-3044].rom</path>
+		<name>Demolition Derby</name>
+		<video>./videos/Demolition Derby (1984)(Tandy)[26-3044]-video.mp4</video>
+		<rating>0</rating>
+		<publisher>Spectral Associates</publisher>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>1199D27F</crc32>
+		<md5>88a75f61449bb77e4d45115b39ca7a68</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235349" />
+	</game>
+	<game id="129499">
+		<path>./TOSEC/Games/[ROM]/Demon Attack (1984)(Tandy)[26-3099]/Demon Attack (1984)(Tandy)[26-3099].rom</path>
+		<name>Demon Attack</name>
+		<desc>Marooned on the ice planet Krybor, you watch legions of eerie creatures scream overhead. They hover ominously. They give you no quarter. Attack and destroy them–or be destroyed! Armed with your Laser Cannon, you confront the ultimate challenge: Survive!</desc>
+		<video>./videos/Demon Attack (1984)(Tandy)[26-3099]-video.mp4</video>
+		<marquee>./images/Demon Attack (1984)(Tandy)[26-3099]-marquee.png</marquee>
+		<rating>0</rating>
+		<developer>Imagic</developer>
+		<publisher>Tandy</publisher>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>B7A1AA3E</crc32>
+		<md5>101320d3b54da638eef352a5e96aa810</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235351" />
+	</game>
+	<game id="129499">
+		<path>./TOSEC/Games/[ROM]/Demon Attack (1984)(Tandy)[o][26-3099]/Demon Attack (1984)(Tandy)[o][26-3099].rom</path>
+		<name>Demon Attack</name>
+		<desc>Marooned on the ice planet Krybor, you watch legions of eerie creatures scream overhead. They hover ominously. They give you no quarter. Attack and destroy them–or be destroyed! Armed with your Laser Cannon, you confront the ultimate challenge: Survive!</desc>
+		<video>./videos/Demon Attack (1984)(Tandy)[o][26-3099]-video.mp4</video>
+		<marquee>./images/Demon Attack (1984)(Tandy)[o][26-3099]-marquee.png</marquee>
+		<rating>0</rating>
+		<developer>Imagic</developer>
+		<publisher>Tandy</publisher>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>A9D52B01</crc32>
+		<md5>d816081e4c1d12f4129b0e3e7eb5f15f</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235352" />
+	</game>
+	<game id="129504">
+		<path>./TOSEC/Games/[ROM]/Dino Wars (1980)(Tandy)[26-3057]/Dino Wars (1980)(Tandy)[26-3057].rom</path>
+		<name>Dino Wars</name>
+		<video>./videos/Dino Wars (1980)(Tandy)[26-3057]-video.mp4</video>
+		<rating>0</rating>
+		<publisher>Robert G. Kilgus</publisher>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>BA1D9E81</crc32>
+		<md5>aac581dc2fccab898b30b878faae4b4b</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235354" />
+	</game>
+	<game id="129510">
+		<path>./TOSEC/Games/[ROM]/Don-pan (1984)(Tandy)[26-3097]/Don-pan (1984)(Tandy)[26-3097].rom</path>
+		<name>Don-pan</name>
+		<video>./videos/Don-pan (1984)(Tandy)[26-3097]-video.mp4</video>
+		<rating>0</rating>
+		<publisher>Tandy</publisher>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>819FC9FB</crc32>
+		<md5>99e881f5aea74e007dc5ffb701051709</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235355" />
+	</game>
+	<game id="129515">
+		<path>./TOSEC/Games/[ROM]/Doubleback (1982)(Tandy)[26-3091]/Doubleback (1982)(Tandy)[26-3091].rom</path>
+		<name>Doubleback</name>
+		<video>./videos/Doubleback (1982)(Tandy)[26-3091]-video.mp4</video>
+		<rating>0</rating>
+		<publisher>Dale A. Lear</publisher>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>4CC44337</crc32>
+		<md5>fe77c514e086506c867acebe2cf77d75</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235357" />
+	</game>
+	<game id="129516">
+		<path>./TOSEC/Games/[ROM]/Downland v1.0 (1984)(Tandy)[26-3046]/Downland v1.0 (1984)(Tandy)[26-3046].rom</path>
+		<name>Downland</name>
+		<video>./videos/Downland v1.0 (1984)(Tandy)[26-3046]-video.mp4</video>
+		<rating>0</rating>
+		<developer>Spectral Associates</developer>
+		<publisher>Spectral Associates</publisher>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>A923F5A2</crc32>
+		<md5>9083dcb2653e1cd92472a819a28da81b</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235358" />
+	</game>
+	<game id="129516">
+		<path>./TOSEC/Games/[ROM]/Downland v1.1 (1984)(Tandy)[26-3046]/Downland v1.1 (1984)(Tandy)[26-3046].rom</path>
+		<name>Downland</name>
+		<video>./videos/Downland v1.1 (1984)(Tandy)[26-3046]-video.mp4</video>
+		<rating>0</rating>
+		<developer>Spectral Associates</developer>
+		<publisher>Spectral Associates</publisher>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>0229C319</crc32>
+		<md5>cc37ab482098d24fff1a7a6beeca46a4</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235359" />
+	</game>
+	<game id="129520">
+		<path>./TOSEC/Games/[ROM]/Dragonfire (1982)(Tandy)[26-3098]/Dragonfire (1982)(Tandy)[26-3098].rom</path>
+		<name>Dragonfire</name>
+		<desc>The king's treasures have been stolen! As the daring young prince, your goal is to recover them all. The treasures are being kept in various castles, each one guarded by a fire breathing dragon. Each level in the game has two parts; first you will need to cross the castle's drawbridge. You will have to jump and duck the dragons fireballs as well as avoid flying arrows to reach the other side! In the second part you need to collect all of the treasures on the screen and make it to the exit while avoiding the dragon who runs across the bottom of the screen. The dragons on each level have different patterns of movement and firing, and as the levels progress will become faster and trickier.</desc>
+		<image>./images/Dragonfire (1982)(Tandy)[26-3098]-image.png</image>
+		<video>./videos/Dragonfire (1982)(Tandy)[26-3098]-video.mp4</video>
+		<marquee>./images/Dragonfire (1982)(Tandy)[26-3098]-marquee.png</marquee>
+		<fanart>./images/Dragonfire (1982)(Tandy)[26-3098]-fanart.jpg</fanart>
+		<rating>0</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Imagic</developer>
+		<publisher>Tandy</publisher>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>1031FA22</crc32>
+		<md5>03be73a5b013f278e8a4772ec2629ad8</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235401" />
+	</game>
+	<game id="129521">
+		<path>./TOSEC/Games/[ROM]/Dungeons of Daggorath (1983)(Tandy)[26-3093]/Dungeons of Daggorath (1983)(Tandy)[26-3093].rom</path>
+		<name>Dungeons of Daggorath</name>
+		<desc>Dungeons of Daggorath was one of the first games that attempted to portray three-dimensional space in a real-time environment, using angled lines to give the illusion of depth. The player moves around a dungeon, issuing commands by means of typing — for example, typing "GET LEFT SHIELD" or "USE RIGHT TORCH" (or abbreviations such as "G L SH" and "U R T"), gathering strength and ever more powerful weapons as the game progresses. Various creatures appear, and can often be heard when they are nearby, even when not visible. The object of the game is to defeat the second of two wizards, who is on the fifth and last level of the dungeon.</desc>
+		<image>./images/Dungeons of Daggorath (1983)(Tandy)[26-3093]-image.png</image>
+		<video>./videos/Dungeons of Daggorath (1983)(Tandy)[26-3093]-video.mp4</video>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>DynaMicro</developer>
+		<publisher>Tandy</publisher>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>D45E59E3</crc32>
+		<md5>81c45dcd9c38cf8a2c88eb184f1776cb</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235402" />
+	</game>
+	<game id="129524">
+		<path>./TOSEC/Games/[ROM]/Facemaker (1984)(Tandy)[26-3166]/Facemaker (1984)(Tandy)[26-3166].rom</path>
+		<name>Facemaker</name>
+		<desc>In an enclosed track in space, you pilot a sleek, lone space fighter up against an army of mine-laying opponents. This is a clone of the arcade game Omega Race, a vector graphics based game from the early 1980's. In this game, you are on a giant race trac</desc>
+		<rating>0</rating>
+		<developer>Spinnaker Software Corporation</developer>
+		<publisher>Tandy</publisher>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>7A1C2F2D</crc32>
+		<md5>cec8276c08f1efdcf1e9a2ad8d229f84</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235404" />
+	</game>
+	<game id="129528">
+		<path>./TOSEC/Games/[ROM]/Football (1980)(Tandy)[26-3053]/Football (1980)(Tandy)[26-3053].rom</path>
+		<name>Football</name>
+		<desc>Welcome to Football. Football is a simulation game with five men per team. Two people play the game, each using a joystick to control his team. One player's team is red, the other is blue.</desc>
+		<image>./images/Football (1980)(Tandy)[26-3053]-image.png</image>
+		<video>./videos/Football (1980)(Tandy)[26-3053]-video.mp4</video>
+		<rating>0</rating>
+		<publisher>Tandy</publisher>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>F17B5B38</crc32>
+		<md5>e91c9a7fa52a3d0697287de7cf39e13d</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235405" />
+	</game>
+	<game id="129531">
+		<path>./TOSEC/Games/[ROM]/Galatic Attack (1982)(Tandy)[26-3066]/Galatic Attack (1982)(Tandy)[26-3066].rom</path>
+		<name>Galatic Attack</name>
+		<desc>You must learn to control the laser beam to destroy the aliens before they
+conquer the Earth. Press the red button on your Joystick to begin.
+The alien ships attack from the upper part of the screen in groups of eight.
+The laser is located at the bottom of the screen. To emit a laser beam, press
+the Joystick button.
+When the alien ships first appear on the screen, they will be in strict
+formation, moving from right to left. Don't trust them for one minute
+because they're sneaky!</desc>
+		<rating>0</rating>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>984EE0D9</crc32>
+		<md5>19ee8852bc38266a639fd19bd6e8f9eb</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235406" />
+	</game>
+	<game id="129534">
+		<path>./TOSEC/Games/[ROM]/GFL Championship Football II (1988)(Tandy)[26-3172]/GFL Championship Football II (1988)(Tandy)[26-3172].rom</path>
+		<name>Gfl Championship Football 2</name>
+		<rating>0</rating>
+		<publisher>ZCT Systems</publisher>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>899978E7</crc32>
+		<md5>720472d5f8fdbd145d3d0a418dc62bf8</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235408" />
+	</game>
+	<game id="129536">
+		<path>./TOSEC/Games/[ROM]/Gin Champion (198x)(Tandy)[26-3083]/Gin Champion (198x)(Tandy)[26-3083].rom</path>
+		<name>Gin Champion</name>
+		<desc>Have you ever wondered about those people who sit in smoke-filled rooms with rolled-up sleeves and beads of perspiration on their brows, drinking pot after pot of strong, black coffee and playing Gin Into the wee hours of the morning? Now you, too, can become part of this fascinating and compulsive obsession, using the TRS-80 Color Computer Gin Champion.</desc>
+		<rating>0</rating>
+		<publisher>Philidor Software</publisher>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>B42423A7</crc32>
+		<md5>e5a9b478ffc50b972c7f085b07436fbf</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235409" />
+	</game>
+	<game id="129539">
+		<path>./TOSEC/Games/[ROM]/Gomoku-Renju (1983)(Tandy)[26-3069]/Gomoku-Renju (1983)(Tandy)[26-3069].rom</path>
+		<name>Gomoku-renju</name>
+		<desc>Gomoku and Renju are ancient oriental games of strategy for two players. You Gomoku / Renju program for the TRS-80 Color Computer matches you against your choice of the computer or another person in a game of Gomoku or the similar but more complex Renju. If you are a beginner, the program will help you master the various strategies of the games using eight different levels of play. If you are already a master, you will find the computer a challenging opponent, especially at the higher levels.</desc>
+		<rating>0</rating>
+		<publisher>Intelligent Software</publisher>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>FD84FC5C</crc32>
+		<md5>344e504d4e8d4eacfca8f1cd4e68bd18</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235411" />
+	</game>
+	<game id="129553">
+		<path>./TOSEC/Games/[ROM]/Mega-Bug (1982)(Tandy)[26-3076]/Mega-Bug (1982)(Tandy)[26-3076].rom</path>
+		<name>Mega-bug</name>
+		<desc>Crawling stealthily through the corridors of the maze, the bugs are after you-their one mission in life is to search you out and make you their dinner, before you find your way completely through the giant maze. Their powers of detection are uncanny ... the only way to outsmart them is by leaving as many conflicting clues as to your whereabouts as possible. You push on, through the twists and turns of the maze, hoping that what lies around the corner is more points, and not a Mega-Bug!</desc>
+		<video>./videos/Mega-Bug (1982)(Tandy)[26-3076]-video.mp4</video>
+		<rating>0</rating>
+		<publisher>Steve Bjork</publisher>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>4CEE1C54</crc32>
+		<md5>85723170fe16f9e134879ef380430273</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235412" />
+	</game>
+	<game id="129556">
+		<path>./TOSEC/Games/[ROM]/Micro Painter (1981)(Tandy)[26-3077]/Micro Painter (1981)(Tandy)[26-3077].rom</path>
+		<name>Micro Painter</name>
+		<rating>0</rating>
+		<publisher>Datasoft</publisher>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>D4320300</crc32>
+		<md5>9ef28ef85069a48c30c5f06565ab478b</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235413" />
+	</game>
+	<game id="129557">
+		<path>./TOSEC/Games/[ROM]/Microbes (1981)(Tandy)[26-3085]/Microbes (1981)(Tandy)[26-3085].rom</path>
+		<name>Microbes</name>
+		<desc>Kill the microbes to survive!</desc>
+		<video>./videos/Microbes (1981)(Tandy)[26-3085]-video.mp4</video>
+		<rating>0</rating>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>24772D4F</crc32>
+		<md5>c46e247d1d935ffbc08ec3ae84bd0bf3</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235415" />
+	</game>
+	<game id="129560">
+		<path>./TOSEC/Games/[ROM]/Mind-Roll (1989)(Tandy)[26-3100]/Mind-Roll (1989)(Tandy)[26-3100].rom</path>
+		<name>Mind-roll</name>
+		<video>./videos/Mind-Roll (1989)(Tandy)[26-3100]-video.mp4</video>
+		<rating>0</rating>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>83BD6056</crc32>
+		<md5>9483ae30e4fa76fa8cca7ce3da237d5b</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235416" />
+	</game>
+	<game id="129560">
+		<path>./TOSEC/Games/[ROM]/Mind-Roll (1989)(Tandy)[a][26-3100]/Mind-Roll (1989)(Tandy)[a][26-3100].rom</path>
+		<name>Mind-roll</name>
+		<video>./videos/Mind-Roll (1989)(Tandy)[a][26-3100]-video.mp4</video>
+		<rating>0</rating>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>9C241CDC</crc32>
+		<md5>27e3ebdc87feb34593ebf4cfd968eb56</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235417" />
+	</game>
+	<game id="129562">
+		<path>./TOSEC/Games/[ROM]/Monster Maze (1982)(Tandy)[26-3081]/Monster Maze (1982)(Tandy)[26-3081].rom</path>
+		<name>Monster Maze</name>
+		<desc>Lost in a network of mazes - in bad company! Everywhere you turn are mechanical monsters who stole your gold. The monsters are programmed to kill, so keep a cool head and a steady hand. Prepare for a battle as you struggle to keep the gold and find a way out alive!</desc>
+		<image>./images/Monster Maze (1982)(Tandy)[26-3081]-image.png</image>
+		<video>./videos/Monster Maze (1982)(Tandy)[26-3081]-video.mp4</video>
+		<manual>./manuals/Monster Maze (1982)(Tandy)[26-3081]-manual.pdf</manual>
+		<rating>0</rating>
+		<publisher>Tandy</publisher>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>F7653118</crc32>
+		<md5>b4b9958a2c559a138e8ac4f7f521e06c</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235419" />
+	</game>
+	<game id="129569">
+		<path>./TOSEC/Games/[ROM]/Panic Button (1985)(Tandy)[26-3147]/Panic Button (1985)(Tandy)[26-3147].rom</path>
+		<name>Panic Button</name>
+		<video>./videos/Panic Button (1985)(Tandy)[26-3147]-video.mp4</video>
+		<rating>0</rating>
+		<developer>First Star Software</developer>
+		<publisher>Tandy</publisher>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>54094DEA</crc32>
+		<md5>8a4e11092e15307e982b816d06caf72d</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235420" />
+	</game>
+	<game id="129575">
+		<path>./TOSEC/Games/[ROM]/Pinball (1980)(Tandy)[26-3052]/Pinball (1980)(Tandy)[26-3052].rom</path>
+		<name>Pinball</name>
+		<desc>Welcome to pinball. Pinball is a realistic simulation of an arcade machine with the added option to design your own customized playfield.</desc>
+		<image>./images/Pinball (1980)(Tandy)[26-3052]-image.png</image>
+		<video>./videos/Pinball (1980)(Tandy)[26-3052]-video.mp4</video>
+		<marquee>./images/Pinball (1980)(Tandy)[26-3052]-marquee.png</marquee>
+		<thumbnail>./images/Pinball (1980)(Tandy)[26-3052]-thumb.png</thumbnail>
+		<rating>0</rating>
+		<publisher>Tandy</publisher>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>D5BAF3AD</crc32>
+		<md5>87430ee2cfdf9556258f274af73c765d</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235422" />
+	</game>
+	<game id="129578">
+		<path>./TOSEC/Games/[ROM]/Polaris (1981)(Tandy)[26-3065]/Polaris (1981)(Tandy)[26-3065].rom</path>
+		<name>Polaris</name>
+		<desc>Protect your islands by destroying as many enemy missiles as possible! Score points for every enemy missile you destroy, every island you save, and every missile you have left! An exciting one or two player game for the whole family.</desc>
+		<image>./images/Polaris (1981)(Tandy)[26-3065]-image.png</image>
+		<video>./videos/Polaris (1981)(Tandy)[26-3065]-video.mp4</video>
+		<marquee>./images/Polaris (1981)(Tandy)[26-3065]-marquee.png</marquee>
+		<thumbnail>./images/Polaris (1981)(Tandy)[26-3065]-thumb.png</thumbnail>
+		<rating>0</rating>
+		<publisher>Tandy</publisher>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>F7DCC3BB</crc32>
+		<md5>11f84108363282ea6fc7975d4108f4a3</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235423" />
+	</game>
+	<game id="129579">
+		<path>./TOSEC/Games/[ROM]/Poltergeist (1982)(Tandy)[26-3073]/Poltergeist (1982)(Tandy)[26-3073].rom</path>
+		<name>Poltergeist</name>
+		<desc>It's up to you to rescue Carol Anne from the monstrous grasp of the poltergeist.</desc>
+		<video>./videos/Poltergeist (1982)(Tandy)[26-3073]-video.mp4</video>
+		<rating>0</rating>
+		<publisher>Tandy</publisher>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>770E5F3A</crc32>
+		<md5>daaac691296163b2cbe51551660c53a1</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235425" />
+	</game>
+	<game id="129581">
+		<path>./TOSEC/Games/[ROM]/Popcorn (1982)(Tandy)[26-3090]/Popcorn (1982)(Tandy)[26-3090].rom</path>
+		<name>Popcorn</name>
+		<desc>The object of this game is to use your paddles to catch as many of the falling popcorn kernels as possible, before they hit the bottom of the popper. You are awarded points for every kernel you catch. The more  kernels you catch, the faster the remaining kernels will fall!</desc>
+		<video>./videos/Popcorn (1982)(Tandy)[26-3090]-video.mp4</video>
+		<rating>0</rating>
+		<developer>Datasoft</developer>
+		<publisher>Tandy</publisher>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>4EF9C448</crc32>
+		<md5>a2912c5e75624b3d8fdafb855f09f8c0</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235426" />
+	</game>
+	<game id="129581">
+		<path>./TOSEC/Games/[ROM]/Popcorn (1982)(Tandy)[u][26-3090]/Popcorn (1982)(Tandy)[u][26-3090].rom</path>
+		<name>Popcorn</name>
+		<desc>The object of this game is to use your paddles to catch as many of the falling popcorn kernels as possible, before they hit the bottom of the popper. You are awarded points for every kernel you catch. The more  kernels you catch, the faster the remaining kernels will fall!</desc>
+		<video>./videos/Popcorn (1982)(Tandy)[u][26-3090]-video.mp4</video>
+		<rating>0</rating>
+		<developer>Datasoft</developer>
+		<publisher>Tandy</publisher>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>7F507089</crc32>
+		<md5>d4affe686bd6d88898195e7c575775f4</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230227T235428" />
+	</game>
+	<game id="129582">
+		<path>./TOSEC/Games/[ROM]/Project Nebula (1981)(Tandy)[26-3063]/Project Nebula (1981)(Tandy)[26-3063].rom</path>
+		<name>Project Nebula</name>
+		<desc>Lord Scylla, ruler of six galaxies, has declared eminent domain over ours. Zycon, the commandant of Scylla's Imperial Fleet, has already conquered or annihilated all human outposts and colonies, and recommends immediate surrender, tribute, and the submission of some representatives as laboratory specimens.</desc>
+		<rating>0</rating>
+		<publisher>Tandy</publisher>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>4123FB50</crc32>
+		<md5>e5d62e12657e21669cae90fa7108ca92</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235429" />
+	</game>
+	<game id="129585">
+		<path>./TOSEC/Games/[ROM]/Quasar Commander (1980)(Tandy)[26-3051]/Quasar Commander (1980)(Tandy)[26-3051].rom</path>
+		<name>Quasar Commander</name>
+		<desc>Quasar Commander is an exciting game of skill to play on your TRS-80 color computer. You are at the helm of a Starship. Imagine that your video screen is a window looking into outerspace. Your laser sights are in the center of this "viewscreen". Try to destroy as many enemy ships as possible before colliding with them. This game contains variations for countless hours of fun.</desc>
+		<rating>0</rating>
+		<publisher>Robert G. Kilgus</publisher>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>3218E0F5</crc32>
+		<md5>b211093ef3e5aeafb24988122d10fd79</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235430" />
+	</game>
+	<game id="129587">
+		<path>./TOSEC/Games/[ROM]/Rad Warrior (1989)(Tandy)[26-3162]/Rad Warrior (1989)(Tandy)[26-3162].rom</path>
+		<name>Rad Warrior</name>
+		<desc>As Tal, your job is to single-handedly clear out the aliens who have invaded a desolate and destroyed post-nuclear earth. To have any chance of this, he must locate a sacred suit of armor. Not only will this protect him from radiation, and allow him to withstand some enemy contact, it also heals him, and enables him to float.
+
+This means that the game has two distinct styles, with your character limited to jumping, and with only rocks (located around the screens) to throw. Once he finds the suit he can fly around the ledges, shoot the inbuilt Pulsar beam, and survive within the volcanic hideout the aliens have based themselves. You will need to recharge the suit at times, and also take it off to pass through tight caverns.</desc>
+		<rating>0</rating>
+		<developer>Palace</developer>
+		<publisher>Epyx</publisher>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>C8B64049</crc32>
+		<md5>9580271d01b90a8ea0b9a962d59fadfa</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235432" />
+	</game>
+	<game id="129589">
+		<path>./TOSEC/Games/[ROM]/Rampage (1989)(Activision)[26-3174]/Rampage (1989)(Activision)[26-3174].rom</path>
+		<name>Rampage</name>
+		<desc>George, Lizzy and Ralph were just ordinary Americans, until an experiment went wrong, turning them into a Gorilla, Lizard and Werewolf respectively. Following this, the three of them plan to go round destroying buildings, and up to 3 human players can join in.
+
+Smashing at the edges of the buildings for long enough will make them collapse. The police and military are after you, and will shoot at you, so try to destroy them (failing that, you can avoid the bullets). You will need to eat regularly, with things like plants on offer, to avoid shrinking back to being human</desc>
+		<image>./images/Rampage (1989)(Activision)[26-3174]-image.png</image>
+		<video>./videos/Rampage (1989)(Activision)[26-3174]-video.mp4</video>
+		<marquee>./images/Rampage (1989)(Activision)[26-3174]-marquee.png</marquee>
+		<thumbnail>./images/Rampage (1989)(Activision)[26-3174]-thumb.png</thumbnail>
+		<fanart>./images/Rampage (1989)(Activision)[26-3174]-fanart.jpg</fanart>
+		<rating>0</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Bally</developer>
+		<publisher>Activision</publisher>
+		<family>Rampage</family>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>09C2E97D</crc32>
+		<md5>05bfb0521e710dfbe8280694787a1494</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235433" />
+	</game>
+	<game id="129590">
+		<path>./TOSEC/Games/[ROM]/Reactoid (1983)(Tandy)[26-3092]/Reactoid (1983)(Tandy)[26-3092].rom</path>
+		<name>Reactoid</name>
+		<desc>The latest breakthrough in nuclear power is broken. It's the network, of course. In the dazzling future of the late 1990's, the world's first fusion reactor is online: energy particles are shooting out of emission tubes toward the energy posts... and missing. As each one passes the posts and strikes another tube on the opposite side of the core, the reactor moves one step closer to meltdown. The reflectoid is there; that's the solid energy deflection device which bounces the particles into the posts. It's supposed be remotely controlled by a sophisticated network of computers, but tonight it has to be controlled by you!</desc>
+		<rating>0</rating>
+		<publisher>Robert Arnstein</publisher>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>FAD4C7E3</crc32>
+		<md5>41eb12f9beb4b29d28fa75abb16eabf7</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235434" />
+	</game>
+	<game id="129593">
+		<path>./TOSEC/Games/[ROM]/Robocop (1988)(Tandy)[26-3164]/Robocop (1988)(Tandy)[26-3164].rom</path>
+		<name>Robocop</name>
+		<desc>Patrolman Alex Murphy was killed on the streets of Detroit. The major corporation there, Omni Consumer Products (OCP) saw an opportunity to sell a new kind of law enforcement officer to the troubled city. They took what was left of Murphy, encased it in titanium armor, wiped his memory and created RoboCop. Now it's up to RoboCop to clean the streets of Detroit and eliminate the one responsible for his murder, Clarence Boddicker. But it looks like Clarence might not be the kingpin of this town...
+
+Based on the 1987 movie of the same name, RoboCop allows the player to control RoboCop. The majority of the game is a side scroller. RoboCop can punch unarmed citizens and shoot armed citizens. He can move left, right and duck but can not jump. Different weapons can be picked up from enemies, and power-ups to restore health and/or energy. Following levels, RoboCop will have to match a criminal's face to the proper mugshot and engage in a first-person shooting bonus round.</desc>
+		<image>./images/Robocop (1988)(Tandy)[26-3164]-image.png</image>
+		<video>./videos/Robocop (1988)(Tandy)[26-3164]-video.mp4</video>
+		<marquee>./images/Robocop (1988)(Tandy)[26-3164]-marquee.png</marquee>
+		<thumbnail>./images/Robocop (1988)(Tandy)[26-3164]-thumb.png</thumbnail>
+		<boxback>./images/Robocop (1988)(Tandy)[26-3164]-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>SAS Sakata</developer>
+		<publisher>Tandy</publisher>
+		<genre>Beat'em Up</genre>
+		<family>RoboCop</family>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>DD94DD06</crc32>
+		<md5>22865a49811a5f8e69801a444fb76edf</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235436" />
+	</game>
+	<game id="129596">
+		<path>./TOSEC/Games/[ROM]/Roman Checkers (1981)(Tandy)[26-3071]/Roman Checkers (1981)(Tandy)[26-3071].rom</path>
+		<name>Roman Checkers</name>
+		<video>./videos/Roman Checkers (1981)(Tandy)[26-3071]-video.mp4</video>
+		<rating>0</rating>
+		<publisher>Image Producers</publisher>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>3BF566BB</crc32>
+		<md5>cd783e84c570b8aba984dd8375f2d9a8</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235437" />
+	</game>
+	<game id="129602">
+		<path>./TOSEC/Games/[ROM]/Shanghai (1987)(Activision)[26-3084]/Shanghai (1987)(Activision)[26-3084].rom</path>
+		<name>Shanghai</name>
+		<image>./images/Shanghai (1987)(Activision)[26-3084]-image.png</image>
+		<video>./videos/Shanghai (1987)(Activision)[26-3084]-video.mp4</video>
+		<marquee>./images/Shanghai (1987)(Activision)[26-3084]-marquee.png</marquee>
+		<thumbnail>./images/Shanghai (1987)(Activision)[26-3084]-thumb.png</thumbnail>
+		<fanart>./images/Shanghai (1987)(Activision)[26-3084]-fanart.jpg</fanart>
+		<rating>0</rating>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>3DC0BA73</crc32>
+		<md5>b272dc19e6f476a996ad5d4463894943</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235438" />
+	</game>
+	<game id="129602">
+		<path>./TOSEC/Games/[ROM]/Shanghai (1987)(Activision)[a][26-3084]/Shanghai (1987)(Activision)[a][26-3084].rom</path>
+		<name>Shanghai</name>
+		<image>./images/Shanghai (1987)(Activision)[a][26-3084]-image.png</image>
+		<video>./videos/Shanghai (1987)(Activision)[a][26-3084]-video.mp4</video>
+		<marquee>./images/Shanghai (1987)(Activision)[a][26-3084]-marquee.png</marquee>
+		<thumbnail>./images/Shanghai (1987)(Activision)[a][26-3084]-thumb.png</thumbnail>
+		<fanart>./images/Shanghai (1987)(Activision)[a][26-3084]-fanart.jpg</fanart>
+		<rating>0</rating>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>5A54973C</crc32>
+		<md5>ee5b085615bbc93cf5e6da3e62d80955</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235439" />
+	</game>
+	<game id="129604">
+		<path>./TOSEC/Games/[ROM]/Shooting Gallery (1982)(Tandy)[26-3088]/Shooting Gallery (1982)(Tandy)[26-3088].rom</path>
+		<name>Shooting Gallery</name>
+		<desc>Have you ever wondered if you were a sharp enough marksman to win one of those big stuffed animals at the State Fair? All that fun and excitement is yours with the TRS-80 Color Computer Shooting Gallery! You can have endless fun taking aim at ducks, bunnies, and other moving targets as they travel across your screen. With a little practice, you can move up the ranks to the advanced levels and become a "crackshot."</desc>
+		<video>./videos/Shooting Gallery (1982)(Tandy)[26-3088]-video.mp4</video>
+		<marquee>./images/Shooting Gallery (1982)(Tandy)[26-3088]-marquee.png</marquee>
+		<rating>0</rating>
+		<publisher>Datasoft</publisher>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>1F1BA95D</crc32>
+		<md5>a0fe66b8721445ed67d7909413571b2e</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235441" />
+	</game>
+	<game id="129605">
+		<path>./TOSEC/Games/[ROM]/Silpheed (1988)(Tandy)[26-3054]/Silpheed (1988)(Tandy)[26-3054].rom</path>
+		<name>Silpheed</name>
+		<image>./images/Silpheed (1988)(Tandy)[26-3054]-image.png</image>
+		<fanart>./images/Silpheed (1988)(Tandy)[26-3054]-fanart.jpg</fanart>
+		<rating>0</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Game Arts</developer>
+		<publisher>Sierra On-Line</publisher>
+		<genre>Shooter / Plane, 3rd person</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>FE17E96D</crc32>
+		<md5>d94361e243d322cb6600c4d0c8ee2519</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235442" />
+	</game>
+	<game id="129605">
+		<path>./TOSEC/Games/[ROM]/Silpheed (1988)(Tandy)[26-3054][16k]/Silpheed (1988)(Tandy)[26-3054][16k].rom</path>
+		<name>Silpheed</name>
+		<image>./images/Silpheed (1988)(Tandy)[26-3054][16k]-image.png</image>
+		<fanart>./images/Silpheed (1988)(Tandy)[26-3054][16k]-fanart.jpg</fanart>
+		<rating>0</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Game Arts</developer>
+		<publisher>Sierra On-Line</publisher>
+		<genre>Shooter / Plane, 3rd person</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>BED7DCDE</crc32>
+		<md5>e88e2967a6a42cfd071fd13a77bbe9ee</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235444" />
+	</game>
+	<game id="129606">
+		<path>./TOSEC/Games/[ROM]/Skiing (1980)(Tandy)[26-3058]/Skiing (1980)(Tandy)[26-3058].rom</path>
+		<name>Skiing</name>
+		<desc>Welcome to skiing, a fast-moving, exciting game that can be enjoyed by the ski 'aficionado' as well as the aspiring novice.</desc>
+		<marquee>./images/Skiing (1980)(Tandy)[26-3058]-marquee.png</marquee>
+		<rating>0</rating>
+		<publisher>Robert G. Kilgus</publisher>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>1A05A395</crc32>
+		<md5>ce7475f525b3f65658efe7fd7f9919d8</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235445" />
+	</game>
+	<game id="129608">
+		<path>./TOSEC/Games/[ROM]/Slay the Nereis (1982)(Tandy)[26-3086]/Slay the Nereis (1982)(Tandy)[26-3086].rom</path>
+		<name>Slay The Nereis</name>
+		<desc>You are the commander in charge of three mini-subs. During your mission, you soon discover that the area you were sent to scout is a dangerous one, teeming with several innocent-looking creatures-schools of fish, manta rays, starfish, jellyfish, and an occasional "Nereis," a marine creature which excretes a paralyzing poison. In addition to these native aquatic creatures, there is an enemy navy destroyer which fires depth charges with your submarine as its target.</desc>
+		<video>./videos/Slay the Nereis (1982)(Tandy)[26-3086]-video.mp4</video>
+		<manual>./manuals/Slay the Nereis (1982)(Tandy)[26-3086]-manual.pdf</manual>
+		<rating>0</rating>
+		<publisher>Spectral Associates</publisher>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>B98D5EAF</crc32>
+		<md5>32bf8706e607e0838ffe210c10d5dc03</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235447" />
+	</game>
+	<game id="129611">
+		<path>./TOSEC/Games/[ROM]/Soko-Ban (1988)(Tandy)[26-3161]/Soko-Ban (1988)(Tandy)[26-3161].rom</path>
+		<name>Soko-ban</name>
+		<desc>Soko-Ban is a classic puzzle game, the basis of numerous clones in the later years. It is set in a warehouse. On each level, the player must push crates (from square to square) to get them onto designated spots; once each crate is on a marked spot, the level is complete. Crates can only be pushed one at a time (so two crates next to each other cannot be pushed together), and cannot be pulled--so it's possible to get a crate stuck in a corner, where it cannot be retrieved! By the last levels, you must plan 40 steps in advance.</desc>
+		<video>./videos/Soko-Ban (1988)(Tandy)[26-3161]-video.mp4</video>
+		<manual>./manuals/Soko-Ban (1988)(Tandy)[26-3161]-manual.pdf</manual>
+		<rating>0</rating>
+		<developer>Thinking Rabbit</developer>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>44390E55</crc32>
+		<md5>765cb742ec08b690972230eb935e0a92</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235448" />
+	</game>
+	<game id="129612">
+		<path>./TOSEC/Games/[ROM]/Space Assault (1981)(Tandy)[26-3060]/Space Assault (1981)(Tandy)[26-3060].rom</path>
+		<name>Space Assault</name>
+		<desc>Save the world from attacking hordes of enemy alien beings by destroying as many invaders as possible! Score points for every enemy ship you destroy! Win bonus points by blasting the parent ships!</desc>
+		<video>./videos/Space Assault (1981)(Tandy)[26-3060]-video.mp4</video>
+		<manual>./manuals/Space Assault (1981)(Tandy)[26-3060]-manual.pdf</manual>
+		<rating>0</rating>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>F4700120</crc32>
+		<md5>9d2c8e014d371355df63b826c727cba2</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235450" />
+	</game>
+	<game id="129614">
+		<path>./TOSEC/Games/[ROM]/Spectaculator (1981)(Tandy)[26-3104]/Spectaculator (1981)(Tandy)[26-3104].rom</path>
+		<name>Spectaculator</name>
+		<rating>0</rating>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>80D7AC8B</crc32>
+		<md5>75058d0ec3be9d72b929815f6dacb172</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235451" />
+	</game>
+	<game id="129615">
+		<path>./TOSEC/Games/[ROM]/Spidercide (1983)(Tandy)[26-3049]/Spidercide (1983)(Tandy)[26-3049].rom</path>
+		<name>Spidercide</name>
+		<video>./videos/Spidercide (1983)(Tandy)[26-3049]-video.mp4</video>
+		<rating>0</rating>
+		<publisher>Tandy</publisher>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>EC9D0199</crc32>
+		<md5>3a76b73de359a3d04ea444dc5b6811f7</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235453" />
+	</game>
+	<game id="129616">
+		<path>./TOSEC/Games/[ROM]/Springster (1987)(Tandy)[26-3078]/Springster (1987)(Tandy)[26-3078].rom</path>
+		<name>Springster</name>
+		<rating>0</rating>
+		<publisher>Spectral Associates</publisher>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>F47D3880</crc32>
+		<md5>05af2480576ae5239594b0e96dd79a06</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235454" />
+	</game>
+	<game id="129618">
+		<path>./TOSEC/Games/[ROM]/Star Blaze (1983)(Tandy)[26-3094]/Star Blaze (1983)(Tandy)[26-3094].rom</path>
+		<name>Star Blaze</name>
+		<desc>Star Blaze is a new adventure in space exploration for your TRS-80 Color Computer. As the commander of a patrol ship, you are responsible for defending the 64 sectors of your galaxy. Aliens are attacking the galaxy, trying to destroy the fuel and repair stations set up in several sectors. You must hunt down the aliens and destroy them before they ruin the galaxy's supply stations. Your patrol ship, superior in speed, maneuverability, and attack power, is your best ally in the fight against the aliens.</desc>
+		<video>./videos/Star Blaze (1983)(Tandy)[26-3094]-video.mp4</video>
+		<rating>0</rating>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>36F31EB7</crc32>
+		<md5>6830e93f1d545c57e900b1d733549c56</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235455" />
+	</game>
+	<game id="129621">
+		<path>./TOSEC/Games/[ROM]/Stellar Life Line (1983)(Tandy)[26-3047]/Stellar Life Line (1983)(Tandy)[26-3047].rom</path>
+		<name>Stellar Life Line</name>
+		<video>./videos/Stellar Life Line (1983)(Tandy)[26-3047]-video.mp4</video>
+		<rating>0</rating>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>AEB38E39</crc32>
+		<md5>850344c012f83ba9cd29f4e48fa2517d</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235457" />
+	</game>
+	<game id="129624">
+		<path>./TOSEC/Games/[ROM]/Super Bustout (1980)(Tandy)[u][26-3056]/Super Bustout (1980)(Tandy)[u][26-3056].rom</path>
+		<name>Super Bustout</name>
+		<rating>0</rating>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>D2E79C66</crc32>
+		<md5>8bab2f3b62798a3ac02f9835a0fe599c</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230227T235458" />
+	</game>
+	<game id="129624">
+		<path>./TOSEC/Games/[ROM]/Super Bustout (1981)(Tandy)[26-3056]/Super Bustout (1981)(Tandy)[26-3056].rom</path>
+		<name>Super Bustout</name>
+		<rating>0</rating>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>C7ED9D30</crc32>
+		<md5>f7e74f894204962fdad017db555f8ec4</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235459" />
+	</game>
+	<game id="129625">
+		<path>./TOSEC/Games/[ROM]/Super Pitfall (1988)(Tandy)[26-3171]/Super Pitfall (1988)(Tandy)[26-3171].rom</path>
+		<name>Super Pitfall</name>
+		<desc>Super Pitfall is a loose remake of Pitfall II: Lost Caverns, in that the object is to move Harry through the mazes to find the Raj diamond, and rescue his niece Rhonda and sidekick Quickclaw, both of whom have become lost in the caverns. However, Pitfall Harry's quest becomes tougher when he sees that the faithful Quickclaw is imprisoned in a cage and a key must be found – at which point Pitfall Harry finds that Rhonda has been turned to stone; it is here where he must locate a magic potion that will turn her back into a normal girl.
+
+The difference in Super Pitfall, however, is that Harry must also return to his starting point after accomplishing these objectives. Like the original Pitfall, but unlike Pitfall II: Lost Caverns, Harry has a limited number of lives. This time, Harry is also equipped with a gun with which he can shoot the various deadly creatures that inhabit the caverns, but he has limited ammunition and must find additional bullets scattered throughout the game.</desc>
+		<rating>0</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>SRB Software</developer>
+		<publisher>Tandy</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>E8E54CBE</crc32>
+		<md5>7fabd08fc67283a31e146d90a6ce8b17</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235501" />
+	</game>
+	<game id="129626">
+		<path>./TOSEC/Games/[ROM]/Temple of ROM (1982)(Tandy)[26-3045]/Temple of ROM (1982)(Tandy)[26-3045].rom</path>
+		<name>Temple Of Rom</name>
+		<desc>Star Blaze is a new adventure in space exploration for your TRS-80 Color Computer. As the commander of a patrol ship, you are responsible for defending the 64 sectors of your galaxy. Aliens are attacking the galaxy, trying to destroy the fuel and repair stations set up in several sectors. You must hunt down the aliens and destroy them before they ruin the galaxy's supply stations. Your patrol ship, superior in speed, maneuverability, and attack power, is your best ally in the fight against the aliens</desc>
+		<video>./videos/Temple of ROM (1982)(Tandy)[26-3045]-video.mp4</video>
+		<rating>0</rating>
+		<publisher>Rick Adams</publisher>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>F4F2B0A0</crc32>
+		<md5>5c38ae704343d59aca8cf8013916bc15</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235502" />
+	</game>
+	<game id="129627">
+		<path>./TOSEC/Games/[ROM]/Tennis (1982)(Tandy)/Tennis (1982)(Tandy).rom</path>
+		<name>Tennis</name>
+		<desc>The excitement of tennis is now as close as your personal computer. Challenge a friend or the computer to a realistic tournament, consisting of games, sets, and matches. Keep up with the ball to win the championship! A color computer, with at least 16K RAM, and joysticks are required.</desc>
+		<video>./videos/Tennis (1982)(Tandy)-video.mp4</video>
+		<marquee>./images/Tennis (1982)(Tandy)-marquee.png</marquee>
+		<rating>0</rating>
+		<publisher>Tandy</publisher>
+		<genre>Sports / Tennis</genre>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>99DE1A03</crc32>
+		<md5>35f6f035abcf9f388b16586e8d341203</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235504" />
+	</game>
+	<game id="129628">
+		<path>./TOSEC/Games/[ROM]/Tetris (1987)(Tandy)[26-3163]/Tetris (1987)(Tandy)[26-3163].rom</path>
+		<name>Tetris</name>
+		<image>./images/Tetris (1987)(Tandy)[26-3163]-image.png</image>
+		<video>./videos/Tetris (1987)(Tandy)[26-3163]-video.mp4</video>
+		<marquee>./images/Tetris (1987)(Tandy)[26-3163]-marquee.png</marquee>
+		<thumbnail>./images/Tetris (1987)(Tandy)[26-3163]-thumb.png</thumbnail>
+		<rating>0</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Academy Software</developer>
+		<publisher>Tandy</publisher>
+		<family>Tetris</family>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>8375F98B</crc32>
+		<md5>cdd2694dcf7812655a9fc697b765f924</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235505" />
+	</game>
+	<game id="129630">
+		<path>./TOSEC/Games/[ROM]/Thexder (1988)(Tandy)[26-3072]/Thexder (1988)(Tandy)[26-3072].rom</path>
+		<name>Thexder</name>
+		<desc>A platform shooter from Japan, Thexder offers many levels and diverse enemies that gradually increase in difficulty. You pilot a Battletech-style robot capable of switching from a mech into a jet at any time. Your weapon auto-aims, but uses up a fixed amount of rechargeable energy; if you run out of this energy, you'll have to wait a few seconds before you can fire again. Your mech also contains a shield that can be activated to protect you from harm, but this lasts for a few seconds and uses up some of your life energy.</desc>
+		<marquee>./images/Thexder (1988)(Tandy)[26-3072]-marquee.png</marquee>
+		<fanart>./images/Thexder (1988)(Tandy)[26-3072]-fanart.jpg</fanart>
+		<rating>0</rating>
+		<developer>Game Arts</developer>
+		<publisher>Sierra On-Line</publisher>
+		<genre>Platform / Shooter Scrolling</genre>
+		<family>Thexder</family>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>0EF0DF20</crc32>
+		<md5>fdfe31781b24b56a3ae451e3e76aaed4</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235507" />
+	</game>
+	<game id="129643">
+		<path>./TOSEC/Games/[ROM]/Wildcatting (1981)(Tandy)[26-3067]/Wildcatting (1981)(Tandy)[26-3067].rom</path>
+		<name>Wildcatting</name>
+		<desc>"One to four wheeler-dealers pick drilling sites. A surveyor's report gives the chances of striking oil. Watch out for dry holes! Hit a gusher and you're in the money - for a while, anyway. Production soon decreases, and taxes and drilling fees start to mount. Earn the highest profits in 10 rounds to win"</desc>
+		<rating>0</rating>
+		<developer>Image Producers</developer>
+		<publisher>Tandy</publisher>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>AB96914A</crc32>
+		<md5>5139aef09c00d888d89ecc681effe44d</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235508" />
+	</game>
+	<game id="129647">
+		<path>./TOSEC/Games/[ROM]/Zaxxon (1983)(Tandy)[26-3062]/Zaxxon (1983)(Tandy)[26-3062].rom</path>
+		<name>Zaxxon</name>
+		<desc>The Zaxxon defence system must be destroyed in this isometric-viewed shoot 'em up. The game has three stages, first taking you through Asteroid City, which is heavily protected by aircraft, guns and missiles. Many barriers are alarmed, leaving you with limited space to progress through, and fire must constantly be dodged.
+
+Stage two is a space shoot out against hordes of enemy aircraft - those you failed to destroy in the first part of the task. Complete this and you reach the final battle with Zaxxon, the game looping with increased difficulty if you can survive the first time. There are three distinct skill levels, while controls involve using forward to dive and back to climb, in the manner of flight simulation.</desc>
+		<image>./images/Zaxxon (1983)(Tandy)[26-3062]-image.png</image>
+		<video>./videos/Zaxxon (1983)(Tandy)[26-3062]-video.mp4</video>
+		<marquee>./images/Zaxxon (1983)(Tandy)[26-3062]-marquee.png</marquee>
+		<thumbnail>./images/Zaxxon (1983)(Tandy)[26-3062]-thumb.png</thumbnail>
+		<rating>0</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>Tandy</publisher>
+		<genre>Shoot'em Up</genre>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>EF4E6A77</crc32>
+		<md5>6ecf8fc671ba34efb728e92f3dae2625</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T235509" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[WAV]/Cross Chase (2018-07-19)(Caruso, Fabrizio)[full]/Cross Chase (2018-07-19)(Caruso, Fabrizio)[full].wav</path>
+		<name>Cross Chase (2018-07-19)(Caruso, Fabrizio)[full]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>75C94959</crc32>
+		<md5>030c83022dcac022fd331eab4978edd6</md5>
+		<scrap name="ScreenScraper" date="20230227T235510" />
+	</game>
+</gameList>

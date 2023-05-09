@@ -1,0 +1,247 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./TOSEC/Applications/EVA Player for Sunrise ATA-IDE v0.06 (2000)(Sergio Guerrero)[needs MSX-DOS]/EVA Player for Sunrise ATA-IDE v0.06 (2000)(Sergio Guerrero)[needs MSX-DOS].dsk</path>
+		<name>EVA Player for Sunrise ATA-IDE v0.06 (2000)(Sergio Guerrero)[needs MSX-DOS]</name>
+		<crc32>3D125143</crc32>
+		<md5>2d3e476b4ead534a48bcfb21c964c557</md5>
+		<scrap name="ScreenScraper" date="20230221T163255" />
+	</game>
+	<game>
+		<path>./TOSEC/Firmware/FM BIOS ROM Extension v1.3 1988-04-26 Unknown (1988)(-)[FMBIOS.ROM]/FM BIOS ROM Extension v1.3 1988-04-26 Unknown (1988)(-)[FMBIOS.ROM].rom</path>
+		<name>FM BIOS ROM Extension v1.3 1988-04-26 Unknown (1988)(-)[FMBIOS.ROM]</name>
+		<crc32>456E494E</crc32>
+		<md5>f877f32e6d8687474ac5ee83e40de23b</md5>
+		<scrap name="ScreenScraper" date="20230221T163257" />
+	</game>
+	<game>
+		<path>./TOSEC/Firmware/Kanji Driver 128k (19xx)(-)[KNJDRV.ROM]/Kanji Driver 128k (19xx)(-)[KNJDRV.ROM].rom</path>
+		<name>Kanji Driver 128k (19xx)(-)[KNJDRV.ROM]</name>
+		<crc32>C9651B32</crc32>
+		<md5>febe8782b466d7c3b16de6d104826b34</md5>
+		<scrap name="ScreenScraper" date="20230221T163259" />
+	</game>
+	<game>
+		<path>./TOSEC/Firmware/Kanji Driver 256k (19xx)(-)[KNJDRV.ROM]/Kanji Driver 256k (19xx)(-)[KNJDRV.ROM].rom</path>
+		<name>Kanji Driver 256k (19xx)(-)[KNJDRV.ROM]</name>
+		<crc32>1F6406FB</crc32>
+		<md5>acf53887c2d2783dc059a9b442c86b90</md5>
+		<scrap name="ScreenScraper" date="20230221T163301" />
+	</game>
+	<game>
+		<path>./TOSEC/Firmware/Kanji Driver 32k Panasonic FS-A1WX, Sony HB-F1XDJ (19xx)(-)[KNJDRV.ROM]/Kanji Driver 32k Panasonic FS-A1WX, Sony HB-F1XDJ (19xx)(-)[KNJDRV.ROM].rom</path>
+		<name>Kanji Driver 32k Panasonic FS-A1WX, Sony HB-F1XDJ (19xx)(-)[KNJDRV.ROM]</name>
+		<crc32>B4FC574D</crc32>
+		<md5>9dfdebfaa6b547222a40aab8bb2e29f8</md5>
+		<scrap name="ScreenScraper" date="20230221T163303" />
+	</game>
+	<game>
+		<path>./TOSEC/Firmware/MSX BIOS Panasonic WSX MSX2+ ROM Image (19xx)(-)/MSX BIOS Panasonic WSX MSX2+ ROM Image (19xx)(-).rom</path>
+		<name>MSX BIOS Panasonic WSX MSX2+ ROM Image (19xx)(-)</name>
+		<crc32>BCDD11C5</crc32>
+		<md5>4545dfd47e67c5ada77bd96f82742d67</md5>
+		<scrap name="ScreenScraper" date="20230221T163305" />
+	</game>
+	<game>
+		<path>./TOSEC/Firmware/MSX System v3.0 + MSX BASIC (1988)(Microsoft)(US)[a][MSX2P.ROM]/MSX System v3.0 + MSX BASIC (1988)(Microsoft)(US)[a][MSX2P.ROM].rom</path>
+		<name>MSX System v3.0 + MSX BASIC (1988)(Microsoft)(US)[a][MSX2P.ROM]</name>
+		<crc32>358EC547</crc32>
+		<md5>c5c26c3e8bc6c485424818057f0507b9</md5>
+		<scrap name="ScreenScraper" date="20230221T163307" />
+	</game>
+	<game>
+		<path>./TOSEC/Firmware/MSX System v3.0 + MSX BASIC (1988)(Microsoft)(US)[MSX2P.ROM]/MSX System v3.0 + MSX BASIC (1988)(Microsoft)(US)[MSX2P.ROM].rom</path>
+		<name>MSX System v3.0 + MSX BASIC (1988)(Microsoft)(US)[MSX2P.ROM]</name>
+		<crc32>00870134</crc32>
+		<md5>6d8c0ca64e726c82a4b726e9b01cdf1e</md5>
+		<scrap name="ScreenScraper" date="20230221T163309" />
+	</game>
+	<game>
+		<path>./TOSEC/Firmware/MSX System v3.0 + MSX BASIC Panasonic WSX MSX2+ (1988)(Microsoft)(US)[h][MSX2P.ROM]/MSX System v3.0 + MSX BASIC Panasonic WSX MSX2+ (1988)(Microsoft)(US)[h][MSX2P.ROM].rom</path>
+		<name>MSX System v3.0 + MSX BASIC Panasonic WSX MSX2+ (1988)(Microsoft)(US)[h][MSX2P.ROM]</name>
+		<crc32>2D9DBAA3</crc32>
+		<md5>12796c84e1ae6928238a51765b106900</md5>
+		<scrap name="ScreenScraper" date="20230221T163311" />
+	</game>
+	<game>
+		<path>./TOSEC/Firmware/MSX-DOS Panasonic WSX MSX2+ (1984)(Microsoft)(US)[DISK.ROM]/MSX-DOS Panasonic WSX MSX2+ (1984)(Microsoft)(US)[DISK.ROM].rom</path>
+		<name>MSX-DOS Panasonic WSX MSX2+ (1984)(Microsoft)(US)[DISK.ROM]</name>
+		<crc32>F98DE055</crc32>
+		<md5>45b46a2d78b3e0f708c1eafc56cdf17e</md5>
+		<scrap name="ScreenScraper" date="20230221T163313" />
+	</game>
+	<game>
+		<path>./TOSEC/Firmware/MSX-DOS Panasonic WSX MSX2+ (1984)(Microsoft)(US)[h][DISK.ROM]/MSX-DOS Panasonic WSX MSX2+ (1984)(Microsoft)(US)[h][DISK.ROM].rom</path>
+		<name>MSX-DOS Panasonic WSX MSX2+ (1984)(Microsoft)(US)[h][DISK.ROM]</name>
+		<crc32>507BACA4</crc32>
+		<md5>4e315df6f47b9c591de26d584ed8180f</md5>
+		<scrap name="ScreenScraper" date="20230221T163315" />
+	</game>
+	<game>
+		<path>./TOSEC/Firmware/MSX-DOS v2.2 (1984)(Microsoft)(US)(Disk 6 of 8)[5]/MSX-DOS v2.2 (1984)(Microsoft)(US)(Disk 6 of 8)[5].rom</path>
+		<name>MSX-DOS v2.2 (1984)(Microsoft)(US)(Disk 6 of 8)[5]</name>
+		<crc32>AC7D92B4</crc32>
+		<md5>254bfa82fa9b34c82d7b9766b193c303</md5>
+		<scrap name="ScreenScraper" date="20230221T163317" />
+	</game>
+	<game>
+		<path>./TOSEC/Firmware/MSX-DOS v2.2 (1984)(Microsoft)(US)(Disk 7 of 8)[6]/MSX-DOS v2.2 (1984)(Microsoft)(US)(Disk 7 of 8)[6].rom</path>
+		<name>MSX-DOS v2.2 (1984)(Microsoft)(US)(Disk 7 of 8)[6]</name>
+		<crc32>2BDA0184</crc32>
+		<md5>d37e41b37f99cfb8ddf11d8c162a3398</md5>
+		<scrap name="ScreenScraper" date="20230221T163318" />
+	</game>
+	<game>
+		<path>./TOSEC/Firmware/MSX2Plus System Extension 16k Panasonic FS-A1WX, Sony HB-F1XDJ (19xx)(-)[MSX2PEXT.ROM]/MSX2Plus System Extension 16k Panasonic FS-A1WX, Sony HB-F1XDJ (19xx)(-)[MSX2PEXT.ROM].rom</path>
+		<name>MSX2Plus System Extension 16k Panasonic FS-A1WX, Sony HB-F1XDJ (19xx)(-)[MSX2PEXT.ROM]</name>
+		<crc32>B8BA44D3</crc32>
+		<md5>7c8243c71d8f143b2531f01afa6a05dc</md5>
+		<scrap name="ScreenScraper" date="20230221T163320" />
+	</game>
+	<game>
+		<path>./TOSEC/Firmware/MSX2Plus System Extension Panasonic WSX MSX2+ ROM Image (19xx)(-)/MSX2Plus System Extension Panasonic WSX MSX2+ ROM Image (19xx)(-).rom</path>
+		<name>MSX2Plus System Extension Panasonic WSX MSX2+ ROM Image (19xx)(-)</name>
+		<crc32>DA4C86A0</crc32>
+		<md5>c1c269ea8e9cb3ed051ebee2f6392fee</md5>
+		<scrap name="ScreenScraper" date="20230221T163323" />
+	</game>
+	<game id="185936">
+		<path>./TOSEC/Games/F-1 Spirit 3D Special (1988)(Konami)(Disk 1 of 3)(Opening Disk)/F-1 Spirit 3D Special (1988)(Konami)(Disk 1 of 3)(Opening Disk).dsk</path>
+		<name>F-1 Spirit 3d Special</name>
+		<desc>This 3D racing game featuring Formula 1 cars and circuits. Besides F1 grand prix championship racing you can also choose to practice a specific race track. There is a two player mode, called the battle mode. The difficulty level can be set, and the number of laps is variable and you can select the F1 race track you want to race. Cars are custom made (you can select the body of the car, the engine, the tires, the suspension, the brakes, the gear and the wings).</desc>
+		<image>./images/F-1 Spirit 3D Special (1988)(Konami)(Disk 1 of 3)(Opening Disk)-image.png</image>
+		<video>./videos/F-1 Spirit 3D Special (1988)(Konami)(Disk 1 of 3)(Opening Disk)-video.mp4</video>
+		<marquee>./images/F-1 Spirit 3D Special (1988)(Konami)(Disk 1 of 3)(Opening Disk)-marquee.png</marquee>
+		<thumbnail>./images/F-1 Spirit 3D Special (1988)(Konami)(Disk 1 of 3)(Opening Disk)-thumb.png</thumbnail>
+		<fanart>./images/F-1 Spirit 3D Special (1988)(Konami)(Disk 1 of 3)(Opening Disk)-fanart.jpg</fanart>
+		<manual>./manuals/F-1 Spirit 3D Special (1988)(Konami)(Disk 1 of 3)(Opening Disk)-manual.pdf</manual>
+		<boxback>./images/F-1 Spirit 3D Special (1988)(Konami)(Disk 1 of 3)(Opening Disk)-boxback.png</boxback>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Panasoft</publisher>
+		<genre>Race, Driving / Race 3rd Pers. view</genre>
+		<players>1-2</players>
+		<crc32>69058209</crc32>
+		<md5>097717cfd007ed92f193f5efd8fa1d1c</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230221T163325" />
+	</game>
+	<game id="185936">
+		<path>./TOSEC/Games/F-1 Spirit 3D Special (1988)(Konami)(Disk 2 of 3)(Game Disk A)/F-1 Spirit 3D Special (1988)(Konami)(Disk 2 of 3)(Game Disk A).dsk</path>
+		<name>F-1 Spirit 3d Special</name>
+		<desc>This 3D racing game featuring Formula 1 cars and circuits. Besides F1 grand prix championship racing you can also choose to practice a specific race track. There is a two player mode, called the battle mode. The difficulty level can be set, and the number of laps is variable and you can select the F1 race track you want to race. Cars are custom made (you can select the body of the car, the engine, the tires, the suspension, the brakes, the gear and the wings).</desc>
+		<image>./images/F-1 Spirit 3D Special (1988)(Konami)(Disk 2 of 3)(Game Disk A)-image.png</image>
+		<video>./videos/F-1 Spirit 3D Special (1988)(Konami)(Disk 2 of 3)(Game Disk A)-video.mp4</video>
+		<marquee>./images/F-1 Spirit 3D Special (1988)(Konami)(Disk 2 of 3)(Game Disk A)-marquee.png</marquee>
+		<thumbnail>./images/F-1 Spirit 3D Special (1988)(Konami)(Disk 2 of 3)(Game Disk A)-thumb.png</thumbnail>
+		<fanart>./images/F-1 Spirit 3D Special (1988)(Konami)(Disk 2 of 3)(Game Disk A)-fanart.jpg</fanart>
+		<manual>./manuals/F-1 Spirit 3D Special (1988)(Konami)(Disk 2 of 3)(Game Disk A)-manual.pdf</manual>
+		<boxback>./images/F-1 Spirit 3D Special (1988)(Konami)(Disk 2 of 3)(Game Disk A)-boxback.png</boxback>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Panasoft</publisher>
+		<genre>Race, Driving / Race 3rd Pers. view</genre>
+		<players>1-2</players>
+		<crc32>96811CC3</crc32>
+		<md5>81cc499c027a429cb8bf733d8d0e5a64</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230221T163327" />
+	</game>
+	<game id="185936">
+		<path>./TOSEC/Games/F-1 Spirit 3D Special (1988)(Konami)(Disk 2 of 3)(Game Disk A)[a2]/F-1 Spirit 3D Special (1988)(Konami)(Disk 2 of 3)(Game Disk A)[a2].dsk</path>
+		<name>F-1 Spirit 3d Special</name>
+		<desc>This 3D racing game featuring Formula 1 cars and circuits. Besides F1 grand prix championship racing you can also choose to practice a specific race track. There is a two player mode, called the battle mode. The difficulty level can be set, and the number of laps is variable and you can select the F1 race track you want to race. Cars are custom made (you can select the body of the car, the engine, the tires, the suspension, the brakes, the gear and the wings).</desc>
+		<image>./images/F-1 Spirit 3D Special (1988)(Konami)(Disk 2 of 3)(Game Disk A)[a2]-image.png</image>
+		<video>./videos/F-1 Spirit 3D Special (1988)(Konami)(Disk 2 of 3)(Game Disk A)[a2]-video.mp4</video>
+		<marquee>./images/F-1 Spirit 3D Special (1988)(Konami)(Disk 2 of 3)(Game Disk A)[a2]-marquee.png</marquee>
+		<thumbnail>./images/F-1 Spirit 3D Special (1988)(Konami)(Disk 2 of 3)(Game Disk A)[a2]-thumb.png</thumbnail>
+		<fanart>./images/F-1 Spirit 3D Special (1988)(Konami)(Disk 2 of 3)(Game Disk A)[a2]-fanart.jpg</fanart>
+		<manual>./manuals/F-1 Spirit 3D Special (1988)(Konami)(Disk 2 of 3)(Game Disk A)[a2]-manual.pdf</manual>
+		<boxback>./images/F-1 Spirit 3D Special (1988)(Konami)(Disk 2 of 3)(Game Disk A)[a2]-boxback.png</boxback>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Panasoft</publisher>
+		<genre>Race, Driving / Race 3rd Pers. view</genre>
+		<players>1-2</players>
+		<crc32>EB1D19A3</crc32>
+		<md5>6c9d0fbb46d0d089b1456ca636a8c2e9</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230221T163330" />
+	</game>
+	<game id="185936">
+		<path>./TOSEC/Games/F-1 Spirit 3D Special (1988)(Konami)(Disk 2 of 3)(Game Disk A)[a]/F-1 Spirit 3D Special (1988)(Konami)(Disk 2 of 3)(Game Disk A)[a].dsk</path>
+		<name>F-1 Spirit 3d Special</name>
+		<desc>This 3D racing game featuring Formula 1 cars and circuits. Besides F1 grand prix championship racing you can also choose to practice a specific race track. There is a two player mode, called the battle mode. The difficulty level can be set, and the number of laps is variable and you can select the F1 race track you want to race. Cars are custom made (you can select the body of the car, the engine, the tires, the suspension, the brakes, the gear and the wings).</desc>
+		<image>./images/F-1 Spirit 3D Special (1988)(Konami)(Disk 2 of 3)(Game Disk A)[a]-image.png</image>
+		<video>./videos/F-1 Spirit 3D Special (1988)(Konami)(Disk 2 of 3)(Game Disk A)[a]-video.mp4</video>
+		<marquee>./images/F-1 Spirit 3D Special (1988)(Konami)(Disk 2 of 3)(Game Disk A)[a]-marquee.png</marquee>
+		<thumbnail>./images/F-1 Spirit 3D Special (1988)(Konami)(Disk 2 of 3)(Game Disk A)[a]-thumb.png</thumbnail>
+		<fanart>./images/F-1 Spirit 3D Special (1988)(Konami)(Disk 2 of 3)(Game Disk A)[a]-fanart.jpg</fanart>
+		<manual>./manuals/F-1 Spirit 3D Special (1988)(Konami)(Disk 2 of 3)(Game Disk A)[a]-manual.pdf</manual>
+		<boxback>./images/F-1 Spirit 3D Special (1988)(Konami)(Disk 2 of 3)(Game Disk A)[a]-boxback.png</boxback>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Panasoft</publisher>
+		<genre>Race, Driving / Race 3rd Pers. view</genre>
+		<players>1-2</players>
+		<crc32>B05F67A2</crc32>
+		<md5>4ea8ed0260fc36d730987b7724842739</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230221T163332" />
+	</game>
+	<game id="185936">
+		<path>./TOSEC/Games/F-1 Spirit 3D Special (1988)(Konami)(Disk 3 of 3)(Game Disk B)/F-1 Spirit 3D Special (1988)(Konami)(Disk 3 of 3)(Game Disk B).dsk</path>
+		<name>F-1 Spirit 3d Special</name>
+		<desc>This 3D racing game featuring Formula 1 cars and circuits. Besides F1 grand prix championship racing you can also choose to practice a specific race track. There is a two player mode, called the battle mode. The difficulty level can be set, and the number of laps is variable and you can select the F1 race track you want to race. Cars are custom made (you can select the body of the car, the engine, the tires, the suspension, the brakes, the gear and the wings).</desc>
+		<image>./images/F-1 Spirit 3D Special (1988)(Konami)(Disk 3 of 3)(Game Disk B)-image.png</image>
+		<video>./videos/F-1 Spirit 3D Special (1988)(Konami)(Disk 3 of 3)(Game Disk B)-video.mp4</video>
+		<marquee>./images/F-1 Spirit 3D Special (1988)(Konami)(Disk 3 of 3)(Game Disk B)-marquee.png</marquee>
+		<thumbnail>./images/F-1 Spirit 3D Special (1988)(Konami)(Disk 3 of 3)(Game Disk B)-thumb.png</thumbnail>
+		<fanart>./images/F-1 Spirit 3D Special (1988)(Konami)(Disk 3 of 3)(Game Disk B)-fanart.jpg</fanart>
+		<manual>./manuals/F-1 Spirit 3D Special (1988)(Konami)(Disk 3 of 3)(Game Disk B)-manual.pdf</manual>
+		<boxback>./images/F-1 Spirit 3D Special (1988)(Konami)(Disk 3 of 3)(Game Disk B)-boxback.png</boxback>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Panasoft</publisher>
+		<genre>Race, Driving / Race 3rd Pers. view</genre>
+		<players>1-2</players>
+		<crc32>72039928</crc32>
+		<md5>ae5f64d09755fc19e9806d94f84744f3</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230221T163342" />
+	</game>
+	<game id="185936">
+		<path>./TOSEC/Games/F-1 Spirit 3D Special (1988)(Konami)(Disk 3 of 3)(Game Disk B)[a]/F-1 Spirit 3D Special (1988)(Konami)(Disk 3 of 3)(Game Disk B)[a].dsk</path>
+		<name>F-1 Spirit 3d Special</name>
+		<desc>This 3D racing game featuring Formula 1 cars and circuits. Besides F1 grand prix championship racing you can also choose to practice a specific race track. There is a two player mode, called the battle mode. The difficulty level can be set, and the number of laps is variable and you can select the F1 race track you want to race. Cars are custom made (you can select the body of the car, the engine, the tires, the suspension, the brakes, the gear and the wings).</desc>
+		<image>./images/F-1 Spirit 3D Special (1988)(Konami)(Disk 3 of 3)(Game Disk B)[a]-image.png</image>
+		<video>./videos/F-1 Spirit 3D Special (1988)(Konami)(Disk 3 of 3)(Game Disk B)[a]-video.mp4</video>
+		<marquee>./images/F-1 Spirit 3D Special (1988)(Konami)(Disk 3 of 3)(Game Disk B)[a]-marquee.png</marquee>
+		<thumbnail>./images/F-1 Spirit 3D Special (1988)(Konami)(Disk 3 of 3)(Game Disk B)[a]-thumb.png</thumbnail>
+		<fanart>./images/F-1 Spirit 3D Special (1988)(Konami)(Disk 3 of 3)(Game Disk B)[a]-fanart.jpg</fanart>
+		<manual>./manuals/F-1 Spirit 3D Special (1988)(Konami)(Disk 3 of 3)(Game Disk B)[a]-manual.pdf</manual>
+		<boxback>./images/F-1 Spirit 3D Special (1988)(Konami)(Disk 3 of 3)(Game Disk B)[a]-boxback.png</boxback>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Panasoft</publisher>
+		<genre>Race, Driving / Race 3rd Pers. view</genre>
+		<players>1-2</players>
+		<crc32>94FC3831</crc32>
+		<md5>d91b677cd4dba87c7f99cf175e2f9845</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230221T163356" />
+	</game>
+	<game id="185934">
+		<path>./TOSEC/Games/Witch Iz, The (1991)(Chihiro)[b]/Witch Iz, The (1991)(Chihiro)[b].dsk</path>
+		<name>The Witch Iz</name>
+		<image>./images/Witch Iz, The (1991)(Chihiro)[b]-image.png</image>
+		<video>./videos/Witch Iz, The (1991)(Chihiro)[b]-video.mp4</video>
+		<marquee>./images/Witch Iz, The (1991)(Chihiro)[b]-marquee.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<genre>Role playing games / Japanese RPG</genre>
+		<crc32>9EEF4495</crc32>
+		<md5>71873b1587356ecdb7d67662bb2a89b5</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230221T163402" />
+	</game>
+</gameList>

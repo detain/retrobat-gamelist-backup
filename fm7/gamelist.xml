@@ -1,0 +1,271 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./No-Intro/Waveform/Attack on Pearl Harbor (Unknown).wav</path>
+		<name>Attack on Pearl Harbor (Unknown)</name>
+		<crc32>D71A5BD6</crc32>
+		<md5>3e4b0d8e629a0268886ec37b6b1f2b25</md5>
+		<scrap name="ScreenScraper" date="20230217T173138" />
+	</game>
+	<game>
+		<path>./No-Intro/Waveform/Biotek (Unknown).wav</path>
+		<name>Biotek (Unknown)</name>
+		<crc32>CB802346</crc32>
+		<md5>8b7c8b0dacbdc45b32e2b8b62af22f25</md5>
+		<scrap name="ScreenScraper" date="20230217T173141" />
+	</game>
+	<game>
+		<path>./No-Intro/Waveform/Cobra Hunter (Unknown).wav</path>
+		<name>Cobra Hunter (Unknown)</name>
+		<crc32>1C9D4EFA</crc32>
+		<md5>2c299c5a8aff2f80d51f82188fa4743c</md5>
+		<scrap name="ScreenScraper" date="20230217T173145" />
+	</game>
+	<game>
+		<path>./No-Intro/Waveform/Crash Ball (Unknown).wav</path>
+		<name>Crash Ball (Unknown)</name>
+		<crc32>7A628F61</crc32>
+		<md5>eaf9a0093a20ec36b827c82b082951e8</md5>
+		<scrap name="ScreenScraper" date="20230217T173149" />
+	</game>
+	<game>
+		<path>./No-Intro/Waveform/Elevator Game (Unknown).wav</path>
+		<name>Elevator Game (Unknown)</name>
+		<crc32>846B2E77</crc32>
+		<md5>5c4490036c938ee494ee46ce5ca7d6fc</md5>
+		<scrap name="ScreenScraper" date="20230217T173151" />
+	</game>
+	<game>
+		<path>./No-Intro/Waveform/FM Racer (Unknown).wav</path>
+		<name>FM Racer (Unknown)</name>
+		<crc32>777E1EA8</crc32>
+		<md5>99e1c156e691ae0719f8e6446a1ec9e1</md5>
+		<scrap name="ScreenScraper" date="20230217T173154" />
+	</game>
+	<game id="139953">
+		<path>./No-Intro/Waveform/Hitsuji Yaai (Unknown).wav</path>
+		<name>Hitsuji Yaai</name>
+		<desc>In Hey Sheep! you control a shepherd boy who must gather his sheep into the fencing before nightfall so he can go on a date with a girl. You can catch the sheep by running into them and then once you drag them to the top of the screen you can close the gate by pressing up on the underside of it and going in the direction to shut it. In later levels a wolves appear which will open the gate when the pass by it allowing the sheep a chance to escape. If you fail to get all the sheep locked away safely by nightfall the game is over.</desc>
+		<image>./images/Hitsuji Yaai (Unknown)-image.png</image>
+		<video>./videos/Hitsuji Yaai (Unknown)-video.mp4</video>
+		<thumbnail>./images/Hitsuji Yaai (Unknown)-thumb.png</thumbnail>
+		<boxback>./images/Hitsuji Yaai (Unknown)-boxback.png</boxback>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Kikuta Masaaki</developer>
+		<publisher>Hudson</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<crc32>97FF3233</crc32>
+		<md5>32110b50accbffe9affa8c84203c986c</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230217T173208" />
+	</game>
+	<game id="139967">
+		<path>./No-Intro/Waveform/I wa Sanjutsu Nari (Unknown).wav</path>
+		<name>I Wa Sanjutsu Nari</name>
+		<desc>This game is a simulation game of running a hospital. The game title is a pun of sorts on the phrase “I wa Jinjustu Nari” which translates into something like “A Doctor is a Savior”. The game begins by telling you that after you made a lot of money you decided to become a medical doctor. You have 10,000,000 in yen you can take on in loans for ten years so your goal is to build a private hospital and make as much money as you can.</desc>
+		<image>./images/I wa Sanjutsu Nari (Unknown)-image.png</image>
+		<video>./videos/I wa Sanjutsu Nari (Unknown)-video.mp4</video>
+		<thumbnail>./images/I wa Sanjutsu Nari (Unknown)-thumb.png</thumbnail>
+		<boxback>./images/I wa Sanjutsu Nari (Unknown)-boxback.png</boxback>
+		<releasedate>19830101T000000</releasedate>
+		<developer>M&amp;M</developer>
+		<publisher>Hudson</publisher>
+		<genre>Simulation / Build And Management</genre>
+		<players>1</players>
+		<crc32>427BD922</crc32>
+		<md5>6c5bcf08c44afbfb297b9a7b5671542b</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230217T173223" />
+	</game>
+	<game>
+		<path>./No-Intro/Waveform/Killer Station {loadm} (Unknown).wav</path>
+		<name>Killer Station {loadm} (Unknown)</name>
+		<crc32>1652727C</crc32>
+		<md5>70bfbce0743a936a846ec2b00dd8b6a4</md5>
+		<scrap name="ScreenScraper" date="20230217T173226" />
+	</game>
+	<game>
+		<path>./No-Intro/Waveform/Kinasai! (Unknown).wav</path>
+		<name>Kinasai! (Unknown)</name>
+		<crc32>56127E96</crc32>
+		<md5>a07d3f9b65adfe70d9e6abfceafdb72c</md5>
+		<scrap name="ScreenScraper" date="20230217T173229" />
+	</game>
+	<game>
+		<path>./No-Intro/Waveform/Marine Attack (Unknown).wav</path>
+		<name>Marine Attack (Unknown)</name>
+		<crc32>96B8C3EF</crc32>
+		<md5>678bef3ce568f5b26b732a7b74bad49d</md5>
+		<scrap name="ScreenScraper" date="20230217T173232" />
+	</game>
+	<game>
+		<path>./No-Intro/Waveform/Ouzumou (Unknown).wav</path>
+		<name>Ouzumou (Unknown)</name>
+		<crc32>8A902FBB</crc32>
+		<md5>39d8cc5b1714aeec894cb6ada8fc4231</md5>
+		<scrap name="ScreenScraper" date="20230217T173234" />
+	</game>
+	<game>
+		<path>./No-Intro/Waveform/Ringu no Ue wa Ousawagi (Oh! FM) (Unknown).wav</path>
+		<name>Ringu no Ue wa Ousawagi (Oh! FM) (Unknown)</name>
+		<crc32>949A52C4</crc32>
+		<md5>e9b452096505752a9c4e9e2ef5e2f303</md5>
+		<scrap name="ScreenScraper" date="20230217T195536" />
+	</game>
+	<game id="140181">
+		<path>./No-Intro/Waveform/Sokoban (Unknown).wav</path>
+		<name>Sokoban</name>
+		<desc>Sokoban! The classic Japanese puzzle game that has been ported many times to various systems and is sometimes better known as a Boxxle in the West due to that being its name on the Nintendo Game Boy. The gameplay is simple, you must control a character and push boxes onto the dots on each map to complete the level. If you make the slightest mistake though it usually means you have to begin the stage again. A devilishly challenging puzzle game that is sure to test your wits.</desc>
+		<image>./images/Sokoban (Unknown)-image.png</image>
+		<video>./videos/Sokoban (Unknown)-video.mp4</video>
+		<marquee>./images/Sokoban (Unknown)-marquee.png</marquee>
+		<thumbnail>./images/Sokoban (Unknown)-thumb.png</thumbnail>
+		<boxback>./images/Sokoban (Unknown)-boxback.png</boxback>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Hiroyuki Imabayashi</developer>
+		<publisher>Thinking Rabbit</publisher>
+		<genre>Action / Labyrinth</genre>
+		<players>1</players>
+		<crc32>FDFAEBFC</crc32>
+		<md5>ec5365cc6084c271d3c37417fc190d1c</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230217T195552" />
+	</game>
+	<game id="140090">
+		<path>./No-Intro/Waveform/Space Warp (Unknown).wav</path>
+		<name>Space Warp</name>
+		<desc>Space Warp is a puzzle game in which you control a ship within four boxes that abstractly represent a three-dimensional cube. Your goal is to touch the letters in alphabetical order, but if you screw up, you lose!</desc>
+		<image>./images/Space Warp (Unknown)-image.png</image>
+		<video>./videos/Space Warp (Unknown)-video.mp4</video>
+		<thumbnail>./images/Space Warp (Unknown)-thumb.png</thumbnail>
+		<boxback>./images/Space Warp (Unknown)-boxback.png</boxback>
+		<releasedate>19840101T000000</releasedate>
+		<publisher>Star Pack</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<crc32>EC5F824C</crc32>
+		<md5>b915a7884a7ba1034b9cf843000d769d</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230217T195603" />
+	</game>
+	<game>
+		<path>./No-Intro/Waveform/Yume no Puro Yakyuu (Unknown).wav</path>
+		<name>Yume no Puro Yakyuu (Unknown)</name>
+		<crc32>40B0610A</crc32>
+		<md5>7775bb1b2344efb3e651fad0f692a45e</md5>
+		<scrap name="ScreenScraper" date="20230217T195605" />
+	</game>
+	<game id="140176">
+		<path>./TOSEC/Games/[D77]/Ys (1985)(PSG)/Ys (1985)(PSG).d77</path>
+		<name>Ys</name>
+		<desc>In this game, the player takes the role of Adol (Aron in the English-language Sega Master System version) Christin, a red-haired adventurer and expert swordsman. One day he encounter a fortune teller who sends him on a quest to find information about the six books of Ys. It appears that there was once an ancient land called Ys, whose secret was sealed in those six books. Before long Adol learns that the six books were all stolen by the evil wizard Dark Fact (Dulk Dekt in the Sega Master System version, Malificus in the English-language computer versions). It is Adol's task to defeat the villain and discover the secret of Ys! Ys: Ancient Ys Vanished Omen is an action role-playing game with its own trademark combat system: instead of pressing the "attack" button, the protagonist simply runs into the enemies he encounters. More damage is inflicted upon the enemies if Adol charges at them from the back or from the sides - a head-to-head collision might result in the hero's death if the monster is stronger than him. The player gains gold and experience points for defeating foes; once enough experience has been accumulated, Adol levels up and becomes stronger. The hero can buy and equip swords, armor, shields, and other accessories.</desc>
+		<image>./images/Ys (1985)(PSG)-image.png</image>
+		<thumbnail>./images/Ys (1985)(PSG)-thumb.png</thumbnail>
+		<boxback>./images/Ys (1985)(PSG)-boxback.png</boxback>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Nihon Falcom</developer>
+		<publisher>Nihon Falcom</publisher>
+		<genre>Role playing games / Action RPG</genre>
+		<players>1</players>
+		<crc32>DFC27882</crc32>
+		<md5>4756297818755a8e4b49a6184ee9fa4d</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230217T195607" />
+	</game>
+	<game id="139829">
+		<path>./TOSEC/Games/[T77]/3D UFO (1984)(Compac)[CC-1114]/3D UFO (1984)(Compac)[CC-1114].t77</path>
+		<name>3d-ufo</name>
+		<image>./images/3D UFO (1984)(Compac)[CC-1114]-image.png</image>
+		<video>./videos/3D UFO (1984)(Compac)[CC-1114]-video.mp4</video>
+		<thumbnail>./images/3D UFO (1984)(Compac)[CC-1114]-thumb.png</thumbnail>
+		<boxback>./images/3D UFO (1984)(Compac)[CC-1114]-boxback.png</boxback>
+		<releasedate>19840101T000000</releasedate>
+		<publisher>Compac</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<crc32>77966C67</crc32>
+		<md5>af46eff590c1a2e655a374c9f1729d22</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230217T195610" />
+	</game>
+	<game id="140121">
+		<path>./TOSEC/Games/[T77]/Black Onyx, The (1985-03)(B.P.S)(Tape 1 of 4)[FUBP-13001]/Black Onyx, The (1985-03)(B.P.S)(Tape 1 of 4)[FUBP-13001].t77</path>
+		<name>The Black Onyx</name>
+		<desc>Rumor says that the legendary Black Onyx, an artifact that grants eternal youth and happiness to those who can find it, lies within the Black Tower near the town of Utsuro. You assemble a party of brave adventurers and venture into the tower, defeating monsters on your way to the great treasure.
+
+The Black Onyx is one of the first traditional role-playing games made by a Japanese company. It is similar in gameplay to early Wizardry and Ultima games with killing monsters and exploring dungeons, with dark, realistic visuals. The player creates a party (up to five members) and explores a maze-like 3D dungeon, fighting random enemies on the way. The heroes also meet adventurers who can be convinced to join the party. The combat engine is turn-based.</desc>
+		<thumbnail>./images/Black Onyx, The (1985-03)(B.P.S)(Tape 1 of 4)[FUBP-13001]-thumb.png</thumbnail>
+		<boxback>./images/Black Onyx, The (1985-03)(B.P.S)(Tape 1 of 4)[FUBP-13001]-boxback.png</boxback>
+		<releasedate>19850301T000000</releasedate>
+		<developer>Bullet Proof Software</developer>
+		<publisher>Bullet Proof Software</publisher>
+		<genre>Role playing games / Action RPG</genre>
+		<players>1</players>
+		<crc32>F82AC536</crc32>
+		<md5>003b5c7cb597f35b25bfa0e17a92a8d4</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230217T195612" />
+	</game>
+	<game id="140121">
+		<path>./TOSEC/Games/[T77]/Black Onyx, The (1985-03)(B.P.S)(Tape 2 of 4)[FUBP-13001]/Black Onyx, The (1985-03)(B.P.S)(Tape 2 of 4)[FUBP-13001].t77</path>
+		<name>The Black Onyx</name>
+		<desc>Rumor says that the legendary Black Onyx, an artifact that grants eternal youth and happiness to those who can find it, lies within the Black Tower near the town of Utsuro. You assemble a party of brave adventurers and venture into the tower, defeating monsters on your way to the great treasure.
+
+The Black Onyx is one of the first traditional role-playing games made by a Japanese company. It is similar in gameplay to early Wizardry and Ultima games with killing monsters and exploring dungeons, with dark, realistic visuals. The player creates a party (up to five members) and explores a maze-like 3D dungeon, fighting random enemies on the way. The heroes also meet adventurers who can be convinced to join the party. The combat engine is turn-based.</desc>
+		<thumbnail>./images/Black Onyx, The (1985-03)(B.P.S)(Tape 2 of 4)[FUBP-13001]-thumb.png</thumbnail>
+		<boxback>./images/Black Onyx, The (1985-03)(B.P.S)(Tape 2 of 4)[FUBP-13001]-boxback.png</boxback>
+		<releasedate>19850301T000000</releasedate>
+		<developer>Bullet Proof Software</developer>
+		<publisher>Bullet Proof Software</publisher>
+		<genre>Role playing games / Action RPG</genre>
+		<players>1</players>
+		<crc32>397B6606</crc32>
+		<md5>bcdd2a1012da8ffaa66f6e11083bf581</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230217T195614" />
+	</game>
+	<game id="140121">
+		<path>./TOSEC/Games/[T77]/Black Onyx, The (1985-03)(B.P.S)(Tape 3 of 4)[FUBP-13001]/Black Onyx, The (1985-03)(B.P.S)(Tape 3 of 4)[FUBP-13001].t77</path>
+		<name>The Black Onyx</name>
+		<desc>Rumor says that the legendary Black Onyx, an artifact that grants eternal youth and happiness to those who can find it, lies within the Black Tower near the town of Utsuro. You assemble a party of brave adventurers and venture into the tower, defeating monsters on your way to the great treasure.
+
+The Black Onyx is one of the first traditional role-playing games made by a Japanese company. It is similar in gameplay to early Wizardry and Ultima games with killing monsters and exploring dungeons, with dark, realistic visuals. The player creates a party (up to five members) and explores a maze-like 3D dungeon, fighting random enemies on the way. The heroes also meet adventurers who can be convinced to join the party. The combat engine is turn-based.</desc>
+		<thumbnail>./images/Black Onyx, The (1985-03)(B.P.S)(Tape 3 of 4)[FUBP-13001]-thumb.png</thumbnail>
+		<boxback>./images/Black Onyx, The (1985-03)(B.P.S)(Tape 3 of 4)[FUBP-13001]-boxback.png</boxback>
+		<releasedate>19850301T000000</releasedate>
+		<developer>Bullet Proof Software</developer>
+		<publisher>Bullet Proof Software</publisher>
+		<genre>Role playing games / Action RPG</genre>
+		<players>1</players>
+		<crc32>8DD23629</crc32>
+		<md5>87a884801c9acd1e2c256b7a8764fc85</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230217T195616" />
+	</game>
+	<game id="140121">
+		<path>./TOSEC/Games/[T77]/Black Onyx, The (1985-03)(B.P.S)(Tape 4 of 4)[FUBP-13001]/Black Onyx, The (1985-03)(B.P.S)(Tape 4 of 4)[FUBP-13001].t77</path>
+		<name>The Black Onyx</name>
+		<desc>Rumor says that the legendary Black Onyx, an artifact that grants eternal youth and happiness to those who can find it, lies within the Black Tower near the town of Utsuro. You assemble a party of brave adventurers and venture into the tower, defeating monsters on your way to the great treasure.
+
+The Black Onyx is one of the first traditional role-playing games made by a Japanese company. It is similar in gameplay to early Wizardry and Ultima games with killing monsters and exploring dungeons, with dark, realistic visuals. The player creates a party (up to five members) and explores a maze-like 3D dungeon, fighting random enemies on the way. The heroes also meet adventurers who can be convinced to join the party. The combat engine is turn-based.</desc>
+		<thumbnail>./images/Black Onyx, The (1985-03)(B.P.S)(Tape 4 of 4)[FUBP-13001]-thumb.png</thumbnail>
+		<boxback>./images/Black Onyx, The (1985-03)(B.P.S)(Tape 4 of 4)[FUBP-13001]-boxback.png</boxback>
+		<releasedate>19850301T000000</releasedate>
+		<developer>Bullet Proof Software</developer>
+		<publisher>Bullet Proof Software</publisher>
+		<genre>Role playing games / Action RPG</genre>
+		<players>1</players>
+		<crc32>520D15BD</crc32>
+		<md5>23e46b5bef4d893c4ba7afb814b2bd48</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230217T195619" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[T77]/Boulder Dash (1984-11)(Comptiq)/Boulder Dash (1984-11)(Comptiq).t77</path>
+		<name>Boulder Dash (1984-11)(Comptiq)</name>
+		<crc32>23287D88</crc32>
+		<md5>787f06e0bc8028a5e2e30076aa412833</md5>
+		<scrap name="ScreenScraper" date="20230217T195620" />
+	</game>
+</gameList>

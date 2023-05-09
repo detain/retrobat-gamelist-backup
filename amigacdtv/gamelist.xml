@@ -1,0 +1,2278 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./TOSEC-ISO/Applications/[IMG]/Network (1994)(Weird Science)(Amiga-CD32-CDTV)[CDD3713 Weird Science NO2].ccd</path>
+		<name>Network (1994)(Weird Science)(Amiga-CD32-CDTV)[CDD3713 Weird Science NO2]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>6dff2bb266b0ddb3941ae51d2d1e0416</md5>
+		<scrap name="ScreenScraper" date="20230222T193027" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Applications/[IMG]/Network (1994)(Weird Science)(Amiga-CD32-CDTV)[CDD3713 Weird Science NO2].cue</path>
+		<name>Network (1994)(Weird Science)(Amiga-CD32-CDTV)[CDD3713 Weird Science NO2]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>49702c05aa4c834ffc1c28ef85bbe84d</md5>
+		<scrap name="ScreenScraper" date="20230222T193029" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Applications/[ISO]/InterOffice (1993)(Interactivision ApS)(M5)[CDTV-Amiga].cue</path>
+		<name>InterOffice (1993)(Interactivision ApS)(M5)[CDTV-Amiga]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>08a329adb0917da598febf597fe0f04a</md5>
+		<scrap name="ScreenScraper" date="20230222T193031" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Applications/[ISO]/InterOffice (1993)(Interactivision ApS)(M5)[CDTV-Amiga].iso</path>
+		<name>InterOffice (1993)(Interactivision ApS)(M5)[CDTV-Amiga]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>d20d040a020a59e54556b717a6666084</md5>
+		<scrap name="ScreenScraper" date="20230222T193034" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Applications/[ISO]/Network CD (1994)(Weird Science)(Amiga-CD32-CDTV)[!].cue</path>
+		<name>Network CD (1994)(Weird Science)(Amiga-CD32-CDTV)[!]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>a3da98222653ed3be83cfc9f05978e71</md5>
+		<scrap name="ScreenScraper" date="20230222T193036" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Applications/[ISO]/Network CD (1994)(Weird Science)(Amiga-CD32-CDTV)[!].iso</path>
+		<name>Network CD (1994)(Weird Science)(Amiga-CD32-CDTV)[!]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<scrap name="ScreenScraper" date="20230222T193038" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Educational/[IMG]/Tale of Benjamin Bunny, The (1991)(Discis)(en-es).ccd</path>
+		<name>Tale of Benjamin Bunny, The (1991)(Discis)(en-es)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>5b7b537cb8cb5d2ee1c68d24f7c041f6</md5>
+		<scrap name="ScreenScraper" date="20230222T193040" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Educational/[IMG]/Tale of Benjamin Bunny, The (1991)(Discis)(en-es).cue</path>
+		<name>Tale of Benjamin Bunny, The (1991)(Discis)(en-es)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>8d0fab29157cab85a3e0903034716919</md5>
+		<scrap name="ScreenScraper" date="20230222T193042" />
+	</game>
+	<game id="104864">
+		<path>./TOSEC-ISO/Educational/[ISO]/All Dogs Go To Heaven (1991)(Merit Software)[!].cue</path>
+		<name>All Dogs Go to Heaven</name>
+		<desc>This game consists of ten arcade mini-games based on the Don Bluth animated movie with the main characters voiced by Burt Reynolds and Dom DeLouise. Charlie the dog, a good guy but a bit of a scoundrel, is bumped off by an evil 'crime lord' of a dog and ends up in heaven but yearns to go back to earth to set things right. The game starts there, if you play the story mode. Plot points from the movie are used to loosely tie the mini-games together, but you can also pick your own game.
+
+Among the different mini-games, there's a Hangman clone, a session of The Towers of Hanoi, a run around the city to try to find the girl's house, a maze-crawl through a ventilation system, and a Rat Race that pits you as a rat called Squad Car trying to win a race against three to five other rats. There are three difficulty levels to choose from.</desc>
+		<image>./images/All Dogs Go To Heaven (1991)(Merit Software)[!]-image.png</image>
+		<marquee>./images/All Dogs Go To Heaven (1991)(Merit Software)[!]-marquee.png</marquee>
+		<thumbnail>./images/All Dogs Go To Heaven (1991)(Merit Software)[!]-thumb.png</thumbnail>
+		<boxback>./images/All Dogs Go To Heaven (1991)(Merit Software)[!]-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>19900101T000000</releasedate>
+		<publisher>Merit</publisher>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>9a2054c28086d4cfb16962cdca94b85b</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193044" />
+	</game>
+	<game id="104864">
+		<path>./TOSEC-ISO/Educational/[ISO]/All Dogs Go To Heaven (1991)(Merit Software)[!].iso</path>
+		<name>All Dogs Go to Heaven</name>
+		<desc>This game consists of ten arcade mini-games based on the Don Bluth animated movie with the main characters voiced by Burt Reynolds and Dom DeLouise. Charlie the dog, a good guy but a bit of a scoundrel, is bumped off by an evil 'crime lord' of a dog and ends up in heaven but yearns to go back to earth to set things right. The game starts there, if you play the story mode. Plot points from the movie are used to loosely tie the mini-games together, but you can also pick your own game.
+
+Among the different mini-games, there's a Hangman clone, a session of The Towers of Hanoi, a run around the city to try to find the girl's house, a maze-crawl through a ventilation system, and a Rat Race that pits you as a rat called Squad Car trying to win a race against three to five other rats. There are three difficulty levels to choose from.</desc>
+		<image>./images/All Dogs Go To Heaven (1991)(Merit Software)[!]-image.png</image>
+		<marquee>./images/All Dogs Go To Heaven (1991)(Merit Software)[!]-marquee.png</marquee>
+		<thumbnail>./images/All Dogs Go To Heaven (1991)(Merit Software)[!]-thumb.png</thumbnail>
+		<boxback>./images/All Dogs Go To Heaven (1991)(Merit Software)[!]-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>19900101T000000</releasedate>
+		<publisher>Merit</publisher>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>0bcc595853b25b3346c3ad6bc103db64</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193046" />
+	</game>
+	<game id="118979">
+		<path>./TOSEC-ISO/Educational/[ISO]/Barney Bear Goes Camping (1991)(Free Spirit Software)[!].cue</path>
+		<name>Barney Bear Goes Camping</name>
+		<desc>Barney Bear Goes Camping is a fun and educational learning game for children ages 2-6. This colourful, interactive game will teach children about nature and the environment as they play.
+Barney Bear and his family have decided to go camping! You can take a walk with Barney, and learn about the animals that you see. Or you can go to the ranger talk and hear nature facts. You can even lake pictures on your walk that arc shown at the ranger's slide show!</desc>
+		<image>./images/Barney Bear Goes Camping (1991)(Free Spirit Software)[!]-image.png</image>
+		<video>./videos/Barney Bear Goes Camping (1991)(Free Spirit Software)[!]-video.mp4</video>
+		<manual>./manuals/Barney Bear Goes Camping (1991)(Free Spirit Software)[!]-manual.pdf</manual>
+		<rating>0</rating>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>c2c8ca05f8df7e6eeca34b50b0ebe9eb</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193049" />
+	</game>
+	<game id="118979">
+		<path>./TOSEC-ISO/Educational/[ISO]/Barney Bear Goes Camping (1991)(Free Spirit Software)[!].iso</path>
+		<name>Barney Bear Goes Camping</name>
+		<desc>Barney Bear Goes Camping is a fun and educational learning game for children ages 2-6. This colourful, interactive game will teach children about nature and the environment as they play.
+Barney Bear and his family have decided to go camping! You can take a walk with Barney, and learn about the animals that you see. Or you can go to the ranger talk and hear nature facts. You can even lake pictures on your walk that arc shown at the ranger's slide show!</desc>
+		<image>./images/Barney Bear Goes Camping (1991)(Free Spirit Software)[!]-image.png</image>
+		<video>./videos/Barney Bear Goes Camping (1991)(Free Spirit Software)[!]-video.mp4</video>
+		<manual>./manuals/Barney Bear Goes Camping (1991)(Free Spirit Software)[!]-manual.pdf</manual>
+		<rating>0</rating>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>bf8b3384ac41fa6c901e043e463ca504</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193051" />
+	</game>
+	<game id="106247">
+		<path>./TOSEC-ISO/Educational/[ISO]/Barney Bear Goes to School (1990)(Free Spirit Software)[!].cue</path>
+		<name>Barney Bear Goes To School</name>
+		<desc>Barney Bear Goes to School is an educational game for children aged two to six. It consists of two parts: the first one is a story book where the player has to help Barney Bear to wake up and get ready for school. The story is told through narrated pictures and for each one the player can interact with the scene by clicking on various objects. To continue the story a specific object has to be clicked on. The second part takes place in the school which contains various activities. This include three games:
+Spell It! - A picture along with the right spelling will be displayed and the player has to type it in by clicking on the right letters.
+How Many? - An object is drawn a certain number of times and the player has to count them and click on the correct number.
+Coloring Book - The player can fill the areas of several colourless pictures.</desc>
+		<image>./images/Barney Bear Goes to School (1990)(Free Spirit Software)[!]-image.png</image>
+		<video>./videos/Barney Bear Goes to School (1990)(Free Spirit Software)[!]-video.mp4</video>
+		<marquee>./images/Barney Bear Goes to School (1990)(Free Spirit Software)[!]-marquee.png</marquee>
+		<thumbnail>./images/Barney Bear Goes to School (1990)(Free Spirit Software)[!]-thumb.png</thumbnail>
+		<manual>./manuals/Barney Bear Goes to School (1990)(Free Spirit Software)[!]-manual.pdf</manual>
+		<boxback>./images/Barney Bear Goes to School (1990)(Free Spirit Software)[!]-boxback.png</boxback>
+		<rating>0</rating>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>8a5133a81521599dfb42b11987b5a710</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193054" />
+	</game>
+	<game id="106247">
+		<path>./TOSEC-ISO/Educational/[ISO]/Barney Bear Goes to School (1990)(Free Spirit Software)[Track 01 of 99][!].iso</path>
+		<name>Barney Bear Goes To School</name>
+		<desc>Barney Bear Goes to School is an educational game for children aged two to six. It consists of two parts: the first one is a story book where the player has to help Barney Bear to wake up and get ready for school. The story is told through narrated pictures and for each one the player can interact with the scene by clicking on various objects. To continue the story a specific object has to be clicked on. The second part takes place in the school which contains various activities. This include three games:
+Spell It! - A picture along with the right spelling will be displayed and the player has to type it in by clicking on the right letters.
+How Many? - An object is drawn a certain number of times and the player has to count them and click on the correct number.
+Coloring Book - The player can fill the areas of several colourless pictures.</desc>
+		<image>./images/Barney Bear Goes to School (1990)(Free Spirit Software)[Track 01 of 99][!]-image.png</image>
+		<video>./videos/Barney Bear Goes to School (1990)(Free Spirit Software)[Track 01 of 99][!]-video.mp4</video>
+		<marquee>./images/Barney Bear Goes to School (1990)(Free Spirit Software)[Track 01 of 99][!]-marquee.png</marquee>
+		<thumbnail>./images/Barney Bear Goes to School (1990)(Free Spirit Software)[Track 01 of 99][!]-thumb.png</thumbnail>
+		<manual>./manuals/Barney Bear Goes to School (1990)(Free Spirit Software)[Track 01 of 99][!]-manual.pdf</manual>
+		<boxback>./images/Barney Bear Goes to School (1990)(Free Spirit Software)[Track 01 of 99][!]-boxback.png</boxback>
+		<rating>0</rating>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>f503910222194f572e8a71f0972e3d1c</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193056" />
+	</game>
+	<game id="106248">
+		<path>./TOSEC-ISO/Educational/[ISO]/Bun for Barney, A (1991)(MultiMedia Corporation)[!].cue</path>
+		<name>Bun For Barney, A</name>
+		<desc>"A Bun for Barney" is an animated story aimed at three-to-eight-year-olds in which a small bear discovers that the world is full of bounders ready to rip the cherries from his iced bun. The pop-up world contains animations, surprise word and number games and hidden nursery rhymes which children can explore by clicking on different parts of the screen. The game features the voice of Tom Baker.</desc>
+		<image>./images/Bun for Barney, A (1991)(MultiMedia Corporation)[!]-image.png</image>
+		<video>./videos/Bun for Barney, A (1991)(MultiMedia Corporation)[!]-video.mp4</video>
+		<marquee>./images/Bun for Barney, A (1991)(MultiMedia Corporation)[!]-marquee.png</marquee>
+		<thumbnail>./images/Bun for Barney, A (1991)(MultiMedia Corporation)[!]-thumb.png</thumbnail>
+		<boxback>./images/Bun for Barney, A (1991)(MultiMedia Corporation)[!]-boxback.png</boxback>
+		<rating>0.8</rating>
+		<publisher>BBC Multimedia</publisher>
+		<genre>Educational</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>d2cb6b6b6bbd324b496cd64f12b7cf3e</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193059" />
+	</game>
+	<game id="106248">
+		<path>./TOSEC-ISO/Educational/[ISO]/Bun for Barney, A (1991)(MultiMedia Corporation)[Track 1 of 2][!].iso</path>
+		<name>Bun For Barney, A</name>
+		<desc>"A Bun for Barney" is an animated story aimed at three-to-eight-year-olds in which a small bear discovers that the world is full of bounders ready to rip the cherries from his iced bun. The pop-up world contains animations, surprise word and number games and hidden nursery rhymes which children can explore by clicking on different parts of the screen. The game features the voice of Tom Baker.</desc>
+		<image>./images/Bun for Barney, A (1991)(MultiMedia Corporation)[Track 1 of 2][!]-image.png</image>
+		<video>./videos/Bun for Barney, A (1991)(MultiMedia Corporation)[Track 1 of 2][!]-video.mp4</video>
+		<marquee>./images/Bun for Barney, A (1991)(MultiMedia Corporation)[Track 1 of 2][!]-marquee.png</marquee>
+		<thumbnail>./images/Bun for Barney, A (1991)(MultiMedia Corporation)[Track 1 of 2][!]-thumb.png</thumbnail>
+		<boxback>./images/Bun for Barney, A (1991)(MultiMedia Corporation)[Track 1 of 2][!]-boxback.png</boxback>
+		<rating>0.8</rating>
+		<publisher>BBC Multimedia</publisher>
+		<genre>Educational</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>24f6f7f7619f27cd8c04c96c100d4d1a</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193101" />
+	</game>
+	<game id="106252">
+		<path>./TOSEC-ISO/Educational/[ISO]/Cinderella - The Original Fairy Tale (1991)(Discis)(en-es)[CDRM-575000 3].cue</path>
+		<name>Cinderella - The Original Fairy Tale</name>
+		<image>./images/Cinderella - The Original Fairy Tale (1991)(Discis)(en-es)[CDRM-575000 3]-image.png</image>
+		<thumbnail>./images/Cinderella - The Original Fairy Tale (1991)(Discis)(en-es)[CDRM-575000 3]-thumb.png</thumbnail>
+		<manual>./manuals/Cinderella - The Original Fairy Tale (1991)(Discis)(en-es)[CDRM-575000 3]-manual.pdf</manual>
+		<boxback>./images/Cinderella - The Original Fairy Tale (1991)(Discis)(en-es)[CDRM-575000 3]-boxback.png</boxback>
+		<rating>0</rating>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>b47d3a64610d5838750f6defb654bfed</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193103" />
+	</game>
+	<game id="106252">
+		<path>./TOSEC-ISO/Educational/[ISO]/Cinderella - The Original Fairy Tale (1991)(Discis)(en-es)[CDRM-575000 3].iso</path>
+		<name>Cinderella - The Original Fairy Tale</name>
+		<image>./images/Cinderella - The Original Fairy Tale (1991)(Discis)(en-es)[CDRM-575000 3]-image.png</image>
+		<thumbnail>./images/Cinderella - The Original Fairy Tale (1991)(Discis)(en-es)[CDRM-575000 3]-thumb.png</thumbnail>
+		<manual>./manuals/Cinderella - The Original Fairy Tale (1991)(Discis)(en-es)[CDRM-575000 3]-manual.pdf</manual>
+		<boxback>./images/Cinderella - The Original Fairy Tale (1991)(Discis)(en-es)[CDRM-575000 3]-boxback.png</boxback>
+		<rating>0</rating>
+		<lastplayed>20230222T000000</lastplayed>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193105" />
+	</game>
+	<game id="106252">
+		<path>./TOSEC-ISO/Educational/[ISO]/Cinderella - The Original Fairy Tale (1992)(Discis)(M5)[!][CDRM-735100 1].cue</path>
+		<name>Cinderella - The Original Fairy Tale</name>
+		<image>./images/Cinderella - The Original Fairy Tale (1992)(Discis)(M5)[!][CDRM-735100 1]-image.png</image>
+		<thumbnail>./images/Cinderella - The Original Fairy Tale (1992)(Discis)(M5)[!][CDRM-735100 1]-thumb.png</thumbnail>
+		<manual>./manuals/Cinderella - The Original Fairy Tale (1992)(Discis)(M5)[!][CDRM-735100 1]-manual.pdf</manual>
+		<boxback>./images/Cinderella - The Original Fairy Tale (1992)(Discis)(M5)[!][CDRM-735100 1]-boxback.png</boxback>
+		<rating>0</rating>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>5150d5e8ccd3c3a569629c13f7fdc2e8</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193107" />
+	</game>
+	<game id="106252">
+		<path>./TOSEC-ISO/Educational/[ISO]/Cinderella - The Original Fairy Tale (1992)(Discis)(M5)[!][CDRM-735100 1].iso</path>
+		<name>Cinderella - The Original Fairy Tale</name>
+		<image>./images/Cinderella - The Original Fairy Tale (1992)(Discis)(M5)[!][CDRM-735100 1]-image.png</image>
+		<thumbnail>./images/Cinderella - The Original Fairy Tale (1992)(Discis)(M5)[!][CDRM-735100 1]-thumb.png</thumbnail>
+		<manual>./manuals/Cinderella - The Original Fairy Tale (1992)(Discis)(M5)[!][CDRM-735100 1]-manual.pdf</manual>
+		<boxback>./images/Cinderella - The Original Fairy Tale (1992)(Discis)(M5)[!][CDRM-735100 1]-boxback.png</boxback>
+		<rating>0</rating>
+		<lastplayed>20230222T000000</lastplayed>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193109" />
+	</game>
+	<game id="33695">
+		<path>./TOSEC-ISO/Educational/[ISO]/Fun School 3 - for 5 to 7 year olds (1991)(Europress Software)[!].cue</path>
+		<name>Fun School 3 : For 5 to 7 Year Olds</name>
+		<rating>0</rating>
+		<developer>Database Software</developer>
+		<publisher>Database Software</publisher>
+		<genre>Educational</genre>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>7271838b49214b7947c55551e67331a9</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193112" />
+	</game>
+	<game id="33695">
+		<path>./TOSEC-ISO/Educational/[ISO]/Fun School 3 - for 5 to 7 year olds (1991)(Europress Software)[!].iso</path>
+		<name>Fun School 3 : For 5 to 7 Year Olds</name>
+		<rating>0</rating>
+		<developer>Database Software</developer>
+		<publisher>Database Software</publisher>
+		<genre>Educational</genre>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>f6cf318227ebd075ac283087bcad3bf9</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193114" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Educational/[ISO]/Fun School 3 - for the over 7s (1991)(Europress Software).cue</path>
+		<name>Fun School 3 - for the over 7s (1991)(Europress Software)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>db8047ca9d2a901299ea82cb64e0a5e2</md5>
+		<scrap name="ScreenScraper" date="20230222T193115" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Educational/[ISO]/Fun School 3 - for the over 7s (1991)(Europress Software).iso</path>
+		<name>Fun School 3 - for the over 7s (1991)(Europress Software)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>65c38f7a23a5e2df56711a93fb5ac8bc</md5>
+		<scrap name="ScreenScraper" date="20230222T193117" />
+	</game>
+	<game id="34550">
+		<path>./TOSEC-ISO/Educational/[ISO]/Fun School 3 - for the under 5s (1991)(Database Educational Software)[!].cue</path>
+		<name>Fun School 3 : For the under 5s</name>
+		<image>./images/Fun School 3 - for the under 5s (1991)(Database Educational Software)[!]-image.png</image>
+		<thumbnail>./images/Fun School 3 - for the under 5s (1991)(Database Educational Software)[!]-thumb.png</thumbnail>
+		<boxback>./images/Fun School 3 - for the under 5s (1991)(Database Educational Software)[!]-boxback.png</boxback>
+		<rating>0</rating>
+		<developer>Database Software</developer>
+		<publisher>Database Software</publisher>
+		<genre>Educational</genre>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>ec371d2a285e4589ad000ef166fa1564</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193119" />
+	</game>
+	<game id="34550">
+		<path>./TOSEC-ISO/Educational/[ISO]/Fun School 3 - for the under 5s (1991)(Database Educational Software)[!].iso</path>
+		<name>Fun School 3 : For the under 5s</name>
+		<image>./images/Fun School 3 - for the under 5s (1991)(Database Educational Software)[!]-image.png</image>
+		<thumbnail>./images/Fun School 3 - for the under 5s (1991)(Database Educational Software)[!]-thumb.png</thumbnail>
+		<boxback>./images/Fun School 3 - for the under 5s (1991)(Database Educational Software)[!]-boxback.png</boxback>
+		<rating>0</rating>
+		<developer>Database Software</developer>
+		<publisher>Database Software</publisher>
+		<genre>Educational</genre>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>5580634cf62187ad4aefa23defbb665e</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193122" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Educational/[ISO]/Heather Hits Her First Home Run (1991)(Discis)(en-es)[!].cue</path>
+		<name>Heather Hits Her First Home Run (1991)(Discis)(en-es)[!]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>8ef55f59cb67275213a7f03ec400b229</md5>
+		<scrap name="ScreenScraper" date="20230222T193124" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Educational/[ISO]/Heather Hits Her First Home Run (1991)(Discis)(en-es)[!].iso</path>
+		<name>Heather Hits Her First Home Run (1991)(Discis)(en-es)[!]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<scrap name="ScreenScraper" date="20230222T193126" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Educational/[ISO]/Learn French with Asterix - Le Fils d'Asterix - Disk One (1991)(EuroTalk)[!].cue</path>
+		<name>Learn French with Asterix - Le Fils d'Asterix - Disk One (1991)(EuroTalk)[!]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>cd809fd0cfd99b0dc6bf065352373333</md5>
+		<scrap name="ScreenScraper" date="20230222T193128" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Educational/[ISO]/Learn French with Asterix - Le Fils d'Asterix - Disk One (1991)(EuroTalk)[!].iso</path>
+		<name>Learn French with Asterix - Le Fils d'Asterix - Disk One (1991)(EuroTalk)[!]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<scrap name="ScreenScraper" date="20230222T193130" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Educational/[ISO]/Learn French with Asterix - Le Fils d'Asterix - Disk Two (1991)(EuroTalk)[!].cue</path>
+		<name>Learn French with Asterix - Le Fils d'Asterix - Disk Two (1991)(EuroTalk)[!]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>a53f92ee523db086b70231f899b9787c</md5>
+		<scrap name="ScreenScraper" date="20230222T193132" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Educational/[ISO]/Learn French with Asterix - Le Fils d'Asterix - Disk Two (1991)(EuroTalk)[!].iso</path>
+		<name>Learn French with Asterix - Le Fils d'Asterix - Disk Two (1991)(EuroTalk)[!]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<scrap name="ScreenScraper" date="20230222T193134" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Educational/[ISO]/Long Hard Day at the Ranch, A (1991)(Discis)(en-es).cue</path>
+		<name>Long Hard Day at the Ranch, A (1991)(Discis)(en-es)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>eeeee2cfaaeb2db9dd98b86fd77af34b</md5>
+		<scrap name="ScreenScraper" date="20230222T193136" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Educational/[ISO]/Long Hard Day at the Ranch, A (1991)(Discis)(en-es).iso</path>
+		<name>Long Hard Day at the Ranch, A (1991)(Discis)(en-es)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<scrap name="ScreenScraper" date="20230222T193138" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Educational/[ISO]/Moving Gives Me A Stomach Ache (1991)(Discis)(en-es)[!][CDRM-573800 3].cue</path>
+		<name>Moving Gives Me A Stomach Ache (1991)(Discis)(en-es)[!][CDRM-573800 3]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>df5991bbbc90fdd91d36ccde16353d38</md5>
+		<scrap name="ScreenScraper" date="20230222T193140" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Educational/[ISO]/Moving Gives Me A Stomach Ache (1991)(Discis)(en-es)[!][CDRM-573800 3].iso</path>
+		<name>Moving Gives Me A Stomach Ache (1991)(Discis)(en-es)[!][CDRM-573800 3]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<scrap name="ScreenScraper" date="20230222T193142" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Educational/[ISO]/Moving Gives Me A Stomach Ache (1992)(Discis)(M5)[!][CDRM-734800 3].cue</path>
+		<name>Moving Gives Me A Stomach Ache (1992)(Discis)(M5)[!][CDRM-734800 3]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>85150db42f6207f8cc954c1d002445a5</md5>
+		<scrap name="ScreenScraper" date="20230222T193144" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Educational/[ISO]/Moving Gives Me A Stomach Ache (1992)(Discis)(M5)[!][CDRM-734800 3].iso</path>
+		<name>Moving Gives Me A Stomach Ache (1992)(Discis)(M5)[!][CDRM-734800 3]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<scrap name="ScreenScraper" date="20230222T193146" />
+	</game>
+	<game id="106265">
+		<path>./TOSEC-ISO/Educational/[ISO]/Mud Puddle (1991)(Discis)(en-es)[!][CDRM-573600 3].cue</path>
+		<name>Mud Puddle</name>
+		<image>./images/Mud Puddle (1991)(Discis)(en-es)[!][CDRM-573600 3]-image.png</image>
+		<manual>./manuals/Mud Puddle (1991)(Discis)(en-es)[!][CDRM-573600 3]-manual.pdf</manual>
+		<rating>0</rating>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>7d49850f9f602cee0489f6e97c46bd76</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193148" />
+	</game>
+	<game id="106265">
+		<path>./TOSEC-ISO/Educational/[ISO]/Mud Puddle (1991)(Discis)(en-es)[!][CDRM-573600 3].iso</path>
+		<name>Mud Puddle</name>
+		<image>./images/Mud Puddle (1991)(Discis)(en-es)[!][CDRM-573600 3]-image.png</image>
+		<manual>./manuals/Mud Puddle (1991)(Discis)(en-es)[!][CDRM-573600 3]-manual.pdf</manual>
+		<rating>0</rating>
+		<lastplayed>20230222T000000</lastplayed>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193150" />
+	</game>
+	<game id="106265">
+		<path>./TOSEC-ISO/Educational/[ISO]/Mud Puddle (1992)(Discis)(M5)[CDRM-735000 2].cue</path>
+		<name>Mud Puddle</name>
+		<image>./images/Mud Puddle (1992)(Discis)(M5)[CDRM-735000 2]-image.png</image>
+		<manual>./manuals/Mud Puddle (1992)(Discis)(M5)[CDRM-735000 2]-manual.pdf</manual>
+		<rating>0</rating>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>5ac98023ee1fab84f4981a02cb6df07c</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193152" />
+	</game>
+	<game id="106265">
+		<path>./TOSEC-ISO/Educational/[ISO]/Mud Puddle (1992)(Discis)(M5)[CDRM-735000 2].iso</path>
+		<name>Mud Puddle</name>
+		<image>./images/Mud Puddle (1992)(Discis)(M5)[CDRM-735000 2]-image.png</image>
+		<manual>./manuals/Mud Puddle (1992)(Discis)(M5)[CDRM-735000 2]-manual.pdf</manual>
+		<rating>0</rating>
+		<lastplayed>20230222T000000</lastplayed>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193154" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Educational/[ISO]/My Paint - The Paint Program Just for Kids! (1991)(Saddleback Graphics)[!].cue</path>
+		<name>My Paint - The Paint Program Just for Kids! (1991)(Saddleback Graphics)[!]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>fddb28c7f6b239d4d95f68ee3846fd06</md5>
+		<scrap name="ScreenScraper" date="20230222T193156" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Educational/[ISO]/My Paint - The Paint Program Just for Kids! (1991)(Saddleback Graphics)[!].iso</path>
+		<name>My Paint - The Paint Program Just for Kids! (1991)(Saddleback Graphics)[!]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>5093b90c9e9239327ceeb62838041aa8</md5>
+		<scrap name="ScreenScraper" date="20230222T193158" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Educational/[ISO]/Night Before Christmas, The (1991)(Discis)(en-es).cue</path>
+		<name>Night Before Christmas, The (1991)(Discis)(en-es)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>33010630f5235793d0b4658b59715ace</md5>
+		<scrap name="ScreenScraper" date="20230222T193200" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Educational/[ISO]/Night Before Christmas, The (1991)(Discis)(en-es).iso</path>
+		<name>Night Before Christmas, The (1991)(Discis)(en-es)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<scrap name="ScreenScraper" date="20230222T193202" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Educational/[ISO]/Paper Bag Princess, The (1991)(Discis)(en-es)[CDRM-573500 2].cue</path>
+		<name>Paper Bag Princess, The (1991)(Discis)(en-es)[CDRM-573500 2]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>317ac4b7a6025baeff85eff5bbed961c</md5>
+		<scrap name="ScreenScraper" date="20230222T193205" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Educational/[ISO]/Paper Bag Princess, The (1991)(Discis)(en-es)[CDRM-573500 2].iso</path>
+		<name>Paper Bag Princess, The (1991)(Discis)(en-es)[CDRM-573500 2]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<scrap name="ScreenScraper" date="20230222T193207" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Educational/[ISO]/Paper Bag Princess, The (1992)(Discis)(M5)[!][CDRM-734700 3].cue</path>
+		<name>Paper Bag Princess, The (1992)(Discis)(M5)[!][CDRM-734700 3]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>55c3470c1be70141fef97ab70fc9c1c4</md5>
+		<scrap name="ScreenScraper" date="20230222T193209" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Educational/[ISO]/Paper Bag Princess, The (1992)(Discis)(M5)[!][CDRM-734700 3].iso</path>
+		<name>Paper Bag Princess, The (1992)(Discis)(M5)[!][CDRM-734700 3]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<scrap name="ScreenScraper" date="20230222T193211" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Educational/[ISO]/Pinocchio (1993)(Giunti Multimedia)(M6)[!][Amiga-CD32-CDTV].cue</path>
+		<name>Pinocchio (1993)(Giunti Multimedia)(M6)[!][Amiga-CD32-CDTV]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>f5e29197f1163927b00dd9ff973e3eaf</md5>
+		<scrap name="ScreenScraper" date="20230222T193213" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Educational/[ISO]/Pinocchio (1993)(Giunti Multimedia)(M6)[!][Amiga-CD32-CDTV].iso</path>
+		<name>Pinocchio (1993)(Giunti Multimedia)(M6)[!][Amiga-CD32-CDTV]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<scrap name="ScreenScraper" date="20230222T193215" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Educational/[ISO]/Read with Asterix - Asterix and Son (1991)(EuroTalk)[!].cue</path>
+		<name>Read with Asterix - Asterix and Son (1991)(EuroTalk)[!]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>51879c69fda858e48dd54cd81eaca511</md5>
+		<scrap name="ScreenScraper" date="20230222T193217" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Educational/[ISO]/Read with Asterix - Asterix and Son (1991)(EuroTalk)[!].iso</path>
+		<name>Read with Asterix - Asterix and Son (1991)(EuroTalk)[!]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<scrap name="ScreenScraper" date="20230222T193219" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Educational/[ISO]/Scary Poems for Rotten Kids (1991)(Discis)(en-es)[!].cue</path>
+		<name>Scary Poems for Rotten Kids (1991)(Discis)(en-es)[!]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>0cb9792bc4d474069dded9d707b4dff1</md5>
+		<scrap name="ScreenScraper" date="20230222T193221" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Educational/[ISO]/Scary Poems for Rotten Kids (1991)(Discis)(en-es)[!].iso</path>
+		<name>Scary Poems for Rotten Kids (1991)(Discis)(en-es)[!]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<scrap name="ScreenScraper" date="20230222T193223" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Educational/[ISO]/Tale of Benjamin Bunny, The (1991)(Discis)(en-es)[!].cue</path>
+		<name>Tale of Benjamin Bunny, The (1991)(Discis)(en-es)[!]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>113e6cb8eaec9ac3a04bbde9ab02000b</md5>
+		<scrap name="ScreenScraper" date="20230222T193225" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Educational/[ISO]/Tale of Benjamin Bunny, The (1991)(Discis)(en-es)[!].iso</path>
+		<name>Tale of Benjamin Bunny, The (1991)(Discis)(en-es)[!]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<scrap name="ScreenScraper" date="20230222T193228" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Educational/[ISO]/Tale of Peter Rabbit, The (1992)(Discis)(M5)[!][CDRM-734900 1].cue</path>
+		<name>Tale of Peter Rabbit, The (1992)(Discis)(M5)[!][CDRM-734900 1]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>20e6d2b837d9a515f5a568e85147ae19</md5>
+		<scrap name="ScreenScraper" date="20230222T193230" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Educational/[ISO]/Tale of Peter Rabbit, The (1992)(Discis)(M5)[!][CDRM-734900 1].iso</path>
+		<name>Tale of Peter Rabbit, The (1992)(Discis)(M5)[!][CDRM-734900 1]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<scrap name="ScreenScraper" date="20230222T193232" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Educational/[ISO]/Thomas' Snowsuit (1991)(Discis)(en-es)[!].cue</path>
+		<name>Thomas' Snowsuit (1991)(Discis)(en-es)[!]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>02bd9f5d067ef95c9777ead178f16c93</md5>
+		<scrap name="ScreenScraper" date="20230222T193234" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Educational/[ISO]/Thomas' Snowsuit (1991)(Discis)(en-es)[!].iso</path>
+		<name>Thomas' Snowsuit (1991)(Discis)(en-es)[!]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<scrap name="ScreenScraper" date="20230222T193236" />
+	</game>
+	<game id="152372">
+		<path>./TOSEC-ISO/Games/[BIN]/Defender of the Crown II (1993)(Commodore)(CD32-CDTV).cue</path>
+		<name>Defender Of The Crown 2</name>
+		<desc>Defender of the Crown puts the player in the role of one of four Saxon knights in medieval England, in a time where the land is in turmoil as the King is dead and his crown was stolen. The Saxons and the Normans blame each other and fight for control of England.
+
+After a short introduction by Robin of Locksley himself, the game starts with a single castle and 10 soldiers at your command. From there, you have to build your army, take control of additional territories and fight and defeat the three Norman lords - and sometimes your Saxon friends as well.
+
+In addition to the basic ' build your army and conquer your opponents' the game offers several events and options that can be used to fine tune your play style: You may engage in a jousting contest where you have to knock your opponent off his horse, gaining either fame or land, or you can go raid a castle for loot or the hand of a princess, joining your houses and territories.</desc>
+		<image>./images/TOSEC-ISO/Games/[BIN]/Defender of the Crown II (1993)(Commodore)(CD32-CDTV)-image.png</image>
+		<video>./videos/Defender of the Crown II (1993)(Commodore)(CD32-CDTV)-video.mp4</video>
+		<marquee>./images/TOSEC-ISO/Games/[BIN]/Defender of the Crown II (1993)(Commodore)(CD32-CDTV)-marquee.png</marquee>
+		<thumbnail>./images/TOSEC-ISO/Games/[BIN]/Defender of the Crown II (1993)(Commodore)(CD32-CDTV)-thumb.png</thumbnail>
+		<manual>./manuals/Defender of the Crown II (1993)(Commodore)(CD32-CDTV)-manual.pdf</manual>
+		<boxback>./images/Defender of the Crown II (1993)(Commodore)(CD32-CDTV)-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Master Designer Software, Inc.</developer>
+		<publisher>Cinemaware</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>9eeb06615a168221e7cd76eeca2fcebd</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193239" />
+	</game>
+	<game id="106282">
+		<path>./TOSEC-ISO/Games/[BIN]/Xenon 2 - Megablast (1992)(Mirrorsoft)(M5)[CDTV-CD32].cue</path>
+		<name>Xenon 2 - Megablast</name>
+		<desc>Xenon 2: Megablast is vertically scrolling space shooter, in which you have to pass several levels, filled with waves of enemies, that all end with a level boss creature. Each group of enemies you destroy grants you a cash reward and every once in a while you enter Colin's Bargain Basement, where you can use this cash to purchase upgrades for your ship like better weapons, speed &amp; health upgrades etc. Some upgrades can also be picked up during the levels.</desc>
+		<image>./images/TOSEC-ISO/Games/[BIN]/Xenon 2 - Megablast (1992)(Mirrorsoft)(M5)[CDTV-CD32]-image.jpg</image>
+		<video>./videos/Xenon 2 - Megablast (1992)(Mirrorsoft)(M5)[CDTV-CD32]-video.mp4</video>
+		<marquee>./images/TOSEC-ISO/Games/[BIN]/Xenon 2 - Megablast (1992)(Mirrorsoft)(M5)[CDTV-CD32]-marquee.png</marquee>
+		<thumbnail>./images/TOSEC-ISO/Games/[BIN]/Xenon 2 - Megablast (1992)(Mirrorsoft)(M5)[CDTV-CD32]-thumb.jpg</thumbnail>
+		<boxback>./images/Xenon 2 - Megablast (1992)(Mirrorsoft)(M5)[CDTV-CD32]-boxback.png</boxback>
+		<rating>0.6</rating>
+		<developer>The Bitmap Brothers</developer>
+		<publisher>Image Works</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<family>Xenon</family>
+		<players>1-2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>9c38a841d026c35efc0f60643326ed93</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193241" />
+	</game>
+	<game id="39049">
+		<path>./TOSEC-ISO/Games/[IMG]/Battlestorm (1991)(Titus).ccd</path>
+		<name>Battlestorm</name>
+		<desc>A top-down space shooter that was different from most others at the time in that it did not just scroll continuously in one direction, but could scroll at different speeds in all possible directions on the X and Y axis, on the player's whim.
+
+The game takes place above the surface of a ruined, devastated planet: each level starts within a large area, in which your ship has free movement. Avoiding surface hazards, such as auto-aiming turrets, the goal is to destroy enemy spacecraft that hover around the large area in groups. Each wave of attacks is followed by a bomb-dropping mothership, which you must hurry up and destroy before it moves off the playfield, in order to proceed to the next wave; the last mothership gives way to the boss - a gigantic spacecraft that will chase you around the playfield. Beaten it? you are transported to a short section of standard shooter fare, where the screen auto-scrolls vertically, at the end of which you face a final monstrosity. This ends the level - on to the next one.
+
+Absorbing enemy fire will deplete your power, while collecting power-ups and destroying turrets can bring it back up somewhat. At 0% power, the game is over - although you may get an option to continue, based on how far you got.</desc>
+		<image>./images/Battlestorm (1991)(Titus)-image.png</image>
+		<video>./videos/Battlestorm (1991)(Titus)-video.mp4</video>
+		<marquee>./images/Battlestorm (1991)(Titus)-marquee.png</marquee>
+		<thumbnail>./images/Battlestorm (1991)(Titus)-thumb.png</thumbnail>
+		<manual>./manuals/Battlestorm (1991)(Titus)-manual.pdf</manual>
+		<boxback>./images/Battlestorm (1991)(Titus)-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Titus</developer>
+		<publisher>Titus</publisher>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>253ea763504c6b06b82e0cc1904625a9</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193243" />
+	</game>
+	<game id="39049">
+		<path>./TOSEC-ISO/Games/[IMG]/Battlestorm (1991)(Titus).cue</path>
+		<name>Battlestorm</name>
+		<desc>A top-down space shooter that was different from most others at the time in that it did not just scroll continuously in one direction, but could scroll at different speeds in all possible directions on the X and Y axis, on the player's whim.
+
+The game takes place above the surface of a ruined, devastated planet: each level starts within a large area, in which your ship has free movement. Avoiding surface hazards, such as auto-aiming turrets, the goal is to destroy enemy spacecraft that hover around the large area in groups. Each wave of attacks is followed by a bomb-dropping mothership, which you must hurry up and destroy before it moves off the playfield, in order to proceed to the next wave; the last mothership gives way to the boss - a gigantic spacecraft that will chase you around the playfield. Beaten it? you are transported to a short section of standard shooter fare, where the screen auto-scrolls vertically, at the end of which you face a final monstrosity. This ends the level - on to the next one.
+
+Absorbing enemy fire will deplete your power, while collecting power-ups and destroying turrets can bring it back up somewhat. At 0% power, the game is over - although you may get an option to continue, based on how far you got.</desc>
+		<image>./images/Battlestorm (1991)(Titus)-image.png</image>
+		<video>./videos/Battlestorm (1991)(Titus)-video.mp4</video>
+		<marquee>./images/Battlestorm (1991)(Titus)-marquee.png</marquee>
+		<thumbnail>./images/Battlestorm (1991)(Titus)-thumb.png</thumbnail>
+		<manual>./manuals/Battlestorm (1991)(Titus)-manual.pdf</manual>
+		<boxback>./images/Battlestorm (1991)(Titus)-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Titus</developer>
+		<publisher>Titus</publisher>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>b06f75343db6dd872cc500275629096e</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193245" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[IMG]/Cinderella - Original Fairy Tale The, (1992)(Discis).ccd</path>
+		<name>Cinderella - Original Fairy Tale The, (1992)(Discis)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>78597f448b10963d7b016aa47cbba942</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193247" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[IMG]/Cinderella - Original Fairy Tale The, (1992)(Discis).cue</path>
+		<name>Cinderella - Original Fairy Tale The, (1992)(Discis)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>4ed648c6bd104b1253dd91b4898c0f9e</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193249" />
+	</game>
+	<game id="106273">
+		<path>./TOSEC-ISO/Games/[IMG]/Curse of RA, The (1992)(Rainbow Arts).ccd</path>
+		<name>The Curse Of Ra</name>
+		<desc>The Curse of Ra is a Puzzle game, developed by Cybestyle and published by Rainbow Arts, which was released in Europe in 1990.
+
+Player (Scarab) has to escape a pyramid by solving the riddles. The player needs to remove all stones on a board by finding a counterpart. Only two stones with the same symbol can be removed at a time and they have to be on a straight line, horizontally or vertically. The game starts with Scarab on an ankh and that item has to be returned upon completion. Moving a stone is done by sitting on one and moving it towards the counterpart. Not all stones can be moved however and there are teleporters, obstructions and diversions to make it more difficult. There are also traps and for instance ice that forces Scarab to move in a single direction. When the stones are aligned, pressing fire matches them and they disappear.
+
+The game can be played in a Logic or in an Arcade mode. Logic mode offers 100 levels with no time limit. Special stones can make the playerâ€™s life easier or harder. In Arcade mode the player has to complete a level within a certain amount of time. Special coins can be used to buy extras after each level, such as ability to fly for 30 seconds, more time, extra lives and others. Levels are generated at random. The Arcade mode has a high score table. Demo mode shows the usage of all the different stones found in the game. This is a sort of non-playable tutorial. The game also provides a level editor.</desc>
+		<image>./images/Curse of RA, The (1992)(Rainbow Arts)-image.png</image>
+		<video>./videos/Curse of RA, The (1992)(Rainbow Arts)-video.mp4</video>
+		<marquee>./images/Curse of RA, The (1992)(Rainbow Arts)-marquee.png</marquee>
+		<thumbnail>./images/Curse of RA, The (1992)(Rainbow Arts)-thumb.png</thumbnail>
+		<manual>./manuals/Curse of RA, The (1992)(Rainbow Arts)-manual.pdf</manual>
+		<boxback>./images/Curse of RA, The (1992)(Rainbow Arts)-boxback.png</boxback>
+		<rating>0</rating>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>1b133a2b525a1439078cfbca7be7aa25</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193251" />
+	</game>
+	<game id="106273">
+		<path>./TOSEC-ISO/Games/[IMG]/Curse of RA, The (1992)(Rainbow Arts).cue</path>
+		<name>The Curse Of Ra</name>
+		<desc>The Curse of Ra is a Puzzle game, developed by Cybestyle and published by Rainbow Arts, which was released in Europe in 1990.
+
+Player (Scarab) has to escape a pyramid by solving the riddles. The player needs to remove all stones on a board by finding a counterpart. Only two stones with the same symbol can be removed at a time and they have to be on a straight line, horizontally or vertically. The game starts with Scarab on an ankh and that item has to be returned upon completion. Moving a stone is done by sitting on one and moving it towards the counterpart. Not all stones can be moved however and there are teleporters, obstructions and diversions to make it more difficult. There are also traps and for instance ice that forces Scarab to move in a single direction. When the stones are aligned, pressing fire matches them and they disappear.
+
+The game can be played in a Logic or in an Arcade mode. Logic mode offers 100 levels with no time limit. Special stones can make the playerâ€™s life easier or harder. In Arcade mode the player has to complete a level within a certain amount of time. Special coins can be used to buy extras after each level, such as ability to fly for 30 seconds, more time, extra lives and others. Levels are generated at random. The Arcade mode has a high score table. Demo mode shows the usage of all the different stones found in the game. This is a sort of non-playable tutorial. The game also provides a level editor.</desc>
+		<image>./images/Curse of RA, The (1992)(Rainbow Arts)-image.png</image>
+		<video>./videos/Curse of RA, The (1992)(Rainbow Arts)-video.mp4</video>
+		<marquee>./images/Curse of RA, The (1992)(Rainbow Arts)-marquee.png</marquee>
+		<thumbnail>./images/Curse of RA, The (1992)(Rainbow Arts)-thumb.png</thumbnail>
+		<manual>./manuals/Curse of RA, The (1992)(Rainbow Arts)-manual.pdf</manual>
+		<boxback>./images/Curse of RA, The (1992)(Rainbow Arts)-boxback.png</boxback>
+		<rating>0</rating>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>6bfd8fbd77f801ab519dde9a19e2f31d</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193253" />
+	</game>
+	<game id="106254">
+		<path>./TOSEC-ISO/Games/[IMG]/Defender of the Crown (1991)(CDTV Publishing).ccd</path>
+		<name>Defender Of The Crown</name>
+		<desc>Defender of the Crown puts the player in the role of one of four Saxon knights in medieval England, in a time where the land is in turmoil as the King is dead and his crown was stolen. The Saxons and the Normans blame each other and fight for control of England.
+
+After a short introduction by Robin of Locksley himself, the game starts with a single castle and 10 soldiers at your command. From there, you have to build your army, take control of additional territories and fight and defeat the three Norman lords - and sometimes your Saxon friends as well.
+
+In addition to the basic ' build your army and conquer your opponents' the game offers several events and options that can be used to fine tune your play style: You may engage in a jousting contest where you have to knock your opponent off his horse, gaining either fame or land, or you can go raid a castle for loot or the hand of a princess, joining your houses and territories.</desc>
+		<image>./images/Defender of the Crown (1991)(CDTV Publishing)-image.png</image>
+		<video>./videos/Defender of the Crown (1991)(CDTV Publishing)-video.mp4</video>
+		<marquee>./images/Defender of the Crown (1991)(CDTV Publishing)-marquee.png</marquee>
+		<thumbnail>./images/Defender of the Crown (1991)(CDTV Publishing)-thumb.png</thumbnail>
+		<manual>./manuals/Defender of the Crown (1991)(CDTV Publishing)-manual.pdf</manual>
+		<boxback>./images/Defender of the Crown (1991)(CDTV Publishing)-boxback.png</boxback>
+		<rating>0.8</rating>
+		<developer>Master Designer Software, Inc.</developer>
+		<publisher>Cinemaware</publisher>
+		<genre>Adventure</genre>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>c8ff2d0009efad98bb011e418389e37e</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193256" />
+	</game>
+	<game id="106254">
+		<path>./TOSEC-ISO/Games/[IMG]/Defender of the Crown (1991)(CDTV Publishing).cue</path>
+		<name>Defender Of The Crown</name>
+		<desc>Defender of the Crown puts the player in the role of one of four Saxon knights in medieval England, in a time where the land is in turmoil as the King is dead and his crown was stolen. The Saxons and the Normans blame each other and fight for control of England.
+
+After a short introduction by Robin of Locksley himself, the game starts with a single castle and 10 soldiers at your command. From there, you have to build your army, take control of additional territories and fight and defeat the three Norman lords - and sometimes your Saxon friends as well.
+
+In addition to the basic ' build your army and conquer your opponents' the game offers several events and options that can be used to fine tune your play style: You may engage in a jousting contest where you have to knock your opponent off his horse, gaining either fame or land, or you can go raid a castle for loot or the hand of a princess, joining your houses and territories.</desc>
+		<image>./images/Defender of the Crown (1991)(CDTV Publishing)-image.png</image>
+		<video>./videos/Defender of the Crown (1991)(CDTV Publishing)-video.mp4</video>
+		<marquee>./images/Defender of the Crown (1991)(CDTV Publishing)-marquee.png</marquee>
+		<thumbnail>./images/Defender of the Crown (1991)(CDTV Publishing)-thumb.png</thumbnail>
+		<manual>./manuals/Defender of the Crown (1991)(CDTV Publishing)-manual.pdf</manual>
+		<boxback>./images/Defender of the Crown (1991)(CDTV Publishing)-boxback.png</boxback>
+		<rating>0.8</rating>
+		<developer>Master Designer Software, Inc.</developer>
+		<publisher>Cinemaware</publisher>
+		<genre>Adventure</genre>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>05a7f3797a31402ea06405d8599444a2</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193258" />
+	</game>
+	<game id="106257">
+		<path>./TOSEC-ISO/Games/[IMG]/Fantastic Voyage (1992)(Centaur).ccd</path>
+		<name>Fantastic Voyage</name>
+		<desc>Fantastic Voyage is a side-scrolling shooter based on the 1966 movie of the same name. The scientist Jan Benes is near death because of a clot of blood in his brain. A submarine, controlled by the player, is shrunk and needs to reach the brain through three levels. The enemies, which lower the energy bar when touched, are the human defense systems like antibody cells.
+
+Besides shooting enemies, there are also various passages in which the player needs to guide the submarine through narrow corridors without touching the environment. On the way the player needs to collect nine circuit boards required to destroy the blood cot; those may be hidden in dead ends or alternate ways. This means the player can move back and forth to try other routes at forks. It is important to pick up oxygen and fuel canisters in order to keep the submarine functional. Shield energy can be refilled by killing three enemies without missing a shot.</desc>
+		<image>./images/Fantastic Voyage (1992)(Centaur)-image.png</image>
+		<video>./videos/Fantastic Voyage (1992)(Centaur)-video.mp4</video>
+		<marquee>./images/Fantastic Voyage (1992)(Centaur)-marquee.png</marquee>
+		<thumbnail>./images/Fantastic Voyage (1992)(Centaur)-thumb.png</thumbnail>
+		<manual>./manuals/Fantastic Voyage (1992)(Centaur)-manual.pdf</manual>
+		<boxback>./images/Fantastic Voyage (1992)(Centaur)-boxback.png</boxback>
+		<rating>0</rating>
+		<genre>Shooter / Plane</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>e556990ace26b4cb969008ab52220b8c</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193300" />
+	</game>
+	<game id="106257">
+		<path>./TOSEC-ISO/Games/[IMG]/Fantastic Voyage (1992)(Centaur).cue</path>
+		<name>Fantastic Voyage</name>
+		<desc>Fantastic Voyage is a side-scrolling shooter based on the 1966 movie of the same name. The scientist Jan Benes is near death because of a clot of blood in his brain. A submarine, controlled by the player, is shrunk and needs to reach the brain through three levels. The enemies, which lower the energy bar when touched, are the human defense systems like antibody cells.
+
+Besides shooting enemies, there are also various passages in which the player needs to guide the submarine through narrow corridors without touching the environment. On the way the player needs to collect nine circuit boards required to destroy the blood cot; those may be hidden in dead ends or alternate ways. This means the player can move back and forth to try other routes at forks. It is important to pick up oxygen and fuel canisters in order to keep the submarine functional. Shield energy can be refilled by killing three enemies without missing a shot.</desc>
+		<image>./images/Fantastic Voyage (1992)(Centaur)-image.png</image>
+		<video>./videos/Fantastic Voyage (1992)(Centaur)-video.mp4</video>
+		<marquee>./images/Fantastic Voyage (1992)(Centaur)-marquee.png</marquee>
+		<thumbnail>./images/Fantastic Voyage (1992)(Centaur)-thumb.png</thumbnail>
+		<manual>./manuals/Fantastic Voyage (1992)(Centaur)-manual.pdf</manual>
+		<boxback>./images/Fantastic Voyage (1992)(Centaur)-boxback.png</boxback>
+		<rating>0</rating>
+		<genre>Shooter / Plane</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>a456f9090a90cd1dc5e6afb6d1483a46</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193303" />
+	</game>
+	<game id="33642">
+		<path>./TOSEC-ISO/Games/[IMG]/Parasol Stars (1992)(Ocean)[b].ccd</path>
+		<name>Parasol Stars - Rainbow Islands 2</name>
+		<desc>This sequel to Rainbow Islands sees a return to the gameplay of Bubble Bobble, but with Bub and Bob in their now-human forms.
+
+The boys must clear a series of screens of bad guys - who take slightly more esoteric forms than the angry caterpillars from Rainbow Islands - and again pick up a whole bunch of power-ups.
+
+But this time they're armed with umbrellas! Oh, okay then, parasols</desc>
+		<image>./images/Parasol Stars (1992)(Ocean)[b]-image.png</image>
+		<video>./videos/Parasol Stars (1992)(Ocean)[b]-video.mp4</video>
+		<marquee>./images/Parasol Stars (1992)(Ocean)[b]-marquee.png</marquee>
+		<thumbnail>./images/Parasol Stars (1992)(Ocean)[b]-thumb.png</thumbnail>
+		<manual>./manuals/Parasol Stars (1992)(Ocean)[b]-manual.pdf</manual>
+		<boxback>./images/Parasol Stars (1992)(Ocean)[b]-boxback.png</boxback>
+		<rating>0.9</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Ocean</developer>
+		<publisher>Taito</publisher>
+		<genre>Platform</genre>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>628989d9f9510bd44aa9ca1e8b24159b</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193305" />
+	</game>
+	<game id="33642">
+		<path>./TOSEC-ISO/Games/[IMG]/Parasol Stars (1992)(Ocean)[b].cue</path>
+		<name>Parasol Stars - Rainbow Islands 2</name>
+		<desc>This sequel to Rainbow Islands sees a return to the gameplay of Bubble Bobble, but with Bub and Bob in their now-human forms.
+
+The boys must clear a series of screens of bad guys - who take slightly more esoteric forms than the angry caterpillars from Rainbow Islands - and again pick up a whole bunch of power-ups.
+
+But this time they're armed with umbrellas! Oh, okay then, parasols</desc>
+		<image>./images/Parasol Stars (1992)(Ocean)[b]-image.png</image>
+		<video>./videos/Parasol Stars (1992)(Ocean)[b]-video.mp4</video>
+		<marquee>./images/Parasol Stars (1992)(Ocean)[b]-marquee.png</marquee>
+		<thumbnail>./images/Parasol Stars (1992)(Ocean)[b]-thumb.png</thumbnail>
+		<manual>./manuals/Parasol Stars (1992)(Ocean)[b]-manual.pdf</manual>
+		<boxback>./images/Parasol Stars (1992)(Ocean)[b]-boxback.png</boxback>
+		<rating>0.9</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Ocean</developer>
+		<publisher>Taito</publisher>
+		<genre>Platform</genre>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>463367ebb3eb9f5c63483db37beaa533</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193308" />
+	</game>
+	<game id="105179">
+		<path>./TOSEC-ISO/Games/[IMG]/Power Pinball (1991)(KarmaSoft)[U4CD0100B].ccd</path>
+		<name>Power Pinball</name>
+		<desc>This CDTV release has 13 pinball tables in addition to the 5 tables contained in the floppy release.</desc>
+		<image>./images/Power Pinball (1991)(KarmaSoft)[U4CD0100B]-image.png</image>
+		<video>./videos/Power Pinball (1991)(KarmaSoft)[U4CD0100B]-video.mp4</video>
+		<marquee>./images/Power Pinball (1991)(KarmaSoft)[U4CD0100B]-marquee.png</marquee>
+		<rating>0</rating>
+		<releasedate>19900101T000000</releasedate>
+		<publisher>KarmaSoft</publisher>
+		<genre>Pinball</genre>
+		<players>1-4</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>ee9000e4db59da49f4582829fd84538b</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193310" />
+	</game>
+	<game id="105179">
+		<path>./TOSEC-ISO/Games/[IMG]/Power Pinball (1991)(KarmaSoft)[U4CD0100B].cue</path>
+		<name>Power Pinball</name>
+		<desc>This CDTV release has 13 pinball tables in addition to the 5 tables contained in the floppy release.</desc>
+		<image>./images/Power Pinball (1991)(KarmaSoft)[U4CD0100B]-image.png</image>
+		<video>./videos/Power Pinball (1991)(KarmaSoft)[U4CD0100B]-video.mp4</video>
+		<marquee>./images/Power Pinball (1991)(KarmaSoft)[U4CD0100B]-marquee.png</marquee>
+		<rating>0</rating>
+		<releasedate>19900101T000000</releasedate>
+		<publisher>KarmaSoft</publisher>
+		<genre>Pinball</genre>
+		<players>1-4</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>51361807fc33cc71f26f2653980a1849</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193313" />
+	</game>
+	<game id="106476">
+		<path>./TOSEC-ISO/Games/[IMG]/Sim City (1991)(Infogrames)(M5).ccd</path>
+		<name>Simcity</name>
+		<desc>SimCity, later renamed SimCity Classic, is a city-building simulation video game, first released on February 2, 1989, and designed by Will Wright for the Macintosh computer. SimCity was Maxis's second product, which has since been ported into various personal computers and game consoles, and spawned several sequels including SimCity 2000 in 1993, SimCity 3000 in 1999, SimCity 4 in 2003, SimCity DS, SimCity Societies in 2007, and SimCity in 2013. Until the release of The Sims in 2000, the SimCity series was the best-selling line of computer games made by Maxis. SimCity spawned a series of Sim games.</desc>
+		<image>./images/Sim City (1991)(Infogrames)(M5)-image.png</image>
+		<video>./videos/Sim City (1991)(Infogrames)(M5)-video.mp4</video>
+		<marquee>./images/Sim City (1991)(Infogrames)(M5)-marquee.png</marquee>
+		<thumbnail>./images/Sim City (1991)(Infogrames)(M5)-thumb.png</thumbnail>
+		<fanart>./images/Sim City (1991)(Infogrames)(M5)-fanart.jpg</fanart>
+		<boxback>./images/Sim City (1991)(Infogrames)(M5)-boxback.png</boxback>
+		<rating>0.8</rating>
+		<developer>Maxis Software</developer>
+		<publisher>Maxis Software</publisher>
+		<genre>Simulation / Build And Management</genre>
+		<family>SimCity</family>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>2ec2040f9766a0fe4d2f2d5428b59ae9</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193318" />
+	</game>
+	<game id="106476">
+		<path>./TOSEC-ISO/Games/[IMG]/Sim City (1991)(Infogrames)(M5).cue</path>
+		<name>Simcity</name>
+		<desc>SimCity, later renamed SimCity Classic, is a city-building simulation video game, first released on February 2, 1989, and designed by Will Wright for the Macintosh computer. SimCity was Maxis's second product, which has since been ported into various personal computers and game consoles, and spawned several sequels including SimCity 2000 in 1993, SimCity 3000 in 1999, SimCity 4 in 2003, SimCity DS, SimCity Societies in 2007, and SimCity in 2013. Until the release of The Sims in 2000, the SimCity series was the best-selling line of computer games made by Maxis. SimCity spawned a series of Sim games.</desc>
+		<image>./images/Sim City (1991)(Infogrames)(M5)-image.png</image>
+		<video>./videos/Sim City (1991)(Infogrames)(M5)-video.mp4</video>
+		<marquee>./images/Sim City (1991)(Infogrames)(M5)-marquee.png</marquee>
+		<thumbnail>./images/Sim City (1991)(Infogrames)(M5)-thumb.png</thumbnail>
+		<fanart>./images/Sim City (1991)(Infogrames)(M5)-fanart.jpg</fanart>
+		<boxback>./images/Sim City (1991)(Infogrames)(M5)-boxback.png</boxback>
+		<rating>0.8</rating>
+		<developer>Maxis Software</developer>
+		<publisher>Maxis Software</publisher>
+		<genre>Simulation / Build And Management</genre>
+		<family>SimCity</family>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>7182457c3f5f2109642b0cc25fa52d5b</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193320" />
+	</game>
+	<game id="34461">
+		<path>./TOSEC-ISO/Games/[IMG]/Tie Break (1991)(Starbyte).ccd</path>
+		<name>adidas Championship Tie-Break</name>
+		<desc>This tennis simulation uses a top-down scrolling perspective. You are not in control of the player's motion, but once he gets close to the ball, shot selection is down to you. Standard shots plus topspin, lobs and stop volleys are available, by pushing the joystick in the right direction as you aim the shot.
+
+The game supports up to 16 players in singles matches on a variety of court surfaces.  It includes all of the major world tournaments - the four Grand Slam events at Melbourne, Roland Garros, Wimbledon and New York, plus the Davis Cup and Masters events.  An early attempt at TV-style coverage is offered.</desc>
+		<image>./images/Tie Break (1991)(Starbyte)-image.png</image>
+		<video>./videos/Tie Break (1991)(Starbyte)-video.mp4</video>
+		<marquee>./images/Tie Break (1991)(Starbyte)-marquee.png</marquee>
+		<manual>./manuals/Tie Break (1991)(Starbyte)-manual.pdf</manual>
+		<rating>0</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Starbyte</developer>
+		<publisher>Starbyte</publisher>
+		<genre>Sports</genre>
+		<players>8+</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>1b8fd6e28a9d7144c7ce7545345c8b2a</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193322" />
+	</game>
+	<game id="34461">
+		<path>./TOSEC-ISO/Games/[IMG]/Tie Break (1991)(Starbyte).cue</path>
+		<name>adidas Championship Tie-Break</name>
+		<desc>This tennis simulation uses a top-down scrolling perspective. You are not in control of the player's motion, but once he gets close to the ball, shot selection is down to you. Standard shots plus topspin, lobs and stop volleys are available, by pushing the joystick in the right direction as you aim the shot.
+
+The game supports up to 16 players in singles matches on a variety of court surfaces.  It includes all of the major world tournaments - the four Grand Slam events at Melbourne, Roland Garros, Wimbledon and New York, plus the Davis Cup and Masters events.  An early attempt at TV-style coverage is offered.</desc>
+		<image>./images/Tie Break (1991)(Starbyte)-image.png</image>
+		<video>./videos/Tie Break (1991)(Starbyte)-video.mp4</video>
+		<marquee>./images/Tie Break (1991)(Starbyte)-marquee.png</marquee>
+		<manual>./manuals/Tie Break (1991)(Starbyte)-manual.pdf</manual>
+		<rating>0</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Starbyte</developer>
+		<publisher>Starbyte</publisher>
+		<genre>Sports</genre>
+		<players>8+</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>ea925d53beec7982d3d251e8345932f5</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193324" />
+	</game>
+	<game id="158401">
+		<path>./TOSEC-ISO/Games/[IMG]/Town With No Name (1992)(On-line)(M6)[CDTV-Towns].ccd</path>
+		<name>Town With No Name</name>
+		<image>./images/Town With No Name (1992)(On-line)(M6)[CDTV-Towns]-image.png</image>
+		<marquee>./images/Town With No Name (1992)(On-line)(M6)[CDTV-Towns]-marquee.png</marquee>
+		<rating>0</rating>
+		<developer>Delta 4</developer>
+		<publisher>On-Line Entertainment</publisher>
+		<genre>Adventure / Point and Click</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>7afb3620aac2e9e1902d074311056a9e</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193327" />
+	</game>
+	<game id="158401">
+		<path>./TOSEC-ISO/Games/[IMG]/Town With No Name (1992)(On-line)(M6)[CDTV-Towns].cue</path>
+		<name>Town With No Name</name>
+		<image>./images/Town With No Name (1992)(On-line)(M6)[CDTV-Towns]-image.png</image>
+		<marquee>./images/Town With No Name (1992)(On-line)(M6)[CDTV-Towns]-marquee.png</marquee>
+		<rating>0</rating>
+		<developer>Delta 4</developer>
+		<publisher>On-Line Entertainment</publisher>
+		<genre>Adventure / Point and Click</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>1cc931721e1522a1dc9030f062ca238a</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193330" />
+	</game>
+	<game id="106277">
+		<path>./TOSEC-ISO/Games/[IMG]/Turrican (1991)(Rainbow Arts)[F-7897].ccd</path>
+		<name>Turrican</name>
+		<desc>Three-headed demon Morgul has been influencing people's dreams to create nightmares, but more recently these nightmares have become real. Only Turrican can save them in this fast paced side scrolling shoot-em up. It features 5 worlds and 13 levels of challenging gameplay.
+
+Gameplay is conceptually simple: just jump, shoot and explore. However, this game puts a lot of emphasis on finding and using the 10 different weapons Turrican can collect.</desc>
+		<image>./images/Turrican (1991)(Rainbow Arts)[F-7897]-image.png</image>
+		<video>./videos/Turrican (1991)(Rainbow Arts)[F-7897]-video.mp4</video>
+		<marquee>./images/Turrican (1991)(Rainbow Arts)[F-7897]-marquee.png</marquee>
+		<thumbnail>./images/Turrican (1991)(Rainbow Arts)[F-7897]-thumb.png</thumbnail>
+		<manual>./manuals/Turrican (1991)(Rainbow Arts)[F-7897]-manual.pdf</manual>
+		<boxback>./images/Turrican (1991)(Rainbow Arts)[F-7897]-boxback.png</boxback>
+		<rating>0.7</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Rainbow Arts</developer>
+		<publisher>Rainbow Arts</publisher>
+		<genre>Platform / Shooter Scrolling</genre>
+		<family>Turrican</family>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>1b133a2b525a1439078cfbca7be7aa25</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193332" />
+	</game>
+	<game id="106277">
+		<path>./TOSEC-ISO/Games/[IMG]/Turrican (1991)(Rainbow Arts)[F-7897].cue</path>
+		<name>Turrican</name>
+		<desc>Three-headed demon Morgul has been influencing people's dreams to create nightmares, but more recently these nightmares have become real. Only Turrican can save them in this fast paced side scrolling shoot-em up. It features 5 worlds and 13 levels of challenging gameplay.
+
+Gameplay is conceptually simple: just jump, shoot and explore. However, this game puts a lot of emphasis on finding and using the 10 different weapons Turrican can collect.</desc>
+		<image>./images/Turrican (1991)(Rainbow Arts)[F-7897]-image.png</image>
+		<video>./videos/Turrican (1991)(Rainbow Arts)[F-7897]-video.mp4</video>
+		<marquee>./images/Turrican (1991)(Rainbow Arts)[F-7897]-marquee.png</marquee>
+		<thumbnail>./images/Turrican (1991)(Rainbow Arts)[F-7897]-thumb.png</thumbnail>
+		<manual>./manuals/Turrican (1991)(Rainbow Arts)[F-7897]-manual.pdf</manual>
+		<boxback>./images/Turrican (1991)(Rainbow Arts)[F-7897]-boxback.png</boxback>
+		<rating>0.7</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Rainbow Arts</developer>
+		<publisher>Rainbow Arts</publisher>
+		<genre>Platform / Shooter Scrolling</genre>
+		<family>Turrican</family>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>1683bee3cf7094c52bf8ad1e9e3e60b7</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193334" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[IMG]/Turrican II (1991)(Rainbow Arts)[F-8339].ccd</path>
+		<name>Turrican II (1991)(Rainbow Arts)[F-8339]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>1b133a2b525a1439078cfbca7be7aa25</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193336" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[IMG]/Turrican II (1991)(Rainbow Arts)[F-8339].cue</path>
+		<name>Turrican II (1991)(Rainbow Arts)[F-8339]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>0a0f1186976dc321b028ab9ac341f7c2</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193338" />
+	</game>
+	<game id="106475">
+		<path>./TOSEC-ISO/Games/[IMG]/Wrath of the Demon (1990)(ReadySoft)[U26Y0100B].ccd</path>
+		<name>Wrath Of The Demon</name>
+		<desc>Wrath of the Demon is a game developed by a Quebec based company called Abstrax
+The adventurer begins the game on horseback, jumping over obstacles, beating flying creatures, and collecting potions on the ground. The hero must also proceed on foot through side-scrolling platforming levels, destroying creatures with his blade as well as collecting potions and additional weapons he will find on his quest.
+Gameplay style is Hack N Slash</desc>
+		<image>./images/Wrath of the Demon (1990)(ReadySoft)[U26Y0100B]-image.png</image>
+		<video>./videos/Wrath of the Demon (1990)(ReadySoft)[U26Y0100B]-video.mp4</video>
+		<marquee>./images/Wrath of the Demon (1990)(ReadySoft)[U26Y0100B]-marquee.png</marquee>
+		<thumbnail>./images/Wrath of the Demon (1990)(ReadySoft)[U26Y0100B]-thumb.png</thumbnail>
+		<manual>./manuals/Wrath of the Demon (1990)(ReadySoft)[U26Y0100B]-manual.pdf</manual>
+		<boxback>./images/Wrath of the Demon (1990)(ReadySoft)[U26Y0100B]-boxback.png</boxback>
+		<rating>0.5</rating>
+		<developer>Abstrax</developer>
+		<publisher>ReadySoft</publisher>
+		<genre>Fight</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>fbd9c4ca19c0764c3c6b1b0e6d7ddf77</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193341" />
+	</game>
+	<game id="106475">
+		<path>./TOSEC-ISO/Games/[IMG]/Wrath of the Demon (1990)(ReadySoft)[U26Y0100B].cue</path>
+		<name>Wrath Of The Demon</name>
+		<desc>Wrath of the Demon is a game developed by a Quebec based company called Abstrax
+The adventurer begins the game on horseback, jumping over obstacles, beating flying creatures, and collecting potions on the ground. The hero must also proceed on foot through side-scrolling platforming levels, destroying creatures with his blade as well as collecting potions and additional weapons he will find on his quest.
+Gameplay style is Hack N Slash</desc>
+		<image>./images/Wrath of the Demon (1990)(ReadySoft)[U26Y0100B]-image.png</image>
+		<video>./videos/Wrath of the Demon (1990)(ReadySoft)[U26Y0100B]-video.mp4</video>
+		<marquee>./images/Wrath of the Demon (1990)(ReadySoft)[U26Y0100B]-marquee.png</marquee>
+		<thumbnail>./images/Wrath of the Demon (1990)(ReadySoft)[U26Y0100B]-thumb.png</thumbnail>
+		<manual>./manuals/Wrath of the Demon (1990)(ReadySoft)[U26Y0100B]-manual.pdf</manual>
+		<boxback>./images/Wrath of the Demon (1990)(ReadySoft)[U26Y0100B]-boxback.png</boxback>
+		<rating>0.5</rating>
+		<developer>Abstrax</developer>
+		<publisher>ReadySoft</publisher>
+		<genre>Fight</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>bb85c1b0309d448835c2ed5d2a1f6967</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193343" />
+	</game>
+	<game id="39049">
+		<path>./TOSEC-ISO/Games/[ISO]/Battlestorm (1991)(Titus)[!].cue</path>
+		<name>Battlestorm</name>
+		<desc>A top-down space shooter that was different from most others at the time in that it did not just scroll continuously in one direction, but could scroll at different speeds in all possible directions on the X and Y axis, on the player's whim.
+
+The game takes place above the surface of a ruined, devastated planet: each level starts within a large area, in which your ship has free movement. Avoiding surface hazards, such as auto-aiming turrets, the goal is to destroy enemy spacecraft that hover around the large area in groups. Each wave of attacks is followed by a bomb-dropping mothership, which you must hurry up and destroy before it moves off the playfield, in order to proceed to the next wave; the last mothership gives way to the boss - a gigantic spacecraft that will chase you around the playfield. Beaten it? you are transported to a short section of standard shooter fare, where the screen auto-scrolls vertically, at the end of which you face a final monstrosity. This ends the level - on to the next one.
+
+Absorbing enemy fire will deplete your power, while collecting power-ups and destroying turrets can bring it back up somewhat. At 0% power, the game is over - although you may get an option to continue, based on how far you got.</desc>
+		<image>./images/TOSEC-ISO/Games/[ISO]/Battlestorm (1991)(Titus)[!]-image.png</image>
+		<video>./videos/Battlestorm (1991)(Titus)[!]-video.mp4</video>
+		<marquee>./images/TOSEC-ISO/Games/[ISO]/Battlestorm (1991)(Titus)[!]-marquee.png</marquee>
+		<thumbnail>./images/TOSEC-ISO/Games/[ISO]/Battlestorm (1991)(Titus)[!]-thumb.png</thumbnail>
+		<manual>./manuals/Battlestorm (1991)(Titus)[!]-manual.pdf</manual>
+		<boxback>./images/Battlestorm (1991)(Titus)[!]-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Titus</developer>
+		<publisher>Titus</publisher>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>e84bb77545459f9a2167952199e3d40a</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193345" />
+	</game>
+	<game id="39049">
+		<path>./TOSEC-ISO/Games/[ISO]/Battlestorm (1991)(Titus)[Track 01 of 15][!].iso</path>
+		<name>Battlestorm</name>
+		<desc>A top-down space shooter that was different from most others at the time in that it did not just scroll continuously in one direction, but could scroll at different speeds in all possible directions on the X and Y axis, on the player's whim.
+
+The game takes place above the surface of a ruined, devastated planet: each level starts within a large area, in which your ship has free movement. Avoiding surface hazards, such as auto-aiming turrets, the goal is to destroy enemy spacecraft that hover around the large area in groups. Each wave of attacks is followed by a bomb-dropping mothership, which you must hurry up and destroy before it moves off the playfield, in order to proceed to the next wave; the last mothership gives way to the boss - a gigantic spacecraft that will chase you around the playfield. Beaten it? you are transported to a short section of standard shooter fare, where the screen auto-scrolls vertically, at the end of which you face a final monstrosity. This ends the level - on to the next one.
+
+Absorbing enemy fire will deplete your power, while collecting power-ups and destroying turrets can bring it back up somewhat. At 0% power, the game is over - although you may get an option to continue, based on how far you got.</desc>
+		<image>./images/Battlestorm (1991)(Titus)[Track 01 of 15][!]-image.png</image>
+		<video>./videos/Battlestorm (1991)(Titus)[Track 01 of 15][!]-video.mp4</video>
+		<marquee>./images/Battlestorm (1991)(Titus)[Track 01 of 15][!]-marquee.png</marquee>
+		<thumbnail>./images/Battlestorm (1991)(Titus)[Track 01 of 15][!]-thumb.png</thumbnail>
+		<manual>./manuals/Battlestorm (1991)(Titus)[Track 01 of 15][!]-manual.pdf</manual>
+		<boxback>./images/Battlestorm (1991)(Titus)[Track 01 of 15][!]-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Titus</developer>
+		<publisher>Titus</publisher>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>b79704cbc977be16ab637aa9c5da4706</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193347" />
+	</game>
+	<game id="213439">
+		<path>./TOSEC-ISO/Games/[ISO]/Case of the Cautious Condor, The (1990)(Tiger Media)[!].cue</path>
+		<name>The Case of the Cautious Condor</name>
+		<image>./images/TOSEC-ISO/Games/[ISO]/Case of the Cautious Condor, The (1990)(Tiger Media)[!]-image.png</image>
+		<video>./videos/Case of the Cautious Condor, The (1990)(Tiger Media)[!]-video.mp4</video>
+		<marquee>./images/TOSEC-ISO/Games/[ISO]/Case of the Cautious Condor, The (1990)(Tiger Media)[!]-marquee.png</marquee>
+		<thumbnail>./images/TOSEC-ISO/Games/[ISO]/Case of the Cautious Condor, The (1990)(Tiger Media)[!]-thumb.jpg</thumbnail>
+		<manual>./manuals/Case of the Cautious Condor, The (1990)(Tiger Media)[!]-manual.pdf</manual>
+		<boxback>./images/Case of the Cautious Condor, The (1990)(Tiger Media)[!]-boxback.png</boxback>
+		<rating>0</rating>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>218476a1dcc35cb46a2f2e66987220e4</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193350" />
+	</game>
+	<game id="213439">
+		<path>./TOSEC-ISO/Games/[ISO]/Case of the Cautious Condor, The (1990)(Tiger Media)[!].iso</path>
+		<name>The Case of the Cautious Condor</name>
+		<image>./images/Case of the Cautious Condor, The (1990)(Tiger Media)[!]-image.png</image>
+		<video>./videos/Case of the Cautious Condor, The (1990)(Tiger Media)[!]-video.mp4</video>
+		<marquee>./images/Case of the Cautious Condor, The (1990)(Tiger Media)[!]-marquee.png</marquee>
+		<thumbnail>./images/Case of the Cautious Condor, The (1990)(Tiger Media)[!]-thumb.png</thumbnail>
+		<manual>./manuals/Case of the Cautious Condor, The (1990)(Tiger Media)[!]-manual.pdf</manual>
+		<boxback>./images/Case of the Cautious Condor, The (1990)(Tiger Media)[!]-boxback.png</boxback>
+		<rating>0</rating>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>57cbf11375e26e7cce7c98f79a27240e</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193352" />
+	</game>
+	<game id="103252">
+		<path>./TOSEC-ISO/Games/[ISO]/Chaos in Andromeda - Eyes of the Eagle (1992)(On-line)[!][1122-094-0321].cue</path>
+		<name>Chaos in Andromeda - Eyes of the Eagle</name>
+		<desc>Chaos in Andromeda: Eyes of the Eagle is set in the 22. century. The player has an important mission, named "Eyes of the Eagle", to accomplish: Visit the planet Andromeda in order to free a kidnapped scientist. Needless to say, the fate of the galaxy depends on it.
+
+The most important part is exploring the map from a top-down perspective. Interactions with the world or in-game menus are conducted by using one of the symbols which are placed on the border around the playing screen, e.g. talking to other characters which may provide clues. Unfortunately there are also enemies roaming on the planet which, because movement happens in real-time, may be avoided or fought on a separate battle screen - later in the game helpful android can be used during combat. The player character can divide points on character statistics like strength or wisdom.</desc>
+		<image>./images/TOSEC-ISO/Games/[ISO]/Chaos in Andromeda - Eyes of the Eagle (1992)(On-line)[!][1122-094-0321]-image.png</image>
+		<video>./videos/Chaos in Andromeda - Eyes of the Eagle (1992)(On-line)[!][1122-094-0321]-video.mp4</video>
+		<marquee>./images/TOSEC-ISO/Games/[ISO]/Chaos in Andromeda - Eyes of the Eagle (1992)(On-line)[!][1122-094-0321]-marquee.png</marquee>
+		<thumbnail>./images/TOSEC-ISO/Games/[ISO]/Chaos in Andromeda - Eyes of the Eagle (1992)(On-line)[!][1122-094-0321]-thumb.png</thumbnail>
+		<boxback>./images/Chaos in Andromeda - Eyes of the Eagle (1992)(On-line)[!][1122-094-0321]-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Kirk Moreno MultiMedia</developer>
+		<publisher>On-Line Entertainment Ltd.</publisher>
+		<genre>Role playing games</genre>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>d9d69f7253427a37c84f9c96b5398700</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193354" />
+	</game>
+	<game id="103252">
+		<path>./TOSEC-ISO/Games/[ISO]/Chaos in Andromeda - Eyes of the Eagle (1992)(On-line)[Track 1 of 9][!][1122-094-0321].iso</path>
+		<name>Chaos in Andromeda - Eyes of the Eagle</name>
+		<desc>Chaos in Andromeda: Eyes of the Eagle is set in the 22. century. The player has an important mission, named "Eyes of the Eagle", to accomplish: Visit the planet Andromeda in order to free a kidnapped scientist. Needless to say, the fate of the galaxy depends on it.
+
+The most important part is exploring the map from a top-down perspective. Interactions with the world or in-game menus are conducted by using one of the symbols which are placed on the border around the playing screen, e.g. talking to other characters which may provide clues. Unfortunately there are also enemies roaming on the planet which, because movement happens in real-time, may be avoided or fought on a separate battle screen - later in the game helpful android can be used during combat. The player character can divide points on character statistics like strength or wisdom.</desc>
+		<image>./images/Chaos in Andromeda - Eyes of the Eagle (1992)(On-line)[Track 1 of 9][!][1122-094-0321]-image.png</image>
+		<video>./videos/Chaos in Andromeda - Eyes of the Eagle (1992)(On-line)[Track 1 of 9][!][1122-094-0321]-video.mp4</video>
+		<marquee>./images/Chaos in Andromeda - Eyes of the Eagle (1992)(On-line)[Track 1 of 9][!][1122-094-0321]-marquee.png</marquee>
+		<thumbnail>./images/Chaos in Andromeda - Eyes of the Eagle (1992)(On-line)[Track 1 of 9][!][1122-094-0321]-thumb.png</thumbnail>
+		<boxback>./images/Chaos in Andromeda - Eyes of the Eagle (1992)(On-line)[Track 1 of 9][!][1122-094-0321]-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Kirk Moreno MultiMedia</developer>
+		<publisher>On-Line Entertainment Ltd.</publisher>
+		<genre>Role playing games</genre>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>5b2244d70094c7789b3fc06cb3860f1f</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193356" />
+	</game>
+	<game id="106273">
+		<path>./TOSEC-ISO/Games/[ISO]/Curse of RA, The (1992)(Rainbow Arts)[!].cue</path>
+		<name>The Curse Of Ra</name>
+		<desc>The Curse of Ra is a Puzzle game, developed by Cybestyle and published by Rainbow Arts, which was released in Europe in 1990.
+
+Player (Scarab) has to escape a pyramid by solving the riddles. The player needs to remove all stones on a board by finding a counterpart. Only two stones with the same symbol can be removed at a time and they have to be on a straight line, horizontally or vertically. The game starts with Scarab on an ankh and that item has to be returned upon completion. Moving a stone is done by sitting on one and moving it towards the counterpart. Not all stones can be moved however and there are teleporters, obstructions and diversions to make it more difficult. There are also traps and for instance ice that forces Scarab to move in a single direction. When the stones are aligned, pressing fire matches them and they disappear.
+
+The game can be played in a Logic or in an Arcade mode. Logic mode offers 100 levels with no time limit. Special stones can make the playerâ€™s life easier or harder. In Arcade mode the player has to complete a level within a certain amount of time. Special coins can be used to buy extras after each level, such as ability to fly for 30 seconds, more time, extra lives and others. Levels are generated at random. The Arcade mode has a high score table. Demo mode shows the usage of all the different stones found in the game. This is a sort of non-playable tutorial. The game also provides a level editor.</desc>
+		<image>./images/TOSEC-ISO/Games/[ISO]/Curse of RA, The (1992)(Rainbow Arts)[!]-image.png</image>
+		<video>./videos/Curse of RA, The (1992)(Rainbow Arts)[!]-video.mp4</video>
+		<marquee>./images/TOSEC-ISO/Games/[ISO]/Curse of RA, The (1992)(Rainbow Arts)[!]-marquee.png</marquee>
+		<thumbnail>./images/TOSEC-ISO/Games/[ISO]/Curse of RA, The (1992)(Rainbow Arts)[!]-thumb.jpg</thumbnail>
+		<manual>./manuals/Curse of RA, The (1992)(Rainbow Arts)[!]-manual.pdf</manual>
+		<boxback>./images/Curse of RA, The (1992)(Rainbow Arts)[!]-boxback.png</boxback>
+		<rating>0</rating>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>51e27e094c322ae2b6bd9432b6a5f812</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193358" />
+	</game>
+	<game id="106273">
+		<path>./TOSEC-ISO/Games/[ISO]/Curse of RA, The (1992)(Rainbow Arts)[!].iso</path>
+		<name>The Curse Of Ra</name>
+		<desc>The Curse of Ra is a Puzzle game, developed by Cybestyle and published by Rainbow Arts, which was released in Europe in 1990.
+
+Player (Scarab) has to escape a pyramid by solving the riddles. The player needs to remove all stones on a board by finding a counterpart. Only two stones with the same symbol can be removed at a time and they have to be on a straight line, horizontally or vertically. The game starts with Scarab on an ankh and that item has to be returned upon completion. Moving a stone is done by sitting on one and moving it towards the counterpart. Not all stones can be moved however and there are teleporters, obstructions and diversions to make it more difficult. There are also traps and for instance ice that forces Scarab to move in a single direction. When the stones are aligned, pressing fire matches them and they disappear.
+
+The game can be played in a Logic or in an Arcade mode. Logic mode offers 100 levels with no time limit. Special stones can make the playerâ€™s life easier or harder. In Arcade mode the player has to complete a level within a certain amount of time. Special coins can be used to buy extras after each level, such as ability to fly for 30 seconds, more time, extra lives and others. Levels are generated at random. The Arcade mode has a high score table. Demo mode shows the usage of all the different stones found in the game. This is a sort of non-playable tutorial. The game also provides a level editor.</desc>
+		<image>./images/Curse of RA, The (1992)(Rainbow Arts)[!]-image.png</image>
+		<video>./videos/Curse of RA, The (1992)(Rainbow Arts)[!]-video.mp4</video>
+		<marquee>./images/Curse of RA, The (1992)(Rainbow Arts)[!]-marquee.png</marquee>
+		<thumbnail>./images/Curse of RA, The (1992)(Rainbow Arts)[!]-thumb.png</thumbnail>
+		<manual>./manuals/Curse of RA, The (1992)(Rainbow Arts)[!]-manual.pdf</manual>
+		<boxback>./images/Curse of RA, The (1992)(Rainbow Arts)[!]-boxback.png</boxback>
+		<rating>0</rating>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>e72a94b8051259736180ce7f4d1b159a</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193400" />
+	</game>
+	<game id="106254">
+		<path>./TOSEC-ISO/Games/[ISO]/Defender of the Crown (1991)(CDTV Publishing)[!].cue</path>
+		<name>Defender Of The Crown</name>
+		<desc>Defender of the Crown puts the player in the role of one of four Saxon knights in medieval England, in a time where the land is in turmoil as the King is dead and his crown was stolen. The Saxons and the Normans blame each other and fight for control of England.
+
+After a short introduction by Robin of Locksley himself, the game starts with a single castle and 10 soldiers at your command. From there, you have to build your army, take control of additional territories and fight and defeat the three Norman lords - and sometimes your Saxon friends as well.
+
+In addition to the basic ' build your army and conquer your opponents' the game offers several events and options that can be used to fine tune your play style: You may engage in a jousting contest where you have to knock your opponent off his horse, gaining either fame or land, or you can go raid a castle for loot or the hand of a princess, joining your houses and territories.</desc>
+		<image>./images/TOSEC-ISO/Games/[ISO]/Defender of the Crown (1991)(CDTV Publishing)[!]-image.png</image>
+		<video>./videos/Defender of the Crown (1991)(CDTV Publishing)[!]-video.mp4</video>
+		<marquee>./images/TOSEC-ISO/Games/[ISO]/Defender of the Crown (1991)(CDTV Publishing)[!]-marquee.png</marquee>
+		<thumbnail>./images/TOSEC-ISO/Games/[ISO]/Defender of the Crown (1991)(CDTV Publishing)[!]-thumb.png</thumbnail>
+		<manual>./manuals/Defender of the Crown (1991)(CDTV Publishing)[!]-manual.pdf</manual>
+		<boxback>./images/Defender of the Crown (1991)(CDTV Publishing)[!]-boxback.png</boxback>
+		<rating>0.8</rating>
+		<developer>Master Designer Software, Inc.</developer>
+		<publisher>Cinemaware</publisher>
+		<genre>Adventure</genre>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>9f39fad83ed00ccb614561de66cb7cf2</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193403" />
+	</game>
+	<game id="106254">
+		<path>./TOSEC-ISO/Games/[ISO]/Defender of the Crown (1991)(CDTV Publishing)[Track 1 of 2][!].iso</path>
+		<name>Defender Of The Crown</name>
+		<desc>Defender of the Crown puts the player in the role of one of four Saxon knights in medieval England, in a time where the land is in turmoil as the King is dead and his crown was stolen. The Saxons and the Normans blame each other and fight for control of England.
+
+After a short introduction by Robin of Locksley himself, the game starts with a single castle and 10 soldiers at your command. From there, you have to build your army, take control of additional territories and fight and defeat the three Norman lords - and sometimes your Saxon friends as well.
+
+In addition to the basic ' build your army and conquer your opponents' the game offers several events and options that can be used to fine tune your play style: You may engage in a jousting contest where you have to knock your opponent off his horse, gaining either fame or land, or you can go raid a castle for loot or the hand of a princess, joining your houses and territories.</desc>
+		<image>./images/Defender of the Crown (1991)(CDTV Publishing)[Track 1 of 2][!]-image.png</image>
+		<video>./videos/Defender of the Crown (1991)(CDTV Publishing)[Track 1 of 2][!]-video.mp4</video>
+		<marquee>./images/Defender of the Crown (1991)(CDTV Publishing)[Track 1 of 2][!]-marquee.png</marquee>
+		<thumbnail>./images/Defender of the Crown (1991)(CDTV Publishing)[Track 1 of 2][!]-thumb.png</thumbnail>
+		<manual>./manuals/Defender of the Crown (1991)(CDTV Publishing)[Track 1 of 2][!]-manual.pdf</manual>
+		<boxback>./images/Defender of the Crown (1991)(CDTV Publishing)[Track 1 of 2][!]-boxback.png</boxback>
+		<rating>0.8</rating>
+		<developer>Master Designer Software, Inc.</developer>
+		<publisher>Cinemaware</publisher>
+		<genre>Adventure</genre>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>e29b9555472cec6aac10ba07d9207893</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193405" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/E.S.S Mega (1991)(Coktel)[CDTV ESS MEGA MPO 02].cue</path>
+		<name>E.S.S. Mega</name>
+		<desc>E.S.S Mega (European Space Simulator Mega) is a space simulation game published by Tomahawk and developed by Coktel Vision. Contrary to most simulations based around NASA's projects, E.S.S. Mega recreates ESA's space vehicle concepts of the early 1990, specially the Hermes Shuttle. The game was released for MS-DOS and Atari ST in 1991, and Amiga CDTV in 1992.</desc>
+		<image>./images/TOSEC-ISO/Games/[ISO]/E.S.S Mega (1991)(Coktel)[CDTV ESS MEGA MPO 02]-image.png</image>
+		<marquee>./images/TOSEC-ISO/Games/[ISO]/E.S.S Mega (1991)(Coktel)[CDTV ESS MEGA MPO 02]-marquee.png</marquee>
+		<thumbnail>./images/TOSEC-ISO/Games/[ISO]/E.S.S Mega (1991)(Coktel)[CDTV ESS MEGA MPO 02]-thumb.png</thumbnail>
+		<rating>0</rating>
+		<releasedate>19920101T000000</releasedate>
+		<genre>Construction and Management Simulation</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>469222000cdfd873ed62a3ad51a8fe5c</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193407" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/E.S.S Mega (1991)(Coktel)[Track 01 of 02][CDTV ESS MEGA MPO 02].iso</path>
+		<name>E.S.S Mega (1991)(Coktel)[Track 01 of 02][CDTV ESS MEGA MPO 02]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<scrap name="ScreenScraper" date="20230222T193409" />
+	</game>
+	<game id="106257">
+		<path>./TOSEC-ISO/Games/[ISO]/Fantastic Voyage (1992)(Centaur).cue</path>
+		<name>Fantastic Voyage</name>
+		<desc>Fantastic Voyage is a side-scrolling shooter based on the 1966 movie of the same name. The scientist Jan Benes is near death because of a clot of blood in his brain. A submarine, controlled by the player, is shrunk and needs to reach the brain through three levels. The enemies, which lower the energy bar when touched, are the human defense systems like antibody cells.
+
+Besides shooting enemies, there are also various passages in which the player needs to guide the submarine through narrow corridors without touching the environment. On the way the player needs to collect nine circuit boards required to destroy the blood cot; those may be hidden in dead ends or alternate ways. This means the player can move back and forth to try other routes at forks. It is important to pick up oxygen and fuel canisters in order to keep the submarine functional. Shield energy can be refilled by killing three enemies without missing a shot.</desc>
+		<image>./images/TOSEC-ISO/Games/[ISO]/Fantastic Voyage (1992)(Centaur)-image.png</image>
+		<video>./videos/Fantastic Voyage (1992)(Centaur)-video.mp4</video>
+		<marquee>./images/TOSEC-ISO/Games/[ISO]/Fantastic Voyage (1992)(Centaur)-marquee.png</marquee>
+		<thumbnail>./images/TOSEC-ISO/Games/[ISO]/Fantastic Voyage (1992)(Centaur)-thumb.jpg</thumbnail>
+		<manual>./manuals/Fantastic Voyage (1992)(Centaur)-manual.pdf</manual>
+		<boxback>./images/Fantastic Voyage (1992)(Centaur)-boxback.png</boxback>
+		<rating>0</rating>
+		<genre>Shooter / Plane</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>bd210c331c96fad8de8bfdec2c874820</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193411" />
+	</game>
+	<game id="106257">
+		<path>./TOSEC-ISO/Games/[ISO]/Fantastic Voyage (1992)(Centaur).iso</path>
+		<name>Fantastic Voyage</name>
+		<desc>Fantastic Voyage is a side-scrolling shooter based on the 1966 movie of the same name. The scientist Jan Benes is near death because of a clot of blood in his brain. A submarine, controlled by the player, is shrunk and needs to reach the brain through three levels. The enemies, which lower the energy bar when touched, are the human defense systems like antibody cells.
+
+Besides shooting enemies, there are also various passages in which the player needs to guide the submarine through narrow corridors without touching the environment. On the way the player needs to collect nine circuit boards required to destroy the blood cot; those may be hidden in dead ends or alternate ways. This means the player can move back and forth to try other routes at forks. It is important to pick up oxygen and fuel canisters in order to keep the submarine functional. Shield energy can be refilled by killing three enemies without missing a shot.</desc>
+		<image>./images/Fantastic Voyage (1992)(Centaur)-image.png</image>
+		<video>./videos/Fantastic Voyage (1992)(Centaur)-video.mp4</video>
+		<marquee>./images/Fantastic Voyage (1992)(Centaur)-marquee.png</marquee>
+		<thumbnail>./images/Fantastic Voyage (1992)(Centaur)-thumb.png</thumbnail>
+		<manual>./manuals/Fantastic Voyage (1992)(Centaur)-manual.pdf</manual>
+		<boxback>./images/Fantastic Voyage (1992)(Centaur)-boxback.png</boxback>
+		<rating>0</rating>
+		<genre>Shooter / Plane</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>0986aa331d76719d3e6a9f594b9d738e</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193414" />
+	</game>
+	<game id="213455">
+		<path>./TOSEC-ISO/Games/[ISO]/Guy Spy and the Crystals of Armageddon v1.0 (1992)(ReadySoft)[!][CDTV-PC].cue</path>
+		<name>Guy Spy and the Crystals of Armageddon</name>
+		<image>./images/Guy Spy and the Crystals of Armageddon v1.0 (1992)(ReadySoft)[!][CDTV-PC]-image.png</image>
+		<video>./videos/Guy Spy and the Crystals of Armageddon v1.0 (1992)(ReadySoft)[!][CDTV-PC]-video.mp4</video>
+		<marquee>./images/Guy Spy and the Crystals of Armageddon v1.0 (1992)(ReadySoft)[!][CDTV-PC]-marquee.png</marquee>
+		<thumbnail>./images/Guy Spy and the Crystals of Armageddon v1.0 (1992)(ReadySoft)[!][CDTV-PC]-thumb.png</thumbnail>
+		<boxback>./images/Guy Spy and the Crystals of Armageddon v1.0 (1992)(ReadySoft)[!][CDTV-PC]-boxback.png</boxback>
+		<rating>0</rating>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>37afd364f950438bc984984901f9b632</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193416" />
+	</game>
+	<game id="213455">
+		<path>./TOSEC-ISO/Games/[ISO]/Guy Spy and the Crystals of Armageddon v1.0 (1992)(ReadySoft)[!][CDTV-PC].iso</path>
+		<name>Guy Spy and the Crystals of Armageddon</name>
+		<image>./images/Guy Spy and the Crystals of Armageddon v1.0 (1992)(ReadySoft)[!][CDTV-PC]-image.png</image>
+		<video>./videos/Guy Spy and the Crystals of Armageddon v1.0 (1992)(ReadySoft)[!][CDTV-PC]-video.mp4</video>
+		<marquee>./images/Guy Spy and the Crystals of Armageddon v1.0 (1992)(ReadySoft)[!][CDTV-PC]-marquee.png</marquee>
+		<thumbnail>./images/Guy Spy and the Crystals of Armageddon v1.0 (1992)(ReadySoft)[!][CDTV-PC]-thumb.png</thumbnail>
+		<boxback>./images/Guy Spy and the Crystals of Armageddon v1.0 (1992)(ReadySoft)[!][CDTV-PC]-boxback.png</boxback>
+		<rating>0</rating>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>26fc0470ee0847b2127bb7ef33539809</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193418" />
+	</game>
+	<game id="105397">
+		<path>./TOSEC-ISO/Games/[ISO]/Hound of the Baskervilles, The (1991)(On-line)[!].cue</path>
+		<name>The Hound Of The Baskervilles</name>
+		<image>./images/TOSEC-ISO/Games/[ISO]/Hound of the Baskervilles, The (1991)(On-line)[!]-image.png</image>
+		<marquee>./images/TOSEC-ISO/Games/[ISO]/Hound of the Baskervilles, The (1991)(On-line)[!]-marquee.png</marquee>
+		<thumbnail>./images/TOSEC-ISO/Games/[ISO]/Hound of the Baskervilles, The (1991)(On-line)[!]-thumb.png</thumbnail>
+		<rating>0</rating>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>bb46450dbe49dd11773e6fe5782bef3c</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193421" />
+	</game>
+	<game id="105397">
+		<path>./TOSEC-ISO/Games/[ISO]/Hound of the Baskervilles, The (1991)(On-line)[Track 01 of 65][!].iso</path>
+		<name>The Hound Of The Baskervilles</name>
+		<rating>0</rating>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>dfc2a97a18c741ed74f921a5b1b788d4</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193424" />
+	</game>
+	<game id="106478">
+		<path>./TOSEC-ISO/Games/[ISO]/Lemmings (1994)(Psygnosis)[!].cue</path>
+		<name>Lemmings</name>
+		<desc>Your task is to rescue the Lemmings across 120 levels of fast-paced puzzling. These creatures simply walk blindly through the world in the hope of reaching safety at the end of the level - unfortunately these levels include steep drops, gaps in the ground, barriers and rivers amongst other hazards.</desc>
+		<image>./images/TOSEC-ISO/Games/[ISO]/Lemmings (1994)(Psygnosis)[!]-image.png</image>
+		<video>./videos/Lemmings (1994)(Psygnosis)[!]-video.mp4</video>
+		<marquee>./images/TOSEC-ISO/Games/[ISO]/Lemmings (1994)(Psygnosis)[!]-marquee.png</marquee>
+		<thumbnail>./images/TOSEC-ISO/Games/[ISO]/Lemmings (1994)(Psygnosis)[!]-thumb.jpg</thumbnail>
+		<fanart>./images/Lemmings (1994)(Psygnosis)[!]-fanart.jpg</fanart>
+		<manual>./manuals/Lemmings (1994)(Psygnosis)[!]-manual.pdf</manual>
+		<boxback>./images/Lemmings (1994)(Psygnosis)[!]-boxback.png</boxback>
+		<rating>0.7</rating>
+		<developer>DMA Design</developer>
+		<publisher>Psygnosis</publisher>
+		<genre>Puzzle-Game</genre>
+		<family>Lemmings</family>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>447ca26accdb173e000993309bd65a28</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193426" />
+	</game>
+	<game id="106478">
+		<path>./TOSEC-ISO/Games/[ISO]/Lemmings (1994)(Psygnosis)[!].iso</path>
+		<name>Lemmings</name>
+		<desc>Your task is to rescue the Lemmings across 120 levels of fast-paced puzzling. These creatures simply walk blindly through the world in the hope of reaching safety at the end of the level - unfortunately these levels include steep drops, gaps in the ground, barriers and rivers amongst other hazards.</desc>
+		<image>./images/Lemmings (1994)(Psygnosis)[!]-image.png</image>
+		<video>./videos/Lemmings (1994)(Psygnosis)[!]-video.mp4</video>
+		<marquee>./images/Lemmings (1994)(Psygnosis)[!]-marquee.png</marquee>
+		<thumbnail>./images/Lemmings (1994)(Psygnosis)[!]-thumb.png</thumbnail>
+		<fanart>./images/Lemmings (1994)(Psygnosis)[!]-fanart.jpg</fanart>
+		<manual>./manuals/Lemmings (1994)(Psygnosis)[!]-manual.pdf</manual>
+		<boxback>./images/Lemmings (1994)(Psygnosis)[!]-boxback.png</boxback>
+		<rating>0.7</rating>
+		<developer>DMA Design</developer>
+		<publisher>Psygnosis</publisher>
+		<genre>Puzzle-Game</genre>
+		<family>Lemmings</family>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>3ddb4d6dc9f2a57d3ab4cf7b2b0b8e7b</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193428" />
+	</game>
+	<game id="106264">
+		<path>./TOSEC-ISO/Games/[ISO]/Log!cal (1992)(Rainbow Arts)[!].cue</path>
+		<name>Log!cal</name>
+		<desc>Log!cal is a bizarre puzzle game in which you have to arrange colored balls (green, purple, blue or yellow) to form quartets in any of several locations on the game board. These locations are, in fact, balls you can spin, then send any of the balls in them through the connection path.</desc>
+		<image>./images/TOSEC-ISO/Games/[ISO]/Log!cal (1992)(Rainbow Arts)[!]-image.png</image>
+		<video>./videos/Log!cal (1992)(Rainbow Arts)[!]-video.mp4</video>
+		<marquee>./images/TOSEC-ISO/Games/[ISO]/Log!cal (1992)(Rainbow Arts)[!]-marquee.png</marquee>
+		<thumbnail>./images/TOSEC-ISO/Games/[ISO]/Log!cal (1992)(Rainbow Arts)[!]-thumb.jpg</thumbnail>
+		<manual>./manuals/Log!cal (1992)(Rainbow Arts)[!]-manual.pdf</manual>
+		<boxback>./images/Log!cal (1992)(Rainbow Arts)[!]-boxback.png</boxback>
+		<rating>0</rating>
+		<developer>Rainbow Arts</developer>
+		<publisher>Rainbow Arts</publisher>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>e74f1ea20fb707e66c570093d9bb0739</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193430" />
+	</game>
+	<game id="106264">
+		<path>./TOSEC-ISO/Games/[ISO]/Log!cal (1992)(Rainbow Arts)[!].iso</path>
+		<name>Log!cal</name>
+		<desc>Log!cal is a bizarre puzzle game in which you have to arrange colored balls (green, purple, blue or yellow) to form quartets in any of several locations on the game board. These locations are, in fact, balls you can spin, then send any of the balls in them through the connection path.</desc>
+		<image>./images/Log!cal (1992)(Rainbow Arts)[!]-image.png</image>
+		<video>./videos/Log!cal (1992)(Rainbow Arts)[!]-video.mp4</video>
+		<marquee>./images/Log!cal (1992)(Rainbow Arts)[!]-marquee.png</marquee>
+		<thumbnail>./images/Log!cal (1992)(Rainbow Arts)[!]-thumb.png</thumbnail>
+		<manual>./manuals/Log!cal (1992)(Rainbow Arts)[!]-manual.pdf</manual>
+		<boxback>./images/Log!cal (1992)(Rainbow Arts)[!]-boxback.png</boxback>
+		<rating>0</rating>
+		<developer>Rainbow Arts</developer>
+		<publisher>Rainbow Arts</publisher>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>f626daf357f02ec902809f48264fca66</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193432" />
+	</game>
+	<game id="33772">
+		<path>./TOSEC-ISO/Games/[ISO]/Logical (1991)(Rainbow Arts).cue</path>
+		<name>Log!cal</name>
+		<desc>Logical is a bizarre puzzle game in which you have to arrange colored balls (green, purple, blue or yellow) to form quartets in any of several locations on the game board. These locations are, in fact, balls you can spin, then send any of the balls in them through the connection path (have a look at the screenshots).</desc>
+		<image>./images/TOSEC-ISO/Games/[ISO]/Logical (1991)(Rainbow Arts)-image.png</image>
+		<video>./videos/Logical (1991)(Rainbow Arts)-video.mp4</video>
+		<marquee>./images/TOSEC-ISO/Games/[ISO]/Logical (1991)(Rainbow Arts)-marquee.png</marquee>
+		<thumbnail>./images/TOSEC-ISO/Games/[ISO]/Logical (1991)(Rainbow Arts)-thumb.jpg</thumbnail>
+		<manual>./manuals/Logical (1991)(Rainbow Arts)-manual.pdf</manual>
+		<boxback>./images/Logical (1991)(Rainbow Arts)-boxback.png</boxback>
+		<rating>0.65</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Rainbow Arts</developer>
+		<publisher>Rainbow Arts</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>552ab509e6f3711937f3adc7eb4da3dd</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193435" />
+	</game>
+	<game id="33772">
+		<path>./TOSEC-ISO/Games/[ISO]/Logical (1991)(Rainbow Arts).iso</path>
+		<name>Log!cal</name>
+		<desc>Logical is a bizarre puzzle game in which you have to arrange colored balls (green, purple, blue or yellow) to form quartets in any of several locations on the game board. These locations are, in fact, balls you can spin, then send any of the balls in them through the connection path (have a look at the screenshots).</desc>
+		<image>./images/Logical (1991)(Rainbow Arts)-image.png</image>
+		<video>./videos/Logical (1991)(Rainbow Arts)-video.mp4</video>
+		<marquee>./images/Logical (1991)(Rainbow Arts)-marquee.png</marquee>
+		<thumbnail>./images/Logical (1991)(Rainbow Arts)-thumb.png</thumbnail>
+		<manual>./manuals/Logical (1991)(Rainbow Arts)-manual.pdf</manual>
+		<boxback>./images/Logical (1991)(Rainbow Arts)-boxback.png</boxback>
+		<rating>0.65</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Rainbow Arts</developer>
+		<publisher>Rainbow Arts</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>0d9b39acd7a937961b7124d0c7da2e7e</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193438" />
+	</game>
+	<game id="105179">
+		<path>./TOSEC-ISO/Games/[ISO]/Power Pinball (1990)(KarmaSoft).cue</path>
+		<name>Power Pinball</name>
+		<desc>This CDTV release has 13 pinball tables in addition to the 5 tables contained in the floppy release.</desc>
+		<image>./images/TOSEC-ISO/Games/[ISO]/Power Pinball (1990)(KarmaSoft)-image.png</image>
+		<video>./videos/Power Pinball (1990)(KarmaSoft)-video.mp4</video>
+		<marquee>./images/TOSEC-ISO/Games/[ISO]/Power Pinball (1990)(KarmaSoft)-marquee.png</marquee>
+		<thumbnail>./images/TOSEC-ISO/Games/[ISO]/Power Pinball (1990)(KarmaSoft)-thumb.png</thumbnail>
+		<rating>0</rating>
+		<releasedate>19900101T000000</releasedate>
+		<publisher>KarmaSoft</publisher>
+		<genre>Pinball</genre>
+		<players>1-4</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>d91c9080150137c8f8f2c3920424c6ea</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193440" />
+	</game>
+	<game id="105179">
+		<path>./TOSEC-ISO/Games/[ISO]/Power Pinball (1990)(KarmaSoft).iso</path>
+		<name>Power Pinball</name>
+		<desc>This CDTV release has 13 pinball tables in addition to the 5 tables contained in the floppy release.</desc>
+		<image>./images/Power Pinball (1990)(KarmaSoft)-image.png</image>
+		<video>./videos/Power Pinball (1990)(KarmaSoft)-video.mp4</video>
+		<marquee>./images/Power Pinball (1990)(KarmaSoft)-marquee.png</marquee>
+		<rating>0</rating>
+		<releasedate>19900101T000000</releasedate>
+		<publisher>KarmaSoft</publisher>
+		<genre>Pinball</genre>
+		<players>1-4</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>8f40127c4a16bb5eb72c523d543eaa7d</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193443" />
+	</game>
+	<game id="33511">
+		<path>./TOSEC-ISO/Games/[ISO]/Prehistorik (1991)(Titus)[!].cue</path>
+		<name>Prehistorik</name>
+		<desc>Prehistorik is a side-view platform game with superficial similarity to Chuck Rock, although the games were developed simultaneously in different countries. You control a neanderthal who must march through hostile pre-historic environments seeking food and keeping himself safe. Some food can be found in caves, but it mainly exists in living animal forms.
+
+These include fire-breathing Pyro-Tax dragons, the Turtosaurus, and the Bad Bat. Each of these must be clubbed to death, some taking up to 5 hits, and then walked over. Some other enemies are indestructible, with the monkeys who throw coconuts at you particularly fiendish.
+
+You will have to complete the level within the time limit, and avoid contact with these foes. However, bombs and improved weapons can be collected, as can extra lives, time bonuses and an improved jump.</desc>
+		<image>./images/TOSEC-ISO/Games/[ISO]/Prehistorik (1991)(Titus)[!]-image.png</image>
+		<video>./videos/Prehistorik (1991)(Titus)[!]-video.mp4</video>
+		<marquee>./images/TOSEC-ISO/Games/[ISO]/Prehistorik (1991)(Titus)[!]-marquee.png</marquee>
+		<thumbnail>./images/TOSEC-ISO/Games/[ISO]/Prehistorik (1991)(Titus)[!]-thumb.jpg</thumbnail>
+		<manual>./manuals/Prehistorik (1991)(Titus)[!]-manual.pdf</manual>
+		<boxback>./images/Prehistorik (1991)(Titus)[!]-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Titus</developer>
+		<publisher>Titus</publisher>
+		<genre>Platform</genre>
+		<family>Prehistorik</family>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>82eecbe6e1b2cc57143862a45af40c48</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193445" />
+	</game>
+	<game id="33511">
+		<path>./TOSEC-ISO/Games/[ISO]/Prehistorik (1991)(Titus)[Track 01 of 12][!].iso</path>
+		<name>Prehistorik</name>
+		<desc>Prehistorik is a side-view platform game with superficial similarity to Chuck Rock, although the games were developed simultaneously in different countries. You control a neanderthal who must march through hostile pre-historic environments seeking food and keeping himself safe. Some food can be found in caves, but it mainly exists in living animal forms.
+
+These include fire-breathing Pyro-Tax dragons, the Turtosaurus, and the Bad Bat. Each of these must be clubbed to death, some taking up to 5 hits, and then walked over. Some other enemies are indestructible, with the monkeys who throw coconuts at you particularly fiendish.
+
+You will have to complete the level within the time limit, and avoid contact with these foes. However, bombs and improved weapons can be collected, as can extra lives, time bonuses and an improved jump.</desc>
+		<image>./images/Prehistorik (1991)(Titus)[Track 01 of 12][!]-image.png</image>
+		<video>./videos/Prehistorik (1991)(Titus)[Track 01 of 12][!]-video.mp4</video>
+		<marquee>./images/Prehistorik (1991)(Titus)[Track 01 of 12][!]-marquee.png</marquee>
+		<thumbnail>./images/Prehistorik (1991)(Titus)[Track 01 of 12][!]-thumb.png</thumbnail>
+		<manual>./manuals/Prehistorik (1991)(Titus)[Track 01 of 12][!]-manual.pdf</manual>
+		<boxback>./images/Prehistorik (1991)(Titus)[Track 01 of 12][!]-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Titus</developer>
+		<publisher>Titus</publisher>
+		<genre>Platform</genre>
+		<family>Prehistorik</family>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>308d49b01247fd9e29b32ca7e3de9cd6</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193447" />
+	</game>
+	<game id="106268">
+		<path>./TOSEC-ISO/Games/[ISO]/Psycho Killer (1992)(On-line)[!][U2A2030UB].cue</path>
+		<name>Psycho Killer</name>
+		<desc>The game's plot is simple. A woman goes into a car and drives, but suddenly runs into the titular killer. The protagonist also goes driving, but her car blocks the road and he has to stop. After that, we see the woman being kidnapped by the psycho, and our hero goes into the woods to save her.
+
+The game plays like a Point-and-Click Adventure Game, you have to use the directional pad to move the pointer, pick a direction (left, up or right) and see as FMVs happen. Sometimes it's necessary to click something in time, for example to stop the car or defend yourself from the eponymous killer.</desc>
+		<image>./images/TOSEC-ISO/Games/[ISO]/Psycho Killer (1992)(On-line)[!][U2A2030UB]-image.png</image>
+		<video>./videos/Psycho Killer (1992)(On-line)[!][U2A2030UB]-video.mp4</video>
+		<marquee>./images/TOSEC-ISO/Games/[ISO]/Psycho Killer (1992)(On-line)[!][U2A2030UB]-marquee.png</marquee>
+		<thumbnail>./images/TOSEC-ISO/Games/[ISO]/Psycho Killer (1992)(On-line)[!][U2A2030UB]-thumb.jpg</thumbnail>
+		<boxback>./images/Psycho Killer (1992)(On-line)[!][U2A2030UB]-boxback.png</boxback>
+		<rating>0</rating>
+		<developer>Delta 4 Interactive</developer>
+		<publisher>On-Line Interactive</publisher>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>9a93c40924ad69e0eb1aea5f092d5e78</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193449" />
+	</game>
+	<game id="106268">
+		<path>./TOSEC-ISO/Games/[ISO]/Psycho Killer (1992)(On-line)[Track 1 of 3][!][U2A2030UB].iso</path>
+		<name>Psycho Killer</name>
+		<desc>The game's plot is simple. A woman goes into a car and drives, but suddenly runs into the titular killer. The protagonist also goes driving, but her car blocks the road and he has to stop. After that, we see the woman being kidnapped by the psycho, and our hero goes into the woods to save her.
+
+The game plays like a Point-and-Click Adventure Game, you have to use the directional pad to move the pointer, pick a direction (left, up or right) and see as FMVs happen. Sometimes it's necessary to click something in time, for example to stop the car or defend yourself from the eponymous killer.</desc>
+		<image>./images/Psycho Killer (1992)(On-line)[Track 1 of 3][!][U2A2030UB]-image.png</image>
+		<video>./videos/Psycho Killer (1992)(On-line)[Track 1 of 3][!][U2A2030UB]-video.mp4</video>
+		<marquee>./images/Psycho Killer (1992)(On-line)[Track 1 of 3][!][U2A2030UB]-marquee.png</marquee>
+		<thumbnail>./images/Psycho Killer (1992)(On-line)[Track 1 of 3][!][U2A2030UB]-thumb.png</thumbnail>
+		<boxback>./images/Psycho Killer (1992)(On-line)[Track 1 of 3][!][U2A2030UB]-boxback.png</boxback>
+		<rating>0</rating>
+		<developer>Delta 4 Interactive</developer>
+		<publisher>On-Line Interactive</publisher>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>890bbdaf9585eae990143696380622f8</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193452" />
+	</game>
+	<game id="106269">
+		<path>./TOSEC-ISO/Games/[ISO]/Raffles (1991)(Edge)[Amiga-CDTV].cue</path>
+		<name>Raffles</name>
+		<image>./images/TOSEC-ISO/Games/[ISO]/Raffles (1991)(Edge)[Amiga-CDTV]-image.png</image>
+		<video>./videos/Raffles (1991)(Edge)[Amiga-CDTV]-video.mp4</video>
+		<marquee>./images/TOSEC-ISO/Games/[ISO]/Raffles (1991)(Edge)[Amiga-CDTV]-marquee.png</marquee>
+		<thumbnail>./images/TOSEC-ISO/Games/[ISO]/Raffles (1991)(Edge)[Amiga-CDTV]-thumb.jpg</thumbnail>
+		<manual>./manuals/Raffles (1991)(Edge)[Amiga-CDTV]-manual.pdf</manual>
+		<boxback>./images/Raffles (1991)(Edge)[Amiga-CDTV]-boxback.png</boxback>
+		<rating>0</rating>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>62a850adfbaa56b45df193b561ac0c44</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193454" />
+	</game>
+	<game id="106269">
+		<path>./TOSEC-ISO/Games/[ISO]/Raffles (1991)(Edge)[Amiga-CDTV].iso</path>
+		<name>Raffles</name>
+		<image>./images/Raffles (1991)(Edge)[Amiga-CDTV]-image.png</image>
+		<video>./videos/Raffles (1991)(Edge)[Amiga-CDTV]-video.mp4</video>
+		<marquee>./images/Raffles (1991)(Edge)[Amiga-CDTV]-marquee.png</marquee>
+		<thumbnail>./images/Raffles (1991)(Edge)[Amiga-CDTV]-thumb.png</thumbnail>
+		<manual>./manuals/Raffles (1991)(Edge)[Amiga-CDTV]-manual.pdf</manual>
+		<boxback>./images/Raffles (1991)(Edge)[Amiga-CDTV]-boxback.png</boxback>
+		<rating>0</rating>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>5ec01a23ece56dd14347b83a026956ac</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193456" />
+	</game>
+	<game id="106476">
+		<path>./TOSEC-ISO/Games/[ISO]/Sim City (1991)(Infogrames)(M5)[!].cue</path>
+		<name>Simcity</name>
+		<desc>SimCity, later renamed SimCity Classic, is a city-building simulation video game, first released on February 2, 1989, and designed by Will Wright for the Macintosh computer. SimCity was Maxis's second product, which has since been ported into various personal computers and game consoles, and spawned several sequels including SimCity 2000 in 1993, SimCity 3000 in 1999, SimCity 4 in 2003, SimCity DS, SimCity Societies in 2007, and SimCity in 2013. Until the release of The Sims in 2000, the SimCity series was the best-selling line of computer games made by Maxis. SimCity spawned a series of Sim games.</desc>
+		<image>./images/TOSEC-ISO/Games/[ISO]/Sim City (1991)(Infogrames)(M5)[!]-image.png</image>
+		<video>./videos/Sim City (1991)(Infogrames)(M5)[!]-video.mp4</video>
+		<marquee>./images/TOSEC-ISO/Games/[ISO]/Sim City (1991)(Infogrames)(M5)[!]-marquee.png</marquee>
+		<thumbnail>./images/TOSEC-ISO/Games/[ISO]/Sim City (1991)(Infogrames)(M5)[!]-thumb.png</thumbnail>
+		<fanart>./images/Sim City (1991)(Infogrames)(M5)[!]-fanart.jpg</fanart>
+		<boxback>./images/Sim City (1991)(Infogrames)(M5)[!]-boxback.png</boxback>
+		<rating>0.8</rating>
+		<developer>Maxis Software</developer>
+		<publisher>Maxis Software</publisher>
+		<genre>Simulation / Build And Management</genre>
+		<family>SimCity</family>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>f9ca27e50a135be5dda0975db952890b</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193501" />
+	</game>
+	<game id="106476">
+		<path>./TOSEC-ISO/Games/[ISO]/Sim City (1991)(Infogrames)(M5)[Track 01 of 19][!].iso</path>
+		<name>Simcity</name>
+		<desc>SimCity, later renamed SimCity Classic, is a city-building simulation video game, first released on February 2, 1989, and designed by Will Wright for the Macintosh computer. SimCity was Maxis's second product, which has since been ported into various personal computers and game consoles, and spawned several sequels including SimCity 2000 in 1993, SimCity 3000 in 1999, SimCity 4 in 2003, SimCity DS, SimCity Societies in 2007, and SimCity in 2013. Until the release of The Sims in 2000, the SimCity series was the best-selling line of computer games made by Maxis. SimCity spawned a series of Sim games.</desc>
+		<image>./images/Sim City (1991)(Infogrames)(M5)[Track 01 of 19][!]-image.png</image>
+		<video>./videos/Sim City (1991)(Infogrames)(M5)[Track 01 of 19][!]-video.mp4</video>
+		<marquee>./images/Sim City (1991)(Infogrames)(M5)[Track 01 of 19][!]-marquee.png</marquee>
+		<thumbnail>./images/Sim City (1991)(Infogrames)(M5)[Track 01 of 19][!]-thumb.png</thumbnail>
+		<fanart>./images/Sim City (1991)(Infogrames)(M5)[Track 01 of 19][!]-fanart.jpg</fanart>
+		<boxback>./images/Sim City (1991)(Infogrames)(M5)[Track 01 of 19][!]-boxback.png</boxback>
+		<rating>0.8</rating>
+		<developer>Maxis Software</developer>
+		<publisher>Maxis Software</publisher>
+		<genre>Simulation / Build And Management</genre>
+		<family>SimCity</family>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>f379803c28533fb4026d0334a668b36d</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193503" />
+	</game>
+	<game id="106477">
+		<path>./TOSEC-ISO/Games/[ISO]/Snoopy - The Case of the Missing Blanket (1991)(Edge)[!].cue</path>
+		<name>Snoopy - The Case Of The Missing Blanket</name>
+		<desc>Snoopy: The Case of the Missing Blanket is a colorful, fully interactive cartoon which is a challenge and delight for Snoopy fans of all ages.
+
+Snoopy plays detective in this animated cartoon adventure, facing the task of finding where Linus lost his blanket. Snoopy must find the missing blanket and return it to Linus who (as lovers of PEANUTS characters well know) is most upset at misplacing it!
+
+There are several levels of complexity making this product ideal for the younger child, as well as a challenge to the most mature adult.</desc>
+		<image>./images/TOSEC-ISO/Games/[ISO]/Snoopy - The Case of the Missing Blanket (1991)(Edge)[!]-image.png</image>
+		<video>./videos/Snoopy - The Case of the Missing Blanket (1991)(Edge)[!]-video.mp4</video>
+		<marquee>./images/TOSEC-ISO/Games/[ISO]/Snoopy - The Case of the Missing Blanket (1991)(Edge)[!]-marquee.png</marquee>
+		<thumbnail>./images/TOSEC-ISO/Games/[ISO]/Snoopy - The Case of the Missing Blanket (1991)(Edge)[!]-thumb.jpg</thumbnail>
+		<boxback>./images/Snoopy - The Case of the Missing Blanket (1991)(Edge)[!]-boxback.png</boxback>
+		<rating>0</rating>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>7364169702db99ecb50817c59c27b813</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193505" />
+	</game>
+	<game id="106477">
+		<path>./TOSEC-ISO/Games/[ISO]/Snoopy - The Case of the Missing Blanket (1991)(Edge)[Track 1 of 2][!].iso</path>
+		<name>Snoopy - The Case Of The Missing Blanket</name>
+		<desc>Snoopy: The Case of the Missing Blanket is a colorful, fully interactive cartoon which is a challenge and delight for Snoopy fans of all ages.
+
+Snoopy plays detective in this animated cartoon adventure, facing the task of finding where Linus lost his blanket. Snoopy must find the missing blanket and return it to Linus who (as lovers of PEANUTS characters well know) is most upset at misplacing it!
+
+There are several levels of complexity making this product ideal for the younger child, as well as a challenge to the most mature adult.</desc>
+		<image>./images/Snoopy - The Case of the Missing Blanket (1991)(Edge)[Track 1 of 2][!]-image.png</image>
+		<video>./videos/Snoopy - The Case of the Missing Blanket (1991)(Edge)[Track 1 of 2][!]-video.mp4</video>
+		<marquee>./images/Snoopy - The Case of the Missing Blanket (1991)(Edge)[Track 1 of 2][!]-marquee.png</marquee>
+		<thumbnail>./images/Snoopy - The Case of the Missing Blanket (1991)(Edge)[Track 1 of 2][!]-thumb.png</thumbnail>
+		<boxback>./images/Snoopy - The Case of the Missing Blanket (1991)(Edge)[Track 1 of 2][!]-boxback.png</boxback>
+		<rating>0</rating>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>ecf54654a0875f8fad2bf840c8e26873</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193507" />
+	</game>
+	<game id="213451">
+		<path>./TOSEC-ISO/Games/[ISO]/Super Games Pak (1991)(Odyssey)[!][compilation].cue</path>
+		<name>Super Games Pak</name>
+		<image>./images/TOSEC-ISO/Games/[ISO]/Super Games Pak (1991)(Odyssey)[!][compilation]-image.png</image>
+		<video>./videos/Super Games Pak (1991)(Odyssey)[!][compilation]-video.mp4</video>
+		<marquee>./images/TOSEC-ISO/Games/[ISO]/Super Games Pak (1991)(Odyssey)[!][compilation]-marquee.png</marquee>
+		<thumbnail>./images/TOSEC-ISO/Games/[ISO]/Super Games Pak (1991)(Odyssey)[!][compilation]-thumb.png</thumbnail>
+		<boxback>./images/Super Games Pak (1991)(Odyssey)[!][compilation]-boxback.png</boxback>
+		<rating>0.5</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Odyssey</developer>
+		<publisher>Odyssey</publisher>
+		<genre>Compilation</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>b03af1da8ff52e5a999a67b95fed01ce</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193509" />
+	</game>
+	<game id="213451">
+		<path>./TOSEC-ISO/Games/[ISO]/Super Games Pak (1991)(Odyssey)[!][compilation].iso</path>
+		<name>Super Games Pak</name>
+		<image>./images/Super Games Pak (1991)(Odyssey)[!][compilation]-image.png</image>
+		<video>./videos/Super Games Pak (1991)(Odyssey)[!][compilation]-video.mp4</video>
+		<marquee>./images/Super Games Pak (1991)(Odyssey)[!][compilation]-marquee.png</marquee>
+		<thumbnail>./images/Super Games Pak (1991)(Odyssey)[!][compilation]-thumb.png</thumbnail>
+		<boxback>./images/Super Games Pak (1991)(Odyssey)[!][compilation]-boxback.png</boxback>
+		<rating>0.5</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Odyssey</developer>
+		<publisher>Odyssey</publisher>
+		<genre>Compilation</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193511" />
+	</game>
+	<game id="106270">
+		<path>./TOSEC-ISO/Games/[ISO]/Team Yankee (1995)(Almathera)[!][compilation Ten On Ten].cue</path>
+		<name>Team Yankee</name>
+		<desc>Team Yankee is a video game adaptation of the 1987 Harold Coyle's World War III novel Team Yankee that was developed by Oxford Digital Enterprises for the Amiga, Atari ST and MS-DOS systems.</desc>
+		<image>./images/TOSEC-ISO/Games/[ISO]/Team Yankee (1995)(Almathera)[!][compilation Ten On Ten]-image.jpg</image>
+		<video>./videos/Team Yankee (1995)(Almathera)[!][compilation Ten On Ten]-video.mp4</video>
+		<marquee>./images/TOSEC-ISO/Games/[ISO]/Team Yankee (1995)(Almathera)[!][compilation Ten On Ten]-marquee.png</marquee>
+		<thumbnail>./images/TOSEC-ISO/Games/[ISO]/Team Yankee (1995)(Almathera)[!][compilation Ten On Ten]-thumb.jpg</thumbnail>
+		<manual>./manuals/Team Yankee (1995)(Almathera)[!][compilation Ten On Ten]-manual.pdf</manual>
+		<boxback>./images/Team Yankee (1995)(Almathera)[!][compilation Ten On Ten]-boxback.png</boxback>
+		<rating>0</rating>
+		<developer>Oxford Digital Enterprises</developer>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>f4524a5c34f22734644fb7334fb15ac7</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193514" />
+	</game>
+	<game id="106270">
+		<path>./TOSEC-ISO/Games/[ISO]/Team Yankee (1995)(Almathera)[!][compilation Ten On Ten].iso</path>
+		<name>Team Yankee</name>
+		<desc>Team Yankee is a video game adaptation of the 1987 Harold Coyle's World War III novel Team Yankee that was developed by Oxford Digital Enterprises for the Amiga, Atari ST and MS-DOS systems.</desc>
+		<image>./images/Team Yankee (1995)(Almathera)[!][compilation Ten On Ten]-image.png</image>
+		<video>./videos/Team Yankee (1995)(Almathera)[!][compilation Ten On Ten]-video.mp4</video>
+		<marquee>./images/Team Yankee (1995)(Almathera)[!][compilation Ten On Ten]-marquee.png</marquee>
+		<thumbnail>./images/Team Yankee (1995)(Almathera)[!][compilation Ten On Ten]-thumb.png</thumbnail>
+		<manual>./manuals/Team Yankee (1995)(Almathera)[!][compilation Ten On Ten]-manual.pdf</manual>
+		<boxback>./images/Team Yankee (1995)(Almathera)[!][compilation Ten On Ten]-boxback.png</boxback>
+		<rating>0</rating>
+		<developer>Oxford Digital Enterprises</developer>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>4f187c90c830c18e5cd1ea7e19d710db</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193516" />
+	</game>
+	<game id="34461">
+		<path>./TOSEC-ISO/Games/[ISO]/Tie Break (1991)(Starbyte)[!].cue</path>
+		<name>adidas Championship Tie-Break</name>
+		<desc>This tennis simulation uses a top-down scrolling perspective. You are not in control of the player's motion, but once he gets close to the ball, shot selection is down to you. Standard shots plus topspin, lobs and stop volleys are available, by pushing the joystick in the right direction as you aim the shot.
+
+The game supports up to 16 players in singles matches on a variety of court surfaces.  It includes all of the major world tournaments - the four Grand Slam events at Melbourne, Roland Garros, Wimbledon and New York, plus the Davis Cup and Masters events.  An early attempt at TV-style coverage is offered.</desc>
+		<image>./images/TOSEC-ISO/Games/[ISO]/Tie Break (1991)(Starbyte)[!]-image.png</image>
+		<video>./videos/Tie Break (1991)(Starbyte)[!]-video.mp4</video>
+		<marquee>./images/TOSEC-ISO/Games/[ISO]/Tie Break (1991)(Starbyte)[!]-marquee.png</marquee>
+		<thumbnail>./images/TOSEC-ISO/Games/[ISO]/Tie Break (1991)(Starbyte)[!]-thumb.jpg</thumbnail>
+		<manual>./manuals/Tie Break (1991)(Starbyte)[!]-manual.pdf</manual>
+		<rating>0</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Starbyte</developer>
+		<publisher>Starbyte</publisher>
+		<genre>Sports</genre>
+		<players>8+</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>238936ac97ee67b05f760bf216437720</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193518" />
+	</game>
+	<game id="34461">
+		<path>./TOSEC-ISO/Games/[ISO]/Tie Break (1991)(Starbyte)[Track 01 of 25][!].iso</path>
+		<name>adidas Championship Tie-Break</name>
+		<desc>This tennis simulation uses a top-down scrolling perspective. You are not in control of the player's motion, but once he gets close to the ball, shot selection is down to you. Standard shots plus topspin, lobs and stop volleys are available, by pushing the joystick in the right direction as you aim the shot.
+
+The game supports up to 16 players in singles matches on a variety of court surfaces.  It includes all of the major world tournaments - the four Grand Slam events at Melbourne, Roland Garros, Wimbledon and New York, plus the Davis Cup and Masters events.  An early attempt at TV-style coverage is offered.</desc>
+		<image>./images/Tie Break (1991)(Starbyte)[Track 01 of 25][!]-image.png</image>
+		<video>./videos/Tie Break (1991)(Starbyte)[Track 01 of 25][!]-video.mp4</video>
+		<marquee>./images/Tie Break (1991)(Starbyte)[Track 01 of 25][!]-marquee.png</marquee>
+		<manual>./manuals/Tie Break (1991)(Starbyte)[Track 01 of 25][!]-manual.pdf</manual>
+		<rating>0</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Starbyte</developer>
+		<publisher>Starbyte</publisher>
+		<genre>Sports</genre>
+		<players>8+</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>2206a03c33029e9891c87f95dd014a05</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193520" />
+	</game>
+	<game id="158401">
+		<path>./TOSEC-ISO/Games/[ISO]/Town With No Name (1992)(On-line)(M6)[!][CDTV-TOWNS].cue</path>
+		<name>Town With No Name</name>
+		<image>./images/TOSEC-ISO/Games/[ISO]/Town With No Name (1992)(On-line)(M6)[!][CDTV-TOWNS]-image.png</image>
+		<marquee>./images/TOSEC-ISO/Games/[ISO]/Town With No Name (1992)(On-line)(M6)[!][CDTV-TOWNS]-marquee.png</marquee>
+		<thumbnail>./images/TOSEC-ISO/Games/[ISO]/Town With No Name (1992)(On-line)(M6)[!][CDTV-TOWNS]-thumb.jpg</thumbnail>
+		<rating>0</rating>
+		<developer>Delta 4</developer>
+		<publisher>On-Line Entertainment</publisher>
+		<genre>Adventure / Point and Click</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>3c896bd98ca2323c1b586cc35f90d92e</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193522" />
+	</game>
+	<game id="158401">
+		<path>./TOSEC-ISO/Games/[ISO]/Town With No Name (1992)(On-line)(M6)[Track 1 of 3][!][CDTV-TOWNS].iso</path>
+		<name>Town With No Name</name>
+		<image>./images/Town With No Name (1992)(On-line)(M6)[Track 1 of 3][!][CDTV-TOWNS]-image.png</image>
+		<marquee>./images/Town With No Name (1992)(On-line)(M6)[Track 1 of 3][!][CDTV-TOWNS]-marquee.png</marquee>
+		<rating>0</rating>
+		<developer>Delta 4</developer>
+		<publisher>On-Line Entertainment</publisher>
+		<genre>Adventure / Point and Click</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>4af1362684b878cd5f4e98820ed36d0e</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193525" />
+	</game>
+	<game id="106277">
+		<path>./TOSEC-ISO/Games/[ISO]/Turrican (1992)(Rainbow Arts).cue</path>
+		<name>Turrican</name>
+		<desc>Three-headed demon Morgul has been influencing people's dreams to create nightmares, but more recently these nightmares have become real. Only Turrican can save them in this fast paced side scrolling shoot-em up. It features 5 worlds and 13 levels of challenging gameplay.
+
+Gameplay is conceptually simple: just jump, shoot and explore. However, this game puts a lot of emphasis on finding and using the 10 different weapons Turrican can collect.</desc>
+		<image>./images/TOSEC-ISO/Games/[ISO]/Turrican (1992)(Rainbow Arts)-image.png</image>
+		<video>./videos/Turrican (1992)(Rainbow Arts)-video.mp4</video>
+		<marquee>./images/TOSEC-ISO/Games/[ISO]/Turrican (1992)(Rainbow Arts)-marquee.png</marquee>
+		<thumbnail>./images/TOSEC-ISO/Games/[ISO]/Turrican (1992)(Rainbow Arts)-thumb.jpg</thumbnail>
+		<manual>./manuals/Turrican (1992)(Rainbow Arts)-manual.pdf</manual>
+		<boxback>./images/Turrican (1992)(Rainbow Arts)-boxback.png</boxback>
+		<rating>0.7</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Rainbow Arts</developer>
+		<publisher>Rainbow Arts</publisher>
+		<genre>Platform / Shooter Scrolling</genre>
+		<family>Turrican</family>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>d00c41c34f3c0c2206f144e936f41313</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193528" />
+	</game>
+	<game id="106277">
+		<path>./TOSEC-ISO/Games/[ISO]/Turrican (1992)(Rainbow Arts).iso</path>
+		<name>Turrican</name>
+		<desc>Three-headed demon Morgul has been influencing people's dreams to create nightmares, but more recently these nightmares have become real. Only Turrican can save them in this fast paced side scrolling shoot-em up. It features 5 worlds and 13 levels of challenging gameplay.
+
+Gameplay is conceptually simple: just jump, shoot and explore. However, this game puts a lot of emphasis on finding and using the 10 different weapons Turrican can collect.</desc>
+		<image>./images/Turrican (1992)(Rainbow Arts)-image.png</image>
+		<video>./videos/Turrican (1992)(Rainbow Arts)-video.mp4</video>
+		<marquee>./images/Turrican (1992)(Rainbow Arts)-marquee.png</marquee>
+		<thumbnail>./images/Turrican (1992)(Rainbow Arts)-thumb.png</thumbnail>
+		<manual>./manuals/Turrican (1992)(Rainbow Arts)-manual.pdf</manual>
+		<boxback>./images/Turrican (1992)(Rainbow Arts)-boxback.png</boxback>
+		<rating>0.7</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Rainbow Arts</developer>
+		<publisher>Rainbow Arts</publisher>
+		<genre>Platform / Shooter Scrolling</genre>
+		<family>Turrican</family>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>ea583806c5d439f8bf18e3d85392620f</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193530" />
+	</game>
+	<game id="213449">
+		<path>./TOSEC-ISO/Games/[ISO]/Ultimate Basketball! (1991)(Context Systems)[!].cue</path>
+		<name>Ultimate Basketball!</name>
+		<image>./images/TOSEC-ISO/Games/[ISO]/Ultimate Basketball! (1991)(Context Systems)[!]-image.png</image>
+		<video>./videos/Ultimate Basketball! (1991)(Context Systems)[!]-video.mp4</video>
+		<marquee>./images/TOSEC-ISO/Games/[ISO]/Ultimate Basketball! (1991)(Context Systems)[!]-marquee.png</marquee>
+		<thumbnail>./images/TOSEC-ISO/Games/[ISO]/Ultimate Basketball! (1991)(Context Systems)[!]-thumb.jpg</thumbnail>
+		<manual>./manuals/Ultimate Basketball! (1991)(Context Systems)[!]-manual.pdf</manual>
+		<boxback>./images/Ultimate Basketball! (1991)(Context Systems)[!]-boxback.png</boxback>
+		<rating>0</rating>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>7d43f4e8fe5400d0283a0b4ae602eb52</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193532" />
+	</game>
+	<game id="213449">
+		<path>./TOSEC-ISO/Games/[ISO]/Ultimate Basketball! (1991)(Context Systems)[!].iso</path>
+		<name>Ultimate Basketball!</name>
+		<image>./images/Ultimate Basketball! (1991)(Context Systems)[!]-image.png</image>
+		<video>./videos/Ultimate Basketball! (1991)(Context Systems)[!]-video.mp4</video>
+		<marquee>./images/Ultimate Basketball! (1991)(Context Systems)[!]-marquee.png</marquee>
+		<thumbnail>./images/Ultimate Basketball! (1991)(Context Systems)[!]-thumb.png</thumbnail>
+		<manual>./manuals/Ultimate Basketball! (1991)(Context Systems)[!]-manual.pdf</manual>
+		<boxback>./images/Ultimate Basketball! (1991)(Context Systems)[!]-boxback.png</boxback>
+		<rating>0</rating>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>41b35036c648be6e32c8c08800cca946</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193533" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Will Bridge - Practice 1 - Introduction to Bidding (1991)(Will Bridge).cue</path>
+		<name>Will Bridge: Practice 1: Introduction To Bidding</name>
+		<image>./images/TOSEC-ISO/Games/[ISO]/Will Bridge - Practice 1 - Introduction to Bidding (1991)(Will Bridge)-image.png</image>
+		<marquee>./images/TOSEC-ISO/Games/[ISO]/Will Bridge - Practice 1 - Introduction to Bidding (1991)(Will Bridge)-marquee.png</marquee>
+		<thumbnail>./images/TOSEC-ISO/Games/[ISO]/Will Bridge - Practice 1 - Introduction to Bidding (1991)(Will Bridge)-thumb.png</thumbnail>
+		<rating>0</rating>
+		<releasedate>19910101T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>2238fb7518613e7ff96751974be260c8</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193535" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[ISO]/Will Bridge - Practice 1 - Introduction to Bidding (1991)(Will Bridge).iso</path>
+		<name>Will Bridge - Practice 1 - Introduction to Bidding (1991)(Will Bridge)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>d7e9c402a4282e26d2594b0082e3ee91</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193537" />
+	</game>
+	<game id="213437">
+		<path>./TOSEC-ISO/Games/[ISO]/Will Bridge - Practice 2 - Intermediate (1991)(Will Bridge).cue</path>
+		<name>Will Bridge - Practice 2 - Intermediate</name>
+		<image>./images/TOSEC-ISO/Games/[ISO]/Will Bridge - Practice 2 - Intermediate (1991)(Will Bridge)-image.png</image>
+		<marquee>./images/TOSEC-ISO/Games/[ISO]/Will Bridge - Practice 2 - Intermediate (1991)(Will Bridge)-marquee.png</marquee>
+		<thumbnail>./images/TOSEC-ISO/Games/[ISO]/Will Bridge - Practice 2 - Intermediate (1991)(Will Bridge)-thumb.png</thumbnail>
+		<manual>./manuals/Will Bridge - Practice 2 - Intermediate (1991)(Will Bridge)-manual.pdf</manual>
+		<boxback>./images/Will Bridge - Practice 2 - Intermediate (1991)(Will Bridge)-boxback.png</boxback>
+		<rating>0</rating>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>3f05298d67789c1bc25e1c69d49cccbf</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193539" />
+	</game>
+	<game id="213437">
+		<path>./TOSEC-ISO/Games/[ISO]/Will Bridge - Practice 2 - Intermediate (1991)(Will Bridge).iso</path>
+		<name>Will Bridge - Practice 2 - Intermediate</name>
+		<image>./images/Will Bridge - Practice 2 - Intermediate (1991)(Will Bridge)-image.png</image>
+		<marquee>./images/Will Bridge - Practice 2 - Intermediate (1991)(Will Bridge)-marquee.png</marquee>
+		<thumbnail>./images/Will Bridge - Practice 2 - Intermediate (1991)(Will Bridge)-thumb.png</thumbnail>
+		<manual>./manuals/Will Bridge - Practice 2 - Intermediate (1991)(Will Bridge)-manual.pdf</manual>
+		<boxback>./images/Will Bridge - Practice 2 - Intermediate (1991)(Will Bridge)-boxback.png</boxback>
+		<rating>0</rating>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>4acd43191d4bb855d62153aa7d6aa8dd</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193541" />
+	</game>
+	<game id="213453">
+		<path>./TOSEC-ISO/Games/[ISO]/Will Bridge - Practice 4 - Competition (1991)(Will Bridge).cue</path>
+		<name>Will Bridge - Practice 4 - Competition</name>
+		<image>./images/TOSEC-ISO/Games/[ISO]/Will Bridge - Practice 4 - Competition (1991)(Will Bridge)-image.png</image>
+		<video>./videos/Will Bridge - Practice 4 - Competition (1991)(Will Bridge)-video.mp4</video>
+		<marquee>./images/TOSEC-ISO/Games/[ISO]/Will Bridge - Practice 4 - Competition (1991)(Will Bridge)-marquee.png</marquee>
+		<thumbnail>./images/TOSEC-ISO/Games/[ISO]/Will Bridge - Practice 4 - Competition (1991)(Will Bridge)-thumb.png</thumbnail>
+		<boxback>./images/Will Bridge - Practice 4 - Competition (1991)(Will Bridge)-boxback.png</boxback>
+		<rating>0</rating>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>1baf073f2988cc86de4819bfa6f6ed68</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193543" />
+	</game>
+	<game id="213453">
+		<path>./TOSEC-ISO/Games/[ISO]/Will Bridge - Practice 4 - Competition (1991)(Will Bridge).iso</path>
+		<name>Will Bridge - Practice 4 - Competition</name>
+		<image>./images/Will Bridge - Practice 4 - Competition (1991)(Will Bridge)-image.png</image>
+		<video>./videos/Will Bridge - Practice 4 - Competition (1991)(Will Bridge)-video.mp4</video>
+		<marquee>./images/Will Bridge - Practice 4 - Competition (1991)(Will Bridge)-marquee.png</marquee>
+		<thumbnail>./images/Will Bridge - Practice 4 - Competition (1991)(Will Bridge)-thumb.png</thumbnail>
+		<boxback>./images/Will Bridge - Practice 4 - Competition (1991)(Will Bridge)-boxback.png</boxback>
+		<rating>0</rating>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>f4541c2342900e10272a13e2897501b7</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193546" />
+	</game>
+	<game id="106475">
+		<path>./TOSEC-ISO/Games/[ISO]/Wrath of the Demon (1990)(ReadySoft)[!].cue</path>
+		<name>Wrath Of The Demon</name>
+		<desc>Wrath of the Demon is a game developed by a Quebec based company called Abstrax
+The adventurer begins the game on horseback, jumping over obstacles, beating flying creatures, and collecting potions on the ground. The hero must also proceed on foot through side-scrolling platforming levels, destroying creatures with his blade as well as collecting potions and additional weapons he will find on his quest.
+Gameplay style is Hack N Slash</desc>
+		<image>./images/TOSEC-ISO/Games/[ISO]/Wrath of the Demon (1990)(ReadySoft)[!]-image.png</image>
+		<video>./videos/Wrath of the Demon (1990)(ReadySoft)[!]-video.mp4</video>
+		<marquee>./images/TOSEC-ISO/Games/[ISO]/Wrath of the Demon (1990)(ReadySoft)[!]-marquee.png</marquee>
+		<thumbnail>./images/TOSEC-ISO/Games/[ISO]/Wrath of the Demon (1990)(ReadySoft)[!]-thumb.jpg</thumbnail>
+		<manual>./manuals/Wrath of the Demon (1990)(ReadySoft)[!]-manual.pdf</manual>
+		<boxback>./images/Wrath of the Demon (1990)(ReadySoft)[!]-boxback.png</boxback>
+		<rating>0.5</rating>
+		<developer>Abstrax</developer>
+		<publisher>ReadySoft</publisher>
+		<genre>Fight</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>6dd31cbff26afcbd839f615deefa3152</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193548" />
+	</game>
+	<game id="106475">
+		<path>./TOSEC-ISO/Games/[ISO]/Wrath of the Demon (1990)(ReadySoft)[!].iso</path>
+		<name>Wrath Of The Demon</name>
+		<desc>Wrath of the Demon is a game developed by a Quebec based company called Abstrax
+The adventurer begins the game on horseback, jumping over obstacles, beating flying creatures, and collecting potions on the ground. The hero must also proceed on foot through side-scrolling platforming levels, destroying creatures with his blade as well as collecting potions and additional weapons he will find on his quest.
+Gameplay style is Hack N Slash</desc>
+		<image>./images/Wrath of the Demon (1990)(ReadySoft)[!]-image.png</image>
+		<video>./videos/Wrath of the Demon (1990)(ReadySoft)[!]-video.mp4</video>
+		<marquee>./images/Wrath of the Demon (1990)(ReadySoft)[!]-marquee.png</marquee>
+		<thumbnail>./images/Wrath of the Demon (1990)(ReadySoft)[!]-thumb.png</thumbnail>
+		<manual>./manuals/Wrath of the Demon (1990)(ReadySoft)[!]-manual.pdf</manual>
+		<boxback>./images/Wrath of the Demon (1990)(ReadySoft)[!]-boxback.png</boxback>
+		<rating>0.5</rating>
+		<developer>Abstrax</developer>
+		<publisher>ReadySoft</publisher>
+		<genre>Fight</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>5c3ad1641afab44ffd7d5cedd4fbcfef</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193550" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/[MDF]/Camel Racer (1998)(MMMGroup)[CD32-CDTV].mds</path>
+		<name>Camel Racer (1998)(MMMGroup)[CD32-CDTV]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<md5>467ae4821f8a088daa86a205e0d8d92e</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T193552" />
+	</game>
+</gameList>

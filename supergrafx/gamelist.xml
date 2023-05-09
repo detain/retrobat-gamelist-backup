@@ -1,0 +1,479 @@
+<?xml version="1.0"?>
+<gameList>
+	<game id="59380">
+		<path>./TOSEC/1941 - Counter Attack (1991)(Hudson)(JP).pce</path>
+		<name>1941 : Counter Attack</name>
+		<desc>The SuperGrafx port of Capcom's hit arcade game. The goal is to shoot down enemy airplanes and collect weapon power-ups (POW). The game uses a vitality system instead of life system in which if the player is hit, it loses one point of vitality and the player is destroyed if hit with 0 vitality then the player is given the option to continue. Lightning attacks can be used by pressing the B button which sacrifices a portion of life energy. Player 1 flies the P-38 Lightning and Player 2 the new Mosquito Mk IV. The game shifts from the original Pacific Front setting with that of the Western Front, in the north Atlantic Ocean. 
+
+The game consists of six levels and was the first in the series to introduce a +1 to the high score when Continues are used.</desc>
+		<image>./images/1941 - Counter Attack (1991)(Hudson)(JP)-image.jpg</image>
+		<video>./videos/1941 - Counter Attack (1991)(Hudson)(JP)-video.mp4</video>
+		<marquee>./images/1941 - Counter Attack (1991)(Hudson)(JP)-marquee.png</marquee>
+		<thumbnail>./images/1941 - Counter Attack (1991)(Hudson)(JP)-thumb.png</thumbnail>
+		<fanart>./images/1941 - Counter Attack (1991)(Hudson)(JP)-fanart.jpg</fanart>
+		<bezel>./images/1941 - Counter Attack (1991)(Hudson)(JP)-bezel.png</bezel>
+		<boxback>./images/1941 - Counter Attack (1991)(Hudson)(JP)-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>19910823T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shoot'em Up</genre>
+		<family>19XX</family>
+		<players>1-2</players>
+		<crc32>8C4588E2</crc32>
+		<md5>30686dba4795521174658de2492e0046</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221227T025834" />
+	</game>
+	<game id="59380">
+		<path>./TOSEC/1941 - Counter Attack (1991)(Hudson)(JP)[a].pce</path>
+		<name>1941 : Counter Attack</name>
+		<desc>The SuperGrafx port of Capcom's hit arcade game. The goal is to shoot down enemy airplanes and collect weapon power-ups (POW). The game uses a vitality system instead of life system in which if the player is hit, it loses one point of vitality and the player is destroyed if hit with 0 vitality then the player is given the option to continue. Lightning attacks can be used by pressing the B button which sacrifices a portion of life energy. Player 1 flies the P-38 Lightning and Player 2 the new Mosquito Mk IV. The game shifts from the original Pacific Front setting with that of the Western Front, in the north Atlantic Ocean. 
+
+The game consists of six levels and was the first in the series to introduce a +1 to the high score when Continues are used.</desc>
+		<image>./images/1941 - Counter Attack (1991)(Hudson)(JP)[a]-image.jpg</image>
+		<video>./videos/1941 - Counter Attack (1991)(Hudson)(JP)[a]-video.mp4</video>
+		<marquee>./images/1941 - Counter Attack (1991)(Hudson)(JP)[a]-marquee.png</marquee>
+		<thumbnail>./images/1941 - Counter Attack (1991)(Hudson)(JP)[a]-thumb.png</thumbnail>
+		<fanart>./images/1941 - Counter Attack (1991)(Hudson)(JP)[a]-fanart.jpg</fanart>
+		<bezel>./images/1941 - Counter Attack (1991)(Hudson)(JP)[a]-bezel.png</bezel>
+		<boxback>./images/1941 - Counter Attack (1991)(Hudson)(JP)[a]-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>19910823T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shoot'em Up</genre>
+		<family>19XX</family>
+		<players>1-2</players>
+		<crc32>213066F4</crc32>
+		<md5>1e68f109d09b58e4dd5e0f3bb32af067</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221227T025837" />
+	</game>
+	<game id="59380">
+		<path>./TOSEC/1941 - Counter Attack (1991)(Hudson)(JP)[b2 freezes].pce</path>
+		<name>1941 : Counter Attack</name>
+		<desc>The SuperGrafx port of Capcom's hit arcade game. The goal is to shoot down enemy airplanes and collect weapon power-ups (POW). The game uses a vitality system instead of life system in which if the player is hit, it loses one point of vitality and the player is destroyed if hit with 0 vitality then the player is given the option to continue. Lightning attacks can be used by pressing the B button which sacrifices a portion of life energy. Player 1 flies the P-38 Lightning and Player 2 the new Mosquito Mk IV. The game shifts from the original Pacific Front setting with that of the Western Front, in the north Atlantic Ocean. 
+
+The game consists of six levels and was the first in the series to introduce a +1 to the high score when Continues are used.</desc>
+		<image>./images/1941 - Counter Attack (1991)(Hudson)(JP)[b2 freezes]-image.jpg</image>
+		<video>./videos/1941 - Counter Attack (1991)(Hudson)(JP)[b2 freezes]-video.mp4</video>
+		<marquee>./images/1941 - Counter Attack (1991)(Hudson)(JP)[b2 freezes]-marquee.png</marquee>
+		<thumbnail>./images/1941 - Counter Attack (1991)(Hudson)(JP)[b2 freezes]-thumb.png</thumbnail>
+		<fanart>./images/1941 - Counter Attack (1991)(Hudson)(JP)[b2 freezes]-fanart.jpg</fanart>
+		<bezel>./images/1941 - Counter Attack (1991)(Hudson)(JP)[b2 freezes]-bezel.png</bezel>
+		<boxback>./images/1941 - Counter Attack (1991)(Hudson)(JP)[b2 freezes]-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>19910823T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shoot'em Up</genre>
+		<family>19XX</family>
+		<players>1-2</players>
+		<crc32>D206E241</crc32>
+		<md5>ffe4e471440be4150ac64089dea92388</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221227T025839" />
+	</game>
+	<game id="59380">
+		<path>./TOSEC/1941 - Counter Attack (1991)(Hudson)(JP)[b].pce</path>
+		<name>1941 : Counter Attack</name>
+		<desc>The SuperGrafx port of Capcom's hit arcade game. The goal is to shoot down enemy airplanes and collect weapon power-ups (POW). The game uses a vitality system instead of life system in which if the player is hit, it loses one point of vitality and the player is destroyed if hit with 0 vitality then the player is given the option to continue. Lightning attacks can be used by pressing the B button which sacrifices a portion of life energy. Player 1 flies the P-38 Lightning and Player 2 the new Mosquito Mk IV. The game shifts from the original Pacific Front setting with that of the Western Front, in the north Atlantic Ocean. 
+
+The game consists of six levels and was the first in the series to introduce a +1 to the high score when Continues are used.</desc>
+		<image>./images/1941 - Counter Attack (1991)(Hudson)(JP)[b]-image.jpg</image>
+		<video>./videos/1941 - Counter Attack (1991)(Hudson)(JP)[b]-video.mp4</video>
+		<marquee>./images/1941 - Counter Attack (1991)(Hudson)(JP)[b]-marquee.png</marquee>
+		<thumbnail>./images/1941 - Counter Attack (1991)(Hudson)(JP)[b]-thumb.png</thumbnail>
+		<fanart>./images/1941 - Counter Attack (1991)(Hudson)(JP)[b]-fanart.jpg</fanart>
+		<bezel>./images/1941 - Counter Attack (1991)(Hudson)(JP)[b]-bezel.png</bezel>
+		<boxback>./images/1941 - Counter Attack (1991)(Hudson)(JP)[b]-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>19910823T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shoot'em Up</genre>
+		<family>19XX</family>
+		<players>1-2</players>
+		<crc32>9CC1F2B4</crc32>
+		<md5>f226db1f66cc52bbce819e2288b3d99c</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221227T025842" />
+	</game>
+	<game id="59380">
+		<path>./TOSEC/1941 - Counter Attack (1991)(Hudson)(JP)[h2].pce</path>
+		<name>1941 : Counter Attack</name>
+		<desc>The SuperGrafx port of Capcom's hit arcade game. The goal is to shoot down enemy airplanes and collect weapon power-ups (POW). The game uses a vitality system instead of life system in which if the player is hit, it loses one point of vitality and the player is destroyed if hit with 0 vitality then the player is given the option to continue. Lightning attacks can be used by pressing the B button which sacrifices a portion of life energy. Player 1 flies the P-38 Lightning and Player 2 the new Mosquito Mk IV. The game shifts from the original Pacific Front setting with that of the Western Front, in the north Atlantic Ocean. 
+
+The game consists of six levels and was the first in the series to introduce a +1 to the high score when Continues are used.</desc>
+		<image>./images/1941 - Counter Attack (1991)(Hudson)(JP)[h2]-image.jpg</image>
+		<video>./videos/1941 - Counter Attack (1991)(Hudson)(JP)[h2]-video.mp4</video>
+		<marquee>./images/1941 - Counter Attack (1991)(Hudson)(JP)[h2]-marquee.png</marquee>
+		<thumbnail>./images/1941 - Counter Attack (1991)(Hudson)(JP)[h2]-thumb.png</thumbnail>
+		<fanart>./images/1941 - Counter Attack (1991)(Hudson)(JP)[h2]-fanart.jpg</fanart>
+		<bezel>./images/1941 - Counter Attack (1991)(Hudson)(JP)[h2]-bezel.png</bezel>
+		<boxback>./images/1941 - Counter Attack (1991)(Hudson)(JP)[h2]-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>19910823T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shoot'em Up</genre>
+		<family>19XX</family>
+		<players>1-2</players>
+		<crc32>36B1F821</crc32>
+		<md5>f7e393be2ad1c110da21cace7595db41</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221227T025845" />
+	</game>
+	<game id="59380">
+		<path>./TOSEC/1941 - Counter Attack (1991)(Hudson)(JP)[h].pce</path>
+		<name>1941 : Counter Attack</name>
+		<desc>The SuperGrafx port of Capcom's hit arcade game. The goal is to shoot down enemy airplanes and collect weapon power-ups (POW). The game uses a vitality system instead of life system in which if the player is hit, it loses one point of vitality and the player is destroyed if hit with 0 vitality then the player is given the option to continue. Lightning attacks can be used by pressing the B button which sacrifices a portion of life energy. Player 1 flies the P-38 Lightning and Player 2 the new Mosquito Mk IV. The game shifts from the original Pacific Front setting with that of the Western Front, in the north Atlantic Ocean. 
+
+The game consists of six levels and was the first in the series to introduce a +1 to the high score when Continues are used.</desc>
+		<image>./images/1941 - Counter Attack (1991)(Hudson)(JP)[h]-image.jpg</image>
+		<video>./videos/1941 - Counter Attack (1991)(Hudson)(JP)[h]-video.mp4</video>
+		<marquee>./images/1941 - Counter Attack (1991)(Hudson)(JP)[h]-marquee.png</marquee>
+		<thumbnail>./images/1941 - Counter Attack (1991)(Hudson)(JP)[h]-thumb.png</thumbnail>
+		<fanart>./images/1941 - Counter Attack (1991)(Hudson)(JP)[h]-fanart.jpg</fanart>
+		<bezel>./images/1941 - Counter Attack (1991)(Hudson)(JP)[h]-bezel.png</bezel>
+		<boxback>./images/1941 - Counter Attack (1991)(Hudson)(JP)[h]-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>19910823T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shoot'em Up</genre>
+		<family>19XX</family>
+		<players>1-2</players>
+		<crc32>A96B6A07</crc32>
+		<md5>689ebae6b4fee7a8b3dd6f0b761f478f</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221227T025847" />
+	</game>
+	<game id="59380">
+		<path>./TOSEC/1941 - Counter Attack (1991)(Hudson)(JP)[u].pce</path>
+		<name>1941: Counter Attack</name>
+		<desc>The SuperGrafx port of Capcom's hit arcade game. The goal is to shoot down enemy airplanes and collect weapon power-ups (POW). The game uses a vitality system instead of life system in which if the player is hit, it loses one point of vitality and the player is destroyed if hit with 0 vitality then the player is given the option to continue. Lightning attacks can be used by pressing the B button which sacrifices a portion of life energy. Player 1 flies the P-38 Lightning and Player 2 the new Mosquito Mk IV. The game shifts from the original Pacific Front setting with that of the Western Front, in the north Atlantic Ocean. 
+
+The game consists of six levels and was the first in the series to introduce a +1 to the high score when Continues are used.</desc>
+		<image>./images/1941 - Counter Attack (1991)(Hudson)(JP)[u]-image.jpg</image>
+		<video>./videos/1941 - Counter Attack (1991)(Hudson)(JP)[u]-video.mp4</video>
+		<marquee>./images/1941 - Counter Attack (1991)(Hudson)(JP)[u]-marquee.png</marquee>
+		<thumbnail>./images/1941 - Counter Attack (1991)(Hudson)(JP)[u]-thumb.png</thumbnail>
+		<fanart>./images/1941 - Counter Attack (1991)(Hudson)(JP)[u]-fanart.jpg</fanart>
+		<bezel>./images/1941 - Counter Attack (1991)(Hudson)(JP)[u]-bezel.png</bezel>
+		<boxback>./images/1941 - Counter Attack (1991)(Hudson)(JP)[u]-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>19910823T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shoot'em Up</genre>
+		<family>19XX</family>
+		<players>1-2</players>
+		<crc32>25A5E19F</crc32>
+		<md5>f42b27970b0396e9775918e525f16a03</md5>
+		<lang>jp,en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221227T025850" />
+	</game>
+	<game id="59382">
+		<path>./TOSEC/Aldynes - The Mission Code for Rage Crisis (1991)(Hudson)(JP)(en).pce</path>
+		<name>Aldynes : The Misson Code for Rage Crisis</name>
+		<desc>Aldynes: The Mission Code for Rage Crisis, is a Japanese horizontal scrolling shoot 'em up game developed by Produce for the SuperGrafx. The game has a unique option-based combat and features levels with large scaling and parallax scrolling effects. 
+
+Nearing the year 2020, the societies of mankind fall into global depression just as an alien invasion suddenly descends on Earth. The aliens come from a large mechanical planetoid and attack Earth without reason or communication. With all defenses annihilated, the United Nations and NASA create a powerful space fighter known as The Ortega under project name Aldynes. When star space fighter pilot Fox-A was killed in battle; his bereaved girlfriend Hiroko soon discovers Project Aldynes and hijacks one of the ships to seek vengeance.</desc>
+		<image>./images/Aldynes - The Mission Code for Rage Crisis (1991)(Hudson)(JP)(en)-image.jpg</image>
+		<video>./videos/Aldynes - The Mission Code for Rage Crisis (1991)(Hudson)(JP)(en)-video.mp4</video>
+		<marquee>./images/Aldynes - The Mission Code for Rage Crisis (1991)(Hudson)(JP)(en)-marquee.png</marquee>
+		<thumbnail>./images/Aldynes - The Mission Code for Rage Crisis (1991)(Hudson)(JP)(en)-thumb.png</thumbnail>
+		<fanart>./images/Aldynes - The Mission Code for Rage Crisis (1991)(Hudson)(JP)(en)-fanart.jpg</fanart>
+		<bezel>./images/Aldynes - The Mission Code for Rage Crisis (1991)(Hudson)(JP)(en)-bezel.png</bezel>
+		<boxback>./images/Aldynes - The Mission Code for Rage Crisis (1991)(Hudson)(JP)(en)-boxback.png</boxback>
+		<rating>0.65</rating>
+		<releasedate>19910222T000000</releasedate>
+		<developer>Produce Co., Ltd.</developer>
+		<publisher>Hudson</publisher>
+		<genre>Shoot'em up / Horizontal</genre>
+		<players>1-2</players>
+		<crc32>4C2126B0</crc32>
+		<md5>8ce21667658ef9c025ad007f65147c6d</md5>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221227T025853" />
+	</game>
+	<game id="59382">
+		<path>./TOSEC/Aldynes - The Mission Code for Rage Crisis (1991)(Hudson)(JP)(en)[b2].pce</path>
+		<name>Aldynes : The Misson Code for Rage Crisis</name>
+		<desc>Aldynes: The Mission Code for Rage Crisis, is a Japanese horizontal scrolling shoot 'em up game developed by Produce for the SuperGrafx. The game has a unique option-based combat and features levels with large scaling and parallax scrolling effects. 
+
+Nearing the year 2020, the societies of mankind fall into global depression just as an alien invasion suddenly descends on Earth. The aliens come from a large mechanical planetoid and attack Earth without reason or communication. With all defenses annihilated, the United Nations and NASA create a powerful space fighter known as The Ortega under project name Aldynes. When star space fighter pilot Fox-A was killed in battle; his bereaved girlfriend Hiroko soon discovers Project Aldynes and hijacks one of the ships to seek vengeance.</desc>
+		<image>./images/Aldynes - The Mission Code for Rage Crisis (1991)(Hudson)(JP)(en)[b2]-image.jpg</image>
+		<video>./videos/Aldynes - The Mission Code for Rage Crisis (1991)(Hudson)(JP)(en)[b2]-video.mp4</video>
+		<marquee>./images/Aldynes - The Mission Code for Rage Crisis (1991)(Hudson)(JP)(en)[b2]-marquee.png</marquee>
+		<thumbnail>./images/Aldynes - The Mission Code for Rage Crisis (1991)(Hudson)(JP)(en)[b2]-thumb.png</thumbnail>
+		<fanart>./images/Aldynes - The Mission Code for Rage Crisis (1991)(Hudson)(JP)(en)[b2]-fanart.jpg</fanart>
+		<bezel>./images/Aldynes - The Mission Code for Rage Crisis (1991)(Hudson)(JP)(en)[b2]-bezel.png</bezel>
+		<boxback>./images/Aldynes - The Mission Code for Rage Crisis (1991)(Hudson)(JP)(en)[b2]-boxback.png</boxback>
+		<rating>0.65</rating>
+		<releasedate>19910222T000000</releasedate>
+		<developer>Produce Co., Ltd.</developer>
+		<publisher>Hudson</publisher>
+		<genre>Shoot'em up / Horizontal</genre>
+		<players>1-2</players>
+		<crc32>6D97373E</crc32>
+		<md5>b0ef4278ba450af3240976a2a1defea6</md5>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221227T025855" />
+	</game>
+	<game id="59382">
+		<path>./TOSEC/Aldynes - The Mission Code for Rage Crisis (1991)(Hudson)(JP)(en)[b3].pce</path>
+		<name>Aldynes : The Misson Code for Rage Crisis</name>
+		<desc>Aldynes: The Mission Code for Rage Crisis, is a Japanese horizontal scrolling shoot 'em up game developed by Produce for the SuperGrafx. The game has a unique option-based combat and features levels with large scaling and parallax scrolling effects. 
+
+Nearing the year 2020, the societies of mankind fall into global depression just as an alien invasion suddenly descends on Earth. The aliens come from a large mechanical planetoid and attack Earth without reason or communication. With all defenses annihilated, the United Nations and NASA create a powerful space fighter known as The Ortega under project name Aldynes. When star space fighter pilot Fox-A was killed in battle; his bereaved girlfriend Hiroko soon discovers Project Aldynes and hijacks one of the ships to seek vengeance.</desc>
+		<image>./images/Aldynes - The Mission Code for Rage Crisis (1991)(Hudson)(JP)(en)[b3]-image.jpg</image>
+		<video>./videos/Aldynes - The Mission Code for Rage Crisis (1991)(Hudson)(JP)(en)[b3]-video.mp4</video>
+		<marquee>./images/Aldynes - The Mission Code for Rage Crisis (1991)(Hudson)(JP)(en)[b3]-marquee.png</marquee>
+		<thumbnail>./images/Aldynes - The Mission Code for Rage Crisis (1991)(Hudson)(JP)(en)[b3]-thumb.png</thumbnail>
+		<fanart>./images/Aldynes - The Mission Code for Rage Crisis (1991)(Hudson)(JP)(en)[b3]-fanart.jpg</fanart>
+		<bezel>./images/Aldynes - The Mission Code for Rage Crisis (1991)(Hudson)(JP)(en)[b3]-bezel.png</bezel>
+		<boxback>./images/Aldynes - The Mission Code for Rage Crisis (1991)(Hudson)(JP)(en)[b3]-boxback.png</boxback>
+		<rating>0.65</rating>
+		<releasedate>19910222T000000</releasedate>
+		<developer>Produce Co., Ltd.</developer>
+		<publisher>Hudson</publisher>
+		<genre>Shoot'em up / Horizontal</genre>
+		<players>1-2</players>
+		<crc32>FA143EA3</crc32>
+		<md5>09807004b6ea33cfc341645b9f45f6ce</md5>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221227T025857" />
+	</game>
+	<game id="59382">
+		<path>./TOSEC/Aldynes - The Mission Code for Rage Crisis (1991)(Hudson)(JP)(en)[b4].pce</path>
+		<name>Aldynes : The Misson Code for Rage Crisis</name>
+		<desc>Aldynes: The Mission Code for Rage Crisis, is a Japanese horizontal scrolling shoot 'em up game developed by Produce for the SuperGrafx. The game has a unique option-based combat and features levels with large scaling and parallax scrolling effects. 
+
+Nearing the year 2020, the societies of mankind fall into global depression just as an alien invasion suddenly descends on Earth. The aliens come from a large mechanical planetoid and attack Earth without reason or communication. With all defenses annihilated, the United Nations and NASA create a powerful space fighter known as The Ortega under project name Aldynes. When star space fighter pilot Fox-A was killed in battle; his bereaved girlfriend Hiroko soon discovers Project Aldynes and hijacks one of the ships to seek vengeance.</desc>
+		<image>./images/Aldynes - The Mission Code for Rage Crisis (1991)(Hudson)(JP)(en)[b4]-image.jpg</image>
+		<video>./videos/Aldynes - The Mission Code for Rage Crisis (1991)(Hudson)(JP)(en)[b4]-video.mp4</video>
+		<marquee>./images/Aldynes - The Mission Code for Rage Crisis (1991)(Hudson)(JP)(en)[b4]-marquee.png</marquee>
+		<thumbnail>./images/Aldynes - The Mission Code for Rage Crisis (1991)(Hudson)(JP)(en)[b4]-thumb.png</thumbnail>
+		<fanart>./images/Aldynes - The Mission Code for Rage Crisis (1991)(Hudson)(JP)(en)[b4]-fanart.jpg</fanart>
+		<bezel>./images/Aldynes - The Mission Code for Rage Crisis (1991)(Hudson)(JP)(en)[b4]-bezel.png</bezel>
+		<boxback>./images/Aldynes - The Mission Code for Rage Crisis (1991)(Hudson)(JP)(en)[b4]-boxback.png</boxback>
+		<rating>0.65</rating>
+		<releasedate>19910222T000000</releasedate>
+		<developer>Produce Co., Ltd.</developer>
+		<publisher>Hudson</publisher>
+		<genre>Shoot'em up / Horizontal</genre>
+		<players>1-2</players>
+		<crc32>4A0EAF7D</crc32>
+		<md5>f5983cbb058d3abc86dc9bc48d1661b8</md5>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221227T025900" />
+	</game>
+	<game id="59382">
+		<path>./TOSEC/Aldynes - The Mission Code for Rage Crisis (1991)(Hudson)(JP)(en)[b5].pce</path>
+		<name>Aldynes : The Misson Code for Rage Crisis</name>
+		<desc>Aldynes: The Mission Code for Rage Crisis, is a Japanese horizontal scrolling shoot 'em up game developed by Produce for the SuperGrafx. The game has a unique option-based combat and features levels with large scaling and parallax scrolling effects. 
+
+Nearing the year 2020, the societies of mankind fall into global depression just as an alien invasion suddenly descends on Earth. The aliens come from a large mechanical planetoid and attack Earth without reason or communication. With all defenses annihilated, the United Nations and NASA create a powerful space fighter known as The Ortega under project name Aldynes. When star space fighter pilot Fox-A was killed in battle; his bereaved girlfriend Hiroko soon discovers Project Aldynes and hijacks one of the ships to seek vengeance.</desc>
+		<image>./images/Aldynes - The Mission Code for Rage Crisis (1991)(Hudson)(JP)(en)[b5]-image.jpg</image>
+		<video>./videos/Aldynes - The Mission Code for Rage Crisis (1991)(Hudson)(JP)(en)[b5]-video.mp4</video>
+		<marquee>./images/Aldynes - The Mission Code for Rage Crisis (1991)(Hudson)(JP)(en)[b5]-marquee.png</marquee>
+		<thumbnail>./images/Aldynes - The Mission Code for Rage Crisis (1991)(Hudson)(JP)(en)[b5]-thumb.png</thumbnail>
+		<fanart>./images/Aldynes - The Mission Code for Rage Crisis (1991)(Hudson)(JP)(en)[b5]-fanart.jpg</fanart>
+		<bezel>./images/Aldynes - The Mission Code for Rage Crisis (1991)(Hudson)(JP)(en)[b5]-bezel.png</bezel>
+		<boxback>./images/Aldynes - The Mission Code for Rage Crisis (1991)(Hudson)(JP)(en)[b5]-boxback.png</boxback>
+		<rating>0.65</rating>
+		<releasedate>19910222T000000</releasedate>
+		<developer>Produce Co., Ltd.</developer>
+		<publisher>Hudson</publisher>
+		<genre>Shoot'em up / Horizontal</genre>
+		<players>1-2</players>
+		<crc32>10BCD11C</crc32>
+		<md5>2ee2eeeb4691add82a86ccfe5dcc9d3e</md5>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221227T025903" />
+	</game>
+	<game id="59382">
+		<path>./TOSEC/Aldynes - The Mission Code for Rage Crisis (1991)(Hudson)(JP)(en)[b].pce</path>
+		<name>Aldynes : The Misson Code for Rage Crisis</name>
+		<desc>Aldynes: The Mission Code for Rage Crisis, is a Japanese horizontal scrolling shoot 'em up game developed by Produce for the SuperGrafx. The game has a unique option-based combat and features levels with large scaling and parallax scrolling effects. 
+
+Nearing the year 2020, the societies of mankind fall into global depression just as an alien invasion suddenly descends on Earth. The aliens come from a large mechanical planetoid and attack Earth without reason or communication. With all defenses annihilated, the United Nations and NASA create a powerful space fighter known as The Ortega under project name Aldynes. When star space fighter pilot Fox-A was killed in battle; his bereaved girlfriend Hiroko soon discovers Project Aldynes and hijacks one of the ships to seek vengeance.</desc>
+		<image>./images/Aldynes - The Mission Code for Rage Crisis (1991)(Hudson)(JP)(en)[b]-image.jpg</image>
+		<video>./videos/Aldynes - The Mission Code for Rage Crisis (1991)(Hudson)(JP)(en)[b]-video.mp4</video>
+		<marquee>./images/Aldynes - The Mission Code for Rage Crisis (1991)(Hudson)(JP)(en)[b]-marquee.png</marquee>
+		<thumbnail>./images/Aldynes - The Mission Code for Rage Crisis (1991)(Hudson)(JP)(en)[b]-thumb.png</thumbnail>
+		<fanart>./images/Aldynes - The Mission Code for Rage Crisis (1991)(Hudson)(JP)(en)[b]-fanart.jpg</fanart>
+		<bezel>./images/Aldynes - The Mission Code for Rage Crisis (1991)(Hudson)(JP)(en)[b]-bezel.png</bezel>
+		<boxback>./images/Aldynes - The Mission Code for Rage Crisis (1991)(Hudson)(JP)(en)[b]-boxback.png</boxback>
+		<rating>0.65</rating>
+		<releasedate>19910222T000000</releasedate>
+		<developer>Produce Co., Ltd.</developer>
+		<publisher>Hudson</publisher>
+		<genre>Shoot'em up / Horizontal</genre>
+		<players>1-2</players>
+		<crc32>D859B87D</crc32>
+		<md5>d5b2f59af6972b4f8027c92c2e47c57d</md5>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221227T025905" />
+	</game>
+	<game id="59382">
+		<path>./TOSEC/Aldynes - The Mission Code for Rage Crisis (1991)(Hudson)(JP)(en)[u].pce</path>
+		<name>Aldynes - The Mission Code For Rage Crisis</name>
+		<desc>Aldynes: The Mission Code for Rage Crisis, is a Japanese horizontal scrolling shoot 'em up game developed by Produce for the SuperGrafx. The game has a unique option-based combat and features levels with large scaling and parallax scrolling effects. 
+
+Nearing the year 2020, the societies of mankind fall into global depression just as an alien invasion suddenly descends on Earth. The aliens come from a large mechanical planetoid and attack Earth without reason or communication. With all defenses annihilated, the United Nations and NASA create a powerful space fighter known as The Ortega under project name Aldynes. When star space fighter pilot Fox-A was killed in battle; his bereaved girlfriend Hiroko soon discovers Project Aldynes and hijacks one of the ships to seek vengeance.</desc>
+		<image>./images/Aldynes - The Mission Code for Rage Crisis (1991)(Hudson)(JP)(en)[u]-image.jpg</image>
+		<video>./videos/Aldynes - The Mission Code for Rage Crisis (1991)(Hudson)(JP)(en)[u]-video.mp4</video>
+		<marquee>./images/Aldynes - The Mission Code for Rage Crisis (1991)(Hudson)(JP)(en)[u]-marquee.png</marquee>
+		<thumbnail>./images/Aldynes - The Mission Code for Rage Crisis (1991)(Hudson)(JP)(en)[u]-thumb.png</thumbnail>
+		<fanart>./images/Aldynes - The Mission Code for Rage Crisis (1991)(Hudson)(JP)(en)[u]-fanart.jpg</fanart>
+		<bezel>./images/Aldynes - The Mission Code for Rage Crisis (1991)(Hudson)(JP)(en)[u]-bezel.png</bezel>
+		<boxback>./images/Aldynes - The Mission Code for Rage Crisis (1991)(Hudson)(JP)(en)[u]-boxback.png</boxback>
+		<rating>0.65</rating>
+		<releasedate>19910222T000000</releasedate>
+		<developer>Produce Co., Ltd.</developer>
+		<publisher>Hudson</publisher>
+		<genre>Shoot'em up / Horizontal</genre>
+		<players>1-2</players>
+		<crc32>2EE73183</crc32>
+		<md5>30226111516f9d6b23f375f1c0082bb1</md5>
+		<lang>jp,en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221227T025908" />
+	</game>
+	<game id="59383">
+		<path>./TOSEC/Battle Ace (1989)(Hudson)(JP)(en).pce</path>
+		<name>Battle Ace</name>
+		<desc>Battle Ace is an action-oriented flight game in a first-person perspective. The player mans a space ship, including a radar which shows enemies, and the goal is to reach the end of each level where an end boss waits. As usually, the main occupation is to blast a lot of aliens which approach the player. The available weapons are bombs and a machine gun, both unlimited. Getting hit is a bad idea because it results in death. The player has three lives which can be raised by scoring 20000 points.</desc>
+		<image>./images/Battle Ace (1989)(Hudson)(JP)(en)-image.jpg</image>
+		<video>./videos/Battle Ace (1989)(Hudson)(JP)(en)-video.mp4</video>
+		<marquee>./images/Battle Ace (1989)(Hudson)(JP)(en)-marquee.png</marquee>
+		<thumbnail>./images/Battle Ace (1989)(Hudson)(JP)(en)-thumb.png</thumbnail>
+		<fanart>./images/Battle Ace (1989)(Hudson)(JP)(en)-fanart.jpg</fanart>
+		<bezel>./images/Battle Ace (1989)(Hudson)(JP)(en)-bezel.png</bezel>
+		<boxback>./images/Battle Ace (1989)(Hudson)(JP)(en)-boxback.png</boxback>
+		<rating>0.65</rating>
+		<releasedate>19891130T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Hudson</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
+		<crc32>3B13AF61</crc32>
+		<md5>fc0053c0c050353b87886b1b89349168</md5>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221227T025911" />
+	</game>
+	<game id="59383">
+		<path>./TOSEC/Battle Ace (1989)(Hudson)(JP)(en)[b corrupt gfx].pce</path>
+		<name>Battle Ace</name>
+		<desc>Battle Ace is an action-oriented flight game in a first-person perspective. The player mans a space ship, including a radar which shows enemies, and the goal is to reach the end of each level where an end boss waits. As usually, the main occupation is to blast a lot of aliens which approach the player. The available weapons are bombs and a machine gun, both unlimited. Getting hit is a bad idea because it results in death. The player has three lives which can be raised by scoring 20000 points.</desc>
+		<image>./images/Battle Ace (1989)(Hudson)(JP)(en)[b corrupt gfx]-image.jpg</image>
+		<video>./videos/Battle Ace (1989)(Hudson)(JP)(en)[b corrupt gfx]-video.mp4</video>
+		<marquee>./images/Battle Ace (1989)(Hudson)(JP)(en)[b corrupt gfx]-marquee.png</marquee>
+		<thumbnail>./images/Battle Ace (1989)(Hudson)(JP)(en)[b corrupt gfx]-thumb.png</thumbnail>
+		<fanart>./images/Battle Ace (1989)(Hudson)(JP)(en)[b corrupt gfx]-fanart.jpg</fanart>
+		<bezel>./images/Battle Ace (1989)(Hudson)(JP)(en)[b corrupt gfx]-bezel.png</bezel>
+		<boxback>./images/Battle Ace (1989)(Hudson)(JP)(en)[b corrupt gfx]-boxback.png</boxback>
+		<rating>0.65</rating>
+		<releasedate>19891130T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Hudson</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
+		<crc32>0115FB6F</crc32>
+		<md5>356fbc3619368de77b6d67af74375038</md5>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221227T025913" />
+	</game>
+	<game id="59383">
+		<path>./TOSEC/Battle Ace (1989)(Hudson)(JP)(en)[b2].pce</path>
+		<name>Battle Ace</name>
+		<desc>Battle Ace is an action-oriented flight game in a first-person perspective. The player mans a space ship, including a radar which shows enemies, and the goal is to reach the end of each level where an end boss waits. As usually, the main occupation is to blast a lot of aliens which approach the player. The available weapons are bombs and a machine gun, both unlimited. Getting hit is a bad idea because it results in death. The player has three lives which can be raised by scoring 20000 points.</desc>
+		<image>./images/Battle Ace (1989)(Hudson)(JP)(en)[b2]-image.jpg</image>
+		<video>./videos/Battle Ace (1989)(Hudson)(JP)(en)[b2]-video.mp4</video>
+		<marquee>./images/Battle Ace (1989)(Hudson)(JP)(en)[b2]-marquee.png</marquee>
+		<thumbnail>./images/Battle Ace (1989)(Hudson)(JP)(en)[b2]-thumb.png</thumbnail>
+		<fanart>./images/Battle Ace (1989)(Hudson)(JP)(en)[b2]-fanart.jpg</fanart>
+		<bezel>./images/Battle Ace (1989)(Hudson)(JP)(en)[b2]-bezel.png</bezel>
+		<boxback>./images/Battle Ace (1989)(Hudson)(JP)(en)[b2]-boxback.png</boxback>
+		<rating>0.65</rating>
+		<releasedate>19891130T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Hudson</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
+		<crc32>5DC4587C</crc32>
+		<md5>eb237478206bf6e88af5e189696fffcd</md5>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221227T025916" />
+	</game>
+	<game id="129653">
+		<path>./TOSEC/Daimakaimura (1990)(NEC Avenue)(JP).pce</path>
+		<name>Dai-Makaimura</name>
+		<desc>Three years after the events of Ghosts'n Goblins, the world is once again under attack by demons. Guinevere, Arthur the knight's fiancée, is killed before his eyes by Lucifer himself. Arthur is forced to travel the kingdom infested with evil creatures to save the soul of his beloved.</desc>
+		<image>./images/Daimakaimura (1990)(NEC Avenue)(JP)-image.jpg</image>
+		<video>./videos/Daimakaimura (1990)(NEC Avenue)(JP)-video.mp4</video>
+		<marquee>./images/Daimakaimura (1990)(NEC Avenue)(JP)-marquee.png</marquee>
+		<thumbnail>./images/Daimakaimura (1990)(NEC Avenue)(JP)-thumb.png</thumbnail>
+		<fanart>./images/Daimakaimura (1990)(NEC Avenue)(JP)-fanart.jpg</fanart>
+		<manual>./manuals/Daimakaimura (1990)(NEC Avenue)(JP)-manual.pdf</manual>
+		<bezel>./images/Daimakaimura (1990)(NEC Avenue)(JP)-bezel.png</bezel>
+		<boxback>./images/Daimakaimura (1990)(NEC Avenue)(JP)-boxback.png</boxback>
+		<rating>0.7</rating>
+		<releasedate>19900727T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>NEC</publisher>
+		<genre>Platform</genre>
+		<family>Ghost'n Goblins</family>
+		<players>1</players>
+		<crc32>B486A8ED</crc32>
+		<md5>6d9ff6f70608166c88fd2553d44ca17a</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221227T025918" />
+	</game>
+	<game id="59385">
+		<path>./TOSEC/Madou Ou Granzort (1990)(Hudson)(JP).pce</path>
+		<name>Madou King Granzort</name>
+		<desc>Madouou Granzort is a platform/action game that consists of seven zones each guarded by a boss.
+You will cross ruins, underground, a forest or any futuristic complex by laminating robots of various forms.
+You will make your character jump by pressing the I button and hit him by pressing the II button. It is the Select button that pauses the game, as Run is used to switch heroes. At any time you can switch from the red knight to the green, then to the blue and so on.</desc>
+		<image>./images/Madou Ou Granzort (1990)(Hudson)(JP)-image.jpg</image>
+		<video>./videos/Madou Ou Granzort (1990)(Hudson)(JP)-video.mp4</video>
+		<marquee>./images/Madou Ou Granzort (1990)(Hudson)(JP)-marquee.png</marquee>
+		<thumbnail>./images/Madou Ou Granzort (1990)(Hudson)(JP)-thumb.png</thumbnail>
+		<fanart>./images/Madou Ou Granzort (1990)(Hudson)(JP)-fanart.jpg</fanart>
+		<bezel>./images/Madou Ou Granzort (1990)(Hudson)(JP)-bezel.png</bezel>
+		<boxback>./images/Madou Ou Granzort (1990)(Hudson)(JP)-boxback.png</boxback>
+		<rating>0.85</rating>
+		<releasedate>19900406T000000</releasedate>
+		<developer>Sunrise Software</developer>
+		<publisher>Hudson</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<crc32>1F041166</crc32>
+		<md5>7e1e489c50fc6213196e6dbb704f6671</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221227T025921" />
+	</game>
+</gameList>

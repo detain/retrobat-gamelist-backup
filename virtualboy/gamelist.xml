@@ -1,0 +1,3412 @@
+<?xml version="1.0"?>
+<gameList>
+	<game id="419550">
+		<path>./No-Intro/3-D BattleSnake (World) (Aftermarket) (Homebrew).vb</path>
+		<name>3-D Battlesnake</name>
+		<rating>0</rating>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>14EE3F7D</crc32>
+		<md5>0ab33db88ee41f540d968127dc55fa50</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230228T212558" />
+	</game>
+	<game id="4731">
+		<path>./No-Intro/3-D Tetris (USA).vb</path>
+		<name>3D Tetris</name>
+		<desc>3D Tetris is a 3D Tetris game on Virtual Boy with 3 modes. The first contains five layers of Tetris blocks. Each time you complete a layer the blocks fall, disappear and you'll be rewarded with points. In the second, you place the blocks around the center of a well, the aim being to make them disappear. In the third mode, a form will be posted before the start of the match. You will have to reproduce that form perfectly.</desc>
+		<image>./media/screenshots/3-D Tetris (USA).png</image>
+		<video>./media/videos/3-D Tetris (USA).mp4</video>
+		<marquee>./media/marquees/3-D Tetris (USA).png</marquee>
+		<thumbnail>./images/3-D Tetris (USA)-thumb.png</thumbnail>
+		<fanart>./images/3-D Tetris (USA)-fanart.jpg</fanart>
+		<manual>./manuals/3-D Tetris (USA)-manual.pdf</manual>
+		<boxback>./images/3-D Tetris (USA)-boxback.png</boxback>
+		<rating>0.6</rating>
+		<releasedate>19960322T000000</releasedate>
+		<developer>T&amp;E Soft</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle-Game</genre>
+		<family>Tetris</family>
+		<players>1</players>
+		<kidgame>true</kidgame>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>BB71B522</crc32>
+		<md5>ecf1218706e9b547eab9e4be58d54e21</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230228T212600" />
+	</game>
+	<game id="419565">
+		<path>./No-Intro/3D Crosswords (World) (Emulator Version) (Aftermarket) (Homebrew).vb</path>
+		<name>3D Crosswords</name>
+		<rating>0</rating>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>BB061C9D</crc32>
+		<md5>cef10df7728f4398af46d51efc89d3d0</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230228T212602" />
+	</game>
+	<game id="419565">
+		<path>./No-Intro/3D Crosswords (World) (Hardware Version) (Aftermarket) (Homebrew).vb</path>
+		<name>3D Crosswords</name>
+		<rating>0</rating>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>3754E82E</crc32>
+		<md5>35554dcf602fd2452d7adb033a85cc40</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230228T212603" />
+	</game>
+	<game id="423958">
+		<path>./No-Intro/Bad Apple (World) (Demo) (Emulator Version) (Aftermarket) (Homebrew).vb</path>
+		<name>ZZZ(notgame):Bad Apple</name>
+		<rating>0</rating>
+		<hidden>true</hidden>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>C97990B8</crc32>
+		<md5>f8fcc14c7ed3d091fc4bc433bc88acf2</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230228T212607" />
+	</game>
+	<game id="423958">
+		<path>./No-Intro/Bad Apple (World) (Demo) (Hardware Version) (Aftermarket) (Homebrew).vb</path>
+		<name>ZZZ(notgame):Bad Apple</name>
+		<rating>0</rating>
+		<hidden>true</hidden>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>043E3634</crc32>
+		<md5>b01b1f5dc1d84d98688d214ab8734fca</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230228T212610" />
+	</game>
+	<game id="172279">
+		<path>./No-Intro/Ballface (World) (Demo) (Aftermarket) (Homebrew).vb</path>
+		<name>Ballface</name>
+		<desc>“Ballface” is a direct clone of the known prototype of Faceball. It was not built with the actual ROM in hand, but using detailed descriptions provided by an individual called Mr. G prior to the ROM of Faceball getting released.</desc>
+		<image>./images/Ballface (World) (Demo) (Aftermarket) (Homebrew)-image.png</image>
+		<video>./videos/Ballface (World) (Demo) (Aftermarket) (Homebrew)-video.mp4</video>
+		<marquee>./images/Ballface (World) (Demo) (Aftermarket) (Homebrew)-marquee.png</marquee>
+		<thumbnail>./images/Ballface (World) (Demo) (Aftermarket) (Homebrew)-thumb.png</thumbnail>
+		<boxback>./images/Ballface (World) (Demo) (Aftermarket) (Homebrew)-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>20130106T000000</releasedate>
+		<developer>DanB</developer>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>D6FD48DF</crc32>
+		<md5>2add85e4e285cba673dd93f135eba2cb</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230228T212619" />
+	</game>
+	<game id="143416">
+		<path>./No-Intro/BLOX (World) (v1.0) (Aftermarket) (Homebrew).vb</path>
+		<name>Blox</name>
+		<desc>Blox was created by KR155E and are based off of the 1982 arcade game Sokobon, and the 1990 Game Boy game Boxxle. You move boxes around a board until they cover a tile that has a target on it. Once all the boxes are on a target you move on to the next level. Although it's a simple concept, like many good games, it gets harder as you progress. The length of the game depends on what difficulty you have the game set on.</desc>
+		<image>./images/BLOX (World) (v1.0) (Aftermarket) (Homebrew)-image.png</image>
+		<video>./videos/BLOX (World) (v1.0) (Aftermarket) (Homebrew)-video.mp4</video>
+		<marquee>./images/BLOX (World) (v1.0) (Aftermarket) (Homebrew)-marquee.png</marquee>
+		<thumbnail>./images/BLOX (World) (v1.0) (Aftermarket) (Homebrew)-thumb.png</thumbnail>
+		<boxback>./images/BLOX (World) (v1.0) (Aftermarket) (Homebrew)-boxback.png</boxback>
+		<rating>0.5</rating>
+		<releasedate>20031016T000000</releasedate>
+		<developer>Christian Radke (KR155E)</developer>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>7BAF43B0</crc32>
+		<md5>231145f89792e8399a730612e97ae4df</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230228T212628" />
+	</game>
+	<game id="143416">
+		<path>./No-Intro/BLOX (World) (v1.1) (Aftermarket) (Homebrew).vb</path>
+		<name>Blox</name>
+		<desc>Blox was created by KR155E and are based off of the 1982 arcade game Sokobon, and the 1990 Game Boy game Boxxle. You move boxes around a board until they cover a tile that has a target on it. Once all the boxes are on a target you move on to the next level. Although it's a simple concept, like many good games, it gets harder as you progress. The length of the game depends on what difficulty you have the game set on.</desc>
+		<image>./images/BLOX (World) (v1.1) (Aftermarket) (Homebrew)-image.png</image>
+		<video>./videos/BLOX (World) (v1.1) (Aftermarket) (Homebrew)-video.mp4</video>
+		<marquee>./images/BLOX (World) (v1.1) (Aftermarket) (Homebrew)-marquee.png</marquee>
+		<thumbnail>./images/BLOX (World) (v1.1) (Aftermarket) (Homebrew)-thumb.png</thumbnail>
+		<boxback>./images/BLOX (World) (v1.1) (Aftermarket) (Homebrew)-boxback.png</boxback>
+		<rating>0.5</rating>
+		<releasedate>20031016T000000</releasedate>
+		<developer>Christian Radke (KR155E)</developer>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>450FEAB5</crc32>
+		<md5>f82d4c9fdd81518537d88f70c6602bb5</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230228T212638" />
+	</game>
+	<game id="420603">
+		<path>./No-Intro/BLOX 2 (World) (En,Fr,De,Es,It,Sv,Fi,Cs,Sl) (Aftermarket) (Homebrew).vb</path>
+		<name>ZZZ(notgame):Blox 2</name>
+		<rating>0</rating>
+		<hidden>true</hidden>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>85460A25</crc32>
+		<md5>cc91d6389df2c9777919e8e8ab2c0e66</md5>
+		<lang>de,en,es,fr,it</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230228T212639" />
+	</game>
+	<game id="172272">
+		<path>./No-Intro/Capitan Sevilla 2 (World) (Es) (Aftermarket) (Homebrew).vb</path>
+		<name>Capitan Sevilla 2</name>
+		<desc>Capitan Sevilla 2 is a port of the Action game Capitan Sevilla published on ZX Spectrum in 1988.</desc>
+		<image>./images/Capitan Sevilla 2 (World) (Es) (Aftermarket) (Homebrew)-image.png</image>
+		<video>./videos/Capitan Sevilla 2 (World) (Es) (Aftermarket) (Homebrew)-video.mp4</video>
+		<marquee>./images/Capitan Sevilla 2 (World) (Es) (Aftermarket) (Homebrew)-marquee.png</marquee>
+		<thumbnail>./images/Capitan Sevilla 2 (World) (Es) (Aftermarket) (Homebrew)-thumb.png</thumbnail>
+		<boxback>./images/Capitan Sevilla 2 (World) (Es) (Aftermarket) (Homebrew)-boxback.png</boxback>
+		<rating>0</rating>
+		<developer>Hi Score</developer>
+		<genre>Action / Adventure</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>F18001F0</crc32>
+		<md5>fe92b28e43edd00c6b9401d81446a0a7</md5>
+		<lang>en,es</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230228T212648" />
+	</game>
+	<game id="423892">
+		<path>./No-Intro/Capitan Sevilla 3D (World) (En,De,Es) (Demo) (Aftermarket) (Homebrew).vb</path>
+		<name>Capitan Sevilla 3D</name>
+		<rating>0</rating>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>6AC2C2E7</crc32>
+		<md5>101479a7e4b20566465ded419eb550b0</md5>
+		<lang>de,en,es</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230228T212650" />
+	</game>
+	<game id="423760">
+		<path>./No-Intro/Elevated Speed (World) (High Resolution Version) (Aftermarket) (Homebrew).vb</path>
+		<name>Elevated Speed</name>
+		<rating>0</rating>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>9C93AA2A</crc32>
+		<md5>8f7bcfdd0f412d9060b06a97a89fe202</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230228T212652" />
+	</game>
+	<game id="423760">
+		<path>./No-Intro/Elevated Speed (World) (Low Resolution Version) (Aftermarket) (Homebrew).vb</path>
+		<name>Elevated Speed</name>
+		<rating>0</rating>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>61D03CCC</crc32>
+		<md5>0b310032ec2ebfcefb12676e4a8c7414</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230228T212653" />
+	</game>
+	<game id="172278">
+		<path>./No-Intro/Fishbone (World) (Aftermarket) (Homebrew).vb</path>
+		<name>Fishbone</name>
+		<desc>Big fish eat small fish! In Fishbone you play as a fish called Bubbles and go for Highscores in a total of 4 levels by eating as many smaller fish as you can, while avoiding the ones bigger than you, bombs and other harmful things.</desc>
+		<image>./images/Fishbone (World) (Aftermarket) (Homebrew)-image.png</image>
+		<video>./videos/Fishbone (World) (Aftermarket) (Homebrew)-video.mp4</video>
+		<marquee>./images/Fishbone (World) (Aftermarket) (Homebrew)-marquee.png</marquee>
+		<thumbnail>./images/Fishbone (World) (Aftermarket) (Homebrew)-thumb.png</thumbnail>
+		<boxback>./images/Fishbone (World) (Aftermarket) (Homebrew)-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>20121104T000000</releasedate>
+		<developer>ThunderStruck</developer>
+		<publisher>ThunderStruck</publisher>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>B5977E82</crc32>
+		<md5>eee8be03986ddbc3ada91b10a543f17e</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230228T212702" />
+	</game>
+	<game id="172278">
+		<path>./No-Intro/Fishbone (World) (Demo 1) (Aftermarket) (Homebrew).vb</path>
+		<name>Fishbone</name>
+		<desc>Big fish eat small fish! In Fishbone you play as a fish called Bubbles and go for Highscores in a total of 4 levels by eating as many smaller fish as you can, while avoiding the ones bigger than you, bombs and other harmful things.</desc>
+		<image>./images/Fishbone (World) (Demo 1) (Aftermarket) (Homebrew)-image.png</image>
+		<video>./videos/Fishbone (World) (Demo 1) (Aftermarket) (Homebrew)-video.mp4</video>
+		<marquee>./images/Fishbone (World) (Demo 1) (Aftermarket) (Homebrew)-marquee.png</marquee>
+		<thumbnail>./images/Fishbone (World) (Demo 1) (Aftermarket) (Homebrew)-thumb.png</thumbnail>
+		<boxback>./images/Fishbone (World) (Demo 1) (Aftermarket) (Homebrew)-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>20121104T000000</releasedate>
+		<developer>ThunderStruck</developer>
+		<publisher>ThunderStruck</publisher>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>9803B3EA</crc32>
+		<md5>5db98a9e661512105b93268d4f80adfd</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230228T212712" />
+	</game>
+	<game id="172278">
+		<path>./No-Intro/Fishbone (World) (Demo 2) (Aftermarket) (Homebrew).vb</path>
+		<name>Fishbone</name>
+		<desc>Big fish eat small fish! In Fishbone you play as a fish called Bubbles and go for Highscores in a total of 4 levels by eating as many smaller fish as you can, while avoiding the ones bigger than you, bombs and other harmful things.</desc>
+		<image>./images/Fishbone (World) (Demo 2) (Aftermarket) (Homebrew)-image.png</image>
+		<video>./videos/Fishbone (World) (Demo 2) (Aftermarket) (Homebrew)-video.mp4</video>
+		<marquee>./images/Fishbone (World) (Demo 2) (Aftermarket) (Homebrew)-marquee.png</marquee>
+		<thumbnail>./images/Fishbone (World) (Demo 2) (Aftermarket) (Homebrew)-thumb.png</thumbnail>
+		<boxback>./images/Fishbone (World) (Demo 2) (Aftermarket) (Homebrew)-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>20121104T000000</releasedate>
+		<developer>ThunderStruck</developer>
+		<publisher>ThunderStruck</publisher>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>760B9298</crc32>
+		<md5>919c64e6a2d4d1d952df1e8e8f5ccb64</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230228T212721" />
+	</game>
+	<game id="172278">
+		<path>./No-Intro/Fishbone (World) (Demo 3) (Aftermarket) (Homebrew).vb</path>
+		<name>Fishbone</name>
+		<desc>Big fish eat small fish! In Fishbone you play as a fish called Bubbles and go for Highscores in a total of 4 levels by eating as many smaller fish as you can, while avoiding the ones bigger than you, bombs and other harmful things.</desc>
+		<image>./images/Fishbone (World) (Demo 3) (Aftermarket) (Homebrew)-image.png</image>
+		<video>./videos/Fishbone (World) (Demo 3) (Aftermarket) (Homebrew)-video.mp4</video>
+		<marquee>./images/Fishbone (World) (Demo 3) (Aftermarket) (Homebrew)-marquee.png</marquee>
+		<thumbnail>./images/Fishbone (World) (Demo 3) (Aftermarket) (Homebrew)-thumb.png</thumbnail>
+		<boxback>./images/Fishbone (World) (Demo 3) (Aftermarket) (Homebrew)-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>20121104T000000</releasedate>
+		<developer>ThunderStruck</developer>
+		<publisher>ThunderStruck</publisher>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>6E107A0A</crc32>
+		<md5>fcb59e8ab2a38ea21f1c7dfb46fa7416</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230228T212731" />
+	</game>
+	<game id="422787">
+		<path>./No-Intro/Formula V (World) (Demo) (Emulator Version) (Aftermarket) (Homebrew).vb</path>
+		<name>Formula V</name>
+		<rating>0</rating>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>87B8D4AD</crc32>
+		<md5>34e9a2ffd60f7ea565caada82d57f29f</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230228T212732" />
+	</game>
+	<game id="422787">
+		<path>./No-Intro/Formula V (World) (Demo) (Hardware Version) (Aftermarket) (Homebrew).vb</path>
+		<name>Formula V</name>
+		<rating>0</rating>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>B9715C59</crc32>
+		<md5>8e7b777e5a5e130d4b6c3b6481426bc8</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230228T212734" />
+	</game>
+	<game id="4740">
+		<path>./No-Intro/Galactic Pinball (Japan, USA) (En).vb</path>
+		<name>Galactic Pinball</name>
+		<desc>Galactic Pinball is a pinball video game released in 1995 on Virtual Boy. In addition to the high scores, you can choose between four pinball tables. These are named Alien, UFO, Colony and cosmic.</desc>
+		<image>./media/screenshots/Galactic Pinball (Japan, USA) (En).png</image>
+		<video>./media/videos/Galactic Pinball (Japan, USA) (En).mp4</video>
+		<marquee>./media/marquees/Galactic Pinball (Japan, USA) (En).png</marquee>
+		<thumbnail>./images/Galactic Pinball (Japan, USA) (En)-thumb.png</thumbnail>
+		<fanart>./images/Galactic Pinball (Japan, USA) (En)-fanart.jpg</fanart>
+		<manual>./manuals/Galactic Pinball (Japan, USA) (En)-manual.pdf</manual>
+		<boxback>./images/Galactic Pinball (Japan, USA) (En)-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>19950814T000000</releasedate>
+		<developer>Intelligent Systems</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Pinball</genre>
+		<players>1</players>
+		<kidgame>true</kidgame>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>C9710A36</crc32>
+		<md5>85260599fdada2e137053a8647aa0d06</md5>
+		<lang>jp,en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230228T212736" />
+	</game>
+	<game id="4741">
+		<path>./No-Intro/Golf (USA).vb</path>
+		<name>Golf</name>
+		<desc>Golf is a golf video game released in 1995 on Virtual Boy. Golf comes in a 3D perspective and contains two modes "tournament" and "bear play" as well as 18 holes during the course.</desc>
+		<image>./media/screenshots/Golf (USA).png</image>
+		<video>./media/videos/Golf (USA).mp4</video>
+		<marquee>./media/marquees/Golf (USA).png</marquee>
+		<thumbnail>./images/Golf (USA)-thumb.png</thumbnail>
+		<fanart>./images/Golf (USA)-fanart.jpg</fanart>
+		<manual>./manuals/Golf (USA)-manual.pdf</manual>
+		<boxback>./images/Golf (USA)-boxback.png</boxback>
+		<rating>0.85</rating>
+		<releasedate>19951101T000000</releasedate>
+		<developer>Technical Engineering Support</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports / Golf</genre>
+		<players>1</players>
+		<kidgame>true</kidgame>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>2199AF41</crc32>
+		<md5>977c4da800dacfac1a1402781670f872</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230228T212737" />
+	</game>
+	<game id="420798">
+		<path>./No-Intro/Hamburgers En Route to Switzerland (World) (Aftermarket) (Homebrew).vb</path>
+		<name>Hamburgers En Route to Switzerland</name>
+		<desc>"Hamburgers En Route To Switzerland" is a side-scrolling Shoot'em Up, where you play as a flying hamburger.
+
+you control zybort, the burger scout, as the front of the burger flock heading towards switzerland. along the migration path are vicious milkshakes to shoot and horrible onion rings to avoid. can zybort lead the burgers to the lovely land of switzer? take that controller in your hands and find out!</desc>
+		<thumbnail>./images/Hamburgers En Route to Switzerland (World) (Aftermarket) (Homebrew)-thumb.png</thumbnail>
+		<boxback>./images/Hamburgers En Route to Switzerland (World) (Aftermarket) (Homebrew)-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>20201022T000000</releasedate>
+		<genre>Platform / Shooter Scrolling</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>EFB7577C</crc32>
+		<md5>45aa19c4b2f10c7ef6782b0cb356e265</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230228T212742" />
+	</game>
+	<game id="420798">
+		<path>./No-Intro/Hamburgers En Route to Switzerland (World) (Demo 1) (Aftermarket) (Homebrew).vb</path>
+		<name>Hamburgers En Route to Switzerland</name>
+		<desc>"Hamburgers En Route To Switzerland" is a side-scrolling Shoot'em Up, where you play as a flying hamburger.
+
+you control zybort, the burger scout, as the front of the burger flock heading towards switzerland. along the migration path are vicious milkshakes to shoot and horrible onion rings to avoid. can zybort lead the burgers to the lovely land of switzer? take that controller in your hands and find out!</desc>
+		<thumbnail>./images/Hamburgers En Route to Switzerland (World) (Demo 1) (Aftermarket) (Homebrew)-thumb.png</thumbnail>
+		<boxback>./images/Hamburgers En Route to Switzerland (World) (Demo 1) (Aftermarket) (Homebrew)-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>20201022T000000</releasedate>
+		<genre>Platform / Shooter Scrolling</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>A994CB83</crc32>
+		<md5>32ec901e7ac6f96cf7d15c82afb228b4</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230228T212746" />
+	</game>
+	<game id="420798">
+		<path>./No-Intro/Hamburgers En Route to Switzerland (World) (Demo 2) (Aftermarket) (Homebrew).vb</path>
+		<name>Hamburgers En Route to Switzerland</name>
+		<desc>"Hamburgers En Route To Switzerland" is a side-scrolling Shoot'em Up, where you play as a flying hamburger.
+
+you control zybort, the burger scout, as the front of the burger flock heading towards switzerland. along the migration path are vicious milkshakes to shoot and horrible onion rings to avoid. can zybort lead the burgers to the lovely land of switzer? take that controller in your hands and find out!</desc>
+		<thumbnail>./images/Hamburgers En Route to Switzerland (World) (Demo 2) (Aftermarket) (Homebrew)-thumb.png</thumbnail>
+		<boxback>./images/Hamburgers En Route to Switzerland (World) (Demo 2) (Aftermarket) (Homebrew)-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>20201022T000000</releasedate>
+		<genre>Platform / Shooter Scrolling</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>17AF6462</crc32>
+		<md5>2cb4bfe7564f5a1f9edbbd481e9dcbba</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230228T212751" />
+	</game>
+	<game id="172277">
+		<path>./No-Intro/Hyper Fighting (World) (Aftermarket) (Homebrew).vb</path>
+		<name>Hyper Fighting</name>
+		<desc>Port of Street Fighter 2 on Virtualboy. You can play only with Ryu and against Dhalsim, Ryu, Chun Li and Guile.</desc>
+		<image>./images/Hyper Fighting (World) (Aftermarket) (Homebrew)-image.png</image>
+		<video>./videos/Hyper Fighting (World) (Aftermarket) (Homebrew)-video.mp4</video>
+		<marquee>./images/Hyper Fighting (World) (Aftermarket) (Homebrew)-marquee.png</marquee>
+		<thumbnail>./images/Hyper Fighting (World) (Aftermarket) (Homebrew)-thumb.png</thumbnail>
+		<fanart>./images/Hyper Fighting (World) (Aftermarket) (Homebrew)-fanart.jpg</fanart>
+		<boxback>./images/Hyper Fighting (World) (Aftermarket) (Homebrew)-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>20130828T000000</releasedate>
+		<developer>M.K., Mr. Anon</developer>
+		<publisher>virtual-boy.com</publisher>
+		<genre>Fight</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>3F2A6BA2</crc32>
+		<md5>c2047a94dcb0db30794c8533ba625622</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230228T212801" />
+	</game>
+	<game id="172277">
+		<path>./No-Intro/Hyper Fighting (World) (Beta) (Aftermarket) (Homebrew).vb</path>
+		<name>Hyper Fighting</name>
+		<desc>Port of Street Fighter 2 on Virtualboy. You can play only with Ryu and against Dhalsim, Ryu, Chun Li and Guile.</desc>
+		<image>./images/Hyper Fighting (World) (Beta) (Aftermarket) (Homebrew)-image.png</image>
+		<video>./videos/Hyper Fighting (World) (Beta) (Aftermarket) (Homebrew)-video.mp4</video>
+		<marquee>./images/Hyper Fighting (World) (Beta) (Aftermarket) (Homebrew)-marquee.png</marquee>
+		<thumbnail>./images/Hyper Fighting (World) (Beta) (Aftermarket) (Homebrew)-thumb.png</thumbnail>
+		<fanart>./images/Hyper Fighting (World) (Beta) (Aftermarket) (Homebrew)-fanart.jpg</fanart>
+		<boxback>./images/Hyper Fighting (World) (Beta) (Aftermarket) (Homebrew)-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>20130828T000000</releasedate>
+		<developer>M.K., Mr. Anon</developer>
+		<publisher>virtual-boy.com</publisher>
+		<genre>Fight</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>4450EDE0</crc32>
+		<md5>b3e46cdbe57d3995065daa917a858a76</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230228T212812" />
+	</game>
+	<game id="423769">
+		<path>./No-Intro/Insecticide (World) (Aftermarket) (Homebrew).vb</path>
+		<name>Insecticide</name>
+		<rating>0</rating>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>DE9F669B</crc32>
+		<md5>f2358ae652afb6a2520cd6df89ee6b7e</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230228T212814" />
+	</game>
+	<game id="4730">
+		<path>./No-Intro/Jack Bros. (USA).vb</path>
+		<name>Jack Bros.</name>
+		<desc>Jack Bros., is an adventure video game released in 1995 on Virtual Boy. Once a year, at Halloween, the door between our country and the fairies opens. All fairy should return to Fairieland 23:00, otherwise, they will be banished forever. You must choose one of three Jack Bros. as your character. Each has its own attributes and weapons and special attacks.</desc>
+		<image>./media/screenshots/Jack Bros. (USA).png</image>
+		<video>./media/videos/Jack Bros. (USA).mp4</video>
+		<marquee>./media/marquees/Jack Bros. (USA).png</marquee>
+		<thumbnail>./images/Jack Bros. (USA)-thumb.png</thumbnail>
+		<fanart>./images/Jack Bros. (USA)-fanart.jpg</fanart>
+		<manual>./manuals/Jack Bros. (USA)-manual.pdf</manual>
+		<boxback>./images/Jack Bros. (USA)-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>19951030T000000</releasedate>
+		<developer>Atlus</developer>
+		<publisher>Atlus</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<kidgame>true</kidgame>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>A44DE03C</crc32>
+		<md5>ee873c9969c15e92ca9a0f689c4ce5ea</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230228T212816" />
+	</game>
+	<game id="4725">
+		<path>./No-Intro/Mario Clash (Japan, USA) (En).vb</path>
+		<name>Mario Clash</name>
+		<desc>Mario Clash is a game of out platforms on Virtual Boy. The player incarnates Mario. The Clash House Tower was invaded by monsters. This is Mario entrusted to the task of evacuating them. But the tower is difficult to access and Mario is forced to fight in large rooms consist of long platforms, and in the tubing.</desc>
+		<image>./media/screenshots/Mario Clash (Japan, USA) (En).png</image>
+		<video>./media/videos/Mario Clash (Japan, USA) (En).mp4</video>
+		<marquee>./media/marquees/Mario Clash (Japan, USA) (En).png</marquee>
+		<thumbnail>./images/Mario Clash (Japan, USA) (En)-thumb.png</thumbnail>
+		<fanart>./images/Mario Clash (Japan, USA) (En)-fanart.jpg</fanart>
+		<manual>./manuals/Mario Clash (Japan, USA) (En)-manual.pdf</manual>
+		<boxback>./images/Mario Clash (Japan, USA) (En)-boxback.png</boxback>
+		<rating>0.6</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<kidgame>true</kidgame>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>A47DE78C</crc32>
+		<md5>b1b3a25ce8fb4f406bf82b8765d307d0</md5>
+		<lang>jp,en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230228T212817" />
+	</game>
+	<game id="172268">
+		<path>./No-Intro/Mario Combat (World) (Aftermarket) (Homebrew).vb</path>
+		<name>Mario Combat</name>
+		<desc>First person Mario shooting game.</desc>
+		<image>./images/Mario Combat (World) (Aftermarket) (Homebrew)-image.png</image>
+		<video>./videos/Mario Combat (World) (Aftermarket) (Homebrew)-video.mp4</video>
+		<marquee>./images/Mario Combat (World) (Aftermarket) (Homebrew)-marquee.png</marquee>
+		<thumbnail>./images/Mario Combat (World) (Aftermarket) (Homebrew)-thumb.png</thumbnail>
+		<fanart>./images/Mario Combat (World) (Aftermarket) (Homebrew)-fanart.jpg</fanart>
+		<boxback>./images/Mario Combat (World) (Aftermarket) (Homebrew)-boxback.png</boxback>
+		<rating>0</rating>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>FB91380F</crc32>
+		<md5>6fd50c08f16d44da026dca190ade43fe</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230228T212827" />
+	</game>
+	<game id="172267">
+		<path>./No-Intro/Mario Kart - Virtual Cup (World) (Aftermarket) (Homebrew).vb</path>
+		<name>Mario Kart Virtual Cup</name>
+		<desc>homebrew of the famous karting game with Mario as hero.</desc>
+		<image>./images/Mario Kart - Virtual Cup (World) (Aftermarket) (Homebrew)-image.png</image>
+		<video>./videos/Mario Kart - Virtual Cup (World) (Aftermarket) (Homebrew)-video.mp4</video>
+		<marquee>./images/Mario Kart - Virtual Cup (World) (Aftermarket) (Homebrew)-marquee.png</marquee>
+		<thumbnail>./images/Mario Kart - Virtual Cup (World) (Aftermarket) (Homebrew)-thumb.png</thumbnail>
+		<fanart>./images/Mario Kart - Virtual Cup (World) (Aftermarket) (Homebrew)-fanart.jpg</fanart>
+		<boxback>./images/Mario Kart - Virtual Cup (World) (Aftermarket) (Homebrew)-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>20080930T000000</releasedate>
+		<developer>DogP</developer>
+		<publisher>DogP</publisher>
+		<genre>Race, Driving</genre>
+		<family>Mario Kart</family>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>27988AB9</crc32>
+		<md5>4b8c8b6a7711a005dd896b3ee9b8d0f1</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230228T212840" />
+	</game>
+	<game id="172266">
+		<path>./No-Intro/Mario VB (World) (Aftermarket) (Homebrew).vb</path>
+		<name>Mario Vb</name>
+		<desc>VB Mario Land, also known as Mario Adventure, is a canceled Mario game that was originally going to be released for the Virtual Boy. A single-level playable demo was unveiled at the Winter Consumer Electronics Show 1995 in Las Vegas.
+The game was to be a two-dimensional side-scrolling game that would also use three-dimensional perspectives, such moving between the background and foreground of the level. It would star Mario as the main character, using classic Super Mario Bros.-style elements such as Warp Pipes, Koopa Troopas and ? Blocks. Although VB Mario Land's story was not revealed, a large Wario-like figure which functioned similar to a Thwomp was seen in the playable demo. In certain areas, an overhead view was displayed, much like the The Legend of Zelda series of games. The first level ends at the Goal Pole, and Mario can be seen entering a Castle.
+A three-dimensional version of Mario Bros. was mentioned to be implemented into VB Mario Land as a minigame, though this was later released as a separate game titled Mario Clash.</desc>
+		<image>./images/Mario VB (World) (Aftermarket) (Homebrew)-image.png</image>
+		<video>./videos/Mario VB (World) (Aftermarket) (Homebrew)-video.mp4</video>
+		<marquee>./images/Mario VB (World) (Aftermarket) (Homebrew)-marquee.png</marquee>
+		<fanart>./images/Mario VB (World) (Aftermarket) (Homebrew)-fanart.jpg</fanart>
+		<rating>0.9</rating>
+		<releasedate>20080908T000000</releasedate>
+		<genre>Platform</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>DD63D32D</crc32>
+		<md5>03f72468609897a17028823691fc1c56</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230228T212847" />
+	</game>
+	<game id="4727">
+		<path>./No-Intro/Mario's Tennis (Japan, USA) (En).vb</path>
+		<name>Mario's Tennis</name>
+		<desc>Mario's Tennis Tennis is a game released in 1995 on Virtual Boy. Seven characters from the Mario universe are present: Mario, Luigi, Toad, Peach, Koopa, Yoshi and Donkey Kong Jr. playing only on one short pipe surrounded by a landscape.</desc>
+		<image>./media/screenshots/Mario's Tennis (Japan, USA) (En).png</image>
+		<video>./media/videos/Mario's Tennis (Japan, USA) (En).mp4</video>
+		<marquee>./media/marquees/Mario's Tennis (Japan, USA) (En).png</marquee>
+		<thumbnail>./images/Mario's Tennis (Japan, USA) (En)-thumb.png</thumbnail>
+		<fanart>./images/Mario's Tennis (Japan, USA) (En)-fanart.jpg</fanart>
+		<manual>./manuals/Mario's Tennis (Japan, USA) (En)-manual.pdf</manual>
+		<boxback>./images/Mario's Tennis (Japan, USA) (En)-boxback.png</boxback>
+		<rating>0.6</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports / Tennis</genre>
+		<players>1</players>
+		<kidgame>true</kidgame>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>7CE7460D</crc32>
+		<md5>38ecc2c5a745a80d32eb9e8e413358c4</md5>
+		<lang>jp,en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230228T212849" />
+	</game>
+	<game id="4737">
+		<path>./No-Intro/Nester's Funky Bowling (USA).vb</path>
+		<name>Nester's Funky Bowling</name>
+		<desc>Nester's Funky Bowling is a bowling game released in 1996 on Virtual Boy. Funky Bowling Nester is a classic bowling simulation. You can choose the mode Bowl game: if you want to play for points, in order to enroll in the high score list, Practical: if you just want to practice once, and the last challenge: if you want to play with predefined tasks.</desc>
+		<image>./media/screenshots/Nester's Funky Bowling (USA).png</image>
+		<video>./media/videos/Nester's Funky Bowling (USA).mp4</video>
+		<marquee>./media/marquees/Nester's Funky Bowling (USA).png</marquee>
+		<thumbnail>./images/Nester's Funky Bowling (USA)-thumb.png</thumbnail>
+		<fanart>./images/Nester's Funky Bowling (USA)-fanart.jpg</fanart>
+		<manual>./manuals/Nester's Funky Bowling (USA)-manual.pdf</manual>
+		<boxback>./images/Nester's Funky Bowling (USA)-boxback.png</boxback>
+		<rating>0.6</rating>
+		<releasedate>19960226T000000</releasedate>
+		<developer>Saffire Corporation</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports / Bowling</genre>
+		<players>1</players>
+		<kidgame>true</kidgame>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>DF4D56B4</crc32>
+		<md5>0285dc41d75be8419d12472f20025305</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230228T212851" />
+	</game>
+	<game id="423898">
+		<path>./No-Intro/Null Pointer Mockup (World) (Demo) (Aftermarket) (Homebrew).vb</path>
+		<name>ZZZ(notgame):Null Pointer Mockup</name>
+		<rating>0</rating>
+		<hidden>true</hidden>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>092DA01A</crc32>
+		<md5>39ea7766c44b19461ca8fc2a3484f8f8</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230228T212853" />
+	</game>
+	<game id="4738">
+		<path>./No-Intro/Panic Bomber (USA).vb</path>
+		<name>Panic Bomber</name>
+		<desc>Bomberman Blasts the Island of Ever Mist!
+
+Get ready for explosive puzzler action with Bomberman! Detonate the worlds of Scary Ruins, Sinister Forest, and Desert Desolation. Conquer the Island of Ever Mist and capture the three celestial models of power.
+
+Don't panic! Or you might get scorched by greedy Ms. Flashy or the deadly Count Dracu-Doom. Ignite the dreaded Doom Castle with bombastic moves and combustive strategy. Only then can you open the gates to the legendary Golden Statue of Bomberman. It's a puzzling blast!</desc>
+		<image>./media/screenshots/Panic Bomber (USA).png</image>
+		<video>./media/videos/Panic Bomber (USA).mp4</video>
+		<marquee>./media/marquees/Panic Bomber (USA).png</marquee>
+		<thumbnail>./images/Panic Bomber (USA)-thumb.png</thumbnail>
+		<fanart>./images/Panic Bomber (USA)-fanart.jpg</fanart>
+		<manual>./manuals/Panic Bomber (USA)-manual.pdf</manual>
+		<boxback>./images/Panic Bomber (USA)-boxback.png</boxback>
+		<rating>0.65</rating>
+		<releasedate>19951201T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle-Game</genre>
+		<family>Bomberman</family>
+		<players>1</players>
+		<kidgame>true</kidgame>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>19BB2DFB</crc32>
+		<md5>467247d5e3383d066005565bf8218436</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230228T212854" />
+	</game>
+	<game id="4734">
+		<path>./No-Intro/Red Alarm (USA).vb</path>
+		<name>Red Alarm</name>
+		<desc>Bursting through incredible dimensions of Virtual space the final mission is clear. Obliterate all enemies and obstacles created by KAOS and terminate this menacing battle system from within.
+
+Employing an impressive arsenal of high-tech weapons and evasive maneuvers the Tech-Wing Fighter speeds on. Spinning deaths, spy pods and mosquito mechs appear from everywhere! The fate of humanity will soon be defined. Red Alarm! Red Alarm! Alarm Condition Red!!</desc>
+		<image>./media/screenshots/Red Alarm (USA).png</image>
+		<video>./media/videos/Red Alarm (USA).mp4</video>
+		<marquee>./media/marquees/Red Alarm (USA).png</marquee>
+		<thumbnail>./images/Red Alarm (USA)-thumb.png</thumbnail>
+		<fanart>./images/Red Alarm (USA)-fanart.jpg</fanart>
+		<manual>./manuals/Red Alarm (USA)-manual.pdf</manual>
+		<boxback>./images/Red Alarm (USA)-boxback.png</boxback>
+		<rating>0.7</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Technical Engineering Support</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Simulation</genre>
+		<players>1</players>
+		<kidgame>true</kidgame>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>AA10A7B4</crc32>
+		<md5>e56e85761f52a613b34079d5322088ce</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230228T212856" />
+	</game>
+	<game id="423757">
+		<path>./No-Intro/Red Square (World) (Aftermarket) (Homebrew).vb</path>
+		<name>Red Square</name>
+		<rating>0</rating>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>AA50B353</crc32>
+		<md5>60cc7855db22ff05c8ed7f18687197fc</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230228T212858" />
+	</game>
+	<game id="172269">
+		<path>./No-Intro/Snatcher (World) (Demo) (Aftermarket) (Homebrew).vb</path>
+		<name>Snatcher</name>
+		<desc>Snatcher is set in the futuristic Neo Kobe City, a city of madness and decadence. The year is 2047. Mankind is facing its gravest crisis. A mysterious bio-roid life form has appeared. Its true nature and purpose are unknown. Is it some country's secret weapon, or an alien from another world? They appear in the winter, killing people and taking their place in society. They wear artificial skin and can sweat and even bleed. 
+
+A new police force, specifically trained to fight the Snatchers, has been formed. They are JUNKERs. Every time you encounter someone, a difficult question must be asked ? is it a person or a snatcher?
+
+The player takes control of Gillian Seed, one of the JUNKERs. The gameplay largely follows the structure of a Japanese-style adventure. The player uses a menu-driven interface to execute commands, which include moving between locations and interacting with the environment.</desc>
+		<image>./images/Snatcher (World) (Demo) (Aftermarket) (Homebrew)-image.png</image>
+		<video>./videos/Snatcher (World) (Demo) (Aftermarket) (Homebrew)-video.mp4</video>
+		<marquee>./images/Snatcher (World) (Demo) (Aftermarket) (Homebrew)-marquee.png</marquee>
+		<thumbnail>./images/Snatcher (World) (Demo) (Aftermarket) (Homebrew)-thumb.png</thumbnail>
+		<fanart>./images/Snatcher (World) (Demo) (Aftermarket) (Homebrew)-fanart.jpg</fanart>
+		<boxback>./images/Snatcher (World) (Demo) (Aftermarket) (Homebrew)-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>20150415T000000</releasedate>
+		<developer>Hideo Kojima</developer>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>1AFBB29C</crc32>
+		<md5>2999c7db49198890d5f1d4002563804e</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230228T212908" />
+	</game>
+	<game id="423763">
+		<path>./No-Intro/Snowball Wars (World) (Demo 1) (Aftermarket) (Homebrew).vb</path>
+		<name>Snowball Wars</name>
+		<rating>0</rating>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>91CE8852</crc32>
+		<md5>d693a18192cbc1bd4aa678af9a3ae0d1</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230228T212910" />
+	</game>
+	<game id="423763">
+		<path>./No-Intro/Snowball Wars (World) (Demo 2) (Aftermarket) (Homebrew).vb</path>
+		<name>Snowball Wars</name>
+		<rating>0</rating>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>10848EF3</crc32>
+		<md5>ccb7a50d7fc23ec2890db7771a077392</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230228T212911" />
+	</game>
+	<game id="423763">
+		<path>./No-Intro/Snowball Wars (World) (Demo 3) (Aftermarket) (Homebrew).vb</path>
+		<name>Snowball Wars</name>
+		<rating>0</rating>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>A19CF939</crc32>
+		<md5>39f4ded02b9a58c1958f521d27d841af</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230228T212913" />
+	</game>
+	<game id="172270">
+		<path>./No-Intro/Soviet Union 2010 (World) (v1.0) (Aftermarket) (Homebrew).vb</path>
+		<name>Soviet Union 2010</name>
+		<desc>Some scientists from Vladivostok have invented a time machine and used it to go to back to the 1960s, the time of the Space Race between the USSR and USA.
+It worked, but on return to 2010, a malfunction sent them to a parallel universe where the Cold War is still going on.
+You're one of the members of the Red Army. Save the scientists!
+You control a space ship that's equipped with a cannon. Your mission is to destroy as many USA-serving ships as possible, and get out alive while getting as many points as possible.</desc>
+		<image>./images/Soviet Union 2010 (World) (v1.0) (Aftermarket) (Homebrew)-image.png</image>
+		<video>./videos/Soviet Union 2010 (World) (v1.0) (Aftermarket) (Homebrew)-video.mp4</video>
+		<marquee>./images/Soviet Union 2010 (World) (v1.0) (Aftermarket) (Homebrew)-marquee.png</marquee>
+		<thumbnail>./images/Soviet Union 2010 (World) (v1.0) (Aftermarket) (Homebrew)-thumb.png</thumbnail>
+		<boxback>./images/Soviet Union 2010 (World) (v1.0) (Aftermarket) (Homebrew)-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>20101101T000000</releasedate>
+		<developer>Matej Horvat</developer>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>447BA0C0</crc32>
+		<md5>90ef8d48eb3178f32e9ef45ac83ef7e1</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230228T212922" />
+	</game>
+	<game id="172270">
+		<path>./No-Intro/Soviet Union 2010 (World) (v1.2) (Aftermarket) (Homebrew).vb</path>
+		<name>Soviet Union 2010</name>
+		<desc>Some scientists from Vladivostok have invented a time machine and used it to go to back to the 1960s, the time of the Space Race between the USSR and USA.
+It worked, but on return to 2010, a malfunction sent them to a parallel universe where the Cold War is still going on.
+You're one of the members of the Red Army. Save the scientists!
+You control a space ship that's equipped with a cannon. Your mission is to destroy as many USA-serving ships as possible, and get out alive while getting as many points as possible.</desc>
+		<image>./images/Soviet Union 2010 (World) (v1.2) (Aftermarket) (Homebrew)-image.png</image>
+		<video>./videos/Soviet Union 2010 (World) (v1.2) (Aftermarket) (Homebrew)-video.mp4</video>
+		<marquee>./images/Soviet Union 2010 (World) (v1.2) (Aftermarket) (Homebrew)-marquee.png</marquee>
+		<thumbnail>./images/Soviet Union 2010 (World) (v1.2) (Aftermarket) (Homebrew)-thumb.png</thumbnail>
+		<boxback>./images/Soviet Union 2010 (World) (v1.2) (Aftermarket) (Homebrew)-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>20101101T000000</releasedate>
+		<developer>Matej Horvat</developer>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>E7CBC290</crc32>
+		<md5>74d21ea01f97ac19e018d7f5a3e3bc7c</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230228T212931" />
+	</game>
+	<game id="172271">
+		<path>./No-Intro/Soviet Union 2011 (World) (Beta 1) (Aftermarket) (Homebrew).vb</path>
+		<name>Soviet Union 2011</name>
+		<desc>It is now the year 2011. The war between the two superpowers is still going on. After successfully taking out scores of the United States space army's ships, the Red Army has sent you to make order on Earth.
+The war on Earth is severe and has taken many lives. The United States air forces are strong and dangerous and will not go away easily.
+Have no mercy! Show them who is the boss!
+You control a Soviet airplane that's equipped with a cannon. Your mission is to take down as many US airplanes as possible, and get out alive while getting a high score.</desc>
+		<image>./images/Soviet Union 2011 (World) (Beta 1) (Aftermarket) (Homebrew)-image.png</image>
+		<video>./videos/Soviet Union 2011 (World) (Beta 1) (Aftermarket) (Homebrew)-video.mp4</video>
+		<marquee>./images/Soviet Union 2011 (World) (Beta 1) (Aftermarket) (Homebrew)-marquee.png</marquee>
+		<thumbnail>./images/Soviet Union 2011 (World) (Beta 1) (Aftermarket) (Homebrew)-thumb.png</thumbnail>
+		<boxback>./images/Soviet Union 2011 (World) (Beta 1) (Aftermarket) (Homebrew)-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>20111101T000000</releasedate>
+		<developer>Matej Horvat</developer>
+		<genre>Shoot'em up / Vertical</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>8F013627</crc32>
+		<md5>83c6752eecfdf94f576f3fcda272b91e</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230228T212941" />
+	</game>
+	<game id="172271">
+		<path>./No-Intro/Soviet Union 2011 (World) (Beta 2) (Aftermarket) (Homebrew).vb</path>
+		<name>Soviet Union 2011</name>
+		<desc>It is now the year 2011. The war between the two superpowers is still going on. After successfully taking out scores of the United States space army's ships, the Red Army has sent you to make order on Earth.
+The war on Earth is severe and has taken many lives. The United States air forces are strong and dangerous and will not go away easily.
+Have no mercy! Show them who is the boss!
+You control a Soviet airplane that's equipped with a cannon. Your mission is to take down as many US airplanes as possible, and get out alive while getting a high score.</desc>
+		<image>./images/Soviet Union 2011 (World) (Beta 2) (Aftermarket) (Homebrew)-image.png</image>
+		<video>./videos/Soviet Union 2011 (World) (Beta 2) (Aftermarket) (Homebrew)-video.mp4</video>
+		<marquee>./images/Soviet Union 2011 (World) (Beta 2) (Aftermarket) (Homebrew)-marquee.png</marquee>
+		<thumbnail>./images/Soviet Union 2011 (World) (Beta 2) (Aftermarket) (Homebrew)-thumb.png</thumbnail>
+		<boxback>./images/Soviet Union 2011 (World) (Beta 2) (Aftermarket) (Homebrew)-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>20111101T000000</releasedate>
+		<developer>Matej Horvat</developer>
+		<genre>Shoot'em up / Vertical</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>13660731</crc32>
+		<md5>46434bfb8eccbe7540a4d2a79d471f40</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230228T212950" />
+	</game>
+	<game id="172271">
+		<path>./No-Intro/Soviet Union 2011 (World) (v1.0) (Aftermarket) (Homebrew).vb</path>
+		<name>Soviet Union 2011</name>
+		<desc>It is now the year 2011. The war between the two superpowers is still going on. After successfully taking out scores of the United States space army's ships, the Red Army has sent you to make order on Earth.
+The war on Earth is severe and has taken many lives. The United States air forces are strong and dangerous and will not go away easily.
+Have no mercy! Show them who is the boss!
+You control a Soviet airplane that's equipped with a cannon. Your mission is to take down as many US airplanes as possible, and get out alive while getting a high score.</desc>
+		<image>./images/Soviet Union 2011 (World) (v1.0) (Aftermarket) (Homebrew)-image.png</image>
+		<video>./videos/Soviet Union 2011 (World) (v1.0) (Aftermarket) (Homebrew)-video.mp4</video>
+		<marquee>./images/Soviet Union 2011 (World) (v1.0) (Aftermarket) (Homebrew)-marquee.png</marquee>
+		<thumbnail>./images/Soviet Union 2011 (World) (v1.0) (Aftermarket) (Homebrew)-thumb.png</thumbnail>
+		<boxback>./images/Soviet Union 2011 (World) (v1.0) (Aftermarket) (Homebrew)-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>20111101T000000</releasedate>
+		<developer>Matej Horvat</developer>
+		<genre>Shoot'em up / Vertical</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>5CDE2C56</crc32>
+		<md5>fad62e87fc51f44d75d17d5f3ffd4e0f</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230228T213000" />
+	</game>
+	<game id="172271">
+		<path>./No-Intro/Soviet Union 2011 (World) (v1.1) (Aftermarket) (Homebrew).vb</path>
+		<name>Soviet Union 2011</name>
+		<desc>It is now the year 2011. The war between the two superpowers is still going on. After successfully taking out scores of the United States space army's ships, the Red Army has sent you to make order on Earth.
+The war on Earth is severe and has taken many lives. The United States air forces are strong and dangerous and will not go away easily.
+Have no mercy! Show them who is the boss!
+You control a Soviet airplane that's equipped with a cannon. Your mission is to take down as many US airplanes as possible, and get out alive while getting a high score.</desc>
+		<image>./images/Soviet Union 2011 (World) (v1.1) (Aftermarket) (Homebrew)-image.png</image>
+		<video>./videos/Soviet Union 2011 (World) (v1.1) (Aftermarket) (Homebrew)-video.mp4</video>
+		<marquee>./images/Soviet Union 2011 (World) (v1.1) (Aftermarket) (Homebrew)-marquee.png</marquee>
+		<thumbnail>./images/Soviet Union 2011 (World) (v1.1) (Aftermarket) (Homebrew)-thumb.png</thumbnail>
+		<boxback>./images/Soviet Union 2011 (World) (v1.1) (Aftermarket) (Homebrew)-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>20111101T000000</releasedate>
+		<developer>Matej Horvat</developer>
+		<genre>Shoot'em up / Vertical</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>0CD7390B</crc32>
+		<md5>9ac4a0beaccd30fc39f34a494e64a8f4</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230228T213010" />
+	</game>
+	<game id="172271">
+		<path>./No-Intro/Soviet Union 2011 (World) (v1.2) (Aftermarket) (Homebrew).vb</path>
+		<name>Soviet Union 2011</name>
+		<desc>It is now the year 2011. The war between the two superpowers is still going on. After successfully taking out scores of the United States space army's ships, the Red Army has sent you to make order on Earth.
+The war on Earth is severe and has taken many lives. The United States air forces are strong and dangerous and will not go away easily.
+Have no mercy! Show them who is the boss!
+You control a Soviet airplane that's equipped with a cannon. Your mission is to take down as many US airplanes as possible, and get out alive while getting a high score.</desc>
+		<image>./images/Soviet Union 2011 (World) (v1.2) (Aftermarket) (Homebrew)-image.png</image>
+		<video>./videos/Soviet Union 2011 (World) (v1.2) (Aftermarket) (Homebrew)-video.mp4</video>
+		<marquee>./images/Soviet Union 2011 (World) (v1.2) (Aftermarket) (Homebrew)-marquee.png</marquee>
+		<thumbnail>./images/Soviet Union 2011 (World) (v1.2) (Aftermarket) (Homebrew)-thumb.png</thumbnail>
+		<boxback>./images/Soviet Union 2011 (World) (v1.2) (Aftermarket) (Homebrew)-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>20111101T000000</releasedate>
+		<developer>Matej Horvat</developer>
+		<genre>Shoot'em up / Vertical</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>3A2E0413</crc32>
+		<md5>7209a6bd5d788f12e97b9247d28197ce</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230228T213020" />
+	</game>
+	<game id="423766">
+		<path>./No-Intro/SPONG (World) (En,Fr,De,Es) (Demo) (Aftermarket) (Homebrew).vb</path>
+		<name>SPONG</name>
+		<rating>0</rating>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>BADF2ABD</crc32>
+		<md5>80ae39bc1c74b4c86dd66a072ef773db</md5>
+		<lang>de,en,es,fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230228T213021" />
+	</game>
+	<game id="423961">
+		<path>./No-Intro/StarFox (World) (Demo) (Aftermarket) (Homebrew).vb</path>
+		<name>ZZZ(notgame):StarFox</name>
+		<rating>0</rating>
+		<hidden>true</hidden>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>5475859B</crc32>
+		<md5>d6df73b477a8408da74c6d79dcaa0d0a</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230228T213023" />
+	</game>
+	<game id="4744">
+		<path>./No-Intro/Teleroboxer (Japan, USA) (En).vb</path>
+		<name>Teleroboxer</name>
+		<desc>In a savage display of pounding moves and lightning action, robotic boxers from around the globe step into a futuristic ring. Mirroring the movements of the humans in control, each Teleroboxer is capable of surviving defense matches unbearable to mankind.
+
+Slug it out to the staggering end to determine the true world champion. Created with specialized Techtronic powers and unique personalities, these responsive machines show no mercy on their way to the brutal top.</desc>
+		<image>./media/screenshots/Teleroboxer (Japan, USA) (En).png</image>
+		<video>./media/videos/Teleroboxer (Japan, USA) (En).mp4</video>
+		<marquee>./media/marquees/Teleroboxer (Japan, USA) (En).png</marquee>
+		<thumbnail>./images/Teleroboxer (Japan, USA) (En)-thumb.png</thumbnail>
+		<fanart>./images/Teleroboxer (Japan, USA) (En)-fanart.jpg</fanart>
+		<manual>./manuals/Teleroboxer (Japan, USA) (En)-manual.pdf</manual>
+		<boxback>./images/Teleroboxer (Japan, USA) (En)-boxback.png</boxback>
+		<rating>0.7</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports</genre>
+		<players>1</players>
+		<kidgame>true</kidgame>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>36103000</crc32>
+		<md5>0742a861a599fe3361aac6ebef6745a7</md5>
+		<lang>jp,en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230228T213025" />
+	</game>
+	<game>
+		<path>./No-Intro/Tron VB (World) (Demo) (Aftermarket) (Homebrew).vb</path>
+		<name>Tron VB (World) (Demo) (Aftermarket) (Homebrew)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>33C3E3A7</crc32>
+		<md5>b8cac4425d1a01b949801d81eb268ffb</md5>
+		<scrap name="ScreenScraper" date="20230228T213026" />
+	</game>
+	<game id="4736">
+		<path>./No-Intro/Vertical Force (USA).vb</path>
+		<name>Vertical Force</name>
+		<desc>The game takes place in "Space Era 210." The giant computer that takes care of a human colony planet named Odin suddenly malfunctions and decides to send an army of drone starfighters to destroy Earth. These drones emit a signal that renders all Earth starfighters useless. An archaeology team finds an ancient starfighter on the planet Ragnarok that is fortuitously impervious to the drones' signal. It is up to the player to command this starship and destroy all the alien drones.</desc>
+		<image>./media/screenshots/Vertical Force (USA).png</image>
+		<video>./media/videos/Vertical Force (USA).mp4</video>
+		<marquee>./media/marquees/Vertical Force (USA).png</marquee>
+		<thumbnail>./images/Vertical Force (USA)-thumb.png</thumbnail>
+		<fanart>./images/Vertical Force (USA)-fanart.jpg</fanart>
+		<manual>./manuals/Vertical Force (USA)-manual.pdf</manual>
+		<boxback>./images/Vertical Force (USA)-boxback.png</boxback>
+		<rating>0.65</rating>
+		<releasedate>19951201T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
+		<kidgame>true</kidgame>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>4C32BA5E</crc32>
+		<md5>87c38f66d5b9ead72af22f515a3a5f51</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230228T213028" />
+	</game>
+	<game id="4726">
+		<path>./No-Intro/Virtual Boy Wario Land (Japan, USA) (En).vb</path>
+		<name>Virtual Boy Wario Land</name>
+		<desc>Yikes!!! Get ready for a devious treasure hunt with the infamous scheming Wario. Capture the shining gold and vast treasures locked deep inside a hidden cave. But, beware of poison ponds, perilous prisons, endless walls and creepy woods! Make a quick change into Sea Dragon Wario, Eagle Wario or Bull Wario and utilize their mighty strengths. Blow away enemy cave defenders with body attacks and power actions. Succeed in this greedy plot to seize the riches of this underground world and find this key to freedom!</desc>
+		<image>./media/screenshots/Virtual Boy Wario Land (Japan, USA) (En).png</image>
+		<video>./media/videos/Virtual Boy Wario Land (Japan, USA) (En).mp4</video>
+		<marquee>./media/marquees/Virtual Boy Wario Land (Japan, USA) (En).png</marquee>
+		<thumbnail>./images/Virtual Boy Wario Land (Japan, USA) (En)-thumb.png</thumbnail>
+		<fanart>./images/Virtual Boy Wario Land (Japan, USA) (En)-fanart.jpg</fanart>
+		<manual>./manuals/Virtual Boy Wario Land (Japan, USA) (En)-manual.pdf</manual>
+		<boxback>./images/Virtual Boy Wario Land (Japan, USA) (En)-boxback.png</boxback>
+		<rating>0.9</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<kidgame>true</kidgame>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>133E9372</crc32>
+		<md5>fb4dc9f4ebd506702eb49e99a62bd803</md5>
+		<lang>jp,en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230228T213031" />
+	</game>
+	<game id="4743">
+		<path>./No-Intro/Virtual League Baseball (USA).vb</path>
+		<name>Virtual League Baseball</name>
+		<desc>Hey batta batta swing! You're in the virtual big leagues now. Playing 18 teams from around the world. Throwing fast balls, forkballs, sinkers, sliders and changeups. Swinging for the fence, and laying down bunts. Shagging flies. Snagging drives. And tagging out runners. All in bigger-than-life 3D. With single game, all star and pennant race modes. And catch this: it's the only baseball game good enough to play in the virtual boy ball park. So don't drop the ball. Pick up a starting pitcher. Set your DH. And step up to the plate.</desc>
+		<image>./media/screenshots/Virtual League Baseball (USA).png</image>
+		<video>./media/videos/Virtual League Baseball (USA).mp4</video>
+		<marquee>./media/marquees/Virtual League Baseball (USA).png</marquee>
+		<thumbnail>./images/Virtual League Baseball (USA)-thumb.png</thumbnail>
+		<fanart>./images/Virtual League Baseball (USA)-fanart.jpg</fanart>
+		<manual>./manuals/Virtual League Baseball (USA)-manual.pdf</manual>
+		<boxback>./images/Virtual League Baseball (USA)-boxback.png</boxback>
+		<rating>0.5</rating>
+		<releasedate>19950911T000000</releasedate>
+		<developer>Kemco</developer>
+		<publisher>Kemco</publisher>
+		<genre>Sports / Baseball</genre>
+		<players>1</players>
+		<kidgame>true</kidgame>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>736B40D6</crc32>
+		<md5>2ba914c8aa16f2f9230b3c5b7e17e67b</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230228T213032" />
+	</game>
+	<game id="423895">
+		<path>./No-Intro/VUEngine Platformer (World) (En,Fr,De,Es-ES) (Demo) (Aftermarket) (Homebrew).vb</path>
+		<name>ZZZ(notgame):VUEngine Platformer</name>
+		<rating>0</rating>
+		<hidden>true</hidden>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>E2DBBD2E</crc32>
+		<md5>c96d91fb97572a0af7d53f63b292e0f2</md5>
+		<lang>de,en,fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230228T213034" />
+	</game>
+	<game id="4729">
+		<path>./No-Intro/Waterworld (USA).vb</path>
+		<name>Waterworld</name>
+		<desc>THE DEACON AWAITS!
+
+The Deacon will stop at nothing to control the world's most precious resource...
+
+And he's turned his blood-thirsty Smokers loose on the Atoller civilization in a frantic search for Enola - the tattooed girl who holds the secret to Dryland. Only you can smoke the Smokers and deck the Deacon!
+
+Waterworld brings your Virtual Boy screaming to life with incredibly smooth and realistic 3D animations, particle effects and texture mapped rendered graphics. So step into this action packed arcade experience today and learn what 3D gaming is all about.</desc>
+		<image>./media/screenshots/Waterworld (USA).png</image>
+		<video>./media/videos/Waterworld (USA).mp4</video>
+		<marquee>./media/marquees/Waterworld (USA).png</marquee>
+		<thumbnail>./images/Waterworld (USA)-thumb.png</thumbnail>
+		<fanart>./images/Waterworld (USA)-fanart.jpg</fanart>
+		<manual>./manuals/Waterworld (USA)-manual.pdf</manual>
+		<boxback>./images/Waterworld (USA)-boxback.png</boxback>
+		<rating>1</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Ocean</developer>
+		<publisher>Ocean</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
+		<kidgame>true</kidgame>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>82A95E51</crc32>
+		<md5>110a83bc070559c5cc5634a8b5cae274</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230228T213036" />
+	</game>
+	<game id="145307">
+		<path>./TOSEC/Applications/Etch-A-Sketch (2003)(Daderko, Pat)(PD)/Etch-A-Sketch (2003)(Daderko, Pat)(PD).bin</path>
+		<name>ZZZ(notgame):Etch-a-sketch</name>
+		<desc>The classically simple Etch-a-Sketch is one of the best-known toys of a generation experience it on the Nintendo virtual boy</desc>
+		<image>./images/Etch-A-Sketch (2003)(Daderko, Pat)(PD)-image.png</image>
+		<thumbnail>./images/Etch-A-Sketch (2003)(Daderko, Pat)(PD)-thumb.png</thumbnail>
+		<boxback>./images/Etch-A-Sketch (2003)(Daderko, Pat)(PD)-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>20030101T000000</releasedate>
+		<developer>DogP</developer>
+		<publisher>DogP</publisher>
+		<hidden>true</hidden>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>B0C92776</crc32>
+		<md5>f23ee05a508ad73bf1961586e119cecb</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230228T213043" />
+	</game>
+	<game id="4731">
+		<path>./TOSEC/Games/3-D Tetris (1996)(Nintendo - T&amp;E Soft)(US)/3-D Tetris (1996)(Nintendo - T&amp;E Soft)(US).bin</path>
+		<name>3D Tetris</name>
+		<desc>3D Tetris is a 3D Tetris game on Virtual Boy with 3 modes. The first contains five layers of Tetris blocks. Each time you complete a layer the blocks fall, disappear and you'll be rewarded with points. In the second, you place the blocks around the center of a well, the aim being to make them disappear. In the third mode, a form will be posted before the start of the match. You will have to reproduce that form perfectly.</desc>
+		<image>./images/3-D Tetris (1996)(Nintendo - T&amp;E Soft)(US)-image.png</image>
+		<video>./videos/3-D Tetris (1996)(Nintendo - T&amp;E Soft)(US)-video.mp4</video>
+		<marquee>./images/3-D Tetris (1996)(Nintendo - T&amp;E Soft)(US)-marquee.png</marquee>
+		<thumbnail>./images/3-D Tetris (1996)(Nintendo - T&amp;E Soft)(US)-thumb.png</thumbnail>
+		<fanart>./images/3-D Tetris (1996)(Nintendo - T&amp;E Soft)(US)-fanart.jpg</fanart>
+		<manual>./manuals/3-D Tetris (1996)(Nintendo - T&amp;E Soft)(US)-manual.pdf</manual>
+		<boxback>./images/3-D Tetris (1996)(Nintendo - T&amp;E Soft)(US)-boxback.png</boxback>
+		<rating>0.6</rating>
+		<releasedate>19960322T000000</releasedate>
+		<developer>T&amp;E Soft</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle-Game</genre>
+		<family>Tetris</family>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>BB71B522</crc32>
+		<md5>ecf1218706e9b547eab9e4be58d54e21</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230228T213045" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/BLOX v1.0 (2003)(Radke, Christian)(PD)/BLOX v1.0 (2003)(Radke, Christian)(PD).bin</path>
+		<name>BLOX v1.0 (2003)(Radke, Christian)(PD)</name>
+		<image>./images/BLOX v1.0 (2003)(Radke, Christian)(PD)-image.png</image>
+		<video>./videos/BLOX v1.0 (2003)(Radke, Christian)(PD)-video.mp4</video>
+		<marquee>./images/BLOX v1.0 (2003)(Radke, Christian)(PD)-marquee.png</marquee>
+		<thumbnail>./images/BLOX v1.0 (2003)(Radke, Christian)(PD)-thumb.png</thumbnail>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>7BAF43B0</crc32>
+		<md5>231145f89792e8399a730612e97ae4df</md5>
+		<scrap name="ScreenScraper" date="20230228T213046" />
+		<boxback>./images/BLOX v1.0 (2003)(Radke, Christian)(PD)-boxback.png</boxback>
+	</game>
+	<game>
+		<path>./TOSEC/Games/BLOX v1.1 (2003)(Radke, Christian)(PD)/BLOX v1.1 (2003)(Radke, Christian)(PD).bin</path>
+		<name>BLOX v1.1 (2003)(Radke, Christian)(PD)</name>
+		<image>./images/BLOX v1.1 (2003)(Radke, Christian)(PD)-image.png</image>
+		<video>./videos/BLOX v1.1 (2003)(Radke, Christian)(PD)-video.mp4</video>
+		<marquee>./images/BLOX v1.1 (2003)(Radke, Christian)(PD)-marquee.png</marquee>
+		<thumbnail>./images/BLOX v1.1 (2003)(Radke, Christian)(PD)-thumb.png</thumbnail>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>450FEAB5</crc32>
+		<md5>f82d4c9fdd81518537d88f70c6602bb5</md5>
+		<scrap name="ScreenScraper" date="20230228T213047" />
+		<boxback>./images/BLOX v1.1 (2003)(Radke, Christian)(PD)-boxback.png</boxback>
+	</game>
+	<game id="44479">
+		<path>./TOSEC/Games/Bound High! (1996)(Japan System Supply)(JP-US)(en-ja)(proto)/Bound High! (1996)(Japan System Supply)(JP-US)(en-ja)(proto).bin</path>
+		<name>Bound High!</name>
+		<desc>Bound High is one of the games that could have saved the Virtualboy if the console had been relaunched. The game was postponed several times and finally cancelled due to the lack of success of the console, despite having been completed. Chalvo, the bouncing robot, tracks down alien invaders, who threaten the peace of the inhabitants of Earth, in 3D levels located in space - above Earth or in similar universes.</desc>
+		<image>./images/Bound High! (1996)(Japan System Supply)(JP-US)(en-ja)(proto)-image.png</image>
+		<video>./videos/Bound High! (1996)(Japan System Supply)(JP-US)(en-ja)(proto)-video.mp4</video>
+		<marquee>./images/Bound High! (1996)(Japan System Supply)(JP-US)(en-ja)(proto)-marquee.png</marquee>
+		<thumbnail>./images/Bound High! (1996)(Japan System Supply)(JP-US)(en-ja)(proto)-thumb.png</thumbnail>
+		<fanart>./images/Bound High! (1996)(Japan System Supply)(JP-US)(en-ja)(proto)-fanart.jpg</fanart>
+		<boxback>./images/Bound High! (1996)(Japan System Supply)(JP-US)(en-ja)(proto)-boxback.png</boxback>
+		<rating>0.6</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Japan System Supply</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Various</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>E81A3703</crc32>
+		<md5>a460e2660fa951e9d4e3b05aee9f5018</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230228T213049" />
+	</game>
+	<game id="4740">
+		<path>./TOSEC/Games/Galactic Pinball (1995)(Nintendo)(JP-US)(en)/Galactic Pinball (1995)(Nintendo)(JP-US)(en).bin</path>
+		<name>Galactic Pinball</name>
+		<desc>Galactic Pinball is a pinball video game released in 1995 on Virtual Boy. In addition to the high scores, you can choose between four pinball tables. These are named Alien, UFO, Colony and cosmic.</desc>
+		<image>./images/Galactic Pinball (1995)(Nintendo)(JP-US)(en)-image.png</image>
+		<video>./videos/Galactic Pinball (1995)(Nintendo)(JP-US)(en)-video.mp4</video>
+		<marquee>./images/Galactic Pinball (1995)(Nintendo)(JP-US)(en)-marquee.png</marquee>
+		<thumbnail>./images/Galactic Pinball (1995)(Nintendo)(JP-US)(en)-thumb.png</thumbnail>
+		<fanart>./images/Galactic Pinball (1995)(Nintendo)(JP-US)(en)-fanart.jpg</fanart>
+		<manual>./manuals/Galactic Pinball (1995)(Nintendo)(JP-US)(en)-manual.pdf</manual>
+		<boxback>./images/Galactic Pinball (1995)(Nintendo)(JP-US)(en)-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>19950814T000000</releasedate>
+		<developer>Intelligent Systems</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Pinball</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>C9710A36</crc32>
+		<md5>85260599fdada2e137053a8647aa0d06</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230228T213050" />
+	</game>
+	<game id="4740">
+		<path>./TOSEC/Games/Galactic Pinball (1995)(Nintendo)(JP-US)(en)(beta)/Galactic Pinball (1995)(Nintendo)(JP-US)(en)(beta).bin</path>
+		<name>Galactic Pinball</name>
+		<desc>Galactic Pinball is a pinball video game released in 1995 on Virtual Boy. In addition to the high scores, you can choose between four pinball tables. These are named Alien, UFO, Colony and cosmic.</desc>
+		<image>./images/Galactic Pinball (1995)(Nintendo)(JP-US)(en)(beta)-image.png</image>
+		<video>./videos/Galactic Pinball (1995)(Nintendo)(JP-US)(en)(beta)-video.mp4</video>
+		<marquee>./images/Galactic Pinball (1995)(Nintendo)(JP-US)(en)(beta)-marquee.png</marquee>
+		<thumbnail>./images/Galactic Pinball (1995)(Nintendo)(JP-US)(en)(beta)-thumb.png</thumbnail>
+		<fanart>./images/Galactic Pinball (1995)(Nintendo)(JP-US)(en)(beta)-fanart.jpg</fanart>
+		<manual>./manuals/Galactic Pinball (1995)(Nintendo)(JP-US)(en)(beta)-manual.pdf</manual>
+		<boxback>./images/Galactic Pinball (1995)(Nintendo)(JP-US)(en)(beta)-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>19950814T000000</releasedate>
+		<developer>Intelligent Systems</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Pinball</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>44C2B723</crc32>
+		<md5>31073126fad41777357391ecc36d6f7f</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230228T213052" />
+	</game>
+	<game id="172264">
+		<path>./TOSEC/Games/GameHero (2012)(thunderstruck)[p]/GameHero (2012)(thunderstruck)[p].bin</path>
+		<name>Game Hero</name>
+		<desc>Game Hero is a Homebrew looking like Guitar Hero on which player must push paddle button in the timing.</desc>
+		<image>./images/GameHero (2012)(thunderstruck)[p]-image.png</image>
+		<video>./videos/GameHero (2012)(thunderstruck)[p]-video.mp4</video>
+		<marquee>./images/GameHero (2012)(thunderstruck)[p]-marquee.png</marquee>
+		<thumbnail>./images/GameHero (2012)(thunderstruck)[p]-thumb.png</thumbnail>
+		<boxback>./images/GameHero (2012)(thunderstruck)[p]-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>20120229T000000</releasedate>
+		<genre>Music and Dance</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>47F2A964</crc32>
+		<md5>25f14997133e6e0ddf4d7b2ad847090e</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230228T213053" />
+	</game>
+	<game id="172264">
+		<path>./TOSEC/Games/GameHero (2012)(thunderstruck)[p][a]/GameHero (2012)(thunderstruck)[p][a].bin</path>
+		<name>Game Hero</name>
+		<desc>Game Hero is a Homebrew looking like Guitar Hero on which player must push paddle button in the timing.</desc>
+		<image>./images/GameHero (2012)(thunderstruck)[p][a]-image.png</image>
+		<video>./videos/GameHero (2012)(thunderstruck)[p][a]-video.mp4</video>
+		<marquee>./images/GameHero (2012)(thunderstruck)[p][a]-marquee.png</marquee>
+		<thumbnail>./images/GameHero (2012)(thunderstruck)[p][a]-thumb.png</thumbnail>
+		<boxback>./images/GameHero (2012)(thunderstruck)[p][a]-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>20120229T000000</releasedate>
+		<genre>Music and Dance</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>E29ED6D1</crc32>
+		<md5>0742577eef9c7263da3d523e4fd79be6</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230228T213055" />
+	</game>
+	<game id="4741">
+		<path>./TOSEC/Games/Golf (1995)(T&amp;E Soft)(US)/Golf (1995)(T&amp;E Soft)(US).bin</path>
+		<name>Golf</name>
+		<desc>Golf is a golf video game released in 1995 on Virtual Boy. Golf comes in a 3D perspective and contains two modes "tournament" and "bear play" as well as 18 holes during the course.</desc>
+		<image>./images/Golf (1995)(T&amp;E Soft)(US)-image.png</image>
+		<video>./videos/Golf (1995)(T&amp;E Soft)(US)-video.mp4</video>
+		<marquee>./images/Golf (1995)(T&amp;E Soft)(US)-marquee.png</marquee>
+		<thumbnail>./images/Golf (1995)(T&amp;E Soft)(US)-thumb.png</thumbnail>
+		<fanart>./images/Golf (1995)(T&amp;E Soft)(US)-fanart.jpg</fanart>
+		<manual>./manuals/Golf (1995)(T&amp;E Soft)(US)-manual.pdf</manual>
+		<boxback>./images/Golf (1995)(T&amp;E Soft)(US)-boxback.png</boxback>
+		<rating>0.85</rating>
+		<releasedate>19951101T000000</releasedate>
+		<developer>Technical Engineering Support</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports / Golf</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>2199AF41</crc32>
+		<md5>977c4da800dacfac1a1402781670f872</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230228T213056" />
+	</game>
+	<game id="419559">
+		<path>./TOSEC/Games/GoSub (2009)(Read, Chris)(PD)/GoSub (2009)(Read, Chris)(PD).bin</path>
+		<name>GoSub</name>
+		<image>./images/GoSub (2009)(Read, Chris)(PD)-image.png</image>
+		<rating>0.5</rating>
+		<releasedate>20091113T000000</releasedate>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>F9360E8B</crc32>
+		<md5>907c7f10093cfcab371754efae8ed279</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230228T213058" />
+	</game>
+	<game id="419541">
+		<path>./TOSEC/Games/GoSub 3D (2010)(Read, Chris)(PD)/GoSub 3D (2010)(Read, Chris)(PD).bin</path>
+		<name>GoSub 3D</name>
+		<image>./images/GoSub 3D (2010)(Read, Chris)(PD)-image.png</image>
+		<rating>0.65</rating>
+		<releasedate>20101008T000000</releasedate>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>A646A392</crc32>
+		<md5>a5a3d14326bc8dc197a2088abcabfdfb</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230228T213100" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/GoSub 3D Rev 20100922 (2010)(Read, Chris)(PD)(beta)/GoSub 3D Rev 20100922 (2010)(Read, Chris)(PD)(beta).bin</path>
+		<name>GoSub 3D Rev 20100922 (2010)(Read, Chris)(PD)(beta)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>06637E51</crc32>
+		<md5>712627fcab3058e4dfd78b245f395de6</md5>
+		<scrap name="ScreenScraper" date="20230228T213101" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/GoSub 3D Rev 20100923 (2010)(Read, Chris)(PD)(beta)/GoSub 3D Rev 20100923 (2010)(Read, Chris)(PD)(beta).bin</path>
+		<name>GoSub 3D Rev 20100923 (2010)(Read, Chris)(PD)(beta)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>08F0F88D</crc32>
+		<md5>59e00a964dd1d21aba5771ae5eb542f5</md5>
+		<scrap name="ScreenScraper" date="20230228T213102" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/GoSub Rev 20090410 (2009)(Read, Chris)(PD)(beta)/GoSub Rev 20090410 (2009)(Read, Chris)(PD)(beta).bin</path>
+		<name>GoSub Rev 20090410 (2009)(Read, Chris)(PD)(beta)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>B0170FF7</crc32>
+		<md5>48568cf0edfd68b04d2b42ff082a59c6</md5>
+		<scrap name="ScreenScraper" date="20230228T213104" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/GoSub Rev 20090411-1 (2009)(Read, Chris)(PD)(beta)/GoSub Rev 20090411-1 (2009)(Read, Chris)(PD)(beta).bin</path>
+		<name>GoSub Rev 20090411-1 (2009)(Read, Chris)(PD)(beta)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>FF102D33</crc32>
+		<md5>1b290c2e7c2a16e58bf75059351d3bdd</md5>
+		<scrap name="ScreenScraper" date="20230228T213105" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/GoSub Rev 20090411-2 (2009)(Read, Chris)(PD)(beta)/GoSub Rev 20090411-2 (2009)(Read, Chris)(PD)(beta).bin</path>
+		<name>GoSub Rev 20090411-2 (2009)(Read, Chris)(PD)(beta)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>598F602C</crc32>
+		<md5>5c7e2c644c9542560f5d5da40f7921d7</md5>
+		<scrap name="ScreenScraper" date="20230228T213106" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/GoSub Rev 20090411-3 (2009)(Read, Chris)(PD)(beta)/GoSub Rev 20090411-3 (2009)(Read, Chris)(PD)(beta).bin</path>
+		<name>GoSub Rev 20090411-3 (2009)(Read, Chris)(PD)(beta)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>42673630</crc32>
+		<md5>fdb5defb3c8c9f83bfd933b15e55f34c</md5>
+		<scrap name="ScreenScraper" date="20230228T213107" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/GoSub Rev 20090411-d (2009)(Read, Chris)(PD)(beta)/GoSub Rev 20090411-d (2009)(Read, Chris)(PD)(beta).bin</path>
+		<name>GoSub Rev 20090411-d (2009)(Read, Chris)(PD)(beta)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>F8180FB8</crc32>
+		<md5>cd3eb985c9a6792df62220eb9948c8bd</md5>
+		<scrap name="ScreenScraper" date="20230228T213108" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/GoSub Rev 20090412-1 (2009)(Read, Chris)(PD)(beta)/GoSub Rev 20090412-1 (2009)(Read, Chris)(PD)(beta).bin</path>
+		<name>GoSub Rev 20090412-1 (2009)(Read, Chris)(PD)(beta)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>751F1821</crc32>
+		<md5>c1f1da861c52b95628ea4bddcdd3c585</md5>
+		<scrap name="ScreenScraper" date="20230228T213109" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/GoSub Rev 20090412-2 (2009)(Read, Chris)(PD)(beta)/GoSub Rev 20090412-2 (2009)(Read, Chris)(PD)(beta).bin</path>
+		<name>GoSub Rev 20090412-2 (2009)(Read, Chris)(PD)(beta)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>18E60D05</crc32>
+		<md5>2ab85887ce9714efa8332baa4dabc59a</md5>
+		<scrap name="ScreenScraper" date="20230228T213110" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/GoSub Rev 20090413 (2009)(Read, Chris)(PD)(beta)/GoSub Rev 20090413 (2009)(Read, Chris)(PD)(beta).bin</path>
+		<name>GoSub Rev 20090413 (2009)(Read, Chris)(PD)(beta)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>06E63C9E</crc32>
+		<md5>02f5943ae4aa57a979dcc4b9b37357b3</md5>
+		<scrap name="ScreenScraper" date="20230228T213112" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/GoSub Rev 20090414-1 (2009)(Read, Chris)(PD)(beta)/GoSub Rev 20090414-1 (2009)(Read, Chris)(PD)(beta).bin</path>
+		<name>GoSub Rev 20090414-1 (2009)(Read, Chris)(PD)(beta)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>9E89AD4B</crc32>
+		<md5>d520a146ec75ce16409732442701ec3b</md5>
+		<scrap name="ScreenScraper" date="20230228T213113" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/GoSub Rev 20090414-2 (2009)(Read, Chris)(PD)(beta)/GoSub Rev 20090414-2 (2009)(Read, Chris)(PD)(beta).bin</path>
+		<name>GoSub Rev 20090414-2 (2009)(Read, Chris)(PD)(beta)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>943AD6B6</crc32>
+		<md5>5bfca25adde826e324c8bf19aea3cde1</md5>
+		<scrap name="ScreenScraper" date="20230228T213114" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/GoSub Rev 20090414-3 (2009)(Read, Chris)(PD)(beta)/GoSub Rev 20090414-3 (2009)(Read, Chris)(PD)(beta).bin</path>
+		<name>GoSub Rev 20090414-3 (2009)(Read, Chris)(PD)(beta)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>B8C16592</crc32>
+		<md5>e7b9e1b63a0278b3f63bf49f96cd59ab</md5>
+		<scrap name="ScreenScraper" date="20230228T213115" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/GoSub Rev 20090415-1 (2009)(Read, Chris)(PD)(beta)/GoSub Rev 20090415-1 (2009)(Read, Chris)(PD)(beta).bin</path>
+		<name>GoSub Rev 20090415-1 (2009)(Read, Chris)(PD)(beta)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>F0A3CE5A</crc32>
+		<md5>9fe2fc89e27e6ad65e957ea655268003</md5>
+		<scrap name="ScreenScraper" date="20230228T213117" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/GoSub Rev 20090415-2 (2009)(Read, Chris)(PD)(beta)/GoSub Rev 20090415-2 (2009)(Read, Chris)(PD)(beta).bin</path>
+		<name>GoSub Rev 20090415-2 (2009)(Read, Chris)(PD)(beta)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>DE2931D9</crc32>
+		<md5>f7116ddb05bb89cf654608edd9abbd4a</md5>
+		<scrap name="ScreenScraper" date="20230228T213118" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/GoSub Rev 20090416 (2009)(Read, Chris)(PD)(beta)/GoSub Rev 20090416 (2009)(Read, Chris)(PD)(beta).bin</path>
+		<name>GoSub Rev 20090416 (2009)(Read, Chris)(PD)(beta)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>985AE109</crc32>
+		<md5>0d4cac2c1f7369225f8521dd8397daa0</md5>
+		<scrap name="ScreenScraper" date="20230228T213119" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/GoSub Rev 20090417 (2009)(Read, Chris)(PD)(beta)/GoSub Rev 20090417 (2009)(Read, Chris)(PD)(beta).bin</path>
+		<name>GoSub Rev 20090417 (2009)(Read, Chris)(PD)(beta)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>EFBF2206</crc32>
+		<md5>2b0cf812dc2bfec89896e93127863236</md5>
+		<scrap name="ScreenScraper" date="20230228T213120" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/GoSub Rev 20090417-i (2009)(Read, Chris)(PD)(beta)/GoSub Rev 20090417-i (2009)(Read, Chris)(PD)(beta).bin</path>
+		<name>GoSub Rev 20090417-i (2009)(Read, Chris)(PD)(beta)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>20A0B9B8</crc32>
+		<md5>e7b2291b6ea14e54c8508d53ea368868</md5>
+		<scrap name="ScreenScraper" date="20230228T213121" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/GoSub Rev 20090418 (2009)(Read, Chris)(PD)(beta)/GoSub Rev 20090418 (2009)(Read, Chris)(PD)(beta).bin</path>
+		<name>GoSub Rev 20090418 (2009)(Read, Chris)(PD)(beta)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>91C10611</crc32>
+		<md5>d74e1330794ecdec8a768a8575d15b0d</md5>
+		<scrap name="ScreenScraper" date="20230228T213122" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/GoSub Rev 20090419 (2009)(Read, Chris)(PD)(beta)/GoSub Rev 20090419 (2009)(Read, Chris)(PD)(beta).bin</path>
+		<name>GoSub Rev 20090419 (2009)(Read, Chris)(PD)(beta)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>6072A3BC</crc32>
+		<md5>59f2d8c48f39bddf44af03e9bb339101</md5>
+		<scrap name="ScreenScraper" date="20230228T213124" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/GoSub Rev 20090420 (2009)(Read, Chris)(PD)(beta)/GoSub Rev 20090420 (2009)(Read, Chris)(PD)(beta).bin</path>
+		<name>GoSub Rev 20090420 (2009)(Read, Chris)(PD)(beta)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>EBAE5701</crc32>
+		<md5>d90396278c091acae568400cc9514509</md5>
+		<scrap name="ScreenScraper" date="20230228T213125" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/GoSub Rev 20090422 (2009)(Read, Chris)(PD)(beta)/GoSub Rev 20090422 (2009)(Read, Chris)(PD)(beta).bin</path>
+		<name>GoSub Rev 20090422 (2009)(Read, Chris)(PD)(beta)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>D8E859B9</crc32>
+		<md5>07cb5870d8f03731a0a96fb11afc80c3</md5>
+		<scrap name="ScreenScraper" date="20230228T213127" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/GoSub Rev 20090423 (2009)(Read, Chris)(PD)(beta)/GoSub Rev 20090423 (2009)(Read, Chris)(PD)(beta).bin</path>
+		<name>GoSub Rev 20090423 (2009)(Read, Chris)(PD)(beta)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>3496E349</crc32>
+		<md5>6bb183178a8f3d72066222418d6798d1</md5>
+		<scrap name="ScreenScraper" date="20230228T213128" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/GoSub Rev 20090424 (2009)(Read, Chris)(PD)(beta)/GoSub Rev 20090424 (2009)(Read, Chris)(PD)(beta).bin</path>
+		<name>GoSub Rev 20090424 (2009)(Read, Chris)(PD)(beta)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>8C253E40</crc32>
+		<md5>148c68d4e8b0d46b054bfc7e75b7e864</md5>
+		<scrap name="ScreenScraper" date="20230228T213129" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/GoSub Rev 20090427 (2009)(Read, Chris)(PD)(beta)/GoSub Rev 20090427 (2009)(Read, Chris)(PD)(beta).bin</path>
+		<name>GoSub Rev 20090427 (2009)(Read, Chris)(PD)(beta)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>5CD4666D</crc32>
+		<md5>21968b82d5be4c154c32a07a73ea781e</md5>
+		<scrap name="ScreenScraper" date="20230228T213130" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/GoSub Rev 20090429 (2009)(Read, Chris)(PD)(beta)/GoSub Rev 20090429 (2009)(Read, Chris)(PD)(beta).bin</path>
+		<name>GoSub Rev 20090429 (2009)(Read, Chris)(PD)(beta)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>C3351F66</crc32>
+		<md5>dbcedbeae4feb88780e387ff126a4dd7</md5>
+		<scrap name="ScreenScraper" date="20230228T213131" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/GoSub Rev 20090502 (2009)(Read, Chris)(PD)(beta)/GoSub Rev 20090502 (2009)(Read, Chris)(PD)(beta).bin</path>
+		<name>GoSub Rev 20090502 (2009)(Read, Chris)(PD)(beta)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>88A0105E</crc32>
+		<md5>539ab5eaada0ee99ed451260d7e48fa6</md5>
+		<scrap name="ScreenScraper" date="20230228T213132" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/GoSub Rev 20090505 (2009)(Read, Chris)(PD)(beta)/GoSub Rev 20090505 (2009)(Read, Chris)(PD)(beta).bin</path>
+		<name>GoSub Rev 20090505 (2009)(Read, Chris)(PD)(beta)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>EC22FC81</crc32>
+		<md5>67dfef13667c8713f4ccb9d9f64653ea</md5>
+		<scrap name="ScreenScraper" date="20230228T213134" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/GoSub Rev 20090715 (2009)(Read, Chris)(PD)(beta)/GoSub Rev 20090715 (2009)(Read, Chris)(PD)(beta).bin</path>
+		<name>GoSub Rev 20090715 (2009)(Read, Chris)(PD)(beta)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>066A2225</crc32>
+		<md5>cb3b4804afaac7911a1154db136aedc3</md5>
+		<scrap name="ScreenScraper" date="20230228T213135" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/GoSub Rev 20090718 (2009)(Read, Chris)(PD)(beta)/GoSub Rev 20090718 (2009)(Read, Chris)(PD)(beta).bin</path>
+		<name>GoSub Rev 20090718 (2009)(Read, Chris)(PD)(beta)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>23A11661</crc32>
+		<md5>28f41241ddc4de5fef19a1890e85d040</md5>
+		<scrap name="ScreenScraper" date="20230228T213136" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/GoSub Rev 20090725 (2009)(Read, Chris)(PD)(beta)/GoSub Rev 20090725 (2009)(Read, Chris)(PD)(beta).bin</path>
+		<name>GoSub Rev 20090725 (2009)(Read, Chris)(PD)(beta)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>BBD011DB</crc32>
+		<md5>a802f40fdaa7c5701df53d4217a6dd2c</md5>
+		<scrap name="ScreenScraper" date="20230228T213138" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/GoSub Rev 20090726 (2009)(Read, Chris)(PD)(beta)/GoSub Rev 20090726 (2009)(Read, Chris)(PD)(beta).bin</path>
+		<name>GoSub Rev 20090726 (2009)(Read, Chris)(PD)(beta)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>331BE8A8</crc32>
+		<md5>795f9cd4d7ecf771fb240b3888522fe3</md5>
+		<scrap name="ScreenScraper" date="20230228T213139" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/GoSub Rev 20090727 (2009)(Read, Chris)(PD)(beta)/GoSub Rev 20090727 (2009)(Read, Chris)(PD)(beta).bin</path>
+		<name>GoSub Rev 20090727 (2009)(Read, Chris)(PD)(beta)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>4E184995</crc32>
+		<md5>ff787c5049fbb2752e8a7c9fd7e9492c</md5>
+		<scrap name="ScreenScraper" date="20230228T213140" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/GoSub Rev 20090728 (2009)(Read, Chris)(PD)(beta)/GoSub Rev 20090728 (2009)(Read, Chris)(PD)(beta).bin</path>
+		<name>GoSub Rev 20090728 (2009)(Read, Chris)(PD)(beta)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>C23B7909</crc32>
+		<md5>901f7222dda133f718c1f6b8465b27a4</md5>
+		<scrap name="ScreenScraper" date="20230228T213141" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/GoSub Rev 20090731 (2009)(Read, Chris)(PD)(beta)/GoSub Rev 20090731 (2009)(Read, Chris)(PD)(beta).bin</path>
+		<name>GoSub Rev 20090731 (2009)(Read, Chris)(PD)(beta)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>CC3166FF</crc32>
+		<md5>ac0216da6d4735e7ed6dd6ca93fb53d0</md5>
+		<scrap name="ScreenScraper" date="20230228T213143" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/GoSub Rev 20090805 (2009)(Read, Chris)(PD)(beta)/GoSub Rev 20090805 (2009)(Read, Chris)(PD)(beta).bin</path>
+		<name>GoSub Rev 20090805 (2009)(Read, Chris)(PD)(beta)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>8EBAE726</crc32>
+		<md5>7c87497c0baa08433b5d250bf27d6423</md5>
+		<scrap name="ScreenScraper" date="20230228T213144" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/GoSub Rev 20090806 (2009)(Read, Chris)(PD)(beta)/GoSub Rev 20090806 (2009)(Read, Chris)(PD)(beta).bin</path>
+		<name>GoSub Rev 20090806 (2009)(Read, Chris)(PD)(beta)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>CA338F51</crc32>
+		<md5>111a4ea01a44d7a0300e3ce8e9a5b8cf</md5>
+		<scrap name="ScreenScraper" date="20230228T213146" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/GoSub Rev 20090827 (2009)(Read, Chris)(PD)(beta)/GoSub Rev 20090827 (2009)(Read, Chris)(PD)(beta).bin</path>
+		<name>GoSub Rev 20090827 (2009)(Read, Chris)(PD)(beta)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>D2E7782B</crc32>
+		<md5>b92610ea85cb9af02af5761551726870</md5>
+		<scrap name="ScreenScraper" date="20230228T213147" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/GoSub Rev 20091005 (2009)(Read, Chris)(PD)(beta)/GoSub Rev 20091005 (2009)(Read, Chris)(PD)(beta).bin</path>
+		<name>GoSub Rev 20091005 (2009)(Read, Chris)(PD)(beta)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>44456EA4</crc32>
+		<md5>ff3a46f0c4a64c2d10746eb7a9393e20</md5>
+		<scrap name="ScreenScraper" date="20230228T213148" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/GoSub Rev 20091006-1 (2009)(Read, Chris)(PD)(beta)/GoSub Rev 20091006-1 (2009)(Read, Chris)(PD)(beta).bin</path>
+		<name>GoSub Rev 20091006-1 (2009)(Read, Chris)(PD)(beta)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>86F3CAD1</crc32>
+		<md5>728fd539c94a0ca2c9180b5a6b8981c4</md5>
+		<scrap name="ScreenScraper" date="20230228T213150" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/GoSub Rev 20091006-2 (2009)(Read, Chris)(PD)(beta)/GoSub Rev 20091006-2 (2009)(Read, Chris)(PD)(beta).bin</path>
+		<name>GoSub Rev 20091006-2 (2009)(Read, Chris)(PD)(beta)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>CF6F73D7</crc32>
+		<md5>bff14da460389937a86dbc3bc1db5ee7</md5>
+		<scrap name="ScreenScraper" date="20230228T213151" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/GoSub Rev 20091009 (2009)(Read, Chris)(PD)(beta)/GoSub Rev 20091009 (2009)(Read, Chris)(PD)(beta).bin</path>
+		<name>GoSub Rev 20091009 (2009)(Read, Chris)(PD)(beta)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>7BEAAB09</crc32>
+		<md5>8ddfae2b660903456ec05b01abe1e58f</md5>
+		<scrap name="ScreenScraper" date="20230228T213152" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/GoSub Rev 20091018 (2009)(Read, Chris)(PD)(beta)/GoSub Rev 20091018 (2009)(Read, Chris)(PD)(beta).bin</path>
+		<name>GoSub Rev 20091018 (2009)(Read, Chris)(PD)(beta)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>14167425</crc32>
+		<md5>8c8684ba31d6d4054b47dee4f52c1b03</md5>
+		<scrap name="ScreenScraper" date="20230228T213154" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/GoSub Rev 20091019 (2009)(Read, Chris)(PD)(beta)/GoSub Rev 20091019 (2009)(Read, Chris)(PD)(beta).bin</path>
+		<name>GoSub Rev 20091019 (2009)(Read, Chris)(PD)(beta)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>9B556537</crc32>
+		<md5>9f16d2e16fdf90ab4de640233ebc5091</md5>
+		<scrap name="ScreenScraper" date="20230228T213155" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/GoSub Rev 20091023 (2009)(Read, Chris)(PD)(beta)/GoSub Rev 20091023 (2009)(Read, Chris)(PD)(beta).bin</path>
+		<name>GoSub Rev 20091023 (2009)(Read, Chris)(PD)(beta)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>985CF7FA</crc32>
+		<md5>e6831820ab3ded42c304052a833cf9dd</md5>
+		<scrap name="ScreenScraper" date="20230228T213156" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/GoSub Rev 20091028 (2009)(Read, Chris)(PD)(beta)/GoSub Rev 20091028 (2009)(Read, Chris)(PD)(beta).bin</path>
+		<name>GoSub Rev 20091028 (2009)(Read, Chris)(PD)(beta)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>28F210B1</crc32>
+		<md5>e861d3ce172265ea048f793fea4b4176</md5>
+		<scrap name="ScreenScraper" date="20230228T213157" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/GoSub Rev 20091101 (2009)(Read, Chris)(PD)(beta)/GoSub Rev 20091101 (2009)(Read, Chris)(PD)(beta).bin</path>
+		<name>GoSub Rev 20091101 (2009)(Read, Chris)(PD)(beta)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>BCCDA404</crc32>
+		<md5>d0579c44eeb261ab6f3926b3e52497b0</md5>
+		<scrap name="ScreenScraper" date="20230228T213159" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/GoSub Rev 20091102 (2009)(Read, Chris)(PD)(beta)/GoSub Rev 20091102 (2009)(Read, Chris)(PD)(beta).bin</path>
+		<name>GoSub Rev 20091102 (2009)(Read, Chris)(PD)(beta)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>C585315F</crc32>
+		<md5>ff452cfcf1a11ea748ea417a17cfda49</md5>
+		<scrap name="ScreenScraper" date="20230228T213200" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/GoSub Rev 20091106 (2009)(Read, Chris)(PD)(beta)/GoSub Rev 20091106 (2009)(Read, Chris)(PD)(beta).bin</path>
+		<name>GoSub Rev 20091106 (2009)(Read, Chris)(PD)(beta)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>6D8A03F8</crc32>
+		<md5>a4ef0c5bef1a26ad75ab559337fa2258</md5>
+		<scrap name="ScreenScraper" date="20230228T213201" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/GoSub Rev 20091106-1 (2009)(Read, Chris)(PD)(beta)/GoSub Rev 20091106-1 (2009)(Read, Chris)(PD)(beta).bin</path>
+		<name>GoSub Rev 20091106-1 (2009)(Read, Chris)(PD)(beta)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>5466531B</crc32>
+		<md5>c25f4eef4e716a886155810ad06590bf</md5>
+		<scrap name="ScreenScraper" date="20230228T213202" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/GoSub Rev 20091107 (2009)(Read, Chris)(PD)(beta)/GoSub Rev 20091107 (2009)(Read, Chris)(PD)(beta).bin</path>
+		<name>GoSub Rev 20091107 (2009)(Read, Chris)(PD)(beta)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>DD3AA5AF</crc32>
+		<md5>0c0955c6d749f9044893a7aca935c926</md5>
+		<scrap name="ScreenScraper" date="20230228T213203" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/GoSub Rev 20091116 (2009)(Read, Chris)(PD)(beta)/GoSub Rev 20091116 (2009)(Read, Chris)(PD)(beta).bin</path>
+		<name>GoSub Rev 20091116 (2009)(Read, Chris)(PD)(beta)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>AE96AC9E</crc32>
+		<md5>563518764a597c964cf010204cc3a095</md5>
+		<scrap name="ScreenScraper" date="20230228T213205" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/GoSub Rev 20091118 (2009)(Read, Chris)(PD)(beta)/GoSub Rev 20091118 (2009)(Read, Chris)(PD)(beta).bin</path>
+		<name>GoSub Rev 20091118 (2009)(Read, Chris)(PD)(beta)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>96564974</crc32>
+		<md5>7917cf3ade4fd802325754b77add6c8f</md5>
+		<scrap name="ScreenScraper" date="20230228T213206" />
+	</game>
+	<game id="172276">
+		<path>./TOSEC/Games/Hunter (2010)(DanB)(PD)/Hunter (2010)(DanB)(PD).bin</path>
+		<name>Hunter</name>
+		<desc>Homebrow remake of an Atari ST/Amiga game: Hunter.
+
+It's a third person 3D action adventure in a large open world made by filled polygons.
+
+You can ride dozens of different vehicles and blow lots of stuff up.</desc>
+		<image>./images/Hunter (2010)(DanB)(PD)-image.png</image>
+		<video>./videos/Hunter (2010)(DanB)(PD)-video.mp4</video>
+		<marquee>./images/Hunter (2010)(DanB)(PD)-marquee.png</marquee>
+		<thumbnail>./images/Hunter (2010)(DanB)(PD)-thumb.png</thumbnail>
+		<boxback>./images/Hunter (2010)(DanB)(PD)-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>20101031T000000</releasedate>
+		<developer>DanB</developer>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>A59A6EE1</crc32>
+		<md5>2555cca2f7d8dd253f2cd5612a8ae373</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230228T213207" />
+	</game>
+	<game id="172277">
+		<path>./TOSEC/Games/Hyper Fighting (2015)(Mr. Anonymous)/Hyper Fighting (2015)(Mr. Anonymous).bin</path>
+		<name>Hyper Fighting</name>
+		<desc>Port of Street Fighter 2 on Virtualboy. You can play only with Ryu and against Dhalsim, Ryu, Chun Li and Guile.</desc>
+		<image>./images/Hyper Fighting (2015)(Mr. Anonymous)-image.png</image>
+		<video>./videos/Hyper Fighting (2015)(Mr. Anonymous)-video.mp4</video>
+		<marquee>./images/Hyper Fighting (2015)(Mr. Anonymous)-marquee.png</marquee>
+		<thumbnail>./images/Hyper Fighting (2015)(Mr. Anonymous)-thumb.png</thumbnail>
+		<fanart>./images/Hyper Fighting (2015)(Mr. Anonymous)-fanart.jpg</fanart>
+		<boxback>./images/Hyper Fighting (2015)(Mr. Anonymous)-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>20130828T000000</releasedate>
+		<developer>M.K., Mr. Anon</developer>
+		<publisher>virtual-boy.com</publisher>
+		<genre>Fight</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>3F2A6BA2</crc32>
+		<md5>c2047a94dcb0db30794c8533ba625622</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230228T213209" />
+	</game>
+	<game id="172277">
+		<path>./TOSEC/Games/Hyper Fighting (demo-playable) (2013-08-25)(Mr. Anonymous)/Hyper Fighting (demo-playable) (2013-08-25)(Mr. Anonymous).bin</path>
+		<name>Hyper Fighting</name>
+		<desc>Port of Street Fighter 2 on Virtualboy. You can play only with Ryu and against Dhalsim, Ryu, Chun Li and Guile.</desc>
+		<image>./images/Hyper Fighting (demo-playable) (2013-08-25)(Mr. Anonymous)-image.png</image>
+		<video>./videos/Hyper Fighting (demo-playable) (2013-08-25)(Mr. Anonymous)-video.mp4</video>
+		<marquee>./images/Hyper Fighting (demo-playable) (2013-08-25)(Mr. Anonymous)-marquee.png</marquee>
+		<thumbnail>./images/Hyper Fighting (demo-playable) (2013-08-25)(Mr. Anonymous)-thumb.png</thumbnail>
+		<fanart>./images/Hyper Fighting (demo-playable) (2013-08-25)(Mr. Anonymous)-fanart.jpg</fanart>
+		<boxback>./images/Hyper Fighting (demo-playable) (2013-08-25)(Mr. Anonymous)-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>20130828T000000</releasedate>
+		<developer>M.K., Mr. Anon</developer>
+		<publisher>virtual-boy.com</publisher>
+		<genre>Fight</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>4450EDE0</crc32>
+		<md5>b3e46cdbe57d3995065daa917a858a76</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230228T213211" />
+	</game>
+	<game id="423769">
+		<path>./TOSEC/Games/Insecticide (2014)(Read, Chris)(PD)/Insecticide (2014)(Read, Chris)(PD).bin</path>
+		<name>Insecticide</name>
+		<rating>0</rating>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>B4B41396</crc32>
+		<md5>f5d04734365222e35fbee337e9c37a12</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230228T213213" />
+	</game>
+	<game id="4730">
+		<path>./TOSEC/Games/Jack Bros. (1995)(Atlus)(US)/Jack Bros. (1995)(Atlus)(US).bin</path>
+		<name>Jack Bros.</name>
+		<desc>Jack Bros., is an adventure video game released in 1995 on Virtual Boy. Once a year, at Halloween, the door between our country and the fairies opens. All fairy should return to Fairieland 23:00, otherwise, they will be banished forever. You must choose one of three Jack Bros. as your character. Each has its own attributes and weapons and special attacks.</desc>
+		<image>./images/Jack Bros. (1995)(Atlus)(US)-image.png</image>
+		<video>./videos/Jack Bros. (1995)(Atlus)(US)-video.mp4</video>
+		<marquee>./images/Jack Bros. (1995)(Atlus)(US)-marquee.png</marquee>
+		<thumbnail>./images/Jack Bros. (1995)(Atlus)(US)-thumb.png</thumbnail>
+		<fanart>./images/Jack Bros. (1995)(Atlus)(US)-fanart.jpg</fanart>
+		<manual>./manuals/Jack Bros. (1995)(Atlus)(US)-manual.pdf</manual>
+		<boxback>./images/Jack Bros. (1995)(Atlus)(US)-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>19951030T000000</releasedate>
+		<developer>Atlus</developer>
+		<publisher>Atlus</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>A44DE03C</crc32>
+		<md5>ee873c9969c15e92ca9a0f689c4ce5ea</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230228T213215" />
+	</game>
+	<game id="4730">
+		<path>./TOSEC/Games/Jack Bros. (1995)(Atlus)(US)[b2]/Jack Bros. (1995)(Atlus)(US)[b2].bin</path>
+		<name>Jack Bros.</name>
+		<desc>Jack Bros., is an adventure video game released in 1995 on Virtual Boy. Once a year, at Halloween, the door between our country and the fairies opens. All fairy should return to Fairieland 23:00, otherwise, they will be banished forever. You must choose one of three Jack Bros. as your character. Each has its own attributes and weapons and special attacks.</desc>
+		<image>./images/Jack Bros. (1995)(Atlus)(US)[b2]-image.png</image>
+		<video>./videos/Jack Bros. (1995)(Atlus)(US)[b2]-video.mp4</video>
+		<marquee>./images/Jack Bros. (1995)(Atlus)(US)[b2]-marquee.png</marquee>
+		<thumbnail>./images/Jack Bros. (1995)(Atlus)(US)[b2]-thumb.png</thumbnail>
+		<fanart>./images/Jack Bros. (1995)(Atlus)(US)[b2]-fanart.jpg</fanart>
+		<manual>./manuals/Jack Bros. (1995)(Atlus)(US)[b2]-manual.pdf</manual>
+		<boxback>./images/Jack Bros. (1995)(Atlus)(US)[b2]-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>19951030T000000</releasedate>
+		<developer>Atlus</developer>
+		<publisher>Atlus</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>81AF4D6D</crc32>
+		<md5>9f2bc8748b541b75053cf68968f3dd5f</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230228T213216" />
+	</game>
+	<game id="4730">
+		<path>./TOSEC/Games/Jack Bros. (1995)(Atlus)(US)[b]/Jack Bros. (1995)(Atlus)(US)[b].bin</path>
+		<name>Jack Bros.</name>
+		<desc>Jack Bros., is an adventure video game released in 1995 on Virtual Boy. Once a year, at Halloween, the door between our country and the fairies opens. All fairy should return to Fairieland 23:00, otherwise, they will be banished forever. You must choose one of three Jack Bros. as your character. Each has its own attributes and weapons and special attacks.</desc>
+		<image>./images/Jack Bros. (1995)(Atlus)(US)[b]-image.png</image>
+		<video>./videos/Jack Bros. (1995)(Atlus)(US)[b]-video.mp4</video>
+		<marquee>./images/Jack Bros. (1995)(Atlus)(US)[b]-marquee.png</marquee>
+		<thumbnail>./images/Jack Bros. (1995)(Atlus)(US)[b]-thumb.png</thumbnail>
+		<fanart>./images/Jack Bros. (1995)(Atlus)(US)[b]-fanart.jpg</fanart>
+		<manual>./manuals/Jack Bros. (1995)(Atlus)(US)[b]-manual.pdf</manual>
+		<boxback>./images/Jack Bros. (1995)(Atlus)(US)[b]-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>19951030T000000</releasedate>
+		<developer>Atlus</developer>
+		<publisher>Atlus</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>94BFDD3F</crc32>
+		<md5>d15a95e94334118d1243a1b0d9f59ef3</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230228T213218" />
+	</game>
+	<game id="4730">
+		<path>./TOSEC/Games/Jack Bros. (1995)(Atlus)(US)[h2]/Jack Bros. (1995)(Atlus)(US)[h2].bin</path>
+		<name>Jack Bros.</name>
+		<desc>Jack Bros., is an adventure video game released in 1995 on Virtual Boy. Once a year, at Halloween, the door between our country and the fairies opens. All fairy should return to Fairieland 23:00, otherwise, they will be banished forever. You must choose one of three Jack Bros. as your character. Each has its own attributes and weapons and special attacks.</desc>
+		<image>./images/Jack Bros. (1995)(Atlus)(US)[h2]-image.png</image>
+		<video>./videos/Jack Bros. (1995)(Atlus)(US)[h2]-video.mp4</video>
+		<marquee>./images/Jack Bros. (1995)(Atlus)(US)[h2]-marquee.png</marquee>
+		<thumbnail>./images/Jack Bros. (1995)(Atlus)(US)[h2]-thumb.png</thumbnail>
+		<fanart>./images/Jack Bros. (1995)(Atlus)(US)[h2]-fanart.jpg</fanart>
+		<manual>./manuals/Jack Bros. (1995)(Atlus)(US)[h2]-manual.pdf</manual>
+		<boxback>./images/Jack Bros. (1995)(Atlus)(US)[h2]-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>19951030T000000</releasedate>
+		<developer>Atlus</developer>
+		<publisher>Atlus</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>B8F226D8</crc32>
+		<md5>2fdd657f9029a076b08e81aabe75681c</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230228T213220" />
+	</game>
+	<game id="4730">
+		<path>./TOSEC/Games/Jack Bros. (1995)(Atlus)(US)[h]/Jack Bros. (1995)(Atlus)(US)[h].bin</path>
+		<name>Jack Bros.</name>
+		<desc>Jack Bros., is an adventure video game released in 1995 on Virtual Boy. Once a year, at Halloween, the door between our country and the fairies opens. All fairy should return to Fairieland 23:00, otherwise, they will be banished forever. You must choose one of three Jack Bros. as your character. Each has its own attributes and weapons and special attacks.</desc>
+		<image>./images/Jack Bros. (1995)(Atlus)(US)[h]-image.png</image>
+		<video>./videos/Jack Bros. (1995)(Atlus)(US)[h]-video.mp4</video>
+		<marquee>./images/Jack Bros. (1995)(Atlus)(US)[h]-marquee.png</marquee>
+		<thumbnail>./images/Jack Bros. (1995)(Atlus)(US)[h]-thumb.png</thumbnail>
+		<fanart>./images/Jack Bros. (1995)(Atlus)(US)[h]-fanart.jpg</fanart>
+		<manual>./manuals/Jack Bros. (1995)(Atlus)(US)[h]-manual.pdf</manual>
+		<boxback>./images/Jack Bros. (1995)(Atlus)(US)[h]-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>19951030T000000</releasedate>
+		<developer>Atlus</developer>
+		<publisher>Atlus</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>B15D706E</crc32>
+		<md5>c3d028f7d2463eaf36f0d6ef9b28ebd5</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230228T213221" />
+	</game>
+	<game id="4730">
+		<path>./TOSEC/Games/Jack Bros. (1995)(Atlus)(US)[tr de]/Jack Bros. (1995)(Atlus)(US)[tr de].bin</path>
+		<name>Jack Bros.</name>
+		<desc>Jack Bros., is an adventure video game released in 1995 on Virtual Boy. Once a year, at Halloween, the door between our country and the fairies opens. All fairy should return to Fairieland 23:00, otherwise, they will be banished forever. You must choose one of three Jack Bros. as your character. Each has its own attributes and weapons and special attacks.</desc>
+		<image>./images/Jack Bros. (1995)(Atlus)(US)[tr de]-image.png</image>
+		<video>./videos/Jack Bros. (1995)(Atlus)(US)[tr de]-video.mp4</video>
+		<marquee>./images/Jack Bros. (1995)(Atlus)(US)[tr de]-marquee.png</marquee>
+		<thumbnail>./images/Jack Bros. (1995)(Atlus)(US)[tr de]-thumb.png</thumbnail>
+		<fanart>./images/Jack Bros. (1995)(Atlus)(US)[tr de]-fanart.jpg</fanart>
+		<manual>./manuals/Jack Bros. (1995)(Atlus)(US)[tr de]-manual.pdf</manual>
+		<boxback>./images/Jack Bros. (1995)(Atlus)(US)[tr de]-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>19951030T000000</releasedate>
+		<developer>Atlus</developer>
+		<publisher>Atlus</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>79A99F3C</crc32>
+		<md5>8f24a89af3c522c52265366ab9480fea</md5>
+		<lang>de,en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230228T213223" />
+	</game>
+	<game id="4725">
+		<path>./TOSEC/Games/Mario Clash (1995)(Nintendo)(JP-US)(en-ja)/Mario Clash (1995)(Nintendo)(JP-US)(en-ja).bin</path>
+		<name>Mario Clash</name>
+		<desc>Mario Clash is a game of out platforms on Virtual Boy. The player incarnates Mario. The Clash House Tower was invaded by monsters. This is Mario entrusted to the task of evacuating them. But the tower is difficult to access and Mario is forced to fight in large rooms consist of long platforms, and in the tubing.</desc>
+		<image>./images/Mario Clash (1995)(Nintendo)(JP-US)(en-ja)-image.png</image>
+		<video>./videos/Mario Clash (1995)(Nintendo)(JP-US)(en-ja)-video.mp4</video>
+		<marquee>./images/Mario Clash (1995)(Nintendo)(JP-US)(en-ja)-marquee.png</marquee>
+		<thumbnail>./images/Mario Clash (1995)(Nintendo)(JP-US)(en-ja)-thumb.png</thumbnail>
+		<fanart>./images/Mario Clash (1995)(Nintendo)(JP-US)(en-ja)-fanart.jpg</fanart>
+		<manual>./manuals/Mario Clash (1995)(Nintendo)(JP-US)(en-ja)-manual.pdf</manual>
+		<boxback>./images/Mario Clash (1995)(Nintendo)(JP-US)(en-ja)-boxback.png</boxback>
+		<rating>0.6</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>A47DE78C</crc32>
+		<md5>b1b3a25ce8fb4f406bf82b8765d307d0</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230228T213225" />
+	</game>
+	<game id="4725">
+		<path>./TOSEC/Games/Mario Clash (1995)(Nintendo)(JP-US)(en-ja)[b]/Mario Clash (1995)(Nintendo)(JP-US)(en-ja)[b].bin</path>
+		<name>Mario Clash</name>
+		<desc>Mario Clash is a game of out platforms on Virtual Boy. The player incarnates Mario. The Clash House Tower was invaded by monsters. This is Mario entrusted to the task of evacuating them. But the tower is difficult to access and Mario is forced to fight in large rooms consist of long platforms, and in the tubing.</desc>
+		<image>./images/Mario Clash (1995)(Nintendo)(JP-US)(en-ja)[b]-image.png</image>
+		<video>./videos/Mario Clash (1995)(Nintendo)(JP-US)(en-ja)[b]-video.mp4</video>
+		<marquee>./images/Mario Clash (1995)(Nintendo)(JP-US)(en-ja)[b]-marquee.png</marquee>
+		<thumbnail>./images/Mario Clash (1995)(Nintendo)(JP-US)(en-ja)[b]-thumb.png</thumbnail>
+		<fanart>./images/Mario Clash (1995)(Nintendo)(JP-US)(en-ja)[b]-fanart.jpg</fanart>
+		<manual>./manuals/Mario Clash (1995)(Nintendo)(JP-US)(en-ja)[b]-manual.pdf</manual>
+		<boxback>./images/Mario Clash (1995)(Nintendo)(JP-US)(en-ja)[b]-boxback.png</boxback>
+		<rating>0.6</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>BF0D0AB0</crc32>
+		<md5>b53abcea059c1c18c5fdbc9c49e1683b</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230228T213227" />
+	</game>
+	<game id="4725">
+		<path>./TOSEC/Games/Mario Clash (1995)(Nintendo)(JP-US)(en-ja)[h2]/Mario Clash (1995)(Nintendo)(JP-US)(en-ja)[h2].bin</path>
+		<name>Mario Clash</name>
+		<desc>Mario Clash is a game of out platforms on Virtual Boy. The player incarnates Mario. The Clash House Tower was invaded by monsters. This is Mario entrusted to the task of evacuating them. But the tower is difficult to access and Mario is forced to fight in large rooms consist of long platforms, and in the tubing.</desc>
+		<image>./images/Mario Clash (1995)(Nintendo)(JP-US)(en-ja)[h2]-image.png</image>
+		<video>./videos/Mario Clash (1995)(Nintendo)(JP-US)(en-ja)[h2]-video.mp4</video>
+		<marquee>./images/Mario Clash (1995)(Nintendo)(JP-US)(en-ja)[h2]-marquee.png</marquee>
+		<thumbnail>./images/Mario Clash (1995)(Nintendo)(JP-US)(en-ja)[h2]-thumb.png</thumbnail>
+		<fanart>./images/Mario Clash (1995)(Nintendo)(JP-US)(en-ja)[h2]-fanart.jpg</fanart>
+		<manual>./manuals/Mario Clash (1995)(Nintendo)(JP-US)(en-ja)[h2]-manual.pdf</manual>
+		<boxback>./images/Mario Clash (1995)(Nintendo)(JP-US)(en-ja)[h2]-boxback.png</boxback>
+		<rating>0.6</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>FA5877CD</crc32>
+		<md5>bf3859019b06180fa8bd6824fce214db</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230228T213228" />
+	</game>
+	<game id="4725">
+		<path>./TOSEC/Games/Mario Clash (1995)(Nintendo)(JP-US)(en-ja)[h]/Mario Clash (1995)(Nintendo)(JP-US)(en-ja)[h].bin</path>
+		<name>Mario Clash</name>
+		<desc>Mario Clash is a game of out platforms on Virtual Boy. The player incarnates Mario. The Clash House Tower was invaded by monsters. This is Mario entrusted to the task of evacuating them. But the tower is difficult to access and Mario is forced to fight in large rooms consist of long platforms, and in the tubing.</desc>
+		<image>./images/Mario Clash (1995)(Nintendo)(JP-US)(en-ja)[h]-image.png</image>
+		<video>./videos/Mario Clash (1995)(Nintendo)(JP-US)(en-ja)[h]-video.mp4</video>
+		<marquee>./images/Mario Clash (1995)(Nintendo)(JP-US)(en-ja)[h]-marquee.png</marquee>
+		<thumbnail>./images/Mario Clash (1995)(Nintendo)(JP-US)(en-ja)[h]-thumb.png</thumbnail>
+		<fanart>./images/Mario Clash (1995)(Nintendo)(JP-US)(en-ja)[h]-fanart.jpg</fanart>
+		<manual>./manuals/Mario Clash (1995)(Nintendo)(JP-US)(en-ja)[h]-manual.pdf</manual>
+		<boxback>./images/Mario Clash (1995)(Nintendo)(JP-US)(en-ja)[h]-boxback.png</boxback>
+		<rating>0.6</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>F572D25C</crc32>
+		<md5>76f9f6919058aec4ddada0f07d107c5e</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230228T213230" />
+	</game>
+	<game id="4725">
+		<path>./TOSEC/Games/Mario Clash (1995)(Nintendo)(JP-US)(en-ja)[t2]/Mario Clash (1995)(Nintendo)(JP-US)(en-ja)[t2].bin</path>
+		<name>Mario Clash</name>
+		<desc>Mario Clash is a game of out platforms on Virtual Boy. The player incarnates Mario. The Clash House Tower was invaded by monsters. This is Mario entrusted to the task of evacuating them. But the tower is difficult to access and Mario is forced to fight in large rooms consist of long platforms, and in the tubing.</desc>
+		<image>./images/Mario Clash (1995)(Nintendo)(JP-US)(en-ja)[t2]-image.png</image>
+		<video>./videos/Mario Clash (1995)(Nintendo)(JP-US)(en-ja)[t2]-video.mp4</video>
+		<marquee>./images/Mario Clash (1995)(Nintendo)(JP-US)(en-ja)[t2]-marquee.png</marquee>
+		<thumbnail>./images/Mario Clash (1995)(Nintendo)(JP-US)(en-ja)[t2]-thumb.png</thumbnail>
+		<fanart>./images/Mario Clash (1995)(Nintendo)(JP-US)(en-ja)[t2]-fanart.jpg</fanart>
+		<manual>./manuals/Mario Clash (1995)(Nintendo)(JP-US)(en-ja)[t2]-manual.pdf</manual>
+		<boxback>./images/Mario Clash (1995)(Nintendo)(JP-US)(en-ja)[t2]-boxback.png</boxback>
+		<rating>0.6</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>F2D5167E</crc32>
+		<md5>aa833e4391db075b8435380769dade51</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230228T213232" />
+	</game>
+	<game id="4725">
+		<path>./TOSEC/Games/Mario Clash (1995)(Nintendo)(JP-US)(en-ja)[t]/Mario Clash (1995)(Nintendo)(JP-US)(en-ja)[t].bin</path>
+		<name>Mario Clash</name>
+		<desc>Mario Clash is a game of out platforms on Virtual Boy. The player incarnates Mario. The Clash House Tower was invaded by monsters. This is Mario entrusted to the task of evacuating them. But the tower is difficult to access and Mario is forced to fight in large rooms consist of long platforms, and in the tubing.</desc>
+		<image>./images/Mario Clash (1995)(Nintendo)(JP-US)(en-ja)[t]-image.png</image>
+		<video>./videos/Mario Clash (1995)(Nintendo)(JP-US)(en-ja)[t]-video.mp4</video>
+		<marquee>./images/Mario Clash (1995)(Nintendo)(JP-US)(en-ja)[t]-marquee.png</marquee>
+		<thumbnail>./images/Mario Clash (1995)(Nintendo)(JP-US)(en-ja)[t]-thumb.png</thumbnail>
+		<fanart>./images/Mario Clash (1995)(Nintendo)(JP-US)(en-ja)[t]-fanart.jpg</fanart>
+		<manual>./manuals/Mario Clash (1995)(Nintendo)(JP-US)(en-ja)[t]-manual.pdf</manual>
+		<boxback>./images/Mario Clash (1995)(Nintendo)(JP-US)(en-ja)[t]-boxback.png</boxback>
+		<rating>0.6</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>FDFFB3EF</crc32>
+		<md5>d67a16d2c19b8ee9e4f3b058b4f3835f</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230228T213233" />
+	</game>
+	<game id="172267">
+		<path>./TOSEC/Games/Mario Kart - Virtual Cup (2008)(DogP)[p]/Mario Kart - Virtual Cup (2008)(DogP)[p].bin</path>
+		<name>Mario Kart Virtual Cup</name>
+		<desc>homebrew of the famous karting game with Mario as hero.</desc>
+		<image>./images/Mario Kart - Virtual Cup (2008)(DogP)[p]-image.png</image>
+		<video>./videos/Mario Kart - Virtual Cup (2008)(DogP)[p]-video.mp4</video>
+		<marquee>./images/Mario Kart - Virtual Cup (2008)(DogP)[p]-marquee.png</marquee>
+		<thumbnail>./images/Mario Kart - Virtual Cup (2008)(DogP)[p]-thumb.png</thumbnail>
+		<fanart>./images/Mario Kart - Virtual Cup (2008)(DogP)[p]-fanart.jpg</fanart>
+		<boxback>./images/Mario Kart - Virtual Cup (2008)(DogP)[p]-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>20080930T000000</releasedate>
+		<developer>DogP</developer>
+		<publisher>DogP</publisher>
+		<genre>Race, Driving</genre>
+		<family>Mario Kart</family>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>27988AB9</crc32>
+		<md5>4b8c8b6a7711a005dd896b3ee9b8d0f1</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230228T213235" />
+	</game>
+	<game id="4727">
+		<path>./TOSEC/Games/Mario's Tennis (1995)(Nintendo)(JP-US)(en-ja)/Mario's Tennis (1995)(Nintendo)(JP-US)(en-ja).bin</path>
+		<name>Mario's Tennis</name>
+		<desc>Mario's Tennis Tennis is a game released in 1995 on Virtual Boy. Seven characters from the Mario universe are present: Mario, Luigi, Toad, Peach, Koopa, Yoshi and Donkey Kong Jr. playing only on one short pipe surrounded by a landscape.</desc>
+		<image>./images/Mario's Tennis (1995)(Nintendo)(JP-US)(en-ja)-image.png</image>
+		<video>./videos/Mario's Tennis (1995)(Nintendo)(JP-US)(en-ja)-video.mp4</video>
+		<marquee>./images/Mario's Tennis (1995)(Nintendo)(JP-US)(en-ja)-marquee.png</marquee>
+		<thumbnail>./images/Mario's Tennis (1995)(Nintendo)(JP-US)(en-ja)-thumb.png</thumbnail>
+		<fanart>./images/Mario's Tennis (1995)(Nintendo)(JP-US)(en-ja)-fanart.jpg</fanart>
+		<manual>./manuals/Mario's Tennis (1995)(Nintendo)(JP-US)(en-ja)-manual.pdf</manual>
+		<boxback>./images/Mario's Tennis (1995)(Nintendo)(JP-US)(en-ja)-boxback.png</boxback>
+		<rating>0.6</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports / Tennis</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>5AC0D8BB</crc32>
+		<md5>b8c36e768bdd1f1a984876d953eaf6c4</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230228T213236" />
+	</game>
+	<game id="4727">
+		<path>./TOSEC/Games/Mario's Tennis (1995)(Nintendo)(JP-US)(en-ja)[a]/Mario's Tennis (1995)(Nintendo)(JP-US)(en-ja)[a].bin</path>
+		<name>Mario's Tennis</name>
+		<desc>Mario's Tennis Tennis is a game released in 1995 on Virtual Boy. Seven characters from the Mario universe are present: Mario, Luigi, Toad, Peach, Koopa, Yoshi and Donkey Kong Jr. playing only on one short pipe surrounded by a landscape.</desc>
+		<image>./images/Mario's Tennis (1995)(Nintendo)(JP-US)(en-ja)[a]-image.png</image>
+		<video>./videos/Mario's Tennis (1995)(Nintendo)(JP-US)(en-ja)[a]-video.mp4</video>
+		<marquee>./images/Mario's Tennis (1995)(Nintendo)(JP-US)(en-ja)[a]-marquee.png</marquee>
+		<thumbnail>./images/Mario's Tennis (1995)(Nintendo)(JP-US)(en-ja)[a]-thumb.png</thumbnail>
+		<fanart>./images/Mario's Tennis (1995)(Nintendo)(JP-US)(en-ja)[a]-fanart.jpg</fanart>
+		<manual>./manuals/Mario's Tennis (1995)(Nintendo)(JP-US)(en-ja)[a]-manual.pdf</manual>
+		<boxback>./images/Mario's Tennis (1995)(Nintendo)(JP-US)(en-ja)[a]-boxback.png</boxback>
+		<rating>0.6</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports / Tennis</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>7CE7460D</crc32>
+		<md5>38ecc2c5a745a80d32eb9e8e413358c4</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230228T213238" />
+	</game>
+	<game id="4737">
+		<path>./TOSEC/Games/Nester's Funky Bowling (1996)(Nintendo)(US)/Nester's Funky Bowling (1996)(Nintendo)(US).bin</path>
+		<name>Nester's Funky Bowling</name>
+		<desc>Nester's Funky Bowling is a bowling game released in 1996 on Virtual Boy. Funky Bowling Nester is a classic bowling simulation. You can choose the mode Bowl game: if you want to play for points, in order to enroll in the high score list, Practical: if you just want to practice once, and the last challenge: if you want to play with predefined tasks.</desc>
+		<image>./images/Nester's Funky Bowling (1996)(Nintendo)(US)-image.png</image>
+		<video>./videos/Nester's Funky Bowling (1996)(Nintendo)(US)-video.mp4</video>
+		<marquee>./images/Nester's Funky Bowling (1996)(Nintendo)(US)-marquee.png</marquee>
+		<thumbnail>./images/Nester's Funky Bowling (1996)(Nintendo)(US)-thumb.png</thumbnail>
+		<fanart>./images/Nester's Funky Bowling (1996)(Nintendo)(US)-fanart.jpg</fanart>
+		<manual>./manuals/Nester's Funky Bowling (1996)(Nintendo)(US)-manual.pdf</manual>
+		<boxback>./images/Nester's Funky Bowling (1996)(Nintendo)(US)-boxback.png</boxback>
+		<rating>0.6</rating>
+		<releasedate>19960226T000000</releasedate>
+		<developer>Saffire Corporation</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports / Bowling</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>2F76ECA9</crc32>
+		<md5>7767375a2bc47cd3aa131e4b7165f103</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230228T213240" />
+	</game>
+	<game id="4737">
+		<path>./TOSEC/Games/Nester's Funky Bowling (1996)(Nintendo)(US)[a]/Nester's Funky Bowling (1996)(Nintendo)(US)[a].bin</path>
+		<name>Nester's Funky Bowling</name>
+		<desc>Nester's Funky Bowling is a bowling game released in 1996 on Virtual Boy. Funky Bowling Nester is a classic bowling simulation. You can choose the mode Bowl game: if you want to play for points, in order to enroll in the high score list, Practical: if you just want to practice once, and the last challenge: if you want to play with predefined tasks.</desc>
+		<image>./images/Nester's Funky Bowling (1996)(Nintendo)(US)[a]-image.png</image>
+		<video>./videos/Nester's Funky Bowling (1996)(Nintendo)(US)[a]-video.mp4</video>
+		<marquee>./images/Nester's Funky Bowling (1996)(Nintendo)(US)[a]-marquee.png</marquee>
+		<thumbnail>./images/Nester's Funky Bowling (1996)(Nintendo)(US)[a]-thumb.png</thumbnail>
+		<fanart>./images/Nester's Funky Bowling (1996)(Nintendo)(US)[a]-fanart.jpg</fanart>
+		<manual>./manuals/Nester's Funky Bowling (1996)(Nintendo)(US)[a]-manual.pdf</manual>
+		<boxback>./images/Nester's Funky Bowling (1996)(Nintendo)(US)[a]-boxback.png</boxback>
+		<rating>0.6</rating>
+		<releasedate>19960226T000000</releasedate>
+		<developer>Saffire Corporation</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports / Bowling</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>DF4D56B4</crc32>
+		<md5>0285dc41d75be8419d12472f20025305</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230228T213241" />
+	</game>
+	<game id="4737">
+		<path>./TOSEC/Games/Nester's Funky Bowling (1996)(Nintendo)(US)[b2]/Nester's Funky Bowling (1996)(Nintendo)(US)[b2].bin</path>
+		<name>Nester's Funky Bowling</name>
+		<desc>Nester's Funky Bowling is a bowling game released in 1996 on Virtual Boy. Funky Bowling Nester is a classic bowling simulation. You can choose the mode Bowl game: if you want to play for points, in order to enroll in the high score list, Practical: if you just want to practice once, and the last challenge: if you want to play with predefined tasks.</desc>
+		<image>./images/Nester's Funky Bowling (1996)(Nintendo)(US)[b2]-image.png</image>
+		<video>./videos/Nester's Funky Bowling (1996)(Nintendo)(US)[b2]-video.mp4</video>
+		<marquee>./images/Nester's Funky Bowling (1996)(Nintendo)(US)[b2]-marquee.png</marquee>
+		<thumbnail>./images/Nester's Funky Bowling (1996)(Nintendo)(US)[b2]-thumb.png</thumbnail>
+		<fanart>./images/Nester's Funky Bowling (1996)(Nintendo)(US)[b2]-fanart.jpg</fanart>
+		<manual>./manuals/Nester's Funky Bowling (1996)(Nintendo)(US)[b2]-manual.pdf</manual>
+		<boxback>./images/Nester's Funky Bowling (1996)(Nintendo)(US)[b2]-boxback.png</boxback>
+		<rating>0.6</rating>
+		<releasedate>19960226T000000</releasedate>
+		<developer>Saffire Corporation</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports / Bowling</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>9C092BCE</crc32>
+		<md5>f9a5759263647205554941ba525ebc01</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230228T213243" />
+	</game>
+	<game id="4737">
+		<path>./TOSEC/Games/Nester's Funky Bowling (1996)(Nintendo)(US)[b3]/Nester's Funky Bowling (1996)(Nintendo)(US)[b3].bin</path>
+		<name>Nester's Funky Bowling</name>
+		<desc>Nester's Funky Bowling is a bowling game released in 1996 on Virtual Boy. Funky Bowling Nester is a classic bowling simulation. You can choose the mode Bowl game: if you want to play for points, in order to enroll in the high score list, Practical: if you just want to practice once, and the last challenge: if you want to play with predefined tasks.</desc>
+		<image>./images/Nester's Funky Bowling (1996)(Nintendo)(US)[b3]-image.png</image>
+		<video>./videos/Nester's Funky Bowling (1996)(Nintendo)(US)[b3]-video.mp4</video>
+		<marquee>./images/Nester's Funky Bowling (1996)(Nintendo)(US)[b3]-marquee.png</marquee>
+		<thumbnail>./images/Nester's Funky Bowling (1996)(Nintendo)(US)[b3]-thumb.png</thumbnail>
+		<fanart>./images/Nester's Funky Bowling (1996)(Nintendo)(US)[b3]-fanart.jpg</fanart>
+		<manual>./manuals/Nester's Funky Bowling (1996)(Nintendo)(US)[b3]-manual.pdf</manual>
+		<boxback>./images/Nester's Funky Bowling (1996)(Nintendo)(US)[b3]-boxback.png</boxback>
+		<rating>0.6</rating>
+		<releasedate>19960226T000000</releasedate>
+		<developer>Saffire Corporation</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports / Bowling</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>EFB3E174</crc32>
+		<md5>0c1230b4cc347229c917820510bc0bab</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230228T213245" />
+	</game>
+	<game id="4737">
+		<path>./TOSEC/Games/Nester's Funky Bowling (1996)(Nintendo)(US)[b]/Nester's Funky Bowling (1996)(Nintendo)(US)[b].bin</path>
+		<name>Nester's Funky Bowling</name>
+		<desc>Nester's Funky Bowling is a bowling game released in 1996 on Virtual Boy. Funky Bowling Nester is a classic bowling simulation. You can choose the mode Bowl game: if you want to play for points, in order to enroll in the high score list, Practical: if you just want to practice once, and the last challenge: if you want to play with predefined tasks.</desc>
+		<image>./images/Nester's Funky Bowling (1996)(Nintendo)(US)[b]-image.png</image>
+		<video>./videos/Nester's Funky Bowling (1996)(Nintendo)(US)[b]-video.mp4</video>
+		<marquee>./images/Nester's Funky Bowling (1996)(Nintendo)(US)[b]-marquee.png</marquee>
+		<thumbnail>./images/Nester's Funky Bowling (1996)(Nintendo)(US)[b]-thumb.png</thumbnail>
+		<fanart>./images/Nester's Funky Bowling (1996)(Nintendo)(US)[b]-fanart.jpg</fanart>
+		<manual>./manuals/Nester's Funky Bowling (1996)(Nintendo)(US)[b]-manual.pdf</manual>
+		<boxback>./images/Nester's Funky Bowling (1996)(Nintendo)(US)[b]-boxback.png</boxback>
+		<rating>0.6</rating>
+		<releasedate>19960226T000000</releasedate>
+		<developer>Saffire Corporation</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports / Bowling</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>63A181AF</crc32>
+		<md5>766498bb058c7d75aae58b296a7bbd31</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230228T213247" />
+	</game>
+	<game id="4738">
+		<path>./TOSEC/Games/Panic Bomber (1995)(Hudson)(US)/Panic Bomber (1995)(Hudson)(US).bin</path>
+		<name>Panic Bomber</name>
+		<desc>Bomberman Blasts the Island of Ever Mist!
+
+Get ready for explosive puzzler action with Bomberman! Detonate the worlds of Scary Ruins, Sinister Forest, and Desert Desolation. Conquer the Island of Ever Mist and capture the three celestial models of power.
+
+Don't panic! Or you might get scorched by greedy Ms. Flashy or the deadly Count Dracu-Doom. Ignite the dreaded Doom Castle with bombastic moves and combustive strategy. Only then can you open the gates to the legendary Golden Statue of Bomberman. It's a puzzling blast!</desc>
+		<image>./images/Panic Bomber (1995)(Hudson)(US)-image.png</image>
+		<video>./videos/Panic Bomber (1995)(Hudson)(US)-video.mp4</video>
+		<marquee>./images/Panic Bomber (1995)(Hudson)(US)-marquee.png</marquee>
+		<thumbnail>./images/Panic Bomber (1995)(Hudson)(US)-thumb.png</thumbnail>
+		<fanart>./images/Panic Bomber (1995)(Hudson)(US)-fanart.jpg</fanart>
+		<manual>./manuals/Panic Bomber (1995)(Hudson)(US)-manual.pdf</manual>
+		<boxback>./images/Panic Bomber (1995)(Hudson)(US)-boxback.png</boxback>
+		<rating>0.65</rating>
+		<releasedate>19951201T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle-Game</genre>
+		<family>Bomberman</family>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>19BB2DFB</crc32>
+		<md5>467247d5e3383d066005565bf8218436</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230228T213249" />
+	</game>
+	<game id="4738">
+		<path>./TOSEC/Games/Panic Bomber (1995)(Hudson)(US)[b]/Panic Bomber (1995)(Hudson)(US)[b].bin</path>
+		<name>Panic Bomber</name>
+		<desc>Bomberman Blasts the Island of Ever Mist!
+
+Get ready for explosive puzzler action with Bomberman! Detonate the worlds of Scary Ruins, Sinister Forest, and Desert Desolation. Conquer the Island of Ever Mist and capture the three celestial models of power.
+
+Don't panic! Or you might get scorched by greedy Ms. Flashy or the deadly Count Dracu-Doom. Ignite the dreaded Doom Castle with bombastic moves and combustive strategy. Only then can you open the gates to the legendary Golden Statue of Bomberman. It's a puzzling blast!</desc>
+		<image>./images/Panic Bomber (1995)(Hudson)(US)[b]-image.png</image>
+		<video>./videos/Panic Bomber (1995)(Hudson)(US)[b]-video.mp4</video>
+		<marquee>./images/Panic Bomber (1995)(Hudson)(US)[b]-marquee.png</marquee>
+		<thumbnail>./images/Panic Bomber (1995)(Hudson)(US)[b]-thumb.png</thumbnail>
+		<fanart>./images/Panic Bomber (1995)(Hudson)(US)[b]-fanart.jpg</fanart>
+		<manual>./manuals/Panic Bomber (1995)(Hudson)(US)[b]-manual.pdf</manual>
+		<boxback>./images/Panic Bomber (1995)(Hudson)(US)[b]-boxback.png</boxback>
+		<rating>0.65</rating>
+		<releasedate>19951201T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle-Game</genre>
+		<family>Bomberman</family>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>25FB89BB</crc32>
+		<md5>923b859812d6f2c0a52ade7c8f6cece3</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230228T213250" />
+	</game>
+	<game id="4738">
+		<path>./TOSEC/Games/Panic Bomber (1995)(Hudson)(US)[h2]/Panic Bomber (1995)(Hudson)(US)[h2].bin</path>
+		<name>Panic Bomber</name>
+		<desc>Bomberman Blasts the Island of Ever Mist!
+
+Get ready for explosive puzzler action with Bomberman! Detonate the worlds of Scary Ruins, Sinister Forest, and Desert Desolation. Conquer the Island of Ever Mist and capture the three celestial models of power.
+
+Don't panic! Or you might get scorched by greedy Ms. Flashy or the deadly Count Dracu-Doom. Ignite the dreaded Doom Castle with bombastic moves and combustive strategy. Only then can you open the gates to the legendary Golden Statue of Bomberman. It's a puzzling blast!</desc>
+		<image>./images/Panic Bomber (1995)(Hudson)(US)[h2]-image.png</image>
+		<video>./videos/Panic Bomber (1995)(Hudson)(US)[h2]-video.mp4</video>
+		<marquee>./images/Panic Bomber (1995)(Hudson)(US)[h2]-marquee.png</marquee>
+		<thumbnail>./images/Panic Bomber (1995)(Hudson)(US)[h2]-thumb.png</thumbnail>
+		<fanart>./images/Panic Bomber (1995)(Hudson)(US)[h2]-fanart.jpg</fanart>
+		<manual>./manuals/Panic Bomber (1995)(Hudson)(US)[h2]-manual.pdf</manual>
+		<boxback>./images/Panic Bomber (1995)(Hudson)(US)[h2]-boxback.png</boxback>
+		<rating>0.65</rating>
+		<releasedate>19951201T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle-Game</genre>
+		<family>Bomberman</family>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>C767FE4B</crc32>
+		<md5>6d04372b62d352af7e9662b1646b8488</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230228T213252" />
+	</game>
+	<game id="4738">
+		<path>./TOSEC/Games/Panic Bomber (1995)(Hudson)(US)[h3]/Panic Bomber (1995)(Hudson)(US)[h3].bin</path>
+		<name>Panic Bomber</name>
+		<desc>Bomberman Blasts the Island of Ever Mist!
+
+Get ready for explosive puzzler action with Bomberman! Detonate the worlds of Scary Ruins, Sinister Forest, and Desert Desolation. Conquer the Island of Ever Mist and capture the three celestial models of power.
+
+Don't panic! Or you might get scorched by greedy Ms. Flashy or the deadly Count Dracu-Doom. Ignite the dreaded Doom Castle with bombastic moves and combustive strategy. Only then can you open the gates to the legendary Golden Statue of Bomberman. It's a puzzling blast!</desc>
+		<image>./images/Panic Bomber (1995)(Hudson)(US)[h3]-image.png</image>
+		<video>./videos/Panic Bomber (1995)(Hudson)(US)[h3]-video.mp4</video>
+		<marquee>./images/Panic Bomber (1995)(Hudson)(US)[h3]-marquee.png</marquee>
+		<thumbnail>./images/Panic Bomber (1995)(Hudson)(US)[h3]-thumb.png</thumbnail>
+		<fanart>./images/Panic Bomber (1995)(Hudson)(US)[h3]-fanart.jpg</fanart>
+		<manual>./manuals/Panic Bomber (1995)(Hudson)(US)[h3]-manual.pdf</manual>
+		<boxback>./images/Panic Bomber (1995)(Hudson)(US)[h3]-boxback.png</boxback>
+		<rating>0.65</rating>
+		<releasedate>19951201T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle-Game</genre>
+		<family>Bomberman</family>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>10348289</crc32>
+		<md5>1adecd66030c8b8e7d18e48a45c3c6e5</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230228T213254" />
+	</game>
+	<game id="4738">
+		<path>./TOSEC/Games/Panic Bomber (1995)(Hudson)(US)[h4]/Panic Bomber (1995)(Hudson)(US)[h4].bin</path>
+		<name>Panic Bomber</name>
+		<desc>Bomberman Blasts the Island of Ever Mist!
+
+Get ready for explosive puzzler action with Bomberman! Detonate the worlds of Scary Ruins, Sinister Forest, and Desert Desolation. Conquer the Island of Ever Mist and capture the three celestial models of power.
+
+Don't panic! Or you might get scorched by greedy Ms. Flashy or the deadly Count Dracu-Doom. Ignite the dreaded Doom Castle with bombastic moves and combustive strategy. Only then can you open the gates to the legendary Golden Statue of Bomberman. It's a puzzling blast!</desc>
+		<image>./images/Panic Bomber (1995)(Hudson)(US)[h4]-image.png</image>
+		<video>./videos/Panic Bomber (1995)(Hudson)(US)[h4]-video.mp4</video>
+		<marquee>./images/Panic Bomber (1995)(Hudson)(US)[h4]-marquee.png</marquee>
+		<thumbnail>./images/Panic Bomber (1995)(Hudson)(US)[h4]-thumb.png</thumbnail>
+		<fanart>./images/Panic Bomber (1995)(Hudson)(US)[h4]-fanart.jpg</fanart>
+		<manual>./manuals/Panic Bomber (1995)(Hudson)(US)[h4]-manual.pdf</manual>
+		<boxback>./images/Panic Bomber (1995)(Hudson)(US)[h4]-boxback.png</boxback>
+		<rating>0.65</rating>
+		<releasedate>19951201T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle-Game</genre>
+		<family>Bomberman</family>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>8C4B7930</crc32>
+		<md5>cf33dd5d47ae06f0bc2269cf3d3d4d3d</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230228T213256" />
+	</game>
+	<game id="4738">
+		<path>./TOSEC/Games/Panic Bomber (1995)(Hudson)(US)[h]/Panic Bomber (1995)(Hudson)(US)[h].bin</path>
+		<name>Panic Bomber</name>
+		<desc>Bomberman Blasts the Island of Ever Mist!
+
+Get ready for explosive puzzler action with Bomberman! Detonate the worlds of Scary Ruins, Sinister Forest, and Desert Desolation. Conquer the Island of Ever Mist and capture the three celestial models of power.
+
+Don't panic! Or you might get scorched by greedy Ms. Flashy or the deadly Count Dracu-Doom. Ignite the dreaded Doom Castle with bombastic moves and combustive strategy. Only then can you open the gates to the legendary Golden Statue of Bomberman. It's a puzzling blast!</desc>
+		<image>./images/Panic Bomber (1995)(Hudson)(US)[h]-image.png</image>
+		<video>./videos/Panic Bomber (1995)(Hudson)(US)[h]-video.mp4</video>
+		<marquee>./images/Panic Bomber (1995)(Hudson)(US)[h]-marquee.png</marquee>
+		<thumbnail>./images/Panic Bomber (1995)(Hudson)(US)[h]-thumb.png</thumbnail>
+		<fanart>./images/Panic Bomber (1995)(Hudson)(US)[h]-fanart.jpg</fanart>
+		<manual>./manuals/Panic Bomber (1995)(Hudson)(US)[h]-manual.pdf</manual>
+		<boxback>./images/Panic Bomber (1995)(Hudson)(US)[h]-boxback.png</boxback>
+		<rating>0.65</rating>
+		<releasedate>19951201T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle-Game</genre>
+		<family>Bomberman</family>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>21D224AF</crc32>
+		<md5>52d956171edf0c91a4d7fb05963a8162</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230228T213257" />
+	</game>
+	<game id="419562">
+		<path>./TOSEC/Games/PongInvaders (2012)(usch)(PD)/PongInvaders (2012)(usch)(PD).bin</path>
+		<name>PongInvaders</name>
+		<rating>0</rating>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>F6E78B5B</crc32>
+		<md5>37d35e412ba8db20d3e760d1a31fd392</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230228T213259" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/Real Danger (2012)(Mihai, Sebastian)/Real Danger (2012)(Mihai, Sebastian).bin</path>
+		<name>Real Danger (2012)(Mihai, Sebastian)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>05D5690D</crc32>
+		<md5>7f24d116d3364b73df82210c4b53d7f8</md5>
+		<scrap name="ScreenScraper" date="20230228T213300" />
+	</game>
+	<game id="4734">
+		<path>./TOSEC/Games/Red Alarm (1995)(T&amp;E Soft)(US)/Red Alarm (1995)(T&amp;E Soft)(US).bin</path>
+		<name>Red Alarm</name>
+		<desc>Bursting through incredible dimensions of Virtual space the final mission is clear. Obliterate all enemies and obstacles created by KAOS and terminate this menacing battle system from within.
+
+Employing an impressive arsenal of high-tech weapons and evasive maneuvers the Tech-Wing Fighter speeds on. Spinning deaths, spy pods and mosquito mechs appear from everywhere! The fate of humanity will soon be defined. Red Alarm! Red Alarm! Alarm Condition Red!!</desc>
+		<image>./images/Red Alarm (1995)(T&amp;E Soft)(US)-image.png</image>
+		<video>./videos/Red Alarm (1995)(T&amp;E Soft)(US)-video.mp4</video>
+		<marquee>./images/Red Alarm (1995)(T&amp;E Soft)(US)-marquee.png</marquee>
+		<thumbnail>./images/Red Alarm (1995)(T&amp;E Soft)(US)-thumb.png</thumbnail>
+		<fanart>./images/Red Alarm (1995)(T&amp;E Soft)(US)-fanart.jpg</fanart>
+		<manual>./manuals/Red Alarm (1995)(T&amp;E Soft)(US)-manual.pdf</manual>
+		<boxback>./images/Red Alarm (1995)(T&amp;E Soft)(US)-boxback.png</boxback>
+		<rating>0.7</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Technical Engineering Support</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Simulation</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>AA10A7B4</crc32>
+		<md5>e56e85761f52a613b34079d5322088ce</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230228T213302" />
+	</game>
+	<game id="4734">
+		<path>./TOSEC/Games/Red Alarm (1995)(T&amp;E Soft)(US)[b]/Red Alarm (1995)(T&amp;E Soft)(US)[b].bin</path>
+		<name>Red Alarm</name>
+		<desc>Bursting through incredible dimensions of Virtual space the final mission is clear. Obliterate all enemies and obstacles created by KAOS and terminate this menacing battle system from within.
+
+Employing an impressive arsenal of high-tech weapons and evasive maneuvers the Tech-Wing Fighter speeds on. Spinning deaths, spy pods and mosquito mechs appear from everywhere! The fate of humanity will soon be defined. Red Alarm! Red Alarm! Alarm Condition Red!!</desc>
+		<image>./images/Red Alarm (1995)(T&amp;E Soft)(US)[b]-image.png</image>
+		<video>./videos/Red Alarm (1995)(T&amp;E Soft)(US)[b]-video.mp4</video>
+		<marquee>./images/Red Alarm (1995)(T&amp;E Soft)(US)[b]-marquee.png</marquee>
+		<thumbnail>./images/Red Alarm (1995)(T&amp;E Soft)(US)[b]-thumb.png</thumbnail>
+		<fanart>./images/Red Alarm (1995)(T&amp;E Soft)(US)[b]-fanart.jpg</fanart>
+		<manual>./manuals/Red Alarm (1995)(T&amp;E Soft)(US)[b]-manual.pdf</manual>
+		<boxback>./images/Red Alarm (1995)(T&amp;E Soft)(US)[b]-boxback.png</boxback>
+		<rating>0.7</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Technical Engineering Support</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Simulation</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>3CEAA631</crc32>
+		<md5>f4b7c632f9a8e943e4402d16c79c370f</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230228T213304" />
+	</game>
+	<game id="143436">
+		<path>./TOSEC/Games/Simon! (2003)(Daderko, Pat)(PD)/Simon! (2003)(Daderko, Pat)(PD).bin</path>
+		<name>Simon!</name>
+		<desc>Simon! is a repeat-the-sequence game. On a round playfield, 4 squares blink in a random order, which the player has to repeat with the D-Pads. Beginning with only one blinking field, the sequence becomes longer by one from round to round and the memory of the player is more and more strained.</desc>
+		<image>./images/Simon! (2003)(Daderko, Pat)(PD)-image.png</image>
+		<video>./videos/Simon! (2003)(Daderko, Pat)(PD)-video.mp4</video>
+		<marquee>./images/Simon! (2003)(Daderko, Pat)(PD)-marquee.png</marquee>
+		<thumbnail>./images/Simon! (2003)(Daderko, Pat)(PD)-thumb.png</thumbnail>
+		<boxback>./images/Simon! (2003)(Daderko, Pat)(PD)-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>20030419T000000</releasedate>
+		<publisher>DogP</publisher>
+		<genre>Casual Game</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>0DF2FCA5</crc32>
+		<md5>e3dbc8fd44a12cadb43670fd8747c520</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230228T213305" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/Snowball Wars Rev 20070726 (2007)(Jorgeche)(PD)/Snowball Wars Rev 20070726 (2007)(Jorgeche)(PD).bin</path>
+		<name>Snowball Wars Rev 20070726 (2007)(Jorgeche)(PD)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>91CE8852</crc32>
+		<md5>d693a18192cbc1bd4aa678af9a3ae0d1</md5>
+		<scrap name="ScreenScraper" date="20230228T213307" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/Snowball Wars Rev 20070803 (2007)(Jorgeche)(PD)/Snowball Wars Rev 20070803 (2007)(Jorgeche)(PD).bin</path>
+		<name>Snowball Wars Rev 20070803 (2007)(Jorgeche)(PD)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>10848EF3</crc32>
+		<md5>ccb7a50d7fc23ec2890db7771a077392</md5>
+		<scrap name="ScreenScraper" date="20230228T213308" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/Snowball Wars Rev 20070809 (2007)(Jorgeche)(PD)/Snowball Wars Rev 20070809 (2007)(Jorgeche)(PD).bin</path>
+		<name>Snowball Wars Rev 20070809 (2007)(Jorgeche)(PD)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>A19CF939</crc32>
+		<md5>39f4ded02b9a58c1958f521d27d841af</md5>
+		<scrap name="ScreenScraper" date="20230228T213309" />
+	</game>
+	<game id="172270">
+		<path>./TOSEC/Games/Soviet Union 2010 (2010)(Horvat, Matej)(PD)/Soviet Union 2010 (2010)(Horvat, Matej)(PD).bin</path>
+		<name>Soviet Union 2010</name>
+		<desc>Some scientists from Vladivostok have invented a time machine and used it to go to back to the 1960s, the time of the Space Race between the USSR and USA.
+It worked, but on return to 2010, a malfunction sent them to a parallel universe where the Cold War is still going on.
+You're one of the members of the Red Army. Save the scientists!
+You control a space ship that's equipped with a cannon. Your mission is to destroy as many USA-serving ships as possible, and get out alive while getting as many points as possible.</desc>
+		<image>./images/Soviet Union 2010 (2010)(Horvat, Matej)(PD)-image.png</image>
+		<video>./videos/Soviet Union 2010 (2010)(Horvat, Matej)(PD)-video.mp4</video>
+		<marquee>./images/Soviet Union 2010 (2010)(Horvat, Matej)(PD)-marquee.png</marquee>
+		<thumbnail>./images/Soviet Union 2010 (2010)(Horvat, Matej)(PD)-thumb.png</thumbnail>
+		<boxback>./images/Soviet Union 2010 (2010)(Horvat, Matej)(PD)-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>20101101T000000</releasedate>
+		<developer>Matej Horvat</developer>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>447BA0C0</crc32>
+		<md5>90ef8d48eb3178f32e9ef45ac83ef7e1</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230228T213311" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/Soviet Union 2011 Rev 20111101 (2011)(Horvat, Matej)(PD)(beta)/Soviet Union 2011 Rev 20111101 (2011)(Horvat, Matej)(PD)(beta).bin</path>
+		<name>Soviet Union 2011 Rev 20111101 (2011)(Horvat, Matej)(PD)(beta)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>8F013627</crc32>
+		<md5>83c6752eecfdf94f576f3fcda272b91e</md5>
+		<scrap name="ScreenScraper" date="20230228T213312" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/Soviet Union 2011 Rev 20111104 (2011)(Horvat, Matej)(PD)(beta)/Soviet Union 2011 Rev 20111104 (2011)(Horvat, Matej)(PD)(beta).bin</path>
+		<name>Soviet Union 2011 Rev 20111104 (2011)(Horvat, Matej)(PD)(beta)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>13660731</crc32>
+		<md5>46434bfb8eccbe7540a4d2a79d471f40</md5>
+		<scrap name="ScreenScraper" date="20230228T213313" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/Soviet Union 2011 v1.0 (2011)(Horvat, Matej)(PD)/Soviet Union 2011 v1.0 (2011)(Horvat, Matej)(PD).bin</path>
+		<name>Soviet Union 2011 v1.0 (2011)(Horvat, Matej)(PD)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>5CDE2C56</crc32>
+		<md5>fad62e87fc51f44d75d17d5f3ffd4e0f</md5>
+		<scrap name="ScreenScraper" date="20230228T213315" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/Soviet Union 2011 v1.1 (2012)(Horvat, Matej)(PD)/Soviet Union 2011 v1.1 (2012)(Horvat, Matej)(PD).bin</path>
+		<name>Soviet Union 2011 v1.1 (2012)(Horvat, Matej)(PD)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>0CD7390B</crc32>
+		<md5>9ac4a0beaccd30fc39f34a494e64a8f4</md5>
+		<scrap name="ScreenScraper" date="20230228T213316" />
+	</game>
+	<game id="419547">
+		<path>./TOSEC/Games/Super Bounce (2010)(DogP)(PD)/Super Bounce (2010)(DogP)(PD).bin</path>
+		<name>Super Bounce</name>
+		<rating>0</rating>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>552AAFB0</crc32>
+		<md5>46e910ba8dc15a06fa8dd8b32d0318d0</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230228T213318" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/Super Mario Rev 20080905 (2008)(Jorgeche)(en-ja)[p]/Super Mario Rev 20080905 (2008)(Jorgeche)(en-ja)[p].bin</path>
+		<name>Super Mario Rev 20080905 (2008)(Jorgeche)(en-ja)[p]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>43D81237</crc32>
+		<md5>3c69df00a15849f67968c02b650dde6f</md5>
+		<scrap name="ScreenScraper" date="20230228T213319" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/Super Mario Rev 20080913-1 (2008)(Jorgeche)(en-ja)[p]/Super Mario Rev 20080913-1 (2008)(Jorgeche)(en-ja)[p].bin</path>
+		<name>Super Mario Rev 20080913-1 (2008)(Jorgeche)(en-ja)[p]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>7D7DA5F7</crc32>
+		<md5>30ad852eafae74fcd9ffaad34bfb19aa</md5>
+		<scrap name="ScreenScraper" date="20230228T213320" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/Super Mario Rev 20080913-2 (2008)(Jorgeche)[p]/Super Mario Rev 20080913-2 (2008)(Jorgeche)[p].bin</path>
+		<name>Super Mario Rev 20080913-2 (2008)(Jorgeche)[p]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>1FB48372</crc32>
+		<md5>b2c88b0741f571e2172f0ccd1ad30457</md5>
+		<scrap name="ScreenScraper" date="20230228T213321" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/Super Mario Rev 20080922 (2008)(Jorgeche)[p]/Super Mario Rev 20080922 (2008)(Jorgeche)[p].bin</path>
+		<name>Super Mario Rev 20080922 (2008)(Jorgeche)[p]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>9B94F9EA</crc32>
+		<md5>7332d1f3efec49095da28e192777d9b6</md5>
+		<scrap name="ScreenScraper" date="20230228T213323" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/Super Mario Rev 20080930 (2008)(Jorgeche)[p]/Super Mario Rev 20080930 (2008)(Jorgeche)[p].bin</path>
+		<name>Super Mario Rev 20080930 (2008)(Jorgeche)[p]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>6280839A</crc32>
+		<md5>ab9034dc9158ba4af9e547dbfcf2aae6</md5>
+		<scrap name="ScreenScraper" date="20230228T213324" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/Super Mario Rev 20081001 (2008)(Jorgeche)(en-ja)[p]/Super Mario Rev 20081001 (2008)(Jorgeche)(en-ja)[p].bin</path>
+		<name>Super Mario Rev 20081001 (2008)(Jorgeche)(en-ja)[p]</name>
+		<image>./images/Super Mario Rev 20081001 (2008)(Jorgeche)(en-ja)[p]-image.png</image>
+		<video>./videos/Super Mario Rev 20081001 (2008)(Jorgeche)(en-ja)[p]-video.mp4</video>
+		<marquee>./images/Super Mario Rev 20081001 (2008)(Jorgeche)(en-ja)[p]-marquee.png</marquee>
+		<fanart>./images/Super Mario Rev 20081001 (2008)(Jorgeche)(en-ja)[p]-fanart.jpg</fanart>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>DD63D32D</crc32>
+		<md5>03f72468609897a17028823691fc1c56</md5>
+		<scrap name="ScreenScraper" date="20230228T213325" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/Super Mario Rev 20081027 (2008)(Jorgeche)(en-ja)[p]/Super Mario Rev 20081027 (2008)(Jorgeche)(en-ja)[p].bin</path>
+		<name>Super Mario Rev 20081027 (2008)(Jorgeche)(en-ja)[p]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>EB4A2BD6</crc32>
+		<md5>7474130d8a2c31a6df237d56c1099c6a</md5>
+		<scrap name="ScreenScraper" date="20230228T213326" />
+	</game>
+	<game id="4744">
+		<path>./TOSEC/Games/Teleroboxer (1995)(Nintendo)(JP-US)(en-ja)/Teleroboxer (1995)(Nintendo)(JP-US)(en-ja).bin</path>
+		<name>Teleroboxer</name>
+		<desc>In a savage display of pounding moves and lightning action, robotic boxers from around the globe step into a futuristic ring. Mirroring the movements of the humans in control, each Teleroboxer is capable of surviving defense matches unbearable to mankind.
+
+Slug it out to the staggering end to determine the true world champion. Created with specialized Techtronic powers and unique personalities, these responsive machines show no mercy on their way to the brutal top.</desc>
+		<image>./images/Teleroboxer (1995)(Nintendo)(JP-US)(en-ja)-image.png</image>
+		<video>./videos/Teleroboxer (1995)(Nintendo)(JP-US)(en-ja)-video.mp4</video>
+		<marquee>./images/Teleroboxer (1995)(Nintendo)(JP-US)(en-ja)-marquee.png</marquee>
+		<thumbnail>./images/Teleroboxer (1995)(Nintendo)(JP-US)(en-ja)-thumb.png</thumbnail>
+		<fanart>./images/Teleroboxer (1995)(Nintendo)(JP-US)(en-ja)-fanart.jpg</fanart>
+		<manual>./manuals/Teleroboxer (1995)(Nintendo)(JP-US)(en-ja)-manual.pdf</manual>
+		<boxback>./images/Teleroboxer (1995)(Nintendo)(JP-US)(en-ja)-boxback.png</boxback>
+		<rating>0.7</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>36103000</crc32>
+		<md5>0742a861a599fe3361aac6ebef6745a7</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230228T213328" />
+	</game>
+	<game id="4744">
+		<path>./TOSEC/Games/Teleroboxer (1995)(Nintendo)(JP-US)(en-ja)[tr de]/Teleroboxer (1995)(Nintendo)(JP-US)(en-ja)[tr de].bin</path>
+		<name>Teleroboxer</name>
+		<desc>In a savage display of pounding moves and lightning action, robotic boxers from around the globe step into a futuristic ring. Mirroring the movements of the humans in control, each Teleroboxer is capable of surviving defense matches unbearable to mankind.
+
+Slug it out to the staggering end to determine the true world champion. Created with specialized Techtronic powers and unique personalities, these responsive machines show no mercy on their way to the brutal top.</desc>
+		<image>./images/Teleroboxer (1995)(Nintendo)(JP-US)(en-ja)[tr de]-image.png</image>
+		<video>./videos/Teleroboxer (1995)(Nintendo)(JP-US)(en-ja)[tr de]-video.mp4</video>
+		<marquee>./images/Teleroboxer (1995)(Nintendo)(JP-US)(en-ja)[tr de]-marquee.png</marquee>
+		<thumbnail>./images/Teleroboxer (1995)(Nintendo)(JP-US)(en-ja)[tr de]-thumb.png</thumbnail>
+		<fanart>./images/Teleroboxer (1995)(Nintendo)(JP-US)(en-ja)[tr de]-fanart.jpg</fanart>
+		<manual>./manuals/Teleroboxer (1995)(Nintendo)(JP-US)(en-ja)[tr de]-manual.pdf</manual>
+		<boxback>./images/Teleroboxer (1995)(Nintendo)(JP-US)(en-ja)[tr de]-boxback.png</boxback>
+		<rating>0.7</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>A6E0D6DB</crc32>
+		<md5>990e1a64fc283adc68e695b5e8215488</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230228T213330" />
+	</game>
+	<game id="4744">
+		<path>./TOSEC/Games/Teleroboxer (1995)(Nintendo)(JP-US)(en-ja)[tr de][a]/Teleroboxer (1995)(Nintendo)(JP-US)(en-ja)[tr de][a].bin</path>
+		<name>Teleroboxer</name>
+		<desc>In a savage display of pounding moves and lightning action, robotic boxers from around the globe step into a futuristic ring. Mirroring the movements of the humans in control, each Teleroboxer is capable of surviving defense matches unbearable to mankind.
+
+Slug it out to the staggering end to determine the true world champion. Created with specialized Techtronic powers and unique personalities, these responsive machines show no mercy on their way to the brutal top.</desc>
+		<image>./images/Teleroboxer (1995)(Nintendo)(JP-US)(en-ja)[tr de][a]-image.png</image>
+		<video>./videos/Teleroboxer (1995)(Nintendo)(JP-US)(en-ja)[tr de][a]-video.mp4</video>
+		<marquee>./images/Teleroboxer (1995)(Nintendo)(JP-US)(en-ja)[tr de][a]-marquee.png</marquee>
+		<thumbnail>./images/Teleroboxer (1995)(Nintendo)(JP-US)(en-ja)[tr de][a]-thumb.png</thumbnail>
+		<fanart>./images/Teleroboxer (1995)(Nintendo)(JP-US)(en-ja)[tr de][a]-fanart.jpg</fanart>
+		<manual>./manuals/Teleroboxer (1995)(Nintendo)(JP-US)(en-ja)[tr de][a]-manual.pdf</manual>
+		<boxback>./images/Teleroboxer (1995)(Nintendo)(JP-US)(en-ja)[tr de][a]-boxback.png</boxback>
+		<rating>0.7</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>126123AD</crc32>
+		<md5>b918f194466e9777d0fcd0f611ac2eb9</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230228T213331" />
+	</game>
+	<game id="143417">
+		<path>./TOSEC/Games/Tic Tac Toe (2003)(Daderko, Pat)(PD)/Tic Tac Toe (2003)(Daderko, Pat)(PD).bin</path>
+		<name>Tic Tac Toe</name>
+		<desc>This is a Virtual Boy version of Tic-tac-toe, a paper-and-pencil game for two players, X and O, who take turns marking the spaces in a 3×3 grid. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game.</desc>
+		<image>./images/Tic Tac Toe (2003)(Daderko, Pat)(PD)-image.png</image>
+		<marquee>./images/Tic Tac Toe (2003)(Daderko, Pat)(PD)-marquee.png</marquee>
+		<thumbnail>./images/Tic Tac Toe (2003)(Daderko, Pat)(PD)-thumb.png</thumbnail>
+		<boxback>./images/Tic Tac Toe (2003)(Daderko, Pat)(PD)-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>20030101T000000</releasedate>
+		<developer>DogP</developer>
+		<publisher>DogP</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>6D7CC2E7</crc32>
+		<md5>9f4246f9400c9f2fb9cdf4b4987b4cfe</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230228T213333" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/Tron Rev 20080501 (2008)(Covarrubias, Alberto)[p]/Tron Rev 20080501 (2008)(Covarrubias, Alberto)[p].bin</path>
+		<name>Tron Rev 20080501 (2008)(Covarrubias, Alberto)[p]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>B74655B5</crc32>
+		<md5>a5f4cf98d09ec388f62a7df046de934b</md5>
+		<scrap name="ScreenScraper" date="20230228T213334" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/Tron Rev 20080927 (2008)(Covarrubias, Alberto)[p]/Tron Rev 20080927 (2008)(Covarrubias, Alberto)[p].bin</path>
+		<name>Tron Rev 20080927 (2008)(Covarrubias, Alberto)[p]</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>D7F1727C</crc32>
+		<md5>5e097e4db196e56ec361f1eb04468cdb</md5>
+		<scrap name="ScreenScraper" date="20230228T213335" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/Tron VB (2003)(Daderko, Pat)(PD)/Tron VB (2003)(Daderko, Pat)(PD).bin</path>
+		<name>Tron VB (2003)(Daderko, Pat)(PD)</name>
+		<image>./images/Tron VB (2003)(Daderko, Pat)(PD)-image.png</image>
+		<video>./videos/Tron VB (2003)(Daderko, Pat)(PD)-video.mp4</video>
+		<marquee>./images/Tron VB (2003)(Daderko, Pat)(PD)-marquee.png</marquee>
+		<thumbnail>./images/Tron VB (2003)(Daderko, Pat)(PD)-thumb.png</thumbnail>
+		<fanart>./images/Tron VB (2003)(Daderko, Pat)(PD)-fanart.jpg</fanart>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>33C3E3A7</crc32>
+		<md5>b8cac4425d1a01b949801d81eb268ffb</md5>
+		<scrap name="ScreenScraper" date="20230228T213336" />
+		<boxback>./images/Tron VB (2003)(Daderko, Pat)(PD)-boxback.png</boxback>
+	</game>
+	<game id="4736">
+		<path>./TOSEC/Games/Vertical Force (1995)(Hudson)(US)/Vertical Force (1995)(Hudson)(US).bin</path>
+		<name>Vertical Force</name>
+		<desc>The game takes place in "Space Era 210." The giant computer that takes care of a human colony planet named Odin suddenly malfunctions and decides to send an army of drone starfighters to destroy Earth. These drones emit a signal that renders all Earth starfighters useless. An archaeology team finds an ancient starfighter on the planet Ragnarok that is fortuitously impervious to the drones' signal. It is up to the player to command this starship and destroy all the alien drones.</desc>
+		<image>./images/Vertical Force (1995)(Hudson)(US)-image.png</image>
+		<video>./videos/Vertical Force (1995)(Hudson)(US)-video.mp4</video>
+		<marquee>./images/Vertical Force (1995)(Hudson)(US)-marquee.png</marquee>
+		<thumbnail>./images/Vertical Force (1995)(Hudson)(US)-thumb.png</thumbnail>
+		<fanart>./images/Vertical Force (1995)(Hudson)(US)-fanart.jpg</fanart>
+		<manual>./manuals/Vertical Force (1995)(Hudson)(US)-manual.pdf</manual>
+		<boxback>./images/Vertical Force (1995)(Hudson)(US)-boxback.png</boxback>
+		<rating>0.65</rating>
+		<releasedate>19951201T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>4C32BA5E</crc32>
+		<md5>87c38f66d5b9ead72af22f515a3a5f51</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230228T213338" />
+	</game>
+	<game id="4736">
+		<path>./TOSEC/Games/Vertical Force (1995)(Hudson)(US)[h2]/Vertical Force (1995)(Hudson)(US)[h2].bin</path>
+		<name>Vertical Force</name>
+		<desc>The game takes place in "Space Era 210." The giant computer that takes care of a human colony planet named Odin suddenly malfunctions and decides to send an army of drone starfighters to destroy Earth. These drones emit a signal that renders all Earth starfighters useless. An archaeology team finds an ancient starfighter on the planet Ragnarok that is fortuitously impervious to the drones' signal. It is up to the player to command this starship and destroy all the alien drones.</desc>
+		<image>./images/Vertical Force (1995)(Hudson)(US)[h2]-image.png</image>
+		<video>./videos/Vertical Force (1995)(Hudson)(US)[h2]-video.mp4</video>
+		<marquee>./images/Vertical Force (1995)(Hudson)(US)[h2]-marquee.png</marquee>
+		<thumbnail>./images/Vertical Force (1995)(Hudson)(US)[h2]-thumb.png</thumbnail>
+		<fanart>./images/Vertical Force (1995)(Hudson)(US)[h2]-fanart.jpg</fanart>
+		<manual>./manuals/Vertical Force (1995)(Hudson)(US)[h2]-manual.pdf</manual>
+		<boxback>./images/Vertical Force (1995)(Hudson)(US)[h2]-boxback.png</boxback>
+		<rating>0.65</rating>
+		<releasedate>19951201T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>48238DC1</crc32>
+		<md5>a3db912151c6285569694155777bcdb3</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230228T213340" />
+	</game>
+	<game id="4736">
+		<path>./TOSEC/Games/Vertical Force (1995)(Hudson)(US)[h]/Vertical Force (1995)(Hudson)(US)[h].bin</path>
+		<name>Vertical Force</name>
+		<desc>The game takes place in "Space Era 210." The giant computer that takes care of a human colony planet named Odin suddenly malfunctions and decides to send an army of drone starfighters to destroy Earth. These drones emit a signal that renders all Earth starfighters useless. An archaeology team finds an ancient starfighter on the planet Ragnarok that is fortuitously impervious to the drones' signal. It is up to the player to command this starship and destroy all the alien drones.</desc>
+		<image>./images/Vertical Force (1995)(Hudson)(US)[h]-image.png</image>
+		<video>./videos/Vertical Force (1995)(Hudson)(US)[h]-video.mp4</video>
+		<marquee>./images/Vertical Force (1995)(Hudson)(US)[h]-marquee.png</marquee>
+		<thumbnail>./images/Vertical Force (1995)(Hudson)(US)[h]-thumb.png</thumbnail>
+		<fanart>./images/Vertical Force (1995)(Hudson)(US)[h]-fanart.jpg</fanart>
+		<manual>./manuals/Vertical Force (1995)(Hudson)(US)[h]-manual.pdf</manual>
+		<boxback>./images/Vertical Force (1995)(Hudson)(US)[h]-boxback.png</boxback>
+		<rating>0.65</rating>
+		<releasedate>19951201T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>DC8C0BF4</crc32>
+		<md5>c1f23aa9a6b5130a4971b4566dc19289</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230228T213342" />
+	</game>
+	<game id="4726">
+		<path>./TOSEC/Games/Virtual Boy Wario Land (1995)(Nintendo)(JP-US)(en-ja)/Virtual Boy Wario Land (1995)(Nintendo)(JP-US)(en-ja).bin</path>
+		<name>Virtual Boy Wario Land</name>
+		<desc>Yikes!!! Get ready for a devious treasure hunt with the infamous scheming Wario. Capture the shining gold and vast treasures locked deep inside a hidden cave. But, beware of poison ponds, perilous prisons, endless walls and creepy woods! Make a quick change into Sea Dragon Wario, Eagle Wario or Bull Wario and utilize their mighty strengths. Blow away enemy cave defenders with body attacks and power actions. Succeed in this greedy plot to seize the riches of this underground world and find this key to freedom!</desc>
+		<image>./images/Virtual Boy Wario Land (1995)(Nintendo)(JP-US)(en-ja)-image.png</image>
+		<video>./videos/Virtual Boy Wario Land (1995)(Nintendo)(JP-US)(en-ja)-video.mp4</video>
+		<marquee>./images/Virtual Boy Wario Land (1995)(Nintendo)(JP-US)(en-ja)-marquee.png</marquee>
+		<thumbnail>./images/Virtual Boy Wario Land (1995)(Nintendo)(JP-US)(en-ja)-thumb.png</thumbnail>
+		<fanart>./images/Virtual Boy Wario Land (1995)(Nintendo)(JP-US)(en-ja)-fanart.jpg</fanart>
+		<manual>./manuals/Virtual Boy Wario Land (1995)(Nintendo)(JP-US)(en-ja)-manual.pdf</manual>
+		<boxback>./images/Virtual Boy Wario Land (1995)(Nintendo)(JP-US)(en-ja)-boxback.png</boxback>
+		<rating>0.9</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>133E9372</crc32>
+		<md5>fb4dc9f4ebd506702eb49e99a62bd803</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230228T213343" />
+	</game>
+	<game id="4743">
+		<path>./TOSEC/Games/Virtual League Baseball (1995)(Kemco)(US)/Virtual League Baseball (1995)(Kemco)(US).bin</path>
+		<name>Virtual League Baseball</name>
+		<desc>Hey batta batta swing! You're in the virtual big leagues now. Playing 18 teams from around the world. Throwing fast balls, forkballs, sinkers, sliders and changeups. Swinging for the fence, and laying down bunts. Shagging flies. Snagging drives. And tagging out runners. All in bigger-than-life 3D. With single game, all star and pennant race modes. And catch this: it's the only baseball game good enough to play in the virtual boy ball park. So don't drop the ball. Pick up a starting pitcher. Set your DH. And step up to the plate.</desc>
+		<image>./images/Virtual League Baseball (1995)(Kemco)(US)-image.png</image>
+		<video>./videos/Virtual League Baseball (1995)(Kemco)(US)-video.mp4</video>
+		<marquee>./images/Virtual League Baseball (1995)(Kemco)(US)-marquee.png</marquee>
+		<thumbnail>./images/Virtual League Baseball (1995)(Kemco)(US)-thumb.png</thumbnail>
+		<fanart>./images/Virtual League Baseball (1995)(Kemco)(US)-fanart.jpg</fanart>
+		<manual>./manuals/Virtual League Baseball (1995)(Kemco)(US)-manual.pdf</manual>
+		<boxback>./images/Virtual League Baseball (1995)(Kemco)(US)-boxback.png</boxback>
+		<rating>0.5</rating>
+		<releasedate>19950911T000000</releasedate>
+		<developer>Kemco</developer>
+		<publisher>Kemco</publisher>
+		<genre>Sports / Baseball</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>736B40D6</crc32>
+		<md5>2ba914c8aa16f2f9230b3c5b7e17e67b</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230228T213345" />
+	</game>
+	<game id="4743">
+		<path>./TOSEC/Games/Virtual League Baseball (1995)(Kemco)(US)[a]/Virtual League Baseball (1995)(Kemco)(US)[a].bin</path>
+		<name>Virtual League Baseball</name>
+		<desc>Hey batta batta swing! You're in the virtual big leagues now. Playing 18 teams from around the world. Throwing fast balls, forkballs, sinkers, sliders and changeups. Swinging for the fence, and laying down bunts. Shagging flies. Snagging drives. And tagging out runners. All in bigger-than-life 3D. With single game, all star and pennant race modes. And catch this: it's the only baseball game good enough to play in the virtual boy ball park. So don't drop the ball. Pick up a starting pitcher. Set your DH. And step up to the plate.</desc>
+		<image>./images/Virtual League Baseball (1995)(Kemco)(US)[a]-image.png</image>
+		<video>./videos/Virtual League Baseball (1995)(Kemco)(US)[a]-video.mp4</video>
+		<marquee>./images/Virtual League Baseball (1995)(Kemco)(US)[a]-marquee.png</marquee>
+		<thumbnail>./images/Virtual League Baseball (1995)(Kemco)(US)[a]-thumb.png</thumbnail>
+		<fanart>./images/Virtual League Baseball (1995)(Kemco)(US)[a]-fanart.jpg</fanart>
+		<manual>./manuals/Virtual League Baseball (1995)(Kemco)(US)[a]-manual.pdf</manual>
+		<boxback>./images/Virtual League Baseball (1995)(Kemco)(US)[a]-boxback.png</boxback>
+		<rating>0.5</rating>
+		<releasedate>19950911T000000</releasedate>
+		<developer>Kemco</developer>
+		<publisher>Kemco</publisher>
+		<genre>Sports / Baseball</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>2E20B6E7</crc32>
+		<md5>06f112d4868033c9b4399957eef7b78b</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230228T213347" />
+	</game>
+	<game id="4743">
+		<path>./TOSEC/Games/Virtual League Baseball (1995)(Kemco)(US)[b]/Virtual League Baseball (1995)(Kemco)(US)[b].bin</path>
+		<name>Virtual League Baseball</name>
+		<desc>Hey batta batta swing! You're in the virtual big leagues now. Playing 18 teams from around the world. Throwing fast balls, forkballs, sinkers, sliders and changeups. Swinging for the fence, and laying down bunts. Shagging flies. Snagging drives. And tagging out runners. All in bigger-than-life 3D. With single game, all star and pennant race modes. And catch this: it's the only baseball game good enough to play in the virtual boy ball park. So don't drop the ball. Pick up a starting pitcher. Set your DH. And step up to the plate.</desc>
+		<image>./images/Virtual League Baseball (1995)(Kemco)(US)[b]-image.png</image>
+		<video>./videos/Virtual League Baseball (1995)(Kemco)(US)[b]-video.mp4</video>
+		<marquee>./images/Virtual League Baseball (1995)(Kemco)(US)[b]-marquee.png</marquee>
+		<thumbnail>./images/Virtual League Baseball (1995)(Kemco)(US)[b]-thumb.png</thumbnail>
+		<fanart>./images/Virtual League Baseball (1995)(Kemco)(US)[b]-fanart.jpg</fanart>
+		<manual>./manuals/Virtual League Baseball (1995)(Kemco)(US)[b]-manual.pdf</manual>
+		<boxback>./images/Virtual League Baseball (1995)(Kemco)(US)[b]-boxback.png</boxback>
+		<rating>0.5</rating>
+		<releasedate>19950911T000000</releasedate>
+		<developer>Kemco</developer>
+		<publisher>Kemco</publisher>
+		<genre>Sports / Baseball</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>CC62AB38</crc32>
+		<md5>19b78efd2f27067409f4393586b321fe</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230228T213348" />
+	</game>
+	<game id="4743">
+		<path>./TOSEC/Games/Virtual League Baseball (1995)(Kemco)(US)[t2]/Virtual League Baseball (1995)(Kemco)(US)[t2].bin</path>
+		<name>Virtual League Baseball</name>
+		<desc>Hey batta batta swing! You're in the virtual big leagues now. Playing 18 teams from around the world. Throwing fast balls, forkballs, sinkers, sliders and changeups. Swinging for the fence, and laying down bunts. Shagging flies. Snagging drives. And tagging out runners. All in bigger-than-life 3D. With single game, all star and pennant race modes. And catch this: it's the only baseball game good enough to play in the virtual boy ball park. So don't drop the ball. Pick up a starting pitcher. Set your DH. And step up to the plate.</desc>
+		<image>./images/Virtual League Baseball (1995)(Kemco)(US)[t2]-image.png</image>
+		<video>./videos/Virtual League Baseball (1995)(Kemco)(US)[t2]-video.mp4</video>
+		<marquee>./images/Virtual League Baseball (1995)(Kemco)(US)[t2]-marquee.png</marquee>
+		<thumbnail>./images/Virtual League Baseball (1995)(Kemco)(US)[t2]-thumb.png</thumbnail>
+		<fanart>./images/Virtual League Baseball (1995)(Kemco)(US)[t2]-fanart.jpg</fanart>
+		<manual>./manuals/Virtual League Baseball (1995)(Kemco)(US)[t2]-manual.pdf</manual>
+		<boxback>./images/Virtual League Baseball (1995)(Kemco)(US)[t2]-boxback.png</boxback>
+		<rating>0.5</rating>
+		<releasedate>19950911T000000</releasedate>
+		<developer>Kemco</developer>
+		<publisher>Kemco</publisher>
+		<genre>Sports / Baseball</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>24ADEF36</crc32>
+		<md5>75ab83d493d9afc9eef49af071a32692</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230228T213350" />
+	</game>
+	<game id="4743">
+		<path>./TOSEC/Games/Virtual League Baseball (1995)(Kemco)(US)[t]/Virtual League Baseball (1995)(Kemco)(US)[t].bin</path>
+		<name>Virtual League Baseball</name>
+		<desc>Hey batta batta swing! You're in the virtual big leagues now. Playing 18 teams from around the world. Throwing fast balls, forkballs, sinkers, sliders and changeups. Swinging for the fence, and laying down bunts. Shagging flies. Snagging drives. And tagging out runners. All in bigger-than-life 3D. With single game, all star and pennant race modes. And catch this: it's the only baseball game good enough to play in the virtual boy ball park. So don't drop the ball. Pick up a starting pitcher. Set your DH. And step up to the plate.</desc>
+		<image>./images/Virtual League Baseball (1995)(Kemco)(US)[t]-image.png</image>
+		<video>./videos/Virtual League Baseball (1995)(Kemco)(US)[t]-video.mp4</video>
+		<marquee>./images/Virtual League Baseball (1995)(Kemco)(US)[t]-marquee.png</marquee>
+		<thumbnail>./images/Virtual League Baseball (1995)(Kemco)(US)[t]-thumb.png</thumbnail>
+		<fanart>./images/Virtual League Baseball (1995)(Kemco)(US)[t]-fanart.jpg</fanart>
+		<manual>./manuals/Virtual League Baseball (1995)(Kemco)(US)[t]-manual.pdf</manual>
+		<boxback>./images/Virtual League Baseball (1995)(Kemco)(US)[t]-boxback.png</boxback>
+		<rating>0.5</rating>
+		<releasedate>19950911T000000</releasedate>
+		<developer>Kemco</developer>
+		<publisher>Kemco</publisher>
+		<genre>Sports / Baseball</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>A54225B0</crc32>
+		<md5>a484d1d5bbde2bce358d59c61e3545e3</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230228T213352" />
+	</game>
+	<game id="143420">
+		<path>./TOSEC/Games/Virtual Pong (1999)(Covarrubias, Alberto)(PD)/Virtual Pong (1999)(Covarrubias, Alberto)(PD).bin</path>
+		<name>Virtual Pong</name>
+		<desc>The game is not much more than a simple Pong game, your goal is to get the ball past your opponent to the right border and get points this way. Sadly it isn't fun for very long, since the game only offers a single mode and level. Plus you play against a CPU-opponent, which only goes up and down the screen and randomly hits the ball if he is at the right place. Additionally, there's nothing to play for really, because you want win, doesn't matter how many points you get, the game never ends.</desc>
+		<image>./images/Virtual Pong (1999)(Covarrubias, Alberto)(PD)-image.png</image>
+		<marquee>./images/Virtual Pong (1999)(Covarrubias, Alberto)(PD)-marquee.png</marquee>
+		<thumbnail>./images/Virtual Pong (1999)(Covarrubias, Alberto)(PD)-thumb.png</thumbnail>
+		<boxback>./images/Virtual Pong (1999)(Covarrubias, Alberto)(PD)-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>19990623T000000</releasedate>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>42E17E38</crc32>
+		<md5>5060dc253b8f9eba7067657f2e6b3d63</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230228T213353" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/VUE Snake v1.0 (2009)(Radke, Christian)(PD)/VUE Snake v1.0 (2009)(Radke, Christian)(PD).bin</path>
+		<name>VUE Snake v1.0 (2009)(Radke, Christian)(PD)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>2375F24C</crc32>
+		<md5>9b2d1a08790b5d9177462a4227c06ff3</md5>
+		<scrap name="ScreenScraper" date="20230228T213354" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/VUE Snake v1.1 (2009)(Radke, Christian)(PD)/VUE Snake v1.1 (2009)(Radke, Christian)(PD).bin</path>
+		<name>VUE Snake v1.1 (2009)(Radke, Christian)(PD)</name>
+		<image>./images/VUE Snake v1.1 (2009)(Radke, Christian)(PD)-image.png</image>
+		<video>./videos/VUE Snake v1.1 (2009)(Radke, Christian)(PD)-video.mp4</video>
+		<marquee>./images/VUE Snake v1.1 (2009)(Radke, Christian)(PD)-marquee.png</marquee>
+		<thumbnail>./images/VUE Snake v1.1 (2009)(Radke, Christian)(PD)-thumb.png</thumbnail>
+		<fanart>./images/VUE Snake v1.1 (2009)(Radke, Christian)(PD)-fanart.jpg</fanart>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>AD054747</crc32>
+		<md5>ccfa400a0ff3d717dad36a3f736fd34d</md5>
+		<scrap name="ScreenScraper" date="20230228T213356" />
+		<boxback>./images/VUE Snake v1.1 (2009)(Radke, Christian)(PD)-boxback.png</boxback>
+	</game>
+	<game id="4729">
+		<path>./TOSEC/Games/Waterworld (1995)(Ocean)(US)(en-ja)/Waterworld (1995)(Ocean)(US)(en-ja).bin</path>
+		<name>Waterworld</name>
+		<desc>THE DEACON AWAITS!
+
+The Deacon will stop at nothing to control the world's most precious resource...
+
+And he's turned his blood-thirsty Smokers loose on the Atoller civilization in a frantic search for Enola - the tattooed girl who holds the secret to Dryland. Only you can smoke the Smokers and deck the Deacon!
+
+Waterworld brings your Virtual Boy screaming to life with incredibly smooth and realistic 3D animations, particle effects and texture mapped rendered graphics. So step into this action packed arcade experience today and learn what 3D gaming is all about.</desc>
+		<image>./images/Waterworld (1995)(Ocean)(US)(en-ja)-image.png</image>
+		<video>./videos/Waterworld (1995)(Ocean)(US)(en-ja)-video.mp4</video>
+		<marquee>./images/Waterworld (1995)(Ocean)(US)(en-ja)-marquee.png</marquee>
+		<thumbnail>./images/Waterworld (1995)(Ocean)(US)(en-ja)-thumb.png</thumbnail>
+		<fanart>./images/Waterworld (1995)(Ocean)(US)(en-ja)-fanart.jpg</fanart>
+		<manual>./manuals/Waterworld (1995)(Ocean)(US)(en-ja)-manual.pdf</manual>
+		<boxback>./images/Waterworld (1995)(Ocean)(US)(en-ja)-boxback.png</boxback>
+		<rating>1</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Ocean</developer>
+		<publisher>Ocean</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>82A95E51</crc32>
+		<md5>110a83bc070559c5cc5634a8b5cae274</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230228T213357" />
+	</game>
+	<game id="4729">
+		<path>./TOSEC/Games/Waterworld (1995)(Ocean)(US)(en-ja)[b]/Waterworld (1995)(Ocean)(US)(en-ja)[b].bin</path>
+		<name>Waterworld</name>
+		<desc>THE DEACON AWAITS!
+
+The Deacon will stop at nothing to control the world's most precious resource...
+
+And he's turned his blood-thirsty Smokers loose on the Atoller civilization in a frantic search for Enola - the tattooed girl who holds the secret to Dryland. Only you can smoke the Smokers and deck the Deacon!
+
+Waterworld brings your Virtual Boy screaming to life with incredibly smooth and realistic 3D animations, particle effects and texture mapped rendered graphics. So step into this action packed arcade experience today and learn what 3D gaming is all about.</desc>
+		<image>./images/Waterworld (1995)(Ocean)(US)(en-ja)[b]-image.png</image>
+		<video>./videos/Waterworld (1995)(Ocean)(US)(en-ja)[b]-video.mp4</video>
+		<marquee>./images/Waterworld (1995)(Ocean)(US)(en-ja)[b]-marquee.png</marquee>
+		<thumbnail>./images/Waterworld (1995)(Ocean)(US)(en-ja)[b]-thumb.png</thumbnail>
+		<fanart>./images/Waterworld (1995)(Ocean)(US)(en-ja)[b]-fanart.jpg</fanart>
+		<manual>./manuals/Waterworld (1995)(Ocean)(US)(en-ja)[b]-manual.pdf</manual>
+		<boxback>./images/Waterworld (1995)(Ocean)(US)(en-ja)[b]-boxback.png</boxback>
+		<rating>1</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Ocean</developer>
+		<publisher>Ocean</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>742298D1</crc32>
+		<md5>9303817961e4333d6ae1c116ad7546d5</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230228T213359" />
+	</game>
+</gameList>

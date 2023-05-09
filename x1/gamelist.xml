@@ -1,0 +1,895 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./TOSEC/Applications/[2D]/Expert-X1 (198x)(Sunson)(Disk 1 of 2)/Expert-X1 (198x)(Sunson)(Disk 1 of 2).2d</path>
+		<name>Expert-X1 (198x)(Sunson)(Disk 1 of 2)</name>
+		<md5>bd324c29bb5dda581d312c4efa9a03c2</md5>
+		<scrap name="ScreenScraper" date="20230302T190008" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/[2D]/Expert-X1 (198x)(Sunson)(Disk 2 of 2)/Expert-X1 (198x)(Sunson)(Disk 2 of 2).2d</path>
+		<name>Expert-X1 (198x)(Sunson)(Disk 2 of 2)</name>
+		<md5>46c880d0f5511345d96100d2e92d3fc7</md5>
+		<scrap name="ScreenScraper" date="20230302T190009" />
+	</game>
+	<game id="256207">
+		<path>./TOSEC/Applications/[2D]/File Master X1, The v0.8 (1987)(Kyoto Media)/File Master X1, The v0.8 (1987)(Kyoto Media).2d</path>
+		<name>ZZZ(notgame):The File Master X1 v0.8</name>
+		<hidden>true</hidden>
+		<md5>79bdb7f12c1e97d1342074de868a3edf</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230302T190011" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/[2D]/HuBASIC CZ-8FB01 v1.0 (19xx)(Sharp)/HuBASIC CZ-8FB01 v1.0 (19xx)(Sharp).2d</path>
+		<name>HuBASIC CZ-8FB01 v1.0 (19xx)(Sharp)</name>
+		<md5>4cecb2aba45619852778fbc26c953587</md5>
+		<scrap name="ScreenScraper" date="20230302T190013" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/[2D]/New FM-driver (198x)(-)/New FM-driver (198x)(-).2d</path>
+		<name>New FM-driver (198x)(-)</name>
+		<md5>0ec9ebb6622b6639e021955d47d4d087</md5>
+		<scrap name="ScreenScraper" date="20230302T190014" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/[2D]/Turbo BASIC CZ-8FB02 (19xx)(Sharp)/Turbo BASIC CZ-8FB02 (19xx)(Sharp).2d</path>
+		<name>Turbo BASIC CZ-8FB02 (19xx)(Sharp)</name>
+		<md5>1cbebec0bd19c68a89edd2df57fee5c5</md5>
+		<scrap name="ScreenScraper" date="20230302T190015" />
+	</game>
+	<game id="193241">
+		<path>./TOSEC/Games/[2D]/177 (1986)(Macadamia)/177 (1986)(Macadamia).2d</path>
+		<name>177</name>
+		<desc>Build a series of castles to gain dominion over all the land. You'll have to make decisions that will affect your favor with the Church, nobles, and peasants. Keep a strong military and a large workforce while watching the level of your treasury.</desc>
+		<image>./images/177 (1986)(Macadamia)-image.png</image>
+		<video>./videos/177 (1986)(Macadamia)-video.mp4</video>
+		<marquee>./images/177 (1986)(Macadamia)-marquee.png</marquee>
+		<thumbnail>./images/177 (1986)(Macadamia)-thumb.png</thumbnail>
+		<boxback>./images/177 (1986)(Macadamia)-boxback.png</boxback>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Quicksilver Software</developer>
+		<publisher>Interplay</publisher>
+		<genre>Simulation</genre>
+		<md5>19438ef92704e6b1c8d33c671d4b5d49</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230302T190025" />
+	</game>
+	<game id="193554">
+		<path>./TOSEC/Games/[2D]/4th Unit, The (19xx)(Data West)(Disk 1 of 2)/4th Unit, The (19xx)(Data West)(Disk 1 of 2).2d</path>
+		<name>4th Unit, The</name>
+		<image>./images/4th Unit, The (19xx)(Data West)(Disk 1 of 2)-image.png</image>
+		<md5>43e373fb57cf7ee3efbd54aadd495834</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230302T190028" />
+	</game>
+	<game id="193554">
+		<path>./TOSEC/Games/[2D]/4th Unit, The (19xx)(Data West)(Disk 2 of 2)/4th Unit, The (19xx)(Data West)(Disk 2 of 2).2d</path>
+		<name>4th Unit, The</name>
+		<image>./images/4th Unit, The (19xx)(Data West)(Disk 2 of 2)-image.png</image>
+		<md5>e13b321e2248f32422a67230a484e71b</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230302T190031" />
+	</game>
+	<game id="193276">
+		<path>./TOSEC/Games/[2D]/Bishoujo shashinkan - Studio Cut (1987)(Hard)/Bishoujo shashinkan - Studio Cut (1987)(Hard).2d</path>
+		<name>Bishoujo Shashinkan - Studio Cut</name>
+		<image>./images/Bishoujo shashinkan - Studio Cut (1987)(Hard)-image.png</image>
+		<md5>4bc89f7ad53304c4568a9491ce6bb2fe</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230302T190034" />
+	</game>
+	<game id="193281">
+		<path>./TOSEC/Games/[2D]/Brain Breaker (1985)(Enix)/Brain Breaker (1985)(Enix).2d</path>
+		<name>Brain Breaker</name>
+		<desc>Based on the code-breaking game Mastermind, Brain Breaker challenges the player to break a randomly created code.
+
+The code is made up of four colored balls (of different or same color). The player is given eight guesses to solve the code, by placing four colored balls in the order the player believes may be correct. If the guess is incorrect Brain Breaker will give feedback in the form of gold and silver balls. For each of the player's guess balls that are the correct color and the correct position, the player will be given a gold feedback ball. For each guess ball that is the correct color, but the wrong position, the player will receive a silver feedback ball. If a guess ball is not of the correct color, the player will receive no feedback for that ball.</desc>
+		<image>./images/Brain Breaker (1985)(Enix)-image.png</image>
+		<video>./videos/Brain Breaker (1985)(Enix)-video.mp4</video>
+		<marquee>./images/Brain Breaker (1985)(Enix)-marquee.png</marquee>
+		<thumbnail>./images/Brain Breaker (1985)(Enix)-thumb.png</thumbnail>
+		<boxback>./images/Brain Breaker (1985)(Enix)-boxback.png</boxback>
+		<developer>Red Rover Games</developer>
+		<genre>Puzzle-Game</genre>
+		<md5>dc261b127948c75798a40e3940ed5670</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230302T190043" />
+	</game>
+	<game id="193555">
+		<path>./TOSEC/Games/[2D]/Bu U Ma + Black Onyx + Thunderforce (19xx)(-)/Bu U Ma + Black Onyx + Thunderforce (19xx)(-).2d</path>
+		<name>Black Onyx, The</name>
+		<desc>Rumor says that the legendary Black Onyx, an artifact that grants eternal youth and happiness to those who can find it, lies within the Black Tower near the town of Utsuro. You assemble a party of brave adventurers and venture into the tower, defeating monsters on your way to the great treasure.
+
+The Black Onyx is one of the first traditional role-playing games made by a Japanese company. It is similar in gameplay to early Wizardry and Ultima games with killing monsters and exploring dungeons, with dark, realistic visuals. The player creates a party (up to five members) and explores a maze-like 3D dungeon, fighting random enemies on the way. The heroes also meet adventurers who can be convinced to join the party. The combat engine is turn-based.</desc>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Bullet Proof Software</developer>
+		<publisher>Bullet Proof Software</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<md5>ec4281b2d125641eebbc132df55397c6</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230302T190045" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[2D]/Cross Chase (2018-04-15)(Caruso, Fabrizio)[full]/Cross Chase (2018-04-15)(Caruso, Fabrizio)[full].2d</path>
+		<name>Cross Chase (2018-04-15)(Caruso, Fabrizio)[full]</name>
+		<md5>35b4f89d7604acb3645a7abbccda3459</md5>
+		<scrap name="ScreenScraper" date="20230302T190046" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[2D]/Cross Chase (2018-04-15)(Caruso, Fabrizio)[tiny]/Cross Chase (2018-04-15)(Caruso, Fabrizio)[tiny].2d</path>
+		<name>Cross Chase (2018-04-15)(Caruso, Fabrizio)[tiny]</name>
+		<md5>8f166fb355aa982c0702b9c361eda41f</md5>
+		<scrap name="ScreenScraper" date="20230302T190047" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[2D]/Cross Chase (2018-05-19)(Caruso, Fabrizio)[full]/Cross Chase (2018-05-19)(Caruso, Fabrizio)[full].2d</path>
+		<name>Cross Chase (2018-05-19)(Caruso, Fabrizio)[full]</name>
+		<md5>f167bb267b1d76243d9a6aab91f85914</md5>
+		<scrap name="ScreenScraper" date="20230302T190049" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[2D]/Cross Chase (2018-05-19)(Caruso, Fabrizio)[tiny]/Cross Chase (2018-05-19)(Caruso, Fabrizio)[tiny].2d</path>
+		<name>Cross Chase (2018-05-19)(Caruso, Fabrizio)[tiny]</name>
+		<md5>02cee7e45843f9c1f2c9ad596161bb9b</md5>
+		<scrap name="ScreenScraper" date="20230302T190050" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[2D]/Cross Chase (2018-07-19)(Caruso, Fabrizio)[full]/Cross Chase (2018-07-19)(Caruso, Fabrizio)[full].2d</path>
+		<name>Cross Chase (2018-07-19)(Caruso, Fabrizio)[full]</name>
+		<md5>26e4fe38c2cb5ed7cd9e295e440b5444</md5>
+		<scrap name="ScreenScraper" date="20230302T190052" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[2D]/Cross Chase (2018-07-19)(Caruso, Fabrizio)[tiny]/Cross Chase (2018-07-19)(Caruso, Fabrizio)[tiny].2d</path>
+		<name>Cross Chase (2018-07-19)(Caruso, Fabrizio)[tiny]</name>
+		<md5>2bd0afe96df6107e77b3383304d5c59f</md5>
+		<scrap name="ScreenScraper" date="20230302T190053" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[2D]/Cross Chase (2018-08-04)(Caruso, Fabrizio)[full]/Cross Chase (2018-08-04)(Caruso, Fabrizio)[full].2d</path>
+		<name>Cross Chase (2018-08-04)(Caruso, Fabrizio)[full]</name>
+		<md5>9bf65df50a93fac8eb7e5051caf9bb27</md5>
+		<scrap name="ScreenScraper" date="20230302T190054" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[2D]/Cross Chase (2018-08-04)(Caruso, Fabrizio)[tiny]/Cross Chase (2018-08-04)(Caruso, Fabrizio)[tiny].2d</path>
+		<name>Cross Chase (2018-08-04)(Caruso, Fabrizio)[tiny]</name>
+		<md5>796f9d625416b3609f7a2d5a8df06379</md5>
+		<scrap name="ScreenScraper" date="20230302T190056" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[2D]/Cross Chase (2018-10-29)(Caruso, Fabrizio)/Cross Chase (2018-10-29)(Caruso, Fabrizio).2d</path>
+		<name>Cross Chase (2018-10-29)(Caruso, Fabrizio)</name>
+		<md5>4ef1fa2c98874578e89c140d0c1fc920</md5>
+		<scrap name="ScreenScraper" date="20230302T190057" />
+	</game>
+	<game id="193322">
+		<path>./TOSEC/Games/[2D]/Dragon Buster (19xx)(Namco)/Dragon Buster (19xx)(Namco).2d</path>
+		<name>Dragon Buster</name>
+		<desc>Originating in the arcades, Dragon Buster is an action platform game composed out of several large levels, each one containing various stages: a cave, a tower, a castle, etc. The player's goal in every level is to reach the final stage where the protagonist faces the level boss. There are often several ways to reach the final stages, and not all stages are necessary to visit. Equipped with a sword, the player character moves through platform stages, clearing them of diverse monsters, collecting power-ups and trying to stay in good health until the level boss, since it is impossible to heal between the stages. The hero's life meter (called "vitality" in the game) is the first introduction of such a feature to action games.</desc>
+		<image>./images/Dragon Buster (19xx)(Namco)-image.png</image>
+		<video>./videos/Dragon Buster (19xx)(Namco)-video.mp4</video>
+		<marquee>./images/Dragon Buster (19xx)(Namco)-marquee.png</marquee>
+		<fanart>./images/Dragon Buster (19xx)(Namco)-fanart.jpg</fanart>
+		<releasedate>19870610T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Dempa Shimbunsha</publisher>
+		<genre>Role playing games / Action RPG</genre>
+		<players>1</players>
+		<md5>86788b2d241daffdd292767708d850fe</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230302T190104" />
+	</game>
+	<game id="193332">
+		<path>./TOSEC/Games/[2D]/Exoa Ii-Warroid (1984)(ASCII)/Exoa Ii-Warroid (1984)(ASCII).2d</path>
+		<name>Exoa 2 - Warroid</name>
+		<image>./images/Exoa Ii-Warroid (1984)(ASCII)-image.png</image>
+		<video>./videos/Exoa Ii-Warroid (1984)(ASCII)-video.mp4</video>
+		<marquee>./images/Exoa Ii-Warroid (1984)(ASCII)-marquee.png</marquee>
+		<md5>37af11789ec3641e94bd6fea1e2dd39b</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230302T190109" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[2D]/Faerie's Residence (1986)(Champion Soft)(Disk 1 of 2)/Faerie's Residence (1986)(Champion Soft)(Disk 1 of 2).2d</path>
+		<name>Faerie's Residence (1986)(Champion Soft)(Disk 1 of 2)</name>
+		<md5>5a07c6582631aa78317aa4cd5e83afde</md5>
+		<scrap name="ScreenScraper" date="20230302T190110" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[2D]/Faerie's Residence (1986)(Champion Soft)(Disk 2 of 2)/Faerie's Residence (1986)(Champion Soft)(Disk 2 of 2).2d</path>
+		<name>Faerie's Residence (1986)(Champion Soft)(Disk 2 of 2)</name>
+		<md5>5585b4cc63d6ed706b35ecc3bc355d67</md5>
+		<scrap name="ScreenScraper" date="20230302T190111" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[2D]/Gaia (19xx)(-)(Disk 1 of 2)/Gaia (19xx)(-)(Disk 1 of 2).2d</path>
+		<name>Gaia (19xx)(-)(Disk 1 of 2)</name>
+		<md5>22075afb1c776172d3e974279e78cd23</md5>
+		<scrap name="ScreenScraper" date="20230302T190112" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[2D]/Gaia (19xx)(-)(Disk 2 of 2)/Gaia (19xx)(-)(Disk 2 of 2).2d</path>
+		<name>Gaia (19xx)(-)(Disk 2 of 2)</name>
+		<md5>7a8ca689daf4d0729fa6782c5c5c7259</md5>
+		<scrap name="ScreenScraper" date="20230302T190113" />
+	</game>
+	<game id="193347">
+		<path>./TOSEC/Games/[2D]/Galaxian X-1 (19xx)(Namco)/Galaxian X-1 (19xx)(Namco).2d</path>
+		<name>Galaxian</name>
+		<desc>Galaxian is a shoot 'em up in which the player is at the bottom of the screen, with an arrangement of aliens at the top. The player moves left and right to aim at an alien, then shoots a bullet up the screen, and the alien it hits is killed. The aliens are classed as Drones, Emissaries, Hornets and Commanders, with those higher up the screen scoring more points when destroyed. At set intervals an enemy will move down the screen towards you, escorting a bomber, which is a moment of high danger. Clear a wave and another is generated.</desc>
+		<image>./images/Galaxian X-1 (19xx)(Namco)-image.png</image>
+		<video>./videos/Galaxian X-1 (19xx)(Namco)-video.mp4</video>
+		<marquee>./images/Galaxian X-1 (19xx)(Namco)-marquee.png</marquee>
+		<thumbnail>./images/Galaxian X-1 (19xx)(Namco)-thumb.png</thumbnail>
+		<fanart>./images/Galaxian X-1 (19xx)(Namco)-fanart.jpg</fanart>
+		<boxback>./images/Galaxian X-1 (19xx)(Namco)-boxback.png</boxback>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Dempa Shimbunsha</publisher>
+		<genre>Shoot'em Up</genre>
+		<family>Galaxian</family>
+		<md5>58757336585d76362ae8cdd8584a828b</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230302T190122" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[2D]/Game Compilation (19xx)(-)/Game Compilation (19xx)(-).2d</path>
+		<name>Game Compilation (19xx)(-)</name>
+		<md5>468d912f2011e2f9840fdc9870904e5a</md5>
+		<scrap name="ScreenScraper" date="20230302T190123" />
+	</game>
+	<game id="251157">
+		<path>./TOSEC/Games/[2D]/Gamepak 2 (1985)(-)/Gamepak 2 (1985)(-).2d</path>
+		<name>Gamepak 2</name>
+		<md5>a2682c5e59172bcf87b718f20e5b925c</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230302T190124" />
+	</game>
+	<game id="193355">
+		<path>./TOSEC/Games/[2D]/Gate of Labyrinth (1987)(Ymcat)/Gate of Labyrinth (1987)(Ymcat).2d</path>
+		<name>Gate Of Labyrinth</name>
+		<image>./images/Gate of Labyrinth (1987)(Ymcat)-image.png</image>
+		<video>./videos/Gate of Labyrinth (1987)(Ymcat)-video.mp4</video>
+		<marquee>./images/Gate of Labyrinth (1987)(Ymcat)-marquee.png</marquee>
+		<thumbnail>./images/Gate of Labyrinth (1987)(Ymcat)-thumb.png</thumbnail>
+		<boxback>./images/Gate of Labyrinth (1987)(Ymcat)-boxback.png</boxback>
+		<md5>a954baaad400c188ac4205f7d7f9e3b8</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230302T190132" />
+	</game>
+	<game id="193562">
+		<path>./TOSEC/Games/[2D]/Goonies, The (1986)(Konami)/Goonies, The (1986)(Konami).2d</path>
+		<name>Goonies, The</name>
+		<desc>The Goonies is based on a movie of the same name from 1985. A group of youngsters from a neighborhood called the "Goon Docks" are trying to find the lost treasure of One-Eyed Willie to prevent the foreclosure of their houses. Unfortunately, the treasure is buried under the hide-out of the infamous Fratelli gang, a family of ruthless criminals who are on the run from the law. You play as the asthmatic Mikey, who must find the treasure and save the other Goonies before time runs out.nnnnThe game consists of six levels. In each level, you must collect three keys to advance to the next area. These can be found by blowing open doors with bombs that are dropped by enemies. Also hidden behind doors are power-ups and other Goonies to rescue. Trying to stop you are enemies such as rats, skeletons, and even members of the Fratelli Gang.nnnnUnlike the sequel, the Famicom version was never released outside of Japan.</desc>
+		<image>./images/Goonies, The (1986)(Konami)-image.png</image>
+		<video>./videos/Goonies, The (1986)(Konami)-video.mp4</video>
+		<marquee>./images/Goonies, The (1986)(Konami)-marquee.png</marquee>
+		<fanart>./images/Goonies, The (1986)(Konami)-fanart.jpg</fanart>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action / Adventure</genre>
+		<family>Goonies</family>
+		<players>1</players>
+		<md5>db992d324e0395f3f40e9d82d97d0590</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230302T190140" />
+	</game>
+	<game id="193360">
+		<path>./TOSEC/Games/[2D]/Gradius (19xx)(Konami)/Gradius (19xx)(Konami).2d</path>
+		<name>Gradius</name>
+		<desc>The people of Gradius are in trouble. The ameoboid Bacterions have launched an all out attack against the planet, and it's up to you to fly into battle and save them. Along the way you'll be able to power up your ship with hyper speed, force fields, lasers, missiles, double beam cannons and more to help you battle. 
+
+Gradius is a side-scrolling shooter. Shooting certain enemies will leave a power up pod behind which can be collected to add more power to your ship. Each level features a wide variety of enemies trying to stop you, with a large boss at the end. Gameplay is for one player or two players alternating.</desc>
+		<image>./images/Gradius (19xx)(Konami)-image.png</image>
+		<video>./videos/Gradius (19xx)(Konami)-video.mp4</video>
+		<marquee>./images/Gradius (19xx)(Konami)-marquee.png</marquee>
+		<thumbnail>./images/Gradius (19xx)(Konami)-thumb.png</thumbnail>
+		<fanart>./images/Gradius (19xx)(Konami)-fanart.jpg</fanart>
+		<boxback>./images/Gradius (19xx)(Konami)-boxback.png</boxback>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shoot'em up / Horizontal</genre>
+		<family>Gradius</family>
+		<players>1-2</players>
+		<md5>aaa094e4b528b953d207d33306911c0b</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230302T190151" />
+	</game>
+	<game id="193364">
+		<path>./TOSEC/Games/[2D]/Haja No Fuuin (19xx)(KGD Software Productions)/Haja No Fuuin (19xx)(KGD Software Productions).2d</path>
+		<name>Haja No Fuuin</name>
+		<desc>The seal of the Dark Lord Terarin has been broken and Terarin has been unleashed into the world again. She has stolen the Golden Seal and opened pandora's box, unleashing evil creatures into the world. A young hero is tasked by a king to stop Terarin. He must step into footsteps of Iason, a shepherd that once accidentally unleashed Terarin and fought to seal the Dark Lord again. The hero must enlist the aid of three companions, Guy the warrior, Medi the amazon and Treo the pirate and find the three keys to Terarin's lair. To face the Dark Lord, they must find the mystical weapons and armor of old and then defeat Terarin and seal the Dark Lord from the world.</desc>
+		<fanart>./images/Haja No Fuuin (19xx)(KGD Software Productions)-fanart.jpg</fanart>
+		<releasedate>19861101T000000</releasedate>
+		<developer>Kogago</developer>
+		<publisher>Kogado</publisher>
+		<genre>Role playing games / Japanese RPG</genre>
+		<players>1</players>
+		<md5>154f150955cf780082a9f95b1fd9b9bc</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230302T190154" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[2D]/Issural - The Story of Calvan (1988)(Freedom Soft)(Disk 1 of 2)/Issural - The Story of Calvan (1988)(Freedom Soft)(Disk 1 of 2).2d</path>
+		<name>Issural - The Story of Calvan (1988)(Freedom Soft)(Disk 1 of 2)</name>
+		<md5>7bfbb264c73ff3bc052b4cb61ddcb624</md5>
+		<scrap name="ScreenScraper" date="20230302T190155" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[2D]/Issural - The Story of Calvan (1988)(Freedom Soft)(Disk 2 of 2)/Issural - The Story of Calvan (1988)(Freedom Soft)(Disk 2 of 2).2d</path>
+		<name>Issural - The Story of Calvan (1988)(Freedom Soft)(Disk 2 of 2)</name>
+		<md5>335d2fc2d4a09191d5f64d2cceb8160d</md5>
+		<scrap name="ScreenScraper" date="20230302T190156" />
+	</game>
+	<game id="193431">
+		<path>./TOSEC/Games/[2D]/Maidum (19xx)(NCS)(Disk 1 of 2)/Maidum (19xx)(NCS)(Disk 1 of 2).2d</path>
+		<name>Maidum</name>
+		<image>./images/Maidum (19xx)(NCS)(Disk 1 of 2)-image.png</image>
+		<video>./videos/Maidum (19xx)(NCS)(Disk 1 of 2)-video.mp4</video>
+		<marquee>./images/Maidum (19xx)(NCS)(Disk 1 of 2)-marquee.png</marquee>
+		<md5>6bc5f3afd1bd221ad65192b89950b163</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230302T190202" />
+	</game>
+	<game id="193431">
+		<path>./TOSEC/Games/[2D]/Maidum (19xx)(NCS)(Disk 1 of 2)[a]/Maidum (19xx)(NCS)(Disk 1 of 2)[a].2d</path>
+		<name>Maidum</name>
+		<image>./images/Maidum (19xx)(NCS)(Disk 1 of 2)[a]-image.png</image>
+		<video>./videos/Maidum (19xx)(NCS)(Disk 1 of 2)[a]-video.mp4</video>
+		<marquee>./images/Maidum (19xx)(NCS)(Disk 1 of 2)[a]-marquee.png</marquee>
+		<md5>beccf38e91b70823695caeb49e98b424</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230302T190209" />
+	</game>
+	<game id="193431">
+		<path>./TOSEC/Games/[2D]/Maidum (19xx)(NCS)(Disk 2 of 2)/Maidum (19xx)(NCS)(Disk 2 of 2).2d</path>
+		<name>Maidum</name>
+		<image>./images/Maidum (19xx)(NCS)(Disk 2 of 2)-image.png</image>
+		<video>./videos/Maidum (19xx)(NCS)(Disk 2 of 2)-video.mp4</video>
+		<marquee>./images/Maidum (19xx)(NCS)(Disk 2 of 2)-marquee.png</marquee>
+		<md5>e2a638d3431c46260f77dc8e77ecb189</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230302T190214" />
+	</game>
+	<game id="193437">
+		<path>./TOSEC/Games/[2D]/Mappy (19xx)(Namco)/Mappy (19xx)(Namco).2d</path>
+		<name>Mappy</name>
+		<desc>You control Mappy, a police-mouse whose job is to collect valuables (consumer electronics) from a cat's house. You are being pursued by a gang of five pink cats. Doors are your only defense against the cats. You get from floor to floor by jumping on one of the trampolines.
+
+Points are earned by recovering stolen goods. Other ways of earning points are bouncing on a trampoline, putting cats in the microwave, striking a cat with a door, striking cats with a bell, retrieving a treasure from the Boss cat Goro or dropping cats through a hole in the floor.</desc>
+		<image>./images/Mappy (19xx)(Namco)-image.png</image>
+		<video>./videos/Mappy (19xx)(Namco)-video.mp4</video>
+		<marquee>./images/Mappy (19xx)(Namco)-marquee.png</marquee>
+		<thumbnail>./images/Mappy (19xx)(Namco)-thumb.png</thumbnail>
+		<fanart>./images/Mappy (19xx)(Namco)-fanart.jpg</fanart>
+		<boxback>./images/Mappy (19xx)(Namco)-boxback.png</boxback>
+		<releasedate>19840102T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Dempa Shimbunsha</publisher>
+		<genre>Platform</genre>
+		<family>Mappy</family>
+		<md5>5a33eec9de5b2be2c4d7a6cfb2a0253a</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230302T190224" />
+	</game>
+	<game id="193473">
+		<path>./TOSEC/Games/[2D]/Pop Lemon (1986)(Champion Soft)(Disk 1 of 2)/Pop Lemon (1986)(Champion Soft)(Disk 1 of 2).2d</path>
+		<name>Pop Lemon</name>
+		<md5>765b30086fbe2a4c19f09f0cc12a7c58</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230302T190226" />
+	</game>
+	<game id="193473">
+		<path>./TOSEC/Games/[2D]/Pop Lemon (1986)(Champion Soft)(Disk 2 of 2)/Pop Lemon (1986)(Champion Soft)(Disk 2 of 2).2d</path>
+		<name>Pop Lemon</name>
+		<md5>c69f2ccbb807c065b0a2493dadc12d22</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230302T190227" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[2D]/Seijo Densetsu - 5 Holy Girls (19xx)(Studio Blue)/Seijo Densetsu - 5 Holy Girls (19xx)(Studio Blue).2d</path>
+		<name>Seijo Densetsu - 5 Holy Girls (19xx)(Studio Blue)</name>
+		<md5>174e5e8072d765ebcdda530f9474e7f9</md5>
+		<scrap name="ScreenScraper" date="20230302T190228" />
+	</game>
+	<game id="193505">
+		<path>./TOSEC/Games/[2D]/Shanghai (1987)(Activision)/Shanghai (1987)(Activision).2d</path>
+		<name>Shanghai</name>
+		<desc>Shanghai is one of the first video game adaptations of the tile-based game played with the Chinese mahjong stones - essentially a puzzle game that has little to do with real mahjong rules.
+
+The gameplay involves 144 tiles, each depicting different images, which have to be removed by matching them into pairs. The tiles are arranged in a gridded pattern, which is higher near the centre. A tile can only be removed if it has no tile next to it on at least one side.
+
+This computer implementation can generate a random board layout to take on and features five preset challenges, some of which have time limits of five or ten minutes, as well as a multiplayer mode.</desc>
+		<image>./images/Shanghai (1987)(Activision)-image.png</image>
+		<thumbnail>./images/Shanghai (1987)(Activision)-thumb.png</thumbnail>
+		<fanart>./images/Shanghai (1987)(Activision)-fanart.jpg</fanart>
+		<boxback>./images/Shanghai (1987)(Activision)-boxback.png</boxback>
+		<developer>Activision</developer>
+		<publisher>Systemsoft</publisher>
+		<genre>Asiatic board game / Mahjong</genre>
+		<family>Shanghai</family>
+		<md5>1bf214ad3cc5b17dbb8a04f0af75f8d7</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230302T190236" />
+	</game>
+	<game id="193526">
+		<path>./TOSEC/Games/[2D]/Space Harrier (19xx)(Sega)(Disk 1 of 2)/Space Harrier (19xx)(Sega)(Disk 1 of 2).2d</path>
+		<name>Space Harrier</name>
+		<desc>Run? fly? dodge those obstacles, but return fire on wave after wave of attacking aliens. Armed with a really big gun, you have to defend yourself against the alien hordes using your wits to navigate around the screen. But watch out for those end of level bosses!
+
+Originating in the arcades, Space Harrier is a third-person rail shooter with pseudo-3D graphics, set in the same world as Fantasy Zone. The lone titular hero fights aliens with a fireball-launching cannon, which can also be used to transform the hero into a flying rocket. The protagonist is constantly in motion, but the speed of his movement can be regulated by the player.</desc>
+		<image>./images/Space Harrier (19xx)(Sega)(Disk 1 of 2)-image.png</image>
+		<video>./videos/Space Harrier (19xx)(Sega)(Disk 1 of 2)-video.mp4</video>
+		<marquee>./images/Space Harrier (19xx)(Sega)(Disk 1 of 2)-marquee.png</marquee>
+		<thumbnail>./images/Space Harrier (19xx)(Sega)(Disk 1 of 2)-thumb.png</thumbnail>
+		<fanart>./images/Space Harrier (19xx)(Sega)(Disk 1 of 2)-fanart.jpg</fanart>
+		<boxback>./images/Space Harrier (19xx)(Sega)(Disk 1 of 2)-boxback.png</boxback>
+		<releasedate>19880101T000000</releasedate>
+		<developer>AM R&amp;D Dept. #2</developer>
+		<publisher>Dempa Shimbunsha</publisher>
+		<genre>Shooter / 3rd person</genre>
+		<family>Space Harrier</family>
+		<players>1</players>
+		<md5>a143fd766228b1dc246eda07caebb308</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230302T190246" />
+	</game>
+	<game id="193526">
+		<path>./TOSEC/Games/[2D]/Space Harrier (19xx)(Sega)(Disk 2 of 2)/Space Harrier (19xx)(Sega)(Disk 2 of 2).2d</path>
+		<name>Space Harrier</name>
+		<desc>Run? fly? dodge those obstacles, but return fire on wave after wave of attacking aliens. Armed with a really big gun, you have to defend yourself against the alien hordes using your wits to navigate around the screen. But watch out for those end of level bosses!
+
+Originating in the arcades, Space Harrier is a third-person rail shooter with pseudo-3D graphics, set in the same world as Fantasy Zone. The lone titular hero fights aliens with a fireball-launching cannon, which can also be used to transform the hero into a flying rocket. The protagonist is constantly in motion, but the speed of his movement can be regulated by the player.</desc>
+		<image>./images/Space Harrier (19xx)(Sega)(Disk 2 of 2)-image.png</image>
+		<video>./videos/Space Harrier (19xx)(Sega)(Disk 2 of 2)-video.mp4</video>
+		<marquee>./images/Space Harrier (19xx)(Sega)(Disk 2 of 2)-marquee.png</marquee>
+		<thumbnail>./images/Space Harrier (19xx)(Sega)(Disk 2 of 2)-thumb.png</thumbnail>
+		<fanart>./images/Space Harrier (19xx)(Sega)(Disk 2 of 2)-fanart.jpg</fanart>
+		<boxback>./images/Space Harrier (19xx)(Sega)(Disk 2 of 2)-boxback.png</boxback>
+		<releasedate>19880101T000000</releasedate>
+		<developer>AM R&amp;D Dept. #2</developer>
+		<publisher>Dempa Shimbunsha</publisher>
+		<genre>Shooter / 3rd person</genre>
+		<family>Space Harrier</family>
+		<players>1</players>
+		<md5>1f539ce4f24405ed89509d2c117d1ba9</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230302T190256" />
+	</game>
+	<game id="193569">
+		<path>./TOSEC/Games/[2D]/Timeparadox (19xx)(-)(Disk 1 of 2)/Timeparadox (19xx)(-)(Disk 1 of 2).2d</path>
+		<name>Time Paradox</name>
+		<desc>Time Paradox is a point 'n click adventure game in which the player gets to control a female character who travels back in time on a mission to see the magician, Merlin. Having been sent back to the times of Cavemen and Dinosaurs, Kingdoms and Knights, Time Paradox challenges you to find your way back to not just the present day, but to the future as well. Encounter helpful friends, meet devious foes, mix potions of magic, and even experience the supernatural in your quest to ride the time machine which controls your character's fate.</desc>
+		<image>./images/Timeparadox (19xx)(-)(Disk 1 of 2)-image.png</image>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Flair Software</developer>
+		<publisher>Flair Software</publisher>
+		<genre>Adventure</genre>
+		<md5>184314cdc790cca22726863b41fb00c3</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230302T190259" />
+	</game>
+	<game id="193569">
+		<path>./TOSEC/Games/[2D]/Timeparadox (19xx)(-)(Disk 2 of 2)/Timeparadox (19xx)(-)(Disk 2 of 2).2d</path>
+		<name>Time Paradox</name>
+		<desc>Time Paradox is a point 'n click adventure game in which the player gets to control a female character who travels back in time on a mission to see the magician, Merlin. Having been sent back to the times of Cavemen and Dinosaurs, Kingdoms and Knights, Time Paradox challenges you to find your way back to not just the present day, but to the future as well. Encounter helpful friends, meet devious foes, mix potions of magic, and even experience the supernatural in your quest to ride the time machine which controls your character's fate.</desc>
+		<image>./images/Timeparadox (19xx)(-)(Disk 2 of 2)-image.png</image>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Flair Software</developer>
+		<publisher>Flair Software</publisher>
+		<genre>Adventure</genre>
+		<md5>fa57ff854de3b741c4df94ea5b5d6e83</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230302T190302" />
+	</game>
+	<game id="193573">
+		<path>./TOSEC/Games/[2D]/Tokyo Nampa Street (19xx)(Enix)/Tokyo Nampa Street (19xx)(Enix).2d</path>
+		<name>Tokyo Nampa Street</name>
+		<image>./images/Tokyo Nampa Street (19xx)(Enix)-image.png</image>
+		<md5>45efe6a1d584bc3c662d8b24d604c650</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230302T190306" />
+	</game>
+	<game id="193565">
+		<path>./TOSEC/Games/[2D]/Tower of Druaga (19xx)(Namco)/Tower of Druaga (19xx)(Namco).2d</path>
+		<name>Tower Of Druaga, The</name>
+		<image>./images/Tower of Druaga (19xx)(Namco)-image.png</image>
+		<video>./videos/Tower of Druaga (19xx)(Namco)-video.mp4</video>
+		<marquee>./images/Tower of Druaga (19xx)(Namco)-marquee.png</marquee>
+		<thumbnail>./images/Tower of Druaga (19xx)(Namco)-thumb.png</thumbnail>
+		<boxback>./images/Tower of Druaga (19xx)(Namco)-boxback.png</boxback>
+		<md5>d63f1fc56b63e274afe917dbe1c621f6</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230302T190315" />
+	</game>
+	<game id="193596">
+		<path>./TOSEC/Games/[2D]/Wingman 2a (19xx)(-)(Disk 1 of 2)/Wingman 2a (19xx)(-)(Disk 1 of 2).2d</path>
+		<name>Wing Man 2</name>
+		<image>./images/Wingman 2a (19xx)(-)(Disk 1 of 2)-image.png</image>
+		<thumbnail>./images/Wingman 2a (19xx)(-)(Disk 1 of 2)-thumb.png</thumbnail>
+		<boxback>./images/Wingman 2a (19xx)(-)(Disk 1 of 2)-boxback.png</boxback>
+		<md5>ebfd43517fb62e08dd4b6af745267db4</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230302T190321" />
+	</game>
+	<game id="193596">
+		<path>./TOSEC/Games/[2D]/Wingman 2a (19xx)(-)(Disk 2 of 2)/Wingman 2a (19xx)(-)(Disk 2 of 2).2d</path>
+		<name>Wing Man 2</name>
+		<image>./images/Wingman 2a (19xx)(-)(Disk 2 of 2)-image.png</image>
+		<thumbnail>./images/Wingman 2a (19xx)(-)(Disk 2 of 2)-thumb.png</thumbnail>
+		<boxback>./images/Wingman 2a (19xx)(-)(Disk 2 of 2)-boxback.png</boxback>
+		<md5>27d190a7839d45c71ee2d00227866188</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230302T190326" />
+	</game>
+	<game id="193601">
+		<path>./TOSEC/Games/[2D]/Woody Poco (1986)(Db-Soft)/Woody Poco (1986)(Db-Soft).2d</path>
+		<name>Woody Poco</name>
+		<image>./images/Woody Poco (1986)(Db-Soft)-image.png</image>
+		<video>./videos/Woody Poco (1986)(Db-Soft)-video.mp4</video>
+		<marquee>./images/Woody Poco (1986)(Db-Soft)-marquee.png</marquee>
+		<md5>18e9bb35cee5de05027fc3005c4d9e54</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230302T190332" />
+	</game>
+	<game id="193625">
+		<path>./TOSEC/Games/[2D]/Zeta 5 (19xx)(Championsoft)(Disk 1 of 2)/Zeta 5 (19xx)(Championsoft)(Disk 1 of 2).2d</path>
+		<name>Zeta No. 5</name>
+		<image>./images/Zeta 5 (19xx)(Championsoft)(Disk 1 of 2)-image.png</image>
+		<md5>88f89256b464e2e951d578977eeb4b35</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230302T190335" />
+	</game>
+	<game id="193625">
+		<path>./TOSEC/Games/[2D]/Zeta 5 (19xx)(Championsoft)(Disk 2 of 2)/Zeta 5 (19xx)(Championsoft)(Disk 2 of 2).2d</path>
+		<name>Zeta No. 5</name>
+		<image>./images/Zeta 5 (19xx)(Championsoft)(Disk 2 of 2)-image.png</image>
+		<md5>79bd52d46c0404d08ad9e27abac42e81</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230302T190339" />
+	</game>
+	<game id="193619">
+		<path>./TOSEC/Games/[D88]/Ancient Ys Vanished Omen (1987)(Falcom)(Disk 1 of 2)/Ancient Ys Vanished Omen (1987)(Falcom)(Disk 1 of 2).d88</path>
+		<name>Ys</name>
+		<image>./images/Ancient Ys Vanished Omen (1987)(Falcom)(Disk 1 of 2)-image.png</image>
+		<md5>d57eacb4d3df8ae4514071907ef01cdb</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230302T190342" />
+	</game>
+	<game id="193619">
+		<path>./TOSEC/Games/[D88]/Ancient Ys Vanished Omen (1987)(Falcom)(Disk 2 of 2)/Ancient Ys Vanished Omen (1987)(Falcom)(Disk 2 of 2).d88</path>
+		<name>Ys</name>
+		<image>./images/Ancient Ys Vanished Omen (1987)(Falcom)(Disk 2 of 2)-image.png</image>
+		<md5>a4716c94d8d903f44c8d300305d30ddf</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230302T190345" />
+	</game>
+	<game id="193300">
+		<path>./TOSEC/Games/[D88]/Crimsin (1988)(Xtalsoft)(Disk 1 of 3)/Crimsin (1988)(Xtalsoft)(Disk 1 of 3).d88</path>
+		<name>Crimson</name>
+		<desc>Crimson is a medieval-themed role-playing game similar to Dragon Quest. The player controls a lone character, a young man whose father sent him on a mission to defeat the evil monster Crimson before passing away. Exploration is done in an overhead fashion, and is divided into world map and hostile areas, which are usually maze-like and contain one or more dungeons each. In towns the hero can buy weapons, armor, and items, as well as rest in inns.
+
+Enemies appear randomly, and the battles are turn-based. The player character can either attack, defend, or use an item. Combat is viewed from a first-person perspective. Unlike Dragon Quest, there are no random encounters on the world map. Exploration is non-linear, i.e. the player has access to many areas of the map from the beginning of the game.</desc>
+		<image>./images/Crimsin (1988)(Xtalsoft)(Disk 1 of 3)-image.png</image>
+		<fanart>./images/Crimsin (1988)(Xtalsoft)(Disk 1 of 3)-fanart.jpg</fanart>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Xtalsoft</developer>
+		<publisher>Xtalsoft</publisher>
+		<family>Crimson</family>
+		<players>1</players>
+		<md5>a11680c243322093792ba15d84d169e9</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230302T190350" />
+	</game>
+	<game id="193300">
+		<path>./TOSEC/Games/[D88]/Crimsin (1988)(Xtalsoft)(Disk 2 of 3)/Crimsin (1988)(Xtalsoft)(Disk 2 of 3).d88</path>
+		<name>Crimson</name>
+		<desc>Crimson is a medieval-themed role-playing game similar to Dragon Quest. The player controls a lone character, a young man whose father sent him on a mission to defeat the evil monster Crimson before passing away. Exploration is done in an overhead fashion, and is divided into world map and hostile areas, which are usually maze-like and contain one or more dungeons each. In towns the hero can buy weapons, armor, and items, as well as rest in inns.
+
+Enemies appear randomly, and the battles are turn-based. The player character can either attack, defend, or use an item. Combat is viewed from a first-person perspective. Unlike Dragon Quest, there are no random encounters on the world map. Exploration is non-linear, i.e. the player has access to many areas of the map from the beginning of the game.</desc>
+		<image>./images/Crimsin (1988)(Xtalsoft)(Disk 2 of 3)-image.png</image>
+		<fanart>./images/Crimsin (1988)(Xtalsoft)(Disk 2 of 3)-fanart.jpg</fanart>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Xtalsoft</developer>
+		<publisher>Xtalsoft</publisher>
+		<family>Crimson</family>
+		<players>1</players>
+		<md5>f3c166f06dffaadc1b9cdd6cd4d521c6</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230302T190355" />
+	</game>
+	<game id="193300">
+		<path>./TOSEC/Games/[D88]/Crimsin (1988)(Xtalsoft)(Disk 3 of 3)/Crimsin (1988)(Xtalsoft)(Disk 3 of 3).d88</path>
+		<name>Crimson</name>
+		<desc>Crimson is a medieval-themed role-playing game similar to Dragon Quest. The player controls a lone character, a young man whose father sent him on a mission to defeat the evil monster Crimson before passing away. Exploration is done in an overhead fashion, and is divided into world map and hostile areas, which are usually maze-like and contain one or more dungeons each. In towns the hero can buy weapons, armor, and items, as well as rest in inns.
+
+Enemies appear randomly, and the battles are turn-based. The player character can either attack, defend, or use an item. Combat is viewed from a first-person perspective. Unlike Dragon Quest, there are no random encounters on the world map. Exploration is non-linear, i.e. the player has access to many areas of the map from the beginning of the game.</desc>
+		<image>./images/Crimsin (1988)(Xtalsoft)(Disk 3 of 3)-image.png</image>
+		<fanart>./images/Crimsin (1988)(Xtalsoft)(Disk 3 of 3)-fanart.jpg</fanart>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Xtalsoft</developer>
+		<publisher>Xtalsoft</publisher>
+		<family>Crimson</family>
+		<players>1</players>
+		<md5>45cd72ef4fff64d59c396fefdc71a357</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230302T190359" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[D88]/Cross Chase (2020-04-02)(Caruso, Fabrizio)/Cross Chase (2020-04-02)(Caruso, Fabrizio).d88</path>
+		<name>Cross Chase (2020-04-02)(Caruso, Fabrizio)</name>
+		<md5>49892d9c1ae83d5da24ce2bc676b8dab</md5>
+		<scrap name="ScreenScraper" date="20230302T190401" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[D88]/Cross Chase (2021-05-13)(Caruso, Fabrizio)/Cross Chase (2021-05-13)(Caruso, Fabrizio).d88</path>
+		<name>Cross Chase (2021-05-13)(Caruso, Fabrizio)</name>
+		<md5>b435a18250d1996c6d6cb030c3ce4574</md5>
+		<scrap name="ScreenScraper" date="20230302T190402" />
+	</game>
+	<game id="193330">
+		<path>./TOSEC/Games/[D88]/Euphory (19xx)(Samcon Systems)/Euphory (19xx)(Samcon Systems).d88</path>
+		<name>Euphory</name>
+		<desc>Euphory is a medieval-themed action game with light role-playing elements. The protagonists of the game are the brother and sister Rafael and Falram. Their mother became gravely ill, and they have to travel to her homeland in order to find the rare medicine. The game can be played controlling either of the characters, or in a two-player mode where both are controlled cooperatively.
+
+The game world consists of towns, where the player characters can buy weapons and equipment, and hostile areas. There is no experience points system, but defeated enemies award the player gold and healing items. Some areas also require the protagonist to jump and swim.</desc>
+		<image>./images/Euphory (19xx)(Samcon Systems)-image.png</image>
+		<thumbnail>./images/Euphory (19xx)(Samcon Systems)-thumb.png</thumbnail>
+		<boxback>./images/Euphory (19xx)(Samcon Systems)-boxback.png</boxback>
+		<developer>System Sacom</developer>
+		<publisher>System Sacom</publisher>
+		<genre>Action</genre>
+		<md5>159ac3363f23f62afa8711f6a38e7e3d</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230302T190409" />
+	</game>
+	<game id="193348">
+		<path>./TOSEC/Games/[D88]/Gall Force - Eternal Story (19xx)(-)(Disk 1 of 3)/Gall Force - Eternal Story (19xx)(-)(Disk 1 of 3).d88</path>
+		<name>Gall Force</name>
+		<desc>A graphical adventure game based off the Gall Force anime franchise published and developed by ScapTrust in 1987 in Japan. It was created under a project called "Session 61". "Gall Force" is an army of seven girls whose mission is to reach the satellite chaos and protect it from the amorphous creature paranoid.</desc>
+		<image>./images/Gall Force - Eternal Story (19xx)(-)(Disk 1 of 3)-image.png</image>
+		<marquee>./images/Gall Force - Eternal Story (19xx)(-)(Disk 1 of 3)-marquee.png</marquee>
+		<thumbnail>./images/Gall Force - Eternal Story (19xx)(-)(Disk 1 of 3)-thumb.png</thumbnail>
+		<fanart>./images/Gall Force - Eternal Story (19xx)(-)(Disk 1 of 3)-fanart.jpg</fanart>
+		<boxback>./images/Gall Force - Eternal Story (19xx)(-)(Disk 1 of 3)-boxback.png</boxback>
+		<genre>Adventure / Graphics</genre>
+		<family>Gall Force</family>
+		<md5>c8d607b1dcf531d2d9acb59750dee46c</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230302T190418" />
+	</game>
+	<game id="193348">
+		<path>./TOSEC/Games/[D88]/Gall Force - Eternal Story (19xx)(-)(Disk 2 of 3)/Gall Force - Eternal Story (19xx)(-)(Disk 2 of 3).d88</path>
+		<name>Gall Force</name>
+		<desc>A graphical adventure game based off the Gall Force anime franchise published and developed by ScapTrust in 1987 in Japan. It was created under a project called "Session 61". "Gall Force" is an army of seven girls whose mission is to reach the satellite chaos and protect it from the amorphous creature paranoid.</desc>
+		<image>./images/Gall Force - Eternal Story (19xx)(-)(Disk 2 of 3)-image.png</image>
+		<marquee>./images/Gall Force - Eternal Story (19xx)(-)(Disk 2 of 3)-marquee.png</marquee>
+		<thumbnail>./images/Gall Force - Eternal Story (19xx)(-)(Disk 2 of 3)-thumb.png</thumbnail>
+		<fanart>./images/Gall Force - Eternal Story (19xx)(-)(Disk 2 of 3)-fanart.jpg</fanart>
+		<boxback>./images/Gall Force - Eternal Story (19xx)(-)(Disk 2 of 3)-boxback.png</boxback>
+		<genre>Adventure / Graphics</genre>
+		<family>Gall Force</family>
+		<md5>2ea20ebac486ad40471b07c1d831f3c8</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230302T190428" />
+	</game>
+	<game id="193348">
+		<path>./TOSEC/Games/[D88]/Gall Force - Eternal Story (19xx)(-)(Disk 3 of 3)/Gall Force - Eternal Story (19xx)(-)(Disk 3 of 3).d88</path>
+		<name>Gall Force</name>
+		<desc>A graphical adventure game based off the Gall Force anime franchise published and developed by ScapTrust in 1987 in Japan. It was created under a project called "Session 61". "Gall Force" is an army of seven girls whose mission is to reach the satellite chaos and protect it from the amorphous creature paranoid.</desc>
+		<image>./images/Gall Force - Eternal Story (19xx)(-)(Disk 3 of 3)-image.png</image>
+		<marquee>./images/Gall Force - Eternal Story (19xx)(-)(Disk 3 of 3)-marquee.png</marquee>
+		<thumbnail>./images/Gall Force - Eternal Story (19xx)(-)(Disk 3 of 3)-thumb.png</thumbnail>
+		<fanart>./images/Gall Force - Eternal Story (19xx)(-)(Disk 3 of 3)-fanart.jpg</fanart>
+		<boxback>./images/Gall Force - Eternal Story (19xx)(-)(Disk 3 of 3)-boxback.png</boxback>
+		<genre>Adventure / Graphics</genre>
+		<family>Gall Force</family>
+		<md5>d21769245e0a0577706bf616f780f5c2</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230302T190437" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[D88]/Hydlide 3 - The Space Memories (19xx)(-)(Disk 1 of 4)/Hydlide 3 - The Space Memories (19xx)(-)(Disk 1 of 4).d88</path>
+		<name>Hydlide 3 - The Space Memories (19xx)(-)(Disk 1 of 4)</name>
+		<md5>2977a83d205b1b1005805cbf64b714c3</md5>
+		<scrap name="ScreenScraper" date="20230302T190439" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[D88]/Hydlide 3 - The Space Memories (19xx)(-)(Disk 2 of 4)/Hydlide 3 - The Space Memories (19xx)(-)(Disk 2 of 4).d88</path>
+		<name>Hydlide 3 - The Space Memories (19xx)(-)(Disk 2 of 4)</name>
+		<md5>59b1ef46255808c262fcd5792b90b6dd</md5>
+		<scrap name="ScreenScraper" date="20230302T190440" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[D88]/Hydlide 3 - The Space Memories (19xx)(-)(Disk 3 of 4)/Hydlide 3 - The Space Memories (19xx)(-)(Disk 3 of 4).d88</path>
+		<name>Hydlide 3 - The Space Memories (19xx)(-)(Disk 3 of 4)</name>
+		<md5>32ae1a7675cc0fa74857a96a5c5c193d</md5>
+		<scrap name="ScreenScraper" date="20230302T190442" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[D88]/Hydlide 3 - The Space Memories (19xx)(-)(Disk 4 of 4)/Hydlide 3 - The Space Memories (19xx)(-)(Disk 4 of 4).d88</path>
+		<name>Hydlide 3 - The Space Memories (19xx)(-)(Disk 4 of 4)</name>
+		<md5>5b123cb83c37e149b528d46ef5df0ffd</md5>
+		<scrap name="ScreenScraper" date="20230302T190443" />
+	</game>
+	<game id="251165">
+		<path>./TOSEC/Games/[D88]/In The World of Relics (19xx)(-)(Disk 1 of 2)/In The World of Relics (19xx)(-)(Disk 1 of 2).d88</path>
+		<name>In The World of Relics</name>
+		<md5>57ebbf76a42b8c323e06179d7328096f</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230302T190445" />
+	</game>
+	<game id="251165">
+		<path>./TOSEC/Games/[D88]/In The World of Relics (19xx)(-)(Disk 2 of 2)/In The World of Relics (19xx)(-)(Disk 2 of 2).d88</path>
+		<name>In The World of Relics</name>
+		<md5>2dcbfbe890005950d199bc2c10981161</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230302T190446" />
+	</game>
+	<game id="193388">
+		<path>./TOSEC/Games/[D88]/Irohamioedo (19xx)(-)(Disk 1 of 2)/Irohamioedo (19xx)(-)(Disk 1 of 2).d88</path>
+		<name>Irowanioedo</name>
+		<md5>ee1b1dcd34155c60134dd8e68d733e92</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230302T190448" />
+	</game>
+	<game id="193388">
+		<path>./TOSEC/Games/[D88]/Irohamioedo (19xx)(-)(Disk 2 of 2)/Irohamioedo (19xx)(-)(Disk 2 of 2).d88</path>
+		<name>Irowanioedo</name>
+		<md5>a6564aae26ce12b9bd13a96930a561b4</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230302T190449" />
+	</game>
+	<game id="193418">
+		<path>./TOSEC/Games/[D88]/Lode Runner (1984)(Broderbund)/Lode Runner (1984)(Broderbund).d88</path>
+		<name>Lode Runner</name>
+		<desc>The Bungeling Empire has stolen a huge cache of gold from its rightful owners, and your mission is to infiltrate its treasury and recapture it. This entails progressing through 150 screens of platforms, ladders and ropes.
+
+The Empire has sent robotic guards down to protect the gold, and contact with any of these will cost you a life. Your method of escaping them is to press fire to dig a hole in their line of movement, thus causing them to fall in briefly, allowing you to move across the gap safely. Once all the gold has been collected, a ladder allowing you to move onto the next screen is added. Completing these screens often requires forward planning and precision.
+
+This was one of the earliest games to include a level editor, allowing the creation of new level designs with no programming skill.</desc>
+		<image>./images/Lode Runner (1984)(Broderbund)-image.png</image>
+		<video>./videos/Lode Runner (1984)(Broderbund)-video.mp4</video>
+		<thumbnail>./images/Lode Runner (1984)(Broderbund)-thumb.png</thumbnail>
+		<boxback>./images/Lode Runner (1984)(Broderbund)-boxback.png</boxback>
+		<releasedate>19840101T000000</releasedate>
+		<publisher>Soft Pro International</publisher>
+		<genre>Action</genre>
+		<md5>b2e07b9808fc49dfeaab4619d35a5440</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230302T190457" />
+	</game>
+	<game id="193485">
+		<path>./TOSEC/Games/[D88]/Reviver (19xx)(Arsys)(Disk 1 of 3)/Reviver (19xx)(Arsys)(Disk 1 of 3).d88</path>
+		<name>Reviver</name>
+		<image>./images/Reviver (19xx)(Arsys)(Disk 1 of 3)-image.png</image>
+		<marquee>./images/Reviver (19xx)(Arsys)(Disk 1 of 3)-marquee.png</marquee>
+		<thumbnail>./images/Reviver (19xx)(Arsys)(Disk 1 of 3)-thumb.png</thumbnail>
+		<boxback>./images/Reviver (19xx)(Arsys)(Disk 1 of 3)-boxback.png</boxback>
+		<md5>f84a5e2ad3370ed513ec94336e22d83f</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230302T190504" />
+	</game>
+	<game id="193485">
+		<path>./TOSEC/Games/[D88]/Reviver (19xx)(Arsys)(Disk 2 of 3)/Reviver (19xx)(Arsys)(Disk 2 of 3).d88</path>
+		<name>Reviver</name>
+		<image>./images/Reviver (19xx)(Arsys)(Disk 2 of 3)-image.png</image>
+		<marquee>./images/Reviver (19xx)(Arsys)(Disk 2 of 3)-marquee.png</marquee>
+		<thumbnail>./images/Reviver (19xx)(Arsys)(Disk 2 of 3)-thumb.png</thumbnail>
+		<boxback>./images/Reviver (19xx)(Arsys)(Disk 2 of 3)-boxback.png</boxback>
+		<md5>6c44ec7e82763bf715d56991322b225f</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230302T190512" />
+	</game>
+	<game id="193485">
+		<path>./TOSEC/Games/[D88]/Reviver (19xx)(Arsys)(Disk 3 of 3)(Data Disk)/Reviver (19xx)(Arsys)(Disk 3 of 3)(Data Disk).d88</path>
+		<name>Reviver</name>
+		<image>./images/Reviver (19xx)(Arsys)(Disk 3 of 3)(Data Disk)-image.png</image>
+		<marquee>./images/Reviver (19xx)(Arsys)(Disk 3 of 3)(Data Disk)-marquee.png</marquee>
+		<thumbnail>./images/Reviver (19xx)(Arsys)(Disk 3 of 3)(Data Disk)-thumb.png</thumbnail>
+		<boxback>./images/Reviver (19xx)(Arsys)(Disk 3 of 3)(Data Disk)-boxback.png</boxback>
+		<md5>7e7336d1b9837183727942e21a257133</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230302T190520" />
+	</game>
+	<game id="193488">
+		<path>./TOSEC/Games/[D88]/Riglas (1985)(Random House)/Riglas (1985)(Random House).d88</path>
+		<name>Riglas</name>
+		<desc>The continent of Riglas is inhabited by two races: Miria and Galt. For years they have been fighting each other for dominance. Caught in the struggle between the two is the nearly forgotten Osborn race, discriminated and enslaved. Mei is a young man belonging to that races, who leaves his home village in order to free his people.
+
+Riglas is an action role-playing game. The game is set in a vast seamless world that consists of interconnected yet varied urban, wilderness, and dungeon-like locations. The principal view is third-person with a side-scrolling flavor, similar to Western adventure games of the time. The player is free to explore most of the locations from the onset.
+
+The game world is populated by many different types of friendly and hostile characters. Killing hostile characters increases the player's score and eventually makes the main character stronger. Killing friendly NPCs, on the other hand, may lower the score. Combat system is simple and involves approaching a character and pressing the attack button, which results in the protagonist swinging the sword.</desc>
+		<image>./images/Riglas (1985)(Random House)-image.png</image>
+		<video>./videos/Riglas (1985)(Random House)-video.mp4</video>
+		<marquee>./images/Riglas (1985)(Random House)-marquee.png</marquee>
+		<thumbnail>./images/Riglas (1985)(Random House)-thumb.png</thumbnail>
+		<boxback>./images/Riglas (1985)(Random House)-boxback.png</boxback>
+		<developer>Random House Co., Ltd.</developer>
+		<publisher>Random House Co., Ltd.</publisher>
+		<genre>Action</genre>
+		<md5>2c7c9c0b26e947e7514d4eb63c2ce5e2</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230302T190530" />
+	</game>
+	<game id="193527">
+		<path>./TOSEC/Games/[D88]/Spare Change (1983)(Soft Pro International)/Spare Change (1983)(Soft Pro International).d88</path>
+		<name>Spare Change</name>
+		<desc>In Spare Change, you are the owner and operator of the Spare Change Arcade, dedicated to making your place of business run as smoothly as possible. Inside the arcade are Token machines, jukeboxes, telephones, movie booths, popcorn machines, and so on. The token machines need to be restocked with money from the cash register when they are out of tokens, but eventually, the register must be replenished with cash from the safe. You must drop the tokens in one of your two storage bins. When you have stored at least ten tokens, the movie booth opens, and you can go inside to proceed to the next level. You are also awarded one bag of money, but if you store more than ten tokens, then more than one bag of money is awarded for each extra token collected. If nine bags of money are obtained, you proceed to the next level.
+
+But the Zerks, two aliens that run around the screen, can steal tokens either from the machines or from the storage bins. Sometimes, a Zerk will toss a token to the other nearest the "piggy bank". You must touch them in order to get the token back, before they throw it in their piggy bank.  Alternatively, you can throw a token into the jukebox, telephone, popcorn machine, etc. and the Zerks will get distracted from their goal, giving you enough time to continue filling the storage bins. If the Zerks insert five tokens in the piggy bank, the game is over.
+
+Between levels, an intermission plays, which are similar to those in Pac-Man. Later in the game, you have the ability to access these intermissions. As you proceed through the levels, the game gets quite difficult.</desc>
+		<image>./images/Spare Change (1983)(Soft Pro International)-image.png</image>
+		<video>./videos/Spare Change (1983)(Soft Pro International)-video.mp4</video>
+		<marquee>./images/Spare Change (1983)(Soft Pro International)-marquee.png</marquee>
+		<thumbnail>./images/Spare Change (1983)(Soft Pro International)-thumb.png</thumbnail>
+		<boxback>./images/Spare Change (1983)(Soft Pro International)-boxback.png</boxback>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Brøderbund Software</developer>
+		<publisher>Soft Pro International</publisher>
+		<genre>Action</genre>
+		<md5>56c6f6bfe0c452976b2b4cf06f4fd15f</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230302T190539" />
+	</game>
+	<game id="193540">
+		<path>./TOSEC/Games/[D88]/Super Laydock - Mission Striker (19xx)(T&amp;E Soft)(Disk 1 of 2)/Super Laydock - Mission Striker (19xx)(T&amp;E Soft)(Disk 1 of 2).d88</path>
+		<name>Super Laydock</name>
+		<desc>A vertical shoot 'em up game in the Laydock series. It can be played by two players though a single player game is also a possibility. If played by two players they can cooperate by docking the jets together, docked side-by-side or end-to-end for greater fire and fighting power. When docked one player is the pilot and the other is the weapons officer.</desc>
+		<image>./images/Super Laydock - Mission Striker (19xx)(T&amp;E Soft)(Disk 1 of 2)-image.png</image>
+		<video>./videos/Super Laydock - Mission Striker (19xx)(T&amp;E Soft)(Disk 1 of 2)-video.mp4</video>
+		<marquee>./images/Super Laydock - Mission Striker (19xx)(T&amp;E Soft)(Disk 1 of 2)-marquee.png</marquee>
+		<thumbnail>./images/Super Laydock - Mission Striker (19xx)(T&amp;E Soft)(Disk 1 of 2)-thumb.png</thumbnail>
+		<boxback>./images/Super Laydock - Mission Striker (19xx)(T&amp;E Soft)(Disk 1 of 2)-boxback.png</boxback>
+		<releasedate>19870718T000000</releasedate>
+		<developer>T&amp;E Soft</developer>
+		<publisher>T&amp;E Soft</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<players>1-2</players>
+		<md5>3e359720de09646d2e72fbbe2977ad6d</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230302T190549" />
+	</game>
+	<game id="193540">
+		<path>./TOSEC/Games/[D88]/Super Laydock - Mission Striker (19xx)(T&amp;E Soft)(Disk 2 of 2)/Super Laydock - Mission Striker (19xx)(T&amp;E Soft)(Disk 2 of 2).d88</path>
+		<name>Super Laydock</name>
+		<desc>A vertical shoot 'em up game in the Laydock series. It can be played by two players though a single player game is also a possibility. If played by two players they can cooperate by docking the jets together, docked side-by-side or end-to-end for greater fire and fighting power. When docked one player is the pilot and the other is the weapons officer.</desc>
+		<image>./images/Super Laydock - Mission Striker (19xx)(T&amp;E Soft)(Disk 2 of 2)-image.png</image>
+		<video>./videos/Super Laydock - Mission Striker (19xx)(T&amp;E Soft)(Disk 2 of 2)-video.mp4</video>
+		<marquee>./images/Super Laydock - Mission Striker (19xx)(T&amp;E Soft)(Disk 2 of 2)-marquee.png</marquee>
+		<thumbnail>./images/Super Laydock - Mission Striker (19xx)(T&amp;E Soft)(Disk 2 of 2)-thumb.png</thumbnail>
+		<boxback>./images/Super Laydock - Mission Striker (19xx)(T&amp;E Soft)(Disk 2 of 2)-boxback.png</boxback>
+		<releasedate>19870718T000000</releasedate>
+		<developer>T&amp;E Soft</developer>
+		<publisher>T&amp;E Soft</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<players>1-2</players>
+		<md5>ac3b827c42a22baf20e8a63312c8c27a</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230302T190558" />
+	</game>
+	<game id="193613">
+		<path>./TOSEC/Games/[D88]/Xevious (19xx)(Namco)/Xevious (19xx)(Namco).d88</path>
+		<name>Xevious</name>
+		<desc>A hundred thousand years ago, an ancient civilization prospered on our Earth, their product being GAMP (General Artificial Matrix Producer). In order to survive the Ice Age, most of the Earth's inhabitants have decided to leave it, finally settling on a planet called Xevious. A group of humans remained, becoming our own ancestors. Many years have passed, and the Xevians are now planning a massive comeback to their long-lost homeland. The pilot Mu, his android companion Eve, and Mio, a Xevian who opposes the GAMP regime, are back from a space travel just in time to warn the Earth of the upcoming invasion. The prototype fighter craft Solvalou is going to be used as the main weapon against the Xevian attack.
+
+Xevious is a vertically-scrolling shooter which is notable for being the first game of that type to feature an aircraft flying over the Earth (as opposed to the outer space in other games), displaying views of South American nature. It also introduced, for the first time, two types of enemies to fight: aerial and ground-based (the menacing SOL towers invoked by GAMP to aid their planes). The player-controlled ship, Solvalou, is equipped with two weapons, each assigned to a button: the Zapper for air enemies, and the Blaster, which drops bombs on ground targets with the aid of a lock-on. The aerial enemies are divided into sub-categories distinguished by their attack and behavior patterns. Certain enemy types are immune to Solvalou's weapons, and must be avoided.</desc>
+		<image>./images/Xevious (19xx)(Namco)-image.png</image>
+		<video>./videos/Xevious (19xx)(Namco)-video.mp4</video>
+		<marquee>./images/Xevious (19xx)(Namco)-marquee.png</marquee>
+		<thumbnail>./images/Xevious (19xx)(Namco)-thumb.png</thumbnail>
+		<boxback>./images/Xevious (19xx)(Namco)-boxback.png</boxback>
+		<developer>Namco</developer>
+		<publisher>Dempa Shimbunsha</publisher>
+		<genre>Action</genre>
+		<md5>d9319db3966c56a7f18f5cb7e8e4fbe3</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230302T190608" />
+	</game>
+</gameList>

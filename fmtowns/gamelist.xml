@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./TOSEC/Games/[D88]/ZZZ-UNK-TG_DISKA (19xx)(-)/ZZZ-UNK-TG_DISKA (19xx)(-).d88</path>
+		<name>ZZZ-UNK-TG_DISKA (19xx)(-)</name>
+		<crc32>71C63492</crc32>
+		<md5>98412e04bfd8c573152ca0f189dda470</md5>
+		<scrap name="ScreenScraper" date="20230217T195622" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[D88]/ZZZ-UNK-TG_DISKB (19xx)(-)/ZZZ-UNK-TG_DISKB (19xx)(-).d88</path>
+		<name>ZZZ-UNK-TG_DISKB (19xx)(-)</name>
+		<crc32>1E979E38</crc32>
+		<md5>ba7de5c8bfc4ac0820cbc4baa443aa69</md5>
+		<scrap name="ScreenScraper" date="20230217T195624" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[D88]/ZZZ-UNK-TG_DISKC (19xx)(-)/ZZZ-UNK-TG_DISKC (19xx)(-).d88</path>
+		<name>ZZZ-UNK-TG_DISKC (19xx)(-)</name>
+		<crc32>B3D7FDD8</crc32>
+		<md5>1fa1384ced53528706f11810b6fb60ba</md5>
+		<scrap name="ScreenScraper" date="20230217T195626" />
+	</game>
+</gameList>
