@@ -1789,4 +1789,64 @@ Stage two is a space shoot out against hordes of enemy aircraft - those you fail
 		<md5>030c83022dcac022fd331eab4978edd6</md5>
 		<scrap name="ScreenScraper" date="20230227T235510" />
 	</game>
+	<game>
+		<path>./TOSEC/Games/[DSK]/Androne (1983)(Tandy)[26-3096]/Androne (1983)(Tandy)[26-3096].dsk</path>
+		<name>Androne (1983)(Tandy)[26-3096]</name>
+		<image>./images/Androne (1983)(Tandy)[26-3096]-image.jpg</image>
+	</game>
+	<game>
+		<path>./TOSEC/Games/[DSK]/Arkanoid (1987)(Tandy)[26-3043]/Arkanoid (1987)(Tandy)[26-3043].dsk</path>
+		<name>Arkanoid (1987)(Tandy)[26-3043]</name>
+		<image>./images/Arkanoid (1987)(Tandy)[26-3043]-image.png</image>
+	</game>
+	<game>
+		<path>./TOSEC/Games/[DSK]/Atom (1983)(Tandy)[26-3149]/Atom (1983)(Tandy)[26-3149].dsk</path>
+		<name>Atom (1983)(Tandy)[26-3149]</name>
+		<image>./images/Atom (1983)(Tandy)[26-3149]-image.png</image>
+	</game>
+	<game>
+		<path>./TOSEC/Games/[DSK]/Bridge Tutor I (1983)(Tandy)[26-3158]/Bridge Tutor I (1983)(Tandy)[26-3158].dsk</path>
+		<name>Bridge Tutor I (1983)(Tandy)[26-3158]</name>
+		<image>./images/Bridge Tutor I (1983)(Tandy)[26-3158]-image.jpg</image>
+	</game>
+	<game>
+		<path>./TOSEC/Games/[DSK]/Canyon Climber (1982)(Tandy)[26-3089]/Canyon Climber (1982)(Tandy)[26-3089].dsk</path>
+		<name>Canyon Climber (1982)(Tandy)[26-3089]</name>
+		<image>./images/Canyon Climber (1982)(Tandy)[26-3089]-image.jpg</image>
+	</game>
+	<game>
+		<path>./TOSEC/Games/[DSK]/Castle Guard (1982)(Tandy)[26-3079]/Castle Guard (1982)(Tandy)[26-3079].dsk</path>
+		<name>Castle Guard (1982)(Tandy)[26-3079]</name>
+		<image>./images/Castle Guard (1982)(Tandy)[26-3079]-image.jpg</image>
+	</game>
+	<game>
+		<path>./TOSEC/Games/[DSK]/Checker King (1980)(Tandy)[26-3055]/Checker King (1980)(Tandy)[26-3055].dsk</path>
+		<name>Checker King (1980)(Tandy)[26-3055]</name>
+		<image>./images/Checker King (1980)(Tandy)[26-3055]-image.jpg</image>
+	</game>
+	<game>
+		<path>./TOSEC/Games/[DSK]/Dragonfire (1982)(Tandy)[26-3098]/Dragonfire (1982)(Tandy)[26-3098].dsk</path>
+		<name>Dragonfire (1982)(Tandy)[26-3098]</name>
+		<image>./images/Dragonfire (1982)(Tandy)[26-3098]-image.png</image>
+	</game>
+	<game>
+		<path>./TOSEC/Games/[DSK]/Football (1980)(Tandy)[26-3053]/Football (1980)(Tandy)[26-3053].dsk</path>
+		<name>Football (1980)(Tandy)[26-3053]</name>
+		<image>./images/Football (1980)(Tandy)[26-3053]-image.png</image>
+	</game>
+	<game>
+		<path>./TOSEC/Games/[DSK]/Pinball (1980)(Tandy)[26-3052]/Pinball (1980)(Tandy)[26-3052].dsk</path>
+		<name>Pinball (1980)(Tandy)[26-3052]</name>
+		<image>./images/Pinball (1980)(Tandy)[26-3052]-image.png</image>
+	</game>
+	<game>
+		<path>./TOSEC/Games/[DSK]/Polaris (1981)(Tandy)[26-3065]/Polaris (1981)(Tandy)[26-3065].dsk</path>
+		<name>Polaris (1981)(Tandy)[26-3065]</name>
+		<image>./images/Polaris (1981)(Tandy)[26-3065]-image.png</image>
+	</game>
+	<game>
+		<path>./TOSEC/Games/[DSK]/Zaxxon (1983)(Tandy)[26-3062]/Zaxxon (1983)(Tandy)[26-3062].dsk</path>
+		<name>Zaxxon (1983)(Tandy)[26-3062]</name>
+		<image>./images/Zaxxon (1983)(Tandy)[26-3062]-image.png</image>
+	</game>
 </gameList>

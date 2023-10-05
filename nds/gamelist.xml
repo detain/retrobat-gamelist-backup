@@ -6441,8 +6441,8 @@ While the game is much like the others with the obvious differences such as grap
 	<game>
 		<path>./No-Intro/100 Classic Books - Alice's Adventures in Wonderland (USA) (Demo) (DS Broadcast).nds</path>
 		<name>100 Classic Books - Alice's Adventures in Wonderland</name>
-		<rating></rating>
-		<releasedate></releasedate>
+		<rating />
+		<releasedate />
 		<crc32>99ECA1E7</crc32>
 		<md5>23e725f63270948c9be773dbf1bdfc4c</md5>
 		<lang>en</lang>
@@ -6453,8 +6453,8 @@ While the game is much like the others with the obvious differences such as grap
 	<game>
 		<path>./No-Intro/100 Classic Books - The Man Who Would Be King (USA) (Demo) (DS Broadcast).nds</path>
 		<name>100 Classic Books - The Man Who Would Be King</name>
-		<rating></rating>
-		<releasedate></releasedate>
+		<rating />
+		<releasedate />
 		<crc32>556894FD</crc32>
 		<md5>44f53babf75a1d4654802e74c5250a6d</md5>
 		<lang>en</lang>
@@ -6465,8 +6465,8 @@ While the game is much like the others with the obvious differences such as grap
 	<game>
 		<path>./No-Intro/100 Classic Books - The Strange Case of Dr. Jekyll and Mr. Hyde (USA) (Demo) (DS Broadcast).nds</path>
 		<name>100 Classic Books - The Strange Case of Dr. Jekyll and Mr. Hyde</name>
-		<rating></rating>
-		<releasedate></releasedate>
+		<rating />
+		<releasedate />
 		<crc32>0176810A</crc32>
 		<md5>ec33e57fb4f9559e600dca337dea166d</md5>
 		<lang>en</lang>
@@ -6483,7 +6483,7 @@ While the game is much like the others with the obvious differences such as grap
 		<marquee>./media/marquees/America's Test Kitchen - Let's Get Cooking - Single Recipe Download Version (USA) (DS Broadcast).png</marquee>
 		<thumbnail>./images/America's Test Kitchen - Let's Get Cooking - Single Recipe Download Version (USA) (DS Broadcast)-thumb.png</thumbnail>
 		<boxback>./images/America's Test Kitchen - Let's Get Cooking - Single Recipe Download Version (USA) (DS Broadcast)-boxback.png</boxback>
-		<rating></rating>
+		<rating />
 		<developer>Touch Generations</developer>
 		<crc32>F04E6306</crc32>
 		<md5>ea8d7ceb9bd18f519c0f39cfa5db5b2a</md5>
@@ -6495,7 +6495,7 @@ While the game is much like the others with the obvious differences such as grap
 	<game id="255359">
 		<path>./No-Intro/Animal Crossing - City Folk - Moving Van (USA) (Wii Broadcast).nds</path>
 		<name>Animal Crossing - City Folk - Moving Van</name>
-		<rating></rating>
+		<rating />
 		<crc32>71F970C7</crc32>
 		<md5>60814a549e65be35a77c1ece1d13c223</md5>
 		<lang>en</lang>
@@ -6506,7 +6506,7 @@ While the game is much like the others with the obvious differences such as grap
 	<game id="255359">
 		<path>./No-Intro/Animal Crossing - City Folk - Suitcase (USA) (Wii Broadcast).nds</path>
 		<name>Animal Crossing - City Folk - Moving Van</name>
-		<rating></rating>
+		<rating />
 		<crc32>38F92330</crc32>
 		<md5>72bad364aebf2884f9aa46f02c6e1437</md5>
 		<lang>en</lang>
@@ -6627,7 +6627,7 @@ Features
 		<marquee>./media/marquees/Brain Age 2 - More Training in Minutes a Day! (USA) (Demo) (DS Broadcast).png</marquee>
 		<thumbnail>./images/Brain Age 2 - More Training in Minutes a Day! (USA) (Demo) (DS Broadcast)-thumb.png</thumbnail>
 		<boxback>./images/Brain Age 2 - More Training in Minutes a Day! (USA) (Demo) (DS Broadcast)-boxback.png</boxback>
-		<rating></rating>
+		<rating />
 		<developer>Nintendo</developer>
 		<publisher>Nintendo</publisher>
 		<players>1</players>
@@ -6647,7 +6647,7 @@ Features
 		<marquee>./media/marquees/Brain Age 2 - More Training in Minutes a Day! (USA) (Es) (Demo) (DS Broadcast).png</marquee>
 		<thumbnail>./images/Brain Age 2 - More Training in Minutes a Day! (USA) (Es) (Demo) (DS Broadcast)-thumb.png</thumbnail>
 		<boxback>./images/Brain Age 2 - More Training in Minutes a Day! (USA) (Es) (Demo) (DS Broadcast)-boxback.png</boxback>
-		<rating></rating>
+		<rating />
 		<developer>Nintendo</developer>
 		<publisher>Nintendo</publisher>
 		<players>1</players>
@@ -6667,7 +6667,7 @@ Features
 		<marquee>./media/marquees/Brain Age 2 - More Training in Minutes a Day! (USA) (Fr) (Demo) (DS Broadcast).png</marquee>
 		<thumbnail>./images/Brain Age 2 - More Training in Minutes a Day! (USA) (Fr) (Demo) (DS Broadcast)-thumb.png</thumbnail>
 		<boxback>./images/Brain Age 2 - More Training in Minutes a Day! (USA) (Fr) (Demo) (DS Broadcast)-boxback.png</boxback>
-		<rating></rating>
+		<rating />
 		<developer>Nintendo</developer>
 		<publisher>Nintendo</publisher>
 		<players>1</players>
@@ -6681,8 +6681,8 @@ Features
 	<game>
 		<path>./No-Intro/Brain Age 2 - More Training in Minutes a Day! - Vs. Training (USA) (DS Broadcast).nds</path>
 		<name>Brain Age 2 - More Training in Minutes a Day! - Vs. Training</name>
-		<rating></rating>
-		<releasedate></releasedate>
+		<rating />
+		<releasedate />
 		<crc32>080AA826</crc32>
 		<md5>afb29e2d6125621c0a4da8c67ba4ba1f</md5>
 		<lang>en</lang>
@@ -6693,8 +6693,8 @@ Features
 	<game>
 		<path>./No-Intro/Cake Mania 2 (USA) (Demo) (DS Download Station).nds</path>
 		<name>Cake Mania 2</name>
-		<rating></rating>
-		<releasedate></releasedate>
+		<rating />
+		<releasedate />
 		<crc32>49D06433</crc32>
 		<md5>aba2484711a6f6493e7d86acc5140daa</md5>
 		<lang>en</lang>
@@ -6711,7 +6711,7 @@ Features
 		<marquee>./media/marquees/Camping Mama - Outdoor Adventures - Barbecue (USA) (Demo) (DS Broadcast).png</marquee>
 		<thumbnail>./images/Camping Mama - Outdoor Adventures - Barbecue (USA) (Demo) (DS Broadcast)-thumb.png</thumbnail>
 		<boxback>./images/Camping Mama - Outdoor Adventures - Barbecue (USA) (Demo) (DS Broadcast)-boxback.png</boxback>
-		<rating></rating>
+		<rating />
 		<developer>Racjin</developer>
 		<publisher>Majesco</publisher>
 		<crc32>6A362043</crc32>
@@ -6730,7 +6730,7 @@ Features
 		<marquee>./media/marquees/Camping Mama - Outdoor Adventures - Fishing (USA) (Demo) (DS Broadcast).png</marquee>
 		<thumbnail>./images/Camping Mama - Outdoor Adventures - Fishing (USA) (Demo) (DS Broadcast)-thumb.png</thumbnail>
 		<boxback>./images/Camping Mama - Outdoor Adventures - Fishing (USA) (Demo) (DS Broadcast)-boxback.png</boxback>
-		<rating></rating>
+		<rating />
 		<developer>Racjin</developer>
 		<publisher>Majesco</publisher>
 		<crc32>74FE7D71</crc32>
@@ -6956,7 +6956,7 @@ Everyone's favorite Mama returns for a second helping, but this time her finicky
 	<game id="255338">
 		<path>./No-Intro/Deca Sports DS - Cheerleading (USA) (Demo).nds</path>
 		<name>Deca Sports DS - Cheerleading</name>
-		<rating></rating>
+		<rating />
 		<crc32>A198DE73</crc32>
 		<md5>c3737c032551411bf2331b6b65e461e8</md5>
 		<lang>en</lang>
@@ -6967,7 +6967,7 @@ Everyone's favorite Mama returns for a second helping, but this time her finicky
 	<game id="255365">
 		<path>./No-Intro/Deca Sports DS - Ping Pong (USA) (Demo) (Nintendo Channel).nds</path>
 		<name>Deca Sports DS - Ping Pong</name>
-		<rating></rating>
+		<rating />
 		<genre>Sports / Table tennis</genre>
 		<crc32>9FDC55D3</crc32>
 		<md5>6b76f2a050a6d454a1a897fed8c18d0d</md5>
@@ -6985,7 +6985,7 @@ Everyone's favorite Mama returns for a second helping, but this time her finicky
 		<marquee>./media/marquees/Diary Girl - Multiplayer (USA) (Demo) (DS Broadcast).png</marquee>
 		<thumbnail>./images/Diary Girl - Multiplayer (USA) (Demo) (DS Broadcast)-thumb.png</thumbnail>
 		<boxback>./images/Diary Girl - Multiplayer (USA) (Demo) (DS Broadcast)-boxback.png</boxback>
-		<rating></rating>
+		<rating />
 		<releasedate>20080318T000000</releasedate>
 		<developer>Konami</developer>
 		<publisher>Konami</publisher>
@@ -7053,7 +7053,7 @@ The Various Plankton are as follows
 		<marquee>./media/marquees/Flash Focus - Vision Training in Minutes a Day! (USA) (Demo) (DS Broadcast).png</marquee>
 		<thumbnail>./images/Flash Focus - Vision Training in Minutes a Day! (USA) (Demo) (DS Broadcast)-thumb.png</thumbnail>
 		<boxback>./images/Flash Focus - Vision Training in Minutes a Day! (USA) (Demo) (DS Broadcast)-boxback.png</boxback>
-		<rating></rating>
+		<rating />
 		<developer>Namco</developer>
 		<publisher>Nintendo</publisher>
 		<players>1</players>
@@ -7073,7 +7073,7 @@ The Various Plankton are as follows
 		<marquee>./media/marquees/Flash Focus - Vision Training in Minutes a Day! (USA) (Es) (Demo) (DS Broadcast).png</marquee>
 		<thumbnail>./images/Flash Focus - Vision Training in Minutes a Day! (USA) (Es) (Demo) (DS Broadcast)-thumb.png</thumbnail>
 		<boxback>./images/Flash Focus - Vision Training in Minutes a Day! (USA) (Es) (Demo) (DS Broadcast)-boxback.png</boxback>
-		<rating></rating>
+		<rating />
 		<developer>Namco</developer>
 		<publisher>Nintendo</publisher>
 		<players>1</players>
@@ -7093,7 +7093,7 @@ The Various Plankton are as follows
 		<marquee>./media/marquees/Flash Focus - Vision Training in Minutes a Day! (USA) (Fr) (Demo) (DS Broadcast).png</marquee>
 		<thumbnail>./images/Flash Focus - Vision Training in Minutes a Day! (USA) (Fr) (Demo) (DS Broadcast)-thumb.png</thumbnail>
 		<boxback>./images/Flash Focus - Vision Training in Minutes a Day! (USA) (Fr) (Demo) (DS Broadcast)-boxback.png</boxback>
-		<rating></rating>
+		<rating />
 		<developer>Namco</developer>
 		<publisher>Nintendo</publisher>
 		<players>1</players>
@@ -7149,7 +7149,7 @@ The Various Plankton are as follows
 	<game id="255362">
 		<path>./No-Intro/Geometry Wars - Retro Evolved (USA) (DS Broadcast).nds</path>
 		<name>Geometry Wars - Retro Evolved</name>
-		<rating></rating>
+		<rating />
 		<crc32>7CDB968E</crc32>
 		<md5>af779e8ade0cf0c75ffa469889a27585</md5>
 		<lang>en</lang>
@@ -7188,7 +7188,7 @@ The Various Plankton are as follows
 		<marquee>./media/marquees/Kids Learn - 2Think - A+ Edition - Multiplayer (USA) (DS Broadcast).png</marquee>
 		<thumbnail>./images/Kids Learn - 2Think - A+ Edition - Multiplayer (USA) (DS Broadcast)-thumb.png</thumbnail>
 		<boxback>./images/Kids Learn - 2Think - A+ Edition - Multiplayer (USA) (DS Broadcast)-boxback.png</boxback>
-		<rating></rating>
+		<rating />
 		<crc32>FBE74530</crc32>
 		<md5>05545f09bc36e5081c7cd0a87bf95495</md5>
 		<lang>en</lang>
@@ -7325,7 +7325,7 @@ The Legend of Zelda: Spirit Tracks sets hero Link on a daring new adventure. The
 	<game id="204190">
 		<path>./No-Intro/Legend of Zelda, The - Twilight Princess - Zelda Gallery (USA) (Kiosk) (E3 2005).nds</path>
 		<name>ZZZ(notgame):The Legend of Zelda: Twilight Princess - Preview Trailer</name>
-		<rating></rating>
+		<rating />
 		<hidden>true</hidden>
 		<crc32>1340695C</crc32>
 		<md5>1e5dcc5fd6a5e6886d6878333e7ce8d6</md5>
@@ -7337,7 +7337,7 @@ The Legend of Zelda: Spirit Tracks sets hero Link on a daring new adventure. The
 	<game id="254485">
 		<path>./No-Intro/Maboshi's Arcade (USA) (WiiWare Broadcast).nds</path>
 		<name>Maboshi's Arcade</name>
-		<rating></rating>
+		<rating />
 		<crc32>4535DAD6</crc32>
 		<md5>bc4a82d001be05b0f15aa6b39081fe59</md5>
 		<lang>en</lang>
@@ -7571,7 +7571,7 @@ Most of the game's action takes place on the bottom of the DS's two screens, whe
 	<game id="255335">
 		<path>./No-Intro/Meteos - Vs. Oleana (USA) (DS Broadcast).nds</path>
 		<name>Meteos - Vs. Oleana</name>
-		<rating></rating>
+		<rating />
 		<crc32>63C54E74</crc32>
 		<md5>4ac0bf60572a129e3b2c5a4423ead9b7</md5>
 		<lang>en</lang>
@@ -7582,8 +7582,8 @@ Most of the game's action takes place on the bottom of the DS's two screens, whe
 	<game>
 		<path>./No-Intro/My Word Coach - Improving Your Vocabulary (USA) (Demo) (DS Broadcast).nds</path>
 		<name>My Word Coach - Improving Your Vocabulary</name>
-		<rating></rating>
-		<releasedate></releasedate>
+		<rating />
+		<releasedate />
 		<crc32>4428582D</crc32>
 		<md5>6afecd0e6a35137fece00ceb8f364e75</md5>
 		<lang>en</lang>
@@ -7664,7 +7664,7 @@ Most of the game's action takes place on the bottom of the DS's two screens, whe
 		<marquee>./media/marquees/Nicktoons - Battle for Volcano Island - Multiplayer (USA) (DS Broadcast).png</marquee>
 		<thumbnail>./images/Nicktoons - Battle for Volcano Island - Multiplayer (USA) (DS Broadcast)-thumb.png</thumbnail>
 		<boxback>./images/Nicktoons - Battle for Volcano Island - Multiplayer (USA) (DS Broadcast)-boxback.png</boxback>
-		<rating></rating>
+		<rating />
 		<developer>Natsume</developer>
 		<publisher>THQ</publisher>
 		<family>Spongebob Squarepants</family>
@@ -7679,7 +7679,7 @@ Most of the game's action takes place on the bottom of the DS's two screens, whe
 		<path>./No-Intro/Nintendo DS Title Recommendation Program (USA) (Nintendo Channel).nds</path>
 		<name>ZZZ(notgame):Nintendo Ds Browser</name>
 		<image>./images/Nintendo DS Title Recommendation Program (USA) (Nintendo Channel)-image.png</image>
-		<rating></rating>
+		<rating />
 		<hidden>true</hidden>
 		<crc32>BACD6263</crc32>
 		<md5>54ae0c90ebc3246a6ef0e0bf41b20ad4</md5>
@@ -7697,7 +7697,7 @@ Most of the game's action takes place on the bottom of the DS's two screens, whe
 		<marquee>./media/marquees/Personal Trainer - Math (USA) (Demo) (Nintendo Channel).png</marquee>
 		<thumbnail>./images/Personal Trainer - Math (USA) (Demo) (Nintendo Channel)-thumb.png</thumbnail>
 		<boxback>./images/Personal Trainer - Math (USA) (Demo) (Nintendo Channel)-boxback.png</boxback>
-		<rating></rating>
+		<rating />
 		<developer>Jupiter Corporation</developer>
 		<publisher>Nintendo</publisher>
 		<genre>Educational</genre>
@@ -7711,8 +7711,8 @@ Most of the game's action takes place on the bottom of the DS's two screens, whe
 	<game>
 		<path>./No-Intro/Personal Trainer - Math - Study Together (USA) (DS Broadcast).nds</path>
 		<name>Personal Trainer - Math - Study Together</name>
-		<rating></rating>
-		<releasedate></releasedate>
+		<rating />
+		<releasedate />
 		<crc32>51E6FA02</crc32>
 		<md5>caf6fa0937a3f6bbdf4d2ec9e3f76ccd</md5>
 		<lang>en</lang>
@@ -7729,7 +7729,7 @@ Most of the game's action takes place on the bottom of the DS's two screens, whe
 		<marquee>./media/marquees/Personal Trainer - Math - Study Together (USA) (Es) (DS Broadcast).png</marquee>
 		<thumbnail>./images/Personal Trainer - Math - Study Together (USA) (Es) (DS Broadcast)-thumb.png</thumbnail>
 		<boxback>./images/Personal Trainer - Math - Study Together (USA) (Es) (DS Broadcast)-boxback.png</boxback>
-		<rating></rating>
+		<rating />
 		<developer>Jupiter Corporation</developer>
 		<publisher>Nintendo</publisher>
 		<genre>Educational</genre>
@@ -7749,7 +7749,7 @@ Most of the game's action takes place on the bottom of the DS's two screens, whe
 		<marquee>./media/marquees/Personal Trainer - Math - Study Together (USA) (Fr) (DS Broadcast).png</marquee>
 		<thumbnail>./images/Personal Trainer - Math - Study Together (USA) (Fr) (DS Broadcast)-thumb.png</thumbnail>
 		<boxback>./images/Personal Trainer - Math - Study Together (USA) (Fr) (DS Broadcast)-boxback.png</boxback>
-		<rating></rating>
+		<rating />
 		<developer>Jupiter Corporation</developer>
 		<publisher>Nintendo</publisher>
 		<genre>Educational</genre>
@@ -8048,7 +8048,7 @@ You can also play multiplayer modes of the game, either locally, or over Nintend
 		<marquee>./media/marquees/SpongeBob's Truth or Square (USA) (Demo) (Nintendo Channel).png</marquee>
 		<thumbnail>./images/SpongeBob's Truth or Square (USA) (Demo) (Nintendo Channel)-thumb.png</thumbnail>
 		<boxback>./images/SpongeBob's Truth or Square (USA) (Demo) (Nintendo Channel)-boxback.png</boxback>
-		<rating></rating>
+		<rating />
 		<releasedate>20091026T000000</releasedate>
 		<developer>Altron</developer>
 		<publisher>THQ</publisher>
@@ -8066,7 +8066,7 @@ You can also play multiplayer modes of the game, either locally, or over Nintend
 	<game id="254479">
 		<path>./No-Intro/Submarine Tech Demo (USA) (Kiosk) (E3 2005).nds</path>
 		<name>ZZZ(notgame):Submarine Tech Demo</name>
-		<rating></rating>
+		<rating />
 		<hidden>true</hidden>
 		<crc32>E997661C</crc32>
 		<md5>d8e0120a3679e3e743e0d42d239d8241</md5>
@@ -8078,7 +8078,7 @@ You can also play multiplayer modes of the game, either locally, or over Nintend
 	<game id="255368">
 		<path>./No-Intro/Table Hockey Tech Demo (USA) (Kiosk) (E3 2005).nds</path>
 		<name>Table Hockey Tech Demo</name>
-		<rating></rating>
+		<rating />
 		<crc32>3C1B618A</crc32>
 		<md5>aaddf489d42e4c9b3cb1d71dc67e4c75</md5>
 		<lang>en</lang>
@@ -8110,5 +8110,587 @@ You can also play multiplayer modes of the game, either locally, or over Nintend
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230301T215802" />
 		<scrap name="ArcadeDB" date="20221212T154518" />
+	</game>
+	<game>
+		<path>./No-Intro/Ace Attorney Investigations - Miles Edgeworth - Trial Edition (USA) (Rev 1) (Demo) (Nintendo Channel).bin</path>
+		<name>Ace Attorney Investigations - Miles Edgeworth - Trial Edition (USA) (Rev 1) (Demo) (Nintendo Channel)</name>
+		<md5>d251b170aeb7c16ce2de8d9180b5624a</md5>
+		<scrap name="ScreenScraper" date="20231005T070922" />
+	</game>
+	<game>
+		<path>./No-Intro/America's Test Kitchen - Let's Get Cooking - Featured Recipe - Chocolate Pots de Creme (USA) (Demo).bin</path>
+		<name>America's Test Kitchen - Let's Get Cooking - Featured Recipe - Chocolate Pots de Creme (USA) (Demo)</name>
+		<md5>b0a01f02d9ec19d29590643e3292fa48</md5>
+		<scrap name="ScreenScraper" date="20231005T070923" />
+	</game>
+	<game>
+		<path>./No-Intro/America's Test Kitchen - Let's Get Cooking - Featured Recipe - Roasted Red Potatoes (USA) (Demo).bin</path>
+		<name>America's Test Kitchen - Let's Get Cooking - Featured Recipe - Roasted Red Potatoes (USA) (Demo)</name>
+		<md5>affe9998b08d1f310bdd3c028880dd0c</md5>
+		<scrap name="ScreenScraper" date="20231005T070924" />
+	</game>
+	<game id="6088">
+		<path>./No-Intro/Bakugan - Battle Brawlers (USA) (Demo) (Nintendo Channel).bin</path>
+		<name>Bakugan: Battle Brawlers</name>
+		<desc>Answer the call to BRAWL and enter an alternative universe where good and evil fight for domination! Only you can decide the fate of the galaxy.
+Start off as an untrained Bakugan Brawler and must fight your way to the top of the heap. Combining the drama and story of the cartoon series with the skill and strategy of the card game, players will become completely immersed in this unique title. Throw Bakugan cards onto the battlefield, and then try to carefully shoot your Bakugan balls onto the cards to unleash their monstrous powers. When two Bakugans stand on the same card, they transform into gigantic creatures and fight to the finish!
+
+Features
+? 24 action packed levels with 8 battlefield environments
+? 6 unique arenas
+? 35 Bakugans with all new uniques
+? Over 200 player cards - 12 NEVER BEFORE SEEN</desc>
+		<image>./images/Bakugan - Battle Brawlers (USA) (Demo) (Nintendo Channel)-image.png</image>
+		<video>./videos/Bakugan - Battle Brawlers (USA) (Demo) (Nintendo Channel)-video.mp4</video>
+		<marquee>./images/Bakugan - Battle Brawlers (USA) (Demo) (Nintendo Channel)-marquee.png</marquee>
+		<thumbnail>./images/Bakugan - Battle Brawlers (USA) (Demo) (Nintendo Channel)-thumb.png</thumbnail>
+		<fanart>./images/Bakugan - Battle Brawlers (USA) (Demo) (Nintendo Channel)-fanart.jpg</fanart>
+		<rating>0.75</rating>
+		<developer>Now Production</developer>
+		<publisher>Activision</publisher>
+		<genre>Strategy</genre>
+		<md5>907d6eab779dce9b8bc801d22fd8e9fc</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231005T070929" />
+	</game>
+	<game id="7905">
+		<path>./No-Intro/Battle of Giants - Dragons (USA) (En,Fr,Es) (Rev 2) (Demo).bin</path>
+		<name>Combat of Giants - Dragons</name>
+		<desc>Battle of Giants: Dragons is a DS game that gives young gamers to the chance to play with the most impressive creatures they had always dreamed of: Dragons. Feel the adrenaline rush of creating, controlling, customizing and battling with your very own fierce creature.</desc>
+		<image>./images/Battle of Giants - Dragons (USA) (En,Fr,Es) (Rev 2) (Demo)-image.png</image>
+		<video>./videos/Battle of Giants - Dragons (USA) (En,Fr,Es) (Rev 2) (Demo)-video.mp4</video>
+		<marquee>./images/Battle of Giants - Dragons (USA) (En,Fr,Es) (Rev 2) (Demo)-marquee.png</marquee>
+		<thumbnail>./images/Battle of Giants - Dragons (USA) (En,Fr,Es) (Rev 2) (Demo)-thumb.png</thumbnail>
+		<rating>0.6</rating>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Various</genre>
+		<players>2-4</players>
+		<md5>ddf3ffdf032744106e35de3f4457e9a4</md5>
+		<lang>en,es,fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231005T070930" />
+	</game>
+	<game id="151393">
+		<path>./No-Intro/Battle of Giants - Mutant Insects (USA) (En,Fr,Es) (Demo).bin</path>
+		<name>Combat of Giants - Mutant Insects</name>
+		<desc>In a far distant future, a gigantic asteroid went out of orbit and collided with Earth. This terrible catastrophe left only ruins in its wake, forever changing Earths landscape and its inhabitants. Insects, the most adaptable form of life on Earth, have mutated to transform into massive giants and become the new rulers of the planet.</desc>
+		<image>./images/Battle of Giants - Mutant Insects (USA) (En,Fr,Es) (Demo)-image.png</image>
+		<video>./videos/Battle of Giants - Mutant Insects (USA) (En,Fr,Es) (Demo)-video.mp4</video>
+		<marquee>./images/Battle of Giants - Mutant Insects (USA) (En,Fr,Es) (Demo)-marquee.png</marquee>
+		<thumbnail>./images/Battle of Giants - Mutant Insects (USA) (En,Fr,Es) (Demo)-thumb.png</thumbnail>
+		<md5>2cefad31b0a1bb0a551bba785c3efc2e</md5>
+		<lang>en,es,fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231005T070931" />
+	</game>
+	<game>
+		<path>./No-Intro/Cooking Mama 3 - Shop &amp; Chop - Let's Make Marshmallows (USA) (Rev 1) (Demo) (Nintendo Channel).bin</path>
+		<name>Cooking Mama 3 - Shop &amp; Chop - Let's Make Marshmallows (USA) (Rev 1) (Demo) (Nintendo Channel)</name>
+		<md5>13eac0fd5017cceb02669f341b603f55</md5>
+		<scrap name="ScreenScraper" date="20231005T070933" />
+	</game>
+	<game>
+		<path>./No-Intro/Crafting Mama - Mug (USA) (Demo).bin</path>
+		<name>Crafting Mama - Mug (USA) (Demo)</name>
+		<md5>cc7c13d89c309eda2114381238aa8e41</md5>
+		<scrap name="ScreenScraper" date="20231005T070934" />
+	</game>
+	<game>
+		<path>./No-Intro/Crosswords DS - Crosswords (USA, Australia) (Demo) (USA).bin</path>
+		<name>Crosswords DS - Crosswords (USA, Australia) (Demo) (USA)</name>
+		<md5>cc4e9925e195d6d162d54a469a10a087</md5>
+		<scrap name="ScreenScraper" date="20231005T070935" />
+	</game>
+	<game id="255338">
+		<path>./No-Intro/Deca Sports DS - Cheerleading (USA) (Demo).bin</path>
+		<name>Deca Sports DS - Cheerleading</name>
+		<md5>b548d042e0f6c6c766b544aaf7e91f61</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231005T070936" />
+	</game>
+	<game id="255365">
+		<path>./No-Intro/Deca Sports DS - Ping Pong (USA) (Demo) (Nintendo Channel).bin</path>
+		<name>Deca Sports DS - Ping Pong</name>
+		<genre>Sports / Table tennis</genre>
+		<md5>fe7931f17309a5369d52fa6a7367ace1</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231005T070938" />
+	</game>
+	<game id="5908">
+		<path>./No-Intro/Dragon Ball - Origins 2 (USA) (Demo).bin</path>
+		<name>Dragon Ball - Origins 2</name>
+		<desc>In Dragon Ball: Origins 2, players battle through the Red Ribbon Army saga covering Goku's first encounters with the nefarious Red Ribbon Army up to the resurrection of Upa's father, a member of the native tribe who serve as the guardians of the mystical Korin Tower. Players have the chance to play not only as Goku, but also the added variety of familiar faces he encounters as the journey progresses including Krillin, Bulma, Yamcha and more, each with their own abilities and power-ups.</desc>
+		<image>./images/Dragon Ball - Origins 2 (USA) (Demo)-image.png</image>
+		<video>./videos/Dragon Ball - Origins 2 (USA) (Demo)-video.mp4</video>
+		<marquee>./images/Dragon Ball - Origins 2 (USA) (Demo)-marquee.png</marquee>
+		<thumbnail>./images/Dragon Ball - Origins 2 (USA) (Demo)-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>20100211T000000</releasedate>
+		<developer>Game Republic</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Action / Adventure</genre>
+		<family>Dragon Ball</family>
+		<players>1-2</players>
+		<md5>c81bcbe2183bc1f2b9335620f86b26e8</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231005T070939" />
+	</game>
+	<game>
+		<path>./No-Intro/Flash Focus - Vision Training in Minutes a Day - Quick Play (USA) (Demo).bin</path>
+		<name>Flash Focus - Vision Training in Minutes a Day - Quick Play (USA) (Demo)</name>
+		<md5>1ec85eef242e7fb6f6dc141221d828b0</md5>
+		<scrap name="ScreenScraper" date="20231005T070940" />
+	</game>
+	<game id="7443">
+		<path>./No-Intro/Fossil Fighters - Gift Fossil - Air (USA) (Save Data).bin</path>
+		<name>Fossil Fighters Champions</name>
+		<desc>In this dino-tastic sequel, players get some hands-on time to hunt and clean fossils, and revive and battle Vivosaurs. A fossil park is hosting a large-scale tournament in which competitors enter Vivosaurs created from dinosaur fossils into competition. Fossil Fighters from all over the world compete against one another to find out who is the best Fossil Fighter.</desc>
+		<image>./images/Fossil Fighters - Gift Fossil - Air (USA) (Save Data)-image.png</image>
+		<video>./videos/Fossil Fighters - Gift Fossil - Air (USA) (Save Data)-video.mp4</video>
+		<marquee>./images/Fossil Fighters - Gift Fossil - Air (USA) (Save Data)-marquee.png</marquee>
+		<thumbnail>./images/Fossil Fighters - Gift Fossil - Air (USA) (Save Data)-thumb.png</thumbnail>
+		<releasedate>20111114T000000</releasedate>
+		<developer>Red Entertainment</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Fight</genre>
+		<players>2</players>
+		<md5>60b4a465c99651621b33f01a14828a99</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231005T070945" />
+	</game>
+	<game id="7443">
+		<path>./No-Intro/Fossil Fighters - Gift Fossil - Earth (USA) (Save Data).bin</path>
+		<name>Fossil Fighters Champions</name>
+		<desc>In this dino-tastic sequel, players get some hands-on time to hunt and clean fossils, and revive and battle Vivosaurs. A fossil park is hosting a large-scale tournament in which competitors enter Vivosaurs created from dinosaur fossils into competition. Fossil Fighters from all over the world compete against one another to find out who is the best Fossil Fighter.</desc>
+		<image>./images/Fossil Fighters - Gift Fossil - Earth (USA) (Save Data)-image.png</image>
+		<video>./videos/Fossil Fighters - Gift Fossil - Earth (USA) (Save Data)-video.mp4</video>
+		<marquee>./images/Fossil Fighters - Gift Fossil - Earth (USA) (Save Data)-marquee.png</marquee>
+		<thumbnail>./images/Fossil Fighters - Gift Fossil - Earth (USA) (Save Data)-thumb.png</thumbnail>
+		<releasedate>20111114T000000</releasedate>
+		<developer>Red Entertainment</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Fight</genre>
+		<players>2</players>
+		<md5>24e4c36aa08bb26358abbfbea8c72952</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231005T070949" />
+	</game>
+	<game id="7443">
+		<path>./No-Intro/Fossil Fighters - Gift Fossil - Fire (USA) (Save Data).bin</path>
+		<name>Fossil Fighters Champions</name>
+		<desc>In this dino-tastic sequel, players get some hands-on time to hunt and clean fossils, and revive and battle Vivosaurs. A fossil park is hosting a large-scale tournament in which competitors enter Vivosaurs created from dinosaur fossils into competition. Fossil Fighters from all over the world compete against one another to find out who is the best Fossil Fighter.</desc>
+		<image>./images/Fossil Fighters - Gift Fossil - Fire (USA) (Save Data)-image.png</image>
+		<video>./videos/Fossil Fighters - Gift Fossil - Fire (USA) (Save Data)-video.mp4</video>
+		<marquee>./images/Fossil Fighters - Gift Fossil - Fire (USA) (Save Data)-marquee.png</marquee>
+		<thumbnail>./images/Fossil Fighters - Gift Fossil - Fire (USA) (Save Data)-thumb.png</thumbnail>
+		<releasedate>20111114T000000</releasedate>
+		<developer>Red Entertainment</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Fight</genre>
+		<players>2</players>
+		<md5>7405974cc983b97d9cdc6742f6aa49df</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231005T070954" />
+	</game>
+	<game id="7443">
+		<path>./No-Intro/Fossil Fighters - Gift Fossil - Neutral (USA) (Save Data).bin</path>
+		<name>Fossil Fighters Champions</name>
+		<desc>In this dino-tastic sequel, players get some hands-on time to hunt and clean fossils, and revive and battle Vivosaurs. A fossil park is hosting a large-scale tournament in which competitors enter Vivosaurs created from dinosaur fossils into competition. Fossil Fighters from all over the world compete against one another to find out who is the best Fossil Fighter.</desc>
+		<image>./images/Fossil Fighters - Gift Fossil - Neutral (USA) (Save Data)-image.png</image>
+		<video>./videos/Fossil Fighters - Gift Fossil - Neutral (USA) (Save Data)-video.mp4</video>
+		<marquee>./images/Fossil Fighters - Gift Fossil - Neutral (USA) (Save Data)-marquee.png</marquee>
+		<thumbnail>./images/Fossil Fighters - Gift Fossil - Neutral (USA) (Save Data)-thumb.png</thumbnail>
+		<releasedate>20111114T000000</releasedate>
+		<developer>Red Entertainment</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Fight</genre>
+		<players>2</players>
+		<md5>d1f0f5dfeeef59bf95a409bf122a2e8c</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231005T070959" />
+	</game>
+	<game id="7443">
+		<path>./No-Intro/Fossil Fighters - Gift Fossil - Water (USA) (Save Data).bin</path>
+		<name>Fossil Fighters Champions</name>
+		<desc>In this dino-tastic sequel, players get some hands-on time to hunt and clean fossils, and revive and battle Vivosaurs. A fossil park is hosting a large-scale tournament in which competitors enter Vivosaurs created from dinosaur fossils into competition. Fossil Fighters from all over the world compete against one another to find out who is the best Fossil Fighter.</desc>
+		<image>./images/Fossil Fighters - Gift Fossil - Water (USA) (Save Data)-image.png</image>
+		<video>./videos/Fossil Fighters - Gift Fossil - Water (USA) (Save Data)-video.mp4</video>
+		<marquee>./images/Fossil Fighters - Gift Fossil - Water (USA) (Save Data)-marquee.png</marquee>
+		<thumbnail>./images/Fossil Fighters - Gift Fossil - Water (USA) (Save Data)-thumb.png</thumbnail>
+		<releasedate>20111114T000000</releasedate>
+		<developer>Red Entertainment</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Fight</genre>
+		<players>2</players>
+		<md5>68b9f2120175e4532b1e0614580fc2ef</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231005T071003" />
+	</game>
+	<game>
+		<path>./No-Intro/Fossil Fighters Champions - Demo Version (USA) (Demo).bin</path>
+		<name>Fossil Fighters Champions - Demo Version (USA) (Demo)</name>
+		<md5>444b920664174cd89dcae80accfce498</md5>
+		<scrap name="ScreenScraper" date="20231005T071005" />
+	</game>
+	<game>
+		<path>./No-Intro/Ghost Trick - Phantom Detective - Trial Version (USA) (Demo).bin</path>
+		<name>Ghost Trick - Phantom Detective - Trial Version (USA) (Demo)</name>
+		<md5>232c758d18135707f98bc2291d235420</md5>
+		<scrap name="ScreenScraper" date="20231005T071006" />
+	</game>
+	<game id="152199">
+		<path>./No-Intro/Imagine - Teacher - Class Trip (USA) (En,Fr,Es) (Demo).bin</path>
+		<name>Imagine - Teacher - Class Trip</name>
+		<desc>Imagine Teacher: Class Trip gives you the chance to lead a classroom full of students, this time taking them out to explore the thrilling outdoors on an exciting field trip!</desc>
+		<image>./images/Imagine - Teacher - Class Trip (USA) (En,Fr,Es) (Demo)-image.jpg</image>
+		<video>./videos/Imagine - Teacher - Class Trip (USA) (En,Fr,Es) (Demo)-video.mp4</video>
+		<marquee>./images/Imagine - Teacher - Class Trip (USA) (En,Fr,Es) (Demo)-marquee.png</marquee>
+		<thumbnail>./images/Imagine - Teacher - Class Trip (USA) (En,Fr,Es) (Demo)-thumb.png</thumbnail>
+		<developer>Magic Pockets</developer>
+		<publisher>Ubisoft</publisher>
+		<md5>ef931db8a60cee121da3941a95159043</md5>
+		<lang>en,es,fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231005T071007" />
+	</game>
+	<game id="6421">
+		<path>./No-Intro/Ivy the Kiwi (USA) (Rev 1) (Demo).bin</path>
+		<name>Ivy the Kiwi</name>
+		<desc>Players of all ages are encouraged to aide Ivy on her journey, utilizing the Wii Remote or Nintendo DS stylus to create the stretchy and flexible vines that propel Ivy forward, over and through obstacles before her. Players encounter crows, rats, raindrops and more, all of which aim to hinder Ivy's progress. But every story's hero finds a way, and Ivy soon finds an ally in the unlikeliest of places-the strange vines that erupt forth to guide, protect and propel her on her way. As skill improves, players must more carefully and quickly manipulate the trusty vines in new ways and utilize the game's distinct mode of transport.</desc>
+		<image>./images/Ivy the Kiwi (USA) (Rev 1) (Demo)-image.jpg</image>
+		<video>./videos/Ivy the Kiwi (USA) (Rev 1) (Demo)-video.mp4</video>
+		<marquee>./images/Ivy the Kiwi (USA) (Rev 1) (Demo)-marquee.png</marquee>
+		<thumbnail>./images/Ivy the Kiwi (USA) (Rev 1) (Demo)-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>20100422T000000</releasedate>
+		<developer>Xseed Games</developer>
+		<publisher>Rising Star Games</publisher>
+		<genre>Platform</genre>
+		<players>1-4</players>
+		<md5>0833f2b80e29103757dee52d8247575b</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231005T071008" />
+	</game>
+	<game id="6000">
+		<path>./No-Intro/James Cameron's Avatar - The Game (USA) (En,Fr,Es) (Rev 1) (Demo).bin</path>
+		<name>James Cameron's Avatar : The Game</name>
+		<desc>The game will take you deep into the heart of Pandora, an alien planet that is beyond imagination. Gamers will encounter the Na'vi, Pandora's indigenous people and discover creatures and other wildlife the likes of which have never been seen in the world of video games before. When conflict erupts between the RDA Corporation, a space-faring consortium in search of valuable resources, and the Na'vi, players will find themselves thrust into a fight for the heart of a planet and the fate of a civilization.</desc>
+		<image>./images/James Cameron's Avatar - The Game (USA) (En,Fr,Es) (Rev 1) (Demo)-image.jpg</image>
+		<video>./videos/James Cameron's Avatar - The Game (USA) (En,Fr,Es) (Rev 1) (Demo)-video.mp4</video>
+		<marquee>./images/James Cameron's Avatar - The Game (USA) (En,Fr,Es) (Rev 1) (Demo)-marquee.png</marquee>
+		<thumbnail>./images/James Cameron's Avatar - The Game (USA) (En,Fr,Es) (Rev 1) (Demo)-thumb.png</thumbnail>
+		<rating>0.6</rating>
+		<releasedate>20091201T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<md5>84ad6916c064bf9e36928f027039f89a</md5>
+		<lang>en,es,fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231005T071009" />
+	</game>
+	<game id="6810">
+		<path>./No-Intro/James Patterson Women's Murder Club - Games of Passion (USA) (Rev 7) (Demo).bin</path>
+		<name>James Patterson Women's Murder Club: Games of Passion</name>
+		<desc>James Patterson Women's Murder Club: Crime and Splendour on DS is an interactive book-like investigative game with mini-games and object finding.	
+
+A series of seemingly unrelated deaths are taking place in San Francisco. Some look like suicide or robbery, but something doesn't add up. Players are part of the Women's Murder Club and take on the role of Lindsay, Cindy or Claire using their respective skills for the task at hand. Lindsay, the police officer, investigates the crime scene, first by clearing up the "mess" and then by looking for clues as indicated, such as items that may have belonged to the victim or the murder weapons. Claire, the medical examiner, finds out the cause of death and anything that can be deduced from the body. There are no penalties for choosing the wrong object and there is no time limit.</desc>
+		<image>./images/James Patterson Women's Murder Club - Games of Passion (USA) (Rev 7) (Demo)-image.jpg</image>
+		<video>./videos/James Patterson Women's Murder Club - Games of Passion (USA) (Rev 7) (Demo)-video.mp4</video>
+		<marquee>./images/James Patterson Women's Murder Club - Games of Passion (USA) (Rev 7) (Demo)-marquee.png</marquee>
+		<thumbnail>./images/James Patterson Women's Murder Club - Games of Passion (USA) (Rev 7) (Demo)-thumb.png</thumbnail>
+		<rating>0.5</rating>
+		<releasedate>20091013T000000</releasedate>
+		<developer>Griptonite Games</developer>
+		<publisher>THQ</publisher>
+		<genre>Various</genre>
+		<family>James Patterson - Women's Murder Club</family>
+		<players>1</players>
+		<md5>1877cd9b639db940864dcee858cc9065</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231005T071010" />
+	</game>
+	<game id="5937">
+		<path>./No-Intro/Kirby Mass Attack (USA) (Demo).bin</path>
+		<name>Kirby Mass Attack</name>
+		<desc>Kirby: Mass Attack is a single player Side-Scrolling, Real-Time Strategy game for Nintendo DS that features both new adventure, and a new gameplay mechanic uniquely suited to the Nintendo DS. Gameplay includes the ability and necessity of controlling multiple versions of Kirby simultaneously in order to defeat enemies, solve puzzles and complete challenges.</desc>
+		<image>./images/Kirby Mass Attack (USA) (Demo)-image.jpg</image>
+		<video>./videos/Kirby Mass Attack (USA) (Demo)-video.mp4</video>
+		<marquee>./images/Kirby Mass Attack (USA) (Demo)-marquee.png</marquee>
+		<thumbnail>./images/Kirby Mass Attack (USA) (Demo)-thumb.png</thumbnail>
+		<fanart>./images/Kirby Mass Attack (USA) (Demo)-fanart.jpg</fanart>
+		<rating>0.85</rating>
+		<releasedate>20110919T000000</releasedate>
+		<developer>HAL Laboratory</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<family>Kirby</family>
+		<players>1</players>
+		<md5>e1275b711a2b3be874cf27fc5a354b04</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231005T071011" />
+	</game>
+	<game id="7000">
+		<path>./No-Intro/Madagascar Kartz (USA) (Rev 1) (Demo).bin</path>
+		<name>Madagascar Kartz</name>
+		<desc>Madagascar Kartz is a racing game based on DreamWorks Animation's Madagascar. It was released on October 27, 2009 and the second game on Madagascar's spin-off series.
+
+Gameplay[edit]
+The game is a basic kart racing game, and the player can perform jumps, flips, rolls.[1] There are many different stages from scenes of the franchise.[1] Playable characters include Alex, Marty, Gloria, Melman, King Julien, Mason and Phil, or all four of the penguins.[1] The Madagascar Kartz Wheel is bundled with the Wii version of the game. This wheel is optional. This wheel's look is different from that of the Wii Wheel from Mario Kart Wii.[1]
+
+Playable characters include Alex the Lion, Marty the Zebra, Melman the Giraffe, Gloria the Hippotamus, The Penguins, The Chimps, and King Julien from the Madagascar. Two characters from other movies are included alongside the Madagascar, Shrek from Shrek, and B.O.B. from Monsters vs. Aliens, all DreamWorks Animation franchises. Race types include Quick Race, Championship, Time Trial and Checkpoint race. A Championship race is one where the player collects mangoes and tries to finish first place in order to unlock higher speed classes (50cc, 100cc, 150cc, 200cc, the last one is raced in reverse direction/mirror mode), more karts and tracks. In Time Trial, players beat their own times and earn medals (gold, silver and bronze). In Checkpoint Race, players collect as many hourglasses as they can before the time runs out. There are several tracks in the game. Also, in a track, most tracks have 2 shortcuts. "I Like to Move It", sung by Reel 2 Real, is the menu theme. The game's gameplay is similar to those of Mario Kart Wii, by Nintendo. The sequel is Super Star Kartz.</desc>
+		<image>./images/Madagascar Kartz (USA) (Rev 1) (Demo)-image.png</image>
+		<video>./videos/Madagascar Kartz (USA) (Rev 1) (Demo)-video.mp4</video>
+		<marquee>./images/Madagascar Kartz (USA) (Rev 1) (Demo)-marquee.png</marquee>
+		<thumbnail>./images/Madagascar Kartz (USA) (Rev 1) (Demo)-thumb.png</thumbnail>
+		<rating>0.6</rating>
+		<developer>Activision</developer>
+		<publisher>Sidhe Interactive</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+		<md5>ae7707d1051c33cee45198ef4613bcee</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231005T071012" />
+	</game>
+	<game>
+		<path>./No-Intro/Mario &amp; Sonic at the Olympic Winter Games - Alpine Skiing GS (USA) (Demo).bin</path>
+		<name>Mario &amp; Sonic at the Olympic Winter Games - Alpine Skiing GS (USA) (Demo)</name>
+		<md5>88d88a34bdd17238268c26771bbb0107</md5>
+		<scrap name="ScreenScraper" date="20231005T071013" />
+	</game>
+	<game>
+		<path>./No-Intro/Mario &amp; Sonic at the Olympic Winter Games - Bobsleigh (USA) (Demo).bin</path>
+		<name>Mario &amp; Sonic at the Olympic Winter Games - Bobsleigh (USA) (Demo)</name>
+		<md5>3e1a0b2da80fc647b83fb3f4fb6a1dde</md5>
+		<scrap name="ScreenScraper" date="20231005T071015" />
+	</game>
+	<game id="151901">
+		<path>./No-Intro/Naruto Shippuden - Ninja Destiny 2 (USA) (Rev 1) (Demo).bin</path>
+		<name>Naruto Shippuden - Ninja Destiny 2</name>
+		<desc>Naruto Shippuden: Ninja Destiny 2 features fast paced Naruto Shippuden 3D fighting action with the addition of an all-new Quest Mode, new characters, jutsu and a storyline based on the Naruto Shippuden animated series. The title also features wireless multiplayer gameplay, offering Naruto fans and newcomers to the series competitive 3D fighting on the Nintendo DS.</desc>
+		<image>./images/Naruto Shippuden - Ninja Destiny 2 (USA) (Rev 1) (Demo)-image.png</image>
+		<video>./videos/Naruto Shippuden - Ninja Destiny 2 (USA) (Rev 1) (Demo)-video.mp4</video>
+		<marquee>./images/Naruto Shippuden - Ninja Destiny 2 (USA) (Rev 1) (Demo)-marquee.png</marquee>
+		<thumbnail>./images/Naruto Shippuden - Ninja Destiny 2 (USA) (Rev 1) (Demo)-thumb.png</thumbnail>
+		<rating>0.6</rating>
+		<releasedate>20090915T000000</releasedate>
+		<developer>Takara</developer>
+		<publisher>Dream Factory</publisher>
+		<genre>Fight</genre>
+		<family>Naruto</family>
+		<md5>f2ca8172322c315bff27f9311e229f05</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231005T071016" />
+	</game>
+	<game>
+		<path>./No-Intro/Okamiden - Trial Version (USA) (Rev 2) (Demo) (Nintendo Channel).bin</path>
+		<name>Okamiden - Trial Version (USA) (Rev 2) (Demo) (Nintendo Channel)</name>
+		<md5>04d75cfa1c72350f686800e1affb0e25</md5>
+		<scrap name="ScreenScraper" date="20231005T071017" />
+	</game>
+	<game>
+		<path>./No-Intro/Personal Trainer - Cooking - Lasagna (USA) (Demo).bin</path>
+		<name>Personal Trainer - Cooking - Lasagna (USA) (Demo)</name>
+		<md5>9f02b521425dd605ca68964490f74129</md5>
+		<scrap name="ScreenScraper" date="20231005T071018" />
+	</game>
+	<game>
+		<path>./No-Intro/Personal Trainer - Cooking - Macaroni and Cheese (USA) (Demo).bin</path>
+		<name>Personal Trainer - Cooking - Macaroni and Cheese (USA) (Demo)</name>
+		<md5>9a3c3ad07cff41f55d7754bb0a018477</md5>
+		<scrap name="ScreenScraper" date="20231005T071019" />
+	</game>
+	<game id="86647">
+		<path>./No-Intro/Personal Trainer - Math (USA) (Demo) (Nintendo Channel).bin</path>
+		<name>Personal Trainer: Math</name>
+		<desc>Do you ever struggle with calculating a dinner bill or confirming exact change at the cash register? What about helping children with their homework? Help is here! Personal Trainer: Math for Nintendo DS is a fun and rewarding way to keep those math skills sharp.</desc>
+		<image>./images/Personal Trainer - Math (USA) (Demo) (Nintendo Channel)-image.jpg</image>
+		<video>./videos/Personal Trainer - Math (USA) (Demo) (Nintendo Channel)-video.mp4</video>
+		<marquee>./images/Personal Trainer - Math (USA) (Demo) (Nintendo Channel)-marquee.png</marquee>
+		<thumbnail>./images/Personal Trainer - Math (USA) (Demo) (Nintendo Channel)-thumb.png</thumbnail>
+		<developer>Jupiter Corporation</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Educational</genre>
+		<md5>fcd4c183ae89586e79119b11ed0d8c61</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231005T071023" />
+	</game>
+	<game id="6134">
+		<path>./No-Intro/Picross 3D (USA) (Demo).bin</path>
+		<name>Picross 3D</name>
+		<desc>Break into the next dimension of mind-bending puzzles!Track the numbers to uncover the hidden shape! Tap a chisel to eliminate blocks you think don't belong or use a paintbrush to mark ones you think should stay. Beginners and Picross veterans alike will love this puzzle game that's easy to pick up, but hard to put down!</desc>
+		<image>./images/Picross 3D (USA) (Demo)-image.png</image>
+		<video>./videos/Picross 3D (USA) (Demo)-video.mp4</video>
+		<marquee>./images/Picross 3D (USA) (Demo)-marquee.png</marquee>
+		<thumbnail>./images/Picross 3D (USA) (Demo)-thumb.png</thumbnail>
+		<fanart>./images/Picross 3D (USA) (Demo)-fanart.jpg</fanart>
+		<rating>0.75</rating>
+		<releasedate>20100205T000000</releasedate>
+		<developer>HAL Laboratory</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<md5>5719066521580141e9d75ab2045fc99b</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231005T071027" />
+	</game>
+	<game id="5899">
+		<path>./No-Intro/Pokemon Ranger - Guardian Signs (USA, Europe, Australia) (Demo) (USA).bin</path>
+		<name>Pokemon Ranger : Guardian Signs</name>
+		<desc>Channel the power of legends!The third installment in the action-packed Pokémon Ranger series lets players take on the role of a Pokémon Ranger tasked with protecting Pokémon, people, and nature in the Oblivia region. As a Pokémon Ranger, players investigate the nefarious actions of the Pokémon Pinchers, who have been disrupting the peace by chasing and catching Pokémon.</desc>
+		<image>./images/Pokemon Ranger - Guardian Signs (USA, Europe, Australia) (Demo) (USA)-image.png</image>
+		<video>./videos/Pokemon Ranger - Guardian Signs (USA, Europe, Australia) (Demo) (USA)-video.mp4</video>
+		<marquee>./images/Pokemon Ranger - Guardian Signs (USA, Europe, Australia) (Demo) (USA)-marquee.png</marquee>
+		<thumbnail>./images/Pokemon Ranger - Guardian Signs (USA, Europe, Australia) (Demo) (USA)-thumb.png</thumbnail>
+		<fanart>./images/Pokemon Ranger - Guardian Signs (USA, Europe, Australia) (Demo) (USA)-fanart.jpg</fanart>
+		<rating>0.8</rating>
+		<releasedate>20101004T000000</releasedate>
+		<developer>HAL Laboratory</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure</genre>
+		<family>Pokémon</family>
+		<players>1</players>
+		<md5>5c28c5c8221e77e8ce2e55988b9cdfef</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231005T071034" />
+	</game>
+	<game id="6294">
+		<path>./No-Intro/Princess and the Frog, The (USA) (Demo) (Nintendo Channel).bin</path>
+		<name>The Princess and the Frog</name>
+		<desc>On the Nintendo DS, players master the art of platforming as Tiana and Ray--jumping, swinging, and soaring their way past obstacles to advance through multiple levels and solve exciting environmental puzzles. Gameplay includes collecting ingredients and recipes, cooking dishes, and performing music with one to four players. Players can also collect real recipes and save music in the game's jukebox.</desc>
+		<image>./images/Princess and the Frog, The (USA) (Demo) (Nintendo Channel)-image.png</image>
+		<video>./videos/Princess and the Frog, The (USA) (Demo) (Nintendo Channel)-video.mp4</video>
+		<marquee>./images/Princess and the Frog, The (USA) (Demo) (Nintendo Channel)-marquee.png</marquee>
+		<thumbnail>./images/Princess and the Frog, The (USA) (Demo) (Nintendo Channel)-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>20091102T000000</releasedate>
+		<developer>Griptonite Games</developer>
+		<publisher>Disney Interactive</publisher>
+		<genre>Platform</genre>
+		<md5>e766431fe8a33def40e54ce8ae28e495</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231005T071037" />
+	</game>
+	<game id="86871">
+		<path>./No-Intro/Rhythm Heaven (USA, Europe, Australia) (Demo) (USA).bin</path>
+		<name>Rhythm Heaven</name>
+		<desc>Get ready to feel the rhythm!  Rhythm Heaven is a game based entirely around musical rhythm and timing.  The game is a collection of games based around a song, where the player must perform actions in time to the music to successfully complete the game.  All games are based around the simple motions of tapping, sliding and flicking the stylus.
+
+As each game varies from each other, at the start of each game, you're given a brief tutorial to get the hang of how the game you'll be playing works.  Tasks for games include (but are not limited to) flicking to construct machinery, releasing the stylus at the right time to belt out a loud note, sliding to rub a lizard's tail in time to a mating dance beat, tapping to gulp down dumplings, tapping and flicking to harvest vegetables and get rid of moles, and more.  After every four games, a special "remix" game appears, which combines the previous games into a hectic mix, where you never know what will be up next.</desc>
+		<image>./images/Rhythm Heaven (USA, Europe, Australia) (Demo) (USA)-image.png</image>
+		<video>./videos/Rhythm Heaven (USA, Europe, Australia) (Demo) (USA)-video.mp4</video>
+		<marquee>./images/Rhythm Heaven (USA, Europe, Australia) (Demo) (USA)-marquee.png</marquee>
+		<thumbnail>./images/Rhythm Heaven (USA, Europe, Australia) (Demo) (USA)-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>20090405T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<family>Rhythm Heaven</family>
+		<players>1</players>
+		<md5>5edd7f8ae32b95bcd63b87f4c2e7fe33</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231005T071042" />
+	</game>
+	<game id="6003">
+		<path>./No-Intro/Rooms - The Main Building (USA) (Demo).bin</path>
+		<name>Rooms : The Main Building</name>
+		<desc>In each room, players must use intellect, strategy and various objects to their full advantage. To escape, rooms can be moved around and matched up with subsequent rooms. The game features a guide named Mr. Book that gives tips on how to move rooms and use various tricks during the adventure. Players are also rewarded with a bonus if the background is placed correctly like in a jigsaw puzzle. With more than 100 rooms to go through and a level editor to create more, this charmed adventure can continue for ages to come.</desc>
+		<image>./images/Rooms - The Main Building (USA) (Demo)-image.jpg</image>
+		<video>./videos/Rooms - The Main Building (USA) (Demo)-video.mp4</video>
+		<marquee>./images/Rooms - The Main Building (USA) (Demo)-marquee.png</marquee>
+		<thumbnail>./images/Rooms - The Main Building (USA) (Demo)-thumb.png</thumbnail>
+		<rating>0.65</rating>
+		<releasedate>20100323T000000</releasedate>
+		<developer>Hand Made Software</developer>
+		<publisher>Hudson</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<md5>bc39e2ff934fd68604fa43d9f4b67dd7</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231005T071046" />
+	</game>
+	<game id="5993">
+		<path>./No-Intro/Sonic &amp; Sega All-Stars Racing (USA) (En,Fr,Es) (Demo).bin</path>
+		<name>Sonic &amp; Sega All-Stars Racing</name>
+		<desc>In a frantic battle to the checkered flag, Sonic and friends speed around tracks set in medieval castle ramparts, lush rainforests and bustling cities, all taken from the visually rich and varied universes of Sonic and SEGA. Fan favorites such as Dr. Eggman, Tails, AiAi, Amigo and many more will join Sonic in their custom built vehicles, revving their engines and jostling to stay ahead of the pack. Each character will speed around the track in cars, planes, motorbikes, and in Aiai's case -- a banana mobile! Secret short cuts, swift handling and avoiding strategically placed obstacles are certainly the best way to get to the top of the podium.</desc>
+		<image>./images/Sonic &amp; Sega All-Stars Racing (USA) (En,Fr,Es) (Demo)-image.png</image>
+		<video>./videos/Sonic &amp; Sega All-Stars Racing (USA) (En,Fr,Es) (Demo)-video.mp4</video>
+		<marquee>./images/Sonic &amp; Sega All-Stars Racing (USA) (En,Fr,Es) (Demo)-marquee.png</marquee>
+		<thumbnail>./images/Sonic &amp; Sega All-Stars Racing (USA) (En,Fr,Es) (Demo)-thumb.png</thumbnail>
+		<fanart>./images/Sonic &amp; Sega All-Stars Racing (USA) (En,Fr,Es) (Demo)-fanart.jpg</fanart>
+		<rating>0.7</rating>
+		<releasedate>20100223T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving</genre>
+		<family>Sonic</family>
+		<players>1-4</players>
+		<md5>380fabe91a2992b0c011da894cdd1bb1</md5>
+		<lang>en,es,fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231005T071047" />
+	</game>
+	<game id="5794">
+		<path>./No-Intro/Sonic Colors (USA) (En,Fr,Es) (Rev 1) (Demo).bin</path>
+		<name>Sonic Colours</name>
+		<desc>An extraordinary amusement park has been seen orbiting around the home planet of Sonic the Hedgehog, and rumors are spreading that an alien race of Wisps, who have a unique colorful energy, are being held captive there by the evil Dr. Eggman. Soon after arriving at the amusement park, Sonic discovers he is able to use these mysterious alien forces to help the Wisps escape!</desc>
+		<image>./images/Sonic Colors (USA) (En,Fr,Es) (Rev 1) (Demo)-image.png</image>
+		<video>./videos/Sonic Colors (USA) (En,Fr,Es) (Rev 1) (Demo)-video.mp4</video>
+		<marquee>./images/Sonic Colors (USA) (En,Fr,Es) (Rev 1) (Demo)-marquee.png</marquee>
+		<thumbnail>./images/Sonic Colors (USA) (En,Fr,Es) (Rev 1) (Demo)-thumb.png</thumbnail>
+		<fanart>./images/Sonic Colors (USA) (En,Fr,Es) (Rev 1) (Demo)-fanart.jpg</fanart>
+		<rating>0.8</rating>
+		<releasedate>20101116T000000</releasedate>
+		<developer>Dimps</developer>
+		<publisher>SEGA</publisher>
+		<genre>Platform</genre>
+		<family>Sonic</family>
+		<players>1-2</players>
+		<md5>307233d36d3e659d394f0f1709dc458e</md5>
+		<lang>en,es,fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231005T071047" />
+	</game>
+	<game id="204104">
+		<path>./No-Intro/SpongeBob's Truth or Square (USA) (Demo) (Nintendo Channel).bin</path>
+		<name>SpongeBob's Truth or Square</name>
+		<desc>SpongeBob SquarePants has gotten himself into quite a predicament. After being entrusted by Mr. Krabs to keep the Krabby Patty formula safe, he is overcome with grief for losing the recipe. He then relies on the help of the most unlikely companion, Plankton, who wants the secret Krabby Patty recipe to himself. With the help of his friend, SpongeBob must use Plankton's memory machine to retrace the happiest moments of his life to find the Krabby Patty formula in time for the Krusty Krab's Eleventy Seventh anniversary.</desc>
+		<image>./images/SpongeBob's Truth or Square (USA) (Demo) (Nintendo Channel)-image.png</image>
+		<video>./videos/SpongeBob's Truth or Square (USA) (Demo) (Nintendo Channel)-video.mp4</video>
+		<marquee>./images/SpongeBob's Truth or Square (USA) (Demo) (Nintendo Channel)-marquee.png</marquee>
+		<thumbnail>./images/SpongeBob's Truth or Square (USA) (Demo) (Nintendo Channel)-thumb.png</thumbnail>
+		<releasedate>20091026T000000</releasedate>
+		<developer>Altron</developer>
+		<publisher>THQ</publisher>
+		<genre>Action / Adventure</genre>
+		<family>Spongebob Squarepants</family>
+		<players>1-2</players>
+		<md5>fe2d482d44c8eb24874f259852791c1c</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231005T071051" />
 	</game>
 </gameList>

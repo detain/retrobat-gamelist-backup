@@ -10983,5 +10983,41 @@ Zork Zero: The Revenge of Megaboz is chronologically a prequel to the first thre
 		<path>./TOSEC/Applications/Public Domain/[ADF]/ProTracker v3.51 (1996-03-23)(Cryptoburners - RD10)(FW)[h TEC Design - Metal Impact][WB]/ProTracker v3.51 (1996-03-23)(Cryptoburners - RD10)(FW)[h TEC Design - Metal Impact][WB].adf</path>
 		<name>ProTracker v3.51 (1996-03-23)(Cryptoburners - RD10)(FW)[h TEC Design - Metal Impact][WB]</name>
 		<md5>6fd0c344d16f69637a8d7e326d1db9e9</md5>
+		<scrap name="ScreenScraper" date="20231005T070847" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/Public Domain/[ADF]/ProTracker v3.55 (1996-06-13)(Cryptoburners - RD10)(FW)[hTEC Design][WB]/ProTracker v3.55 (1996-06-13)(Cryptoburners - RD10)(FW)[hTEC Design][WB].adf</path>
+		<name>ProTracker v3.55 (1996-06-13)(Cryptoburners - RD10)(FW)[hTEC Design][WB]</name>
+		<md5>7e602524669e6b0d07c6d36dfb16bb55</md5>
+		<scrap name="ScreenScraper" date="20231005T070849" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/Public Domain/[ADF]/ProTracker v3.58 (1996-06-30)(Cryptoburners - RD10)(FW)[WB]/ProTracker v3.58 (1996-06-30)(Cryptoburners - RD10)(FW)[WB].adf</path>
+		<name>ProTracker v3.58 (1996-06-30)(Cryptoburners - RD10)(FW)[WB]</name>
+		<md5>ddb0926631a16d67706e1f4e5caeb7d8</md5>
+		<scrap name="ScreenScraper" date="20231005T070850" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/Public Domain/[ADF]/ProTracker v3.60 (1996-07-12)(Cryptoburners - RD10)(FW)[WB]/ProTracker v3.60 (1996-07-12)(Cryptoburners - RD10)(FW)[WB].adf</path>
+		<name>ProTracker v3.60 (1996-07-12)(Cryptoburners - RD10)(FW)[WB]</name>
+		<md5>e30d100d87ea8e2992d1847f509d4ef7</md5>
+		<scrap name="ScreenScraper" date="20231005T070852" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/Public Domain/[ADF]/ProTracker v3.61 (1996-08-22)(Cryptoburners - RD10)(FW)[68000 version]/ProTracker v3.61 (1996-08-22)(Cryptoburners - RD10)(FW)[68000 version].adf</path>
+		<name>ProTracker v3.61 (1996-08-22)(Cryptoburners - RD10)(FW)[68000 version]</name>
+		<md5>d199b90eb0afc30944bfb7b54996963a</md5>
+		<scrap name="ScreenScraper" date="20231005T070853" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/Public Domain/[ADF]/ProTracker v3.61 (1996-08-22)(Cryptoburners - RD10)(FW)[m][68000 version]/ProTracker v3.61 (1996-08-22)(Cryptoburners - RD10)(FW)[m][68000 version].adf</path>
+		<name>ProTracker v3.61 (1996-08-22)(Cryptoburners - RD10)(FW)[m][68000 version]</name>
+		<md5>724d328635ec6364b5713d5b5f722777</md5>
+		<scrap name="ScreenScraper" date="20231005T070855" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/Public Domain/[ADF]/ProTracker v3.62 (1996-08-30)(Cryptoburners - RD10)(FW)[WB][FFS]/ProTracker v3.62 (1996-08-30)(Cryptoburners - RD10)(FW)[WB][FFS].adf</path>
+		<name>ProTracker v3.62 (1996-08-30)(Cryptoburners - RD10)(FW)[WB][FFS]</name>
+		<md5>b8b4dbf51b9b7bfca133b495adb35957</md5>
 	</game>
 </gameList>
