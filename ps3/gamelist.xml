@@ -301,12 +301,6 @@ The only rule in Need for Speed Most Wanted is to race without rules. There's a 
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20230215T185011" />
 	</game>
-	<game>
-		<path>./NEOGEO Station - Super Sidekicks.m3u</path>
-		<name>NEOGEO Station - Super Sidekicks</name>
-		<md5>413288bd95bbb55a26587802b1a40409</md5>
-		<scrap name="ScreenScraper" date="20230215T185013" />
-	</game>
 	<game id="26997">
 		<path>./NFL Blitz.m3u</path>
 		<name>Nfl Blitz</name>
@@ -331,12 +325,6 @@ The only rule in Need for Speed Most Wanted is to race without rules. There's a 
 		<name>NHL Game Center</name>
 		<md5>5c9609d2fff15ec14ed5673f419119b6</md5>
 		<scrap name="ScreenScraper" date="20230215T185028" />
-	</game>
-	<game>
-		<path>./Ni No Kuni - Wrath of the White Witch - Part 2 (Install both parts separately).m3u</path>
-		<name>Ni No Kuni - Wrath of the White Witch - Part 2 (Install both parts separately)</name>
-		<md5>422ae0dfd2adcf2bf23df1ea5de54c6c</md5>
-		<scrap name="ScreenScraper" date="20230215T185032" />
 	</game>
 	<game>
 		<path>./NiGHTS into dreams....m3u</path>
@@ -461,12 +449,6 @@ The only rule in Need for Speed Most Wanted is to race without rules. There's a 
 		<md5>e0aa2e62ce18e2540121578e254b73a6</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20230215T185128" />
-	</game>
-	<game>
-		<path>./Oddworld Munchs Oddysee HD.m3u</path>
-		<name>Oddworld Munchs Oddysee HD</name>
-		<md5>0f8f5b00af44757cb9e9499acbdab6e4</md5>
-		<scrap name="ScreenScraper" date="20230215T185129" />
 	</game>
 	<game id="201301">
 		<path>./Odin Sphere Leifthrasir.m3u</path>
@@ -776,12 +758,6 @@ Unlike past editions or the original itself, Championship Edition DX twists the 
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20230215T185335" />
 	</game>
-	<game>
-		<path>./PiD.m3u</path>
-		<name>PiD</name>
-		<md5>5ab67be3d2d1d3c73eaa9a299f6e82a8</md5>
-		<scrap name="ScreenScraper" date="20230215T185339" />
-	</game>
 	<game id="26511">
 		<path>./Pinballistik.m3u</path>
 		<name>Pinballistik</name>
@@ -908,12 +884,6 @@ Unlike past editions or the original itself, Championship Edition DX twists the 
 		<md5>9e8c164f005efe212e9b7cbc99251c42</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20230215T185437" />
-	</game>
-	<game>
-		<path>./Sly Cooper and the Thievius Raccoounus.m3u</path>
-		<name>Sly Cooper and the Thievius Raccoounus</name>
-		<md5>6e33a0b0578d41475468c04c87a6af76</md5>
-		<scrap name="ScreenScraper" date="20230215T185439" />
 	</game>
 	<game id="26911">
 		<path>./Smash Cars.m3u</path>
@@ -1120,12 +1090,6 @@ Unlike past editions or the original itself, Championship Edition DX twists the 
 		<scrap name="ScreenScraper" date="20230215T185622" />
 	</game>
 	<game>
-		<path>./Sonic The Hedgehog 4 Episode 1.m3u</path>
-		<name>Sonic The Hedgehog 4 Episode 1</name>
-		<md5>31640ecae688f785ab9ff3a9680780d2</md5>
-		<scrap name="ScreenScraper" date="20230215T185624" />
-	</game>
-	<game>
 		<path>./Sonic The Hedgehog 4 Episode 2.m3u</path>
 		<name>Sonic The Hedgehog 4 Episode 2</name>
 		<md5>f5deed44c42118ac0a7f9b113f5f872f</md5>
@@ -1198,12 +1162,6 @@ Unlike past editions or the original itself, Championship Edition DX twists the 
 		<md5>f6a3656732fa7d54efc4896d1cde4a0d</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20230215T185704" />
-	</game>
-	<game>
-		<path>./Soul Calibur 2 HD Online.m3u</path>
-		<name>Soul Calibur 2 HD Online</name>
-		<md5>7d460ebe57604cf8c942b856daed498a</md5>
-		<scrap name="ScreenScraper" date="20230215T185706" />
 	</game>
 	<game id="26136">
 		<path>./Sound Shapes.m3u</path>
@@ -1309,12 +1267,6 @@ New enemies also appear, as well as the Space Invaders from the original game, r
 		<md5>26a45a2b4ddf62f7aba17ce0c0ae02de</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20230215T185750" />
-	</game>
-	<game>
-		<path>./Sparkle 2.m3u</path>
-		<name>Sparkle 2</name>
-		<md5>32e6525895d01a410a5aa8ef98068b63</md5>
-		<scrap name="ScreenScraper" date="20230215T185751" />
 	</game>
 	<game id="25249">
 		<path>./SPARTACUS LEGENDS.m3u</path>
@@ -1446,12 +1398,6 @@ The Engineers attempts to flee Site F using Briggs and the other hostages as hum
 		<scrap name="ScreenScraper" date="20230215T185844" />
 	</game>
 	<game>
-		<path>./SpongeBob SquarePants Planktons Robotic Revenge.m3u</path>
-		<name>SpongeBob SquarePants Planktons Robotic Revenge</name>
-		<md5>6a79f42667c16b7dbb4a61564e37d39e</md5>
-		<scrap name="ScreenScraper" date="20230215T185846" />
-	</game>
-	<game>
 		<path>./Sportfriends.m3u</path>
 		<name>Sportfriends</name>
 		<md5>1f640f90856d53c5e310fe45b6cec44b</md5>
@@ -1559,12 +1505,6 @@ The Gorn Return - Determined to conquer the galaxy, the Gorn returns as re-imagi
 		<scrap name="ScreenScraper" date="20230215T185934" />
 	</game>
 	<game>
-		<path>./Star Wars - The Force Unleashed 2.m3u</path>
-		<name>Star Wars - The Force Unleashed 2</name>
-		<md5>9404f0a83de2ffa3c69b03612a366f0a</md5>
-		<scrap name="ScreenScraper" date="20230215T185936" />
-	</game>
-	<game>
 		<path>./Star Wars Pinball.m3u</path>
 		<name>Star Wars Pinball</name>
 		<md5>5fb6ff10c87ab1a998c29434a6437cf3</md5>
@@ -1582,12 +1522,6 @@ The Gorn Return - Determined to conquer the galaxy, the Gorn returns as re-imagi
 		<md5>a760d92270079aa426bc9ecdf2ea1512</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20230215T185940" />
-	</game>
-	<game>
-		<path>./Starhawk Solo Campaign.m3u</path>
-		<name>Starhawk Solo Campaign</name>
-		<md5>5903b0f71805cad330f6d0caaa2da847</md5>
-		<scrap name="ScreenScraper" date="20230215T185942" />
 	</game>
 	<game id="25773">
 		<path>./Starhawk.m3u</path>
@@ -1873,12 +1807,6 @@ The Gorn Return - Determined to conquer the galaxy, the Gorn returns as re-imagi
 		<name>Tales of Monkey Island - Chapter 2</name>
 		<md5>c8485f1e5d9f288c866876a873fe62dc</md5>
 		<scrap name="ScreenScraper" date="20230215T190143" />
-	</game>
-	<game>
-		<path>./Tales of Monkey Island - Chapter 3.m3u</path>
-		<name>Tales of Monkey Island - Chapter 3</name>
-		<md5>529481e6c94ecb46ac1312392041f408</md5>
-		<scrap name="ScreenScraper" date="20230215T190145" />
 	</game>
 	<game>
 		<path>./Tales of Monkey Island - Chapter 5.m3u</path>
@@ -2332,12 +2260,6 @@ Support the Thunder Wolves in their global battle against terrorism. Take part i
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20230215T190512" />
 	</game>
-	<game>
-		<path>./TMNT - Out of the Shadows.m3u</path>
-		<name>TMNT - Out of the Shadows</name>
-		<md5>38ef4db6c9fbc5447505f2f47fb0b617</md5>
-		<scrap name="ScreenScraper" date="20230215T190513" />
-	</game>
 	<game id="27094">
 		<path>./TNT Racers.m3u</path>
 		<name>Tnt Racers</name>
@@ -2470,12 +2392,6 @@ Support the Thunder Wolves in their global battle against terrorism. Take part i
 		<md5>e912de89343a708607f3a1f31b96afa4</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20230215T190605" />
-	</game>
-	<game>
-		<path>./Topatoi.m3u</path>
-		<name>Topatoi</name>
-		<md5>e85b52d0724b222588291209a3187a41</md5>
-		<scrap name="ScreenScraper" date="20230215T190606" />
 	</game>
 	<game id="27694">
 		<path>./Tower of Guns.m3u</path>
@@ -2831,12 +2747,6 @@ Taking full advantage of the power of PS3, Uncharted: Drake?s Fortune is develop
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20230215T190848" />
 	</game>
-	<game>
-		<path>./VooDoo Chronicles.m3u</path>
-		<name>VooDoo Chronicles</name>
-		<md5>46364262c64cbd5520cbc3b3bc2db60b</md5>
-		<scrap name="ScreenScraper" date="20230215T190850" />
-	</game>
 	<game id="26957">
 		<path>./VooDoo Dice.m3u</path>
 		<name>Voodoo Dice</name>
@@ -3018,12 +2928,6 @@ Players can fully enjoy the dramatic story WARRIORS OROCHI 3's many heroes even 
 		<scrap name="ScreenScraper" date="20230215T190955" />
 	</game>
 	<game>
-		<path>./Whitetail Challenge.m3u</path>
-		<name>Whitetail Challenge</name>
-		<md5>5c40e4bd8dcc346a976d64f5e01ad1f3</md5>
-		<scrap name="ScreenScraper" date="20230215T190957" />
-	</game>
-	<game>
 		<path>./Who Wants To Be A Millionaire.m3u</path>
 		<name>Who Wants To Be A Millionaire</name>
 		<md5>ba4e7966fdb91e9c36f0d287bed9cb89</md5>
@@ -3043,12 +2947,6 @@ Players can fully enjoy the dramatic story WARRIORS OROCHI 3's many heroes even 
 		<md5>9458dad146131e3c1b15e16a68381439</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20230215T191006" />
-	</game>
-	<game>
-		<path>./Wolf Among Us - Episode 1 Faith.m3u</path>
-		<name>Wolf Among Us - Episode 1 Faith</name>
-		<md5>bd379c11ff07791c86660cd72803f7dd</md5>
-		<scrap name="ScreenScraper" date="20230215T191008" />
 	</game>
 	<game id="26846">
 		<path>./Wolf of The Battlefield Commando 3.m3u</path>
@@ -3348,12 +3246,6 @@ Wonder Boy In Monster World is the third game in the Monster World spin-off seri
 		<md5>57dec673a0e13a68a8242fa643ca73c5</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20230215T191212" />
-	</game>
-	<game>
-		<path>./Zombie Tycoon 2 - Brainhovs Revenge.m3u</path>
-		<name>Zombie Tycoon 2 - Brainhovs Revenge</name>
-		<md5>af33a8d880c455fd910eb265aac8db48</md5>
-		<scrap name="ScreenScraper" date="20230215T191214" />
 	</game>
 	<game>
 		<path>./Zone Of The Enders HD Edition.m3u</path>
@@ -3664,12 +3556,6 @@ Players can unlock a total of 118 playable characters, which includes characters
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20230406T010843" />
 	</game>
-	<game>
-		<path>./NASCAR 15 - Victory Edition.m3u</path>
-		<name>NASCAR 15 - Victory Edition</name>
-		<md5>14f8e6e1c3908db7038a4e74968eb85a</md5>
-		<scrap name="ScreenScraper" date="20230406T010844" />
-	</game>
 	<game id="24989">
 		<path>./Natural Doctrine.m3u</path>
 		<name>Natural Doctrine</name>
@@ -3709,12 +3595,6 @@ Players can unlock a total of 118 playable characters, which includes characters
 		<md5>11db213b47b21f86d8fcd63f918c4340</md5>
 		<scrap name="ScreenScraper" date="20230406T010851" />
 	</game>
-	<game>
-		<path>./Tumble.m3u</path>
-		<name>Tumble</name>
-		<md5>6ed179e7b88878ccd2ee6a4512602e5a</md5>
-		<scrap name="ScreenScraper" date="20230406T010852" />
-	</game>
 	<game id="25052">
 		<path>./UFC Undisputed 3.m3u</path>
 		<name>Ufc Undisputed 3</name>
@@ -3727,5 +3607,145 @@ Players can unlock a total of 118 playable characters, which includes characters
 		<md5>6a9ec7df4d4213df1ce9b6d34b2ad7f1</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20230406T010853" />
+	</game>
+	<game>
+		<path>./NASCAR 15 - Victory Edition.m3u</path>
+		<name>NASCAR 15 - Victory Edition</name>
+		<md5>14f8e6e1c3908db7038a4e74968eb85a</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230406T010844" />
+	</game>
+	<game>
+		<path>./NEOGEO Station - Super Sidekicks.m3u</path>
+		<name>NEOGEO Station - Super Sidekicks</name>
+		<md5>413288bd95bbb55a26587802b1a40409</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230215T185013" />
+	</game>
+	<game>
+		<path>./Ni No Kuni - Wrath of the White Witch - Part 2 (Install both parts separately).m3u</path>
+		<name>Ni No Kuni - Wrath of the White Witch - Part 2 (Install both parts separately)</name>
+		<md5>422ae0dfd2adcf2bf23df1ea5de54c6c</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230215T185032" />
+	</game>
+	<game>
+		<path>./Oddworld Munchs Oddysee HD.m3u</path>
+		<name>Oddworld Munchs Oddysee HD</name>
+		<md5>0f8f5b00af44757cb9e9499acbdab6e4</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230215T185129" />
+	</game>
+	<game>
+		<path>./PiD.m3u</path>
+		<name>PiD</name>
+		<md5>5ab67be3d2d1d3c73eaa9a299f6e82a8</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230215T185339" />
+	</game>
+	<game>
+		<path>./Sly Cooper and the Thievius Raccoounus.m3u</path>
+		<name>Sly Cooper and the Thievius Raccoounus</name>
+		<md5>6e33a0b0578d41475468c04c87a6af76</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230215T185439" />
+	</game>
+	<game>
+		<path>./Sonic The Hedgehog 4 Episode 1.m3u</path>
+		<name>Sonic The Hedgehog 4 Episode 1</name>
+		<md5>31640ecae688f785ab9ff3a9680780d2</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230215T185624" />
+	</game>
+	<game>
+		<path>./Soul Calibur 2 HD Online.m3u</path>
+		<name>Soul Calibur 2 HD Online</name>
+		<md5>7d460ebe57604cf8c942b856daed498a</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230215T185706" />
+	</game>
+	<game>
+		<path>./Sparkle 2.m3u</path>
+		<name>Sparkle 2</name>
+		<md5>32e6525895d01a410a5aa8ef98068b63</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230215T185751" />
+	</game>
+	<game>
+		<path>./SpongeBob SquarePants Planktons Robotic Revenge.m3u</path>
+		<name>SpongeBob SquarePants Planktons Robotic Revenge</name>
+		<md5>6a79f42667c16b7dbb4a61564e37d39e</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230215T185846" />
+	</game>
+	<game>
+		<path>./Star Wars - The Force Unleashed 2.m3u</path>
+		<name>Star Wars - The Force Unleashed 2</name>
+		<md5>9404f0a83de2ffa3c69b03612a366f0a</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230215T185936" />
+	</game>
+	<game>
+		<path>./Starhawk Solo Campaign.m3u</path>
+		<name>Starhawk Solo Campaign</name>
+		<md5>5903b0f71805cad330f6d0caaa2da847</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230215T185942" />
+	</game>
+	<game>
+		<path>./Tales of Monkey Island - Chapter 3.m3u</path>
+		<name>Tales of Monkey Island - Chapter 3</name>
+		<md5>529481e6c94ecb46ac1312392041f408</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230215T190145" />
+	</game>
+	<game>
+		<path>./TMNT - Out of the Shadows.m3u</path>
+		<name>TMNT - Out of the Shadows</name>
+		<md5>38ef4db6c9fbc5447505f2f47fb0b617</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230215T190513" />
+	</game>
+	<game>
+		<path>./Topatoi.m3u</path>
+		<name>Topatoi</name>
+		<md5>e85b52d0724b222588291209a3187a41</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230215T190606" />
+	</game>
+	<game>
+		<path>./Tumble.m3u</path>
+		<name>Tumble</name>
+		<md5>6ed179e7b88878ccd2ee6a4512602e5a</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230406T010852" />
+	</game>
+	<game>
+		<path>./VooDoo Chronicles.m3u</path>
+		<name>VooDoo Chronicles</name>
+		<md5>46364262c64cbd5520cbc3b3bc2db60b</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230215T190850" />
+	</game>
+	<game>
+		<path>./Whitetail Challenge.m3u</path>
+		<name>Whitetail Challenge</name>
+		<md5>5c40e4bd8dcc346a976d64f5e01ad1f3</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230215T190957" />
+	</game>
+	<game>
+		<path>./Wolf Among Us - Episode 1 Faith.m3u</path>
+		<name>Wolf Among Us - Episode 1 Faith</name>
+		<md5>bd379c11ff07791c86660cd72803f7dd</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230215T191008" />
+	</game>
+	<game>
+		<path>./Zombie Tycoon 2 - Brainhovs Revenge.m3u</path>
+		<name>Zombie Tycoon 2 - Brainhovs Revenge</name>
+		<md5>af33a8d880c455fd910eb265aac8db48</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230215T191214" />
 	</game>
 </gameList>

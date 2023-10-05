@@ -151,29 +151,6 @@ In addition to the on-line mode of play, there is a single player career mode.  
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230216T093014" />
 	</game>
-	<game id="13738">
-		<path>./TOSEC-ISO/Games/US/AeroWings 2 - Airstrike v1.001 (2000)(Crave)(US)[!]/AeroWings 2 - Airstrike v1.001 (2000)(Crave)(US)[!].gdi</path>
-		<name>AeroWings 2 : Airstrike</name>
-		<desc>Aerowings 2 on Dreamcast, unlike its totally peaceful predecessor, this time offers you to be in command of heavily armed planes. About fifteen devices are available, and you will unlock paintings and other customization possibilities as you progress in the game.</desc>
-		<image>./images/AeroWings 2 - Airstrike v1.001 (2000)(Crave)(US)[!]-image.png</image>
-		<video>./videos/AeroWings 2 - Airstrike v1.001 (2000)(Crave)(US)[!]-video.mp4</video>
-		<marquee>./images/AeroWings 2 - Airstrike v1.001 (2000)(Crave)(US)[!]-marquee.png</marquee>
-		<thumbnail>./images/AeroWings 2 - Airstrike v1.001 (2000)(Crave)(US)[!]-thumb.png</thumbnail>
-		<fanart>./images/AeroWings 2 - Airstrike v1.001 (2000)(Crave)(US)[!]-fanart.jpg</fanart>
-		<manual>./manuals/AeroWings 2 - Airstrike v1.001 (2000)(Crave)(US)[!]-manual.pdf</manual>
-		<bezel>./images/AeroWings 2 - Airstrike v1.001 (2000)(Crave)(US)[!]-bezel.png</bezel>
-		<boxback>./images/AeroWings 2 - Airstrike v1.001 (2000)(Crave)(US)[!]-boxback.png</boxback>
-		<rating>0.65</rating>
-		<releasedate>20000824T000000</releasedate>
-		<developer>CRI</developer>
-		<publisher>Crave Entertainment</publisher>
-		<genre>Simulation / Vehicle</genre>
-		<players>2</players>
-		<md5>5b38a611e63871dc385875fb740c00e9</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230216T093032" />
-	</game>
 	<game id="13634">
 		<path>./TOSEC-ISO/Games/US/AeroWings v1.002 (1999)(Crave)(US)[!]/AeroWings v1.002 (1999)(Crave)(US)[!].gdi</path>
 		<name>AeroWings</name>
@@ -7460,5 +7437,31 @@ Alone or in a network, command one of the 3 special agents of your choice and ri
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230216T110423" />
+	</game>
+	<game id="13738">
+		<path>./TOSEC-ISO/Games/US/AeroWings 2 - Airstrike v1.001 (2000)(Crave)(US)[!]/AeroWings 2 - Airstrike v1.001 (2000)(Crave)(US)[!].gdi</path>
+		<name>AeroWings 2 : Airstrike</name>
+		<desc>Aerowings 2 on Dreamcast, unlike its totally peaceful predecessor, this time offers you to be in command of heavily armed planes. About fifteen devices are available, and you will unlock paintings and other customization possibilities as you progress in the game.</desc>
+		<image>./images/AeroWings 2 - Airstrike v1.001 (2000)(Crave)(US)[!]-image.png</image>
+		<video>./videos/AeroWings 2 - Airstrike v1.001 (2000)(Crave)(US)[!]-video.mp4</video>
+		<marquee>./images/AeroWings 2 - Airstrike v1.001 (2000)(Crave)(US)[!]-marquee.png</marquee>
+		<thumbnail>./images/AeroWings 2 - Airstrike v1.001 (2000)(Crave)(US)[!]-thumb.png</thumbnail>
+		<fanart>./images/AeroWings 2 - Airstrike v1.001 (2000)(Crave)(US)[!]-fanart.jpg</fanart>
+		<manual>./manuals/AeroWings 2 - Airstrike v1.001 (2000)(Crave)(US)[!]-manual.pdf</manual>
+		<bezel>./images/AeroWings 2 - Airstrike v1.001 (2000)(Crave)(US)[!]-bezel.png</bezel>
+		<boxback>./images/AeroWings 2 - Airstrike v1.001 (2000)(Crave)(US)[!]-boxback.png</boxback>
+		<rating>0.65</rating>
+		<releasedate>20000824T000000</releasedate>
+		<developer>CRI</developer>
+		<publisher>Crave Entertainment</publisher>
+		<genre>Simulation / Vehicle</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20230908T055245</lastplayed>
+		<md5>5b38a611e63871dc385875fb740c00e9</md5>
+		<gametime>58</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230216T093032" />
 	</game>
 </gameList>

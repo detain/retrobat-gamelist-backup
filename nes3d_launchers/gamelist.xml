@@ -1,0 +1,1938 @@
+<?xml version="1.0"?>
+<gameList>
+	<game id="1499">
+		<path>./Adventures of Lolo 3.3dsen</path>
+		<name>Adventures of Lolo 3</name>
+		<desc>This time, Lolo has a red friend who will do for him some of the work. Unlike the two previous Lolo games, here you can wander around a world map and enter different locations in a non-linear fashion. However, some of the locations remain blocked until you find a key after completing another level. 
+
+The gameplay is very similar to the one of the two previous games. You have to collect all the hearts in each room. Enemies will prevent you from doing that, and others will appear once you have eaten all the hearts and are hurrying towards the exit. The puzzles involve mostly pushing things to prevent enemies from stopping you.</desc>
+		<image>./images/Adventures of Lolo 3-image.png</image>
+		<marquee>./images/Adventures of Lolo 3-marquee.png</marquee>
+		<thumbnail>./images/Adventures of Lolo 3-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19910902T000000</releasedate>
+		<developer>HAL Laboratory</developer>
+		<publisher>HAL Laboratory</publisher>
+		<genre>Strategy</genre>
+		<family>Adventures Of Lolo</family>
+		<players>1</players>
+		<md5>3dc676f6a0d1e400bb4e1bf908e4c46a</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>DC79B80FAD740BAFD7F485DD5D413740</cheevosHash>
+		<cheevosId>1532</cheevosId>
+		<scrap name="ScreenScraper" date="20230627T170345" />
+		<scrap name="HfsDB" date="20230627T162559" />
+	</game>
+	<game id="1401">
+		<path>./Arkanoid.3dsen</path>
+		<name>Arkanoid</name>
+		<desc>The original Breakout concept involves controlling a bat at the bottom of the screen and using it to catch and direct a ball so as to hit all the bricks which are arranged at the top of the screen. It was unpopular for over a decade, before Taito revived it with some new ideas in this arcade game.
+The game's plot redefines the bat as a Vaus spaceship, the ball as an energy bolt, and the bricks form a mysterious wall stopping the ship from progressing to safety.
+By the mid-80s, power-ups were popular in most types of arcade games, and Arkanoid features them. They are caught by positioning the bat below them as they fall (meaning that you risk missing the ball if you go for them at the wrong time). The power-ups include lasers (which are mounted to each side of the ship and allow you to shoot out the blocks), a catching device (so as to be able to fire the ball off at a different angle every time you hit it) and one that slows the bolt down.</desc>
+		<image>./images/Arkanoid-image.png</image>
+		<marquee>./images/Arkanoid-marquee.png</marquee>
+		<thumbnail>./images/Arkanoid-thumb.png</thumbnail>
+		<rating>0.6</rating>
+		<releasedate>19870801T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Action / Breakout games</genre>
+		<family>Arkanoid</family>
+		<players>1-2</players>
+		<md5>6a2bfa3c6e9b1ce1e21aabd0dfbf2779</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>0CCC1A2FE5214354C3FD75A6C81550CC</cheevosHash>
+		<cheevosId>1545</cheevosId>
+		<scrap name="ScreenScraper" date="20230627T170346" />
+		<scrap name="HfsDB" date="20230627T162658" />
+	</game>
+	<game id="1453">
+		<path>./Balloon Fight.3dsen</path>
+		<name>Balloon Fight</name>
+		<desc>In Balloon Fight you need to fly around with the aid of two balloons and try to pop your opponents balloons before they pop yours. Landing on top of your opponents will cause their balloon to pop and they will use a parachute to fall to safety. You then need to destroy the fallen opponent by running into it before it can blow up a new balloon and rejoin the battle. Should both of your balloons get popped, you will fall into the water below and lose a life. There is also a second game variation called "balloon trip" where you need to collect as many balloons as possible while avoiding the ocean below and lightning which forms maze like walls.</desc>
+		<image>./images/Balloon Fight-image.png</image>
+		<marquee>./images/Balloon Fight-marquee.png</marquee>
+		<thumbnail>./images/Balloon Fight-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19860602T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+		<md5>04855cd998b41c56c22ce451b1879a05</md5>
+		<lang>en</lang>
+		<cheevosHash>1457475741846A01399DC663135A60C1</cheevosHash>
+		<cheevosId>1556</cheevosId>
+		<scrap name="ScreenScraper" date="20230627T170346" />
+		<scrap name="HfsDB" date="20230627T162659" />
+	</game>
+	<game id="1287">
+		<path>./Batman.3dsen</path>
+		<name>Batman : The Video Game</name>
+		<desc>The NES version of Batman: The Video Game is loosely based on the 1989 movie. It is a side-scrolling game, with a blue dressed Batman fighting enemies such as robots, jet-packed soldiers, ninjas and mutants.
+
+The game consists in five levels somewhat related to the movie: Gotham City streets (with Killer Moth as the final boss), AXIS Chemical Factory (with Machine Intelligence System as boss), Underground Conduit (with Electrocutioner as boss), the Laboratory Ruins (the Dual-Container Alarm as boss) and Gotham's Cathedral (with Firebug as boss) where Batman finally faces the Joker. Before each level, a cutscene with scenes from the movie is displayed.
+
+Besides his ever trusting punches, Batman has plenty of weapons in his utility belt: the Batarang, the Spear Gun and the Dirk (a three direction weapon). Batman has an ammunition counter shared for the three weapons. The Batarang takes one pellet per shot, the Spear Gun two pellets and the Dirk, three. Batman also has an eight hit life bar, which can be replenished by collecting hearts dropped by killed enemies. The enemies will also drop pellet items (10 pellets per item) and bonus items (which will only sum up points).
+
+Batman can also perform a "wall jump": he'll grab a wall when jumping toward it, allowing him to escalate some narrow passages. Batman has three lives and unlimited continues.</desc>
+		<image>./images/Batman-image.png</image>
+		<marquee>./images/Batman-marquee.png</marquee>
+		<thumbnail>./images/Batman-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>19900201T000000</releasedate>
+		<developer>Sunsoft</developer>
+		<publisher>Sunsoft</publisher>
+		<genre>Platform</genre>
+		<family>Batman</family>
+		<players>1</players>
+		<md5>62da40d0eafa92d8e4e17612bfd6ff7f</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>341F6FD28FCDC7E246DED2750DD1C1E9</cheevosHash>
+		<cheevosId>1458</cheevosId>
+		<scrap name="ScreenScraper" date="20230627T170348" />
+		<scrap name="HfsDB" date="20230627T162759" />
+	</game>
+	<game id="1660">
+		<path>./Battle City.3dsen</path>
+		<name>Battle City</name>
+		<desc>Battle City is a refined version of Namco's old arcade game Tank Battalion. Destroy different enemy tanks, while trying to keep them away from your base. When you have destroyed 20 enemy tanks you advance to the next level with different layout. In each level there's some obstacles which you can use to your advantage. Obstacles include red bricks which you can shoot out of your way, silver bricks which are highly armored, water and ice. You start the game with a basic tank, which you can power up to better one little by little. 
+
+The NES game includes a construction mode, so you can make your own levels when you have played through all the 35 original levels.</desc>
+		<image>./images/Battle City-image.png</image>
+		<marquee>./images/Battle City-marquee.png</marquee>
+		<thumbnail>./images/Battle City-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>19850909T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Shooter</genre>
+		<players>1-2</players>
+		<md5>cd4fe2e78df0696dbe652f02c19541a1</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<cheevosHash>A41A8A46771160E97EE5967365C07C83</cheevosHash>
+		<cheevosId>2420</cheevosId>
+		<scrap name="ScreenScraper" date="20230627T170348" />
+		<scrap name="HfsDB" date="20230627T162759" />
+	</game>
+	<game id="143218">
+		<path>./Battle Kid - Fortress of Peril.3dsen</path>
+		<name>Battle Kid : Fortress Of Peril</name>
+		<desc>Battle Kid: Fortress Of Peril is a homebrew 2D platform video game, released in February 2010 for the Nintendo Entertainment System, created by American developer Sivak Games, and published through Retrozone with the cover art designed by Larry Bundy Jr. Unlike most games in the modern era, Battle Kid is available for purchase only on a physical NES cartridge. While there has been a demand for a downloadable version, the developer has stated that the game is currently not planned to be released on any other formats due to a contract with Retrozone.</desc>
+		<image>./images/Battle Kid - Fortress of Peril-image.png</image>
+		<marquee>./images/Battle Kid - Fortress of Peril-marquee.png</marquee>
+		<thumbnail>./images/Battle Kid - Fortress of Peril-thumb.png</thumbnail>
+		<releasedate>20100222T000000</releasedate>
+		<developer>Sivak Games</developer>
+		<publisher>Retrozone</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<md5>74d05b42d63a7669841cf23ca0dcfcad</md5>
+		<lang>en</lang>
+		<cheevosHash>3E66F0771381A31E5B4E93AE8345D281</cheevosHash>
+		<cheevosId>5090</cheevosId>
+		<scrap name="ScreenScraper" date="20230627T170349" />
+		<scrap name="HfsDB" date="20230627T162759" />
+	</game>
+	<game id="1337">
+		<path>./Bomberman.3dsen</path>
+		<name>Bomberman</name>
+		<desc>Bomberman was a robot in a bomb making factory who longed for his freedom. Rumors circulated that escaping to the surface would allow the robot to become human. Getting out would be the trick. Each room is inhabited by monsters that must be neutralized and the exit itself hidden underneath bricks.
+
+The first of the Bomberman series. Bomberman is a single player game with a top down view and simplistic controls. In fact, in addition to movement, you only have a single ability: placing bombs. Each bomb explodes into a cross-shaped blast (4 directions) which can destroy either enemies or blocks. Power-ups may be found to increase the size of the blast, place additional bombs, increase the speed of the Bomberman or to walk through walls. Your goal on each level is to destroy all enemies and escape through the exit before the time limit is up.. Hitting the exit with a bomb blast releases more enemies which must also be destroyed.</desc>
+		<image>./images/Bomberman-image.png</image>
+		<marquee>./images/Bomberman-marquee.png</marquee>
+		<thumbnail>./images/Bomberman-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19890102T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Hudson</publisher>
+		<genre>Puzzle-Game</genre>
+		<family>Bomberman</family>
+		<players>1</players>
+		<md5>97ddb647898b01065f395eb64c3d131f</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>0F9C8D3D3099C70368411F6DF9EF49C1</cheevosHash>
+		<cheevosId>4568</cheevosId>
+		<scrap name="ScreenScraper" date="20230627T170349" />
+		<scrap name="HfsDB" date="20230627T162859" />
+	</game>
+	<game id="1304">
+		<path>./Bubble Bobble.3dsen</path>
+		<name>Bubble Bobble</name>
+		<desc>Bubble Bobble is the story of two humans, Bub and Bob who wander into the mysterious cave of monsters and magically turn into dinosaurs. The only way to transform back is to reach the end of the cave.
+Each level being a single screen. The enemies must be cleared from a level to go to the next one. With one player controlling Bub and the other controlling Bob, the player can jump and collect items for points (such as fruit). The real power Bub and Bob have however is the ability to blow bubbles. These bubbles can be as platforms to leap on, or to trap enemies. Enemies trapped in a bubble must be popped by jumping into them, wherein they'll turn to fruit. Additionally, power-ups sometimes float by in bubbles. They include lightning, which flies out horizontally at enemies, and water, which drags the player and enemies straight down flowing over platforms. Complete any level will summon Baron Von Blubba, who will float around the screen trying to destroy the player.</desc>
+		<image>./images/Bubble Bobble-image.png</image>
+		<marquee>./images/Bubble Bobble-marquee.png</marquee>
+		<thumbnail>./images/Bubble Bobble-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>19881101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Platform</genre>
+		<family>Bubble Bobble</family>
+		<players>1-2</players>
+		<md5>e6cb4e0faf2e944b2a0c8d78a399ac7f</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>629FCEEC5476CDD3FAA371891905EA02</cheevosHash>
+		<cheevosId>1460</cheevosId>
+		<scrap name="ScreenScraper" date="20230627T170351" />
+		<scrap name="HfsDB" date="20230627T162902" />
+	</game>
+	<game id="18608">
+		<path>./Burger Time.3dsen</path>
+		<name>BurgerTime</name>
+		<desc>As Chef Peter Pepper, you must fend off the Food Foes while making perfect burgers! Use pinches of pepper to stun Mr. Hot Dog, Mr. Egg and Mr. Pickle, or lure them onto or under burger buns, lettuce, cheese or tomatoes to escape their clutches! Making perfect burgers gets progressively tougher through the six screens of BurgerTime!</desc>
+		<image>./images/Burger Time-image.png</image>
+		<marquee>./images/Burger Time-marquee.png</marquee>
+		<thumbnail>./images/Burger Time-thumb.png</thumbnail>
+		<rating>0.65</rating>
+		<releasedate>19870501T000000</releasedate>
+		<developer>Sakata</developer>
+		<publisher>Data East</publisher>
+		<genre>Platform</genre>
+		<family>BurgerTime</family>
+		<players>1-2</players>
+		<md5>924f89aad439db0ada794e23075d649f</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>D2C42603A8EC74F51265C085AE26B9BB</cheevosHash>
+		<cheevosId>1600</cheevosId>
+		<scrap name="ScreenScraper" date="20230627T170351" />
+		<scrap name="HfsDB" date="20230627T162903" />
+	</game>
+	<game id="1268">
+		<path>./Castlevania.3dsen</path>
+		<name>Castlevania</name>
+		<desc>Enter at your own risk!
+
+If you think it's scary on the outside, wait till you see the basement. You're in for the longest night of your life. Ghosts, goblins, demons, wolves, bats – creatures lurking around every corner. As you descend deeper and deeper, they get thicker and thicker. Better stick close to the cavern floor - it's your only chance of finding a weapon or two. You're gonna need 'em. Because when you finally meet the Count, you know he'll be going for the jugular. So keep your courage up and your stake sharp. And say your prayers.</desc>
+		<image>./images/Castlevania-image.png</image>
+		<marquee>./images/Castlevania-marquee.png</marquee>
+		<thumbnail>./images/Castlevania-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>19870501T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Adventure</genre>
+		<family>Castlevania</family>
+		<players>1</players>
+		<md5>00d93c9f6b8aefb8b6c02b20147df4ec</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>756170BA1E06FA26C60D10114DC6A5AE</cheevosHash>
+		<cheevosId>1462</cheevosId>
+		<scrap name="ScreenScraper" date="20230627T170352" />
+		<scrap name="HfsDB" date="20230627T163002" />
+	</game>
+	<game id="1281">
+		<path>./Castlevania II - Simon's Quest.3dsen</path>
+		<name>Castlevania II : Simon's Quest</name>
+		<desc>Castlevania II: Simon's Quest is the second one of three Castlevania games released on the NES. After the vampire killer Simon Belmont destroyed Count Dracula in the original Castlevania (1987), an evil curse possessed him. The only way Simon can break the count's curse is to find five of Dracula's body parts (which are mysteriously strewn throughout Transylvania) and burn them. 
+
+Unlike most of the other Castlevania games, Simon's Quest does not feature the traditional stages but allows you to freely roam the land of Transylvania in the style of Nintendo's Metroid. In several towns Simon can talk with NPC's and buy items in shops, adding a touch of role-playing.</desc>
+		<image>./images/Castlevania II - Simon's Quest-image.png</image>
+		<marquee>./images/Castlevania II - Simon's Quest-marquee.png</marquee>
+		<thumbnail>./images/Castlevania II - Simon's Quest-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>19881201T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Konami</publisher>
+		<genre>Adventure</genre>
+		<family>Castlevania</family>
+		<players>1</players>
+		<md5>1b827c602c904d8c846499c9f54b93e0</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>755F9086B0567243B3CE25CC8A6DFD17</cheevosHash>
+		<cheevosId>1461</cheevosId>
+		<scrap name="ScreenScraper" date="20230627T170353" />
+		<scrap name="HfsDB" date="20230627T163004" />
+	</game>
+	<game id="1314">
+		<path>./Chip 'n Dale Rescue Rangers.3dsen</path>
+		<name>Chip 'N Dale : Rescue Rangers</name>
+		<desc>The rescue rangers are tiny heroes. Consisting of two chipmunks, two mice and a fly... these heroes may be small but there's no case too big for them to take on. This game starts out simply enough, with a mission to rescue a small kitten, but soon escalates into a wider plot that pits the rescue rangers against their arch-nemesis, the feline kingpin, Fat Cat.</desc>
+		<image>./images/Chip 'n Dale Rescue Rangers-image.png</image>
+		<marquee>./images/Chip 'n Dale Rescue Rangers-marquee.png</marquee>
+		<thumbnail>./images/Chip 'n Dale Rescue Rangers-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>19900601T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+		<md5>785b8003d146cdcc9f3df1c29ea18ead</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>F0ED8C6D65164F761908BC892C01C65A</cheevosHash>
+		<cheevosId>1463</cheevosId>
+		<scrap name="ScreenScraper" date="20230627T170354" />
+		<scrap name="HfsDB" date="20230627T163102" />
+	</game>
+	<game id="1548">
+		<path>./Circus Charlie.3dsen</path>
+		<name>Circus Charlie</name>
+		<desc>Are you clown enough to brave all five circus acts? Step right up! Step right up! See the amazing Charlie the Clown perform death-defying stunts for your amusement! Jumping through fiery hoops on the back of a lion, evading wild monkeys on a tightrope, walking on balloons, riding a horse across a field of suspended trampolines, swinging from rope to rope high above the ground, there's no challenge crazy enough for Charlie! Guide Charlie and help him reach the end of each stage, and rack up points along the way! One wrong move and it's bye bye Charlie! Mess up too many times and Charlie will get fired!</desc>
+		<image>./images/Circus Charlie-image.png</image>
+		<marquee>./images/Circus Charlie-marquee.png</marquee>
+		<thumbnail>./images/Circus Charlie-thumb.png</thumbnail>
+		<rating>0.5</rating>
+		<releasedate>19860304T000000</releasedate>
+		<developer>Soft Pro International</developer>
+		<publisher>Konami</publisher>
+		<genre>Platform / Run Jump</genre>
+		<players>1-2</players>
+		<md5>8486048c48f40f3787e4b7d9f1788659</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<cheevosHash>EE576F5D0F4BBDB2377160B4AB598C6D</cheevosHash>
+		<scrap name="ScreenScraper" date="20230627T170354" />
+		<scrap name="HfsDB" date="20230627T163102" />
+	</game>
+	<game id="1956">
+		<path>./City Connection.3dsen</path>
+		<name>City Connection</name>
+		<desc>Based on the arcade hit, you must drive along on roads, painting them a different color. When you have all the roads painted, you go on to the next level. Cops are frequent along the roads, but oil cans will quickly stop them in their tracks. Avoid cats and spikes, and collect balloons to warp to further levels.</desc>
+		<image>./images/City Connection-image.png</image>
+		<marquee>./images/City Connection-marquee.png</marquee>
+		<thumbnail>./images/City Connection-thumb.png</thumbnail>
+		<rating>0.65</rating>
+		<releasedate>19880501T000000</releasedate>
+		<developer>Jaleco</developer>
+		<publisher>Jaleco</publisher>
+		<genre>Race, Driving</genre>
+		<players>1-2</players>
+		<md5>c6f8d64a8a776ce99d08675e5ed8116c</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>0C8C3B335A4A24F5FD4F04D049D35CCF</cheevosHash>
+		<cheevosId>1619</cheevosId>
+		<scrap name="ScreenScraper" date="20230627T170355" />
+		<scrap name="HfsDB" date="20230627T163103" />
+	</game>
+	<game id="1528">
+		<path>./Clu Clu Land.3dsen</path>
+		<name>Clu Clu Land</name>
+		<desc>A unique puzzle game in which you play a fish like creature who must explore the many play fields collecting gold bars that form a picture. Enemies litter the field, which you can blast away with a wave of energy, removing them for a short amount of time from the game. You also need to grab onto the posts and walls to turn into the gaps on the field, adding an element of timing to the game.</desc>
+		<image>./images/Clu Clu Land-image.png</image>
+		<marquee>./images/Clu Clu Land-marquee.png</marquee>
+		<thumbnail>./images/Clu Clu Land-thumb.png</thumbnail>
+		<rating>0.6</rating>
+		<releasedate>19851018T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1-2</players>
+		<md5>ad7b5cd8de1e173598c4af91b23e6e26</md5>
+		<lang>en</lang>
+		<cheevosHash>EEBA6EF8992074C5EBBDF0ECD9468E10</cheevosHash>
+		<cheevosId>1623</cheevosId>
+		<scrap name="ScreenScraper" date="20230627T170355" />
+		<scrap name="HfsDB" date="20230627T163203" />
+	</game>
+	<game id="18624">
+		<path>./Contra.3dsen</path>
+		<name>Contra</name>
+		<desc>In the year 2631, a small meteorite has fallen into the Galuga archipelago, located 20km northeast off the coast of New Zealand. Two years later, a terrorist group known as Red Falcon has seized the island in preparation for an alien invasion. The earth's marines sent two members of their elite Contra unit, Bill Rizer and Lance Bean, to neutralize the terrorists.
+
+As either, Bill (player 1) or Lance (player 2), the player must get to the end of each stage, shooting everything in sight, while avoiding enemy fire themselves. The player can upgrade their standard-issue rifle into one of four different weapons, including the powerful spread shot.</desc>
+		<image>./images/Contra-image.png</image>
+		<marquee>./images/Contra-marquee.png</marquee>
+		<thumbnail>./images/Contra-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>19880202T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shooter / Run and Gun</genre>
+		<family>Contra</family>
+		<players>2</players>
+		<md5>7bdad8b4a7a56a634c9649d20bd3011b</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>5A5C2F4F1CAFB1F55A8DC0D5AD4550E5</cheevosHash>
+		<cheevosId>1447</cheevosId>
+		<scrap name="ScreenScraper" date="20230627T170357" />
+		<scrap name="HfsDB" date="20230627T163205" />
+	</game>
+	<game id="1642">
+		<path>./Dig Dug.3dsen</path>
+		<name>Dig Dug</name>
+		<desc>Dig Dug is a 1-2 player arcade game in which you have to use your shovel to dig your way through the earth. Stopping you from doing this are two monsters, called Pooka and Fygar, who will continually chase you around. The only weapon that you carry is an air pump, which you can use to inflate the monsters to the point where they explode. (if you start to inflate them but stop doing so, the monsters will get turned back to their normal selves.) Furthermore, rocks are scattered throughout the earth, and you can use these rocks to squash them. If the monsters do not find you for several seconds, they will eventually get turned into ghosts, which are able to walk through the earth. They are invincible and cannot be killed. From time to time, vegetables will appear in the center, and you can get these for points.</desc>
+		<image>./images/Dig Dug-image.png</image>
+		<marquee>./images/Dig Dug-marquee.png</marquee>
+		<thumbnail>./images/Dig Dug-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19850604T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Puzzle-Game</genre>
+		<family>Dig Dug</family>
+		<players>1-2</players>
+		<md5>b335e805dde69e63a66cd5eaf5b01ad1</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<cheevosHash>6E5A474E52813C353A78D93630C27730</cheevosHash>
+		<cheevosId>2175</cheevosId>
+		<scrap name="ScreenScraper" date="20230627T170357" />
+		<scrap name="HfsDB" date="20230627T163303" />
+	</game>
+	<game id="1306">
+		<path>./Donkey Kong.3dsen</path>
+		<name>Donkey Kong</name>
+		<desc>Can you save Mario's girlfriend from Donkey Kong's clutches? You must help Mario free Pauline before it's too late. You'll have to dodge booby-trapped barrels, fireballs and anything else Donkey Kong throws at you to try and stop you. So if you're looking for action, stop the antics!</desc>
+		<image>./images/Donkey Kong-image.png</image>
+		<marquee>./images/Donkey Kong-marquee.png</marquee>
+		<thumbnail>./images/Donkey Kong-thumb.png</thumbnail>
+		<rating>0.6</rating>
+		<releasedate>19860602T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<family>Donkey Kong</family>
+		<players>1</players>
+		<md5>40319cad12c80fc095901eb0182df838</md5>
+		<lang>en</lang>
+		<cheevosHash>6D4A94C344463E562344249E18E9B99F</cheevosHash>
+		<cheevosId>1466</cheevosId>
+		<scrap name="ScreenScraper" date="20230627T170358" />
+		<scrap name="HfsDB" date="20230627T163304" />
+	</game>
+	<game id="1377">
+		<path>./Donkey Kong 3.3dsen</path>
+		<name>Donkey Kong 3</name>
+		<desc>Donkey Kong has lodged in a greenhouse and it's bugging the bees out of Stanley! Based on the third game in the enormously popular arcade series, Donkey Kong 3 introduces an exterminator named Stanley as he desperately tries to protect the flowers in his greenhouse from Donkey Kong. Armed only with a can of bug spray, Stanley must force Donkey Kong higher and higher into the greenhouse rafters until Donkey Kong is off the screen and the next stage is reached. But not surprisingly, Donkey Kong isn't going to move without a fight, so he sends wave after wave of bugs, bees, and other creatures toward Stanley. Not only must Stanley repel the insects in order to save the flowers, but he'll have to keep an eye out for projectiles thrown by Donkey Kong himself. If Stanley is good enough, he'll be able to grab a can of more powerful bug spray and really get Donkey Kong moving. It all adds up to frantic fun that anyone can enjoy!</desc>
+		<image>./images/Donkey Kong 3-image.png</image>
+		<marquee>./images/Donkey Kong 3-marquee.png</marquee>
+		<thumbnail>./images/Donkey Kong 3-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19860602T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<family>Donkey Kong</family>
+		<players>1-2</players>
+		<md5>a267179a14c89ee73b0031de07c9e5c7</md5>
+		<lang>en</lang>
+		<cheevosHash>A2B5BDDB4C7A5A39C8FAC13E64494C9A</cheevosHash>
+		<cheevosId>1657</cheevosId>
+		<scrap name="ScreenScraper" date="20230627T170358" />
+		<scrap name="HfsDB" date="20230627T163305" />
+	</game>
+	<game id="1351">
+		<path>./Donkey Kong Jr.3dsen</path>
+		<name>Donkey Kong Jr.</name>
+		<desc>Mario as a villain, who would have thought it? But this is the unlikely scenario of Donkey Kong Jr. on NES. Yes, the mustachioed villain has locked Donkey Kong in a cage and it's up to his offspring to get him out of the clutches of this devious plumber. Our friendly primate will have to climb along lianas to reach the top of the board, while avoiding the various objects that Mario sees fit to throw at his face.</desc>
+		<image>./images/Donkey Kong Jr-image.png</image>
+		<marquee>./images/Donkey Kong Jr-marquee.png</marquee>
+		<thumbnail>./images/Donkey Kong Jr-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19860602T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<family>Donkey Kong</family>
+		<players>1-2</players>
+		<md5>645456d6e0664f576fc6e1698dcda213</md5>
+		<lang>en</lang>
+		<cheevosHash>8B7C1E5B55A9E5FA23E895DF2D682914</cheevosHash>
+		<cheevosId>1465</cheevosId>
+		<scrap name="ScreenScraper" date="20230627T170400" />
+		<scrap name="HfsDB" date="20230627T163404" />
+	</game>
+	<game id="1340">
+		<path>./Dr Mario.3dsen</path>
+		<name>Dr. Mario</name>
+		<desc>In this Tetris-style game, you play as Dr. Mario, who must drop differently coloured pills onto viruses to remove them from the bottle. Each pill is split into two, with each side a different colour. Match that colour to the colour of the virus, and it will be removed from the bottle.
+
+Included in the game is the normal mode, a time trial, and a two player battle mode to see who can remove the most viruses.</desc>
+		<image>./images/Dr Mario-image.png</image>
+		<marquee>./images/Dr Mario-marquee.png</marquee>
+		<thumbnail>./images/Dr Mario-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>19901002T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle-Game / Fall</genre>
+		<family>Mario Bros</family>
+		<players>1-2</players>
+		<md5>d3ec44424b5ac1a4dc77709829f721c9</md5>
+		<lang>en</lang>
+		<cheevosHash>5B401F4CA7E1B12AF3F29D8FC758DD2F</cheevosHash>
+		<cheevosId>1469</cheevosId>
+		<scrap name="ScreenScraper" date="20230627T170400" />
+		<scrap name="HfsDB" date="20230627T163405" />
+	</game>
+	<game id="18650">
+		<path>./Dragon Warrior.3dsen</path>
+		<name>Dragon Warrior</name>
+		<desc>Dragon Warrior is the first famous console RPG. You assume the role of a descendant of Erdrick, a brave warrior of the past. Once upon a time, Erdrick defeated the evil Dragonlord with the help of the Ball of Light. Now, Dragonlord stole the Ball of Light, and your mission is to recover it and to restore peace in the world.
+
+In Dragon Warrior, you move your character around in a top-down world. In cities and palaces you can talk to people, rest in inns and buy stuff in shops. There's a variety of weapons, equipment and armor to buy. 
+
+When wandering around in the wilderness, you occasionally encounter enemies, and fight them from 1st person perspective. Combat is turn based: you select menu options while fighting - you can attack with your weapon, cast a spell (using up some of your magic energy), use and item or try to run. Killing monsters gives you experience, and, as is typical for RPGs, you level up and improve your stats when you gain enough experience. 
+
+Like in later RPGs, you have limited hit points, lose them when you are attacked by enemies, and die when you run out of them. When your character dies in a battle, he is automatically restored in a nearby town.</desc>
+		<image>./images/Dragon Warrior-image.png</image>
+		<marquee>./images/Dragon Warrior-marquee.png</marquee>
+		<thumbnail>./images/Dragon Warrior-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19890801T000000</releasedate>
+		<developer>Enix</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role playing games</genre>
+		<family>Dragon Quest</family>
+		<players>1</players>
+		<md5>1cfeeac7a20b405780eea318d3d1af2a</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>E8382F82570BC616B0BCC02C843C1B79</cheevosHash>
+		<cheevosId>1471</cheevosId>
+		<scrap name="ScreenScraper" date="20230627T170401" />
+		<scrap name="HfsDB" date="20230627T163504" />
+	</game>
+	<game id="18651">
+		<path>./Dragon Warrior II.3dsen</path>
+		<name>Dragon Warrior II</name>
+		<desc>Dragon Warrior II is an early top-down RPG that expands and improves on its predecessor, Dragon Warrior. Taking the role of a descendant of Erdrick, the player once again ventures forth in an effort to save the world.
+
+Unlike the first game, Dragon Warrior II allows the player to join forces with two other characters, a magic-using princess and a wizard-warrior prince. Also including expanded monster battles involving up to 6 creatures and a much larger world, Dragon Warrior II is an important step in the evolution of the Dragon Warrior series.</desc>
+		<image>./images/Dragon Warrior II-image.png</image>
+		<marquee>./images/Dragon Warrior II-marquee.png</marquee>
+		<thumbnail>./images/Dragon Warrior II-thumb.png</thumbnail>
+		<rating>0.65</rating>
+		<releasedate>19900901T000000</releasedate>
+		<developer>Enix</developer>
+		<publisher>Enix</publisher>
+		<genre>Role playing games</genre>
+		<family>Dragon Quest</family>
+		<players>1</players>
+		<md5>3aef63a01d6f57e3bf2c865a1d919d13</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>CCDB4563C9004D862DCF3A98C7937C22</cheevosHash>
+		<cheevosId>1470</cheevosId>
+		<scrap name="ScreenScraper" date="20230627T170401" />
+		<scrap name="HfsDB" date="20230627T163505" />
+	</game>
+	<game id="1260">
+		<path>./Duck Hunt.3dsen</path>
+		<name>Duck Hunt</name>
+		<desc>Duck Hunt is a shooting simulation where the player goes out with his faithful dogs to hunt ducks. It requires the use of the Zapper light gun. In game modes A and B, players view a swampland from a first-person perspective. The dog scares ducks (one or two at a time) out of the swamp, and they go flying around in the air. The player has three shots and a limited amount of time to shoot the ducks before they fly away. Each round only allows a limited number of misses in order to move on successfully. As the rounds progress, the ducks begin flying faster and faster, and fewer misses are allowed.
+
+Mode C features target practice on clay pigeons rather than ducks. The perspective and rules here are the same, with only three shots to destroy two clay pigeons before they disappear off the horizon. Destroy enough clay pigeons to move on to the next, tougher round.</desc>
+		<image>./images/Duck Hunt-image.png</image>
+		<marquee>./images/Duck Hunt-marquee.png</marquee>
+		<thumbnail>./images/Duck Hunt-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19851002T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Hunting and Fishing / Hunting</genre>
+		<players>1-2</players>
+		<md5>d802e9d7b8bfd586f878e0922f62bf46</md5>
+		<lang>en</lang>
+		<cheevosHash>FA382374EB4A93A719064CA6C5A4E78C</cheevosHash>
+		<cheevosId>1669</cheevosId>
+		<scrap name="ScreenScraper" date="20230627T170403" />
+		<scrap name="HfsDB" date="20230627T163506" />
+	</game>
+	<game id="1263">
+		<path>./Duck Tales.3dsen</path>
+		<name>Disney's DuckTales</name>
+		<desc>Duck Tales for NES is a traditional platform game in which the player takes the role of greedy Scrooge McDuck in search of treasures around the globe. He counts on his three nephews and on other Duck Tales characters to help him in his quest through inospit places such as the Amazononic forest, the African Mines, the Himalayas, Transylvania (where he meets Dracula Duck) and even the Moon.
+
+Each one of them reserves the old duck lots of adventure, different enemies and hidden rooms.
+
+The game features a 2D side-scrolling platform gameplay very similar to Mega Man. Graphics are colorful and cartoonish, music remembers players of the TV series and controls are very simple.</desc>
+		<image>./images/Duck Tales-image.png</image>
+		<marquee>./images/Duck Tales-marquee.png</marquee>
+		<thumbnail>./images/Duck Tales-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>19890914T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform</genre>
+		<family>Disney</family>
+		<players>1</players>
+		<md5>34fd4014afd15b562d7100f641f900ab</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>B480855FFF883B20BA403A2009A7F13C</cheevosHash>
+		<cheevosId>1472</cheevosId>
+		<scrap name="ScreenScraper" date="20230627T170403" />
+		<scrap name="HfsDB" date="20230627T163605" />
+	</game>
+	<game id="71346">
+		<path>./Duck Tales 2.3dsen</path>
+		<name>Disney's DuckTales 2</name>
+		<desc>Scrooge McDuck is hot on the trail of the richest adventure ever. Pieces to the map of the Lost Treasure of McDuck have been scattered across the globe, and Scrooge must find them before the greedy Flintheart Glomgold grabs them. It's going to be a race to the finish as both of them try to find the treasure and become the richest duck in the world! Join Scrooge and his nephews as they explore the ancient pyramids of Egypt and do battle with swash-buckling pirates in the Bermuda Triangle. Help them search the haunted halls of an ancient Scottish castle and scale the watery heights of Niagara Falls. Aid Scrooge in his quest for the secret of the island of Mu and you'll gain the final clue to unravel the hidden location of the Lost Treasure of McDuck!</desc>
+		<image>./images/Duck Tales 2-image.png</image>
+		<marquee>./images/Duck Tales 2-marquee.png</marquee>
+		<thumbnail>./images/Duck Tales 2-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>19930602T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<md5>ee092394b1e64b8bee7ca54c3dc7faad</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>B8592879590CDDEC02FE077217562D00</cheevosHash>
+		<cheevosId>1670</cheevosId>
+		<scrap name="ScreenScraper" date="20230627T170404" />
+		<scrap name="HfsDB" date="20230627T163605" />
+	</game>
+	<game id="1643">
+		<path>./Elevator Action.3dsen</path>
+		<name>Elevator Action</name>
+		<desc>In this multidirectional scrolling action game, you control a spy and sneak alone into a building to steal the secret papers hidden there. Use a pistol, kicks, an elevator, and even the lights to take out the building's guards. The gun-fighting action is full of thrills! You will need speed and timing to get on the elevators, move between floors, steal the secret papers, and escape from the basement parking lot.</desc>
+		<image>./images/Elevator Action-image.png</image>
+		<marquee>./images/Elevator Action-marquee.png</marquee>
+		<thumbnail>./images/Elevator Action-thumb.png</thumbnail>
+		<rating>0.6</rating>
+		<releasedate>19870801T000000</releasedate>
+		<developer>Micronics</developer>
+		<publisher>Taito</publisher>
+		<genre>Platform / Shooter Scrolling</genre>
+		<family>Elevator Action</family>
+		<players>1-2</players>
+		<md5>390124aa9b8811b2c0e5a35295cff50b</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>370F5862746B67637087B3B4CD64B163</cheevosHash>
+		<cheevosId>1674</cheevosId>
+		<scrap name="ScreenScraper" date="20230627T170405" />
+		<scrap name="HfsDB" date="20230627T163606" />
+	</game>
+	<game id="1371">
+		<path>./Excitebike.3dsen</path>
+		<name>Excitebike</name>
+		<desc>Race by yourself against the clock or compete with other motocross riders on 5 tracks full of long straights, large jumps and obstacles to win the Excitebike championship.
+
+Create your own tracks by placing jumps and obstacles of all different sizes and shapes on the track and choosing how many laps each race will have, then race against the clock or other riders to see how your track fares in competition.</desc>
+		<image>./images/Excitebike-image.png</image>
+		<marquee>./images/Excitebike-marquee.png</marquee>
+		<thumbnail>./images/Excitebike-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19851018T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+		<md5>d7fe15cf2bc7b6582c07d12b3cf3bede</md5>
+		<lang>en</lang>
+		<cheevosHash>9B0727E0ADB0A7B4F94E072B7CF28A5A</cheevosHash>
+		<cheevosId>1473</cheevosId>
+		<scrap name="ScreenScraper" date="20230627T170406" />
+		<scrap name="HfsDB" date="20230627T163705" />
+	</game>
+	<game id="1443">
+		<path>./Felix the Cat.3dsen</path>
+		<name>Felix the Cat</name>
+		<desc>Felix The Cat is a platformer based on the famous cartoon character.
+
+The Professor has kidnapped Kitty, Felix girlfriend, trying to exchange her for Felix' magic bag. Naturally, Felix is not going to let himself be blackmailed, and instead sets out to free Kitty. 
+
+There are four different types of levels. 
+
+1. Typical platforming levels in which Felix has to make his way to the exit while jumping about obstacles and chasms, killing enemies using different weapons.
+
+Swimming levels in which Felix rides a float or on the back of a dolphin.
+
+Levels that take place entirely under water.
+
+Flying levels that put Felix in control of different flying devices, such as a plane, a hot-air balloon or an umbrella.
+
+Throughout all levels, Felix can collect cat symbols to improve his weapons. After collecting a certain number of cat symbols, milk bottles or hearts will appear. Hearts improve Felix' current weapon. What types of weapon Felix can use, depends on what type of level he is in. There are lots of different weapons ranging from a boxing glove to motorcycles to tanks to spaceships. All weapons that are better than the standard weapon have an energy bar that diminishes over time and can be refilled by collecting milk bottles. Getting hit by an enemy decreases the level of Felix' current weapon. If he gets hit while carrying the standard weapon, he loses a life.
+
+The Game Boy version plays virtually identically to the NES version, but features less levels.</desc>
+		<image>./images/Felix the Cat-image.png</image>
+		<marquee>./images/Felix the Cat-marquee.png</marquee>
+		<thumbnail>./images/Felix the Cat-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19921001T000000</releasedate>
+		<developer>Shimada Kikaku</developer>
+		<publisher>Hudson</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<md5>2f037c1da6a59f56a0f65c6971f8b3bd</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>936B0157A2A547235F991AA44D77CF9E</cheevosHash>
+		<cheevosId>1683</cheevosId>
+		<scrap name="ScreenScraper" date="20230627T170407" />
+		<scrap name="HfsDB" date="20230627T163706" />
+	</game>
+	<game id="1252">
+		<path>./Final Fantasy.3dsen</path>
+		<name>Final Fantasy</name>
+		<desc>Hironobu Sakaguchi's Final Fantasy... the first of one of the longest role-playing game series known to mankind. Final Fantasy is the game for the NES console that started it all.
+
+The world is veiled in darkness. Winds don't blow, the seas are stormy, and the earth rots. All people can hope for is that the ancient prophecy will be finally fulfilled. "When the world is veiled in darkness, four warriors will come..." And indeed, they come - the four characters you have previously chosen. Their first quest is to free a princess from the evil Garland, and then the real journey begins...</desc>
+		<image>./images/Final Fantasy-image.png</image>
+		<marquee>./images/Final Fantasy-marquee.png</marquee>
+		<thumbnail>./images/Final Fantasy-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19900712T000000</releasedate>
+		<developer>Squaresoft</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role playing games</genre>
+		<family>Final Fantasy</family>
+		<players>1</players>
+		<md5>9b0f042cfdc5f9e8200b47104a4768a9</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>24AE5EDF8375162F91A6846D3202E3D6</cheevosHash>
+		<cheevosId>1449</cheevosId>
+		<scrap name="ScreenScraper" date="20230627T170408" />
+		<scrap name="HfsDB" date="20230627T163707" />
+	</game>
+	<game id="1653">
+		<path>./Fire 'n Ice.3dsen</path>
+		<name>Fire 'n Ice</name>
+		<desc>The peaceful island Coolmint is attacked by flame monsters sent by the evil wizard Druidle. The queen of the winter fairies chooses the novice wizard Dana to drive back the monsters.
+
+Fire 'n Ice is a puzzle game seen from a side-view perspective. The goal in each level is to extinguish all flames by pushing or dropping blocks onto them. The player takes control of Dana who can create or destroy ice blocks, climb blocks and push loose blocks. Ice is created diagonally below Dana in the direction that he is facing, if there is already an ice block there, it will be destroyed. However, ice blocks cannot be created on a spot that is already occupied by a flame, so that the player will often have to find a way to create ice blocks next to or above a flame so that they can be pushed or dropped onto it. If an ice block is created next to another object or wall it will stick to it, meaning it can't be moved and won't fall down. It is therefor also possible to create ice bridges to get over chasms. When a loose ice block is pushed, it slides above the ground until it hits another object. Rocks can also be used to extinguish flames, but they are indestructible and only move one space when pushed (unless they are on an icy surface).</desc>
+		<image>./images/Fire 'n Ice-image.png</image>
+		<marquee>./images/Fire 'n Ice-marquee.png</marquee>
+		<thumbnail>./images/Fire 'n Ice-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>19930302T000000</releasedate>
+		<developer>Tecmo</developer>
+		<publisher>Tecmo</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<md5>61d0c3dc5eea441d34dcd9a195fd106f</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>D2181FAB244DF1E472C21ACDE28BAB2F</cheevosHash>
+		<cheevosId>1686</cheevosId>
+		<scrap name="ScreenScraper" date="20230627T170408" />
+		<scrap name="HfsDB" date="20230627T163806" />
+	</game>
+	<game id="1531">
+		<path>./Galaga.3dsen</path>
+		<name>Galaga : Demons of Death</name>
+		<desc>Galaga is a vertical arcade shooter from Namco.  You control a space fighter at the bottom of the screen, scrolling left and right in order to avoid oncoming bombs and kamikaze attacks from alien invaders--and to fire your own missiles to fight back!
+
+There are an infinite number of stages to progress through.  Every third level is a "challenge stage" in which you have a free chance to shoot as many aliens as possible and rack up bonus points.
+
+Certain aliens have tractor beams they can use to capture one of your ships.  If that wasn't your last "life," you can try to shoot that alien down and recapture your ship, giving you two ships at once and doubling your firepower.
+
+A summary screen appears when the game is over, giving you both your final score and you final "hit ratio"--the number of missiles fired, enemies destroyed, and the percentage of targets hit.</desc>
+		<image>./images/Galaga-image.png</image>
+		<marquee>./images/Galaga-marquee.png</marquee>
+		<thumbnail>./images/Galaga-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>19880901T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Bandai</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<family>Galaxian</family>
+		<players>1-2</players>
+		<md5>486bbb76f49dcad3982e63239346f4bc</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>52485AD0D6AACA08BE2C1BD4C855A080</cheevosHash>
+		<cheevosId>1701</cheevosId>
+		<scrap name="ScreenScraper" date="20230627T170410" />
+		<scrap name="HfsDB" date="20230627T163807" />
+	</game>
+	<game id="1273">
+		<path>./Ghosts 'n Goblins.3dsen</path>
+		<name>Ghosts 'n Goblins</name>
+		<desc>Ghosts'n Goblins is a sideways scrolling action platformer spread over six levels, each of which must be completed within three minutes (or a life is lost), taking in forest, village, mountain and cavern settings with increasing difficulty.
+
+Arthur the brave knight must rescue his beloved Princess from the Demon King Astaroth and his forces - amongst them are the various undead (ghosts, zombies), bats, ogres and goblins. Other challenges include moving platforms, ladders and water/fire hazards. 
+
+As in most games in this genre, the player can pick up power-ups such as daggers and bombs during the course of the game, giving the player greater firepower.</desc>
+		<image>./images/Ghosts 'n Goblins-image.png</image>
+		<marquee>./images/Ghosts 'n Goblins-marquee.png</marquee>
+		<thumbnail>./images/Ghosts 'n Goblins-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>19861102T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform</genre>
+		<family>Ghost'n Goblins</family>
+		<players>1-2</players>
+		<md5>6dd3872fff67b4f324a740aa87ac2b93</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>8C3C9B041392F8EF06F6B0C7432C589C</cheevosHash>
+		<cheevosId>1710</cheevosId>
+		<scrap name="ScreenScraper" date="20230627T170411" />
+		<scrap name="HfsDB" date="20230627T163906" />
+	</game>
+	<game id="1559">
+		<path>./Goonies, The.3dsen</path>
+		<name>The Goonies</name>
+		<desc>The Goonies is based on a movie of the same name from 1985. A group of youngsters from a neighborhood called the "Goon Docks" are trying to find the lost treasure of One-Eyed Willie to prevent the foreclosure of their houses. Unfortunately, the treasure is buried under the hide-out of the infamous Fratelli gang, a family of ruthless criminals who are on the run from the law. You play as the asthmatic Mikey, who must find the treasure and save the other Goonies before time runs out.
+
+The game consists of six levels. In each level, you must collect three keys to advance to the next area. These can be found by blowing open doors with bombs that are dropped by enemies. Also hidden behind doors are power-ups and other Goonies to rescue. Trying to stop you are enemies such as rats, skeletons, and even members of the Fratelli Gang. 
+
+Unlike the sequel, the Famicom version was never released outside of Japan.</desc>
+		<image>./images/Goonies, The-image.png</image>
+		<marquee>./images/Goonies, The-marquee.png</marquee>
+		<thumbnail>./images/Goonies, The-thumb.png</thumbnail>
+		<rating>0.6</rating>
+		<releasedate>19860221T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Platform</genre>
+		<family>Goonies</family>
+		<players>1</players>
+		<md5>460d3e6805496c35d630f538d01e68e4</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<cheevosHash>465DC95C995E70B3A161F06D67C1942D</cheevosHash>
+		<cheevosId>1720</cheevosId>
+		<scrap name="ScreenScraper" date="20230627T170411" />
+		<scrap name="HfsDB" date="20230627T163908" />
+	</game>
+	<game id="1339">
+		<path>./Gradius.3dsen</path>
+		<name>Gradius</name>
+		<desc>The people of Gradius are in trouble. The ameoboid Bacterions have launched an all out attack against the planet, and it's up to you to fly into battle and save them. Along the way you'll be able to power up your ship with hyper speed, force fields, lasers, missiles, double beam cannons and more to help you battle. Based on the arcade game, Gradius is a side scrolling shooter. Shooting certain enemies will leave a power up pod behind which can be collected to add more power to your ship. Each level features a wide variety of enemies trying to stop you, with a large boss at the end. Gameplay is for one player or two players alternating.</desc>
+		<image>./images/Gradius-image.png</image>
+		<marquee>./images/Gradius-marquee.png</marquee>
+		<thumbnail>./images/Gradius-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19861202T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shoot'em up / Horizontal</genre>
+		<family>Gradius</family>
+		<players>1-2</players>
+		<md5>fcc019dc8054403fd28b8de03d7e16aa</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>49C0FFBD6FCA692E7C567B4D72AE0847</cheevosHash>
+		<cheevosId>1722</cheevosId>
+		<scrap name="ScreenScraper" date="20230627T170412" />
+		<scrap name="HfsDB" date="20230627T164007" />
+	</game>
+	<game id="1450">
+		<path>./Gyromite.3dsen</path>
+		<name>Gyromite</name>
+		<desc>In Gyromite, you need to help a mad scientist deactivate all of the dynamite in his laboratory before time runs out! ROB the robot will assist you in this game by moving the red and blue pillars blocking the way. Just in case finding your way through the laboratory wasn't enough, be sure to watch out for the deadly Smicks who wander about trying to prevent success of your mission. If you find a radish, pick it up and feed it to the Smicks so you can safely get past them. There is also a second game variation where you need to clear the way for a sleepwalking mad scientist so he can get home safely.</desc>
+		<image>./images/Gyromite-image.png</image>
+		<marquee>./images/Gyromite-marquee.png</marquee>
+		<thumbnail>./images/Gyromite-thumb.png</thumbnail>
+		<rating>0.6</rating>
+		<releasedate>19851001T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+		<md5>8f8f7d4615b0fef23c0754b7641ec03b</md5>
+		<lang>en</lang>
+		<cheevosHash>5195D1381E082D307FE62AA4D73C488B</cheevosHash>
+		<cheevosId>1475</cheevosId>
+		<scrap name="ScreenScraper" date="20230627T170413" />
+		<scrap name="HfsDB" date="20230627T164008" />
+	</game>
+	<game id="1564">
+		<path>./Hogan's Alley.3dsen</path>
+		<name>Hogan's Alley</name>
+		<desc>This game involves the use of the Nintendo Light Zapper, and has, truly, no plot. You are in the police station doing target practice, either with three targets at a time with at least one innocent person, or in an alley with both good and bad targets in windows and walking on the sidewalk. Then there's Trick Shot, where you shoot the cans, trying to make them land in a slot for points, or at least not let them fall to the ground.</desc>
+		<image>./images/Hogan's Alley-image.png</image>
+		<marquee>./images/Hogan's Alley-marquee.png</marquee>
+		<thumbnail>./images/Hogan's Alley-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19851001T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>1</players>
+		<md5>84589b4d3262945415897b55960b7802</md5>
+		<lang>en</lang>
+		<cheevosHash>DEE8757582E0575C5F729AAE60B1DCBB</cheevosHash>
+		<cheevosId>1734</cheevosId>
+		<scrap name="ScreenScraper" date="20230627T170414" />
+		<scrap name="HfsDB" date="20230627T164107" />
+	</game>
+	<game id="1356">
+		<path>./Ice Climber.3dsen</path>
+		<name>Ice Climber</name>
+		<desc>In Ice Climber one or two players need to climb their way to the top of 32 different mountains. Each mountain is broken up into eight levels of platforms along with a bonus stage at the top. Attempting to stop you from making upward progress are different creatures ranging from polar bears to condors as well as treacherous landscapes with falling icicles, moving platforms, and icy floors. To help out, your only weapon is a mallet which can be used to knock out enemies as well as bust away bricks in the platforms to give you some room to jump up to the next level. When you finally reach the top, it's time to move on to the next, more difficult level.</desc>
+		<image>./images/Ice Climber-image.png</image>
+		<marquee>./images/Ice Climber-marquee.png</marquee>
+		<thumbnail>./images/Ice Climber-thumb.png</thumbnail>
+		<rating>0.6</rating>
+		<releasedate>19851001T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform / Run Jump</genre>
+		<players>1-2</players>
+		<md5>d35f9979f206897df94fb5425e23fc85</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>C9C94DF2EBB19BD6D717B2CFBF977574</cheevosHash>
+		<cheevosId>1743</cheevosId>
+		<scrap name="ScreenScraper" date="20230627T170415" />
+		<scrap name="HfsDB" date="20230627T164208" />
+	</game>
+	<game id="1406">
+		<path>./Jackie Chan's Action Kung Fu.3dsen</path>
+		<name>Jackie Chan's Action Kung Fu</name>
+		<desc>Jackie Chan and his twin sister Josephine were great kung fu fighters in China and trained under a great master. One day when Jackie and Josephine were out walking, the Master's great enemy, The Sorcerer appeared. The Sorcerer had come to rule over China and knew the twins would stand in his way... so he cast a spell to make Josephine disappear. Now it's up to Jackie Chan to follow after the Sorcerer and battle his minions in order to rescue his sister and save China.
+
+Jackie Chan's Action Kung Fu is a side-scrolling fighting game. Jackie's controls are one button to jump and another one to attack or be used in combination with a direction for a special attack. On his quest, Jackie must punch and kick his way past frogs, ninjas, birds and other enemies. Jackie can acquire special-moves such as the Tornado attack, the 180 degree spin kick, the 360 degree spin kick and the Sky Attack. Other power-ups include energy refills and bonus points.</desc>
+		<image>./images/Jackie Chan's Action Kung Fu-image.png</image>
+		<marquee>./images/Jackie Chan's Action Kung Fu-marquee.png</marquee>
+		<thumbnail>./images/Jackie Chan's Action Kung Fu-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>19901201T000000</releasedate>
+		<developer>Now Production</developer>
+		<publisher>Hudson</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<md5>4d34ac2835cc24a30abfa95a228d2fd0</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>4228196E1D200DB26AC7BCE4F55CDD5B</cheevosHash>
+		<cheevosId>1758</cheevosId>
+		<scrap name="ScreenScraper" date="20230627T170416" />
+		<scrap name="HfsDB" date="20230627T164208" />
+	</game>
+	<game id="1484">
+		<path>./Journey to Silius.3dsen</path>
+		<name>Journey to Silius</name>
+		<desc>The year is 0373 in the new space age calendar. The earth's population is growing rapidly, and people are now forced to start space colonies. Jay McCray is among those leaving earth and heading to the colony in the Silius solar system. Unfortunately, terrorists have destroyed a research colony there. Jay's father was killed in this attack, and now Jay vows to destroy the terrorists responsible and to continue the research his father was working on. Journey To Silius is a side scrolling platform game. On each level there are a wide variety of robot enemies guarding the terrorist's fortress, along with several weapons to find which make your mission easier. There are a total of six stages, each ending with a very large boss.</desc>
+		<image>./images/Journey to Silius-image.png</image>
+		<marquee>./images/Journey to Silius-marquee.png</marquee>
+		<thumbnail>./images/Journey to Silius-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>19900901T000000</releasedate>
+		<developer>Tokai Engineering</developer>
+		<publisher>Sunsoft</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<md5>407b5151f2642523cba218f927926e9c</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>4844FF2DAC4A0136050B18AD310A09F9</cheevosHash>
+		<cheevosId>1768</cheevosId>
+		<scrap name="ScreenScraper" date="20230627T170417" />
+		<scrap name="HfsDB" date="20230627T164209" />
+	</game>
+	<game>
+		<path>./Depths.3dsen</path>
+		<name>Depths</name>
+		<desc>Depths is a game about survival. You awake in the middle of the ocean, clinging to a piece of driftwood. You have no memory of how you got here, however you know you need to survive. Unsure of your surroundings, you set off to explore. You find yourself feeling weak, and can barely tread water. Yet somehow, you survive. As you travel on, the seas become more treacherous. Can you make it through?
+
+Important: This game makes references to suicide. If this is a concern, you may wish to pass this game up.</desc>
+		<image>./images/Depths-image.jpg</image>
+		<thumbnail>./images/Depths-thumb.jpg</thumbnail>
+		<releasedate>20200101T000000</releasedate>
+		<genre>Adventure, Life Simulation</genre>
+		<players>1</players>
+		<md5>92653a3cb8f4791d8272cb1c6c1802f8</md5>
+		<lang>en</lang>
+		<cheevosHash>538D1E4E227CA5861CE74A6224DA5AD1</cheevosHash>
+		<scrap name="ScreenScraper" date="20230627T170416" />
+		<scrap name="TheGamesDB" date="20230627T170732" />
+		<scrap name="HfsDB" date="20230627T164308" />
+	</game>
+	<game id="1616">
+		<path>./Legacy of the Wizard.3dsen</path>
+		<name>Legacy of the Wizard</name>
+		<desc>Long ago, an evil dragon named Keela was imprisoned inside a magical dungeon. However time has passed and the magic that sealed the dragon away is weakening. The Drasle family decides that it's time to destroy the dragon once and for all. However only one weapon is capable of doing this, the Dragon Slayer, which is itself sealed away by four magical crowns. The Drasle family decides to take on this quest, and will use every member of the family in order to accomplish it.
+
+Legacy of the Wizard is an side-scrolling action platform game with role-playing elements.  The player chooses a character from among five different members of the Drasle family. The choices are: Xemm the father and woodcutter, Mayna the magic-using mother, Roas the brave warrior son, Lyll the athletic daughter and Pochi the domesticated monster-pet. Each character has unique abilities (including attack and jumping abilities) and can only use certain items from those collected. Players can travel back to the Drasle household at any point to change characters.
+
+The object of the game is to enter the large dungeon, itself divided into 5 areas, collecting a variety of items (which as mentioned, can only be used by particular characters) and use them to progress through the dungeon, defeating monsters. Power-ups dropped by monsters include gold, keys, health-restoring bread, magic-resoring potions and health-damaging poison. Gold can be spent on items and other power-ups that are available at various shops hidden inside the dungeon. The player must eventually defeat the four bosses guarding the crowns that seal the Dragon Slayer and then use that weapon to defeat the Kress.</desc>
+		<image>./images/Legacy of the Wizard-image.png</image>
+		<marquee>./images/Legacy of the Wizard-marquee.png</marquee>
+		<thumbnail>./images/Legacy of the Wizard-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Nihon Falcom</developer>
+		<publisher>Brøderbund Software</publisher>
+		<genre>Role playing games</genre>
+		<family>Dragon Slayer</family>
+		<players>1</players>
+		<md5>51047eec678b3c0b0e8509fff11ecf3e</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>7F5B89EAF076618CFF6BB3132BFF6D11</cheevosHash>
+		<cheevosId>1795</cheevosId>
+		<scrap name="ScreenScraper" date="20230627T170418" />
+		<scrap name="HfsDB" date="20230627T164309" />
+	</game>
+	<game id="1923">
+		<path>./Legend of Kage, The.3dsen</path>
+		<name>The Legend of Kage</name>
+		<desc>You play Kage, a skillful ninja in search of rescuing Princess Kiri from the hands of the warlord Yoshi.  Armed only with a sword and 'star knives', you must fight your way through countless henchmen and the occasional boss to complete your task.  Levels include the forest, moat, inside and outside of the castle.  These levels repeat as the seasons change.  The gameplay is side scrolling.  Kage's moves include the ability jump extremely high in the air, grab and climb trees, block and attack with his sword, and throw shuriken.  The game can be challenging at times though because the player dies in one hit.  2-players are supported, but must take turns.</desc>
+		<image>./images/Legend of Kage, The-image.png</image>
+		<marquee>./images/Legend of Kage, The-marquee.png</marquee>
+		<thumbnail>./images/Legend of Kage, The-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19870801T000000</releasedate>
+		<developer>TOSE</developer>
+		<publisher>Taito</publisher>
+		<genre>Platform / Fighter Scrolling</genre>
+		<family>The Legend of Kage</family>
+		<players>1-2</players>
+		<md5>1f8eccb38c8dc7333468d500cfd9d74c</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>3D275BDAF239C8EB5C8AE5578D1FF220</cheevosHash>
+		<scrap name="ScreenScraper" date="20230627T170418" />
+		<scrap name="HfsDB" date="20230627T164408" />
+	</game>
+	<game id="1250">
+		<path>./Legend of Zelda, The.3dsen</path>
+		<name>The Legend of Zelda</name>
+		<desc>In one of the darkest times in the Kingdom of Hyrule, a young, pointy-eared boy named Link takes on an epic quest to restore the fragmented Triforce of Wisdom and save the Princess Zelda from the clutches of the evil, power-hungry Ganon.
+
+The Legend of Zelda for the NES marks the first action-adventure title of the popular Nintendo series. Players must make their way through the various forests, graveyards, plains, and deserts of the Overworld to find the secret entrances of the eight dungeons in an attempt to piece together the broken Triforce. Once all pieces are joined, Link will be able to gain entry to Death Mountain, home of Ganon, and prison of Princess Zelda.
+
+The game is drawn in a top-down perspective. Link begins his quest in the Overworld, which features forests, mountains and lakes and is divided into several screens. Link can explore the Overworld freely, though when he enters a screen, he will encounter several enemies. He can attack them with his sword. If link is at full health, he can toss his sword to attack enemies from afar, but when he is hurt, even slightly, he can only fight in melee range. 
+
+Link's health is represented by hearts; initially he can have a maximum of three hearts, but as he progresses in the game, he will find heart containers that increase his maximum health. The enemies are varied - some attack from up close, some shoot projectiles. When killed, they often leave behind an item - a heart to restore energy, rupees that function as money (and can be used to buy stuff in various shops in the Overworld), or bombs which can be picked up and set down to attack enemies or destroy some walls. When enemies are killed, they stay dead and will not re-appear once the screen is entered again. 
+
+There are other items to find in the game; some function as weapons, while others are used to solve puzzles. 
+
+To find the Triforce pieces, Link must explore dungeons. Once he finds an entrance to the dungeon and goes in, he must explore the rooms, fight enemies and collect keys until he finds the boss monster he must defeat. He will then be able to pick up a Triforce piece. Once he does so, however, all the monsters in the Overworld come back to life. 
+
+If Link dies on his quest, he can continue it; he will go back to his start position in the Overworld, but with the items he managed to collect so far. When Link finishes his quest, the pl;ayer can choose to play the "2nd quest", which is essentially a harder version of the game. 
+
+The Legend of Zelda is known for several factors that were revolutionary at the time: A full world that could be freely explored, power-ups that would permanently enhance your character's abilities, and a battery back-up save feature that allowed players to retain their progress instead of having to start over. The gameplay balanced out frequent action sequences with discovery, secrets, and exploration.</desc>
+		<image>./images/Legend of Zelda, The-image.png</image>
+		<marquee>./images/Legend of Zelda, The-marquee.png</marquee>
+		<thumbnail>./images/Legend of Zelda, The-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>19870701T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role playing games</genre>
+		<family>The Legend of Zelda</family>
+		<players>1</players>
+		<md5>337bd6f1a1163df31bf2633665589ab0</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>D9A1631D5C32D35594B9484862A26CBA</cheevosHash>
+		<cheevosId>1454</cheevosId>
+		<scrap name="ScreenScraper" date="20230627T170420" />
+		<scrap name="HfsDB" date="20230627T164410" />
+	</game>
+	<game id="1446">
+		<path>./Lifeforce.3dsen</path>
+		<name>Life Force</name>
+		<desc>In a distant part of the universe, an alien creature called Zelos was born. As he grew so did his appetite, and soon he began devouring galaxies, planets, and stars by the hundreds. Now your planet has appeared in Zelos' path, and it is up to you and a partner to fly into battle to save your world. Life Force is an action packed shooter based on the arcade game. There are six levels which alternate between side and vertical scrolling, each of them ending with a powerful guardian. Throughout the game, destroying certain enemies will release power ups which can be used to equip your ship with more powerful weapons, extra speed, and shields. Gameplay is for one player or two players simultaneously.</desc>
+		<image>./images/Lifeforce-image.png</image>
+		<marquee>./images/Lifeforce-marquee.png</marquee>
+		<thumbnail>./images/Lifeforce-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>19880801T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shoot'em up / Horizontal</genre>
+		<players>1-2</players>
+		<md5>58ab1e209723eb1f0d6400049765efad</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>99BFD6D0FF53D78E5126D274A0605D30</cheevosHash>
+		<cheevosId>1800</cheevosId>
+		<scrap name="ScreenScraper" date="20230627T170420" />
+		<scrap name="HfsDB" date="20230627T164410" />
+	</game>
+	<game id="1544">
+		<path>./Lode Runner.3dsen</path>
+		<name>Lode Runner</name>
+		<desc>The Bungeling Empire has stolen a huge cache of gold from its rightful owners, and your mission is to infiltrate its treasury and recapture it. This entails progressing through 150 screens of platforms, ladders and ropes.
+
+The Empire has sent robotic guards down to protect the gold, and contact with any of these will cost you a life. Your method of escaping them is to press fire to dig a hole in their line of movement, thus causing them to fall in briefly, allowing you to move across the gap safely. Once all the gold has been collected, a ladder allowing you to move onto the next screen is added. Completing these screens often requires forward planning and precision.
+
+This was one of the earliest games to include a level editor, allowing the creation of new level designs with no programming skill.</desc>
+		<image>./images/Lode Runner-image.png</image>
+		<marquee>./images/Lode Runner-marquee.png</marquee>
+		<thumbnail>./images/Lode Runner-thumb.png</thumbnail>
+		<rating>0.55</rating>
+		<releasedate>19870902T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Brøderbund Software</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+		<md5>8e074813a094594c29c1d4c43e4bdbc5</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>BEFD5D05EB33F984994230546C2BCFA3</cheevosHash>
+		<cheevosId>1481</cheevosId>
+		<scrap name="ScreenScraper" date="20230627T170421" />
+		<scrap name="HfsDB" date="20230627T164509" />
+	</game>
+	<game id="1271">
+		<path>./Mario Bros.3dsen</path>
+		<name>Mario Bros.</name>
+		<desc>Mario and Luigi are doing some underground plumbing when all sorts of weird creatures come flying out of the pipes. Turtles, crabs - even fighterflies - attack the helpless Mario Bros. It's up to you to kick, punch, and knock out these sewer pests before time runs out! But beware. Just when you think you got rid of them, they come back for more! Play against the computer, or with a friend - either way, this is one underground classic you'll want to play time and time again!</desc>
+		<image>./images/Mario Bros-image.png</image>
+		<marquee>./images/Mario Bros-marquee.png</marquee>
+		<thumbnail>./images/Mario Bros-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19850602T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<family>Mario</family>
+		<players>1-2</players>
+		<md5>d85e4dbfb52687c83915ac3e4cc08bbb</md5>
+		<lang>en</lang>
+		<cheevosHash>B51085D9AB4267746A9ED6FC609A98D0</cheevosHash>
+		<cheevosId>1824</cheevosId>
+		<scrap name="ScreenScraper" date="20230627T170422" />
+		<scrap name="HfsDB" date="20230627T164611" />
+	</game>
+	<game id="1274">
+		<path>./Mega Man.3dsen</path>
+		<name>Mega Man</name>
+		<desc>In the future city of Monsteropolis, the use of robot labour has helped civilization grow more than ever before. At the forefront of this technology is Dr. Light and his assistant Dr. Wily, who are commissioned to build six robots to handle a variety of specific tasks. They are named Bombman, Gutsman, Iceman, Cutman, Elecman, and Fireman in reference to their individual prime functions. Dr. Wily, however, has bigger plans and chooses to take control of the robots and let loose destruction in a bid for world control. Dr. Light fights back with the best tool he has, an experimental human-like robot, Rock aka Mega Man, who had been tested to perform cleaning duties. Now properly armed, it's up to Mega Man to take on the maverick robots, fight his way into Dr. Wily's castle, and end this madness.</desc>
+		<image>./images/Mega Man-image.png</image>
+		<marquee>./images/Mega Man-marquee.png</marquee>
+		<thumbnail>./images/Mega Man-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19871201T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform</genre>
+		<family>Mega Man</family>
+		<players>1</players>
+		<md5>4d4ffdfe7979b5f06dec2cf3563440ad</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>4DE82CFCEADBF1A5E693B669B1221107</cheevosHash>
+		<cheevosId>1448</cheevosId>
+		<scrap name="ScreenScraper" date="20230627T170423" />
+		<scrap name="HfsDB" date="20230627T164613" />
+	</game>
+	<game id="1255">
+		<path>./Mega Man 2.3dsen</path>
+		<name>Mega Man 2</name>
+		<desc>After defeating Dr. Light's six robots that were reprogrammed by the villainous Dr. Wily in Mega Man, it seemed like the world was safe.  But it was not to be.  Dr. Wily has escaped from prison and is madder than ever, this time creating eight new Robot Masters of his own to take over the world and crush Mega Man!  Is the world doomed?
+
+Mega Man 2 is the sequel to the NES game Mega Man. In this game, Metal Man, Air Man, Bubble Man, Quick Man, Crash Man, Flash Man, Heat Man and Wood Man are Dr. Wily's eight prize creations that have been sent to take over the world.  As Mega Man defeats these bosses, he can steal their powers and use them for himself.  Each Robot Master is weak against another's weapon, and through experimentation, Mega Man can gain the upper hand by using the weapon they're vulnerable against.
+
+Other additions to the game include the 'E-Tank' - an item that can be used at any time to completely refill Mega Man's energy, and a Password System, which allows players to continue their game by recording which Robot Masters have been defeated and how many E-Tanks they have.  Mega Man 2 also removes the scoring system from the original game.</desc>
+		<image>./images/Mega Man 2-image.png</image>
+		<marquee>./images/Mega Man 2-marquee.png</marquee>
+		<thumbnail>./images/Mega Man 2-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>19890702T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform</genre>
+		<family>Mega Man</family>
+		<players>1</players>
+		<md5>8e4bc5b03ffbd4ef91400e92e50dd294</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>0527A0EE512F69E08B8DB6DC97964632</cheevosHash>
+		<cheevosId>1451</cheevosId>
+		<scrap name="ScreenScraper" date="20230627T170424" />
+		<scrap name="HfsDB" date="20230627T164710" />
+	</game>
+	<game id="1286">
+		<path>./Mega Man 3.3dsen</path>
+		<name>Mega Man 3</name>
+		<desc>"Calling Mega Man! Calling Mega Man! Come in please! ...."
+
+This is a traditional action-platformer: you jump from brick to brick while avoiding pits and shooting robots. It's quite similar, in all respects, to other Mega Man games; however, this is the first time that you get a sidekick. It's also the first time you're allowed to slide instead of merely walking. Also, there is a mysterious character called Protoman who may or may not be your friend.
+
+Rush is your dog who helps out by offering other modes of transportation when you need it. He starts out with the 'Rush Coil' ability to launch you to the top of the screen like a springboard; later he acquires the 'Rush Jet' ability to turn into a guided, floating platform to carry you wherever you need to go; and he also gets the 'Rush Marine' ability which is a submarine that works just like the jet except underwater and with the added ability to hop around out of the water(you can actually jump while on the jet but the jet continues to hover beneath you whereas you stay inside the submarine). All of these abilities function just like boss weapons.
+
+How do those work, you ask? When you defeat the boss at the end of a level you gain his power - or at least a similar power. You may pause the game at any time and switch to any single power you have. It supplants your regular Arm Cannon with a limited - but superior - ability. The weapon ammo is displayed next to your energy meter. There are 8 of these, corresponding to the 8 main levels, even though there are 21 levels in the entire game. The bosses are as follows: Snake Man, Gemini Man, Needle Man, Shadow Man, Spark Man, Top Man, Magnet Man, &amp; Hard Man.
+
+Enemies will often supply you with both energy and ammo refills. You can also collect Energy Tanks which can only be used once but will entirely restore your health. You'll definitely want some of these for Dr. Wily's fortress, if not for the levels before it, since you start the game with only 3 lives. There are even Surprise Boxes lying around for you to find. And, of course, you do get infinite continues and a password feature to resume play at the beginning of any level.</desc>
+		<image>./images/Mega Man 3-image.png</image>
+		<marquee>./images/Mega Man 3-marquee.png</marquee>
+		<thumbnail>./images/Mega Man 3-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>19901102T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform</genre>
+		<family>Mega Man</family>
+		<players>1</players>
+		<md5>1b5bdd759448390abcc9d481e8d83700</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>4A53B6F58067D62C9A43404FE835DD5C</cheevosHash>
+		<cheevosId>1483</cheevosId>
+		<scrap name="ScreenScraper" date="20230627T170425" />
+		<scrap name="HfsDB" date="20230627T164711" />
+	</game>
+	<game id="1256">
+		<path>./Metroid.3dsen</path>
+		<name>Metroid</name>
+		<desc>It's you against the evil Mother Brain in the thrilling battle of Metroid!
+
+You're inside the fortress planet Zebes. The planet of endless secret passageways where the Metroid are multiplying. Left alone the Metroid are harmless. But in the wrong hands they could destroy the galaxy. It's up to you to prevent the Mother Brain that controls Zebes from using the Metroid for evil purposes. But that won't be easy. You'll have to use your spacesuit to absorb valuable energy for your search to gain the use of power items like the Ice Beam, Wave Beam, High Jump Boots and Varia. If you survive, it will be you and your acquired powers against the Mother Brain.</desc>
+		<image>./images/Metroid-image.png</image>
+		<marquee>./images/Metroid-marquee.png</marquee>
+		<thumbnail>./images/Metroid-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>19860801T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<family>Metroid</family>
+		<players>1</players>
+		<md5>d77c8053168da14b360bf5caeccc5964</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>B2D2D9ED68B3E5E0D29053EA525BD37C</cheevosHash>
+		<cheevosId>1487</cheevosId>
+		<scrap name="ScreenScraper" date="20230627T170425" />
+		<scrap name="HfsDB" date="20230627T164810" />
+	</game>
+	<game id="1414">
+		<path>./Ninja Gaiden 3 - The Ancient Ship of Doom.3dsen</path>
+		<name>Ninja Gaiden III : The Ancient Ship of Doom</name>
+		<desc>This is the third entry in the series of fast-paced ninja action games, and is the last game in the series to be released on the Nintendo Entertainment System.
+
+Some time has passed since the defeat of Ashtar and the resurrected Jaquio, and Irene Lew has received a new mission to complete. She is to observe a strange factory that has been constructed recently for an unknown purpose, and investigate it. She proceeds to reconnoiter it, but is intercepted and apparently assassinated by her friend Ryu Hayabusa...except it isn't Ryu. It is an imposter. The real Ryu, angered over her death, and the subsequent false accusation that he murdered her, continues her mission and proceeds to investigate the factory.
+
+As stated, this was the last game in the regular series produced for the NES. It had many features the previous games in the series did not, such as a power up to extend the length of your sword, a new vertical "wave" attack and vertically-scrolling levels. The US version of the game is reputed to be the hardest in the series, due to the extra damage incurred when hit, slightly shorter regular sword length, limited continues and more enemies.
+
+The Lynx port is the second Ninja Gaiden game on the platform, the first being a port from the Arcade Version. This port is identical to the NES game, but the in-game picture is compressed for the smaller screen of the Lynx.</desc>
+		<image>./images/Ninja Gaiden 3 - The Ancient Ship of Doom-image.png</image>
+		<marquee>./images/Ninja Gaiden 3 - The Ancient Ship of Doom-marquee.png</marquee>
+		<thumbnail>./images/Ninja Gaiden 3 - The Ancient Ship of Doom-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19910801T000000</releasedate>
+		<developer>Tecmo</developer>
+		<publisher>Tecmo</publisher>
+		<genre>Platform</genre>
+		<family>Ninja Gaiden</family>
+		<players>1</players>
+		<md5>8a551c78e96e93782e5a0cfb263eb96b</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>8E668E161D7393D8C850429D87AA4F2A</cheevosHash>
+		<cheevosId>1858</cheevosId>
+		<scrap name="ScreenScraper" date="20230627T170427" />
+		<scrap name="HfsDB" date="20230627T164810" />
+	</game>
+	<game id="1327">
+		<path>./Pac-Man (Namco).3dsen</path>
+		<name>Pac-Man</name>
+		<desc>One of the most popular and influential games of the 1980's, Pac-Man stars a little, yellow dot-muncher who works his way around to clear a maze of the various dots and fruit which inhabit the board.
+
+Pac-Man's goal is continually challenged by four ghosts: The shy blue ghost Bashful (Inky), the trailing red ghost Shadow (Blinky), the fast pink ghost Speedy (Pinky), and the forgetful orange ghost Pokey (Clyde).  One touch from any of these ghosts means a loss of life for Pac-Man.
+
+Pac-Man can turn the tables on his pursuers by eating of the four Energizers located within the maze.  During this time, the ghosts turn blue, and Pac-Man can eat them for bonus points.  This only lasts for a limited amount of time, as the ghost's eyes float back to their center box, and regenerate to chase after Pac-Man again.
+
+Survive a few rounds of gameplay, and be treated to humorous intermissions between Pac-Man and the ghosts.</desc>
+		<image>./images/Pac-Man (Namco)-image.png</image>
+		<marquee>./images/Pac-Man (Namco)-marquee.png</marquee>
+		<thumbnail>./images/Pac-Man (Namco)-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>19931102T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Action / Labyrinth</genre>
+		<family>Pac-Man</family>
+		<players>1-2</players>
+		<md5>3ddca58c51dd38d59f9271d24e7105f9</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>CA606BD8A875A396D52735C3BB84FA67</cheevosHash>
+		<cheevosId>1491</cheevosId>
+		<scrap name="ScreenScraper" date="20230627T170427" />
+		<scrap name="HfsDB" date="20230627T164911" />
+	</game>
+	<game id="1675">
+		<path>./Pinball.3dsen</path>
+		<name>Pinball</name>
+		<desc>Be a pinball wizard, right in your own home!
+
+Bank off bumpers, flip double flippers, even win a bonus round in Nintendo's lightning fast PINBALL! You'll have the time of your life as you flip from upper to lower game screens, rack up points to beat your opponent, and, if you're lucky, progress to the bonus round where you'll save the falling maiden in this video version of the real thing!</desc>
+		<image>./images/Pinball-image.png</image>
+		<marquee>./images/Pinball-marquee.png</marquee>
+		<thumbnail>./images/Pinball-thumb.png</thumbnail>
+		<rating>0.6</rating>
+		<releasedate>19851018T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Pinball</genre>
+		<players>1</players>
+		<md5>838b3043af802e70a855560433a6fca3</md5>
+		<lang>en</lang>
+		<cheevosHash>AD809323FE92D0E083BF77CCECAE462E</cheevosHash>
+		<cheevosId>1877</cheevosId>
+		<scrap name="ScreenScraper" date="20230627T170428" />
+		<scrap name="HfsDB" date="20230627T164912" />
+	</game>
+	<game id="1817">
+		<path>./Pooyan.3dsen</path>
+		<name>Pooyan</name>
+		<desc>In this remake of the arcade game Pooyan from the early '80s, you play the role of a pig, protecting its piglets from wolves.  
+
+The first screen takes place near the pigs' home.  Mrs. Pig rides up and down in a cable car, shooting at wolves, who are riding balloons downward, towards the ground.  If the wolves land safely on the ground, then they can climb a ladder, near the cable-car, and catch Mrs. Pig.  But if she shoots their balloons, they splat on the ground instead.
+
+The wolves shoot acorns at the pig.  But Mrs. Pig has a food based weapon too.  If she gets to the top, she can get meat, to toss at the wolves and make them jump off their balloons in pursuit.  Each wolf taken out this way is worth bonus points (on a doubling scheme: 400, 800 1600...)
+
+The second scene takes place at the wolves lair.  Here the wolves have reinforced balloons--it takes multiple hits to make them fall.  Here they float upwards toward a big rock, which they push on top of Mrs. Pig, when seven wolves are present.  Additionally, an alpha wolf (wolf leader) appears and summons wolves in packs.</desc>
+		<image>./images/Pooyan-image.png</image>
+		<marquee>./images/Pooyan-marquee.png</marquee>
+		<thumbnail>./images/Pooyan-thumb.png</thumbnail>
+		<rating>0.6</rating>
+		<releasedate>19850920T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Konami</publisher>
+		<genre>Shooter</genre>
+		<players>1-2</players>
+		<md5>12b7858da54e821dc1fe6884a458128a</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<cheevosHash>5B1248B99BF3113F5BEE30501E8A7E15</cheevosHash>
+		<cheevosId>4778</cheevosId>
+		<scrap name="ScreenScraper" date="20230627T170428" />
+		<scrap name="HfsDB" date="20230627T165010" />
+	</game>
+	<game id="1569">
+		<path>./Popeye.3dsen</path>
+		<name>Popeye</name>
+		<desc>Popeye is a conversion of the arcade action/platform game. As Popeye, you are trying to win Olive Oyl's love! She is at the top of the screen dropping tokens of her love, and you need to collect them before they hit the ground. After you have collected the required number of items, you can move on to the next, more difficult level. There are many obstacles trying to stop you from completing your task, though! Brutus wanders around the screen and is constantly trying to catch you. If you collect a can of spinach, you can temporarily knock him out, otherwise Brutus will knock you out. Other objects such as bottles or birds are also flying around the screen and will cause you to lose one of your lives if you are hit. Each level features a different layout of platforms and ladders, and will have you collecting different items as they float towards the bottom of the screen!</desc>
+		<image>./images/Popeye-image.png</image>
+		<marquee>./images/Popeye-marquee.png</marquee>
+		<thumbnail>./images/Popeye-thumb.png</thumbnail>
+		<rating>0.6</rating>
+		<releasedate>19860601T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<family>Popeye</family>
+		<players>1-2</players>
+		<md5>79093d6add5b6f7445302857fc629570</md5>
+		<lang>en</lang>
+		<cheevosHash>170ADB71CBBAA754008345D623EB804C</cheevosHash>
+		<cheevosId>1881</cheevosId>
+		<scrap name="ScreenScraper" date="20230627T170430" />
+		<scrap name="HfsDB" date="20230627T165011" />
+	</game>
+	<game id="1718">
+		<path>./Road Fighter.3dsen</path>
+		<name>Road Fighter</name>
+		<desc>Enter into the fiery heat of competition, as you head for the glory awaiting you at the finish line ! You'll need all your wits about you as engage in this fast-paced road fight.
+
+You drive a racing machine at speeds of 400 km/h. As you start, the sound of your engine roars through the quiet residential area. you have entered the tough world of racing. It's a hectic rally as your rival attempts to block your way to victory. It is a race of limited time and fuel. You'll encounter oil slicks on the road and big tractor-trailers blocking your path. Only your driving skill can get you by these obstacles. If you go into a spin, you must immediately cut the steering wheel in the opposite direction. Getting a bonus car along the way replenishes your fuel supply. Good luck in your race across the bridge, along the coastal highway, and around the steep and narrow mountain course!</desc>
+		<image>./images/Road Fighter-image.png</image>
+		<marquee>./images/Road Fighter-marquee.png</marquee>
+		<thumbnail>./images/Road Fighter-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19920618T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Palcom</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+		<md5>f9339a2d96936b0a3c2e0504a8f67150</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>98E6CEAAF5EAF6FEC679BE36B208318D</cheevosHash>
+		<cheevosId>4036</cheevosId>
+		<scrap name="ScreenScraper" date="20230627T170430" />
+		<scrap name="HfsDB" date="20230627T165112" />
+	</game>
+	<game id="1302">
+		<path>./Shadow of the Ninja.3dsen</path>
+		<name>Shadow of the Ninja</name>
+		<desc>In the 21st century, the evil Emperor Garuda has taken over the city of New York, killing many of its inhabitants. You play as either Hayate or Kaede, two ninjas who are attempting to free the city from Garuda's control.
+
+Shadow of the Ninja is a typical side-scrolling action game, consisting of running, slashing and jumping through 5 levels, each with 4 sub-stages with numerous and varied foes, and a boss enemy at their end.
+
+Kaede and Hayate can not only jump; as ninjas, they can hang from platforms and make swift saltomortals between floors. Sometimes, canisters containing powerups can be found. Typical powerups extend range of the default sword, or they may be additional weapons such as throwing stars and a ninja weapon that looks like a big grappling hook on a string.
+
+The game allowed two players to play cooperatively, a rare feature for action games outside of the Contra series.</desc>
+		<image>./images/Shadow of the Ninja-image.png</image>
+		<marquee>./images/Shadow of the Ninja-marquee.png</marquee>
+		<thumbnail>./images/Shadow of the Ninja-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>19901202T000000</releasedate>
+		<developer>Natsume</developer>
+		<publisher>Taito</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+		<md5>b2ea9a8df05f7e93e92689c1991dd8c8</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>057707584B517B7E551B236EC7B0EE6D</cheevosHash>
+		<cheevosId>4720</cheevosId>
+		<scrap name="ScreenScraper" date="20230627T170431" />
+		<scrap name="HfsDB" date="20230627T165112" />
+	</game>
+	<game id="1759">
+		<path>./Shatterhand.3dsen</path>
+		<name>Shatterhand</name>
+		<desc>Shatterhand is an action game with eight-direction scrolling. You control Shatterhand in his quest to find and defeat General Grover, leader of the Metal Command. Through the game you’ll encounter all kinds of mechanical and biomechanical creatures. Shatterhand’s primary weapon is his cybernetic fists and therefore most enemies must be defeated by punching them.
+
+Additional help can be given from any of the eight hovering satellite robots, each of which has it’s own weapon that fires automatically when Shatterhand throws a punch. These satellite robots can be obtained by collecting combinations of alpha-beta letters that appear when you punch some of the white boxes that are scattered throughout each stage.
+
+The game has seven stages. The first and the last must be played first and last respectively, but the five middle stages can be played in any order. The path to the final showdown with General Grover leads through a factory, a refinery, an anti-gravity research facility, a submarine, a burning subway, a filtration plant and finally to General Grover’s missile launch complex.</desc>
+		<image>./images/Shatterhand-image.png</image>
+		<marquee>./images/Shatterhand-marquee.png</marquee>
+		<thumbnail>./images/Shatterhand-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>19911201T000000</releasedate>
+		<developer>Natsume</developer>
+		<publisher>Jaleco</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<md5>0ee78cece27bdb6281154e366897cf17</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>7CCCC9AD7B1097143435FCC6AFCDF157</cheevosHash>
+		<cheevosId>1940</cheevosId>
+		<scrap name="ScreenScraper" date="20230627T170431" />
+		<scrap name="HfsDB" date="20230627T165211" />
+	</game>
+	<game id="1719">
+		<path>./Snow Brothers.3dsen</path>
+		<name>Snow Brothers</name>
+		<desc>Nick and Tom are two Princes living the dream with two beautiful princesses. When suddenly the evil King Scorch freezes Prince Nick and Tom and kidnaps the Princesses. Now Nick and Tom find themselves with abilities dealing with snow and ice. These two Snow Brothers will need to hunt down the evil King Scorch and rescue the princesses.
+
+Snow Bros. is a fixed-screen platform game where players must defeat all enemies on each level (screen), 50 altogether. The Snow Bros use  snow as their weapon, throwing it at the enemies to stun them. When lots of snow is thrown at an enemy, it becomes covered in a flurry and unable to move. These can be rolled into  giant snowballs and pushed or kicked into other enemies. If left alone, enemies will eventually  defrost and become angry at the player. The enemy filled snowballs are a much stronger weapon then the regular handful of snow and are the only effective weapon Nick and Tom have against the bosses.</desc>
+		<image>./images/Snow Brothers-image.png</image>
+		<marquee>./images/Snow Brothers-marquee.png</marquee>
+		<thumbnail>./images/Snow Brothers-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>19911101T000000</releasedate>
+		<developer>SOL</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+		<md5>6ec8260fa2fd61d77491c2d9b95711ea</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>CE7B3957B13004478E46639BD8BE9076</cheevosHash>
+		<scrap name="ScreenScraper" date="20230627T170433" />
+		<scrap name="HfsDB" date="20230627T165211" />
+	</game>
+	<game id="1381">
+		<path>./Solomon's Key.3dsen</path>
+		<name>Solomon's Key</name>
+		<desc>Solomon's Key is a platform game with both action and strategy elements. On each level your goal is to retrieve a key which can then be used to unlock the exit. To help out, you have a magic wand which can be used to create and destroy blocks (though some blocks can't be destroyed). In order to reach the key you will need carefully to arrange the blocks on the screen so you can jump your way around safely. Wandering around each level are a variety of enemies which will cause you to lose a life if you're caught. Some creatures can be killed by destroying the block they are standing on, others must be dodged. Hidden bonuses and magic can be found on many of the levels, sometimes even hidden in blocks. Some treasures give you bonus points, others can form magic spells to help deal with the enemies. To make the game more difficult, each level has a time limit in which it must be completed.</desc>
+		<image>./images/Solomon's Key-image.png</image>
+		<marquee>./images/Solomon's Key-marquee.png</marquee>
+		<thumbnail>./images/Solomon's Key-thumb.png</thumbnail>
+		<rating>0.6</rating>
+		<releasedate>19870701T000000</releasedate>
+		<developer>Tecmo</developer>
+		<publisher>Tecmo</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<md5>636363fff04e19561d87dda7bf0e65ed</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>39FC2CB541D2D2E32ED5E5E45E54CE74</cheevosHash>
+		<scrap name="ScreenScraper" date="20230627T170433" />
+		<scrap name="HfsDB" date="20230627T165212" />
+	</game>
+	<game id="1562">
+		<path>./Spy Hunter.3dsen</path>
+		<name>Spy Hunter</name>
+		<desc>A conversion of the arcade game, Spy Hunter is a driving action game played from an overhead point of view. Your car is equipped with machine guns to help you get past the numerous enemies out on the road (be careful not to shoot any civilians, though!) Occasionally you will come across a weapons van, and if you drive into the back of the van your car becomes equipped with a second weapon (such as smoke screen, oil slick, or missiles.) At several points the road splits and you can enter a boathouse which transforms your car into a boat temporarily. If you drive far enough the seasons change as well (watch out for icy conditions during winter!) The enemy cars will do anything to stop you, including running you off the road, firing guns from the back of a limmo, or dropping bombs from a helicopter.</desc>
+		<image>./images/Spy Hunter-image.png</image>
+		<marquee>./images/Spy Hunter-marquee.png</marquee>
+		<thumbnail>./images/Spy Hunter-thumb.png</thumbnail>
+		<rating>0.6</rating>
+		<releasedate>19870901T000000</releasedate>
+		<developer>Bally Midway</developer>
+		<publisher>Sunsoft</publisher>
+		<genre>Race, Driving</genre>
+		<family>Spy Hunter</family>
+		<players>1</players>
+		<md5>9eb7ded08c29c6933d5bec7a185feefa</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>AC55003F1DE6B36204F2D0E53D6B8058</cheevosHash>
+		<cheevosId>1971</cheevosId>
+		<scrap name="ScreenScraper" date="20230627T170435" />
+		<scrap name="HfsDB" date="20230627T165213" />
+	</game>
+	<game id="214443">
+		<path>./Super Bat Puncher.3dsen</path>
+		<name>Super Bat Puncher</name>
+		<desc>Super Bat Puncher is an original homebrew game for the NES console. Explore the dark caverns of a mysterious planet and find out about the plague that threatens Earth.</desc>
+		<image>./images/Super Bat Puncher-image.png</image>
+		<marquee>./images/Super Bat Puncher-marquee.png</marquee>
+		<thumbnail>./images/Super Bat Puncher-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>20110101T000000</releasedate>
+		<developer>Morphcat Games</developer>
+		<publisher>Morphcat Games</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+		<md5>0ed8f1c66a067a6c74dc7a6f57ca2ea3</md5>
+		<lang>en</lang>
+		<cheevosHash>0B83F342EE590AE4E6797C42A3ED0A6F</cheevosHash>
+		<cheevosId>11833</cheevosId>
+		<scrap name="ScreenScraper" date="20230627T170436" />
+		<scrap name="HfsDB" date="20230627T165312" />
+	</game>
+	<game id="1245">
+		<path>./Super Mario Bros.3dsen</path>
+		<name>Super Mario Bros.</name>
+		<desc>The Princess has been kidnapped by the evil Bowser, and it is up to Mario and brother Luigi to save the day.
+
+The first ever platform adventure for the Mario Brothers has the player exploring level after level, with Bowser to contend with as the end of level boss. Power-ups include the Super Mushroom, which increases Mario's size and power, the fire flower, allowing him to shoot fireballs at enemies, and the ever important starman for a short burst of invincibility.
+
+Each level includes a bonus section filled with coins plus a shortcut through the level, plenty of bad buys and obstacles to get past, and an end of level flag, in which the higher the player grabs it, the more points are awarded to them. Certain levels also include warp points, which takes the player to higher levels.</desc>
+		<image>./images/Super Mario Bros-image.png</image>
+		<marquee>./images/Super Mario Bros-marquee.png</marquee>
+		<thumbnail>./images/Super Mario Bros-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>19851117T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform / Run Jump</genre>
+		<family>Super Mario Bros</family>
+		<players>1-2</players>
+		<md5>811b027eaf99c2def7b933c5208636de</md5>
+		<lang>en</lang>
+		<cheevosHash>8E3630186E35D477231BF8FD50E54CDD</cheevosHash>
+		<cheevosId>1446</cheevosId>
+		<scrap name="ScreenScraper" date="20230627T170436" />
+		<scrap name="HfsDB" date="20230627T165314" />
+	</game>
+	<game id="1246">
+		<path>./Super Mario Bros 3.3dsen</path>
+		<name>Super Mario Bros. 3</name>
+		<desc>Bowser is back, and along with the Bowser kids, he's out to spoil Mario's day once again. 
+
+This time, along with nabbing the Princess, the Bowser crew have also taken the magic wands from the Kings of each land and turned them into creatures.
+It's up to Mario and Luigi to get back the magic wands, defeat Bowser, and save the Princess all before the day is done.
+
+Old and new power-ups abound in each level for the Mario Brothers, including the return of the Super Mushroom and Fire Flower, plus the new power-ups including the frog suit, the warp flute, and the most important of all, the leaf, which allows the player to fly and attack enemies with your tail.</desc>
+		<image>./images/Super Mario Bros 3-image.png</image>
+		<marquee>./images/Super Mario Bros 3-marquee.png</marquee>
+		<thumbnail>./images/Super Mario Bros 3-thumb.png</thumbnail>
+		<rating>0.95</rating>
+		<releasedate>19900212T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform / Run Jump</genre>
+		<family>Super Mario Bros</family>
+		<players>1-2</players>
+		<md5>bb5c4b6d4d78c101f94bdb360af502f3</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>B76F978AD3076EA67F2B0ACA7399C9E9</cheevosHash>
+		<cheevosId>1995</cheevosId>
+		<scrap name="ScreenScraper" date="20230627T170438" />
+		<scrap name="HfsDB" date="20230627T165414" />
+	</game>
+	<game id="1291">
+		<path>./Tetris.3dsen</path>
+		<name>Tetris</name>
+		<desc>This version of Tetris is one of many conversions of the famous block-stacking game, as well as the best-known (but not the only) version on Nintendo's first home console. The goal is to place pieces made up of four tiles in a ten-by-twenty well, organizing them into complete rows, which disappear. As rows are cleared, the pace of the game increases, and the game ends if the stack reaches the top of the well.
+
+The game offers two different modes of play, "Type A" and "Type B". "Type A" is a standard endless mode, where the speed of the game increases every ten lines, with an option for the starting level when beginning the game. "Type B", on the other hand, is a race to clear 25 lines, with options for both drop speed and starting garbage. In both modes, successful play is rewarded with cute animations. There are also three different background songs to choose from.</desc>
+		<image>./images/Tetris-image.png</image>
+		<marquee>./images/Tetris-marquee.png</marquee>
+		<thumbnail>./images/Tetris-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>19891101T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle-Game</genre>
+		<family>Tetris</family>
+		<players>1</players>
+		<md5>15cfa89611dce3f6b5438482cbae806c</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>5B0E571558C8C796937B96AF469561C6</cheevosHash>
+		<cheevosId>2022</cheevosId>
+		<scrap name="ScreenScraper" date="20230627T170438" />
+		<scrap name="HfsDB" date="20230627T165415" />
+	</game>
+	<game id="1291">
+		<path>./Tetris (Tengen).3dsen</path>
+		<name>Tetris (Tengen)</name>
+		<desc>The drama surrounding Tetris is one of the most storied sagas in the history of the NES. Tengen, an ambitious Atari-associated game developer, began releasing official NES games in 1988. Meanwhile, the company worked rapidly behind the scenes to override Nintendo's infamous lockout device that kept unofficial cartridges from being played on its console. When Tengen released its first unofficial games using its new technology, Nintendo quickly sued. This was just the beginning of the Tengen/Nintendo feud. Ignoring Nintendo's claim to the Tetris name in the US a year later, Tengen released its own version of the world's most famous puzzle game on an unlocked, unofficial cartridge. Tengen's tetris was pulled from shelves almost immediately when it was revealed that Nintendo's hold on the Tetris name stateside was legitimate. Unfortunately, almost everyone agrees that Tengen's version of the game was far superior to Nintendo's, even including a two-player mode which Nintendo's version sorely lacked. Today, the game known as Tengen Tetris is a rare title to have in your collection, but it's a worthwhile play. After all, Tetris is one of the classic games not only on the NES, but of all-time.</desc>
+		<image>./images/Tetris (Tengen)-image.png</image>
+		<marquee>./images/Tetris (Tengen)-marquee.png</marquee>
+		<thumbnail>./images/Tetris (Tengen)-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>19890501T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Tengen</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>2</players>
+		<md5>1bcb1795a0feed766d6d0681196662fb</md5>
+		<lang>en</lang>
+		<cheevosHash>117C38986584C88263414B7ABB98667C</cheevosHash>
+		<cheevosId>2023</cheevosId>
+		<scrap name="ScreenScraper" date="20230627T170440" />
+		<scrap name="HfsDB" date="20230627T165416" />
+	</game>
+	<game id="18905">
+		<path>./TwinBee.3dsen</path>
+		<name>TwinBee</name>
+		<desc>TwinBee is a vertical scrolling shooter. The players control cartoon-like spacecrafts with anthropomorphic arms, player one being TwinBee and player two being WinBee. The spacecrafts can be moved in all 8 directions, with one button for regular shooting flying enemies and one button for dropping ground bombs.
+
+Power-ups in the form of bells can be collected by shooting clouds. The color of the bell will change if it is shot by the player, assuming one of the possible colors:
+
+1. Yellow: grants bonus points;
+2. White: upgrades player's guns to a twin cannon;
+3. Blue: increases player's speed (up to five levels);
+4. Green: creates image copies of the craft for more firepower;
+5. Red: provides a shield to sustain damage.
+
+The green and red bells cannot be combined. Alternate power ups can be collected from the ground, such as an alternate bell which upgrades the craft with a three way gun and a star which destroys all enemies on screen.
+
+One shot in the middle section of the craft will destroy it. Shots which hit one of the craft's arms will destroy only the arm. If both arms are lost, the craft won't be able to shoot bombs anymore and will have to be repaired by an ambulance.
+
+In the two-player mode, TwinBee (cyan craft) and WinBee (red craft) have the same speed and they can join "hand-to-hand" and fire a super blast. Also in two player mode, if one craft is hit by the other from behind, it will fire four multi-directional shots.</desc>
+		<image>./images/TwinBee-image.png</image>
+		<marquee>./images/TwinBee-marquee.png</marquee>
+		<thumbnail>./images/TwinBee-thumb.png</thumbnail>
+		<releasedate>19860104T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<family>Twinbee</family>
+		<players>1-2</players>
+		<md5>18c3facfdd60c4f4b4e78ecb2c7959cc</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<cheevosHash>22FB493A8E19550A82B593982F8DB840</cheevosHash>
+		<cheevosId>4804</cheevosId>
+		<scrap name="ScreenScraper" date="20230627T170440" />
+		<scrap name="HfsDB" date="20230627T165514" />
+	</game>
+	<game id="1648">
+		<path>./Urban Champion.3dsen</path>
+		<name>Urban Champion</name>
+		<desc>Two rival characters meet up one day on the city streets and arrange a fight. Both characters will start in the middle with two blocks on either side of them leading to an open manhole. The first person to knock the other into the open manhole is the winner. Only punches are allowed, although obstacles such as falling flower pots can occur and give one player the advantage. Also, everyone is to look innocent should the police drive by.
+
+This is a very early and simplistic fighting game. As mentioned, each player can only punch the other, trying to knock them off the screen and towards one of the waiting manholes.</desc>
+		<image>./images/Urban Champion-image.png</image>
+		<marquee>./images/Urban Champion-marquee.png</marquee>
+		<thumbnail>./images/Urban Champion-thumb.png</thumbnail>
+		<rating>0.6</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Fight</genre>
+		<players>1-2</players>
+		<md5>5ae932ac36faad83d3500cb017605734</md5>
+		<lang>en</lang>
+		<cheevosHash>CB7F1463C90CDCDF5EF315C125F12FE2</cheevosHash>
+		<cheevosId>2058</cheevosId>
+		<scrap name="ScreenScraper" date="20230627T170441" />
+		<scrap name="HfsDB" date="20230627T165515" />
+	</game>
+	<game id="18780">
+		<path>./Wild Gunman.3dsen</path>
+		<name>Wild Gunman</name>
+		<desc>As a lawman in the old west, you carry around a tin star and your NES Zapper. Your goal to to chase down outlaws and then win out over them in a fast-draw competition. Simply put, wait for your opponent to say "Fire" and then shoot first and shoot fast to win.
+
+Wild Gunman can be played against one bandit, two bandits or in Gang mode where you shoot them as they appear in the doors and windows of an old saloon.</desc>
+		<image>./images/Wild Gunman-image.png</image>
+		<marquee>./images/Wild Gunman-marquee.png</marquee>
+		<thumbnail>./images/Wild Gunman-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19880215T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>1</players>
+		<md5>5b265168d8afee1f43535fea4059aa10</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>4635D8D82A86E8B99390A0586C96D536</cheevosHash>
+		<cheevosId>2077</cheevosId>
+		<scrap name="ScreenScraper" date="20230627T170442" />
+		<scrap name="HfsDB" date="20230627T165516" />
+	</game>
+	<game id="1383">
+		<path>./Wrecking Crew.3dsen</path>
+		<name>Wrecking Crew</name>
+		<desc>Wrecking Crew is a platform action game for one or two players. You control Mario and Luigi who need to demolish various buildings. After each wall in the building has been destroyed, you move on to the next (and more difficult) building. Many of the buildings have a puzzle element to them; you may need to find the path to reach all of the walls without becoming trapped at a dead end. Wandering throughout the buildings are dangerous creatures and the construction foreman, all of whom will stop Mario and Luigi from completing their task. The game features 100 levels, or use the construction set and create and play your own buildings.</desc>
+		<image>./images/Wrecking Crew-image.png</image>
+		<marquee>./images/Wrecking Crew-marquee.png</marquee>
+		<thumbnail>./images/Wrecking Crew-thumb.png</thumbnail>
+		<rating>0.6</rating>
+		<releasedate>19851001T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1-2</players>
+		<md5>b9abb75ac20aae1f6ba5a5da178d69e0</md5>
+		<lang>en</lang>
+		<cheevosHash>E7D7225DAD044B624FBAD9C9CA96E835</cheevosHash>
+		<cheevosId>2090</cheevosId>
+		<scrap name="ScreenScraper" date="20230627T170443" />
+		<scrap name="HfsDB" date="20230627T165614" />
+	</game>
+	<game id="1787">
+		<path>./Yie Ar Kung-Fu.3dsen</path>
+		<name>Yie Ar Kung-Fu</name>
+		<desc>Based on the popular arcade game, Yie Ar Kung-Fu follows Oolong's quest to become a Kung-Fu master.  Of course this involves fighting a wide range of opponents in a traditional one-on-one 2D environment.  Oolong has a wide range of attacks he can use to lower his opponent's life bar, including traditional punching and kicking attacks as well as jumping ones.  Opponents are well armed with unique weapons and attacks, so Oolong's task won't be easy.</desc>
+		<image>./images/Yie Ar Kung-Fu-image.png</image>
+		<marquee>./images/Yie Ar Kung-Fu-marquee.png</marquee>
+		<thumbnail>./images/Yie Ar Kung-Fu-thumb.png</thumbnail>
+		<rating>0.6</rating>
+		<releasedate>19850422T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Fight</genre>
+		<players>1</players>
+		<md5>7b50b21c7030e6929893ed4eaa814fc7</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<cheevosHash>E035B66DF685B4C5A59D66E4BC491B3A</cheevosHash>
+		<cheevosId>2444</cheevosId>
+		<scrap name="ScreenScraper" date="20230627T170443" />
+		<scrap name="HfsDB" date="20230627T165615" />
+	</game>
+	<game id="71573">
+		<path>./Zooming Secretary.3dsen</path>
+		<name>Zooming Secretary</name>
+		<desc>Playing the role of a secretary in her trial period at a new job, you have to work your way through an increasingly difficult week without being fired for failing to answer calls on time. Each single screen level (wrapping on both horizontal and vertical axes) consists of an arrangement of platforms and staircases upon which are placed a number of phones and filing cabinets. When a phone rings, the topic that the call is about is represented by a symbol above the handset - and your task is to run to the matching filing cabinet then answer the call before the phone rings off. It starts of simple enough, with day one based on a symmetrical level with only two phones and two cabinets, but the difficulty soon ramps up with devious platform placement and a variety of obstructive NPC's thrown into the mix. The boss slows you down with his unhelpful remarks (just like in real life) and chatting with the office gossip-girl can leave you confused and swap over the topic currently held in your single-track mind. Then there's the delivery guy knocking people over and the oh-so-essential and distracting office romance - although thankfully there is also a coffee machine to provide you with a caffeine-fuelled speed boost to help you overcome all these obstacles. It's a simple yet compulsive concept that would work equally well as a browser-based casual game or modern console indie title, so to see Zooming Secretary make it's debut on the original 'family computer' is particularly exciting.</desc>
+		<image>./images/Zooming Secretary-image.png</image>
+		<marquee>./images/Zooming Secretary-marquee.png</marquee>
+		<thumbnail>./images/Zooming Secretary-thumb.png</thumbnail>
+		<releasedate>20110101T000000</releasedate>
+		<developer>Shiru</developer>
+		<publisher>Shiru</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<md5>c639bd1a3bec2cf6e995c3c0a795fb69</md5>
+		<lang>en</lang>
+		<cheevosHash>BED0F7B12673DD762EED665C5C61927B</cheevosHash>
+		<cheevosId>4650</cheevosId>
+		<scrap name="ScreenScraper" date="20230627T170444" />
+		<scrap name="HfsDB" date="20230627T165615" />
+	</game>
+	<game id="1322">
+		<path>./Spartan X.3dsen</path>
+		<name>Spartan X</name>
+		<desc>You'll need lightning fast reactions to knock out the Knife Thrower, stop the Stick Fighter, and trip up the evil Tom Tom Brothers in this action-packed martial arts contest! Are you sure you're tough enough? Because it'll take all your strength and skill to master the moves in KUNG FU, beat your opponents, and rescue the fair Sylvia who's held captive on the top floor! The action is non-stop, and just when you think you've got your enemies licked there's always a Giant, a Snake, or a fire-breathing Dragon to contend with in KUNG FU!</desc>
+		<image>./images/Spartan X-image.png</image>
+		<marquee>./images/Spartan X-marquee.png</marquee>
+		<thumbnail>./images/Spartan X-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>19850621T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Fight</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20230627T192454</lastplayed>
+		<md5>020d45a8f944085d76500bd6f8f6fe15</md5>
+		<gametime>86</gametime>
+		<lang>jp</lang>
+		<region>jp</region>
+		<cheevosHash>9CE004429A6066999ED272389773F086</cheevosHash>
+		<cheevosId>1480</cheevosId>
+		<scrap name="ScreenScraper" date="20230627T170434" />
+		<scrap name="HfsDB" date="20230627T165212" />
+	</game>
+	<game id="1254">
+		<path>./Zelda II - The Adventure of Link.3dsen</path>
+		<name>Zelda II : The Adventure of Link</name>
+		<desc>The land of Hyrule is in chaos.  As Link, you'll be sent on a treacherous journey to return six precious Crystals to their origins in six stone statues.  Only by defeating the guardians of the six palaces will you gain passage to the seventh palace, take on the ultimate challenge that awaits you, and wake the Princess Zelda from her sleeping spell.  On your way, helpful villagers you encounter will offer clues and secret messages invaluable in your quest.  As you guide Link through the levels of Hyrule, close-ups and overviews will enhance your video vision.  Are you up to the challenge?</desc>
+		<image>./images/Zelda II - The Adventure of Link-image.png</image>
+		<marquee>./images/Zelda II - The Adventure of Link-marquee.png</marquee>
+		<thumbnail>./images/Zelda II - The Adventure of Link-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>19881201T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role playing games</genre>
+		<family>The Legend of Zelda</family>
+		<players>1</players>
+		<md5>764d36fa8a2450834da5e8194281035a</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>88C0493FB1146834836C0FF4F3E06E45</cheevosHash>
+		<cheevosId>1453</cheevosId>
+		<scrap name="ScreenScraper" date="20230628T130322" />
+	</game>
+	<game id="1342">
+		<path>./Adventure Island.3dsen</path>
+		<name>Adventure Island</name>
+		<desc>In the South Pacific, Master Higgins lives peacefully wearing only a grass skirt and a cap. That is until the Evil Witch Doctor decides to capture the Princess Leilani and hold her as his own. It's up to Master Higgins to gather throwing axes, fireballs and skateboards in order to aid his noble quest.
+
+The game is a side scroller, Master Higgins moves across the screen from left to right and finds his power-ups in giant eggs. This includes a skateboard which results in a great speed enhancement - until Master Higgins gets hit and loses his power. If he is not on a skateboard a hit means instant death. Another game mechanic is starvation which gets indicated through a meter which steadily decreases. If it hits zero the hero dies and the only way to fill it up is by collecting food on the way. Bosses await him at the end of levels, all the way to the Evil Witch Doctor himself.</desc>
+		<image>./images/Adventure Island-image.png</image>
+		<marquee>./images/Adventure Island-marquee.png</marquee>
+		<thumbnail>./images/Adventure Island-thumb.png</thumbnail>
+		<rating>0.6</rating>
+		<releasedate>19880902T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Hudson</publisher>
+		<genre>Platform</genre>
+		<family>Adventure Island</family>
+		<players>1</players>
+		<playcount>1</playcount>
+		<lastplayed>20230627T193600</lastplayed>
+		<md5>be07098de1de3dc2512b6aa93f23ae3a</md5>
+		<gametime>16</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>248BA1ACBFED28BE4E6839A858A5C60A</cheevosHash>
+		<cheevosId>1526</cheevosId>
+		<scrap name="ScreenScraper" date="20230627T170414" />
+		<scrap name="HfsDB" date="20230627T164108" />
+	</game>
+	<game id="1411">
+		<path>./Adventures of Lolo 2.3dsen</path>
+		<name>Adventures of Lolo 2</name>
+		<desc>Adventures of Lolo 2 is a sequel to Adventures of Lolo (NES). Once again, the brave blue ball-like Lolo has to save the princess from the evil demons, who kidnapped her and imprisoned her in a high tower. Solve puzzles to proceed from room to room. Push tiles, eat hearts, turn green dragons into white eggs, and protect yourself from enemies firing at you and chasing you all over the room.</desc>
+		<image>./images/Adventures of Lolo 2-image.png</image>
+		<marquee>./images/Adventures of Lolo 2-marquee.png</marquee>
+		<thumbnail>./images/Adventures of Lolo 2-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>19900301T000000</releasedate>
+		<developer>HAL Laboratory</developer>
+		<publisher>HAL Laboratory</publisher>
+		<genre>Strategy</genre>
+		<family>Adventures Of Lolo</family>
+		<players>1</players>
+		<playcount>1</playcount>
+		<lastplayed>20230627T193644</lastplayed>
+		<md5>0f8eac497adc07858685b8e84e59a56b</md5>
+		<gametime>24</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>6EA5A463D04DDC42E9483DCFEF86B0CF</cheevosHash>
+		<cheevosId>1531</cheevosId>
+		<scrap name="ScreenScraper" date="20230627T170343" />
+		<scrap name="HfsDB" date="20230627T162459" />
+	</game>
+	<game id="1311">
+		<path>./Adventures of Lolo.3dsen</path>
+		<name>Adventures of Lolo</name>
+		<desc>The lovely princess Lala was kidnapped by the Evil Demons of the Empire. You are Lolo, a round ball-like creature (just like the princess herself), and your mission is to sneak into the empire castle and to liberate the princess.
+
+Adventures of Lolo is a puzzle game, and each level is a castle room. The goal in each room is to collect all the hearts. It is not always easy, because some hearts are blocked by enemies who will shoot you when you cross their path horizontally or vertically (or both). Once you collect all the hearts, a treasure chest will open and activate all the creatures in the room, even those who were not hostile until now. You must quickly cross the room to the exit which is now available to go to the next room. The game contains 50 rooms in total.
+
+The difficulty level increases with each room, and after a few levels there is an especially hard room with tougher enemies.</desc>
+		<image>./images/Adventures of Lolo-image.png</image>
+		<marquee>./images/Adventures of Lolo-marquee.png</marquee>
+		<thumbnail>./images/Adventures of Lolo-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>19890401T000000</releasedate>
+		<developer>HAL Laboratory</developer>
+		<publisher>HAL Laboratory</publisher>
+		<genre>Puzzle-Game</genre>
+		<family>Adventures Of Lolo</family>
+		<players>1</players>
+		<playcount>1</playcount>
+		<lastplayed>20230627T193616</lastplayed>
+		<md5>38516649d5d9c0b51a9a578c8178ee5b</md5>
+		<gametime>13</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>C8DD9C137B1EF0224663D670C3F36818</cheevosHash>
+		<scrap name="ScreenScraper" date="20230627T170343" />
+		<scrap name="HfsDB" date="20230627T162459" />
+	</game>
+	<game id="1701">
+		<path>./Antarctic Adventure.3dsen</path>
+		<name>Antarctic Adventure (Kekkyoku Nankyoku Daibouken)</name>
+		<desc>As a penguin, you must travel around Antarctica, making your way between bases before time runs out. This sounds easy, right? Wrong. Hindering your progress will be ice crevices and leopard seals. You can jump over the crevices, but jumping over the leopard seals may be difficult. You can speed up or slow down the penguin to avoid both of these hazards. The bases include Australia, France, New Zealand, USA, Argentina, UK, and Japan. You can collect flags and eat fish for points. Collecting a flashing flag will allow you to wear a propeller that enable you to fly over those hazards.</desc>
+		<image>./images/Antarctic Adventure-image.png</image>
+		<marquee>./images/Antarctic Adventure-marquee.png</marquee>
+		<thumbnail>./images/Antarctic Adventure-thumb.png</thumbnail>
+		<rating>0.5</rating>
+		<releasedate>19850422T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<playcount>1</playcount>
+		<lastplayed>20230627T193703</lastplayed>
+		<md5>ca7a3966079d541c81113e834b087e3b</md5>
+		<gametime>14</gametime>
+		<lang>jp</lang>
+		<region>jp</region>
+		<cheevosHash>31E504BA213EBFF173BF851B45C535C4</cheevosHash>
+		<cheevosId>4094</cheevosId>
+		<scrap name="ScreenScraper" date="20230627T170345" />
+		<scrap name="HfsDB" date="20230627T162600" />
+	</game>
+	<game>
+		<path>./Micro Mages.3dsen</path>
+		<name>Micro Mages</name>
+		<desc>Slip into your wizard robes and enter the Demon Fortress, home of great treasure and ghastly creatures alike. Shoot and wall-jump your way up the fortress's towers and battle the evil bosses lurking at the top.
+Play solo or join forces with your friends. This game supports up to 4 players. Will you help each other overcome the dangerous traps built to stop nosy adventurers or will you turn on your comrades to snatch the high score? No downtime: If you die while at least one other player is still alive, you will turn into a ghost and can help by freezing enemies. Try to open crates and treasure chests to find a Fairy or Feather that will bring you back to life.</desc>
+		<image>./images/Micro Mages-image.png</image>
+		<marquee>./images/Micro Mages-marquee.png</marquee>
+		<thumbnail>./images/Micro Mages-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<developer>Morphcat Games</developer>
+		<publisher>Morphcat Games</publisher>
+		<genre>Platform</genre>
+		<players>4</players>
+		<playcount>3</playcount>
+		<lastplayed>20230627T202349</lastplayed>
+		<gametime>631</gametime>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="18674">
+		<path>./Flappy.3dsen</path>
+		<name>Flappy</name>
+		<desc>In this puzzle game, you control Flappy, a yellow mole.  The object of the game is to help Flappy push the Blue Stone onto its Blue Platform in each level.
+
+Red Stones are placed in key locations across the levels.  They can be pushed, stacked on top of each other, and even destroyed.  Flappy must strategically take advantage of the gravity and the Red Stones in order to clear the path for pushing the Blue Stone.  Three different types of enemies will try to prevent Flappy from clearing the level, so you must either avoid the enemies, crush them from above with the Stones, or pick up Sleeping Mushrooms to knock them out temporarily.</desc>
+		<image>./images/Flappy-image.png</image>
+		<marquee>./images/Flappy-marquee.png</marquee>
+		<thumbnail>./images/Flappy-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>19850614T000000</releasedate>
+		<developer>DB Soft</developer>
+		<publisher>DB Soft</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20230628T130947</lastplayed>
+		<md5>55181f43bd74925b33e08a90bcb3e890</md5>
+		<gametime>15</gametime>
+		<lang>jp</lang>
+		<region>jp</region>
+		<cheevosHash>EC5FFF364F200DD0510328B7156FD0FA</cheevosHash>
+		<scrap name="ScreenScraper" date="20230627T170409" />
+		<scrap name="HfsDB" date="20230627T163806" />
+	</game>
+	<game id="1785">
+		<path>./Mappy.3dsen</path>
+		<name>Mappy</name>
+		<desc>You control Mappy a police-mouse whose job is to collect valuables (consumer electronics)from a cat's house. You are being pursued by a gang of five pink cats. Doors are your only defense against the cats. You get from floor to floor by jumping on one of the trampolines.
+Points are earned by recovering stolen goods. Other ways of earning points are bouncing on a trampoline, putting cats in the microwave, striking a cat with a door, striking cats with a bell, retrieving a treasures from the Boss cat Goro or dropping cats through a hole in the floor.</desc>
+		<image>./images/Mappy-image.png</image>
+		<marquee>./images/Mappy-marquee.png</marquee>
+		<thumbnail>./images/Mappy-thumb.png</thumbnail>
+		<rating>0.4</rating>
+		<releasedate>19841114T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Platform</genre>
+		<family>Mappy</family>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20230628T131033</lastplayed>
+		<md5>b0ba60bc0866efc73ccd62defc0120d5</md5>
+		<gametime>11</gametime>
+		<lang>jp</lang>
+		<region>jp</region>
+		<cheevosHash>87ECD2CC23DE21FFD69439DB9A1CA778</cheevosHash>
+		<cheevosId>4756</cheevosId>
+		<scrap name="ScreenScraper" date="20230627T170421" />
+		<scrap name="HfsDB" date="20230627T164510" />
+	</game>
+</gameList>

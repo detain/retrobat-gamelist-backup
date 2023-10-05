@@ -1,0 +1,18 @@
+_________________________________________
+
+	3DSEN GAMES LAUNCHERS PACK vol.1
+_________________________________________
+
+This launchers pack doesn't provide any games but only launchers to start games directly from the RetroBat interface with the 3dSen emulator.
+3dSen is a paid software so you need to purshase it yourself.
+Steam: https://store.steampowered.com/app/1147940/3dSen_PC/
+Itch: https://geod.itch.io/3dsenpc
+
+In order to be able to use the games launchers, please follow the steps below:
+
+1 ) Copy 3dSen emulator files in the "emulators\3dsen" folder if you didn't having it done yet.
+2 ) Open and read the "3dsen-roms-compatibility-list.txt" located in "roms\nes3d" folder to check which roms are supported with this preconfigured launchers pack.
+3 ) Copy all the relevant roms in the "roms\nes3d" folder.
+4 ) Copy the file "roms.json" located in "emulators\3dsen" to your "%USERPROFILE%\AppData\LocalLow\Geod Studio\3dSen" folder. Overwrite the existing file if asked.
+5 ) Run 3dSen in the RetroBat emulators section from the interface to configure your controler if needed.
+6 ) Run 3dSen games in the NES 3D section from the RetroBat interface.
