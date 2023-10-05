@@ -1,862 +1,1638 @@
 <?xml version="1.0"?>
 <gameList>
-	<game>
-		<path>./No-Intro/Vindicators (World).bin</path>
-		<name>Vindicators (World)</name>
-		<crc32>7B99EE4C</crc32>
+	<game id="430757">
+		<path>./No-Intro/4 in 1 - Cube Up + Mini Golf + Vindicators + Brick Blaster (World).bin</path>
+		<name>4 in 1</name>
+		<image>./images/4 in 1 - Cube Up + Mini Golf + Vindicators + Brick Blaster (World)-image.jpg</image>
+		<marquee>./images/4 in 1 - Cube Up + Mini Golf + Vindicators + Brick Blaster (World)-marquee.png</marquee>
+		<crc32>10E81571</crc32>
+		<md5>d911f391a4911a891fd09c35bf5b9616</md5>
 		<lang>en</lang>
 		<region>wr</region>
-		<scrap name="ArcadeDB" date="20221212T135914" />
+		<scrap name="ScreenScraper" date="20231005T062924" />
+		<scrap name="ArcadeDB" date="20221212T135907" />
 	</game>
-	<game>
-		<path>./No-Intro/Witty Apee (World).bin</path>
-		<name>Witty Apee (World)</name>
-		<crc32>F1190956</crc32>
+	<game id="430763">
+		<path>./No-Intro/Baseball (World).bin</path>
+		<name>Baseball</name>
+		<image>./images/Baseball (World)-image.png</image>
+		<marquee>./images/Baseball (World)-marquee.png</marquee>
+		<thumbnail>./images/Baseball (World)-thumb.png</thumbnail>
+		<crc32>DAF715C5</crc32>
+		<md5>c068e34d8a32d195576c691bc85d9422</md5>
 		<lang>en</lang>
 		<region>wr</region>
-		<scrap name="ArcadeDB" date="20221212T135914" />
+		<scrap name="ScreenScraper" date="20231005T062927" />
+		<scrap name="ArcadeDB" date="20221212T135907" />
 	</game>
-	<game>
-		<path>./No-Intro/[BIOS] Gamate (World) (Rev 1).bin</path>
-		<name>Gamate</name>
-		<desc>Console published 32 years ago:
-
-Gamate (c) 1990 Bit Corp.
-
-- CONTRIBUTE -
-
-Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=289896&amp;o=2</desc>
-		<image>./images/[BIOS] Gamate (World) (Rev 1)-image.png</image>
-		<thumbnail>./images/[BIOS] Gamate (World) (Rev 1)-thumb.png</thumbnail>
+	<game id="430766">
+		<path>./No-Intro/Basketball (World).bin</path>
+		<name>Basketball</name>
+		<image>./images/Basketball (World)-image.jpg</image>
+		<marquee>./images/Basketball (World)-marquee.png</marquee>
+		<thumbnail>./images/Basketball (World)-thumb.png</thumbnail>
+		<genre>Sports / Basketball</genre>
+		<crc32>93D5F365</crc32>
+		<md5>ade554a98e46de826faa9df7c6a15b9e</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231005T062931" />
+		<scrap name="ArcadeDB" date="20221212T135907" />
+	</game>
+	<game id="430769">
+		<path>./No-Intro/Bomb Blaster (World) (Alt).bin</path>
+		<name>Bomb Blaster</name>
+		<desc>Bomb Blast(er) is a terrible Bomberman clone. No two ways about it. The only two interesting things about this game are the fact that some of the enemies look like Pac-Man ghosts, and the text on the Game Over screen spells out "Move Rage" before rearranging itself into "Game Over". "Move Rage" is probably the best way to describe this game using only the letters contained within "Game Over", actually (sorry) - the guy (the same pixelated gentleman from Witty Apee, only with a crudely drawn face on the front of his pixel-head) moves excruciatingly slowly. Oh, and when you die - probably thanks to an enemy hidden by flicker and motion blur - the entire level resets. Powerups are few and far between - I picked up one that made the guy move at a speed fast enough to almost make the game tolerable, and another that didn't seem to do anything. There's no multiplayer, the music is terrible, and the name on the title screen doesn't match the name on the label. (A title screen, incidentally, which I only managed to screenshot using my patented technique of yanking the cartridge out while it wasn't moving, causing the Gamate to freeze - not something I'd risk with most games, but Bomb Blaster ... it's really bad)</desc>
+		<image>./images/Bomb Blaster (World) (Alt)-image.jpg</image>
+		<marquee>./images/Bomb Blaster (World) (Alt)-marquee.png</marquee>
+		<thumbnail>./images/Bomb Blaster (World) (Alt)-thumb.png</thumbnail>
 		<releasedate>19900101T000000</releasedate>
-		<developer>Bit Corp</developer>
-		<publisher>Bit Corp</publisher>
-		<genre>Handheld / Home Videogame Console</genre>
-		<players>1</players>
-		<crc32>03A5F3A7</crc32>
+		<genre>Action</genre>
+		<crc32>81FFB896</crc32>
+		<md5>7854e79032286777987756d0d9a26e98</md5>
 		<lang>en</lang>
 		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231005T062935" />
+		<scrap name="ArcadeDB" date="20221212T135907" />
+	</game>
+	<game id="430769">
+		<path>./No-Intro/Bomb Blaster (World).bin</path>
+		<name>Bomb Blaster</name>
+		<desc>Bomb Blast(er) is a terrible Bomberman clone. No two ways about it. The only two interesting things about this game are the fact that some of the enemies look like Pac-Man ghosts, and the text on the Game Over screen spells out "Move Rage" before rearranging itself into "Game Over". "Move Rage" is probably the best way to describe this game using only the letters contained within "Game Over", actually (sorry) - the guy (the same pixelated gentleman from Witty Apee, only with a crudely drawn face on the front of his pixel-head) moves excruciatingly slowly. Oh, and when you die - probably thanks to an enemy hidden by flicker and motion blur - the entire level resets. Powerups are few and far between - I picked up one that made the guy move at a speed fast enough to almost make the game tolerable, and another that didn't seem to do anything. There's no multiplayer, the music is terrible, and the name on the title screen doesn't match the name on the label. (A title screen, incidentally, which I only managed to screenshot using my patented technique of yanking the cartridge out while it wasn't moving, causing the Gamate to freeze - not something I'd risk with most games, but Bomb Blaster ... it's really bad)</desc>
+		<image>./images/Bomb Blaster (World)-image.jpg</image>
+		<marquee>./images/Bomb Blaster (World)-marquee.png</marquee>
+		<thumbnail>./images/Bomb Blaster (World)-thumb.png</thumbnail>
+		<releasedate>19900101T000000</releasedate>
+		<genre>Action</genre>
+		<crc32>33FD30F4</crc32>
+		<md5>ce266731ab46edaaed1d99fb132f1c3c</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231005T062938" />
+		<scrap name="ArcadeDB" date="20221212T135908" />
+	</game>
+	<game id="430772">
+		<path>./No-Intro/Boom! (World).bin</path>
+		<name>Boom!</name>
+		<image>./images/Boom! (World)-image.jpg</image>
+		<marquee>./images/Boom! (World)-marquee.png</marquee>
+		<thumbnail>./images/Boom! (World)-thumb.png</thumbnail>
+		<crc32>20FDA0F7</crc32>
+		<md5>503147effb5cb9006833be11069fd8c1</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231005T062941" />
+		<scrap name="ArcadeDB" date="20221212T135908" />
+	</game>
+	<game id="430775">
+		<path>./No-Intro/Box Forum (World).bin</path>
+		<name>Box Forum</name>
+		<image>./images/Box Forum (World)-image.jpg</image>
+		<marquee>./images/Box Forum (World)-marquee.png</marquee>
+		<thumbnail>./images/Box Forum (World)-thumb.png</thumbnail>
+		<releasedate>19910101T000000</releasedate>
+		<crc32>82C6F1D5</crc32>
+		<md5>574d52866daa9bd7e6eed1702b23758d</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231005T062945" />
+		<scrap name="ArcadeDB" date="20221212T135908" />
+	</game>
+	<game id="430778">
+		<path>./No-Intro/Brick Blaster (World).bin</path>
+		<name>Brick Blaster</name>
+		<image>./images/Brick Blaster (World)-image.jpg</image>
+		<marquee>./images/Brick Blaster (World)-marquee.png</marquee>
+		<thumbnail>./images/Brick Blaster (World)-thumb.png</thumbnail>
+		<releasedate>19900101T000000</releasedate>
+		<genre>Action / Breakout games</genre>
+		<crc32>76F5F2F1</crc32>
+		<md5>63dbd4f37e9d72d5fa303b9e37ac2074</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231005T062948" />
+		<scrap name="ArcadeDB" date="20221212T135908" />
+	</game>
+	<game id="430781">
+		<path>./No-Intro/Cosmic Fighter (World).bin</path>
+		<name>Cosmic Fighter</name>
+		<image>./images/Cosmic Fighter (World)-image.jpg</image>
+		<marquee>./images/Cosmic Fighter (World)-marquee.png</marquee>
+		<thumbnail>./images/Cosmic Fighter (World)-thumb.png</thumbnail>
+		<releasedate>19900101T000000</releasedate>
+		<genre>Shoot'em Up</genre>
+		<crc32>D24DF424</crc32>
+		<md5>f88cb175cef1efe3c32b7e3601ffd8d2</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231005T062952" />
+		<scrap name="ArcadeDB" date="20221212T135908" />
+	</game>
+	<game id="430784">
+		<path>./No-Intro/Cube Up (World).bin</path>
+		<name>Cube Up</name>
+		<image>./images/Cube Up (World)-image.jpg</image>
+		<marquee>./images/Cube Up (World)-marquee.png</marquee>
+		<thumbnail>./images/Cube Up (World)-thumb.png</thumbnail>
+		<releasedate>19900101T000000</releasedate>
+		<crc32>2A911E57</crc32>
+		<md5>52526615e8804ce6455754cde9a59ee1</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231005T062955" />
+		<scrap name="ArcadeDB" date="20221212T135908" />
+	</game>
+	<game id="430787">
+		<path>./No-Intro/Devil Castle (World).bin</path>
+		<name>Devil Castle</name>
+		<image>./images/Devil Castle (World)-image.jpg</image>
+		<marquee>./images/Devil Castle (World)-marquee.png</marquee>
+		<thumbnail>./images/Devil Castle (World)-thumb.png</thumbnail>
+		<releasedate>19910101T000000</releasedate>
+		<genre>Action</genre>
+		<crc32>2F4DFA71</crc32>
+		<md5>6dacfe5c9d736ef7cafa9ebac6382c54</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231005T062959" />
+		<scrap name="ArcadeDB" date="20221212T135908" />
+	</game>
+	<game id="430790">
+		<path>./No-Intro/Dino Ball (World).bin</path>
+		<name>Dino Ball</name>
+		<image>./images/Dino Ball (World)-image.jpg</image>
+		<marquee>./images/Dino Ball (World)-marquee.png</marquee>
+		<thumbnail>./images/Dino Ball (World)-thumb.png</thumbnail>
+		<releasedate>19910101T000000</releasedate>
+		<crc32>B609871F</crc32>
+		<md5>45228ca2b43d82e881d13ee233ce6b96</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231005T063002" />
+		<scrap name="ArcadeDB" date="20221212T135908" />
+	</game>
+	<game id="430793">
+		<path>./No-Intro/Dino Bibo (World).bin</path>
+		<name>Dino Bibo</name>
+		<image>./images/Dino Bibo (World)-image.png</image>
+		<marquee>./images/Dino Bibo (World)-marquee.png</marquee>
+		<thumbnail>./images/Dino Bibo (World)-thumb.png</thumbnail>
+		<crc32>D6E1F1B7</crc32>
+		<md5>55512880a226874a5a82df7b08044b8d</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231005T063006" />
+		<scrap name="ArcadeDB" date="20221212T135909" />
+	</game>
+	<game id="430796">
+		<path>./No-Intro/Dinosaur Park (World).bin</path>
+		<name>Dinosaur Park</name>
+		<image>./images/Dinosaur Park (World)-image.png</image>
+		<marquee>./images/Dinosaur Park (World)-marquee.png</marquee>
+		<thumbnail>./images/Dinosaur Park (World)-thumb.png</thumbnail>
+		<crc32>00356983</crc32>
+		<md5>45a34bb1abb5eb74dc445963eb73d465</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231005T063009" />
+		<scrap name="ArcadeDB" date="20221212T135909" />
+	</game>
+	<game id="430799">
+		<path>./No-Intro/Enchanted Bricks (World).bin</path>
+		<name>Enchanted Bricks</name>
+		<image>./images/Enchanted Bricks (World)-image.jpg</image>
+		<marquee>./images/Enchanted Bricks (World)-marquee.png</marquee>
+		<thumbnail>./images/Enchanted Bricks (World)-thumb.png</thumbnail>
+		<releasedate>19900101T000000</releasedate>
+		<genre>Action / Breakout games</genre>
+		<crc32>3DCDF55A</crc32>
+		<md5>3ae196748c797576ede4c2ac57b70262</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231005T063013" />
+		<scrap name="ArcadeDB" date="20221212T135909" />
+	</game>
+	<game id="430802">
+		<path>./No-Intro/Famous 7 (World).bin</path>
+		<name>Famous 7</name>
+		<image>./images/Famous 7 (World)-image.jpg</image>
+		<marquee>./images/Famous 7 (World)-marquee.png</marquee>
+		<thumbnail>./images/Famous 7 (World)-thumb.png</thumbnail>
+		<releasedate>19930101T000000</releasedate>
+		<genre>Action</genre>
+		<crc32>0FA48C23</crc32>
+		<md5>c785a3b84f817b0d5b3f3c1c5c4ed3b9</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231005T063017" />
+		<scrap name="ArcadeDB" date="20221212T135909" />
+	</game>
+	<game id="430805">
+		<path>./No-Intro/Fantasy Travel (World).bin</path>
+		<name>Fantasy Travel</name>
+		<image>./images/Fantasy Travel (World)-image.jpg</image>
+		<marquee>./images/Fantasy Travel (World)-marquee.png</marquee>
+		<releasedate>19930101T000000</releasedate>
+		<genre>Platform</genre>
+		<crc32>A542C61F</crc32>
+		<md5>84eb4b9cf8c528c5c20a47537cbecf58</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231005T063019" />
+		<scrap name="ArcadeDB" date="20221212T135909" />
+	</game>
+	<game id="430808">
+		<path>./No-Intro/Fist of Thunder (World).bin</path>
+		<name>Fist of Thunder</name>
+		<image>./images/Fist of Thunder (World)-image.jpg</image>
+		<marquee>./images/Fist of Thunder (World)-marquee.png</marquee>
+		<thumbnail>./images/Fist of Thunder (World)-thumb.png</thumbnail>
+		<releasedate>19910101T000000</releasedate>
+		<genre>Action</genre>
+		<crc32>9002269D</crc32>
+		<md5>e1c2bf38b26055032512f901bc4406a9</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231005T063022" />
+		<scrap name="ArcadeDB" date="20221212T135909" />
+	</game>
+	<game id="430811">
+		<path>./No-Intro/Flipuzzle (World).bin</path>
+		<name>Flipuzzle</name>
+		<image>./images/Flipuzzle (World)-image.jpg</image>
+		<marquee>./images/Flipuzzle (World)-marquee.png</marquee>
+		<thumbnail>./images/Flipuzzle (World)-thumb.png</thumbnail>
+		<releasedate>19910101T000000</releasedate>
+		<crc32>F4BD2A05</crc32>
+		<md5>09fcaf22492a04d8d24dc4c67ca32efc</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231005T063026" />
+		<scrap name="ArcadeDB" date="20221212T135909" />
+	</game>
+	<game id="430814">
+		<path>./No-Intro/Flying Goblin (World).bin</path>
+		<name>Flying Goblin</name>
+		<image>./images/Flying Goblin (World)-image.jpg</image>
+		<marquee>./images/Flying Goblin (World)-marquee.png</marquee>
+		<releasedate>19910101T000000</releasedate>
+		<genre>Platform</genre>
+		<crc32>8363C32D</crc32>
+		<md5>e8694070ee2239cac7b5542106aac72c</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231005T063030" />
+		<scrap name="ArcadeDB" date="20221212T135909" />
+	</game>
+	<game id="430817">
+		<path>./No-Intro/Fortress of Fierceness (World).bin</path>
+		<name>Fortress of Fierceness</name>
+		<image>./images/Fortress of Fierceness (World)-image.png</image>
+		<marquee>./images/Fortress of Fierceness (World)-marquee.png</marquee>
+		<crc32>C771E16B</crc32>
+		<md5>d8eb31ad85e11a634c36158ecaafe23e</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231005T063033" />
+		<scrap name="ArcadeDB" date="20221212T135909" />
+	</game>
+	<game id="430820">
+		<path>./No-Intro/Fortune 'n Luck (World).bin</path>
+		<name>Fortune 'n Luck</name>
+		<image>./images/Fortune 'n Luck (World)-image.png</image>
+		<marquee>./images/Fortune 'n Luck (World)-marquee.png</marquee>
+		<crc32>39660803</crc32>
+		<md5>61efbecbb56b054492790534653bebca</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231005T063035" />
+		<scrap name="ArcadeDB" date="20221212T135910" />
+	</game>
+	<game id="430823">
+		<path>./No-Intro/Further Adventures of Hannibal The Cat (World).bin</path>
+		<name>Further Adventures of Hannibal The Cat</name>
+		<image>./images/Further Adventures of Hannibal The Cat (World)-image.jpg</image>
+		<marquee>./images/Further Adventures of Hannibal The Cat (World)-marquee.png</marquee>
+		<releasedate>19930101T000000</releasedate>
+		<genre>Shoot'em Up</genre>
+		<crc32>9AA13551</crc32>
+		<md5>e6022b1a9623ea709b9f767dee2f973f</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231005T063038" />
+		<scrap name="ArcadeDB" date="20221212T135910" />
+	</game>
+	<game id="430826">
+		<path>./No-Intro/Galaxy Invaders (World).bin</path>
+		<name>Galaxy Invaders</name>
+		<image>./images/Galaxy Invaders (World)-image.jpg</image>
+		<marquee>./images/Galaxy Invaders (World)-marquee.png</marquee>
+		<thumbnail>./images/Galaxy Invaders (World)-thumb.png</thumbnail>
+		<releasedate>19900101T000000</releasedate>
+		<genre>Shoot'em Up</genre>
+		<crc32>93AFAD9B</crc32>
+		<md5>3b9d2604ce8c1e8ed75321ade94044e8</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231005T063041" />
+		<scrap name="ArcadeDB" date="20221212T135910" />
+	</game>
+	<game id="430829">
+		<path>./No-Intro/Golden Pyramid, The (World).bin</path>
+		<name>Golden Pyramid, The</name>
+		<image>./images/Golden Pyramid, The (World)-image.jpg</image>
+		<marquee>./images/Golden Pyramid, The (World)-marquee.png</marquee>
+		<thumbnail>./images/Golden Pyramid, The (World)-thumb.png</thumbnail>
+		<genre>Adventure</genre>
+		<crc32>96386B08</crc32>
+		<md5>27086352127255d7c84f757cd259b65d</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231005T063044" />
+		<scrap name="ArcadeDB" date="20221212T135910" />
+	</game>
+	<game id="430832">
+		<path>./No-Intro/GP Race (World).bin</path>
+		<name>GP Race</name>
+		<image>./images/GP Race (World)-image.jpg</image>
+		<marquee>./images/GP Race (World)-marquee.png</marquee>
+		<thumbnail>./images/GP Race (World)-thumb.png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<genre>Race, Driving</genre>
+		<crc32>447595E4</crc32>
+		<md5>9eace445feea2232f79d0b9d4f79d944</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231005T063048" />
+		<scrap name="ArcadeDB" date="20221212T135910" />
+	</game>
+	<game id="430835">
+		<path>./No-Intro/Hot Hero (World).bin</path>
+		<name>Hot Hero</name>
+		<image>./images/Hot Hero (World)-image.png</image>
+		<marquee>./images/Hot Hero (World)-marquee.png</marquee>
+		<crc32>1ED9D0A3</crc32>
+		<md5>af1c8e81ab3875d562a9a5f8a51168d1</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231005T063050" />
+		<scrap name="ArcadeDB" date="20221212T135910" />
+	</game>
+	<game id="430838">
+		<path>./No-Intro/Incantational Couple (World).bin</path>
+		<name>Incantational Couple</name>
+		<image>./images/Incantational Couple (World)-image.png</image>
+		<marquee>./images/Incantational Couple (World)-marquee.png</marquee>
+		<crc32>D092A22A</crc32>
+		<md5>21ba26db5b56b4dcdbcc5c7c673f7919</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231005T063053" />
+		<scrap name="ArcadeDB" date="20221212T135910" />
+	</game>
+	<game id="430841">
+		<path>./No-Intro/Insect War (World).bin</path>
+		<name>Insect War</name>
+		<image>./images/Insect War (World)-image.jpg</image>
+		<marquee>./images/Insect War (World)-marquee.png</marquee>
+		<releasedate>19950101T000000</releasedate>
+		<genre>Shoot'em Up</genre>
+		<crc32>7BA8AF6D</crc32>
+		<md5>72550054e9ea361680e0e7151ebaa612</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231005T063055" />
+		<scrap name="ArcadeDB" date="20221212T135910" />
+	</game>
+	<game id="430844">
+		<path>./No-Intro/Jewelriss (World).bin</path>
+		<name>Jewelriss</name>
+		<image>./images/Jewelriss (World)-image.jpg</image>
+		<marquee>./images/Jewelriss (World)-marquee.png</marquee>
+		<releasedate>19900101T000000</releasedate>
+		<crc32>5BA39D1C</crc32>
+		<md5>7a0e4c7d947e8a561a285497a632095c</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231005T063058" />
+		<scrap name="ArcadeDB" date="20221212T135911" />
+	</game>
+	<game id="430847">
+		<path>./No-Intro/Kiki Inland (World).bin</path>
+		<name>Kiki Inland</name>
+		<image>./images/Kiki Inland (World)-image.png</image>
+		<marquee>./images/Kiki Inland (World)-marquee.png</marquee>
+		<crc32>E492EF8E</crc32>
+		<md5>fa77c59557735b50a195aabd79e8ba3c</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231005T063100" />
+		<scrap name="ArcadeDB" date="20221212T135911" />
+	</game>
+	<game id="430850">
+		<path>./No-Intro/Kill Shot (World).bin</path>
+		<name>Kill Shot</name>
+		<image>./images/Kill Shot (World)-image.jpg</image>
+		<marquee>./images/Kill Shot (World)-marquee.png</marquee>
+		<thumbnail>./images/Kill Shot (World)-thumb.png</thumbnail>
+		<releasedate>19910101T000000</releasedate>
+		<crc32>69BC6A30</crc32>
+		<md5>4810e25dd8878ece8474cf15d26ed0b7</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231005T063104" />
+		<scrap name="ArcadeDB" date="20221212T135911" />
+	</game>
+	<game id="430853">
+		<path>./No-Intro/Kung-Fu Fighter (World).bin</path>
+		<name>Kung-Fu Fighter</name>
+		<image>./images/Kung-Fu Fighter (World)-image.jpg</image>
+		<marquee>./images/Kung-Fu Fighter (World)-marquee.png</marquee>
+		<thumbnail>./images/Kung-Fu Fighter (World)-thumb.png</thumbnail>
+		<releasedate>19900101T000000</releasedate>
+		<genre>Action</genre>
+		<crc32>4BA40206</crc32>
+		<md5>0dc4127efa1e3bfeb70d02a3bd8f9520</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231005T063107" />
+		<scrap name="ArcadeDB" date="20221212T135911" />
+	</game>
+	<game id="430856">
+		<path>./No-Intro/Legend of Dragon Knight (World).bin</path>
+		<name>Legend of Dragon Knight</name>
+		<image>./images/Legend of Dragon Knight (World)-image.jpg</image>
+		<marquee>./images/Legend of Dragon Knight (World)-marquee.png</marquee>
+		<thumbnail>./images/Legend of Dragon Knight (World)-thumb.png</thumbnail>
+		<releasedate>19910101T000000</releasedate>
+		<genre>Action</genre>
+		<crc32>A67BA296</crc32>
+		<md5>69d430d7cbaf27866a0db7b58aefede7</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231005T063111" />
+		<scrap name="ArcadeDB" date="20221212T135911" />
+	</game>
+	<game id="430859">
+		<path>./No-Intro/Magic Jigsaw (World).bin</path>
+		<name>Magic Jigsaw</name>
+		<image>./images/Magic Jigsaw (World)-image.png</image>
+		<marquee>./images/Magic Jigsaw (World)-marquee.png</marquee>
+		<thumbnail>./images/Magic Jigsaw (World)-thumb.png</thumbnail>
+		<crc32>1098BCD3</crc32>
+		<md5>b8b197819f0d8987a8067ea470b3dc99</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231005T063114" />
+		<scrap name="ArcadeDB" date="20221212T135911" />
+	</game>
+	<game id="430862">
+		<path>./No-Intro/Marauder (World).bin</path>
+		<name>Marauder</name>
+		<image>./images/Marauder (World)-image.jpg</image>
+		<marquee>./images/Marauder (World)-marquee.png</marquee>
+		<thumbnail>./images/Marauder (World)-thumb.png</thumbnail>
+		<releasedate>19910101T000000</releasedate>
+		<genre>Shoot'em Up</genre>
+		<crc32>C0A8607B</crc32>
+		<md5>946fbdec1cb4f5038299dfb8de64ec3f</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231005T063118" />
+		<scrap name="ArcadeDB" date="20221212T135911" />
+	</game>
+	<game id="430865">
+		<path>./No-Intro/Mars Voyage (World).bin</path>
+		<name>Mars Voyage</name>
+		<image>./images/Mars Voyage (World)-image.jpg</image>
+		<marquee>./images/Mars Voyage (World)-marquee.png</marquee>
+		<thumbnail>./images/Mars Voyage (World)-thumb.png</thumbnail>
+		<releasedate>19910101T000000</releasedate>
+		<genre>Shoot'em Up</genre>
+		<crc32>19BBA397</crc32>
+		<md5>dba692f10487439623c08fe3747c6875</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231005T063122" />
+		<scrap name="ArcadeDB" date="20221212T135911" />
+	</game>
+	<game id="430868">
+		<path>./No-Intro/Mighty Tank (World).bin</path>
+		<name>Mighty Tank</name>
+		<image>./images/Mighty Tank (World)-image.jpg</image>
+		<marquee>./images/Mighty Tank (World)-marquee.png</marquee>
+		<thumbnail>./images/Mighty Tank (World)-thumb.png</thumbnail>
+		<genre>Action</genre>
+		<crc32>F24379FD</crc32>
+		<md5>bfaa6237770b503c736cb539624f0dbf</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231005T063126" />
+		<scrap name="ArcadeDB" date="20221212T135912" />
+	</game>
+	<game id="430871">
+		<path>./No-Intro/Mini Golf (World).bin</path>
+		<name>Mini Golf</name>
+		<image>./images/Mini Golf (World)-image.jpg</image>
+		<marquee>./images/Mini Golf (World)-marquee.png</marquee>
+		<thumbnail>./images/Mini Golf (World)-thumb.png</thumbnail>
+		<releasedate>19900101T000000</releasedate>
+		<genre>Sports / Golf</genre>
+		<crc32>59781E23</crc32>
+		<md5>4a7f46ab3582c7f07c163c636edf5081</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231005T063130" />
+		<scrap name="ArcadeDB" date="20221212T135912" />
+	</game>
+	<game id="430874">
+		<path>./No-Intro/Money Maze (World).bin</path>
+		<name>Money Maze</name>
+		<image>./images/Money Maze (World)-image.jpg</image>
+		<marquee>./images/Money Maze (World)-marquee.png</marquee>
+		<thumbnail>./images/Money Maze (World)-thumb.png</thumbnail>
+		<genre>Action</genre>
+		<crc32>4D9BFD91</crc32>
+		<md5>907c07d5c5bc364119cd317070be7589</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231005T063134" />
+		<scrap name="ArcadeDB" date="20221212T135912" />
+	</game>
+	<game id="430877">
+		<path>./No-Intro/Monster Pitfall (World).bin</path>
+		<name>Monster Pitfall</name>
+		<image>./images/Monster Pitfall (World)-image.jpg</image>
+		<marquee>./images/Monster Pitfall (World)-marquee.png</marquee>
+		<thumbnail>./images/Monster Pitfall (World)-thumb.png</thumbnail>
+		<releasedate>19900101T000000</releasedate>
+		<genre>Action</genre>
+		<crc32>BE6EDA47</crc32>
+		<md5>bbd4cc04d96fa0466ba68350dc0ea7e6</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231005T063137" />
+		<scrap name="ArcadeDB" date="20221212T135912" />
+	</game>
+	<game id="430880">
+		<path>./No-Intro/Myth of Asamia (World).bin</path>
+		<name>Myth of Asamia</name>
+		<image>./images/Myth of Asamia (World)-image.jpg</image>
+		<marquee>./images/Myth of Asamia (World)-marquee.png</marquee>
+		<thumbnail>./images/Myth of Asamia (World)-thumb.png</thumbnail>
+		<releasedate>19900101T000000</releasedate>
+		<genre>Platform</genre>
+		<crc32>3871A86C</crc32>
+		<md5>cb6e58ff0b3fcc802e1f6d997c8a64a5</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231005T063142" />
+		<scrap name="ArcadeDB" date="20221212T135912" />
+	</game>
+	<game id="430883">
+		<path>./No-Intro/Nightmare of Santa Claus (World).bin</path>
+		<name>Nightmare of Santa Claus</name>
+		<image>./images/Nightmare of Santa Claus (World)-image.jpg</image>
+		<marquee>./images/Nightmare of Santa Claus (World)-marquee.png</marquee>
+		<thumbnail>./images/Nightmare of Santa Claus (World)-thumb.png</thumbnail>
+		<releasedate>19910101T000000</releasedate>
+		<genre>Action</genre>
+		<crc32>ED243824</crc32>
+		<md5>81b59465c3df4db2943670ba14f76a54</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231005T063145" />
+		<scrap name="ArcadeDB" date="20221212T135912" />
+	</game>
+	<game id="430886">
+		<path>./No-Intro/One Million Whys (World).bin</path>
+		<name>One Million Whys</name>
+		<image>./images/One Million Whys (World)-image.jpg</image>
+		<marquee>./images/One Million Whys (World)-marquee.png</marquee>
+		<releasedate>19930101T000000</releasedate>
+		<genre>Adventure</genre>
+		<crc32>EBB46EFE</crc32>
+		<md5>03ef96229dba775d81e5ce74ff3d6bfb</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231005T063148" />
+		<scrap name="ArcadeDB" date="20221212T135912" />
+	</game>
+	<game id="430889">
+		<path>./No-Intro/Pharaoh Revenger (World).bin</path>
+		<name>Pharaoh Revenger</name>
+		<image>./images/Pharaoh Revenger (World)-image.jpg</image>
+		<marquee>./images/Pharaoh Revenger (World)-marquee.png</marquee>
+		<thumbnail>./images/Pharaoh Revenger (World)-thumb.png</thumbnail>
+		<releasedate>19910101T000000</releasedate>
+		<genre>Platform</genre>
+		<crc32>DAAC7932</crc32>
+		<md5>9b4a1dddcca22d40924a2f5c5afa9aa1</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231005T063151" />
+		<scrap name="ArcadeDB" date="20221212T135912" />
+	</game>
+	<game id="430892">
+		<path>./No-Intro/Pipemania (World).bin</path>
+		<name>Pipemania</name>
+		<image>./images/Pipemania (World)-image.jpg</image>
+		<marquee>./images/Pipemania (World)-marquee.png</marquee>
+		<thumbnail>./images/Pipemania (World)-thumb.png</thumbnail>
+		<releasedate>19910101T000000</releasedate>
+		<crc32>AE5978BD</crc32>
+		<md5>19f789640d40d96d7d4fc62d2b4b8de7</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231005T063155" />
+		<scrap name="ArcadeDB" date="20221212T135913" />
+	</game>
+	<game id="430895">
+		<path>./No-Intro/Punk Boy (World).bin</path>
+		<name>Punk Boy</name>
+		<image>./images/Punk Boy (World)-image.jpg</image>
+		<marquee>./images/Punk Boy (World)-marquee.png</marquee>
+		<releasedate>19920101T000000</releasedate>
+		<genre>Platform</genre>
+		<crc32>AA2E0D32</crc32>
+		<md5>45865a493c79c5c4a4da68c75e70a017</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231005T063158" />
+		<scrap name="ArcadeDB" date="20221212T135913" />
+	</game>
+	<game id="430898">
+		<path>./No-Intro/QuizFighter (World).bin</path>
+		<name>QuizFighter</name>
+		<image>./images/QuizFighter (World)-image.jpg</image>
+		<marquee>./images/QuizFighter (World)-marquee.png</marquee>
+		<crc32>16A79CD8</crc32>
+		<md5>b8e57100007041f1021bf805b5966188</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231005T063200" />
+		<scrap name="ArcadeDB" date="20221212T135913" />
+	</game>
+	<game id="430901">
+		<path>./No-Intro/Riddle of the Ancient Tomb (World).bin</path>
+		<name>Riddle of the Ancient Tomb</name>
+		<image>./images/Riddle of the Ancient Tomb (World)-image.jpg</image>
+		<marquee>./images/Riddle of the Ancient Tomb (World)-marquee.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<genre>Action</genre>
+		<crc32>3BCEB859</crc32>
+		<md5>85d9a84a7bf14297ef197b4e962ba07d</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231005T063203" />
+		<scrap name="ArcadeDB" date="20221212T135913" />
+	</game>
+	<game id="430904">
+		<path>./No-Intro/Robin Hood (World).bin</path>
+		<name>Robin Hood</name>
+		<image>./images/Robin Hood (World)-image.jpg</image>
+		<marquee>./images/Robin Hood (World)-marquee.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<genre>Action</genre>
+		<crc32>76E26B63</crc32>
+		<md5>df4b642ca31c1db5f1d9f6d3223970e0</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231005T063206" />
+		<scrap name="ArcadeDB" date="20221212T135913" />
+	</game>
+	<game id="430907">
+		<path>./No-Intro/Snowman Legend (World).bin</path>
+		<name>Snowman Legend</name>
+		<image>./images/Snowman Legend (World)-image.jpg</image>
+		<marquee>./images/Snowman Legend (World)-marquee.png</marquee>
+		<thumbnail>./images/Snowman Legend (World)-thumb.png</thumbnail>
+		<releasedate>19910101T000000</releasedate>
+		<genre>Action</genre>
+		<crc32>BFDF356F</crc32>
+		<md5>1512f929c961a81c68cf30250069cc89</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231005T063209" />
+		<scrap name="ArcadeDB" date="20221212T135913" />
+	</game>
+	<game id="430910">
+		<path>./No-Intro/Tennis (World).bin</path>
+		<name>Tennis</name>
+		<image>./images/Tennis (World)-image.jpg</image>
+		<marquee>./images/Tennis (World)-marquee.png</marquee>
+		<thumbnail>./images/Tennis (World)-thumb.png</thumbnail>
+		<releasedate>19910101T000000</releasedate>
+		<genre>Sports / Tennis</genre>
+		<crc32>93ADEFB1</crc32>
+		<md5>ca096c2f1c0ada0afa273bb437f8075e</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231005T063213" />
+		<scrap name="ArcadeDB" date="20221212T135913" />
+	</game>
+	<game id="430913">
+		<path>./No-Intro/Time Warrior (World).bin</path>
+		<name>Time Warrior</name>
+		<image>./images/Time Warrior (World)-image.jpg</image>
+		<marquee>./images/Time Warrior (World)-marquee.png</marquee>
+		<thumbnail>./images/Time Warrior (World)-thumb.png</thumbnail>
+		<releasedate>19900101T000000</releasedate>
+		<genre>Platform</genre>
+		<crc32>1502D7E3</crc32>
+		<md5>7d79b284072090b61e2988743fef8a85</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231005T063216" />
+		<scrap name="ArcadeDB" date="20221212T135914" />
+	</game>
+	<game id="430916">
+		<path>./No-Intro/Tornado (World).bin</path>
+		<name>Tornado</name>
+		<image>./images/Tornado (World)-image.jpg</image>
+		<marquee>./images/Tornado (World)-marquee.png</marquee>
+		<thumbnail>./images/Tornado (World)-thumb.png</thumbnail>
+		<releasedate>19910101T000000</releasedate>
+		<genre>Shoot'em Up</genre>
+		<crc32>4CD6118E</crc32>
+		<md5>62c30df434acdaefb2b6cdb8d92b1090</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231005T063220" />
+		<scrap name="ArcadeDB" date="20221212T135914" />
+	</game>
+	<game id="430919">
+		<path>./No-Intro/Tough Guy (World).bin</path>
+		<name>Tough Guy</name>
+		<image>./images/Tough Guy (World)-image.jpg</image>
+		<marquee>./images/Tough Guy (World)-marquee.png</marquee>
+		<thumbnail>./images/Tough Guy (World)-thumb.png</thumbnail>
+		<crc32>727299C7</crc32>
+		<md5>7fa02f0bf00ced0710277a25b2ee909e</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231005T063223" />
+		<scrap name="ArcadeDB" date="20221212T135914" />
+	</game>
+	<game id="430922">
+		<path>./No-Intro/Treasure Hunter (World).bin</path>
+		<name>Treasure Hunter</name>
+		<image>./images/Treasure Hunter (World)-image.jpg</image>
+		<marquee>./images/Treasure Hunter (World)-marquee.png</marquee>
+		<thumbnail>./images/Treasure Hunter (World)-thumb.png</thumbnail>
+		<releasedate>19900101T000000</releasedate>
+		<genre>Action</genre>
+		<crc32>3BED5E9C</crc32>
+		<md5>dfa44ed04d964ade8ed101251af63177</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231005T063227" />
+		<scrap name="ArcadeDB" date="20221212T135914" />
+	</game>
+	<game id="430925">
+		<path>./No-Intro/Vindicators (World).bin</path>
+		<name>Vindicators</name>
+		<image>./images/Vindicators (World)-image.jpg</image>
+		<marquee>./images/Vindicators (World)-marquee.png</marquee>
+		<thumbnail>./images/Vindicators (World)-thumb.png</thumbnail>
+		<releasedate>19900101T000000</releasedate>
+		<genre>Action</genre>
+		<crc32>7B99EE4C</crc32>
+		<md5>5023c982f81f4acc662c90579579afa9</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231005T063231" />
+		<scrap name="ArcadeDB" date="20221212T135914" />
+	</game>
+	<game id="430928">
+		<path>./No-Intro/Volcano Panic (World).bin</path>
+		<name>Volcano Panic</name>
+		<marquee>./images/Volcano Panic (World)-marquee.png</marquee>
+		<thumbnail>./images/Volcano Panic (World)-thumb.png</thumbnail>
+		<crc32>1C2921DF</crc32>
+		<md5>fadc9d8a4a972ce8745080ef5dac9418</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231005T063234" />
+		<scrap name="ArcadeDB" date="20221212T135914" />
+	</game>
+	<game id="430931">
+		<path>./No-Intro/Witty Apee (World).bin</path>
+		<name>Witty Apee</name>
+		<image>./images/Witty Apee (World)-image.jpg</image>
+		<marquee>./images/Witty Apee (World)-marquee.png</marquee>
+		<thumbnail>./images/Witty Apee (World)-thumb.png</thumbnail>
+		<releasedate>19900101T000000</releasedate>
+		<genre>Action</genre>
+		<crc32>F1190956</crc32>
+		<md5>6b5e5de62bec1f547e2ff8adcc9f3c47</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231005T063238" />
+		<scrap name="ArcadeDB" date="20221212T135914" />
+	</game>
+	<game id="430934">
+		<path>./No-Intro/World Cup Soccer (World).bin</path>
+		<name>World Cup Soccer</name>
+		<image>./images/World Cup Soccer (World)-image.jpg</image>
+		<marquee>./images/World Cup Soccer (World)-marquee.png</marquee>
+		<thumbnail>./images/World Cup Soccer (World)-thumb.png</thumbnail>
+		<genre>Sports / Soccer</genre>
+		<crc32>C165094F</crc32>
+		<md5>b0e93806dac8e17fa92a66a13b7d1d93</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231005T063242" />
+		<scrap name="ArcadeDB" date="20221212T135914" />
+	</game>
+	<game id="430754">
+		<path>./No-Intro/[BIOS] Gamate (World) (Rev 1).bin</path>
+		<name>ZZZ(notgame):[BIOS] Gamate</name>
+		<image>./images/[BIOS] Gamate (World) (Rev 1)-image.png</image>
+		<marquee>./images/[BIOS] Gamate (World) (Rev 1)-marquee.png</marquee>
+		<thumbnail>./images/[BIOS] Gamate (World) (Rev 1)-thumb.png</thumbnail>
+		<hidden>true</hidden>
+		<crc32>03A5F3A7</crc32>
+		<md5>b411167df6dd563111729296f4c547f6</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231005T063244" />
 		<scrap name="ArcadeDB" date="20221212T135916" />
 	</game>
-	<game>
+	<game id="430754">
 		<path>./No-Intro/[BIOS] Gamate (World).bin</path>
-		<name>Gamate</name>
-		<desc>Console published 32 years ago:
-
-Gamate (c) 1990 Bit Corp.
-
-- CONTRIBUTE -
-
-Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=289896&amp;o=2</desc>
+		<name>ZZZ(notgame):[BIOS] Gamate</name>
 		<image>./images/[BIOS] Gamate (World)-image.png</image>
+		<marquee>./images/[BIOS] Gamate (World)-marquee.png</marquee>
 		<thumbnail>./images/[BIOS] Gamate (World)-thumb.png</thumbnail>
-		<releasedate>19900101T000000</releasedate>
-		<developer>Bit Corp</developer>
-		<publisher>Bit Corp</publisher>
-		<genre>Handheld / Home Videogame Console</genre>
-		<players>1</players>
+		<hidden>true</hidden>
 		<crc32>07090415</crc32>
+		<md5>ef67993a94503c4b7798b5901c7dda52</md5>
 		<lang>en</lang>
 		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231005T063246" />
 		<scrap name="ArcadeDB" date="20221212T135917" />
 	</game>
-	<game>
-		<path>./No-Intro/Bomb Blaster (World) (Alt).bin</path>
-		<name>Bomb Blaster (World) (Alt)</name>
-		<crc32>81FFB896</crc32>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ArcadeDB" date="20221212T135907" />
-	</game>
-	<game>
-		<path>./No-Intro/4 in 1 - Cube Up + Mini Golf + Vindicators + Brick Blaster (World).bin</path>
-		<name>4 in 1 - Cube Up + Mini Golf + Vindicators + Brick Blaster (World)</name>
-		<crc32>10E81571</crc32>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ArcadeDB" date="20221212T135907" />
-	</game>
-	<game>
-		<path>./No-Intro/Baseball (World).bin</path>
-		<name>Baseball (World)</name>
-		<crc32>DAF715C5</crc32>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ArcadeDB" date="20221212T135907" />
-	</game>
-	<game>
-		<path>./No-Intro/Basketball (World).bin</path>
-		<name>Basketball (World)</name>
-		<crc32>93D5F365</crc32>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ArcadeDB" date="20221212T135907" />
-	</game>
-	<game>
-		<path>./No-Intro/Bomb Blaster (World).bin</path>
-		<name>Bomb Blaster (World)</name>
-		<crc32>33FD30F4</crc32>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ArcadeDB" date="20221212T135908" />
-	</game>
-	<game>
-		<path>./No-Intro/Boom! (World).bin</path>
-		<name>Boom! (World)</name>
-		<crc32>20FDA0F7</crc32>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ArcadeDB" date="20221212T135908" />
-	</game>
-	<game>
-		<path>./No-Intro/Box Forum (World).bin</path>
-		<name>Box Forum (World)</name>
-		<crc32>82C6F1D5</crc32>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ArcadeDB" date="20221212T135908" />
-	</game>
-	<game>
-		<path>./No-Intro/Brick Blaster (World).bin</path>
-		<name>Brick Blaster (World)</name>
-		<crc32>76F5F2F1</crc32>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ArcadeDB" date="20221212T135908" />
-	</game>
-	<game>
-		<path>./No-Intro/Cosmic Fighter (World).bin</path>
-		<name>Cosmic Fighter (World)</name>
-		<crc32>D24DF424</crc32>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ArcadeDB" date="20221212T135908" />
-	</game>
-	<game>
-		<path>./No-Intro/Cube Up (World).bin</path>
-		<name>Cube Up (World)</name>
-		<crc32>2A911E57</crc32>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ArcadeDB" date="20221212T135908" />
-	</game>
-	<game>
-		<path>./No-Intro/Devil Castle (World).bin</path>
-		<name>Devil Castle (World)</name>
-		<crc32>2F4DFA71</crc32>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ArcadeDB" date="20221212T135908" />
-	</game>
-	<game>
-		<path>./No-Intro/Dino Ball (World).bin</path>
-		<name>Dino Ball (World)</name>
-		<crc32>B609871F</crc32>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ArcadeDB" date="20221212T135908" />
-	</game>
-	<game>
-		<path>./No-Intro/Dino Bibo (World).bin</path>
-		<name>Dino Bibo (World)</name>
-		<crc32>D6E1F1B7</crc32>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ArcadeDB" date="20221212T135909" />
-	</game>
-	<game>
-		<path>./No-Intro/Dinosaur Park (World).bin</path>
-		<name>Dinosaur Park (World)</name>
-		<crc32>00356983</crc32>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ArcadeDB" date="20221212T135909" />
-	</game>
-	<game>
-		<path>./No-Intro/Enchanted Bricks (World).bin</path>
-		<name>Enchanted Bricks (World)</name>
-		<crc32>3DCDF55A</crc32>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ArcadeDB" date="20221212T135909" />
-	</game>
-	<game>
-		<path>./No-Intro/Famous 7 (World).bin</path>
-		<name>Famous 7 (World)</name>
-		<crc32>0FA48C23</crc32>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ArcadeDB" date="20221212T135909" />
-	</game>
-	<game>
-		<path>./No-Intro/Fantasy Travel (World).bin</path>
-		<name>Fantasy Travel (World)</name>
-		<crc32>A542C61F</crc32>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ArcadeDB" date="20221212T135909" />
-	</game>
-	<game>
-		<path>./No-Intro/Fist of Thunder (World).bin</path>
-		<name>Fist of Thunder (World)</name>
-		<crc32>9002269D</crc32>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ArcadeDB" date="20221212T135909" />
-	</game>
-	<game>
-		<path>./No-Intro/Flipuzzle (World).bin</path>
-		<name>Flipuzzle (World)</name>
-		<crc32>F4BD2A05</crc32>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ArcadeDB" date="20221212T135909" />
-	</game>
-	<game>
-		<path>./No-Intro/Flying Goblin (World).bin</path>
-		<name>Flying Goblin (World)</name>
-		<crc32>8363C32D</crc32>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ArcadeDB" date="20221212T135909" />
-	</game>
-	<game>
-		<path>./No-Intro/Fortress of Fierceness (World).bin</path>
-		<name>Fortress of Fierceness (World)</name>
-		<crc32>C771E16B</crc32>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ArcadeDB" date="20221212T135909" />
-	</game>
-	<game>
-		<path>./No-Intro/Fortune 'n Luck (World).bin</path>
-		<name>Fortune 'n Luck (World)</name>
-		<crc32>39660803</crc32>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ArcadeDB" date="20221212T135910" />
-	</game>
-	<game>
-		<path>./No-Intro/Further Adventures of Hannibal The Cat (World).bin</path>
-		<name>Further Adventures of Hannibal The Cat (World)</name>
-		<crc32>9AA13551</crc32>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ArcadeDB" date="20221212T135910" />
-	</game>
-	<game>
-		<path>./No-Intro/Galaxy Invaders (World).bin</path>
-		<name>Galaxy Invaders (World)</name>
-		<crc32>93AFAD9B</crc32>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ArcadeDB" date="20221212T135910" />
-	</game>
-	<game>
-		<path>./No-Intro/Golden Pyramid, The (World).bin</path>
-		<name>Golden Pyramid, The (World)</name>
-		<crc32>96386B08</crc32>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ArcadeDB" date="20221212T135910" />
-	</game>
-	<game>
-		<path>./No-Intro/GP Race (World).bin</path>
-		<name>GP Race (World)</name>
-		<crc32>447595E4</crc32>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ArcadeDB" date="20221212T135910" />
-	</game>
-	<game>
-		<path>./No-Intro/Hot Hero (World).bin</path>
-		<name>Hot Hero (World)</name>
-		<crc32>1ED9D0A3</crc32>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ArcadeDB" date="20221212T135910" />
-	</game>
-	<game>
-		<path>./No-Intro/Incantational Couple (World).bin</path>
-		<name>Incantational Couple (World)</name>
-		<crc32>D092A22A</crc32>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ArcadeDB" date="20221212T135910" />
-	</game>
-	<game>
-		<path>./No-Intro/Insect War (World).bin</path>
-		<name>Insect War (World)</name>
-		<crc32>7BA8AF6D</crc32>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ArcadeDB" date="20221212T135910" />
-	</game>
-	<game>
-		<path>./No-Intro/Jewelriss (World).bin</path>
-		<name>Jewelriss (World)</name>
-		<crc32>5BA39D1C</crc32>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ArcadeDB" date="20221212T135911" />
-	</game>
-	<game>
-		<path>./No-Intro/Kiki Inland (World).bin</path>
-		<name>Kiki Inland (World)</name>
-		<crc32>E492EF8E</crc32>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ArcadeDB" date="20221212T135911" />
-	</game>
-	<game>
-		<path>./No-Intro/Kill Shot (World).bin</path>
-		<name>Kill Shot (World)</name>
-		<crc32>69BC6A30</crc32>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ArcadeDB" date="20221212T135911" />
-	</game>
-	<game>
-		<path>./No-Intro/Kung-Fu Fighter (World).bin</path>
-		<name>Kung-Fu Fighter (World)</name>
-		<crc32>4BA40206</crc32>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ArcadeDB" date="20221212T135911" />
-	</game>
-	<game>
-		<path>./No-Intro/Legend of Dragon Knight (World).bin</path>
-		<name>Legend of Dragon Knight (World)</name>
-		<crc32>A67BA296</crc32>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ArcadeDB" date="20221212T135911" />
-	</game>
-	<game>
-		<path>./No-Intro/Magic Jigsaw (World).bin</path>
-		<name>Magic Jigsaw (World)</name>
-		<crc32>1098BCD3</crc32>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ArcadeDB" date="20221212T135911" />
-	</game>
-	<game>
-		<path>./No-Intro/Marauder (World).bin</path>
-		<name>Marauder (World)</name>
-		<crc32>C0A8607B</crc32>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ArcadeDB" date="20221212T135911" />
-	</game>
-	<game>
-		<path>./No-Intro/Mars Voyage (World).bin</path>
-		<name>Mars Voyage (World)</name>
-		<crc32>19BBA397</crc32>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ArcadeDB" date="20221212T135911" />
-	</game>
-	<game>
-		<path>./No-Intro/Mighty Tank (World).bin</path>
-		<name>Mighty Tank (World)</name>
-		<crc32>F24379FD</crc32>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ArcadeDB" date="20221212T135912" />
-	</game>
-	<game>
-		<path>./No-Intro/Mini Golf (World).bin</path>
-		<name>Mini Golf (World)</name>
-		<crc32>59781E23</crc32>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ArcadeDB" date="20221212T135912" />
-	</game>
-	<game>
-		<path>./No-Intro/Money Maze (World).bin</path>
-		<name>Money Maze (World)</name>
-		<crc32>4D9BFD91</crc32>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ArcadeDB" date="20221212T135912" />
-	</game>
-	<game>
-		<path>./No-Intro/Monster Pitfall (World).bin</path>
-		<name>Monster Pitfall (World)</name>
-		<crc32>BE6EDA47</crc32>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ArcadeDB" date="20221212T135912" />
-	</game>
-	<game>
-		<path>./No-Intro/Myth of Asamia (World).bin</path>
-		<name>Myth of Asamia (World)</name>
-		<crc32>3871A86C</crc32>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ArcadeDB" date="20221212T135912" />
-	</game>
-	<game>
-		<path>./No-Intro/Nightmare of Santa Claus (World).bin</path>
-		<name>Nightmare of Santa Claus (World)</name>
-		<crc32>ED243824</crc32>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ArcadeDB" date="20221212T135912" />
-	</game>
-	<game>
-		<path>./No-Intro/One Million Whys (World).bin</path>
-		<name>One Million Whys (World)</name>
-		<crc32>EBB46EFE</crc32>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ArcadeDB" date="20221212T135912" />
-	</game>
-	<game>
-		<path>./No-Intro/Pharaoh Revenger (World).bin</path>
-		<name>Pharaoh Revenger (World)</name>
-		<crc32>DAAC7932</crc32>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ArcadeDB" date="20221212T135912" />
-	</game>
-	<game>
-		<path>./No-Intro/Pipemania (World).bin</path>
-		<name>Pipemania (World)</name>
-		<crc32>AE5978BD</crc32>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ArcadeDB" date="20221212T135913" />
-	</game>
-	<game>
-		<path>./No-Intro/Punk Boy (World).bin</path>
-		<name>Punk Boy (World)</name>
-		<crc32>AA2E0D32</crc32>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ArcadeDB" date="20221212T135913" />
-	</game>
-	<game>
-		<path>./No-Intro/QuizFighter (World).bin</path>
-		<name>QuizFighter (World)</name>
-		<crc32>16A79CD8</crc32>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ArcadeDB" date="20221212T135913" />
-	</game>
-	<game>
-		<path>./No-Intro/Riddle of the Ancient Tomb (World).bin</path>
-		<name>Riddle of the Ancient Tomb (World)</name>
-		<crc32>3BCEB859</crc32>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ArcadeDB" date="20221212T135913" />
-	</game>
-	<game>
-		<path>./No-Intro/Robin Hood (World).bin</path>
-		<name>Robin Hood (World)</name>
-		<crc32>76E26B63</crc32>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ArcadeDB" date="20221212T135913" />
-	</game>
-	<game>
-		<path>./No-Intro/Snowman Legend (World).bin</path>
-		<name>Snowman Legend (World)</name>
-		<crc32>BFDF356F</crc32>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ArcadeDB" date="20221212T135913" />
-	</game>
-	<game>
-		<path>./No-Intro/Tennis (World).bin</path>
-		<name>Tennis (World)</name>
-		<crc32>93ADEFB1</crc32>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ArcadeDB" date="20221212T135913" />
-	</game>
-	<game>
-		<path>./No-Intro/Time Warrior (World).bin</path>
-		<name>Time Warrior (World)</name>
-		<crc32>1502D7E3</crc32>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ArcadeDB" date="20221212T135914" />
-	</game>
-	<game>
-		<path>./No-Intro/Tornado (World).bin</path>
-		<name>Tornado (World)</name>
-		<crc32>4CD6118E</crc32>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ArcadeDB" date="20221212T135914" />
-	</game>
-	<game>
-		<path>./No-Intro/Tough Guy (World).bin</path>
-		<name>Tough Guy (World)</name>
-		<crc32>727299C7</crc32>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ArcadeDB" date="20221212T135914" />
-	</game>
-	<game>
-		<path>./No-Intro/Treasure Hunter (World).bin</path>
-		<name>Treasure Hunter (World)</name>
-		<crc32>3BED5E9C</crc32>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ArcadeDB" date="20221212T135914" />
-	</game>
-	<game>
-		<path>./No-Intro/Volcano Panic (World).bin</path>
-		<name>Volcano Panic (World)</name>
-		<crc32>1C2921DF</crc32>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ArcadeDB" date="20221212T135914" />
-	</game>
-	<game>
-		<path>./No-Intro/World Cup Soccer (World).bin</path>
-		<name>World Cup Soccer (World)</name>
-		<crc32>C165094F</crc32>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ArcadeDB" date="20221212T135914" />
-	</game>
-	<game>
+	<game id="430763">
 		<path>./TOSEC/Games/Baseball (1991)(Bit Corporation)[C1048]/Baseball (1991)(Bit Corporation)[C1048].bin</path>
-		<name>Baseball (1991)(Bit Corporation)[C1048]</name>
+		<name>Baseball</name>
+		<image>./images/Baseball (1991)(Bit Corporation)[C1048]-image.png</image>
+		<marquee>./images/Baseball (1991)(Bit Corporation)[C1048]-marquee.png</marquee>
+		<thumbnail>./images/Baseball (1991)(Bit Corporation)[C1048]-thumb.png</thumbnail>
 		<crc32>DAF715C5</crc32>
+		<md5>c068e34d8a32d195576c691bc85d9422</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063250" />
 	</game>
-	<game>
+	<game id="430766">
 		<path>./TOSEC/Games/Basketball (199x)(-)[C1063]/Basketball (199x)(-)[C1063].bin</path>
-		<name>Basketball (199x)(-)[C1063]</name>
+		<name>Basketball</name>
+		<image>./images/Basketball (199x)(-)[C1063]-image.jpg</image>
+		<marquee>./images/Basketball (199x)(-)[C1063]-marquee.png</marquee>
+		<thumbnail>./images/Basketball (199x)(-)[C1063]-thumb.png</thumbnail>
+		<genre>Sports / Basketball</genre>
 		<crc32>93D5F365</crc32>
+		<md5>ade554a98e46de826faa9df7c6a15b9e</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063254" />
 	</game>
-	<game>
+	<game id="430769">
 		<path>./TOSEC/Games/Bomb Blaster (1990)(Bit Corporation)[a][C1030]/Bomb Blaster (1990)(Bit Corporation)[a][C1030].bin</path>
-		<name>Bomb Blaster (1990)(Bit Corporation)[a][C1030]</name>
+		<name>Bomb Blaster</name>
+		<desc>Bomb Blast(er) is a terrible Bomberman clone. No two ways about it. The only two interesting things about this game are the fact that some of the enemies look like Pac-Man ghosts, and the text on the Game Over screen spells out "Move Rage" before rearranging itself into "Game Over". "Move Rage" is probably the best way to describe this game using only the letters contained within "Game Over", actually (sorry) - the guy (the same pixelated gentleman from Witty Apee, only with a crudely drawn face on the front of his pixel-head) moves excruciatingly slowly. Oh, and when you die - probably thanks to an enemy hidden by flicker and motion blur - the entire level resets. Powerups are few and far between - I picked up one that made the guy move at a speed fast enough to almost make the game tolerable, and another that didn't seem to do anything. There's no multiplayer, the music is terrible, and the name on the title screen doesn't match the name on the label. (A title screen, incidentally, which I only managed to screenshot using my patented technique of yanking the cartridge out while it wasn't moving, causing the Gamate to freeze - not something I'd risk with most games, but Bomb Blaster ... it's really bad)</desc>
+		<image>./images/Bomb Blaster (1990)(Bit Corporation)[a][C1030]-image.jpg</image>
+		<marquee>./images/Bomb Blaster (1990)(Bit Corporation)[a][C1030]-marquee.png</marquee>
+		<thumbnail>./images/Bomb Blaster (1990)(Bit Corporation)[a][C1030]-thumb.png</thumbnail>
+		<releasedate>19900101T000000</releasedate>
+		<genre>Action</genre>
 		<crc32>81FFB896</crc32>
+		<md5>7854e79032286777987756d0d9a26e98</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063258" />
 	</game>
-	<game>
+	<game id="430769">
 		<path>./TOSEC/Games/Bomb Blaster (1990)(Bit Corporation)[C1030]/Bomb Blaster (1990)(Bit Corporation)[C1030].bin</path>
-		<name>Bomb Blaster (1990)(Bit Corporation)[C1030]</name>
+		<name>Bomb Blaster</name>
+		<desc>Bomb Blast(er) is a terrible Bomberman clone. No two ways about it. The only two interesting things about this game are the fact that some of the enemies look like Pac-Man ghosts, and the text on the Game Over screen spells out "Move Rage" before rearranging itself into "Game Over". "Move Rage" is probably the best way to describe this game using only the letters contained within "Game Over", actually (sorry) - the guy (the same pixelated gentleman from Witty Apee, only with a crudely drawn face on the front of his pixel-head) moves excruciatingly slowly. Oh, and when you die - probably thanks to an enemy hidden by flicker and motion blur - the entire level resets. Powerups are few and far between - I picked up one that made the guy move at a speed fast enough to almost make the game tolerable, and another that didn't seem to do anything. There's no multiplayer, the music is terrible, and the name on the title screen doesn't match the name on the label. (A title screen, incidentally, which I only managed to screenshot using my patented technique of yanking the cartridge out while it wasn't moving, causing the Gamate to freeze - not something I'd risk with most games, but Bomb Blaster ... it's really bad)</desc>
+		<image>./images/Bomb Blaster (1990)(Bit Corporation)[C1030]-image.jpg</image>
+		<marquee>./images/Bomb Blaster (1990)(Bit Corporation)[C1030]-marquee.png</marquee>
+		<thumbnail>./images/Bomb Blaster (1990)(Bit Corporation)[C1030]-thumb.png</thumbnail>
+		<releasedate>19900101T000000</releasedate>
+		<genre>Action</genre>
 		<crc32>33FD30F4</crc32>
+		<md5>ce266731ab46edaaed1d99fb132f1c3c</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063302" />
 	</game>
-	<game>
+	<game id="430772">
 		<path>./TOSEC/Games/Boom (1991)(Bit Corporation)[C1043]/Boom (1991)(Bit Corporation)[C1043].bin</path>
-		<name>Boom (1991)(Bit Corporation)[C1043]</name>
+		<name>Boom!</name>
+		<image>./images/Boom (1991)(Bit Corporation)[C1043]-image.jpg</image>
+		<marquee>./images/Boom (1991)(Bit Corporation)[C1043]-marquee.png</marquee>
+		<thumbnail>./images/Boom (1991)(Bit Corporation)[C1043]-thumb.png</thumbnail>
 		<crc32>20FDA0F7</crc32>
+		<md5>503147effb5cb9006833be11069fd8c1</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063306" />
 	</game>
-	<game>
+	<game id="430775">
 		<path>./TOSEC/Games/Box Forum (1991)(Bit Corporation)[C1003]/Box Forum (1991)(Bit Corporation)[C1003].bin</path>
-		<name>Box Forum (1991)(Bit Corporation)[C1003]</name>
+		<name>Box Forum</name>
+		<image>./images/Box Forum (1991)(Bit Corporation)[C1003]-image.jpg</image>
+		<marquee>./images/Box Forum (1991)(Bit Corporation)[C1003]-marquee.png</marquee>
+		<thumbnail>./images/Box Forum (1991)(Bit Corporation)[C1003]-thumb.png</thumbnail>
+		<releasedate>19910101T000000</releasedate>
 		<crc32>82C6F1D5</crc32>
+		<md5>574d52866daa9bd7e6eed1702b23758d</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063309" />
 	</game>
-	<game>
+	<game id="430778">
 		<path>./TOSEC/Games/Brick Blaster (1990)(Bit Corporation)[C1029]/Brick Blaster (1990)(Bit Corporation)[C1029].bin</path>
-		<name>Brick Blaster (1990)(Bit Corporation)[C1029]</name>
+		<name>Brick Blaster</name>
+		<image>./images/Brick Blaster (1990)(Bit Corporation)[C1029]-image.jpg</image>
+		<marquee>./images/Brick Blaster (1990)(Bit Corporation)[C1029]-marquee.png</marquee>
+		<thumbnail>./images/Brick Blaster (1990)(Bit Corporation)[C1029]-thumb.png</thumbnail>
+		<releasedate>19900101T000000</releasedate>
+		<genre>Action / Breakout games</genre>
 		<crc32>76F5F2F1</crc32>
+		<md5>63dbd4f37e9d72d5fa303b9e37ac2074</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063313" />
 	</game>
-	<game>
+	<game id="430781">
 		<path>./TOSEC/Games/Cosmic Fighter (1990)(Bit Corporation)[C1032]/Cosmic Fighter (1990)(Bit Corporation)[C1032].bin</path>
-		<name>Cosmic Fighter (1990)(Bit Corporation)[C1032]</name>
+		<name>Cosmic Fighter</name>
+		<image>./images/Cosmic Fighter (1990)(Bit Corporation)[C1032]-image.jpg</image>
+		<marquee>./images/Cosmic Fighter (1990)(Bit Corporation)[C1032]-marquee.png</marquee>
+		<thumbnail>./images/Cosmic Fighter (1990)(Bit Corporation)[C1032]-thumb.png</thumbnail>
+		<releasedate>19900101T000000</releasedate>
+		<genre>Shoot'em Up</genre>
 		<crc32>D24DF424</crc32>
+		<md5>f88cb175cef1efe3c32b7e3601ffd8d2</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063316" />
 	</game>
 	<game>
 		<path>./TOSEC/Games/Cross Bomber (2020-08-26)(Caruso, Fabrizio)/Cross Bomber (2020-08-26)(Caruso, Fabrizio).bin</path>
 		<name>Cross Bomber (2020-08-26)(Caruso, Fabrizio)</name>
 		<crc32>5B9DAA58</crc32>
+		<md5>4215be393bf65d66a8da68ec86b1b10e</md5>
+		<scrap name="ScreenScraper" date="20231005T063317" />
 	</game>
 	<game>
 		<path>./TOSEC/Games/Cross Chase (2018-02-03)(Caruso, Fabrizio)/Cross Chase (2018-02-03)(Caruso, Fabrizio).bin</path>
 		<name>Cross Chase (2018-02-03)(Caruso, Fabrizio)</name>
 		<crc32>5019AE9A</crc32>
+		<md5>a1a2f6d5e6728ef29502730f95cb3c04</md5>
+		<scrap name="ScreenScraper" date="20231005T063317" />
 	</game>
 	<game>
 		<path>./TOSEC/Games/Cross Chase (2018-04-15)(Caruso, Fabrizio)/Cross Chase (2018-04-15)(Caruso, Fabrizio).bin</path>
 		<name>Cross Chase (2018-04-15)(Caruso, Fabrizio)</name>
 		<crc32>8169437C</crc32>
+		<md5>2229747c8d5d0b390f55a3a02350dbc0</md5>
+		<scrap name="ScreenScraper" date="20231005T063318" />
 	</game>
 	<game>
 		<path>./TOSEC/Games/Cross Chase (2018-05-19)(Caruso, Fabrizio)/Cross Chase (2018-05-19)(Caruso, Fabrizio).bin</path>
 		<name>Cross Chase (2018-05-19)(Caruso, Fabrizio)</name>
 		<crc32>451DD9EF</crc32>
+		<md5>88b8ad2a826bf6caf8c0cf42bd2b7675</md5>
+		<scrap name="ScreenScraper" date="20231005T063319" />
 	</game>
 	<game>
 		<path>./TOSEC/Games/Cross Chase (2018-07-19)(Caruso, Fabrizio)/Cross Chase (2018-07-19)(Caruso, Fabrizio).bin</path>
 		<name>Cross Chase (2018-07-19)(Caruso, Fabrizio)</name>
 		<crc32>F7892168</crc32>
+		<md5>540b93c60f02f5e755a6e2d47b70567b</md5>
+		<scrap name="ScreenScraper" date="20231005T063319" />
 	</game>
 	<game>
 		<path>./TOSEC/Games/Cross Chase (2018-08-04)(Caruso, Fabrizio)/Cross Chase (2018-08-04)(Caruso, Fabrizio).bin</path>
 		<name>Cross Chase (2018-08-04)(Caruso, Fabrizio)</name>
 		<crc32>01037E39</crc32>
+		<md5>2968bcc109812b5e9de4ac034b9c8fb0</md5>
+		<scrap name="ScreenScraper" date="20231005T063320" />
 	</game>
 	<game>
 		<path>./TOSEC/Games/Cross Chase (2018-10-29)(Caruso, Fabrizio)/Cross Chase (2018-10-29)(Caruso, Fabrizio).bin</path>
 		<name>Cross Chase (2018-10-29)(Caruso, Fabrizio)</name>
 		<crc32>373E7049</crc32>
+		<md5>d75bd9ddbf9e96c5a72ffdb17c29839a</md5>
+		<scrap name="ScreenScraper" date="20231005T063320" />
 	</game>
 	<game>
 		<path>./TOSEC/Games/Cross Chase (2020-04-02)(Caruso, Fabrizio)/Cross Chase (2020-04-02)(Caruso, Fabrizio).bin</path>
 		<name>Cross Chase (2020-04-02)(Caruso, Fabrizio)</name>
 		<crc32>F8B49682</crc32>
+		<md5>20b99c9391ecfa9e20877b13cf88100c</md5>
+		<scrap name="ScreenScraper" date="20231005T063321" />
 	</game>
 	<game>
 		<path>./TOSEC/Games/Cross Chase (2021-05-13)(Caruso, Fabrizio)/Cross Chase (2021-05-13)(Caruso, Fabrizio).bin</path>
 		<name>Cross Chase (2021-05-13)(Caruso, Fabrizio)</name>
 		<crc32>3408D3D0</crc32>
+		<md5>6b91cc9566eb3d631bc5a182f2764bae</md5>
+		<scrap name="ScreenScraper" date="20231005T063321" />
 	</game>
 	<game>
 		<path>./TOSEC/Games/Cross Horde v1.0 (2021-05-01)(Caruso, Fabrizio)/Cross Horde v1.0 (2021-05-01)(Caruso, Fabrizio).bin</path>
 		<name>Cross Horde v1.0 (2021-05-01)(Caruso, Fabrizio)</name>
 		<crc32>0E02E49E</crc32>
+		<md5>1a06600ea9ee2a8c10622284bd41332d</md5>
+		<scrap name="ScreenScraper" date="20231005T063322" />
 	</game>
 	<game>
 		<path>./TOSEC/Games/Cross Snake v2.0 (2020-12-31)(Caruso, Fabrizio)/Cross Snake v2.0 (2020-12-31)(Caruso, Fabrizio).bin</path>
 		<name>Cross Snake v2.0 (2020-12-31)(Caruso, Fabrizio)</name>
 		<crc32>1AD9DA5B</crc32>
+		<md5>3c17223b2fa80ceb567e1a40fb6209fd</md5>
+		<scrap name="ScreenScraper" date="20231005T063323" />
 	</game>
-	<game>
+	<game id="430784">
 		<path>./TOSEC/Games/Cube Up (1990)(Bit Corporation)[C1001]/Cube Up (1990)(Bit Corporation)[C1001].bin</path>
-		<name>Cube Up (1990)(Bit Corporation)[C1001]</name>
+		<name>Cube Up</name>
+		<image>./images/Cube Up (1990)(Bit Corporation)[C1001]-image.jpg</image>
+		<marquee>./images/Cube Up (1990)(Bit Corporation)[C1001]-marquee.png</marquee>
+		<thumbnail>./images/Cube Up (1990)(Bit Corporation)[C1001]-thumb.png</thumbnail>
+		<releasedate>19900101T000000</releasedate>
 		<crc32>2A911E57</crc32>
+		<md5>52526615e8804ce6455754cde9a59ee1</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063326" />
 	</game>
-	<game>
+	<game id="430787">
 		<path>./TOSEC/Games/Devil Castle (1991)(Bit Corporation)[C1017]/Devil Castle (1991)(Bit Corporation)[C1017].bin</path>
-		<name>Devil Castle (1991)(Bit Corporation)[C1017]</name>
+		<name>Devil Castle</name>
+		<image>./images/Devil Castle (1991)(Bit Corporation)[C1017]-image.jpg</image>
+		<marquee>./images/Devil Castle (1991)(Bit Corporation)[C1017]-marquee.png</marquee>
+		<thumbnail>./images/Devil Castle (1991)(Bit Corporation)[C1017]-thumb.png</thumbnail>
+		<releasedate>19910101T000000</releasedate>
+		<genre>Action</genre>
 		<crc32>2F4DFA71</crc32>
+		<md5>6dacfe5c9d736ef7cafa9ebac6382c54</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063330" />
 	</game>
-	<game>
+	<game id="430790">
 		<path>./TOSEC/Games/Dino Ball (1991)(Bit Corporation)[C1019]/Dino Ball (1991)(Bit Corporation)[C1019].bin</path>
-		<name>Dino Ball (1991)(Bit Corporation)[C1019]</name>
+		<name>Dino Ball</name>
+		<image>./images/Dino Ball (1991)(Bit Corporation)[C1019]-image.jpg</image>
+		<marquee>./images/Dino Ball (1991)(Bit Corporation)[C1019]-marquee.png</marquee>
+		<thumbnail>./images/Dino Ball (1991)(Bit Corporation)[C1019]-thumb.png</thumbnail>
+		<releasedate>19910101T000000</releasedate>
 		<crc32>B609871F</crc32>
+		<md5>45228ca2b43d82e881d13ee233ce6b96</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063333" />
 	</game>
-	<game>
+	<game id="430793">
 		<path>./TOSEC/Games/Dino Bibo (1991)(-)[C1013]/Dino Bibo (1991)(-)[C1013].bin</path>
-		<name>Dino Bibo (1991)(-)[C1013]</name>
+		<name>Dino Bibo</name>
+		<image>./images/Dino Bibo (1991)(-)[C1013]-image.png</image>
+		<marquee>./images/Dino Bibo (1991)(-)[C1013]-marquee.png</marquee>
+		<thumbnail>./images/Dino Bibo (1991)(-)[C1013]-thumb.png</thumbnail>
 		<crc32>D6E1F1B7</crc32>
+		<md5>55512880a226874a5a82df7b08044b8d</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063337" />
 	</game>
-	<game>
+	<game id="430796">
 		<path>./TOSEC/Games/Dinosaur Park (1993)(Phoenix)[C1061]/Dinosaur Park (1993)(Phoenix)[C1061].bin</path>
-		<name>Dinosaur Park (1993)(Phoenix)[C1061]</name>
+		<name>Dinosaur Park</name>
+		<image>./images/Dinosaur Park (1993)(Phoenix)[C1061]-image.png</image>
+		<marquee>./images/Dinosaur Park (1993)(Phoenix)[C1061]-marquee.png</marquee>
+		<thumbnail>./images/Dinosaur Park (1993)(Phoenix)[C1061]-thumb.png</thumbnail>
 		<crc32>00356983</crc32>
+		<md5>45a34bb1abb5eb74dc445963eb73d465</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063341" />
 	</game>
-	<game>
+	<game id="430799">
 		<path>./TOSEC/Games/Enchanted Bricks (1990)(Bit Corporation)[C1005]/Enchanted Bricks (1990)(Bit Corporation)[C1005].bin</path>
-		<name>Enchanted Bricks (1990)(Bit Corporation)[C1005]</name>
+		<name>Enchanted Bricks</name>
+		<image>./images/Enchanted Bricks (1990)(Bit Corporation)[C1005]-image.jpg</image>
+		<marquee>./images/Enchanted Bricks (1990)(Bit Corporation)[C1005]-marquee.png</marquee>
+		<thumbnail>./images/Enchanted Bricks (1990)(Bit Corporation)[C1005]-thumb.png</thumbnail>
+		<releasedate>19900101T000000</releasedate>
+		<genre>Action / Breakout games</genre>
 		<crc32>3DCDF55A</crc32>
+		<md5>3ae196748c797576ede4c2ac57b70262</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063344" />
 	</game>
-	<game>
+	<game id="430802">
 		<path>./TOSEC/Games/Famous 7 (1993)(United Microelectronics Corporation)[C1052]/Famous 7 (1993)(United Microelectronics Corporation)[C1052].bin</path>
-		<name>Famous 7 (1993)(United Microelectronics Corporation)[C1052]</name>
+		<name>Famous 7</name>
+		<image>./images/Famous 7 (1993)(United Microelectronics Corporation)[C1052]-image.jpg</image>
+		<marquee>./images/Famous 7 (1993)(United Microelectronics Corporation)[C1052]-marquee.png</marquee>
+		<thumbnail>./images/Famous 7 (1993)(United Microelectronics Corporation)[C1052]-thumb.png</thumbnail>
+		<releasedate>19930101T000000</releasedate>
+		<genre>Action</genre>
 		<crc32>0FA48C23</crc32>
+		<md5>c785a3b84f817b0d5b3f3c1c5c4ed3b9</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063348" />
 	</game>
-	<game>
+	<game id="430805">
 		<path>./TOSEC/Games/Fantasy Travel (1993)(United Microelectronics Corporation)[C1057]/Fantasy Travel (1993)(United Microelectronics Corporation)[C1057].bin</path>
-		<name>Fantasy Travel (1993)(United Microelectronics Corporation)[C1057]</name>
+		<name>Fantasy Travel</name>
+		<image>./images/Fantasy Travel (1993)(United Microelectronics Corporation)[C1057]-image.jpg</image>
+		<marquee>./images/Fantasy Travel (1993)(United Microelectronics Corporation)[C1057]-marquee.png</marquee>
+		<releasedate>19930101T000000</releasedate>
+		<genre>Platform</genre>
 		<crc32>A542C61F</crc32>
+		<md5>84eb4b9cf8c528c5c20a47537cbecf58</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063351" />
 	</game>
-	<game>
+	<game id="430808">
 		<path>./TOSEC/Games/Fist of Thunder (1991)(Bit Corporation)[C1033]/Fist of Thunder (1991)(Bit Corporation)[C1033].bin</path>
-		<name>Fist of Thunder (1991)(Bit Corporation)[C1033]</name>
+		<name>Fist of Thunder</name>
+		<image>./images/Fist of Thunder (1991)(Bit Corporation)[C1033]-image.jpg</image>
+		<marquee>./images/Fist of Thunder (1991)(Bit Corporation)[C1033]-marquee.png</marquee>
+		<thumbnail>./images/Fist of Thunder (1991)(Bit Corporation)[C1033]-thumb.png</thumbnail>
+		<releasedate>19910101T000000</releasedate>
+		<genre>Action</genre>
 		<crc32>9002269D</crc32>
+		<md5>e1c2bf38b26055032512f901bc4406a9</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063354" />
 	</game>
-	<game>
+	<game id="430811">
 		<path>./TOSEC/Games/Flipuzzle (1991)(Bit Corporation)[C1026]/Flipuzzle (1991)(Bit Corporation)[C1026].bin</path>
-		<name>Flipuzzle (1991)(Bit Corporation)[C1026]</name>
+		<name>Flipuzzle</name>
+		<image>./images/Flipuzzle (1991)(Bit Corporation)[C1026]-image.jpg</image>
+		<marquee>./images/Flipuzzle (1991)(Bit Corporation)[C1026]-marquee.png</marquee>
+		<thumbnail>./images/Flipuzzle (1991)(Bit Corporation)[C1026]-thumb.png</thumbnail>
+		<releasedate>19910101T000000</releasedate>
 		<crc32>F4BD2A05</crc32>
+		<md5>09fcaf22492a04d8d24dc4c67ca32efc</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063358" />
 	</game>
-	<game>
+	<game id="430814">
 		<path>./TOSEC/Games/Flying Goblin (1991)(Bit Corporation)[C1042]/Flying Goblin (1991)(Bit Corporation)[C1042].bin</path>
-		<name>Flying Goblin (1991)(Bit Corporation)[C1042]</name>
+		<name>Flying Goblin</name>
+		<image>./images/Flying Goblin (1991)(Bit Corporation)[C1042]-image.jpg</image>
+		<marquee>./images/Flying Goblin (1991)(Bit Corporation)[C1042]-marquee.png</marquee>
+		<releasedate>19910101T000000</releasedate>
+		<genre>Platform</genre>
 		<crc32>8363C32D</crc32>
+		<md5>e8694070ee2239cac7b5542106aac72c</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063401" />
 	</game>
-	<game>
+	<game id="430820">
 		<path>./TOSEC/Games/Fortune 'n Luck (1992)(Bit Corporation)[C1047]/Fortune 'n Luck (1992)(Bit Corporation)[C1047].bin</path>
-		<name>Fortune 'n Luck (1992)(Bit Corporation)[C1047]</name>
+		<name>Fortune 'n Luck</name>
+		<image>./images/Fortune 'n Luck (1992)(Bit Corporation)[C1047]-image.png</image>
+		<marquee>./images/Fortune 'n Luck (1992)(Bit Corporation)[C1047]-marquee.png</marquee>
 		<crc32>39660803</crc32>
+		<md5>61efbecbb56b054492790534653bebca</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063404" />
 	</game>
-	<game>
+	<game id="430823">
 		<path>./TOSEC/Games/Further Adventures of Hannibal the Cat (199x)(-)/Further Adventures of Hannibal the Cat (199x)(-).bin</path>
-		<name>Further Adventures of Hannibal the Cat (199x)(-)</name>
+		<name>Further Adventures of Hannibal The Cat</name>
+		<image>./images/Further Adventures of Hannibal the Cat (199x)(-)-image.jpg</image>
+		<marquee>./images/Further Adventures of Hannibal the Cat (199x)(-)-marquee.png</marquee>
+		<releasedate>19930101T000000</releasedate>
+		<genre>Shoot'em Up</genre>
 		<crc32>9AA13551</crc32>
+		<md5>e6022b1a9623ea709b9f767dee2f973f</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063406" />
 	</game>
-	<game>
+	<game id="430826">
 		<path>./TOSEC/Games/Galaxy Invaders (1990)(Bit Corporation)[C1007]/Galaxy Invaders (1990)(Bit Corporation)[C1007].bin</path>
-		<name>Galaxy Invaders (1990)(Bit Corporation)[C1007]</name>
+		<name>Galaxy Invaders</name>
+		<image>./images/Galaxy Invaders (1990)(Bit Corporation)[C1007]-image.jpg</image>
+		<marquee>./images/Galaxy Invaders (1990)(Bit Corporation)[C1007]-marquee.png</marquee>
+		<thumbnail>./images/Galaxy Invaders (1990)(Bit Corporation)[C1007]-thumb.png</thumbnail>
+		<releasedate>19900101T000000</releasedate>
+		<genre>Shoot'em Up</genre>
 		<crc32>93AFAD9B</crc32>
+		<md5>3b9d2604ce8c1e8ed75321ade94044e8</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063410" />
 	</game>
-	<game>
+	<game id="430829">
 		<path>./TOSEC/Games/Golden Pyramid, The (199x)(-)[C1068]/Golden Pyramid, The (199x)(-)[C1068].bin</path>
-		<name>Golden Pyramid, The (199x)(-)[C1068]</name>
+		<name>Golden Pyramid, The</name>
+		<image>./images/Golden Pyramid, The (199x)(-)[C1068]-image.jpg</image>
+		<marquee>./images/Golden Pyramid, The (199x)(-)[C1068]-marquee.png</marquee>
+		<thumbnail>./images/Golden Pyramid, The (199x)(-)[C1068]-thumb.png</thumbnail>
+		<genre>Adventure</genre>
 		<crc32>96386B08</crc32>
+		<md5>27086352127255d7c84f757cd259b65d</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063414" />
 	</game>
-	<game>
+	<game id="430832">
 		<path>./TOSEC/Games/GP Race (1992)(Bit Corporation)[C1056]/GP Race (1992)(Bit Corporation)[C1056].bin</path>
-		<name>GP Race (1992)(Bit Corporation)[C1056]</name>
+		<name>GP Race</name>
+		<image>./images/GP Race (1992)(Bit Corporation)[C1056]-image.jpg</image>
+		<marquee>./images/GP Race (1992)(Bit Corporation)[C1056]-marquee.png</marquee>
+		<thumbnail>./images/GP Race (1992)(Bit Corporation)[C1056]-thumb.png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<genre>Race, Driving</genre>
 		<crc32>447595E4</crc32>
+		<md5>9eace445feea2232f79d0b9d4f79d944</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063417" />
 	</game>
-	<game>
+	<game id="430835">
 		<path>./TOSEC/Games/Hot Hero (199x)(-)[C1065]/Hot Hero (199x)(-)[C1065].bin</path>
-		<name>Hot Hero (199x)(-)[C1065]</name>
+		<name>Hot Hero</name>
+		<image>./images/Hot Hero (199x)(-)[C1065]-image.png</image>
+		<marquee>./images/Hot Hero (199x)(-)[C1065]-marquee.png</marquee>
 		<crc32>1ED9D0A3</crc32>
+		<md5>af1c8e81ab3875d562a9a5f8a51168d1</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063420" />
 	</game>
-	<game>
+	<game id="430841">
 		<path>./TOSEC/Games/Insect War (1995)(United Microelectronics Corporation)[C1070]/Insect War (1995)(United Microelectronics Corporation)[C1070].bin</path>
-		<name>Insect War (1995)(United Microelectronics Corporation)[C1070]</name>
+		<name>Insect War</name>
+		<image>./images/Insect War (1995)(United Microelectronics Corporation)[C1070]-image.jpg</image>
+		<marquee>./images/Insect War (1995)(United Microelectronics Corporation)[C1070]-marquee.png</marquee>
+		<releasedate>19950101T000000</releasedate>
+		<genre>Shoot'em Up</genre>
 		<crc32>7BA8AF6D</crc32>
+		<md5>72550054e9ea361680e0e7151ebaa612</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063423" />
 	</game>
-	<game>
+	<game id="430844">
 		<path>./TOSEC/Games/Jewelriss (1990)(Bit Corporation)[C1036]/Jewelriss (1990)(Bit Corporation)[C1036].bin</path>
-		<name>Jewelriss (1990)(Bit Corporation)[C1036]</name>
+		<name>Jewelriss</name>
+		<image>./images/Jewelriss (1990)(Bit Corporation)[C1036]-image.jpg</image>
+		<marquee>./images/Jewelriss (1990)(Bit Corporation)[C1036]-marquee.png</marquee>
+		<releasedate>19900101T000000</releasedate>
 		<crc32>5BA39D1C</crc32>
+		<md5>7a0e4c7d947e8a561a285497a632095c</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063425" />
 	</game>
-	<game>
+	<game id="430850">
 		<path>./TOSEC/Games/Kill Shot (1991)(Bit Corporation)[C1015]/Kill Shot (1991)(Bit Corporation)[C1015].bin</path>
-		<name>Kill Shot (1991)(Bit Corporation)[C1015]</name>
+		<name>Kill Shot</name>
+		<image>./images/Kill Shot (1991)(Bit Corporation)[C1015]-image.jpg</image>
+		<marquee>./images/Kill Shot (1991)(Bit Corporation)[C1015]-marquee.png</marquee>
+		<thumbnail>./images/Kill Shot (1991)(Bit Corporation)[C1015]-thumb.png</thumbnail>
+		<releasedate>19910101T000000</releasedate>
 		<crc32>69BC6A30</crc32>
+		<md5>4810e25dd8878ece8474cf15d26ed0b7</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063429" />
 	</game>
-	<game>
+	<game id="430853">
 		<path>./TOSEC/Games/Kung-Fu Fighter (1990)(Bit Corporation)[C1018]/Kung-Fu Fighter (1990)(Bit Corporation)[C1018].bin</path>
-		<name>Kung-Fu Fighter (1990)(Bit Corporation)[C1018]</name>
+		<name>Kung-Fu Fighter</name>
+		<image>./images/Kung-Fu Fighter (1990)(Bit Corporation)[C1018]-image.jpg</image>
+		<marquee>./images/Kung-Fu Fighter (1990)(Bit Corporation)[C1018]-marquee.png</marquee>
+		<thumbnail>./images/Kung-Fu Fighter (1990)(Bit Corporation)[C1018]-thumb.png</thumbnail>
+		<releasedate>19900101T000000</releasedate>
+		<genre>Action</genre>
 		<crc32>4BA40206</crc32>
+		<md5>0dc4127efa1e3bfeb70d02a3bd8f9520</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063433" />
 	</game>
-	<game>
+	<game id="430856">
 		<path>./TOSEC/Games/Legend of Dragon Knight (1991)(Bit Corporation)[C1044]/Legend of Dragon Knight (1991)(Bit Corporation)[C1044].bin</path>
-		<name>Legend of Dragon Knight (1991)(Bit Corporation)[C1044]</name>
+		<name>Legend of Dragon Knight</name>
+		<image>./images/Legend of Dragon Knight (1991)(Bit Corporation)[C1044]-image.jpg</image>
+		<marquee>./images/Legend of Dragon Knight (1991)(Bit Corporation)[C1044]-marquee.png</marquee>
+		<thumbnail>./images/Legend of Dragon Knight (1991)(Bit Corporation)[C1044]-thumb.png</thumbnail>
+		<releasedate>19910101T000000</releasedate>
+		<genre>Action</genre>
 		<crc32>A67BA296</crc32>
+		<md5>69d430d7cbaf27866a0db7b58aefede7</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063437" />
 	</game>
-	<game>
+	<game id="430859">
 		<path>./TOSEC/Games/Magic Jigsaw (1991)(Bit Corporation)[C1054]/Magic Jigsaw (1991)(Bit Corporation)[C1054].bin</path>
-		<name>Magic Jigsaw (1991)(Bit Corporation)[C1054]</name>
+		<name>Magic Jigsaw</name>
+		<image>./images/Magic Jigsaw (1991)(Bit Corporation)[C1054]-image.png</image>
+		<marquee>./images/Magic Jigsaw (1991)(Bit Corporation)[C1054]-marquee.png</marquee>
+		<thumbnail>./images/Magic Jigsaw (1991)(Bit Corporation)[C1054]-thumb.png</thumbnail>
 		<crc32>1098BCD3</crc32>
+		<md5>b8b197819f0d8987a8067ea470b3dc99</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063441" />
 	</game>
-	<game>
+	<game id="430862">
 		<path>./TOSEC/Games/Marauder (1991)(Bit Corporation)[C1024]/Marauder (1991)(Bit Corporation)[C1024].bin</path>
-		<name>Marauder (1991)(Bit Corporation)[C1024]</name>
+		<name>Marauder</name>
+		<image>./images/Marauder (1991)(Bit Corporation)[C1024]-image.jpg</image>
+		<marquee>./images/Marauder (1991)(Bit Corporation)[C1024]-marquee.png</marquee>
+		<thumbnail>./images/Marauder (1991)(Bit Corporation)[C1024]-thumb.png</thumbnail>
+		<releasedate>19910101T000000</releasedate>
+		<genre>Shoot'em Up</genre>
 		<crc32>C0A8607B</crc32>
+		<md5>946fbdec1cb4f5038299dfb8de64ec3f</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063444" />
 	</game>
-	<game>
+	<game id="430865">
 		<path>./TOSEC/Games/Mars Voyage (1991)(Bit Corporation)[C1038]/Mars Voyage (1991)(Bit Corporation)[C1038].bin</path>
-		<name>Mars Voyage (1991)(Bit Corporation)[C1038]</name>
+		<name>Mars Voyage</name>
+		<image>./images/Mars Voyage (1991)(Bit Corporation)[C1038]-image.jpg</image>
+		<marquee>./images/Mars Voyage (1991)(Bit Corporation)[C1038]-marquee.png</marquee>
+		<thumbnail>./images/Mars Voyage (1991)(Bit Corporation)[C1038]-thumb.png</thumbnail>
+		<releasedate>19910101T000000</releasedate>
+		<genre>Shoot'em Up</genre>
 		<crc32>19BBA397</crc32>
+		<md5>dba692f10487439623c08fe3747c6875</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063448" />
 	</game>
-	<game>
+	<game id="430868">
 		<path>./TOSEC/Games/Mighty Tank (199x)(Bit Corporation)[C1004]/Mighty Tank (199x)(Bit Corporation)[C1004].bin</path>
-		<name>Mighty Tank (199x)(Bit Corporation)[C1004]</name>
+		<name>Mighty Tank</name>
+		<image>./images/Mighty Tank (199x)(Bit Corporation)[C1004]-image.jpg</image>
+		<marquee>./images/Mighty Tank (199x)(Bit Corporation)[C1004]-marquee.png</marquee>
+		<thumbnail>./images/Mighty Tank (199x)(Bit Corporation)[C1004]-thumb.png</thumbnail>
+		<genre>Action</genre>
 		<crc32>F24379FD</crc32>
+		<md5>bfaa6237770b503c736cb539624f0dbf</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063451" />
 	</game>
-	<game>
+	<game id="430871">
 		<path>./TOSEC/Games/Mini Golf (1990)(Bit Corporation)[C1006]/Mini Golf (1990)(Bit Corporation)[C1006].bin</path>
-		<name>Mini Golf (1990)(Bit Corporation)[C1006]</name>
+		<name>Mini Golf</name>
+		<image>./images/Mini Golf (1990)(Bit Corporation)[C1006]-image.jpg</image>
+		<marquee>./images/Mini Golf (1990)(Bit Corporation)[C1006]-marquee.png</marquee>
+		<thumbnail>./images/Mini Golf (1990)(Bit Corporation)[C1006]-thumb.png</thumbnail>
+		<releasedate>19900101T000000</releasedate>
+		<genre>Sports / Golf</genre>
 		<crc32>59781E23</crc32>
+		<md5>4a7f46ab3582c7f07c163c636edf5081</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063454" />
 	</game>
-	<game>
+	<game id="430874">
 		<path>./TOSEC/Games/Money Maze (199x)(Bit Corporation)[C1011]/Money Maze (199x)(Bit Corporation)[C1011].bin</path>
-		<name>Money Maze (199x)(Bit Corporation)[C1011]</name>
+		<name>Money Maze</name>
+		<image>./images/Money Maze (199x)(Bit Corporation)[C1011]-image.jpg</image>
+		<marquee>./images/Money Maze (199x)(Bit Corporation)[C1011]-marquee.png</marquee>
+		<thumbnail>./images/Money Maze (199x)(Bit Corporation)[C1011]-thumb.png</thumbnail>
+		<genre>Action</genre>
 		<crc32>4D9BFD91</crc32>
+		<md5>907c07d5c5bc364119cd317070be7589</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063458" />
 	</game>
-	<game>
+	<game id="430877">
 		<path>./TOSEC/Games/Monster Pitfall (1990)(Bit Corporation)[C1027]/Monster Pitfall (1990)(Bit Corporation)[C1027].bin</path>
-		<name>Monster Pitfall (1990)(Bit Corporation)[C1027]</name>
+		<name>Monster Pitfall</name>
+		<image>./images/Monster Pitfall (1990)(Bit Corporation)[C1027]-image.jpg</image>
+		<marquee>./images/Monster Pitfall (1990)(Bit Corporation)[C1027]-marquee.png</marquee>
+		<thumbnail>./images/Monster Pitfall (1990)(Bit Corporation)[C1027]-thumb.png</thumbnail>
+		<releasedate>19900101T000000</releasedate>
+		<genre>Action</genre>
 		<crc32>BE6EDA47</crc32>
+		<md5>bbd4cc04d96fa0466ba68350dc0ea7e6</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063501" />
 	</game>
-	<game>
+	<game id="430880">
 		<path>./TOSEC/Games/Myth of Asamia (1990)(Bit Corporation)[C1021]/Myth of Asamia (1990)(Bit Corporation)[C1021].bin</path>
-		<name>Myth of Asamia (1990)(Bit Corporation)[C1021]</name>
+		<name>Myth of Asamia</name>
+		<image>./images/Myth of Asamia (1990)(Bit Corporation)[C1021]-image.jpg</image>
+		<marquee>./images/Myth of Asamia (1990)(Bit Corporation)[C1021]-marquee.png</marquee>
+		<thumbnail>./images/Myth of Asamia (1990)(Bit Corporation)[C1021]-thumb.png</thumbnail>
+		<releasedate>19900101T000000</releasedate>
+		<genre>Platform</genre>
 		<crc32>3871A86C</crc32>
+		<md5>cb6e58ff0b3fcc802e1f6d997c8a64a5</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063504" />
 	</game>
-	<game>
+	<game id="430883">
 		<path>./TOSEC/Games/Nightmare of Santa Claus (1991)(Bit Corporation)[C1037]/Nightmare of Santa Claus (1991)(Bit Corporation)[C1037].bin</path>
-		<name>Nightmare of Santa Claus (1991)(Bit Corporation)[C1037]</name>
+		<name>Nightmare of Santa Claus</name>
+		<image>./images/Nightmare of Santa Claus (1991)(Bit Corporation)[C1037]-image.jpg</image>
+		<marquee>./images/Nightmare of Santa Claus (1991)(Bit Corporation)[C1037]-marquee.png</marquee>
+		<thumbnail>./images/Nightmare of Santa Claus (1991)(Bit Corporation)[C1037]-thumb.png</thumbnail>
+		<releasedate>19910101T000000</releasedate>
+		<genre>Action</genre>
 		<crc32>ED243824</crc32>
+		<md5>81b59465c3df4db2943670ba14f76a54</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063507" />
 	</game>
-	<game>
+	<game id="430886">
 		<path>./TOSEC/Games/One Million Whys (1993)(United Microelectronics Corporation)[K1001]/One Million Whys (1993)(United Microelectronics Corporation)[K1001].bin</path>
-		<name>One Million Whys (1993)(United Microelectronics Corporation)[K1001]</name>
+		<name>One Million Whys</name>
+		<image>./images/One Million Whys (1993)(United Microelectronics Corporation)[K1001]-image.jpg</image>
+		<marquee>./images/One Million Whys (1993)(United Microelectronics Corporation)[K1001]-marquee.png</marquee>
+		<releasedate>19930101T000000</releasedate>
+		<genre>Adventure</genre>
 		<crc32>EBB46EFE</crc32>
+		<md5>03ef96229dba775d81e5ce74ff3d6bfb</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063510" />
 	</game>
-	<game>
+	<game id="430889">
 		<path>./TOSEC/Games/Pharaoh Revenger (1991)(Bit Corporation)[C1012]/Pharaoh Revenger (1991)(Bit Corporation)[C1012].bin</path>
-		<name>Pharaoh Revenger (1991)(Bit Corporation)[C1012]</name>
+		<name>Pharaoh Revenger</name>
+		<image>./images/Pharaoh Revenger (1991)(Bit Corporation)[C1012]-image.jpg</image>
+		<marquee>./images/Pharaoh Revenger (1991)(Bit Corporation)[C1012]-marquee.png</marquee>
+		<thumbnail>./images/Pharaoh Revenger (1991)(Bit Corporation)[C1012]-thumb.png</thumbnail>
+		<releasedate>19910101T000000</releasedate>
+		<genre>Platform</genre>
 		<crc32>DAAC7932</crc32>
+		<md5>9b4a1dddcca22d40924a2f5c5afa9aa1</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063513" />
 	</game>
-	<game>
+	<game id="430892">
 		<path>./TOSEC/Games/Pipemania (1991)(Bit Corporation)[C1022]/Pipemania (1991)(Bit Corporation)[C1022].bin</path>
-		<name>Pipemania (1991)(Bit Corporation)[C1022]</name>
+		<name>Pipemania</name>
+		<image>./images/Pipemania (1991)(Bit Corporation)[C1022]-image.jpg</image>
+		<marquee>./images/Pipemania (1991)(Bit Corporation)[C1022]-marquee.png</marquee>
+		<thumbnail>./images/Pipemania (1991)(Bit Corporation)[C1022]-thumb.png</thumbnail>
+		<releasedate>19910101T000000</releasedate>
 		<crc32>AE5978BD</crc32>
+		<md5>19f789640d40d96d7d4fc62d2b4b8de7</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063516" />
 	</game>
-	<game>
+	<game id="430895">
 		<path>./TOSEC/Games/Punk Boy (1992)(Bit Corporation)[C1049]/Punk Boy (1992)(Bit Corporation)[C1049].bin</path>
-		<name>Punk Boy (1992)(Bit Corporation)[C1049]</name>
+		<name>Punk Boy</name>
+		<image>./images/Punk Boy (1992)(Bit Corporation)[C1049]-image.jpg</image>
+		<marquee>./images/Punk Boy (1992)(Bit Corporation)[C1049]-marquee.png</marquee>
+		<releasedate>19920101T000000</releasedate>
+		<genre>Platform</genre>
 		<crc32>AA2E0D32</crc32>
+		<md5>45865a493c79c5c4a4da68c75e70a017</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063518" />
 	</game>
-	<game>
+	<game id="430898">
 		<path>./TOSEC/Games/QuizFighter (1993)(United Microelectronics Corporation)[C1058]/QuizFighter (1993)(United Microelectronics Corporation)[C1058].bin</path>
-		<name>QuizFighter (1993)(United Microelectronics Corporation)[C1058]</name>
+		<name>QuizFighter</name>
+		<image>./images/QuizFighter (1993)(United Microelectronics Corporation)[C1058]-image.jpg</image>
+		<marquee>./images/QuizFighter (1993)(United Microelectronics Corporation)[C1058]-marquee.png</marquee>
 		<crc32>16A79CD8</crc32>
+		<md5>b8e57100007041f1021bf805b5966188</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063520" />
 	</game>
-	<game>
+	<game id="430901">
 		<path>./TOSEC/Games/Riddle of the Ancient Tomb (1994)(-)[C1069]/Riddle of the Ancient Tomb (1994)(-)[C1069].bin</path>
-		<name>Riddle of the Ancient Tomb (1994)(-)[C1069]</name>
+		<name>Riddle of the Ancient Tomb</name>
+		<image>./images/Riddle of the Ancient Tomb (1994)(-)[C1069]-image.jpg</image>
+		<marquee>./images/Riddle of the Ancient Tomb (1994)(-)[C1069]-marquee.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<genre>Action</genre>
 		<crc32>3BCEB859</crc32>
+		<md5>85d9a84a7bf14297ef197b4e962ba07d</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063523" />
 	</game>
-	<game>
+	<game id="430904">
 		<path>./TOSEC/Games/Robin Hood (1994)(Phinnex)[C1067]/Robin Hood (1994)(Phinnex)[C1067].bin</path>
-		<name>Robin Hood (1994)(Phinnex)[C1067]</name>
+		<name>Robin Hood</name>
+		<image>./images/Robin Hood (1994)(Phinnex)[C1067]-image.jpg</image>
+		<marquee>./images/Robin Hood (1994)(Phinnex)[C1067]-marquee.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<genre>Action</genre>
 		<crc32>76E26B63</crc32>
+		<md5>df4b642ca31c1db5f1d9f6d3223970e0</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063525" />
 	</game>
-	<game>
+	<game id="430907">
 		<path>./TOSEC/Games/Snowman Legend (1991)(Bit Corporation)[C1044]/Snowman Legend (1991)(Bit Corporation)[C1044].bin</path>
-		<name>Snowman Legend (1991)(Bit Corporation)[C1044]</name>
+		<name>Snowman Legend</name>
+		<image>./images/Snowman Legend (1991)(Bit Corporation)[C1044]-image.jpg</image>
+		<marquee>./images/Snowman Legend (1991)(Bit Corporation)[C1044]-marquee.png</marquee>
+		<thumbnail>./images/Snowman Legend (1991)(Bit Corporation)[C1044]-thumb.png</thumbnail>
+		<releasedate>19910101T000000</releasedate>
+		<genre>Action</genre>
 		<crc32>BFDF356F</crc32>
+		<md5>1512f929c961a81c68cf30250069cc89</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063530" />
 	</game>
-	<game>
+	<game id="430910">
 		<path>./TOSEC/Games/Tennis (1991)(Bit Corporation)[C1023]/Tennis (1991)(Bit Corporation)[C1023].bin</path>
-		<name>Tennis (1991)(Bit Corporation)[C1023]</name>
+		<name>Tennis</name>
+		<image>./images/Tennis (1991)(Bit Corporation)[C1023]-image.jpg</image>
+		<marquee>./images/Tennis (1991)(Bit Corporation)[C1023]-marquee.png</marquee>
+		<thumbnail>./images/Tennis (1991)(Bit Corporation)[C1023]-thumb.png</thumbnail>
+		<releasedate>19910101T000000</releasedate>
+		<genre>Sports / Tennis</genre>
 		<crc32>93ADEFB1</crc32>
+		<md5>ca096c2f1c0ada0afa273bb437f8075e</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063534" />
 	</game>
-	<game>
+	<game id="430913">
 		<path>./TOSEC/Games/Time Warrior (1990)(Bit Corporation)[C1014]/Time Warrior (1990)(Bit Corporation)[C1014].bin</path>
-		<name>Time Warrior (1990)(Bit Corporation)[C1014]</name>
+		<name>Time Warrior</name>
+		<image>./images/Time Warrior (1990)(Bit Corporation)[C1014]-image.jpg</image>
+		<marquee>./images/Time Warrior (1990)(Bit Corporation)[C1014]-marquee.png</marquee>
+		<thumbnail>./images/Time Warrior (1990)(Bit Corporation)[C1014]-thumb.png</thumbnail>
+		<releasedate>19900101T000000</releasedate>
+		<genre>Platform</genre>
 		<crc32>1502D7E3</crc32>
+		<md5>7d79b284072090b61e2988743fef8a85</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063538" />
 	</game>
-	<game>
+	<game id="430916">
 		<path>./TOSEC/Games/Tornado (1991)(Bit Corporation)[C1009]/Tornado (1991)(Bit Corporation)[C1009].bin</path>
-		<name>Tornado (1991)(Bit Corporation)[C1009]</name>
+		<name>Tornado</name>
+		<image>./images/Tornado (1991)(Bit Corporation)[C1009]-image.jpg</image>
+		<marquee>./images/Tornado (1991)(Bit Corporation)[C1009]-marquee.png</marquee>
+		<thumbnail>./images/Tornado (1991)(Bit Corporation)[C1009]-thumb.png</thumbnail>
+		<releasedate>19910101T000000</releasedate>
+		<genre>Shoot'em Up</genre>
 		<crc32>4CD6118E</crc32>
+		<md5>62c30df434acdaefb2b6cdb8d92b1090</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063542" />
 	</game>
-	<game>
+	<game id="430919">
 		<path>./TOSEC/Games/Tough Guy (1993)(United Microelectronics Corporation)[C1053]/Tough Guy (1993)(United Microelectronics Corporation)[C1053].bin</path>
-		<name>Tough Guy (1993)(United Microelectronics Corporation)[C1053]</name>
+		<name>Tough Guy</name>
+		<image>./images/Tough Guy (1993)(United Microelectronics Corporation)[C1053]-image.jpg</image>
+		<marquee>./images/Tough Guy (1993)(United Microelectronics Corporation)[C1053]-marquee.png</marquee>
+		<thumbnail>./images/Tough Guy (1993)(United Microelectronics Corporation)[C1053]-thumb.png</thumbnail>
 		<crc32>727299C7</crc32>
+		<md5>7fa02f0bf00ced0710277a25b2ee909e</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063545" />
 	</game>
-	<game>
+	<game id="430922">
 		<path>./TOSEC/Games/Treasure Hunter (1990)(Bit Corporation)[C1035]/Treasure Hunter (1990)(Bit Corporation)[C1035].bin</path>
-		<name>Treasure Hunter (1990)(Bit Corporation)[C1035]</name>
+		<name>Treasure Hunter</name>
+		<image>./images/Treasure Hunter (1990)(Bit Corporation)[C1035]-image.jpg</image>
+		<marquee>./images/Treasure Hunter (1990)(Bit Corporation)[C1035]-marquee.png</marquee>
+		<thumbnail>./images/Treasure Hunter (1990)(Bit Corporation)[C1035]-thumb.png</thumbnail>
+		<releasedate>19900101T000000</releasedate>
+		<genre>Action</genre>
 		<crc32>3BED5E9C</crc32>
+		<md5>dfa44ed04d964ade8ed101251af63177</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063549" />
 	</game>
-	<game>
+	<game id="430925">
 		<path>./TOSEC/Games/Vindicators (1990)(Bit Corporation)[C1028]/Vindicators (1990)(Bit Corporation)[C1028].bin</path>
-		<name>Vindicators (1990)(Bit Corporation)[C1028]</name>
+		<name>Vindicators</name>
+		<image>./images/Vindicators (1990)(Bit Corporation)[C1028]-image.jpg</image>
+		<marquee>./images/Vindicators (1990)(Bit Corporation)[C1028]-marquee.png</marquee>
+		<thumbnail>./images/Vindicators (1990)(Bit Corporation)[C1028]-thumb.png</thumbnail>
+		<releasedate>19900101T000000</releasedate>
+		<genre>Action</genre>
 		<crc32>7B99EE4C</crc32>
+		<md5>5023c982f81f4acc662c90579579afa9</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063552" />
 	</game>
-	<game>
+	<game id="430928">
 		<path>./TOSEC/Games/Volcano Panic (1991)(Bit Corporation)[C1016]/Volcano Panic (1991)(Bit Corporation)[C1016].bin</path>
-		<name>Volcano Panic (1991)(Bit Corporation)[C1016]</name>
+		<name>Volcano Panic</name>
+		<marquee>./images/Volcano Panic (1991)(Bit Corporation)[C1016]-marquee.png</marquee>
+		<thumbnail>./images/Volcano Panic (1991)(Bit Corporation)[C1016]-thumb.png</thumbnail>
 		<crc32>1C2921DF</crc32>
+		<md5>fadc9d8a4a972ce8745080ef5dac9418</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063555" />
 	</game>
-	<game>
+	<game id="430931">
 		<path>./TOSEC/Games/Witty Apee (1990)(Bit Corporation)[C1002]/Witty Apee (1990)(Bit Corporation)[C1002].bin</path>
-		<name>Witty Apee (1990)(Bit Corporation)[C1002]</name>
+		<name>Witty Apee</name>
+		<image>./images/Witty Apee (1990)(Bit Corporation)[C1002]-image.jpg</image>
+		<marquee>./images/Witty Apee (1990)(Bit Corporation)[C1002]-marquee.png</marquee>
+		<thumbnail>./images/Witty Apee (1990)(Bit Corporation)[C1002]-thumb.png</thumbnail>
+		<releasedate>19900101T000000</releasedate>
+		<genre>Action</genre>
 		<crc32>F1190956</crc32>
+		<md5>6b5e5de62bec1f547e2ff8adcc9f3c47</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063600" />
 	</game>
-	<game>
+	<game id="430934">
 		<path>./TOSEC/Games/World Cup Soccer (199x)(-)[C1045]/World Cup Soccer (199x)(-)[C1045].bin</path>
-		<name>World Cup Soccer (199x)(-)[C1045]</name>
+		<name>World Cup Soccer</name>
+		<image>./images/World Cup Soccer (199x)(-)[C1045]-image.jpg</image>
+		<marquee>./images/World Cup Soccer (199x)(-)[C1045]-marquee.png</marquee>
+		<thumbnail>./images/World Cup Soccer (199x)(-)[C1045]-thumb.png</thumbnail>
+		<genre>Sports / Soccer</genre>
 		<crc32>C165094F</crc32>
+		<md5>b0e93806dac8e17fa92a66a13b7d1d93</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063604" />
 	</game>
 </gameList>

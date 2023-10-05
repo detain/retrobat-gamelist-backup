@@ -1,0 +1,417 @@
+<?xml version="1.0"?>
+<gameList>
+	<game id="56531">
+		<path>./TOSEC/Applications/6845p (19xx)(-)(48K-96K-128K)/6845p (19xx)(-)(48K-96K-128K).tap</path>
+		<name>ZZZ(notgame):6845p</name>
+		<hidden>true</hidden>
+		<md5>25afc9aa53cbb320a75d8d7df88e4e20</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063605" />
+	</game>
+	<game id="56534">
+		<path>./TOSEC/Applications/Assembler (19xx)(-)[b2]/Assembler (19xx)(-)[b2].tap</path>
+		<name>ZZZ(notgame):Assembler</name>
+		<hidden>true</hidden>
+		<md5>f9154088c33e399279bab2a66c33fdea</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063606" />
+	</game>
+	<game id="56534">
+		<path>./TOSEC/Applications/Assembler (19xx)(-)[b]/Assembler (19xx)(-)[b].tap</path>
+		<name>ZZZ(notgame):Assembler</name>
+		<hidden>true</hidden>
+		<md5>a1b32803cbe5e9d084dc8afa91782aff</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063607" />
+	</game>
+	<game id="56540">
+		<path>./TOSEC/Applications/Compass v1.1 (1983)(Level 9 Computing)/Compass v1.1 (1983)(Level 9 Computing).tap</path>
+		<name>ZZZ(notgame):Compass V1.1</name>
+		<hidden>true</hidden>
+		<md5>b8355c863555e7fd82b4083c556def9a</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063608" />
+	</game>
+	<game id="56540">
+		<path>./TOSEC/Applications/Compass v1.1 (1983)(Level 9 Computing)[b2]/Compass v1.1 (1983)(Level 9 Computing)[b2].tap</path>
+		<name>ZZZ(notgame):Compass V1.1</name>
+		<hidden>true</hidden>
+		<md5>f0cd8bd0004add1c0fab53f9cef73d9b</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063609" />
+	</game>
+	<game id="56540">
+		<path>./TOSEC/Applications/Compass v1.1 (1983)(Level 9 Computing)[b]/Compass v1.1 (1983)(Level 9 Computing)[b].tap</path>
+		<name>ZZZ(notgame):Compass V1.1</name>
+		<hidden>true</hidden>
+		<md5>a3635e59b6d8e444c884fcd8301d5323</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063610" />
+	</game>
+	<game id="56541">
+		<path>./TOSEC/Applications/Copys (19xx)(-)(96K-128K)/Copys (19xx)(-)(96K-128K).tap</path>
+		<name>ZZZ(notgame):Copys</name>
+		<hidden>true</hidden>
+		<md5>c3c6f234c1c60d304681d3aca89ba995</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063611" />
+	</game>
+	<game id="56541">
+		<path>./TOSEC/Applications/Copys (19xx)(-)(96K-128K)[a]/Copys (19xx)(-)(96K-128K)[a].tap</path>
+		<name>ZZZ(notgame):Copys</name>
+		<hidden>true</hidden>
+		<md5>4b3243db4fcdddf19f9df2c3fde6668d</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063612" />
+	</game>
+	<game id="56554">
+		<path>./TOSEC/Applications/Hyperbolic Functions (19xx)(-)[b]/Hyperbolic Functions (19xx)(-)[b].tap</path>
+		<name>ZZZ(notgame):Hyperbolic Functions</name>
+		<hidden>true</hidden>
+		<md5>50e53fefeef427c741bf283d1fb1c285</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063612" />
+	</game>
+	<game id="56557">
+		<path>./TOSEC/Applications/Lion Text (19xx)(Lion-Soft)/Lion Text (19xx)(Lion-Soft).tap</path>
+		<name>ZZZ(notgame):Lion Text</name>
+		<hidden>true</hidden>
+		<md5>683543c90c571754048e37b9d2e9259b</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063613" />
+	</game>
+	<game id="56559">
+		<path>./TOSEC/Applications/Lynx Composer (1983)(Kennedy, Mike)(96K)[b glitched graphics]/Lynx Composer (1983)(Kennedy, Mike)(96K)[b glitched graphics].tap</path>
+		<name>ZZZ(notgame):Lynx Composer</name>
+		<hidden>true</hidden>
+		<md5>cf7828fd791a2268e48ecdcb9b83c45b</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063614" />
+	</game>
+	<game id="56585">
+		<path>./TOSEC/Educational/Rocketman - A Pair of Number Games for Kids (1983)(Bamby Software)/Rocketman - A Pair of Number Games for Kids (1983)(Bamby Software).tap</path>
+		<name>Rocketman - A Pair Of Number Games For Kids</name>
+		<image>./images/Rocketman - A Pair of Number Games for Kids (1983)(Bamby Software)-image.png</image>
+		<releasedate>19830101T000000</releasedate>
+		<developer>G. Smith</developer>
+		<players>1</players>
+		<md5>32896f2e3fc84fec8355980c809dd531</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063616" />
+	</game>
+	<game id="56590">
+		<path>./TOSEC/Educational/Spellbound (1983)(Smith, G.)/Spellbound (1983)(Smith, G.).tap</path>
+		<name>Spellbound</name>
+		<md5>6bdb4ee8e0708391aa941014d18cd669</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063617" />
+	</game>
+	<game id="56536">
+		<path>./TOSEC/Games/Battlebrick (19xx)(-)/Battlebrick (19xx)(-).tap</path>
+		<name>Battlebrick</name>
+		<image>./images/Battlebrick (19xx)(-)-image.png</image>
+		<releasedate>19840911T000000</releasedate>
+		<developer>Robert Gordon</developer>
+		<genre>Action / Breakout games</genre>
+		<players>1</players>
+		<md5>c11a90aaec982dd3a90755fdcf195536</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063619" />
+	</game>
+	<game id="56537">
+		<path>./TOSEC/Games/Centipede (19xx)(Play It!)/Centipede (19xx)(Play It!).tap</path>
+		<name>Centipede</name>
+		<image>./images/Centipede (19xx)(Play It!)-image.png</image>
+		<marquee>./images/Centipede (19xx)(Play It!)-marquee.png</marquee>
+		<releasedate>19840710T000000</releasedate>
+		<genre>Shooter / Space Invaders Like</genre>
+		<players>1</players>
+		<md5>dda0693e40b505ca88496eb9a9bd85eb</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063621" />
+	</game>
+	<game id="56539">
+		<path>./TOSEC/Games/Colossal Adventure (1983)(Level 9 Computing)(Tape 1 of 5)(48K)[welcome]/Colossal Adventure (1983)(Level 9 Computing)(Tape 1 of 5)(48K)[welcome].tap</path>
+		<name>Colossal Adventure</name>
+		<image>./images/Colossal Adventure (1983)(Level 9 Computing)(Tape 1 of 5)(48K)[welcome]-image.png</image>
+		<md5>2eb0fe171c71b98fa325eefc742664a1</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063622" />
+	</game>
+	<game id="56539">
+		<path>./TOSEC/Games/Colossal Adventure (1983)(Level 9 Computing)(Tape 2 of 5)(48K)[binary loader]/Colossal Adventure (1983)(Level 9 Computing)(Tape 2 of 5)(48K)[binary loader].TAP</path>
+		<name>Colossal Adventure</name>
+		<image>./images/Colossal Adventure (1983)(Level 9 Computing)(Tape 2 of 5)(48K)[binary loader]-image.png</image>
+		<md5>7a32a28b283ebda23ae52ff499a4e60b</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063624" />
+	</game>
+	<game id="56539">
+		<path>./TOSEC/Games/Colossal Adventure (1983)(Level 9 Computing)(Tape 3 of 5)(48K)[adventure data]/Colossal Adventure (1983)(Level 9 Computing)(Tape 3 of 5)(48K)[adventure data].tap</path>
+		<name>Colossal Adventure</name>
+		<image>./images/Colossal Adventure (1983)(Level 9 Computing)(Tape 3 of 5)(48K)[adventure data]-image.png</image>
+		<md5>321062cdc56cb673ba730132a4cc0690</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063625" />
+	</game>
+	<game id="56539">
+		<path>./TOSEC/Games/Colossal Adventure (1983)(Level 9 Computing)(Tape 4 of 5)(48K)[adventure data]/Colossal Adventure (1983)(Level 9 Computing)(Tape 4 of 5)(48K)[adventure data].tap</path>
+		<name>Colossal Adventure</name>
+		<image>./images/Colossal Adventure (1983)(Level 9 Computing)(Tape 4 of 5)(48K)[adventure data]-image.png</image>
+		<md5>061fddccd94f185100a664a0b7d3f47f</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063626" />
+	</game>
+	<game id="56539">
+		<path>./TOSEC/Games/Colossal Adventure (1983)(Level 9 Computing)(Tape 5 of 5)(48K)[adventure data]/Colossal Adventure (1983)(Level 9 Computing)(Tape 5 of 5)(48K)[adventure data].tap</path>
+		<name>Colossal Adventure</name>
+		<image>./images/Colossal Adventure (1983)(Level 9 Computing)(Tape 5 of 5)(48K)[adventure data]-image.png</image>
+		<md5>8feafa0cb106561dbf0d05c14ce5bd67</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063628" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/Cross Chase (2018-10-29)(Caruso, Fabrizio)[full]/Cross Chase (2018-10-29)(Caruso, Fabrizio)[full].tap</path>
+		<name>Cross Chase (2018-10-29)(Caruso, Fabrizio)[full]</name>
+		<md5>a26efc3829e7e7191328ee32255d14a9</md5>
+		<scrap name="ScreenScraper" date="20231005T063628" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/Cross Chase (2018-10-29)(Caruso, Fabrizio)[tiny]/Cross Chase (2018-10-29)(Caruso, Fabrizio)[tiny].tap</path>
+		<name>Cross Chase (2018-10-29)(Caruso, Fabrizio)[tiny]</name>
+		<md5>40b5ec1fa3c87dba12bf4ef06bc84bf4</md5>
+		<scrap name="ScreenScraper" date="20231005T063629" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/Cross Chase (2020-04-02)(Caruso, Fabrizio)[full]/Cross Chase (2020-04-02)(Caruso, Fabrizio)[full].tap</path>
+		<name>Cross Chase (2020-04-02)(Caruso, Fabrizio)[full]</name>
+		<md5>fa96670bbad288ce45ca3c4cc83dc448</md5>
+		<scrap name="ScreenScraper" date="20231005T063629" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/Cross Chase (2020-04-02)(Caruso, Fabrizio)[tiny]/Cross Chase (2020-04-02)(Caruso, Fabrizio)[tiny].tap</path>
+		<name>Cross Chase (2020-04-02)(Caruso, Fabrizio)[tiny]</name>
+		<md5>e5a0ea392c68434365d53ac8d29c5f2a</md5>
+		<scrap name="ScreenScraper" date="20231005T063630" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/Cross Chase (2021-05-13)(Caruso, Fabrizio)/Cross Chase (2021-05-13)(Caruso, Fabrizio).tap</path>
+		<name>Cross Chase (2021-05-13)(Caruso, Fabrizio)</name>
+		<md5>8a0d2166264fd6f921428a1827858088</md5>
+		<scrap name="ScreenScraper" date="20231005T063630" />
+	</game>
+	<game id="56547">
+		<path>./TOSEC/Games/Dungeon Adventure (1983)(Level 9 Computing)(Tape 1 of 5)[welcome]/Dungeon Adventure (1983)(Level 9 Computing)(Tape 1 of 5)[welcome].tap</path>
+		<name>Dungeon Adventure</name>
+		<image>./images/Dungeon Adventure (1983)(Level 9 Computing)(Tape 1 of 5)[welcome]-image.png</image>
+		<md5>a5c84a9f3e99a446d52e93d6cae75f21</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063632" />
+	</game>
+	<game id="56547">
+		<path>./TOSEC/Games/Dungeon Adventure (1983)(Level 9 Computing)(Tape 2 of 5)[binary loader]/Dungeon Adventure (1983)(Level 9 Computing)(Tape 2 of 5)[binary loader].tap</path>
+		<name>Dungeon Adventure</name>
+		<image>./images/Dungeon Adventure (1983)(Level 9 Computing)(Tape 2 of 5)[binary loader]-image.png</image>
+		<md5>9531c5dda2167a097f20c2e481004c78</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063633" />
+	</game>
+	<game id="56547">
+		<path>./TOSEC/Games/Dungeon Adventure (1983)(Level 9 Computing)(Tape 3 of 5)[adventure data]/Dungeon Adventure (1983)(Level 9 Computing)(Tape 3 of 5)[adventure data].tap</path>
+		<name>Dungeon Adventure</name>
+		<image>./images/Dungeon Adventure (1983)(Level 9 Computing)(Tape 3 of 5)[adventure data]-image.png</image>
+		<md5>86f80ed974ecbfe678b5a380a6d9ce5f</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063635" />
+	</game>
+	<game id="56547">
+		<path>./TOSEC/Games/Dungeon Adventure (1983)(Level 9 Computing)(Tape 4 of 5)[adventure data]/Dungeon Adventure (1983)(Level 9 Computing)(Tape 4 of 5)[adventure data].tap</path>
+		<name>Dungeon Adventure</name>
+		<image>./images/Dungeon Adventure (1983)(Level 9 Computing)(Tape 4 of 5)[adventure data]-image.png</image>
+		<md5>24fd18f960b0e25aa1d9e9bf8b157397</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063637" />
+	</game>
+	<game id="56547">
+		<path>./TOSEC/Games/Dungeon Adventure (1983)(Level 9 Computing)(Tape 5 of 5)[adventure data]/Dungeon Adventure (1983)(Level 9 Computing)(Tape 5 of 5)[adventure data].tap</path>
+		<name>Dungeon Adventure</name>
+		<image>./images/Dungeon Adventure (1983)(Level 9 Computing)(Tape 5 of 5)[adventure data]-image.png</image>
+		<md5>9b5de445f48ebae2ecd3d8fdc3f095fd</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063638" />
+	</game>
+	<game id="56558">
+		<path>./TOSEC/Games/Logichess v2.2 (1983)(Danielsen, Kaare - Ekner, Hartvig)(96K)/Logichess v2.2 (1983)(Danielsen, Kaare - Ekner, Hartvig)(96K).tap</path>
+		<name>Logichess V2.2</name>
+		<md5>7ddfed8b3fa7ba31934ee1743bc5cb27</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063639" />
+	</game>
+	<game id="56561">
+		<path>./TOSEC/Games/Lynx Hangman (1983)(French, Steven B.)/Lynx Hangman (1983)(French, Steven B.).tap</path>
+		<name>Lynx Hangman</name>
+		<image>./images/Lynx Hangman (1983)(French, Steven B.)-image.png</image>
+		<md5>d4bb9d46308b59f8139544634a887b28</md5>
+		<lang>fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231005T063641" />
+	</game>
+	<game id="56571">
+		<path>./TOSEC/Games/Muncher (1983-06-09)(Gordon, Robert)/Muncher (1983-06-09)(Gordon, Robert).tap</path>
+		<name>Muncher</name>
+		<image>./images/Muncher (1983-06-09)(Gordon, Robert)-image.png</image>
+		<releasedate>19830609T000000</releasedate>
+		<developer>Robert Gordon</developer>
+		<genre>Action / Labyrinth</genre>
+		<players>1</players>
+		<md5>031625a3563b39acdcc0bbbb5ae6dd37</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063642" />
+	</game>
+	<game id="56576">
+		<path>./TOSEC/Games/Panik (19xx)(Judd, M.D.)(96K)(Tape 1 of 2)[cr T.A.G.][b]/Panik (19xx)(Judd, M.D.)(96K)(Tape 1 of 2)[cr T.A.G.][b].tap</path>
+		<name>Panik</name>
+		<md5>5289d412750161e4898b5b1c987aeafd</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063643" />
+	</game>
+	<game id="56576">
+		<path>./TOSEC/Games/Panik (19xx)(Judd, M.D.)(96K)(Tape 2 of 2)[cr T.A.G.][b]/Panik (19xx)(Judd, M.D.)(96K)(Tape 2 of 2)[cr T.A.G.][b].tap</path>
+		<name>Panik</name>
+		<md5>79574bc830606816966fc3a52a121ceb</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063644" />
+	</game>
+	<game id="56576">
+		<path>./TOSEC/Games/Panik (19xx)(Judd, M.D.)[b]/Panik (19xx)(Judd, M.D.)[b].tap</path>
+		<name>Panik</name>
+		<md5>50b197569cd910b136e41f3d8b0debed</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063645" />
+	</game>
+	<game id="56577">
+		<path>./TOSEC/Games/Pengo (1984)(Play It!)/Pengo (1984)(Play It!).tap</path>
+		<name>Pengo</name>
+		<image>./images/Pengo (1984)(Play It!)-image.png</image>
+		<developer>Gary Howland</developer>
+		<genre>Action / Labyrinth</genre>
+		<players>1</players>
+		<md5>56a25a13978f72982b9f60af3f0d545e</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063646" />
+	</game>
+	<game id="56578">
+		<path>./TOSEC/Games/Play Your Cards Right (19xx)(-)(96K)/Play Your Cards Right (19xx)(-)(96K).tap</path>
+		<name>Play Your Cards Right</name>
+		<image>./images/Play Your Cards Right (19xx)(-)(96K)-image.png</image>
+		<genre>Playing cards</genre>
+		<players>1</players>
+		<md5>f4c92ec8e6742f94765aa1baed815b90</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063648" />
+	</game>
+	<game id="56582">
+		<path>./TOSEC/Games/Quest (19xx)(-)[b]/Quest (19xx)(-)[b].tap</path>
+		<name>Quest</name>
+		<md5>d668235ab61af50dd7706b423613f784</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063649" />
+	</game>
+	<game id="56584">
+		<path>./TOSEC/Games/Reversi (1983)(Hunt, C.)/Reversi (1983)(Hunt, C.).tap</path>
+		<name>Reversi</name>
+		<desc>Reversi is played with two players, each representing a color on the board. The rules are simple, but strategy is what will help you win. Place two black and two white discs in the board's four center squares, with corresponding colors diagonal to each other. Choose a color for each playe</desc>
+		<image>./images/Reversi (1983)(Hunt, C.)-image.png</image>
+		<releasedate>19830101T000000</releasedate>
+		<developer>C. Hunt.</developer>
+		<genre>Asiatic board game / Othello</genre>
+		<players>1-2</players>
+		<md5>19d5b220ade49308c5e964c72b1aaab2</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063650" />
+	</game>
+	<game id="56584">
+		<path>./TOSEC/Games/Reversi (1983)(Hunt, C.)(Tape 1 of 2)[loader]/Reversi (1983)(Hunt, C.)(Tape 1 of 2)[loader].tap</path>
+		<name>Reversi</name>
+		<desc>Reversi is played with two players, each representing a color on the board. The rules are simple, but strategy is what will help you win. Place two black and two white discs in the board's four center squares, with corresponding colors diagonal to each other. Choose a color for each playe</desc>
+		<image>./images/Reversi (1983)(Hunt, C.)(Tape 1 of 2)[loader]-image.png</image>
+		<releasedate>19830101T000000</releasedate>
+		<developer>C. Hunt.</developer>
+		<genre>Asiatic board game / Othello</genre>
+		<players>1-2</players>
+		<md5>b05a100c9423c92c01c07a169d13b873</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063652" />
+	</game>
+	<game id="56584">
+		<path>./TOSEC/Games/Reversi (1983)(Hunt, C.)(Tape 2 of 2)[game]/Reversi (1983)(Hunt, C.)(Tape 2 of 2)[game].tap</path>
+		<name>Reversi</name>
+		<desc>Reversi is played with two players, each representing a color on the board. The rules are simple, but strategy is what will help you win. Place two black and two white discs in the board's four center squares, with corresponding colors diagonal to each other. Choose a color for each playe</desc>
+		<image>./images/Reversi (1983)(Hunt, C.)(Tape 2 of 2)[game]-image.png</image>
+		<releasedate>19830101T000000</releasedate>
+		<developer>C. Hunt.</developer>
+		<genre>Asiatic board game / Othello</genre>
+		<players>1-2</players>
+		<md5>8ed3940ec904bd9ee7e6850158a6454c</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063653" />
+	</game>
+	<game id="56588">
+		<path>./TOSEC/Games/Snake (1983)(Hunt, C.)/Snake (1983)(Hunt, C.).tap</path>
+		<name>Snake</name>
+		<md5>9f618756e88f3ac0c0d8dbb1b696d928</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063654" />
+	</game>
+	<game id="56588">
+		<path>./TOSEC/Games/Snake (1983)(Hunt, C.)[a]/Snake (1983)(Hunt, C.)[a].tap</path>
+		<name>Snake</name>
+		<md5>fcadae31f9ada32dc2dd6119b2abc0da</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063655" />
+	</game>
+	<game id="56591">
+		<path>./TOSEC/Games/Star Rover (1983-06)(Lynx User)(48K-96K-128K)/Star Rover (1983-06)(Lynx User)(48K-96K-128K).tap</path>
+		<name>Star Rover</name>
+		<md5>80d77639c93b09960b3190f5df2314e8</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063656" />
+	</game>
+	<game id="56593">
+		<path>./TOSEC/Games/Treasure Island (1983)(Higgins, Neil)(Tape 1 of 2)[loader]/Treasure Island (1983)(Higgins, Neil)(Tape 1 of 2)[loader].tap</path>
+		<name>Treasure Island</name>
+		<desc>Treasure Island is a colourful graphical adventure. Ifs compulsive
+and such fun to play. On a remote desert Isle in the
+Pacific, Captain Hook, the meanest pirate that ever lived, buried his
+treasure many years ago . . ... !
+By giving commands to your Lynx in reply to the cryptic questions it
+asks, try and find the hidden treasure. Ifs not easy and there are
+many dangers and pitfalls for you to negotiate before the Magic Isle
+will give up its treasures to you!!!</desc>
+		<md5>b77a4049b02f827fae6165ae683d4fe2</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063657" />
+	</game>
+	<game id="56593">
+		<path>./TOSEC/Games/Treasure Island (1983)(Higgins, Neil)(Tape 2 of 2)[game]/Treasure Island (1983)(Higgins, Neil)(Tape 2 of 2)[game].tap</path>
+		<name>Treasure Island</name>
+		<desc>Treasure Island is a colourful graphical adventure. Ifs compulsive
+and such fun to play. On a remote desert Isle in the
+Pacific, Captain Hook, the meanest pirate that ever lived, buried his
+treasure many years ago . . ... !
+By giving commands to your Lynx in reply to the cryptic questions it
+asks, try and find the hidden treasure. Ifs not easy and there are
+many dangers and pitfalls for you to negotiate before the Magic Isle
+will give up its treasures to you!!!</desc>
+		<md5>f5abbadb7e07b8db65fa929f21c0ffa2</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063657" />
+	</game>
+	<game id="56595">
+		<path>./TOSEC/Games/Twinkle (1983)(Gem Software)/Twinkle (1983)(Gem Software).tap</path>
+		<name>Twinkle</name>
+		<md5>dd46a8dbadd1946840a6776749462ccb</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T063658" />
+	</game>
+</gameList>
