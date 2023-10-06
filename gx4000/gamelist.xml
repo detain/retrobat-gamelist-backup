@@ -1,27 +1,6 @@
 <?xml version="1.0"?>
 <gameList>
 	<game>
-		<path>./TOSEC/Games/Cross Bomber (2020-08-26)(Caruso, Fabrizio)/Cross Bomber (2020-08-26)(Caruso, Fabrizio).cpr</path>
-		<name>Cross Bomber (2020-08-26)(Caruso, Fabrizio)</name>
-		<crc32>FF4CA7BF</crc32>
-		<md5>405a55461b1f32f81a7923e7c8e526a7</md5>
-		<scrap name="ScreenScraper" date="20230217T113022" />
-	</game>
-	<game>
-		<path>./TOSEC/Games/Cross Bomber (2021-05-13)(Caruso, Fabrizio)/Cross Bomber (2021-05-13)(Caruso, Fabrizio).cpr</path>
-		<name>Cross Bomber (2021-05-13)(Caruso, Fabrizio)</name>
-		<crc32>51EF3116</crc32>
-		<md5>7a1bd36df200eb153f986d804406b847</md5>
-		<scrap name="ScreenScraper" date="20230217T113023" />
-	</game>
-	<game>
-		<path>./TOSEC/Games/Cross Chase (2018-04-15)(Caruso, Fabrizio)/Cross Chase (2018-04-15)(Caruso, Fabrizio).cpr</path>
-		<name>Cross Chase (2018-04-15)(Caruso, Fabrizio)</name>
-		<crc32>9CFB4A59</crc32>
-		<md5>b14328c7821f7360f8ec511a38b483e6</md5>
-		<scrap name="ScreenScraper" date="20230217T113025" />
-	</game>
-	<game>
 		<path>./TOSEC/Games/Cross Chase (2018-05-19)(Caruso, Fabrizio)/Cross Chase (2018-05-19)(Caruso, Fabrizio).cpr</path>
 		<name>Cross Chase (2018-05-19)(Caruso, Fabrizio)</name>
 		<crc32>AA2BC8C0</crc32>
@@ -167,5 +146,26 @@
 		<crc32>DE51CCA1</crc32>
 		<md5>14c5075af9363047e79791b12edc0f24</md5>
 		<scrap name="ScreenScraper" date="20230217T113104" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/Cross Bomber (2020-08-26)(Caruso, Fabrizio)/Cross Bomber (2020-08-26)(Caruso, Fabrizio).cpr</path>
+		<name>Cross Bomber (2020-08-26)(Caruso, Fabrizio)</name>
+		<crc32>FF4CA7BF</crc32>
+		<md5>405a55461b1f32f81a7923e7c8e526a7</md5>
+		<scrap name="ScreenScraper" date="20231005T185326" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/Cross Bomber (2021-05-13)(Caruso, Fabrizio)/Cross Bomber (2021-05-13)(Caruso, Fabrizio).cpr</path>
+		<name>Cross Bomber (2021-05-13)(Caruso, Fabrizio)</name>
+		<crc32>51EF3116</crc32>
+		<md5>7a1bd36df200eb153f986d804406b847</md5>
+		<scrap name="ScreenScraper" date="20231005T185327" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/Cross Chase (2018-04-15)(Caruso, Fabrizio)/Cross Chase (2018-04-15)(Caruso, Fabrizio).cpr</path>
+		<name>Cross Chase (2018-04-15)(Caruso, Fabrizio)</name>
+		<crc32>9CFB4A59</crc32>
+		<md5>b14328c7821f7360f8ec511a38b483e6</md5>
+		<scrap name="ScreenScraper" date="20231005T185328" />
 	</game>
 </gameList>

@@ -13941,4 +13941,40 @@ Easy and fun to use, Wham! The Music Box proves that there's REAL MUSIC hidden i
 		<name>Zeus Z-80 Assembler (1983)(Crystal Computing)</name>
 		<md5>ddea91ff1223e1f691f137445a93bf2a</md5>
 	</game>
+	<game>
+		<path>./TOSEC/Applications/[SCL]/128k Copy (1992)(Baranov, Dmitry)(128K)/128k Copy (1992)(Baranov, Dmitry)(128K).scl</path>
+		<name>128k Copy (1992)(Baranov, Dmitry)(128K)</name>
+		<md5>a3a74c6da1a4db1a8f0396e969e6577b</md5>
+		<scrap name="ScreenScraper" date="20231005T190157" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/[SCL]/3 Channel Synthesiser (19xx)(Simon Tillson for Beeper)/3 Channel Synthesiser (19xx)(Simon Tillson for Beeper).scl</path>
+		<name>3 Channel Synthesiser (19xx)(Simon Tillson for Beeper)</name>
+		<md5>4e246a11287c80b589c099e0908ae8c5</md5>
+		<scrap name="ScreenScraper" date="20231005T190159" />
+	</game>
+	<game id="253459">
+		<path>./TOSEC/Applications/[SCL]/3D Construction Kit (1991)(Domark)(48K-128K)/3D Construction Kit (1991)(Domark)(48K-128K).scl</path>
+		<name>3D Construction Kit</name>
+		<desc>This package allows users to create their own 3D worlds, using technology related to the Freescape universe seen in games such as Castle Master and Driller / Space Station Oblivion. Pull-down menus allow objects to be created and positioned, with movement loops and simple animation defined. A network of rooms can be created.
+
+A simple BASIC-style language is integrated to allow puzzles and conditions (open a door when a key is placed into it, for example). You can also include enemies who must be shot. At any moment you can enter the gameworld to test it.</desc>
+		<image>./images/3D Construction Kit (1991)(Domark)(48K-128K)-image.png</image>
+		<marquee>./images/3D Construction Kit (1991)(Domark)(48K-128K)-marquee.png</marquee>
+		<thumbnail>./images/3D Construction Kit (1991)(Domark)(48K-128K)-thumb.png</thumbnail>
+		<fanart>./images/3D Construction Kit (1991)(Domark)(48K-128K)-fanart.jpg</fanart>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Incentive Software</developer>
+		<publisher>Domark</publisher>
+		<genre>Various</genre>
+		<players>1</players>
+		<md5>210eb01e20c975555ee900258eab49de</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T190208" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/[SCL]/3D Construction Kit (1991)(Domark)(48K-128K)[h]/3D Construction Kit (1991)(Domark)(48K-128K)[h].scl</path>
+		<name>3D Construction Kit (1991)(Domark)(48K-128K)[h]</name>
+		<md5>21960fe4d2765de04e1062248ac13795</md5>
+	</game>
 </gameList>

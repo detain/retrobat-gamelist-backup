@@ -11020,4 +11020,11 @@ Zork Zero: The Revenge of Megaboz is chronologically a prequel to the first thre
 		<name>ProTracker v3.62 (1996-08-30)(Cryptoburners - RD10)(FW)[WB][FFS]</name>
 		<md5>b8b4dbf51b9b7bfca133b495adb35957</md5>
 	</game>
+	<game>
+		<path>./TOSEC/Games/SPS/Simulcra (1990)(MicroStyle)[2659]/Simulcra.ipf</path>
+		<name>Simulcra</name>
+		<image>./images/Simulcra-image.png</image>
+		<video>./videos/Simulcra-video.mp4</video>
+		<thumbnail>./images/Simulcra-thumb.png</thumbnail>
+	</game>
 </gameList>
