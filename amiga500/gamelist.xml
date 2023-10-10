@@ -11027,4 +11027,11 @@ Zork Zero: The Revenge of Megaboz is chronologically a prequel to the first thre
 		<video>./videos/Simulcra-video.mp4</video>
 		<thumbnail>./images/Simulcra-thumb.png</thumbnail>
 	</game>
+	<game>
+		<path>./TOSEC/Games/SPS/Holiday Lemmings 1994 (1994)(Psygnosis)[0492]/HolidayLemmings1994.ipf</path>
+		<name>HolidayLemmings1994</name>
+		<image>./images/HolidayLemmings1994-image.png</image>
+		<video>./videos/HolidayLemmings1994-video.mp4</video>
+		<thumbnail>./images/HolidayLemmings1994-thumb.png</thumbnail>
+	</game>
 </gameList>

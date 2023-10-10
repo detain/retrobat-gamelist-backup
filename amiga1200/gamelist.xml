@@ -5,4 +5,11 @@
 		<name>Brainies, The (1991)(Titus)[cr Radical][t +4 Supplex]</name>
 		<image>./images/Brainies, The (1991)(Titus)[cr Radical][t +4 Supplex]-image.png</image>
 	</game>
+	<game>
+		<path>./TOSEC/Games/[ADF]/Harley-Davidson - The Road to Sturgis (1990)(Mindscape)[cr TRSI][t +1 Full Evil]/Harley-Davidson - The Road to Sturgis (1990)(Mindscape)[cr TRSI][t +1 Full Evil].adf</path>
+		<name>Harley-Davidson - The Road to Sturgis (1990)(Mindscape)[cr TRSI][t +1 Full Evil]</name>
+		<image>./images/Harley-Davidson - The Road to Sturgis (1990)(Mindscape)[cr TRSI][t +1 Full Evil]-image.png</image>
+		<video>./videos/Harley-Davidson - The Road to Sturgis (1990)(Mindscape)[cr TRSI][t +1 Full Evil]-video.mp4</video>
+		<thumbnail>./images/Harley-Davidson - The Road to Sturgis (1990)(Mindscape)[cr TRSI][t +1 Full Evil]-thumb.png</thumbnail>
+	</game>
 </gameList>

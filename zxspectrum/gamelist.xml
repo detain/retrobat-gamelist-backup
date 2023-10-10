@@ -13977,4 +13977,16 @@ A simple BASIC-style language is integrated to allow puzzles and conditions (ope
 		<name>3D Construction Kit (1991)(Domark)(48K-128K)[h]</name>
 		<md5>21960fe4d2765de04e1062248ac13795</md5>
 	</game>
+	<game>
+		<path>./TOSEC/Games/[Z80]/Diablo! (1988)(Nebula Designs)(48K-128K)(Part 3 of 3)[a]/Diablo! (1988)(Nebula Designs)(48K-128K)(Part 3 of 3)[a].z80</path>
+		<name>Diablo! (1988)(Nebula Designs)(48K-128K)(Part 3 of 3)[a]</name>
+		<image>./images/Diablo! (1988)(Nebula Designs)(48K-128K)(Part 3 of 3)[a]-image.png</image>
+	</game>
+	<game>
+		<path>./TOSEC/Games/[TZX]/Sorderon's Shadow - The Legend of Elindor (1985)(Beyond)[a2]/Sorderon's Shadow - The Legend of Elindor (1985)(Beyond)[a2].tzx</path>
+		<name>Sorderon's Shadow - The Legend of Elindor (1985)(Beyond)[a2]</name>
+		<image>./images/Sorderon's Shadow - The Legend of Elindor (1985)(Beyond)[a2]-image.png</image>
+		<video>./videos/Sorderon's Shadow - The Legend of Elindor (1985)(Beyond)[a2]-video.mp4</video>
+		<thumbnail>./images/Sorderon's Shadow - The Legend of Elindor (1985)(Beyond)[a2]-thumb.png</thumbnail>
+	</game>
 </gameList>
