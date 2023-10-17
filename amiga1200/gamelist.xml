@@ -12,4 +12,11 @@
 		<video>./videos/Harley-Davidson - The Road to Sturgis (1990)(Mindscape)[cr TRSI][t +1 Full Evil]-video.mp4</video>
 		<thumbnail>./images/Harley-Davidson - The Road to Sturgis (1990)(Mindscape)[cr TRSI][t +1 Full Evil]-thumb.png</thumbnail>
 	</game>
+	<game>
+		<path>./TOSEC/Games/SPS/Gear Works (1993)(Hollyware)(US)[1028]/GearWorks.ipf</path>
+		<name>GearWorks</name>
+		<image>./images/GearWorks-image.png</image>
+		<video>./videos/GearWorks-video.mp4</video>
+		<thumbnail>./images/GearWorks-thumb.png</thumbnail>
+	</game>
 </gameList>
