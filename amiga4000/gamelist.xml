@@ -298,4 +298,16 @@ The game boasted "incredibly realistic virtual 3D" which meant having to don the
 		<name>Air Support (USA) (Disk 2)</name>
 		<md5>782f8280e4afa0dac274e4af9a721d5f</md5>
 	</game>
+	<game>
+		<path>./TOSEC/Games/SPS/Lost Treasures of Infocom, The (1992)(Activision)(US)[WB][0928]/LostTreasuresOfInfocom,The_Disk1.ipf</path>
+		<name>LostTreasuresOfInfocom,The_Disk1</name>
+		<image>./images/LostTreasuresOfInfocom,The_Disk1-image.png</image>
+		<thumbnail>./images/LostTreasuresOfInfocom,The_Disk1-thumb.png</thumbnail>
+	</game>
+	<game>
+		<path>./TOSEC/Games/[ADF]/Uninvited (1987)(Mindscape)[cr ECA][u]/Uninvited (1987)(Mindscape)[cr ECA][u].adf</path>
+		<name>Uninvited (1987)(Mindscape)[cr ECA][u]</name>
+		<image>./images/Uninvited (1987)(Mindscape)[cr ECA][u]-image.png</image>
+		<thumbnail>./images/Uninvited (1987)(Mindscape)[cr ECA][u]-thumb.png</thumbnail>
+	</game>
 </gameList>
