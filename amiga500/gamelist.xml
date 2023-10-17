@@ -11034,4 +11034,11 @@ Zork Zero: The Revenge of Megaboz is chronologically a prequel to the first thre
 		<video>./videos/HolidayLemmings1994-video.mp4</video>
 		<thumbnail>./images/HolidayLemmings1994-thumb.png</thumbnail>
 	</game>
+	<game>
+		<path>./TOSEC/Games/Save Disks/Bard's Tale II, The - The Destiny Knight (1988)(Electronic Arts)[a][save disk - Character Disk]/Bard's Tale II, The - The Destiny Knight (1988)(Electronic Arts)[a][save disk - Character Disk].adf</path>
+		<name>Bard's Tale II, The - The Destiny Knight (1988)(Electronic Arts)[a][save disk - Character Disk]</name>
+		<image>./images/Bard's Tale II, The - The Destiny Knight (1988)(Electronic Arts)[a][save disk - Character Disk]-image.png</image>
+		<video>./videos/Bard's Tale II, The - The Destiny Knight (1988)(Electronic Arts)[a][save disk - Character Disk]-video.mp4</video>
+		<thumbnail>./images/Bard's Tale II, The - The Destiny Knight (1988)(Electronic Arts)[a][save disk - Character Disk]-thumb.png</thumbnail>
+	</game>
 </gameList>
