@@ -310,4 +310,11 @@ The game boasted "incredibly realistic virtual 3D" which meant having to don the
 		<image>./images/Uninvited (1987)(Mindscape)[cr ECA][u]-image.png</image>
 		<thumbnail>./images/Uninvited (1987)(Mindscape)[cr ECA][u]-thumb.png</thumbnail>
 	</game>
+	<game>
+		<path>./TOSEC/Games/[ADF]/Zool (1992)(Gremlin)(Disk 1 of 2)[cr CSL]/Zool (1992)(Gremlin)(Disk 1 of 2)[cr CSL].adf</path>
+		<name>Zool (1992)(Gremlin)(Disk 1 of 2)[cr CSL]</name>
+		<image>./images/Zool (1992)(Gremlin)(Disk 1 of 2)[cr CSL]-image.png</image>
+		<video>./videos/Zool (1992)(Gremlin)(Disk 1 of 2)[cr CSL]-video.mp4</video>
+		<thumbnail>./images/Zool (1992)(Gremlin)(Disk 1 of 2)[cr CSL]-thumb.png</thumbnail>
+	</game>
 </gameList>
