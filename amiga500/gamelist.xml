@@ -11041,4 +11041,10 @@ Zork Zero: The Revenge of Megaboz is chronologically a prequel to the first thre
 		<video>./videos/Bard's Tale II, The - The Destiny Knight (1988)(Electronic Arts)[a][save disk - Character Disk]-video.mp4</video>
 		<thumbnail>./images/Bard's Tale II, The - The Destiny Knight (1988)(Electronic Arts)[a][save disk - Character Disk]-thumb.png</thumbnail>
 	</game>
+	<game>
+		<path>./TOSEC/Games/[ADF]/Afrika Korps (1991)(Impressions)[h QTX]/Afrika Korps (1991)(Impressions)[h QTX].adf</path>
+		<name>Afrika Korps (1991)(Impressions)[h QTX]</name>
+		<image>./images/Afrika Korps (1991)(Impressions)[h QTX]-image.png</image>
+		<thumbnail>./images/Afrika Korps (1991)(Impressions)[h QTX]-thumb.png</thumbnail>
+	</game>
 </gameList>
