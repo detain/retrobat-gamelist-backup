@@ -1,0 +1,729 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./TOSEC/Applications/[BIN]/ADAM Resident Debugger v20 (198x)(Coleco)(proto)/ADAM Resident Debugger v20 (198x)(Coleco)(proto)[ardrev20-chip1-10-31-6a1a].bin</path>
+		<name>ADAM Resident Debugger v20 (198x)(Coleco)(proto)[ardrev20-chip1-10-31-6a1a]</name>
+		<md5>a1faac7e962fe2d60705acfaf5471fd6</md5>
+		<scrap name="ScreenScraper" date="20231018T040929" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/[BIN]/ADAM Resident Debugger v20 (198x)(Coleco)(proto)/ADAM Resident Debugger v20 (198x)(Coleco)(proto)[ardrev20-chip2-10-31-f5f6].bin</path>
+		<name>ADAM Resident Debugger v20 (198x)(Coleco)(proto)[ardrev20-chip2-10-31-f5f6]</name>
+		<md5>9ca535308e63268c76f95056dfe2e165</md5>
+		<scrap name="ScreenScraper" date="20231018T040930" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/[BIN]/ADAM Resident Debugger v20 (198x)(Coleco)(proto)/ADAM Resident Debugger v20 (198x)(Coleco)(proto)[ardrev20-chip3-10-31-4ede].bin</path>
+		<name>ADAM Resident Debugger v20 (198x)(Coleco)(proto)[ardrev20-chip3-10-31-4ede]</name>
+		<md5>1b2ae3e329746688c04a87e62562b482</md5>
+		<scrap name="ScreenScraper" date="20231018T040931" />
+	</game>
+	<game id="56609">
+		<path>./TOSEC/Applications/[DDP]/Adam Link II Communications Package (1983)(Coleco)/Adam Link II Communications Package (1983)(Coleco).ddp</path>
+		<name>Adam Link II Communications Package</name>
+		<md5>a6ac5e21b316ce6d9f126ed036a893e4</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T040933" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/[DDP]/Address Book (1984)(Coleco)/Address Book (1984)(Coleco).ddp</path>
+		<name>Address Book (1984)(Coleco)</name>
+		<md5>9f6012dee39aa7035dfbf200cf956ce7</md5>
+		<scrap name="ScreenScraper" date="20231018T040934" />
+	</game>
+	<game id="56685">
+		<path>./TOSEC/Applications/[DDP]/CopyCart+ v1.1 (19xx)(-)/CopyCart+ v1.1 (19xx)(-).ddp</path>
+		<name>Copycart+ V1.1</name>
+		<md5>838588d2add4364cc9d8d1718a17e7a9</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T040935" />
+	</game>
+	<game id="56796">
+		<path>./TOSEC/Applications/[DDP]/Smart Letters and Forms (1984)(Coleco)/Smart Letters and Forms (1984)(Coleco).ddp</path>
+		<name>Smart Letters And Forms</name>
+		<image>./images/Smart Letters and Forms (1984)(Coleco)-image.png</image>
+		<md5>3273bbdbcd66469fb064ad6e0bd89dd1</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T040938" />
+	</game>
+	<game id="56801">
+		<path>./TOSEC/Applications/[DDP]/SmartLOGO (1984)(LOGO Computer Systems)/SmartLOGO (1984)(LOGO Computer Systems).ddp</path>
+		<name>Smartlogo</name>
+		<image>./images/SmartLOGO (1984)(LOGO Computer Systems)-image.png</image>
+		<md5>fa676eb8bdd6d9bf6b3f93d106d6a3a1</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T040940" />
+	</game>
+	<game id="56605">
+		<path>./TOSEC/Applications/[DSK]/Adam Calc (1984)(Lazer MicroSystems)/Adam Calc (1984)(Lazer MicroSystems).dsk</path>
+		<name>Adam Calc</name>
+		<md5>31c2dc3ea0e0f4bf74f8c1a6e59ae3fd</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T040942" />
+	</game>
+	<game id="56610">
+		<path>./TOSEC/Applications/[DSK]/Adam Link II Patches (1984)(Coleco)/Adam Link II Patches (1984)(Coleco).dsk</path>
+		<name>Adam Link II Patches</name>
+		<md5>7c17fe3a34618578faa43928521fb36b</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T040944" />
+	</game>
+	<game id="56611">
+		<path>./TOSEC/Applications/[DSK]/Adam Link II Telecommunicator (1984)(Coleco)/Adam Link II Telecommunicator (1984)(Coleco).dsk</path>
+		<name>Adam Link II Telecommunicator</name>
+		<image>./images/Adam Link II Telecommunicator (1984)(Coleco)-image.png</image>
+		<md5>aa42f6af17feda3b38d490d2c0172d3b</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T040947" />
+	</game>
+	<game id="56613">
+		<path>./TOSEC/Applications/[DSK]/ADAM Utilities v1.50 (1984)(Coleco)/ADAM Utilities v1.50 (1984)(Coleco).dsk</path>
+		<name>Adam Utilities V1.50</name>
+		<md5>6adfce69cf8f955bbaf8367a8cea9909</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T040948" />
+	</game>
+	<game id="56616">
+		<path>./TOSEC/Applications/[DSK]/ADAMCALC Orphanware Patch (1987)(Clary, Thomas E.)/ADAMCALC Orphanware Patch (1987)(Clary, Thomas E.).dsk</path>
+		<name>Adamcalc Orphanware Patch</name>
+		<md5>f6268f43105b696e6847e39f254eb6e8</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T040949" />
+	</game>
+	<game id="56644">
+		<path>./TOSEC/Applications/[DSK]/Boot Pix Deluxe (1988)(Metro Orlando Adam User's Group)/Boot Pix Deluxe (1988)(Metro Orlando Adam User's Group).dsk</path>
+		<name>Boot Pix Deluxe</name>
+		<md5>2b314814f4fb2b887d4e9f6581e41c77</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T040951" />
+	</game>
+	<game id="56662">
+		<path>./TOSEC/Applications/[DSK]/Catalog Program (198x)(Coleco)/Catalog Program (198x)(Coleco).dsk</path>
+		<name>Catalog Program</name>
+		<md5>9b043d4d454b91df6c228de752f55f7c</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T040952" />
+	</game>
+	<game id="56679">
+		<path>./TOSEC/Applications/[DSK]/Copycart+ 01 (1985)(MMSG)/Copycart+ 01 (1985)(MMSG).dsk</path>
+		<name>Copycart+ 01</name>
+		<image>./images/Copycart+ 01 (1985)(MMSG)-image.png</image>
+		<md5>94d70b4dab8d18bb0771e3f2902cc602</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T040955" />
+	</game>
+	<game id="56680">
+		<path>./TOSEC/Applications/[DSK]/Copycart+ 02 (1985)(MMSG)/Copycart+ 02 (1985)(MMSG).dsk</path>
+		<name>Copycart+ 02</name>
+		<md5>07f6fae30cf217cbf4ec974ed913de3b</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T040956" />
+	</game>
+	<game id="56680">
+		<path>./TOSEC/Applications/[DSK]/Copycart+ 02 (1985)(MMSG)[a]/Copycart+ 02 (1985)(MMSG)[a].dsk</path>
+		<name>Copycart+ 02</name>
+		<md5>448060e09f28c996157f96fd8056227d</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T040958" />
+	</game>
+	<game id="56681">
+		<path>./TOSEC/Applications/[DSK]/Copycart+ 03 (1985)(MMSG)/Copycart+ 03 (1985)(MMSG).dsk</path>
+		<name>Copycart+ 03</name>
+		<md5>d011834f6d833caf8028da46f6640472</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T040959" />
+	</game>
+	<game id="56682">
+		<path>./TOSEC/Applications/[DSK]/Copycart+ 04 (1985)(MMSG)/Copycart+ 04 (1985)(MMSG).dsk</path>
+		<name>Copycart+ 04</name>
+		<md5>77d997e1350fa27c0e9589adc31d1505</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T041001" />
+	</game>
+	<game id="56683">
+		<path>./TOSEC/Applications/[DSK]/Copycart+ 05 (1985)(MMSG)/Copycart+ 05 (1985)(MMSG).dsk</path>
+		<name>Copycart+ 05</name>
+		<md5>b59147b1cb14e8dcaa18ee47a980a0e2</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T041002" />
+	</game>
+	<game id="56684">
+		<path>./TOSEC/Applications/[DSK]/Copycart+ 06 (1985)(MMSG)/Copycart+ 06 (1985)(MMSG).dsk</path>
+		<name>Copycart+ 06</name>
+		<md5>b492259ac5f75f49a645354d5f6c5336</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T041003" />
+	</game>
+	<game id="56702">
+		<path>./TOSEC/Applications/[DSK]/EOS CPM Format Utilites (19xx)(-)/EOS CPM Format Utilites (19xx)(-).dsk</path>
+		<name>Eos Cpm Format Utilites</name>
+		<image>./images/EOS CPM Format Utilites (19xx)(-)-image.png</image>
+		<md5>4b1acc57aaca15ebc2ee84c670abc5af</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T041006" />
+	</game>
+	<game id="56723">
+		<path>./TOSEC/Applications/[DSK]/GJMG - Copy Utilities (1987)(GJMG Enterprises)/GJMG - Copy Utilities (1987)(GJMG Enterprises).dsk</path>
+		<name>Gjmg - Copy Utilities</name>
+		<md5>b8baf73ece74e67645a8df28486d0fbc</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T041007" />
+	</game>
+	<game id="56724">
+		<path>./TOSEC/Applications/[DSK]/GJMG - Quickopy v1.0 (1987)(GJMG Enterprises)/GJMG - Quickopy v1.0 (1987)(GJMG Enterprises).dsk</path>
+		<name>Gjmg - Quickopy V1.0</name>
+		<md5>4485663ecd4c62409d83621e613db2cc</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T041008" />
+	</game>
+	<game id="56725">
+		<path>./TOSEC/Applications/[DSK]/GJMG - Quickopy v1.1 (1987)(GJMG Enterprises)/GJMG - Quickopy v1.1 (1987)(GJMG Enterprises).dsk</path>
+		<name>Gjmg - Quickopy V1.1</name>
+		<md5>2a003f5dc518ae170b04acef90a7dcb5</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T041010" />
+	</game>
+	<game id="56750">
+		<path>./TOSEC/Applications/[DSK]/Market Monitor (1986)(Coleco)/Market Monitor (1986)(Coleco).dsk</path>
+		<name>Market Monitor</name>
+		<md5>0f3d7e4dbdb2e7a51c1ac790120fe7fc</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T041011" />
+	</game>
+	<game id="56761">
+		<path>./TOSEC/Applications/[DSK]/Multicart Backup (19xx)(-)/Multicart Backup (19xx)(-).dsk</path>
+		<name>Multicart Backup</name>
+		<image>./images/Multicart Backup (19xx)(-)-image.png</image>
+		<md5>52058f8d5045481cdbfbcd9cbca935ac</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T041013" />
+	</game>
+	<game id="56766">
+		<path>./TOSEC/Applications/[DSK]/Orphanware Fastpatch v2.0 (1987)(Orhan)/Orphanware Fastpatch v2.0 (1987)(Orhan).dsk</path>
+		<name>Orphanware Fastpatch V2.0</name>
+		<md5>9920869e620ca1532a7c214ffab635db</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T041015" />
+	</game>
+	<game id="56776">
+		<path>./TOSEC/Applications/[DSK]/PowerPAINT (1987)(Digital Express)/PowerPAINT (1987)(Digital Express).dsk</path>
+		<name>Powerpaint</name>
+		<md5>1063d7f109ea9752f04e3f38f2a9056a</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T041016" />
+	</game>
+	<game id="56793">
+		<path>./TOSEC/Applications/[DSK]/Simple Painter &amp; Simple FX (1990)(THE softWORKS FACTORY)(PD)/Simple Painter &amp; Simple FX (1990)(THE softWORKS FACTORY)(PD).dsk</path>
+		<name>Simple Painter &amp; Simple FX</name>
+		<md5>9d213be54865eca5a3a25299ae6705ae</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T041018" />
+	</game>
+	<game id="56795">
+		<path>./TOSEC/Applications/[DSK]/Smart Filer (1984)(Coleco)/Smart Filer (1984)(Coleco).dsk</path>
+		<name>Smart Filer</name>
+		<md5>95639ededaf9ea65368991e1de55b28d</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T041019" />
+	</game>
+	<game id="56795">
+		<path>./TOSEC/Applications/[DSK]/Smart Filer (1984)(Coleco)[a]/Smart Filer (1984)(Coleco)[a].dsk</path>
+		<name>Smart Filer</name>
+		<md5>79c09a48166add6f0b645a8a24be1bcf</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T041020" />
+	</game>
+	<game id="56797">
+		<path>./TOSEC/Applications/[DSK]/SmartBasic v1.0 (1983)(Coleco - LMI)/SmartBasic v1.0 (1983)(Coleco - LMI).dsk</path>
+		<name>Smartbasic V1.0</name>
+		<image>./images/SmartBasic v1.0 (1983)(Coleco - LMI)-image.png</image>
+		<md5>e178068a8ea9ce3ae3d634d690e7123c</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T041023" />
+	</game>
+	<game id="56798">
+		<path>./TOSEC/Applications/[DSK]/SmartBasic v1.2 (1983)(Coleco - LMI)/SmartBasic v1.2 (1983)(Coleco - LMI).dsk</path>
+		<name>Smartbasic V1.2</name>
+		<md5>bb8cdebe670d8428e745ed90b3c81aca</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T041025" />
+	</game>
+	<game id="56801">
+		<path>./TOSEC/Applications/[DSK]/SmartLOGO (1984)(LOGO Computer Systems)/SmartLOGO (1984)(LOGO Computer Systems).dsk</path>
+		<name>Smartlogo</name>
+		<image>./images/SmartLOGO (1984)(LOGO Computer Systems)-image.png</image>
+		<md5>d88d40124d3cd9dfd07531449bcb60ba</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T041026" />
+	</game>
+	<game id="56802">
+		<path>./TOSEC/Applications/[DSK]/SmartPrint Plus (1992)(M.A.L. - Swift)/SmartPrint Plus (1992)(M.A.L. - Swift).dsk</path>
+		<name>Smartprint Plus</name>
+		<md5>ff6818e3fb9c4b0f20316b6038e5e0ef</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T041029" />
+	</game>
+	<game id="56811">
+		<path>./TOSEC/Applications/[DSK]/Swift Disk (19xx)(-)/Swift Disk (19xx)(-).dsk</path>
+		<name>Swift Disk</name>
+		<md5>35cb679b3d45dee422e70ce194d40fd1</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T041030" />
+	</game>
+	<game id="56851">
+		<path>./TOSEC/Applications/[DSK]/Wordstar v3.3 (1983)(MicroPro International Corporation)/Wordstar v3.3 (1983)(MicroPro International Corporation).dsk</path>
+		<name>Wordstar V3.3</name>
+		<md5>92138efd810f5e295633c874d9e8334c</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T041031" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/[ROM]/ADAM Checkout Cartridge (1982)(Coleco)/ADAM Checkout Cartridge (1982)(Coleco).rom</path>
+		<name>ADAM Checkout Cartridge (1982)(Coleco)</name>
+		<md5>adaf8fefa825434232bc5c44d1bb8709</md5>
+		<scrap name="ScreenScraper" date="20231018T041032" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/[ROM]/ADAM Checkout Software (1981)(Coleco)/ADAM Checkout Software (1981)(Coleco).rom</path>
+		<name>ADAM Checkout Software (1981)(Coleco)</name>
+		<md5>eadae2cd116249279ef53c2cf7001b6e</md5>
+		<scrap name="ScreenScraper" date="20231018T041033" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/[ROM]/ADAM Demonstration Cartridge (198x)(Coleco)/ADAM Demonstration Cartridge (198x)(Coleco).rom</path>
+		<name>ADAM Demonstration Cartridge (198x)(Coleco)</name>
+		<md5>e942f7192715ddb80b1a5b5fd005d7a9</md5>
+		<scrap name="ScreenScraper" date="20231018T041034" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/[ROM]/ADAM Final Test (198x)(Coleco)/ADAM Final Test (198x)(Coleco).rom</path>
+		<name>ADAM Final Test (198x)(Coleco)</name>
+		<md5>198114e7fc6e68b97f6d8f683db127f6</md5>
+		<scrap name="ScreenScraper" date="20231018T041035" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/[ROM]/ADAM Final Test (198x)(Coleco)[a]/ADAM Final Test (198x)(Coleco)[a].rom</path>
+		<name>ADAM Final Test (198x)(Coleco)[a]</name>
+		<md5>1785dc2e24ce39bc21f2d02c6856487e</md5>
+		<scrap name="ScreenScraper" date="20231018T041037" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/[ROM]/ADAM Printer 1 Hour Cycle Burn-In Test (19xx)(-)/ADAM Printer 1 Hour Cycle Burn-In Test (19xx)(-).rom</path>
+		<name>ADAM Printer 1 Hour Cycle Burn-In Test (19xx)(-)</name>
+		<md5>537dd61426fb3fe76bdfad65acd36444</md5>
+		<scrap name="ScreenScraper" date="20231018T041038" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/[ROM]/Blank Tape Restorer v1.4 (198x)(Coleco)/Blank Tape Restorer v1.4 (198x)(Coleco).rom</path>
+		<name>Blank Tape Restorer v1.4 (198x)(Coleco)</name>
+		<md5>c86a96ba403bcfcbcd6c24268466401b</md5>
+		<scrap name="ScreenScraper" date="20231018T041039" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/[ROM]/Buck Rogers Restorer v1.4 (198x)(Coleco)/Buck Rogers Restorer v1.4 (198x)(Coleco).rom</path>
+		<name>Buck Rogers Restorer v1.4 (198x)(Coleco)</name>
+		<md5>b174bb3532e77e12c6490bee2d7917a1</md5>
+		<scrap name="ScreenScraper" date="20231018T041040" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/[ROM]/Data Drive Burn-In Tape Test (198x)(Coleco)/Data Drive Burn-In Tape Test (198x)(Coleco).rom</path>
+		<name>Data Drive Burn-In Tape Test (198x)(Coleco)</name>
+		<md5>1e00217ab176e9868bbceb7c959a7b2a</md5>
+		<scrap name="ScreenScraper" date="20231018T041041" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/[ROM]/Smart BASIC Restorer v1.4 (198x)(Coleco)/Smart BASIC Restorer v1.4 (198x)(Coleco).rom</path>
+		<name>Smart BASIC Restorer v1.4 (198x)(Coleco)</name>
+		<md5>9e4c248660afa23e6dbe206dd891a4b0</md5>
+		<scrap name="ScreenScraper" date="20231018T041042" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/[ROM]/Tapeutl v22 (1984)(Coleco)/Tapeutl v22 (1984)(Coleco).rom</path>
+		<name>Tapeutl v22 (1984)(Coleco)</name>
+		<md5>3b208fff0d0d9013ce10796464dd37ec</md5>
+		<scrap name="ScreenScraper" date="20231018T041043" />
+	</game>
+	<game id="56706">
+		<path>./TOSEC/Educational/[DDP]/Expertype - Smart Writer Typing Tuition Program (19xx)(-)/Expertype - Smart Writer Typing Tuition Program (19xx)(-).ddp</path>
+		<name>Expertype - Smart Writer Typing Tuition Program</name>
+		<image>./images/Expertype - Smart Writer Typing Tuition Program (19xx)(-)-image.png</image>
+		<md5>3e2f172919886e1a8b0026d0bd6306c5</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T041046" />
+	</game>
+	<game id="56786">
+		<path>./TOSEC/Educational/[DSK]/Richard Scarry's Best Electronic Word Book Ever! (1984)(Coleco)/Richard Scarry's Best Electronic Word Book Ever! (1984)(Coleco).dsk</path>
+		<name>Richard Scarry's Best Electronic Word Book Ever!</name>
+		<md5>5ced4ef84b24fb0d3843468ca4eb5f2e</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T041047" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[DDP]/2010 - The Text Adventure Game (1984)(Coleco)/2010 - The Text Adventure Game (1984)(Coleco).ddp</path>
+		<name>2010 - The Text Adventure Game (1984)(Coleco)</name>
+		<md5>a5b0a78d843a556f3a04ff85968f8cc8</md5>
+		<scrap name="ScreenScraper" date="20231018T041048" />
+	</game>
+	<game id="56620">
+		<path>./TOSEC/Games/[DDP]/Addictus (1989)(Reedy Software)/Addictus (1989)(Reedy Software).ddp</path>
+		<name>Addictus</name>
+		<image>./images/Addictus (1989)(Reedy Software)-image.png</image>
+		<video>./videos/Addictus (1989)(Reedy Software)-video.mp4</video>
+		<md5>1a6b8e390a08ac3a0f1d91df7746e0b4</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T041052" />
+	</game>
+	<game id="56621">
+		<path>./TOSEC/Games/[DDP]/Addictus v1.01 (1989)(Reedy Software)/Addictus v1.01 (1989)(Reedy Software).ddp</path>
+		<name>Addictus V1.01</name>
+		<video>./videos/Addictus v1.01 (1989)(Reedy Software)-video.mp4</video>
+		<md5>fab310222044ecead72051a9665e16ff</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T041055" />
+	</game>
+	<game id="56647">
+		<path>./TOSEC/Games/[DDP]/Buck Rogers - Planet of Zoom (1983)(Sega)/Buck Rogers - Planet of Zoom (1983)(Sega).ddp</path>
+		<name>Buck Rogers - Planet Of Zoom</name>
+		<desc>Buck Rogers: Planet of Zoom is a single player science fiction themed obstacle race, where the player controls Buck Rogers' space ship and must guide it through multiple pairs of pylons throughout the game. Controlling the ship involves side scrolling to the left or right, stop, moving forward (and faster), and moving backwards/break (and slower). Additionally, the spaceship can also fire its weapon to unleash a pair of energy bolts.</desc>
+		<image>./images/Buck Rogers - Planet of Zoom (1983)(Sega)-image.png</image>
+		<video>./videos/Buck Rogers - Planet of Zoom (1983)(Sega)-video.mp4</video>
+		<marquee>./images/Buck Rogers - Planet of Zoom (1983)(Sega)-marquee.png</marquee>
+		<fanart>./images/Buck Rogers - Planet of Zoom (1983)(Sega)-fanart.jpg</fanart>
+		<genre>Action</genre>
+		<family>Buck Rogers</family>
+		<players>1</players>
+		<md5>8806fc5189e257f14cf11fd5fa4936b7</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T041102" />
+	</game>
+	<game id="56697">
+		<path>./TOSEC/Games/[DDP]/Donkey Kong Jr Rev 14 (1983)(Coleco - Nintendo)/Donkey Kong Jr Rev 14 (1983)(Coleco - Nintendo).ddp</path>
+		<name>Donkey Kong Jr Rev 14</name>
+		<image>./images/Donkey Kong Jr Rev 14 (1983)(Coleco - Nintendo)-image.jpg</image>
+		<video>./videos/Donkey Kong Jr Rev 14 (1983)(Coleco - Nintendo)-video.mp4</video>
+		<fanart>./images/Donkey Kong Jr Rev 14 (1983)(Coleco - Nintendo)-fanart.jpg</fanart>
+		<family>Donkey Kong</family>
+		<md5>cc6687924b0e33fb394191584f6afd13</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T041108" />
+	</game>
+	<game id="56716">
+		<path>./TOSEC/Games/[DDP]/Flash Facts - Trivia (1984)(Coleco)/Flash Facts - Trivia (1984)(Coleco).ddp</path>
+		<name>Flash Facts - Trivia</name>
+		<image>./images/Flash Facts - Trivia (1984)(Coleco)-image.png</image>
+		<md5>9511ffd350110b3030a470a81d566177</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T041111" />
+	</game>
+	<game id="56717">
+		<path>./TOSEC/Games/[DDP]/Flash Facts - Vocabulator (1984)(Coleco)/Flash Facts - Vocabulator (1984)(Coleco).ddp</path>
+		<name>Flash Facts - Vocabulator</name>
+		<image>./images/Flash Facts - Vocabulator (1984)(Coleco)-image.png</image>
+		<md5>4d32e9ac0a32e0e4268a52156b490e02</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T041114" />
+	</game>
+	<game id="56806">
+		<path>./TOSEC/Games/[DDP]/Subroc (1983)(Sega)/Subroc (1983)(Sega).ddp</path>
+		<name>Subroc</name>
+		<image>./images/Subroc (1983)(Sega)-image.png</image>
+		<md5>59dc470a024ed5e013ddb47d4d7233ad</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T041117" />
+	</game>
+	<game id="56833">
+		<path>./TOSEC/Games/[DDP]/Trolls Tale (19xx)(-)(PD)/Trolls Tale (19xx)(-)(PD).ddp</path>
+		<name>Trolls Tale</name>
+		<image>./images/Trolls Tale (19xx)(-)(PD)-image.png</image>
+		<md5>e36bc3c6874b059512c28e01a6e35c60</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T041119" />
+	</game>
+	<game id="56599">
+		<path>./TOSEC/Games/[DSK]/2010 - The Ultimate Text Adventure (1985)(MGM - United Artists Entertainment)/2010 - The Ultimate Text Adventure (1985)(MGM - United Artists Entertainment).dsk</path>
+		<name>2010 - The Ultimate Text Adventure</name>
+		<desc>2010: The Text Adventure Game is the second game based on the 1984 science fiction film 2010: The Year We Make Contact after the console game 2010: The Graphic Action Game. The player takes the role of a major in the United States Space Corps, a member of the expedition sent to investigate the fate of the Discovery space ship. The problem is that Discovery is close to crashing into Jupiter's moon Io and the player has to travel to it in a Russian exploration vessel called the Leonov. The task up ahead is to board the Discovery and repair it before the gravitational forces of Io pull it away.</desc>
+		<image>./images/2010 - The Ultimate Text Adventure (1985)(MGM - United Artists Entertainment)-image.png</image>
+		<video>./videos/2010 - The Ultimate Text Adventure (1985)(MGM - United Artists Entertainment)-video.mp4</video>
+		<thumbnail>./images/2010 - The Ultimate Text Adventure (1985)(MGM - United Artists Entertainment)-thumb.png</thumbnail>
+		<md5>35ecf782da7e41188603a810d081dee2</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T041125" />
+	</game>
+	<game id="56612">
+		<path>./TOSEC/Games/[DSK]/Adam Links Golf (1986)(Superior Software)/Adam Links Golf (1986)(Superior Software).dsk</path>
+		<name>Adam Links Golf</name>
+		<genre>Sports / Golf</genre>
+		<md5>9748d8a7101f57ebc8f9c4c66444a940</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T041127" />
+	</game>
+	<game id="56620">
+		<path>./TOSEC/Games/[DSK]/Addictus (1989)(Reedy Software)/Addictus (1989)(Reedy Software).dsk</path>
+		<name>Addictus</name>
+		<image>./images/Addictus (1989)(Reedy Software)-image.png</image>
+		<video>./videos/Addictus (1989)(Reedy Software)-video.mp4</video>
+		<md5>2d5db977019eb7ed585f73cca52bfbc5</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T041128" />
+	</game>
+	<game id="56647">
+		<path>./TOSEC/Games/[DSK]/Buck Rogers - Planet of Zoom (1983)(Sega)/Buck Rogers - Planet of Zoom (1983)(Sega).dsk</path>
+		<name>Buck Rogers - Planet Of Zoom</name>
+		<desc>Buck Rogers: Planet of Zoom is a single player science fiction themed obstacle race, where the player controls Buck Rogers' space ship and must guide it through multiple pairs of pylons throughout the game. Controlling the ship involves side scrolling to the left or right, stop, moving forward (and faster), and moving backwards/break (and slower). Additionally, the spaceship can also fire its weapon to unleash a pair of energy bolts.</desc>
+		<image>./images/Buck Rogers - Planet of Zoom (1983)(Sega)-image.png</image>
+		<video>./videos/Buck Rogers - Planet of Zoom (1983)(Sega)-video.mp4</video>
+		<marquee>./images/Buck Rogers - Planet of Zoom (1983)(Sega)-marquee.png</marquee>
+		<fanart>./images/Buck Rogers - Planet of Zoom (1983)(Sega)-fanart.jpg</fanart>
+		<genre>Action</genre>
+		<family>Buck Rogers</family>
+		<players>1</players>
+		<md5>8656ecaeec3e455be0f9aeedba58f384</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T041129" />
+	</game>
+	<game id="56649">
+		<path>./TOSEC/Games/[DSK]/Cabbage Patch Kids - Adventures in the Park (1984)(Coleco)[a][Req 128k]/Cabbage Patch Kids - Adventures in the Park (1984)(Coleco)[a][Req 128k].dsk</path>
+		<name>Cabbage Patch Kids - Adventures In The Park</name>
+		<video>./videos/Cabbage Patch Kids - Adventures in the Park (1984)(Coleco)[a][Req 128k]-video.mp4</video>
+		<md5>2ef8019c6dd76982ad4c4e257e74bf90</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T041132" />
+	</game>
+	<game id="56649">
+		<path>./TOSEC/Games/[DSK]/Cabbage Patch Kids - Adventures in the Park (1984)(Coleco)[Req 128k]/Cabbage Patch Kids - Adventures in the Park (1984)(Coleco)[Req 128k].dsk</path>
+		<name>Cabbage Patch Kids - Adventures In The Park</name>
+		<video>./videos/Cabbage Patch Kids - Adventures in the Park (1984)(Coleco)[Req 128k]-video.mp4</video>
+		<md5>86e157e8163028d5c7ae82a83e1382b4</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T041135" />
+	</game>
+	<game id="56652">
+		<path>./TOSEC/Games/[DSK]/Campaign '84 (1983)(Sunrise Software)/Campaign '84 (1983)(Sunrise Software).dsk</path>
+		<name>Campaign '84</name>
+		<md5>2a2ef243ddcfa5e774540e2097b86da2</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T041136" />
+	</game>
+	<game id="56668">
+		<path>./TOSEC/Games/[DSK]/Chess Champ (1988)(Digital Express)/Chess Champ (1988)(Digital Express).dsk</path>
+		<name>Chess Champ</name>
+		<video>./videos/Chess Champ (1988)(Digital Express)-video.mp4</video>
+		<md5>edd0285edf83282c41a18fa987061fc3</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T041139" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[DSK]/Cross Chase (2020-04-02)(Caruso, Fabrizio)/Cross Chase (2020-04-02)(Caruso, Fabrizio).dsk</path>
+		<name>Cross Chase (2020-04-02)(Caruso, Fabrizio)</name>
+		<md5>d933a5927dbd85d8e7ffc8d427069ce3</md5>
+		<scrap name="ScreenScraper" date="20231018T041140" />
+	</game>
+	<game id="56689">
+		<path>./TOSEC/Games/[DSK]/Dam Busters, The (1984)(Sydney Development)/Dam Busters, The (1984)(Sydney Development).dsk</path>
+		<name>Dam Busters</name>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Sydney Development Corp.</developer>
+		<publisher>Coleco Industries</publisher>
+		<genre>Shooter / 1st person</genre>
+		<md5>c83977a833ba2f3392aa261ad3dc0ba6</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T041142" />
+	</game>
+	<game id="56691">
+		<path>./TOSEC/Games/[DSK]/Diablo (1984)(Image Microcorp - Extended Software)/Diablo (1984)(Image Microcorp - Extended Software).dsk</path>
+		<name>Diablo</name>
+		<image>./images/Diablo (1984)(Image Microcorp - Extended Software)-image.png</image>
+		<video>./videos/Diablo (1984)(Image Microcorp - Extended Software)-video.mp4</video>
+		<md5>09db737594918558d9699f8183689b65</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T041146" />
+	</game>
+	<game id="56696">
+		<path>./TOSEC/Games/[DSK]/Donkey Kong Jr Rev 13 (1983)(Coleco - Nintendo)/Donkey Kong Jr Rev 13 (1983)(Coleco - Nintendo).dsk</path>
+		<name>Donkey Kong Jr Rev 13</name>
+		<image>./images/Donkey Kong Jr Rev 13 (1983)(Coleco - Nintendo)-image.png</image>
+		<video>./videos/Donkey Kong Jr Rev 13 (1983)(Coleco - Nintendo)-video.mp4</video>
+		<family>Donkey Kong</family>
+		<md5>ff9269ff8dec7e039b35d296dcb186b4</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T041150" />
+	</game>
+	<game id="56698">
+		<path>./TOSEC/Games/[DSK]/Dragon's Lair (1983)(Magicom)/Dragon's Lair (1983)(Magicom).dsk</path>
+		<name>Dragon's Lair</name>
+		<image>./images/Dragon's Lair (1983)(Magicom)-image.png</image>
+		<video>./videos/Dragon's Lair (1983)(Magicom)-video.mp4</video>
+		<marquee>./images/Dragon's Lair (1983)(Magicom)-marquee.png</marquee>
+		<family>Dragon's Lair</family>
+		<md5>0386ab884a7909f504df4ee502b816d7</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T041154" />
+	</game>
+	<game id="56705">
+		<path>./TOSEC/Games/[DSK]/Evolution (1983)(Sydney Development)/Evolution (1983)(Sydney Development).dsk</path>
+		<name>Evolution</name>
+		<image>./images/Evolution (1983)(Sydney Development)-image.png</image>
+		<video>./videos/Evolution (1983)(Sydney Development)-video.mp4</video>
+		<md5>c4f0f9addb9af97b6a14c63bdbd0a357</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T041158" />
+	</game>
+	<game id="56705">
+		<path>./TOSEC/Games/[DSK]/Evolution (1983)(Sydney Development)[b]/Evolution (1983)(Sydney Development)[b].dsk</path>
+		<name>Evolution</name>
+		<image>./images/Evolution (1983)(Sydney Development)[b]-image.png</image>
+		<video>./videos/Evolution (1983)(Sydney Development)[b]-video.mp4</video>
+		<md5>39c22243553772bd1d33a0e9dc7bd944</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T041202" />
+	</game>
+	<game id="56707">
+		<path>./TOSEC/Games/[DSK]/Family Feud - Questions Pack (1986)(The Family Company)/Family Feud - Questions Pack (1986)(The Family Company).dsk</path>
+		<name>Family Feud - Questions Pack</name>
+		<family>Family Feud</family>
+		<md5>0d35b29edcac906304c47186672c8b58</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T041203" />
+	</game>
+	<game id="56707">
+		<path>./TOSEC/Games/[DSK]/Family Feud - Questions Pack (1986)(The Family Company)[a]/Family Feud - Questions Pack (1986)(The Family Company)[a].dsk</path>
+		<name>Family Feud - Questions Pack</name>
+		<family>Family Feud</family>
+		<md5>4b128b0544b232483934f1cd3ebd0af3</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T041204" />
+	</game>
+	<game id="56708">
+		<path>./TOSEC/Games/[DSK]/Family Feud - Writer (1986)(Walters Software)[b]/Family Feud - Writer (1986)(Walters Software)[b].dsk</path>
+		<name>Family Feud - Writer</name>
+		<family>Family Feud</family>
+		<md5>c4b907b67017c8636dae719a158390d5</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T041205" />
+	</game>
+	<game id="56737">
+		<path>./TOSEC/Games/[DSK]/Jeopardy (19xx)(-)(proto)/Jeopardy (19xx)(-)(proto).dsk</path>
+		<name>Jeopardy</name>
+		<image>./images/Jeopardy (19xx)(-)(proto)-image.png</image>
+		<family>Jeopardy</family>
+		<md5>a5c84609a14390f425281acc8f659469</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T041208" />
+	</game>
+	<game id="56737">
+		<path>./TOSEC/Games/[DSK]/Jeopardy (19xx)(-)(proto)[a]/Jeopardy (19xx)(-)(proto)[a].dsk</path>
+		<name>Jeopardy</name>
+		<image>./images/Jeopardy (19xx)(-)(proto)[a]-image.png</image>
+		<family>Jeopardy</family>
+		<md5>e189a6d17aecdc9c009ead63b0a31f64</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T041210" />
+	</game>
+	<game id="56760">
+		<path>./TOSEC/Games/[DSK]/Modem Chess (1993)(Bonafide Software)/Modem Chess (1993)(Bonafide Software).dsk</path>
+		<name>Modem Chess</name>
+		<md5>e7676fac8fa479190303d84cb70da74c</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T041211" />
+	</game>
+	<game id="56773">
+		<path>./TOSEC/Games/[DSK]/Phrase Craze (1988)(Reedy Software)/Phrase Craze (1988)(Reedy Software).dsk</path>
+		<name>Phrase Craze</name>
+		<md5>7134d1827ed50bc0404cb76a71a1546c</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T041213" />
+	</game>
+	<game id="56782">
+		<path>./TOSEC/Games/[DSK]/Quatris (1989)(Perkins, Steven B.)[b]/Quatris (1989)(Perkins, Steven B.)[b].dsk</path>
+		<name>Quatris</name>
+		<md5>4d0fa9c9f7e389a78cc6d7ca58b4b803</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T041214" />
+	</game>
+	<game id="56807">
+		<path>./TOSEC/Games/[DSK]/Super Cosmo Fighter (1997)(Kogel, Marcel de)(PD)/Super Cosmo Fighter (1997)(Kogel, Marcel de)(PD).dsk</path>
+		<name>Super Cosmo Fighter</name>
+		<video>./videos/Super Cosmo Fighter (1997)(Kogel, Marcel de)(PD)-video.mp4</video>
+		<md5>8def9d94a97ceaaaff45270d46cdf4bb</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231018T041216" />
+	</game>
+	<game id="56808">
+		<path>./TOSEC/Games/[DSK]/Super Subroc (1984)(Sega - Coleco)/Super Subroc (1984)(Sega - Coleco).dsk</path>
+		<name>Super Subroc</name>
+		<video>./videos/Super Subroc (1984)(Sega - Coleco)-video.mp4</video>
+		<md5>bcb153af0736fa7aacd985489b36e6e6</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T041219" />
+	</game>
+	<game id="56809">
+		<path>./TOSEC/Games/[DSK]/Super Zaxxon (1984)(Sega - Coleco)/Super Zaxxon (1984)(Sega - Coleco).dsk</path>
+		<name>Zaxxon Super Game</name>
+		<image>./images/Super Zaxxon (1984)(Sega - Coleco)-image.png</image>
+		<marquee>./images/Super Zaxxon (1984)(Sega - Coleco)-marquee.png</marquee>
+		<family>Zaxxon</family>
+		<md5>41ac8d1c9d00f8171565718f797836a9</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T041223" />
+	</game>
+	<game id="56827">
+		<path>./TOSEC/Games/[DSK]/Temple of Apshai (1985)(Epyx)[h]/Temple of Apshai (1985)(Epyx)[h].dsk</path>
+		<name>Temple Of Apshai</name>
+		<image>./images/Temple of Apshai (1985)(Epyx)[h]-image.jpg</image>
+		<md5>94f4b5e17f7a9b68ed842e83a75787cf</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T041226" />
+	</game>
+	<game id="56833">
+		<path>./TOSEC/Games/[DSK]/Trolls Tale (19xx)(-)(PD)[b]/Trolls Tale (19xx)(-)(PD)[b].dsk</path>
+		<name>Trolls Tale</name>
+		<image>./images/Trolls Tale (19xx)(-)(PD)[b]-image.png</image>
+		<md5>a58f1bd1b616b30709e35eb74c99611b</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T041228" />
+	</game>
+	<game id="56686">
+		<path>./TOSEC/Operating Systems/[DSK]/CP-M 2.2 v1.50 (1984)(Digital Research - Coleco)/CP-M 2.2 v1.50 (1984)(Digital Research - Coleco).dsk</path>
+		<name>Cp-m 2.2 V1.50</name>
+		<md5>f3a9da6675079990dbcb5a5ca6d11c42</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T041229" />
+	</game>
+	<game id="56686">
+		<path>./TOSEC/Operating Systems/[DSK]/CP-M 2.2 v1.50 (1984)(Digital Research - Coleco)[a]/CP-M 2.2 v1.50 (1984)(Digital Research - Coleco)[a].dsk</path>
+		<name>Cp-m 2.2 V1.50</name>
+		<md5>7e07c7033ec3fc34f473e43beeec9498</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T041230" />
+	</game>
+	<game id="56816">
+		<path>./TOSEC/Operating Systems/[DSK]/TDOS CPM 2.2 System (19xx)(-)[720k Disk]/TDOS CPM 2.2 System (19xx)(-)[720k Disk].dsk</path>
+		<name>Tdos Cpm 2.2 System</name>
+		<md5>581d36f4f2482b102e9323bb954f927e</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T041232" />
+	</game>
+	<game id="56817">
+		<path>./TOSEC/Operating Systems/[DSK]/TDOS v4.5 (19xx)(-)/TDOS v4.5 (19xx)(-).dsk</path>
+		<name>Tdos V4.5</name>
+		<md5>e5eef9cee826992eb8ed1277fd29fdb5</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T041233" />
+	</game>
+	<game id="56818">
+		<path>./TOSEC/Operating Systems/[DSK]/TDOS v4.5 Docs (19xx)(-)/TDOS v4.5 Docs (19xx)(-).dsk</path>
+		<name>Tdos V4.5 Docs</name>
+		<md5>648aa95007c8ef0a96269cfd826c685f</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T041234" />
+	</game>
+	<game id="56819">
+		<path>./TOSEC/Operating Systems/[DSK]/TDOS v4.58 (19xx)(-)/TDOS v4.58 (19xx)(-).dsk</path>
+		<name>Tdos V4.58</name>
+		<md5>95960fc3c1fe79f56fca5c7eb779e323</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T041235" />
+	</game>
+</gameList>

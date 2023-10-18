@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./TOSEC/Games/[SMC]/Dynamate v2.0 (2003-03-25)(Flavor)(FW)/Dynamate v2.0 (2003-03-25)(Flavor)(FW).smc</path>
+		<name>Dynamate v2.0 (2003-03-25)(Flavor)(FW)</name>
+		<md5>bcd511294c3313e65ace796731eaab93</md5>
+		<scrap name="ScreenScraper" date="20231018T041236" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[SMC]/Funny Soccer 2002 (2002)(Gamepark)/Funny Soccer 2002 (2002)(Gamepark).smc</path>
+		<name>Funny Soccer 2002 (2002)(Gamepark)</name>
+		<md5>96146e854e70de8d9140c8ff3f8fb84a</md5>
+		<scrap name="ScreenScraper" date="20231018T041238" />
+	</game>
+</gameList>

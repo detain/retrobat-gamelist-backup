@@ -1,0 +1,261 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./TOSEC/Applications/MSX View (19xx)(-)[b]/MSX View (19xx)(-)[b].dsk</path>
+		<name>MSX View (19xx)(-)[b]</name>
+		<md5>4e50b6d68b1c0b9b44c843be5c41e47b</md5>
+		<scrap name="ScreenScraper" date="20231018T041239" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/MSX Windows 2000 (2000)(CyberSoft)[f Valerio][mouse]/MSX Windows 2000 (2000)(CyberSoft)[f Valerio][mouse].dsk</path>
+		<name>MSX Windows 2000 (2000)(CyberSoft)[f Valerio][mouse]</name>
+		<md5>3c0734a6f3afec4a223e736a5ab7a65b</md5>
+		<scrap name="ScreenScraper" date="20231018T041240" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/MSX Windows 2000 Installer (2000)(CyberSoft)[f Valerio][mouse]/MSX Windows 2000 Installer (2000)(CyberSoft)[f Valerio][mouse].dsk</path>
+		<name>MSX Windows 2000 Installer (2000)(CyberSoft)[f Valerio][mouse]</name>
+		<md5>9e5e8c8bbf3b20e652ab1371f6261b2e</md5>
+		<scrap name="ScreenScraper" date="20231018T041242" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/MSX Windows 98 v1.1e (1989)(CyberSoft)[f Valerio][mouse][needs MSX-DOS 2]/MSX Windows 98 v1.1e (1989)(CyberSoft)[f Valerio][mouse][needs MSX-DOS 2].dsk</path>
+		<name>MSX Windows 98 v1.1e (1989)(CyberSoft)[f Valerio][mouse][needs MSX-DOS 2]</name>
+		<md5>ea549d34e12dba939c12776c8afc7dce</md5>
+		<scrap name="ScreenScraper" date="20231018T041243" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/MSX Windows 98 v1.1e Installer (1989)(CyberSoft)[mouse][needs MSX-DOS 2]/MSX Windows 98 v1.1e Installer (1989)(CyberSoft)[mouse][needs MSX-DOS 2].dsk</path>
+		<name>MSX Windows 98 v1.1e Installer (1989)(CyberSoft)[mouse][needs MSX-DOS 2]</name>
+		<md5>3cdaf9aebee6139f6606026726a32e8b</md5>
+		<scrap name="ScreenScraper" date="20231018T041244" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/PCM Player, The (19xx)(-)[b]/PCM Player, The (19xx)(-)[b].dsk</path>
+		<name>PCM Player, The (19xx)(-)[b]</name>
+		<md5>5810f5ddf73cacbfbcb0db3821620ff2</md5>
+		<scrap name="ScreenScraper" date="20231018T041246" />
+	</game>
+	<game>
+		<path>./TOSEC/Firmware/FM BIOS ROM Extension v1.3 1988-04-26 for Turbo-R GT (1988)(-)[FMBIOS.ROM]/FM BIOS ROM Extension v1.3 1988-04-26 for Turbo-R GT (1988)(-)[FMBIOS.ROM].rom</path>
+		<name>FM BIOS ROM Extension v1.3 1988-04-26 for Turbo-R GT (1988)(-)[FMBIOS.ROM]</name>
+		<md5>c688a229f834f95f8c64df7d33188cd8</md5>
+		<scrap name="ScreenScraper" date="20231018T041247" />
+	</game>
+	<game>
+		<path>./TOSEC/Firmware/FM BIOS ROM Extension v1.3 1988-04-26 for Turbo-R ST (1988)(-)[FMBIOS.ROM]/FM BIOS ROM Extension v1.3 1988-04-26 for Turbo-R ST (1988)(-)[FMBIOS.ROM].rom</path>
+		<name>FM BIOS ROM Extension v1.3 1988-04-26 for Turbo-R ST (1988)(-)[FMBIOS.ROM]</name>
+		<md5>1a7cc841edb74021dee4a7365d92adcf</md5>
+		<scrap name="ScreenScraper" date="20231018T041248" />
+	</game>
+	<game>
+		<path>./TOSEC/Firmware/Kanji Driver for TurboR (19xx)(-)[TRKANJI.ROM]/Kanji Driver for TurboR (19xx)(-)[TRKANJI.ROM].rom</path>
+		<name>Kanji Driver for TurboR (19xx)(-)[TRKANJI.ROM]</name>
+		<md5>6d1d2cd5c44cd0d428c6b30b5f92367a</md5>
+		<scrap name="ScreenScraper" date="20231018T041250" />
+	</game>
+	<game>
+		<path>./TOSEC/Firmware/MSX System v4.0 + MSX BASIC (1990)(Microsoft)(US)(TURBO-R ST)[MSXTR.ROM]/MSX System v4.0 + MSX BASIC (1990)(Microsoft)(US)(TURBO-R ST)[MSXTR.ROM].rom</path>
+		<name>MSX System v4.0 + MSX BASIC (1990)(Microsoft)(US)(TURBO-R ST)[MSXTR.ROM]</name>
+		<md5>2b0ccbf1c380b56f8a11eb8931116d6b</md5>
+		<scrap name="ScreenScraper" date="20231018T041251" />
+	</game>
+	<game>
+		<path>./TOSEC/Firmware/MSX System v4.1 + MSX BASIC (1990)(Microsoft)(TURBO-R GT)(US)[MSXTR.ROM]/MSX System v4.1 + MSX BASIC (1990)(Microsoft)(TURBO-R GT)(US)[MSXTR.ROM].rom</path>
+		<name>MSX System v4.1 + MSX BASIC (1990)(Microsoft)(TURBO-R GT)(US)[MSXTR.ROM]</name>
+		<md5>fd9513736823e470965949f2a3ec6a43</md5>
+		<scrap name="ScreenScraper" date="20231018T041252" />
+	</game>
+	<game>
+		<path>./TOSEC/Firmware/MSX-DOS v2.2 (1984)(Microsoft)(US)(Disk 8 of 8)[7]/MSX-DOS v2.2 (1984)(Microsoft)(US)(Disk 8 of 8)[7].rom</path>
+		<name>MSX-DOS v2.2 (1984)(Microsoft)(US)(Disk 8 of 8)[7]</name>
+		<md5>4b99aadc66ac9d5ffd1899adebfef779</md5>
+		<scrap name="ScreenScraper" date="20231018T041253" />
+	</game>
+	<game>
+		<path>./TOSEC/Firmware/MSXTR GT System Extension (19xx)(-)[MSXTREXT.ROM]/MSXTR GT System Extension (19xx)(-)[MSXTREXT.ROM].rom</path>
+		<name>MSXTR GT System Extension (19xx)(-)[MSXTREXT.ROM]</name>
+		<md5>824b1c4475a3bd3b91c5ae81ea940aa2</md5>
+		<scrap name="ScreenScraper" date="20231018T041255" />
+	</game>
+	<game>
+		<path>./TOSEC/Firmware/MSXTR ST System Extension (19xx)(-)[MSXTREXT.ROM]/MSXTR ST System Extension (19xx)(-)[MSXTREXT.ROM].rom</path>
+		<name>MSXTR ST System Extension (19xx)(-)[MSXTREXT.ROM]</name>
+		<md5>be78c9e80c250297638b203f512c2327</md5>
+		<scrap name="ScreenScraper" date="20231018T041256" />
+	</game>
+	<game>
+		<path>./TOSEC/Firmware/Turbo R GT Full ROM-Image 2 MB (19xx)(-)[GT2MB.ROM]/Turbo R GT Full ROM-Image 2 MB (19xx)(-)[GT2MB.ROM].rom</path>
+		<name>Turbo R GT Full ROM-Image 2 MB (19xx)(-)[GT2MB.ROM]</name>
+		<md5>feeec8f440b13cff45816e506a6a8860</md5>
+		<scrap name="ScreenScraper" date="20231018T041257" />
+	</game>
+	<game id="185952">
+		<path>./TOSEC/Games/Blade (1997)(GW's Workshop)[b]/Blade (1997)(GW's Workshop)[b].dsk</path>
+		<name>Shoulder Blade</name>
+		<image>./images/Blade (1997)(GW's Workshop)[b]-image.png</image>
+		<marquee>./images/Blade (1997)(GW's Workshop)[b]-marquee.png</marquee>
+		<releasedate>19970101T000000</releasedate>
+		<developer>GW's Workshop</developer>
+		<md5>1a0f3a426907430ce59bd928a59300eb</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T041302" />
+	</game>
+	<game id="185953">
+		<path>./TOSEC/Games/Earth (1996)(GW's Workshop)/Earth (1996)(GW's Workshop).dsk</path>
+		<name>Save Your Mother Planet - The Earth</name>
+		<image>./images/Earth (1996)(GW's Workshop)-image.png</image>
+		<video>./videos/Earth (1996)(GW's Workshop)-video.mp4</video>
+		<marquee>./images/Earth (1996)(GW's Workshop)-marquee.png</marquee>
+		<developer>GW's Workshop</developer>
+		<genre>Shooter / 1st person</genre>
+		<md5>6e208d3eddc3852947177462870eea21</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T041308" />
+	</game>
+	<game id="185954">
+		<path>./TOSEC/Games/Earth Attack (19xx)(GW's Workshop)[b]/Earth Attack (19xx)(GW's Workshop)[b].dsk</path>
+		<name>Earth Attack</name>
+		<image>./images/Earth Attack (19xx)(GW's Workshop)[b]-image.png</image>
+		<video>./videos/Earth Attack (19xx)(GW's Workshop)[b]-video.mp4</video>
+		<marquee>./images/Earth Attack (19xx)(GW's Workshop)[b]-marquee.png</marquee>
+		<developer>TheGeps of Phaze101</developer>
+		<genre>Shooter / Space Invaders Like</genre>
+		<players>1</players>
+		<md5>1b6fc5a7d051fd4dc37259d7a5bdb32d</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T041314" />
+	</game>
+	<game id="185955">
+		<path>./TOSEC/Games/Fishing v1.0 (1996-02-26)(GW's Workshop)/Fishing v1.0 (1996-02-26)(GW's Workshop).dsk</path>
+		<name>Fishing</name>
+		<image>./images/Fishing v1.0 (1996-02-26)(GW's Workshop)-image.png</image>
+		<video>./videos/Fishing v1.0 (1996-02-26)(GW's Workshop)-video.mp4</video>
+		<marquee>./images/Fishing v1.0 (1996-02-26)(GW's Workshop)-marquee.png</marquee>
+		<releasedate>19960226T000000</releasedate>
+		<developer>GW's Workshop</developer>
+		<genre>Hunting and Fishing / Fishing</genre>
+		<players>1</players>
+		<md5>4bc68ed0aa287e23a8bca41b948a629b</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T041319" />
+	</game>
+	<game id="185955">
+		<path>./TOSEC/Games/Fishing v1.0 (1996-02-26)(GW's Workshop)[a]/Fishing v1.0 (1996-02-26)(GW's Workshop)[a].dsk</path>
+		<name>Fishing</name>
+		<image>./images/Fishing v1.0 (1996-02-26)(GW's Workshop)[a]-image.png</image>
+		<video>./videos/Fishing v1.0 (1996-02-26)(GW's Workshop)[a]-video.mp4</video>
+		<marquee>./images/Fishing v1.0 (1996-02-26)(GW's Workshop)[a]-marquee.png</marquee>
+		<releasedate>19960226T000000</releasedate>
+		<developer>GW's Workshop</developer>
+		<genre>Hunting and Fishing / Fishing</genre>
+		<players>1</players>
+		<md5>62d5b5498d9dcf2c21f628b2b7423e10</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T041324" />
+	</game>
+	<game id="185940">
+		<path>./TOSEC/Games/Illusion City (1991)(Micro Cabin)(Disk 01 of 13)(Game Disk 1)/Illusion City (1991)(Micro Cabin)(Disk 01 of 13)(Game Disk 1).dsk</path>
+		<name>Illusion City</name>
+		<desc>In the beginning of 21th century a terrible disaster, called "demon-coming crisis", devastated the Asian continent. Hong Kong was most affected by the mysterious demonic attack. Terrible diseases turned the once prosperous city into a pale shadow of itself. But once people came back to see what happened to the isolated city, they saw it was ruled by a new order - a corporation called SIVA. The new order proclaimed New Hong Kong to be an independent state. People's Republic of China and United Kingdom signed an agreement in which they both renounced their claims over the city. 
+
+The player takes on the role of Tianren, a "diver" (demon-hunter) who lives in Hong Kong. His place of birth and the identity of his parents are unknown. Together with a girl named Meihong, he was brought up in the house of a wise Master. Traveling through the huge city, gathering information and fighting demonic forces, Tianren will have to unravel the mystery surrounding the corporation SIVA and the supernatural beings from Chinese myths.
+
+Illusion City is a Japanese-style role-playing game with several distinguishing characteristics. Unlike most games of the genre, it has no overworld, and takes place entirely in a vast city divided into several districts. The player advances the story by exploring the city, talking to non-playable characters, gathering information, receiving missions, and eventually heading into large, complex hostile areas. There are no random battles in the game; all enemies are visibly moving on the field, and many of them can be avoided.
+
+Combat is turn-based, utilizing an "over-the-shoulder" perspective similar to that of Phantasy Star II. Characters join the party as dictated by the plot; an active party includes three combatants. A wide variety of weapon and armor types can be purchased or found in dungeons. Each character has his or her own weapon proficiencies, which can be increased by repeatedly using the same weapon type. Firearms require specific ammunition (e.g. bullets, shotgun cartridges, etc.), which is expended in combat and must be re-stocked. In addition, certain characters can use offensive, supportive, and healing techniques.
+
+The game's visual style aims for realistic presentation of locations and characters, and shares more common traits with contemporary Western visual aesthetics than the traditional Japanese anime art.</desc>
+		<image>./images/Illusion City (1991)(Micro Cabin)(Disk 01 of 13)(Game Disk 1)-image.png</image>
+		<video>./videos/Illusion City (1991)(Micro Cabin)(Disk 01 of 13)(Game Disk 1)-video.mp4</video>
+		<marquee>./images/Illusion City (1991)(Micro Cabin)(Disk 01 of 13)(Game Disk 1)-marquee.png</marquee>
+		<thumbnail>./images/Illusion City (1991)(Micro Cabin)(Disk 01 of 13)(Game Disk 1)-thumb.png</thumbnail>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Microcabin</developer>
+		<publisher>Microcabin</publisher>
+		<genre>Role playing games / Japanese RPG</genre>
+		<players>1</players>
+		<md5>c2116f9acc408285887b80bc17b92976</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T041332" />
+	</game>
+	<game id="185940">
+		<path>./TOSEC/Games/Illusion City (1991)(Micro Cabin)(Disk 02 of 13)(Game Disk 2)/Illusion City (1991)(Micro Cabin)(Disk 02 of 13)(Game Disk 2).dsk</path>
+		<name>Illusion City</name>
+		<desc>In the beginning of 21th century a terrible disaster, called "demon-coming crisis", devastated the Asian continent. Hong Kong was most affected by the mysterious demonic attack. Terrible diseases turned the once prosperous city into a pale shadow of itself. But once people came back to see what happened to the isolated city, they saw it was ruled by a new order - a corporation called SIVA. The new order proclaimed New Hong Kong to be an independent state. People's Republic of China and United Kingdom signed an agreement in which they both renounced their claims over the city. 
+
+The player takes on the role of Tianren, a "diver" (demon-hunter) who lives in Hong Kong. His place of birth and the identity of his parents are unknown. Together with a girl named Meihong, he was brought up in the house of a wise Master. Traveling through the huge city, gathering information and fighting demonic forces, Tianren will have to unravel the mystery surrounding the corporation SIVA and the supernatural beings from Chinese myths.
+
+Illusion City is a Japanese-style role-playing game with several distinguishing characteristics. Unlike most games of the genre, it has no overworld, and takes place entirely in a vast city divided into several districts. The player advances the story by exploring the city, talking to non-playable characters, gathering information, receiving missions, and eventually heading into large, complex hostile areas. There are no random battles in the game; all enemies are visibly moving on the field, and many of them can be avoided.
+
+Combat is turn-based, utilizing an "over-the-shoulder" perspective similar to that of Phantasy Star II. Characters join the party as dictated by the plot; an active party includes three combatants. A wide variety of weapon and armor types can be purchased or found in dungeons. Each character has his or her own weapon proficiencies, which can be increased by repeatedly using the same weapon type. Firearms require specific ammunition (e.g. bullets, shotgun cartridges, etc.), which is expended in combat and must be re-stocked. In addition, certain characters can use offensive, supportive, and healing techniques.
+
+The game's visual style aims for realistic presentation of locations and characters, and shares more common traits with contemporary Western visual aesthetics than the traditional Japanese anime art.</desc>
+		<image>./images/Illusion City (1991)(Micro Cabin)(Disk 02 of 13)(Game Disk 2)-image.png</image>
+		<video>./videos/Illusion City (1991)(Micro Cabin)(Disk 02 of 13)(Game Disk 2)-video.mp4</video>
+		<marquee>./images/Illusion City (1991)(Micro Cabin)(Disk 02 of 13)(Game Disk 2)-marquee.png</marquee>
+		<thumbnail>./images/Illusion City (1991)(Micro Cabin)(Disk 02 of 13)(Game Disk 2)-thumb.png</thumbnail>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Microcabin</developer>
+		<publisher>Microcabin</publisher>
+		<genre>Role playing games / Japanese RPG</genre>
+		<players>1</players>
+		<md5>c1d232868a4a1cbb621763a0a6064be5</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T041340" />
+	</game>
+	<game id="185945">
+		<path>./TOSEC/Games/S.T.G. (1996)(Y. Tomohara)/S.T.G. (1996)(Y. Tomohara).dsk</path>
+		<name>S.t.g.</name>
+		<image>./images/S.T.G. (1996)(Y. Tomohara)-image.png</image>
+		<video>./videos/S.T.G. (1996)(Y. Tomohara)-video.mp4</video>
+		<marquee>./images/S.T.G. (1996)(Y. Tomohara)-marquee.png</marquee>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Y. Tomohara</developer>
+		<genre>Shoot'em up / Horizontal</genre>
+		<players>1</players>
+		<md5>cecb802888d9bccade42248483084b5e</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T041345" />
+	</game>
+	<game id="185946">
+		<path>./TOSEC/Games/S.T.G. Special - Do Don Taku (1998)(Y. Tomohara)/S.T.G. Special - Do Don Taku (1998)(Y. Tomohara).dsk</path>
+		<name>S.t.g. Special - Do Don Taku</name>
+		<image>./images/S.T.G. Special - Do Don Taku (1998)(Y. Tomohara)-image.png</image>
+		<video>./videos/S.T.G. Special - Do Don Taku (1998)(Y. Tomohara)-video.mp4</video>
+		<marquee>./images/S.T.G. Special - Do Don Taku (1998)(Y. Tomohara)-marquee.png</marquee>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Y. Tomohara</developer>
+		<genre>Shoot'em up / Horizontal</genre>
+		<players>1</players>
+		<md5>3e84e1da064509f63a59a7c2e7194d73</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T041351" />
+	</game>
+	<game id="185948">
+		<path>./TOSEC/Games/Shoot That Flying Windows! (1997)(Nyyrikki)[a][mouse]/Shoot That Flying Windows! (1997)(Nyyrikki)[a][mouse].dsk</path>
+		<name>Shoot the Flying Windows</name>
+		<image>./images/Shoot That Flying Windows! (1997)(Nyyrikki)[a][mouse]-image.png</image>
+		<video>./videos/Shoot That Flying Windows! (1997)(Nyyrikki)[a][mouse]-video.mp4</video>
+		<marquee>./images/Shoot That Flying Windows! (1997)(Nyyrikki)[a][mouse]-marquee.png</marquee>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Nyyrikki</developer>
+		<genre>Shooter / 1st person</genre>
+		<md5>da42de23b876f3ceb79ff6bb849a7b1b</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T041356" />
+	</game>
+	<game id="185948">
+		<path>./TOSEC/Games/Shoot That Flying Windows! (1997)(Nyyrikki)[mouse]/Shoot That Flying Windows! (1997)(Nyyrikki)[mouse].dsk</path>
+		<name>Shoot the Flying Windows</name>
+		<image>./images/Shoot That Flying Windows! (1997)(Nyyrikki)[mouse]-image.png</image>
+		<video>./videos/Shoot That Flying Windows! (1997)(Nyyrikki)[mouse]-video.mp4</video>
+		<marquee>./images/Shoot That Flying Windows! (1997)(Nyyrikki)[mouse]-marquee.png</marquee>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Nyyrikki</developer>
+		<genre>Shooter / 1st person</genre>
+		<md5>e7db92998edbc4ad30d32773bc715363</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231018T041402" />
+	</game>
+</gameList>
