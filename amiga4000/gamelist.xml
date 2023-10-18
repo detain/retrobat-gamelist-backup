@@ -322,4 +322,11 @@ The game boasted "incredibly realistic virtual 3D" which meant having to don the
 		<name>War Wizard v1.03 (1993-10-10)(MicroGenesis)(Disk 5 of 5)[cr HCC][HD]</name>
 		<image>./images/War Wizard v1.03 (1993-10-10)(MicroGenesis)(Disk 5 of 5)[cr HCC][HD]-image.png</image>
 	</game>
+	<game>
+		<path>./TOSEC/Games/[ADF]/Time Machine (1990)(Activision)[cr SR][t +2 Valhalla]/Time Machine (1990)(Activision)[cr SR][t +2 Valhalla].adf</path>
+		<name>Time Machine (1990)(Activision)[cr SR][t +2 Valhalla]</name>
+		<image>./images/Time Machine (1990)(Activision)[cr SR][t +2 Valhalla]-image.png</image>
+		<video>./videos/Time Machine (1990)(Activision)[cr SR][t +2 Valhalla]-video.mp4</video>
+		<thumbnail>./images/Time Machine (1990)(Activision)[cr SR][t +2 Valhalla]-thumb.png</thumbnail>
+	</game>
 </gameList>
