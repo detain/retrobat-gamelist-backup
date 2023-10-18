@@ -317,4 +317,9 @@ The game boasted "incredibly realistic virtual 3D" which meant having to don the
 		<video>./videos/Zool (1992)(Gremlin)(Disk 1 of 2)[cr CSL]-video.mp4</video>
 		<thumbnail>./images/Zool (1992)(Gremlin)(Disk 1 of 2)[cr CSL]-thumb.png</thumbnail>
 	</game>
+	<game>
+		<path>./TOSEC/Games/Public Domain/[ADF]/War Wizard v1.03 (1993-10-10)(MicroGenesis)(Disk 5 of 5)[cr HCC][HD]/War Wizard v1.03 (1993-10-10)(MicroGenesis)(Disk 5 of 5)[cr HCC][HD].adf</path>
+		<name>War Wizard v1.03 (1993-10-10)(MicroGenesis)(Disk 5 of 5)[cr HCC][HD]</name>
+		<image>./images/War Wizard v1.03 (1993-10-10)(MicroGenesis)(Disk 5 of 5)[cr HCC][HD]-image.png</image>
+	</game>
 </gameList>
