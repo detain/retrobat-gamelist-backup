@@ -102,6 +102,9 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=3&amp;o
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ArcadeDB" date="20231017T195251" />
+		<fanart>./images/005-fanart.jpg</fanart>
+		<manual>./manuals/005-manual.pdf</manual>
+		<boxback>./images/005-boxback.png</boxback>
 	</game>
 	<game>
 		<path>./ROMs (split)/100lions.zip</path>
@@ -3488,6 +3491,9 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=69620&a
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ArcadeDB" date="20231017T195256" />
+		<fanart>./images/1944u-fanart.jpg</fanart>
+		<manual>./manuals/1944u-manual.pdf</manual>
+		<boxback>./images/1944u-boxback.png</boxback>
 	</game>
 	<game>
 		<path>./ROMs (split)/1945kiii.zip</path>
@@ -4311,6 +4317,9 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=69621&a
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ArcadeDB" date="20231017T195258" />
+		<fanart>./images/19xxu-fanart.jpg</fanart>
+		<manual>./manuals/19xxu-manual.pdf</manual>
+		<boxback>./images/19xxu-boxback.png</boxback>
 	</game>
 	<game>
 		<path>./ROMs (split)/1on1gov.zip</path>
@@ -6000,6 +6009,8 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=103633&
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ArcadeDB" date="20231017T195301" />
+		<thumbnail>./images/386i-thumb.png</thumbnail>
+		<boxback>./images/386i-boxback.png</boxback>
 	</game>
 	<game>
 		<path>./ROMs (split)/386sc.zip</path>
@@ -6819,6 +6830,9 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=15&amp;
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ArcadeDB" date="20231017T195303" />
+		<marquee>./images/3in1semia-marquee.png</marquee>
+		<thumbnail>./images/3in1semia-thumb.png</thumbnail>
+		<boxback>./images/3in1semia-boxback.png</boxback>
 	</game>
 	<game>
 		<path>./ROMs (split)/3kokushi.zip</path>
@@ -8422,6 +8436,8 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=87020&a
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ArcadeDB" date="20231017T195307" />
+		<thumbnail>./images/4enlineb-thumb.png</thumbnail>
+		<boxback>./images/4enlineb-boxback.png</boxback>
 	</game>
 	<game>
 		<path>./ROMs (split)/4enraya.zip</path>
@@ -9897,6 +9913,7 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=21&amp;
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ArcadeDB" date="20231017T195310" />
+		<boxback>./images/600-boxback.png</boxback>
 	</game>
 	<game>
 		<path>./ROMs (split)/600cat.zip</path>

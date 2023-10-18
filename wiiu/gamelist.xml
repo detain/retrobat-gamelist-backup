@@ -7788,6 +7788,7 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=1947&am
 		<md5>83d6d7814445fa4bb59bdae03d90c052</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20230228T221435" />
+		<thumbnail>./images/Main-thumb.png</thumbnail>
 	</game>
 	<game>
 		<path>./Games/Lone Survivor The Director's Cut [000500001018D100]/code/game.rpx</path>
@@ -7801,6 +7802,7 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=1947&am
 		<md5>b91ec2b1b74dcac0389c436399fb1f83</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20230228T221544" />
+		<thumbnail>./images/game-thumb.png</thumbnail>
 	</game>
 	<game>
 		<path>./Games/Nova-111 [00050000101C0A00]/code/game.rpx</path>
@@ -7814,6 +7816,7 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=1947&am
 		<md5>70812fa63fdf7f8b029afe920b73fa6a</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20230228T221721" />
+		<thumbnail>./images/game-thumb.png</thumbnail>
 	</game>
 	<game>
 		<path>./Games/Nova-111 [0005000E101C0A00] [UPDATE v16]/code/game.rpx</path>
@@ -7827,6 +7830,7 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=1947&am
 		<md5>7907ec9293bfad17c0e29481818d1e32</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20230228T221723" />
+		<thumbnail>./images/game-thumb.png</thumbnail>
 	</game>
 	<game>
 		<path>./Games/OlliOlli [00050000101A6900]/code/game.rpx</path>
@@ -7840,6 +7844,7 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=1947&am
 		<md5>cc3759dd91388b9ea57764775dea9f49</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20230228T221727" />
+		<thumbnail>./images/game-thumb.png</thumbnail>
 	</game>
 	<game>
 		<path>./Games/OlliOlli [0005000E101A6900] [UPDATE v17]/code/game.rpx</path>
@@ -7853,6 +7858,7 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=1947&am
 		<md5>6cccdfe629dbcdf13d4b5f370f765126</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20230228T221728" />
+		<thumbnail>./images/game-thumb.png</thumbnail>
 	</game>
 	<game>
 		<path>./Games/Stealth Inc 2 A Game of Clones [0005000010176500]/code/game.rpx</path>
@@ -7866,6 +7872,7 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=1947&am
 		<md5>f7dc0d2e8c7930268b24941a1612cf66</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20230228T222029" />
+		<thumbnail>./images/game-thumb.png</thumbnail>
 	</game>
 	<game>
 		<path>./Games/Stealth Inc 2 A Game of Clones [0005000E10176500] [UPDATE v16]/code/game.rpx</path>
@@ -7879,6 +7886,7 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=1947&am
 		<md5>c2fd7f1079f71642a793ac61716030dd</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20230228T222031" />
+		<thumbnail>./images/game-thumb.png</thumbnail>
 	</game>
 	<game>
 		<path>./Games/The Swapper [000500001018D300]/code/game.rpx</path>
@@ -7892,5 +7900,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=1947&am
 		<md5>2657d7eb178452f19443eedef6a71e19</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20230228T222205" />
+		<thumbnail>./images/game-thumb.png</thumbnail>
 	</game>
 </gameList>

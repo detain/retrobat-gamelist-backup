@@ -138,21 +138,6 @@ Anima: Gate of Memories brings to videogames the world of Gaia from the Anima: B
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20230216T073322" />
 	</game>
-	<game id="197907">
-		<path>./Games/ARK Survival Evolved.xci</path>
-		<name>Ark - Survival Evolved</name>
-		<desc>Stranded on the shores of a mysterious island, you must learn to survive. Use your cunning to kill or tame the primeval creatures roaming the land, and encounter other players to survive, dominate... and escape!</desc>
-		<marquee>./images/ARK Survival Evolved-marquee.png</marquee>
-		<thumbnail>./images/ARK Survival Evolved-thumb.png</thumbnail>
-		<fanart>./images/ARK Survival Evolved-fanart.jpg</fanart>
-		<boxback>./images/ARK Survival Evolved-boxback.png</boxback>
-		<developer>Studio Wildcard</developer>
-		<publisher>Snail Games USA</publisher>
-		<genre>Action</genre>
-		<players>1-8</players>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20230216T073325" />
-	</game>
 	<game id="198449">
 		<path>./Games/Astral Chain (World).xci</path>
 		<name>Astral Chain</name>

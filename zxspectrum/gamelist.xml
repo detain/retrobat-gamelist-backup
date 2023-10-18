@@ -1998,6 +1998,7 @@ There are only 8 distinct levels.  The ninth level is a copy of level 1, the ten
 		<md5>d36597ad87b14b9514aab33de125147e</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231005T071819" />
+		<boxback>./images/Chuckie Designer (1984)(P&amp;M)-boxback.png</boxback>
 	</game>
 	<game>
 		<path>./TOSEC/Applications/[TZX]/Chuckie Egg Editor v2 (1985)(Mercury)/Chuckie Egg Editor v2 (1985)(Mercury).tzx</path>
@@ -4517,6 +4518,7 @@ To make creating games a little easier, GAC includes a quick start file  with ma
 		<md5>df8f949170731bfcc140874233699785</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231005T072701" />
+		<boxback>./images/Graphic Adventure Creator, The (1986)(Incentive)[aka GAC]-boxback.png</boxback>
 	</game>
 	<game id="45135">
 		<path>./TOSEC/Applications/[TZX]/Graphic Adventure Creator, The (1986)(Incentive)[a][aka GAC]/Graphic Adventure Creator, The (1986)(Incentive)[a][aka GAC].tzx</path>
@@ -4541,6 +4543,7 @@ To make creating games a little easier, GAC includes a quick start file  with ma
 		<md5>f60b5f46d1b59f2c0b56ab2b7f54cae4</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231005T072702" />
+		<boxback>./images/Graphic Adventure Creator, The (1986)(Incentive)[a][aka GAC]-boxback.png</boxback>
 	</game>
 	<game>
 		<path>./TOSEC/Applications/[TZX]/Graphic Adventure Creator, The - Extractor (1986)(Incentive)[aka GAC]/Graphic Adventure Creator, The - Extractor (1986)(Incentive)[aka GAC].tzx</path>
@@ -5639,6 +5642,7 @@ To make creating games a little easier, GAC includes a quick start file  with ma
 		<md5>271263f65435a5834706043e47ddf23a</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231005T073044" />
+		<boxback>./images/Invincible Island hints (1983)(Richard Shepherd)-boxback.png</boxback>
 	</game>
 	<game>
 		<path>./TOSEC/Applications/[TZX]/Invoicing (1983)(Transform)/Invoicing (1983)(Transform).tzx</path>
@@ -5725,6 +5729,7 @@ To make creating games a little easier, GAC includes a quick start file  with ma
 		<md5>68bb9f60f718fed7a498c8cf07e3c668</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231005T073100" />
+		<boxback>./images/Jet Set Willy Editor (1985)(Spectrum Computing)-boxback.png</boxback>
 	</game>
 	<game id="137894">
 		<path>./TOSEC/Applications/[TZX]/Jet Set Willy Editor Mk2 (1984)(Softricks)/Jet Set Willy Editor Mk2 (1984)(Softricks).tzx</path>
@@ -5736,6 +5741,7 @@ To make creating games a little easier, GAC includes a quick start file  with ma
 		<md5>dbda68dcbcd0500298d2fde0f1173ba7</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231005T073101" />
+		<boxback>./images/Jet Set Willy Editor Mk2 (1984)(Softricks)-boxback.png</boxback>
 	</game>
 	<game id="137894">
 		<path>./TOSEC/Applications/[TZX]/Jet Set Willy Editor Mk2 (1984)(Softricks)(Side A)/Jet Set Willy Editor Mk2 (1984)(Softricks)(Side A).tzx</path>
@@ -5849,6 +5855,7 @@ To make creating games a little easier, GAC includes a quick start file  with ma
 		<md5>580b003fe1a980d7c97d54c1576a7026</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231005T073122" />
+		<boxback>./images/JetSet Willy Editor v2 (1984)(Spectrum Electronics)[aka JetSet Editor]-boxback.png</boxback>
 	</game>
 	<game>
 		<path>./TOSEC/Applications/[TZX]/Jogger's Log (1984)(Earlgate Computers)/Jogger's Log (1984)(Earlgate Computers).tzx</path>
@@ -6867,6 +6874,7 @@ You are the Commander of the only SDS (Space Defence Squad) cruise force capable
 		<md5>d85867790130a6f0fcefc108933e2afb</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231005T073441" />
+		<boxback>./images/Manic Miner Screen Editor (1998)(Broadsoft)(128K)-boxback.png</boxback>
 	</game>
 	<game id="45414">
 		<path>./TOSEC/Applications/[TZX]/Manic Miner Screen Editor (1998)(Broadsoft)(128K)[a]/Manic Miner Screen Editor (1998)(Broadsoft)(128K)[a].tzx</path>
@@ -12876,6 +12884,7 @@ Rescue on Fractalus is a good guide to what to expect - the action is first-pers
 		<md5>1b5cbdb7af4babb048bb5cbcacec10b7</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231005T075312" />
+		<boxback>./images/Turf-Form (1988)(Blue Ribbon)-boxback.png</boxback>
 	</game>
 	<game>
 		<path>./TOSEC/Applications/[TZX]/Turning Moment Caculator (19xx)(Mitchell)(16K)/Turning Moment Caculator (19xx)(Mitchell)(16K).tzx</path>
@@ -13416,6 +13425,7 @@ Easy and fun to use, Wham! The Music Box proves that there's REAL MUSIC hidden i
 		<md5>c82ec1f7b006d47b27a0338eb19f4838</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231005T075449" />
+		<boxback>./images/Wham! The Music Box (1985)(Melbourne House)-boxback.png</boxback>
 	</game>
 	<game id="186754">
 		<path>./TOSEC/Applications/[TZX]/Wham! The Music Box (1985)(Melbourne House)[a]/Wham! The Music Box (1985)(Melbourne House)[a].tzx</path>
@@ -13436,6 +13446,7 @@ Easy and fun to use, Wham! The Music Box proves that there's REAL MUSIC hidden i
 		<md5>cd679a644ccc6c46cdb63ee6b5ff3fc6</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231005T075450" />
+		<boxback>./images/Wham! The Music Box (1985)(Melbourne House)[a]-boxback.png</boxback>
 	</game>
 	<game>
 		<path>./TOSEC/Applications/[TZX]/Which Taxcalc 1983-84 (1984)(Sinclair Research)[aka Which Tax Calculator 1983-84, The]/Which Taxcalc 1983-84 (1984)(Sinclair Research)[aka Which Tax Calculator 1983-84, The].tzx</path>
@@ -13976,11 +13987,16 @@ A simple BASIC-style language is integrated to allow puzzles and conditions (ope
 		<path>./TOSEC/Applications/[SCL]/3D Construction Kit (1991)(Domark)(48K-128K)[h]/3D Construction Kit (1991)(Domark)(48K-128K)[h].scl</path>
 		<name>3D Construction Kit (1991)(Domark)(48K-128K)[h]</name>
 		<md5>21960fe4d2765de04e1062248ac13795</md5>
+		<image>./images/3D Construction Kit (1991)(Domark)(48K-128K)[h]-image.png</image>
+		<marquee>./images/3D Construction Kit (1991)(Domark)(48K-128K)[h]-marquee.png</marquee>
+		<thumbnail>./images/3D Construction Kit (1991)(Domark)(48K-128K)[h]-thumb.png</thumbnail>
+		<fanart>./images/3D Construction Kit (1991)(Domark)(48K-128K)[h]-fanart.jpg</fanart>
 	</game>
 	<game>
 		<path>./TOSEC/Games/[Z80]/Diablo! (1988)(Nebula Designs)(48K-128K)(Part 3 of 3)[a]/Diablo! (1988)(Nebula Designs)(48K-128K)(Part 3 of 3)[a].z80</path>
 		<name>Diablo! (1988)(Nebula Designs)(48K-128K)(Part 3 of 3)[a]</name>
 		<image>./images/Diablo! (1988)(Nebula Designs)(48K-128K)(Part 3 of 3)[a]-image.png</image>
+		<marquee>./images/Diablo! (1988)(Nebula Designs)(48K-128K)(Part 3 of 3)[a]-marquee.png</marquee>
 	</game>
 	<game>
 		<path>./TOSEC/Games/[TZX]/Sorderon's Shadow - The Legend of Elindor (1985)(Beyond)[a2]/Sorderon's Shadow - The Legend of Elindor (1985)(Beyond)[a2].tzx</path>
@@ -13988,5 +14004,6 @@ A simple BASIC-style language is integrated to allow puzzles and conditions (ope
 		<image>./images/Sorderon's Shadow - The Legend of Elindor (1985)(Beyond)[a2]-image.png</image>
 		<video>./videos/Sorderon's Shadow - The Legend of Elindor (1985)(Beyond)[a2]-video.mp4</video>
 		<thumbnail>./images/Sorderon's Shadow - The Legend of Elindor (1985)(Beyond)[a2]-thumb.png</thumbnail>
+		<boxback>./images/Sorderon's Shadow - The Legend of Elindor (1985)(Beyond)[a2]-boxback.png</boxback>
 	</game>
 </gameList>

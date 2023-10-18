@@ -1057,6 +1057,10 @@ Using DS Wireless Play, you can take on a friend within range of your system for
 		<crc32>994EAA45</crc32>
 		<md5>2bb38ddd1c1e3c75375ea8118afe48f4</md5>
 		<scrap name="ScreenScraper" date="20230223T072549" />
+		<image>./images/Fossil Fighters - Gift Fossil - Air (USA) (Save Data)-image.png</image>
+		<video>./videos/Fossil Fighters - Gift Fossil - Air (USA) (Save Data)-video.mp4</video>
+		<marquee>./images/Fossil Fighters - Gift Fossil - Air (USA) (Save Data)-marquee.png</marquee>
+		<thumbnail>./images/Fossil Fighters - Gift Fossil - Air (USA) (Save Data)-thumb.png</thumbnail>
 	</game>
 	<game id="255347">
 		<path>./No-Intro/Fossil Fighters - Gift Fossil - Earth (USA) (Save Data).nds</path>
@@ -1066,6 +1070,10 @@ Using DS Wireless Play, you can take on a friend within range of your system for
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230223T072551" />
+		<image>./images/Fossil Fighters - Gift Fossil - Earth (USA) (Save Data)-image.png</image>
+		<video>./videos/Fossil Fighters - Gift Fossil - Earth (USA) (Save Data)-video.mp4</video>
+		<marquee>./images/Fossil Fighters - Gift Fossil - Earth (USA) (Save Data)-marquee.png</marquee>
+		<thumbnail>./images/Fossil Fighters - Gift Fossil - Earth (USA) (Save Data)-thumb.png</thumbnail>
 	</game>
 	<game id="255332">
 		<path>./No-Intro/Fossil Fighters - Gift Fossil - Fire (USA) (Save Data).nds</path>
@@ -1075,6 +1083,10 @@ Using DS Wireless Play, you can take on a friend within range of your system for
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230223T072553" />
+		<image>./images/Fossil Fighters - Gift Fossil - Fire (USA) (Save Data)-image.png</image>
+		<video>./videos/Fossil Fighters - Gift Fossil - Fire (USA) (Save Data)-video.mp4</video>
+		<marquee>./images/Fossil Fighters - Gift Fossil - Fire (USA) (Save Data)-marquee.png</marquee>
+		<thumbnail>./images/Fossil Fighters - Gift Fossil - Fire (USA) (Save Data)-thumb.png</thumbnail>
 	</game>
 	<game>
 		<path>./No-Intro/Fossil Fighters - Gift Fossil - Neutral (USA) (Save Data).nds</path>
@@ -1082,6 +1094,10 @@ Using DS Wireless Play, you can take on a friend within range of your system for
 		<crc32>009F5C7D</crc32>
 		<md5>b33444b017d930e664c29123e12d5c37</md5>
 		<scrap name="ScreenScraper" date="20230223T072555" />
+		<image>./images/Fossil Fighters - Gift Fossil - Neutral (USA) (Save Data)-image.png</image>
+		<video>./videos/Fossil Fighters - Gift Fossil - Neutral (USA) (Save Data)-video.mp4</video>
+		<marquee>./images/Fossil Fighters - Gift Fossil - Neutral (USA) (Save Data)-marquee.png</marquee>
+		<thumbnail>./images/Fossil Fighters - Gift Fossil - Neutral (USA) (Save Data)-thumb.png</thumbnail>
 	</game>
 	<game>
 		<path>./No-Intro/Fossil Fighters - Gift Fossil - Water (USA) (Save Data).nds</path>
@@ -1089,6 +1105,10 @@ Using DS Wireless Play, you can take on a friend within range of your system for
 		<crc32>A83E7AB4</crc32>
 		<md5>5ba9cb922b630aba46f95c5f1d9077af</md5>
 		<scrap name="ScreenScraper" date="20230223T072556" />
+		<image>./images/Fossil Fighters - Gift Fossil - Water (USA) (Save Data)-image.png</image>
+		<video>./videos/Fossil Fighters - Gift Fossil - Water (USA) (Save Data)-video.mp4</video>
+		<marquee>./images/Fossil Fighters - Gift Fossil - Water (USA) (Save Data)-marquee.png</marquee>
+		<thumbnail>./images/Fossil Fighters - Gift Fossil - Water (USA) (Save Data)-thumb.png</thumbnail>
 	</game>
 	<game>
 		<path>./No-Intro/Fossil Fighters Champions - Demo Version (USA) (Demo).nds</path>
@@ -6569,6 +6589,7 @@ Features
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230301T215619" />
 		<scrap name="ArcadeDB" date="20221212T154413" />
+		<fanart>./images/Bakugan - Battle Brawlers (USA) (Demo) (Nintendo Channel)-fanart.jpg</fanart>
 	</game>
 	<game id="85276">
 		<path>./No-Intro/Brain Age - Train Your Brain in Minutes a Day! (USA) (Demo) (DS Broadcast).nds</path>
@@ -8153,6 +8174,7 @@ Features
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T070929" />
+		<boxback>./images/Bakugan - Battle Brawlers (USA) (Demo) (Nintendo Channel)-boxback.png</boxback>
 	</game>
 	<game id="7905">
 		<path>./No-Intro/Battle of Giants - Dragons (USA) (En,Fr,Es) (Rev 2) (Demo).bin</path>
@@ -8171,6 +8193,7 @@ Features
 		<lang>en,es,fr</lang>
 		<region>eu</region>
 		<scrap name="ScreenScraper" date="20231005T070930" />
+		<boxback>./images/Battle of Giants - Dragons (USA) (En,Fr,Es) (Rev 2) (Demo)-boxback.png</boxback>
 	</game>
 	<game id="151393">
 		<path>./No-Intro/Battle of Giants - Mutant Insects (USA) (En,Fr,Es) (Demo).bin</path>
@@ -8184,6 +8207,7 @@ Features
 		<lang>en,es,fr</lang>
 		<region>eu</region>
 		<scrap name="ScreenScraper" date="20231005T070931" />
+		<boxback>./images/Battle of Giants - Mutant Insects (USA) (En,Fr,Es) (Demo)-boxback.png</boxback>
 	</game>
 	<game>
 		<path>./No-Intro/Cooking Mama 3 - Shop &amp; Chop - Let's Make Marshmallows (USA) (Rev 1) (Demo) (Nintendo Channel).bin</path>
@@ -8239,6 +8263,7 @@ Features
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T070939" />
+		<boxback>./images/Dragon Ball - Origins 2 (USA) (Demo)-boxback.png</boxback>
 	</game>
 	<game>
 		<path>./No-Intro/Flash Focus - Vision Training in Minutes a Day - Quick Play (USA) (Demo).bin</path>
@@ -8362,6 +8387,7 @@ Features
 		<lang>en,es,fr</lang>
 		<region>eu</region>
 		<scrap name="ScreenScraper" date="20231005T071007" />
+		<boxback>./images/Imagine - Teacher - Class Trip (USA) (En,Fr,Es) (Demo)-boxback.png</boxback>
 	</game>
 	<game id="6421">
 		<path>./No-Intro/Ivy the Kiwi (USA) (Rev 1) (Demo).bin</path>
@@ -8381,6 +8407,7 @@ Features
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T071008" />
+		<boxback>./images/Ivy the Kiwi (USA) (Rev 1) (Demo)-boxback.png</boxback>
 	</game>
 	<game id="6000">
 		<path>./No-Intro/James Cameron's Avatar - The Game (USA) (En,Fr,Es) (Rev 1) (Demo).bin</path>
@@ -8400,6 +8427,7 @@ Features
 		<lang>en,es,fr</lang>
 		<region>eu</region>
 		<scrap name="ScreenScraper" date="20231005T071009" />
+		<boxback>./images/James Cameron's Avatar - The Game (USA) (En,Fr,Es) (Rev 1) (Demo)-boxback.png</boxback>
 	</game>
 	<game id="6810">
 		<path>./No-Intro/James Patterson Women's Murder Club - Games of Passion (USA) (Rev 7) (Demo).bin</path>
@@ -8422,6 +8450,7 @@ A series of seemingly unrelated deaths are taking place in San Francisco. Some l
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T071010" />
+		<boxback>./images/James Patterson Women's Murder Club - Games of Passion (USA) (Rev 7) (Demo)-boxback.png</boxback>
 	</game>
 	<game id="5937">
 		<path>./No-Intro/Kirby Mass Attack (USA) (Demo).bin</path>
@@ -8443,6 +8472,7 @@ A series of seemingly unrelated deaths are taking place in San Francisco. Some l
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T071011" />
+		<boxback>./images/Kirby Mass Attack (USA) (Demo)-boxback.png</boxback>
 	</game>
 	<game id="7000">
 		<path>./No-Intro/Madagascar Kartz (USA) (Rev 1) (Demo).bin</path>
@@ -8466,6 +8496,7 @@ Playable characters include Alex the Lion, Marty the Zebra, Melman the Giraffe, 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T071012" />
+		<boxback>./images/Madagascar Kartz (USA) (Rev 1) (Demo)-boxback.png</boxback>
 	</game>
 	<game>
 		<path>./No-Intro/Mario &amp; Sonic at the Olympic Winter Games - Alpine Skiing GS (USA) (Demo).bin</path>
@@ -8497,6 +8528,7 @@ Playable characters include Alex the Lion, Marty the Zebra, Melman the Giraffe, 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T071016" />
+		<boxback>./images/Naruto Shippuden - Ninja Destiny 2 (USA) (Rev 1) (Demo)-boxback.png</boxback>
 	</game>
 	<game>
 		<path>./No-Intro/Okamiden - Trial Version (USA) (Rev 2) (Demo) (Nintendo Channel).bin</path>
@@ -8531,6 +8563,7 @@ Playable characters include Alex the Lion, Marty the Zebra, Melman the Giraffe, 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T071023" />
+		<boxback>./images/Personal Trainer - Math (USA) (Demo) (Nintendo Channel)-boxback.png</boxback>
 	</game>
 	<game id="6134">
 		<path>./No-Intro/Picross 3D (USA) (Demo).bin</path>
@@ -8551,6 +8584,7 @@ Playable characters include Alex the Lion, Marty the Zebra, Melman the Giraffe, 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T071027" />
+		<boxback>./images/Picross 3D (USA) (Demo)-boxback.png</boxback>
 	</game>
 	<game id="5899">
 		<path>./No-Intro/Pokemon Ranger - Guardian Signs (USA, Europe, Australia) (Demo) (USA).bin</path>
@@ -8590,6 +8624,7 @@ Playable characters include Alex the Lion, Marty the Zebra, Melman the Giraffe, 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T071037" />
+		<boxback>./images/Princess and the Frog, The (USA) (Demo) (Nintendo Channel)-boxback.png</boxback>
 	</game>
 	<game id="86871">
 		<path>./No-Intro/Rhythm Heaven (USA, Europe, Australia) (Demo) (USA).bin</path>
@@ -8631,6 +8666,7 @@ As each game varies from each other, at the start of each game, you're given a b
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T071046" />
+		<boxback>./images/Rooms - The Main Building (USA) (Demo)-boxback.png</boxback>
 	</game>
 	<game id="5993">
 		<path>./No-Intro/Sonic &amp; Sega All-Stars Racing (USA) (En,Fr,Es) (Demo).bin</path>
@@ -8652,6 +8688,7 @@ As each game varies from each other, at the start of each game, you're given a b
 		<lang>en,es,fr</lang>
 		<region>eu</region>
 		<scrap name="ScreenScraper" date="20231005T071047" />
+		<boxback>./images/Sonic &amp; Sega All-Stars Racing (USA) (En,Fr,Es) (Demo)-boxback.png</boxback>
 	</game>
 	<game id="5794">
 		<path>./No-Intro/Sonic Colors (USA) (En,Fr,Es) (Rev 1) (Demo).bin</path>
@@ -8673,6 +8710,7 @@ As each game varies from each other, at the start of each game, you're given a b
 		<lang>en,es,fr</lang>
 		<region>eu</region>
 		<scrap name="ScreenScraper" date="20231005T071047" />
+		<boxback>./images/Sonic Colors (USA) (En,Fr,Es) (Rev 1) (Demo)-boxback.png</boxback>
 	</game>
 	<game id="204104">
 		<path>./No-Intro/SpongeBob's Truth or Square (USA) (Demo) (Nintendo Channel).bin</path>
@@ -8692,5 +8730,6 @@ As each game varies from each other, at the start of each game, you're given a b
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T071051" />
+		<boxback>./images/SpongeBob's Truth or Square (USA) (Demo) (Nintendo Channel)-boxback.png</boxback>
 	</game>
 </gameList>

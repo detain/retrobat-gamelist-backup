@@ -54360,34 +54360,6 @@ Gameplay is turn-based. Each turn, the player can control one specific worm from
 		<scrap name="ScreenScraper" date="20230302T201513" />
 		<scrap name="ArcadeDB" date="20221212T180424" />
 	</game>
-	<game id="19553">
-		<path>./NTSC/Worms [U] [SLUS-00336]/Worms [U] [SLUS-00336].img</path>
-		<name>Worms</name>
-		<desc>Worms is a turn-based strategy game. It features up to 4 teams of 4 worms, aiming to destroy the others on a generated terrain. Each worm has 100 hit points, and dies when his hit points fall to 0. Upon death, a worm explodes, causing damage to everyone around.
-
-Gameplay is turn-based. Each turn, the player can control one specific worm from his team. The worm can crawl left and right or jump. However, there is a time limit to make a move; also, if the worm falls from a great height, it loses health and the turn ends immediately; and if a worm falls into water or offscreen, it dies. Each turn, a worm can also make a single attack: the player can aim up and down, choose a weapon and then fire it. After attacking, the turn ends.</desc>
-		<image>./media/screenshots/Worms [U] [SLUS-00336].png</image>
-		<video>./media/videos/Worms [U] [SLUS-00336].mp4</video>
-		<marquee>./media/marquees/Worms [U] [SLUS-00336].png</marquee>
-		<thumbnail>./images/Worms [U] [SLUS-00336]-thumb.png</thumbnail>
-		<fanart>./images/Worms [U] [SLUS-00336]-fanart.jpg</fanart>
-		<bezel>./images/Worms [U] [SLUS-00336]-bezel.png</bezel>
-		<boxback>./images/Worms [U] [SLUS-00336]-boxback.png</boxback>
-		<rating>0.7</rating>
-		<releasedate>19960807T000000</releasedate>
-		<developer>Team 17</developer>
-		<publisher>Ocean</publisher>
-		<genre>Strategy</genre>
-		<family>Worms</family>
-		<players>1-16</players>
-		<kidgame>true</kidgame>
-		<crc32>EB1449AC</crc32>
-		<md5>d59f433d49315922089510abfb63dc98</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230302T201515" />
-		<scrap name="ArcadeDB" date="20221212T180425" />
-	</game>
 	<game id="20516">
 		<path>./NTSC/Wreckin Crew - Drive Dangerously (USA) (En,Es)/Wreckin Crew - Drive Dangerously (USA) (En,Es).cue</path>
 		<name>Wreckin Crew : Drive Dangerously</name>
@@ -55569,16 +55541,6 @@ X-Men vs. Street Fighter features gameplay similar to Street Fighter, but incorp
 		<scrap name="ScreenScraper" date="20230302T201629" />
 		<scrap name="ArcadeDB" date="20221212T180442" />
 	</game>
-	<game id="194991">
-		<path>./TOSEC-ISO/Applications/GameShark Lite (2000)(Datel - InterAct)(US).img</path>
-		<name>ZZZ(notgame):Gameshark Sampler</name>
-		<hidden>true</hidden>
-		<crc32>AE0052E0</crc32>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230302T201631" />
-		<scrap name="ArcadeDB" date="20221212T180442" />
-	</game>
 	<game id="104868">
 		<path>./TOSEC-ISO/Games/[BIN]/Deuce (2000)(Midway)(proto).cue</path>
 		<name>Deuce - Heart Castle</name>
@@ -55693,28 +55655,6 @@ The plot focuses on Harry Mason as he searches for his daughter, Cheryl, who has
 		<scrap name="ScreenScraper" date="20230302T201640" />
 		<scrap name="ArcadeDB" date="20221212T180447" />
 	</game>
-	<game id="19457">
-		<path>./TOSEC-ISO/Games/[IMG]/Thrill Kill (1998-07-09)(Virgin)(proto).img</path>
-		<name>Thrill Kill</name>
-		<desc>Eight fighters, eight souls. Each has died and descended into Hell, except it's not the classical Dante's Hell. It's a modern day Hell based on the real world of today's deviants. The characters are the physical manifestations of their mental illnesses or vices on earth. Marukka, the God of Secrets, is bored and decided that it would be fun to pit them all against each other with the prize being rebirth. Each character is battling for nothing more than self-preservation and the hope to be born again.</desc>
-		<image>./media/screenshots/Thrill Kill (1998-07-09)(Virgin)(proto).png</image>
-		<video>./media/videos/Thrill Kill (1998-07-09)(Virgin)(proto).mp4</video>
-		<marquee>./media/marquees/Thrill Kill (1998-07-09)(Virgin)(proto).png</marquee>
-		<thumbnail>./images/Thrill Kill (1998-07-09)(Virgin)(proto)-thumb.png</thumbnail>
-		<fanart>./images/Thrill Kill (1998-07-09)(Virgin)(proto)-fanart.jpg</fanart>
-		<bezel>./images/Thrill Kill (1998-07-09)(Virgin)(proto)-bezel.png</bezel>
-		<boxback>./images/Thrill Kill (1998-07-09)(Virgin)(proto)-boxback.png</boxback>
-		<rating>0.7</rating>
-		<releasedate>19980601T000000</releasedate>
-		<developer>Paradox Development</developer>
-		<publisher>Virgin</publisher>
-		<genre>Fight</genre>
-		<players>1-4</players>
-		<crc32>77A999DF</crc32>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20230302T201642" />
-		<scrap name="ArcadeDB" date="20221212T180447" />
-	</game>
 	<game id="19527">
 		<path>./TOSEC-ISO/Games/[IMG]/Tony Hawk's Pro Skater (1999-04-09)(Activision)(US)(beta).ccd</path>
 		<name>Tony Hawk's Pro Skater</name>
@@ -55739,32 +55679,6 @@ The plot focuses on Harry Mason as he searches for his daughter, Cheryl, who has
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230302T201644" />
 		<scrap name="ArcadeDB" date="20221212T180447" />
-	</game>
-	<game id="19527">
-		<path>./TOSEC-ISO/Games/[IMG]/Tony Hawk's Pro Skater (1999-04-09)(Activision)(US)(beta).img</path>
-		<name>Tony Hawk's Pro Skater</name>
-		<desc>Go Big, Go Pro! Skate as legendary Tony Hawk, or as one of nine top pros. Work your way up the ranks by landing suicidal tricks in brutal competitions to become the highest ranked skate champ! Great features such as: Signature Pro Moves, fully skateable worlds, head-to-head competition, and Instant Replay Mode.</desc>
-		<image>./media/screenshots/Tony Hawk's Pro Skater (1999-04-09)(Activision)(US)(beta).png</image>
-		<video>./media/videos/Tony Hawk's Pro Skater (1999-04-09)(Activision)(US)(beta).mp4</video>
-		<marquee>./media/marquees/Tony Hawk's Pro Skater (1999-04-09)(Activision)(US)(beta).png</marquee>
-		<thumbnail>./images/Tony Hawk's Pro Skater (1999-04-09)(Activision)(US)(beta)-thumb.png</thumbnail>
-		<fanart>./images/Tony Hawk's Pro Skater (1999-04-09)(Activision)(US)(beta)-fanart.jpg</fanart>
-		<bezel>./images/Tony Hawk's Pro Skater (1999-04-09)(Activision)(US)(beta)-bezel.png</bezel>
-		<boxback>./images/Tony Hawk's Pro Skater (1999-04-09)(Activision)(US)(beta)-boxback.png</boxback>
-		<rating>0.9</rating>
-		<releasedate>19990831T000000</releasedate>
-		<developer>Neversoft</developer>
-		<publisher>Activision</publisher>
-		<genre>Sports / Skateboard</genre>
-		<family>Tony Hawk</family>
-		<players>2</players>
-		<kidgame>true</kidgame>
-		<crc32>03556F43</crc32>
-		<md5>c615a3256db071739383eb6865c6ef12</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230302T201646" />
-		<scrap name="ArcadeDB" date="20221212T180448" />
 	</game>
 	<game id="19290">
 		<path>./TOSEC-ISO/Games/[ISO]/Legacy of Kain - Soul Reaver (1999-06-28)(Crystal Dynamics - Eidos)(US)(beta).iso</path>

@@ -2745,8 +2745,6 @@ Thieves and brigands have driven you and your family from your farmland home. De
 		<image>./images/Barbie as The Island Princess (USA)-image.png</image>
 		<video>./videos/Barbie as The Island Princess (USA)-video.mp4</video>
 		<marquee>./images/Barbie as The Island Princess (USA)-marquee.png</marquee>
-		<thumbnail>./images/Barbie as The Island Princess (USA)-thumb.png</thumbnail>
-		<boxback>./images/Barbie as The Island Princess (USA)-boxback.png</boxback>
 		<rating>0.5</rating>
 		<releasedate>20071030T000000</releasedate>
 		<developer>Activision</developer>
@@ -11738,8 +11736,6 @@ Unlike the Windows and Dreamcast versions of this game, the GBA version is a 2D 
 		<image>./images/KAO the Kangaroo (USA) (En,Fr,De,Es,It,Nl)-image.png</image>
 		<video>./videos/KAO the Kangaroo (USA) (En,Fr,De,Es,It,Nl)-video.mp4</video>
 		<marquee>./images/KAO the Kangaroo (USA) (En,Fr,De,Es,It,Nl)-marquee.png</marquee>
-		<thumbnail>./images/KAO the Kangaroo (USA) (En,Fr,De,Es,It,Nl)-thumb.png</thumbnail>
-		<boxback>./images/KAO the Kangaroo (USA) (En,Fr,De,Es,It,Nl)-boxback.png</boxback>
 		<rating>0.65</rating>
 		<releasedate>20011112T000000</releasedate>
 		<developer>Titus</developer>
@@ -30367,7 +30363,7 @@ Unlike modern FPS games, the player has a number of lives and once the player lo
 		<video>./media/videos/Animal Crossing - Baseball (USA, Europe).mp4</video>
 		<marquee>./media/marquees/Animal Crossing - Baseball (USA, Europe).png</marquee>
 		<fanart>./images/Animal Crossing - Baseball (USA, Europe)-fanart.jpg</fanart>
-		<rating></rating>
+		<rating />
 		<developer>Nintendo</developer>
 		<publisher>Nintendo</publisher>
 		<genre>Sports / Baseball</genre>
@@ -30389,7 +30385,7 @@ Unlike modern FPS games, the player has a number of lives and once the player lo
 		<marquee>./images/Animal Crossing - Clu Clu Land (USA, Europe)-marquee.png</marquee>
 		<thumbnail>./images/Animal Crossing - Clu Clu Land (USA, Europe)-thumb.png</thumbnail>
 		<boxback>./images/Animal Crossing - Clu Clu Land (USA, Europe)-boxback.png</boxback>
-		<rating></rating>
+		<rating />
 		<releasedate>20040521T000000</releasedate>
 		<developer>Nintendo</developer>
 		<publisher>Nintendo</publisher>
@@ -30407,7 +30403,7 @@ Unlike modern FPS games, the player has a number of lives and once the player lo
 		<name>Advance Play Edition - Donkey Kong</name>
 		<desc>Can you save Mario's girlfriend from Donkey Kong's clutches? You must help Mario free Pauline before it's too late. You'll have to dodge booby-trapped barrels, fireballs and anything else Donkey Kong throws at you to try and stop you. So if you're looking for action, stop the antics!</desc>
 		<image>./media/screenshots/Animal Crossing - Donkey Kong (USA, Europe).png</image>
-		<rating></rating>
+		<rating />
 		<family>Donkey Kong</family>
 		<crc32>4B31DCE1</crc32>
 		<md5>aa6bdfc4fce58b19d1a8a9f2f11042d9</md5>
@@ -30425,7 +30421,7 @@ As Stanley the Bugman, players are positioned under Donkey Kong, who has taken o
 
 Donkey Kong will agitate two beehives that are close to him to send down a swarm of angry Buzzbees, Beespies and destructive Queen Bees toward Stanley. These insects, as well as caterpillars which creep down nearby vines are intent on destroying the flowers below Stanley. Donkey Kong will also send down projectiles himself in an attempt to stop Stanley's attacks. Stanley must jump between the levels and use his bugspray to repel the insects, and send Donkey Kong into the next area of the greenhouse.</desc>
 		<image>./media/screenshots/Animal Crossing - Donkey Kong 3 (USA, Europe).png</image>
-		<rating></rating>
+		<rating />
 		<family>Donkey Kong</family>
 		<crc32>060CE560</crc32>
 		<md5>a7b95f64a01e7cc18968b1c501741414</md5>
@@ -30439,7 +30435,7 @@ Donkey Kong will agitate two beehives that are close to him to send down a swarm
 		<name>Advance Play Edition - Donkey Kong Jr.</name>
 		<desc>Mario as a villain, who would have thought it? But this is the unlikely scenario of Donkey Kong Jr. on NES. Yes, the mustachioed villain has locked Donkey Kong in a cage and it's up to his offspring to get him out of the clutches of this devious plumber. Our friendly primate will have to climb along lianas to reach the top of the board, while avoiding the various objects that Mario sees fit to throw at his face.</desc>
 		<image>./media/screenshots/Animal Crossing - Donkey Kong Jr. (USA, Europe).png</image>
-		<rating></rating>
+		<rating />
 		<family>Donkey Kong</family>
 		<crc32>66035612</crc32>
 		<md5>ee8a23328607687b50a6706c7fdfc2e1</md5>
@@ -30453,7 +30449,7 @@ Donkey Kong will agitate two beehives that are close to him to send down a swarm
 		<name>Advance Play Edition - Donkey Kong Jr. Math</name>
 		<desc>Learning can be fun, especially when you play along with Donkey Kong Jr.! Practice addition, subtraction, multiplication, and division by directing Junior, a cute little monkey, who must climb up and down vines to collect numbers and symbols in order to solve the math problems his father gives him. Compete with a friend in a race to solve problems in Game A, or add more challenge with Game B. Of course, you can also practice on your own! This game is perfect for younger players who are looking for a fun and easy way to develop their math skills!</desc>
 		<image>./media/screenshots/Animal Crossing - Donkey Kong Jr. Math (USA, Europe).png</image>
-		<rating></rating>
+		<rating />
 		<family>Donkey Kong</family>
 		<crc32>9B531071</crc32>
 		<md5>1c8dcf20e4ce979cb9962c835c39a5c9</md5>
@@ -30492,7 +30488,7 @@ Donkey Kong will agitate two beehives that are close to him to send down a swarm
 		<name>Advance Play Edition - Golf</name>
 		<desc>Golf features two challenging 18 hole courses where players are able to play a round of golf, and allows players to choose a club, adjust stance and control the swing. The game features three alternating views; an overhead long-range view of the entire hole, an overhead medium-range view from the ball's current location, and an overhead close-range view of the green.</desc>
 		<image>./media/screenshots/Animal Crossing - Golf (USA, Europe).png</image>
-		<rating></rating>
+		<rating />
 		<genre>Sports / Golf</genre>
 		<crc32>C83C01CE</crc32>
 		<md5>f92aeb4bc274cb08c2eabe9dd3aadcb4</md5>
@@ -30530,7 +30526,7 @@ Donkey Kong will agitate two beehives that are close to him to send down a swarm
 		<name>Advance Play Edition - Mario Bros.</name>
 		<desc>Mario and Luigi are doing some underground plumbing when all sorts of weird creatures come flying out of the pipes. Turtles, crabs - even fighterflies - attack the helpless Mario Bros. It's up to you to kick, punch, and knock out these sewer pests before time runs out! But beware. Just when you think you got rid of them, they come back for more! Play against the computer, or with a friend - either way, this is one underground classic you'll want to play time and time again!</desc>
 		<image>./media/screenshots/Animal Crossing - Mario Bros. (USA, Europe).png</image>
-		<rating></rating>
+		<rating />
 		<releasedate>20030512T000000</releasedate>
 		<crc32>AED34405</crc32>
 		<md5>684e46cb0c672e06664ae742825ae89c</md5>
@@ -30544,7 +30540,7 @@ Donkey Kong will agitate two beehives that are close to him to send down a swarm
 		<name>Advance Play Edition - Pinball</name>
 		<desc>Be a pinball wizard, right in your own home! Bank off bumpers, flip double flippers, even win a bonus round in Nintendo's lightning fast PINBALL! You'll have the time of your life as you flip from upper to lower game screens, rack up points to beat your opponent, and, if you're lucky, progress to the bonus round where you'll save the falling maiden in this video version of the real thing!</desc>
 		<image>./media/screenshots/Animal Crossing - Pinball (USA, Europe).png</image>
-		<rating></rating>
+		<rating />
 		<genre>Pinball</genre>
 		<crc32>BA79F589</crc32>
 		<md5>c1c6eb0d42591c46f2e4dc68145e4c81</md5>
@@ -30558,7 +30554,7 @@ Donkey Kong will agitate two beehives that are close to him to send down a swarm
 		<name>Advance Play Edition - Soccer</name>
 		<desc>Soccer is an action game. You can play the game in one of five skill levels, choose from several different teams, and select the amount of time the match will take. Soccer features throw-ins, goal kicks, corner kicks, penalty kicks and an overhead view of the field which scrolls to follow the action.</desc>
 		<image>./media/screenshots/Animal Crossing - Soccer (USA, Europe).png</image>
-		<rating></rating>
+		<rating />
 		<crc32>090F168F</crc32>
 		<md5>a81a5d9b9268da64ea8426bdc6a987ba</md5>
 		<lang>en</lang>
@@ -30596,7 +30592,7 @@ Donkey Kong will agitate two beehives that are close to him to send down a swarm
 		<name>Advance Play Edition - Tennis</name>
 		<desc>Tennis is, as the name implies, Nintendo's version of the sport for the Game Boy. One player vs computer or two players will compete in tennis in a more or less standard suite of rules (scoring, sets etc.). Players are controlled by the movement buttons, but while button A indicates a low hit, button B indicates a high one.</desc>
 		<image>./media/screenshots/Animal Crossing - Tennis (USA, Europe).png</image>
-		<rating></rating>
+		<rating />
 		<crc32>2B2A361D</crc32>
 		<md5>146bdf7f70335a2ad67b59ef9e07bfaf</md5>
 		<lang>en</lang>
@@ -30613,7 +30609,7 @@ Donkey Kong will agitate two beehives that are close to him to send down a swarm
 		<marquee>./media/marquees/Billy Hatcher Hyper Shoot (World).png</marquee>
 		<thumbnail>./images/Billy Hatcher Hyper Shoot (World)-thumb.png</thumbnail>
 		<boxback>./images/Billy Hatcher Hyper Shoot (World)-boxback.png</boxback>
-		<rating></rating>
+		<rating />
 		<releasedate>20030101T000000</releasedate>
 		<developer>Sonic Team</developer>
 		<publisher>SEGA</publisher>
@@ -30633,7 +30629,7 @@ Donkey Kong will agitate two beehives that are close to him to send down a swarm
 		<marquee>./media/marquees/Billy Hatcher Hyper Shoot - Easy (World).png</marquee>
 		<thumbnail>./images/Billy Hatcher Hyper Shoot - Easy (World)-thumb.png</thumbnail>
 		<boxback>./images/Billy Hatcher Hyper Shoot - Easy (World)-boxback.png</boxback>
-		<rating></rating>
+		<rating />
 		<releasedate>20030101T000000</releasedate>
 		<developer>Sonic Team</developer>
 		<publisher>SEGA</publisher>
@@ -30649,7 +30645,7 @@ Donkey Kong will agitate two beehives that are close to him to send down a swarm
 		<name>Tiny Chao Garden</name>
 		<desc>Like the Chao Adventure mini-game on consoles, Tiny Chao Garden allows the player to take their Chao with them and raise it on their Game Boy Advance. The Chao does not age like it does in Sonic Adventure, so the player has plenty of time to raise all of its stats to level 99. The player must pause the game and select Save &amp; Exit for progress in the Tiny Chao Garden to be recorded. Simply turning the system off will not save progress.</desc>
 		<image>./media/screenshots/Chao no Puchigaden (World) (En,Ja,Fr,De,Es) (Phantasy Star Online Episode I &amp; II).png</image>
-		<rating></rating>
+		<rating />
 		<releasedate>20020101T000000</releasedate>
 		<developer>Sonic Team</developer>
 		<publisher>SEGA</publisher>
@@ -30665,7 +30661,7 @@ Donkey Kong will agitate two beehives that are close to him to send down a swarm
 		<name>Tiny Chao Garden</name>
 		<desc>Like the Chao Adventure mini-game on consoles, Tiny Chao Garden allows the player to take their Chao with them and raise it on their Game Boy Advance. The Chao does not age like it does in Sonic Adventure, so the player has plenty of time to raise all of its stats to level 99. The player must pause the game and select Save &amp; Exit for progress in the Tiny Chao Garden to be recorded. Simply turning the system off will not save progress.</desc>
 		<image>./media/screenshots/Chao no Puchigaden (World) (En,Ja,Fr,De,Es) (Sonic Adventure DX - Director's Cut).png</image>
-		<rating></rating>
+		<rating />
 		<releasedate>20020101T000000</releasedate>
 		<developer>Sonic Team</developer>
 		<publisher>SEGA</publisher>
@@ -30697,7 +30693,7 @@ Donkey Kong will agitate two beehives that are close to him to send down a swarm
 		<desc>Chu Chu Rocket! Challenge is one of the few games you can import on your GBA from the Gamecube game "Billy Hatcher and the Giant Egg" with a link cable. The game is almost similar to the GBA game "Chu Chu Rocket!"</desc>
 		<image>./media/screenshots/ChuChu Rocket! Challenge (World).png</image>
 		<marquee>./media/marquees/ChuChu Rocket! Challenge (World).png</marquee>
-		<rating></rating>
+		<rating />
 		<releasedate>20030923T000000</releasedate>
 		<developer>Sonic Team</developer>
 		<publisher>SEGA</publisher>
@@ -30861,7 +30857,7 @@ NiGHTS Score Attack is an endless mini game where the player takes control of Ni
 		<thumbnail>./images/NiGHTS into Dreams - Score Attack (World)-thumb.png</thumbnail>
 		<fanart>./images/NiGHTS into Dreams - Score Attack (World)-fanart.jpg</fanart>
 		<boxback>./images/NiGHTS into Dreams - Score Attack (World)-boxback.png</boxback>
-		<rating></rating>
+		<rating />
 		<releasedate>20020101T000000</releasedate>
 		<developer>Sonic Team</developer>
 		<publisher>SEGA</publisher>

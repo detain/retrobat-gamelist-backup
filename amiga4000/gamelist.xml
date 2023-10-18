@@ -22,6 +22,7 @@ There are four completely different types of course, each taking place on a diff
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T185408" />
+		<boxback>./images/4x4 Off-Road Racing (USA)-boxback.png</boxback>
 	</game>
 	<game id="78396">
 		<path>./No-Intro/20211028-052318 MIA 10/ABC Monday Night Football (USA) (v1.1) (Disk 1).ipf</path>
@@ -39,6 +40,7 @@ There are four completely different types of course, each taking place on a diff
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T185410" />
+		<boxback>./images/ABC Monday Night Football (USA) (v1.1) (Disk 1)-boxback.png</boxback>
 	</game>
 	<game id="78396">
 		<path>./No-Intro/20211028-052318 MIA 10/ABC Monday Night Football (USA) (v1.1) (Disk 2).ipf</path>
@@ -56,6 +58,7 @@ There are four completely different types of course, each taking place on a diff
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T185412" />
+		<boxback>./images/ABC Monday Night Football (USA) (v1.1) (Disk 2)-boxback.png</boxback>
 	</game>
 	<game id="78396">
 		<path>./No-Intro/20211028-052318 MIA 10/ABC Monday Night Football (USA) (v1.1) (Disk 3).ipf</path>
@@ -73,6 +76,7 @@ There are four completely different types of course, each taking place on a diff
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T185415" />
+		<boxback>./images/ABC Monday Night Football (USA) (v1.1) (Disk 3)-boxback.png</boxback>
 	</game>
 	<game id="39130">
 		<path>./No-Intro/20211028-052318 MIA 10/Advanced Dungeons &amp; Dragons - DragonStrike - DragonLance Dragon Combat Simulator (USA) (v1.0) (Disk 1).ipf</path>
@@ -93,6 +97,7 @@ There are four completely different types of course, each taking place on a diff
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T185419" />
+		<boxback>./images/Advanced Dungeons &amp; Dragons - DragonStrike - DragonLance Dragon Combat Simulator (USA) (v1.0) (Disk 1)-boxback.png</boxback>
 	</game>
 	<game id="39130">
 		<path>./No-Intro/20211028-052318 MIA 10/Advanced Dungeons &amp; Dragons - DragonStrike - DragonLance Dragon Combat Simulator (USA) (v1.0) (Disk 2).ipf</path>
@@ -113,6 +118,7 @@ There are four completely different types of course, each taking place on a diff
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T185422" />
+		<boxback>./images/Advanced Dungeons &amp; Dragons - DragonStrike - DragonLance Dragon Combat Simulator (USA) (v1.0) (Disk 2)-boxback.png</boxback>
 	</game>
 	<game id="89069">
 		<path>./No-Intro/20211028-052318 MIA 10/Advanced Dungeons &amp; Dragons - Treasures of the Savage Frontier - A Savage Frontier Fantasy Role-Playing Epic, Vol.II (USA) (v1.00) (Disk A).ipf</path>
@@ -130,6 +136,7 @@ The sequel to Gateway to the Savage Frontier is a role-playing game using SSI's 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T185426" />
+		<boxback>./images/Advanced Dungeons &amp; Dragons - Treasures of the Savage Frontier - A Savage Frontier Fantasy Role-Playing Epic, Vol.II (USA) (v1.00) (Disk A)-boxback.png</boxback>
 	</game>
 	<game id="89069">
 		<path>./No-Intro/20211028-052318 MIA 10/Advanced Dungeons &amp; Dragons - Treasures of the Savage Frontier - A Savage Frontier Fantasy Role-Playing Epic, Vol.II (USA) (v1.00) (Disk B).ipf</path>
@@ -147,6 +154,7 @@ The sequel to Gateway to the Savage Frontier is a role-playing game using SSI's 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T185430" />
+		<boxback>./images/Advanced Dungeons &amp; Dragons - Treasures of the Savage Frontier - A Savage Frontier Fantasy Role-Playing Epic, Vol.II (USA) (v1.00) (Disk B)-boxback.png</boxback>
 	</game>
 	<game id="89069">
 		<path>./No-Intro/20211028-052318 MIA 10/Advanced Dungeons &amp; Dragons - Treasures of the Savage Frontier - A Savage Frontier Fantasy Role-Playing Epic, Vol.II (USA) (v1.00) (Disk C).ipf</path>
@@ -164,6 +172,7 @@ The sequel to Gateway to the Savage Frontier is a role-playing game using SSI's 
 		<lang>en,fr</lang>
 		<region>wr</region>
 		<scrap name="ScreenScraper" date="20231005T185434" />
+		<boxback>./images/Advanced Dungeons &amp; Dragons - Treasures of the Savage Frontier - A Savage Frontier Fantasy Role-Playing Epic, Vol.II (USA) (v1.00) (Disk C)-boxback.png</boxback>
 	</game>
 	<game id="94253">
 		<path>./No-Intro/20211028-052318 MIA 10/Adventure Construction Set (USA).ipf</path>
@@ -182,6 +191,7 @@ Seven small 'toolkits' to build from include Sci/Fi, Spy, and Medieval setting t
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T185438" />
+		<boxback>./images/Adventure Construction Set (USA)-boxback.png</boxback>
 	</game>
 	<game id="33457">
 		<path>./No-Intro/20211028-052318 MIA 10/Afterburner (USA) (Budget - The Hit Squad).ipf</path>
@@ -205,6 +215,7 @@ The game is viewed from behind the plane with you fighting wave after wave of en
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T185441" />
+		<boxback>./images/Afterburner (USA) (Budget - The Hit Squad)-boxback.png</boxback>
 	</game>
 	<game id="33255">
 		<path>./No-Intro/20211028-052318 MIA 10/Agony (USA) (Disk 1).ipf</path>
@@ -228,6 +239,7 @@ These dark creatures include piranhas, giant ants and mosquitoes. Extra weapons 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T185447" />
+		<boxback>./images/Agony (USA) (Disk 1)-boxback.png</boxback>
 	</game>
 	<game id="33255">
 		<path>./No-Intro/20211028-052318 MIA 10/Agony (USA) (Disk 2).ipf</path>
@@ -251,6 +263,7 @@ These dark creatures include piranhas, giant ants and mosquitoes. Extra weapons 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T185453" />
+		<boxback>./images/Agony (USA) (Disk 2)-boxback.png</boxback>
 	</game>
 	<game id="33255">
 		<path>./No-Intro/20211028-052318 MIA 10/Agony (USA) (Disk 3).ipf</path>
@@ -274,6 +287,7 @@ These dark creatures include piranhas, giant ants and mosquitoes. Extra weapons 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T185459" />
+		<boxback>./images/Agony (USA) (Disk 3)-boxback.png</boxback>
 	</game>
 	<game id="71959">
 		<path>./No-Intro/20211028-052318 MIA 10/Air Support (USA) (Disk 1).ipf</path>
@@ -292,23 +306,33 @@ The game boasted "incredibly realistic virtual 3D" which meant having to don the
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T185505" />
+		<boxback>./images/Air Support (USA) (Disk 1)-boxback.png</boxback>
 	</game>
 	<game>
 		<path>./No-Intro/20211028-052318 MIA 10/Air Support (USA) (Disk 2).ipf</path>
 		<name>Air Support (USA) (Disk 2)</name>
 		<md5>782f8280e4afa0dac274e4af9a721d5f</md5>
+		<image>./images/Air Support (USA) (Disk 2)-image.png</image>
+		<video>./videos/Air Support (USA) (Disk 2)-video.mp4</video>
+		<marquee>./images/Air Support (USA) (Disk 2)-marquee.png</marquee>
+		<thumbnail>./images/Air Support (USA) (Disk 2)-thumb.png</thumbnail>
+		<boxback>./images/Air Support (USA) (Disk 2)-boxback.png</boxback>
 	</game>
 	<game>
 		<path>./TOSEC/Games/SPS/Lost Treasures of Infocom, The (1992)(Activision)(US)[WB][0928]/LostTreasuresOfInfocom,The_Disk1.ipf</path>
 		<name>LostTreasuresOfInfocom,The_Disk1</name>
 		<image>./images/LostTreasuresOfInfocom,The_Disk1-image.png</image>
 		<thumbnail>./images/LostTreasuresOfInfocom,The_Disk1-thumb.png</thumbnail>
+		<marquee>./images/LostTreasuresOfInfocom,The_Disk1-marquee.png</marquee>
+		<boxback>./images/LostTreasuresOfInfocom,The_Disk1-boxback.png</boxback>
 	</game>
 	<game>
 		<path>./TOSEC/Games/[ADF]/Uninvited (1987)(Mindscape)[cr ECA][u]/Uninvited (1987)(Mindscape)[cr ECA][u].adf</path>
 		<name>Uninvited (1987)(Mindscape)[cr ECA][u]</name>
 		<image>./images/Uninvited (1987)(Mindscape)[cr ECA][u]-image.png</image>
 		<thumbnail>./images/Uninvited (1987)(Mindscape)[cr ECA][u]-thumb.png</thumbnail>
+		<marquee>./images/Uninvited (1987)(Mindscape)[cr ECA][u]-marquee.png</marquee>
+		<boxback>./images/Uninvited (1987)(Mindscape)[cr ECA][u]-boxback.png</boxback>
 	</game>
 	<game>
 		<path>./TOSEC/Games/[ADF]/Zool (1992)(Gremlin)(Disk 1 of 2)[cr CSL]/Zool (1992)(Gremlin)(Disk 1 of 2)[cr CSL].adf</path>
@@ -316,6 +340,9 @@ The game boasted "incredibly realistic virtual 3D" which meant having to don the
 		<image>./images/Zool (1992)(Gremlin)(Disk 1 of 2)[cr CSL]-image.png</image>
 		<video>./videos/Zool (1992)(Gremlin)(Disk 1 of 2)[cr CSL]-video.mp4</video>
 		<thumbnail>./images/Zool (1992)(Gremlin)(Disk 1 of 2)[cr CSL]-thumb.png</thumbnail>
+		<marquee>./images/Zool (1992)(Gremlin)(Disk 1 of 2)[cr CSL]-marquee.png</marquee>
+		<fanart>./images/Zool (1992)(Gremlin)(Disk 1 of 2)[cr CSL]-fanart.jpg</fanart>
+		<boxback>./images/Zool (1992)(Gremlin)(Disk 1 of 2)[cr CSL]-boxback.png</boxback>
 	</game>
 	<game>
 		<path>./TOSEC/Games/Public Domain/[ADF]/War Wizard v1.03 (1993-10-10)(MicroGenesis)(Disk 5 of 5)[cr HCC][HD]/War Wizard v1.03 (1993-10-10)(MicroGenesis)(Disk 5 of 5)[cr HCC][HD].adf</path>
@@ -328,5 +355,15 @@ The game boasted "incredibly realistic virtual 3D" which meant having to don the
 		<image>./images/Time Machine (1990)(Activision)[cr SR][t +2 Valhalla]-image.png</image>
 		<video>./videos/Time Machine (1990)(Activision)[cr SR][t +2 Valhalla]-video.mp4</video>
 		<thumbnail>./images/Time Machine (1990)(Activision)[cr SR][t +2 Valhalla]-thumb.png</thumbnail>
+		<marquee>./images/Time Machine (1990)(Activision)[cr SR][t +2 Valhalla]-marquee.png</marquee>
+		<fanart>./images/Time Machine (1990)(Activision)[cr SR][t +2 Valhalla]-fanart.jpg</fanart>
+		<boxback>./images/Time Machine (1990)(Activision)[cr SR][t +2 Valhalla]-boxback.png</boxback>
+	</game>
+	<game>
+		<path>./TOSEC/Games/[ADF]/Indiana Jones and the Last Crusade - The Action Game (1989)(U.S. Gold)[cr FLT][t +7 VF - Bencor Brothers]/Indiana Jones and the Last Crusade - The Action Game (1989)(U.S. Gold)[cr FLT][t +7 VF - Bencor Brothers].adf</path>
+		<name>Indiana Jones and the Last Crusade - The Action Game (1989)(U.S. Gold)[cr FLT][t +7 VF - Bencor Brothers]</name>
+		<image>./images/Indiana Jones and the Last Crusade - The Action Game (1989)(U.S. Gold)[cr FLT][t +7 VF - Bencor Brothers]-image.png</image>
+		<video>./videos/Indiana Jones and the Last Crusade - The Action Game (1989)(U.S. Gold)[cr FLT][t +7 VF - Bencor Brothers]-video.mp4</video>
+		<thumbnail>./images/Indiana Jones and the Last Crusade - The Action Game (1989)(U.S. Gold)[cr FLT][t +7 VF - Bencor Brothers]-thumb.png</thumbnail>
 	</game>
 </gameList>

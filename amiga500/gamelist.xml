@@ -22,6 +22,7 @@ There are four completely different types of course, each taking place on a diff
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063659" />
+		<boxback>./images/4x4 Off-Road Racing (USA)-boxback.png</boxback>
 	</game>
 	<game id="78396">
 		<path>./No-Intro/20211028-052318 MIA 10/ABC Monday Night Football (USA) (v1.1) (Disk 1).ipf</path>
@@ -39,6 +40,7 @@ There are four completely different types of course, each taking place on a diff
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063700" />
+		<boxback>./images/ABC Monday Night Football (USA) (v1.1) (Disk 1)-boxback.png</boxback>
 	</game>
 	<game id="78396">
 		<path>./No-Intro/20211028-052318 MIA 10/ABC Monday Night Football (USA) (v1.1) (Disk 2).ipf</path>
@@ -56,6 +58,7 @@ There are four completely different types of course, each taking place on a diff
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063701" />
+		<boxback>./images/ABC Monday Night Football (USA) (v1.1) (Disk 2)-boxback.png</boxback>
 	</game>
 	<game id="78396">
 		<path>./No-Intro/20211028-052318 MIA 10/ABC Monday Night Football (USA) (v1.1) (Disk 3).ipf</path>
@@ -73,6 +76,7 @@ There are four completely different types of course, each taking place on a diff
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063702" />
+		<boxback>./images/ABC Monday Night Football (USA) (v1.1) (Disk 3)-boxback.png</boxback>
 	</game>
 	<game id="39130">
 		<path>./No-Intro/20211028-052318 MIA 10/Advanced Dungeons &amp; Dragons - DragonStrike - DragonLance Dragon Combat Simulator (USA) (v1.0) (Disk 1).ipf</path>
@@ -93,6 +97,7 @@ There are four completely different types of course, each taking place on a diff
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063704" />
+		<boxback>./images/Advanced Dungeons &amp; Dragons - DragonStrike - DragonLance Dragon Combat Simulator (USA) (v1.0) (Disk 1)-boxback.png</boxback>
 	</game>
 	<game id="39130">
 		<path>./No-Intro/20211028-052318 MIA 10/Advanced Dungeons &amp; Dragons - DragonStrike - DragonLance Dragon Combat Simulator (USA) (v1.0) (Disk 2).ipf</path>
@@ -113,6 +118,7 @@ There are four completely different types of course, each taking place on a diff
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063707" />
+		<boxback>./images/Advanced Dungeons &amp; Dragons - DragonStrike - DragonLance Dragon Combat Simulator (USA) (v1.0) (Disk 2)-boxback.png</boxback>
 	</game>
 	<game id="89069">
 		<path>./No-Intro/20211028-052318 MIA 10/Advanced Dungeons &amp; Dragons - Treasures of the Savage Frontier - A Savage Frontier Fantasy Role-Playing Epic, Vol.II (USA) (v1.00) (Disk A).ipf</path>
@@ -130,6 +136,7 @@ The sequel to Gateway to the Savage Frontier is a role-playing game using SSI's 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063709" />
+		<boxback>./images/Advanced Dungeons &amp; Dragons - Treasures of the Savage Frontier - A Savage Frontier Fantasy Role-Playing Epic, Vol.II (USA) (v1.00) (Disk A)-boxback.png</boxback>
 	</game>
 	<game id="89069">
 		<path>./No-Intro/20211028-052318 MIA 10/Advanced Dungeons &amp; Dragons - Treasures of the Savage Frontier - A Savage Frontier Fantasy Role-Playing Epic, Vol.II (USA) (v1.00) (Disk B).ipf</path>
@@ -147,6 +154,7 @@ The sequel to Gateway to the Savage Frontier is a role-playing game using SSI's 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063711" />
+		<boxback>./images/Advanced Dungeons &amp; Dragons - Treasures of the Savage Frontier - A Savage Frontier Fantasy Role-Playing Epic, Vol.II (USA) (v1.00) (Disk B)-boxback.png</boxback>
 	</game>
 	<game id="89069">
 		<path>./No-Intro/20211028-052318 MIA 10/Advanced Dungeons &amp; Dragons - Treasures of the Savage Frontier - A Savage Frontier Fantasy Role-Playing Epic, Vol.II (USA) (v1.00) (Disk C).ipf</path>
@@ -164,6 +172,7 @@ The sequel to Gateway to the Savage Frontier is a role-playing game using SSI's 
 		<lang>en,fr</lang>
 		<region>wr</region>
 		<scrap name="ScreenScraper" date="20231005T063713" />
+		<boxback>./images/Advanced Dungeons &amp; Dragons - Treasures of the Savage Frontier - A Savage Frontier Fantasy Role-Playing Epic, Vol.II (USA) (v1.00) (Disk C)-boxback.png</boxback>
 	</game>
 	<game id="94253">
 		<path>./No-Intro/20211028-052318 MIA 10/Adventure Construction Set (USA).ipf</path>
@@ -182,6 +191,7 @@ Seven small 'toolkits' to build from include Sci/Fi, Spy, and Medieval setting t
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063715" />
+		<boxback>./images/Adventure Construction Set (USA)-boxback.png</boxback>
 	</game>
 	<game id="33457">
 		<path>./No-Intro/20211028-052318 MIA 10/Afterburner (USA) (Budget - The Hit Squad).ipf</path>
@@ -205,6 +215,7 @@ The game is viewed from behind the plane with you fighting wave after wave of en
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063717" />
+		<boxback>./images/Afterburner (USA) (Budget - The Hit Squad)-boxback.png</boxback>
 	</game>
 	<game id="33255">
 		<path>./No-Intro/20211028-052318 MIA 10/Agony (USA) (Disk 1).ipf</path>
@@ -228,6 +239,7 @@ These dark creatures include piranhas, giant ants and mosquitoes. Extra weapons 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063721" />
+		<boxback>./images/Agony (USA) (Disk 1)-boxback.png</boxback>
 	</game>
 	<game id="33255">
 		<path>./No-Intro/20211028-052318 MIA 10/Agony (USA) (Disk 2).ipf</path>
@@ -251,6 +263,7 @@ These dark creatures include piranhas, giant ants and mosquitoes. Extra weapons 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063725" />
+		<boxback>./images/Agony (USA) (Disk 2)-boxback.png</boxback>
 	</game>
 	<game id="33255">
 		<path>./No-Intro/20211028-052318 MIA 10/Agony (USA) (Disk 3).ipf</path>
@@ -274,6 +287,7 @@ These dark creatures include piranhas, giant ants and mosquitoes. Extra weapons 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063729" />
+		<boxback>./images/Agony (USA) (Disk 3)-boxback.png</boxback>
 	</game>
 	<game id="71959">
 		<path>./No-Intro/20211028-052318 MIA 10/Air Support (USA) (Disk 1).ipf</path>
@@ -292,6 +306,7 @@ The game boasted "incredibly realistic virtual 3D" which meant having to don the
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063733" />
+		<boxback>./images/Air Support (USA) (Disk 1)-boxback.png</boxback>
 	</game>
 	<game id="71959">
 		<path>./No-Intro/20211028-052318 MIA 10/Air Support (USA) (Disk 2).ipf</path>
@@ -310,6 +325,7 @@ The game boasted "incredibly realistic virtual 3D" which meant having to don the
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063737" />
+		<boxback>./images/Air Support (USA) (Disk 2)-boxback.png</boxback>
 	</game>
 	<game id="78451">
 		<path>./No-Intro/20211028-052318 MIA 10/Alien Fires 2199 AD (USA) (Disk 1).ipf</path>
@@ -329,6 +345,7 @@ Features colorful, three dimensional graphics and digitized rock music and sound
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063738" />
+		<boxback>./images/Alien Fires 2199 AD (USA) (Disk 1)-boxback.png</boxback>
 	</game>
 	<game id="78451">
 		<path>./No-Intro/20211028-052318 MIA 10/Alien Fires 2199 AD (USA) (Disk 2).ipf</path>
@@ -348,6 +365,7 @@ Features colorful, three dimensional graphics and digitized rock music and sound
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063739" />
+		<boxback>./images/Alien Fires 2199 AD (USA) (Disk 2)-boxback.png</boxback>
 	</game>
 	<game id="78331">
 		<path>./No-Intro/20211028-052318 MIA 10/Alien Syndrome (USA) (Budget - Mindscape).ipf</path>
@@ -371,6 +389,7 @@ Your job is to run around and rescue all the captives and make it to the escape 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063742" />
+		<boxback>./images/Alien Syndrome (USA) (Budget - Mindscape)-boxback.png</boxback>
 	</game>
 	<game id="78331">
 		<path>./No-Intro/20211028-052318 MIA 10/Alien Syndrome (USA).ipf</path>
@@ -394,6 +413,7 @@ Your job is to run around and rescue all the captives and make it to the escape 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063745" />
+		<boxback>./images/Alien Syndrome (USA)-boxback.png</boxback>
 	</game>
 	<game id="78333">
 		<path>./No-Intro/20211028-052318 MIA 10/Amiga Karate (USA).ipf</path>
@@ -412,6 +432,7 @@ When holding a button or key pressed the controls include moving backwards and f
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063746" />
+		<boxback>./images/Amiga Karate (USA)-boxback.png</boxback>
 	</game>
 	<game id="33807">
 		<path>./No-Intro/20211028-052318 MIA 10/Aquaventura (USA) (Disk 1).ipf</path>
@@ -433,6 +454,7 @@ Your job is now to flight with your craft above the water surface. Destroying en
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063748" />
+		<boxback>./images/Aquaventura (USA) (Disk 1)-boxback.png</boxback>
 	</game>
 	<game id="33807">
 		<path>./No-Intro/20211028-052318 MIA 10/Aquaventura (USA) (Disk 2).ipf</path>
@@ -454,6 +476,7 @@ Your job is now to flight with your craft above the water surface. Destroying en
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063750" />
+		<boxback>./images/Aquaventura (USA) (Disk 2)-boxback.png</boxback>
 	</game>
 	<game id="33628">
 		<path>./No-Intro/20211028-052318 MIA 10/Archipelagos (USA).ipf</path>
@@ -478,6 +501,7 @@ Finish the first two archipeligos and hit â€˜RETURNâ€™ to select anothe
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063752" />
+		<boxback>./images/Archipelagos (USA)-boxback.png</boxback>
 	</game>
 	<game id="33984">
 		<path>./No-Intro/20211028-052318 MIA 10/Archon - The Light and the Dark (USA).ipf</path>
@@ -499,6 +523,7 @@ Finish the first two archipeligos and hit â€˜RETURNâ€™ to select anothe
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063754" />
+		<boxback>./images/Archon - The Light and the Dark (USA)-boxback.png</boxback>
 	</game>
 	<game id="34476">
 		<path>./No-Intro/20211028-052318 MIA 10/Archon II - Adept (USA).ipf</path>
@@ -523,6 +548,7 @@ Gameplay is similar to the original, reminiscent of a chess-like board game, req
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063755" />
+		<boxback>./images/Archon II - Adept (USA)-boxback.png</boxback>
 	</game>
 	<game id="33802">
 		<path>./No-Intro/20211028-052318 MIA 10/Arctic Fox (USA).ipf</path>
@@ -547,6 +573,7 @@ Enemy targets come in all sorts of shapes and sizes: planes, tanks, recon sleds 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063757" />
+		<boxback>./images/Arctic Fox (USA)-boxback.png</boxback>
 	</game>
 	<game id="94317">
 		<path>./No-Intro/20211028-052318 MIA 10/Arena (USA).ipf</path>
@@ -567,6 +594,7 @@ Unlike other games of the genre, humor is not getting short, as a referee is con
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063759" />
+		<boxback>./images/Arena (USA)-boxback.png</boxback>
 	</game>
 	<game id="33339">
 		<path>./No-Intro/20211028-052318 MIA 10/Arkanoid (USA) (v1.05 1988-03-31).ipf</path>
@@ -589,6 +617,7 @@ By the mid-80s, power-ups were popular in most types of arcade games, and Arkano
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063800" />
+		<boxback>./images/Arkanoid (USA) (v1.05 1988-03-31)-boxback.png</boxback>
 	</game>
 	<game id="33339">
 		<path>./No-Intro/20211028-052318 MIA 10/Arkanoid (USA) (v1.05 3.31.88) (AmigaDOS).ipf</path>
@@ -611,6 +640,7 @@ By the mid-80s, power-ups were popular in most types of arcade games, and Arkano
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063801" />
+		<boxback>./images/Arkanoid (USA) (v1.05 3.31.88) (AmigaDOS)-boxback.png</boxback>
 	</game>
 	<game id="97335">
 		<path>./No-Intro/20211028-052318 MIA 10/Arthur - The Quest for Excalibur (USA) (r54).ipf</path>
@@ -627,6 +657,7 @@ The player assumes the role of a young Arthur, before the legendary days of Came
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063802" />
+		<boxback>./images/Arthur - The Quest for Excalibur (USA) (r54)-boxback.png</boxback>
 	</game>
 	<game id="33705">
 		<path>./No-Intro/20211028-052318 MIA 10/Atomino (USA) (En,Fr,It).ipf</path>
@@ -646,6 +677,7 @@ The player assumes the role of a young Arthur, before the legendary days of Came
 		<lang>en,fr,it</lang>
 		<region>eu</region>
 		<scrap name="ScreenScraper" date="20231005T063805" />
+		<boxback>./images/Atomino (USA) (En,Fr,It)-boxback.png</boxback>
 	</game>
 	<game id="34244">
 		<path>./No-Intro/20211028-052318 MIA 10/Axe of Rage (USA) (Disk 1).ipf</path>
@@ -668,6 +700,7 @@ The game has similar game play to the original, but with a different challenge. 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063807" />
+		<boxback>./images/Axe of Rage (USA) (Disk 1)-boxback.png</boxback>
 	</game>
 	<game id="34244">
 		<path>./No-Intro/20211028-052318 MIA 10/Axe of Rage (USA) (Disk 2).ipf</path>
@@ -690,6 +723,7 @@ The game has similar game play to the original, but with a different challenge. 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063809" />
+		<boxback>./images/Axe of Rage (USA) (Disk 2)-boxback.png</boxback>
 	</game>
 	<game id="33531">
 		<path>./No-Intro/20211028-052318 MIA 10/Back to the Future Part III (USA) (Disk 1).ipf</path>
@@ -720,6 +754,7 @@ The game has similar game play to the original, but with a different challenge. 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063812" />
+		<boxback>./images/Back to the Future Part III (USA) (Disk 1)-boxback.png</boxback>
 	</game>
 	<game id="33531">
 		<path>./No-Intro/20211028-052318 MIA 10/Back to the Future Part III (USA) (Disk 2).ipf</path>
@@ -750,6 +785,7 @@ The game has similar game play to the original, but with a different challenge. 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063816" />
+		<boxback>./images/Back to the Future Part III (USA) (Disk 2)-boxback.png</boxback>
 	</game>
 	<game id="33991">
 		<path>./No-Intro/20211028-052318 MIA 10/Bad Dudes (USA).ipf</path>
@@ -776,6 +812,7 @@ At the end of each level, one of the "super warrior" bosses will appear which ne
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063819" />
+		<boxback>./images/Bad Dudes (USA)-boxback.png</boxback>
 	</game>
 	<game id="102422">
 		<path>./No-Intro/20211028-052318 MIA 10/Balance of Power - Geopolitics in the Nuclear Age (USA).ipf</path>
@@ -794,6 +831,7 @@ This core mechanic is similar to that of Bruce Ketchledge's 1983 game Geopolitiq
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063820" />
+		<boxback>./images/Balance of Power - Geopolitics in the Nuclear Age (USA)-boxback.png</boxback>
 	</game>
 	<game id="33577">
 		<path>./No-Intro/20211028-052318 MIA 10/Bard's Tale, The - Tales of the Unknown (USA).ipf</path>
@@ -818,6 +856,7 @@ Six character classes are available when the player is prompted to create a part
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063822" />
+		<boxback>./images/Bard's Tale, The - Tales of the Unknown (USA)-boxback.png</boxback>
 	</game>
 	<game id="33419">
 		<path>./No-Intro/20211028-052318 MIA 10/Battle Command (USA).ipf</path>
@@ -837,6 +876,7 @@ You command a single "Mauler" assault tank in one of a series of scenarios. Thes
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063823" />
+		<boxback>./images/Battle Command (USA)-boxback.png</boxback>
 	</game>
 	<game id="33484">
 		<path>./No-Intro/20211028-052318 MIA 10/Battle Squadron - The Destruction of the Barrax Empire! (USA).ipf</path>
@@ -862,6 +902,7 @@ You get powerups along the way that modify your weapons, and also the "Nova Smar
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063826" />
+		<boxback>./images/Battle Squadron - The Destruction of the Barrax Empire! (USA)-boxback.png</boxback>
 	</game>
 	<game id="39049">
 		<path>./No-Intro/20211028-052318 MIA 10/Battlestorm (USA).ipf</path>
@@ -884,6 +925,7 @@ Absorbing enemy fire will deplete your power, while collecting power-ups and des
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063828" />
+		<boxback>./images/Battlestorm (USA)-boxback.png</boxback>
 	</game>
 	<game id="34520">
 		<path>./No-Intro/20211028-052318 MIA 10/BattleTech - The Crescent Hawk's Inception (USA) (v2.3).ipf</path>
@@ -908,6 +950,7 @@ Hours of play need to be put in to get anywhere in Battletech, but the experienc
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063831" />
+		<boxback>./images/BattleTech - The Crescent Hawk's Inception (USA) (v2.3)-boxback.png</boxback>
 	</game>
 	<game id="88922">
 		<path>./No-Intro/20211028-052318 MIA 10/Bermuda Project (USA).ipf</path>
@@ -947,6 +990,7 @@ Other levels feature Asteroids which split when shot, or a single Ã¢â‚¬Ë�
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063833" />
+		<boxback>./images/Better Dead Than Alien (USA)-boxback.png</boxback>
 	</game>
 	<game id="103295">
 		<path>./No-Intro/20211028-052318 MIA 10/Beyond Zork - The Coconut of Quendor (USA) (r57).ipf</path>
@@ -969,6 +1013,7 @@ Beyond Zork is a clever combination of an Infocom text adventure with a D&amp;D 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063835" />
+		<boxback>./images/Beyond Zork - The Coconut of Quendor (USA) (r57)-boxback.png</boxback>
 	</game>
 	<game id="33277">
 		<path>./No-Intro/20211028-052318 MIA 10/Bionic Commando (USA).ipf</path>
@@ -993,6 +1038,7 @@ Your mission is to infiltrate the enemy fortress, find your missing comrade, "Su
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063843" />
+		<boxback>./images/Bionic Commando (USA)-boxback.png</boxback>
 	</game>
 	<game id="103289">
 		<path>./No-Intro/20211028-052318 MIA 10/Blue Angels - Formation Flight Simulation (USA).ipf</path>
@@ -1010,6 +1056,7 @@ Overall, a fun game for flight sim beginners who aren't too concerned with reali
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063845" />
+		<boxback>./images/Blue Angels - Formation Flight Simulation (USA)-boxback.png</boxback>
 	</game>
 	<game id="102664">
 		<path>./No-Intro/20211028-052318 MIA 10/Bo Jackson Baseball (USA) (Disk 1).ipf</path>
@@ -1028,6 +1075,7 @@ Emphasis is put on user-friendliness and TV-style presentation, featuring the li
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063846" />
+		<boxback>./images/Bo Jackson Baseball (USA) (Disk 1)-boxback.png</boxback>
 	</game>
 	<game id="102664">
 		<path>./No-Intro/20211028-052318 MIA 10/Bo Jackson Baseball (USA) (Disk 2).ipf</path>
@@ -1046,6 +1094,7 @@ Emphasis is put on user-friendliness and TV-style presentation, featuring the li
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063847" />
+		<boxback>./images/Bo Jackson Baseball (USA) (Disk 2)-boxback.png</boxback>
 	</game>
 	<game id="103291">
 		<path>./No-Intro/20211028-052318 MIA 10/Boot, Das (USA) (Disk 1).ipf</path>
@@ -1072,6 +1121,7 @@ As a game, whilst it wonÃ¢â‚¬â„¢t become a member of my "top tier" it 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063848" />
+		<boxback>./images/Boot, Das (USA) (Disk 1)-boxback.png</boxback>
 	</game>
 	<game id="103291">
 		<path>./No-Intro/20211028-052318 MIA 10/Boot, Das (USA) (Disk 2).ipf</path>
@@ -1098,6 +1148,7 @@ As a game, whilst it wonÃ¢â‚¬â„¢t become a member of my "top tier" it 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063849" />
+		<boxback>./images/Boot, Das (USA) (Disk 2)-boxback.png</boxback>
 	</game>
 	<game id="39068">
 		<path>./No-Intro/20211028-052318 MIA 10/Brataccas (USA).ipf</path>
@@ -1122,6 +1173,7 @@ Brataccas is a place where greed and corruption rule the day.  The residents are
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063852" />
+		<boxback>./images/Brataccas (USA)-boxback.png</boxback>
 	</game>
 	<game id="39070">
 		<path>./No-Intro/20211028-052318 MIA 10/Breach (USA).ipf</path>
@@ -1146,6 +1198,7 @@ In an unique twist, the squad leader advances from mission to mission (while the
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063854" />
+		<boxback>./images/Breach (USA)-boxback.png</boxback>
 	</game>
 	<game id="33247">
 		<path>./No-Intro/20211028-052318 MIA 10/Bubble Bobble (USA).ipf</path>
@@ -1170,6 +1223,7 @@ Bubble Bobble is a platform game, with each level being a single screen. The ene
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063856" />
+		<boxback>./images/Bubble Bobble (USA)-boxback.png</boxback>
 	</game>
 	<game id="33861">
 		<path>./No-Intro/20211028-052318 MIA 10/Buck Rogers - Countdown to Doomsday - Science Fiction Role-Playing Computer Game, Vol.I (USA) (v1.0) (Disk 1).ipf</path>
@@ -1190,6 +1244,7 @@ There are several navigation modes in the game. The player can navigate the spac
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063857" />
+		<boxback>./images/Buck Rogers - Countdown to Doomsday - Science Fiction Role-Playing Computer Game, Vol.I (USA) (v1.0) (Disk 1)-boxback.png</boxback>
 	</game>
 	<game id="33861">
 		<path>./No-Intro/20211028-052318 MIA 10/Buck Rogers - Countdown to Doomsday - Science Fiction Role-Playing Computer Game, Vol.I (USA) (v1.0) (Disk 2).ipf</path>
@@ -1210,6 +1265,7 @@ There are several navigation modes in the game. The player can navigate the spac
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063858" />
+		<boxback>./images/Buck Rogers - Countdown to Doomsday - Science Fiction Role-Playing Computer Game, Vol.I (USA) (v1.0) (Disk 2)-boxback.png</boxback>
 	</game>
 	<game id="39074">
 		<path>./No-Intro/20211028-052318 MIA 10/Bureaucracy (USA) (r86).ipf</path>
@@ -1240,6 +1296,7 @@ Oh by the way: The man in our story about the bank was Douglas Adams, the princi
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063901" />
+		<boxback>./images/Bureaucracy (USA) (r86)-boxback.png</boxback>
 	</game>
 	<game id="33382">
 		<path>./No-Intro/20211028-052318 MIA 10/Captain Blood (USA).ipf</path>
@@ -1265,6 +1322,7 @@ The player controls a biological ship called an Ark, and must launch probes onto
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063903" />
+		<boxback>./images/Captain Blood (USA)-boxback.png</boxback>
 	</game>
 	<game id="39082">
 		<path>./No-Intro/20211028-052318 MIA 10/Carthage (USA) (Disk 1).ipf</path>
@@ -1290,6 +1348,7 @@ Actually distributing the cash appropriately involves transporting it via Chario
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063906" />
+		<boxback>./images/Carthage (USA) (Disk 1)-boxback.png</boxback>
 	</game>
 	<game id="39082">
 		<path>./No-Intro/20211028-052318 MIA 10/Carthage (USA) (Disk 2).ipf</path>
@@ -1315,6 +1374,7 @@ Actually distributing the cash appropriately involves transporting it via Chario
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063911" />
+		<boxback>./images/Carthage (USA) (Disk 2)-boxback.png</boxback>
 	</game>
 	<game id="87617">
 		<path>./No-Intro/20211028-052318 MIA 10/Castle of Dr. Brain (USA) (v1.0) (Disk 1).ipf</path>
@@ -1337,6 +1397,7 @@ Your problem-solving skills will be stretched to the limits as you try to think 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063912" />
+		<boxback>./images/Castle of Dr. Brain (USA) (v1.0) (Disk 1)-boxback.png</boxback>
 	</game>
 	<game id="87617">
 		<path>./No-Intro/20211028-052318 MIA 10/Castle of Dr. Brain (USA) (v1.0) (Disk 2).ipf</path>
@@ -1359,6 +1420,7 @@ Your problem-solving skills will be stretched to the limits as you try to think 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063914" />
+		<boxback>./images/Castle of Dr. Brain (USA) (v1.0) (Disk 2)-boxback.png</boxback>
 	</game>
 	<game id="87617">
 		<path>./No-Intro/20211028-052318 MIA 10/Castle of Dr. Brain (USA) (v1.0) (Disk 3).ipf</path>
@@ -1381,6 +1443,7 @@ Your problem-solving skills will be stretched to the limits as you try to think 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063917" />
+		<boxback>./images/Castle of Dr. Brain (USA) (v1.0) (Disk 3)-boxback.png</boxback>
 	</game>
 	<game id="87617">
 		<path>./No-Intro/20211028-052318 MIA 10/Castle of Dr. Brain (USA) (v1.0) (Startup, Dual Play Disk).ipf</path>
@@ -1403,6 +1466,7 @@ Your problem-solving skills will be stretched to the limits as you try to think 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063919" />
+		<boxback>./images/Castle of Dr. Brain (USA) (v1.0) (Startup, Dual Play Disk)-boxback.png</boxback>
 	</game>
 	<game id="33573">
 		<path>./No-Intro/20211028-052318 MIA 10/Centurion - Defender of Rome (USA) (Disk 1).ipf</path>
@@ -1433,6 +1497,7 @@ Finally, you can buy warships and have naval battles with the enemy fleet. This 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063920" />
+		<boxback>./images/Centurion - Defender of Rome (USA) (Disk 1)-boxback.png</boxback>
 	</game>
 	<game id="33573">
 		<path>./No-Intro/20211028-052318 MIA 10/Centurion - Defender of Rome (USA) (Disk 2).ipf</path>
@@ -1463,6 +1528,7 @@ Finally, you can buy warships and have naval battles with the enemy fleet. This 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063922" />
+		<boxback>./images/Centurion - Defender of Rome (USA) (Disk 2)-boxback.png</boxback>
 	</game>
 	<game id="39088">
 		<path>./No-Intro/20211028-052318 MIA 10/Chamber of the Sci-Mutant Priestess (USA).ipf</path>
@@ -1484,6 +1550,7 @@ ordeal he completes, he receives a Vort skull. Can you complete the five ordeals
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063924" />
+		<boxback>./images/Chamber of the Sci-Mutant Priestess (USA)-boxback.png</boxback>
 	</game>
 	<game id="103241">
 		<path>./No-Intro/20211028-052318 MIA 10/Chessmaster 2100 (USA) (v1.2) (Disk 1).ipf</path>
@@ -1500,6 +1567,7 @@ ordeal he completes, he receives a Vort skull. Can you complete the five ordeals
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063925" />
+		<boxback>./images/Chessmaster 2100 (USA) (v1.2) (Disk 1)-boxback.png</boxback>
 	</game>
 	<game id="103241">
 		<path>./No-Intro/20211028-052318 MIA 10/Chessmaster 2100 (USA) (v1.2) (Disk 2).ipf</path>
@@ -1516,6 +1584,7 @@ ordeal he completes, he receives a Vort skull. Can you complete the five ordeals
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063926" />
+		<boxback>./images/Chessmaster 2100 (USA) (v1.2) (Disk 2)-boxback.png</boxback>
 	</game>
 	<game id="33470">
 		<path>./No-Intro/20211028-052318 MIA 10/Chip's Challenge (USA).ipf</path>
@@ -1537,6 +1606,7 @@ ordeal he completes, he receives a Vort skull. Can you complete the five ordeals
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063929" />
+		<boxback>./images/Chip's Challenge (USA)-boxback.png</boxback>
 	</game>
 	<game id="103256">
 		<path>./No-Intro/20211028-052318 MIA 10/Clue - Master Detective (USA).ipf</path>
@@ -1559,6 +1629,7 @@ Mr. Boddy was murdered in his manor by one of his guests. You have to solve the 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063930" />
+		<boxback>./images/Clue - Master Detective (USA)-boxback.png</boxback>
 	</game>
 	<game id="78399">
 		<path>./No-Intro/20211028-052318 MIA 10/Combat Course (USA) (v1.4).ipf</path>
@@ -1584,6 +1655,7 @@ To give the game replay value, there is a course construction set so that you ca
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063931" />
+		<boxback>./images/Combat Course (USA) (v1.4)-boxback.png</boxback>
 	</game>
 	<game id="39354">
 		<path>./No-Intro/20211028-052318 MIA 10/Computer Third Reich (USA).ipf</path>
@@ -1612,6 +1684,7 @@ Just as in the board game, the action takes place on a hexagon map of Europe.</d
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063932" />
+		<boxback>./images/Computer Third Reich (USA)-boxback.png</boxback>
 	</game>
 	<game id="39098">
 		<path>./No-Intro/20211028-052318 MIA 10/Conflict - Middle East - Arab-Israeli Wars - 1973-x (USA) (Game Disk).ipf</path>
@@ -1629,6 +1702,7 @@ Just as in the board game, the action takes place on a hexagon map of Europe.</d
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063934" />
+		<boxback>./images/Conflict - Middle East - Arab-Israeli Wars - 1973-x (USA) (Game Disk)-boxback.png</boxback>
 	</game>
 	<game id="34214">
 		<path>./No-Intro/20211028-052318 MIA 10/Cosmic Relief (USA).ipf</path>
@@ -1650,6 +1724,7 @@ Select one of the five most intrepid Adventurers from England, France, Germany, 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063936" />
+		<boxback>./images/Cosmic Relief (USA)-boxback.png</boxback>
 	</game>
 	<game id="103270">
 		<path>./No-Intro/20211028-052318 MIA 10/Crash Garrett (USA).ipf</path>
@@ -1668,6 +1743,7 @@ Select one of the five most intrepid Adventurers from England, France, Germany, 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063938" />
+		<boxback>./images/Crash Garrett (USA)-boxback.png</boxback>
 	</game>
 	<game id="33761">
 		<path>./No-Intro/20211028-052318 MIA 10/Damocles - Mercenary II (USA).ipf</path>
@@ -1690,6 +1766,7 @@ Just like Mercenary, you play this game in the first person perspective, this ti
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063939" />
+		<boxback>./images/Damocles - Mercenary II (USA)-boxback.png</boxback>
 	</game>
 	<game id="33394">
 		<path>./No-Intro/20211028-052318 MIA 10/Dark Castle (USA) (Disk 1).ipf</path>
@@ -1709,6 +1786,7 @@ The bulk of the game is side-viewed, involving single screens to pass through, w
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063940" />
+		<boxback>./images/Dark Castle (USA) (Disk 1)-boxback.png</boxback>
 	</game>
 	<game id="33394">
 		<path>./No-Intro/20211028-052318 MIA 10/Dark Castle (USA) (Disk 2).ipf</path>
@@ -1728,6 +1806,7 @@ The bulk of the game is side-viewed, involving single screens to pass through, w
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063941" />
+		<boxback>./images/Dark Castle (USA) (Disk 2)-boxback.png</boxback>
 	</game>
 	<game id="34680">
 		<path>./No-Intro/20211028-052318 MIA 10/Dark Side (USA).ipf</path>
@@ -1754,6 +1833,7 @@ Gameplay has more action than Driller. The Freescape world has a third dimension
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063943" />
+		<boxback>./images/Dark Side (USA)-boxback.png</boxback>
 	</game>
 	<game id="39116">
 		<path>./No-Intro/20211028-052318 MIA 10/Death Bringer (USA) (Disk 1).ipf</path>
@@ -1775,6 +1855,7 @@ In most of these horizontally-scrolling beat-'em-ups, gameplay is a simple matte
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063944" />
+		<boxback>./images/Death Bringer (USA) (Disk 1)-boxback.png</boxback>
 	</game>
 	<game id="39116">
 		<path>./No-Intro/20211028-052318 MIA 10/Death Bringer (USA) (Disk 2).ipf</path>
@@ -1796,6 +1877,7 @@ In most of these horizontally-scrolling beat-'em-ups, gameplay is a simple matte
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063946" />
+		<boxback>./images/Death Bringer (USA) (Disk 2)-boxback.png</boxback>
 	</game>
 	<game id="78428">
 		<path>./No-Intro/20211028-052318 MIA 10/Deep Space (USA) (v1.00a).ipf</path>
@@ -1813,6 +1895,7 @@ In most of these horizontally-scrolling beat-'em-ups, gameplay is a simple matte
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063948" />
+		<boxback>./images/Deep Space (USA) (v1.00a)-boxback.png</boxback>
 	</game>
 	<game id="33357">
 		<path>./No-Intro/20211028-052318 MIA 10/Defender of the Crown (USA) (Disk 1).ipf</path>
@@ -1841,6 +1924,7 @@ The game was originally created on the Amiga platform in 1986 by Cinemaware with
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063951" />
+		<boxback>./images/Defender of the Crown (USA) (Disk 1)-boxback.png</boxback>
 	</game>
 	<game id="33357">
 		<path>./No-Intro/20211028-052318 MIA 10/Defender of the Crown (USA) (Disk 2).ipf</path>
@@ -1869,6 +1953,7 @@ The game was originally created on the Amiga platform in 1986 by Cinemaware with
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063953" />
+		<boxback>./images/Defender of the Crown (USA) (Disk 2)-boxback.png</boxback>
 	</game>
 	<game id="34692">
 		<path>./No-Intro/20211028-052318 MIA 10/Deja Vu - A Nightmare Comes True! (USA).ipf</path>
@@ -1894,6 +1979,7 @@ For something different, Deja vu is worth trying, and in any event, makes a wort
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T063956" />
+		<boxback>./images/Deja Vu - A Nightmare Comes True! (USA)-boxback.png</boxback>
 	</game>
 	<game id="103205">
 		<path>./No-Intro/20211028-052318 MIA 10/Demon's Winter (USA) (v1.0).ipf</path>
@@ -1911,6 +1997,7 @@ Combat takes place via close-quarters combat and spell-casting, depending on the
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064001" />
+		<boxback>./images/Demon's Winter (USA) (v1.0)-boxback.png</boxback>
 	</game>
 	<game id="33302">
 		<path>./No-Intro/20211028-052318 MIA 10/Double Dragon II - The Revenge (USA) (v4.16ecs).ipf</path>
@@ -1934,6 +2021,7 @@ The original arcade version of "Double Dragon II" was essentially an improved ve
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064003" />
+		<boxback>./images/Double Dragon II - The Revenge (USA) (v4.16ecs)-boxback.png</boxback>
 	</game>
 	<game id="33910">
 		<path>./No-Intro/20211028-052318 MIA 10/Dr. Doom's Revenge! (USA) (Disk 1).ipf</path>
@@ -1958,6 +2046,7 @@ F3 - Restock everything.</desc>
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064004" />
+		<boxback>./images/Dr. Doom's Revenge! (USA) (Disk 1)-boxback.png</boxback>
 	</game>
 	<game id="34129">
 		<path>./No-Intro/20211028-052318 MIA 10/Dr. Doom's Revenge! (USA) (Disk 2).ipf</path>
@@ -1981,6 +2070,7 @@ The main action in the game is a side-scrolling beat 'em up, in which you altern
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064005" />
+		<boxback>./images/Dr. Doom's Revenge! (USA) (Disk 2)-boxback.png</boxback>
 	</game>
 	<game id="78438">
 		<path>./No-Intro/20211028-052318 MIA 10/Dragon Lord (USA) (Disk 1).ipf</path>
@@ -2010,6 +2100,7 @@ Note: If there is an enemy dragon near the area, the enemy dragon will come to t
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064007" />
+		<boxback>./images/Dragon Lord (USA) (Disk 1)-boxback.png</boxback>
 	</game>
 	<game id="78438">
 		<path>./No-Intro/20211028-052318 MIA 10/Dragon Lord (USA) (Disk 2).ipf</path>
@@ -2039,6 +2130,7 @@ Note: If there is an enemy dragon near the area, the enemy dragon will come to t
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064009" />
+		<boxback>./images/Dragon Lord (USA) (Disk 2)-boxback.png</boxback>
 	</game>
 	<game id="33324">
 		<path>./No-Intro/20211028-052318 MIA 10/Drakkhen (USA) (v1.1) (Disk 1).ipf</path>
@@ -2061,6 +2153,7 @@ Drakkhen is a role-playing game with a visual presentation that combines 3D land
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064012" />
+		<boxback>./images/Drakkhen (USA) (v1.1) (Disk 1)-boxback.png</boxback>
 	</game>
 	<game id="33324">
 		<path>./No-Intro/20211028-052318 MIA 10/Drakkhen (USA) (v1.1) (Disk 2).ipf</path>
@@ -2083,6 +2176,7 @@ Drakkhen is a role-playing game with a visual presentation that combines 3D land
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064015" />
+		<boxback>./images/Drakkhen (USA) (v1.1) (Disk 2)-boxback.png</boxback>
 	</game>
 	<game id="94391">
 		<path>./No-Intro/20211028-052318 MIA 10/Ebonstar (USA).ipf</path>
@@ -2108,6 +2202,7 @@ Inside Ebonstar is a great and fascinating game dying to come out Ã¢â‚¬â�
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064016" />
+		<boxback>./images/Ebonstar (USA)-boxback.png</boxback>
 	</game>
 	<game id="88825">
 		<path>./No-Intro/20211028-052318 MIA 10/F-19 Stealth Fighter (USA) (Disk A).ipf</path>
@@ -2125,6 +2220,7 @@ F-19 Stealth Fighter was based around Sid Meier's closest estimate of the stealt
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064017" />
+		<boxback>./images/F-19 Stealth Fighter (USA) (Disk A)-boxback.png</boxback>
 	</game>
 	<game id="88825">
 		<path>./No-Intro/20211028-052318 MIA 10/F-19 Stealth Fighter (USA) (Disk B).ipf</path>
@@ -2142,6 +2238,7 @@ F-19 Stealth Fighter was based around Sid Meier's closest estimate of the stealt
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064018" />
+		<boxback>./images/F-19 Stealth Fighter (USA) (Disk B)-boxback.png</boxback>
 	</game>
 	<game id="88825">
 		<path>./No-Intro/20211028-052318 MIA 10/F-19 Stealth Fighter (USA) (Disk C).ipf</path>
@@ -2159,6 +2256,7 @@ F-19 Stealth Fighter was based around Sid Meier's closest estimate of the stealt
 		<lang>en,fr</lang>
 		<region>wr</region>
 		<scrap name="ScreenScraper" date="20231005T064019" />
+		<boxback>./images/F-19 Stealth Fighter (USA) (Disk C)-boxback.png</boxback>
 	</game>
 	<game id="33916">
 		<path>./No-Intro/20211028-052318 MIA 10/Falcon (USA) (v1.00) (Disk 1).ipf</path>
@@ -2178,6 +2276,7 @@ F-19 Stealth Fighter was based around Sid Meier's closest estimate of the stealt
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064022" />
+		<boxback>./images/Falcon (USA) (v1.00) (Disk 1)-boxback.png</boxback>
 	</game>
 	<game id="33916">
 		<path>./No-Intro/20211028-052318 MIA 10/Falcon (USA) (v1.00) (Disk 2).ipf</path>
@@ -2197,6 +2296,7 @@ F-19 Stealth Fighter was based around Sid Meier's closest estimate of the stealt
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064025" />
+		<boxback>./images/Falcon (USA) (v1.00) (Disk 2)-boxback.png</boxback>
 	</game>
 	<game id="33916">
 		<path>./No-Intro/20211028-052318 MIA 10/Falcon (USA) (v1.1) (Disk 1).ipf</path>
@@ -2216,6 +2316,7 @@ F-19 Stealth Fighter was based around Sid Meier's closest estimate of the stealt
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064030" />
+		<boxback>./images/Falcon (USA) (v1.1) (Disk 1)-boxback.png</boxback>
 	</game>
 	<game id="33916">
 		<path>./No-Intro/20211028-052318 MIA 10/Falcon (USA) (v1.1) (Disk 2).ipf</path>
@@ -2235,6 +2336,7 @@ F-19 Stealth Fighter was based around Sid Meier's closest estimate of the stealt
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064033" />
+		<boxback>./images/Falcon (USA) (v1.1) (Disk 2)-boxback.png</boxback>
 	</game>
 	<game id="34041">
 		<path>./No-Intro/20211028-052318 MIA 10/Falcon Mission Disk - Operation Counterstrike (USA) (Addon).ipf</path>
@@ -2252,6 +2354,7 @@ F-19 Stealth Fighter was based around Sid Meier's closest estimate of the stealt
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064036" />
+		<boxback>./images/Falcon Mission Disk - Operation Counterstrike (USA) (Addon)-boxback.png</boxback>
 	</game>
 	<game id="94248">
 		<path>./No-Intro/20211028-052318 MIA 10/Falcon Mission Disk - Operation Firefight (USA) (Addon).ipf</path>
@@ -2265,6 +2368,7 @@ F-19 Stealth Fighter was based around Sid Meier's closest estimate of the stealt
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064037" />
+		<boxback>./images/Falcon Mission Disk - Operation Firefight (USA) (Addon)-boxback.png</boxback>
 	</game>
 	<game id="103138">
 		<path>./No-Intro/20211028-052318 MIA 10/Fantastic Voyage (USA, Europe) (Disk 1).ipf</path>
@@ -2280,6 +2384,7 @@ F-19 Stealth Fighter was based around Sid Meier's closest estimate of the stealt
 		<lang>en</lang>
 		<region>eu</region>
 		<scrap name="ScreenScraper" date="20231005T064038" />
+		<boxback>./images/Fantastic Voyage (USA, Europe) (Disk 1)-boxback.png</boxback>
 	</game>
 	<game id="103138">
 		<path>./No-Intro/20211028-052318 MIA 10/Fantastic Voyage (USA, Europe) (Disk 2).ipf</path>
@@ -2295,6 +2400,7 @@ F-19 Stealth Fighter was based around Sid Meier's closest estimate of the stealt
 		<lang>en</lang>
 		<region>eu</region>
 		<scrap name="ScreenScraper" date="20231005T064039" />
+		<boxback>./images/Fantastic Voyage (USA, Europe) (Disk 2)-boxback.png</boxback>
 	</game>
 	<game id="103101">
 		<path>./No-Intro/20211028-052318 MIA 10/Federation (USA).ipf</path>
@@ -2314,6 +2420,7 @@ During the docking sequence players can create their own programs for automated 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064042" />
+		<boxback>./images/Federation (USA)-boxback.png</boxback>
 	</game>
 	<game id="103145">
 		<path>./No-Intro/20211028-052318 MIA 10/Fighter Duel Pro (USA) (Disk 1).ipf</path>
@@ -2327,6 +2434,7 @@ During the docking sequence players can create their own programs for automated 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064043" />
+		<boxback>./images/Fighter Duel Pro (USA) (Disk 1)-boxback.png</boxback>
 	</game>
 	<game id="103145">
 		<path>./No-Intro/20211028-052318 MIA 10/Fighter Duel Pro (USA) (Disk 2).ipf</path>
@@ -2340,6 +2448,7 @@ During the docking sequence players can create their own programs for automated 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064045" />
+		<boxback>./images/Fighter Duel Pro (USA) (Disk 2)-boxback.png</boxback>
 	</game>
 	<game id="103145">
 		<path>./No-Intro/20211028-052318 MIA 10/Fighter Duel Pro (USA) (Disk 3).ipf</path>
@@ -2353,6 +2462,7 @@ During the docking sequence players can create their own programs for automated 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064046" />
+		<boxback>./images/Fighter Duel Pro (USA) (Disk 3)-boxback.png</boxback>
 	</game>
 	<game id="103137">
 		<path>./No-Intro/20211028-052318 MIA 10/Final Assault (USA).ipf</path>
@@ -2372,6 +2482,7 @@ During the docking sequence players can create their own programs for automated 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064047" />
+		<boxback>./images/Final Assault (USA)-boxback.png</boxback>
 	</game>
 	<game id="39150">
 		<path>./No-Intro/20211028-052318 MIA 10/FireZone (USA).ipf</path>
@@ -2390,6 +2501,7 @@ Firezone translates pen-and-paper, tactical wargaming to the computer screen.  Y
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064048" />
+		<boxback>./images/FireZone (USA)-boxback.png</boxback>
 	</game>
 	<game id="103100">
 		<path>./No-Intro/20211028-052318 MIA 10/Flight Simulator II (USA) (v1.0).ipf</path>
@@ -2411,6 +2523,7 @@ Flight Simulator II is packaged with a WWI dogfighting game, called WWI Ace. In 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064051" />
+		<boxback>./images/Flight Simulator II (USA) (v1.0)-boxback.png</boxback>
 	</game>
 	<game id="34352">
 		<path>./No-Intro/20211028-052318 MIA 10/Four Crystals of Trazere, The (USA) (Disk 1).ipf</path>
@@ -2432,6 +2545,7 @@ The party moves from location to location on a strategic map avoiding (or ambush
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064053" />
+		<boxback>./images/Four Crystals of Trazere, The (USA) (Disk 1)-boxback.png</boxback>
 	</game>
 	<game id="34352">
 		<path>./No-Intro/20211028-052318 MIA 10/Four Crystals of Trazere, The (USA) (Disk 2).ipf</path>
@@ -2453,6 +2567,7 @@ The party moves from location to location on a strategic map avoiding (or ambush
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064055" />
+		<boxback>./images/Four Crystals of Trazere, The (USA) (Disk 2)-boxback.png</boxback>
 	</game>
 	<game id="106838">
 		<path>./No-Intro/20211028-052318 MIA 10/Full Metal Planete (USA).ipf</path>
@@ -2473,6 +2588,7 @@ The computer game is an accurate conversion of the board game; virtually every f
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064057" />
+		<boxback>./images/Full Metal Planete (USA)-boxback.png</boxback>
 	</game>
 	<game id="33285">
 		<path>./No-Intro/20211028-052318 MIA 10/Future Wars - Time Travellers (USA) (Disk 1).ipf</path>
@@ -2499,6 +2615,7 @@ Future Wars has some excellent animated sequences, gorgeous backdrops and a mult
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064059" />
+		<boxback>./images/Future Wars - Time Travellers (USA) (Disk 1)-boxback.png</boxback>
 	</game>
 	<game id="33285">
 		<path>./No-Intro/20211028-052318 MIA 10/Future Wars - Time Travellers (USA) (Disk 2).ipf</path>
@@ -2525,6 +2642,7 @@ Future Wars has some excellent animated sequences, gorgeous backdrops and a mult
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064101" />
+		<boxback>./images/Future Wars - Time Travellers (USA) (Disk 2)-boxback.png</boxback>
 	</game>
 	<game id="34609">
 		<path>./No-Intro/20211028-052318 MIA 10/GFL Championship Football (USA).ipf</path>
@@ -2546,6 +2664,7 @@ Standard Gridiron rules apply – gain 10 yards in 4 attempts (downs) without fu
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064102" />
+		<boxback>./images/GFL Championship Football (USA)-boxback.png</boxback>
 	</game>
 	<game id="33560">
 		<path>./No-Intro/20211028-052318 MIA 10/Ghostbusters II (USA) (Disk A).ipf</path>
@@ -2574,6 +2693,7 @@ In the third scene, the Ghostbusters confront big bad Vigo in the museum, seen i
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064104" />
+		<boxback>./images/Ghostbusters II (USA) (Disk A)-boxback.png</boxback>
 	</game>
 	<game id="33560">
 		<path>./No-Intro/20211028-052318 MIA 10/Ghostbusters II (USA) (Disk B).ipf</path>
@@ -2602,6 +2722,7 @@ In the third scene, the Ghostbusters confront big bad Vigo in the museum, seen i
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064106" />
+		<boxback>./images/Ghostbusters II (USA) (Disk B)-boxback.png</boxback>
 	</game>
 	<game id="34421">
 		<path>./No-Intro/20211028-052318 MIA 10/Global Commander (USA).ipf</path>
@@ -2622,6 +2743,7 @@ The game is controlled by a point and click interface where you can check messag
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064108" />
+		<boxback>./images/Global Commander (USA)-boxback.png</boxback>
 	</game>
 	<game id="34490">
 		<path>./No-Intro/20211028-052318 MIA 10/Gunship (USA) (v832.03).ipf</path>
@@ -2650,6 +2772,7 @@ What you have here is the same brilliant game, but adapted to suit an Amiga, wit
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064112" />
+		<boxback>./images/Gunship (USA) (v832.03)-boxback.png</boxback>
 	</game>
 	<game id="33582">
 		<path>./No-Intro/20211028-052318 MIA 10/Hacker (USA).ipf</path>
@@ -2671,6 +2794,7 @@ Once in, you'll soon find out that you've accidentally stumbled upon a conspirac
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064113" />
+		<boxback>./images/Hacker (USA)-boxback.png</boxback>
 	</game>
 	<game id="34536">
 		<path>./No-Intro/20211028-052318 MIA 10/HardBall II (USA).ipf</path>
@@ -2687,6 +2811,7 @@ Once in, you'll soon find out that you've accidentally stumbled upon a conspirac
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064114" />
+		<boxback>./images/HardBall II (USA)-boxback.png</boxback>
 	</game>
 	<game id="34279">
 		<path>./No-Intro/20211028-052318 MIA 10/Hare Raising Havoc (USA) (Disk 1).ipf</path>
@@ -2704,6 +2829,7 @@ Once in, you'll soon find out that you've accidentally stumbled upon a conspirac
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064115" />
+		<boxback>./images/Hare Raising Havoc (USA) (Disk 1)-boxback.png</boxback>
 	</game>
 	<game id="34279">
 		<path>./No-Intro/20211028-052318 MIA 10/Hare Raising Havoc (USA) (Disk 2).ipf</path>
@@ -2721,6 +2847,7 @@ Once in, you'll soon find out that you've accidentally stumbled upon a conspirac
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064116" />
+		<boxback>./images/Hare Raising Havoc (USA) (Disk 2)-boxback.png</boxback>
 	</game>
 	<game id="34279">
 		<path>./No-Intro/20211028-052318 MIA 10/Hare Raising Havoc (USA) (Disk 3).ipf</path>
@@ -2738,6 +2865,7 @@ Once in, you'll soon find out that you've accidentally stumbled upon a conspirac
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064117" />
+		<boxback>./images/Hare Raising Havoc (USA) (Disk 3)-boxback.png</boxback>
 	</game>
 	<game id="34279">
 		<path>./No-Intro/20211028-052318 MIA 10/Hare Raising Havoc (USA) (Disk 4).ipf</path>
@@ -2755,6 +2883,7 @@ Once in, you'll soon find out that you've accidentally stumbled upon a conspirac
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064118" />
+		<boxback>./images/Hare Raising Havoc (USA) (Disk 4)-boxback.png</boxback>
 	</game>
 	<game id="34279">
 		<path>./No-Intro/20211028-052318 MIA 10/Hare Raising Havoc (USA) (Disk 5).ipf</path>
@@ -2772,6 +2901,7 @@ Once in, you'll soon find out that you've accidentally stumbled upon a conspirac
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064119" />
+		<boxback>./images/Hare Raising Havoc (USA) (Disk 5)-boxback.png</boxback>
 	</game>
 	<game id="34279">
 		<path>./No-Intro/20211028-052318 MIA 10/Hare Raising Havoc (USA) (Disk 6).ipf</path>
@@ -2789,6 +2919,7 @@ Once in, you'll soon find out that you've accidentally stumbled upon a conspirac
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064120" />
+		<boxback>./images/Hare Raising Havoc (USA) (Disk 6)-boxback.png</boxback>
 	</game>
 	<game id="34122">
 		<path>./No-Intro/20211028-052318 MIA 10/Harrier Combat Simulator (USA).ipf</path>
@@ -2807,6 +2938,7 @@ Once in, you'll soon find out that you've accidentally stumbled upon a conspirac
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064122" />
+		<boxback>./images/Harrier Combat Simulator (USA)-boxback.png</boxback>
 	</game>
 	<game id="33657">
 		<path>./No-Intro/20211028-052318 MIA 10/Hollywood Hijinx (USA) (r37).ipf</path>
@@ -2832,6 +2964,7 @@ And so Hollywood Hijinx begins with you being dropped off in front of a dark hou
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064125" />
+		<boxback>./images/Hollywood Hijinx (USA) (r37)-boxback.png</boxback>
 	</game>
 	<game id="102720">
 		<path>./No-Intro/20211028-052318 MIA 10/Hostage - Rescue Mission (USA).ipf</path>
@@ -2851,6 +2984,7 @@ And so Hollywood Hijinx begins with you being dropped off in front of a dark hou
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064126" />
+		<boxback>./images/Hostage - Rescue Mission (USA)-boxback.png</boxback>
 	</game>
 	<game id="33414">
 		<path>./No-Intro/20211028-052318 MIA 10/Hoverforce (USA).ipf</path>
@@ -2869,6 +3003,7 @@ And so Hollywood Hijinx begins with you being dropped off in front of a dark hou
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064127" />
+		<boxback>./images/Hoverforce (USA)-boxback.png</boxback>
 	</game>
 	<game id="33611">
 		<path>./No-Intro/20211028-052318 MIA 10/Hybris (USA) (v0.95).ipf</path>
@@ -2893,6 +3028,7 @@ Once the game is loaded and prompts you to press fire, press the Ã¢â‚¬Å�
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064130" />
+		<boxback>./images/Hybris (USA) (v0.95)-boxback.png</boxback>
 	</game>
 	<game id="33290">
 		<path>./No-Intro/20211028-052318 MIA 10/Indiana Jones and the Last Crusade - The Graphic Adventure (USA) (v1.4 10.4.89) (Disk 1).ipf</path>
@@ -2930,6 +3066,7 @@ Many of the scenes unique to the game were conceived by George Lucas and Steven 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064132" />
+		<boxback>./images/Indiana Jones and the Last Crusade - The Graphic Adventure (USA) (v1.4 10.4.89) (Disk 1)-boxback.png</boxback>
 	</game>
 	<game id="33290">
 		<path>./No-Intro/20211028-052318 MIA 10/Indiana Jones and the Last Crusade - The Graphic Adventure (USA) (v1.4 10.4.89) (Disk 2).ipf</path>
@@ -2967,6 +3104,7 @@ Many of the scenes unique to the game were conceived by George Lucas and Steven 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064134" />
+		<boxback>./images/Indiana Jones and the Last Crusade - The Graphic Adventure (USA) (v1.4 10.4.89) (Disk 2)-boxback.png</boxback>
 	</game>
 	<game id="33290">
 		<path>./No-Intro/20211028-052318 MIA 10/Indiana Jones and the Last Crusade - The Graphic Adventure (USA) (v1.4 10.4.89) (Disk 3).ipf</path>
@@ -3004,6 +3142,7 @@ Many of the scenes unique to the game were conceived by George Lucas and Steven 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064136" />
+		<boxback>./images/Indiana Jones and the Last Crusade - The Graphic Adventure (USA) (v1.4 10.4.89) (Disk 3)-boxback.png</boxback>
 	</game>
 	<game id="34623">
 		<path>./No-Intro/20211028-052318 MIA 10/Infidel (USA) (r22).ipf</path>
@@ -3026,6 +3165,7 @@ Difficulty Level: Advanced</desc>
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064138" />
+		<boxback>./images/Infidel (USA) (r22)-boxback.png</boxback>
 	</game>
 	<game id="88821">
 		<path>./No-Intro/20211028-052318 MIA 10/Jack Nicklaus' Unlimited Golf &amp; Course Design (USA) (Unlimited Course Design - Bear's Track).ipf</path>
@@ -3069,6 +3209,7 @@ Difficulty Level: Advanced</desc>
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064144" />
+		<boxback>./images/James Bond - The Stealth Affair (USA) (Disk 1)-boxback.png</boxback>
 	</game>
 	<game id="89073">
 		<path>./No-Intro/20211028-052318 MIA 10/James Bond - The Stealth Affair (USA) (Disk 2).ipf</path>
@@ -3090,6 +3231,7 @@ Difficulty Level: Advanced</desc>
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064147" />
+		<boxback>./images/James Bond - The Stealth Affair (USA) (Disk 2)-boxback.png</boxback>
 	</game>
 	<game id="89073">
 		<path>./No-Intro/20211028-052318 MIA 10/James Bond - The Stealth Affair (USA) (Disk 3).ipf</path>
@@ -3111,6 +3253,7 @@ Difficulty Level: Advanced</desc>
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064149" />
+		<boxback>./images/James Bond - The Stealth Affair (USA) (Disk 3)-boxback.png</boxback>
 	</game>
 	<game id="33487">
 		<path>./No-Intro/20211028-052318 MIA 10/Joan of Arc - Siege and the Sword (USA) (v1.0) (Disk 1).ipf</path>
@@ -3133,6 +3276,7 @@ Once you have overall control, your goal is to reunite France, by retaking each 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064152" />
+		<boxback>./images/Joan of Arc - Siege and the Sword (USA) (v1.0) (Disk 1)-boxback.png</boxback>
 	</game>
 	<game id="33487">
 		<path>./No-Intro/20211028-052318 MIA 10/Joan of Arc - Siege and the Sword (USA) (v1.0) (Disk 2).ipf</path>
@@ -3155,6 +3299,7 @@ Once you have overall control, your goal is to reunite France, by retaking each 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064154" />
+		<boxback>./images/Joan of Arc - Siege and the Sword (USA) (v1.0) (Disk 2)-boxback.png</boxback>
 	</game>
 	<game id="33368">
 		<path>./No-Intro/20211028-052318 MIA 10/Keef the Thief - A Boy and His Lockpick (USA) (Disk 1).ipf</path>
@@ -3172,6 +3317,7 @@ Once you have overall control, your goal is to reunite France, by retaking each 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064155" />
+		<boxback>./images/Keef the Thief - A Boy and His Lockpick (USA) (Disk 1)-boxback.png</boxback>
 	</game>
 	<game id="33368">
 		<path>./No-Intro/20211028-052318 MIA 10/Keef the Thief - A Boy and His Lockpick (USA) (Disk 2).ipf</path>
@@ -3189,6 +3335,7 @@ Once you have overall control, your goal is to reunite France, by retaking each 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064156" />
+		<boxback>./images/Keef the Thief - A Boy and His Lockpick (USA) (Disk 2)-boxback.png</boxback>
 	</game>
 	<game id="39198">
 		<path>./No-Intro/20211028-052318 MIA 10/Khalaan (USA) (Disk A).ipf</path>
@@ -3205,6 +3352,7 @@ Once you have overall control, your goal is to reunite France, by retaking each 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064157" />
+		<boxback>./images/Khalaan (USA) (Disk A)-boxback.png</boxback>
 	</game>
 	<game id="39198">
 		<path>./No-Intro/20211028-052318 MIA 10/Khalaan (USA) (Disk B).ipf</path>
@@ -3221,6 +3369,7 @@ Once you have overall control, your goal is to reunite France, by retaking each 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064158" />
+		<boxback>./images/Khalaan (USA) (Disk B)-boxback.png</boxback>
 	</game>
 	<game id="34354">
 		<path>./No-Intro/20211028-052318 MIA 10/Killing Cloud, The (USA) (Disk A).ipf</path>
@@ -3243,6 +3392,7 @@ In addition to outflying the enemy on your hoverbike, the player must carefully 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064201" />
+		<boxback>./images/Killing Cloud, The (USA) (Disk A)-boxback.png</boxback>
 	</game>
 	<game id="34354">
 		<path>./No-Intro/20211028-052318 MIA 10/Killing Cloud, The (USA) (Disk B).ipf</path>
@@ -3265,6 +3415,7 @@ In addition to outflying the enemy on your hoverbike, the player must carefully 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064204" />
+		<boxback>./images/Killing Cloud, The (USA) (Disk B)-boxback.png</boxback>
 	</game>
 	<game id="39202">
 		<path>./No-Intro/20211028-052318 MIA 10/Kristal, The (USA) (Disk 1).ipf</path>
@@ -3286,6 +3437,7 @@ Based on the theater play The Kristal of Konos (1976), The Kristal is primarily 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064206" />
+		<boxback>./images/Kristal, The (USA) (Disk 1)-boxback.png</boxback>
 	</game>
 	<game id="39202">
 		<path>./No-Intro/20211028-052318 MIA 10/Kristal, The (USA) (Disk 2).ipf</path>
@@ -3307,6 +3459,7 @@ Based on the theater play The Kristal of Konos (1976), The Kristal is primarily 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064209" />
+		<boxback>./images/Kristal, The (USA) (Disk 2)-boxback.png</boxback>
 	</game>
 	<game id="39202">
 		<path>./No-Intro/20211028-052318 MIA 10/Kristal, The (USA) (Disk 3).ipf</path>
@@ -3328,6 +3481,7 @@ Based on the theater play The Kristal of Konos (1976), The Kristal is primarily 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064212" />
+		<boxback>./images/Kristal, The (USA) (Disk 3)-boxback.png</boxback>
 	</game>
 	<game id="39202">
 		<path>./No-Intro/20211028-052318 MIA 10/Kristal, The (USA) (Disk 4).ipf</path>
@@ -3349,6 +3503,7 @@ Based on the theater play The Kristal of Konos (1976), The Kristal is primarily 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064215" />
+		<boxback>./images/Kristal, The (USA) (Disk 4)-boxback.png</boxback>
 	</game>
 	<game id="34687">
 		<path>./No-Intro/20211028-052318 MIA 10/Laser Squad (USA).ipf</path>
@@ -3373,6 +3528,7 @@ There are 3 missions in turn - in The Assassins you must face down Sterner Regni
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064217" />
+		<boxback>./images/Laser Squad (USA)-boxback.png</boxback>
 	</game>
 	<game id="33937">
 		<path>./No-Intro/20211028-052318 MIA 10/Leander (USA) (Disk 1).ipf</path>
@@ -3395,6 +3551,7 @@ The controls are very simple and easy to understand - jump, walk or attack. Coll
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064219" />
+		<boxback>./images/Leander (USA) (Disk 1)-boxback.png</boxback>
 	</game>
 	<game id="33937">
 		<path>./No-Intro/20211028-052318 MIA 10/Leander (USA) (Disk 2).ipf</path>
@@ -3417,6 +3574,7 @@ The controls are very simple and easy to understand - jump, walk or attack. Coll
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064221" />
+		<boxback>./images/Leander (USA) (Disk 2)-boxback.png</boxback>
 	</game>
 	<game id="33937">
 		<path>./No-Intro/20211028-052318 MIA 10/Leander (USA) (Disk 3).ipf</path>
@@ -3439,6 +3597,7 @@ The controls are very simple and easy to understand - jump, walk or attack. Coll
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064223" />
+		<boxback>./images/Leander (USA) (Disk 3)-boxback.png</boxback>
 	</game>
 	<game id="102497">
 		<path>./No-Intro/20211028-052318 MIA 10/Legend of Faerghail (USA) (v2.0e 1990-10-17) (Disk 0).ipf</path>
@@ -3456,6 +3615,7 @@ The controls are very simple and easy to understand - jump, walk or attack. Coll
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064228" />
+		<boxback>./images/Legend of Faerghail (USA) (v2.0e 1990-10-17) (Disk 0)-boxback.png</boxback>
 	</game>
 	<game id="102497">
 		<path>./No-Intro/20211028-052318 MIA 10/Legend of Faerghail (USA) (v2.0e 1990-10-17) (Disk 1).ipf</path>
@@ -3473,6 +3633,7 @@ The controls are very simple and easy to understand - jump, walk or attack. Coll
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064232" />
+		<boxback>./images/Legend of Faerghail (USA) (v2.0e 1990-10-17) (Disk 1)-boxback.png</boxback>
 	</game>
 	<game id="102497">
 		<path>./No-Intro/20211028-052318 MIA 10/Legend of Faerghail (USA) (v2.0e 1990-10-17) (Disk 2).ipf</path>
@@ -3490,6 +3651,7 @@ The controls are very simple and easy to understand - jump, walk or attack. Coll
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064236" />
+		<boxback>./images/Legend of Faerghail (USA) (v2.0e 1990-10-17) (Disk 2)-boxback.png</boxback>
 	</game>
 	<game id="33248">
 		<path>./No-Intro/20211028-052318 MIA 10/Lemmings (USA) (Alt 1) (Disk 1).ipf</path>
@@ -3514,6 +3676,7 @@ You are in control not of any individual Lemming, but of a cross-hair, which can
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064238" />
+		<boxback>./images/Lemmings (USA) (Alt 1) (Disk 1)-boxback.png</boxback>
 	</game>
 	<game id="33248">
 		<path>./No-Intro/20211028-052318 MIA 10/Lemmings (USA) (Alt 1) (Disk 2).ipf</path>
@@ -3538,6 +3701,7 @@ You are in control not of any individual Lemming, but of a cross-hair, which can
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064240" />
+		<boxback>./images/Lemmings (USA) (Alt 1) (Disk 2)-boxback.png</boxback>
 	</game>
 	<game id="33248">
 		<path>./No-Intro/20211028-052318 MIA 10/Lemmings (USA) (Disk 1).ipf</path>
@@ -3562,6 +3726,7 @@ You are in control not of any individual Lemming, but of a cross-hair, which can
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064242" />
+		<boxback>./images/Lemmings (USA) (Disk 1)-boxback.png</boxback>
 	</game>
 	<game id="33248">
 		<path>./No-Intro/20211028-052318 MIA 10/Lemmings (USA) (Disk 2).ipf</path>
@@ -3586,6 +3751,7 @@ You are in control not of any individual Lemming, but of a cross-hair, which can
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064244" />
+		<boxback>./images/Lemmings (USA) (Disk 2)-boxback.png</boxback>
 	</game>
 	<game id="34292">
 		<path>./No-Intro/20211028-052318 MIA 10/Lemmings 2 - The Tribes (USA) (Disk 1).ipf</path>
@@ -3610,6 +3776,7 @@ Across the 120 levels there are over 60 skills, although no more than 10 are in 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064246" />
+		<boxback>./images/Lemmings 2 - The Tribes (USA) (Disk 1)-boxback.png</boxback>
 	</game>
 	<game id="34292">
 		<path>./No-Intro/20211028-052318 MIA 10/Lemmings 2 - The Tribes (USA) (Disk 2).ipf</path>
@@ -3634,6 +3801,7 @@ Across the 120 levels there are over 60 skills, although no more than 10 are in 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064249" />
+		<boxback>./images/Lemmings 2 - The Tribes (USA) (Disk 2)-boxback.png</boxback>
 	</game>
 	<game id="34292">
 		<path>./No-Intro/20211028-052318 MIA 10/Lemmings 2 - The Tribes (USA) (Disk 3).ipf</path>
@@ -3658,6 +3826,7 @@ Across the 120 levels there are over 60 skills, although no more than 10 are in 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064252" />
+		<boxback>./images/Lemmings 2 - The Tribes (USA) (Disk 3)-boxback.png</boxback>
 	</game>
 	<game id="34293">
 		<path>./No-Intro/20211028-052318 MIA 10/Leonardo (USA).ipf</path>
@@ -3677,6 +3846,7 @@ Across the 120 levels there are over 60 skills, although no more than 10 are in 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064253" />
+		<boxback>./images/Leonardo (USA)-boxback.png</boxback>
 	</game>
 	<game id="89101">
 		<path>./No-Intro/20211028-052318 MIA 10/Links - The Challenge of Golf (USA) (v1.50) (Disk 1).ipf</path>
@@ -3697,6 +3867,7 @@ Just a final point to say that to play Links, you'll need either a hard disk or 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064255" />
+		<boxback>./images/Links - The Challenge of Golf (USA) (v1.50) (Disk 1)-boxback.png</boxback>
 	</game>
 	<game id="89101">
 		<path>./No-Intro/20211028-052318 MIA 10/Links - The Challenge of Golf (USA) (v1.50) (Disk 2).ipf</path>
@@ -3717,6 +3888,7 @@ Just a final point to say that to play Links, you'll need either a hard disk or 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064256" />
+		<boxback>./images/Links - The Challenge of Golf (USA) (v1.50) (Disk 2)-boxback.png</boxback>
 	</game>
 	<game id="89101">
 		<path>./No-Intro/20211028-052318 MIA 10/Links - The Challenge of Golf (USA) (v1.50) (Disk 3).ipf</path>
@@ -3737,6 +3909,7 @@ Just a final point to say that to play Links, you'll need either a hard disk or 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064257" />
+		<boxback>./images/Links - The Challenge of Golf (USA) (v1.50) (Disk 3)-boxback.png</boxback>
 	</game>
 	<game id="34414">
 		<path>./No-Intro/20211028-052318 MIA 10/Little Computer People (USA).ipf</path>
@@ -3759,6 +3932,7 @@ There is no aim in this game other than to interact with your LCP.</desc>
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064300" />
+		<boxback>./images/Little Computer People (USA)-boxback.png</boxback>
 	</game>
 	<game id="89098">
 		<path>./No-Intro/20211028-052318 MIA 10/Lords of the Rising Sun (USA) (Disk 1).ipf</path>
@@ -3781,6 +3955,7 @@ Most of the time, you'll move your troops through the big map of Japan - as soon
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064302" />
+		<boxback>./images/Lords of the Rising Sun (USA) (Disk 1)-boxback.png</boxback>
 	</game>
 	<game id="89098">
 		<path>./No-Intro/20211028-052318 MIA 10/Lords of the Rising Sun (USA) (Disk 2).ipf</path>
@@ -3803,6 +3978,7 @@ Most of the time, you'll move your troops through the big map of Japan - as soon
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064303" />
+		<boxback>./images/Lords of the Rising Sun (USA) (Disk 2)-boxback.png</boxback>
 	</game>
 	<game id="88920">
 		<path>./No-Intro/20211028-052318 MIA 10/Lost Patrol (USA) (Disk 1).ipf</path>
@@ -3823,6 +3999,7 @@ Most of the time, you'll move your troops through the big map of Japan - as soon
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064307" />
+		<boxback>./images/Lost Patrol (USA) (Disk 1)-boxback.png</boxback>
 	</game>
 	<game id="88920">
 		<path>./No-Intro/20211028-052318 MIA 10/Lost Patrol (USA) (Disk 2).ipf</path>
@@ -3843,6 +4020,7 @@ Most of the time, you'll move your troops through the big map of Japan - as soon
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064310" />
+		<boxback>./images/Lost Patrol (USA) (Disk 2)-boxback.png</boxback>
 	</game>
 	<game id="102502">
 		<path>./No-Intro/20211028-052318 MIA 10/Lost Treasures of Infocom, The (USA) (Disk 1).ipf</path>
@@ -3878,6 +4056,7 @@ Most of the time, you'll move your troops through the big map of Japan - as soon
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064311" />
+		<boxback>./images/Lost Treasures of Infocom, The (USA) (Disk 1)-boxback.png</boxback>
 	</game>
 	<game id="102502">
 		<path>./No-Intro/20211028-052318 MIA 10/Lost Treasures of Infocom, The (USA) (Disk 2).ipf</path>
@@ -3913,6 +4092,7 @@ Most of the time, you'll move your troops through the big map of Japan - as soon
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064312" />
+		<boxback>./images/Lost Treasures of Infocom, The (USA) (Disk 2)-boxback.png</boxback>
 	</game>
 	<game id="102502">
 		<path>./No-Intro/20211028-052318 MIA 10/Lost Treasures of Infocom, The (USA) (Disk 3).ipf</path>
@@ -3948,6 +4128,7 @@ Most of the time, you'll move your troops through the big map of Japan - as soon
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064313" />
+		<boxback>./images/Lost Treasures of Infocom, The (USA) (Disk 3)-boxback.png</boxback>
 	</game>
 	<game id="102502">
 		<path>./No-Intro/20211028-052318 MIA 10/Lost Treasures of Infocom, The (USA) (Disk 4).ipf</path>
@@ -3983,6 +4164,7 @@ Most of the time, you'll move your troops through the big map of Japan - as soon
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064315" />
+		<boxback>./images/Lost Treasures of Infocom, The (USA) (Disk 4)-boxback.png</boxback>
 	</game>
 	<game id="102502">
 		<path>./No-Intro/20211028-052318 MIA 10/Lost Treasures of Infocom, The (USA) (Disk 5).ipf</path>
@@ -4018,6 +4200,7 @@ Most of the time, you'll move your troops through the big map of Japan - as soon
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064316" />
+		<boxback>./images/Lost Treasures of Infocom, The (USA) (Disk 5)-boxback.png</boxback>
 	</game>
 	<game id="102502">
 		<path>./No-Intro/20211028-052318 MIA 10/Lost Treasures of Infocom, The (USA) (Disk 6).ipf</path>
@@ -4053,6 +4236,7 @@ Most of the time, you'll move your troops through the big map of Japan - as soon
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064317" />
+		<boxback>./images/Lost Treasures of Infocom, The (USA) (Disk 6)-boxback.png</boxback>
 	</game>
 	<game id="33656">
 		<path>./No-Intro/20211028-052318 MIA 10/Lurking Horror, The (USA) (r221).ipf</path>
@@ -4100,6 +4284,7 @@ The graphics are technically poor and clumsy, but some of the animated sequences
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064322" />
+		<boxback>./images/Manhunter 2 - San Francisco (USA) (v3.06) (Disk 1)-boxback.png</boxback>
 	</game>
 	<game id="103019">
 		<path>./No-Intro/20211028-052318 MIA 10/Manhunter 2 - San Francisco (USA) (v3.06) (Disk 2).ipf</path>
@@ -4126,6 +4311,7 @@ The graphics are technically poor and clumsy, but some of the animated sequences
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064325" />
+		<boxback>./images/Manhunter 2 - San Francisco (USA) (v3.06) (Disk 2)-boxback.png</boxback>
 	</game>
 	<game id="103019">
 		<path>./No-Intro/20211028-052318 MIA 10/Manhunter 2 - San Francisco (USA) (v3.06) (Disk 3).ipf</path>
@@ -4152,6 +4338,7 @@ The graphics are technically poor and clumsy, but some of the animated sequences
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064327" />
+		<boxback>./images/Manhunter 2 - San Francisco (USA) (v3.06) (Disk 3)-boxback.png</boxback>
 	</game>
 	<game id="34518">
 		<path>./No-Intro/20211028-052318 MIA 10/Millenium - Return to Earth (USA).ipf</path>
@@ -4171,6 +4358,7 @@ The graphics are technically poor and clumsy, but some of the animated sequences
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064329" />
+		<boxback>./images/Millenium - Return to Earth (USA)-boxback.png</boxback>
 	</game>
 	<game id="33599">
 		<path>./No-Intro/20211028-052318 MIA 10/Mind Forever Voyaging, A (USA) (r79).ipf</path>
@@ -4191,6 +4379,7 @@ The graphics are technically poor and clumsy, but some of the animated sequences
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064330" />
+		<boxback>./images/Mind Forever Voyaging, A (USA) (r79)-boxback.png</boxback>
 	</game>
 	<game id="103054">
 		<path>./No-Intro/20211028-052318 MIA 10/Mind Walker (USA).ipf</path>
@@ -4207,6 +4396,7 @@ The graphics are technically poor and clumsy, but some of the animated sequences
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064334" />
+		<boxback>./images/Mind Walker (USA)-boxback.png</boxback>
 	</game>
 	<game id="103052">
 		<path>./No-Intro/20211028-052318 MIA 10/Moebius - The Orb of Celestial Harmony (USA).ipf</path>
@@ -4245,6 +4435,7 @@ The graphics are technically poor and clumsy, but some of the animated sequences
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064337" />
+		<boxback>./images/Monty Python's Flying Circus (USA)-boxback.png</boxback>
 	</game>
 	<game id="34456">
 		<path>./No-Intro/20211028-052318 MIA 10/Moonmist (USA) (r4).ipf</path>
@@ -4273,6 +4464,7 @@ Difficulty Level: Introductory</desc>
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064340" />
+		<boxback>./images/Moonmist (USA) (r4)-boxback.png</boxback>
 	</game>
 	<game id="34327">
 		<path>./No-Intro/20211028-052318 MIA 10/New York Warriors (USA) (1MB) (Disk 1).ipf</path>
@@ -4296,6 +4488,7 @@ Fans of Cabal and similar commando-type shooters should really enjoy this one, a
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064343" />
+		<boxback>./images/New York Warriors (USA) (1MB) (Disk 1)-boxback.png</boxback>
 	</game>
 	<game id="34327">
 		<path>./No-Intro/20211028-052318 MIA 10/New York Warriors (USA) (1MB) (Disk 2).ipf</path>
@@ -4319,6 +4512,7 @@ Fans of Cabal and similar commando-type shooters should really enjoy this one, a
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064346" />
+		<boxback>./images/New York Warriors (USA) (1MB) (Disk 2)-boxback.png</boxback>
 	</game>
 	<game id="89118">
 		<path>./No-Intro/20211028-052318 MIA 10/Nightdawn (USA).ipf</path>
@@ -4336,6 +4530,7 @@ Fans of Cabal and similar commando-type shooters should really enjoy this one, a
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064347" />
+		<boxback>./images/Nightdawn (USA)-boxback.png</boxback>
 	</game>
 	<game id="94413">
 		<path>./No-Intro/20211028-052318 MIA 10/Nord and Bert Couldn't Make Head or Tail of It (USA) (r19).ipf</path>
@@ -4355,6 +4550,7 @@ Full marks to Infocom for branching out with something highly original, and extr
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064348" />
+		<boxback>./images/Nord and Bert Couldn't Make Head or Tail of It (USA) (r19)-boxback.png</boxback>
 	</game>
 	<game id="33279">
 		<path>./No-Intro/20211028-052318 MIA 10/North &amp; South (USA).ipf</path>
@@ -4380,6 +4576,7 @@ The game also offers a two-player-mode.</desc>
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064350" />
+		<boxback>./images/North &amp; South (USA)-boxback.png</boxback>
 	</game>
 	<game id="33563">
 		<path>./No-Intro/20211028-052318 MIA 10/Nuclear War (USA) (Disk 1).ipf</path>
@@ -4400,6 +4597,7 @@ The game's introduction includes an homage to Dr. Strangelove. Each player - one
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064355" />
+		<boxback>./images/Nuclear War (USA) (Disk 1)-boxback.png</boxback>
 	</game>
 	<game id="33563">
 		<path>./No-Intro/20211028-052318 MIA 10/Nuclear War (USA) (Disk 2).ipf</path>
@@ -4420,6 +4618,7 @@ The game's introduction includes an homage to Dr. Strangelove. Each player - one
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064400" />
+		<boxback>./images/Nuclear War (USA) (Disk 2)-boxback.png</boxback>
 	</game>
 	<game id="39246">
 		<path>./No-Intro/20211028-052318 MIA 10/Ogre (USA).ipf</path>
@@ -4437,6 +4636,7 @@ The game's introduction includes an homage to Dr. Strangelove. Each player - one
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064404" />
+		<boxback>./images/Ogre (USA)-boxback.png</boxback>
 	</game>
 	<game id="33723">
 		<path>./No-Intro/20211028-052318 MIA 10/Oh No! More Lemmings (USA) (Addon).ipf</path>
@@ -4457,6 +4657,7 @@ The game's introduction includes an homage to Dr. Strangelove. Each player - one
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064405" />
+		<boxback>./images/Oh No! More Lemmings (USA) (Addon)-boxback.png</boxback>
 	</game>
 	<game id="39250">
 		<path>./No-Intro/20211028-052318 MIA 10/One-on-One (USA).ipf</path>
@@ -4476,6 +4677,7 @@ The game's introduction includes an homage to Dr. Strangelove. Each player - one
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064407" />
+		<boxback>./images/One-on-One (USA)-boxback.png</boxback>
 	</game>
 	<game id="34178">
 		<path>./No-Intro/20211028-052318 MIA 10/Ork (USA) (Disk 1).ipf</path>
@@ -4500,6 +4702,7 @@ In addition to blasting enemies, the player must complete tasks reminiscent of a
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064409" />
+		<boxback>./images/Ork (USA) (Disk 1)-boxback.png</boxback>
 	</game>
 	<game id="34178">
 		<path>./No-Intro/20211028-052318 MIA 10/Ork (USA) (Disk 2).ipf</path>
@@ -4524,6 +4727,7 @@ In addition to blasting enemies, the player must complete tasks reminiscent of a
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064411" />
+		<boxback>./images/Ork (USA) (Disk 2)-boxback.png</boxback>
 	</game>
 	<game id="33216">
 		<path>./No-Intro/20211028-052318 MIA 10/Out of This World (USA) (Disk 1).ipf</path>
@@ -4556,6 +4760,7 @@ Lester and his alien ally cannot sustain any damage, and the game ends immediate
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064414" />
+		<boxback>./images/Out of This World (USA) (Disk 1)-boxback.png</boxback>
 	</game>
 	<game id="33216">
 		<path>./No-Intro/20211028-052318 MIA 10/Out of This World (USA) (Disk 2).ipf</path>
@@ -4588,6 +4793,7 @@ Lester and his alien ally cannot sustain any damage, and the game ends immediate
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064417" />
+		<boxback>./images/Out of This World (USA) (Disk 2)-boxback.png</boxback>
 	</game>
 	<game id="152489">
 		<path>./No-Intro/20211028-052318 MIA 10/OutRun (USA) (1988).ipf</path>
@@ -4611,6 +4817,7 @@ Gameplay is viewed form just above and behind the car. The roads are full of sha
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064418" />
+		<boxback>./images/OutRun (USA) (1988)-boxback.png</boxback>
 	</game>
 	<game id="94365">
 		<path>./No-Intro/20211028-052318 MIA 10/Over the Net (USA).ipf</path>
@@ -4627,6 +4834,7 @@ Gameplay is viewed form just above and behind the car. The roads are full of sha
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064419" />
+		<boxback>./images/Over the Net (USA)-boxback.png</boxback>
 	</game>
 	<game id="34336">
 		<path>./No-Intro/20211028-052318 MIA 10/Peter Beardsley's International Football (USA).ipf</path>
@@ -4649,6 +4857,7 @@ The gameplay features variable strength kicks, determined by how long you hold t
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064421" />
+		<boxback>./images/Peter Beardsley's International Football (USA)-boxback.png</boxback>
 	</game>
 	<game id="33778">
 		<path>./No-Intro/20211028-052318 MIA 10/Pinball Fantasies (USA) (AGA) (Disk 1).ipf</path>
@@ -4670,6 +4879,7 @@ The gameplay features variable strength kicks, determined by how long you hold t
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064424" />
+		<boxback>./images/Pinball Fantasies (USA) (AGA) (Disk 1)-boxback.png</boxback>
 	</game>
 	<game id="33778">
 		<path>./No-Intro/20211028-052318 MIA 10/Pinball Fantasies (USA) (AGA) (Disk 2).ipf</path>
@@ -4691,6 +4901,7 @@ The gameplay features variable strength kicks, determined by how long you hold t
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064427" />
+		<boxback>./images/Pinball Fantasies (USA) (AGA) (Disk 2)-boxback.png</boxback>
 	</game>
 	<game id="33778">
 		<path>./No-Intro/20211028-052318 MIA 10/Pinball Fantasies (USA) (AGA) (Disk 3).ipf</path>
@@ -4712,6 +4923,7 @@ The gameplay features variable strength kicks, determined by how long you hold t
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064430" />
+		<boxback>./images/Pinball Fantasies (USA) (AGA) (Disk 3)-boxback.png</boxback>
 	</game>
 	<game id="33778">
 		<path>./No-Intro/20211028-052318 MIA 10/Pinball Fantasies (USA) (AGA) (Disk 4).ipf</path>
@@ -4733,6 +4945,7 @@ The gameplay features variable strength kicks, determined by how long you hold t
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064433" />
+		<boxback>./images/Pinball Fantasies (USA) (AGA) (Disk 4)-boxback.png</boxback>
 	</game>
 	<game id="33949">
 		<path>./No-Intro/20211028-052318 MIA 10/Platoon (USA).ipf</path>
@@ -4762,6 +4975,7 @@ Finally you face the treacherous Sergeant Barnes, and must hit him with grenades
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064434" />
+		<boxback>./images/Platoon (USA)-boxback.png</boxback>
 	</game>
 	<game id="39270">
 		<path>./No-Intro/20211028-052318 MIA 10/Plutos (USA).ipf</path>
@@ -4782,6 +4996,7 @@ In many similar shoot 'em ups, you have unlimited fuel but must pick up ammuniti
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064436" />
+		<boxback>./images/Plutos (USA)-boxback.png</boxback>
 	</game>
 	<game id="34415">
 		<path>./No-Intro/20211028-052318 MIA 10/Police Quest - In Pursuit of the Death Angel (USA) (v2.0B 2.22.89).ipf</path>
@@ -4804,6 +5019,7 @@ A typical Sierra parser game built with the popular AGI engine, Police Quest dif
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064438" />
+		<boxback>./images/Police Quest - In Pursuit of the Death Angel (USA) (v2.0B 2.22.89)-boxback.png</boxback>
 	</game>
 	<game id="34681">
 		<path>./No-Intro/20211028-052318 MIA 10/Police Quest 3 - The Kindred (USA) (v1.000) (Disk 1).ipf</path>
@@ -4825,6 +5041,7 @@ The Kindred is the third installment of the Police Quest series, its events taki
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064441" />
+		<boxback>./images/Police Quest 3 - The Kindred (USA) (v1.000) (Disk 1)-boxback.png</boxback>
 	</game>
 	<game id="34681">
 		<path>./No-Intro/20211028-052318 MIA 10/Police Quest 3 - The Kindred (USA) (v1.000) (Disk 2).ipf</path>
@@ -4846,6 +5063,7 @@ The Kindred is the third installment of the Police Quest series, its events taki
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064444" />
+		<boxback>./images/Police Quest 3 - The Kindred (USA) (v1.000) (Disk 2)-boxback.png</boxback>
 	</game>
 	<game id="34681">
 		<path>./No-Intro/20211028-052318 MIA 10/Police Quest 3 - The Kindred (USA) (v1.000) (Disk 3).ipf</path>
@@ -4867,6 +5085,7 @@ The Kindred is the third installment of the Police Quest series, its events taki
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064446" />
+		<boxback>./images/Police Quest 3 - The Kindred (USA) (v1.000) (Disk 3)-boxback.png</boxback>
 	</game>
 	<game id="34681">
 		<path>./No-Intro/20211028-052318 MIA 10/Police Quest 3 - The Kindred (USA) (v1.000) (Disk 4).ipf</path>
@@ -4888,6 +5107,7 @@ The Kindred is the third installment of the Police Quest series, its events taki
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064450" />
+		<boxback>./images/Police Quest 3 - The Kindred (USA) (v1.000) (Disk 4)-boxback.png</boxback>
 	</game>
 	<game id="34681">
 		<path>./No-Intro/20211028-052318 MIA 10/Police Quest 3 - The Kindred (USA) (v1.000) (Startup, Dual Play).ipf</path>
@@ -4909,6 +5129,7 @@ The Kindred is the third installment of the Police Quest series, its events taki
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064452" />
+		<boxback>./images/Police Quest 3 - The Kindred (USA) (v1.000) (Startup, Dual Play)-boxback.png</boxback>
 	</game>
 	<game id="33432">
 		<path>./No-Intro/20211028-052318 MIA 10/Populous (USA).ipf</path>
@@ -4939,6 +5160,7 @@ And when you win, you'll have 500 more worlds to conquer.  A god's play is just 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064454" />
+		<boxback>./images/Populous (USA)-boxback.png</boxback>
 	</game>
 	<game id="39271">
 		<path>./No-Intro/20211028-052318 MIA 10/Portal (USA) (Disk 1).ipf</path>
@@ -4959,6 +5181,7 @@ And when you win, you'll have 500 more worlds to conquer.  A god's play is just 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064454" />
+		<boxback>./images/Portal (USA) (Disk 1)-boxback.png</boxback>
 	</game>
 	<game id="39271">
 		<path>./No-Intro/20211028-052318 MIA 10/Portal (USA) (Disk 2).ipf</path>
@@ -4979,6 +5202,7 @@ And when you win, you'll have 500 more worlds to conquer.  A god's play is just 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064456" />
+		<boxback>./images/Portal (USA) (Disk 2)-boxback.png</boxback>
 	</game>
 	<game id="39271">
 		<path>./No-Intro/20211028-052318 MIA 10/Portal (USA) (Disk 3).ipf</path>
@@ -4999,6 +5223,7 @@ And when you win, you'll have 500 more worlds to conquer.  A god's play is just 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064457" />
+		<boxback>./images/Portal (USA) (Disk 3)-boxback.png</boxback>
 	</game>
 	<game id="88969">
 		<path>./No-Intro/20211028-052318 MIA 10/Powerstyx (USA).ipf</path>
@@ -5017,6 +5242,7 @@ WARNING: Loss of sleep may occur in humans through excessive play and eventual a
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064458" />
+		<boxback>./images/Powerstyx (USA)-boxback.png</boxback>
 	</game>
 	<game id="33308">
 		<path>./No-Intro/20211028-052318 MIA 10/Prince of Persia (USA).ipf</path>
@@ -5043,6 +5269,7 @@ The Game Boy Color and SNES versions of the game feature additional levels and n
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064501" />
+		<boxback>./images/Prince of Persia (USA)-boxback.png</boxback>
 	</game>
 	<game id="34576">
 		<path>./No-Intro/20211028-052318 MIA 10/Purple Saturn Day (USA).ipf</path>
@@ -5063,6 +5290,7 @@ Although not an official entry in the series, this game is in the same vein as E
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064503" />
+		<boxback>./images/Purple Saturn Day (USA)-boxback.png</boxback>
 	</game>
 	<game id="39283">
 		<path>./No-Intro/20211028-052318 MIA 10/QIX (USA).ipf</path>
@@ -5083,6 +5311,7 @@ Although not an official entry in the series, this game is in the same vein as E
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064505" />
+		<boxback>./images/QIX (USA)-boxback.png</boxback>
 	</game>
 	<game id="94336">
 		<path>./No-Intro/20211028-052318 MIA 10/R-C Aerochopper (USA) (v1.1).ipf</path>
@@ -5118,6 +5347,7 @@ Section two is identical to the first, except that it is located outside, the en
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064508" />
+		<boxback>./images/Rambo III (USA)-boxback.png</boxback>
 	</game>
 	<game id="33973">
 		<path>./No-Intro/20211028-052318 MIA 10/Rampage (USA).ipf</path>
@@ -5140,6 +5370,7 @@ Smashing at the edges of the buildings for long enough will make them collapse. 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064510" />
+		<boxback>./images/Rampage (USA)-boxback.png</boxback>
 	</game>
 	<game id="94342">
 		<path>./No-Intro/20211028-052318 MIA 10/Reach for the Stars - The Conquest of the Galaxy (USA) (v3.0).ipf</path>
@@ -5154,6 +5385,7 @@ Smashing at the edges of the buildings for long enough will make them collapse. 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064512" />
+		<boxback>./images/Reach for the Stars - The Conquest of the Galaxy (USA) (v3.0)-boxback.png</boxback>
 	</game>
 	<game id="102841">
 		<path>./No-Intro/20211028-052318 MIA 10/Red Lightning (USA).ipf</path>
@@ -5168,6 +5400,7 @@ Smashing at the edges of the buildings for long enough will make them collapse. 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064513" />
+		<boxback>./images/Red Lightning (USA)-boxback.png</boxback>
 	</game>
 	<game id="33727">
 		<path>./No-Intro/20211028-052318 MIA 10/RoboCop 3D (USA) (Disk 1).ipf</path>
@@ -5191,6 +5424,7 @@ The first task is a car chase resembling Chase HQ, in which a mazey section of r
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064514" />
+		<boxback>./images/RoboCop 3D (USA) (Disk 1)-boxback.png</boxback>
 	</game>
 	<game id="33727">
 		<path>./No-Intro/20211028-052318 MIA 10/RoboCop 3D (USA) (Disk 2).ipf</path>
@@ -5214,6 +5448,7 @@ The first task is a car chase resembling Chase HQ, in which a mazey section of r
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064515" />
+		<boxback>./images/RoboCop 3D (USA) (Disk 2)-boxback.png</boxback>
 	</game>
 	<game id="33727">
 		<path>./No-Intro/20211028-052318 MIA 10/RoboCop 3D (USA) (Disk 3).ipf</path>
@@ -5237,6 +5472,7 @@ The first task is a car chase resembling Chase HQ, in which a mazey section of r
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064516" />
+		<boxback>./images/RoboCop 3D (USA) (Disk 3)-boxback.png</boxback>
 	</game>
 	<game id="39300">
 		<path>./No-Intro/20211028-052318 MIA 10/Rules of Engagement (USA) (v1.03 10.14.91) (Disk 1).ipf</path>
@@ -5257,6 +5493,7 @@ Due to the Interlocking Game System owners of Breach 2 can use this to play out 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064517" />
+		<boxback>./images/Rules of Engagement (USA) (v1.03 10.14.91) (Disk 1)-boxback.png</boxback>
 	</game>
 	<game id="39300">
 		<path>./No-Intro/20211028-052318 MIA 10/Rules of Engagement (USA) (v1.03 10.14.91) (Disk 2).ipf</path>
@@ -5277,6 +5514,7 @@ Due to the Interlocking Game System owners of Breach 2 can use this to play out 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064518" />
+		<boxback>./images/Rules of Engagement (USA) (v1.03 10.14.91) (Disk 2)-boxback.png</boxback>
 	</game>
 	<game id="39310">
 		<path>./No-Intro/20211028-052318 MIA 10/S.D.I. (USA).ipf</path>
@@ -5293,6 +5531,7 @@ Due to the Interlocking Game System owners of Breach 2 can use this to play out 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064519" />
+		<boxback>./images/S.D.I. (USA)-boxback.png</boxback>
 	</game>
 	<game id="89115">
 		<path>./No-Intro/20211028-052318 MIA 10/Saddam Hussein Game, The (USA).ipf</path>
@@ -5324,6 +5563,7 @@ The game features a large world to explore and comes up with some arcade sequenc
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064522" />
+		<boxback>./images/Seven Cities of Gold (USA)-boxback.png</boxback>
 	</game>
 	<game id="33565">
 		<path>./No-Intro/20211028-052318 MIA 10/Shadow of the Beast III (USA) (Disk 1).ipf</path>
@@ -5345,6 +5585,7 @@ The game features a large world to explore and comes up with some arcade sequenc
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064524" />
+		<boxback>./images/Shadow of the Beast III (USA) (Disk 1)-boxback.png</boxback>
 	</game>
 	<game id="33565">
 		<path>./No-Intro/20211028-052318 MIA 10/Shadow of the Beast III (USA) (Disk 2).ipf</path>
@@ -5366,6 +5607,7 @@ The game features a large world to explore and comes up with some arcade sequenc
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064527" />
+		<boxback>./images/Shadow of the Beast III (USA) (Disk 2)-boxback.png</boxback>
 	</game>
 	<game id="33565">
 		<path>./No-Intro/20211028-052318 MIA 10/Shadow of the Beast III (USA) (Disk 3).ipf</path>
@@ -5387,6 +5629,7 @@ The game features a large world to explore and comes up with some arcade sequenc
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064530" />
+		<boxback>./images/Shadow of the Beast III (USA) (Disk 3)-boxback.png</boxback>
 	</game>
 	<game id="39314">
 		<path>./No-Intro/20211028-052318 MIA 10/Shanghai (USA).ipf</path>
@@ -5411,6 +5654,7 @@ This computer implementation can generate a random board layout to take on, as w
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064532" />
+		<boxback>./images/Shanghai (USA)-boxback.png</boxback>
 	</game>
 	<game id="33274">
 		<path>./No-Intro/20211028-052318 MIA 10/Shinobi (USA).ipf</path>
@@ -5435,6 +5679,7 @@ Reaching the end of each level will find you battling it out with a boss. These 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064533" />
+		<boxback>./images/Shinobi (USA)-boxback.png</boxback>
 	</game>
 	<game id="33871">
 		<path>./No-Intro/20211028-052318 MIA 10/Silent Service II (USA) (v1.01) (Disk A).ipf</path>
@@ -5459,6 +5704,7 @@ The action is viewed from within the submarine. Watch out for your speed, direct
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064538" />
+		<boxback>./images/Silent Service II (USA) (v1.01) (Disk A)-boxback.png</boxback>
 	</game>
 	<game id="33871">
 		<path>./No-Intro/20211028-052318 MIA 10/Silent Service II (USA) (v1.01) (Disk B).ipf</path>
@@ -5483,6 +5729,7 @@ The action is viewed from within the submarine. Watch out for your speed, direct
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064543" />
+		<boxback>./images/Silent Service II (USA) (v1.01) (Disk B)-boxback.png</boxback>
 	</game>
 	<game id="34632">
 		<path>./No-Intro/20211028-052318 MIA 10/Silicon Dreams (USA).ipf</path>
@@ -5509,6 +5756,7 @@ Worm in Paradise: You have to find as much information about the city as possibl
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064544" />
+		<boxback>./images/Silicon Dreams (USA)-boxback.png</boxback>
 	</game>
 	<game id="33264">
 		<path>./No-Intro/20211028-052318 MIA 10/SimCity (USA) (v1.0).ipf</path>
@@ -5535,6 +5783,7 @@ The game also includes 8 pre-defined time-limited scenarios, with specific chall
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064546" />
+		<boxback>./images/SimCity (USA) (v1.0)-boxback.png</boxback>
 	</game>
 	<game id="33264">
 		<path>./No-Intro/20211028-052318 MIA 10/SimCity (USA) (v1.2).ipf</path>
@@ -5561,6 +5810,7 @@ The game also includes 8 pre-defined time-limited scenarios, with specific chall
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064548" />
+		<boxback>./images/SimCity (USA) (v1.2)-boxback.png</boxback>
 	</game>
 	<game id="33264">
 		<path>./No-Intro/20211028-052318 MIA 10/SimCity - Architecture 1 - Future Cities (USA) (v1.00).ipf</path>
@@ -5587,6 +5837,7 @@ The game also includes 8 pre-defined time-limited scenarios, with specific chall
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064550" />
+		<boxback>./images/SimCity - Architecture 1 - Future Cities (USA) (v1.00)-boxback.png</boxback>
 	</game>
 	<game id="33264">
 		<path>./No-Intro/20211028-052318 MIA 10/SimCity - Architecture 2 - Ancient Cities (USA) (v1.00).ipf</path>
@@ -5613,6 +5864,7 @@ The game also includes 8 pre-defined time-limited scenarios, with specific chall
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064552" />
+		<boxback>./images/SimCity - Architecture 2 - Ancient Cities (USA) (v1.00)-boxback.png</boxback>
 	</game>
 	<game id="33264">
 		<path>./No-Intro/20211028-052318 MIA 10/SimCity - Terrain Editor (USA) (v1.0).ipf</path>
@@ -5639,6 +5891,7 @@ The game also includes 8 pre-defined time-limited scenarios, with specific chall
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064554" />
+		<boxback>./images/SimCity - Terrain Editor (USA) (v1.0)-boxback.png</boxback>
 	</game>
 	<game id="34201">
 		<path>./No-Intro/20211028-052318 MIA 10/Sinbad and the Throne of the Falcon (USA) (Disk 1).ipf</path>
@@ -5654,6 +5907,7 @@ The game also includes 8 pre-defined time-limited scenarios, with specific chall
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064555" />
+		<boxback>./images/Sinbad and the Throne of the Falcon (USA) (Disk 1)-boxback.png</boxback>
 	</game>
 	<game id="34201">
 		<path>./No-Intro/20211028-052318 MIA 10/Sinbad and the Throne of the Falcon (USA) (Disk 2).ipf</path>
@@ -5669,6 +5923,7 @@ The game also includes 8 pre-defined time-limited scenarios, with specific chall
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064556" />
+		<boxback>./images/Sinbad and the Throne of the Falcon (USA) (Disk 2)-boxback.png</boxback>
 	</game>
 	<game id="34631">
 		<path>./No-Intro/20211028-052318 MIA 10/Skyfox (USA) (HLS).ipf</path>
@@ -5690,6 +5945,7 @@ The game also includes 8 pre-defined time-limited scenarios, with specific chall
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064558" />
+		<boxback>./images/Skyfox (USA) (HLS)-boxback.png</boxback>
 	</game>
 	<game id="34631">
 		<path>./No-Intro/20211028-052318 MIA 10/Skyfox (USA).ipf</path>
@@ -5711,6 +5967,7 @@ The game also includes 8 pre-defined time-limited scenarios, with specific chall
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064600" />
+		<boxback>./images/Skyfox (USA)-boxback.png</boxback>
 	</game>
 	<game id="102795">
 		<path>./No-Intro/20211028-052318 MIA 10/Slaygon (USA) (v1.1).ipf</path>
@@ -5724,6 +5981,7 @@ The game also includes 8 pre-defined time-limited scenarios, with specific chall
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064601" />
+		<boxback>./images/Slaygon (USA) (v1.1)-boxback.png</boxback>
 	</game>
 	<game id="102770">
 		<path>./No-Intro/20211028-052318 MIA 10/Solitaire's Journey (USA) (Disk 1).ipf</path>
@@ -5769,6 +6027,7 @@ Full to the brim with Hitchhiker-type humour, it puts the threadbare fabric of r
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064605" />
+		<boxback>./images/Space Quest Chapter 1 - The Sarien Encounter (USA) (v1.2) (HLS)-boxback.png</boxback>
 	</game>
 	<game id="102698">
 		<path>./No-Intro/20211028-052318 MIA 10/Space Quest IV - Roger Wilco and the Time Rippers (USA) (v1.000) (Disk 1).ipf</path>
@@ -5795,6 +6054,7 @@ It is hard to imagine even real adventure buffs enjoying this much. It is very o
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064608" />
+		<boxback>./images/Space Quest IV - Roger Wilco and the Time Rippers (USA) (v1.000) (Disk 1)-boxback.png</boxback>
 	</game>
 	<game id="102698">
 		<path>./No-Intro/20211028-052318 MIA 10/Space Quest IV - Roger Wilco and the Time Rippers (USA) (v1.000) (Disk 2).ipf</path>
@@ -5821,6 +6081,7 @@ It is hard to imagine even real adventure buffs enjoying this much. It is very o
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064610" />
+		<boxback>./images/Space Quest IV - Roger Wilco and the Time Rippers (USA) (v1.000) (Disk 2)-boxback.png</boxback>
 	</game>
 	<game id="102698">
 		<path>./No-Intro/20211028-052318 MIA 10/Space Quest IV - Roger Wilco and the Time Rippers (USA) (v1.000) (Disk 3).ipf</path>
@@ -5847,6 +6108,7 @@ It is hard to imagine even real adventure buffs enjoying this much. It is very o
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064613" />
+		<boxback>./images/Space Quest IV - Roger Wilco and the Time Rippers (USA) (v1.000) (Disk 3)-boxback.png</boxback>
 	</game>
 	<game id="102698">
 		<path>./No-Intro/20211028-052318 MIA 10/Space Quest IV - Roger Wilco and the Time Rippers (USA) (v1.000) (Disk 4).ipf</path>
@@ -5873,6 +6135,7 @@ It is hard to imagine even real adventure buffs enjoying this much. It is very o
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064616" />
+		<boxback>./images/Space Quest IV - Roger Wilco and the Time Rippers (USA) (v1.000) (Disk 4)-boxback.png</boxback>
 	</game>
 	<game id="102698">
 		<path>./No-Intro/20211028-052318 MIA 10/Space Quest IV - Roger Wilco and the Time Rippers (USA) (v1.000) (Disk 5).ipf</path>
@@ -5899,6 +6162,7 @@ It is hard to imagine even real adventure buffs enjoying this much. It is very o
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064618" />
+		<boxback>./images/Space Quest IV - Roger Wilco and the Time Rippers (USA) (v1.000) (Disk 5)-boxback.png</boxback>
 	</game>
 	<game id="102698">
 		<path>./No-Intro/20211028-052318 MIA 10/Space Quest IV - Roger Wilco and the Time Rippers (USA) (v1.000) (Disk 6).ipf</path>
@@ -5925,6 +6189,7 @@ It is hard to imagine even real adventure buffs enjoying this much. It is very o
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064621" />
+		<boxback>./images/Space Quest IV - Roger Wilco and the Time Rippers (USA) (v1.000) (Disk 6)-boxback.png</boxback>
 	</game>
 	<game id="102698">
 		<path>./No-Intro/20211028-052318 MIA 10/Space Quest IV - Roger Wilco and the Time Rippers (USA) (v1.000) (Disk 7).ipf</path>
@@ -5951,6 +6216,7 @@ It is hard to imagine even real adventure buffs enjoying this much. It is very o
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064624" />
+		<boxback>./images/Space Quest IV - Roger Wilco and the Time Rippers (USA) (v1.000) (Disk 7)-boxback.png</boxback>
 	</game>
 	<game id="33911">
 		<path>./No-Intro/20211028-052318 MIA 10/Space Station Oblivion (USA).ipf</path>
@@ -5971,6 +6237,7 @@ It is hard to imagine even real adventure buffs enjoying this much. It is very o
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064627" />
+		<boxback>./images/Space Station Oblivion (USA)-boxback.png</boxback>
 	</game>
 	<game id="102540">
 		<path>./No-Intro/20211028-052318 MIA 10/SpaceCutter (USA).ipf</path>
@@ -5988,6 +6255,7 @@ It is hard to imagine even real adventure buffs enjoying this much. It is very o
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064629" />
+		<boxback>./images/SpaceCutter (USA)-boxback.png</boxback>
 	</game>
 	<game id="34042">
 		<path>./No-Intro/20211028-052318 MIA 10/Spacewrecked - 14 Billion Light Years From Earth (USA) (Disk 1).ipf</path>
@@ -6006,6 +6274,7 @@ It is hard to imagine even real adventure buffs enjoying this much. It is very o
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064630" />
+		<boxback>./images/Spacewrecked - 14 Billion Light Years From Earth (USA) (Disk 1)-boxback.png</boxback>
 	</game>
 	<game id="34042">
 		<path>./No-Intro/20211028-052318 MIA 10/Spacewrecked - 14 Billion Light Years From Earth (USA) (Disk 2).ipf</path>
@@ -6024,6 +6293,7 @@ It is hard to imagine even real adventure buffs enjoying this much. It is very o
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064631" />
+		<boxback>./images/Spacewrecked - 14 Billion Light Years From Earth (USA) (Disk 2)-boxback.png</boxback>
 	</game>
 	<game id="34042">
 		<path>./No-Intro/20211028-052318 MIA 10/Spacewrecked - 14 Billion Light Years From Earth (USA) (Disk 3).ipf</path>
@@ -6042,6 +6312,7 @@ It is hard to imagine even real adventure buffs enjoying this much. It is very o
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064633" />
+		<boxback>./images/Spacewrecked - 14 Billion Light Years From Earth (USA) (Disk 3)-boxback.png</boxback>
 	</game>
 	<game id="33742">
 		<path>./No-Intro/20211028-052318 MIA 10/Speedball (USA) (v1.05).ipf</path>
@@ -6065,6 +6336,7 @@ Before each match you can bribe the referee into awarding you a head-start or st
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064635" />
+		<boxback>./images/Speedball (USA) (v1.05)-boxback.png</boxback>
 	</game>
 	<game id="33326">
 		<path>./No-Intro/20211028-052318 MIA 10/Speedball 2 - Brutal Deluxe (USA).ipf</path>
@@ -6086,6 +6358,7 @@ Before each match you can bribe the referee into awarding you a head-start or st
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064637" />
+		<boxback>./images/Speedball 2 - Brutal Deluxe (USA)-boxback.png</boxback>
 	</game>
 	<game id="89124">
 		<path>./No-Intro/20211028-052318 MIA 10/Spirit of Excalibur (USA) (Disk 1).ipf</path>
@@ -6105,6 +6378,7 @@ Spirit of Excalibur has so many things going for it. The strategy and role-playi
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064639" />
+		<boxback>./images/Spirit of Excalibur (USA) (Disk 1)-boxback.png</boxback>
 	</game>
 	<game id="89124">
 		<path>./No-Intro/20211028-052318 MIA 10/Spirit of Excalibur (USA) (Disk 2).ipf</path>
@@ -6124,6 +6398,7 @@ Spirit of Excalibur has so many things going for it. The strategy and role-playi
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064641" />
+		<boxback>./images/Spirit of Excalibur (USA) (Disk 2)-boxback.png</boxback>
 	</game>
 	<game id="39331">
 		<path>./No-Intro/20211028-052318 MIA 10/Starcross (USA) (r17).ipf</path>
@@ -6147,6 +6422,7 @@ As you sleep, you dream of the riches which would be yours if your search for a 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064642" />
+		<boxback>./images/Starcross (USA) (r17)-boxback.png</boxback>
 	</game>
 	<game id="34635">
 		<path>./No-Intro/20211028-052318 MIA 10/Stationfall (USA) (r107).ipf</path>
@@ -6167,6 +6443,7 @@ After the fall of the Second Galactic Union in 1716 GY, a ten-thousand-year dark
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064643" />
+		<boxback>./images/Stationfall (USA) (r107)-boxback.png</boxback>
 	</game>
 	<game id="39335">
 		<path>./No-Intro/20211028-052318 MIA 10/Stellar 7 (USA) (Disk 1).ipf</path>
@@ -6188,6 +6465,7 @@ The game is played from a first person view looking out from the cockpit of the 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064644" />
+		<boxback>./images/Stellar 7 (USA) (Disk 1)-boxback.png</boxback>
 	</game>
 	<game id="39335">
 		<path>./No-Intro/20211028-052318 MIA 10/Stellar 7 (USA) (Disk 2).ipf</path>
@@ -6209,6 +6487,7 @@ The game is played from a first person view looking out from the cockpit of the 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064645" />
+		<boxback>./images/Stellar 7 (USA) (Disk 2)-boxback.png</boxback>
 	</game>
 	<game id="39335">
 		<path>./No-Intro/20211028-052318 MIA 10/Stellar 7 (USA) (Disk 3).ipf</path>
@@ -6230,6 +6509,7 @@ The game is played from a first person view looking out from the cockpit of the 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064646" />
+		<boxback>./images/Stellar 7 (USA) (Disk 3)-boxback.png</boxback>
 	</game>
 	<game id="102785">
 		<path>./No-Intro/20211028-052318 MIA 10/Stellar Crusade (USA) (Game Disk).ipf</path>
@@ -6243,6 +6523,7 @@ The game is played from a first person view looking out from the cockpit of the 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064647" />
+		<boxback>./images/Stellar Crusade (USA) (Game Disk)-boxback.png</boxback>
 	</game>
 	<game id="102785">
 		<path>./No-Intro/20211028-052318 MIA 10/Stellar Crusade (USA) (Scenario Disk).ipf</path>
@@ -6256,6 +6537,7 @@ The game is played from a first person view looking out from the cockpit of the 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064648" />
+		<boxback>./images/Stellar Crusade (USA) (Scenario Disk)-boxback.png</boxback>
 	</game>
 	<game id="34602">
 		<path>./No-Intro/20211028-052318 MIA 10/Street Sports Basketball (USA).ipf</path>
@@ -6274,6 +6556,7 @@ One or two players can join in, choosing their team of 3 from the 10 kids you ar
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064649" />
+		<boxback>./images/Street Sports Basketball (USA)-boxback.png</boxback>
 	</game>
 	<game id="33714">
 		<path>./No-Intro/20211028-052318 MIA 10/Strike Aces (USA) (Disk 1).ipf</path>
@@ -6294,6 +6577,7 @@ The player can choose between six different planes. After having selected the ai
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064652" />
+		<boxback>./images/Strike Aces (USA) (Disk 1)-boxback.png</boxback>
 	</game>
 	<game id="33714">
 		<path>./No-Intro/20211028-052318 MIA 10/Strike Aces (USA) (Disk 2).ipf</path>
@@ -6314,6 +6598,7 @@ The player can choose between six different planes. After having selected the ai
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064655" />
+		<boxback>./images/Strike Aces (USA) (Disk 2)-boxback.png</boxback>
 	</game>
 	<game id="33856">
 		<path>./No-Intro/20211028-052318 MIA 10/Stunt Track Racer (USA).ipf</path>
@@ -6339,6 +6624,7 @@ Whatever you do, don't fall off the track, as this will cost you time as you are
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064657" />
+		<boxback>./images/Stunt Track Racer (USA)-boxback.png</boxback>
 	</game>
 	<game id="102754">
 		<path>./No-Intro/20211028-052318 MIA 10/Sub Battle Simulator (USA).ipf</path>
@@ -6353,6 +6639,7 @@ Whatever you do, don't fall off the track, as this will cost you time as you are
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064658" />
+		<boxback>./images/Sub Battle Simulator (USA)-boxback.png</boxback>
 	</game>
 	<game id="39344">
 		<path>./No-Intro/20211028-052318 MIA 10/Suspect (USA).ipf</path>
@@ -6373,6 +6660,7 @@ Difficulty Level: Advanced</desc>
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064700" />
+		<boxback>./images/Suspect (USA)-boxback.png</boxback>
 	</game>
 	<game id="34641">
 		<path>./No-Intro/20211028-052318 MIA 10/Suspended (USA) (r8).ipf</path>
@@ -6394,6 +6682,7 @@ Suspended is a text adventure game with a twist: instead of navigating the prota
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064701" />
+		<boxback>./images/Suspended (USA) (r8)-boxback.png</boxback>
 	</game>
 	<game id="102590">
 		<path>./No-Intro/20211028-052318 MIA 10/Terran Envoy (USA).ipf</path>
@@ -6411,6 +6700,7 @@ A nice attempt at a difficult idea, Terran Envoy is brave, original and interest
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064701" />
+		<boxback>./images/Terran Envoy (USA)-boxback.png</boxback>
 	</game>
 	<game id="102599">
 		<path>./No-Intro/20211028-052318 MIA 10/Theme Park Mystery (USA).ipf</path>
@@ -6430,6 +6720,7 @@ A nice attempt at a difficult idea, Terran Envoy is brave, original and interest
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064704" />
+		<boxback>./images/Theme Park Mystery (USA)-boxback.png</boxback>
 	</game>
 	<game id="34379">
 		<path>./No-Intro/20211028-052318 MIA 10/Three Stooges, The (USA) (Disk 1).ipf</path>
@@ -6450,6 +6741,7 @@ A nice attempt at a difficult idea, Terran Envoy is brave, original and interest
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064705" />
+		<boxback>./images/Three Stooges, The (USA) (Disk 1)-boxback.png</boxback>
 	</game>
 	<game id="34379">
 		<path>./No-Intro/20211028-052318 MIA 10/Three Stooges, The (USA) (Disk 2).ipf</path>
@@ -6470,6 +6762,7 @@ A nice attempt at a difficult idea, Terran Envoy is brave, original and interest
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064707" />
+		<boxback>./images/Three Stooges, The (USA) (Disk 2)-boxback.png</boxback>
 	</game>
 	<game id="33733">
 		<path>./No-Intro/20211028-052318 MIA 10/Thunder Blade (USA) (Budget - Kixx).ipf</path>
@@ -6494,6 +6787,7 @@ The second section is viewed behind your helicopter in full 3D, and adds helicop
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064708" />
+		<boxback>./images/Thunder Blade (USA) (Budget - Kixx)-boxback.png</boxback>
 	</game>
 	<game id="34674">
 		<path>./No-Intro/20211028-052318 MIA 10/Thunderhawk AH-73M (USA) (Disk 1).ipf</path>
@@ -6513,6 +6807,7 @@ is commanded by the United Nations. Their task is it to defuse and prevent crisi
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064709" />
+		<boxback>./images/Thunderhawk AH-73M (USA) (Disk 1)-boxback.png</boxback>
 	</game>
 	<game id="34674">
 		<path>./No-Intro/20211028-052318 MIA 10/Thunderhawk AH-73M (USA) (Disk 2).ipf</path>
@@ -6532,6 +6827,7 @@ is commanded by the United Nations. Their task is it to defuse and prevent crisi
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064710" />
+		<boxback>./images/Thunderhawk AH-73M (USA) (Disk 2)-boxback.png</boxback>
 	</game>
 	<game id="34390">
 		<path>./No-Intro/20211028-052318 MIA 10/Total Eclipse (USA).ipf</path>
@@ -6552,6 +6848,7 @@ A pyramid has been built to destroy anything that blocks the sun and now a total
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064711" />
+		<boxback>./images/Total Eclipse (USA)-boxback.png</boxback>
 	</game>
 	<game id="33774">
 		<path>./No-Intro/20211028-052318 MIA 10/Tower Toppler (USA).ipf</path>
@@ -6579,6 +6876,7 @@ Towers are linked together via a voyage through the sea in your trusty MK.7 subm
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064713" />
+		<boxback>./images/Tower Toppler (USA)-boxback.png</boxback>
 	</game>
 	<game id="33464">
 		<path>./No-Intro/20211028-052318 MIA 10/Turrican (USA).ipf</path>
@@ -6602,6 +6900,7 @@ Gameplay is conceptually simple: just jump, shoot and explore. However, this gam
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064714" />
+		<boxback>./images/Turrican (USA)-boxback.png</boxback>
 	</game>
 	<game id="102653">
 		<path>./No-Intro/20211028-052318 MIA 10/Twilight Zone, The (USA) (Picture Disk).ipf</path>
@@ -6620,6 +6919,7 @@ Twilight Zone is a good game in the same vein as Mike Berlyn's Altered Destiny: 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064715" />
+		<boxback>./images/Twilight Zone, The (USA) (Picture Disk)-boxback.png</boxback>
 	</game>
 	<game id="102653">
 		<path>./No-Intro/20211028-052318 MIA 10/Twilight Zone, The (USA) (Program Disk).ipf</path>
@@ -6638,6 +6938,7 @@ Twilight Zone is a good game in the same vein as Mike Berlyn's Altered Destiny: 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064717" />
+		<boxback>./images/Twilight Zone, The (USA) (Program Disk)-boxback.png</boxback>
 	</game>
 	<game id="102674">
 		<path>./No-Intro/20211028-052318 MIA 10/Typhoon Thompson in Search for the Sea Child (USA).ipf</path>
@@ -6656,6 +6957,7 @@ The plot centers around a "Sea Child" who was stolen, and Typhoon Thompson is se
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064719" />
+		<boxback>./images/Typhoon Thompson in Search for the Sea Child (USA)-boxback.png</boxback>
 	</game>
 	<game id="33372">
 		<path>./No-Intro/20211028-052318 MIA 10/Ultima IV - Quest of the Avatar (USA).ipf</path>
@@ -6676,6 +6978,7 @@ The plot centers around a "Sea Child" who was stolen, and Typhoon Thompson is se
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064722" />
+		<boxback>./images/Ultima IV - Quest of the Avatar (USA)-boxback.png</boxback>
 	</game>
 	<game id="39370">
 		<path>./No-Intro/20211028-052318 MIA 10/Universe 3 (USA) (Disk 1).ipf</path>
@@ -6695,6 +6998,7 @@ You set out to escort a diplomat on a trip to the hyperspace booster (a key elem
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064723" />
+		<boxback>./images/Universe 3 (USA) (Disk 1)-boxback.png</boxback>
 	</game>
 	<game id="39370">
 		<path>./No-Intro/20211028-052318 MIA 10/Universe 3 (USA) (Disk 2).ipf</path>
@@ -6714,6 +7018,7 @@ You set out to escort a diplomat on a trip to the hyperspace booster (a key elem
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064725" />
+		<boxback>./images/Universe 3 (USA) (Disk 2)-boxback.png</boxback>
 	</game>
 	<game id="33475">
 		<path>./No-Intro/20211028-052318 MIA 10/Unreal (USA) (Disk 1).ipf</path>
@@ -6738,6 +7043,7 @@ On each level you will be faced with puzzles and battles and you need to get the
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064727" />
+		<boxback>./images/Unreal (USA) (Disk 1)-boxback.png</boxback>
 	</game>
 	<game id="33475">
 		<path>./No-Intro/20211028-052318 MIA 10/Unreal (USA) (Disk 2).ipf</path>
@@ -6762,6 +7068,7 @@ On each level you will be faced with puzzles and battles and you need to get the
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064729" />
+		<boxback>./images/Unreal (USA) (Disk 2)-boxback.png</boxback>
 	</game>
 	<game id="33475">
 		<path>./No-Intro/20211028-052318 MIA 10/Unreal (USA) (Disk 3).ipf</path>
@@ -6786,6 +7093,7 @@ On each level you will be faced with puzzles and battles and you need to get the
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064731" />
+		<boxback>./images/Unreal (USA) (Disk 3)-boxback.png</boxback>
 	</game>
 	<game id="94378">
 		<path>./No-Intro/20211028-052318 MIA 10/Vortex (USA).ipf</path>
@@ -6799,6 +7107,7 @@ On each level you will be faced with puzzles and battles and you need to get the
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064732" />
+		<boxback>./images/Vortex (USA)-boxback.png</boxback>
 	</game>
 	<game id="94385">
 		<path>./No-Intro/20211028-052318 MIA 10/Wargame Construction Set (USA).ipf</path>
@@ -6836,6 +7145,7 @@ As the name implies, this unique simulation lets you design and play a nearly li
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064738" />
+		<boxback>./images/Warlock (USA)-boxback.png</boxback>
 	</game>
 	<game id="102539">
 		<path>./No-Intro/20211028-052318 MIA 10/Where in the World is Carmen Sandiego (USA) (v1.1).ipf</path>
@@ -6860,6 +7170,7 @@ Where in the World is Carmen Sandiego? is a game that tests the player's knowled
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064741" />
+		<boxback>./images/Where in the World is Carmen Sandiego (USA) (v1.1)-boxback.png</boxback>
 	</game>
 	<game id="33735">
 		<path>./No-Intro/20211028-052318 MIA 10/Windwalker (USA).ipf</path>
@@ -6881,6 +7192,7 @@ The role-playing elements eschew the Ultima-style plan view in favor of a pseudo
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064742" />
+		<boxback>./images/Windwalker (USA)-boxback.png</boxback>
 	</game>
 	<game id="152635">
 		<path>./No-Intro/20211028-052318 MIA 10/Winter Challenge - World Class Competition (USA).ipf</path>
@@ -6904,6 +7216,7 @@ In the ski jump, you must position the skis for a proper landing. In the bobsled
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064744" />
+		<boxback>./images/Winter Challenge - World Class Competition (USA)-boxback.png</boxback>
 	</game>
 	<game id="39388">
 		<path>./No-Intro/20211028-052318 MIA 10/Witness (USA) (r22).ipf</path>
@@ -6919,6 +7232,7 @@ In the ski jump, you must position the skis for a proper landing. In the bobsled
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064744" />
+		<boxback>./images/Witness (USA) (r22)-boxback.png</boxback>
 	</game>
 	<game id="34226">
 		<path>./No-Intro/20211028-052318 MIA 10/World Games (USA).ipf</path>
@@ -6938,6 +7252,7 @@ Skiing, Weight Lifting, Barrel Jumping, Sumo Wrestling, Bull Riding, Cliff Divin
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064746" />
+		<boxback>./images/World Games (USA)-boxback.png</boxback>
 	</game>
 	<game id="34409">
 		<path>./No-Intro/20211028-052318 MIA 10/Zany Golf (USA).ipf</path>
@@ -6958,6 +7273,7 @@ You start with 3 strokes, but get the par for each hole added on, if you reach i
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064747" />
+		<boxback>./images/Zany Golf (USA)-boxback.png</boxback>
 	</game>
 	<game id="88815">
 		<path>./No-Intro/20211028-052318 MIA 10/Zork Trilogy (USA) (Zork I r88, II v48, III r17).ipf</path>
@@ -6997,6 +7313,7 @@ Zork Zero: The Revenge of Megaboz is chronologically a prequel to the first thre
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T064749" />
+		<boxback>./images/Zork Zero - The Revenge of Megaboz (USA) (r366)-boxback.png</boxback>
 	</game>
 	<game>
 		<path>./TOSEC/Applications/Public Domain/[ADF]/100 Printer Drivers (19xx)(Anglia PD)(PD)/100 Printer Drivers (19xx)(Anglia PD)(PD).adf</path>
@@ -11026,6 +11343,8 @@ Zork Zero: The Revenge of Megaboz is chronologically a prequel to the first thre
 		<image>./images/Simulcra-image.png</image>
 		<video>./videos/Simulcra-video.mp4</video>
 		<thumbnail>./images/Simulcra-thumb.png</thumbnail>
+		<marquee>./images/Simulcra-marquee.png</marquee>
+		<boxback>./images/Simulcra-boxback.png</boxback>
 	</game>
 	<game>
 		<path>./TOSEC/Games/SPS/Holiday Lemmings 1994 (1994)(Psygnosis)[0492]/HolidayLemmings1994.ipf</path>
@@ -11033,6 +11352,8 @@ Zork Zero: The Revenge of Megaboz is chronologically a prequel to the first thre
 		<image>./images/HolidayLemmings1994-image.png</image>
 		<video>./videos/HolidayLemmings1994-video.mp4</video>
 		<thumbnail>./images/HolidayLemmings1994-thumb.png</thumbnail>
+		<marquee>./images/HolidayLemmings1994-marquee.png</marquee>
+		<boxback>./images/HolidayLemmings1994-boxback.png</boxback>
 	</game>
 	<game>
 		<path>./TOSEC/Games/Save Disks/Bard's Tale II, The - The Destiny Knight (1988)(Electronic Arts)[a][save disk - Character Disk]/Bard's Tale II, The - The Destiny Knight (1988)(Electronic Arts)[a][save disk - Character Disk].adf</path>
@@ -11040,11 +11361,14 @@ Zork Zero: The Revenge of Megaboz is chronologically a prequel to the first thre
 		<image>./images/Bard's Tale II, The - The Destiny Knight (1988)(Electronic Arts)[a][save disk - Character Disk]-image.png</image>
 		<video>./videos/Bard's Tale II, The - The Destiny Knight (1988)(Electronic Arts)[a][save disk - Character Disk]-video.mp4</video>
 		<thumbnail>./images/Bard's Tale II, The - The Destiny Knight (1988)(Electronic Arts)[a][save disk - Character Disk]-thumb.png</thumbnail>
+		<marquee>./images/Bard's Tale II, The - The Destiny Knight (1988)(Electronic Arts)[a][save disk - Character Disk]-marquee.png</marquee>
+		<boxback>./images/Bard's Tale II, The - The Destiny Knight (1988)(Electronic Arts)[a][save disk - Character Disk]-boxback.png</boxback>
 	</game>
 	<game>
 		<path>./TOSEC/Games/[ADF]/Afrika Korps (1991)(Impressions)[h QTX]/Afrika Korps (1991)(Impressions)[h QTX].adf</path>
 		<name>Afrika Korps (1991)(Impressions)[h QTX]</name>
 		<image>./images/Afrika Korps (1991)(Impressions)[h QTX]-image.png</image>
 		<thumbnail>./images/Afrika Korps (1991)(Impressions)[h QTX]-thumb.png</thumbnail>
+		<boxback>./images/Afrika Korps (1991)(Impressions)[h QTX]-boxback.png</boxback>
 	</game>
 </gameList>
