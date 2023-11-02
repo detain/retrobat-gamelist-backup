@@ -942,7 +942,6 @@ Important: This game makes references to suicide. If this is a concern, you may 
 		<scrap name="ScreenScraper" date="20230627T170416" />
 		<scrap name="TheGamesDB" date="20230627T170732" />
 		<scrap name="HfsDB" date="20230627T164308" />
-		<image>./images/Depths-image.png</image>
 	</game>
 	<game id="1616">
 		<path>./Legacy of the Wizard.3dsen</path>
@@ -1540,6 +1539,7 @@ Old and new power-ups abound in each level for the Mario Brothers, including the
 
 The game offers two different modes of play, "Type A" and "Type B". "Type A" is a standard endless mode, where the speed of the game increases every ten lines, with an option for the starting level when beginning the game. "Type B", on the other hand, is a race to clear 25 lines, with options for both drop speed and starting garbage. In both modes, successful play is rewarded with cute animations. There are also three different background songs to choose from.</desc>
 		<image>./images/Tetris-image.png</image>
+		<marquee>./images/Tetris-marquee.png</marquee>
 		<thumbnail>./images/Tetris-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19891101T000000</releasedate>
@@ -1681,6 +1681,7 @@ Wild Gunman can be played against one bandit, two bandits or in Gang mode where 
 		<name>Yie Ar Kung-Fu</name>
 		<desc>Based on the popular arcade game, Yie Ar Kung-Fu follows Oolong's quest to become a Kung-Fu master.  Of course this involves fighting a wide range of opponents in a traditional one-on-one 2D environment.  Oolong has a wide range of attacks he can use to lower his opponent's life bar, including traditional punching and kicking attacks as well as jumping ones.  Opponents are well armed with unique weapons and attacks, so Oolong's task won't be easy.</desc>
 		<image>./images/Yie Ar Kung-Fu-image.png</image>
+		<marquee>./images/Yie Ar Kung-Fu-marquee.png</marquee>
 		<thumbnail>./images/Yie Ar Kung-Fu-thumb.png</thumbnail>
 		<rating>0.6</rating>
 		<releasedate>19850422T000000</releasedate>
@@ -1864,6 +1865,25 @@ The difficulty level increases with each room, and after a few levels there is a
 		<scrap name="ScreenScraper" date="20230627T170345" />
 		<scrap name="HfsDB" date="20230627T162600" />
 	</game>
+	<game>
+		<path>./Micro Mages.3dsen</path>
+		<name>Micro Mages</name>
+		<desc>Slip into your wizard robes and enter the Demon Fortress, home of great treasure and ghastly creatures alike. Shoot and wall-jump your way up the fortress's towers and battle the evil bosses lurking at the top.
+Play solo or join forces with your friends. This game supports up to 4 players. Will you help each other overcome the dangerous traps built to stop nosy adventurers or will you turn on your comrades to snatch the high score? No downtime: If you die while at least one other player is still alive, you will turn into a ghost and can help by freezing enemies. Try to open crates and treasure chests to find a Fairy or Feather that will bring you back to life.</desc>
+		<image>./images/Micro Mages-image.png</image>
+		<marquee>./images/Micro Mages-marquee.png</marquee>
+		<thumbnail>./images/Micro Mages-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<developer>Morphcat Games</developer>
+		<publisher>Morphcat Games</publisher>
+		<genre>Platform</genre>
+		<players>4</players>
+		<playcount>3</playcount>
+		<lastplayed>20230627T202349</lastplayed>
+		<gametime>631</gametime>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
 	<game id="18674">
 		<path>./Flappy.3dsen</path>
 		<name>Flappy</name>
@@ -1914,26 +1934,5 @@ Points are earned by recovering stolen goods. Other ways of earning points are b
 		<cheevosId>4756</cheevosId>
 		<scrap name="ScreenScraper" date="20230627T170421" />
 		<scrap name="HfsDB" date="20230627T164510" />
-	</game>
-	<game>
-		<path>./Micro Mages.3dsen</path>
-		<name>Micro Mages</name>
-		<desc>Slip into your wizard robes and enter the Demon Fortress, home of great treasure and ghastly creatures alike. Shoot and wall-jump your way up the fortress's towers and battle the evil bosses lurking at the top.
-Play solo or join forces with your friends. This game supports up to 4 players. Will you help each other overcome the dangerous traps built to stop nosy adventurers or will you turn on your comrades to snatch the high score? No downtime: If you die while at least one other player is still alive, you will turn into a ghost and can help by freezing enemies. Try to open crates and treasure chests to find a Fairy or Feather that will bring you back to life.</desc>
-		<image>./images/Micro Mages-image.png</image>
-		<marquee>./images/Micro Mages-marquee.png</marquee>
-		<thumbnail>./images/Micro Mages-thumb.png</thumbnail>
-		<rating>0.9</rating>
-		<developer>Morphcat Games</developer>
-		<publisher>Morphcat Games</publisher>
-		<genre>Platform</genre>
-		<players>4</players>
-		<playcount>3</playcount>
-		<lastplayed>20230627T202349</lastplayed>
-		<md5>be858780af1e33d584ab69247c203000</md5>
-		<gametime>631</gametime>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20231005T071052" />
 	</game>
 </gameList>

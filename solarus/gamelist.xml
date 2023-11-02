@@ -1,2 +1,8 @@
 <?xml version="1.0"?>
-<gameList />
+<gameList>
+	<game>
+		<path>./Solarus/solarus-1.6.2-win32.zip</path>
+		<name>solarus-1.6.2-win32</name>
+		<scrap name="ScreenScraper" date="20231102T090858" />
+	</game>
+</gameList>

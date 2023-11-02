@@ -1,2 +1,884 @@
 <?xml version="1.0"?>
-<gameList />
+<gameList>
+	<game>
+		<path>./Mugen/mugen 1.1/chars/BALROG/backup/31.01.2022_4.3.24__/balrog.cmd</path>
+		<name>balrog</name>
+		<md5>4e6b38ae31261f00c86dd05dc2c11713</md5>
+		<scrap name="ScreenScraper" date="20231102T081157" />
+	</game>
+	<game>
+		<path>./Mugen/mugen 1.1/chars/BALROG/backup/31.01.2022_4.3.41__/balrog.cmd</path>
+		<name>balrog</name>
+		<md5>4e6b38ae31261f00c86dd05dc2c11713</md5>
+		<scrap name="ScreenScraper" date="20231102T081159" />
+	</game>
+	<game>
+		<path>./Mugen/mugen 1.1/chars/BALROG/balrog.cmd</path>
+		<name>balrog</name>
+		<md5>4e6b38ae31261f00c86dd05dc2c11713</md5>
+		<scrap name="ScreenScraper" date="20231102T081201" />
+	</game>
+	<game>
+		<path>./Mugen/mugen 1.1/chars/BALROG/BALROG.rar</path>
+		<name>BALROG</name>
+		<scrap name="ScreenScraper" date="20231102T081202" />
+	</game>
+	<game>
+		<path>./Mugen/mugen 1.1/chars/BISON/BISON.cmd</path>
+		<name>BISON</name>
+		<md5>5ec0a1cb04c5d4c9e88b176dfbc42312</md5>
+		<scrap name="ScreenScraper" date="20231102T081204" />
+	</game>
+	<game>
+		<path>./Mugen/mugen 1.1/chars/Blanka/Shin_Blanka.cmd</path>
+		<name>Shin_Blanka</name>
+		<md5>b68bd98af2d0a13b37ac1dc1bbc03986</md5>
+		<scrap name="ScreenScraper" date="20231102T081205" />
+	</game>
+	<game>
+		<path>./Mugen/mugen 1.1/chars/Gouki/Command.cmd</path>
+		<name>Command</name>
+		<md5>90a2572dc8560741c23657a1e0eb78ae</md5>
+		<scrap name="ScreenScraper" date="20231102T081206" />
+	</game>
+	<game>
+		<path>./Mugen/mugen 1.1/chars/Guile V/Guile V.rar</path>
+		<name>Guile V</name>
+		<md5>dceabe820c1776d7dcae83e58cc42953</md5>
+		<scrap name="ScreenScraper" date="20231102T081223" />
+	</game>
+	<game>
+		<path>./Mugen/mugen 1.1/chars/Guile V/sagat.cmd</path>
+		<name>sagat</name>
+		<md5>b2e4772eddf11b82a092355998ccfae1</md5>
+		<scrap name="ScreenScraper" date="20231102T081224" />
+	</game>
+	<game>
+		<path>./Mugen/mugen 1.1/chars/Honda/Command.cmd</path>
+		<name>Command</name>
+		<md5>d58b713c7427f129d78d983ac469c3cd</md5>
+		<scrap name="ScreenScraper" date="20231102T081225" />
+	</game>
+	<game>
+		<path>./Mugen/mugen 1.1/chars/Ken/Command.cmd</path>
+		<name>Command</name>
+		<md5>013659bf67571245f6b9f25191cf177c</md5>
+		<scrap name="ScreenScraper" date="20231102T081227" />
+	</game>
+	<game>
+		<path>./Mugen/mugen 1.1/chars/LUKE/sagat.cmd</path>
+		<name>sagat</name>
+		<md5>f8da305bf2c6cf04d6359a249c8077ec</md5>
+		<scrap name="ScreenScraper" date="20231102T081229" />
+	</game>
+	<game>
+		<path>./Mugen/mugen 1.1/chars/Nash/Command.cmd</path>
+		<name>Command</name>
+		<md5>4ffe5781f08bf28f1ebac1b8bdc482a6</md5>
+		<scrap name="ScreenScraper" date="20231102T081230" />
+	</game>
+	<game>
+		<path>./Mugen/mugen 1.1/chars/Nash/CommandEasy.cmd</path>
+		<name>CommandEasy</name>
+		<md5>c7d3c3b52f1c9cdaf9cee3daf77bd21b</md5>
+		<scrap name="ScreenScraper" date="20231102T081231" />
+	</game>
+	<game>
+		<path>./Mugen/mugen 1.1/chars/Ryu/Command.cmd</path>
+		<name>Command</name>
+		<md5>37c9611af9592217a433b9a3d0a19522</md5>
+		<scrap name="ScreenScraper" date="20231102T081233" />
+	</game>
+	<game>
+		<path>./Mugen/mugen 1.1/chars/Ryu/ryu miita.act - Atalho.lnk</path>
+		<name>ryu miita.act - Atalho</name>
+		<md5>630484d0ff263eb33dc00d82270d1bf4</md5>
+		<scrap name="ScreenScraper" date="20231102T081234" />
+	</game>
+	<game>
+		<path>./Mugen/mugen 1.1/chars/sagat/sagat.cmd</path>
+		<name>sagat</name>
+		<md5>72df637c817be4ae2e827d0afc115a42</md5>
+		<scrap name="ScreenScraper" date="20231102T081236" />
+	</game>
+	<game>
+		<path>./Mugen/mugen 1.1/chars/Vega/Balrog.cmd</path>
+		<name>Balrog</name>
+		<md5>f865a6eb11d6952030276995f5c8fb06</md5>
+		<scrap name="ScreenScraper" date="20231102T081237" />
+	</game>
+	<game>
+		<path>./Mugen/mugen 1.1/chars/Vega/Command.cmd</path>
+		<name>Command</name>
+		<md5>1f5a4c6443a9331598c43389c9da8b1a</md5>
+		<scrap name="ScreenScraper" date="20231102T081239" />
+	</game>
+	<game>
+		<path>./Mugen/mugen 1.1/chars/Zangief/zangief.cmd</path>
+		<name>zangief</name>
+		<md5>f689c096f2d17cb647aabcd5365d87f2</md5>
+		<scrap name="ScreenScraper" date="20231102T081240" />
+	</game>
+	<game>
+		<path>./Mugen/mugen 1.1/M.U.G.E.N.exe</path>
+		<name>M.U.G.E.N</name>
+		<md5>ff6e4ecf08534abcd45fbb92029591da</md5>
+		<scrap name="ScreenScraper" date="20231102T081242" />
+	</game>
+	<game>
+		<path>./Mugen/mugen 1.1/sff2png.exe</path>
+		<name>sff2png</name>
+		<md5>3f33cf3cd5a691671e6b870d4b289ee9</md5>
+		<scrap name="ScreenScraper" date="20231102T081243" />
+	</game>
+	<game>
+		<path>./Mugen/mugen 1.1/sndmaker.exe</path>
+		<name>sndmaker</name>
+		<md5>e1e6045e7233181f98f0747d5a62e216</md5>
+		<scrap name="ScreenScraper" date="20231102T081244" />
+	</game>
+	<game>
+		<path>./Mugen/mugen 1.1/sprmake2.exe</path>
+		<name>sprmake2</name>
+		<md5>c543823e1d198b68f51eaf759147fe06</md5>
+		<scrap name="ScreenScraper" date="20231102T081246" />
+	</game>
+	<game>
+		<path>./Mugen/SUPER CRANK FIGHTERS 2/chars/abdul/abdul.cmd</path>
+		<name>abdul</name>
+		<md5>420f9314d5040664fd55ce9dae59543f</md5>
+		<scrap name="ScreenScraper" date="20231102T081248" />
+	</game>
+	<game>
+		<path>./Mugen/SUPER CRANK FIGHTERS 2/chars/b12/b12.cmd</path>
+		<name>b12</name>
+		<md5>95cd4e66247e1298093c6a8806f61e2c</md5>
+		<scrap name="ScreenScraper" date="20231102T081249" />
+	</game>
+	<game>
+		<path>./Mugen/SUPER CRANK FIGHTERS 2/chars/culo/culo.cmd</path>
+		<name>culo</name>
+		<md5>0f0d6a07812c82e9fb18f556456ab05f</md5>
+		<scrap name="ScreenScraper" date="20231102T081251" />
+	</game>
+	<game>
+		<path>./Mugen/SUPER CRANK FIGHTERS 2/chars/ernie/ernie.cmd</path>
+		<name>ernie</name>
+		<md5>30941404bd416d4b392b39a94cd6608e</md5>
+		<scrap name="ScreenScraper" date="20231102T081252" />
+	</game>
+	<game>
+		<path>./Mugen/SUPER CRANK FIGHTERS 2/chars/jannaro/jannaro.cmd</path>
+		<name>jannaro</name>
+		<md5>70bf3b494039d7edbb3364971ef39bdd</md5>
+		<scrap name="ScreenScraper" date="20231102T081253" />
+	</game>
+	<game>
+		<path>./Mugen/SUPER CRANK FIGHTERS 2/chars/keith/keith.cmd</path>
+		<name>keith</name>
+		<md5>30941404bd416d4b392b39a94cd6608e</md5>
+		<scrap name="ScreenScraper" date="20231102T081255" />
+	</game>
+	<game>
+		<path>./Mugen/SUPER CRANK FIGHTERS 2/chars/mistermister/mistermister.cmd</path>
+		<name>mistermister</name>
+		<md5>ab8b8b7cd6ac52cd929e3fd9490f9d91</md5>
+		<scrap name="ScreenScraper" date="20231102T081256" />
+	</game>
+	<game>
+		<path>./Mugen/SUPER CRANK FIGHTERS 2/chars/nova/nova.cmd</path>
+		<name>nova</name>
+		<md5>0c96f9f60c64c8c894f69871f5be6fc6</md5>
+		<scrap name="ScreenScraper" date="20231102T081258" />
+	</game>
+	<game>
+		<path>./Mugen/SUPER CRANK FIGHTERS 2/chars/oldgamer/oldgamer.cmd</path>
+		<name>oldgamer</name>
+		<md5>72841ffc45eb969dbf9ab67059e97b25</md5>
+		<scrap name="ScreenScraper" date="20231102T081259" />
+	</game>
+	<game>
+		<path>./Mugen/SUPER CRANK FIGHTERS 2/chars/osas/osas.cmd</path>
+		<name>osas</name>
+		<md5>af8bca3749e0499f743f866ae3e99739</md5>
+		<scrap name="ScreenScraper" date="20231102T081301" />
+	</game>
+	<game>
+		<path>./Mugen/SUPER CRANK FIGHTERS 2/chars/pinchos/pinchos.cmd</path>
+		<name>pinchos</name>
+		<md5>b80a3976de3ffd0eaf7bd73b7409bdaf</md5>
+		<scrap name="ScreenScraper" date="20231102T081303" />
+	</game>
+	<game>
+		<path>./Mugen/SUPER CRANK FIGHTERS 2/chars/ramina/ramina.cmd</path>
+		<name>ramina</name>
+		<md5>2ef85d427f44bbada92a81cae0e15f82</md5>
+		<scrap name="ScreenScraper" date="20231102T081304" />
+	</game>
+	<game>
+		<path>./Mugen/SUPER CRANK FIGHTERS 2/chars/taneo/taneo.cmd</path>
+		<name>taneo</name>
+		<md5>a93da5063a2d67074f229d002d540d90</md5>
+		<scrap name="ScreenScraper" date="20231102T081306" />
+	</game>
+	<game>
+		<path>./Mugen/SUPER CRANK FIGHTERS 2/chars/tara/tara.cmd</path>
+		<name>tara</name>
+		<md5>cbda65dc083dce4b01deba3073a76ae4</md5>
+		<scrap name="ScreenScraper" date="20231102T081307" />
+	</game>
+	<game>
+		<path>./Mugen/SUPER CRANK FIGHTERS 2/chars/tsuneo/tsuneo.cmd</path>
+		<name>tsuneo</name>
+		<md5>0e16f618d192371ccbe670868a049181</md5>
+		<scrap name="ScreenScraper" date="20231102T081308" />
+	</game>
+	<game>
+		<path>./Mugen/SUPER CRANK FIGHTERS 2/chars/waifai/waifai.cmd</path>
+		<name>waifai</name>
+		<md5>f9c866cdaea75fc1f348e781dc921405</md5>
+		<scrap name="ScreenScraper" date="20231102T081309" />
+	</game>
+	<game>
+		<path>./Mugen/SUPER CRANK FIGHTERS 2/chars/zan/zan.cmd</path>
+		<name>zan</name>
+		<md5>9b4d5f1883ee85681c605fd9ab1b3ea3</md5>
+		<scrap name="ScreenScraper" date="20231102T081311" />
+	</game>
+	<game>
+		<path>./Mugen/SUPER CRANK FIGHTERS 2/SCF2.EXE</path>
+		<name>SCF2</name>
+		<md5>529eff3c02920b389e3c3ddf74c825f4</md5>
+		<scrap name="ScreenScraper" date="20231102T081313" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/AkumaDM/AkumaDM_noAI_tag/command_noAI.cmd</path>
+		<name>command_noAI</name>
+		<md5>912a806f6b3f7fa8c5faac9d0e875327</md5>
+		<scrap name="ScreenScraper" date="20231102T081314" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/AkumaDM/AkumaDM_tag/command.cmd</path>
+		<name>command</name>
+		<md5>c459308cba23046601f024033e5162d3</md5>
+		<scrap name="ScreenScraper" date="20231102T081316" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/AkumaDM/command.cmd</path>
+		<name>command</name>
+		<md5>e587a403af9a5e281357263066950f1c</md5>
+		<scrap name="ScreenScraper" date="20231102T081317" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/AkumaDM/command_noAI.cmd</path>
+		<name>command_noAI</name>
+		<md5>f25fff0152eea751c85887497e9a832d</md5>
+		<scrap name="ScreenScraper" date="20231102T081319" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/ANDY EX/andy.cmd</path>
+		<name>andy</name>
+		<md5>37fba4ccf98815cd33b5b0769f98a920</md5>
+		<scrap name="ScreenScraper" date="20231102T081320" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/athena-kofa/codigo/Athena.cmd</path>
+		<name>Athena</name>
+		<md5>ed9ca7cb305a17a33611d8a6d4e5f4cd</md5>
+		<scrap name="ScreenScraper" date="20231102T081322" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/BENIMARU/Benimaru_XI.cmd</path>
+		<name>Benimaru_XI</name>
+		<md5>5ac767f7dcb4e911b8c3301c06323087</md5>
+		<scrap name="ScreenScraper" date="20231102T081323" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/BILLY/BILLY.cmd</path>
+		<name>BILLY</name>
+		<md5>7ae884e0f8c2917954d07aacb8ea97ba</md5>
+		<scrap name="ScreenScraper" date="20231102T081325" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/bluemary-kofa/mary.cmd</path>
+		<name>mary</name>
+		<md5>6ba2a6dfe733fb60b2c6e01d9b03c6bc</md5>
+		<scrap name="ScreenScraper" date="20231102T081326" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/BRIAN/Brian.cmd</path>
+		<name>Brian</name>
+		<md5>05fc60aa74dfe2a1ecc9f7bae117a3df</md5>
+		<scrap name="ScreenScraper" date="20231102T081328" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/chang-kofa/Chang.cmd</path>
+		<name>Chang</name>
+		<md5>bc1e2cd31aa96a1203add19b8711153d</md5>
+		<scrap name="ScreenScraper" date="20231102T081330" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/chin-kofa/Chin-KOFM.cmd</path>
+		<name>Chin-KOFM</name>
+		<md5>2a455f9a0cc95a815f95640ba86b6c17</md5>
+		<scrap name="ScreenScraper" date="20231102T081331" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/CHIZURU/chizuru_maki.cmd</path>
+		<name>chizuru_maki</name>
+		<md5>57dbb6e0753fc8b8c2ccbaa5ed0eaae2</md5>
+		<scrap name="ScreenScraper" date="20231102T081333" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/choi-kofa/Choi.cmd</path>
+		<name>Choi</name>
+		<md5>c4146ee8144f1a7704f917e6571f17e0</md5>
+		<scrap name="ScreenScraper" date="20231102T081334" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/CLARK/cns/clark.cmd</path>
+		<name>clark</name>
+		<md5>2e9d8f2e3fa3b6e4b6c2115074e1b64e</md5>
+		<scrap name="ScreenScraper" date="20231102T081336" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/CLARK/cns/ultrarox_clark.cmd</path>
+		<name>ultrarox_clark</name>
+		<md5>f37fe97fab8bba76494c40cf64e910f5</md5>
+		<scrap name="ScreenScraper" date="20231102T081337" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/CLARK/cns/复件 ultrarox_clark.cmd</path>
+		<name>复件 ultrarox_clark</name>
+		<md5>e48a97cdbc10ef86a3cdb0557f4c286e</md5>
+		<scrap name="ScreenScraper" date="20231102T081339" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/CLARK/ultrarox_clark.cmd</path>
+		<name>ultrarox_clark</name>
+		<md5>f37fe97fab8bba76494c40cf64e910f5</md5>
+		<scrap name="ScreenScraper" date="20231102T081340" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/GEESE/N-Geese.cmd</path>
+		<name>N-Geese</name>
+		<md5>90097dfdfb0663aa7ecd2f4e95436af8</md5>
+		<scrap name="ScreenScraper" date="20231102T081341" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/goenitz-kofa/Goenitz_UM.cmd</path>
+		<name>Goenitz_UM</name>
+		<md5>9f27d260202cadd9160119101e2084ec</md5>
+		<scrap name="ScreenScraper" date="20231102T081343" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/Goro_Daimon/Goro_Daimon-AI.rar</path>
+		<name>Goro_Daimon-AI</name>
+		<md5>fc30c9e41805baa153585d5f7e73185d</md5>
+		<scrap name="ScreenScraper" date="20231102T081344" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/Goro_Daimon/Goro_Daimon.cmd</path>
+		<name>Goro_Daimon</name>
+		<md5>734bb9457a118c3d595bd58a3967e198</md5>
+		<scrap name="ScreenScraper" date="20231102T081346" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/Goro_Daimon/Goro_Daimon无AI补丁.rar</path>
+		<name>Goro_Daimon无AI补丁</name>
+		<md5>a4a0c70414c431841e69daca7ed38381</md5>
+		<scrap name="ScreenScraper" date="20231102T081348" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/heavy-d-kofa/HeavyD!.cmd</path>
+		<name>HeavyD!</name>
+		<md5>ae9122563e8b357936c1a9abbdf64383</md5>
+		<scrap name="ScreenScraper" date="20231102T081349" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/HEIDERN/command.cmd</path>
+		<name>command</name>
+		<md5>d80bbfc310f2af489d83c1de5afca144</md5>
+		<scrap name="ScreenScraper" date="20231102T081351" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/HEIDERN/Heidern-KOFM.cmd</path>
+		<name>Heidern-KOFM</name>
+		<md5>621caa8a9e93716b8e4a7c78ee347750</md5>
+		<scrap name="ScreenScraper" date="20231102T081352" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/HEIDERN/复件 (2) Heidern-KOFM.cmd</path>
+		<name>复件 (2) Heidern-KOFM</name>
+		<md5>c32bb954c982eb0e7b2964b405ca7c04</md5>
+		<scrap name="ScreenScraper" date="20231102T081354" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/HEIDERN/复件 Heidern-KOFM.cmd</path>
+		<name>复件 Heidern-KOFM</name>
+		<md5>e10d9570307a78344fc6ff33b356c806</md5>
+		<scrap name="ScreenScraper" date="20231102T081355" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/HINAKO/coding/hinako.cmd</path>
+		<name>hinako</name>
+		<md5>b6b05e46cc569581f33a71a4cad37d6a</md5>
+		<scrap name="ScreenScraper" date="20231102T081357" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/joe-kofa/command.cmd</path>
+		<name>command</name>
+		<md5>b8e08578e60572b9b66adc5de78f037a</md5>
+		<scrap name="ScreenScraper" date="20231102T081358" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/K'/K'.cmd</path>
+		<name>K'</name>
+		<md5>4694da7b61f6eb4a652d45355e825671</md5>
+		<scrap name="ScreenScraper" date="20231102T081400" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/K'/复件 K'.cmd</path>
+		<name>复件 K'</name>
+		<md5>fbf76db885e6ccee9f6d56fb5d82fe71</md5>
+		<scrap name="ScreenScraper" date="20231102T081401" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/KENSOU/codigo/Kensou.cmd</path>
+		<name>Kensou</name>
+		<md5>44c2a3ba5457b53d6df229faaca141ed</md5>
+		<scrap name="ScreenScraper" date="20231102T081403" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/KIM/coding/kim.cmd</path>
+		<name>kim</name>
+		<md5>3ecf840b753cbc722716f1e0ca561789</md5>
+		<scrap name="ScreenScraper" date="20231102T081404" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/KING/King.cmd</path>
+		<name>King</name>
+		<md5>16fdfc07963dedc9133bd37014127741</md5>
+		<scrap name="ScreenScraper" date="20231102T081406" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/KRAUSER/Krauser.cmd</path>
+		<name>Krauser</name>
+		<md5>de4d2dd235af5fb5896e19074609ce34</md5>
+		<scrap name="ScreenScraper" date="20231102T081407" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/KRIZALID/krizalid_N.cmd</path>
+		<name>krizalid_N</name>
+		<md5>795d2ea3129839cee159c4112048ddb5</md5>
+		<scrap name="ScreenScraper" date="20231102T081409" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/KULA/kula.cmd</path>
+		<name>kula</name>
+		<md5>d51086b54736e30583be265f1976f6c4</md5>
+		<scrap name="ScreenScraper" date="20231102T081411" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/KYO/Kyo-F.cmd</path>
+		<name>Kyo-F</name>
+		<md5>df5cad6dd3e492a759998c190cc866d2</md5>
+		<scrap name="ScreenScraper" date="20231102T081412" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/KYO/复件 Kyo-F.cmd</path>
+		<name>复件 Kyo-F</name>
+		<md5>ec0542a3e1970c619158f1bd04656673</md5>
+		<scrap name="ScreenScraper" date="20231102T081414" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/leona-kofa/leona.cmd</path>
+		<name>leona</name>
+		<md5>1053e7d5312bc82bfcdd99254a345950</md5>
+		<scrap name="ScreenScraper" date="20231102T081415" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/LUCKY/lucky.cmd</path>
+		<name>lucky</name>
+		<md5>77a155829a8256f8f80f0b46ffb117a2</md5>
+		<scrap name="ScreenScraper" date="20231102T081417" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/LUCKY/mediumai.cmd</path>
+		<name>mediumai</name>
+		<md5>6ad9afa8908a6c69fa5c878a7934d298</md5>
+		<scrap name="ScreenScraper" date="20231102T081419" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/LUCKY/noai.cmd</path>
+		<name>noai</name>
+		<md5>65d46246b4857d8ae5fec5714ee24075</md5>
+		<scrap name="ScreenScraper" date="20231102T081420" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/mai-kofa/mai.cmd</path>
+		<name>mai</name>
+		<md5>90a6bfe73dffc1fe09f328548994b56f</md5>
+		<scrap name="ScreenScraper" date="20231102T081422" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/MATURE/mature.cmd</path>
+		<name>mature</name>
+		<md5>2bc5bcaf54150e40518547e0df1df9ee</md5>
+		<scrap name="ScreenScraper" date="20231102T081429" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/MATURE/复件 mature.cmd</path>
+		<name>复件 mature</name>
+		<md5>128d61d645e57042e9fd426b3adf79e6</md5>
+		<scrap name="ScreenScraper" date="20231102T081431" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/maxima-kofa/maxima.cmd</path>
+		<name>maxima</name>
+		<md5>4a21904808878594b0aecf91ae706043</md5>
+		<scrap name="ScreenScraper" date="20231102T081433" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/MR.BIG/mrbig.cmd</path>
+		<name>mrbig</name>
+		<md5>6a3353c8fc3fa0109d1eb3df188b3091</md5>
+		<scrap name="ScreenScraper" date="20231102T081434" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/OROCHI/CMD/Orochi-98-UM-H-AI.cmd</path>
+		<name>Orochi-98-UM-H-AI</name>
+		<md5>17c207c2cf54861b6f655d3630c3aec5</md5>
+		<scrap name="ScreenScraper" date="20231102T081436" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/OROCHI/CMD/Orochi-98-UM-NO-AI.cmd</path>
+		<name>Orochi-98-UM-NO-AI</name>
+		<md5>e7c0ca51901e54ecab19fa158db6969e</md5>
+		<scrap name="ScreenScraper" date="20231102T081437" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/OROCHI/CMD/Orochi-98-UM.cmd</path>
+		<name>Orochi-98-UM</name>
+		<md5>7ce10922280e4eb9dcf67de4c79b3630</md5>
+		<scrap name="ScreenScraper" date="20231102T081439" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/ROBERT/Robert.cmd</path>
+		<name>Robert</name>
+		<md5>ba95236afa656d20002f81f9c2e8e6cb</md5>
+		<scrap name="ScreenScraper" date="20231102T081441" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/ROBERT/复件 Robert.cmd</path>
+		<name>复件 Robert</name>
+		<md5>7bce6f43e4b787e12559eccd113dfd10</md5>
+		<scrap name="ScreenScraper" date="20231102T081442" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/RUGAL/Rugal.cmd</path>
+		<name>Rugal</name>
+		<md5>2621cd8acb0dc93e1d386edaf4afd928</md5>
+		<scrap name="ScreenScraper" date="20231102T081444" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/RUGAL/复件 (2) Rugal.cmd</path>
+		<name>复件 (2) Rugal</name>
+		<md5>bfcdb5a46567bb5946f3b17ddc3bb288</md5>
+		<scrap name="ScreenScraper" date="20231102T081446" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/RUGAL/复件 Rugal.cmd</path>
+		<name>复件 Rugal</name>
+		<md5>783b719d541366330019dceef3df46b6</md5>
+		<scrap name="ScreenScraper" date="20231102T081447" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/RYO/Ryo-KOFM.cmd</path>
+		<name>Ryo-KOFM</name>
+		<md5>7cdd304062ead80b7096ed490027ca99</md5>
+		<scrap name="ScreenScraper" date="20231102T081449" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/SAGAT/svc_sagat.cmd</path>
+		<name>svc_sagat</name>
+		<md5>5386d506068957adb091aa2866a85813</md5>
+		<scrap name="ScreenScraper" date="20231102T081451" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/SAISYU/CnS/Saisyu_XI.cmd</path>
+		<name>Saisyu_XI</name>
+		<md5>bc9f8fd860e9a53a08cebd4f8559c727</md5>
+		<scrap name="ScreenScraper" date="20231102T081452" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/SAISYU/CnS/复件 Saisyu_XI.cmd</path>
+		<name>复件 Saisyu_XI</name>
+		<md5>69541f51b8437a5768d4a8cb47ebc360</md5>
+		<scrap name="ScreenScraper" date="20231102T081455" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/SAISYU/Fondo HSDM version anterior.rar</path>
+		<name>Fondo HSDM version anterior</name>
+		<md5>54b82f53f5cbaa617b7e171ff9f2ada8</md5>
+		<scrap name="ScreenScraper" date="20231102T081457" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/TAKUMA/takuma.cmd</path>
+		<name>takuma</name>
+		<md5>04f465c4679c44a5b58797c4e15bcaac</md5>
+		<scrap name="ScreenScraper" date="20231102T081459" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/TERRY/terry-original.cmd</path>
+		<name>terry-original</name>
+		<md5>40008b575aa5458693dbb7443f6e1317</md5>
+		<scrap name="ScreenScraper" date="20231102T081500" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/TERRY/terry.cmd</path>
+		<name>terry</name>
+		<md5>52590cd7dce47b4965128eaf54c460b3</md5>
+		<scrap name="ScreenScraper" date="20231102T081502" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/TERRY/复件 terry.cmd</path>
+		<name>复件 terry</name>
+		<md5>154eb7c777dd5f19ea4547ba72b9a2fd</md5>
+		<scrap name="ScreenScraper" date="20231102T081505" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/VICE/cns/ultrarox_vice.cmd</path>
+		<name>ultrarox_vice</name>
+		<md5>d31ad53946864f02b2a2deb52fdd966b</md5>
+		<scrap name="ScreenScraper" date="20231102T081506" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/VICE/cns/复件 ultrarox_vice.cmd</path>
+		<name>复件 ultrarox_vice</name>
+		<md5>3c492dd3dbd23b97adca03492049e913</md5>
+		<scrap name="ScreenScraper" date="20231102T081508" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/VICE/cns/新建文件夹/ultrarox_vice.cmd</path>
+		<name>ultrarox_vice</name>
+		<md5>aca7e113be5c5dad1113ef23936528df</md5>
+		<scrap name="ScreenScraper" date="20231102T081510" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/VICE/cns/新建文件夹 (2)/ultrarox_vice.cmd</path>
+		<name>ultrarox_vice</name>
+		<md5>a34f9d603211264219c6e28cd1650322</md5>
+		<scrap name="ScreenScraper" date="20231102T081512" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/VICE/vice.cmd</path>
+		<name>vice</name>
+		<md5>f926114122fe3db2278dcfefbffb84b7</md5>
+		<scrap name="ScreenScraper" date="20231102T081513" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/YAMAZAKI/Yamazaki_XI.cmd</path>
+		<name>Yamazaki_XI</name>
+		<md5>7b1759687da05466678c4d5745008249</md5>
+		<scrap name="ScreenScraper" date="20231102T081515" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/YAMAZAKI/复件 Yamazaki_XI.cmd</path>
+		<name>复件 Yamazaki_XI</name>
+		<md5>b6974644b5a5c19bdfea7d7e5083644a</md5>
+		<scrap name="ScreenScraper" date="20231102T081517" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/YURI/yuri.cmd</path>
+		<name>yuri</name>
+		<md5>5e0cf1836c6ce8f12c2097fa6026522a</md5>
+		<scrap name="ScreenScraper" date="20231102T081518" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/chars/YURI/复件 yuri.cmd</path>
+		<name>复件 yuri</name>
+		<md5>5885376f871d0629ca4eae4962f0b73f</md5>
+		<scrap name="ScreenScraper" date="20231102T081521" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/data/Mugen lifebar by sysn [converted to 1280x720 by RAMON GARCIA]/fight.def [oficial] by sysn [converted to 1280x720 by me RAMON GARCIA] beta 1.rar</path>
+		<name>fight.def [oficial] by sysn [converted to 1280x720 by me RAMON GARCIA] beta 1</name>
+		<md5>d25fb392e7fb0babdb9bb9faf6ef8673</md5>
+		<scrap name="ScreenScraper" date="20231102T081523" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/data/Mugen lifebar by sysn [converted to 1280x720 by RAMON GARCIA]/fight.def [oficial] by sysn [converted to 1280x720 by me RAMON GARCIA] beta 10.rar</path>
+		<name>fight.def [oficial] by sysn [converted to 1280x720 by me RAMON GARCIA] beta 10</name>
+		<md5>40cb89755a26a346238e939e1e76cf23</md5>
+		<scrap name="ScreenScraper" date="20231102T081524" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/data/Mugen lifebar by sysn [converted to 1280x720 by RAMON GARCIA]/fight.def [oficial] by sysn [converted to 1280x720 by me RAMON GARCIA] beta 11.zip</path>
+		<name>fight.def [oficial] by sysn [converted to 1280x720 by me RAMON GARCIA] beta 11</name>
+		<md5>83afbd7b4543b4ef44e245cf7a20a116</md5>
+		<scrap name="ScreenScraper" date="20231102T081526" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/data/Mugen lifebar by sysn [converted to 1280x720 by RAMON GARCIA]/fight.def [oficial] by sysn [converted to 1280x720 by me RAMON GARCIA] beta 12.rar</path>
+		<name>fight.def [oficial] by sysn [converted to 1280x720 by me RAMON GARCIA] beta 12</name>
+		<md5>f917315dc848868e76010201b010fc41</md5>
+		<scrap name="ScreenScraper" date="20231102T081529" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/data/Mugen lifebar by sysn [converted to 1280x720 by RAMON GARCIA]/fight.def [oficial] by sysn [converted to 1280x720 by me RAMON GARCIA] beta 13.rar</path>
+		<name>fight.def [oficial] by sysn [converted to 1280x720 by me RAMON GARCIA] beta 13</name>
+		<md5>5b3b681515fed37d091098deac8c454f</md5>
+		<scrap name="ScreenScraper" date="20231102T081531" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/data/Mugen lifebar by sysn [converted to 1280x720 by RAMON GARCIA]/fight.def [oficial] by sysn [converted to 1280x720 by me RAMON GARCIA] beta 14.rar</path>
+		<name>fight.def [oficial] by sysn [converted to 1280x720 by me RAMON GARCIA] beta 14</name>
+		<md5>67ba86691a8ec6cb6bbe2d8d44e7a46d</md5>
+		<scrap name="ScreenScraper" date="20231102T081533" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/data/Mugen lifebar by sysn [converted to 1280x720 by RAMON GARCIA]/fight.def [oficial] by sysn [converted to 1280x720 by me RAMON GARCIA] beta 2.rar</path>
+		<name>fight.def [oficial] by sysn [converted to 1280x720 by me RAMON GARCIA] beta 2</name>
+		<md5>551edf4023b7401bb159046d52b664da</md5>
+		<scrap name="ScreenScraper" date="20231102T081535" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/data/Mugen lifebar by sysn [converted to 1280x720 by RAMON GARCIA]/fight.def [oficial] by sysn [converted to 1280x720 by me RAMON GARCIA] beta 3.rar</path>
+		<name>fight.def [oficial] by sysn [converted to 1280x720 by me RAMON GARCIA] beta 3</name>
+		<md5>673d7812f0a2553f8199d3c89babbd11</md5>
+		<scrap name="ScreenScraper" date="20231102T081536" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/data/Mugen lifebar by sysn [converted to 1280x720 by RAMON GARCIA]/fight.def [oficial] by sysn [converted to 1280x720 by me RAMON GARCIA] beta 4.rar</path>
+		<name>fight.def [oficial] by sysn [converted to 1280x720 by me RAMON GARCIA] beta 4</name>
+		<md5>0b922ba1a2c14a9923f19e204f00376d</md5>
+		<scrap name="ScreenScraper" date="20231102T081538" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/data/Mugen lifebar by sysn [converted to 1280x720 by RAMON GARCIA]/fight.def [oficial] by sysn [converted to 1280x720 by me RAMON GARCIA] beta 5.rar</path>
+		<name>fight.def [oficial] by sysn [converted to 1280x720 by me RAMON GARCIA] beta 5</name>
+		<md5>3d4b9e6719129edd6e86def6320b7d84</md5>
+		<scrap name="ScreenScraper" date="20231102T081540" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/data/Mugen lifebar by sysn [converted to 1280x720 by RAMON GARCIA]/fight.def [oficial] by sysn [converted to 1280x720 by me RAMON GARCIA] beta 6.rar</path>
+		<name>fight.def [oficial] by sysn [converted to 1280x720 by me RAMON GARCIA] beta 6</name>
+		<md5>02325abe178311c6cc0b82a2ab97e260</md5>
+		<scrap name="ScreenScraper" date="20231102T081542" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/data/Mugen lifebar by sysn [converted to 1280x720 by RAMON GARCIA]/fight.def [oficial] by sysn [converted to 1280x720 by me RAMON GARCIA] beta 7.rar</path>
+		<name>fight.def [oficial] by sysn [converted to 1280x720 by me RAMON GARCIA] beta 7</name>
+		<md5>9fa81a1d7da1a50d9b402df770f8432a</md5>
+		<scrap name="ScreenScraper" date="20231102T081543" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/data/Mugen lifebar by sysn [converted to 1280x720 by RAMON GARCIA]/fight.def [oficial] by sysn [converted to 1280x720 by me RAMON GARCIA] beta 9.rar</path>
+		<name>fight.def [oficial] by sysn [converted to 1280x720 by me RAMON GARCIA] beta 9</name>
+		<md5>aadce67e1ac67b737df2b6d5c6b76256</md5>
+		<scrap name="ScreenScraper" date="20231102T081545" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/data/Mugen lifebar by sysn [converted to 1280x720 by RAMON GARCIA]/fight.def [oficial] [RAMON GARCIA edit] old-RAMON.rar</path>
+		<name>fight.def [oficial] [RAMON GARCIA edit] old-RAMON</name>
+		<md5>91ff117987f322fd6e795c07d0b3c5a3</md5>
+		<scrap name="ScreenScraper" date="20231102T081546" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/data/Mugen lifebar by sysn [converted to 1280x720 by RAMON GARCIA]/fight.def [oficial] [RAMON GARCIA edit] [com barra de especial abaixo]-RAMON.rar</path>
+		<name>fight.def [oficial] [RAMON GARCIA edit] [com barra de especial abaixo]-RAMON</name>
+		<md5>c9d754f3a22827320dc63ae2d92bf4b2</md5>
+		<scrap name="ScreenScraper" date="20231102T081548" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/data/Mugen lifebar by sysn [converted to 1280x720 by RAMON GARCIA]/fight.def [oficial] [RAMON GARCIA edit] [com nomes dos chars nos cantos]-RAMON.rar</path>
+		<name>fight.def [oficial] [RAMON GARCIA edit] [com nomes dos chars nos cantos]-RAMON</name>
+		<md5>f082d750cd81730b8c40168442a403d1</md5>
+		<scrap name="ScreenScraper" date="20231102T081550" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/data/Mugen lifebar by sysn [converted to 1280x720 by RAMON GARCIA]/fight.def [oficial] [RAMON GARCIA edit] [com todos os portraits]-RAMON.rar</path>
+		<name>fight.def [oficial] [RAMON GARCIA edit] [com todos os portraits]-RAMON</name>
+		<md5>5b54baaa3ce21b582025d7547a72a152</md5>
+		<scrap name="ScreenScraper" date="20231102T081551" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/data/Mugen lifebar by sysn [converted to 1280x720 by RAMON GARCIA]/fight.def [oficial] [RAMON GARCIA edit] [portraits only in turns] [oficial]-RAMON.rar</path>
+		<name>fight.def [oficial] [RAMON GARCIA edit] [portraits only in turns] [oficial]-RAMON</name>
+		<md5>62522b6f8dd8dfd3b62aec9293ed4671</md5>
+		<scrap name="ScreenScraper" date="20231102T081553" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/data/Mugen lifebar by sysn [converted to 1280x720 by RAMON GARCIA]/fight.def [oficial] [RAMON GARCIA edit] [without portraits]-RAMON.rar</path>
+		<name>fight.def [oficial] [RAMON GARCIA edit] [without portraits]-RAMON</name>
+		<md5>c381c64713ba399479f5da734fcec76d</md5>
+		<scrap name="ScreenScraper" date="20231102T081554" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/data/mugen1/Kof Brs life bar by Darkriel edited by RAMON GARCIA [1280x720] [mugen 1.0 &amp; 1.1]/fight new.sff [backup].rar</path>
+		<name>fight new.sff [backup]</name>
+		<md5>0b8039bb323f7a6050c2023fab280d15</md5>
+		<scrap name="ScreenScraper" date="20231102T081557" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/data/mugen1/Kof Brs life bar by Darkriel edited by RAMON GARCIA [1280x720] [mugen 1.0 &amp; 1.1]/fight.def [backup].rar</path>
+		<name>fight.def [backup]</name>
+		<md5>31e0b488997a9486d0833f13c2ae39b7</md5>
+		<scrap name="ScreenScraper" date="20231102T081559" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/Lifebars/lifebar 2/lifebar.rar</path>
+		<name>lifebar</name>
+		<md5>c8413629b6747ae72f126e333eaf5928</md5>
+		<scrap name="ScreenScraper" date="20231102T081601" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/Lifebars/lifebar 3/backup.rar</path>
+		<name>backup</name>
+		<md5>2ed1f3968e219def54bc8fec1bfd9a8b</md5>
+		<scrap name="ScreenScraper" date="20231102T081603" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/old_tools/aireditw.exe</path>
+		<name>aireditw</name>
+		<md5>009def29f41b8e9f90f507a88d4ec8ea</md5>
+		<scrap name="ScreenScraper" date="20231102T081605" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/old_tools/fntmaker.exe</path>
+		<name>fntmaker</name>
+		<md5>4ebe514a0f48b4b85f71ce3088b12514</md5>
+		<scrap name="ScreenScraper" date="20231102T081607" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/old_tools/pcxclean.exe</path>
+		<name>pcxclean</name>
+		<md5>0ff954b60fe1525438c95a1e7bbc8e71</md5>
+		<scrap name="ScreenScraper" date="20231102T081609" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/old_tools/sff2pcx.exe</path>
+		<name>sff2pcx</name>
+		<md5>93c79f45ecf5573429b6a327a3d1b791</md5>
+		<scrap name="ScreenScraper" date="20231102T081611" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/old_tools/snd2wav.exe</path>
+		<name>snd2wav</name>
+		<md5>fe27307991f341a6f446f7cd8b6d7d2e</md5>
+		<scrap name="ScreenScraper" date="20231102T081613" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/old_tools/sprmaker.exe</path>
+		<name>sprmaker</name>
+		<md5>b09a25a8a81f7dca12e2d8e165721e81</md5>
+		<scrap name="ScreenScraper" date="20231102T081614" />
+	</game>
+	<game>
+		<path>./Mugen/The King Of Fighters Mugenation Edition 2021/The King Of Fighters Mugenation Edition 2021.exe</path>
+		<name>The King Of Fighters Mugenation Edition 2021</name>
+		<md5>ff6e4ecf08534abcd45fbb92029591da</md5>
+		<scrap name="ScreenScraper" date="20231102T081616" />
+	</game>
+</gameList>

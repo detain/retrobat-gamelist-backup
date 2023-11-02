@@ -1,0 +1,457 @@
+<?xml version="1.0"?>
+<gameList>
+	<game id="99647">
+		<path>./Pinball FX2/data_steam/Atlantis.pxp</path>
+		<name>Indiana Jones and the Fate of Atlantis</name>
+		<desc>Indiana Jones and the Fate of Atlantis is a point-and-click adventure game by LucasArts originally released in 1992. Almost a year later, it was reissued on CD-ROM as an enhanced talkie edition with full voice acting and digitized sound effects. In 2009, this version was also released as an unlockable extra of the Wii action game Indiana Jones and the Staff of Kings, and as a digitally distributed Steam title. The seventh game to use the script language SCUMM, Fate of Atlantis has the player explore environments and interact with objects and characters by using commands constructed with predetermined verbs. It features three unique paths to select, influencing story development, gameplay and puzzles. The game used an updated SCUMM engine and required a 286-based PC, although it still runs as a real-mode DOS application. The CD talkie version required EMS memory enabled to load the voice data.</desc>
+		<image>./images/Atlantis-image.png</image>
+		<video>./videos/Atlantis-video.mp4</video>
+		<marquee>./images/Atlantis-marquee.png</marquee>
+		<thumbnail>./images/Atlantis-thumb.png</thumbnail>
+		<fanart>./images/Atlantis-fanart.jpg</fanart>
+		<manual>./manuals/Atlantis-manual.pdf</manual>
+		<rating>0.7</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Adventure / Point and Click</genre>
+		<family>Indiana Jones</family>
+		<players>1</players>
+		<md5>3773867d5195e21cdcedb732f90cd1ea</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T075605" />
+	</game>
+	<game>
+		<path>./Pinball FX2/data_steam/BioLab.pxp</path>
+		<name>BioLab</name>
+		<md5>b003aa0b650a6f6d245391f6043afcea</md5>
+		<scrap name="ScreenScraper" date="20231102T075611" />
+	</game>
+	<game>
+		<path>./Pinball FX2/data_steam/CastleStorm.pxp</path>
+		<name>CastleStorm</name>
+		<md5>d4fd4bb782e1e4dffe26e07cd6164430</md5>
+		<scrap name="ScreenScraper" date="20231102T075619" />
+	</game>
+	<game>
+		<path>./Pinball FX2/data_steam/Citadel.pxp</path>
+		<name>Citadel</name>
+		<md5>56e08c8d60cb6af2947d5fb594bf96dc</md5>
+		<scrap name="ScreenScraper" date="20231102T075625" />
+	</game>
+	<game>
+		<path>./Pinball FX2/data_steam/EarthDefense.pxp</path>
+		<name>EarthDefense</name>
+		<md5>207d474dcfb1dc3061b15ca1af9f831e</md5>
+		<scrap name="ScreenScraper" date="20231102T075631" />
+	</game>
+	<game>
+		<path>./Pinball FX2/data_steam/Eldorado.pxp</path>
+		<name>Eldorado</name>
+		<md5>21983e0a142f08181af915e35e08768e</md5>
+		<scrap name="ScreenScraper" date="20231102T075635" />
+	</game>
+	<game>
+		<path>./Pinball FX2/data_steam/Excalibur.pxp</path>
+		<name>Excalibur</name>
+		<md5>5042a629eef5702201e6ae00212c65cf</md5>
+		<scrap name="ScreenScraper" date="20231102T075642" />
+	</game>
+	<game>
+		<path>./Pinball FX2/data_steam/fonts.pxp</path>
+		<name>fonts</name>
+		<md5>92ba499177a193451bb15c1ad3397c81</md5>
+		<scrap name="ScreenScraper" date="20231102T075646" />
+	</game>
+	<game id="157701">
+		<path>./Pinball FX2/data_steam/Football.pxp</path>
+		<name>Football (1983)</name>
+		<desc>Distilling the experience of American football to a purely text-based interface, this adaptation of the game pits a human player's team against the computer's. In turn, each side selects a move: there are eight possible plays while on offense (run, pass, sweep, screen pass, long pass, draw play, punt, fieldgoal) and five while on defense (normal, hold, blitz, intercept, block). Time-outs may be called at any point, up to three per half. The results of each play are described verbally, then the turn goes to the other team - and so on until the four 15-minute quarters have elapsed, and the final score is announced.</desc>
+		<image>./images/Football-image.png</image>
+		<manual>./manuals/Football-manual.pdf</manual>
+		<developer>International PC Owners</developer>
+		<publisher>International PC Owners</publisher>
+		<genre>Strategy</genre>
+		<md5>5c09582da1ddf535c735bceaef3afd97</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T075704" />
+	</game>
+	<game>
+		<path>./Pinball FX2/data_steam/Football_Arsenal.pxp</path>
+		<name>Football_Arsenal</name>
+		<md5>79c84af687587358f5ba65b9d9dd6f82</md5>
+		<scrap name="ScreenScraper" date="20231102T075715" />
+	</game>
+	<game>
+		<path>./Pinball FX2/data_steam/Football_Barcelona.pxp</path>
+		<name>Football_Barcelona</name>
+		<md5>05f873bbe3d5dca84479b8cd47f43dfe</md5>
+		<scrap name="ScreenScraper" date="20231102T075723" />
+	</game>
+	<game>
+		<path>./Pinball FX2/data_steam/Football_Juventus.pxp</path>
+		<name>Football_Juventus</name>
+		<md5>730f8d9d2e83d3e4be7eec40d847d9dd</md5>
+		<scrap name="ScreenScraper" date="20231102T075733" />
+	</game>
+	<game>
+		<path>./Pinball FX2/data_steam/Football_Liverpool.pxp</path>
+		<name>Football_Liverpool</name>
+		<md5>10df7ce4c780de5ce8144013ad076656</md5>
+		<scrap name="ScreenScraper" date="20231102T075741" />
+	</game>
+	<game>
+		<path>./Pinball FX2/data_steam/Football_Milan.pxp</path>
+		<name>Football_Milan</name>
+		<md5>d2787d63eb54487234690e03871af9ed</md5>
+		<scrap name="ScreenScraper" date="20231102T075749" />
+	</game>
+	<game>
+		<path>./Pinball FX2/data_steam/Football_RealMadrid.pxp</path>
+		<name>Football_RealMadrid</name>
+		<md5>fbd163c8d7bb0863adc723482d9deae4</md5>
+		<scrap name="ScreenScraper" date="20231102T075756" />
+	</game>
+	<game>
+		<path>./Pinball FX2/data_steam/Football_Roma.pxp</path>
+		<name>Football_Roma</name>
+		<md5>b0d4e8ae6ef583fd121f5826ef24008c</md5>
+		<scrap name="ScreenScraper" date="20231102T075806" />
+	</game>
+	<game>
+		<path>./Pinball FX2/data_steam/game_cfg.pxp</path>
+		<name>game_cfg</name>
+		<md5>03acebde9739537e3400ac09a607cb98</md5>
+		<scrap name="ScreenScraper" date="20231102T075807" />
+	</game>
+	<game>
+		<path>./Pinball FX2/data_steam/gui.pxp</path>
+		<name>gui</name>
+		<md5>b12325b01f2aa1bb2c37dae8db4f2bd3</md5>
+		<scrap name="ScreenScraper" date="20231102T075810" />
+	</game>
+	<game>
+		<path>./Pinball FX2/data_steam/gui_cfg.pxp</path>
+		<name>gui_cfg</name>
+		<md5>065f4b9653cb2ed069a24bb0e285ceca</md5>
+		<scrap name="ScreenScraper" date="20231102T075811" />
+	</game>
+	<game>
+		<path>./Pinball FX2/data_steam/gui_sfx.pxp</path>
+		<name>gui_sfx</name>
+		<md5>0687cc2e2545aa2e9d28cb717c6b7640</md5>
+		<scrap name="ScreenScraper" date="20231102T075821" />
+	</game>
+	<game>
+		<path>./Pinball FX2/data_steam/Looter.pxp</path>
+		<name>Looter</name>
+		<md5>2a44bbdd8a780d5d8d2a1ef82be626c0</md5>
+		<scrap name="ScreenScraper" date="20231102T075830" />
+	</game>
+	<game>
+		<path>./Pinball FX2/data_steam/Mars.pxp</path>
+		<name>Mars</name>
+		<md5>004e5d110ec9ff9d36f84957f81d7ec1</md5>
+		<scrap name="ScreenScraper" date="20231102T075839" />
+	</game>
+	<game>
+		<path>./Pinball FX2/data_steam/MARVEL_Age_of_Ultron.pxp</path>
+		<name>MARVEL_Age_of_Ultron</name>
+		<md5>59a6a12251400778a3615880d1ae101f</md5>
+		<scrap name="ScreenScraper" date="20231102T075852" />
+	</game>
+	<game>
+		<path>./Pinball FX2/data_steam/MARVEL_Avengers.pxp</path>
+		<name>MARVEL_Avengers</name>
+		<md5>7793947b726d9f960b63c247f42cfa24</md5>
+		<scrap name="ScreenScraper" date="20231102T075906" />
+	</game>
+	<game>
+		<path>./Pinball FX2/data_steam/MARVEL_Blade.pxp</path>
+		<name>MARVEL_Blade</name>
+		<md5>1a3b991b615fe7fa03b46b9cb3c564f0</md5>
+		<scrap name="ScreenScraper" date="20231102T075912" />
+	</game>
+	<game>
+		<path>./Pinball FX2/data_steam/MARVEL_CaptainAmerica.pxp</path>
+		<name>MARVEL_CaptainAmerica</name>
+		<md5>7d1e28f41cc210da960a124d10293a88</md5>
+		<scrap name="ScreenScraper" date="20231102T075923" />
+	</game>
+	<game>
+		<path>./Pinball FX2/data_steam/MARVEL_CivilWar.pxp</path>
+		<name>MARVEL_CivilWar</name>
+		<md5>709677775d68cdbe2bd1096c89dbb919</md5>
+		<scrap name="ScreenScraper" date="20231102T075931" />
+	</game>
+	<game>
+		<path>./Pinball FX2/data_steam/MARVEL_Deadpool.pxp</path>
+		<name>MARVEL_Deadpool</name>
+		<md5>963eab74dbd6c7a4c92b24f58f3c9824</md5>
+		<scrap name="ScreenScraper" date="20231102T075940" />
+	</game>
+	<game>
+		<path>./Pinball FX2/data_steam/MARVEL_DrStrange.pxp</path>
+		<name>MARVEL_DrStrange</name>
+		<md5>c41c991a1f6bac3d973749679d0da325</md5>
+		<scrap name="ScreenScraper" date="20231102T075958" />
+	</game>
+	<game>
+		<path>./Pinball FX2/data_steam/MARVEL_FantasticFour.pxp</path>
+		<name>MARVEL_FantasticFour</name>
+		<md5>eb145bac47121e0257f5095ec1de3c7b</md5>
+		<scrap name="ScreenScraper" date="20231102T080005" />
+	</game>
+	<game>
+		<path>./Pinball FX2/data_steam/MARVEL_FearItSelf.pxp</path>
+		<name>MARVEL_FearItSelf</name>
+		<md5>9a05fcf7b66a8bffa1bccb38458d9f43</md5>
+		<scrap name="ScreenScraper" date="20231102T080015" />
+	</game>
+	<game>
+		<path>./Pinball FX2/data_steam/MARVEL_GhostRider.pxp</path>
+		<name>MARVEL_GhostRider</name>
+		<md5>91783c6392673a0a3b50e21676d9123a</md5>
+		<scrap name="ScreenScraper" date="20231102T080022" />
+	</game>
+	<game>
+		<path>./Pinball FX2/data_steam/MARVEL_Guardians.pxp</path>
+		<name>MARVEL_Guardians</name>
+		<md5>5d5362309164eae05f56b91d1d3e1f06</md5>
+		<scrap name="ScreenScraper" date="20231102T080029" />
+	</game>
+	<game>
+		<path>./Pinball FX2/data_steam/MARVEL_InfinityGauntlet.pxp</path>
+		<name>MARVEL_InfinityGauntlet</name>
+		<md5>683514ab8eb8c3cb6022aeb2c4b8b6f9</md5>
+		<scrap name="ScreenScraper" date="20231102T080037" />
+	</game>
+	<game>
+		<path>./Pinball FX2/data_steam/MARVEL_IronMan.pxp</path>
+		<name>MARVEL_IronMan</name>
+		<md5>9d163e75cc6605e51fe196e25c23b9fa</md5>
+		<scrap name="ScreenScraper" date="20231102T080043" />
+	</game>
+	<game>
+		<path>./Pinball FX2/data_steam/MARVEL_MoonKnight.pxp</path>
+		<name>MARVEL_MoonKnight</name>
+		<md5>3013e54aee3cd3b6f68228d3f9c21a03</md5>
+		<scrap name="ScreenScraper" date="20231102T080051" />
+	</game>
+	<game>
+		<path>./Pinball FX2/data_steam/MARVEL_SpiderMan.pxp</path>
+		<name>MARVEL_SpiderMan</name>
+		<md5>e53e4c0f8368ae9a274f3eb1fb0a7f53</md5>
+		<scrap name="ScreenScraper" date="20231102T080058" />
+	</game>
+	<game>
+		<path>./Pinball FX2/data_steam/MARVEL_Thor.pxp</path>
+		<name>MARVEL_Thor</name>
+		<md5>04940289266474440cc24b634519f770</md5>
+		<scrap name="ScreenScraper" date="20231102T080107" />
+	</game>
+	<game>
+		<path>./Pinball FX2/data_steam/MARVEL_Venom.pxp</path>
+		<name>MARVEL_Venom</name>
+		<md5>2dc57039c4b69b4a15624589e203061d</md5>
+		<scrap name="ScreenScraper" date="20231102T080115" />
+	</game>
+	<game>
+		<path>./Pinball FX2/data_steam/MARVEL_Wolverine.pxp</path>
+		<name>MARVEL_Wolverine</name>
+		<md5>24cb8a3caf66960b18ed453816fcc5a5</md5>
+		<scrap name="ScreenScraper" date="20231102T080122" />
+	</game>
+	<game>
+		<path>./Pinball FX2/data_steam/MARVEL_WWH.pxp</path>
+		<name>MARVEL_WWH</name>
+		<md5>0453b6a1fee6f4c9d8a7216aa920464e</md5>
+		<scrap name="ScreenScraper" date="20231102T080130" />
+	</game>
+	<game>
+		<path>./Pinball FX2/data_steam/MARVEL_XMen.pxp</path>
+		<name>MARVEL_XMen</name>
+		<md5>86298b087e6d9df63ae75e5e288cd525</md5>
+		<scrap name="ScreenScraper" date="20231102T080138" />
+	</game>
+	<game>
+		<path>./Pinball FX2/data_steam/Paranormal.pxp</path>
+		<name>Paranormal</name>
+		<md5>3a1620a3de9161f8083f8b29534acdcc</md5>
+		<scrap name="ScreenScraper" date="20231102T080145" />
+	</game>
+	<game>
+		<path>./Pinball FX2/data_steam/Pasha.pxp</path>
+		<name>Pasha</name>
+		<md5>6efda1aa81c3e73385e2e40786b77540</md5>
+		<scrap name="ScreenScraper" date="20231102T080151" />
+	</game>
+	<game>
+		<path>./Pinball FX2/data_steam/PlantsVsZombies.pxp</path>
+		<name>PlantsVsZombies</name>
+		<md5>c48640b841bbdb9e60cf46f4da70d583</md5>
+		<scrap name="ScreenScraper" date="20231102T080159" />
+	</game>
+	<game id="156630">
+		<path>./Pinball FX2/data_steam/Portal.pxp</path>
+		<name>Portal</name>
+		<desc>Where are all the humans? Upon returning from your 100 year voyage in the milky way, you find earth empty and abandoned. Between the decaying remnants of civilization, you discover a terminal for Worldnet, the global network that recorded all human activities. The answer must lie deep in its database. Anxious, you log on.</desc>
+		<image>./images/Portal-image.png</image>
+		<marquee>./images/Portal-marquee.png</marquee>
+		<thumbnail>./images/Portal-thumb.png</thumbnail>
+		<bezel>./images/Portal-bezel.png</bezel>
+		<rating>0.85</rating>
+		<releasedate>19870301T000000</releasedate>
+		<developer>Nexa Corporation</developer>
+		<publisher>Activision</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<md5>6d1530a8215f19edb9b8c988c57ec244</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T080214" />
+	</game>
+	<game>
+		<path>./Pinball FX2/data_steam/PTSData.pxp</path>
+		<name>PTSData</name>
+		<md5>231850cd3b41e2d6f4783ab4a8c870b7</md5>
+		<scrap name="ScreenScraper" date="20231102T080216" />
+	</game>
+	<game>
+		<path>./Pinball FX2/data_steam/Rome.pxp</path>
+		<name>Rome</name>
+		<md5>9fa7aef646fbe12357945fa96f64efb2</md5>
+		<scrap name="ScreenScraper" date="20231102T080225" />
+	</game>
+	<game>
+		<path>./Pinball FX2/data_steam/sfx.pxp</path>
+		<name>sfx</name>
+		<md5>7897240fd825486a344e459a05940961</md5>
+		<scrap name="ScreenScraper" date="20231102T080226" />
+	</game>
+	<game>
+		<path>./Pinball FX2/data_steam/Shaman.pxp</path>
+		<name>Shaman</name>
+		<md5>8fb0a4b2fc19858f2cacb53d2adfa0bc</md5>
+		<scrap name="ScreenScraper" date="20231102T080230" />
+	</game>
+	<game>
+		<path>./Pinball FX2/data_steam/SouthPark1.pxp</path>
+		<name>SouthPark1</name>
+		<md5>b7060b1e8555f3ca101bef29f78e82dd</md5>
+		<scrap name="ScreenScraper" date="20231102T080237" />
+	</game>
+	<game>
+		<path>./Pinball FX2/data_steam/SouthPark2.pxp</path>
+		<name>SouthPark2</name>
+		<md5>567c1a078ea7dcbb1b9f025a9332e17f</md5>
+		<scrap name="ScreenScraper" date="20231102T080245" />
+	</game>
+	<game>
+		<path>./Pinball FX2/data_steam/SplosionMan.pxp</path>
+		<name>SplosionMan</name>
+		<md5>510bbaa443818aff67f5c9f544db5da2</md5>
+		<scrap name="ScreenScraper" date="20231102T080250" />
+	</game>
+	<game>
+		<path>./Pinball FX2/data_steam/STARWARS_Boba_Fett.pxp</path>
+		<name>STARWARS_Boba_Fett</name>
+		<md5>95560f37d598f3e299ca1e991644255e</md5>
+		<scrap name="ScreenScraper" date="20231102T080259" />
+	</game>
+	<game>
+		<path>./Pinball FX2/data_steam/STARWARS_CloneWars.pxp</path>
+		<name>STARWARS_CloneWars</name>
+		<md5>493d066e51278497900619b207e8a340</md5>
+		<scrap name="ScreenScraper" date="20231102T080308" />
+	</game>
+	<game>
+		<path>./Pinball FX2/data_steam/STARWARS_Darth_Vader.pxp</path>
+		<name>STARWARS_Darth_Vader</name>
+		<md5>3c1e6576857ed6956df86e7e732548df</md5>
+		<scrap name="ScreenScraper" date="20231102T080317" />
+	</game>
+	<game>
+		<path>./Pinball FX2/data_steam/STARWARS_Droids.pxp</path>
+		<name>STARWARS_Droids</name>
+		<md5>19f459f2b7c99473b3f4a0c0da67c33a</md5>
+		<scrap name="ScreenScraper" date="20231102T080326" />
+	</game>
+	<game>
+		<path>./Pinball FX2/data_steam/STARWARS_Episode_4.pxp</path>
+		<name>STARWARS_Episode_4</name>
+		<md5>71fe48f651d4fe5bdd71e1ca9d9d401c</md5>
+		<scrap name="ScreenScraper" date="20231102T080335" />
+	</game>
+	<game>
+		<path>./Pinball FX2/data_steam/STARWARS_Episode_5.pxp</path>
+		<name>STARWARS_Episode_5</name>
+		<md5>e178ba56fffa73d46cc3a2cc22fe8948</md5>
+		<scrap name="ScreenScraper" date="20231102T080342" />
+	</game>
+	<game>
+		<path>./Pinball FX2/data_steam/STARWARS_Episode_6.pxp</path>
+		<name>STARWARS_Episode_6</name>
+		<md5>a2f0a3a1fac9d939223c0d14ec9b7e46</md5>
+		<scrap name="ScreenScraper" date="20231102T080349" />
+	</game>
+	<game>
+		<path>./Pinball FX2/data_steam/STARWARS_Han_Solo.pxp</path>
+		<name>STARWARS_Han_Solo</name>
+		<md5>0a589260b9a28e61f6ba8988a3ff2b45</md5>
+		<scrap name="ScreenScraper" date="20231102T080357" />
+	</game>
+	<game>
+		<path>./Pinball FX2/data_steam/STARWARS_Light_VS_Dark.pxp</path>
+		<name>STARWARS_Light_VS_Dark</name>
+		<md5>e9e4db218f25867f3bf31e0bde807b89</md5>
+		<scrap name="ScreenScraper" date="20231102T080404" />
+	</game>
+	<game>
+		<path>./Pinball FX2/data_steam/STARWARS_Rebels.pxp</path>
+		<name>STARWARS_Rebels</name>
+		<md5>83fa7279717f2486df8cc1d9b266610f</md5>
+		<scrap name="ScreenScraper" date="20231102T080418" />
+	</game>
+	<game>
+		<path>./Pinball FX2/data_steam/STARWARS_SFA.pxp</path>
+		<name>STARWARS_SFA</name>
+		<md5>98eb7dcaab686ec8da6fd68460fa97d5</md5>
+		<scrap name="ScreenScraper" date="20231102T080426" />
+	</game>
+	<game>
+		<path>./Pinball FX2/data_steam/Tesla.pxp</path>
+		<name>Tesla</name>
+		<md5>638e30c8476501f786155b6e6a609836</md5>
+		<scrap name="ScreenScraper" date="20231102T080430" />
+	</game>
+	<game>
+		<path>./Pinball FX2/data_steam/TheWalkingDead.pxp</path>
+		<name>TheWalkingDead</name>
+		<md5>b19438789dc4007c26561576618ca21c</md5>
+		<scrap name="ScreenScraper" date="20231102T080435" />
+	</game>
+	<game>
+		<path>./Pinball FX2/data_steam/txt.pxp</path>
+		<name>txt</name>
+		<md5>b2dc65303b5563742a1f4399b77ec8b5</md5>
+		<scrap name="ScreenScraper" date="20231102T080436" />
+	</game>
+	<game>
+		<path>./Pinball FX2/data_steam/V12.pxp</path>
+		<name>V12</name>
+		<md5>e482db058cfca38b372ee17323f23724</md5>
+		<scrap name="ScreenScraper" date="20231102T080439" />
+	</game>
+	<game id="156084">
+		<path>./Pinball FX2/data_steam/Western.pxp</path>
+		<name>Western</name>
+		<desc>The object of this game is to capture and bring to justice (put in jail in other words) criminals in the Old West for cash.  Your score depends on how much cash you make during your adventure.</desc>
+		<image>./images/Western-image.png</image>
+		<developer>Softdisk Publishing</developer>
+		<publisher>Softdisk Publishing</publisher>
+		<genre>Adventure</genre>
+		<md5>be71433d1d804a16667e5955aed1cafc</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T080445" />
+	</game>
+</gameList>

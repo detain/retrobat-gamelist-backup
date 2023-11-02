@@ -1,2 +1,1771 @@
 <?xml version="1.0"?>
-<gameList />
+<gameList>
+	<game id="156348">
+		<path>./ScummVM/content/3 Skulls of the Toltecs.rar</path>
+		<name>3 Skulls of the Toltecs</name>
+		<desc>When cowboy Fenimore Fillmore comes into possession of a golden skull by way of an expiring snake-oil salesman, he learns that it is one of three keys that will unlock the treasure of the Toltecs. After the skull is stolen by rustlers, Fenimore sets out to recover all three and unearth the treasure himself.
+
+3 Skulls of the Toltecs is a 3rd person cartoon adventure game in the same vein as The Secret of Monkey Island. The interface is point-and-click, and the player is given a list of verbs to select from to perform actions: open, pick up, use, look, etc, similar to the LucasArts games it emulates. Once a certain portion of the territory has been covered a map becomes available for travel, or the player can ride the train tracks with a hand-pumped trolley or travel by donkey. Puzzles are inventory-based, and the player must talk to other characters in the game and collect items in order to solve them.</desc>
+		<image>./images/3 Skulls of the Toltecs-image.png</image>
+		<video>./videos/3 Skulls of the Toltecs-video.mp4</video>
+		<marquee>./images/3 Skulls of the Toltecs-marquee.png</marquee>
+		<thumbnail>./images/3 Skulls of the Toltecs-thumb.png</thumbnail>
+		<manual>./manuals/3 Skulls of the Toltecs-manual.pdf</manual>
+		<developer>Revistronic</developer>
+		<publisher>Warner Bros. Interactive</publisher>
+		<genre>Adventure</genre>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T090912" />
+	</game>
+	<game>
+		<path>./ScummVM/content/ports/Cave Story/Cave Story.7z</path>
+		<name>Cave Story</name>
+		<md5>f4790f4bdb0c587b8e897d6070ab5a0a</md5>
+		<scrap name="ScreenScraper" date="20231102T090917" />
+	</game>
+	<game id="156141">
+		<path>./ScummVM/content/ports/ScummVM/Amazon - Guardians of Eden/Amazon - Guardians of Eden.7z</path>
+		<name>Amazon: Guardians of Eden</name>
+		<desc>One of the first games to feature SVGA graphics, Amazon is a 'b' movie adventure game about a 1957 expedition into the heart of the amazon basin. ''A desperate, crazed message sends you on a perilous search through a land where legends come to life, danger hides behind every corner, and incredible treasures wait to be discovered.''</desc>
+		<image>./images/Amazon - Guardians of Eden-image.png</image>
+		<marquee>./images/Amazon - Guardians of Eden-marquee.png</marquee>
+		<thumbnail>./images/Amazon - Guardians of Eden-thumb.png</thumbnail>
+		<manual>./manuals/Amazon - Guardians of Eden-manual.pdf</manual>
+		<rating>0.7</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Access Games</developer>
+		<publisher>Access Games</publisher>
+		<genre>Adventure / Point and Click</genre>
+		<players>1</players>
+		<md5>e84d610522859bbcfa29452d0504ad05</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T090929" />
+	</game>
+	<game id="156542">
+		<path>./ScummVM/content/ports/ScummVM/Bargon Attack.rar</path>
+		<name>Bargon Attack</name>
+		<desc>Bargon Attack is one of the less known adventures from Coktel Vision, though it was one of the first that introduced the unique interface that was used in many Coktel games that followed. It was also one of the first of Coktel's games to use FMV technology in cut-scenes.
+
+The gameplay is a mix of science fiction, cyberpunk and comedy elements. It takes place in the near future when an alien race named Bargon conquered the Earth and enslaved its people. You take a role of the young programmer who decides to put an end to the cruel aliens. You'll travel through 20 or so locations. Each one consists of 1 to 3 screens, similar to other Coktel games.
+
+Along your travels, you'll face dangerous creatures and some strange alien technology. There are some occasions when you can die (though the option to replay the level is always available), plus the game also features several arcade sequences.</desc>
+		<image>./images/Bargon Attack-image.png</image>
+		<marquee>./images/Bargon Attack-marquee.png</marquee>
+		<thumbnail>./images/Bargon Attack-thumb.png</thumbnail>
+		<rating>0.55</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Coktel Vision</developer>
+		<publisher>Coktel Vision</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<md5>f2d628a2d6ba513a3ddb7cefc4dd5ad9</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T090937" />
+	</game>
+	<game>
+		<path>./ScummVM/content/ports/ScummVM/Beavis and Butthead - Virtual Stupidity/Beavis and Butthead - Virtual Stupidity.7z</path>
+		<name>Beavis and Butthead - Virtual Stupidity</name>
+		<scrap name="ScreenScraper" date="20231102T090939" />
+	</game>
+	<game id="156558">
+		<path>./ScummVM/content/ports/ScummVM/Beneath a Steel Sky/Beneath a Steel Sky.7z</path>
+		<name>Beneath a Steel Sky</name>
+		<desc>In futuristic Australia, there are giant cities owned solely by corporations, separated by a giant wasteland known as The Gap. When Robert Foster's Gap-dwelling tribe is killed by soldiers from Union City who capture him, everything changes for him. After a narrow escape from the helicopter bringing him there as it inexplicably crashes, Robert and his droid Joey must search the decaying city, attempting to befriend both the snobby rich and the frustrated poor as the two attempt to get out of the city, but in the middle of everything they uncover the dark truth about LINC, the bizarre computer which makes the city tick.
+
+Using the then revolutionary Virtual Theatre engine, BASS' characters can move freely independent of the player, allowing the game world to be much more dynamic than anything seen before (other than Virtual Theatre's debut game, the less popular Lure of the Temptress). Otherwise, the engine provides tried and true point-and-click adventure gameplay.</desc>
+		<image>./images/Beneath a Steel Sky-image.png</image>
+		<marquee>./images/Beneath a Steel Sky-marquee.png</marquee>
+		<thumbnail>./images/Beneath a Steel Sky-thumb.png</thumbnail>
+		<fanart>./images/Beneath a Steel Sky-fanart.jpg</fanart>
+		<manual>./manuals/Beneath a Steel Sky-manual.pdf</manual>
+		<rating>0.8</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Revolution Software</developer>
+		<publisher>Virgin</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<md5>5e3303ca25cdbf1755c56d52d7f19fbd</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T090955" />
+	</game>
+	<game>
+		<path>./ScummVM/content/ports/ScummVM/Black Cauldron.rar</path>
+		<name>Black Cauldron</name>
+		<md5>f64c6d698f357f31a54cdf4b412ea9e7</md5>
+		<scrap name="ScreenScraper" date="20231102T090957" />
+	</game>
+	<game>
+		<path>./ScummVM/content/ports/ScummVM/Broken Sword 1 The Shadow of the Templar.rar</path>
+		<name>Broken Sword 1 The Shadow of the Templar</name>
+		<scrap name="ScreenScraper" date="20231102T090959" />
+	</game>
+	<game>
+		<path>./ScummVM/content/ports/ScummVM/Broken Sword 2 The Smoking Mirror.rar</path>
+		<name>Broken Sword 2 The Smoking Mirror</name>
+		<scrap name="ScreenScraper" date="20231102T091001" />
+	</game>
+	<game id="100336">
+		<path>./ScummVM/content/ports/ScummVM/Broken Sword 2.5 - The Return of the Templars.rar</path>
+		<name>Broken Sword 2.5: The Return of the Templars</name>
+		<desc>Broken Sword 2.5 is a fan game of the Broken Sword series that takes place after the first two games. George travels to France after he receives a letter stating Nico had died. His relief to find her alive is short-lived, as he soon finds out that she has been accused of murdering the mayor of Paris. The two must clear Nico's name, and discover who is actually behind the murder.
+
+Familiar locations all over the world are mixed with new settings and characters. George, Nico and André all return, but new ones such as Christophe Brai and English historian Jimmy McLaugh also play an important role. Players will control George and Nico intermittently throughout the story.</desc>
+		<image>./images/Broken Sword 2.5 - The Return of the Templars-image.png</image>
+		<video>./videos/Broken Sword 2.5 - The Return of the Templars-video.mp4</video>
+		<marquee>./images/Broken Sword 2.5 - The Return of the Templars-marquee.png</marquee>
+		<thumbnail>./images/Broken Sword 2.5 - The Return of the Templars-thumb.png</thumbnail>
+		<releasedate>20080928T000000</releasedate>
+		<developer>mindFactory</developer>
+		<publisher>mindFactory</publisher>
+		<genre>Adventure / Point and Click</genre>
+		<family>Broken Sword</family>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T091012" />
+	</game>
+	<game id="156589">
+		<path>./ScummVM/content/ports/ScummVM/Bud Tucker in Double Trouble.rar</path>
+		<name>Bud Tucker in Double Trouble</name>
+		<desc>This wacky adventure puts the player in the shoes of Bud Tucker, a pizza delivery boy during the day and lab assistant at nights. 
+
+One day, Bud found the Professor missing and later learns he's been kidnapped by the evil Dick Tate! Tate, an insane, whiny sob wishes to create a world filled with the people he loves most...himself. To do that, he plan to use one of the Professor's invention and clone a billion versions of himself to populate the world. It's up to Bud Tucker to track down the loon and the Professor before Barryville becomes Tate Town.
+
+Bud Tucker in Double Trouble is a point &amp; click adventure where the player explores and uncovers clues in a town called Barryville. The game play consists of picking up items and using it when necessary. The player can perform various actions (pick up, use, etc) which can be displayed in words as well as icons, The game is divided into three parts beginning with Bud Tucker locked up in a crumbly hotel in Seedy Street. 
+
+Speech is available in the game as well as subtitles.</desc>
+		<image>./images/Bud Tucker in Double Trouble-image.png</image>
+		<marquee>./images/Bud Tucker in Double Trouble-marquee.png</marquee>
+		<thumbnail>./images/Bud Tucker in Double Trouble-thumb.png</thumbnail>
+		<rating>0.6</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Merit Studios (Europe) Limited</developer>
+		<publisher>Topware Interactive</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T091024" />
+	</game>
+	<game id="156178">
+		<path>./ScummVM/content/ports/ScummVM/Castle of Dr. Brain.rar</path>
+		<name>Castle of Dr. Brain</name>
+		<desc>Castle of Dr. Brain is a critically acclaimed, brain-bending game filled with off-beat humor and mind-boggling challenges.
+
+Your problem-solving skills will be stretched to the limits as you try to think your way through a gauntlet of science stampers, mazes, logic problems, codes, and math games on your quest to become Dr. Brain's assistant. If you succeed without blowing a mental fuse, you just might be as smart as you think you are.</desc>
+		<image>./images/Castle of Dr. Brain-image.png</image>
+		<video>./videos/Castle of Dr. Brain-video.mp4</video>
+		<marquee>./images/Castle of Dr. Brain-marquee.png</marquee>
+		<thumbnail>./images/Castle of Dr. Brain-thumb.png</thumbnail>
+		<manual>./manuals/Castle of Dr. Brain-manual.pdf</manual>
+		<releasedate>19691231T190000</releasedate>
+		<developer>Sierra On-Line</developer>
+		<publisher>Sierra On-Line</publisher>
+		<genre>Adventure</genre>
+		<md5>b088c38947612e8410f2d4d2253bbe07</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T091044" />
+	</game>
+	<game id="156214">
+		<path>./ScummVM/content/ports/ScummVM/Conquests of the Longbow - The Legend of Robin Hood.rar</path>
+		<name>Conquests of the Longbow: The Legend of Robin Hood</name>
+		<desc>This game is set in medieval England. You play as Robin Hood. Your objective is to free King Richard from the French by raising money for his ransome. There are many different endings depending on the score you get. The game uses a mouse interface. There are arcade sequences built into the story, but their difficulty can be adjusted, or they can be completely turned off.</desc>
+		<image>./images/Conquests of the Longbow - The Legend of Robin Hood-image.png</image>
+		<marquee>./images/Conquests of the Longbow - The Legend of Robin Hood-marquee.png</marquee>
+		<thumbnail>./images/Conquests of the Longbow - The Legend of Robin Hood-thumb.png</thumbnail>
+		<manual>./manuals/Conquests of the Longbow - The Legend of Robin Hood-manual.pdf</manual>
+		<developer>Sierra On-Line</developer>
+		<publisher>Sierra On-Line</publisher>
+		<genre>Adventure</genre>
+		<md5>47c051cc144567411cd9d60a7692f8f2</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T091055" />
+	</game>
+	<game>
+		<path>./ScummVM/content/ports/ScummVM/Crazy Nicks Picks King Grahams Board Game Challenge.rar</path>
+		<name>Crazy Nicks Picks King Grahams Board Game Challenge</name>
+		<md5>98baa3912324aec7b9836849b99e5444</md5>
+		<scrap name="ScreenScraper" date="20231102T091057" />
+	</game>
+	<game>
+		<path>./ScummVM/content/ports/ScummVM/Crazy Nicks Picks Leisure Suit Larrys Casino.rar</path>
+		<name>Crazy Nicks Picks Leisure Suit Larrys Casino</name>
+		<md5>a683577fa8507e3bd3226e4d3fe67b52</md5>
+		<scrap name="ScreenScraper" date="20231102T091059" />
+	</game>
+	<game>
+		<path>./ScummVM/content/ports/ScummVM/Crazy Nicks Picks Parlor Games with Laura Bow.rar</path>
+		<name>Crazy Nicks Picks Parlor Games with Laura Bow</name>
+		<md5>9ae1d407675ecb5a26219317d7a50fbe</md5>
+		<scrap name="ScreenScraper" date="20231102T091101" />
+	</game>
+	<game>
+		<path>./ScummVM/content/ports/ScummVM/Crazy Nicks Picks Robin Hoods Game Of Skill And Chance.rar</path>
+		<name>Crazy Nicks Picks Robin Hoods Game Of Skill And Chance</name>
+		<md5>fbabad96b492069b5458ea2f3a761fc2</md5>
+		<scrap name="ScreenScraper" date="20231102T091102" />
+	</game>
+	<game>
+		<path>./ScummVM/content/ports/ScummVM/Crazy Nicks Picks Roger Wilcos Spaced Out Game Pack.rar</path>
+		<name>Crazy Nicks Picks Roger Wilcos Spaced Out Game Pack</name>
+		<md5>13230dde2656e145f54cfa13176d041a</md5>
+		<scrap name="ScreenScraper" date="20231102T091104" />
+	</game>
+	<game id="156226">
+		<path>./ScummVM/content/ports/ScummVM/Cruise for a Corpse.rar</path>
+		<name>Cruise for a Corpse</name>
+		<desc>Cruise for a Corpse is a graphic adventure game with a point-and-click interface.
+
+1927. When Inspector Raoul Dusentier is invited to a cruise upon a mighty sailing ship by the wealthy businessman Niklos Karaboudjan, he looks forward to nothing but a relaxing week on the sea. Instead, his host manages to get himself killed on the second day. Murdered, to be exact. Too convenient that a policeman is aboard -- Dusentier sets out to search for suspects. He doesn't need to search long. Why is it that none of the family members seem awfully sad about the demise of the old man? Is the mysterious Father Fabiani really as pious as he says? In the best tradition of Agatha Christie, each and every person on board has a motive for the murder.
+
+You advance in the plot not so much by solving common object-based puzzles, but by talking to the right persons about the right subjects at the right time, thus collecting clues. You will also find pieces of evidence scattered throughout the ship. However, most items suddenly appear in cupboards and drawers that were previously empty -- an awfully unnerving process. The clock advances in ten-minute-steps whenever you discover an interesting clue, which conveniently informs you of your progress. The protagonists move around the ship; so whenever time passes, different persons to talk to might appear at certain locations.
+
+With Cruise for a corpse, Delphines Cinematique interface reached ''Evolution 2''. Instead of containing a fixed number of verbs, the command menu is now context-sensitive. The mouse cursor will change its appearance when moved over an interesting object; a left-click brings up a set of appropriate verbs. For example, a cupboard may be opened and searched, whereas a key can be picked up and turned. A right-click accesses the inventory. Another interesting improvement: All the persons in the game are animated polygons.
+
+Cruise for a Corpse is notable for a technical feature: Most animated objects in the game, from door to persons, are filled vectors rather than bitmaps. This allows for animations which are not only fluent, but consume only a fraction of the disk space that sprites would require. Also, the figures are scalable without loss of detail, although the rather crude vector models used in Cruise for a Corpse are not too spectacular in close-ups.</desc>
+		<image>./images/Cruise for a Corpse-image.png</image>
+		<video>./videos/Cruise for a Corpse-video.mp4</video>
+		<marquee>./images/Cruise for a Corpse-marquee.png</marquee>
+		<thumbnail>./images/Cruise for a Corpse-thumb.png</thumbnail>
+		<manual>./manuals/Cruise for a Corpse-manual.pdf</manual>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Delphine Software International</developer>
+		<publisher>Interplay</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<md5>38c62258090afae15243e0df55bbfebb</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T091116" />
+	</game>
+	<game id="156369">
+		<path>./ScummVM/content/ports/ScummVM/Day Of The Tentacle/Day Of The Tentacle.7z</path>
+		<name>Maniac Mansion : Day of the Tentacle</name>
+		<desc>Purple Tentacle, one of the crazy Dr. Fred's creations, drinks contaminated water from Dr. Fred's Sludge-o-matic. He mutates into an insane genius and grows arms, and now he's plotting to take over the world. In an effort to stop him, Dr. Fred sends three friends, Bernard, Hoagie and Laverne back in time to yesterday, in order for them to turn off the Sludge-o-matic and stop the sludge from spilling into the river, thus preventing the whole incident. Naturally, the cheap doctor uses a fake diamond over a real one in his time machine, which blows up sending Hoagie 200 years into the past and Laverne 200 years into the future.
+
+Now you must bring back Hoagie and Laverne, with the help of the time machine's ability to move objects between time periods, and then stop evil Purple from taking over the world.
+
+Day of the Tentacle is a point-and-click adventure game and a sequel to Maniac Mansion. The player controls Bernard, and later also Hoagie and Laverne, being able to switch between them at any time. By using the commands at the bottom of the screen, the character can pick up items, use them on other things, talk to people and more. Any of the three friends can also send his items across time to another friend. 
+
+The game takes place in the same building, but in three different eras, and thus affecting history takes a vital part in some puzzles. For instance, Hoagie can hide a bottle of wine in the XVIIIth century, and Laverne discovers the bottle in the XXIIIth century - but by then, the wine has already turned into vinegar.</desc>
+		<image>./images/Day Of The Tentacle-image.png</image>
+		<video>./videos/Day Of The Tentacle-video.mp4</video>
+		<marquee>./images/Day Of The Tentacle-marquee.png</marquee>
+		<thumbnail>./images/Day Of The Tentacle-thumb.png</thumbnail>
+		<fanart>./images/Day Of The Tentacle-fanart.jpg</fanart>
+		<manual>./manuals/Day Of The Tentacle-manual.pdf</manual>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Adventure / Point and Click</genre>
+		<family>Maniac Mansion</family>
+		<players>1</players>
+		<md5>d2fa3448315f9e0d49b3c540d251c778</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T091138" />
+	</game>
+	<game>
+		<path>./ScummVM/content/ports/ScummVM/Discworld 1.rar</path>
+		<name>Discworld 1</name>
+		<scrap name="ScreenScraper" date="20231102T091140" />
+	</game>
+	<game>
+		<path>./ScummVM/content/ports/ScummVM/Discworld 2.rar</path>
+		<name>Discworld 2</name>
+		<scrap name="ScreenScraper" date="20231102T091141" />
+	</game>
+	<game id="99547">
+		<path>./ScummVM/content/ports/ScummVM/Draci Historie.rar</path>
+		<name>Dragon History</name>
+		<desc>Bert is a young dragon that lives with his parents Berta and Herbert in a magical land, where dragons got civilized, started to wear clothes and live peacefully with humans. One day, Herbert suddenly disappears, with rumors saying the he left his wife and son behind to search for a lost treasure. Meanwhile, a magical wand called Eveline decides to rule the world out of boredom, using Bert to cast a petrifying spell on the marionettes of a traveling puppeteer and cause other mischief among the local population. Now, Bert must fix all the trouble caused by Eveline, and search for his missing father.Dra?í Historie is a Czech point-and-click adventure game, originally the first Czech CD game ever to be published in 1995, and later released as open-source freeware in 2006 by the original developer. It follows the standards of the genre, where the main objective is to collect a series of scenery objects and use them to solve puzzles. The inventory shows the interior of a brown sack, and can be accessed by placing the cursor on the top of the screen. A map showing an overhead view of the land can be summoned by positioning the cursor at the bottom. New places are automatically added to the map as the player explores the surroundings, allowing instantaneous travel to any of the previously visited locations.The dialogue with other characters uses the branching tree system implemented by several other games, where multiple questions and answers appear listed as options at the bottom and the player has to select one of them. There is no menu with verbs, instead all the actions are performed with the right mouse button, while the left one is used to get descriptions of objects and portions of the scenery.</desc>
+		<image>./images/Draci Historie-image.png</image>
+		<video>./videos/Draci Historie-video.mp4</video>
+		<marquee>./images/Draci Historie-marquee.png</marquee>
+		<thumbnail>./images/Draci Historie-thumb.png</thumbnail>
+		<releasedate>19950101T000000</releasedate>
+		<developer>NoSense</developer>
+		<publisher>Vochozka Trading</publisher>
+		<genre>Adventure / Point and Click</genre>
+		<players>1</players>
+		<md5>c59ab7cb81bfe66d06569a777f467b94</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T091151" />
+	</game>
+	<game id="156408">
+		<path>./ScummVM/content/ports/ScummVM/Drascula The Vampire Strikes Back.rar</path>
+		<name>Drascula: The Vampire Strikes Back</name>
+		<desc>You are John Hacker, a common guy sent by a British property company to speak with 'Count Drascula' about some lands. By chance you meet a gorgeous blond girl who is kidnapped by the Count himself, and you, John Hacker, set on a fun yet dangerous quest to rescue her.
+
+An old Spanish 2D classic point &amp; click style adventure with tons of humor and an easy interface.</desc>
+		<image>./images/Drascula The Vampire Strikes Back-image.png</image>
+		<marquee>./images/Drascula The Vampire Strikes Back-marquee.png</marquee>
+		<thumbnail>./images/Drascula The Vampire Strikes Back-thumb.png</thumbnail>
+		<developer>Alcachofa Soft S.L.</developer>
+		<publisher>Digital Dreams</publisher>
+		<genre>Adventure</genre>
+		<md5>1609aaa00899c9b3b1caf2875d3782e2</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T091205" />
+	</game>
+	<game id="156411">
+		<path>./ScummVM/content/ports/ScummVM/Dreamweb.rar</path>
+		<name>Dreamweb</name>
+		<desc>Ryan, a bartender from a dystopian future can't sleep peacefully for months. His nights are sequences of nightmares and strange dreams, days with frequent black-outs with strange visions, until one night a figure in monk attire appears to him, and tells him the story of the seven evil ones, uniting to destroy to Dreamweb, the only barrier between the world and darkness. The monk makes a proposition: Ryan becomes the deliverer: the one who would keep the Dreamweb safe by killing those who try to destroy it.
+
+Descending into paranoia and just wanting dreams to stop, Ryan accepts the mission, then wakes up in a puddle of cold sweat, next to his beloved girlfriend in her house, and late for work. Again.
+
+DreamWeb is a top-down adventure game set in a gritty futuristic/dystopian city. Each location takes only a small portion of the screen without panning (except an optional small zoom window in the corner that follows the cursor), with the player interacting with objects and people by simply clicking them. Ryan has a limited inventory space, and as a lot of objects can be picked up (many without any use), the player must rationalize what might be useful and just filler. Dialogue is straight forward, with no options, but still required to advance in the game (to find new locations, for instance). In situations where many adventure games often feature an indirect approach to solve a problem, Ryan often faces himself with situations where it's ''killed or be killed'', which result in deaths (sometimes of innocents).
+
+The story isn't much developed inside the game, but the original release of the game included Diary Of a (Mad?) Man, a 40-page diary telling the descent of Ryan into madness, or his destiny, written by Stephen Marley provides a complete background to the events leading to the start of the game.</desc>
+		<image>./images/Dreamweb-image.png</image>
+		<marquee>./images/Dreamweb-marquee.png</marquee>
+		<thumbnail>./images/Dreamweb-thumb.png</thumbnail>
+		<fanart>./images/Dreamweb-fanart.jpg</fanart>
+		<manual>./manuals/Dreamweb-manual.pdf</manual>
+		<rating>0.7</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Creative Reality</developer>
+		<publisher>Empire Interactive</publisher>
+		<genre>Adventure / Point and Click</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T091217" />
+	</game>
+	<game id="156823">
+		<path>./ScummVM/content/ports/ScummVM/EcoQuest 1 - The Search for Cetus.rar</path>
+		<name>EcoQuest 1: The Search for Cetus</name>
+		<desc>The first installment, titled The Search for Cetus, was released first on floppy disk, then on CD-ROM with full speech. Adam's attempts to help a dolphin his father has rescued take a turn for the weirder when it starts speaking. In no time flat, he's trying to seek out Cetus, the whale king of Eluria, an underwater kingdom populated by marine animals. He has assistance in the form of several creatures found in the various ecosystems of the world; for instance, a dolphin named Delphineus is an important contributor to the quest. Aside from the considerable liberty of sentient talking animals, the game is more realistic than cartoony - it needs to be, to tell about the real world's environment and pollution. The Search for Cetus introduced the recycling symbol to Sierra's standard palette of command icons, giving the player bonus points for picking up litter. The game features a primitive form of copy protection in the first scene: the player must input a code into a security door to exit the room. The code is 9731, and could be found in the game's manual.</desc>
+		<image>./images/EcoQuest 1 - The Search for Cetus-image.png</image>
+		<marquee>./images/EcoQuest 1 - The Search for Cetus-marquee.png</marquee>
+		<thumbnail>./images/EcoQuest 1 - The Search for Cetus-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Sierra On-Line</developer>
+		<publisher>Sierra On-Line</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<md5>a373bf7390fa6d7feb0c23414fa0f06c</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T091225" />
+	</game>
+	<game id="156824">
+		<path>./ScummVM/content/ports/ScummVM/EcoQuest 2 - Lost Secret of the Rainforest.rar</path>
+		<name>EcoQuest 2: Lost Secret of the Rainforest</name>
+		<desc>In Lost Secret of the Rainforest, the second installment in the series, Adam, now slightly older and able to speak with animals as a matter of course, explores the tropical rainforest in search of a cure of a disease afflicting the local natives, and a way to save the rainforest from destruction. One of the game's innovations was the ''Ecorder'' display: a tricorder-like device Adam uses to learn about things he finds during his journey. The game is somewhat harder than its predecessor and places more emphasis on the dangers of selfishness and greed, as opposed to the blight of man.</desc>
+		<image>./images/EcoQuest 2 - Lost Secret of the Rainforest-image.png</image>
+		<marquee>./images/EcoQuest 2 - Lost Secret of the Rainforest-marquee.png</marquee>
+		<thumbnail>./images/EcoQuest 2 - Lost Secret of the Rainforest-thumb.png</thumbnail>
+		<developer>Sierra On-Line</developer>
+		<publisher>Sierra On-Line</publisher>
+		<genre>Adventure</genre>
+		<md5>d62cc7afdd75b156e55b5d9580184f9a</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T091233" />
+	</game>
+	<game id="156825">
+		<path>./ScummVM/content/ports/ScummVM/Elvira - Mistress of The Dark/Elvira - Mistress of The Dark.7z</path>
+		<name>Elvira: Mistress of the Dark</name>
+		<desc>Elvira, well known from various trashy horror comedies, is the heroine of this first person role play. Elvira's uncle Elmo, who was a very unpopular person in his lifetime, has recently died and left Elvira an old castle. Elvira is very happy about this, as she wants to turn it into a tourist attraction. Unfortunately, on Halloween, the dead wake up in the castle. To make matters worse, Elvira's great-great-grandmother Emelda, who died 100 years ago, also wants to return to the realm of the living to take over the world.To prevent this, Elvira hires a ghost hunter, who is played by the player. The hero must solve puzzles and fight various creatures. The confrontations take place in real time and you have to be precise not to die. The castle also contains a thousand dangers that can be fatal.</desc>
+		<image>./images/Elvira - Mistress of The Dark-image.png</image>
+		<video>./videos/Elvira - Mistress of The Dark-video.mp4</video>
+		<marquee>./images/Elvira - Mistress of The Dark-marquee.png</marquee>
+		<thumbnail>./images/Elvira - Mistress of The Dark-thumb.png</thumbnail>
+		<fanart>./images/Elvira - Mistress of The Dark-fanart.jpg</fanart>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Horror Soft</developer>
+		<publisher>Accolade</publisher>
+		<genre>Adventure / Point and Click</genre>
+		<family>Elvira</family>
+		<players>1</players>
+		<md5>5d699c59589c59a523e369567db7d5a0</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T091244" />
+	</game>
+	<game>
+		<path>./ScummVM/content/ports/ScummVM/Elvira II - The Jaws of Cerberus/Elvira II - The Jaws of Cerberus.rar</path>
+		<name>Elvira II - The Jaws of Cerberus</name>
+		<md5>754d090bb712e95014a14d80170b75b3</md5>
+		<scrap name="ScreenScraper" date="20231102T091246" />
+	</game>
+	<game id="155820">
+		<path>./ScummVM/content/ports/ScummVM/Eye of the Beholder II - The Legend of Darkmoon.rar</path>
+		<name>Eye of the Beholder II: The Legend of Darkmoon</name>
+		<desc>In the sequel to Eye of the Beholder, the Archmage Khelben summons the Heroes of Waterdeep, slayers of the Beholder Xanathar, for another mission. Strange things are happening in the forests near Waterdeep, centered around the Temple Darkmoon. People have been disappearing and shallow graves containing human remains have been found. Khelben teleports the party to the forests near Darkmoon so they may find out what kind of evil is working in the towers of the temple.
+
+Eye of the Beholder II: The Legend of Darkmoon is, like its predecessor, a first-person role-playing game based on the 2nd Edition AD&amp;D rules. It uses the same point-and-click gameplay mechanics and controls as the first game, with only minor changes. 
+
+A starting party consists of four characters, which can be transferred from the earlier game or created from scratch. Characters can reach higher levels and learn new spells, must face new and tough monsters, and solve multiple puzzles. Compared to the first game, many more illustrated NPC encounters and cutscenes were added.</desc>
+		<image>./images/Eye of the Beholder II - The Legend of Darkmoon-image.png</image>
+		<video>./videos/Eye of the Beholder II - The Legend of Darkmoon-video.mp4</video>
+		<marquee>./images/Eye of the Beholder II - The Legend of Darkmoon-marquee.png</marquee>
+		<thumbnail>./images/Eye of the Beholder II - The Legend of Darkmoon-thumb.png</thumbnail>
+		<fanart>./images/Eye of the Beholder II - The Legend of Darkmoon-fanart.jpg</fanart>
+		<manual>./manuals/Eye of the Beholder II - The Legend of Darkmoon-manual.pdf</manual>
+		<rating>0.8</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Westwood Associates</developer>
+		<publisher>Strategic Simulations</publisher>
+		<genre>Role playing games / Dungeon Crawler RPG</genre>
+		<family>Eye of the Beholder</family>
+		<players>1</players>
+		<md5>095f11c9c625408391aedd560d967e32</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T091301" />
+	</game>
+	<game id="155819">
+		<path>./ScummVM/content/ports/ScummVM/Eye of the Beholder.rar</path>
+		<name>Eye of the Beholder</name>
+		<desc>Something evil is lurking below the city of Waterdeep. The Lords of Waterdeep summon a group of heroes to investigate, but someone or something has been watching the proceedings. After the heroes enter the sewers, the ceiling collapses behind them. The only way out is the way down, into a dungeon filled with monsters, traps and puzzles.
+
+Eye of the Beholder is a dungeon crawler RPG with a first-person perspective based on the 2nd Edition AD&amp;D rules. The starting party consists of four characters and up to two NPCs can join later. Combat and magic happen in real time. Fight over a dozen different monster varieties and cast over 40 spells. A point-and-click interface makes exploring, fighting, spellcasting and handling objects easy.</desc>
+		<image>./images/Eye of the Beholder-image.png</image>
+		<video>./videos/Eye of the Beholder-video.mp4</video>
+		<marquee>./images/Eye of the Beholder-marquee.png</marquee>
+		<thumbnail>./images/Eye of the Beholder-thumb.png</thumbnail>
+		<fanart>./images/Eye of the Beholder-fanart.jpg</fanart>
+		<manual>./manuals/Eye of the Beholder-manual.pdf</manual>
+		<rating>0.8</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Westwood Associates</developer>
+		<publisher>Strategic Simulations</publisher>
+		<genre>Role playing games / Dungeon Crawler RPG</genre>
+		<family>Eye of the Beholder</family>
+		<players>1</players>
+		<md5>b64e297805953f21ef1c18ccc9480b82</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T091314" />
+	</game>
+	<game id="156936">
+		<path>./ScummVM/content/ports/ScummVM/Fascination.rar</path>
+		<name>Fascination</name>
+		<desc>Fascination is a mature-themed adventure. The game is about a business man who has invented a chemical drug that increases the sex-drive. Unfortunately he was assasinated, and you accidentally get hold of the drug sample. Your mission is to try to deliver the sample to the right person and avoid being made out as the murderer.</desc>
+		<image>./images/Fascination-image.png</image>
+		<marquee>./images/Fascination-marquee.png</marquee>
+		<thumbnail>./images/Fascination-thumb.png</thumbnail>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Tomahawk</developer>
+		<publisher>Coktel Vision</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<md5>c4b8d7760395112b51dab39ee133ccae</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T091321" />
+	</game>
+	<game id="171682">
+		<path>./ScummVM/content/ports/ScummVM/Fatty Bears Funpack.rar</path>
+		<name>Fatty Bear's Funpack</name>
+		<image>./images/Fatty Bears Funpack-image.png</image>
+		<marquee>./images/Fatty Bears Funpack-marquee.png</marquee>
+		<thumbnail>./images/Fatty Bears Funpack-thumb.png</thumbnail>
+		<family>Fatty Bear</family>
+		<md5>e39ebc1e723f40b73c866dd2bf78d5c1</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T091328" />
+	</game>
+	<game id="156921">
+		<path>./ScummVM/content/ports/ScummVM/Flight of the Amazon Queen.rar</path>
+		<name>Flight of the Amazon Queen</name>
+		<desc>Joe King is the hero of this point and click adventure. His plane is carrying actress Faye Russell when it crash lands in a remote jungle, and he must battle through 100 screens of adventure and puzzle. The game's feel is influenced by hammy B-movies, and the characters are quite stereotyped and comic. As standard in point and click adventures, a set of icons at the bottom of the screen allow you to interact with visible characters and items in the main view area.</desc>
+		<image>./images/Flight of the Amazon Queen-image.png</image>
+		<video>./videos/Flight of the Amazon Queen-video.mp4</video>
+		<marquee>./images/Flight of the Amazon Queen-marquee.png</marquee>
+		<thumbnail>./images/Flight of the Amazon Queen-thumb.png</thumbnail>
+		<fanart>./images/Flight of the Amazon Queen-fanart.jpg</fanart>
+		<rating>0.75</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Interactive Binary Illusions</developer>
+		<publisher>Renegade Software</publisher>
+		<genre>Adventure / Point and Click</genre>
+		<players>1</players>
+		<md5>b14c4705e36a479a09e6a2086e9d7d04</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T091339" />
+	</game>
+	<game id="156816">
+		<path>./ScummVM/content/ports/ScummVM/Freddy Pharkas - Frontier Pharmacist.rar</path>
+		<name>Freddy Pharkas: Frontier Pharmacist</name>
+		<desc>Set in the American West of the 1880s, Freddy Pharkas was one of the fastest guns in the west. However in one particular gunfight with an outlaw named Kenny he was outgunned and Freddy had his ear shot off. This traumatic experience caused Freddy to give up his pistols and enroll in the school of pharmacology. Blocking out the memories of his past, Freddy arrives in the town of Corsegold with the dream to own and run his own pharmacy. Working with the town's doctor, Freddy is able to fill prescriptions, mix concoctions and diagnose simple symptoms. Business among the townsfolk is brisk however, the good times are not to last as suddenly townsfolk are run out of town and businesses are being foreclosed and boarded up. Freddy must deal with the town's problems, and discover the larger plot, or risk having a fancy shop in an empty town and losing all his customers.
+
+Freddy Pharkas: Frontier Pharmacist is a humorous point-and-click side-scrolling adventure game from Al Lowe. As such it has many similarities to other Sierra adventure games including Leisure Suit Larry (Al Lowe's previous work) and King's Quest. Players use the action bar at the top of the screen to choose an action type that is used on locations and objects visible to the player. Freddy can walk to new locations, look at particular objects, attempt to use objects, talk to people and enter his inventory to access items that have been picked up. Like other sierra games, successful actions add to the player's score, judging the player on 1000 points.</desc>
+		<image>./images/Freddy Pharkas - Frontier Pharmacist-image.png</image>
+		<marquee>./images/Freddy Pharkas - Frontier Pharmacist-marquee.png</marquee>
+		<thumbnail>./images/Freddy Pharkas - Frontier Pharmacist-thumb.png</thumbnail>
+		<manual>./manuals/Freddy Pharkas - Frontier Pharmacist-manual.pdf</manual>
+		<rating>0.8</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Sierra On-Line</developer>
+		<publisher>Sierra On-Line</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<md5>d817bac8b76d14b69c4f0984abeab889</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T091349" />
+	</game>
+	<game id="156945">
+		<path>./ScummVM/content/ports/ScummVM/Full Throttle/Full Throttle.rar</path>
+		<name>Full Throttle</name>
+		<desc>You are Ben, leader of the Polecats, one of the toughest and meanest biker gangs on the road. You were just having a bit of good clean fun at the Kickstand bar when old man Corley, owner of Corley Motors, dropped by for a bit of reminiscing. Next thing you know, you wake up in a dumpster, someone tells you about an ambush (of your Polecats?) and you got mixed up in the greatest adventure of your lifetime... 
+
+In Full Throttle, you direct a character around a 2-D screen and solve a few puzzles along the way. There are a few action sequences. The graphics are cartoon-style, similarly to LucasArts' previous adventure games, Day of the Tentacle and Sam &amp; Max Hit The Road. The game features a revamped interface: instead of choosing a command verb or an action icon and then interacting with an object, you can now simply point at it, and the available action icons will appear automatically.</desc>
+		<image>./images/Full Throttle-image.png</image>
+		<video>./videos/Full Throttle-video.mp4</video>
+		<marquee>./images/Full Throttle-marquee.png</marquee>
+		<thumbnail>./images/Full Throttle-thumb.png</thumbnail>
+		<fanart>./images/Full Throttle-fanart.jpg</fanart>
+		<manual>./manuals/Full Throttle-manual.pdf</manual>
+		<rating>0.8</rating>
+		<releasedate>19950430T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Adventure / Point and Click</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T091400" />
+	</game>
+	<game id="156817">
+		<path>./ScummVM/content/ports/ScummVM/Future Wars.rar</path>
+		<name>Future Wars : Adventures in Time</name>
+		<desc>Future Wars is a graphic adventure game, the first to use Delphine's proprietary Cinematique point-and-click interface. A right click brings up the verb menu. After choosing one of the six commands, you point the mouse over the desired target and execute with a left click. Small objects are depicted by enlarged drawings - once you found them. Pixel hunting is a very frequent aspect of Future Wars. Lazy players are punished with puzzle dead-ends.
+
+What an unlikely hero! You are a window cleaner. A common, little window cleaner. Yet you discover, more due to your notorious curiosity than by mistake, a time machine in your chiefs back office. Strange? Absolutely. Your adventure in the past and the future is about to begin. The quest? Four words: Evil aliens. Beautiful girl.</desc>
+		<image>./images/Future Wars-image.png</image>
+		<video>./videos/Future Wars-video.mp4</video>
+		<marquee>./images/Future Wars-marquee.png</marquee>
+		<thumbnail>./images/Future Wars-thumb.png</thumbnail>
+		<manual>./manuals/Future Wars-manual.pdf</manual>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Delphine Software International</developer>
+		<publisher>Interplay</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<md5>6f3a8e2a94dc144d53aeadb46569afbf</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T091448" />
+	</game>
+	<game id="156732">
+		<path>./ScummVM/content/ports/ScummVM/Gabriel Knight 2 The Beast Within.rar</path>
+		<name>Gabriel Knight 2: The Beast Within</name>
+		<desc>The Beast Within is a direct sequel to Gabriel Knight: Sins of the Fathers, the first in the supernatural mystery adventure series telling the story of a bookstore owner and writer Gabriel Knight, the last offspring of generations of Schattenjaegers (shadowhunters), whose task is to fight the evil forces that abound in the world.
+
+After leaving New Orleans, Gabriel moves to the Ritter Castle in Bavaria, Germany, his family heritage. One day, a group of peasants approach the castle, and the elder tells you about a terrible death of a little girl, who was killed by a vicious wolf. Suspecting the wolf could be a supernatural creature, the peasant asks you, the Schattenjaeger, to purge the evil. The investigation brings Gabriel and his assistant Grace Nakimura to the mysterious Hunter Society and to Bavaria's dark past.
+
+The Beast Within utilizes a cast of live actors and full-motion video technology: the actors are filmed over photorealistic images of Munich and its surroundings, and nearly every interaction with the environment leads to a FMV sequence. However, unlike most interactive movies that were popular in this era, The Beast Within is a full-fledged adventure game, with a lot of dialogues, detective work to do, and puzzles to solve. Unlike the first game, it is entirely controlled through point-and-click actions. All the icons have been replaced by a single cursor.</desc>
+		<image>./images/Gabriel Knight 2 The Beast Within-image.png</image>
+		<marquee>./images/Gabriel Knight 2 The Beast Within-marquee.png</marquee>
+		<thumbnail>./images/Gabriel Knight 2 The Beast Within-thumb.png</thumbnail>
+		<manual>./manuals/Gabriel Knight 2 The Beast Within-manual.pdf</manual>
+		<rating>0.8</rating>
+		<releasedate>19950630T000000</releasedate>
+		<developer>Sierra On-Line</developer>
+		<publisher>Sierra On-Line</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T091501" />
+	</game>
+	<game id="159166">
+		<path>./ScummVM/content/ports/ScummVM/Gabriel Knight Sins Of The Fathers.rar</path>
+		<name>Gabriel Knight: Sins of the Fathers</name>
+		<desc>Gabriel Knight is a wise-cracking bookstore owner and would-be author. He is the last in a long line of Shadow Hunters, those fated to fight supernatural forces of evil. Tormented by terrifying nightmares, he must spend every waking moment scouring the side streets and back alleys of New Orleans for the key to his dark past. One day, a blood-chilling murder shocks the inhabitants of the city. The police detective assigned to investigate the crime is Gabriel's friend. In the beginning Gabriel collects evidence in hope of using the material for his new novel; but soon he finds himself personally involved in the investigation, and plunges deeper into the world of secret societies and murderous cults.
+
+Gabriel Knight: Sins of the Fathers is a third-person puzzle-solving adventure game. Created by Jane Jensen, the game differs from Sierra's Quest games (e.g. Space Quest) by having a realistic setting and focusing (despite its supernatural elements and humor) on mature themes and detective work. In this way it is more similar to the company's earlier Laura Bow games. 
+
+The game's icon-based interface is the same as in Sierra's previous titles, with verb commands that allow interaction with the game world and its inhabitants. Though the game still has plenty of inventory-based puzzles characteristic for classic adventure, its gameplay is heavily inclined towards dialogue. Typically, Gabriel will have to interrogate other characters, choosing conversation topics and thus gradually finding clues and advancing towards the mystery's solution.
+
+The game's locations are done in hand-painted style. The CD version of the game adds full voice-overs to the dialogues, as well as narrator's voice to text descriptions.</desc>
+		<image>./images/Gabriel Knight Sins Of The Fathers-image.png</image>
+		<marquee>./images/Gabriel Knight Sins Of The Fathers-marquee.png</marquee>
+		<thumbnail>./images/Gabriel Knight Sins Of The Fathers-thumb.png</thumbnail>
+		<fanart>./images/Gabriel Knight Sins Of The Fathers-fanart.jpg</fanart>
+		<manual>./manuals/Gabriel Knight Sins Of The Fathers-manual.pdf</manual>
+		<developer>Sierra On-Line</developer>
+		<publisher>Sierra On-Line</publisher>
+		<genre>Adventure / Point and Click</genre>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T091515" />
+	</game>
+	<game id="156740">
+		<path>./ScummVM/content/ports/ScummVM/Geisha.rar</path>
+		<name>Geisha</name>
+		<desc>Another so-called erotic adventure. A mad scientist kidnapped your girl-friend Eva, and wants to transform her in some sort of futuristic geisha (half machine, half human). You travel to Tokyo to prevent this from happening...
+
+The game uses a point-and-click interface (with mouse support) and has several small sub-games included.</desc>
+		<image>./images/Geisha-image.png</image>
+		<marquee>./images/Geisha-marquee.png</marquee>
+		<thumbnail>./images/Geisha-thumb.png</thumbnail>
+		<fanart>./images/Geisha-fanart.jpg</fanart>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Coktel Vision</developer>
+		<publisher>Tomahawk</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<md5>b4fca54612b5165e464f71891444aa83</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T091526" />
+	</game>
+	<game id="156749">
+		<path>./ScummVM/content/ports/ScummVM/Gobliiins 1.rar</path>
+		<name>Gobliiins</name>
+		<desc>A voodoo doll has turned King Angoulafre mad. You control a team of three Goblins - Oups, Ignatius and Asgard (Hooter, Dwayne, and BoBo in the US release), who must find four magic components to track down Niak the Wizard, who is the only one who can put things right. They all have different skills - one can cast powerful but erratic spells, another can collect and use objects, and the last can hit things. You switch between them to solve puzzles in this point-and-click game.
+
+Action icons are activated at the bottom of the screen. The game takes in 22 landscapes, each of which has puzzles which must be cleared. Your characters have limited energy, which can be sapped by traps.</desc>
+		<image>./images/Gobliiins 1-image.png</image>
+		<video>./videos/Gobliiins 1-video.mp4</video>
+		<marquee>./images/Gobliiins 1-marquee.png</marquee>
+		<thumbnail>./images/Gobliiins 1-thumb.png</thumbnail>
+		<manual>./manuals/Gobliiins 1-manual.pdf</manual>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Coktel Vision</developer>
+		<publisher>Sierra On-Line</publisher>
+		<genre>Adventure / Point and Click</genre>
+		<family>Gobliiins</family>
+		<players>1</players>
+		<md5>a426176b59f10eb5dc8994861936f771</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T091542" />
+	</game>
+	<game id="156750">
+		<path>./ScummVM/content/ports/ScummVM/Gobliins 2.rar</path>
+		<name>Gobliins 2</name>
+		<desc>The second in the series of adventure-puzzle games. In this installation, you only have two imps to control instead of three.
+
+Someone has kidnapped the prince and it's up to you and two hilarious sidekicks, Winkle and Fingus, to rescue him. Winkle is a reckless jokester, while Fingus is careful and has a gift for solving puzzles. Luckily, they're blessed with extraordinary vitality. In other words, they never die. That'll sure come in handy when you're up against Wily Wizard's traps, maniacal monsters, and twisted and perplexing puzzles.</desc>
+		<image>./images/Gobliins 2-image.png</image>
+		<video>./videos/Gobliins 2-video.mp4</video>
+		<marquee>./images/Gobliins 2-marquee.png</marquee>
+		<thumbnail>./images/Gobliins 2-thumb.png</thumbnail>
+		<developer>Coktel Vision</developer>
+		<publisher>Sierra On-Line</publisher>
+		<genre>Adventure</genre>
+		<family>Gobliiins</family>
+		<md5>14a1c0cc895e9e414510bc29c7ac0953</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T091552" />
+	</game>
+	<game id="156751">
+		<path>./ScummVM/content/ports/ScummVM/Goblins 3.rar</path>
+		<name>Goblins Quest 3</name>
+		<desc>The third in the series of the weird adventure-puzzle games. This time you only have one Goblin to control. This was predictable just by the name of the game (the word 'Goblins' lost another 'i').
+
+This time we control Blount, a lonely goblin travelling through the country of Foliander. Almost at the beginning he will fall in love, but his girl gets kidnapped (shouldn't it be goblinapped?) and so he has to go through the same kind of mind breaking puzzles to rescue her (and help lots of others 'weirdoes' in the meantime).</desc>
+		<image>./images/Goblins 3-image.png</image>
+		<video>./videos/Goblins 3-video.mp4</video>
+		<marquee>./images/Goblins 3-marquee.png</marquee>
+		<thumbnail>./images/Goblins 3-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Coktel Vision</developer>
+		<publisher>Sierra On-Line</publisher>
+		<genre>Adventure / Point and Click</genre>
+		<family>Gobliiins</family>
+		<players>1</players>
+		<md5>4ccbc301be7732f148af91ca6aef5021</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T091602" />
+	</game>
+	<game id="156752">
+		<path>./ScummVM/content/ports/ScummVM/Gold Rush!.rar</path>
+		<name>Gold Rush!</name>
+		<desc>In Gold Rush!, Jerrod Wilson (the player) receives a letter from his long-lost brother (who fled the city years before when was hastily accused and convicted of a crime he didn't commit) asking him to join in Sacramento, California. If that's not enough for Jerrod sell everything and give his hometown Brooklyn a fond adieu, under the stamp was one of the first nuggets of Californian gold seen in the Atlantic shores of the United States. So, Jerrod bids farewell to his peaceful life as a newspaper editor, and becomes a fore-runner in the the great Gold Rush of 1849, hoping to find his brother and ''strike gold'' (literally).
+
+Released late into the lifespan of Sierra's AGI engine, Gold Rush! features some tricks not seen before the more advanced SCI engine, such as enlarged characters, but it is best known for the three routes available to reach California: by land, travel by boat to reach the Atlantic shore of Panama, cross the isthmus, and then get a second boat in the Pacific shore, or making the dangerous all-boat trip by Cape Horn. Each route has it's dangers: Cholera might strike as you make your way across the Northern states or your boat might sink.. As usual with Sierra adventures, instant killing happens if the player is careless, but will also happen at random. Other important (and innovative) concept is the game being timed. If Jerrod takes too long to leave Brooklyn, passages to California increase in price, and his house devalues.</desc>
+		<image>./images/Gold Rush!-image.png</image>
+		<marquee>./images/Gold Rush!-marquee.png</marquee>
+		<thumbnail>./images/Gold Rush!-thumb.png</thumbnail>
+		<fanart>./images/Gold Rush!-fanart.jpg</fanart>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Sierra On-Line</developer>
+		<publisher>Sierra On-Line</publisher>
+		<genre>Adventure / Graphics</genre>
+		<md5>0988e27c83bfaa2dd42584ae742a298b</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T091612" />
+	</game>
+	<game id="157882">
+		<path>./ScummVM/content/ports/ScummVM/Hoyle Official Book Of Games Volume 1.rar</path>
+		<name>Hoyle Official Book of Games: Volume 1</name>
+		<desc>Play six different card games (Crazy Eights, Old Maid, Hearts, Gin Rummy, Cribbage, and Klondike Solitaire) against 0-3 computer opponents (as appropriate for each game). 
+
+There are 18 available computer opponents, including characters from other Sierra games (Colonel Henry Dijon, Shelly LeBlanc, Officer Sonny Bonds, Larry Laffer, King Graham, Roger Wilco and Princess Rosella), Sierra employees (Warren Schwader and Jerry Moore) and their children, and others. The different opponents play the different games at different skill levels, and are broken up into ''Serious'' and ''Not-So-Serious'' categories. All the opponents will taunt you (in character) as you play (though you can turn off in-game conversation if it's too distracting).</desc>
+		<image>./images/Hoyle Official Book Of Games Volume 1-image.png</image>
+		<marquee>./images/Hoyle Official Book Of Games Volume 1-marquee.png</marquee>
+		<thumbnail>./images/Hoyle Official Book Of Games Volume 1-thumb.png</thumbnail>
+		<developer>Sierra On-Line</developer>
+		<publisher>Sierra On-Line</publisher>
+		<genre>Strategy</genre>
+		<md5>491c26336fc84473d629955352d4039e</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T091620" />
+	</game>
+	<game id="156797">
+		<path>./ScummVM/content/ports/ScummVM/I Have No Mouth and I Must Scream.rar</path>
+		<name>I Have No Mouth and I Must Scream</name>
+		<desc>The game is based on a collection of short stories by Harlan Ellison. After the Cold War, the computers of the USA, Russia and China take over the world and wipe out almost the entire human race. The Allied Mastercomputer (called AM) holds the last five humans as prisoners to torture them. Any of them has to face his or her past in a virtual adventure AM has designed for them. There they encounter their fears and weaknesses.
+
+The player can choose which of the protagonists he wants to be but in fact he has to complete all of the six stories in order to solve the game. There are different ways of completing the game depending on the humanity the player shows.
+
+The voiceacting features Harlan Ellison as AM.</desc>
+		<image>./images/I Have No Mouth and I Must Scream-image.png</image>
+		<marquee>./images/I Have No Mouth and I Must Scream-marquee.png</marquee>
+		<thumbnail>./images/I Have No Mouth and I Must Scream-thumb.png</thumbnail>
+		<manual>./manuals/I Have No Mouth and I Must Scream-manual.pdf</manual>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Dreamers Guild, The</developer>
+		<publisher>Cyberdreams, Inc.</publisher>
+		<genre>Adventure</genre>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T091629" />
+	</game>
+	<game id="156893">
+		<path>./ScummVM/content/ports/ScummVM/Indiana Jones and the Fate of Atlantis/Indiana Jones and the Fate of Atlantis.7z</path>
+		<name>Indiana Jones and the Fate of Atlantis</name>
+		<desc>Indiana Jones is back! The great archaeologist and adventurer has to solve a grand mystery once again, aided by his trusty whip, his sharp wit, and his courage. A man who calls himself Mr. Smith is interested in a certain ancient statue. When the unsuspecting Indy hands it over to the client, he finds out that Mr. Smith is in fact a colonel in the Nazi army! Why was he so interested in that statue? A girl who had once worked together with Indy, the pretty red-haired (and a bit troublesome) Sophia, tells him the whole thing must have a connection with the legendary lost continent Atlantis. Gathering clues from all over the world, Indy and Sophia embark on their greatest journey!
+
+Fate of Atlantis is not a movie spin-off, but an independent adventure with a brand new story. The gameplay utilizes LucasArts' famous SCUMM system, with action verbs the player chooses from a menu; the objects that can be interacted with are highlighted. The game contains many puzzles of various kinds (mostly inventory-based) and dialogues with multiple choices. There are also a couple of hand-to-hand fights against the Nazis. The middle part of the game can be played in three ''modes'': co-operation (Indy and Sophia), adventure (Indy alone), and action (Indy alone, with less puzzles and more action). In each mode there are different locations to visit, different puzzles to solve, and different characters to meet.</desc>
+		<image>./images/Indiana Jones and the Fate of Atlantis-image.png</image>
+		<video>./videos/Indiana Jones and the Fate of Atlantis-video.mp4</video>
+		<marquee>./images/Indiana Jones and the Fate of Atlantis-marquee.png</marquee>
+		<thumbnail>./images/Indiana Jones and the Fate of Atlantis-thumb.png</thumbnail>
+		<fanart>./images/Indiana Jones and the Fate of Atlantis-fanart.jpg</fanart>
+		<manual>./manuals/Indiana Jones and the Fate of Atlantis-manual.pdf</manual>
+		<rating>0.9</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Lucasfilm Games</developer>
+		<publisher>Lucasfilm Games</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<md5>1e6e3a5acce4c1c0d1f0e89c05c3dfdb</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T091651" />
+	</game>
+	<game id="156946">
+		<path>./ScummVM/content/ports/ScummVM/Indiana Jones and the Last Crusade/Indiana Jones and the Last Crusade.rar</path>
+		<name>Indiana Jones And The Last Crusade - The Graphic Adventure</name>
+		<desc>It is 1938 and adventurer Indiana Jones is joined by his father on this quest, preventing Adolf Hitler from capturing the Holy Grail. He will have to deal with Nazi guards, the Luftwaffe and enemy spies as he tries to stop the tyrannical Nazi leader.
+
+The Graphic Adventure uses the same SCUMM gameplay system as the previous Maniac Mansion. Most of the screen is used for a visual rendition of the current scene. At the bottom of the screen are words, which can be clicked on using the mouse to activate their functions. For example, objects can be picked up, used, pushed or pulled, and turned on and off. Most locations are from the movie, but some further scenes are added.
+
+In keeping with Indiana's action-man persona, the game also features pure action scenes. Unlike most Lucasfilm adventures, you can die.
+
+Two PC versions of the game were released, one with 16 color EGA graphics, and one with 256 color VGA graphics.</desc>
+		<image>./images/Indiana Jones and the Last Crusade-image.png</image>
+		<video>./videos/Indiana Jones and the Last Crusade-video.mp4</video>
+		<marquee>./images/Indiana Jones and the Last Crusade-marquee.png</marquee>
+		<thumbnail>./images/Indiana Jones and the Last Crusade-thumb.png</thumbnail>
+		<fanart>./images/Indiana Jones and the Last Crusade-fanart.jpg</fanart>
+		<manual>./manuals/Indiana Jones and the Last Crusade-manual.pdf</manual>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Lucasfilm Games</developer>
+		<publisher>Lucasfilm Games</publisher>
+		<genre>Adventure / Point and Click</genre>
+		<family>Indiana Jones</family>
+		<players>1</players>
+		<md5>8db730f464b0fe24e3c31612616ff751</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T091704" />
+	</game>
+	<game id="157545">
+		<path>./ScummVM/content/ports/ScummVM/Jones In The Fast Lane.rar</path>
+		<name>Jones in the Fast Lane</name>
+		<desc>Functionally identical to the original Jones in the Fast Lane, but delivered on a CDROM and containing the following enhancements:
+
+DOS version: Redbook CD Audio for the voice acting; additional animation and actor portraits; takes very little space on hard drive.</desc>
+		<image>./images/Jones In The Fast Lane-image.png</image>
+		<marquee>./images/Jones In The Fast Lane-marquee.png</marquee>
+		<thumbnail>./images/Jones In The Fast Lane-thumb.png</thumbnail>
+		<developer>Sierra On-Line</developer>
+		<publisher>Sierra On-Line</publisher>
+		<genre>Strategy</genre>
+		<md5>d48f592ccf7329a6cb09f8f5b38e79f1</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T091713" />
+	</game>
+	<game>
+		<path>./ScummVM/content/ports/ScummVM/Kings Quest 1 - Quest for the Crown (VGA).rar</path>
+		<name>Kings Quest 1 - Quest for the Crown (VGA)</name>
+		<md5>0b6390ed7331e236192b74eb55839595</md5>
+		<scrap name="ScreenScraper" date="20231102T091715" />
+	</game>
+	<game>
+		<path>./ScummVM/content/ports/ScummVM/Kings Quest 2 - Romancing the Throne.rar</path>
+		<name>Kings Quest 2 - Romancing the Throne</name>
+		<md5>67c22f886489b34a395ccd5af687cbe9</md5>
+		<scrap name="ScreenScraper" date="20231102T091717" />
+	</game>
+	<game>
+		<path>./ScummVM/content/ports/ScummVM/Kings Quest 3 - To Heir is Human.rar</path>
+		<name>Kings Quest 3 - To Heir is Human</name>
+		<md5>5a82d7206d4ad72891628e606572b8a7</md5>
+		<scrap name="ScreenScraper" date="20231102T091718" />
+	</game>
+	<game>
+		<path>./ScummVM/content/ports/ScummVM/Kings Quest 5 - Absence Makes the Heart go Yonder.rar</path>
+		<name>Kings Quest 5 - Absence Makes the Heart go Yonder</name>
+		<md5>cbb5edde17a5dc56314cfdbc635a5dcf</md5>
+		<scrap name="ScreenScraper" date="20231102T091721" />
+	</game>
+	<game>
+		<path>./ScummVM/content/ports/ScummVM/Kings Quest 6 - Heir Today Gone Tomorrow.rar</path>
+		<name>Kings Quest 6 - Heir Today Gone Tomorrow</name>
+		<scrap name="ScreenScraper" date="20231102T091723" />
+	</game>
+	<game id="155865">
+		<path>./ScummVM/content/ports/ScummVM/Lands of Lore - The Throne of Chaos.rar</path>
+		<name>Lands Of Lore - The Throne Of Chaos</name>
+		<desc>The Dark Army is on the move again, led by the evil sorceress Scotia. Her goal is obvious: to destroy Gladstone Keep and its ruler King Richard. Scotia herself has recently become more powerful after acquiring "the Mask" from the Urban Mines, gaining the ability to shape-shift. She is virtually unstoppable and able to infiltrate Gladstone Keep, poisoning King Richard. If it were not for the intervention of Sorceress Dawn, the monarch would surely be dead. In order to find a cure for the King's illness, a band of heroes must set out on an adventure, and keep themselves alive from the Dark Army forces.</desc>
+		<image>./images/Lands of Lore - The Throne of Chaos-image.png</image>
+		<video>./videos/Lands of Lore - The Throne of Chaos-video.mp4</video>
+		<marquee>./images/Lands of Lore - The Throne of Chaos-marquee.png</marquee>
+		<thumbnail>./images/Lands of Lore - The Throne of Chaos-thumb.png</thumbnail>
+		<manual>./manuals/Lands of Lore - The Throne of Chaos-manual.pdf</manual>
+		<rating>0.8</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Virgin</developer>
+		<publisher>Virgin</publisher>
+		<genre>Adventure</genre>
+		<family>Lands of Lore</family>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T091737" />
+	</game>
+	<game id="156496">
+		<path>./ScummVM/content/ports/ScummVM/Laura Bow 2 - The Dagger of Amon-Ra.rar</path>
+		<name>The Dagger of Amon Ra</name>
+		<desc>The Dagger of Amon Ra is the sequel to Laura's previous adventure, The Colonel's Bequest. Laura Bow, fresh out of college, is hired by a New York newspaper and told to investigate a museum theft. The item is a priceless ancient Egyptian artifact, and possible suspects prove plentiful. During a party to celebrate the opening of the museum's new section, someone is murdered and Laura, after asking to be allowed to investigate, is locked in. This sets the stage for a series of murders, much in the same vein as the original game.</desc>
+		<image>./images/Laura Bow 2 - The Dagger of Amon-Ra-image.png</image>
+		<video>./videos/Laura Bow 2 - The Dagger of Amon-Ra-video.mp4</video>
+		<marquee>./images/Laura Bow 2 - The Dagger of Amon-Ra-marquee.png</marquee>
+		<thumbnail>./images/Laura Bow 2 - The Dagger of Amon-Ra-thumb.png</thumbnail>
+		<manual>./manuals/Laura Bow 2 - The Dagger of Amon-Ra-manual.pdf</manual>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Sierra On-Line</developer>
+		<publisher>Sierra On-Line</publisher>
+		<genre>Adventure</genre>
+		<md5>431991308f176cdd3beed78c484c09d3</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T091754" />
+	</game>
+	<game id="156499">
+		<path>./ScummVM/content/ports/ScummVM/Leather Goddesses of Phobos 2.rar</path>
+		<name>Leather Goddesses of Phobos! 2: Gas Pump Girls Meet the Pulsating Inconvienience from Planet X</name>
+		<desc>As 1 of 3 different player characters (male, female or alien!) you unravel puzzles to thwart the Pulsating Inconvenience from Planet X to save Earth in the year 1956!</desc>
+		<image>./images/Leather Goddesses of Phobos 2-image.png</image>
+		<video>./videos/Leather Goddesses of Phobos 2-video.mp4</video>
+		<marquee>./images/Leather Goddesses of Phobos 2-marquee.png</marquee>
+		<thumbnail>./images/Leather Goddesses of Phobos 2-thumb.png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Infocom</developer>
+		<publisher>Activision</publisher>
+		<genre>Adventure</genre>
+		<family>Leather Godesses Of Phobos</family>
+		<md5>0c48aa77b6c4960585fffe12445193dc</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T091808" />
+	</game>
+	<game>
+		<path>./ScummVM/content/ports/ScummVM/Leisure Suit Larry 1 - Land of Lounge Lizards Remake.rar</path>
+		<name>Leisure Suit Larry 1 - Land of Lounge Lizards Remake</name>
+		<md5>09e79f527dcac7009c53caeecc0d68f7</md5>
+		<scrap name="ScreenScraper" date="20231102T091809" />
+	</game>
+	<game>
+		<path>./ScummVM/content/ports/ScummVM/Leisure Suit Larry 5 - Passionate Patty.rar</path>
+		<name>Leisure Suit Larry 5 - Passionate Patty</name>
+		<md5>03ef1081d7b3d88c09d31dfde03286d3</md5>
+		<scrap name="ScreenScraper" date="20231102T091811" />
+	</game>
+	<game id="156515">
+		<path>./ScummVM/content/ports/ScummVM/Leisure Suit Larry 6 - Shape Up or Slip Out.rar</path>
+		<name>Leisure Suit Larry 6: Shape Up Or Slip Out!</name>
+		<desc>Shape Up or Slip Out! is the fifth game in Al Lowe's Leisure Suit Larry series. All the events from the previous games are forgotten. Larry is once again single, and again his goal is to capture the interest of various ladies. By sheer coincidence, Larry finds himself on a TV Game Show called ''Stallions''. He wins a weekend at the Spa Resort, La Costa Lotta. Naturally, there are some beautiful women in the spa who are just dreaming about such a wonderful, handsome man as Larry! Uh... or is it really so? It is your goal to find out! Using your wit, you should solve all the puzzles and satisfy the wishes of all the ladies!
+
+This instalment focuses more on conversations with women and on puzzles than on the storyline. The entire game is spent at La Costa Lotta. There are plenty of traditional inventory-based puzzles to solve in the game. You can die, but are allowed to try again every time that happens, without the need to restore. This is also the first Larry with SVGA graphics, and voice-overs in CD version.</desc>
+		<image>./images/Leisure Suit Larry 6 - Shape Up or Slip Out-image.png</image>
+		<video>./videos/Leisure Suit Larry 6 - Shape Up or Slip Out-video.mp4</video>
+		<marquee>./images/Leisure Suit Larry 6 - Shape Up or Slip Out-marquee.png</marquee>
+		<thumbnail>./images/Leisure Suit Larry 6 - Shape Up or Slip Out-thumb.png</thumbnail>
+		<manual>./manuals/Leisure Suit Larry 6 - Shape Up or Slip Out-manual.pdf</manual>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Sierra On-Line</developer>
+		<publisher>Sierra On-Line</publisher>
+		<genre>Adventure / Point and Click</genre>
+		<family>Leisure Suit Larry</family>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T091827" />
+	</game>
+	<game id="156525">
+		<path>./ScummVM/content/ports/ScummVM/Loom.rar</path>
+		<name>Loom</name>
+		<desc>Loom is an adventure game from LucasFilm. What sets Loom apart from other adventure games (in direct comparison with Sierra's) is its unique interface: you do not carry items around, but rather manipulate existing items through the use of spells. The spells themselves are woven through playing magical notes on a special distaff. Loom also features three difficultly levels, and differentiates them by changing the way the interface works: Standard features the distaff at the bottom of the screen but notes aren't written, whereas Expert doesn't have the distaff and you have to replay the spells by hearing alone.
+
+In Loom you play the role of Bobbin Threadbare, a young man from the Guild of Weavers who just turned 17. Although you do not know why, you are outcast from the guild and blamed for the lack of prosperity in recent times.
+After the Council of Elders is attacked and the Elders are turned into swans, you as Bobbin must set forth on a journey to find the swans and try to restore order to the Guild of Weavers.</desc>
+		<image>./images/Loom-image.png</image>
+		<video>./videos/Loom-video.mp4</video>
+		<marquee>./images/Loom-marquee.png</marquee>
+		<thumbnail>./images/Loom-thumb.png</thumbnail>
+		<fanart>./images/Loom-fanart.jpg</fanart>
+		<manual>./manuals/Loom-manual.pdf</manual>
+		<rating>0.8</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Lucasfilm Games</developer>
+		<publisher>Lucasfilm Games</publisher>
+		<genre>Adventure / Graphics</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T091842" />
+	</game>
+	<game id="156533">
+		<path>./ScummVM/content/ports/ScummVM/Lost in Time.rar</path>
+		<name>Lost in Time</name>
+		<desc>Lost in Time is an ''Interactive Action Adventure Movie'' in which you must travel through time solving puzzles and find the man who is plotting to kill your ancestors.
+
+The game has standard graphic adventure game fare with small animated movies contained within scenes. It also features unique first-person semi-animated movement between locations.</desc>
+		<image>./images/Lost in Time-image.png</image>
+		<marquee>./images/Lost in Time-marquee.png</marquee>
+		<thumbnail>./images/Lost in Time-thumb.png</thumbnail>
+		<manual>./manuals/Lost in Time-manual.pdf</manual>
+		<developer>Coktel Vision</developer>
+		<publisher>Sierra On-Line</publisher>
+		<genre>Adventure</genre>
+		<md5>acafec3755defa4dd106e26124c26fcd</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T091850" />
+	</game>
+	<game id="156536">
+		<path>./ScummVM/content/ports/ScummVM/Lure of the Temptress.rar</path>
+		<name>Lure of the Temptress</name>
+		<desc>The medieval town of Turnvale has fallen into the hands of the evil sorceress Selena. She is controlling an army of an orc-like warrior race Skorl, who serve her with devotion. The Skorl hate humans and have terrorized the town and the nearby land. Diermot is an ordinary fellow who was captured by the Skorl and thrown into prison. His first task will be to escape. After gaining his freedom, Diermot will also have to find out how to liberate his entire homeland from the clutches of the villains.
+
+This adventure game utilizes a special system called Virtual Theater. Non-playable characters will walk around and perform different actions regardless of your interaction with them. There is a variety of options and commands, including the possibility of interaction with a supporting character, whom you can give orders in order to solve some of the game's puzzles.</desc>
+		<image>./images/Lure of the Temptress-image.png</image>
+		<marquee>./images/Lure of the Temptress-marquee.png</marquee>
+		<thumbnail>./images/Lure of the Temptress-thumb.png</thumbnail>
+		<fanart>./images/Lure of the Temptress-fanart.jpg</fanart>
+		<manual>./manuals/Lure of the Temptress-manual.pdf</manual>
+		<developer>Revolution Software</developer>
+		<publisher>Konami</publisher>
+		<genre>Adventure</genre>
+		<md5>e614c924721d2618a51593735762b1c0</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T091900" />
+	</game>
+	<game id="156425">
+		<path>./ScummVM/content/ports/ScummVM/Maniac Mansion.rar</path>
+		<name>Maniac Mansion</name>
+		<desc>The Edison mansion has always been a creepy old house on the edge of town. There have been rumors of strange experiments going on and of odd creatures living amongst the Edison family. There is even a story that a meteorite once crashed near the home nearly 20 years ago. More immediately, a girl named Sandy has gone missing from the local highschool and her boyfriend Dave swears that he saw Dr. Fred abducting her. Dave knows that he cannot do it alone and will need help from two other students if he has any hope of infiltrating the mansion and rescuing Sandy.
+
+Players start by choosing 2 students to accompany Dave to the Edison mansion, and can then switch between these three characters at will. Most actions are carried out by selecting verbs on the screen and applying them to an object (such as "OPEN Door"). Each character maintains a separate personality and may have a different way to solve a problem from his classmates.</desc>
+		<image>./images/Maniac Mansion-image.png</image>
+		<video>./videos/Maniac Mansion-video.mp4</video>
+		<marquee>./images/Maniac Mansion-marquee.png</marquee>
+		<thumbnail>./images/Maniac Mansion-thumb.png</thumbnail>
+		<fanart>./images/Maniac Mansion-fanart.jpg</fanart>
+		<manual>./manuals/Maniac Mansion-manual.pdf</manual>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Lucasfilm Games</developer>
+		<publisher>Lucasfilm Games</publisher>
+		<genre>Adventure / Point and Click</genre>
+		<family>Maniac Mansion</family>
+		<players>1</players>
+		<md5>98a16bcbb1d968c596acaf78d36cb29f</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T091910" />
+	</game>
+	<game id="156441">
+		<path>./ScummVM/content/ports/ScummVM/Mickeys Space Adventure.rar</path>
+		<name>Mickey's Space Adventure</name>
+		<image>./images/Mickeys Space Adventure-image.png</image>
+		<marquee>./images/Mickeys Space Adventure-marquee.png</marquee>
+		<thumbnail>./images/Mickeys Space Adventure-thumb.png</thumbnail>
+		<family>Mickey Mouse</family>
+		<md5>ea3174129d5c7b0c84e0916db60f07d1</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T091916" />
+	</game>
+	<game id="156452">
+		<path>./ScummVM/content/ports/ScummVM/Mixed Up Fairy Tales.rar</path>
+		<name>Mixed-Up Fairy Tales</name>
+		<desc>Bookend has been mixing up Bookwyrm's fairy tales and you have to set things right by aiding well known fairy tale characters such as Cinderella and Snow White.
+
+To set things right, you will need to go around acquiring objects, such as Jack's magical beans, to give to Jack so that he can raise a beanstock.
+
+The game is designed with younger gamers in mind, and features a simple VGA interface with two actions, ''Do'' and ''See''; rather than the full hidden icon bar used in other Sierra games.</desc>
+		<image>./images/Mixed Up Fairy Tales-image.png</image>
+		<marquee>./images/Mixed Up Fairy Tales-marquee.png</marquee>
+		<thumbnail>./images/Mixed Up Fairy Tales-thumb.png</thumbnail>
+		<developer>Sierra On-Line</developer>
+		<publisher>Sierra On-Line</publisher>
+		<genre>Adventure</genre>
+		<md5>d4e08e8c85b28539399b24603fdc0763</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T091923" />
+	</game>
+	<game id="431090">
+		<path>./ScummVM/content/ports/ScummVM/Mixed Up Mother Goose.rar</path>
+		<name>Mixed-Up Mother Goose</name>
+		<desc>Mixed-Up Mother Goose is a classic "Sierra-style" adventure game for kids, based on the various classic nursery rhymes (Humpty Dumpty, etc.). All the rhymes from all over the land have gotten mixed up, and it is up to the child to find the missing pieces and give them back to who needs them.</desc>
+		<image>./images/Mixed Up Mother Goose-image.png</image>
+		<marquee>./images/Mixed Up Mother Goose-marquee.png</marquee>
+		<thumbnail>./images/Mixed Up Mother Goose-thumb.png</thumbnail>
+		<developer>Sierra On-Line</developer>
+		<publisher>Sierra On-Line</publisher>
+		<genre>Adventure / Point and Click</genre>
+		<md5>cd84e8a17989fad7a5e310a749ae305d</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T091931" />
+	</game>
+	<game id="156455">
+		<path>./ScummVM/content/ports/ScummVM/Monkey Island 2 LeChucks Revenge.rar</path>
+		<name>Monkey Island 2 - Lechuck's Revenge</name>
+		<desc>LeChucks Revenge is set in the fictional Tri-Island Area of the Caribbean, several months after The Secret of Monkey Island. The game opens in medias res as Guybrush Threepwood hangs on a rope above a hole, narrating to Elaine Marley on a separate rope the events that led to this situation. The flashback sequence starts on Scabb Island and constitutes most of the playable games setting. During it, Guybrush also visits Phatt Island, Booty Island, and Dinky Island, voyaging on two different pirate ships.</desc>
+		<image>./images/Monkey Island 2 LeChucks Revenge-image.png</image>
+		<video>./videos/Monkey Island 2 LeChucks Revenge-video.mp4</video>
+		<marquee>./images/Monkey Island 2 LeChucks Revenge-marquee.png</marquee>
+		<thumbnail>./images/Monkey Island 2 LeChucks Revenge-thumb.png</thumbnail>
+		<fanart>./images/Monkey Island 2 LeChucks Revenge-fanart.jpg</fanart>
+		<manual>./manuals/Monkey Island 2 LeChucks Revenge-manual.pdf</manual>
+		<rating>0.85</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Adventure / Point and Click</genre>
+		<family>Monkey Island</family>
+		<players>1</players>
+		<md5>74e48248ba50f65744cadf908e2b13f1</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T091943" />
+	</game>
+	<game>
+		<path>./ScummVM/content/ports/ScummVM/Myst Masterpiece.rar</path>
+		<name>Myst Masterpiece</name>
+		<scrap name="ScreenScraper" date="20231102T091944" />
+	</game>
+	<game id="100475">
+		<path>./ScummVM/content/ports/ScummVM/Myst.rar</path>
+		<name>Myst</name>
+		<desc>You have just stumbled upon a most intriguing book, a book titled Myst. You have no idea where it came from, who wrote it, or how old it is. Reading through its pages provides you with only a description of an island world. But it's just a book, isn't it? As you reach the end of the book, you lay your hand on a page. Suddenly your own world dissolves into blackness, replaced with the island world the pages described. Now you're here, wherever here is, with no option but to explore.Myst is a first-person point-and-click adventure where the player controls a character known as The Stranger. Magically transported into the world described in the book, he needs to explore Myst Island and solve its mysteries. The game is presented as a series of static scenes where the player acts with the environment by clicking and manipulating objects. There are no enemies and it is not possible to die. Through Myst Island, the game is further divided into mini-worlds set in different ages accessed through different books. The game's interface is reduced to a single cursor for navigation and interaction. Rather than collecting items and using them to solve puzzles, the player must gather subtly placed clues and manipulate complex mechanical devices in order to advance in the game. The world of Myst is mostly uninhabited, and the game has very few live-action scenes with characters and dialogue.</desc>
+		<image>./images/Myst-image.jpg</image>
+		<video>./videos/Myst-video.mp4</video>
+		<marquee>./images/Myst-marquee.png</marquee>
+		<thumbnail>./images/Myst-thumb.png</thumbnail>
+		<fanart>./images/Myst-fanart.jpg</fanart>
+		<rating>0.75</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Cyan, Inc.</developer>
+		<publisher>Brøderbund Software</publisher>
+		<genre>Adventure / Point and Click</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T091954" />
+	</game>
+	<game id="156975">
+		<path>./ScummVM/content/ports/ScummVM/Nippon Safes Inc.rar</path>
+		<name>Nippon Safes, Inc.</name>
+		<desc>Nippon Safes, Inc. is the predecessor to Big Red Adventure, both being cartoon adventure games by Italian developer Dynabyte. As in its followup, here players take the role of three different heroes (though, opposite to Goblins series, one at time). They are Doug, the smart safe cracker; Dino, the strong, but dumb, boxer; and Donna, the sexy club dancer. 
+
+The game takes place in Tokyo. While all three characters explore almost the same areas, each of the heroes has its own story to follow and puzzles to solve. You can choose which character would you like to play first, and which - lastly. When you have finished all three sub-plots, you'll get a final with all three characters acting altogether.
+
+The game features cartoonish, comics-style graphics, unique icon-based interface and non-linear plot. It is also full of Italian humor, and the game is played more like a comedy, rather then crime-based adventure.</desc>
+		<image>./images/Nippon Safes Inc-image.png</image>
+		<marquee>./images/Nippon Safes Inc-marquee.png</marquee>
+		<thumbnail>./images/Nippon Safes Inc-thumb.png</thumbnail>
+		<manual>./manuals/Nippon Safes Inc-manual.pdf</manual>
+		<developer>Dynabyte</developer>
+		<publisher>Dynabyte</publisher>
+		<genre>Adventure</genre>
+		<md5>21970ebbd335dd348ce77e9b66dea8ad</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T092003" />
+	</game>
+	<game id="156602">
+		<path>./ScummVM/content/ports/ScummVM/Peppers Adventures In Time.rar</path>
+		<name>Pepper's Adventures In Time</name>
+		<image>./images/Peppers Adventures In Time-image.png</image>
+		<marquee>./images/Peppers Adventures In Time-marquee.png</marquee>
+		<thumbnail>./images/Peppers Adventures In Time-thumb.png</thumbnail>
+		<genre>Adventure / Point and Click</genre>
+		<md5>04fa51fd4c59a14b15ad5b721d2835dd</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T092009" />
+	</game>
+	<game id="155483">
+		<path>./ScummVM/content/ports/ScummVM/Phantasmagoria.rar</path>
+		<name>Phantasmagoria</name>
+		<desc>A writer named Adrienne Delaney has just moved into an old mansion with her photographer husband Donald. Shortly after moving in, Adrienne begins to experience horrifying nightmares and have odd encounters inside the creepy old abode. Furthermore, the house is having a severe effect on her husband, changing him for the worse. Adrienne must discover the secret of the house before the unknown force consumes her husband, and unravel the terrible events that have happened in the past.
+
+Phantasmagoria is an adventure game that places heavy emphasis on full motion video for exposition and cutscenes at various junctures to advance the storyline. Adrienne is represented as a digitized character roaming around pre-rendered settings in the house. She inspects various rooms, finds items, adds them to her inventory, finds places to use the items, and triggers advancements in the plot. 
+
+Puzzle-solving element is present, though reduced compared to most other adventure games made by Sierra. There are seven chapters in the game, as well as a status screen that tracks the players progress within the chapter. If the player happens to get stuck in the game, a talking skull icon who identifies himself as the hintkeeper can supply the player with hints on request. It is possible to start playing the game from any chapter.</desc>
+		<image>./images/Phantasmagoria-image.png</image>
+		<video>./videos/Phantasmagoria-video.mp4</video>
+		<marquee>./images/Phantasmagoria-marquee.png</marquee>
+		<thumbnail>./images/Phantasmagoria-thumb.png</thumbnail>
+		<fanart>./images/Phantasmagoria-fanart.jpg</fanart>
+		<releasedate>19950824T000000</releasedate>
+		<developer>Sierra On-Line</developer>
+		<publisher>Sierra On-Line</publisher>
+		<genre>Adventure / Point and Click</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T092020" />
+	</game>
+	<game>
+		<path>./ScummVM/content/ports/ScummVM/Police Quest 1 - In Pursuit of the Death Angel VGA Remake.rar</path>
+		<name>Police Quest 1 - In Pursuit of the Death Angel VGA Remake</name>
+		<md5>9db450c1fe86fb0b5acd3f7303704d3e</md5>
+		<scrap name="ScreenScraper" date="20231102T092022" />
+	</game>
+	<game id="156621">
+		<path>./ScummVM/content/ports/ScummVM/Police Quest 1 - In Pursuit of the Death Angel.rar</path>
+		<name>Police Quest 1: In Pursuit of the Death Angel</name>
+		<desc>Sonny Bonds is a small town policeman who must fight against the rising tide of drugs in his city. The game is based on real police procedure and adheres carefully to following the rules of police work. Beginning as a patrol officer and working into detectives, Sonny will chase down the infamous Death Angel and put an end to his criminal underworld.
+
+A typical Sierra parser game built with the popular AGI engine, Police Quest differs from the others release by the company in the realism of the setting and travelling, that is done by car, controlled by the player using a overhead view (instead of the cabbie of Leisure Suit Larry or walking around in Space Quest). Some sections of the game require the player to be efficient driving the car (as there are a fair number of chases, and traffic rules also apply to the player).</desc>
+		<image>./images/Police Quest 1 - In Pursuit of the Death Angel-image.png</image>
+		<video>./videos/Police Quest 1 - In Pursuit of the Death Angel-video.mp4</video>
+		<marquee>./images/Police Quest 1 - In Pursuit of the Death Angel-marquee.png</marquee>
+		<thumbnail>./images/Police Quest 1 - In Pursuit of the Death Angel-thumb.png</thumbnail>
+		<manual>./manuals/Police Quest 1 - In Pursuit of the Death Angel-manual.pdf</manual>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Sierra On-Line</developer>
+		<publisher>Sierra On-Line</publisher>
+		<genre>Adventure / Point and Click</genre>
+		<family>Police Quest</family>
+		<players>1</players>
+		<md5>c403feedafc0ab078de10eddaf9548c0</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T092034" />
+	</game>
+	<game id="156624">
+		<path>./ScummVM/content/ports/ScummVM/Police Quest 3 - The Kindred.rar</path>
+		<name>Police Quest 3: The Kindred</name>
+		<desc>The third police quest game opens as Sonny Bond's wife is brutally attacked by the brother of Jessie Bains. Combined with ritualistic killings in the city and his wife clinging to life in the hospital, Bonds must catch the killer and find the attacker of his wife.</desc>
+		<image>./images/Police Quest 3 - The Kindred-image.png</image>
+		<video>./videos/Police Quest 3 - The Kindred-video.mp4</video>
+		<marquee>./images/Police Quest 3 - The Kindred-marquee.png</marquee>
+		<thumbnail>./images/Police Quest 3 - The Kindred-thumb.png</thumbnail>
+		<fanart>./images/Police Quest 3 - The Kindred-fanart.jpg</fanart>
+		<manual>./manuals/Police Quest 3 - The Kindred-manual.pdf</manual>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Sierra On-Line</developer>
+		<publisher>Sierra On-Line</publisher>
+		<genre>Adventure / Point and Click</genre>
+		<family>Police Quest</family>
+		<players>1</players>
+		<md5>78adff8a1bbcfbdd95a16062e39f6030</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T092046" />
+	</game>
+	<game id="155679">
+		<path>./ScummVM/content/ports/ScummVM/Police Quest 4 - Open Season.rar</path>
+		<name>Daryl F. Gates Police Quest: Open Season</name>
+		<desc>Police Quest: Open Season is the fourth installment in the Police Quest series. It abandons the story arc of the previous three games, introducing a new setting and a new protagonist, homicide detective John Carey of the Los Angeles Police Department. Carey finds his best friend and ex-partner, Officer Bob Hickman, murdered in an alley in the Southern part of the city. An eight-year-old boy named Bobby Washington has been murdered as well. Carey begins an investigation that leads him deep into the criminal life of the city and a hunt for a maniacal murderer.The game utilizes Sierra's traditional icon-based interface for interaction with the environment and generally follows an adventure format. However, it focuses on realistic police procedures even more than the previous games in the series. Much of the gameplay is dedicated to examining crime scenes, questioning suspects, and conducting a by-the-book investigation. There is a considerable degree of freedom in the interaction, allowing the player to perform actions not connected to the main story, some of which will, however, lead to the protagonist's death. The game utilizes digitized photorealistic images for its visuals.</desc>
+		<image>./images/Police Quest 4 - Open Season-image.jpg</image>
+		<video>./videos/Police Quest 4 - Open Season-video.mp4</video>
+		<marquee>./images/Police Quest 4 - Open Season-marquee.png</marquee>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Sierra On-Line</developer>
+		<publisher>Sierra On-Line</publisher>
+		<genre>Adventure</genre>
+		<family>Police Quest</family>
+		<md5>ac0df545c66a71eb1f0f10cea9363351</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T092054" />
+	</game>
+	<game id="99839">
+		<path>./ScummVM/content/ports/ScummVM/Quest for Glory 1 - So You Want to be a Hero (VGA Remake).rar</path>
+		<name>Quest for Glory I : So You Want To Be A Hero (Hero's Quest)</name>
+		<desc>Spielburg Valley was once a prosperous and peaceful place: forests were kept safe by the Baron's guards and merchants sold their wares in the thriving town. Only the vile Ogress, Baba Yaga, threw a dark shadow over the valley. When Baron Stefan von Spielburg ordered Baba Yaga to leave, she cursed the graveyard, such that the dead could not rest at night. When the Baron then sent the guards after her, she cursed him: 'Upon Von Spielburg and all his clan, this Curse I now demand: What I will shall come full measure, so shall ye lose all that ye treasure'! In the following years, the baron's young daughter Elsa was kidnapped from the castle by large winged creature and his son Barnard never returned from a hunt in the forest. As the Baron continued to send his guards out to defeat the ogress, his army grew smaller and smaller with their skulls decorating the spiked fence around Baba Yaga's house. With the Baron's inability to continue protecting the valley, the Brigands saw an opportunity and, with their new leader, started terrorizing all people who would attempt traveling to the town. All kinds of Monsters also returned in large numbers to the valley. The Baron's only hope now is the prophecy: 'Come a hero from the East, Free the man from in the beast, Bring the child from out the band, Drive the Curser from the land.'</desc>
+		<image>./images/Quest for Glory 1 - So You Want to be a Hero (VGA Remake)-image.png</image>
+		<video>./videos/Quest for Glory 1 - So You Want to be a Hero (VGA Remake)-video.mp4</video>
+		<marquee>./images/Quest for Glory 1 - So You Want to be a Hero (VGA Remake)-marquee.png</marquee>
+		<thumbnail>./images/Quest for Glory 1 - So You Want to be a Hero (VGA Remake)-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Adventure / Point and Click</genre>
+		<family>Quest for Glory</family>
+		<players>1</players>
+		<md5>1fbca3e8005787fb927a540ad71854c4</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T092102" />
+	</game>
+	<game id="156837">
+		<path>./ScummVM/content/ports/ScummVM/Return to Ringworld.rar</path>
+		<name>Return to Ringworld</name>
+		<desc>Sequel to the previous Ringworld game based on Larry Niven's ''Known Space'' series of novels. Once again this game is a point and click adventure/puzzle solving game. 
+
+After saving the puppeteer race from extermination and uncovering some powerful ancient technology on the first game, Quinn, Seeker of Vengeance and Miranda Rees find themselves searches as fugitives by all three major species, so they go to Ringworld to hide. Once in Ringworld they'll try to uncover some evidence to clear their names, but they stumble across another universe-threatening plot. This time U.N. general Carson Teal is out to rule the universe by uncovering Ringworld's secrets, and you must stop him.
+
+This game is way, WAY bigger than it's predecessor, with hundreds of screens, mazes, etc. Plus you get to play as all three characters throughout the game, a la Day of the Tentacle.
+
+Available in both floppy and cd version with full speech</desc>
+		<image>./images/Return to Ringworld-image.png</image>
+		<marquee>./images/Return to Ringworld-marquee.png</marquee>
+		<thumbnail>./images/Return to Ringworld-thumb.png</thumbnail>
+		<developer>Tsunami Media</developer>
+		<publisher>Tsunami Media</publisher>
+		<genre>Adventure</genre>
+		<md5>6ddd66bc81878fb3af856a3bd5fc6678</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T092111" />
+	</game>
+	<game id="156838">
+		<path>./ScummVM/content/ports/ScummVM/Return to Zork.rar</path>
+		<name>Return to Zork</name>
+		<desc>You are standing behind the white house. There is something in the mailbox. A video message from a wizard informing you that you are the sweepstakes winner to the Valley of the Sparrows... right now, by magic flight. Upon arriving at this mysterious place however, not everything is as it should be. There's nobody to meet you and those who you do come across don't seem to have any knowledge about a sweepstakes. It looks like this is a private vacation and you'll need to find your own way through this land.
+
+Return to Zork is a 1st person adventure game using video, and the revival of the famous Zork series by Activation. Similar to Myst in interface, you must rotate your viewpoint to discover new areas and uncover items that can be used or picked up. Various characters will be met along the way and spoken to via a system of dialog choices.</desc>
+		<image>./images/Return to Zork-image.png</image>
+		<marquee>./images/Return to Zork-marquee.png</marquee>
+		<thumbnail>./images/Return to Zork-thumb.png</thumbnail>
+		<fanart>./images/Return to Zork-fanart.jpg</fanart>
+		<manual>./manuals/Return to Zork-manual.pdf</manual>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Adventure</genre>
+		<family>Zork</family>
+		<players>1</players>
+		<md5>98e10d29b2cc81a25b125489e394feeb</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T092121" />
+	</game>
+	<game id="156840">
+		<path>./ScummVM/content/ports/ScummVM/Rex Nebular and the Cosmic Gender Bender.rar</path>
+		<name>Rex Nebular and the Cosmic Gender Bender</name>
+		<desc>A priceless vase is lost on a distant planet that doesn't exist! An irate colonel wants the vase back! And only one man is exprienced enough. . .skilled enough. . .And foolish enough to retrieve it! Rex Nebular. . .interstellar adventurer and bungling bachelor extraordinaire!</desc>
+		<image>./images/Rex Nebular and the Cosmic Gender Bender-image.png</image>
+		<video>./videos/Rex Nebular and the Cosmic Gender Bender-video.mp4</video>
+		<marquee>./images/Rex Nebular and the Cosmic Gender Bender-marquee.png</marquee>
+		<thumbnail>./images/Rex Nebular and the Cosmic Gender Bender-thumb.png</thumbnail>
+		<manual>./manuals/Rex Nebular and the Cosmic Gender Bender-manual.pdf</manual>
+		<developer>MicroProse</developer>
+		<publisher>MicroProse</publisher>
+		<genre>Adventure / Point and Click</genre>
+		<md5>b6f489f2e1874e8036b8e672812bcf3b</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T092131" />
+	</game>
+	<game id="156843">
+		<path>./ScummVM/content/ports/ScummVM/Ringworld - Revenge of the Patriarch.rar</path>
+		<name>Ringworld: Revenge of the Patriarch</name>
+		<desc>A graphical adventure set in Larry Niven's ''Known Space'' universe. The centerpiece of the Known Space universe is the Ringworld, an artificially created planet that is actually an immense band orbiting a distant star (Halo borrows this idea for its setting). If you aren't familiar with Niven's series, go out and pick up any one of the dozens of Known Space books and you won't be far from having to track down all of them.
+
+In Revenge of the Patriarch, the player must travel to the Ringworld to uncover information which could prevent the alien Kzinti from starting another war with humanity. It follows the standard point and click formula for adventure games.</desc>
+		<image>./images/Ringworld - Revenge of the Patriarch-image.png</image>
+		<marquee>./images/Ringworld - Revenge of the Patriarch-marquee.png</marquee>
+		<thumbnail>./images/Ringworld - Revenge of the Patriarch-thumb.png</thumbnail>
+		<developer>Tsunami Media</developer>
+		<publisher>Tsunami Media</publisher>
+		<genre>Adventure</genre>
+		<md5>cbb32ee2804bd840ad285fe490de880c</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T092138" />
+	</game>
+	<game id="155491">
+		<path>./ScummVM/content/ports/ScummVM/Riven.rar</path>
+		<name>Riven: The Sequel to Myst</name>
+		<desc>After the Stranger has rescued Atrus, the master of "linking books", from the imprisonment caused by his sons, a new task awaits the hero. Atrus's wife, Catherine, has been taken by Gehn, his own father. Gehn has appointed himself as the one to rule the Age of Riven, and has driven his world to collapse. Now he holds Catherine hostage on Riven, hoping that his son will restore the book link to the Age and free him from there. The Stranger is requested by Atrus to travel to Riven and find a way to rescue Catherine.Riven is a sequel to  Myst, and is very similar to its predecessor in gameplay style, controls, and visual presentation. The game world is presented as a series of computer-generated still screens; the player explores it in a point-and-click fashion. Interaction with the environment is possible only when said environment is highlighted as a "hot spot", and is also performed by simple clicking. Like its predecessor, Riven is heavy on puzzles, which rarely include using inventory items, but usually involve understanding and manipulating the complex environments and machinery of the game world.</desc>
+		<image>./images/Riven-image.png</image>
+		<video>./videos/Riven-video.mp4</video>
+		<marquee>./images/Riven-marquee.png</marquee>
+		<thumbnail>./images/Riven-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Cyan Productions</developer>
+		<publisher>Red Orb Entertainment</publisher>
+		<genre>Adventure / Point and Click</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T092147" />
+	</game>
+	<game id="156234">
+		<path>./ScummVM/content/ports/ScummVM/Sam and Max Hit The Road/Sam and Max Hit The Road.7z</path>
+		<name>Sam &amp; Max Hit the Road</name>
+		<desc>Sam &amp; Max, Canine Shamus and hyperkinetic rabbity thing, are the freelance police. Private investigators who receive missions from and are answerable to ''The Commissioner''. Upon the completion of a rescue mission from the clutches of a mad scientist, Sam &amp; Max drive through the opening credits and immediately receive a new assignment: Bruno the Bigfoot is missing from the circus and seems to have kidnapped Trixie, the Giraffe-Neck Girl. Sam &amp; Max are on the case and will follow the mystery all across the United States, even if it takes them to such locations as The World's Largest Ball of Twine and The Mount Rushmore Dinosaur Tarpit.
+
+Sam &amp; Max Hit the Road is a side-scrolling point-and-click adventure game. The player directly controls Sam, though Max will usually follow closely behind and is even available to use directly as an item in the inventory. Sam is able to be directed anywhere on the screen, Look at objects, try to use objects, try to speak to objects and use items from his inventory on objects. Sam &amp; Max must unravel the mystery piece by piece in order to unlock new locations on their map. They can travel between these locations at any time by using the car keys on their police car. During conversation, the player is able to make Sam ask questions of persons, speak non-sequitur exclamations, or ask about specific objects, people, and locations (which are also unlocked as clues are discovered).
+
+The game also features a variety of mini-games, which can be accessed at any time once found. These include Highway-Sufring: a game where the player must jump over exit signs on the interstate, Car Bomb: A variant on Battleship, A Sam &amp; Max coloring book and a Sam &amp; Max dress-up game and Wak-A-Rat.</desc>
+		<image>./images/Sam and Max Hit The Road-image.png</image>
+		<marquee>./images/Sam and Max Hit The Road-marquee.png</marquee>
+		<thumbnail>./images/Sam and Max Hit The Road-thumb.png</thumbnail>
+		<manual>./manuals/Sam and Max Hit The Road-manual.pdf</manual>
+		<developer>LucasArts</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Adventure</genre>
+		<family>Sam &amp; Max</family>
+		<md5>8195da74d9d8797680df4dcf1fcd1f39</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T092202" />
+	</game>
+	<game>
+		<path>./ScummVM/content/ports/ScummVM/Sfinx v1.1.rar</path>
+		<name>Sfinx v1.1</name>
+		<md5>9501e96aa16f4e3490d9fbc18830b77d</md5>
+		<scrap name="ScreenScraper" date="20231102T092207" />
+	</game>
+	<game id="155492">
+		<path>./ScummVM/content/ports/ScummVM/Shivers.rar</path>
+		<name>Shivers</name>
+		<desc>In Shivers, an adventure puzzle game designed by Marcia Bales, the player takes a dare from friends to spend a night in professor Windlenots Museum of the Strange and Unusual. The museum had yet to be opened and has been abandoned and forgotten ever since the professor has mysteriously disappeared 15 years ago, along with 2 students who are suspected to have wandered inside the museum. A collection of ancient South American vessels, believed to contain evil spirits, are removed from their display, opened and scattered all around the museum, with the spirits lurking in every corner. It is your task to find all the matching vessel parts, and capture them again before they can entirely drain your life essence. However, the task becomes harder as the entire museum is covered with puzzles which need to be solved in order to proceed.</desc>
+		<image>./images/Shivers-image.png</image>
+		<video>./videos/Shivers-video.mp4</video>
+		<marquee>./images/Shivers-marquee.png</marquee>
+		<thumbnail>./images/Shivers-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Adventure</genre>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T092247" />
+	</game>
+	<game id="156287">
+		<path>./ScummVM/content/ports/ScummVM/Soltys.rar</path>
+		<name>Soltys</name>
+		<desc>(In)famous for jokes about it, the Polish city of Wachock is the place where the story of the Polish adventure game Soltys takes place.
+
+You play the head of the village of Wachock and your aim is to find the missing husband of your daughter (who apparently isn't very attractive if you know what I mean). Scared of his future, Leon decides to run away from the wedding and you are responsible for bringing this poor guy back.</desc>
+		<image>./images/Soltys-image.png</image>
+		<video>./videos/Soltys-video.mp4</video>
+		<marquee>./images/Soltys-marquee.png</marquee>
+		<thumbnail>./images/Soltys-thumb.png</thumbnail>
+		<rating>0.55</rating>
+		<releasedate>19950523T000000</releasedate>
+		<developer>L.K. Avalon</developer>
+		<publisher>L.K. Avalon</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<md5>aeda939c333b5c9fe98bd06581c10732</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T092300" />
+	</game>
+	<game>
+		<path>./ScummVM/content/ports/ScummVM/Space Quest 1 - The Sarien Encounter VGA Remake.rar</path>
+		<name>Space Quest 1 - The Sarien Encounter VGA Remake</name>
+		<md5>fd05dd054b7c8424797d766f78ce1d19</md5>
+		<scrap name="ScreenScraper" date="20231102T092303" />
+	</game>
+	<game>
+		<path>./ScummVM/content/ports/ScummVM/Space Quest 1 - The Sarien Encounter.rar</path>
+		<name>Space Quest 1 - The Sarien Encounter</name>
+		<md5>323784fab7ffe1db83d6b68e84c06632</md5>
+		<scrap name="ScreenScraper" date="20231102T092306" />
+	</game>
+	<game id="156296">
+		<path>./ScummVM/content/ports/ScummVM/Space Quest 2 - Vohauls Revenge.rar</path>
+		<name>Space Quest II: Vohaul's Revenge</name>
+		<desc>So you thought you'd seen the last of Sludge Vohaul? Think again! Like every evil scientist is supposed to, Vohaul returns with an even meaner scheme. This time he intends to infest the planet Xenon with thousands of genetically engineered door-to-door life insurance salesmen. The last thing he wants is you, ace-janitor Roger Wilco, messing things up and so you are captured and brought to the planet Labion to spend the rest of your days working in Vohaul's mines. Fortunately the shuttle that takes you to the mines crashes and you're the only survivor.
+
+Can you survive the dangers of the jungle planet Labion?
+Can you stop the evil Sludge Vohaul?
+
+Space Quest 2: Vohaul's Revenge is the second game in Sierra's humorous Space Quest series of adventure games. It's a classic adventure game with a text-parser: you move Roger Wilco around with arrow keys, and interact with the world by typing commands. As in every Space Quest game, there are lots of ways to die.</desc>
+		<image>./images/Space Quest 2 - Vohauls Revenge-image.png</image>
+		<video>./videos/Space Quest 2 - Vohauls Revenge-video.mp4</video>
+		<marquee>./images/Space Quest 2 - Vohauls Revenge-marquee.png</marquee>
+		<thumbnail>./images/Space Quest 2 - Vohauls Revenge-thumb.png</thumbnail>
+		<fanart>./images/Space Quest 2 - Vohauls Revenge-fanart.jpg</fanart>
+		<manual>./manuals/Space Quest 2 - Vohauls Revenge-manual.pdf</manual>
+		<releasedate>19871114T000000</releasedate>
+		<developer>Sierra On-Line</developer>
+		<publisher>Sierra On-Line</publisher>
+		<genre>Adventure</genre>
+		<family>Space Quest</family>
+		<players>1</players>
+		<md5>e56b620cfbfbc8377e74ac50a5eb7b4e</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T092319" />
+	</game>
+	<game id="158684">
+		<path>./ScummVM/content/ports/ScummVM/Space Quest 4 - Roger Wilco and the Time Rippers.rar</path>
+		<name>Space Quest IV: Roger Wilco and the Time Rippers</name>
+		<desc>Following his humorous adventures in previous game, Roger Wilco is relaxing at his favorite pub somewhere in time and space when heavily armed soldiers enter the room. Carrying a parting message from Roger's old nemesis, Sludge Vohaul, they plan to get rid of the janitorial hero, execution style. That is, until a man with an over-sized hair dryer helps Roger escape through a time rip into the future. Now Roger Wilco has woken up on his home planet, some time in a meta-fictional Space Quest XII. It is a grim, dystopian future: the series has gone to ruin without its hero, and Vohaul rules supreme. Roger must find a way to avoid Vohaul's henchmen, fulfill his destiny, and learn about a few surprises that await him in his own future.Space Quest IV is the first in the Space Quest series to feature Sierra's icon-based SCI interface and 256-color graphics. The command set includes icons for walking, looking, using or taking, talking, smelling, tasting, as well as inventory access. Roger Wilco is shown on the screen from the exterior in multiple viewpoints. Like in the previous games, inventory-based puzzle-solving co-exists with timed tasks and various hazards that will kill Roger if the player is not careful.</desc>
+		<image>./images/Space Quest 4 - Roger Wilco and the Time Rippers-image.png</image>
+		<video>./videos/Space Quest 4 - Roger Wilco and the Time Rippers-video.mp4</video>
+		<marquee>./images/Space Quest 4 - Roger Wilco and the Time Rippers-marquee.png</marquee>
+		<thumbnail>./images/Space Quest 4 - Roger Wilco and the Time Rippers-thumb.png</thumbnail>
+		<fanart>./images/Space Quest 4 - Roger Wilco and the Time Rippers-fanart.jpg</fanart>
+		<manual>./manuals/Space Quest 4 - Roger Wilco and the Time Rippers-manual.pdf</manual>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Sierra On-Line</developer>
+		<publisher>Sierra On-Line</publisher>
+		<genre>Adventure</genre>
+		<family>Space Quest</family>
+		<players>1</players>
+		<md5>50b35d1a2465858c2422e4d77045912f</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T092330" />
+	</game>
+	<game id="156299">
+		<path>./ScummVM/content/ports/ScummVM/Space Quest 5 - The Next Mutation.rar</path>
+		<name>Space Quest V: The Next Mutation</name>
+		<desc>After travelling back and forth through time on Space Quest 4, Roger Wilco is back in the Starfleet Acadamy, serving as both a cadet and a janitor (so what else is new?). Cheating his way through the Starfleet Aptitude Test, Roger is finally given the rank of captain, his own ship (a garbage scow) and a mission: to explore strange new worlds (which no man in his right mind would explore), to seek out new life and new civilizations (that grew out of the massive amounts of trash Roger will collect on his way), to boldly go where no man has gone before (fortunately for him)!
+Step by step Roger will have to unveil a galaxy-wide biohazardous material dumping scheme, solve the mystery of the disappearance of a fellow Starfleet captain and his ship, and confront an agent of an old nemesis.
+
+Space Quest V: The Next Mutation is an adventure games in Sierra's Space Quest series, and just like its brethren, it's characterized by lots of humor (and lots of opportunities to die horribly). SQV is entirely mouse-controlled: you interact with the world by clicking on locations, people and objects on the screen, and you can cycle between various actions (Walk to, Look at, Interact with, Talk to, Give Order to - your garbage scow has a crew over which you preside!) by clicking the right mouse button or by using the icon bar. The icon bar also contains icons that allow you to access your inventory, quit the game or change the settings.</desc>
+		<image>./images/Space Quest 5 - The Next Mutation-image.png</image>
+		<video>./videos/Space Quest 5 - The Next Mutation-video.mp4</video>
+		<marquee>./images/Space Quest 5 - The Next Mutation-marquee.png</marquee>
+		<thumbnail>./images/Space Quest 5 - The Next Mutation-thumb.png</thumbnail>
+		<fanart>./images/Space Quest 5 - The Next Mutation-fanart.jpg</fanart>
+		<manual>./manuals/Space Quest 5 - The Next Mutation-manual.pdf</manual>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Dynamix</developer>
+		<publisher>Sierra On-Line</publisher>
+		<genre>Adventure</genre>
+		<family>Space Quest</family>
+		<players>1</players>
+		<md5>b00008dd45894d73d4b9fb2bf6d35253</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T092345" />
+	</game>
+	<game>
+		<path>./ScummVM/content/ports/ScummVM/Space Quest 6 - The Spinal Frontier.rar</path>
+		<name>Space Quest 6 - The Spinal Frontier</name>
+		<scrap name="ScreenScraper" date="20231102T092347" />
+	</game>
+	<game id="156649">
+		<path>./ScummVM/content/ports/ScummVM/TeenAgent.rar</path>
+		<name>Teenagent</name>
+		<desc>You take the role of Mark Hopper, an ordinary teenager who gets hired by the RGB intelligence (he was selected by a fortune teller) to solve the mystery of gold disappearing from the Mega Bank. But first you're sent to the RGB training camp where you'll have to pass the three trials!
+
+Teenagent is a humorous point-and-click adventure, originally available as shareware, but the DOS version was later re-released as freeware. You control Mark Hopper with a mouse - click on where you want him to go, left-click on objects and people to look at them, and right-click on them to interact with them. By moving the cursor to the top of the screen, you bring up your inventory.</desc>
+		<image>./images/TeenAgent-image.png</image>
+		<marquee>./images/TeenAgent-marquee.png</marquee>
+		<thumbnail>./images/TeenAgent-thumb.png</thumbnail>
+		<developer>Metropolis</developer>
+		<publisher>Union Logic Software Publishing, Inc.</publisher>
+		<genre>Adventure / Point and Click</genre>
+		<md5>b9bb2c05e7e97a2db796dc22f98f4035</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T092353" />
+	</game>
+	<game id="156352">
+		<path>./ScummVM/content/ports/ScummVM/The 7th Guest.rar</path>
+		<name>The 7th Guest</name>
+		<desc>The 7th Guest is a puzzle-adventure game which takes place inside an abandoned mansion. Venture into the 22 rooms of the spooky mansion, solve over 20 mind-bending puzzles to unravel a tale of revenge and horror that took place in the 1930s.
+
+The owner of the mansion was Henry Stauf, a famous maker of children's toys. Once a homeless drifter and thief, influenced by a vision in a dream, Henry invented a wondrous doll, so incredibly life-like that it sold like wildfire. Stauf's toys became popular overnight bringing fame and fortune and changing his rags to riches. But things took a tragic turn when owners of the doll became infected with a fierce and deadly virus. None of those children recovered.
+
+After this turn of events Stauf secluded himself inside his estate, stopped making his toys and never came into contact with the outside world for a long time. Something very strange happened when six people receive an invitation to a party at the mansion. By solving the riddles inside Stauf's ''fun house'', you'll delve into the past to learn what happened to them, and the mysterious 7th guest, on that fateful night.
+
+The game is played in first person perspective with a point-and-click interface featuring horror-themed animated cursors (skeletons, bulging-eye skulls etc.). It is one of the first games to be released on the then-new CD-Rom media. The graphics are fully rendered in SVGA, and real actors and actresses bring the story to life during numerous full-motion video cut scenes. The visuals are accompanied by an original, orchestrated musical score.
+
+To finish the game, you must solve the puzzles in Stauf's manor; each solved puzzle will unlock new rooms or new movie sequences to watch. The puzzles are quite varied; there's the classic ''eight queens puzzle'', another puzzle where you need to compose a sentence by rearranging letters, and others. If you get stuck, you can visit the library; a book within will give you hints on the puzzle. If the hints aren't enough, the puzzle will solve itself automatically once you consult the book enough times. 
+
+Some later, limited releases of the game came with a separate video that included a ''behind the scenes'' look at the making of the game and interviews with the developers.</desc>
+		<image>./images/The 7th Guest-image.png</image>
+		<video>./videos/The 7th Guest-video.mp4</video>
+		<marquee>./images/The 7th Guest-marquee.png</marquee>
+		<thumbnail>./images/The 7th Guest-thumb.png</thumbnail>
+		<manual>./manuals/The 7th Guest-manual.pdf</manual>
+		<releasedate>19930401T000000</releasedate>
+		<developer>Trilobyte, Inc.</developer>
+		<publisher>Virgin</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T092404" />
+	</game>
+	<game>
+		<path>./ScummVM/content/ports/ScummVM/The Bizarre Adventures of Woodruff and the Schnibble of Azimuth.rar</path>
+		<name>The Bizarre Adventures of Woodruff and the Schnibble of Azimuth</name>
+		<scrap name="ScreenScraper" date="20231102T092405" />
+	</game>
+	<game id="99907">
+		<path>./ScummVM/content/ports/ScummVM/The Curse Of Monkey Island.rar</path>
+		<name>Curse Of Monkey Island, The</name>
+		<desc>The Curse Of Monkey Island is the third game in the Monkey Island series. In this game, Guybrush Threepwood, Mighty Pirate has proposed to his girlfriend Elaine, with a cursed diamond ring from the evil pirate LeChuck's ship and she has turned into a gold statue. Now, Guybrush has to find someway to turn Elaine back into a human, where it all leads up to another confrontation with LeChuck.</desc>
+		<image>./images/The Curse Of Monkey Island-image.png</image>
+		<video>./videos/The Curse Of Monkey Island-video.mp4</video>
+		<marquee>./images/The Curse Of Monkey Island-marquee.png</marquee>
+		<thumbnail>./images/The Curse Of Monkey Island-thumb.png</thumbnail>
+		<fanart>./images/The Curse Of Monkey Island-fanart.jpg</fanart>
+		<manual>./manuals/The Curse Of Monkey Island-manual.pdf</manual>
+		<rating>0.85</rating>
+		<releasedate>19971031T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Adventure / Point and Click</genre>
+		<family>Monkey Island</family>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T092424" />
+	</game>
+	<game id="156384">
+		<path>./ScummVM/content/ports/ScummVM/The Dig.rar</path>
+		<name>The Dig</name>
+		<desc>A group of scientists discovers an asteroid that is on its way to a collision with the Earth. Is there any way to prevent the disaster? Boston Low, a NASA veteran, is sent to command a space expedition on the asteroid. Accompanied by the journalist Maggie Robbins and the archaeologist Brink, Boston investigates the asteroid and finds a strange structure that undoubtedly belongs to an alien civilization. During the course of investigations, the team finds itself on a seemingly deserted planet. They have no knowledge of the planet and no possibility of going back. Will they ever discover the secret of this strange world and find a way to get home?
+
+''Dig'' is a point-and-click adventure game with a simple one-cursor interface and more complex puzzles than usually encountered in LucasArts' adventures. Despite having a serious story, the game follows in many ways the tradition of LucasArts' humorous adventures.</desc>
+		<image>./images/The Dig-image.png</image>
+		<marquee>./images/The Dig-marquee.png</marquee>
+		<thumbnail>./images/The Dig-thumb.png</thumbnail>
+		<fanart>./images/The Dig-fanart.jpg</fanart>
+		<manual>./manuals/The Dig-manual.pdf</manual>
+		<developer>LucasArts</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Adventure</genre>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T092437" />
+	</game>
+	<game>
+		<path>./ScummVM/content/ports/ScummVM/The Legend of Kyrandia 1.rar</path>
+		<name>The Legend of Kyrandia 1</name>
+		<md5>9b78f3e5e63ab9ba33a8af3d2fa3d4a7</md5>
+		<scrap name="ScreenScraper" date="20231102T092440" />
+	</game>
+	<game>
+		<path>./ScummVM/content/ports/ScummVM/The Legend of Kyrandia 2 The Hand of Fate.rar</path>
+		<name>The Legend of Kyrandia 2 The Hand of Fate</name>
+		<md5>af6afa0f098b4b3b4ee78038a7e14650</md5>
+		<scrap name="ScreenScraper" date="20231102T092442" />
+	</game>
+	<game>
+		<path>./ScummVM/content/ports/ScummVM/The Legend of Kyrandia 3 Malcolms Revenge.rar</path>
+		<name>The Legend of Kyrandia 3 Malcolms Revenge</name>
+		<scrap name="ScreenScraper" date="20231102T092443" />
+	</game>
+	<game id="156423">
+		<path>./ScummVM/content/ports/ScummVM/The Manhole.rar</path>
+		<name>The Manhole</name>
+		<desc>In the game you are a child jumped in the magical world filled with characters of Alice in Wonderland, fairy tales and Discovery channel. Clicking your mouse on some object on the screen make it do an action, which can lead you to another screen. Walking around absolutely free world, you can listen and interact with highly educative animals such as Mr. Rabbit, Mr. Dragon, etc.</desc>
+		<image>./images/The Manhole-image.png</image>
+		<marquee>./images/The Manhole-marquee.png</marquee>
+		<thumbnail>./images/The Manhole-thumb.png</thumbnail>
+		<developer>Cyan Worlds, Inc.</developer>
+		<publisher>Activision</publisher>
+		<genre>Adventure</genre>
+		<md5>6fdfd2e32282306645dddcf68a3329c9</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T092450" />
+	</game>
+	<game id="100627">
+		<path>./ScummVM/content/ports/ScummVM/The Neverhood.rar</path>
+		<name>The Neverhood</name>
+		<desc>You are Klaymen. Klaymen wakes up in a building in the strangely empty world of Neverhood. Initially, he does not know where he is or what he has to do, but as he explores the area, he finds mysterious disks. Each disk contains a fragment of a recording; gradually, the backstory is revealed as Klaymen finds more and more disks. It would spoil too much to reveal the exact plot, as finding it out is part of the game. The Neverhood is a point-and-click adventure game, notable for its claymation graphics. It uses a simple interface: you move and interact with the world by clicking on the screen. There is no inventory screen, though Klaymen can find a few items he can pick up. There are few inventory-based puzzles; most of the puzzles involve solving riddles and interacting with the environment. Generally, the game is seen from a 3rd person perspective, but when moving between locales, you see the world through Klaymen's eyes (but you have a limited freedom of movement).</desc>
+		<image>./images/The Neverhood-image.png</image>
+		<video>./videos/The Neverhood-video.mp4</video>
+		<marquee>./images/The Neverhood-marquee.png</marquee>
+		<thumbnail>./images/The Neverhood-thumb.png</thumbnail>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Neverhood, Inc., The</developer>
+		<publisher>DreamWorks</publisher>
+		<genre>Adventure / Point and Click</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T092458" />
+	</game>
+	<game id="156250">
+		<path>./ScummVM/content/ports/ScummVM/The Secret of Monkey Island.rar</path>
+		<name>The Secret of Monkey Island</name>
+		<desc>Deep in the Caribbean lies Melee Island, ruled by the beautiful governor Elaine Marley. The cruel pirate LeChuck is deeply in love with her - so deeply that he refuses to accept his own death! As a ghost, he dwells with his undead crew somewhere near the mysterious Monkey Island. You are Guybrush Threepwood, a young man whose only wish is to become a real pirate. At the Scumm Bar you meet three pirates who tell you'll have to complete three difficult tasks in order to be worthy of this title. Could Guybrush ever suspect that while trying to complete those tasks, he will encounter the governor Elaine Marley, fall in love with her, and face the anger of the dreadful ghost pirate LeChuck?! This is when Guybrush' adventure truly begins!
+
+The Secret of Monkey Island is an adventure game that utilizes the command verb-based SCUMM interface first introduced in Maniac Mansion: you construct commands for Guybrush by clicking on the appropriate verb, and then clicking on the inventory item or an object in the room you want to interact with. It is the first LucasArts' adventure game in which it is impossible to get irrevocably stuck or to die. The branching dialogue system, where you choose one of the available responses while talking to people, allows you to talk to characters in different ways without fearing a wrong choice. There are plenty of inventory-based puzzles to solve, and even ''insult swordfighting'' to participate in, where Guybrush has to prove his wit is as sharp as his sword!</desc>
+		<image>./images/The Secret of Monkey Island-image.png</image>
+		<video>./videos/The Secret of Monkey Island-video.mp4</video>
+		<marquee>./images/The Secret of Monkey Island-marquee.png</marquee>
+		<thumbnail>./images/The Secret of Monkey Island-thumb.png</thumbnail>
+		<fanart>./images/The Secret of Monkey Island-fanart.jpg</fanart>
+		<manual>./manuals/The Secret of Monkey Island-manual.pdf</manual>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Lucasfilm Games</developer>
+		<publisher>Lucasfilm Games</publisher>
+		<genre>Adventure / Point and Click</genre>
+		<family>Monkey Island</family>
+		<players>1</players>
+		<md5>4059ab1fef689e7986d3b78a93409ac6</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T092510" />
+	</game>
+	<game id="156667">
+		<path>./ScummVM/content/ports/ScummVM/Torins Passage.rar</path>
+		<name>Torin's Passage</name>
+		<desc>Torin is a young boy who lives in a little country house on a planet called Strata with his parents and with his purple cat-like friend Boogle. One day he returns home, only to find out his parents were imprisoned in a magical spell. Apparently, the spell was cast by a sorceress named Lycentia. He must now travel to distant lands to find a way to remove the spell and confront the sorceress. What he doesn't know is that this journey will also help him to discover his true origins and his true purpose in life...Created by Al Lowe of Leisure Suit Larry fame, Torin's Passage is a fairy tale-like humorous adventure with cartoon-style graphics and animations. Torin interacts with characters and objects in a point-and-click fashion, and can also use Boogle's special shape-shifting abilities. During their journey, Boogle will learn how to turn into a variety of objects, which is essential for solving many of the game's puzzles. The game also has many traditional inventory-based tasks as well as other types of puzzles. To facilitate the puzzle-solving, the game has a built-in hint system; using the hints will deduce points from the player's score.</desc>
+		<image>./images/Torins Passage-image.png</image>
+		<thumbnail>./images/Torins Passage-thumb.png</thumbnail>
+		<manual>./manuals/Torins Passage-manual.pdf</manual>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T092517" />
+	</game>
+	<game id="156669">
+		<path>./ScummVM/content/ports/ScummVM/Touche - The Adventures of the Fifth Musketeer.rar</path>
+		<name>Touche: The Adventures of the Fifth Musketeer</name>
+		<desc>Geoffroi Le Brun, ensign in His Majesty?s musketeers, arrives in the middle of the night in 16th century Rouen, France, to start his new posting at the musketeer headquarters. At the moment he arrives, the unfortunate Comte d?Itee, William de Peuple, is attacked by bandits and his precious will is stolen. Geoffroi offers him, just before he dies, his assistance to find his will.
+Of course, getting it back will not be easy, and he must travel back and forth across France to accomplish his quest, visiting the cities of Amiens, St Quentin, Le Mans, Paris, and Le Havre. However, he is assisted by a clever manservant, called Henri, who will be a great help, without any doubt. With some luck, he will hunt the murderer(s) down and find the will. And who knows, maybe he will meet a beautiful lady or find a fortune on the way. 
+
+Touch? is a humorous, inventory-based point and click adventure game. By right-clicking on a hotspot a context-sensitive action interface pops up, showing the relevant actions. The game is a full talkie with captions, music and sound effects. It features a progressive traveling map, which allows to visit new locations after having solved various puzzles.</desc>
+		<image>./images/Touche - The Adventures of the Fifth Musketeer-image.png</image>
+		<video>./videos/Touche - The Adventures of the Fifth Musketeer-video.mp4</video>
+		<marquee>./images/Touche - The Adventures of the Fifth Musketeer-marquee.png</marquee>
+		<thumbnail>./images/Touche - The Adventures of the Fifth Musketeer-thumb.png</thumbnail>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Clipper Software</developer>
+		<publisher>U.S. Gold</publisher>
+		<genre>Adventure</genre>
+		<md5>01a2c4d5ab3046d7d1c436477b8c2c77</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T092530" />
+	</game>
+	<game id="156682">
+		<path>./ScummVM/content/ports/ScummVM/Trolls Tale.rar</path>
+		<name>Troll's Tale</name>
+		<desc>An evil troll has hidden all of the treasures of Mark, The Dwarf King. There are 15 treasures hidden throughout the land that you need to help locate. If you locate a treasure, but the troll is on the screen at the time, you will need to come back and find a way to make him leave. Troll's Tale is an adventure game which requires minimal typing, using the spacebar to select from several possible actions which are listed on the screen and pressing enter to perform the selected action.</desc>
+		<image>./images/Trolls Tale-image.png</image>
+		<marquee>./images/Trolls Tale-marquee.png</marquee>
+		<thumbnail>./images/Trolls Tale-thumb.png</thumbnail>
+		<rating>0.6</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Sierra On-Line</developer>
+		<publisher>Sierra On-Line</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<md5>fcd62bb78d1c5f1f561cb3a57c6f1013</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T092541" />
+	</game>
+	<game>
+		<path>./ScummVM/content/ports/ScummVM/UFOs.rar</path>
+		<name>UFOs</name>
+		<scrap name="ScreenScraper" date="20231102T092543" />
+	</game>
+	<game id="159445">
+		<path>./ScummVM/content/ports/ScummVM/Urban Runner.rar</path>
+		<name>Urban Runner</name>
+		<desc>The player is Max, an American journalist in Paris. There seems to be a story at hand, about a big drug dealer who is covered by some influential person in politics. To get the dealer talking, the player offers him a photography in exchange for some information. But when the player gets there, the druglord is dead and everyones on their back - mistaking them for the killer.The game itself is a movie adventure on four CD-ROMs, dividing gameplay in Clue- and Action-turns. The player can control the game completely via mouse.</desc>
+		<image>./images/Urban Runner-image.png</image>
+		<thumbnail>./images/Urban Runner-thumb.png</thumbnail>
+		<manual>./manuals/Urban Runner-manual.pdf</manual>
+		<developer>Coktel Vision</developer>
+		<publisher>Sierra On-Line</publisher>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T092550" />
+	</game>
+	<game id="157015">
+		<path>./ScummVM/content/ports/ScummVM/Voyeur.rar</path>
+		<name>Voyeur</name>
+		<desc>Voyeur is one of the more ambitious attempts to take advantage of the relatively new CD-ROM technology's immense (at the time) storage capacity. Sporting literally hours of digital movies, Voyeur is unique in premise and style and aims to be the most flexible interactive movie in history.
+
+In Voyeur you play the role of a voyeur, peering into the Hawke manor in an attempt to expose a crime that may as well undermine the security of the entire nation.</desc>
+		<image>./images/Voyeur-image.png</image>
+		<marquee>./images/Voyeur-marquee.png</marquee>
+		<thumbnail>./images/Voyeur-thumb.png</thumbnail>
+		<developer>Entertainment Software Partners</developer>
+		<publisher>Interplay</publisher>
+		<genre>Adventure</genre>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T092557" />
+	</game>
+	<game id="156079">
+		<path>./ScummVM/content/ports/ScummVM/Waxworks.rar</path>
+		<name>WaxWorks</name>
+		<desc>As a child, you were never taught of your family's dark secret - a whole history of 'evil twins' doing Satan's work on earth, and 'good twins' attempting to put this right. Your uncle informs you of this shortly before his death, and after travelling to his castle you find that you must travel through time to correct these wrongdoings.
+
+Through a range of murals at your uncle's house, various past scenes must be entered, with more becoming available as you complete them. In each you must find and kill your demented relative in time. The game's controls are point and click, with the interface allowing you to examine and collect objects, select a weapon, and attack potential foes by striking at a particular part of their bo</desc>
+		<image>./images/Waxworks-image.png</image>
+		<marquee>./images/Waxworks-marquee.png</marquee>
+		<thumbnail>./images/Waxworks-thumb.png</thumbnail>
+		<fanart>./images/Waxworks-fanart.jpg</fanart>
+		<rating>0.85</rating>
+		<releasedate>19920102T000000</releasedate>
+		<developer>Horror Soft</developer>
+		<publisher>Accolade</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<md5>7164dc50793b47df40c49482513c562d</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T092604" />
+	</game>
+	<game id="156081">
+		<path>./ScummVM/content/ports/ScummVM/Ween The Prophecy.rar</path>
+		<name>The Prophecy</name>
+		<desc>This point and click adventure takes a fantasy setting, in which you play a Wizard deemed to be ?good? taking on a less good one. To fulfill the prophecy you have been given in a limited time of 3 days, he must go on 3 quests, solving various puzzles along the way to be rewarded 3 grains of sand, that he must place in a hourglass to kill an evil wizard. Objects around the levels are always detected by the cursor, making each screen and the challenges within quick to comprehend. Generally you have to solve each puzzle in sequence.
+
+Like the company's Gobliins Series, the interface is simplified to allow for fast progress, and ensure that the biggest challenge is solving the puzzles, not working out which object-verb combination the programmers had in mind, amidst a wall of ?I don?t understand? type messages. The game experiments with the toning of the graphics, using a faux-sepia style outside and some bright colours inside, which changes the atmosphere somewha</desc>
+		<image>./images/Ween The Prophecy-image.png</image>
+		<video>./videos/Ween The Prophecy-video.mp4</video>
+		<marquee>./images/Ween The Prophecy-marquee.png</marquee>
+		<thumbnail>./images/Ween The Prophecy-thumb.png</thumbnail>
+		<fanart>./images/Ween The Prophecy-fanart.jpg</fanart>
+		<manual>./manuals/Ween The Prophecy-manual.pdf</manual>
+		<developer>Coktel Vision</developer>
+		<publisher>Sierra On-Line</publisher>
+		<genre>Adventure / Graphics</genre>
+		<md5>487b5032c658003050c235ce42b55e28</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T092616" />
+	</game>
+	<game id="156099">
+		<path>./ScummVM/content/ports/ScummVM/Winnie the Pooh in the Hundred Acre Wood.rar</path>
+		<name>Winnie the Pooh in the Hundred Acre Wood</name>
+		<desc>arly this morning, a strong wind went through the hundred acre wood and picked up many objects and scattered them about. It is your job to locate all the objects, determine who the proper owners are, and return them. You had better hurry though, before the wind returns again! Along the way you'll meet all the familiar Winnie The Pooh characters including Eeyore, Owl, Tigger, and Piglet.</desc>
+		<image>./images/Winnie the Pooh in the Hundred Acre Wood-image.png</image>
+		<marquee>./images/Winnie the Pooh in the Hundred Acre Wood-marquee.png</marquee>
+		<thumbnail>./images/Winnie the Pooh in the Hundred Acre Wood-thumb.png</thumbnail>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Sierra On-Line</developer>
+		<publisher>Sierra On-Line</publisher>
+		<genre>Adventure</genre>
+		<family>Disney</family>
+		<players>1</players>
+		<md5>d4610faf001db709b0b5e1e38a61d98f</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T092623" />
+	</game>
+	<game id="156847">
+		<path>./ScummVM/content/ports/ScummVM/Zak McKracken and the Alien Mindbenders.rar</path>
+		<name>Zak McKracken and the Alien Mindbenders</name>
+		<desc>Zak McKracken is a tabloid reporter (and not a very good one at that). Based upon a psychadelic dream, Zak one day realizes that something is wrong -- Space Aliens are dumbifying the general public through the telephone system. Zak must stop this, but he can't do it alone. After finding a magic crystal (or some sort of crystal), Zak manages to get the help of Anthropologist, Annie, and her friends, Melissa and Leslie. Between the four characters (all of which you control), you can destroy the dumbifying devices and save the earth. Not too bad for a tabloid reporter.</desc>
+		<image>./images/Zak McKracken and the Alien Mindbenders-image.png</image>
+		<video>./videos/Zak McKracken and the Alien Mindbenders-video.mp4</video>
+		<marquee>./images/Zak McKracken and the Alien Mindbenders-marquee.png</marquee>
+		<thumbnail>./images/Zak McKracken and the Alien Mindbenders-thumb.png</thumbnail>
+		<manual>./manuals/Zak McKracken and the Alien Mindbenders-manual.pdf</manual>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Lucasfilm Games</developer>
+		<publisher>Lucasfilm Games</publisher>
+		<genre>Adventure / Point and Click</genre>
+		<players>1</players>
+		<md5>1df2d8f89e54249dc4b0d59005420c12</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T092634" />
+	</game>
+	<game id="100635">
+		<path>./ScummVM/content/ports/ScummVM/Zork - Grand Inquisitor.rar</path>
+		<name>Zork: Grand Inquisitor</name>
+		<desc>Magic is banned in the Great Underground Empire, and the Grand Inquisitor Yannick (with the kind help of Frobozz Electric) has a stranglehold on the world of Zork, establishing a totalitarian regime. According to his own words, the goal of the new state is to "shun magic, shun the appearance of magic, shun everything, and then shun shunning." Any opposing forces will be "totemized", which is apparently a rather unpleasant procedure. The player character in the game is just that - the player character: Ageless, Faceless, Gender-Neutral, Culturally-Ambiguous Adventure Person (abbreviated AFGNCAAP), as the politically correct designation by the Dungeon Master Dalboz defines him/her (it?). Naturally, it is the hero's duty to save the world by collecting a Cube of Foundation, the Skull of Yoruk, and the Coconut of Quendor, so that magic can return to the land and the Grand Inquisitor falls victim to his own shunning policies.Zork: Grand Inquisitor is the third in the row of graphical Zork games. It utilizes the same engine as its  predecessor, with first-person perspective, 180 degree camera rotation, pre-rendered backgrounds, and live actors. Compared to the previous game, it is more similar in tone to the early, predominantly humorous Zork adventures, containing plenty of references to them.The gameplay is puzzle-oriented; most of the puzzles are inventory-based, though there are also a few that require manipulating the game's environment. Casting magical spells is an important element of the gameplay. The protagonist discovers spell scrolls and learns spells from them, which must be frequently used on objects and items to solve puzzles. The spells range from simple magic that can open locked doors to exotic variations such as "making all purple things invisible". The player can also cast spells backwards, in which case they will have an opposite effect; in the aforementioned examples, casting the reversed spells will lock a door or magically make an object visible, provided it was purple before that condition was inflicted upon it.</desc>
+		<image>./images/Zork - Grand Inquisitor-image.png</image>
+		<video>./videos/Zork - Grand Inquisitor-video.mp4</video>
+		<marquee>./images/Zork - Grand Inquisitor-marquee.png</marquee>
+		<thumbnail>./images/Zork - Grand Inquisitor-thumb.png</thumbnail>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Adventure / Point and Click</genre>
+		<family>Zork</family>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T092642" />
+	</game>
+	<game id="100636">
+		<path>./ScummVM/content/ports/ScummVM/Zork Nemesis - The Forbidden Lands.rar</path>
+		<name>Zork Nemesis: The Forbidden Lands</name>
+		<desc>In the last days of the Great Underground Empire, four of the Empire's greatest Alchemists disappeared into the Forbidden Lands on the day of the Solar Eclipse, supposedly searching for the secret of the Quintessena, the Eternal Life. An imperial spy, Bivotar, was dispatched to locate them. He never returned. Now, the task has fallen onto you. You soon discover that the Alchemists are dead, slain by a horrible demon known only as the Nemesis. You manage to get on the Nemesis' nerves, and soon find yourself allied with the spirits of the dead Alchemists, attempting to finish their work before the Nemesis can finish you. But all is not as it seems, and as you unravel the secrets of the past through old letters and ghostly flashbacks, you begin to realize the full horror of the events which transpired under the Eclipse all those years ago.Zork Nemesis: The Forbidden Lands is a graphical first person adventure game in the style of Myst, mixing logic puzzles with live-action FMV sequences which advance the story. The player views each location from a first-person perspective, and can rotate the camera 180 degrees to get a full view of your surroundings.Like other Zork installments, the game contains humorous elements, but in general its story and atmosphere are darker, including images and themes such as decapitated heads and human sacrifice.</desc>
+		<image>./images/Zork Nemesis - The Forbidden Lands-image.png</image>
+		<video>./videos/Zork Nemesis - The Forbidden Lands-video.mp4</video>
+		<marquee>./images/Zork Nemesis - The Forbidden Lands-marquee.png</marquee>
+		<thumbnail>./images/Zork Nemesis - The Forbidden Lands-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Zombie Studios</developer>
+		<publisher>Activision</publisher>
+		<genre>Adventure / Point and Click</genre>
+		<family>Zork</family>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T092651" />
+	</game>
+</gameList>

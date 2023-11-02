@@ -1,2 +1,518 @@
 <?xml version="1.0"?>
-<gameList />
+<gameList>
+	<game id="46719">
+		<path>./NAOMI 2/beachspi.zip</path>
+		<name>Beach Spikers: Virtua Beach Volleyball</name>
+		<desc>The typical summer sport, beach volleyball, became an arcade game! Not only the beach volleyball fans but also all the game fans will be extremely excited by the new type of sports game.</desc>
+		<image>./images/beachspi-image.png</image>
+		<video>./videos/beachspi-video.mp4</video>
+		<marquee>./images/beachspi-marquee.png</marquee>
+		<thumbnail>./images/beachspi-thumb.png</thumbnail>
+		<fanart>./images/beachspi-fanart.jpg</fanart>
+		<rating>0.75</rating>
+		<releasedate>20010701T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports / Volleyball</genre>
+		<players>1-2</players>
+		<md5>c0717523cad7c5bf910f9240dd9d2e02</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T095952" />
+	</game>
+	<game id="46730">
+		<path>./NAOMI 2/clubk2k3.zip</path>
+		<name>Club Kart: European Session</name>
+		<desc>This European version of "Club Kart" including different courses.</desc>
+		<image>./images/clubk2k3-image.png</image>
+		<video>./videos/clubk2k3-video.mp4</video>
+		<marquee>./images/clubk2k3-marquee.png</marquee>
+		<thumbnail>./images/clubk2k3-thumb.png</thumbnail>
+		<fanart>./images/clubk2k3-fanart.jpg</fanart>
+		<releasedate>20030101T000000</releasedate>
+		<developer>Amusement Vision</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving</genre>
+		<family>Club Kart</family>
+		<players>1-2</players>
+		<md5>a011ef88d441afdd1f04e332b002e683</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T100008" />
+	</game>
+	<game id="117220">
+		<path>./NAOMI 2/clubkprz.zip</path>
+		<name>Club Kart Prize</name>
+		<desc>As the name suggests, this version of Club Kart will award the player with prizes depending on how well he or she plays - you collect coins during the race and these will be awarded to you at the end.</desc>
+		<image>./images/clubkprz-image.png</image>
+		<video>./videos/clubkprz-video.mp4</video>
+		<marquee>./images/clubkprz-marquee.png</marquee>
+		<thumbnail>./images/clubkprz-thumb.png</thumbnail>
+		<fanart>./images/clubkprz-fanart.jpg</fanart>
+		<releasedate>20030101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving / Race 3rd Pers. view</genre>
+		<family>Club Kart</family>
+		<players>1-2</players>
+		<md5>5adda01ebf5492ecb16107b42bc41f2c</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231102T100054" />
+	</game>
+	<game id="117220">
+		<path>./NAOMI 2/clubkpzb.zip</path>
+		<name>Club Kart Prize</name>
+		<desc>As the name suggests, this version of Club Kart will award the player with prizes depending on how well he or she plays - you collect coins during the race and these will be awarded to you at the end.</desc>
+		<image>./images/clubkpzb-image.png</image>
+		<video>./videos/clubkpzb-video.mp4</video>
+		<marquee>./images/clubkpzb-marquee.png</marquee>
+		<thumbnail>./images/clubkpzb-thumb.png</thumbnail>
+		<fanart>./images/clubkpzb-fanart.jpg</fanart>
+		<releasedate>20030101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving / Race 3rd Pers. view</genre>
+		<family>Club Kart</family>
+		<players>1-2</players>
+		<md5>a6bc3b9269f34d91344c6dc937453bdb</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231102T100114" />
+	</game>
+	<game id="46730">
+		<path>./NAOMI 2/clubkrt.zip</path>
+		<name>Club Kart: European Session</name>
+		<desc>This European version of "Club Kart" including different courses.</desc>
+		<image>./images/clubkrt-image.png</image>
+		<video>./videos/clubkrt-video.mp4</video>
+		<marquee>./images/clubkrt-marquee.png</marquee>
+		<thumbnail>./images/clubkrt-thumb.png</thumbnail>
+		<fanart>./images/clubkrt-fanart.jpg</fanart>
+		<releasedate>20030101T000000</releasedate>
+		<developer>Amusement Vision</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving</genre>
+		<family>Club Kart</family>
+		<players>1-2</players>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231102T100126" />
+	</game>
+	<game id="46772">
+		<path>./NAOMI 2/inidv3cy.zip</path>
+		<name>Initial D: Version 3</name>
+		<desc>Initial D Arcade Stage Ver 3 "is a car racing game with 3 different game modes:" Legend of the Streets "," Time Attack "and" The Bunta Challenge! " on 9 different tracks. Each checkpoint you pass adds time to the total time limit The first person to cross the finish line within the allotted time wins If you run out of time or cross the finish line second, you lose.</desc>
+		<image>./images/inidv3cy-image.png</image>
+		<video>./videos/inidv3cy-video.mp4</video>
+		<marquee>./images/inidv3cy-marquee.png</marquee>
+		<thumbnail>./images/inidv3cy-thumb.png</thumbnail>
+		<rating>0.95</rating>
+		<releasedate>20040101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving / Race 3rd Pers. view</genre>
+		<family>Initial D</family>
+		<players>1-2</players>
+		<md5>fcedab8789cc466eca7d08fd5e2ce2ae</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T100139" />
+	</game>
+	<game id="46776">
+		<path>./NAOMI 2/initd.zip</path>
+		<name>Initial D: Arcade Stage</name>
+		<desc>Initial D: Arcade Stage is an arcade racing game based on the Initial D franchise. It was the first in a long line of arcade racers to be published by Sega for Sega arcade platforms, this one seeing a 2002 release on Sega NAOMI 2 hardware. It was released in the US and Europe under the basic title of Initial D. It was not ported to any home consoles.</desc>
+		<image>./images/initd-image.png</image>
+		<video>./videos/initd-video.mp4</video>
+		<marquee>./images/initd-marquee.png</marquee>
+		<thumbnail>./images/initd-thumb.png</thumbnail>
+		<rating>0.95</rating>
+		<releasedate>20020101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving / Race 3rd Pers. view</genre>
+		<family>Initial D</family>
+		<players>1</players>
+		<md5>2e7e3142ee726139a4effb6fa92b7897</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231102T100151" />
+	</game>
+	<game id="46776">
+		<path>./NAOMI 2/initdexp.zip</path>
+		<name>Initial D: Arcade Stage</name>
+		<desc>Initial D: Arcade Stage is an arcade racing game based on the Initial D franchise. It was the first in a long line of arcade racers to be published by Sega for Sega arcade platforms, this one seeing a 2002 release on Sega NAOMI 2 hardware. It was released in the US and Europe under the basic title of Initial D. It was not ported to any home consoles.</desc>
+		<image>./images/initdexp-image.png</image>
+		<video>./videos/initdexp-video.mp4</video>
+		<marquee>./images/initdexp-marquee.png</marquee>
+		<thumbnail>./images/initdexp-thumb.png</thumbnail>
+		<rating>0.95</rating>
+		<releasedate>20020101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving / Race 3rd Pers. view</genre>
+		<family>Initial D</family>
+		<players>1</players>
+		<md5>602e507b3b393ee7ad9c3c89878757a2</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T100201" />
+	</game>
+	<game id="41807">
+		<path>./NAOMI 2/initdv2j.zip</path>
+		<name>Initial D: Arcade Stage Ver. 2</name>
+		<desc>Initial D: Arcade Stage Ver. 2 is the sequel to Initial D: Arcade Stage.</desc>
+		<image>./images/initdv2j-image.png</image>
+		<video>./videos/initdv2j-video.mp4</video>
+		<marquee>./images/initdv2j-marquee.png</marquee>
+		<thumbnail>./images/initdv2j-thumb.png</thumbnail>
+		<rating>0.95</rating>
+		<releasedate>20030101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving / Race 3rd Pers. view</genre>
+		<family>Initial D</family>
+		<players>1-2</players>
+		<md5>6bbc90620d050cc5dc26e199efe14baf</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231102T100211" />
+	</game>
+	<game id="46772">
+		<path>./NAOMI 2/initdv3e.zip</path>
+		<name>Initial D: Version 3</name>
+		<desc>Initial D Arcade Stage Ver 3 "is a car racing game with 3 different game modes:" Legend of the Streets "," Time Attack "and" The Bunta Challenge! " on 9 different tracks. Each checkpoint you pass adds time to the total time limit The first person to cross the finish line within the allotted time wins If you run out of time or cross the finish line second, you lose.</desc>
+		<image>./images/initdv3e-image.png</image>
+		<video>./videos/initdv3e-video.mp4</video>
+		<marquee>./images/initdv3e-marquee.png</marquee>
+		<thumbnail>./images/initdv3e-thumb.png</thumbnail>
+		<rating>0.95</rating>
+		<releasedate>20040101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving / Race 3rd Pers. view</genre>
+		<family>Initial D</family>
+		<players>1-2</players>
+		<md5>aeafb4c3919bc0d3bef241c2591fa99a</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T100220" />
+	</game>
+	<game id="46772">
+		<path>./NAOMI 2/initdv3j.zip</path>
+		<name>Initial D: Version 3</name>
+		<desc>Initial D Arcade Stage Ver 3 "is a car racing game with 3 different game modes:" Legend of the Streets "," Time Attack "and" The Bunta Challenge! " on 9 different tracks. Each checkpoint you pass adds time to the total time limit The first person to cross the finish line within the allotted time wins If you run out of time or cross the finish line second, you lose.</desc>
+		<image>./images/initdv3j-image.png</image>
+		<video>./videos/initdv3j-video.mp4</video>
+		<marquee>./images/initdv3j-marquee.png</marquee>
+		<thumbnail>./images/initdv3j-thumb.png</thumbnail>
+		<rating>0.95</rating>
+		<releasedate>20040101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving / Race 3rd Pers. view</genre>
+		<family>Initial D</family>
+		<players>1-2</players>
+		<md5>7a12633bac8f5e17c04158b2626a415c</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231102T100230" />
+	</game>
+	<game id="46782">
+		<path>./NAOMI 2/kingrt66.zip</path>
+		<name>The King of Route 66</name>
+		<desc>The King of Route 66 is the arcade racing game sequel to 18 Wheeler: American Pro Trucker. It was later brought to the PlayStation 2 by Tose.</desc>
+		<image>./images/kingrt66-image.png</image>
+		<video>./videos/kingrt66-video.mp4</video>
+		<marquee>./images/kingrt66-marquee.png</marquee>
+		<thumbnail>./images/kingrt66-thumb.png</thumbnail>
+		<fanart>./images/kingrt66-fanart.jpg</fanart>
+		<releasedate>20020101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving</genre>
+		<players>1-2</players>
+		<md5>7d529bc66345e8558544ec382ad78825</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T100246" />
+	</game>
+	<game id="46840">
+		<path>./NAOMI 2/soulsurf.zip</path>
+		<name>Soul Surfer</name>
+		<desc>Surf beaches all over the world, including California, Polynesia, Japan, Hawaii, South Africa, Europe, and Australia.</desc>
+		<image>./images/soulsurf-image.png</image>
+		<video>./videos/soulsurf-video.mp4</video>
+		<marquee>./images/soulsurf-marquee.png</marquee>
+		<thumbnail>./images/soulsurf-thumb.png</thumbnail>
+		<fanart>./images/soulsurf-fanart.jpg</fanart>
+		<releasedate>20020101T000000</releasedate>
+		<publisher>SEGA</publisher>
+		<genre>Sports / Water</genre>
+		<players>1-2</players>
+		<md5>79f9fc4b6401e43e57b4b56898c55470</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T100307" />
+	</game>
+	<game id="46858">
+		<path>./NAOMI 2/vf4.zip</path>
+		<name>Virtua Fighter 4</name>
+		<desc>In this fourth installment of the Virtua Fighter series, smash your opponents in beautiful graphics, and train your own fighter!</desc>
+		<image>./images/vf4-image.png</image>
+		<video>./videos/vf4-video.mp4</video>
+		<marquee>./images/vf4-marquee.png</marquee>
+		<thumbnail>./images/vf4-thumb.png</thumbnail>
+		<releasedate>20020101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Virtua Fighter</family>
+		<players>1-2</players>
+		<md5>0ef7dccd8c9b8d55188432c775b54f0e</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T100350" />
+	</game>
+	<game id="46858">
+		<path>./NAOMI 2/vf4cart.zip</path>
+		<name>Virtua Fighter 4</name>
+		<desc>In this fourth installment of the Virtua Fighter series, smash your opponents in beautiful graphics, and train your own fighter!</desc>
+		<image>./images/vf4cart-image.png</image>
+		<video>./videos/vf4cart-video.mp4</video>
+		<marquee>./images/vf4cart-marquee.png</marquee>
+		<thumbnail>./images/vf4cart-thumb.png</thumbnail>
+		<releasedate>20020101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Virtua Fighter</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231102T100400" />
+	</game>
+	<game id="46862">
+		<path>./NAOMI 2/vf4evo.zip</path>
+		<name>Virtua Fighter 4 Evolution</name>
+		<desc>An updated version of "Virtua Fighter 4" with some new features, mainly two additional fighters: Brad Burns (a kick boxer) and Gou Hinogami (a judo master).</desc>
+		<image>./images/vf4evo-image.png</image>
+		<video>./videos/vf4evo-video.mp4</video>
+		<marquee>./images/vf4evo-marquee.png</marquee>
+		<thumbnail>./images/vf4evo-thumb.png</thumbnail>
+		<releasedate>20020101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Virtua Fighter</family>
+		<players>1-2</players>
+		<md5>42b22ec387ca28b77248cfc3beff66ec</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231102T100412" />
+	</game>
+	<game id="46862">
+		<path>./NAOMI 2/vf4evoct.zip</path>
+		<name>Virtua Fighter 4 Evolution</name>
+		<desc>An updated version of "Virtua Fighter 4" with some new features, mainly two additional fighters: Brad Burns (a kick boxer) and Gou Hinogami (a judo master).</desc>
+		<image>./images/vf4evoct-image.png</image>
+		<video>./videos/vf4evoct-video.mp4</video>
+		<marquee>./images/vf4evoct-marquee.png</marquee>
+		<thumbnail>./images/vf4evoct-thumb.png</thumbnail>
+		<releasedate>20020101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Virtua Fighter</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231102T100423" />
+	</game>
+	<game id="46867">
+		<path>./NAOMI 2/vf4tuned.zip</path>
+		<name>Virtua Fighter 4 Final Tuned</name>
+		<desc>Final Tuned is the final update to Virtua Fighter 4. This version of the game was released only into Japanese arcades, and it made some gameplay fixes and added new stages. Also, new customization items were added.</desc>
+		<image>./images/vf4tuned-image.png</image>
+		<video>./videos/vf4tuned-video.mp4</video>
+		<marquee>./images/vf4tuned-marquee.png</marquee>
+		<thumbnail>./images/vf4tuned-thumb.png</thumbnail>
+		<releasedate>20040101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Virtua Fighter</family>
+		<players>1-2</players>
+		<md5>6a54744cfa1665c58534082054854e51</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T100433" />
+	</game>
+	<game id="44011">
+		<path>./NAOMI 2/vstrik3.zip</path>
+		<name>Virtua Striker 3</name>
+		<desc>Virtua Striker 3 (c) 2001 Sega.  - TECHNICAL -  Sega NAOMI 2 hardware  CPU : 2 x Hitachi SH-4 32-bit RISC CPU (200 MHz 360 MIPS / 1.4 GFLOPS) Graphic Engine : 2 x PowerVR 2 (PVR2DC-CLX2) GPU's Geometry Processor : Custom Videologic T+L chip 'Elan' (100mhz</desc>
+		<image>./images/vstrik3-image.png</image>
+		<video>./videos/vstrik3-video.mp4</video>
+		<marquee>./images/vstrik3-marquee.png</marquee>
+		<thumbnail>./images/vstrik3-thumb.png</thumbnail>
+		<releasedate>20010101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports / Soccer</genre>
+		<family>Virtua Striker</family>
+		<players>1-2</players>
+		<md5>78d44b0b28ab65cd36008eb1d6ef99f9</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T100446" />
+	</game>
+	<game id="44011">
+		<path>./NAOMI 2/vstrik3c.zip</path>
+		<name>Virtua Striker 3</name>
+		<desc>Virtua Striker 3 (c) 2001 Sega.  - TECHNICAL -  Sega NAOMI 2 hardware  CPU : 2 x Hitachi SH-4 32-bit RISC CPU (200 MHz 360 MIPS / 1.4 GFLOPS) Graphic Engine : 2 x PowerVR 2 (PVR2DC-CLX2) GPU's Geometry Processor : Custom Videologic T+L chip 'Elan' (100mhz</desc>
+		<image>./images/vstrik3c-image.png</image>
+		<video>./videos/vstrik3c-video.mp4</video>
+		<marquee>./images/vstrik3c-marquee.png</marquee>
+		<thumbnail>./images/vstrik3c-thumb.png</thumbnail>
+		<releasedate>20010101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports / Soccer</genre>
+		<family>Virtua Striker</family>
+		<players>1-2</players>
+		<md5>bdc209b9b0d588ba688768e6acbe0a84</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231102T100505" />
+	</game>
+	<game id="202459">
+		<path>./NAOMI 2/wccf116.zip</path>
+		<name>World Club Champion Football Serie A 2001-2002</name>
+		<desc>World Club Champion Football: Serie A 2001-2002 is the first entry in Sega's World Club Champion Football arcade series, and was released worldwide in 2002. It is based off the Serie A, the top football league in Italy.</desc>
+		<image>./images/wccf116-image.png</image>
+		<thumbnail>./images/wccf116-thumb.png</thumbnail>
+		<releasedate>20020101T000000</releasedate>
+		<developer>AM3</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports / Soccer</genre>
+		<players>1-8</players>
+		<md5>cb5e60af7be3c8a89144c171409137b8</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231102T100510" />
+	</game>
+	<game id="202459">
+		<path>./NAOMI 2/wccf1dup.zip</path>
+		<name>World Club Champion Football Serie A 2001-2002</name>
+		<desc>World Club Champion Football: Serie A 2001-2002 is the first entry in Sega's World Club Champion Football arcade series, and was released worldwide in 2002. It is based off the Serie A, the top football league in Italy.</desc>
+		<image>./images/wccf1dup-image.png</image>
+		<thumbnail>./images/wccf1dup-thumb.png</thumbnail>
+		<releasedate>20020101T000000</releasedate>
+		<developer>AM3</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports / Soccer</genre>
+		<players>1-8</players>
+		<md5>cb5e60af7be3c8a89144c171409137b8</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T100516" />
+	</game>
+	<game id="202447">
+		<path>./NAOMI 2/wccf212e.zip</path>
+		<name>World Club Champion Football Serie A 2002-2003</name>
+		<image>./images/wccf212e-image.png</image>
+		<thumbnail>./images/wccf212e-thumb.png</thumbnail>
+		<releasedate>20020101T000000</releasedate>
+		<developer>AM3</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports / Soccer</genre>
+		<players>1-8</players>
+		<md5>65bd33081c7417408fc3bec8ff10d1df</md5>
+		<lang>it</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231102T100531" />
+	</game>
+	<game id="202447">
+		<path>./NAOMI 2/wccf234j.zip</path>
+		<name>World Club Champion Football Serie A 2002-2003</name>
+		<image>./images/wccf234j-image.png</image>
+		<thumbnail>./images/wccf234j-thumb.png</thumbnail>
+		<releasedate>20020101T000000</releasedate>
+		<developer>AM3</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports / Soccer</genre>
+		<players>1-8</players>
+		<md5>27fd6ee7219e461d4fd2d51b7bd9a66e</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231102T100537" />
+	</game>
+	<game id="202453">
+		<path>./NAOMI 2/wccf310j.zip</path>
+		<name>World Club Champion Football European Clubs 2004-2005</name>
+		<desc>World Club Champion Football: European Clubs 2004-2005 is a sequel to World Club Champion Football: Serie A 2002-2003. The major addition to this game is the inclusion of football clubs from across Europe.</desc>
+		<image>./images/wccf310j-image.png</image>
+		<releasedate>20050101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports / Soccer</genre>
+		<family>World Club Champion Football</family>
+		<players>1-2</players>
+		<md5>681d37c605156361d00f957cdfd91117</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231102T100542" />
+	</game>
+	<game id="202453">
+		<path>./NAOMI 2/wccf322e.zip</path>
+		<name>World Club Champion Football European Clubs 2004-2005</name>
+		<desc>World Club Champion Football: European Clubs 2004-2005 is a sequel to World Club Champion Football: Serie A 2002-2003. The major addition to this game is the inclusion of football clubs from across Europe.</desc>
+		<image>./images/wccf322e-image.png</image>
+		<releasedate>20050101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports / Soccer</genre>
+		<family>World Club Champion Football</family>
+		<players>1-2</players>
+		<md5>3aacaf9b4afe2aea6456f8e8e4fee61d</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T100546" />
+	</game>
+	<game id="202448">
+		<path>./NAOMI 2/wccf420e.zip</path>
+		<name>World Club Champion Football European Clubs 2005-2006</name>
+		<marquee>./images/wccf420e-marquee.png</marquee>
+		<thumbnail>./images/wccf420e-thumb.png</thumbnail>
+		<releasedate>20060101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports / Soccer</genre>
+		<family>World Club Champion Football</family>
+		<players>1-2</players>
+		<md5>09cc10e9cafd522e94af13eeda62bbe1</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T100553" />
+	</game>
+	<game id="46877">
+		<path>./NAOMI 2/wldrider.zip</path>
+		<name>Wild Riders</name>
+		<desc>Wild Riders is a motorcycle chase game. The player assumes the role of a biker gang member who is trying to escape from the police and avoid capture.</desc>
+		<image>./images/wldrider-image.png</image>
+		<video>./videos/wldrider-video.mp4</video>
+		<marquee>./images/wldrider-marquee.png</marquee>
+		<thumbnail>./images/wldrider-thumb.png</thumbnail>
+		<releasedate>20010101T000000</releasedate>
+		<developer>Wow Entertainment</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving / Motorcycle</genre>
+		<players>1</players>
+		<md5>34cecc2eba1e1a3c58acdcae3ff0208d</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T100608" />
+	</game>
+</gameList>

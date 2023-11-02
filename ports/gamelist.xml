@@ -1,29 +1,12 @@
 <?xml version="1.0"?>
 <gameList>
 	<game>
-		<game>
-			<path>./gong.libretro</path>
-			<name>Gong</name>
-			<desc>Pong clone.</desc>
-			<image>./images/gong.png</image>
-		</game>
-		<path>./mrboom.libretro</path>
-		<name>Mr Boom</name>
-		<desc>Bomberman clone.</desc>
-		<image>./images/mrboom.png</image>
-	</game>
-	<game>
-		<path>./xrick.libretro</path>
-		<name>XRick</name>
-		<desc>Rick Dangerous clone.</desc>
-		<image>./images/xrick.png</image>
-	</game>
-	<game>
 		<path>./2048.libretro</path>
 		<name>2048</name>
 		<desc>2048 clone.</desc>
 		<image>./images/2048.png</image>
 		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T090631" />
 	</game>
 	<game>
 		<path>./craft.libretro</path>
@@ -31,11 +14,27 @@
 		<desc>Minecraft clone.</desc>
 		<image>./images/craft.png</image>
 		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T090632" />
 	</game>
 	<game>
 		<path>./gong.libretro</path>
 		<name>gong</name>
 		<image>./images/gong.png</image>
 		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T090634" />
+	</game>
+	<game>
+		<path>./mrboom.libretro</path>
+		<name>Mr Boom</name>
+		<desc>Bomberman clone.</desc>
+		<image>./images/mrboom.png</image>
+		<scrap name="ScreenScraper" date="20231102T090636" />
+	</game>
+	<game>
+		<path>./xrick.libretro</path>
+		<name>XRick</name>
+		<desc>Rick Dangerous clone.</desc>
+		<image>./images/xrick.png</image>
+		<scrap name="ScreenScraper" date="20231102T090637" />
 	</game>
 </gameList>

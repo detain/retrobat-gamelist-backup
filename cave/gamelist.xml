@@ -618,4 +618,633 @@ One week later all the competitors from the previous tournament and other family
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T023005" />
 	</game>
+	<game id="417454">
+		<path>./Cave/akatana.zip</path>
+		<name>Akai Katana</name>
+		<desc>Set in a parallel world resembling Japan's Taishō period, the people have discovered the powerful Blood Swords, the titular Akai Katana. Requiring human sacrifices to unleash their immense destructive power, these swords have been used by the empire to crush neighbouring countries. However, all the bloodshed and power gained through sacrificing close family members has made some of the swordsmen reconsider. With new fighter planes and the powered up swords at their disposal, this small band of rebels now fight back against the tyrannical empire.</desc>
+		<image>./images/akatana-image.png</image>
+		<video>./videos/akatana-video.mp4</video>
+		<marquee>./images/akatana-marquee.png</marquee>
+		<thumbnail>./images/akatana-thumb.png</thumbnail>
+		<fanart>./images/akatana-fanart.jpg</fanart>
+		<rating>0.8</rating>
+		<releasedate>20100820T000000</releasedate>
+		<developer>Cave</developer>
+		<publisher>Cave</publisher>
+		<genre>Shooter</genre>
+		<players>1-2</players>
+		<md5>9d2f7c7fc2f95a158f6337db32f5b084</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T075127" />
+	</game>
+	<game id="46722">
+		<path>./Cave/cvs2gd.zip</path>
+		<name>Capcom vs. SNK 2: Mark of the Millennium 2001</name>
+		<desc>Capcom vs. SNK 2 combines characters and gameplay elements from various Capcom and SNK fighting games, mainly the Street Fighter and The King of Fighters seriesthough elements are also borrowed from the Fatal Fury and Samurai Shodown series.
+
+In contrast to the original Capcom vs. SNK, characters no longer have a specific "Ratio." Instead the player can select up to three characters in a team and give an amount or ratio (up to four) to each as desired. In console versions of the game, players can also choose a 1-on-1 game or a 3-on-3 game in arcade mode with the ratio system removed.
+
+Unlike the first game, which was based on the King of Fighters-style two-strength, four button system of punches and kicks, Capcom vs. SNK 2 is based on the three strength, six-button system of punches and kicks, native to the Street Fighter series, with the SNK characters being tweaked to fit the 6-button style. The overall system is derivative of Street Fighter Alpha, however, a number of different fighting styles called "grooves", which mimic other Capcom and SNK games, are included in the engine. These dictate both the character's Super Gauge system, and special techniques, such as dashes, running, and guard cancels, called "Subsystems".
+
+There are six grooves in total, each designtated with a letter, along with custom grooves that can be programmed in home versions of the game. Each player designates prior to the match which groove his or her team will use.</desc>
+		<image>./images/cvs2gd-image.png</image>
+		<video>./videos/cvs2gd-video.mp4</video>
+		<marquee>./images/cvs2gd-marquee.png</marquee>
+		<thumbnail>./images/cvs2gd-thumb.png</thumbnail>
+		<fanart>./images/cvs2gd-fanart.jpg</fanart>
+		<manual>./manuals/cvs2gd-manual.pdf</manual>
+		<rating>0.8</rating>
+		<releasedate>20010101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight / Versus</genre>
+		<family>SNK Vs. Capcom</family>
+		<players>1-2</players>
+		<md5>f37986a050d61bf03b28218977a5a398</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T075137" />
+	</game>
+	<game id="46723">
+		<path>./Cave/cvsgd.zip</path>
+		<name>Capcom vs. SNK Millennium Fight 2000 Pro</name>
+		<desc>Capcom Vs. SNK - Millennium Fight 2000 Pro is an updated version of "Capcom Vs. SNK - Millennium Fight 2000", with 2 new fighters (Dan Hibiki from Capcom and Joe Higashi from SNK).</desc>
+		<image>./images/cvsgd-image.png</image>
+		<video>./videos/cvsgd-video.mp4</video>
+		<marquee>./images/cvsgd-marquee.png</marquee>
+		<thumbnail>./images/cvsgd-thumb.png</thumbnail>
+		<fanart>./images/cvsgd-fanart.jpg</fanart>
+		<rating>0.7</rating>
+		<releasedate>20010101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight / Versus</genre>
+		<family>SNK Vs. Capcom</family>
+		<players>1-2</players>
+		<md5>58136ae0cd4f97993474338c2547d5b4</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231102T075146" />
+	</game>
+	<game id="37321">
+		<path>./Cave/ddpdfk10.zip</path>
+		<name>DoDonPachi Resurrection</name>
+		<desc>After the turmoil caused by the assault on Lunapolis which sparked the "Blissful Death Wars" (as depicted in the previous installment), peace seems to have been restored, with the legendary DonPachi Corps retreating to its HQ in a space-time fold. Six years later, anomalies are detected in the space-time fabric, yet tests reveal nothing out of order, with the portals regularly functioning for both teleportation and time travel; also, the leader of the DonPachi squadron Colonel Godwin Longhener dismisses the matter due to the lack of actual danger.
+
+Nevertheless, a technician delves deeper into the anomaly, discovering that something has infiltrated the HQ computer systems and is using the portals to send large quantities of materials and data to the past, spreading out like a virus and quickly evolving. In an ironic twist, the virus is discovered to be the program originally installed in the Element Dolls six years ago, now reaching beyond the DonPachi Corps programming and seeking to annihilate the human race in retaliation for their "enslavement" (after the war, they met a rather cruel demise at the hand of their own human creators) by waging war in the past rather than in the present: unsettled, the Colonel authorizes the last transport ship to time jump in order to fight back the invasion before future changes. However, he states: "Start over from the past... I never thought of that", echoing the ideas of mankind's imperfection which has always been a recurring theme in the series.
+
+And once again, the three pilots jump back in time to 2008 and enter the fray, the transport ship being targeted as soon as it exits the portal: the Element Daughters, gigantic evolutions of the Dolls, are awaiting...
+
+The bee is still humming.</desc>
+		<image>./images/ddpdfk10-image.png</image>
+		<video>./videos/ddpdfk10-video.mp4</video>
+		<marquee>./images/ddpdfk10-marquee.png</marquee>
+		<thumbnail>./images/ddpdfk10-thumb.png</thumbnail>
+		<fanart>./images/ddpdfk10-fanart.jpg</fanart>
+		<bezel>./images/ddpdfk10-bezel.png</bezel>
+		<rating>0.85</rating>
+		<releasedate>20080101T000000</releasedate>
+		<developer>Cave</developer>
+		<publisher>AMI</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<family>DonPachi</family>
+		<arcadesystemname>cave</arcadesystemname>
+		<players>1-2</players>
+		<md5>2964df13b0a816f0a431b85b2452af26</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T075157" />
+	</game>
+	<game id="37323">
+		<path>./Cave/ddpdoj.zip</path>
+		<name>DoDonPachi DaiOuJou</name>
+		<desc>The fourth game in the Donpachi series and the first to be ported to the PS2, courtesy of Arika.</desc>
+		<image>./images/ddpdoj-image.png</image>
+		<video>./videos/ddpdoj-video.mp4</video>
+		<marquee>./images/ddpdoj-marquee.png</marquee>
+		<thumbnail>./images/ddpdoj-thumb.png</thumbnail>
+		<fanart>./images/ddpdoj-fanart.jpg</fanart>
+		<manual>./manuals/ddpdoj-manual.pdf</manual>
+		<bezel>./images/ddpdoj-bezel.png</bezel>
+		<rating>0.85</rating>
+		<releasedate>20020101T000000</releasedate>
+		<developer>Cave</developer>
+		<publisher>AMI</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<family>DonPachi</family>
+		<arcadesystemname>cave</arcadesystemname>
+		<players>1-4</players>
+		<md5>f73798691ef64631e0b86f70f98b8d66</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231102T075209" />
+	</game>
+	<game id="37323">
+		<path>./Cave/ddpdojblka.zip</path>
+		<name>DoDonPachi DaiOuJou</name>
+		<desc>The fourth game in the Donpachi series and the first to be ported to the PS2, courtesy of Arika.</desc>
+		<image>./images/ddpdojblka-image.png</image>
+		<video>./videos/ddpdojblka-video.mp4</video>
+		<marquee>./images/ddpdojblka-marquee.png</marquee>
+		<thumbnail>./images/ddpdojblka-thumb.png</thumbnail>
+		<fanart>./images/ddpdojblka-fanart.jpg</fanart>
+		<manual>./manuals/ddpdojblka-manual.pdf</manual>
+		<bezel>./images/ddpdojblka-bezel.png</bezel>
+		<rating>0.85</rating>
+		<releasedate>20020101T000000</releasedate>
+		<developer>Cave</developer>
+		<publisher>AMI</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<family>DonPachi</family>
+		<arcadesystemname>cave</arcadesystemname>
+		<players>1-4</players>
+		<md5>27b18d6ebb70f1689bb5c9b16c99a822</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231102T075220" />
+	</game>
+	<game id="37327">
+		<path>./Cave/donpachij.zip</path>
+		<name>DonPachi</name>
+		<desc>An excellent vertically scrolling shoot'em up. The player assumes the role of a pilot who is sent by their squadron to fight their former allies until one side destroys the other, all of which is a part of a mission to strengthen the military power that controls each side. The player flies their selected fighter over 5 areas of various terrain, encountering a number of land, sea and air enemies. The player's ship has two modes of fire: by tapping the fire button, shots are fired; holding it down produces a concentrated vertical beam, but also reduces the ship's speed.
+
+The player can choose one of 3 aircraft at the start of the game, or upon continuing:
+Type A: A red (or yellow/orange, for player two) fighter, which fires a narrow stream of shots
+Type B: A green (or purple, for player two) helicopter, which fires its main guns forward, but has side guns that rotate in the direction of movement
+Type C: A blue (or black, for player two) fighter, which fires a wide, three-way spread of shots</desc>
+		<image>./images/donpachij-image.png</image>
+		<video>./videos/donpachij-video.mp4</video>
+		<marquee>./images/donpachij-marquee.png</marquee>
+		<thumbnail>./images/donpachij-thumb.png</thumbnail>
+		<fanart>./images/donpachij-fanart.jpg</fanart>
+		<bezel>./images/donpachij-bezel.png</bezel>
+		<rating>0.95</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Cave</developer>
+		<publisher>Atlus</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<family>DonPachi</family>
+		<arcadesystemname>cave</arcadesystemname>
+		<players>1-2</players>
+		<md5>cea9048df606949bc5fec2cba2e43faf</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231102T075230" />
+	</game>
+	<game id="195417">
+		<path>./Cave/dragntr2.zip</path>
+		<name>Dragon Treasure II</name>
+		<desc>This Coin-op Medal game was published 15 years ago:</desc>
+		<image>./images/dragntr2-image.png</image>
+		<video>./videos/dragntr2-video.mp4</video>
+		<marquee>./images/dragntr2-marquee.png</marquee>
+		<thumbnail>./images/dragntr2-thumb.png</thumbnail>
+		<fanart>./images/dragntr2-fanart.jpg</fanart>
+		<releasedate>20040101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Role playing games</genre>
+		<family>Dragon Treasure</family>
+		<players>1-5</players>
+		<md5>80ca22f7f7d585797e510d33fc634d84</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T075240" />
+	</game>
+	<game id="202450">
+		<path>./Cave/dragntr3.zip</path>
+		<name>Dragon Treasure III</name>
+		<desc>Dragon treasure 3 is the continuation in the dragon treasure series. It is a combination role playing and medal game. The basic story and game play that dragon treasure fans have come to love remains intact. However there have been several improvements made to the game, the chances of medal winnings have increased dramatically. Now at the end of each match, along with item acquisition there will be a chance at winning the jackpot. There has been the addition of several extra features such as the new "Battle roulette" meaning that at the end of each battle "Battle roulette" is displayed, which gives players the chance to receive more items, medals and even a chance at the jackpot. There also has been the addition of several new dungeon missions.</desc>
+		<image>./images/dragntr3-image.png</image>
+		<video>./videos/dragntr3-video.mp4</video>
+		<marquee>./images/dragntr3-marquee.png</marquee>
+		<thumbnail>./images/dragntr3-thumb.png</thumbnail>
+		<fanart>./images/dragntr3-fanart.jpg</fanart>
+		<releasedate>20050101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Role playing games</genre>
+		<players>1-5</players>
+		<md5>4e02fa0581c6a130a1aa5729214215d3</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T075248" />
+	</game>
+	<game id="37330">
+		<path>./Cave/espgal.zip</path>
+		<name>Espgaluda</name>
+		<desc>A great vertically scrolling manic shooter. 
+
+In an otherwise peaceful world, the Shinra Empire began conquering nearby nations one by one to expand their territory gradually. Meanwhile, in the Shinra weapons lab, the Espgaluda project produced two successful prototypes: Agaha and Tateha. Fearing for their future, the project's head scientist, Hiodoshi, escaped with the two prototypes to a nearby kingdom, but time after were found by Shinra's troops and Hiodoshi was killed by the attack of the imperial army, the power of the galuda has awaken. 
+
+You have the option of controlling one of two siblings each with different skills, Ageha  faster but with narrower shooting capabilities or Tateha slower but with a wider attack. As you fly through the various stages various mechanical enemies attack with a high number of bullets, often nearly filling the screen. Aside from the regular shots, Ageha and Tateha also have additional abilities which help the player navigate through the numerous bullets. The first is a guard barrier; when activated the player is immune to collisions and as a bonus when the barrier button is released a more powerful laser shot is fired. A meter at the bottom of the screen indicates how much power is left in the barrier. The second ability is called the Kakusei mode; when this mode is activated your character gender is altered and is able to fire a more powerful shot. More importantly, when this mode is activated all of the enemies and their bullets slow down considerably while the players speed remains the same making it easier to navigate through a tricky pattern of bullets. Activating Kakusei mode will rapidly deplete the players supply of green gems; since the number of gems isn't limitless the player may not be able to remain in Kakusei mode for long. When not in Kakusei mode additional gems can be collected by destroying the various enemies. If the player completely runs out of gems, enemy bullets begin travelling faster than usual. Another bonus in the game is gold inguts which greatly increase the players score. These are found when in Kakusei mode; when an enemy is destroyed, all of its bullets will turn into ingots which can be collected by the player.</desc>
+		<image>./images/espgal-image.png</image>
+		<video>./videos/espgal-video.mp4</video>
+		<marquee>./images/espgal-marquee.png</marquee>
+		<thumbnail>./images/espgal-thumb.png</thumbnail>
+		<fanart>./images/espgal-fanart.jpg</fanart>
+		<manual>./manuals/espgal-manual.pdf</manual>
+		<bezel>./images/espgal-bezel.png</bezel>
+		<rating>0.85</rating>
+		<releasedate>20030101T000000</releasedate>
+		<developer>Cave</developer>
+		<publisher>AMI</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<family>ESP Ra.De.</family>
+		<arcadesystemname>cave</arcadesystemname>
+		<players>1-2</players>
+		<md5>0e6c0e5658880004f6dc0a7c33886d5e</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T075259" />
+	</game>
+	<game id="37332">
+		<path>./Cave/esprade.zip</path>
+		<name>ESP Ra.De.</name>
+		<desc>ESP Ra.De. is a 1998 arcade game developed by Cave and published by Atlus. It is the first non-DonPachi game released by Cave. ESP Ra.De. received spiritual prequels in the form of the Espgaluda series; however, ESP Ra.De. is related to the Espgaluda series only by shared name and programmer Tsuneki Ikeda.
+
+By 2018, Tokyo has reached its maximum extension, therefore falling prey of common problems such as overpopulation and criminality. For this reason, an artificial island, aptly named Tokyo-2, is created just offshore, thanks to the support of the shady "Yaksa" corporation, led by elusive billionaire Garra Ono, whose ties with the modern incarnation of Yakuza have not been proven. Another source of instability is given by the rising number of humans exhibiting extrasensory perception, the so-called ESPers, who are constantly hunted down by the Japanese Police Force. Unknown to everyone, Garra herself is an extremely powerful ESPer, bent on using her influence over the government and military to replace every living being in the city with clones (disturbingly enough, these ESPers take the form of a 10 years old girl, named "Alice" and implied to originate from Garra's own DNA). Just as her plans begin to unfold, three children are forced to take action, each one for his or her own personal motives.
+
+The story takes place in December, during a 24-hour arc; each character has a specific stage which initiates his or her storyline, culminating with the final encounter.</desc>
+		<image>./images/esprade-image.png</image>
+		<video>./videos/esprade-video.mp4</video>
+		<marquee>./images/esprade-marquee.png</marquee>
+		<thumbnail>./images/esprade-thumb.png</thumbnail>
+		<fanart>./images/esprade-fanart.jpg</fanart>
+		<manual>./manuals/esprade-manual.pdf</manual>
+		<bezel>./images/esprade-bezel.png</bezel>
+		<rating>0.8</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Cave</developer>
+		<publisher>Atlus</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<arcadesystemname>cave</arcadesystemname>
+		<players>1-2</players>
+		<md5>0bf932cfe2983e1fa9ea017053cbbc60</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T075311" />
+	</game>
+	<game id="37334">
+		<path>./Cave/futari10.zip</path>
+		<name>Mushihime-Sama Futari</name>
+		<desc>A vertically shooting game, where players get a choice of characters. Each craft has a different ratio of speed to firepower.
+
+The main characters in this version are 'Hiro', 'Kiniro', 'Palm' and 'Reco'.</desc>
+		<image>./images/futari10-image.png</image>
+		<video>./videos/futari10-video.mp4</video>
+		<marquee>./images/futari10-marquee.png</marquee>
+		<thumbnail>./images/futari10-thumb.png</thumbnail>
+		<fanart>./images/futari10-fanart.jpg</fanart>
+		<bezel>./images/futari10-bezel.png</bezel>
+		<rating>0.85</rating>
+		<releasedate>20060101T000000</releasedate>
+		<developer>Cave</developer>
+		<publisher>AMI</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<arcadesystemname>cave</arcadesystemname>
+		<players>1-2</players>
+		<md5>73af4d31a63e81102225b1741eaec94a</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T075323" />
+	</game>
+	<game id="37334">
+		<path>./Cave/futari15a.zip</path>
+		<name>Mushihime-Sama Futari</name>
+		<desc>A vertically shooting game, where players get a choice of characters. Each craft has a different ratio of speed to firepower.
+
+The main characters in this version are 'Hiro', 'Kiniro', 'Palm' and 'Reco'.</desc>
+		<image>./images/futari15a-image.png</image>
+		<video>./videos/futari15a-video.mp4</video>
+		<marquee>./images/futari15a-marquee.png</marquee>
+		<thumbnail>./images/futari15a-thumb.png</thumbnail>
+		<fanart>./images/futari15a-fanart.jpg</fanart>
+		<bezel>./images/futari15a-bezel.png</bezel>
+		<rating>0.85</rating>
+		<releasedate>20060101T000000</releasedate>
+		<developer>Cave</developer>
+		<publisher>AMI</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<arcadesystemname>cave</arcadesystemname>
+		<players>1-2</players>
+		<md5>eaa1da6e3be1a82be0a005ee2d6342b0</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T075334" />
+	</game>
+	<game id="37335">
+		<path>./Cave/futariblj.zip</path>
+		<name>Mushihime-Sama Futari Black Label</name>
+		<desc>Mushihime-sama Futari Black Label is a heavily altered version of Mushihime-sama Futari developed by Cave.
+
+The placement and shot patterns of many enemies have been changed, sometimes dramatically. As a result, the stages can feel very different from the original game in some places. The player characters' shot types have changed as well; rather than offering a choice between Normal and Abnormal shot types as in the original game, each character now has a single shot type that combines certain elements from each of the previous variations. In addition, the player characters' shot power is significantly increased, allowing for bosses to be killed more quickly and some of their more dangerous patterns to be avoided entirely.
+
+There are also some more minor, cosmetic changes: some of the stages have had their colors changed slightly, and the appearance of the golden score gems has been changed a bit.</desc>
+		<image>./images/futariblj-image.png</image>
+		<video>./videos/futariblj-video.mp4</video>
+		<marquee>./images/futariblj-marquee.png</marquee>
+		<thumbnail>./images/futariblj-thumb.png</thumbnail>
+		<fanart>./images/futariblj-fanart.jpg</fanart>
+		<bezel>./images/futariblj-bezel.png</bezel>
+		<rating>0.8</rating>
+		<releasedate>20070101T000000</releasedate>
+		<developer>Cave</developer>
+		<publisher>AMI</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<arcadesystemname>cave</arcadesystemname>
+		<players>1-2</players>
+		<md5>22407afaa3fcec7c58e19923e7a6eab0</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231102T075345" />
+	</game>
+	<game id="149544">
+		<path>./Cave/ibarablka.zip</path>
+		<name>Ibara Kuro Black Label</name>
+		<desc>Gameplay in Ibara Kuro: Black Label is the closer to the Arrange mode found in the PlayStation 2 port of Ibara than the original version of the game. Like Arrange mode, players are able to switch weapons by pressing a button, although the ability to change the options formation has been removed. The rank bar is also now in the center of the screen. The controls are roughly the same as the original, with the addition of a button dedicated to rapid fire of the normal shot. Holding down the A button causes the player's ship to slow down, in addition to increasing its fire rate and making the ship's hitbox visible. Ibara Kuro: Black Label adds two important changes to the player's ships.
+
+The first change is that the Silister Similis (Bond's ship) and Dio Spirossi (Dyne's ship) are no longer locked to the Player 1 and Player 2 sides, with both ships being selectable at the start of the game. After selecting your ship, players then select their ship type. The different ship types are the same as the ones previously only selectable by holding down certain button combinations when selecting your ship. They are listed in the game as A Type (default version), B Type (A button held ship), C Type (B button held variant), and D Type (variant selected by holding A + B). Each ship variant also has its speed, power, and bomb information displayed for that type when highlighted. Note that while both ships are selectable for either player, the characters themselves are still locked to their respective sides. The second change, is that any time the A button is not being held down, any nearby medals, power-ups, or other collectable items are sucked into your ship. This is a game-changer, making the game quite a bit easier than the regular Ibara, but also makes the game tons more fun, as you don't have to put your life on the line when trying to keep the medal chain going. The Dio Spirossi ship (the wide shot ship) can suck in items further away than the Silister Similis can.</desc>
+		<image>./images/ibarablka-image.png</image>
+		<video>./videos/ibarablka-video.mp4</video>
+		<marquee>./images/ibarablka-marquee.png</marquee>
+		<thumbnail>./images/ibarablka-thumb.png</thumbnail>
+		<fanart>./images/ibarablka-fanart.jpg</fanart>
+		<bezel>./images/ibarablka-bezel.png</bezel>
+		<rating>0.75</rating>
+		<releasedate>20060101T000000</releasedate>
+		<developer>Cave</developer>
+		<publisher>Cave</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<family>Ibara</family>
+		<arcadesystemname>cave</arcadesystemname>
+		<players>1-2</players>
+		<md5>f4a15ae29125335ea3f8aeb175df3556</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T075355" />
+	</game>
+	<game id="37341">
+		<path>./Cave/ket.zip</path>
+		<name>Ketsui: Kizuna Jigoku Tachi</name>
+		<desc>2054 (western calendar)
+
+The continuous industrialization that started in 1900, finally led to unavoidable consequences in the middle of the 21st century. The waterlevel rose worldwide and threatened many coastal countries. So the shorelines had to be modified In order to save the human civilisation from drowning. It was a time of great confusion about the future, and nobody thought about war. Well, almost ... There was one company called EVAC corporation, who made a great profit from underhand productions and exports of weapon systems. When the United Nations discovered their illegal trades, they pointed EVAC to the global ban of weapon imports and exports, and asked them to stop their productions and to destroy their weapon facilities immediately. EVAC rejected all accusations and refused to take any actions. So a preventive war was started by the United Nations to stop the EVAC corporation.</desc>
+		<image>./images/ket-image.png</image>
+		<video>./videos/ket-video.mp4</video>
+		<marquee>./images/ket-marquee.png</marquee>
+		<thumbnail>./images/ket-thumb.png</thumbnail>
+		<fanart>./images/ket-fanart.jpg</fanart>
+		<manual>./manuals/ket-manual.pdf</manual>
+		<bezel>./images/ket-bezel.png</bezel>
+		<rating>0.9</rating>
+		<releasedate>20020101T000000</releasedate>
+		<developer>Cave</developer>
+		<publisher>AMI</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<arcadesystemname>cave</arcadesystemname>
+		<players>1-2</players>
+		<md5>583ca35056f30059987555f85e5d895e</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T075407" />
+	</game>
+	<game id="63095">
+		<path>./Cave/mmmbanc.zip</path>
+		<name>Medal Mahjong Moukari Bancho</name>
+		<desc>Medal Mahjong Moukari Bancho is a video game trilogy in the genre of competitive game titles. It was released for the Demul platform. It was the great  game franchise created by Developers, following this game series and is set in the same fictional universe as a prequel to the game franchise.One major difference between the human and robot characters is that the robot characters can blow up (or lose all their power) if they are worked too hard during a game. That can happen if you constantly make them dive for a ball, run extra bases, or even if they get hit by a pitch. Under no stress whatsoever, some robots, especially pitchers, will naturally run out of power as the game progresses. When this happens, they will lose all their abilities and be useless, both offensively and defensively.</desc>
+		<image>./images/mmmbanc-image.png</image>
+		<video>./videos/mmmbanc-video.mp4</video>
+		<marquee>./images/mmmbanc-marquee.png</marquee>
+		<thumbnail>./images/mmmbanc-thumb.png</thumbnail>
+		<fanart>./images/mmmbanc-fanart.jpg</fanart>
+		<releasedate>20070101T000000</releasedate>
+		<developer>Cave</developer>
+		<publisher>Cave</publisher>
+		<genre>Asiatic board game / Mahjong</genre>
+		<arcadesystemname>cave</arcadesystemname>
+		<players>1</players>
+		<md5>d1b68dc089bf6d8296b34f7c45fcf97c</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T075415" />
+	</game>
+	<game id="37345">
+		<path>./Cave/mmpork.zip</path>
+		<name>Muchi Muchi Pork!</name>
+		<desc>The story features a trio of females from Batazuka City who have been transformed into pig-girls by the main antagonist, General Porkfillet. They ride flying motor bikes called "ketta machines", which are powered by pedaling.[7]
+
+Very little story is shown in-game, besides a few comic-strip style images shown at the start, and a short ending sequence. As in Pink Sweets, many of the character names are puns on food.</desc>
+		<image>./images/mmpork-image.png</image>
+		<video>./videos/mmpork-video.mp4</video>
+		<marquee>./images/mmpork-marquee.png</marquee>
+		<thumbnail>./images/mmpork-thumb.png</thumbnail>
+		<fanart>./images/mmpork-fanart.jpg</fanart>
+		<bezel>./images/mmpork-bezel.png</bezel>
+		<rating>0.8</rating>
+		<releasedate>20070101T000000</releasedate>
+		<developer>Cave</developer>
+		<publisher>AMI</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<arcadesystemname>cave</arcadesystemname>
+		<players>1-2</players>
+		<md5>0a6e892c4e2a7e47364006f2ddeaf111</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T075427" />
+	</game>
+	<game id="37346">
+		<path>./Cave/mushisama.zip</path>
+		<name>Mushihime-Sama</name>
+		<desc>In a different time than now...
+
+A time when deserts spread across the Earth,
+and arthropods with gigantic hard shells flourished.
+
+The humans living in the shadows called these beasts
+with shells who worshipped the god of the forest for Koujuu.
+
+In a small part of that forest was the village of the humans. It was a land that was allowed go on surviving, by offering a sacrifice in the form of a 15 year old once every 200 years.
+
+On the night of each sacrifice, a great number of shooting stars could be seen, which gave it the name "Hoshifuri Village". And living there was a bright princess. Her name was Reco.</desc>
+		<image>./images/mushisama-image.png</image>
+		<video>./videos/mushisama-video.mp4</video>
+		<marquee>./images/mushisama-marquee.png</marquee>
+		<thumbnail>./images/mushisama-thumb.png</thumbnail>
+		<fanart>./images/mushisama-fanart.jpg</fanart>
+		<manual>./manuals/mushisama-manual.pdf</manual>
+		<bezel>./images/mushisama-bezel.png</bezel>
+		<rating>0.8</rating>
+		<releasedate>20040101T000000</releasedate>
+		<developer>Cave</developer>
+		<publisher>AMI</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<arcadesystemname>cave</arcadesystemname>
+		<players>1-2</players>
+		<md5>a6a0575c31c18c0606505bf517c0df4f</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T075438" />
+	</game>
+	<game id="37346">
+		<path>./Cave/mushisamb.zip</path>
+		<name>Mushihime-Sama</name>
+		<desc>In a different time than now...
+
+A time when deserts spread across the Earth,
+and arthropods with gigantic hard shells flourished.
+
+The humans living in the shadows called these beasts
+with shells who worshipped the god of the forest for Koujuu.
+
+In a small part of that forest was the village of the humans. It was a land that was allowed go on surviving, by offering a sacrifice in the form of a 15 year old once every 200 years.
+
+On the night of each sacrifice, a great number of shooting stars could be seen, which gave it the name "Hoshifuri Village". And living there was a bright princess. Her name was Reco.</desc>
+		<image>./images/mushisamb-image.png</image>
+		<video>./videos/mushisamb-video.mp4</video>
+		<marquee>./images/mushisamb-marquee.png</marquee>
+		<thumbnail>./images/mushisamb-thumb.png</thumbnail>
+		<fanart>./images/mushisamb-fanart.jpg</fanart>
+		<manual>./manuals/mushisamb-manual.pdf</manual>
+		<bezel>./images/mushisamb-bezel.png</bezel>
+		<rating>0.8</rating>
+		<releasedate>20040101T000000</releasedate>
+		<developer>Cave</developer>
+		<publisher>AMI</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<arcadesystemname>cave</arcadesystemname>
+		<players>1-2</players>
+		<md5>80f6a79b38781889c55b7f67df10678c</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T075450" />
+	</game>
+	<game id="37347">
+		<path>./Cave/mushitama.zip</path>
+		<name>Puzzle! Mushihime-Tama</name>
+		<desc>A puzzle game with the same character from "Mushihime Sama".</desc>
+		<image>./images/mushitama-image.png</image>
+		<video>./videos/mushitama-video.mp4</video>
+		<marquee>./images/mushitama-marquee.png</marquee>
+		<thumbnail>./images/mushitama-thumb.png</thumbnail>
+		<fanart>./images/mushitama-fanart.jpg</fanart>
+		<bezel>./images/mushitama-bezel.png</bezel>
+		<rating>0.8</rating>
+		<releasedate>20050101T000000</releasedate>
+		<developer>Cave</developer>
+		<publisher>AMI</publisher>
+		<genre>Puzzle-Game / Equalize</genre>
+		<arcadesystemname>cave</arcadesystemname>
+		<players>1-2</players>
+		<md5>f96e6e35d10f31e6fe15a5b423d8c44b</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T075500" />
+	</game>
+	<game id="37348">
+		<path>./Cave/pinkswtsa.zip</path>
+		<name>Pink Sweets: Ibara Sorekara</name>
+		<desc>In Pink Sweets, the sixth and final Guardian in Ibara, did not die. Neither did any of the Rose sisters. Instead, they shifted from the dark side to the light.</desc>
+		<image>./images/pinkswtsa-image.png</image>
+		<video>./videos/pinkswtsa-video.mp4</video>
+		<marquee>./images/pinkswtsa-marquee.png</marquee>
+		<thumbnail>./images/pinkswtsa-thumb.png</thumbnail>
+		<fanart>./images/pinkswtsa-fanart.jpg</fanart>
+		<bezel>./images/pinkswtsa-bezel.png</bezel>
+		<rating>0.7</rating>
+		<releasedate>20060101T000000</releasedate>
+		<developer>Cave</developer>
+		<publisher>AMI</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<family>Ibara</family>
+		<arcadesystemname>cave</arcadesystemname>
+		<players>1-2</players>
+		<md5>93f4baf88f90b8cb28c50b2e7bd3671b</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T075511" />
+	</game>
+	<game id="37348">
+		<path>./Cave/pinkswtsb.zip</path>
+		<name>Pink Sweets: Ibara Sorekara</name>
+		<desc>In Pink Sweets, the sixth and final Guardian in Ibara, did not die. Neither did any of the Rose sisters. Instead, they shifted from the dark side to the light.</desc>
+		<image>./images/pinkswtsb-image.png</image>
+		<video>./videos/pinkswtsb-video.mp4</video>
+		<marquee>./images/pinkswtsb-marquee.png</marquee>
+		<thumbnail>./images/pinkswtsb-thumb.png</thumbnail>
+		<fanart>./images/pinkswtsb-fanart.jpg</fanart>
+		<bezel>./images/pinkswtsb-bezel.png</bezel>
+		<rating>0.7</rating>
+		<releasedate>20060101T000000</releasedate>
+		<developer>Cave</developer>
+		<publisher>AMI</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<family>Ibara</family>
+		<arcadesystemname>cave</arcadesystemname>
+		<players>1-2</players>
+		<md5>b8f0cd85e797d8005956cf9484cdd72b</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T075522" />
+	</game>
+	<game id="37348">
+		<path>./Cave/pinkswtsx.zip</path>
+		<name>Pink Sweets: Ibara Sorekara</name>
+		<desc>In Pink Sweets, the sixth and final Guardian in Ibara, did not die. Neither did any of the Rose sisters. Instead, they shifted from the dark side to the light.</desc>
+		<image>./images/pinkswtsx-image.png</image>
+		<video>./videos/pinkswtsx-video.mp4</video>
+		<marquee>./images/pinkswtsx-marquee.png</marquee>
+		<thumbnail>./images/pinkswtsx-thumb.png</thumbnail>
+		<fanart>./images/pinkswtsx-fanart.jpg</fanart>
+		<bezel>./images/pinkswtsx-bezel.png</bezel>
+		<rating>0.7</rating>
+		<releasedate>20060101T000000</releasedate>
+		<developer>Cave</developer>
+		<publisher>AMI</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<family>Ibara</family>
+		<arcadesystemname>cave</arcadesystemname>
+		<players>1-2</players>
+		<md5>7678bd004720701b5919f2cad8b07940</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T075534" />
+	</game>
+	<game id="213656">
+		<path>./Cave/shaktamb.zip</path>
+		<name>Shakatto Tambourine - Cho Powerup Chu</name>
+		<image>./images/shaktamb-image.png</image>
+		<video>./videos/shaktamb-video.mp4</video>
+		<marquee>./images/shaktamb-marquee.png</marquee>
+		<thumbnail>./images/shaktamb-thumb.png</thumbnail>
+		<releasedate>20010101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Music and Dance</genre>
+		<players>1-2</players>
+		<md5>1cbc2c8cb643eb438397906b1443b439</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T075541" />
+	</game>
+	<game id="46842">
+		<path>./Cave/spkrbtl.zip</path>
+		<name>Spikers Battle</name>
+		<desc>Spikers Battle is the fourth installment to the Spikeout series. Putting an arena-styled competitive twist to the formula, Spikers Battle retains it's 3D beat-'em-up gameplay but takes a more traditional verses fighting game approach.</desc>
+		<image>./images/spkrbtl-image.png</image>
+		<video>./videos/spkrbtl-video.mp4</video>
+		<marquee>./images/spkrbtl-marquee.png</marquee>
+		<thumbnail>./images/spkrbtl-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>20010101T000000</releasedate>
+		<developer>Amusement Vision</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fight / 3D</genre>
+		<players>1</players>
+		<md5>0f431043038d340a8a34b484214d099a</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T075549" />
+	</game>
 </gameList>

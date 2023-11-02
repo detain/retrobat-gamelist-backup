@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./ecwolf/ecwolf.exe</path>
+		<name>ecwolf</name>
+		<md5>de2eeebabe46070ec2004546244a601f</md5>
+		<scrap name="ScreenScraper" date="20231102T092652" />
+	</game>
+	<game>
+		<path>./ecwolf/ecwolf.pk3</path>
+		<name>ecwolf</name>
+		<md5>8f4f0387aec16ef8b0a628a2c81c2ecd</md5>
+		<scrap name="ScreenScraper" date="20231102T092654" />
+	</game>
+	<game>
+		<path>./ecwolf/serpent1.pk3</path>
+		<name>serpent1</name>
+		<md5>34dded3c8b76136ecc51f93ea731d89b</md5>
+		<scrap name="ScreenScraper" date="20231102T092655" />
+	</game>
+</gameList>

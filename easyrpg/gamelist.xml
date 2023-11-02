@@ -1847,9 +1847,543 @@ Shini Sou is a game made in 10 hours for the RETROMANIA! event. Playing as the H
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231102T034152" />
 	</game>
-	<game>
+	<game id="214327">
 		<path>./EasyRPG/Sideways.zip</path>
 		<name>Sideways</name>
+		<image>./images/Sideways-image.png</image>
+		<marquee>./images/Sideways-marquee.png</marquee>
 		<md5>9ad2aa0fe9369f9933d935bd18f76d43</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T090639" />
+	</game>
+	<game id="214329">
+		<path>./EasyRPG/SpaceFuneral.zip</path>
+		<name>Space Funeral</name>
+		<desc>Phillip and the Leg Horse set off on a strange and deadly mission to find the legendary City Of Forms from which all things in the world are derived. On their travels they must overcome ghosts, criminals, hyponosis, lions, Draculas, cryptic letters, muscle hedonists, swamp knights, mysterious caves, blood ghouls, grotesque monsters, purple drank and more in order to discover the secret of Space Funeral.
+
+A shortish RPG Maker 2003 game with original graphics, a soundtrack of creaky vintage electronica and obscure Japanese noiserock, and lots of blood.</desc>
+		<image>./images/SpaceFuneral-image.jpg</image>
+		<marquee>./images/SpaceFuneral-marquee.png</marquee>
+		<thumbnail>./images/SpaceFuneral-thumb.png</thumbnail>
+		<releasedate>20100925T000000</releasedate>
+		<developer>catmitts</developer>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<md5>22ef6aa735613decdb4e7c8c489721ca</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T090641" />
+	</game>
+	<game id="214331">
+		<path>./EasyRPG/SpeakNoEvil.zip</path>
+		<name>Speak No Evil</name>
+		<image>./images/SpeakNoEvil-image.png</image>
+		<marquee>./images/SpeakNoEvil-marquee.png</marquee>
+		<md5>9b0c2423ea7e1055c88e6e83c1113719</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T090642" />
+	</game>
+	<game id="214333">
+		<path>./EasyRPG/SpiritInTheMirror.zip</path>
+		<name>Spirit in the Mirror</name>
+		<image>./images/SpiritInTheMirror-image.png</image>
+		<marquee>./images/SpiritInTheMirror-marquee.png</marquee>
+		<md5>9ec3f077458acf03c0dc64277ab7bb15</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T090644" />
+	</game>
+	<game id="214335">
+		<path>./EasyRPG/StarlancerSix.zip</path>
+		<name>Starlancer Six</name>
+		<image>./images/StarlancerSix-image.png</image>
+		<marquee>./images/StarlancerSix-marquee.png</marquee>
+		<md5>1c13e2957b9f5631a8c63a1bab633d2a</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T090645" />
+	</game>
+	<game id="214337">
+		<path>./EasyRPG/SteelSpiritSaga.zip</path>
+		<name>Steel Spirit SaGa</name>
+		<image>./images/SteelSpiritSaga-image.png</image>
+		<marquee>./images/SteelSpiritSaga-marquee.png</marquee>
+		<md5>530b040ded371e7c8942aedb162f7ed0</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T090647" />
+	</game>
+	<game id="214339">
+		<path>./EasyRPG/Sunset Over Imdahl.zip</path>
+		<name>Sunset Over Imdahl</name>
+		<image>./images/Sunset Over Imdahl-image.png</image>
+		<marquee>./images/Sunset Over Imdahl-marquee.png</marquee>
+		<md5>b325912e161b88d353f765b5ee1c2bf9</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T090649" />
+	</game>
+	<game id="214341">
+		<path>./EasyRPG/SuperMarioRpgSevenSagesV1.7.0.zip</path>
+		<name>Super Mario RPG Seven Sages</name>
+		<image>./images/SuperMarioRpgSevenSagesV1.7.0-image.png</image>
+		<marquee>./images/SuperMarioRpgSevenSagesV1.7.0-marquee.png</marquee>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T090650" />
+	</game>
+	<game id="214343">
+		<path>./EasyRPG/SuperNatural.zip</path>
+		<name>SuperNatural</name>
+		<marquee>./images/SuperNatural-marquee.png</marquee>
+		<thumbnail>./images/SuperNatural-thumb.png</thumbnail>
+		<md5>7b8cab44f34c38c89a2f8c8dff360d70</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T090723" />
+	</game>
+	<game id="214345">
+		<path>./EasyRPG/SuzyAndFreedom.zip</path>
+		<name>Suzy and Freedom</name>
+		<image>./images/SuzyAndFreedom-image.png</image>
+		<marquee>./images/SuzyAndFreedom-marquee.png</marquee>
+		<md5>6d347650417a5b4b9b35fa07ff5927e3</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T090725" />
+	</game>
+	<game id="214347">
+		<path>./EasyRPG/Taut.zip</path>
+		<name>Taut</name>
+		<image>./images/Taut-image.png</image>
+		<marquee>./images/Taut-marquee.png</marquee>
+		<md5>16611bd90d492900aea12494687e4c7a</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T090726" />
+	</game>
+	<game>
+		<path>./EasyRPG/TetrisV2.2.zip</path>
+		<name>TetrisV2.2</name>
+		<md5>9abe99cad5993ebd18f8c148daee882c</md5>
+		<scrap name="ScreenScraper" date="20231102T090728" />
+	</game>
+	<game id="214351">
+		<path>./EasyRPG/TheAdventuresOfCaptainMaloneumI.zip</path>
+		<name>The Adventures of Captain Maloneum I</name>
+		<image>./images/TheAdventuresOfCaptainMaloneumI-image.png</image>
+		<marquee>./images/TheAdventuresOfCaptainMaloneumI-marquee.png</marquee>
+		<md5>6cd294dae778861bf7db4d62dcddbd25</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T090729" />
+	</game>
+	<game id="214353">
+		<path>./EasyRPG/TheBurningGrailV1.1.zip</path>
+		<name>The Burning Grail</name>
+		<image>./images/TheBurningGrailV1.1-image.png</image>
+		<marquee>./images/TheBurningGrailV1.1-marquee.png</marquee>
+		<thumbnail>./images/TheBurningGrailV1.1-thumb.png</thumbnail>
+		<md5>b79252302110d83bb31a069cbce71fe4</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T090731" />
+	</game>
+	<game id="214355">
+		<path>./EasyRPG/TheChimeraReport.zip</path>
+		<name>The Chimera Report</name>
+		<image>./images/TheChimeraReport-image.png</image>
+		<marquee>./images/TheChimeraReport-marquee.png</marquee>
+		<thumbnail>./images/TheChimeraReport-thumb.png</thumbnail>
+		<md5>1fa7f91b6ef6ca9759a5ab57106da997</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T090732" />
+	</game>
+	<game id="214357">
+		<path>./EasyRPG/TheHuntressOfTheHollowV1.2.zip</path>
+		<name>The Huntress of the Hollow</name>
+		<desc>Lenora Calamint lives with her mother in a small village called Pokeweed Hollow on the outskirts of a forest. She often delivers food to her stubborn grandmother, who prefers to live alone in the woods. While the forest is a dangerous place full of wolves, the village and her grandmother's house were peaceful.
+
+However, once a travelling, charismatic hunter decided to settle near the village and offered to protect it, the local wolves became mysteriously violent and began to attack the village in erratic bursts of activity. Due to these events, some villagers praise the hunter for his help in keeping the wolves out of their homes. The others can't help but think there's something suspicious about the matter. Despite it all, Lenora still has a grandmother to take care of, and so she wakes up to begin her routine of visiting her grandmother anew.</desc>
+		<image>./images/TheHuntressOfTheHollowV1.2-image.png</image>
+		<video>./videos/TheHuntressOfTheHollowV1.2-video.mp4</video>
+		<marquee>./images/TheHuntressOfTheHollowV1.2-marquee.png</marquee>
+		<thumbnail>./images/TheHuntressOfTheHollowV1.2-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>20160909T000000</releasedate>
+		<developer>bleet</developer>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T090736" />
+	</game>
+	<game id="214359">
+		<path>./EasyRPG/TheLongingRibbon.zip</path>
+		<name>The Longing Ribbon</name>
+		<image>./images/TheLongingRibbon-image.png</image>
+		<marquee>./images/TheLongingRibbon-marquee.png</marquee>
+		<thumbnail>./images/TheLongingRibbon-thumb.png</thumbnail>
+		<md5>7b7a791f4d5322e818ad12fd42d68319</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T090737" />
+	</game>
+	<game id="214361">
+		<path>./EasyRPG/TheLostLegend.zip</path>
+		<name>The Lost Legend</name>
+		<image>./images/TheLostLegend-image.png</image>
+		<marquee>./images/TheLostLegend-marquee.png</marquee>
+		<md5>c32d35a9a4201fcff5f3bf4e004a43c2</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T090739" />
+	</game>
+	<game id="214363">
+		<path>./EasyRPG/TheMaidOfFairewellHeightsV1.0.zip</path>
+		<name>The Maid of Fairewell Heights</name>
+		<image>./images/TheMaidOfFairewellHeightsV1.0-image.png</image>
+		<marquee>./images/TheMaidOfFairewellHeightsV1.0-marquee.png</marquee>
+		<md5>1c83b45f155a0c7c7989e1d47ccb65e7</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T090740" />
+	</game>
+	<game id="214365">
+		<path>./EasyRPG/TheNothingness.zip</path>
+		<name>The Nothingness</name>
+		<image>./images/TheNothingness-image.png</image>
+		<marquee>./images/TheNothingness-marquee.png</marquee>
+		<md5>05707f70cab5e27bd5ab08445b1927bb</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T090742" />
+	</game>
+	<game id="214367">
+		<path>./EasyRPG/ThePanspermiaV1.15.zip</path>
+		<name>The Panspermia</name>
+		<image>./images/ThePanspermiaV1.15-image.png</image>
+		<marquee>./images/ThePanspermiaV1.15-marquee.png</marquee>
+		<md5>b12294500d4db2b67e23f666bd5624d2</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T090744" />
+	</game>
+	<game id="214369">
+		<path>./EasyRPG/ThePhantomsEntryMapContest.zip</path>
+		<name>The Phantoms Entry Map Contest</name>
+		<image>./images/ThePhantomsEntryMapContest-image.png</image>
+		<marquee>./images/ThePhantomsEntryMapContest-marquee.png</marquee>
+		<md5>e9561317d944d8d315f876f4c1236a47</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T090746" />
+	</game>
+	<game id="214371">
+		<path>./EasyRPG/TheSwordAndTheFish.zip</path>
+		<name>The Sword and the Fish</name>
+		<image>./images/TheSwordAndTheFish-image.png</image>
+		<marquee>./images/TheSwordAndTheFish-marquee.png</marquee>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T090748" />
+	</game>
+	<game>
+		<path>./EasyRPG/TheTiamatSacramentV1.1.zip</path>
+		<name>TheTiamatSacramentV1.1</name>
+		<md5>8761358d33228ccecb17dab53f2e01b5</md5>
+		<scrap name="ScreenScraper" date="20231102T090749" />
+	</game>
+	<game id="214375">
+		<path>./EasyRPG/TheWayEpisode1.zip</path>
+		<name>The Way Episode 1</name>
+		<image>./images/TheWayEpisode1-image.png</image>
+		<marquee>./images/TheWayEpisode1-marquee.png</marquee>
+		<md5>772083482ad00c1c38d6e38ecfd692a0</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T090751" />
+	</game>
+	<game id="214377">
+		<path>./EasyRPG/TheWayEpisode2.zip</path>
+		<name>The Way Episode 2</name>
+		<image>./images/TheWayEpisode2-image.png</image>
+		<marquee>./images/TheWayEpisode2-marquee.png</marquee>
+		<md5>79ce27a27b8851807931f6003cc85a91</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T090752" />
+	</game>
+	<game id="214379">
+		<path>./EasyRPG/TheWayEpisode3.zip</path>
+		<name>The Way Episode 3</name>
+		<image>./images/TheWayEpisode3-image.png</image>
+		<marquee>./images/TheWayEpisode3-marquee.png</marquee>
+		<md5>61afc61f2cc231452460c5c66a0da64d</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T090754" />
+	</game>
+	<game id="214381">
+		<path>./EasyRPG/TheWayEpisode4.zip</path>
+		<name>The Way Episode 4</name>
+		<image>./images/TheWayEpisode4-image.png</image>
+		<marquee>./images/TheWayEpisode4-marquee.png</marquee>
+		<md5>d068148d9c88ce21d30bf6a9bd1eb790</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T090756" />
+	</game>
+	<game id="214383">
+		<path>./EasyRPG/TheWayEpisode5.zip</path>
+		<name>The Way Episode 5</name>
+		<image>./images/TheWayEpisode5-image.png</image>
+		<marquee>./images/TheWayEpisode5-marquee.png</marquee>
+		<md5>37b2258c49b2cdb7d4adf5d7ddab6e8c</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T090758" />
+	</game>
+	<game id="214385">
+		<path>./EasyRPG/TheWayEpisode6.zip</path>
+		<name>The Way Episode 6</name>
+		<image>./images/TheWayEpisode6-image.png</image>
+		<marquee>./images/TheWayEpisode6-marquee.png</marquee>
+		<md5>0369b803c510eb0de4bdf09009e7c5b3</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T090800" />
+	</game>
+	<game id="214387">
+		<path>./EasyRPG/ThreeTheHardWay.zip</path>
+		<name>Three the Hard Way</name>
+		<desc>Many years ago, a mysterious group of monsters called "Kaibutsu" appeared in Durham Kingdom and ravaged the land. No one was able to resist their power, that is, until a hero named Carolus emerged. He was able to defeat the Kaibutsu leader, who happened to be his sister, and save the nation. After this, the people made him their king. However, 65 years have passed since his victory, and gradually, as he has aged, he has surrendered more of his political power to his vassal dukes, who have very different ideas on how the kingdom should be run.
+
+All of this is trivial background noise for a certain bartender from a backwoods forest town. Vance, the bartender in question, is bored with life, and decides he needs some excitement and some big money. The less actual hard work involved, the better. And nothing will stand in his way ...</desc>
+		<image>./images/ThreeTheHardWay-image.png</image>
+		<marquee>./images/ThreeTheHardWay-marquee.png</marquee>
+		<thumbnail>./images/ThreeTheHardWay-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>20070624T000000</releasedate>
+		<developer>iishenron</developer>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<md5>7972b71539e464a6c19ff7df7185e98f</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T090802" />
+	</game>
+	<game id="214389">
+		<path>./EasyRPG/TouhouSeiborokuTouhouMother.zip</path>
+		<name>Touhou Seiboroku Touhou Mother</name>
+		<desc>Touhou Seiboroku Touhou Mother is a Touhou Project and EarthBound cross-over parody. It stars Reimu Hakurei, Marisa Kirisame, Yuuka Kazami, and Mima and features many Touhou characters from the PC-98 and Windows canon, along with several characters from the Mother series and a few fan-made characters. The majority of the outside influence and references come from EarthBound, but other notorious video games are paid homage as well.</desc>
+		<image>./images/TouhouSeiborokuTouhouMother-image.png</image>
+		<marquee>./images/TouhouSeiborokuTouhouMother-marquee.png</marquee>
+		<md5>569288a8c4376f62970b4de03af88fdd</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T090803" />
+	</game>
+	<game id="214391">
+		<path>./EasyRPG/TouhouSequelrokuReturnOfTouhouMother.zip</path>
+		<name>Touhou Sequelroku Return of Touhou Mother</name>
+		<image>./images/TouhouSequelrokuReturnOfTouhouMother-image.png</image>
+		<marquee>./images/TouhouSequelrokuReturnOfTouhouMother-marquee.png</marquee>
+		<md5>c3458417e5e10f84be5490d8035bb96e</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T090805" />
+	</game>
+	<game id="214393">
+		<path>./EasyRPG/ToymakerPrologue.zip</path>
+		<name>Toymaker Prologue</name>
+		<image>./images/ToymakerPrologue-image.png</image>
+		<marquee>./images/ToymakerPrologue-marquee.png</marquee>
+		<md5>300e8e7979017d9330940228efea1cbd</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T090807" />
+	</game>
+	<game id="214395">
+		<path>./EasyRPG/Trial.zip</path>
+		<name>Trial</name>
+		<marquee>./images/Trial-marquee.png</marquee>
+		<thumbnail>./images/Trial-thumb.png</thumbnail>
+		<md5>78e78ce673be2280f07094574a4caab5</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T090810" />
+	</game>
+	<game id="214397">
+		<path>./EasyRPG/Tsukuru9.zip</path>
+		<name>Tsukuru 9</name>
+		<image>./images/Tsukuru9-image.png</image>
+		<marquee>./images/Tsukuru9-marquee.png</marquee>
+		<md5>9e7f5ab007204606cc2cf40709d15406</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T090812" />
+	</game>
+	<game id="214399">
+		<path>./EasyRPG/TsukuruNova.zip</path>
+		<name>TsukuruNova</name>
+		<desc>Welcome aboard the starship TsukuruNova 20003! In deep space, disaster strikes! The Firmament GL Plant on planet Greenshell 3, which provides the colonists with fresh, breathable air, is breaking down! Could it be a malfunction? An alien attack? Who knows? The crew of the magnificent TsukuruNova 20003 are sent to investigate!
+
+You play as Special Operative Maelym Terraero, leader of the Hazardous Emergency Assault Recon Team. Together with Jean-Luc Alysner, a monolite-blade fencer and healokinesis acolyte, and LR-388, a combat heavy weapons robot, you must save the planet and get everyone breathing healthy air again!</desc>
+		<image>./images/TsukuruNova-image.png</image>
+		<marquee>./images/TsukuruNova-marquee.png</marquee>
+		<thumbnail>./images/TsukuruNova-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>20150510T000000</releasedate>
+		<developer>unity</developer>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<md5>325377b1a0f936a0cca246479a71acbd</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T090814" />
+	</game>
+	<game id="214401">
+		<path>./EasyRPG/Tundra.zip</path>
+		<name>Tundra</name>
+		<image>./images/Tundra-image.png</image>
+		<marquee>./images/Tundra-marquee.png</marquee>
+		<md5>0c325e8e91ce3074a625c36bbe58a33d</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T090815" />
+	</game>
+	<game id="214403">
+		<path>./EasyRPG/VampiresDawnReignOfBlood.zip</path>
+		<name>Vampires Dawn: Reign of Blood</name>
+		<desc>A grandfather tells his grandson a story about love, hate, jealousy and betrayal. In this story, a warrior named Valnar has been suffering from an ever recurring nightmare, accompanied by severe headaches. Lately he has been having this same nightmare every night, making him increasingly fragile. But tonight, the headaches are so unbearable that he goes to get a painkiller from the doctor. When he gets back home, his concerned girlfriend calms him down and he goes back to sleep. Later that night, he hears a scream and wakes up again. A pool of blood stains the floor of his home...and his girlfriend is gone.
+
+Will he find out what's happend?
+
+Is it her blood?
+
+If it is, can he find her body?
+
+If you want answers to this questions, then play Vampires Dawn - Reign of Blood!
+
+Attention: The Game contains a strong language and violent bloodscenes.</desc>
+		<image>./images/VampiresDawnReignOfBlood-image.png</image>
+		<video>./videos/VampiresDawnReignOfBlood-video.mp4</video>
+		<marquee>./images/VampiresDawnReignOfBlood-marquee.png</marquee>
+		<thumbnail>./images/VampiresDawnReignOfBlood-thumb.png</thumbnail>
+		<fanart>./images/VampiresDawnReignOfBlood-fanart.jpg</fanart>
+		<rating>0.75</rating>
+		<releasedate>20020707T000000</releasedate>
+		<developer>Alexander "Marlex" Koch</developer>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<md5>f141ed7594d3b8cf68f36a199fe45f9a</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T090817" />
+	</game>
+	<game id="214405">
+		<path>./EasyRPG/VampyresKissBattleSample.zip</path>
+		<name>Vampyres Kiss Battle Sample</name>
+		<image>./images/VampyresKissBattleSample-image.png</image>
+		<marquee>./images/VampyresKissBattleSample-marquee.png</marquee>
+		<md5>ed2923edfe5a7f5ee4237f321ce5b153</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T090818" />
+	</game>
+	<game id="214407">
+		<path>./EasyRPG/VilleNore.zip</path>
+		<name>Ville Nore</name>
+		<image>./images/VilleNore-image.png</image>
+		<marquee>./images/VilleNore-marquee.png</marquee>
+		<md5>9a892f825f625bb412837ad710797a5b</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T090820" />
+	</game>
+	<game id="214409">
+		<path>./EasyRPG/Vindication.zip</path>
+		<name>Vindication</name>
+		<image>./images/Vindication-image.png</image>
+		<marquee>./images/Vindication-marquee.png</marquee>
+		<md5>4b2ec5467e9553724a69925e6b48f12f</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T090822" />
+	</game>
+	<game id="214411">
+		<path>./EasyRPG/WartoolsV1.14.zip</path>
+		<name>Wartools</name>
+		<image>./images/WartoolsV1.14-image.png</image>
+		<marquee>./images/WartoolsV1.14-marquee.png</marquee>
+		<thumbnail>./images/WartoolsV1.14-thumb.png</thumbnail>
+		<md5>102e3f5aa67579d0274e44610c24b3c3</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T090826" />
+	</game>
+	<game id="214413">
+		<path>./EasyRPG/Where They Live v1.2.zip</path>
+		<name>Where They Live</name>
+		<image>./images/Where They Live v1.2-image.png</image>
+		<marquee>./images/Where They Live v1.2-marquee.png</marquee>
+		<md5>40ba88f85756166a03ec680533b6bcb4</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T090827" />
+	</game>
+	<game id="214415">
+		<path>./EasyRPG/WhiteMagicDemo.zip</path>
+		<name>White Magic Demo</name>
+		<image>./images/WhiteMagicDemo-image.png</image>
+		<marquee>./images/WhiteMagicDemo-marquee.png</marquee>
+		<thumbnail>./images/WhiteMagicDemo-thumb.png</thumbnail>
+		<md5>65f08cd7f6227cf822449e90a3eb5255</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T090829" />
+	</game>
+	<game id="214417">
+		<path>./EasyRPG/WildArms2SecondIgnitionSideStory.zip</path>
+		<name>Wild Arms 2 Second Ignition Side Story</name>
+		<image>./images/WildArms2SecondIgnitionSideStory-image.png</image>
+		<marquee>./images/WildArms2SecondIgnitionSideStory-marquee.png</marquee>
+		<thumbnail>./images/WildArms2SecondIgnitionSideStory-thumb.png</thumbnail>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T090831" />
+	</game>
+	<game id="214419">
+		<path>./EasyRPG/WildRageChristmasBattle.zip</path>
+		<name>Wild Rage Christmas Battle</name>
+		<image>./images/WildRageChristmasBattle-image.png</image>
+		<marquee>./images/WildRageChristmasBattle-marquee.png</marquee>
+		<thumbnail>./images/WildRageChristmasBattle-thumb.png</thumbnail>
+		<md5>bba4a2aa82796cead2d92a0d785c53b2</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T090832" />
+	</game>
+	<game id="214421">
+		<path>./EasyRPG/WilfredTheHeroPart1.zip</path>
+		<name>Wilfred the Hero Part 1</name>
+		<image>./images/WilfredTheHeroPart1-image.png</image>
+		<marquee>./images/WilfredTheHeroPart1-marquee.png</marquee>
+		<thumbnail>./images/WilfredTheHeroPart1-thumb.png</thumbnail>
+		<md5>8ca91c7841a81c39d6de653920ef06da</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T090835" />
+	</game>
+	<game id="214423">
+		<path>./EasyRPG/Wither.zip</path>
+		<name>Wither</name>
+		<image>./images/Wither-image.png</image>
+		<marquee>./images/Wither-marquee.png</marquee>
+		<md5>057f8b92dcc1fce196e486d122d96245</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T090837" />
+	</game>
+	<game id="214425">
+		<path>./EasyRPG/WoobyRpg.zip</path>
+		<name>Wooby RPG</name>
+		<image>./images/WoobyRpg-image.png</image>
+		<marquee>./images/WoobyRpg-marquee.png</marquee>
+		<md5>b259d565d374972011850976cddda3a1</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T090838" />
+	</game>
+	<game>
+		<path>./EasyRPG/YouAndIV1.10.zip</path>
+		<name>YouAndIV1.10</name>
+		<md5>457b237f5a5133744cc65b538ece6ace</md5>
+		<scrap name="ScreenScraper" date="20231102T090840" />
+	</game>
+	<game id="214429">
+		<path>./EasyRPG/ZeldaLinksAwakening.zip</path>
+		<name>Zelda Links Awakening</name>
+		<image>./images/ZeldaLinksAwakening-image.png</image>
+		<marquee>./images/ZeldaLinksAwakening-marquee.png</marquee>
+		<md5>77d3d68dfc941cbe877660b58ab1e66e</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T090843" />
+	</game>
+	<game id="214431">
+		<path>./EasyRPG/ZeldaTheOakQuest.zip</path>
+		<name>Zelda The Oak Quest</name>
+		<image>./images/ZeldaTheOakQuest-image.png</image>
+		<marquee>./images/ZeldaTheOakQuest-marquee.png</marquee>
+		<thumbnail>./images/ZeldaTheOakQuest-thumb.png</thumbnail>
+		<md5>806b73a7d74049f38e95ae4abf557205</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T090844" />
+	</game>
+	<game id="214433">
+		<path>./EasyRPG/ZeroBase.zip</path>
+		<name>Zero Base</name>
+		<image>./images/ZeroBase-image.png</image>
+		<marquee>./images/ZeroBase-marquee.png</marquee>
+		<thumbnail>./images/ZeroBase-thumb.png</thumbnail>
+		<md5>271df3bf6af27758722ded671a10fa68</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T090847" />
 	</game>
 </gameList>
