@@ -309,16 +309,6 @@ The game boasted "incredibly realistic virtual 3D" which meant having to don the
 		<boxback>./images/Air Support (USA) (Disk 1)-boxback.png</boxback>
 	</game>
 	<game>
-		<path>./No-Intro/20211028-052318 MIA 10/Air Support (USA) (Disk 2).ipf</path>
-		<name>Air Support (USA) (Disk 2)</name>
-		<md5>782f8280e4afa0dac274e4af9a721d5f</md5>
-		<image>./images/Air Support (USA) (Disk 2)-image.png</image>
-		<video>./videos/Air Support (USA) (Disk 2)-video.mp4</video>
-		<marquee>./images/Air Support (USA) (Disk 2)-marquee.png</marquee>
-		<thumbnail>./images/Air Support (USA) (Disk 2)-thumb.png</thumbnail>
-		<boxback>./images/Air Support (USA) (Disk 2)-boxback.png</boxback>
-	</game>
-	<game>
 		<path>./TOSEC/Games/SPS/Lost Treasures of Infocom, The (1992)(Activision)(US)[WB][0928]/LostTreasuresOfInfocom,The_Disk1.ipf</path>
 		<name>LostTreasuresOfInfocom,The_Disk1</name>
 		<image>./images/LostTreasuresOfInfocom,The_Disk1-image.png</image>
@@ -365,5 +355,29 @@ The game boasted "incredibly realistic virtual 3D" which meant having to don the
 		<image>./images/Indiana Jones and the Last Crusade - The Action Game (1989)(U.S. Gold)[cr FLT][t +7 VF - Bencor Brothers]-image.png</image>
 		<video>./videos/Indiana Jones and the Last Crusade - The Action Game (1989)(U.S. Gold)[cr FLT][t +7 VF - Bencor Brothers]-video.mp4</video>
 		<thumbnail>./images/Indiana Jones and the Last Crusade - The Action Game (1989)(U.S. Gold)[cr FLT][t +7 VF - Bencor Brothers]-thumb.png</thumbnail>
+	</game>
+	<game id="71959">
+		<path>./No-Intro/20211028-052318 MIA 10/Air Support (USA) (Disk 2).ipf</path>
+		<name>Air Support</name>
+		<desc>Strategy based war game set in the future "where wars are fought in virtual reality". What this means is that you control your forces via a top-down map (like in the popular Battle Isle) but you can switch to a 1st person 3D wireframe perspective of your units for "special missions".
+
+The game boasted "incredibly realistic virtual 3D" which meant having to don the 3D glasses that came with the game during the wireframe 3D sections.</desc>
+		<image>./images/Air Support (USA) (Disk 2)-image.png</image>
+		<video>./videos/Air Support (USA) (Disk 2)-video.mp4</video>
+		<marquee>./images/Air Support (USA) (Disk 2)-marquee.png</marquee>
+		<thumbnail>./images/Air Support (USA) (Disk 2)-thumb.png</thumbnail>
+		<manual>./manuals/Air Support (USA) (Disk 2)-manual.pdf</manual>
+		<boxback>./images/Air Support (USA) (Disk 2)-boxback.png</boxback>
+		<releasedate>19920101T000000</releasedate>
+		<publisher>Psygnosis</publisher>
+		<md5>782f8280e4afa0dac274e4af9a721d5f</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T001407" />
+	</game>
+	<game>
+		<path>./No-Intro/20211028-052318 MIA 10/Alien Fires 2199 AD (USA) (Disk 1).ipf</path>
+		<name>Alien Fires 2199 AD (USA) (Disk 1)</name>
+		<md5>036c2c530e99c340b2dda4dc18b67aff</md5>
 	</game>
 </gameList>

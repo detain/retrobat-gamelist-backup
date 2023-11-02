@@ -1,0 +1,848 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./TOSEC/Games/[D64]/Bioterror! (2011)(Grow, Jason)/Bioterror! (2011)(Grow, Jason).d64</path>
+		<name>Bioterror! (2011)(Grow, Jason)</name>
+		<md5>8d70e82f864d9e81705fc5f233f6f26d</md5>
+		<scrap name="ScreenScraper" date="20231101T233648" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[PRG]/Abacus Competition (19xx)(-)/Abacus Competition (19xx)(-).prg</path>
+		<name>Abacus Competition (19xx)(-)</name>
+		<md5>60d2b1512219ccc30ab0c6bab2f08710</md5>
+		<scrap name="ScreenScraper" date="20231101T233650" />
+	</game>
+	<game id="133186">
+		<path>./TOSEC/Games/[PRG]/Acey Deucy (1980)(-)/Acey Deucy (1980)(-).prg</path>
+		<name>Acey-Deucy</name>
+		<image>./images/Acey Deucy (1980)(-)-image.png</image>
+		<releasedate>19800101T000000</releasedate>
+		<publisher>Vince Mills</publisher>
+		<md5>ac689c8563176243d9e7317e946eaf94</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T233654" />
+	</game>
+	<game id="133189">
+		<path>./TOSEC/Games/[PRG]/Acigol (1980)(-)/Acigol (1980)(-).prg</path>
+		<name>Acigol</name>
+		<image>./images/Acigol (1980)(-)-image.png</image>
+		<md5>d7de30da6a408c6da2b855768307d7d3</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T233658" />
+	</game>
+	<game id="109480">
+		<path>./TOSEC/Games/[PRG]/Adventure (1979-05-15)(Jessee, Jeff - Adams, Scott)/Adventure (1979-05-15)(Jessee, Jeff - Adams, Scott).prg</path>
+		<name>Adventure</name>
+		<image>./images/Adventure (1979-05-15)(Jessee, Jeff - Adams, Scott)-image.png</image>
+		<marquee>./images/Adventure (1979-05-15)(Jessee, Jeff - Adams, Scott)-marquee.png</marquee>
+		<thumbnail>./images/Adventure (1979-05-15)(Jessee, Jeff - Adams, Scott)-thumb.png</thumbnail>
+		<releasedate>19900101T000000</releasedate>
+		<publisher>SYS PD</publisher>
+		<md5>e791fd0919782dbc2a427d893c6ad92a</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T233705" />
+	</game>
+	<game id="180779">
+		<path>./TOSEC/Games/[PRG]/Afo (19xx)(TPUG)(en-jp)[8k]/Afo (19xx)(TPUG)(en-jp)[8k].prg</path>
+		<name>Afo</name>
+		<image>./images/Afo (19xx)(TPUG)(en-jp)[8k]-image.png</image>
+		<releasedate>19830101T000000</releasedate>
+		<developer>John Gossling</developer>
+		<publisher>Commodore</publisher>
+		<genre>Shooter / Vertical</genre>
+		<players>1</players>
+		<md5>845078986b3ff7e1874149dfe3ab30cc</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T233709" />
+	</game>
+	<game id="133353">
+		<path>./TOSEC/Games/[PRG]/Arrow (1980)(Butterfield, Jim)/Arrow (1980)(Butterfield, Jim).prg</path>
+		<name>Arrow</name>
+		<image>./images/Arrow (1980)(Butterfield, Jim)-image.png</image>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Commodore Electronics Ltd.</publisher>
+		<md5>57bd3e72bf09ace5921bc777f6235287</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T233713" />
+	</game>
+	<game id="133360">
+		<path>./TOSEC/Games/[PRG]/Artillery (1979)(Creative Computing Software)/Artillery (1979)(Creative Computing Software).prg</path>
+		<name>Artillery</name>
+		<image>./images/Artillery (1979)(Creative Computing Software)-image.png</image>
+		<releasedate>19840101T000000</releasedate>
+		<publisher>RUN-CW-Publikationen</publisher>
+		<md5>c80208ea81fd36621ed7580216e47aa6</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T233716" />
+	</game>
+	<game id="268484">
+		<path>./TOSEC/Games/[PRG]/ASCII Chase (2017-06-01)(Caruso, Fabrizio)/ASCII Chase (2017-06-01)(Caruso, Fabrizio).prg</path>
+		<name>ASCII Chase</name>
+		<md5>4131523c24e5396f075b0279becb2811</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T233719" />
+	</game>
+	<game id="268484">
+		<path>./TOSEC/Games/[PRG]/ASCII Chase (2017-06-01)(Caruso, Fabrizio)[a]/ASCII Chase (2017-06-01)(Caruso, Fabrizio)[a].prg</path>
+		<name>ASCII Chase</name>
+		<md5>80bf311457cac0f00734bdd91f26e240</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T233721" />
+	</game>
+	<game id="268484">
+		<path>./TOSEC/Games/[PRG]/ASCII Chase (2017-06-02)(Caruso, Fabrizio)/ASCII Chase (2017-06-02)(Caruso, Fabrizio).prg</path>
+		<name>ASCII Chase</name>
+		<md5>1b7484817425fe4913e58cad4ae0b23f</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T233723" />
+	</game>
+	<game id="268484">
+		<path>./TOSEC/Games/[PRG]/ASCII Chase (2017-06-03)(Caruso, Fabrizio)/ASCII Chase (2017-06-03)(Caruso, Fabrizio).prg</path>
+		<name>ASCII Chase</name>
+		<md5>1375023c407fb44e365bf9ad7b4046de</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T233725" />
+	</game>
+	<game id="268484">
+		<path>./TOSEC/Games/[PRG]/ASCII Chase (2017-06-03)(Caruso, Fabrizio)[a]/ASCII Chase (2017-06-03)(Caruso, Fabrizio)[a].prg</path>
+		<name>ASCII Chase</name>
+		<md5>706ee08c028727cd780ae920a3453a39</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T233727" />
+	</game>
+	<game id="268484">
+		<path>./TOSEC/Games/[PRG]/ASCII Chase (2017-06-04)(Caruso, Fabrizio)/ASCII Chase (2017-06-04)(Caruso, Fabrizio).prg</path>
+		<name>ASCII Chase</name>
+		<md5>bb3f35f2855846befcde9db0578dfd1a</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T233730" />
+	</game>
+	<game id="268484">
+		<path>./TOSEC/Games/[PRG]/ASCII Chase (2017-06-05)(Caruso, Fabrizio)/ASCII Chase (2017-06-05)(Caruso, Fabrizio).prg</path>
+		<name>ASCII Chase</name>
+		<md5>61f970cd1eadadef617d7db969082d01</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T233732" />
+	</game>
+	<game id="268484">
+		<path>./TOSEC/Games/[PRG]/ASCII Chase (2017-06-07)(Caruso, Fabrizio)/ASCII Chase (2017-06-07)(Caruso, Fabrizio).prg</path>
+		<name>ASCII Chase</name>
+		<md5>39a2a11ea1fc15df91d3abd7a26febed</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T233734" />
+	</game>
+	<game id="268484">
+		<path>./TOSEC/Games/[PRG]/ASCII Chase (2017-06-09)(Caruso, Fabrizio)/ASCII Chase (2017-06-09)(Caruso, Fabrizio).prg</path>
+		<name>ASCII Chase</name>
+		<md5>c95cafd815ddc404166d98c8f32dd624</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T233737" />
+	</game>
+	<game id="268484">
+		<path>./TOSEC/Games/[PRG]/ASCII Chase (2017-06-09)(Caruso, Fabrizio)[a2]/ASCII Chase (2017-06-09)(Caruso, Fabrizio)[a2].prg</path>
+		<name>ASCII Chase</name>
+		<md5>4ba25d2bd5943717705fb9826203d121</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T233739" />
+	</game>
+	<game id="268484">
+		<path>./TOSEC/Games/[PRG]/ASCII Chase (2017-06-09)(Caruso, Fabrizio)[a]/ASCII Chase (2017-06-09)(Caruso, Fabrizio)[a].prg</path>
+		<name>ASCII Chase</name>
+		<md5>c95cafd815ddc404166d98c8f32dd624</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T233741" />
+	</game>
+	<game id="268484">
+		<path>./TOSEC/Games/[PRG]/ASCII Chase (2017-06-10)(Caruso, Fabrizio)/ASCII Chase (2017-06-10)(Caruso, Fabrizio).prg</path>
+		<name>ASCII Chase</name>
+		<md5>e32e331ac300628d988b727295288f57</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T233744" />
+	</game>
+	<game id="268484">
+		<path>./TOSEC/Games/[PRG]/ASCII Chase (2017-06-12)(Caruso, Fabrizio)/ASCII Chase (2017-06-12)(Caruso, Fabrizio).prg</path>
+		<name>ASCII Chase</name>
+		<md5>69bd848f50d0be880d2fa6d542e4aab2</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T233746" />
+	</game>
+	<game id="268484">
+		<path>./TOSEC/Games/[PRG]/ASCII Chase (2017-06-20)(Caruso, Fabrizio)/ASCII Chase (2017-06-20)(Caruso, Fabrizio).prg</path>
+		<name>ASCII Chase</name>
+		<md5>1a7508c4cfc007602c2b217facb5cfeb</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T233748" />
+	</game>
+	<game id="268484">
+		<path>./TOSEC/Games/[PRG]/ASCII Chase (2017-06-26)(Caruso, Fabrizio)/ASCII Chase (2017-06-26)(Caruso, Fabrizio).prg</path>
+		<name>ASCII Chase</name>
+		<md5>3a117682f6333efdeac8c0001ce7d10f</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T233750" />
+	</game>
+	<game id="268484">
+		<path>./TOSEC/Games/[PRG]/ASCII Chase (2017-07-01)(Caruso, Fabrizio)/ASCII Chase (2017-07-01)(Caruso, Fabrizio).prg</path>
+		<name>ASCII Chase</name>
+		<md5>f2ab1ecb0274d6ce1758770e6c8f6be4</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T233752" />
+	</game>
+	<game id="268484">
+		<path>./TOSEC/Games/[PRG]/ASCII Chase (2017-07-05)(Caruso, Fabrizio)/ASCII Chase (2017-07-05)(Caruso, Fabrizio).prg</path>
+		<name>ASCII Chase</name>
+		<md5>e813f3c7e7f92593cbd5a2c35f921bc6</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T233755" />
+	</game>
+	<game id="268484">
+		<path>./TOSEC/Games/[PRG]/ASCII Chase (2017-07-07)(Caruso, Fabrizio)/ASCII Chase (2017-07-07)(Caruso, Fabrizio).prg</path>
+		<name>ASCII Chase</name>
+		<md5>cba99a3f946ea81c9d66035a92c50187</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T233757" />
+	</game>
+	<game id="268484">
+		<path>./TOSEC/Games/[PRG]/ASCII Chase (2017-07-08)(Caruso, Fabrizio)/ASCII Chase (2017-07-08)(Caruso, Fabrizio).prg</path>
+		<name>ASCII Chase</name>
+		<md5>c8828a6d1db5214db351f1db7b40b685</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T233800" />
+	</game>
+	<game id="124649">
+		<path>./TOSEC/Games/[PRG]/Atlantic Patrol (1978)(-)/Atlantic Patrol (1978)(-).prg</path>
+		<name>Atlantic Patrol</name>
+		<image>./images/Atlantic Patrol (1978)(-)-image.png</image>
+		<releasedate>19780101T000000</releasedate>
+		<publisher>R.D. Watts</publisher>
+		<md5>33266ba2e0800b39e7679995388b51fe</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T233803" />
+	</game>
+	<game id="118907">
+		<path>./TOSEC/Games/[PRG]/Battleship (1978)(Richter, M.)/Battleship (1978)(Richter, M.).prg</path>
+		<name>Battle Ships</name>
+		<desc>What can you add to Battleship over the pencil and paper version? A computerized opponent, fairly obviously, as well as the chance to play without using up the earth's limited paper and pen resources. The possibility of cheating is removed as well.
+
+Elite go beyond this by changing the shapes of the ships to be more Tetris style, and allowing these to be placed at each of the 4 main angles. A ?Salvo Fire' mode sees each player fire a succession of shots (each of your six ships gets four shots a turn until it's sunk), meaning that strategic play involves firing on a wide range initially in the hope of finding a ship, before homing in on the area in the next turn. Finally, there's an animated sequence for each go, which is depicted as an air strike.</desc>
+		<image>./images/Battleship (1978)(Richter, M.)-image.png</image>
+		<video>./videos/Battleship (1978)(Richter, M.)-video.mp4</video>
+		<marquee>./images/Battleship (1978)(Richter, M.)-marquee.png</marquee>
+		<thumbnail>./images/Battleship (1978)(Richter, M.)-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>19870101T000000</releasedate>
+		<publisher>Elite Systems</publisher>
+		<genre>Strategy</genre>
+		<players>1-2</players>
+		<md5>48ea072cdb1af9aea0ef4abf1b6b6f3a</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T233812" />
+	</game>
+	<game id="134379">
+		<path>./TOSEC/Games/[PRG]/Blockade Special (1981)(Winkler, Gil)/Blockade Special (1981)(Winkler, Gil).prg</path>
+		<name>Blockade Special!</name>
+		<image>./images/Blockade Special (1981)(Winkler, Gil)-image.png</image>
+		<releasedate>19810101T000000</releasedate>
+		<publisher>Gil Winkler</publisher>
+		<md5>f4465afbb15f21509fd251ea7134bc50</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T233816" />
+	</game>
+	<game id="122243">
+		<path>./TOSEC/Games/[PRG]/Bomber (1979-07-06)(Gleason, Arne)/Bomber (1979-07-06)(Gleason, Arne).prg</path>
+		<name>Bomber</name>
+		<image>./images/Bomber (1979-07-06)(Gleason, Arne)-image.png</image>
+		<video>./videos/Bomber (1979-07-06)(Gleason, Arne)-video.mp4</video>
+		<marquee>./images/Bomber (1979-07-06)(Gleason, Arne)-marquee.png</marquee>
+		<releasedate>19890101T000000</releasedate>
+		<publisher>Edigamma S.R.L.</publisher>
+		<md5>7ff7015218d4446b07e5059d6ebbe5fd</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T233823" />
+	</game>
+	<game id="134500">
+		<path>./TOSEC/Games/[PRG]/Breakout (1980)(-)/Breakout (1980)(-).prg</path>
+		<name>Break Out</name>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Andreas Thiel</developer>
+		<publisher>Input 64</publisher>
+		<genre>Action / Breakout games</genre>
+		<players>1</players>
+		<md5>7193318b6f582c27cfde55b203ab82bf</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T233825" />
+	</game>
+	<game id="180353">
+		<path>./TOSEC/Games/[PRG]/Brick Wall (1980)(Dawson)/Brick Wall (1980)(Dawson).prg</path>
+		<name>Brickwall</name>
+		<image>./images/Brick Wall (1980)(Dawson)-image.png</image>
+		<md5>9cef1e9f6e246b5b4b5e51f8a75e2c43</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T233829" />
+	</game>
+	<game id="179778">
+		<path>./TOSEC/Games/[PRG]/Buggy (1979)(Finzer, Bill)/Buggy (1979)(Finzer, Bill).prg</path>
+		<name>Buggy</name>
+		<image>./images/Buggy (1979)(Finzer, Bill)-image.png</image>
+		<md5>777a79fcc93b21b7a0337657d5533ec3</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T233832" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[PRG]/Carrace II (19xx)(PUG)/Carrace II (19xx)(PUG).prg</path>
+		<name>Carrace II (19xx)(PUG)</name>
+		<md5>8f57fab8beda819fffb84f5d35c12492</md5>
+		<scrap name="ScreenScraper" date="20231101T233834" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[PRG]/Casino Blackjack 5.7 (1979)(CMS Software)/Casino Blackjack 5.7 (1979)(CMS Software).prg</path>
+		<name>Casino Blackjack 5.7 (1979)(CMS Software)</name>
+		<md5>6a378ef7b7d8cc15c5eb6a34256ccc46</md5>
+		<scrap name="ScreenScraper" date="20231101T233836" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[PRG]/Chess Game (19xx)(-)/Chess Game (19xx)(-).prg</path>
+		<name>Chess Game (19xx)(-)</name>
+		<md5>5be06e5491a726ec833f68eb32654ebf</md5>
+		<scrap name="ScreenScraper" date="20231101T233838" />
+	</game>
+	<game id="179332">
+		<path>./TOSEC/Games/[PRG]/Civil War (19xx)(Creative Computing Morristown)/Civil War (19xx)(Creative Computing Morristown).prg</path>
+		<name>Civil War</name>
+		<image>./images/Civil War (19xx)(Creative Computing Morristown)-image.png</image>
+		<md5>0563a46e65cee6d9a35512e32988046a</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T233841" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[PRG]/Concord Landing Simulation (1980)(-)/Concord Landing Simulation (1980)(-).prg</path>
+		<name>Concord Landing Simulation (1980)(-)</name>
+		<md5>3cf52c83c1f1b7121aa2ddfe3dcc1955</md5>
+		<scrap name="ScreenScraper" date="20231101T233843" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[PRG]/Cosmic Cosmiads (1981)(-)/Cosmic Cosmiads (1981)(-).prg</path>
+		<name>Cosmic Cosmiads (1981)(-)</name>
+		<md5>2494546b718a254c874e513b0086fadb</md5>
+		<scrap name="ScreenScraper" date="20231101T233845" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[PRG]/Cosmic Fighter (1982)(MS Software)/Cosmic Fighter (1982)(MS Software).prg</path>
+		<name>Cosmic Fighter (1982)(MS Software)</name>
+		<md5>ca4fea851325a2a299cf4dcd46f1d1fa</md5>
+		<scrap name="ScreenScraper" date="20231101T233848" />
+	</game>
+	<game id="111309">
+		<path>./TOSEC/Games/[PRG]/Crazy Balloon (1980)(-)/Crazy Balloon (1980)(-).prg</path>
+		<name>Crazy Balloon</name>
+		<image>./images/Crazy Balloon (1980)(-)-image.png</image>
+		<video>./videos/Crazy Balloon (1980)(-)-video.mp4</video>
+		<marquee>./images/Crazy Balloon (1980)(-)-marquee.png</marquee>
+		<thumbnail>./images/Crazy Balloon (1980)(-)-thumb.png</thumbnail>
+		<releasedate>19830101T000000</releasedate>
+		<publisher>Software Projects</publisher>
+		<md5>cd1ac139fd2f0352fd7cdb7a65f59596</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T233856" />
+	</game>
+	<game id="268602">
+		<path>./TOSEC/Games/[PRG]/Cross Bomber (2020-08-26)(Caruso, Fabrizio)[16K]/Cross Bomber (2020-08-26)(Caruso, Fabrizio)[16K].prg</path>
+		<name>Cross Bomber</name>
+		<image>./images/Cross Bomber (2020-08-26)(Caruso, Fabrizio)[16K]-image.png</image>
+		<md5>60033c177c812779d587409accbe1eb5</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T233901" />
+	</game>
+	<game id="268602">
+		<path>./TOSEC/Games/[PRG]/Cross Bomber (2021-05-13)(Caruso, Fabrizio)[16K]/Cross Bomber (2021-05-13)(Caruso, Fabrizio)[16K].prg</path>
+		<name>Cross Bomber</name>
+		<image>./images/Cross Bomber (2021-05-13)(Caruso, Fabrizio)[16K]-image.png</image>
+		<md5>837aacab6186c1e94029fd5c26f6d90f</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T233905" />
+	</game>
+	<game id="268604">
+		<path>./TOSEC/Games/[PRG]/Cross Chase (2017-07-09)(Caruso, Fabrizio)/Cross Chase (2017-07-09)(Caruso, Fabrizio).prg</path>
+		<name>Cross Chase</name>
+		<image>./images/Cross Chase (2017-07-09)(Caruso, Fabrizio)-image.png</image>
+		<md5>bda30e76d9766121bc843c439a1de51f</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T233909" />
+	</game>
+	<game id="268604">
+		<path>./TOSEC/Games/[PRG]/Cross Chase (2017-07-10)(Caruso, Fabrizio)/Cross Chase (2017-07-10)(Caruso, Fabrizio).prg</path>
+		<name>Cross Chase</name>
+		<image>./images/Cross Chase (2017-07-10)(Caruso, Fabrizio)-image.png</image>
+		<md5>94b68391af4533b099cc29d6d3ce6d4e</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T233913" />
+	</game>
+	<game id="268604">
+		<path>./TOSEC/Games/[PRG]/Cross Chase (2017-07-13)(Caruso, Fabrizio)/Cross Chase (2017-07-13)(Caruso, Fabrizio).prg</path>
+		<name>Cross Chase</name>
+		<image>./images/Cross Chase (2017-07-13)(Caruso, Fabrizio)-image.png</image>
+		<md5>8767f18adc3ad36e10111721c1c9d7fe</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T233917" />
+	</game>
+	<game id="268604">
+		<path>./TOSEC/Games/[PRG]/Cross Chase (2017-07-14)(Caruso, Fabrizio)/Cross Chase (2017-07-14)(Caruso, Fabrizio).prg</path>
+		<name>Cross Chase</name>
+		<image>./images/Cross Chase (2017-07-14)(Caruso, Fabrizio)-image.png</image>
+		<md5>7db26adf00e3c9fefda74c703ecbe949</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T233922" />
+	</game>
+	<game id="268604">
+		<path>./TOSEC/Games/[PRG]/Cross Chase (2017-07-21)(Caruso, Fabrizio)/Cross Chase (2017-07-21)(Caruso, Fabrizio).prg</path>
+		<name>Cross Chase</name>
+		<image>./images/Cross Chase (2017-07-21)(Caruso, Fabrizio)-image.png</image>
+		<md5>580d368405fedbdceece52abe11e67f7</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T233926" />
+	</game>
+	<game id="268604">
+		<path>./TOSEC/Games/[PRG]/Cross Chase (2017-07-28)(Caruso, Fabrizio)/Cross Chase (2017-07-28)(Caruso, Fabrizio).prg</path>
+		<name>Cross Chase</name>
+		<image>./images/Cross Chase (2017-07-28)(Caruso, Fabrizio)-image.png</image>
+		<md5>81d74c07bbb7183c066902c07f42d6a9</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T233930" />
+	</game>
+	<game id="268604">
+		<path>./TOSEC/Games/[PRG]/Cross Chase (2017-07-30)(Caruso, Fabrizio)/Cross Chase (2017-07-30)(Caruso, Fabrizio).prg</path>
+		<name>Cross Chase</name>
+		<image>./images/Cross Chase (2017-07-30)(Caruso, Fabrizio)-image.png</image>
+		<md5>9d572f062e34ac547fce7773b7c6e824</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T233934" />
+	</game>
+	<game id="268604">
+		<path>./TOSEC/Games/[PRG]/Cross Chase (2017-08-02)(Caruso, Fabrizio)/Cross Chase (2017-08-02)(Caruso, Fabrizio).prg</path>
+		<name>Cross Chase</name>
+		<image>./images/Cross Chase (2017-08-02)(Caruso, Fabrizio)-image.png</image>
+		<md5>6518ee82bd7ccc3018def0c5f08a0261</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T233938" />
+	</game>
+	<game id="268604">
+		<path>./TOSEC/Games/[PRG]/Cross Chase (2017-08-08)(Caruso, Fabrizio)/Cross Chase (2017-08-08)(Caruso, Fabrizio).prg</path>
+		<name>Cross Chase</name>
+		<image>./images/Cross Chase (2017-08-08)(Caruso, Fabrizio)-image.png</image>
+		<md5>b099dc640cec0fd5470fbda98a8841c2</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T233942" />
+	</game>
+	<game id="268604">
+		<path>./TOSEC/Games/[PRG]/Cross Chase (2017-08-11)(Caruso, Fabrizio)/Cross Chase (2017-08-11)(Caruso, Fabrizio).prg</path>
+		<name>Cross Chase</name>
+		<image>./images/Cross Chase (2017-08-11)(Caruso, Fabrizio)-image.png</image>
+		<md5>6303a363c64750000ccbfd7ad20d82da</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T233947" />
+	</game>
+	<game id="268604">
+		<path>./TOSEC/Games/[PRG]/Cross Chase (2017-08-16)(Caruso, Fabrizio)/Cross Chase (2017-08-16)(Caruso, Fabrizio).prg</path>
+		<name>Cross Chase</name>
+		<image>./images/Cross Chase (2017-08-16)(Caruso, Fabrizio)-image.png</image>
+		<md5>5b69f3e304b623c18e72df3cdae07b5d</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T233951" />
+	</game>
+	<game id="268604">
+		<path>./TOSEC/Games/[PRG]/Cross Chase (2017-08-20)(Caruso, Fabrizio)/Cross Chase (2017-08-20)(Caruso, Fabrizio).prg</path>
+		<name>Cross Chase</name>
+		<image>./images/Cross Chase (2017-08-20)(Caruso, Fabrizio)-image.png</image>
+		<md5>5c59ddc8297a49760d4195518236a019</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T233956" />
+	</game>
+	<game id="268604">
+		<path>./TOSEC/Games/[PRG]/Cross Chase (2017-08-26)(Caruso, Fabrizio)/Cross Chase (2017-08-26)(Caruso, Fabrizio).prg</path>
+		<name>Cross Chase</name>
+		<image>./images/Cross Chase (2017-08-26)(Caruso, Fabrizio)-image.png</image>
+		<md5>e439821fc8f96ba73e8057e476131b66</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T234000" />
+	</game>
+	<game id="268604">
+		<path>./TOSEC/Games/[PRG]/Cross Chase (2017-08-27)(Caruso, Fabrizio)/Cross Chase (2017-08-27)(Caruso, Fabrizio).prg</path>
+		<name>Cross Chase</name>
+		<image>./images/Cross Chase (2017-08-27)(Caruso, Fabrizio)-image.png</image>
+		<md5>e439821fc8f96ba73e8057e476131b66</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T234004" />
+	</game>
+	<game id="268604">
+		<path>./TOSEC/Games/[PRG]/Cross Chase (2017-09-15)(Caruso, Fabrizio)/Cross Chase (2017-09-15)(Caruso, Fabrizio).prg</path>
+		<name>Cross Chase</name>
+		<image>./images/Cross Chase (2017-09-15)(Caruso, Fabrizio)-image.png</image>
+		<md5>5a41ebd6f8f04fb05d10fe6c8413dd0d</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T234008" />
+	</game>
+	<game id="268604">
+		<path>./TOSEC/Games/[PRG]/Cross Chase (2017-10-11)(Caruso, Fabrizio)/Cross Chase (2017-10-11)(Caruso, Fabrizio).prg</path>
+		<name>Cross Chase</name>
+		<image>./images/Cross Chase (2017-10-11)(Caruso, Fabrizio)-image.png</image>
+		<md5>20f963f16d2c98412ef60d63777ac291</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T234013" />
+	</game>
+	<game id="268604">
+		<path>./TOSEC/Games/[PRG]/Cross Chase (2017-10-30)(Caruso, Fabrizio)/Cross Chase (2017-10-30)(Caruso, Fabrizio).prg</path>
+		<name>Cross Chase</name>
+		<image>./images/Cross Chase (2017-10-30)(Caruso, Fabrizio)-image.png</image>
+		<md5>7908077deb1cc1790198e2f1bd42085d</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T234017" />
+	</game>
+	<game id="268604">
+		<path>./TOSEC/Games/[PRG]/Cross Chase (2017-12-10)(Caruso, Fabrizio)[16K][full]/Cross Chase (2017-12-10)(Caruso, Fabrizio)[16K][full].prg</path>
+		<name>Cross Chase</name>
+		<image>./images/Cross Chase (2017-12-10)(Caruso, Fabrizio)[16K][full]-image.png</image>
+		<md5>918ebdb027d8cd2025fb257bb549f0a4</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T234022" />
+	</game>
+	<game id="268604">
+		<path>./TOSEC/Games/[PRG]/Cross Chase (2017-12-10)(Caruso, Fabrizio)[8K][tiny]/Cross Chase (2017-12-10)(Caruso, Fabrizio)[8K][tiny].prg</path>
+		<name>Cross Chase</name>
+		<image>./images/Cross Chase (2017-12-10)(Caruso, Fabrizio)[8K][tiny]-image.png</image>
+		<md5>ea586ebfe6266d4f234a71f6b2d73e26</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T234026" />
+	</game>
+	<game id="268604">
+		<path>./TOSEC/Games/[PRG]/Cross Chase (2018-02-03)(Caruso, Fabrizio)[16K][full]/Cross Chase (2018-02-03)(Caruso, Fabrizio)[16K][full].prg</path>
+		<name>Cross Chase</name>
+		<image>./images/Cross Chase (2018-02-03)(Caruso, Fabrizio)[16K][full]-image.png</image>
+		<md5>f6f346aecaf2af676104ee7f2ee85972</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T234031" />
+	</game>
+	<game id="268604">
+		<path>./TOSEC/Games/[PRG]/Cross Chase (2018-02-03)(Caruso, Fabrizio)[8K][tiny]/Cross Chase (2018-02-03)(Caruso, Fabrizio)[8K][tiny].prg</path>
+		<name>Cross Chase</name>
+		<image>./images/Cross Chase (2018-02-03)(Caruso, Fabrizio)[8K][tiny]-image.png</image>
+		<md5>83cefb75dc3369360338c176aee2616a</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T234035" />
+	</game>
+	<game id="268604">
+		<path>./TOSEC/Games/[PRG]/Cross Chase (2018-04-15)(Caruso, Fabrizio)[16K][full]/Cross Chase (2018-04-15)(Caruso, Fabrizio)[16K][full].prg</path>
+		<name>Cross Chase</name>
+		<image>./images/Cross Chase (2018-04-15)(Caruso, Fabrizio)[16K][full]-image.png</image>
+		<md5>4efdac808b25a4be97f7ddc3c36b7fa7</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T234040" />
+	</game>
+	<game id="268604">
+		<path>./TOSEC/Games/[PRG]/Cross Chase (2018-04-15)(Caruso, Fabrizio)[8K][tiny]/Cross Chase (2018-04-15)(Caruso, Fabrizio)[8K][tiny].prg</path>
+		<name>Cross Chase</name>
+		<image>./images/Cross Chase (2018-04-15)(Caruso, Fabrizio)[8K][tiny]-image.png</image>
+		<md5>761276f1e58e1b5cf981243ea819ddbb</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T234044" />
+	</game>
+	<game id="268604">
+		<path>./TOSEC/Games/[PRG]/Cross Chase (2018-05-19)(Caruso, Fabrizio)[16K][full]/Cross Chase (2018-05-19)(Caruso, Fabrizio)[16K][full].prg</path>
+		<name>Cross Chase</name>
+		<image>./images/Cross Chase (2018-05-19)(Caruso, Fabrizio)[16K][full]-image.png</image>
+		<md5>3e91635df7b08fd1f127625d0827369a</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T234048" />
+	</game>
+	<game id="268604">
+		<path>./TOSEC/Games/[PRG]/Cross Chase (2018-05-19)(Caruso, Fabrizio)[8K][tiny]/Cross Chase (2018-05-19)(Caruso, Fabrizio)[8K][tiny].prg</path>
+		<name>Cross Chase</name>
+		<image>./images/Cross Chase (2018-05-19)(Caruso, Fabrizio)[8K][tiny]-image.png</image>
+		<md5>c450341b79e48ce9aa94df0ff57b3adb</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T234052" />
+	</game>
+	<game id="268604">
+		<path>./TOSEC/Games/[PRG]/Cross Chase (2018-07-19)(Caruso, Fabrizio)[16K][full]/Cross Chase (2018-07-19)(Caruso, Fabrizio)[16K][full].prg</path>
+		<name>Cross Chase</name>
+		<image>./images/Cross Chase (2018-07-19)(Caruso, Fabrizio)[16K][full]-image.png</image>
+		<md5>8b3512db8cc6fddca0ee159cb3949165</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T234056" />
+	</game>
+	<game id="268604">
+		<path>./TOSEC/Games/[PRG]/Cross Chase (2018-07-19)(Caruso, Fabrizio)[8K][tiny]/Cross Chase (2018-07-19)(Caruso, Fabrizio)[8K][tiny].prg</path>
+		<name>Cross Chase</name>
+		<image>./images/Cross Chase (2018-07-19)(Caruso, Fabrizio)[8K][tiny]-image.png</image>
+		<md5>62110f15c20fbbc206fbcf8abeb94ff8</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T234100" />
+	</game>
+	<game id="268604">
+		<path>./TOSEC/Games/[PRG]/Cross Chase (2018-08-04)(Caruso, Fabrizio)[16K][full]/Cross Chase (2018-08-04)(Caruso, Fabrizio)[16K][full].prg</path>
+		<name>Cross Chase</name>
+		<image>./images/Cross Chase (2018-08-04)(Caruso, Fabrizio)[16K][full]-image.png</image>
+		<md5>64779448d80085842f812df4eb9e21b5</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T234103" />
+	</game>
+	<game id="268604">
+		<path>./TOSEC/Games/[PRG]/Cross Chase (2018-08-04)(Caruso, Fabrizio)[8K][tiny]/Cross Chase (2018-08-04)(Caruso, Fabrizio)[8K][tiny].prg</path>
+		<name>Cross Chase</name>
+		<image>./images/Cross Chase (2018-08-04)(Caruso, Fabrizio)[8K][tiny]-image.png</image>
+		<md5>705af921fda40bd4ff827d648eafa21b</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T234107" />
+	</game>
+	<game id="268604">
+		<path>./TOSEC/Games/[PRG]/Cross Chase (2018-10-29)(Caruso, Fabrizio)[16K][full]/Cross Chase (2018-10-29)(Caruso, Fabrizio)[16K][full].prg</path>
+		<name>Cross Chase</name>
+		<image>./images/Cross Chase (2018-10-29)(Caruso, Fabrizio)[16K][full]-image.png</image>
+		<md5>3f2b9a28e8f3c6e8042e8d7f27f5cccf</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T234111" />
+	</game>
+	<game id="268604">
+		<path>./TOSEC/Games/[PRG]/Cross Chase (2018-10-29)(Caruso, Fabrizio)[8K][tiny]/Cross Chase (2018-10-29)(Caruso, Fabrizio)[8K][tiny].prg</path>
+		<name>Cross Chase</name>
+		<image>./images/Cross Chase (2018-10-29)(Caruso, Fabrizio)[8K][tiny]-image.png</image>
+		<md5>e99312fb20af961dbd227b3f40b8a702</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T234115" />
+	</game>
+	<game id="268604">
+		<path>./TOSEC/Games/[PRG]/Cross Chase (2020-04-02)(Caruso, Fabrizio)[16K][full]/Cross Chase (2020-04-02)(Caruso, Fabrizio)[16K][full].prg</path>
+		<name>Cross Chase</name>
+		<image>./images/Cross Chase (2020-04-02)(Caruso, Fabrizio)[16K][full]-image.png</image>
+		<md5>37f5efd6d279c31b3310eab7c56d8810</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T234119" />
+	</game>
+	<game id="268604">
+		<path>./TOSEC/Games/[PRG]/Cross Chase (2020-04-02)(Caruso, Fabrizio)[8K][light][less text]/Cross Chase (2020-04-02)(Caruso, Fabrizio)[8K][light][less text].prg</path>
+		<name>Cross Chase</name>
+		<image>./images/Cross Chase (2020-04-02)(Caruso, Fabrizio)[8K][light][less text]-image.png</image>
+		<md5>ca12ba2578dee65f438b896b7500ad83</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T234124" />
+	</game>
+	<game id="268604">
+		<path>./TOSEC/Games/[PRG]/Cross Chase (2020-04-02)(Caruso, Fabrizio)[8K][tiny]/Cross Chase (2020-04-02)(Caruso, Fabrizio)[8K][tiny].prg</path>
+		<name>Cross Chase</name>
+		<image>./images/Cross Chase (2020-04-02)(Caruso, Fabrizio)[8K][tiny]-image.png</image>
+		<md5>c94e692851053a9444032547fee599f5</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T234128" />
+	</game>
+	<game id="268604">
+		<path>./TOSEC/Games/[PRG]/Cross Chase (2021-05-13)(Caruso, Fabrizio)[16K]/Cross Chase (2021-05-13)(Caruso, Fabrizio)[16K].prg</path>
+		<name>Cross Chase</name>
+		<image>./images/Cross Chase (2021-05-13)(Caruso, Fabrizio)[16K]-image.png</image>
+		<md5>3b0c1bab5a9c39ae332631b336182e3e</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T234133" />
+	</game>
+	<game id="268604">
+		<path>./TOSEC/Games/[PRG]/Cross Chase (2021-05-13)(Caruso, Fabrizio)[8K][light][less text]/Cross Chase (2021-05-13)(Caruso, Fabrizio)[8K][light][less text].prg</path>
+		<name>Cross Chase</name>
+		<image>./images/Cross Chase (2021-05-13)(Caruso, Fabrizio)[8K][light][less text]-image.png</image>
+		<md5>ee08c78584081d21fa1fa33bf242a82d</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T234137" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[PRG]/Cross Horde v1.0 (2021-05-01)(Caruso, Fabrizio)[16K]/Cross Horde v1.0 (2021-05-01)(Caruso, Fabrizio)[16K].prg</path>
+		<name>Cross Horde v1.0 (2021-05-01)(Caruso, Fabrizio)[16K]</name>
+		<md5>fb26f36a89875bc8f92176ccd2af64b2</md5>
+		<scrap name="ScreenScraper" date="20231101T234140" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[PRG]/Cross Snake v1.0 (2020-12-12)(Caruso, Fabrizio)[16K]/Cross Snake v1.0 (2020-12-12)(Caruso, Fabrizio)[16K].prg</path>
+		<name>Cross Snake v1.0 (2020-12-12)(Caruso, Fabrizio)[16K]</name>
+		<md5>a83860321895140840eac82bf1c9de19</md5>
+		<scrap name="ScreenScraper" date="20231101T234142" />
+	</game>
+	<game id="268616">
+		<path>./TOSEC/Games/[PRG]/Cross Snake v2.0 (2020-12-31)(Caruso, Fabrizio)[16K]/Cross Snake v2.0 (2020-12-31)(Caruso, Fabrizio)[16K].prg</path>
+		<name>Cross Snake v2.0</name>
+		<image>./images/Cross Snake v2.0 (2020-12-31)(Caruso, Fabrizio)[16K]-image.png</image>
+		<md5>83f6ea8c68850ec07a189eda2ebc4d5c</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T234146" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[PRG]/Cursor #04 - BOP (1978-10)(Fisher, Glen)/Cursor #04 - BOP (1978-10)(Fisher, Glen).prg</path>
+		<name>Cursor #04 - BOP (1978-10)(Fisher, Glen)</name>
+		<md5>6bb5ee66a1977bd2ff4ec98b9b568e96</md5>
+		<scrap name="ScreenScraper" date="20231101T234149" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[PRG]/Cursor #14 - Bat! (1979-10)(Nadovitch, C.T.)/Cursor #14 - Bat! (1979-10)(Nadovitch, C.T.).prg</path>
+		<name>Cursor #14 - Bat! (1979-10)(Nadovitch, C.T.)</name>
+		<md5>82a92c7ee6ad896d8210123950f5e7fd</md5>
+		<scrap name="ScreenScraper" date="20231101T234151" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[PRG]/Cursor #14 - Cops (1979-10)(Fisher, Glen)/Cursor #14 - Cops (1979-10)(Fisher, Glen).prg</path>
+		<name>Cursor #14 - Cops (1979-10)(Fisher, Glen)</name>
+		<md5>34d5f2c2f5a02f77d1bd159eea1f4e48</md5>
+		<scrap name="ScreenScraper" date="20231101T234153" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[PRG]/Cursor #15 - Dungeon (1979-12)(Sawyer, Brian)/Cursor #15 - Dungeon (1979-12)(Sawyer, Brian).prg</path>
+		<name>Cursor #15 - Dungeon (1979-12)(Sawyer, Brian)</name>
+		<md5>ef2442efe02c5f24d35a32520eb3bcd8</md5>
+		<scrap name="ScreenScraper" date="20231101T234155" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[PRG]/Cursor #16 - Aliens! (1980-01)(Hamilton, Mike)/Cursor #16 - Aliens! (1980-01)(Hamilton, Mike).prg</path>
+		<name>Cursor #16 - Aliens! (1980-01)(Hamilton, Mike)</name>
+		<md5>94f13fe9e0594b0b7356c0040f7f80ca</md5>
+		<scrap name="ScreenScraper" date="20231101T234157" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[PRG]/Cursor #16 - Bonzo! (1980-01)(Lockwood, Randall)/Cursor #16 - Bonzo! (1980-01)(Lockwood, Randall).prg</path>
+		<name>Cursor #16 - Bonzo! (1980-01)(Lockwood, Randall)</name>
+		<md5>137cc4d3e5f81bbac64ae44c7875ea49</md5>
+		<scrap name="ScreenScraper" date="20231101T234159" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[PRG]/Cursor #16 - Fire! (1980-01)(Sawyer, Brian)/Cursor #16 - Fire! (1980-01)(Sawyer, Brian).prg</path>
+		<name>Cursor #16 - Fire! (1980-01)(Sawyer, Brian)</name>
+		<md5>c2dd229b51610321d875b8960b39327f</md5>
+		<scrap name="ScreenScraper" date="20231101T234201" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[PRG]/Cursor #19 - Miner (1980-04)(Longfellow, Ron)/Cursor #19 - Miner (1980-04)(Longfellow, Ron).prg</path>
+		<name>Cursor #19 - Miner (1980-04)(Longfellow, Ron)</name>
+		<md5>7507ac961349550506970c542849bec3</md5>
+		<scrap name="ScreenScraper" date="20231101T234203" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[PRG]/Cursor #20 - Bets (1980-05)(Lockwood, Randall)/Cursor #20 - Bets (1980-05)(Lockwood, Randall).prg</path>
+		<name>Cursor #20 - Bets (1980-05)(Lockwood, Randall)</name>
+		<md5>50070132a7e543dc4abb1d7a7b6274eb</md5>
+		<scrap name="ScreenScraper" date="20231101T234205" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[PRG]/Cursor #21 - Boswain (1980-07)(Nadovich, C.T.)/Cursor #21 - Boswain (1980-07)(Nadovich, C.T.).prg</path>
+		<name>Cursor #21 - Boswain (1980-07)(Nadovich, C.T.)</name>
+		<md5>e37afae0b5d265748e4fe57a33ca3d09</md5>
+		<scrap name="ScreenScraper" date="20231101T234207" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[PRG]/Cursor #21 - Capture! (1980-07)(Michael, Malcolm)/Cursor #21 - Capture! (1980-07)(Michael, Malcolm).prg</path>
+		<name>Cursor #21 - Capture! (1980-07)(Michael, Malcolm)</name>
+		<md5>51e46cdd26eadd0ba80487eb7e61c9c3</md5>
+		<scrap name="ScreenScraper" date="20231101T234209" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[PRG]/Cursor #21 - Ouranos! (1980-07)(Higby, Kathy)/Cursor #21 - Ouranos! (1980-07)(Higby, Kathy).prg</path>
+		<name>Cursor #21 - Ouranos! (1980-07)(Higby, Kathy)</name>
+		<md5>310ed2c682f81ba26ce55fe6a5ead4a9</md5>
+		<scrap name="ScreenScraper" date="20231101T234211" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[PRG]/Cursor #23 - Ambush! (1980-12)(Bayman, Phil)/Cursor #23 - Ambush! (1980-12)(Bayman, Phil).prg</path>
+		<name>Cursor #23 - Ambush! (1980-12)(Bayman, Phil)</name>
+		<md5>9ded376955d551fef305f33380cfe37d</md5>
+		<scrap name="ScreenScraper" date="20231101T234213" />
+	</game>
+	<game id="111438">
+		<path>./TOSEC/Games/[PRG]/Dam Buster (1980)(Williams, Evan)/Dam Buster (1980)(Williams, Evan).prg</path>
+		<name>Dam Buster</name>
+		<image>./images/Dam Buster (1980)(Williams, Evan)-image.png</image>
+		<thumbnail>./images/Dam Buster (1980)(Williams, Evan)-thumb.png</thumbnail>
+		<releasedate>19830101T000000</releasedate>
+		<publisher>Sven's Software</publisher>
+		<md5>43aafdf21d9179d96a163d1a1b459f37</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T234218" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[PRG]/Draw Poker 1 (1978)(Commodore)/Draw Poker 1 (1978)(Commodore).prg</path>
+		<name>Draw Poker 1 (1978)(Commodore)</name>
+		<md5>7ebfc4585e2fa7974fb9102be9c11957</md5>
+		<scrap name="ScreenScraper" date="20231101T234220" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[PRG]/Microchess 2.0 (1978)(Jennings, Peter)/Microchess 2.0 (1978)(Jennings, Peter).prg</path>
+		<name>Microchess 2.0 (1978)(Jennings, Peter)</name>
+		<md5>181cfdc425014a32d99340dc4adeab2e</md5>
+		<scrap name="ScreenScraper" date="20231101T234222" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[PRG]/Microchess 2.0 (1978)(Jennings, Peter)[a]/Microchess 2.0 (1978)(Jennings, Peter)[a].prg</path>
+		<name>Microchess 2.0 (1978)(Jennings, Peter)[a]</name>
+		<md5>07d8379bccba936511cb2d8660d8e3e4</md5>
+		<scrap name="ScreenScraper" date="20231101T234225" />
+	</game>
+	<game id="116113">
+		<path>./TOSEC/Games/[PRG]/PET Checkers (19xx)(CMS Software)/PET Checkers (19xx)(CMS Software).prg</path>
+		<name>PET Checkers</name>
+		<image>./images/PET Checkers (19xx)(CMS Software)-image.png</image>
+		<thumbnail>./images/PET Checkers (19xx)(CMS Software)-thumb.png</thumbnail>
+		<publisher>CMS Software Systems</publisher>
+		<md5>9e8c313c9a54c406d096e719f3e660c5</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T234230" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[PRG]/PET Super Baseball v7.4 (1983-07-13)(Suzuki, J. - Bradley, D.)/PET Super Baseball v7.4 (1983-07-13)(Suzuki, J. - Bradley, D.).prg</path>
+		<name>PET Super Baseball v7.4 (1983-07-13)(Suzuki, J. - Bradley, D.)</name>
+		<md5>967c5e656791cd4c5bbfe1c2a958a49d</md5>
+		<scrap name="ScreenScraper" date="20231101T234231" />
+	</game>
+	<game id="116616">
+		<path>./TOSEC/Games/[PRG]/Space Invaders (19xx)(-)/Space Invaders (19xx)(-).prg</path>
+		<name>Space Invaders</name>
+		<desc>This conversion of Space Invaders stays very true to the original despite being written in BASIC. Game play is exactly the same with the player in control of a tank at the bottom of the screen firing at advancing aliens. The aliens fire back and the player can take cover behind bunkers. The bunkers give way a little bit easier than in the arcade version due to fewer pixels. The sound also tries to stay true to the original with the ever increasing speed of the beat when the aliens draw nearer.</desc>
+		<image>./images/Space Invaders (19xx)(-)-image.png</image>
+		<marquee>./images/Space Invaders (19xx)(-)-marquee.png</marquee>
+		<thumbnail>./images/Space Invaders (19xx)(-)-thumb.png</thumbnail>
+		<releasedate>19830101T000000</releasedate>
+		<publisher>Keypunch Software</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<family>Space Invaders</family>
+		<md5>8cb3b4d93ef36edd43da614753a0f83b</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T234237" />
+	</game>
+	<game id="116616">
+		<path>./TOSEC/Games/[PRG]/Space Invaders (19xx)(-)[b]/Space Invaders (19xx)(-)[b].prg</path>
+		<name>Space Invaders</name>
+		<desc>This conversion of Space Invaders stays very true to the original despite being written in BASIC. Game play is exactly the same with the player in control of a tank at the bottom of the screen firing at advancing aliens. The aliens fire back and the player can take cover behind bunkers. The bunkers give way a little bit easier than in the arcade version due to fewer pixels. The sound also tries to stay true to the original with the ever increasing speed of the beat when the aliens draw nearer.</desc>
+		<image>./images/Space Invaders (19xx)(-)[b]-image.png</image>
+		<marquee>./images/Space Invaders (19xx)(-)[b]-marquee.png</marquee>
+		<thumbnail>./images/Space Invaders (19xx)(-)[b]-thumb.png</thumbnail>
+		<releasedate>19830101T000000</releasedate>
+		<publisher>Keypunch Software</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<family>Space Invaders</family>
+		<md5>ab7def3ec9dd28b0916f1662ccde45f7</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T234244" />
+	</game>
+	<game id="178561">
+		<path>./TOSEC/Games/[PRG]/Space War (19xx)(-)/Space War (19xx)(-).prg</path>
+		<name>Space War</name>
+		<md5>4c60fde70460516ba0450c8b3bccec47</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T234246" />
+	</game>
+	<game id="35852">
+		<path>./TOSEC/Games/[PRG]/Star Wars (19xx)(-)[b]/Star Wars (19xx)(-)[b].prg</path>
+		<name>Star Wars</name>
+		<desc>Conversion of Atari Games' first-person shoot 'em up based around the original Star Wars film. You take on the role of Luke Skywalker, aiming to destroy the Death Star - which, as any fan knows, involves attacking the 'weak spot' near the exhaust. To even get to this you have to pass swarms of TIE Fighters. Complete the game and it loops back around at ever-increasing difficulty. The game uses vector graphics, which allow lots of action at high speed on comparatively slow systems.</desc>
+		<image>./images/Star Wars (19xx)(-)[b]-image.png</image>
+		<video>./videos/Star Wars (19xx)(-)[b]-video.mp4</video>
+		<marquee>./images/Star Wars (19xx)(-)[b]-marquee.png</marquee>
+		<thumbnail>./images/Star Wars (19xx)(-)[b]-thumb.png</thumbnail>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Parker Brothers</developer>
+		<publisher>Atari</publisher>
+		<genre>Shoot'em Up</genre>
+		<family>Star Wars</family>
+		<md5>3f341d678c294e56c78176bd3e16fb53</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231101T234255" />
+	</game>
+</gameList>

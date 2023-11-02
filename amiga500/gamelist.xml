@@ -11333,11 +11333,6 @@ Zork Zero: The Revenge of Megaboz is chronologically a prequel to the first thre
 		<scrap name="ScreenScraper" date="20231005T070855" />
 	</game>
 	<game>
-		<path>./TOSEC/Applications/Public Domain/[ADF]/ProTracker v3.62 (1996-08-30)(Cryptoburners - RD10)(FW)[WB][FFS]/ProTracker v3.62 (1996-08-30)(Cryptoburners - RD10)(FW)[WB][FFS].adf</path>
-		<name>ProTracker v3.62 (1996-08-30)(Cryptoburners - RD10)(FW)[WB][FFS]</name>
-		<md5>b8b4dbf51b9b7bfca133b495adb35957</md5>
-	</game>
-	<game>
 		<path>./TOSEC/Games/SPS/Simulcra (1990)(MicroStyle)[2659]/Simulcra.ipf</path>
 		<name>Simulcra</name>
 		<image>./images/Simulcra-image.png</image>
@@ -11370,5 +11365,46 @@ Zork Zero: The Revenge of Megaboz is chronologically a prequel to the first thre
 		<image>./images/Afrika Korps (1991)(Impressions)[h QTX]-image.png</image>
 		<thumbnail>./images/Afrika Korps (1991)(Impressions)[h QTX]-thumb.png</thumbnail>
 		<boxback>./images/Afrika Korps (1991)(Impressions)[h QTX]-boxback.png</boxback>
+	</game>
+	<game>
+		<path>./TOSEC/Applications/Public Domain/[ADF]/ProTracker v3.62 (1996-08-30)(Cryptoburners - RD10)(FW)[WB][FFS]/ProTracker v3.62 (1996-08-30)(Cryptoburners - RD10)(FW)[WB][FFS].adf</path>
+		<name>ProTracker v3.62 (1996-08-30)(Cryptoburners - RD10)(FW)[WB][FFS]</name>
+		<md5>b8b4dbf51b9b7bfca133b495adb35957</md5>
+		<scrap name="ScreenScraper" date="20231102T001323" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/Public Domain/[ADF]/ProTracker v4.0 alpha 5 (1997-01-07)(Cryptoburners - RD10)(FW)[WB]/ProTracker v4.0 alpha 5 (1997-01-07)(Cryptoburners - RD10)(FW)[WB].adf</path>
+		<name>ProTracker v4.0 alpha 5 (1997-01-07)(Cryptoburners - RD10)(FW)[WB]</name>
+		<md5>81b30ae614a36edd99ed0115a6447810</md5>
+		<scrap name="ScreenScraper" date="20231102T001325" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/Public Domain/[ADF]/PSTTracker v1.11 (1992-12)(Parasite)(preview)[b corrupt file]/PSTTracker v1.11 (1992-12)(Parasite)(preview)[b corrupt file].adf</path>
+		<name>PSTTracker v1.11 (1992-12)(Parasite)(preview)[b corrupt file]</name>
+		<md5>66f09e19657034fa09ff10ea727ccc15</md5>
+		<scrap name="ScreenScraper" date="20231102T001328" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/Public Domain/[ADF]/PumaTracker v0.99 (1991-09-16)(Agile)/PumaTracker v0.99 (1991-09-16)(Agile).adf</path>
+		<name>PumaTracker v0.99 (1991-09-16)(Agile)</name>
+		<md5>5217c3cdb7f7ab8a61b566e2be1e7e40</md5>
+		<scrap name="ScreenScraper" date="20231102T001330" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/Public Domain/[ADF]/QDOS v3.03 (1990-03)(Kowallik, Rainer)(alpha)[h TMA][a][emulator]/QDOS v3.03 (1990-03)(Kowallik, Rainer)(alpha)[h TMA][a][emulator].adf</path>
+		<name>QDOS v3.03 (1990-03)(Kowallik, Rainer)(alpha)[h TMA][a][emulator]</name>
+		<md5>21d1406415179cc9883c48d71de9daa7</md5>
+		<scrap name="ScreenScraper" date="20231102T001332" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/Public Domain/[ADF]/QDOS v3.03 (1990-03)(Kowallik, Rainer)(alpha)[h TMA][emulator]/QDOS v3.03 (1990-03)(Kowallik, Rainer)(alpha)[h TMA][emulator].adf</path>
+		<name>QDOS v3.03 (1990-03)(Kowallik, Rainer)(alpha)[h TMA][emulator]</name>
+		<md5>c9b4b64756cf5e3f7f1ef112dd46bb5a</md5>
+		<scrap name="ScreenScraper" date="20231102T001335" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/Public Domain/[ADF]/QDOS v3.10 (1990-05-20)(Kowallik, Rainer)[h QUBBESoft PD][emulator]/QDOS v3.10 (1990-05-20)(Kowallik, Rainer)[h QUBBESoft PD][emulator].adf</path>
+		<name>QDOS v3.10 (1990-05-20)(Kowallik, Rainer)[h QUBBESoft PD][emulator]</name>
+		<md5>c02c9bf25c16424915d7d20436d173f3</md5>
 	</game>
 </gameList>
