@@ -673,9 +673,1183 @@ Eons ago, the world and all of its splendours were created by the magnificent an
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231102T024204" />
 	</game>
-	<game>
+	<game id="214103">
 		<path>./EasyRPG/DuplicityDemo.zip</path>
-		<name>DuplicityDemo</name>
+		<name>Duplicity Demo</name>
+		<image>./images/DuplicityDemo-image.png</image>
+		<marquee>./images/DuplicityDemo-marquee.png</marquee>
 		<md5>123297af0469ba52608dfb378b659d95</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T032905" />
+	</game>
+	<game>
+		<path>./EasyRPG/DurhamFantasyAgarthaV1.2.zip</path>
+		<name>DurhamFantasyAgarthaV1.2</name>
+		<md5>77c5b12c5d8231e3f138e2303bcc87e6</md5>
+		<scrap name="ScreenScraper" date="20231102T032910" />
+	</game>
+	<game id="214109">
+		<path>./EasyRPG/Echoes of Mind Demo.zip</path>
+		<name>Echoes of Mind Demo</name>
+		<image>./images/Echoes of Mind Demo-image.png</image>
+		<marquee>./images/Echoes of Mind Demo-marquee.png</marquee>
+		<thumbnail>./images/Echoes of Mind Demo-thumb.png</thumbnail>
+		<md5>29eb3a8f3e3355477d2f37d7a16b09d1</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T032917" />
+	</game>
+	<game id="214111">
+		<path>./EasyRPG/ElingFirstDimension.zip</path>
+		<name>Eling First Dimension</name>
+		<desc>The overworld is a small world that you will visit every time you load the game, finish a stage or decide to leave a world. There are many secrets in this world. You can collect more coins and more crystals (the item to progress your game) here. You also need to find all the other worlds here. You can't use stage power-ups here but you can buy overworld power-ups that allows you to discover secrets. You can even combine the overworld power-ups to discover even more secrets.</desc>
+		<image>./images/ElingFirstDimension-image.png</image>
+		<marquee>./images/ElingFirstDimension-marquee.png</marquee>
+		<thumbnail>./images/ElingFirstDimension-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>20150710T000000</releasedate>
+		<developer>Luc</developer>
+		<genre>Platform</genre>
+		<md5>636a3b045c6638fe7a362b5dc60da20d</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T032935" />
+	</game>
+	<game id="214113">
+		<path>./EasyRPG/EmbricOfWulfhammersCastle.zip</path>
+		<name>Embric of Wulfhammers Castle</name>
+		<image>./images/EmbricOfWulfhammersCastle-image.png</image>
+		<marquee>./images/EmbricOfWulfhammersCastle-marquee.png</marquee>
+		<md5>264403fb036f318af64e605f806e86bf</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T032941" />
+	</game>
+	<game id="214115">
+		<path>./EasyRPG/Engalia-TheWagerV1.2.2.zip</path>
+		<name>Engalia - The Wager</name>
+		<image>./images/Engalia-TheWagerV1.2.2-image.png</image>
+		<marquee>./images/Engalia-TheWagerV1.2.2-marquee.png</marquee>
+		<md5>6a4872ed8eb84849cb8c9fed5499bae5</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T032957" />
+	</game>
+	<game id="214117">
+		<path>./EasyRPG/Epoch.zip</path>
+		<name>Epoch</name>
+		<image>./images/Epoch-image.png</image>
+		<marquee>./images/Epoch-marquee.png</marquee>
+		<md5>e0f4a873043d6e316a7bad232a0241f0</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033004" />
+	</game>
+	<game id="214119">
+		<path>./EasyRPG/EternalSouls.zip</path>
+		<name>Eternal Souls</name>
+		<image>./images/EternalSouls-image.png</image>
+		<marquee>./images/EternalSouls-marquee.png</marquee>
+		<md5>38406da0428c1308cf3f92835180d6dd</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033011" />
+	</game>
+	<game id="214121">
+		<path>./EasyRPG/EverwindDemoV1.1.zip</path>
+		<name>Everwind Demo</name>
+		<image>./images/EverwindDemoV1.1-image.png</image>
+		<marquee>./images/EverwindDemoV1.1-marquee.png</marquee>
+		<thumbnail>./images/EverwindDemoV1.1-thumb.png</thumbnail>
+		<md5>2de86f372669b764d22ebc9f7015c505</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033028" />
+	</game>
+	<game id="214123">
+		<path>./EasyRPG/FadeV0.05.zip</path>
+		<name>Fade</name>
+		<desc>After helping the people in Beta town, Roth was rewarded with a huge airship, made by the scientist. Together with his li'l bro, Thieme, and his best buddy, Rage, the three of them have set out on an adventure! Not long after departing, they pick up Eldin, a friendly girl from Beta Town. She has lived most of her life in her parent's house, and has always dreamed of going on an adventure.
+
+Suddenly, the Prince of Darkness appears! He doesn't appreciate the group of adventurers flying around that close to his home, and launches an attack on the party and the airship. The chaos summoned by the Prince of Darkness causes heavy damage to the airship, forcing it into making a crash landing. It is there where the real adventure starts...</desc>
+		<image>./images/FadeV0.05-image.png</image>
+		<marquee>./images/FadeV0.05-marquee.png</marquee>
+		<thumbnail>./images/FadeV0.05-thumb.png</thumbnail>
+		<developer>Milennin</developer>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<md5>e124631baf123ba57a1b1a1d7dce5f18</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033042" />
+	</game>
+	<game id="214125">
+		<path>./EasyRPG/FenrirsSonata.zip</path>
+		<name>Fenrirs Sonata</name>
+		<image>./images/FenrirsSonata-image.png</image>
+		<marquee>./images/FenrirsSonata-marquee.png</marquee>
+		<md5>fed879c9cb7ed866a0878f792fe7e343</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033048" />
+	</game>
+	<game id="214127">
+		<path>./EasyRPG/FifthEra-FragmentsOfTheHolyStone.zip</path>
+		<name>Fifth Era - Fragments of the Holy Stone</name>
+		<image>./images/FifthEra-FragmentsOfTheHolyStone-image.png</image>
+		<marquee>./images/FifthEra-FragmentsOfTheHolyStone-marquee.png</marquee>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033052" />
+	</game>
+	<game id="214129">
+		<path>./EasyRPG/FinalFallacyDuskOfSpirits.zip</path>
+		<name>Final Fallacy Dusk of Spirits</name>
+		<image>./images/FinalFallacyDuskOfSpirits-image.png</image>
+		<marquee>./images/FinalFallacyDuskOfSpirits-marquee.png</marquee>
+		<md5>66968b3e4b8b62d6040ac2b16aa1b018</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033105" />
+	</game>
+	<game id="214131">
+		<path>./EasyRPG/FinalFantasyCrystalWings.zip</path>
+		<name>Final Fantasy Crystal Wings</name>
+		<image>./images/FinalFantasyCrystalWings-image.png</image>
+		<marquee>./images/FinalFantasyCrystalWings-marquee.png</marquee>
+		<family>Final Fantasy</family>
+		<md5>2f1896920ec3b3a97a324b2b5d222539</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033112" />
+	</game>
+	<game id="214133">
+		<path>./EasyRPG/FinalFantasyTimeAndAgain.zip</path>
+		<name>Final Fantasy Time and Again</name>
+		<desc>The world is in a state of flux. The Baron Army, the most powerful nation in the world, has inexplicably begun attacks against other nations in a blitzkrieg attempt to gather all of the Crystals of the Elements. While the people of Baron are confused, their King is well loved for his service to the people up to this point. As his support dwindles, attacks come out in larger force, with the Dark Knights, Dragoons, and the Baron Red Wing airship fleet coming out in more violent shows of force each time.
+
+In the midst of this, a loyal Dragoon of the Baron Army, a half-demon orphan of Mysidia, and an unbalanced Psionic wanderer will meet, their fates locked together until the end of this madness, and will begin a constant struggle for peace...</desc>
+		<image>./images/FinalFantasyTimeAndAgain-image.png</image>
+		<marquee>./images/FinalFantasyTimeAndAgain-marquee.png</marquee>
+		<thumbnail>./images/FinalFantasyTimeAndAgain-thumb.png</thumbnail>
+		<releasedate>20051105T000000</releasedate>
+		<developer>Sephiroth X &amp; Azrael</developer>
+		<genre>Role playing games / Tactical RPG</genre>
+		<family>Final Fantasy</family>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033116" />
+	</game>
+	<game id="214135">
+		<path>./EasyRPG/FinalFantasyVi-2Demo.zip</path>
+		<name>Final Fantasy VI-2 Demo</name>
+		<image>./images/FinalFantasyVi-2Demo-image.png</image>
+		<marquee>./images/FinalFantasyVi-2Demo-marquee.png</marquee>
+		<family>Final Fantasy</family>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033119" />
+	</game>
+	<game id="214137">
+		<path>./EasyRPG/FinalFantasyVii2dRemake.zip</path>
+		<name>Final Fantasy 7 2D Remake</name>
+		<marquee>./images/FinalFantasyVii2dRemake-marquee.png</marquee>
+		<thumbnail>./images/FinalFantasyVii2dRemake-thumb.png</thumbnail>
+		<family>Final Fantasy</family>
+		<md5>67a10f4073ad9ad0b1b5ba32e6f5d0b8</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033128" />
+	</game>
+	<game id="214139">
+		<path>./EasyRPG/FleshchildV0.02.zip</path>
+		<name>Fleshchild</name>
+		<desc>Vis is only one of many, but they may be the first. They are awoken from their sleep by their parent, a being so immense, only its single eye can be comprehended when gazed upon. It's time for Vis to grow up.
+
+However, in order to grow, Vis will need to “borrow” a few parts from the lovely people living upstairs. The game begins with Vis's first emergence in the cover of night. Now that they are free to wander outside the sewer, they must hunt down all the parts they need to make themselves a proper adult. Unfortunately, people won't like lending Vis a hand if it costs an arm and a leg to do it!
+
+WARNINGS:
+This game features copious amounts of visual violence, gore, blood, body horror, and a host of other things. Be wary of playing if you are sensitive to any of the above.
+
+This is not a true horror game so don't expect jumpscares. You should not be scared while playing this game.</desc>
+		<image>./images/FleshchildV0.02-image.png</image>
+		<marquee>./images/FleshchildV0.02-marquee.png</marquee>
+		<thumbnail>./images/FleshchildV0.02-thumb.png</thumbnail>
+		<releasedate>20161026T000000</releasedate>
+		<md5>dc92eb4f4315ed251bfa45d309cd571c</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033145" />
+	</game>
+	<game id="214141">
+		<path>./EasyRPG/ForeverAcrossDreams.zip</path>
+		<name>Forever Across Dreams</name>
+		<image>./images/ForeverAcrossDreams-image.png</image>
+		<marquee>./images/ForeverAcrossDreams-marquee.png</marquee>
+		<md5>1b36bfae907393f0c15d9b588091c135</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033151" />
+	</game>
+	<game id="214143">
+		<path>./EasyRPG/ForeversEnd.zip</path>
+		<name>Forevers End</name>
+		<image>./images/ForeversEnd-image.png</image>
+		<marquee>./images/ForeversEnd-marquee.png</marquee>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033155" />
+	</game>
+	<game id="214145">
+		<path>./EasyRPG/FragileHeartsV1.1.zip</path>
+		<name>Fragile Hearts</name>
+		<image>./images/FragileHeartsV1.1-image.png</image>
+		<marquee>./images/FragileHeartsV1.1-marquee.png</marquee>
+		<md5>186e4c209a6fc5491eaac8b19ff56b92</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033204" />
+	</game>
+	<game id="214147">
+		<path>./EasyRPG/Fragments of Mind.zip</path>
+		<name>Fragments of Mind</name>
+		<image>./images/Fragments of Mind-image.png</image>
+		<marquee>./images/Fragments of Mind-marquee.png</marquee>
+		<md5>c55550a99a761add2abda80e0bb99aa3</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033208" />
+	</game>
+	<game id="214149">
+		<path>./EasyRPG/Frequency.zip</path>
+		<name>Frequency</name>
+		<image>./images/Frequency-image.png</image>
+		<marquee>./images/Frequency-marquee.png</marquee>
+		<md5>1337897dd5c96336b8ae073516864f55</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033214" />
+	</game>
+	<game id="214151">
+		<path>./EasyRPG/FrogTheCollector.zip</path>
+		<name>Frog the Collector</name>
+		<image>./images/FrogTheCollector-image.png</image>
+		<marquee>./images/FrogTheCollector-marquee.png</marquee>
+		<md5>9b0c140757db69fba3b01c4bf39a7c06</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033221" />
+	</game>
+	<game id="214153">
+		<path>./EasyRPG/FrogV2.02.zip</path>
+		<name>Frog</name>
+		<image>./images/FrogV2.02-image.png</image>
+		<marquee>./images/FrogV2.02-marquee.png</marquee>
+		<md5>0e9784e10616f566ff1e0b802360e4a7</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033227" />
+	</game>
+	<game id="214155">
+		<path>./EasyRPG/G the Game.zip</path>
+		<name>G the Game</name>
+		<image>./images/G the Game-image.png</image>
+		<marquee>./images/G the Game-marquee.png</marquee>
+		<md5>dcb3dedff08aec59c9b0315c0b62b7ff</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033231" />
+	</game>
+	<game id="214159">
+		<path>./EasyRPG/Generica.zip</path>
+		<name>Generica</name>
+		<image>./images/Generica-image.png</image>
+		<marquee>./images/Generica-marquee.png</marquee>
+		<md5>888e32d45ce73e40f2998f68a51a4189</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033235" />
+	</game>
+	<game id="214163">
+		<path>./EasyRPG/Ghost Party.zip</path>
+		<name>Ghost Party</name>
+		<desc>There is a killer on the loose! In Ghost Party, you play as a lonely ghost who wanders the halls of a haunted mansion to collect random items and help save its various inhabitants from an unknown murderer.
+
+The game is fairly short and can be beaten in under an hour. It also features three possible endings.</desc>
+		<image>./images/Ghost Party-image.png</image>
+		<marquee>./images/Ghost Party-marquee.png</marquee>
+		<thumbnail>./images/Ghost Party-thumb.png</thumbnail>
+		<rating>0.6</rating>
+		<releasedate>20130516T000000</releasedate>
+		<developer>tpjh2d</developer>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<md5>1817f944d013a15f0462bf19e5483501</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033241" />
+	</game>
+	<game id="214161">
+		<path>./EasyRPG/GhostInABottle.zip</path>
+		<name>Ghost in a Bottle</name>
+		<desc>You are Richard Tran, a dreamer and future Ghost Academy student. You are thrown into a GHAST plot when your best friend is taken from this world and you meet your idol Peter Venkman. Fear not, a time warrior named "Dark Babby" is there to guide you...
+
+Pick up your GHAST pack because this is a huge digital adventure waiting !</desc>
+		<image>./images/GhostInABottle-image.png</image>
+		<marquee>./images/GhostInABottle-marquee.png</marquee>
+		<thumbnail>./images/GhostInABottle-thumb.png</thumbnail>
+		<developer>TFT</developer>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<md5>2a73e94381d61132784a322654557bdc</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033249" />
+	</game>
+	<game id="214165">
+		<path>./EasyRPG/GhostVisitV1.10.zip</path>
+		<name>Ghost Visit </name>
+		<image>./images/GhostVisitV1.10-image.png</image>
+		<marquee>./images/GhostVisitV1.10-marquee.png</marquee>
+		<md5>a2e0b2499c985c2cf73e1dce57ccb322</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033254" />
+	</game>
+	<game id="214167">
+		<path>./EasyRPG/GoldenGuard.zip</path>
+		<name>Golden Guard</name>
+		<image>./images/GoldenGuard-image.png</image>
+		<marquee>./images/GoldenGuard-marquee.png</marquee>
+		<thumbnail>./images/GoldenGuard-thumb.png</thumbnail>
+		<md5>c297d078b19615497896fef3a94de666</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033303" />
+	</game>
+	<game id="214169">
+		<path>./EasyRPG/GraveSpirit.zip</path>
+		<name>Grave Spirit</name>
+		<image>./images/GraveSpirit-image.png</image>
+		<marquee>./images/GraveSpirit-marquee.png</marquee>
+		<md5>f282b945ea7dcf31c37b0dc1051cd963</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033312" />
+	</game>
+	<game id="214171">
+		<path>./EasyRPG/GrimpsAChristmasPuzzleV1.1.zip</path>
+		<name>Grimps A Christmas Puzzle</name>
+		<image>./images/GrimpsAChristmasPuzzleV1.1-image.png</image>
+		<marquee>./images/GrimpsAChristmasPuzzleV1.1-marquee.png</marquee>
+		<md5>138b7169def06b3d1fc5c839ebc5f17c</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033323" />
+	</game>
+	<game id="214173">
+		<path>./EasyRPG/HellGatesV1.12.zip</path>
+		<name>Hell Gates</name>
+		<desc>The player explores a forgotten island full of savage creatures and confronts them in real-time action combat where the right strategy is your most powerful weapon. Always look out for new artifacts that will aid you in uncovering the mysteries of that place. They are locked away in deadly dungeons that will not only test your might but also your wits.</desc>
+		<image>./images/HellGatesV1.12-image.png</image>
+		<marquee>./images/HellGatesV1.12-marquee.png</marquee>
+		<thumbnail>./images/HellGatesV1.12-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>20150601T000000</releasedate>
+		<developer>Pad</developer>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<md5>f8865a608faa8d7665f08c9e79f21d18</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033330" />
+	</game>
+	<game id="214175">
+		<path>./EasyRPG/Hellion.zip</path>
+		<name>Hellion</name>
+		<desc>There is something strange going on at the old temple in the remote village of Salidar. You are the Mysterious Wanderer - a warrior chosen from destiny to face the evil within. Your fate is tied intimately with what lies at its depths. Will you bring salvation to the forlorn hopefuls of Salidar? Or will you unleash destruction, whether by design or disaster? It is in your hands....
+
+Hellion is best described as a cross between Dragon Warrior, Diablo and D&amp;D - you have a blank slate character with 7 classes to choose from at the beginning of the game. You adventure solo. You can hire hirelings. The monster drops are random. The graphics are NES. The battles backgrounds are black. There are traps. There are locks to be picked and NPCs to be persuaded.</desc>
+		<image>./images/Hellion-image.png</image>
+		<marquee>./images/Hellion-marquee.png</marquee>
+		<thumbnail>./images/Hellion-thumb.png</thumbnail>
+		<releasedate>20091217T000000</releasedate>
+		<developer>Ephiam</developer>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<md5>786f6b32c96714b6f8915a248c060be2</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033337" />
+	</game>
+	<game id="214177">
+		<path>./EasyRPG/HerDreamsOfFire.zip</path>
+		<name>Her Dreams of Fire</name>
+		<desc>She dreams of fires every night. Of an empty house in the mountains where she once lived. Her past is a mystery, her life is a dream and those who try to help her the most are the ones she trusts least of all.
+
+Sometimes what lies between waking is more true than the life we live outside of it and sometimes we tell ourselves lies about the past and things that were done.
+
+Who can say why the dreamer lies?
+Who can say when the dreamer dies?
+Who can say whether death is just a longer dream or if the life we live is a dream and dreams are our lives?
+
+Examine yourself in the world of someone else's dreams. How will you react to the dreamers memories? Will you run or try to change what has gone before? Will you find meaning in this random bullshit I spit out and labelled a game or will you write off your reactions as inconsequential?
+
+Are the deepest dreams best forgotten?</desc>
+		<image>./images/HerDreamsOfFire-image.png</image>
+		<marquee>./images/HerDreamsOfFire-marquee.png</marquee>
+		<thumbnail>./images/HerDreamsOfFire-thumb.png</thumbnail>
+		<releasedate>20150512T000000</releasedate>
+		<developer>Liberty</developer>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<md5>eb4d20d67deef92bf522146453ed8559</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033345" />
+	</game>
+	<game id="214179">
+		<path>./EasyRPG/HerosRealmV1.5.zip</path>
+		<name>Heros Realm</name>
+		<image>./images/HerosRealmV1.5-image.png</image>
+		<marquee>./images/HerosRealmV1.5-marquee.png</marquee>
+		<md5>9e0aa203699707e73873f2d4759148bd</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033352" />
+	</game>
+	<game id="214181">
+		<path>./EasyRPG/IAmLegend.zip</path>
+		<name>I Am Legend</name>
+		<image>./images/IAmLegend-image.png</image>
+		<marquee>./images/IAmLegend-marquee.png</marquee>
+		<thumbnail>./images/IAmLegend-thumb.png</thumbnail>
+		<md5>0147ee5c1c1a93ae7c846da2f583818d</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033359" />
+	</game>
+	<game id="214185">
+		<path>./EasyRPG/IbV1.07.zip</path>
+		<name>Ib</name>
+		<desc>Players control the titular character from a top-down perspective trapped in an eldritch art museum, later revealed to be titled the "Fabricated World", where they meet the characters Garry and Mary. Together, they make the goal of escaping the gallery and returning to the real world.</desc>
+		<image>./images/IbV1.07-image.png</image>
+		<marquee>./images/IbV1.07-marquee.png</marquee>
+		<thumbnail>./images/IbV1.07-thumb.png</thumbnail>
+		<fanart>./images/IbV1.07-fanart.jpg</fanart>
+		<releasedate>20120227T000000</releasedate>
+		<developer>kouri</developer>
+		<publisher>kouri</publisher>
+		<genre>Adventure / Survival Horror</genre>
+		<players>1</players>
+		<md5>31e2957aac5e4fd7cfe8dd199bf11cde</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033411" />
+	</game>
+	<game id="214187">
+		<path>./EasyRPG/Illumina.zip</path>
+		<name>Illumina</name>
+		<image>./images/Illumina-image.png</image>
+		<marquee>./images/Illumina-marquee.png</marquee>
+		<md5>56b5e8fb4c2ad691b03f19b88cbfec09</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033417" />
+	</game>
+	<game id="214183">
+		<path>./EasyRPG/ILLUSION.zip</path>
+		<name>I L L U S I O N</name>
+		<image>./images/ILLUSION-image.png</image>
+		<marquee>./images/ILLUSION-marquee.png</marquee>
+		<md5>ec7c31e06bafcbcfa5509f13d8af9f68</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033429" />
+	</game>
+	<game id="214189">
+		<path>./EasyRPG/ImScaredOfGirls.zip</path>
+		<name>Im Scared of Girls</name>
+		<image>./images/ImScaredOfGirls-image.png</image>
+		<marquee>./images/ImScaredOfGirls-marquee.png</marquee>
+		<md5>64c7ca973fb72f9a716a34ddd58b27f3</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033438" />
+	</game>
+	<game id="214191">
+		<path>./EasyRPG/IronGaiaVirus.zip</path>
+		<name>Iron Gaia Virus</name>
+		<image>./images/IronGaiaVirus-image.png</image>
+		<marquee>./images/IronGaiaVirus-marquee.png</marquee>
+		<md5>4e0b3fc26a27233f14f8b45992dd2042</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033449" />
+	</game>
+	<game id="214193">
+		<path>./EasyRPG/JaseiNoInV.1.3.zip</path>
+		<name>Jasei no In</name>
+		<desc>Jasei no In: The Serpent's Lust is a short, linear game with a strong narrative. It tells a story adapted from a Japanese classic collection of supernatural and paranormal stories called Ugetsu Monogatari. This particular story is a very popular one in Japan, and has gone through many adaptations since its initial creation around 1776.
+
+The protagonist, Manago, is a simple weaver girl who gets caught in a rainstorm. A mysterious man in white appears out of nowhere and shields her from the rain, lending her an umbrella. Feeling indebted to him and perhaps a little attracted to him as well, she tries to return the umbrella to his manor hidden deep in the woods. Manago quickly becomes swept up in a romance that is not all that it seems, and must figure out who exactly the mysterious man in white really is, or face severe consequences.</desc>
+		<image>./images/JaseiNoInV.1.3-image.png</image>
+		<marquee>./images/JaseiNoInV.1.3-marquee.png</marquee>
+		<thumbnail>./images/JaseiNoInV.1.3-thumb.png</thumbnail>
+		<releasedate>20160319T000000</releasedate>
+		<developer>bleet</developer>
+		<genre>Role playing games / Action RPG</genre>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033455" />
+	</game>
+	<game id="214195">
+		<path>./EasyRPG/JojosBizarreAdventure.zip</path>
+		<name>JoJos Bizarre Adventure</name>
+		<image>./images/JojosBizarreAdventure-image.png</image>
+		<marquee>./images/JojosBizarreAdventure-marquee.png</marquee>
+		<md5>2a4138d376e602d9218223dc69957d96</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033501" />
+	</game>
+	<game id="214197">
+		<path>./EasyRPG/JournysEndAlexVsTheTowerOfDoomV1.2.zip</path>
+		<name>Journys End Alex vs The Tower of Doom</name>
+		<image>./images/JournysEndAlexVsTheTowerOfDoomV1.2-image.png</image>
+		<marquee>./images/JournysEndAlexVsTheTowerOfDoomV1.2-marquee.png</marquee>
+		<md5>c2e433b8934adc7e44a6d221a09c81db</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033507" />
+	</game>
+	<game>
+		<path>./EasyRPG/Killer Bear v1.0e.zip</path>
+		<name>Killer Bear v1.0e</name>
+		<md5>69a9ca34b3c386320586f1b27e819120</md5>
+		<scrap name="ScreenScraper" date="20231102T033509" />
+	</game>
+	<game id="214201">
+		<path>./EasyRPG/KindredSagaChapter1.zip</path>
+		<name>Kindred Saga Chapter 1</name>
+		<image>./images/KindredSagaChapter1-image.png</image>
+		<marquee>./images/KindredSagaChapter1-marquee.png</marquee>
+		<md5>e496328ea3ad5eafb3f5d47bbf2f4c3a</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033514" />
+	</game>
+	<game id="214203">
+		<path>./EasyRPG/Kinetic Cipher Again.zip</path>
+		<name>Kinetic Cipher Again</name>
+		<image>./images/Kinetic Cipher Again-image.png</image>
+		<marquee>./images/Kinetic Cipher Again-marquee.png</marquee>
+		<md5>558e84a78e6815c03fe74212776db7c7</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033519" />
+	</game>
+	<game id="214205">
+		<path>./EasyRPG/LandsOfLunoriDemo.zip</path>
+		<name>Lands of Lunori Demo</name>
+		<image>./images/LandsOfLunoriDemo-image.png</image>
+		<marquee>./images/LandsOfLunoriDemo-marquee.png</marquee>
+		<md5>c9d2431f2743e0ba90d14e47c1dbdffd</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033531" />
+	</game>
+	<game id="214207">
+		<path>./EasyRPG/LastQuestIvThePrequeling.zip</path>
+		<name>Last Quest IV The Prequeling</name>
+		<image>./images/LastQuestIvThePrequeling-image.png</image>
+		<marquee>./images/LastQuestIvThePrequeling-marquee.png</marquee>
+		<md5>6dbef3e7d21662798939f7be6d477621</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033536" />
+	</game>
+	<game id="214209">
+		<path>./EasyRPG/LavenderV1.05.zip</path>
+		<name>Lavender</name>
+		<image>./images/LavenderV1.05-image.png</image>
+		<marquee>./images/LavenderV1.05-marquee.png</marquee>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033540" />
+	</game>
+	<game id="214211">
+		<path>./EasyRPG/LeftBehind.zip</path>
+		<name>Left Behind</name>
+		<image>./images/LeftBehind-image.png</image>
+		<marquee>./images/LeftBehind-marquee.png</marquee>
+		<md5>a57ae2327e037fdee675eb45f234f2b8</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033544" />
+	</game>
+	<game>
+		<path>./EasyRPG/LegendOfHeroenV1.20.zip</path>
+		<name>LegendOfHeroenV1.20</name>
+		<scrap name="ScreenScraper" date="20231102T033545" />
+	</game>
+	<game id="214215">
+		<path>./EasyRPG/LegendsOfPerrenTaskOfMaliceV1.04.zip</path>
+		<name>Legends of Perren Task of Malice</name>
+		<image>./images/LegendsOfPerrenTaskOfMaliceV1.04-image.png</image>
+		<marquee>./images/LegendsOfPerrenTaskOfMaliceV1.04-marquee.png</marquee>
+		<md5>c43ca23f9d8fe31bdcb4244956b42b49</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033549" />
+	</game>
+	<game id="214223">
+		<path>./EasyRPG/LegionSaga.zip</path>
+		<name>Legion Saga</name>
+		<desc>The neighbouring nations of Meluvet and Garalas, once united as the grand Evancourt, are falling into dispute and the king of Meluvet, the once-loved King Agaman, is pressing his troops further and further into Garalasian territory in order to gain control of the land that belonged to his ancestors.
+
+The story begins with a battle initiated by Meluvet on the border village of Seimu, a strategic point and vital to the Meluvetian army if it wishes to succeed in domination of Garalas. King Agaman's son, Durane, has been sent to lead the attack with his companion Eva.
+
+The battle is a success and the soldiers return home. However, Durane is soon imprisoned for crimes he did not commit... or did he...?</desc>
+		<image>./images/LegionSaga-image.png</image>
+		<marquee>./images/LegionSaga-marquee.png</marquee>
+		<thumbnail>./images/LegionSaga-thumb.png</thumbnail>
+		<releasedate>20010101T000000</releasedate>
+		<developer>Kamau</developer>
+		<publisher>Kamau</publisher>
+		<genre>Role playing games / Action RPG</genre>
+		<family>Legion Saga</family>
+		<players>1</players>
+		<md5>f423962b813fe4c7e35e0b785a8d88e5</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033555" />
+	</game>
+	<game id="214217">
+		<path>./EasyRPG/LegionSagaIi.zip</path>
+		<name>Legion Saga II</name>
+		<desc>A man named Nastra runs away intro the country of Krisdea from the country of Veramonde for murdering another man. He is followed by a dark elf and his companion to capture Nastra's head, who has a bounty placed on him. He meets a Kobold named Fuba who kills the dark elf's companion. Nastra eventually kills the Dark Elf. Nastra eventually joins a rebellion and runs a customizable castle.</desc>
+		<image>./images/LegionSagaIi-image.png</image>
+		<video>./videos/LegionSagaIi-video.mp4</video>
+		<marquee>./images/LegionSagaIi-marquee.png</marquee>
+		<thumbnail>./images/LegionSagaIi-thumb.png</thumbnail>
+		<releasedate>20020101T000000</releasedate>
+		<developer>Kamau</developer>
+		<publisher>Kamau</publisher>
+		<genre>Role playing games / Action RPG</genre>
+		<family>Legion Saga</family>
+		<players>1</players>
+		<md5>fc4de80e6b7ee15f9b26fe9eef79ff1a</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033603" />
+	</game>
+	<game id="214219">
+		<path>./EasyRPG/LegionSagaIii.zip</path>
+		<name>Legion Saga III</name>
+		<desc>Legion Saga III is a fantasy game set in a medieval world on the brink of war. It is regarded as one of the classic games of the early 2k era, like it's prequels, Legion Saga and Legion Saga II. It follows the story of Kima, a disgraced warrior who decides to restore his homeland to its former glory. Difficulties arise, though, when another faction within the country rise up and causes a civil war at the same time as the country is under siege.</desc>
+		<image>./images/LegionSagaIii-image.png</image>
+		<marquee>./images/LegionSagaIii-marquee.png</marquee>
+		<thumbnail>./images/LegionSagaIii-thumb.png</thumbnail>
+		<releasedate>20040101T000000</releasedate>
+		<developer>Kamau</developer>
+		<publisher>Kamau</publisher>
+		<genre>Role playing games / Action RPG</genre>
+		<family>Legion Saga</family>
+		<players>1</players>
+		<md5>09c3312caf80fda4e0a93212f587fd42</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033611" />
+	</game>
+	<game id="214221">
+		<path>./EasyRPG/LegionSagaR.zip</path>
+		<name>Legion Saga R</name>
+		<desc>Legion Saga R is a unfinished RPG game created by Kamau. It is a first remake of Legion Saga using RPG Maker 2003.
+Experience the original Legion Saga adventure with improved graphics, sound, music, storyline, characters and more. New Legionnaires to find and recruit including both playable and characters who will add to the castle. More mini-games to play including more duels and wars (both will have improved engines) and more games to play with Kinuba. Multiple endings as in the original, plus new endings and storyline routes. New Orbcraft system: Orbs come in two varieties, attack and defense. You will learn new skills depending on where you put the Orb, and also depending on your character's magic stats. RPG Maker 2003's new side-view battle system with the ATB gauge.</desc>
+		<image>./images/LegionSagaR-image.png</image>
+		<marquee>./images/LegionSagaR-marquee.png</marquee>
+		<thumbnail>./images/LegionSagaR-thumb.png</thumbnail>
+		<releasedate>20050101T000000</releasedate>
+		<developer>Kamau</developer>
+		<publisher>Kamau</publisher>
+		<genre>Role playing games / Action RPG</genre>
+		<family>Legion Saga</family>
+		<players>1</players>
+		<md5>e597b850daae98088b483f37af070ec5</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033618" />
+	</game>
+	<game id="214225">
+		<path>./EasyRPG/LeoAndLeah.zip</path>
+		<name>Leo and Leah</name>
+		<image>./images/LeoAndLeah-image.png</image>
+		<marquee>./images/LeoAndLeah-marquee.png</marquee>
+		<md5>76e9e302ae6c4b64928c2f7f146b62cb</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033626" />
+	</game>
+	<game id="214227">
+		<path>./EasyRPG/LisaTheFirst.zip</path>
+		<name>Lisa The First</name>
+		<image>./images/LisaTheFirst-image.png</image>
+		<marquee>./images/LisaTheFirst-marquee.png</marquee>
+		<md5>33fde824be616568804be26800fbb751</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033638" />
+	</game>
+	<game id="214229">
+		<path>./EasyRPG/LoopsQuest.zip</path>
+		<name>Loops Quest</name>
+		<image>./images/LoopsQuest-image.png</image>
+		<marquee>./images/LoopsQuest-marquee.png</marquee>
+		<md5>c894bc7764d7f9141f0f8bf3ec42f3e0</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033643" />
+	</game>
+	<game id="214231">
+		<path>./EasyRPG/Lucky.zip</path>
+		<name>Lucky</name>
+		<image>./images/Lucky-image.png</image>
+		<marquee>./images/Lucky-marquee.png</marquee>
+		<md5>062fd17a9e7933e5aaa1aa8763eb69fb</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033648" />
+	</game>
+	<game id="214233">
+		<path>./EasyRPG/Maranda.zip</path>
+		<name>Maranda</name>
+		<image>./images/Maranda-image.png</image>
+		<marquee>./images/Maranda-marquee.png</marquee>
+		<thumbnail>./images/Maranda-thumb.png</thumbnail>
+		<md5>c20a56f5bcd734fff192580fb51a4c2a</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033654" />
+	</game>
+	<game id="254495">
+		<path>./EasyRPG/MetalGearSolidLunacyOfLegionV1.95.zip</path>
+		<name>Metal Gear Solid Lunacy of Legion</name>
+		<image>./images/MetalGearSolidLunacyOfLegionV1.95-image.png</image>
+		<marquee>./images/MetalGearSolidLunacyOfLegionV1.95-marquee.png</marquee>
+		<thumbnail>./images/MetalGearSolidLunacyOfLegionV1.95-thumb.png</thumbnail>
+		<md5>db023648ffe385b0997c1d0ac5218b00</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033705" />
+	</game>
+	<game id="214235">
+		<path>./EasyRPG/MimicryMan.zip</path>
+		<name>Mimicry Man</name>
+		<image>./images/MimicryMan-image.png</image>
+		<marquee>./images/MimicryMan-marquee.png</marquee>
+		<md5>bbfcd394e720f5de564db579727a1d33</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033710" />
+	</game>
+	<game id="214237">
+		<path>./EasyRPG/MogsGreatAdventure.zip</path>
+		<name>Mogs Great Adventure</name>
+		<image>./images/MogsGreatAdventure-image.png</image>
+		<marquee>./images/MogsGreatAdventure-marquee.png</marquee>
+		<md5>d47775c393abe9b33024e870228f6502</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033716" />
+	</game>
+	<game id="214239">
+		<path>./EasyRPG/MoonTree.zip</path>
+		<name>Moon Tree</name>
+		<image>./images/MoonTree-image.png</image>
+		<marquee>./images/MoonTree-marquee.png</marquee>
+		<md5>438a04adc79e59efc5f2582c7170b9a9</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033727" />
+	</game>
+	<game id="214241">
+		<path>./EasyRPG/MouthSweetV2.zip</path>
+		<name>Mouth Sweet v2</name>
+		<image>./images/MouthSweetV2-image.png</image>
+		<marquee>./images/MouthSweetV2-marquee.png</marquee>
+		<thumbnail>./images/MouthSweetV2-thumb.png</thumbnail>
+		<md5>be040a5f51c853dc35f765aa03ee4c58</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033738" />
+	</game>
+	<game id="214243">
+		<path>./EasyRPG/Mystic Sunrise.zip</path>
+		<name>Mystic Sunrise</name>
+		<image>./images/Mystic Sunrise-image.png</image>
+		<marquee>./images/Mystic Sunrise-marquee.png</marquee>
+		<thumbnail>./images/Mystic Sunrise-thumb.png</thumbnail>
+		<md5>8fc77025f05a0be024fdaeb9631f04f0</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033743" />
+	</game>
+	<game id="214245">
+		<path>./EasyRPG/MysticTales.zip</path>
+		<name>Mystic Tales</name>
+		<image>./images/MysticTales-image.png</image>
+		<marquee>./images/MysticTales-marquee.png</marquee>
+		<md5>ca902586ec1e946168ca639b2ac34ca5</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033749" />
+	</game>
+	<game id="214247">
+		<path>./EasyRPG/NeoJadoEpisodeOneComplete.zip</path>
+		<name>Neo Jado Episode One Complete</name>
+		<image>./images/NeoJadoEpisodeOneComplete-image.png</image>
+		<marquee>./images/NeoJadoEpisodeOneComplete-marquee.png</marquee>
+		<thumbnail>./images/NeoJadoEpisodeOneComplete-thumb.png</thumbnail>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033754" />
+	</game>
+	<game id="214249">
+		<path>./EasyRPG/NightmareJohnnyV1.2.zip</path>
+		<name>Nightmare Johnny</name>
+		<image>./images/NightmareJohnnyV1.2-image.png</image>
+		<marquee>./images/NightmareJohnnyV1.2-marquee.png</marquee>
+		<thumbnail>./images/NightmareJohnnyV1.2-thumb.png</thumbnail>
+		<md5>5d3182c2d11366405c19722aff4b1d60</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033800" />
+	</game>
+	<game id="214251">
+		<path>./EasyRPG/NigsekAMonstersTail.zip</path>
+		<name>NigSek A Monsters Tail</name>
+		<image>./images/NigsekAMonstersTail-image.png</image>
+		<marquee>./images/NigsekAMonstersTail-marquee.png</marquee>
+		<md5>5ae827989cc59c4ec6730be6d49a15af</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033805" />
+	</game>
+	<game id="214253">
+		<path>./EasyRPG/NotesOnTheSecondMellyndWarCh1AndCh2V2.0.zip</path>
+		<name>Notes on the Second Mellynd War Ch1 and Ch2</name>
+		<image>./images/NotesOnTheSecondMellyndWarCh1AndCh2V2.0-image.png</image>
+		<marquee>./images/NotesOnTheSecondMellyndWarCh1AndCh2V2.0-marquee.png</marquee>
+		<md5>bd66ecd153fe64f4238f04ec0331850a</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033812" />
+	</game>
+	<game id="214255">
+		<path>./EasyRPG/Oblishblot.zip</path>
+		<name>Oblishblot</name>
+		<image>./images/Oblishblot-image.png</image>
+		<marquee>./images/Oblishblot-marquee.png</marquee>
+		<md5>b4bc02dc74e1e9ab4c9bf403cd9a56b1</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033819" />
+	</game>
+	<game>
+		<path>./EasyRPG/OblivionQuestV1.1.zip</path>
+		<name>OblivionQuestV1.1</name>
+		<md5>cdc596f73fa249e21e5c969ab6de3794</md5>
+		<scrap name="ScreenScraper" date="20231102T033826" />
+	</game>
+	<game id="214261">
+		<path>./EasyRPG/OfficerBaby.zip</path>
+		<name>Officer Baby</name>
+		<marquee>./images/OfficerBaby-marquee.png</marquee>
+		<thumbnail>./images/OfficerBaby-thumb.png</thumbnail>
+		<md5>4d24c1a754163a09b72bf1ff0c65a98e</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033832" />
+	</game>
+	<game>
+		<path>./EasyRPG/OffV1.6.1.zip</path>
+		<name>OffV1.6.1</name>
+		<md5>00f131beafb342ce3fb021d7d4437fe1</md5>
+		<scrap name="ScreenScraper" date="20231102T033838" />
+	</game>
+	<game id="214263">
+		<path>./EasyRPG/OllimioDemoV1.04.zip</path>
+		<name>Ollimio Demo</name>
+		<image>./images/OllimioDemoV1.04-image.png</image>
+		<marquee>./images/OllimioDemoV1.04-marquee.png</marquee>
+		<thumbnail>./images/OllimioDemoV1.04-thumb.png</thumbnail>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033843" />
+	</game>
+	<game id="214265">
+		<path>./EasyRPG/OneshotV1.03.zip</path>
+		<name>Oneshot</name>
+		<image>./images/OneshotV1.03-image.png</image>
+		<marquee>./images/OneshotV1.03-marquee.png</marquee>
+		<thumbnail>./images/OneshotV1.03-thumb.png</thumbnail>
+		<md5>cbca8c71f97eca1dc70c18607073b220</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033852" />
+	</game>
+	<game id="214267">
+		<path>./EasyRPG/Onyx.zip</path>
+		<name>Onyx</name>
+		<desc>The game is set in modern times, the year 2014. You are playing as CHAD DANIELS, a rather "moody" teenage boy who, unfortunately, lost his mother to a disease. His father ran out on him, and his Aunt is constantly sick.
+
+Trying to be the best nephew you can, you assist your Aunt by trying to find her a pillow from your storage room...but...there's someone inside...a little boy.
+
+You ask the little boy to identify himself. Instead, he screams and runs off.
+
+Confused by the event, you go to check up on your Aunt...but she's gone, and to make matters worse, you begin to hear monstrous sounds coming from outside your front door. You are saved by an angel, who explains to you that the kid is actually the "Onyx Boy", one who knows of the location of the Onyx, an object of pursuit by many powerful forces. The angel calls you the "Peditra", the only one who can connect with the Onyx Boy and destroy the Onyx.
+
+So now you're left with two options...help save the new world of Allumia, which is nearly exactly like your old home...or, find a way back to your own original world. Which one would you choose?</desc>
+		<image>./images/Onyx-image.png</image>
+		<marquee>./images/Onyx-marquee.png</marquee>
+		<thumbnail>./images/Onyx-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>20080519T000000</releasedate>
+		<developer>Yeaster</developer>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<md5>107b910826b65241dd253a6a873d9814</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033903" />
+	</game>
+	<game id="214269">
+		<path>./EasyRPG/PacMan RPG.zip</path>
+		<name>PacMan RPG</name>
+		<image>./images/PacMan RPG-image.png</image>
+		<marquee>./images/PacMan RPG-marquee.png</marquee>
+		<md5>6da80595da8e98f6165cf865877d1a94</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033908" />
+	</game>
+	<game id="214271">
+		<path>./EasyRPG/Phantasia5.zip</path>
+		<name>Phantasia 5</name>
+		<image>./images/Phantasia5-image.png</image>
+		<marquee>./images/Phantasia5-marquee.png</marquee>
+		<thumbnail>./images/Phantasia5-thumb.png</thumbnail>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033912" />
+	</game>
+	<game id="214273">
+		<path>./EasyRPG/PhantomLegacyRedux.zip</path>
+		<name>Phantom Legacy Redux</name>
+		<desc>Much has changed in the years since the Old Gods have perished.
+
+The world continues it's slow descent into oblivion, arbiters of the old order continue their struggle from the shadows, and the nations of the world, formerly oblivious to the Eldritch powers that bore this crisis, begin to harness it's potential for their own gain.
+
+Nero, a man born from such strange powers is thrust into a world of ancient battles, New Gods, and an all powerful enigma who watches over all from his very subconscious.</desc>
+		<image>./images/PhantomLegacyRedux-image.png</image>
+		<marquee>./images/PhantomLegacyRedux-marquee.png</marquee>
+		<thumbnail>./images/PhantomLegacyRedux-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>20130811T000000</releasedate>
+		<developer>Nightblade</developer>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033917" />
+	</game>
+	<game id="214275">
+		<path>./EasyRPG/PhantomNegative.zip</path>
+		<name>Phantom Negative</name>
+		<image>./images/PhantomNegative-image.png</image>
+		<marquee>./images/PhantomNegative-marquee.png</marquee>
+		<thumbnail>./images/PhantomNegative-thumb.png</thumbnail>
+		<md5>38ae43985c4854dadf096500acd6b996</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033926" />
+	</game>
+	<game id="214277">
+		<path>./EasyRPG/PhylomortisIi.zip</path>
+		<name>Phylomortis II</name>
+		<image>./images/PhylomortisIi-image.png</image>
+		<marquee>./images/PhylomortisIi-marquee.png</marquee>
+		<md5>fe2a9a97aa01cdea1fd29e2bdccc2118</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033933" />
+	</game>
+	<game id="214279">
+		<path>./EasyRPG/PifAndHercule.zip</path>
+		<name>Pif and Hercule</name>
+		<image>./images/PifAndHercule-image.png</image>
+		<marquee>./images/PifAndHercule-marquee.png</marquee>
+		<md5>d3644cfde57f533f617394e12e20a3be</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033937" />
+	</game>
+	<game id="214281">
+		<path>./EasyRPG/PiratesTheLegendOfTheSilverCrescent.zip</path>
+		<name>Pirates The Legend of the Silver Crescent</name>
+		<image>./images/PiratesTheLegendOfTheSilverCrescent-image.png</image>
+		<marquee>./images/PiratesTheLegendOfTheSilverCrescent-marquee.png</marquee>
+		<md5>c0ac3003c4badd6904d5da7c06c2a9c0</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033943" />
+	</game>
+	<game id="214283">
+		<path>./EasyRPG/PixelChallengeV1.1.zip</path>
+		<name>Pixel Challenge</name>
+		<image>./images/PixelChallengeV1.1-image.png</image>
+		<marquee>./images/PixelChallengeV1.1-marquee.png</marquee>
+		<md5>eddb6bed42b1b2520146e769686bb496</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033947" />
+	</game>
+	<game id="214285">
+		<path>./EasyRPG/PokemonDuskChroniclesDaveV1.2.zip</path>
+		<name>Pokemon Dusk Chronicles Dave</name>
+		<image>./images/PokemonDuskChroniclesDaveV1.2-image.png</image>
+		<marquee>./images/PokemonDuskChroniclesDaveV1.2-marquee.png</marquee>
+		<family>Pokémon</family>
+		<md5>69973e0de174d5f922b8d33dbe552475</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033955" />
+	</game>
+	<game id="214287">
+		<path>./EasyRPG/PokemonNightmareInvasion.zip</path>
+		<name>Pokemon Nightmare Invasion</name>
+		<image>./images/PokemonNightmareInvasion-image.png</image>
+		<marquee>./images/PokemonNightmareInvasion-marquee.png</marquee>
+		<family>Pokémon</family>
+		<md5>80a195d8d867a57b9b3888dc9ecf1594</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T033959" />
+	</game>
+	<game id="214289">
+		<path>./EasyRPG/PokemonTheEvilInside2.zip</path>
+		<name>Pokemon The Evil Inside 2</name>
+		<image>./images/PokemonTheEvilInside2-image.png</image>
+		<marquee>./images/PokemonTheEvilInside2-marquee.png</marquee>
+		<family>Pokémon</family>
+		<md5>e9fc87fe2b6ea4ae10b614c6d4c06f44</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T034006" />
+	</game>
+	<game id="214291">
+		<path>./EasyRPG/Polixiuhs.zip</path>
+		<name>Polixiuhs</name>
+		<image>./images/Polixiuhs-image.png</image>
+		<marquee>./images/Polixiuhs-marquee.png</marquee>
+		<thumbnail>./images/Polixiuhs-thumb.png</thumbnail>
+		<md5>fb6b3a0c57031f43a1720cf3ff5dcf11</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T034013" />
+	</game>
+	<game id="214293">
+		<path>./EasyRPG/PomGetsWifiV1.04.zip</path>
+		<name>Pom Gets WiFi v1.04</name>
+		<image>./images/PomGetsWifiV1.04-image.png</image>
+		<marquee>./images/PomGetsWifiV1.04-marquee.png</marquee>
+		<thumbnail>./images/PomGetsWifiV1.04-thumb.png</thumbnail>
+		<md5>879f43a2b5751b89e599107b30180c79</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T034022" />
+	</game>
+	<game id="214295">
+		<path>./EasyRPG/PowerTrip.zip</path>
+		<name>Power Trip</name>
+		<image>./images/PowerTrip-image.png</image>
+		<marquee>./images/PowerTrip-marquee.png</marquee>
+		<md5>0b8cb23d22d016a7fcb817a5ddfd2187</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T034027" />
+	</game>
+	<game id="214297">
+		<path>./EasyRPG/Professor McLogic Saves the Day v2.0.zip</path>
+		<name>Professor McLogic Saves the Day</name>
+		<image>./images/Professor McLogic Saves the Day v2.0-image.png</image>
+		<marquee>./images/Professor McLogic Saves the Day v2.0-marquee.png</marquee>
+		<thumbnail>./images/Professor McLogic Saves the Day v2.0-thumb.png</thumbnail>
+		<md5>05004ead9b12f633d5aec85783c26935</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T034034" />
+	</game>
+	<game id="214299">
+		<path>./EasyRPG/ProjectROSE.zip</path>
+		<name>ProjectROSE</name>
+		<image>./images/ProjectROSE-image.png</image>
+		<marquee>./images/ProjectROSE-marquee.png</marquee>
+		<thumbnail>./images/ProjectROSE-thumb.png</thumbnail>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T034038" />
+	</game>
+	<game>
+		<path>./EasyRPG/RacerRpgV1.1.zip</path>
+		<name>RacerRpgV1.1</name>
+		<md5>1eba6370e9f871e0f9f0b954faaf18d4</md5>
+		<scrap name="ScreenScraper" date="20231102T034045" />
+	</game>
+	<game id="214303">
+		<path>./EasyRPG/RaZor.zip</path>
+		<name>RaZor</name>
+		<desc>A cinematic RPG forever in the making that delves into the minds of individuals that slowly and painfully learn the values and downfalls of humanity.
+
+Also, a hard lesson in growing up.</desc>
+		<image>./images/RaZor-image.png</image>
+		<marquee>./images/RaZor-marquee.png</marquee>
+		<thumbnail>./images/RaZor-thumb.png</thumbnail>
+		<developer>Grimlock</developer>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<md5>fd3c575a49d16a89ac387a3c64f3aaaf</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T034054" />
+	</game>
+	<game id="214305">
+		<path>./EasyRPG/RbgColors.zip</path>
+		<name>RBG Colors</name>
+		<image>./images/RbgColors-image.png</image>
+		<marquee>./images/RbgColors-marquee.png</marquee>
+		<md5>9c5ef35273422a728a8a1f6e63a3e05f</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T034058" />
+	</game>
+	<game id="214307">
+		<path>./EasyRPG/RiseOfTheThirdPower.zip</path>
+		<name>Rise of the Third Power</name>
+		<image>./images/RiseOfTheThirdPower-image.png</image>
+		<marquee>./images/RiseOfTheThirdPower-marquee.png</marquee>
+		<thumbnail>./images/RiseOfTheThirdPower-thumb.png</thumbnail>
+		<md5>a9676ef5e79d1beb875506e6c672fb9f</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T034110" />
+	</game>
+	<game id="214309">
+		<path>./EasyRPG/Rm2kSurvivorNyse.zip</path>
+		<name>RM2k Survivor NYSE</name>
+		<image>./images/Rm2kSurvivorNyse-image.png</image>
+		<marquee>./images/Rm2kSurvivorNyse-marquee.png</marquee>
+		<thumbnail>./images/Rm2kSurvivorNyse-thumb.png</thumbnail>
+		<md5>637569ad72f5e26b2ef008d95f105f76</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T034116" />
+	</game>
+	<game id="214311">
+		<path>./EasyRPG/RomancingWalker.zip</path>
+		<name>Romancing Walker</name>
+		<desc>Romancing Walker is a romantic RPG that follows the story of Ryle, a young man looking for his purpose. Leaving on a journey of self-discovery, Ryle eventually uncovers not only the secret of his past, but one of world-shattering importance. Joining Ryle in his travels are a bevy of lovely ladies who he may choose to romance and bond with through interactions within the story.</desc>
+		<image>./images/RomancingWalker-image.png</image>
+		<marquee>./images/RomancingWalker-marquee.png</marquee>
+		<thumbnail>./images/RomancingWalker-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>20010101T000000</releasedate>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<md5>e421c986834235897ce086202f95c936</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T034123" />
+	</game>
+	<game id="214313">
+		<path>./EasyRPG/Sainth.zip</path>
+		<name>Sainth</name>
+		<image>./images/Sainth-image.png</image>
+		<marquee>./images/Sainth-marquee.png</marquee>
+		<md5>6357005b1c03297e7386ce6f10b4d295</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T034128" />
+	</game>
+	<game id="214315">
+		<path>./EasyRPG/Sandy and the Christmas Card Caper.zip</path>
+		<name>Sandy and the Christmas Card Caper</name>
+		<image>./images/Sandy and the Christmas Card Caper-image.png</image>
+		<marquee>./images/Sandy and the Christmas Card Caper-marquee.png</marquee>
+		<md5>0359aa4948bd51b5e4a908e3c08faf7f</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T034133" />
+	</game>
+	<game id="214317">
+		<path>./EasyRPG/SecretOfManaBattleSystemDemo.zip</path>
+		<name>Secret of Mana Battle System Demo</name>
+		<image>./images/SecretOfManaBattleSystemDemo-image.png</image>
+		<marquee>./images/SecretOfManaBattleSystemDemo-marquee.png</marquee>
+		<md5>31457a908923914ec9ad7ad8ec5425f0</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T034138" />
+	</game>
+	<game id="214319">
+		<path>./EasyRPG/SellswordV2.0.zip</path>
+		<name>Sellsword</name>
+		<image>./images/SellswordV2.0-image.png</image>
+		<marquee>./images/SellswordV2.0-marquee.png</marquee>
+		<md5>bbbec123725822f7ded3d71869c98409</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T034143" />
+	</game>
+	<game id="214321">
+		<path>./EasyRPG/SeraphicBlue.zip</path>
+		<name>Seraphic Blue</name>
+		<image>./images/SeraphicBlue-image.png</image>
+		<marquee>./images/SeraphicBlue-marquee.png</marquee>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T034147" />
+	</game>
+	<game id="214325">
+		<path>./EasyRPG/Shini Sou.zip</path>
+		<name>Shini Sou</name>
+		<desc>"This is truly destiny
+I have to rescue those who fail in front of me
+If I could find all four heros...
+
+Only after that, I can not regret
+I will return those to those I love
+It is desperate, but I am only one chance"
+
+"Let us pray that this brave hero can succeed for his quest
+The chances are not the best
+and the stakes are big..."
+
+Shini Sou is a game made in 10 hours for the RETROMANIA! event. Playing as the Hero of the Prophecy, you must rescue four heroes in a dungeon, but many perils are on the hero's path.</desc>
+		<image>./images/Shini Sou-image.png</image>
+		<marquee>./images/Shini Sou-marquee.png</marquee>
+		<thumbnail>./images/Shini Sou-thumb.png</thumbnail>
+		<rating>0.65</rating>
+		<releasedate>20170604T000000</releasedate>
+		<developer>Superstroke</developer>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>7e7a388c2b9d714c05adb78b985b9ab6</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T034152" />
+	</game>
+	<game>
+		<path>./EasyRPG/Sideways.zip</path>
+		<name>Sideways</name>
+		<md5>9ad2aa0fe9369f9933d935bd18f76d43</md5>
 	</game>
 </gameList>

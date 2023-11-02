@@ -357,9 +357,44 @@ Will you, the descendant of Vang Tu, manage to find the stone before the terribl
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231102T001306" />
 	</game>
-	<game>
+	<game id="268484">
 		<path>./TOSEC/Games/[PRG]/ASCII Chase (2017-06-04)(Caruso, Fabrizio)/ASCII Chase (2017-06-04)(Caruso, Fabrizio).prg</path>
-		<name>ASCII Chase (2017-06-04)(Caruso, Fabrizio)</name>
+		<name>ASCII Chase</name>
 		<md5>a0672a5da988b1a7ee48ca49ee547768</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T032737" />
+	</game>
+	<game id="268484">
+		<path>./TOSEC/Games/[PRG]/ASCII Chase (2017-06-05)(Caruso, Fabrizio)[Joystick]/ASCII Chase (2017-06-05)(Caruso, Fabrizio)[Joystick].prg</path>
+		<name>ASCII Chase</name>
+		<md5>276f13c54374be748a79bf7e64a90c3c</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T032739" />
+	</game>
+	<game id="268484">
+		<path>./TOSEC/Games/[PRG]/ASCII Chase (2017-06-07)(Caruso, Fabrizio)/ASCII Chase (2017-06-07)(Caruso, Fabrizio).prg</path>
+		<name>ASCII Chase</name>
+		<md5>24e05eee4b76fba4f4fa0d7ae08f38eb</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T032741" />
+	</game>
+	<game id="268484">
+		<path>./TOSEC/Games/[PRG]/ASCII Chase (2017-06-09)(Caruso, Fabrizio)/ASCII Chase (2017-06-09)(Caruso, Fabrizio).prg</path>
+		<name>ASCII Chase</name>
+		<md5>4f10343226e15122ea13f1ebd564bc68</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T032743" />
+	</game>
+	<game id="268484">
+		<path>./TOSEC/Games/[PRG]/ASCII Chase (2017-06-09)(Caruso, Fabrizio)[32K]/ASCII Chase (2017-06-09)(Caruso, Fabrizio)[32K].prg</path>
+		<name>ASCII Chase</name>
+		<md5>c9ed7853b4252f83747ab1dc764c2686</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T032745" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[PRG]/ASCII Chase (2017-06-09)(Caruso, Fabrizio)[a2]/ASCII Chase (2017-06-09)(Caruso, Fabrizio)[a2].prg</path>
+		<name>ASCII Chase (2017-06-09)(Caruso, Fabrizio)[a2]</name>
+		<md5>7e7265569c68642c1a6424720af9c0cd</md5>
 	</game>
 </gameList>
