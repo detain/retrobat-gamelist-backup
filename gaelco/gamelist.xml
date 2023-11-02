@@ -1,2 +1,51 @@
 <?xml version="1.0"?>
-<gameList />
+<gameList>
+	<game id="40103">
+		<path>./gaelco/atvtrack.zip</path>
+		<name>Atv Track</name>
+		<desc>A four-wheel motorcycle racing simulator with four different circuits and two selectable modes : Practice and Competition.</desc>
+		<image>./images/atvtrack-image.png</image>
+		<video>./videos/atvtrack-video.mp4</video>
+		<marquee>./images/atvtrack-marquee.png</marquee>
+		<thumbnail>./images/atvtrack-thumb.png</thumbnail>
+		<releasedate>20020101T000000</releasedate>
+		<publisher>Gaelco</publisher>
+		<genre>Race, Driving / Motorcycle Race, 3rd Pers.</genre>
+		<arcadesystemname>gaelco</arcadesystemname>
+		<players>1</players>
+		<md5>033759ef626b436a8bab8b53a17d27f9</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T023247" />
+	</game>
+	<game id="40103">
+		<path>./gaelco/atvtracka.zip</path>
+		<name>Atv Track</name>
+		<desc>A four-wheel motorcycle racing simulator with four different circuits and two selectable modes : Practice and Competition.</desc>
+		<image>./images/atvtracka-image.png</image>
+		<video>./videos/atvtracka-video.mp4</video>
+		<marquee>./images/atvtracka-marquee.png</marquee>
+		<thumbnail>./images/atvtracka-thumb.png</thumbnail>
+		<releasedate>20020101T000000</releasedate>
+		<publisher>Gaelco</publisher>
+		<genre>Race, Driving / Motorcycle Race, 3rd Pers.</genre>
+		<arcadesystemname>gaelco</arcadesystemname>
+		<players>1</players>
+		<md5>85de891229e45b4314346f633af1d557</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T023257" />
+	</game>
+	<game>
+		<path>./gaelco/gfootbal.zip</path>
+		<name>Gaelco Football</name>
+		<md5>503cae0d799f254c47bb72d68fa27fac</md5>
+		<scrap name="ScreenScraper" date="20231102T023303" />
+	</game>
+	<game>
+		<path>./gaelco/smashdrvb.zip</path>
+		<name>Smashing Drive (UK)</name>
+		<md5>0150d5da73ff7d308c35cced55e9a90f</md5>
+		<scrap name="ScreenScraper" date="20231102T023304" />
+	</game>
+</gameList>

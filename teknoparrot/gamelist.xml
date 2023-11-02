@@ -1,2 +1,135 @@
 <?xml version="1.0"?>
-<gameList />
+<gameList>
+	<game>
+		<path>./TeknoParrot/Aliens Extermination.7z</path>
+		<name>Aliens Extermination</name>
+		<scrap name="ScreenScraper" date="20231102T021856" />
+	</game>
+	<game>
+		<path>./TeknoParrot/Blazing angels.7z</path>
+		<name>Blazing angels</name>
+		<scrap name="ScreenScraper" date="20231102T021857" />
+	</game>
+	<game>
+		<path>./TeknoParrot/Contra Evolution HD.7z</path>
+		<name>Contra Evolution HD</name>
+		<scrap name="ScreenScraper" date="20231102T021859" />
+	</game>
+	<game>
+		<path>./TeknoParrot/Counter-Strike - Neo.7z</path>
+		<name>Counter-Strike - Neo</name>
+		<scrap name="ScreenScraper" date="20231102T021900" />
+	</game>
+	<game>
+		<path>./TeknoParrot/Daemon Bride.7z</path>
+		<name>Daemon Bride</name>
+		<scrap name="ScreenScraper" date="20231102T021901" />
+	</game>
+	<game>
+		<path>./TeknoParrot/Far Cry Paradise Lost.7z</path>
+		<name>Far Cry Paradise Lost</name>
+		<scrap name="ScreenScraper" date="20231102T021903" />
+	</game>
+	<game id="149738">
+		<path>./TeknoParrot/Gaelco Championship Tuning Race.7z</path>
+		<name>Gaelco Championship Tuning Race</name>
+		<image>./images/Gaelco Championship Tuning Race-image.png</image>
+		<video>./videos/Gaelco Championship Tuning Race-video.mp4</video>
+		<marquee>./images/Gaelco Championship Tuning Race-marquee.png</marquee>
+		<thumbnail>./images/Gaelco Championship Tuning Race-thumb.png</thumbnail>
+		<releasedate>20050101T000000</releasedate>
+		<arcadesystemname>gaelco</arcadesystemname>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T021910" />
+	</game>
+	<game>
+		<path>./TeknoParrot/GTI Club - Supermini Festa.7z</path>
+		<name>GTI Club - Supermini Festa</name>
+		<scrap name="ScreenScraper" date="20231102T021912" />
+	</game>
+	<game>
+		<path>./TeknoParrot/Justice League - Heroes United.7z</path>
+		<name>Justice League - Heroes United</name>
+		<scrap name="ScreenScraper" date="20231102T021913" />
+	</game>
+	<game>
+		<path>./TeknoParrot/Luigi's Mansion Arcade.7z</path>
+		<name>Luigi's Mansion Arcade</name>
+		<scrap name="ScreenScraper" date="20231102T021914" />
+	</game>
+	<game>
+		<path>./TeknoParrot/Mario Kart DX.7z</path>
+		<name>Mario Kart DX</name>
+		<scrap name="ScreenScraper" date="20231102T021916" />
+	</game>
+	<game>
+		<path>./TeknoParrot/PokkenTournament.7z</path>
+		<name>PokkenTournament</name>
+		<scrap name="ScreenScraper" date="20231102T021917" />
+	</game>
+	<game id="42675">
+		<path>./TeknoParrot/Radikal Bikers.7z</path>
+		<name>Radikal Bikers</name>
+		<desc>A game set in a Mediterranean environment in which, for the first time, players have the chance to show off their motor-cycle skills in a typically Italian urban setting. The game is a competition between two pizza delivery couriers in a race to see who can deliver their pizza first. The urban circuit allows interaction with all kinds of elements: cars, vans, windows, fences, people, etc. To help you complete your mission, you can collect icons giving you more speed, power or time. Hidden shortcuts help you gain valuable seconds.
+
+You must choose from four pizza couriers each with his or her own particular abilities. There are three game levels: Margherita (easy), Capricciosa (medium) &amp; Diavolo (difficult). There are four different races at each level which allow you to show the other biker who has the most skill, daring and ability.</desc>
+		<image>./images/Radikal Bikers-image.png</image>
+		<video>./videos/Radikal Bikers-video.mp4</video>
+		<marquee>./images/Radikal Bikers-marquee.png</marquee>
+		<thumbnail>./images/Radikal Bikers-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Gaelco</developer>
+		<publisher>Gaelco</publisher>
+		<genre>Race, Driving / Motorcycle Race, 3rd Pers.</genre>
+		<arcadesystemname>gaelco</arcadesystemname>
+		<players>1</players>
+		<md5>eaed26a31447c184ebafc78a6c89f696</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T021924" />
+	</game>
+	<game>
+		<path>./TeknoParrot/Silent Hill The Arcade.7z</path>
+		<name>Silent Hill The Arcade</name>
+		<scrap name="ScreenScraper" date="20231102T021925" />
+	</game>
+	<game>
+		<path>./TeknoParrot/Sonic Storm aka Mach Storm.7z</path>
+		<name>Sonic Storm aka Mach Storm</name>
+		<scrap name="ScreenScraper" date="20231102T021927" />
+	</game>
+	<game>
+		<path>./TeknoParrot/Star Wars - Battle Pod.7z</path>
+		<name>Star Wars - Battle Pod</name>
+		<scrap name="ScreenScraper" date="20231102T021928" />
+	</game>
+	<game>
+		<path>./TeknoParrot/Tekken 7 Vanilla update 12.7z</path>
+		<name>Tekken 7 Vanilla update 12</name>
+		<scrap name="ScreenScraper" date="20231102T021929" />
+	</game>
+	<game id="43662">
+		<path>./TeknoParrot/Tokyo Cop.7z</path>
+		<name>Tokyo Cop</name>
+		<desc>The action takes place in Neo Koban Police station, where we take the role of one of the four Police Agents : Isamu, Kazu, Reika y Junko and we have to patrol the most conflictive Tokyo's district</desc>
+		<image>./images/Tokyo Cop-image.png</image>
+		<video>./videos/Tokyo Cop-video.mp4</video>
+		<marquee>./images/Tokyo Cop-marquee.png</marquee>
+		<thumbnail>./images/Tokyo Cop-thumb.png</thumbnail>
+		<releasedate>20030101T000000</releasedate>
+		<publisher>Gaelco</publisher>
+		<genre>Race, Driving</genre>
+		<arcadesystemname>gaelco</arcadesystemname>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T021936" />
+	</game>
+	<game>
+		<path>./TeknoParrot/Yu-Gi-Oh! 5D's Duel Terminal (USA).7z</path>
+		<name>Yu-Gi-Oh! 5D's Duel Terminal (USA)</name>
+		<scrap name="ScreenScraper" date="20231102T021938" />
+	</game>
+</gameList>

@@ -1,2 +1,621 @@
 <?xml version="1.0"?>
-<gameList />
+<gameList>
+	<game id="37318">
+		<path>./Cave/agallet.zip</path>
+		<name>Air Gallet</name>
+		<desc>The player controls a fighter jet and shoot enemies in the air and on the ground, collects power-ups, and defeat bosses to advance levels. The player must collect four power ups to upgrade their weapon. There are four weapon types: L, a laser weapon, S, a support drone, M, a tracing missile, and F, gatling Fire, a spread-out vulcan bullet shot.
+
+Four levels of power-ups are available for each weapon, however each level requires four power up tokens be collected. There are also two special "bomb" weapons available for collection - green Energy Spark for a screen-covering swarm of lower-power bombs and blue Thunder Drive for a narrower and more focused attack. The Energy Spark clears all bullets from the screen, while the Thunder Drive only clears bullets that actually touch the blast. This blast starts momentarily atop the player, but quickly moves forward a short distance and stays stationary for a few seconds before dissipating.</desc>
+		<image>./images/agallet-image.png</image>
+		<video>./videos/agallet-video.mp4</video>
+		<marquee>./images/agallet-marquee.png</marquee>
+		<thumbnail>./images/agallet-thumb.png</thumbnail>
+		<fanart>./images/agallet-fanart.jpg</fanart>
+		<bezel>./images/agallet-bezel.png</bezel>
+		<rating>0.7</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Gazelle</developer>
+		<publisher>Banpresto</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<arcadesystemname>cave</arcadesystemname>
+		<players>1-2</players>
+		<md5>d901241b43fb5f6686d1c6be836fc8b9</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231102T022444" />
+	</game>
+	<game id="37320">
+		<path>./Cave/ddonpach.zip</path>
+		<name>DoDonPachi</name>
+		<desc>A vertical scrolling shoot 'em up developed by the Japanese developer Cave.</desc>
+		<image>./images/ddonpach-image.png</image>
+		<video>./videos/ddonpach-video.mp4</video>
+		<marquee>./images/ddonpach-marquee.png</marquee>
+		<thumbnail>./images/ddonpach-thumb.png</thumbnail>
+		<fanart>./images/ddonpach-fanart.jpg</fanart>
+		<manual>./manuals/ddonpach-manual.pdf</manual>
+		<bezel>./images/ddonpach-bezel.png</bezel>
+		<rating>0.9</rating>
+		<releasedate>19970205T000000</releasedate>
+		<developer>Cave</developer>
+		<publisher>Atlus</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<family>DonPachi</family>
+		<arcadesystemname>cave</arcadesystemname>
+		<players>1-2</players>
+		<md5>9f887a16b6645327384a6623cbebb807</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T022457" />
+	</game>
+	<game id="37321">
+		<path>./Cave/ddpdfk.zip</path>
+		<name>DoDonPachi Resurrection</name>
+		<desc>After the turmoil caused by the assault on Lunapolis which sparked the "Blissful Death Wars" (as depicted in the previous installment), peace seems to have been restored, with the legendary DonPachi Corps retreating to its HQ in a space-time fold. Six years later, anomalies are detected in the space-time fabric, yet tests reveal nothing out of order, with the portals regularly functioning for both teleportation and time travel; also, the leader of the DonPachi squadron Colonel Godwin Longhener dismisses the matter due to the lack of actual danger.
+
+Nevertheless, a technician delves deeper into the anomaly, discovering that something has infiltrated the HQ computer systems and is using the portals to send large quantities of materials and data to the past, spreading out like a virus and quickly evolving. In an ironic twist, the virus is discovered to be the program originally installed in the Element Dolls six years ago, now reaching beyond the DonPachi Corps programming and seeking to annihilate the human race in retaliation for their "enslavement" (after the war, they met a rather cruel demise at the hand of their own human creators) by waging war in the past rather than in the present: unsettled, the Colonel authorizes the last transport ship to time jump in order to fight back the invasion before future changes. However, he states: "Start over from the past... I never thought of that", echoing the ideas of mankind's imperfection which has always been a recurring theme in the series.
+
+And once again, the three pilots jump back in time to 2008 and enter the fray, the transport ship being targeted as soon as it exits the portal: the Element Daughters, gigantic evolutions of the Dolls, are awaiting...
+
+The bee is still humming.</desc>
+		<image>./images/ddpdfk-image.png</image>
+		<video>./videos/ddpdfk-video.mp4</video>
+		<marquee>./images/ddpdfk-marquee.png</marquee>
+		<thumbnail>./images/ddpdfk-thumb.png</thumbnail>
+		<fanart>./images/ddpdfk-fanart.jpg</fanart>
+		<bezel>./images/ddpdfk-bezel.png</bezel>
+		<rating>0.85</rating>
+		<releasedate>20080101T000000</releasedate>
+		<developer>Cave</developer>
+		<publisher>AMI</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<family>DonPachi</family>
+		<arcadesystemname>cave</arcadesystemname>
+		<players>1-2</players>
+		<md5>27e23b93cf62fe70ee35dc664733f327</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T022517" />
+	</game>
+	<game id="37325">
+		<path>./Cave/deathsml.zip</path>
+		<name>Deathsmiles</name>
+		<desc>Windia, a young girl living in London, mysteriously vanishes after being drawn into a flash of light.
+Awakening in the Otherworld, Windia arrives in a Western city reminiscent of the early 20th century, and is cared for by Dior, an elderly lord. Discovering there is no way home, Dior reveals to Windia that she is one of the 'lost children', those with magical powers chosen to protect the kingdom...</desc>
+		<image>./images/deathsml-image.png</image>
+		<video>./videos/deathsml-video.mp4</video>
+		<marquee>./images/deathsml-marquee.png</marquee>
+		<thumbnail>./images/deathsml-thumb.png</thumbnail>
+		<fanart>./images/deathsml-fanart.jpg</fanart>
+		<bezel>./images/deathsml-bezel.png</bezel>
+		<rating>0.9</rating>
+		<releasedate>20070101T000000</releasedate>
+		<developer>Cave</developer>
+		<publisher>AMI</publisher>
+		<genre>Shoot'em up / Horizontal</genre>
+		<family>Deathsmiles</family>
+		<arcadesystemname>cave</arcadesystemname>
+		<players>1-2</players>
+		<md5>fdb4f4321a418b167a440abbb36c8ffb</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T022542" />
+	</game>
+	<game id="37333">
+		<path>./Cave/dfeveron.zip</path>
+		<name>Fever SOS</name>
+		<desc>Planet Meruto, a well known powerful military force in the Milky Way, sends out a Flagship under the command of Admiral Gratze, to attack the earth in order to gain one of it's most desired raw materials in the Galaxy: Water
+On Planet Fever, a small planet between Meruto and the Earth a base was planned to be installed, from there the attack vessels should start the invasion of Planet Earth. But before Admiral Gratze's plan was fullfilled, a mysterious wave appeared in space and confused the instruments of Meruto's fleet, and disrupted Admiral Gratze's love chat with his wife Irene Catharine. About this he got angry to such an extent that he forced his fleet to land on the source of this wave. So the wheel of fate began to spin...</desc>
+		<image>./images/dfeveron-image.png</image>
+		<video>./videos/dfeveron-video.mp4</video>
+		<marquee>./images/dfeveron-marquee.png</marquee>
+		<thumbnail>./images/dfeveron-thumb.png</thumbnail>
+		<fanart>./images/dfeveron-fanart.jpg</fanart>
+		<manual>./manuals/dfeveron-manual.pdf</manual>
+		<bezel>./images/dfeveron-bezel.png</bezel>
+		<rating>0.8</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Cave</developer>
+		<publisher>Nihon System</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<arcadesystemname>cave</arcadesystemname>
+		<players>1-2</players>
+		<md5>20ff010accc64f59e7d45313a45044da</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231102T022556" />
+	</game>
+	<game id="37326">
+		<path>./Cave/dfkbl.zip</path>
+		<name>DoDonPachi Dai-Fukkatsu Black Label</name>
+		<desc>This is an updated version of "DoDonPachi Dai-Fukkatsu" with the following changes:
+Ship selection changed: players now select the fighter type, then the style (Bomb, Power, or Strong). The style now corresponds to easy, medium, and hard difficulty respectively. Then, player can select whether to utilize auto-bomb or not.
+Ships can now fire both laser and shot simultaneously.
+Score counter's number letter sizes increase every 5th digit for easier viewing
+Added Red Mode, a small long bar at top right (or top middle when playing with two players) which increases if you shoot both laser and shot simultaneously. When it passes a certain threshold, the bar in the meter turns red, and the game becomes much more difficult while it is in the red. The bar will reset when the player dies, or reduced after hyper ends / player does not shoot both laser and shot.
+Hyper meter now increase very slowly unless you turn the "Red Mode" bar red. In addition, Hyper power itself runs out much faster after use.
+Hypers can now be "collected" for the Power style. Continue to increase the Hyper meter and it will stock up like a bomb when the meter is filled.
+Activating the hyper now shows the current "rank" of the Hyper effectiveness with blocking bullets temporarily.
+The bee bonus items in the stages function differently.
+Hibachi (true final boss) now can appear in the first loop if certain requirements are met. In addition, the difficulty / durability of both the final boss Taisabachi, now renamed Supreme Weapon of Extreme Hellish Annihilation - Golden Disaster and the true final boss have increased dramatically.
+Hit combos are now calculated differently. Namely, the hit combo does not go up as fast unless you turn the "Red Mode" bar red.
+All the music has been replaced.</desc>
+		<image>./images/dfkbl-image.png</image>
+		<video>./videos/dfkbl-video.mp4</video>
+		<marquee>./images/dfkbl-marquee.png</marquee>
+		<thumbnail>./images/dfkbl-thumb.png</thumbnail>
+		<fanart>./images/dfkbl-fanart.jpg</fanart>
+		<rating>0.8</rating>
+		<releasedate>20100101T000000</releasedate>
+		<developer>Cave</developer>
+		<publisher>AMI</publisher>
+		<genre>Shoot'em Up</genre>
+		<family>DonPachi</family>
+		<arcadesystemname>cave</arcadesystemname>
+		<players>1-2</players>
+		<md5>9d77aa77e64a4e073a4f5e9c8eefd5d3</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T022607" />
+	</game>
+	<game id="37327">
+		<path>./Cave/donpachi.zip</path>
+		<name>DonPachi</name>
+		<desc>An excellent vertically scrolling shoot'em up. The player assumes the role of a pilot who is sent by their squadron to fight their former allies until one side destroys the other, all of which is a part of a mission to strengthen the military power that controls each side. The player flies their selected fighter over 5 areas of various terrain, encountering a number of land, sea and air enemies. The player's ship has two modes of fire: by tapping the fire button, shots are fired; holding it down produces a concentrated vertical beam, but also reduces the ship's speed.
+
+The player can choose one of 3 aircraft at the start of the game, or upon continuing:
+Type A: A red (or yellow/orange, for player two) fighter, which fires a narrow stream of shots
+Type B: A green (or purple, for player two) helicopter, which fires its main guns forward, but has side guns that rotate in the direction of movement
+Type C: A blue (or black, for player two) fighter, which fires a wide, three-way spread of shots</desc>
+		<image>./images/donpachi-image.png</image>
+		<video>./videos/donpachi-video.mp4</video>
+		<marquee>./images/donpachi-marquee.png</marquee>
+		<thumbnail>./images/donpachi-thumb.png</thumbnail>
+		<fanart>./images/donpachi-fanart.jpg</fanart>
+		<bezel>./images/donpachi-bezel.png</bezel>
+		<rating>0.95</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Cave</developer>
+		<publisher>Atlus</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<family>DonPachi</family>
+		<arcadesystemname>cave</arcadesystemname>
+		<players>1-2</players>
+		<md5>9e5cbc0d32bfc003d57f74a8c8bbfc48</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T022614" />
+	</game>
+	<game id="37329">
+		<path>./Cave/dsmbl.zip</path>
+		<name>Deathsmiles MegaBlack Label</name>
+		<desc>Enter the world of Gilverado, a kingdom plagued by hideous monsters and tortured souls. Choose from four angels with unique demonic familiars and battle against a storm of enemies pouring out of Hell's gates! Fight your way out of tight spots as you are surrounded by enemy units and bullets from both sides of the screen.</desc>
+		<image>./images/dsmbl-image.png</image>
+		<video>./videos/dsmbl-video.mp4</video>
+		<marquee>./images/dsmbl-marquee.png</marquee>
+		<thumbnail>./images/dsmbl-thumb.png</thumbnail>
+		<fanart>./images/dsmbl-fanart.jpg</fanart>
+		<bezel>./images/dsmbl-bezel.png</bezel>
+		<rating>0.9</rating>
+		<releasedate>20080101T000000</releasedate>
+		<developer>Cave</developer>
+		<publisher>AMI</publisher>
+		<genre>Shoot'em up / Horizontal</genre>
+		<family>Deathsmiles</family>
+		<arcadesystemname>cave</arcadesystemname>
+		<players>1-2</players>
+		<md5>f5e1f75df919f5cb13fc4d6b5a84603b</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T022630" />
+	</game>
+	<game id="37331">
+		<path>./Cave/espgal2.zip</path>
+		<name>Espgaluda II</name>
+		<desc>Three years after the so-called "Great Shinra War" comes to a close, its impact has yet to fade: the formerly-prosperous nation of Soma, one of the invasion's targets, still struggles to recover. In the midst of all this, Ageha and Tateha, along with their mother, newly freed from her self-imposed bonds, have retreated into hiding here, hoping to finally obtain some measure of peace for themselves. Little do they know that the country's researchers have been combing through the wreckage of Jakou's empire, in search of the secret behind the "spirit engine" - once the device's inner workings are finally deciphered, Soma's royal family quickly commences its own quest for military dominance. The children of Project Espgaluda find themselves hunted down once again, and are forced back into battle - this time around, though, they're not quite so alone.</desc>
+		<image>./images/espgal2-image.png</image>
+		<video>./videos/espgal2-video.mp4</video>
+		<marquee>./images/espgal2-marquee.png</marquee>
+		<thumbnail>./images/espgal2-thumb.png</thumbnail>
+		<fanart>./images/espgal2-fanart.jpg</fanart>
+		<bezel>./images/espgal2-bezel.png</bezel>
+		<rating>0.85</rating>
+		<releasedate>20050101T000000</releasedate>
+		<developer>Cave</developer>
+		<publisher>AMI</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<family>ESP Ra.De.</family>
+		<arcadesystemname>cave</arcadesystemname>
+		<players>1-2</players>
+		<md5>04ecdae4b3201e745b550f32cea87a72</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T022642" />
+	</game>
+	<game id="37334">
+		<path>./Cave/futari15.zip</path>
+		<name>Mushihime-Sama Futari</name>
+		<desc>A vertically shooting game, where players get a choice of characters. Each craft has a different ratio of speed to firepower.
+
+The main characters in this version are 'Hiro', 'Kiniro', 'Palm' and 'Reco'.</desc>
+		<image>./images/futari15-image.png</image>
+		<video>./videos/futari15-video.mp4</video>
+		<marquee>./images/futari15-marquee.png</marquee>
+		<thumbnail>./images/futari15-thumb.png</thumbnail>
+		<fanart>./images/futari15-fanart.jpg</fanart>
+		<bezel>./images/futari15-bezel.png</bezel>
+		<rating>0.85</rating>
+		<releasedate>20060101T000000</releasedate>
+		<developer>Cave</developer>
+		<publisher>AMI</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<arcadesystemname>cave</arcadesystemname>
+		<players>1-2</players>
+		<md5>b7f23153ae2cf672a110edb6fe8e860b</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T022657" />
+	</game>
+	<game id="37335">
+		<path>./Cave/futaribl.zip</path>
+		<name>Mushihime-Sama Futari Black Label</name>
+		<desc>Mushihime-sama Futari Black Label is a heavily altered version of Mushihime-sama Futari developed by Cave.
+
+The placement and shot patterns of many enemies have been changed, sometimes dramatically. As a result, the stages can feel very different from the original game in some places. The player characters' shot types have changed as well; rather than offering a choice between Normal and Abnormal shot types as in the original game, each character now has a single shot type that combines certain elements from each of the previous variations. In addition, the player characters' shot power is significantly increased, allowing for bosses to be killed more quickly and some of their more dangerous patterns to be avoided entirely.
+
+There are also some more minor, cosmetic changes: some of the stages have had their colors changed slightly, and the appearance of the golden score gems has been changed a bit.</desc>
+		<image>./images/futaribl-image.png</image>
+		<video>./videos/futaribl-video.mp4</video>
+		<marquee>./images/futaribl-marquee.png</marquee>
+		<thumbnail>./images/futaribl-thumb.png</thumbnail>
+		<fanart>./images/futaribl-fanart.jpg</fanart>
+		<bezel>./images/futaribl-bezel.png</bezel>
+		<rating>0.8</rating>
+		<releasedate>20070101T000000</releasedate>
+		<developer>Cave</developer>
+		<publisher>AMI</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<arcadesystemname>cave</arcadesystemname>
+		<players>1-2</players>
+		<md5>cd0b9290f784bc3d434e9ae2fabf37f1</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T022718" />
+	</game>
+	<game id="37336">
+		<path>./Cave/gaia.zip</path>
+		<name>Gaia Crusaders</name>
+		<desc>Gaia Crusaders is a one or two-player side-scrolling beat-em-up in which players must battle Satan and his army of demons that have captured and taken over the world. Players select a character from a choice of five combatants known as 'Elemental Warriors'. Each of the characters possesses either Wind strength, Fire strength, or a mix of the two. 
+
+The game has the standard punch and kick attack moves as well as magical special moves. Combos can be strung together by switching quickly between kicking and punching. Players can also perform a 'super attack' by pressing the jump, punch and kick buttons simultaneously, this hits many enemies at once but costs the player character some health. It's also possible to raise a shield by pressing jump and kick simultaneously.
+
+At regular intervals coloured spheres appear, players can pick these up to gain a magical attack. The effects of the magic attack differs depending on the player character. If the magic matches the character's elemental attribute (fire, wind or both), they will gain a special, screen-clearing attack. Otherwise, they earn a powerful special attack. 
+
+In addition to the elemental spheres, there are two types of bombs that also appear, both of which detonate immediately once picked up. The first is an earthquake that hits all on-screen enemies and inflicts a large amount of damage. The second is a random bomb that sends out pillars of fire, hurting any enemies they come into contact with. There are also explosive boxes that can be kicked at enemies to keep them at bay. One last notable item is the sword, which functions much like weapons that can be found on the ground in many other beat 'em ups. A boss battle awaits players at the end of each stage.
+
+Gaia Crusaders is heavily influenced by another scrolling beat-em-up, Capcom's 1989 classic, Final Fight and also, to a lesser degree, by Sega's Golden Axe (the latter being the use of the Magical Attack acting as a smart bomb).</desc>
+		<image>./images/gaia-image.png</image>
+		<video>./videos/gaia-video.mp4</video>
+		<marquee>./images/gaia-marquee.png</marquee>
+		<thumbnail>./images/gaia-thumb.png</thumbnail>
+		<fanart>./images/gaia-fanart.jpg</fanart>
+		<bezel>./images/gaia-bezel.png</bezel>
+		<rating>0.8</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Noise Factory</developer>
+		<publisher>Noise Factory</publisher>
+		<genre>Fight / 2.5D</genre>
+		<arcadesystemname>atlus</arcadesystemname>
+		<players>1-2</players>
+		<md5>c0e9d2368a6c052bae79fb3d0148b145</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T022730" />
+	</game>
+	<game id="37337">
+		<path>./Cave/guwange.zip</path>
+		<name>Guwange</name>
+		<desc>The story of Guwange is set during the Muromachi period of Japan. During this time, increasing numbers of people suffer possession by shikigami. Although the shikigami grant great spiritual powers, the strain inflicted on the host causes them to die exactly one year after possession. However, a legend has sprung up regarding Guwange, the malevolent god trapped in Mt. Gokumon (i.e. Hell Gate). If one possessed by a shikigami can gather talismans of the five Chinese elements?wood, fire, earth, metal, water?from five demons serving Guwange, then infiltrate Gokumon and slay Guwange, the shikigami will be destroyed and the one possessed will not suffer a premature death.</desc>
+		<image>./images/guwange-image.png</image>
+		<video>./videos/guwange-video.mp4</video>
+		<marquee>./images/guwange-marquee.png</marquee>
+		<thumbnail>./images/guwange-thumb.png</thumbnail>
+		<fanart>./images/guwange-fanart.jpg</fanart>
+		<manual>./manuals/guwange-manual.pdf</manual>
+		<bezel>./images/guwange-bezel.png</bezel>
+		<rating>0.9</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Cave</developer>
+		<publisher>Atlus</publisher>
+		<genre>Shoot'em Up</genre>
+		<arcadesystemname>cave</arcadesystemname>
+		<players>1-2</players>
+		<md5>94f828b8096a2c9bda87b316a5b25161</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231102T022743" />
+	</game>
+	<game id="37338">
+		<path>./Cave/hotdogst.zip</path>
+		<name>Hotdog Storm</name>
+		<desc>Hot Dog Storm plays like any typical vertical scrolling shoot 'em up from the early-to-mid 90's. The player takes the role of the pilot of a futuristic space fighter, waging war against a horde of giant robots, tanks, mechs, and massive gunships. Similar to games like Strikers 1945 or Raiden, enemies often attack with extremely fast volleys of projectiles, in contrast to proto-bullet hell games such as DonPachi that started appearing the previous year.
+The game has five stages, each ending in a boss fight. Bosses have destructible parts that can be blown apart piece by piece for more points, and each boss also has a telegraphed super weapon that fires periodically and must be avoided. 
+The game never explains its unusual title.</desc>
+		<image>./images/hotdogst-image.png</image>
+		<video>./videos/hotdogst-video.mp4</video>
+		<marquee>./images/hotdogst-marquee.png</marquee>
+		<thumbnail>./images/hotdogst-thumb.png</thumbnail>
+		<fanart>./images/hotdogst-fanart.jpg</fanart>
+		<rating>0.75</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Marble</developer>
+		<publisher>ACE International</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<players>1-2</players>
+		<md5>861e0f11b23397bb0ceecc4ad26cd8c9</md5>
+		<lang>kr</lang>
+		<region>kr</region>
+		<scrap name="ScreenScraper" date="20231102T022749" />
+	</game>
+	<game id="37339">
+		<path>./Cave/ibara.zip</path>
+		<name>Ibara</name>
+		<desc>The time is the 19th century, excited with the development of the steam engine. The Northern European country of Edelweiss is a land which especially excels in the mechanical industry with their precise techniques. Their growth is amazing. However, when one least desires it, dark clouds always appear.
+
+That morning there was a cold, awkward feeling in the air. The once called Professor Teresa Rose gives a fearless smile. "Let's destroy this filthy land and it's people. We must make this world beautiful. Yes... then we'll make the entire surface a lovely rose garden."
+
+"We'll make you beautiful."
+
+Teresa began her attack along with five other women and their fortress which resembled a lump of knives. Under the Rose Garden Emblem, the nails of an eerily laughing iron man destroy buildings, and the roars of a plane which covers the sky burn the Earth. The people's cries and the rising flames illuminate the fortress, as if it were a beautiful flower blossoming from scorched earth.
+
+The Rose Garden's power was horrific, but the Edelweiss forces pressed through the desperate battle. Far from being surpressed, but in a worsening situation, the Emperor, not able to handle the situation, ordered into battle his Special Imperial Attack Unit, the Negotiators. 
+
+"Annihilate the Rose Garden with your ships!"
+
+The "ships" which had been secretely readied, as if predicting they would have to stand up to a threat and had longed for this day to come, shone bright.</desc>
+		<image>./images/ibara-image.png</image>
+		<video>./videos/ibara-video.mp4</video>
+		<marquee>./images/ibara-marquee.png</marquee>
+		<thumbnail>./images/ibara-thumb.png</thumbnail>
+		<fanart>./images/ibara-fanart.jpg</fanart>
+		<manual>./manuals/ibara-manual.pdf</manual>
+		<bezel>./images/ibara-bezel.png</bezel>
+		<rating>0.75</rating>
+		<releasedate>20050101T000000</releasedate>
+		<developer>Cave</developer>
+		<publisher>AMI</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<family>Ibara</family>
+		<arcadesystemname>cave</arcadesystemname>
+		<players>1-2</players>
+		<md5>d1855ea9edde2ac7f7fc806fb2e3b518</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T022803" />
+	</game>
+	<game id="149544">
+		<path>./Cave/ibarablk.zip</path>
+		<name>Ibara Kuro Black Label</name>
+		<desc>Gameplay in Ibara Kuro: Black Label is the closer to the Arrange mode found in the PlayStation 2 port of Ibara than the original version of the game. Like Arrange mode, players are able to switch weapons by pressing a button, although the ability to change the options formation has been removed. The rank bar is also now in the center of the screen. The controls are roughly the same as the original, with the addition of a button dedicated to rapid fire of the normal shot. Holding down the A button causes the player's ship to slow down, in addition to increasing its fire rate and making the ship's hitbox visible. Ibara Kuro: Black Label adds two important changes to the player's ships.
+
+The first change is that the Silister Similis (Bond's ship) and Dio Spirossi (Dyne's ship) are no longer locked to the Player 1 and Player 2 sides, with both ships being selectable at the start of the game. After selecting your ship, players then select their ship type. The different ship types are the same as the ones previously only selectable by holding down certain button combinations when selecting your ship. They are listed in the game as A Type (default version), B Type (A button held ship), C Type (B button held variant), and D Type (variant selected by holding A + B). Each ship variant also has its speed, power, and bomb information displayed for that type when highlighted. Note that while both ships are selectable for either player, the characters themselves are still locked to their respective sides. The second change, is that any time the A button is not being held down, any nearby medals, power-ups, or other collectable items are sucked into your ship. This is a game-changer, making the game quite a bit easier than the regular Ibara, but also makes the game tons more fun, as you don't have to put your life on the line when trying to keep the medal chain going. The Dio Spirossi ship (the wide shot ship) can suck in items further away than the Silister Similis can.</desc>
+		<image>./images/ibarablk-image.png</image>
+		<video>./videos/ibarablk-video.mp4</video>
+		<marquee>./images/ibarablk-marquee.png</marquee>
+		<thumbnail>./images/ibarablk-thumb.png</thumbnail>
+		<fanart>./images/ibarablk-fanart.jpg</fanart>
+		<bezel>./images/ibarablk-bezel.png</bezel>
+		<rating>0.75</rating>
+		<releasedate>20060101T000000</releasedate>
+		<developer>Cave</developer>
+		<publisher>Cave</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<family>Ibara</family>
+		<arcadesystemname>cave</arcadesystemname>
+		<players>1-2</players>
+		<md5>0c8e2e116535923110ec82c72ab6603d</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T022818" />
+	</game>
+	<game id="37344">
+		<path>./Cave/metmqstr.zip</path>
+		<name>Metamoqester</name>
+		<desc>Metamoqester is a 2D arcade fighting game, similar in concept to Red Earth or Monster Maulers. One or two players (there is a co-op mode) fight against big monsters in deadly duels. There are three different characters to choose from. The game uses four buttons - Weak Attack, Medium Attack, Strong Attack, and Shoot/Throw Weapon.</desc>
+		<image>./images/metmqstr-image.png</image>
+		<video>./videos/metmqstr-video.mp4</video>
+		<marquee>./images/metmqstr-marquee.png</marquee>
+		<thumbnail>./images/metmqstr-thumb.png</thumbnail>
+		<fanart>./images/metmqstr-fanart.jpg</fanart>
+		<bezel>./images/metmqstr-bezel.png</bezel>
+		<rating>0.85</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Banpresto</developer>
+		<publisher>Banpresto</publisher>
+		<genre>Fight /  Co-op</genre>
+		<arcadesystemname>banpresto</arcadesystemname>
+		<players>1-2</players>
+		<md5>1ed32d7b997808e0142d3e3e5a40cb85</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T022831" />
+	</game>
+	<game id="37346">
+		<path>./Cave/mushisam.zip</path>
+		<name>Mushihime-Sama</name>
+		<desc>In a different time than now...
+
+A time when deserts spread across the Earth,
+and arthropods with gigantic hard shells flourished.
+
+The humans living in the shadows called these beasts
+with shells who worshipped the god of the forest for Koujuu.
+
+In a small part of that forest was the village of the humans. It was a land that was allowed go on surviving, by offering a sacrifice in the form of a 15 year old once every 200 years.
+
+On the night of each sacrifice, a great number of shooting stars could be seen, which gave it the name "Hoshifuri Village". And living there was a bright princess. Her name was Reco.</desc>
+		<image>./images/mushisam-image.png</image>
+		<video>./videos/mushisam-video.mp4</video>
+		<marquee>./images/mushisam-marquee.png</marquee>
+		<thumbnail>./images/mushisam-thumb.png</thumbnail>
+		<fanart>./images/mushisam-fanart.jpg</fanart>
+		<manual>./manuals/mushisam-manual.pdf</manual>
+		<bezel>./images/mushisam-bezel.png</bezel>
+		<rating>0.8</rating>
+		<releasedate>20040101T000000</releasedate>
+		<developer>Cave</developer>
+		<publisher>AMI</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<arcadesystemname>cave</arcadesystemname>
+		<players>1-2</players>
+		<md5>245f12288294086712390ff44fe031e5</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T022849" />
+	</game>
+	<game id="37347">
+		<path>./Cave/mushitam.zip</path>
+		<name>Puzzle! Mushihime-Tama</name>
+		<desc>A puzzle game with the same character from "Mushihime Sama".</desc>
+		<image>./images/mushitam-image.png</image>
+		<video>./videos/mushitam-video.mp4</video>
+		<marquee>./images/mushitam-marquee.png</marquee>
+		<thumbnail>./images/mushitam-thumb.png</thumbnail>
+		<fanart>./images/mushitam-fanart.jpg</fanart>
+		<bezel>./images/mushitam-bezel.png</bezel>
+		<rating>0.8</rating>
+		<releasedate>20050101T000000</releasedate>
+		<developer>Cave</developer>
+		<publisher>AMI</publisher>
+		<genre>Puzzle-Game / Equalize</genre>
+		<arcadesystemname>cave</arcadesystemname>
+		<players>1-2</players>
+		<md5>cc125ed44b60aea71e4aff9467696461</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T022904" />
+	</game>
+	<game id="37348">
+		<path>./Cave/pinkswts.zip</path>
+		<name>Pink Sweets: Ibara Sorekara</name>
+		<desc>In Pink Sweets, the sixth and final Guardian in Ibara, did not die. Neither did any of the Rose sisters. Instead, they shifted from the dark side to the light.</desc>
+		<image>./images/pinkswts-image.png</image>
+		<video>./videos/pinkswts-video.mp4</video>
+		<marquee>./images/pinkswts-marquee.png</marquee>
+		<thumbnail>./images/pinkswts-thumb.png</thumbnail>
+		<fanart>./images/pinkswts-fanart.jpg</fanart>
+		<bezel>./images/pinkswts-bezel.png</bezel>
+		<rating>0.7</rating>
+		<releasedate>20060101T000000</releasedate>
+		<developer>Cave</developer>
+		<publisher>AMI</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<family>Ibara</family>
+		<arcadesystemname>cave</arcadesystemname>
+		<players>1-2</players>
+		<md5>398eb81bddb61520c7cf8357a39d743f</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T022920" />
+	</game>
+	<game id="145758">
+		<path>./Cave/plegends.zip</path>
+		<name>Power Instinct Legends</name>
+		<desc>Otane Goketsuji, leader of the Goketsuji clan, was kidnapped. A new tournament was held to find a successor. Otane managed to arrive at the tournament to defend her title as clan leader against the winner of the tournament. Unfortunately to Otane, she was too tired to fight and was defeated by Kokuin Kanji!
+
+After his victory in the Goketsuji tournament, Kanji thought that would be fun to test the strength of the Goketsuji family members, so he invited them for a new tournament.</desc>
+		<image>./images/plegends-image.png</image>
+		<video>./videos/plegends-video.mp4</video>
+		<marquee>./images/plegends-marquee.png</marquee>
+		<thumbnail>./images/plegends-thumb.png</thumbnail>
+		<fanart>./images/plegends-fanart.jpg</fanart>
+		<rating>0.7</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Atlus</developer>
+		<publisher>Atlus</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Power Instinct</family>
+		<arcadesystemname>atlus</arcadesystemname>
+		<players>1-2</players>
+		<md5>6b4fbfb370d56b0955e1595b040c7e41</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T022931" />
+	</game>
+	<game id="37351">
+		<path>./Cave/pwrinst2.zip</path>
+		<name>Power Instinct 2</name>
+		<desc>Oume Goketsuji, Leader of the Goketsuji clan for the last 60 years, finally was defeated by her younger sister, Otane, the day where she surpassed her older sister finally had arrived.
+
+One night, Oshima Goketsuji unexpectedly appeared in front of Oume and offered her help to take revenge of Otane.
+
+According to the rules of the clan, if the leader dies or quits, one new tournament should be held immediately to find a successor.
+
+That same night Oshima and Oume sent their servants to dispose of Otane, so while Otane slept, she was kidnapped and thrown to the ocean.
+
+Next day Kuroko found a letter supposedly written by Otane, where she declined to her right to be the leader of the clan.
+
+One week later all the competitors from the previous tournament and other family members were convoked to be informed about Otane's decision and the beginning of a new tournament.</desc>
+		<image>./images/pwrinst2-image.png</image>
+		<video>./videos/pwrinst2-video.mp4</video>
+		<marquee>./images/pwrinst2-marquee.png</marquee>
+		<thumbnail>./images/pwrinst2-thumb.png</thumbnail>
+		<fanart>./images/pwrinst2-fanart.jpg</fanart>
+		<rating>0.8</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Atlus</developer>
+		<publisher>Atlus</publisher>
+		<genre>Fight / Versus</genre>
+		<arcadesystemname>atlus</arcadesystemname>
+		<players>1-2</players>
+		<md5>1c0fb4f7efc44ada009f2a827f5d388e</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T022943" />
+	</game>
+	<game id="37352">
+		<path>./Cave/sailormno.zip</path>
+		<name>Pretty Soldier Sailor Moon</name>
+		<desc>The game is a side-scrolling "beat-'em-up" game, one or two players pick their desired Senshi and travel through various stages defeating enemies. Items are sometimes dropped by enemies that can range from items that restore health, give extra points, or crystals that allow the Senshi to perform special attacks. Up to five crystals can be collected per player to power up the Senshi's special attacks. During the most difficult moments in battle, Tuxedo Mask will appear and throw a rose, which is a bonus to pick up and depart.</desc>
+		<image>./images/sailormno-image.png</image>
+		<video>./videos/sailormno-video.mp4</video>
+		<marquee>./images/sailormno-marquee.png</marquee>
+		<thumbnail>./images/sailormno-thumb.png</thumbnail>
+		<fanart>./images/sailormno-fanart.jpg</fanart>
+		<bezel>./images/sailormno-bezel.png</bezel>
+		<rating>0.8</rating>
+		<releasedate>19950322T000000</releasedate>
+		<developer>Gazelle</developer>
+		<publisher>Banpresto</publisher>
+		<genre>Fight / 2.5D</genre>
+		<family>Sailor Moon</family>
+		<arcadesystemname>banpresto</arcadesystemname>
+		<players>1-2</players>
+		<md5>5d5f41aeff2ea44c32169a7ad7c53ffe</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231102T022954" />
+	</game>
+	<game id="37353">
+		<path>./Cave/theroes.zip</path>
+		<name>Thunder Heroes</name>
+		<desc>Thunder Heroes (c) 2001 Primetec Investments.  - TECHNICAL -  CAVE 1st Generation hardware  Main CPU : 68000 (@ 16 Mhz) Sound Chips : YMZ280B (@ 16.9344 Mhz)  Players : 2 Control : 8-way joystick Buttons : 4 =&gt; [A] Punch, [B] Kick, [C] Jump, [D] Special</desc>
+		<image>./images/theroes-image.png</image>
+		<video>./videos/theroes-video.mp4</video>
+		<marquee>./images/theroes-marquee.png</marquee>
+		<thumbnail>./images/theroes-thumb.png</thumbnail>
+		<fanart>./images/theroes-fanart.jpg</fanart>
+		<bezel>./images/theroes-bezel.png</bezel>
+		<rating>0.75</rating>
+		<releasedate>20010101T000000</releasedate>
+		<developer>Primetek Investments</developer>
+		<publisher>Primetek Investments</publisher>
+		<genre>Fight / 2.5D</genre>
+		<arcadesystemname>cave</arcadesystemname>
+		<players>1-2</players>
+		<md5>2d699c54a8b74fba49536ef7ae09b175</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T023005" />
+	</game>
+</gameList>

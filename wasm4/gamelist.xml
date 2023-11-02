@@ -1,0 +1,414 @@
+<?xml version="1.0"?>
+<gameList>
+	<game id="423691">
+		<path>./Wasm4/Antcopter.wasm</path>
+		<name>Antcopter</name>
+		<desc>Antcopter is a 2D platform game. You play as a little ant who can glide through the air. You have to collect 80 fruits on 20 different levels.</desc>
+		<image>./images/Antcopter-image.png</image>
+		<video>./videos/Antcopter-video.mp4</video>
+		<marquee>./images/Antcopter-marquee.png</marquee>
+		<thumbnail>./images/Antcopter-thumb.png</thumbnail>
+		<releasedate>20220114T000000</releasedate>
+		<developer>Eduardo Bart</developer>
+		<genre>Platform / Run Jump</genre>
+		<players>1</players>
+		<md5>f4d55cbcb51b2c11010b7999fd913cec</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T023012" />
+	</game>
+	<game id="423589">
+		<path>./Wasm4/Assemblio.wasm</path>
+		<name>Assemblio</name>
+		<desc>The aim of the game is to complete the levels by producing the required items. It all starts with a Miner extracting items that are transported on belts to a Hub. On their way, the objects can be transformed with the help of machines.</desc>
+		<image>./images/Assemblio-image.png</image>
+		<video>./videos/Assemblio-video.mp4</video>
+		<marquee>./images/Assemblio-marquee.png</marquee>
+		<thumbnail>./images/Assemblio-thumb.png</thumbnail>
+		<releasedate>20220123T000000</releasedate>
+		<developer>Philipp Lühmann</developer>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<md5>d0e3196980f2c30da6e3a80074274885</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T023017" />
+	</game>
+	<game id="423688">
+		<path>./Wasm4/Dodgeball.wasm</path>
+		<name>Dodgeball</name>
+		<image>./images/Dodgeball-image.png</image>
+		<video>./videos/Dodgeball-video.mp4</video>
+		<marquee>./images/Dodgeball-marquee.png</marquee>
+		<thumbnail>./images/Dodgeball-thumb.png</thumbnail>
+		<releasedate>20220107T000000</releasedate>
+		<developer>Sander in 't Veld</developer>
+		<genre>Sports / Dodgeball</genre>
+		<players>1</players>
+		<md5>f9258b8e20e901475b550dc221a77f74</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T023023" />
+	</game>
+	<game id="423676">
+		<path>./Wasm4/Endless Runner.wasm</path>
+		<name>Endless Runner</name>
+		<image>./images/Endless Runner-image.png</image>
+		<video>./videos/Endless Runner-video.mp4</video>
+		<marquee>./images/Endless Runner-marquee.png</marquee>
+		<thumbnail>./images/Endless Runner-thumb.png</thumbnail>
+		<releasedate>20211107T000000</releasedate>
+		<developer>Richard McCormack</developer>
+		<md5>9d7616a5e60d997fc4d3b4bb796bfe1c</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T023030" />
+	</game>
+	<game id="423670">
+		<path>./Wasm4/Explore the Grotto.wasm</path>
+		<name>Explore the Grotto</name>
+		<image>./images/Explore the Grotto-image.png</image>
+		<video>./videos/Explore the Grotto-video.mp4</video>
+		<marquee>./images/Explore the Grotto-marquee.png</marquee>
+		<thumbnail>./images/Explore the Grotto-thumb.png</thumbnail>
+		<releasedate>20220123T000000</releasedate>
+		<developer>Donatien Rabiller</developer>
+		<md5>267f705401f93937e1d8892f2bcc8fc8</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T023036" />
+	</game>
+	<game id="423649">
+		<path>./Wasm4/Future Avoid.wasm</path>
+		<name>Future Avoid</name>
+		<image>./images/Future Avoid-image.png</image>
+		<video>./videos/Future Avoid-video.mp4</video>
+		<marquee>./images/Future Avoid-marquee.png</marquee>
+		<thumbnail>./images/Future Avoid-thumb.png</thumbnail>
+		<releasedate>20220123T000000</releasedate>
+		<developer>Joakim Hentula</developer>
+		<md5>6ed7bf2107f26d9d9027eadd4ef16854</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T023042" />
+	</game>
+	<game id="423514">
+		<path>./Wasm4/Hammer Joe.wasm</path>
+		<name>HAMMER JOE</name>
+		<image>./images/Hammer Joe-image.png</image>
+		<marquee>./images/Hammer Joe-marquee.png</marquee>
+		<thumbnail>./images/Hammer Joe-thumb.png</thumbnail>
+		<releasedate>20220123T000000</releasedate>
+		<developer>MFauzan26</developer>
+		<md5>2958da4a49628a5c0e85e9c0fbfcd148</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T023046" />
+	</game>
+	<game id="423574">
+		<path>./Wasm4/Lingword.wasm</path>
+		<name>Lingword</name>
+		<image>./images/Lingword-image.png</image>
+		<marquee>./images/Lingword-marquee.png</marquee>
+		<thumbnail>./images/Lingword-thumb.png</thumbnail>
+		<releasedate>20220201T000000</releasedate>
+		<developer>Jonathan Derque</developer>
+		<md5>ecf202c3fea60d1b645d37462245e315</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T023050" />
+	</game>
+	<game id="423598">
+		<path>./Wasm4/Meteoroids.wasm</path>
+		<name>Meteoroids</name>
+		<image>./images/Meteoroids-image.png</image>
+		<marquee>./images/Meteoroids-marquee.png</marquee>
+		<thumbnail>./images/Meteoroids-thumb.png</thumbnail>
+		<releasedate>20211005T000000</releasedate>
+		<developer>jzeiber</developer>
+		<md5>ba3635d1d50ee0dec99b49bf691abe0c</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T023054" />
+	</game>
+	<game id="423538">
+		<path>./Wasm4/Micro Quest.wasm</path>
+		<name>Micro Quest</name>
+		<image>./images/Micro Quest-image.png</image>
+		<marquee>./images/Micro Quest-marquee.png</marquee>
+		<thumbnail>./images/Micro Quest-thumb.png</thumbnail>
+		<releasedate>20220123T000000</releasedate>
+		<developer>André L. Alvares</developer>
+		<md5>7cf7b7c52ab8569eb45081543a0eb1bf</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T023058" />
+	</game>
+	<game id="423487">
+		<path>./Wasm4/MIKU-15.wasm</path>
+		<name>MIKU-15</name>
+		<image>./images/MIKU-15-image.png</image>
+		<marquee>./images/MIKU-15-marquee.png</marquee>
+		<thumbnail>./images/MIKU-15-thumb.png</thumbnail>
+		<releasedate>20211229T000000</releasedate>
+		<developer>Mr.Rafael</developer>
+		<genre>Puzzle-Game / Glide</genre>
+		<md5>04afe658b3c9e2e61dbef7897d604adc</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T023102" />
+	</game>
+	<game id="423577">
+		<path>./Wasm4/Mind Palace (new).wasm</path>
+		<name>Mind Palace</name>
+		<image>./images/Mind Palace (new)-image.png</image>
+		<marquee>./images/Mind Palace (new)-marquee.png</marquee>
+		<thumbnail>./images/Mind Palace (new)-thumb.png</thumbnail>
+		<releasedate>20220123T000000</releasedate>
+		<developer>Matúš Chovan</developer>
+		<md5>d93332689a224096050083e67d27d14d</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T023107" />
+	</game>
+	<game id="423577">
+		<path>./Wasm4/Mind Palace (old).wasm</path>
+		<name>Mind Palace</name>
+		<image>./images/Mind Palace (old)-image.png</image>
+		<marquee>./images/Mind Palace (old)-marquee.png</marquee>
+		<thumbnail>./images/Mind Palace (old)-thumb.png</thumbnail>
+		<releasedate>20220123T000000</releasedate>
+		<developer>Matúš Chovan</developer>
+		<md5>c1a363f6942b40609f3758d64a87bedc</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T023111" />
+	</game>
+	<game id="423430">
+		<path>./Wasm4/Minesweeper.wasm</path>
+		<name>Minesweeper</name>
+		<image>./images/Minesweeper-image.png</image>
+		<marquee>./images/Minesweeper-marquee.png</marquee>
+		<thumbnail>./images/Minesweeper-thumb.png</thumbnail>
+		<releasedate>20211126T000000</releasedate>
+		<developer>Claudio Mattera</developer>
+		<md5>2fb4c9741d5325537d88201d5a81653b</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T023115" />
+	</game>
+	<game id="423679">
+		<path>./Wasm4/Plctfarmer.wasm</path>
+		<name>Pl¢tfarmer</name>
+		<image>./images/Plctfarmer-image.png</image>
+		<marquee>./images/Plctfarmer-marquee.png</marquee>
+		<thumbnail>./images/Plctfarmer-thumb.png</thumbnail>
+		<releasedate>20220123T000000</releasedate>
+		<developer>pfg</developer>
+		<md5>9280d1d157f0eb4eeda9e1dacedcf4b6</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T023119" />
+	</game>
+	<game id="423661">
+		<path>./Wasm4/Presents to the Metal.wasm</path>
+		<name>Presents to the Metal</name>
+		<image>./images/Presents to the Metal-image.png</image>
+		<marquee>./images/Presents to the Metal-marquee.png</marquee>
+		<thumbnail>./images/Presents to the Metal-thumb.png</thumbnail>
+		<releasedate>20220123T000000</releasedate>
+		<developer>errorStream</developer>
+		<md5>b5653249e28bd05cbb28d7483de29ab3</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T023124" />
+	</game>
+	<game id="423445">
+		<path>./Wasm4/Rolly Dango.wasm</path>
+		<name>Rolly Dango</name>
+		<image>./images/Rolly Dango-image.png</image>
+		<marquee>./images/Rolly Dango-marquee.png</marquee>
+		<thumbnail>./images/Rolly Dango-thumb.png</thumbnail>
+		<releasedate>20220123T000000</releasedate>
+		<developer>William Guimont-Martin</developer>
+		<md5>b6a2ad7b7268981e8fa01678588aea83</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T023128" />
+	</game>
+	<game id="423424">
+		<path>./Wasm4/Skip Ahead.wasm</path>
+		<name>Skip Ahead</name>
+		<desc>Skip Ahead is a platform ball game. The aim of the game is to bounce the ball on different platforms without making it fall into the void. The further you go, the higher the score.</desc>
+		<image>./images/Skip Ahead-image.png</image>
+		<marquee>./images/Skip Ahead-marquee.png</marquee>
+		<thumbnail>./images/Skip Ahead-thumb.png</thumbnail>
+		<releasedate>20211111T000000</releasedate>
+		<developer>Dennis Ranke</developer>
+		<genre>Platform / Run Jump</genre>
+		<players>1</players>
+		<md5>c38f2e56c9129bf55b0e89299ae3452d</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T023133" />
+	</game>
+	<game id="423439">
+		<path>./Wasm4/Snake.wasm</path>
+		<name>Snake</name>
+		<image>./images/Snake-image.png</image>
+		<marquee>./images/Snake-marquee.png</marquee>
+		<thumbnail>./images/Snake-thumb.png</thumbnail>
+		<releasedate>20211123T000000</releasedate>
+		<developer>Tomas Tulka</developer>
+		<md5>66e91f10d6c807e25b0656aba3549e91</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T023138" />
+	</game>
+	<game id="423466">
+		<path>./Wasm4/Sokoban.wasm</path>
+		<name>Sokoban</name>
+		<image>./images/Sokoban-image.png</image>
+		<marquee>./images/Sokoban-marquee.png</marquee>
+		<thumbnail>./images/Sokoban-thumb.png</thumbnail>
+		<releasedate>20220123T000000</releasedate>
+		<developer>Lars Hamre</developer>
+		<family>Sokoban</family>
+		<md5>fdf069fed2ff2346ddb449c8203cf1a6</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T023143" />
+	</game>
+	<game id="423571">
+		<path>./Wasm4/Spunky.wasm</path>
+		<name>Spunky</name>
+		<image>./images/Spunky-image.png</image>
+		<marquee>./images/Spunky-marquee.png</marquee>
+		<thumbnail>./images/Spunky-thumb.png</thumbnail>
+		<releasedate>20220123T000000</releasedate>
+		<developer>Richard McCormack</developer>
+		<md5>5169635130e7bd9479a976b8261e9974</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T023147" />
+	</game>
+	<game id="423583">
+		<path>./Wasm4/Tail Gunner.wasm</path>
+		<name>Tail Gunner</name>
+		<image>./images/Tail Gunner-image.png</image>
+		<marquee>./images/Tail Gunner-marquee.png</marquee>
+		<thumbnail>./images/Tail Gunner-thumb.png</thumbnail>
+		<releasedate>20220123T000000</releasedate>
+		<developer>Dial0</developer>
+		<md5>fae4b6a3540ea3c992f8be54190f659c</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T023152" />
+	</game>
+	<game>
+		<path>./Wasm4/TappyLoop.wasm</path>
+		<name>TappyLoop</name>
+		<md5>36f3ef9ce098cb6a28b7e6789c059fce</md5>
+		<scrap name="ScreenScraper" date="20231102T023152" />
+	</game>
+	<game id="423592">
+		<path>./Wasm4/The Legend of GEML - Awakening.wasm</path>
+		<name>The Legend of GEML: Awakening</name>
+		<image>./images/The Legend of GEML - Awakening-image.png</image>
+		<marquee>./images/The Legend of GEML - Awakening-marquee.png</marquee>
+		<thumbnail>./images/The Legend of GEML - Awakening-thumb.png</thumbnail>
+		<releasedate>20220123T000000</releasedate>
+		<developer>Robby Zampino, Ethan Hunter</developer>
+		<md5>7e372d919d84e94f14c71222f1f372f2</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T023157" />
+	</game>
+	<game id="423685">
+		<path>./Wasm4/To the Core.wasm</path>
+		<name>TO THE CORE</name>
+		<desc>Play as pant ant in TO THE CORE a semi-idle game journeying to the center of the</desc>
+		<image>./images/To the Core-image.png</image>
+		<marquee>./images/To the Core-marquee.png</marquee>
+		<thumbnail>./images/To the Core-thumb.png</thumbnail>
+		<releasedate>20220123T000000</releasedate>
+		<developer>Garrett Hale</developer>
+		<md5>06c02089c236dff8af5ca6fe42c9eab6</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T023201" />
+	</game>
+	<game id="423697">
+		<path>./Wasm4/Totally Not Sumo.wasm</path>
+		<name>Totally not sumo</name>
+		<desc>"Totally Not Sumo" is definitively not a sumo game, but it's a game where you need to push your opponents out, while dealing with an controller duality.</desc>
+		<image>./images/Totally Not Sumo-image.png</image>
+		<marquee>./images/Totally Not Sumo-marquee.png</marquee>
+		<thumbnail>./images/Totally Not Sumo-thumb.png</thumbnail>
+		<releasedate>20220130T000000</releasedate>
+		<developer>André L. Alvares</developer>
+		<md5>bcb8a3ee0d666da0c2afc72c16bd0eb0</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T023205" />
+	</game>
+	<game id="423622">
+		<path>./Wasm4/Wasm4nia (jam).wasm</path>
+		<name>wasm4nia</name>
+		<image>./images/Wasm4nia (jam)-image.png</image>
+		<marquee>./images/Wasm4nia (jam)-marquee.png</marquee>
+		<thumbnail>./images/Wasm4nia (jam)-thumb.png</thumbnail>
+		<releasedate>20220123T000000</releasedate>
+		<developer>Marcus Ramse</developer>
+		<md5>30389ab1253e93d94bc834626a0fb2ca</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T023209" />
+	</game>
+	<game id="423622">
+		<path>./Wasm4/wasm4nia.wasm</path>
+		<name>wasm4nia</name>
+		<image>./images/wasm4nia-image.png</image>
+		<marquee>./images/wasm4nia-marquee.png</marquee>
+		<thumbnail>./images/wasm4nia-thumb.png</thumbnail>
+		<releasedate>20220123T000000</releasedate>
+		<developer>Marcus Ramse</developer>
+		<md5>020732709672a60b148bb38f12c7df35</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T023214" />
+	</game>
+	<game id="423604">
+		<path>./Wasm4/Watris.wasm</path>
+		<name>Watris</name>
+		<image>./images/Watris-image.png</image>
+		<marquee>./images/Watris-marquee.png</marquee>
+		<thumbnail>./images/Watris-thumb.png</thumbnail>
+		<releasedate>20210813T000000</releasedate>
+		<developer>Bruno Garcia</developer>
+		<md5>7fb71a1278bc3bc3930d48fd4cfd5284</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T023218" />
+	</game>
+	<game id="423556">
+		<path>./Wasm4/Wired.wasm</path>
+		<name>Wired</name>
+		<image>./images/Wired-image.png</image>
+		<marquee>./images/Wired-marquee.png</marquee>
+		<thumbnail>./images/Wired-thumb.png</thumbnail>
+		<releasedate>20220822T000000</releasedate>
+		<developer>Louis Pearson</developer>
+		<md5>9068d7a2bad5eb9da5a433eb3073e144</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T023222" />
+	</game>
+	<game id="423496">
+		<path>./Wasm4/WLOKU.wasm</path>
+		<name>WLOKU</name>
+		<image>./images/WLOKU-image.png</image>
+		<marquee>./images/WLOKU-marquee.png</marquee>
+		<thumbnail>./images/WLOKU-thumb.png</thumbnail>
+		<releasedate>20220123T000000</releasedate>
+		<developer>12Boti</developer>
+		<md5>5e470ef900a385018294e521798555f8</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T023227" />
+	</game>
+	<game id="423457">
+		<path>./Wasm4/You Will Return.wasm</path>
+		<name>You Will Return</name>
+		<image>./images/You Will Return-image.png</image>
+		<marquee>./images/You Will Return-marquee.png</marquee>
+		<thumbnail>./images/You Will Return-thumb.png</thumbnail>
+		<releasedate>20220123T000000</releasedate>
+		<developer>Sander in 't Veld</developer>
+		<md5>4ce31f9e2abfeddb79132951567bbd27</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T023231" />
+	</game>
+	<game id="423421">
+		<path>./Wasm4/ZxZ.wasm</path>
+		<name>ZxZ</name>
+		<image>./images/ZxZ-image.png</image>
+		<marquee>./images/ZxZ-marquee.png</marquee>
+		<thumbnail>./images/ZxZ-thumb.png</thumbnail>
+		<releasedate>20220402T000000</releasedate>
+		<developer>Ścisław Dercz</developer>
+		<md5>9967ddb877ad4d0332e129a1db67beee</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T023235" />
+	</game>
+</gameList>

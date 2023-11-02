@@ -1,2 +1,681 @@
 <?xml version="1.0"?>
-<gameList />
+<gameList>
+	<game id="213987">
+		<path>./EasyRPG/1899LondonGothicDemo.zip</path>
+		<name>1899 London Gothic Demo</name>
+		<image>./images/1899LondonGothicDemo-image.png</image>
+		<marquee>./images/1899LondonGothicDemo-marquee.png</marquee>
+		<thumbnail>./images/1899LondonGothicDemo-thumb.png</thumbnail>
+		<releasedate>20070404T000000</releasedate>
+		<developer>Grandy, RAMart, IMAGI.nation, Der Rabauke</developer>
+		<players>1</players>
+		<md5>56249e07a3bd165f0a9cb70287413c43</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T023314" />
+	</game>
+	<game>
+		<path>./EasyRPG/8 Bit Quest v1.0.2.zip</path>
+		<name>8 Bit Quest v1.0.2</name>
+		<md5>4961c315ca6037196e63a50744af6e4b</md5>
+		<scrap name="ScreenScraper" date="20231102T023316" />
+	</game>
+	<game id="213991">
+		<path>./EasyRPG/ABlurredLineV2.1.zip</path>
+		<name>A Blurred Line</name>
+		<desc>The game starts out in the present time with three people trying to stop a man.  After some events occur, the game goes back a year previously.  You are in control of Talan, the man from the intro who was trying to be stopped.
+
+Talan is nearly late for work on the day the Director, the most important man in the world, is giving a speech, Talan is called to the office of the Director himself. Talan faints, and after he wakes up he finds himself still in the Director's office. The Director locks the door, and is shot after talking with Talan. Talan is the obvious suspect in the murder, so he flees authorities as a fugitive from justice. Before the Director's death, the Director told Talan to "seek Paradise", a community which by contract law, is immune to Agency influence; The Agency is not allowed to walk onto the Paradise property.</desc>
+		<image>./images/ABlurredLineV2.1-image.png</image>
+		<marquee>./images/ABlurredLineV2.1-marquee.png</marquee>
+		<thumbnail>./images/ABlurredLineV2.1-thumb.png</thumbnail>
+		<releasedate>20070629T000000</releasedate>
+		<developer>Lys86</developer>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<md5>5a6a87290aaa8a7a3cb65fd20dba9641</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T023324" />
+	</game>
+	<game id="213993">
+		<path>./EasyRPG/AButterflysSongDemo.zip</path>
+		<name>ZZZ(notgame):A Butterflys Song Demo</name>
+		<hidden>true</hidden>
+		<md5>03ec563467e00497924be19ff2bceea7</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T023329" />
+	</game>
+	<game id="214001">
+		<path>./EasyRPG/ActRazer.zip</path>
+		<name>ActRazer</name>
+		<image>./images/ActRazer-image.png</image>
+		<marquee>./images/ActRazer-marquee.png</marquee>
+		<thumbnail>./images/ActRazer-thumb.png</thumbnail>
+		<md5>8f16a1e6d656c6a23d499328f7e04bef</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T023338" />
+	</game>
+	<game id="214003">
+		<path>./EasyRPG/AloneV2.7.zip</path>
+		<name>Alone</name>
+		<desc>ALONE is a short 20~ minute game created on June 7th (2015), in only 8 hours, by iddalai for the "RMN Birthday 2015" event held at 'rpgmaker.net'
+
+It deals with frustrations you may find in internet forums. While using many RPG characteristics, it plays more like a puzzle game with trial &amp; error and a bit of metroidvania-ish exploration.
+
+The game actually wasn't supposed to have a name, but became known as ALONE.
+
+Dungeon design was inspired by "The Heroe II" (Spanish classic RM2K game by "uva_r") &amp; "The Legend of Zelda".
+"Three Cheers for the Strawman" (by Red_Nova) also inspired me to improve ALONE and release a gamepage.
+
+The revamped version was released in March 2016, has a few more hours of gam mak put into it and a new secret to discover.</desc>
+		<image>./images/AloneV2.7-image.png</image>
+		<marquee>./images/AloneV2.7-marquee.png</marquee>
+		<thumbnail>./images/AloneV2.7-thumb.png</thumbnail>
+		<releasedate>20150601T000000</releasedate>
+		<developer>iddalai</developer>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<md5>91e3106497083ff8d6a206461dc8708c</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T023346" />
+	</game>
+	<game id="214005">
+		<path>./EasyRPG/AlterAilaGenesis.zip</path>
+		<name>Alter Aila Genesis</name>
+		<desc>Alter A.I.L.A. Genesis takes place in a post-apocalyptic world. You play the role of a young man known as Leon, who seeks to survive in the harsh environment he is brought into.
+
+Exploration is done mainly via a side-scrolling view. In certain areas, an exclamation mark will sometimes appear, indicating the presence of hostiles. Press Z when this happens to initiate battle, or wait to let it pass. Sometimes battle will be unavoidable. When walking, enemy encounters won't occur.
+
+The battle system revolves mainly around each character's Abilities, which are a set of commands specific to that character. Abilities require AP and EX to use. AP is gained every time a character takes a turn. The default is 2. EX is gained every time a character uses an Ability. The default is 1. Note that this may change depending on the situation.</desc>
+		<image>./images/AlterAilaGenesis-image.png</image>
+		<marquee>./images/AlterAilaGenesis-marquee.png</marquee>
+		<thumbnail>./images/AlterAilaGenesis-thumb.png</thumbnail>
+		<releasedate>20110413T000000</releasedate>
+		<developer>Neok</developer>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<md5>90413dd9274a2f83ba8efdd9972a7ceb</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T023402" />
+	</game>
+	<game id="214007">
+		<path>./EasyRPG/AlterAilaVariant.zip</path>
+		<name>Alter Aila Variant</name>
+		<desc>This is the sequel to Alter A.I.L.A. Genesis.
+
+Alter A.I.L.A. Variant takes place in a modern world, 3 years after the events of Alter A.I.L.A. Genesis. 2 years ago, a great war came to a decisive conclusion thanks to the efforts of a small band of people. Peace should have followed, but there are those who would choose to continue fighting. This is the continuation of that story.
+
+The battle system revolves mainly around each character's Abilities, which are a set of commands specific to that character. Abilities require AP and EX to use. AP is gained every time a character takes a turn (default at 2). EX is gained every time a character uses an Ability (default at 1). Note that this may change depending on the situation.</desc>
+		<image>./images/AlterAilaVariant-image.png</image>
+		<marquee>./images/AlterAilaVariant-marquee.png</marquee>
+		<thumbnail>./images/AlterAilaVariant-thumb.png</thumbnail>
+		<md5>1fe96466a8b95c6556dcd0eda2e295be</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T023415" />
+	</game>
+	<game id="213995">
+		<path>./EasyRPG/ANewHome.zip</path>
+		<name>A New HOME</name>
+		<image>./images/ANewHome-image.png</image>
+		<marquee>./images/ANewHome-marquee.png</marquee>
+		<thumbnail>./images/ANewHome-thumb.png</thumbnail>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T023420" />
+	</game>
+	<game id="254493">
+		<path>./EasyRPG/Antiarctica.zip</path>
+		<name>Antiarctica</name>
+		<image>./images/Antiarctica-image.png</image>
+		<marquee>./images/Antiarctica-marquee.png</marquee>
+		<md5>3316de6891720f803687b44627d640c9</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T023427" />
+	</game>
+	<game id="213997">
+		<path>./EasyRPG/APathOfDarknessThePriestKiller.zip</path>
+		<name>A Path of Darkness The Priest Killer</name>
+		<image>./images/APathOfDarknessThePriestKiller-image.png</image>
+		<marquee>./images/APathOfDarknessThePriestKiller-marquee.png</marquee>
+		<thumbnail>./images/APathOfDarknessThePriestKiller-thumb.png</thumbnail>
+		<md5>d63bdfe573bdb24c3df1f8dbd7b3c91e</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T023433" />
+	</game>
+	<game id="214009">
+		<path>./EasyRPG/AraFellDemo.zip</path>
+		<name>ZZZ(notgame):Ara Fell Demo</name>
+		<hidden>true</hidden>
+		<md5>728f432a72bc73f7367edbce5626953a</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T023454" />
+	</game>
+	<game id="214011">
+		<path>./EasyRPG/AraFellEpisodeOne.zip</path>
+		<name>Ara Fell - The Legend of Derisetsu Hollow</name>
+		<desc>"Long, long ago, the elven sorcerers cast a spell to save the floating world of Ara Fell from destruction. Instead, they doomed it to fall from the sky. By chance, the fate of the world has been placed in the hands of a young woman. Join her as she and her friends endeavor against all odds to save their homeland, all while the clock ticks ever nearer the final hour..."
+
+ Ara Fell combines the best parts of Japanese-style roleplaying games with the best parts of western RPGs, as well as including elements of visual novels and adventure games to create a truly unique experience. Atmosphere, emotion and surprise lie at the forefront of Ara Fell's story, driven by deep and accessible characters, each with his or her own past, their own desires and their own motivations for joining Lita's quest. Relive the golden age of the RPG with a game that both pays homage to the past greats, as well as blazing its own trail.</desc>
+		<image>./images/AraFellEpisodeOne-image.png</image>
+		<marquee>./images/AraFellEpisodeOne-marquee.png</marquee>
+		<thumbnail>./images/AraFellEpisodeOne-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>20160602T000000</releasedate>
+		<developer>Stegosoft Games</developer>
+		<publisher>DANGEN ENTERTAINMENT</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<md5>35ce74ac95f8bf7a5636fde8892b6f2a</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T023506" />
+	</game>
+	<game id="214013">
+		<path>./EasyRPG/AscendenceRsdVi.zip</path>
+		<name>Ascendence RSD VI</name>
+		<image>./images/AscendenceRsdVi-image.png</image>
+		<marquee>./images/AscendenceRsdVi-marquee.png</marquee>
+		<thumbnail>./images/AscendenceRsdVi-thumb.png</thumbnail>
+		<md5>82607ed9bab713045588331c19b55218</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T023520" />
+	</game>
+	<game id="213999">
+		<path>./EasyRPG/ATraitorsHoldV1.3.zip</path>
+		<name>A Traitors Hold</name>
+		<desc>A Traitor's Hold is a short prequel to The Difficult Second Quest and tells the story of the "legendary" Tybalt and his party. This was submitted for the Golden Week of RM2k3 event and therefore was made in a week using only RTP.
+
+Tybalt and his party are coming to the end of their journey where they must face off against the Dark Lord.
+
+However, due to recruiting the help of a priest who doesn't seem to have any real powers - and consequently having to sell all their best equipment in order to pay for all the recovery items needed to keep him alive - the party find themselves at the gates of the Dark Lord's tower prepared for the final showdown armed only with a damp rag on a stick and a rusty spoon.
+
+While the Dark Lord ravages the Kingdom of Bieune, the brave heroes decide the best course of action is to walk away from his Tower and instead undertake menial sidequests in order to find themselves better equipment and hopefully learn some new skills.s.</desc>
+		<image>./images/ATraitorsHoldV1.3-image.png</image>
+		<marquee>./images/ATraitorsHoldV1.3-marquee.png</marquee>
+		<thumbnail>./images/ATraitorsHoldV1.3-thumb.png</thumbnail>
+		<releasedate>20150511T000000</releasedate>
+		<developer>Cernus</developer>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<md5>5a5be8c9d0774073a49ceb51e636eaeb</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T023529" />
+	</game>
+	<game id="214015">
+		<path>./EasyRPG/Aurora Wing.zip</path>
+		<name>Aurora Wing</name>
+		<desc>A turn-based tactical RPG. Inspired by the Fire Emblem series and similar games, but with significant mechanics differences resulting in challenging gameplay not like any other tactics game's.</desc>
+		<image>./images/Aurora Wing-image.png</image>
+		<marquee>./images/Aurora Wing-marquee.png</marquee>
+		<thumbnail>./images/Aurora Wing-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>20070610T000000</releasedate>
+		<developer>DFalcon</developer>
+		<genre>Role playing games / Tactical RPG</genre>
+		<players>1</players>
+		<md5>b13e2298113da853b601a37ee7af11fc</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T023534" />
+	</game>
+	<game id="214019">
+		<path>./EasyRPG/Backstage.zip</path>
+		<name>Backstage</name>
+		<image>./images/Backstage-image.png</image>
+		<marquee>./images/Backstage-marquee.png</marquee>
+		<thumbnail>./images/Backstage-thumb.png</thumbnail>
+		<md5>9475424004da904c1aa55ee22b2ce249</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T023544" />
+	</game>
+	<game id="214017">
+		<path>./EasyRPG/BackstageIiDemo.zip</path>
+		<name>Backstage II Demo</name>
+		<image>./images/BackstageIiDemo-image.png</image>
+		<marquee>./images/BackstageIiDemo-marquee.png</marquee>
+		<thumbnail>./images/BackstageIiDemo-thumb.png</thumbnail>
+		<md5>71971e03ea07b924c8b67079639d06dd</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T023559" />
+	</game>
+	<game id="214021">
+		<path>./EasyRPG/BalmungCyclePartITheMessengerAndTheHeretic.zip</path>
+		<name>Balmung Cycle Part I The Messenger and the Heretic</name>
+		<desc>An outcast god consumed by despair threatens to bring the world of Midgard to its knees. Aided by a ragtag group of volunteer soldiers-of-fortune and a small loyal following, he aims to establish his kingdom once more. When reason and diplomacy with the outcast deity fail, the Aesir god Loki prepares to make a final bid to halt the ambitions of the heretic. What will become of the world should he be unable to succeed?
+
+You are Blitz Ymir, a disconnected servant to the Aesir. The god Loki has offered you a limited freedom if only you were to complete a simple task in his name. When past obligations become personal choice, will you choose to live a menial life or continue to take up the sword in the name of the gods?</desc>
+		<image>./images/BalmungCyclePartITheMessengerAndTheHeretic-image.png</image>
+		<marquee>./images/BalmungCyclePartITheMessengerAndTheHeretic-marquee.png</marquee>
+		<thumbnail>./images/BalmungCyclePartITheMessengerAndTheHeretic-thumb.png</thumbnail>
+		<releasedate>20081030T000000</releasedate>
+		<developer>Magi</developer>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<md5>409b158c5f1b59d92138ecea1b02f1bd</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T023609" />
+	</game>
+	<game id="214023">
+		<path>./EasyRPG/BeautifulEscapeDungeoneer.zip</path>
+		<name>Beautiful Escape Dungeoneer</name>
+		<desc>Warning: This game does contain dark and disturbing themes including rape and torture. Be warned that it is quite dark and blatant in the depictions of such.
+
+Torturing. Causing pain and suffering. Taking screams and tears from a completely subdued human being.
+That's the hobby of people from a community called The Dungeoneers. Dungeoneers have their own private dungeons in their homes (hence the name), to which they take strangers - those naive enough to fall for the dungeoneer's charms.
+Members from this community won't settle for just executing their sadistic game. They must show it to other people. For that, they videotape their torture sessions and post it to online forums, to get other member's appreciation and reviews.
+
+BE:D tells the story of Verge, a dungeoneer depressed because he's lost his touch with doing decent videos, and because the love of his life, Daily, couldn't care less about his existence.</desc>
+		<image>./images/BeautifulEscapeDungeoneer-image.png</image>
+		<video>./videos/BeautifulEscapeDungeoneer-video.mp4</video>
+		<marquee>./images/BeautifulEscapeDungeoneer-marquee.png</marquee>
+		<thumbnail>./images/BeautifulEscapeDungeoneer-thumb.png</thumbnail>
+		<releasedate>20100527T000000</releasedate>
+		<developer>Calunio</developer>
+		<genre>Simulation</genre>
+		<md5>8e8d92f81e40dc5acb71248fa81dc96c</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T023619" />
+	</game>
+	<game id="214025">
+		<path>./EasyRPG/BefuddleQuest.zip</path>
+		<name>Befuddle Quest</name>
+		<desc>Our poor friend Zack has been captured by the evil Baron von Niddly and locked away in his menacing tower for daring to fall in love with the Baron's beautiful daughter Broomhilda.  Poor Zack!
+
+Now Zack must escape the nefarious Baron's befuddling tower and make his way to his love and impressing the Baron with his puzzle solving skills!</desc>
+		<image>./images/BefuddleQuest-image.png</image>
+		<marquee>./images/BefuddleQuest-marquee.png</marquee>
+		<thumbnail>./images/BefuddleQuest-thumb.png</thumbnail>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<md5>ce9b0cd9f20d4699fb26a4a512e3fd9f</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T023626" />
+	</game>
+	<game id="214027">
+		<path>./EasyRPG/BlackmoonProphecyPlus.zip</path>
+		<name>Blackmoon Prophecy Plus</name>
+		<image>./images/BlackmoonProphecyPlus-image.png</image>
+		<marquee>./images/BlackmoonProphecyPlus-marquee.png</marquee>
+		<thumbnail>./images/BlackmoonProphecyPlus-thumb.png</thumbnail>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T023630" />
+	</game>
+	<game id="214029">
+		<path>./EasyRPG/BlueMemories.zip</path>
+		<name>Blue Memories</name>
+		<image>./images/BlueMemories-image.png</image>
+		<marquee>./images/BlueMemories-marquee.png</marquee>
+		<thumbnail>./images/BlueMemories-thumb.png</thumbnail>
+		<md5>cf0a536b5e04c364f8e5788d1e7d42fc</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T023652" />
+	</game>
+	<game id="214031">
+		<path>./EasyRPG/BlueSkies.zip</path>
+		<name>Blue Skies</name>
+		<image>./images/BlueSkies-image.png</image>
+		<marquee>./images/BlueSkies-marquee.png</marquee>
+		<thumbnail>./images/BlueSkies-thumb.png</thumbnail>
+		<md5>599155c57aee686778d3470c3c86d6ad</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T023701" />
+	</game>
+	<game id="214033">
+		<path>./EasyRPG/BroQuest.zip</path>
+		<name>Bro Quest</name>
+		<desc>Created in 5 Days for the Golden Age of Gam Mak Contest (although I didn't quite make the deadline), Bro Quest is a short comedic RPG that puts a modern twist on the "Connecticut Yankee in King Arthur's Court" trope.
+
+While drinking cheap beer at a Renaissance Fair, over-privileged carefree bro C.J. tries on a suit of armor and finds himself transported to a fantasy realm. The locals interpret his sudden appearance as proof of an ancient prophecy and recruit our obtuse hero to protect the kingdom from evil forces. Seasoned, no-nonsense adventurer Duane is assigned to be his guide. Can C.J. help the real heroes fight off the kingdom's enemies? Or is he just completely useless?
+
+Featuring:nn-Weird bro-centric skills to confuse and annoy enemies!
+-No random encounters!
+-Awesome art by Makio-Kuta!</desc>
+		<image>./images/BroQuest-image.png</image>
+		<marquee>./images/BroQuest-marquee.png</marquee>
+		<thumbnail>./images/BroQuest-thumb.png</thumbnail>
+		<releasedate>20150726T000000</releasedate>
+		<developer>Volrath</developer>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<md5>837cd272e5231dabc1191957f08c9303</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T023712" />
+	</game>
+	<game id="214035">
+		<path>./EasyRPG/ChainOfRetribution.zip</path>
+		<name>Chain Of Retribution</name>
+		<image>./images/ChainOfRetribution-image.png</image>
+		<marquee>./images/ChainOfRetribution-marquee.png</marquee>
+		<thumbnail>./images/ChainOfRetribution-thumb.png</thumbnail>
+		<md5>10fc84670682b010e4b89fb8ee127475</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T023722" />
+	</game>
+	<game id="214037">
+		<path>./EasyRPG/Chiis Challenge.zip</path>
+		<name>Chiis Challenge</name>
+		<image>./images/Chiis Challenge-image.png</image>
+		<marquee>./images/Chiis Challenge-marquee.png</marquee>
+		<thumbnail>./images/Chiis Challenge-thumb.png</thumbnail>
+		<md5>dbe8c417285d303aea8f96d7722822d6</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T023728" />
+	</game>
+	<game id="214043">
+		<path>./EasyRPG/ChocoboPanic.zip</path>
+		<name>Chocobo Panic</name>
+		<image>./images/ChocoboPanic-image.png</image>
+		<marquee>./images/ChocoboPanic-marquee.png</marquee>
+		<thumbnail>./images/ChocoboPanic-thumb.png</thumbnail>
+		<md5>54cb8c77f8f618d62435880df1c17a8c</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T023736" />
+	</game>
+	<game id="214039">
+		<path>./EasyRPG/ChocoboPanicSpace.zip</path>
+		<name>Chocobo Panic Space</name>
+		<desc>Chocobo Panic Space is a pacman style game with chocobos as main characters.
+The goal is to collect all crystals in a stage and avoid enemies and traps to proceed and unlock more stages.</desc>
+		<image>./images/ChocoboPanicSpace-image.png</image>
+		<marquee>./images/ChocoboPanicSpace-marquee.png</marquee>
+		<thumbnail>./images/ChocoboPanicSpace-thumb.png</thumbnail>
+		<releasedate>20080811T000000</releasedate>
+		<developer>koaangel</developer>
+		<genre>Platform</genre>
+		<players>1</players>
+		<md5>5c016dec0fe68385e3a3c77d8fa75c84</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T023745" />
+	</game>
+	<game id="214041">
+		<path>./EasyRPG/ChocoboPanicXmas.zip</path>
+		<name>Chocobo Panic XMas</name>
+		<image>./images/ChocoboPanicXmas-image.png</image>
+		<marquee>./images/ChocoboPanicXmas-marquee.png</marquee>
+		<thumbnail>./images/ChocoboPanicXmas-thumb.png</thumbnail>
+		<md5>04b897075aab7344cbb0a48707eb5b75</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T023753" />
+	</game>
+	<game id="214045">
+		<path>./EasyRPG/ChroniclesOfTsufanubra.zip</path>
+		<name>Chronicles of Tsufanubra</name>
+		<desc>"Celes, a woman raised from childhood as the prophesied Savior, embarks on a mission to fulfill her destiny and protect the world. But she soon finds herself at odds with a man with a mysterious investment in her mission, and learns that there may be more to her role than she bargained for..."
+
+Eons ago, the world and all of its splendours were created by the magnificent and all-powerful being simply known as the "Creator." It wove the threads of life, and upon creating the planet of Tsufanubra, spotted it with its most cherished life-form: man.</desc>
+		<image>./images/ChroniclesOfTsufanubra-image.png</image>
+		<marquee>./images/ChroniclesOfTsufanubra-marquee.png</marquee>
+		<thumbnail>./images/ChroniclesOfTsufanubra-thumb.png</thumbnail>
+		<fanart>./images/ChroniclesOfTsufanubra-fanart.jpg</fanart>
+		<rating>0.8</rating>
+		<releasedate>20170227T000000</releasedate>
+		<developer>Ephiam</developer>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<md5>b053c4f18203015f27f14e7cc82120dc</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T023814" />
+	</game>
+	<game id="214047">
+		<path>./EasyRPG/CicatrixBeta.zip</path>
+		<name>Cicatrix Beta</name>
+		<image>./images/CicatrixBeta-image.png</image>
+		<marquee>./images/CicatrixBeta-marquee.png</marquee>
+		<thumbnail>./images/CicatrixBeta-thumb.png</thumbnail>
+		<md5>886d76da3c9b10ef752ae70aee526fba</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T023830" />
+	</game>
+	<game>
+		<path>./EasyRPG/ColorsLostMemoriesV1.02.zip</path>
+		<name>ColorsLostMemoriesV1.02</name>
+		<md5>96617db4f5018293c22359845c34a83c</md5>
+		<scrap name="ScreenScraper" date="20231102T023835" />
+	</game>
+	<game id="214055">
+		<path>./EasyRPG/Crossbone.zip</path>
+		<name>Crossbone</name>
+		<image>./images/Crossbone-image.png</image>
+		<marquee>./images/Crossbone-marquee.png</marquee>
+		<thumbnail>./images/Crossbone-thumb.png</thumbnail>
+		<md5>212dd572e565879021ca584f7f0801a9</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T023843" />
+	</game>
+	<game id="214053">
+		<path>./EasyRPG/CrossChaos.zip</path>
+		<name>Cross Chaos</name>
+		<image>./images/CrossChaos-image.png</image>
+		<marquee>./images/CrossChaos-marquee.png</marquee>
+		<thumbnail>./images/CrossChaos-thumb.png</thumbnail>
+		<md5>ae4007e8a23b68258f15d008e3813e9a</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T023851" />
+	</game>
+	<game id="214057">
+		<path>./EasyRPG/CryRpgV3.0.zip</path>
+		<name>Cry RPG</name>
+		<image>./images/CryRpgV3.0-image.png</image>
+		<marquee>./images/CryRpgV3.0-marquee.png</marquee>
+		<thumbnail>./images/CryRpgV3.0-thumb.png</thumbnail>
+		<md5>554f8cb16f0375d4b1b79a7024e2c197</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T023858" />
+	</game>
+	<game id="214059">
+		<path>./EasyRPG/CrystalisDemo.zip</path>
+		<name>Crystalis Demo</name>
+		<image>./images/CrystalisDemo-image.png</image>
+		<marquee>./images/CrystalisDemo-marquee.png</marquee>
+		<thumbnail>./images/CrystalisDemo-thumb.png</thumbnail>
+		<md5>6899ffa6e38cc62806b4e98cb4e1c08b</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T023907" />
+	</game>
+	<game id="214061">
+		<path>./EasyRPG/CurseOfSilence.zip</path>
+		<name>Curse of Silence</name>
+		<desc>Set in the land of Meluvet, a solitary fighter by the name of Sazaku leaves his comrades to explain the failure of his assassination attempt. Despite having nowhere to go, no money, and putting his life on the line, he travels alone through the dangerous countryside routes from town to town in search of a solution to his one problem. To solve a problem it is best to go to the beginning, but is he welcome in his hometown?</desc>
+		<image>./images/CurseOfSilence-image.jpg</image>
+		<marquee>./images/CurseOfSilence-marquee.png</marquee>
+		<thumbnail>./images/CurseOfSilence-thumb.png</thumbnail>
+		<releasedate>20050101T000000</releasedate>
+		<developer>Kamau</developer>
+		<publisher>Kamau</publisher>
+		<genre>Role playing games / Action RPG</genre>
+		<family>Legion Saga</family>
+		<players>1</players>
+		<md5>7869860114243605bb0d1e634b2da3a9</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T023916" />
+	</game>
+	<game id="214063">
+		<path>./EasyRPG/CyberFactorDemo.zip</path>
+		<name>Cyber Factor Demo</name>
+		<image>./images/CyberFactorDemo-image.png</image>
+		<marquee>./images/CyberFactorDemo-marquee.png</marquee>
+		<thumbnail>./images/CyberFactorDemo-thumb.png</thumbnail>
+		<md5>1996da20750e7c0f91525c0c46714318</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T023926" />
+	</game>
+	<game id="214065">
+		<path>./EasyRPG/DarkQuest.zip</path>
+		<name>Dark Quest</name>
+		<image>./images/DarkQuest-image.png</image>
+		<marquee>./images/DarkQuest-marquee.png</marquee>
+		<thumbnail>./images/DarkQuest-thumb.png</thumbnail>
+		<md5>0c32c5ef0daf4cf13fef6e11793cd7e5</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T023939" />
+	</game>
+	<game id="214067">
+		<path>./EasyRPG/Decadence.zip</path>
+		<name>Decadence</name>
+		<image>./images/Decadence-image.png</image>
+		<marquee>./images/Decadence-marquee.png</marquee>
+		<md5>01574cd1d7fcb006b753af01b1eefdf0</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T023943" />
+	</game>
+	<game id="214069">
+		<path>./EasyRPG/DemonDreams.zip</path>
+		<name>Demon Dreams</name>
+		<image>./images/DemonDreams-image.png</image>
+		<marquee>./images/DemonDreams-marquee.png</marquee>
+		<thumbnail>./images/DemonDreams-thumb.png</thumbnail>
+		<md5>c4b3aa9c1b519cf7ea4262286bfe8260</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T023952" />
+	</game>
+	<game id="214071">
+		<path>./EasyRPG/DemonLegacy.zip</path>
+		<name>Demon Legacy</name>
+		<image>./images/DemonLegacy-image.png</image>
+		<marquee>./images/DemonLegacy-marquee.png</marquee>
+		<thumbnail>./images/DemonLegacy-thumb.png</thumbnail>
+		<md5>1f1494625a5254fc9fcc92e0252a5855</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T024003" />
+	</game>
+	<game>
+		<path>./EasyRPG/DesertNightmareenglish.zip</path>
+		<name>DesertNightmareenglish</name>
+		<md5>3d8ec6eb24ab26d3e8437242a08fe6df</md5>
+		<scrap name="ScreenScraper" date="20231102T024008" />
+	</game>
+	<game id="214077">
+		<path>./EasyRPG/DesolateCityTheBloodyDawn.zip</path>
+		<name>Desolate City The Bloody Dawn</name>
+		<image>./images/DesolateCityTheBloodyDawn-image.png</image>
+		<marquee>./images/DesolateCityTheBloodyDawn-marquee.png</marquee>
+		<thumbnail>./images/DesolateCityTheBloodyDawn-thumb.png</thumbnail>
+		<md5>8d0b9a0104998d5bdcd04639ba2d6838</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T024017" />
+	</game>
+	<game id="214079">
+		<path>./EasyRPG/DestinyQuest.zip</path>
+		<name>Destiny Quest</name>
+		<image>./images/DestinyQuest-image.png</image>
+		<marquee>./images/DestinyQuest-marquee.png</marquee>
+		<thumbnail>./images/DestinyQuest-thumb.png</thumbnail>
+		<md5>c9eae7a6cd019351fce205de0cbd0565</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T024027" />
+	</game>
+	<game id="214081">
+		<path>./EasyRPG/DeusCards.zip</path>
+		<name>Deus Cards</name>
+		<image>./images/DeusCards-image.png</image>
+		<marquee>./images/DeusCards-marquee.png</marquee>
+		<thumbnail>./images/DeusCards-thumb.png</thumbnail>
+		<md5>225ae1a2ce1e26c993950d8fcd433dde</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T024035" />
+	</game>
+	<game id="214083">
+		<path>./EasyRPG/DhuxsScar.zip</path>
+		<name>Dhuxs Scar</name>
+		<image>./images/DhuxsScar-image.png</image>
+		<marquee>./images/DhuxsScar-marquee.png</marquee>
+		<thumbnail>./images/DhuxsScar-thumb.png</thumbnail>
+		<md5>aa423b2f86f1884d3e9ae8d7679bce5d</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T024042" />
+	</game>
+	<game id="214085">
+		<path>./EasyRPG/DiaryOfAMadman.zip</path>
+		<name>Diary of a Madman</name>
+		<image>./images/DiaryOfAMadman-image.png</image>
+		<marquee>./images/DiaryOfAMadman-marquee.png</marquee>
+		<thumbnail>./images/DiaryOfAMadman-thumb.png</thumbnail>
+		<md5>7e08aff2badc1c3b16564afb1fe293d3</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T024051" />
+	</game>
+	<game id="214087">
+		<path>./EasyRPG/Dondoran.zip</path>
+		<name>Dondoran</name>
+		<image>./images/Dondoran-image.png</image>
+		<marquee>./images/Dondoran-marquee.png</marquee>
+		<thumbnail>./images/Dondoran-thumb.png</thumbnail>
+		<md5>83949e0f58e30749a214f1ef2b632fd0</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T024103" />
+	</game>
+	<game id="214089">
+		<path>./EasyRPG/DotdefragV1.3.0.zip</path>
+		<name>dotdefrag</name>
+		<image>./images/DotdefragV1.3.0-image.png</image>
+		<marquee>./images/DotdefragV1.3.0-marquee.png</marquee>
+		<thumbnail>./images/DotdefragV1.3.0-thumb.png</thumbnail>
+		<md5>162f3843317ebc89693c98cf6fefad44</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T024114" />
+	</game>
+	<game id="214093">
+		<path>./EasyRPG/Dragon Fantasy II.zip</path>
+		<name>Dragon Fantasy II</name>
+		<image>./images/Dragon Fantasy II-image.png</image>
+		<marquee>./images/Dragon Fantasy II-marquee.png</marquee>
+		<thumbnail>./images/Dragon Fantasy II-thumb.png</thumbnail>
+		<md5>fcba9253b8383d14bb4d604dd5fe277f</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T024120" />
+	</game>
+	<game id="214091">
+		<path>./EasyRPG/DragonDestiny.zip</path>
+		<name>Dragon Destiny</name>
+		<image>./images/DragonDestiny-image.png</image>
+		<marquee>./images/DragonDestiny-marquee.png</marquee>
+		<md5>4f35deb9b18bdb6d18acb5fe2f79159d</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T024126" />
+	</game>
+	<game id="214095">
+		<path>./EasyRPG/DragonFantasyRemake.zip</path>
+		<name>Dragon Fantasy REMAKE</name>
+		<image>./images/DragonFantasyRemake-image.png</image>
+		<marquee>./images/DragonFantasyRemake-marquee.png</marquee>
+		<md5>62bd427bcd703d2286eac14e9540160c</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T024132" />
+	</game>
+	<game id="214097">
+		<path>./EasyRPG/DragonFantasyVenaitura.zip</path>
+		<name>Dragon Fantasy Venaitura</name>
+		<desc>The dreaded Dark King has given rise to the feared Island Battleship Venaitura, and seeks to use its almighty power to dominate the world and cleanse it of its inhuman scum. The fate of the Demon race is given to four unlikely individuals whom must brave the mighty fortress and finally face off against the powerful Dark King himself!</desc>
+		<image>./images/DragonFantasyVenaitura-image.png</image>
+		<marquee>./images/DragonFantasyVenaitura-marquee.png</marquee>
+		<thumbnail>./images/DragonFantasyVenaitura-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>20090927T000000</releasedate>
+		<developer>Ephiam</developer>
+		<genre>Role playing games</genre>
+		<md5>87dd41d9b22016e047aaff156d44a298</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T024147" />
+	</game>
+	<game id="214099">
+		<path>./EasyRPG/Dreamaria.zip</path>
+		<name>Dreamaria</name>
+		<image>./images/Dreamaria-image.png</image>
+		<marquee>./images/Dreamaria-marquee.png</marquee>
+		<thumbnail>./images/Dreamaria-thumb.png</thumbnail>
+		<md5>e4aa3f3a62b0c8c475a9807a2225d5b9</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T024155" />
+	</game>
+	<game id="214101">
+		<path>./EasyRPG/Dreamscape.zip</path>
+		<name>Dreamscape</name>
+		<image>./images/Dreamscape-image.png</image>
+		<marquee>./images/Dreamscape-marquee.png</marquee>
+		<thumbnail>./images/Dreamscape-thumb.png</thumbnail>
+		<md5>43bb85be99b91d5e016a3b869759eff9</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T024204" />
+	</game>
+	<game>
+		<path>./EasyRPG/DuplicityDemo.zip</path>
+		<name>DuplicityDemo</name>
+		<md5>123297af0469ba52608dfb378b659d95</md5>
+	</game>
+</gameList>
