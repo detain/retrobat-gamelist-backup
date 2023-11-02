@@ -387,116 +387,6 @@
 		<region>wr</region>
 		<scrap name="ScreenScraper" date="20231102T100505" />
 	</game>
-	<game id="202459">
-		<path>./NAOMI 2/wccf116.zip</path>
-		<name>World Club Champion Football Serie A 2001-2002</name>
-		<desc>World Club Champion Football: Serie A 2001-2002 is the first entry in Sega's World Club Champion Football arcade series, and was released worldwide in 2002. It is based off the Serie A, the top football league in Italy.</desc>
-		<image>./images/wccf116-image.png</image>
-		<thumbnail>./images/wccf116-thumb.png</thumbnail>
-		<releasedate>20020101T000000</releasedate>
-		<developer>AM3</developer>
-		<publisher>SEGA</publisher>
-		<genre>Sports / Soccer</genre>
-		<players>1-8</players>
-		<md5>cb5e60af7be3c8a89144c171409137b8</md5>
-		<lang>jp</lang>
-		<region>jp</region>
-		<scrap name="ScreenScraper" date="20231102T100510" />
-	</game>
-	<game id="202459">
-		<path>./NAOMI 2/wccf1dup.zip</path>
-		<name>World Club Champion Football Serie A 2001-2002</name>
-		<desc>World Club Champion Football: Serie A 2001-2002 is the first entry in Sega's World Club Champion Football arcade series, and was released worldwide in 2002. It is based off the Serie A, the top football league in Italy.</desc>
-		<image>./images/wccf1dup-image.png</image>
-		<thumbnail>./images/wccf1dup-thumb.png</thumbnail>
-		<releasedate>20020101T000000</releasedate>
-		<developer>AM3</developer>
-		<publisher>SEGA</publisher>
-		<genre>Sports / Soccer</genre>
-		<players>1-8</players>
-		<md5>cb5e60af7be3c8a89144c171409137b8</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20231102T100516" />
-	</game>
-	<game id="202447">
-		<path>./NAOMI 2/wccf212e.zip</path>
-		<name>World Club Champion Football Serie A 2002-2003</name>
-		<image>./images/wccf212e-image.png</image>
-		<thumbnail>./images/wccf212e-thumb.png</thumbnail>
-		<releasedate>20020101T000000</releasedate>
-		<developer>AM3</developer>
-		<publisher>SEGA</publisher>
-		<genre>Sports / Soccer</genre>
-		<players>1-8</players>
-		<md5>65bd33081c7417408fc3bec8ff10d1df</md5>
-		<lang>it</lang>
-		<region>eu</region>
-		<scrap name="ScreenScraper" date="20231102T100531" />
-	</game>
-	<game id="202447">
-		<path>./NAOMI 2/wccf234j.zip</path>
-		<name>World Club Champion Football Serie A 2002-2003</name>
-		<image>./images/wccf234j-image.png</image>
-		<thumbnail>./images/wccf234j-thumb.png</thumbnail>
-		<releasedate>20020101T000000</releasedate>
-		<developer>AM3</developer>
-		<publisher>SEGA</publisher>
-		<genre>Sports / Soccer</genre>
-		<players>1-8</players>
-		<md5>27fd6ee7219e461d4fd2d51b7bd9a66e</md5>
-		<lang>jp</lang>
-		<region>jp</region>
-		<scrap name="ScreenScraper" date="20231102T100537" />
-	</game>
-	<game id="202453">
-		<path>./NAOMI 2/wccf310j.zip</path>
-		<name>World Club Champion Football European Clubs 2004-2005</name>
-		<desc>World Club Champion Football: European Clubs 2004-2005 is a sequel to World Club Champion Football: Serie A 2002-2003. The major addition to this game is the inclusion of football clubs from across Europe.</desc>
-		<image>./images/wccf310j-image.png</image>
-		<releasedate>20050101T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Sports / Soccer</genre>
-		<family>World Club Champion Football</family>
-		<players>1-2</players>
-		<md5>681d37c605156361d00f957cdfd91117</md5>
-		<lang>jp</lang>
-		<region>jp</region>
-		<scrap name="ScreenScraper" date="20231102T100542" />
-	</game>
-	<game id="202453">
-		<path>./NAOMI 2/wccf322e.zip</path>
-		<name>World Club Champion Football European Clubs 2004-2005</name>
-		<desc>World Club Champion Football: European Clubs 2004-2005 is a sequel to World Club Champion Football: Serie A 2002-2003. The major addition to this game is the inclusion of football clubs from across Europe.</desc>
-		<image>./images/wccf322e-image.png</image>
-		<releasedate>20050101T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Sports / Soccer</genre>
-		<family>World Club Champion Football</family>
-		<players>1-2</players>
-		<md5>3aacaf9b4afe2aea6456f8e8e4fee61d</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20231102T100546" />
-	</game>
-	<game id="202448">
-		<path>./NAOMI 2/wccf420e.zip</path>
-		<name>World Club Champion Football European Clubs 2005-2006</name>
-		<marquee>./images/wccf420e-marquee.png</marquee>
-		<thumbnail>./images/wccf420e-thumb.png</thumbnail>
-		<releasedate>20060101T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Sports / Soccer</genre>
-		<family>World Club Champion Football</family>
-		<players>1-2</players>
-		<md5>09cc10e9cafd522e94af13eeda62bbe1</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20231102T100553" />
-	</game>
 	<game id="46877">
 		<path>./NAOMI 2/wldrider.zip</path>
 		<name>Wild Riders</name>
@@ -514,5 +404,373 @@
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T100608" />
+	</game>
+	<game>
+		<path>./NAOMI 2/wccf116.zip</path>
+		<name>World Club Champion Football Serie A 2001-2002 Ver.2 (Japan) (CDP-10001C)</name>
+		<desc>Arcade Video game published 21 years ago:
+
+World Club Champion Football Serie A 2001-2002 (c) 2002 Sega Enterprises, Limited.
+
+- TECHNICAL -
+
+Runs on the Sega "Naomi 2 Satellite Terminal" Hardware.
+
+Players: Up to 8
+
+- TRIVIA -
+
+This game was based on the top division of Italian football, the Serie A.
+
+- UPDATES -
+
+Ver.1.20 (2002)
+
+Ver.2.0 (2003)
+
+- SERIES -
+
+1. World Club Champion Football Serie A 2001-2002 (2002)
+2. World Club Champion Football Serie A 2002-2003 (2003)
+3. World Club Champion Football European Clubs 2004-2005 (2005)
+4. World Club Champion Football European Clubs 2005-2006 (2006)
+5. World Club Champion Football Intercontinental Clubs 2006-2007 (2008)
+6. World Club Champion Football Intercontinental Clubs 2007-2008 (2009)
+7. World Club Champion Football Intercontinental Clubs 2008-2009 (2009)
+8. World Club Champion Football Intercontinental Clubs 2009-2010 (2010)
+9. World Club Champion Football Intercontinental Clubs 2010-2011 (2011)
+10. World Club Champion Football Intercontinental Clubs 2011-2012 (2012)
+11. World Club Champion Football Intercontinental Clubs 2012-2013 (2013)
+12. World Club Champion Football Intercontinental Clubs 2013-2014 (2014)
+
+- CONTRIBUTE -
+
+Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=30044&amp;o=2</desc>
+		<image>./images/wccf116-image.png</image>
+		<thumbnail>./images/wccf116-thumb.png</thumbnail>
+		<releasedate>20030101T000000</releasedate>
+		<developer>Hitmaker / Sega</developer>
+		<publisher>Hitmaker / Sega</publisher>
+		<genre>Sports / Soccer</genre>
+		<players>2</players>
+		<md5>cb5e60af7be3c8a89144c171409137b8</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231102T100510" />
+		<scrap name="ArcadeDB" date="20231102T194432" />
+	</game>
+	<game>
+		<path>./NAOMI 2/wccf1dup.zip</path>
+		<name>World Club Champion Football Serie A 2001-2002 DIMM FIRM Ver.3.03 (CDP-10003)</name>
+		<desc>Arcade Video game published 21 years ago:
+
+World Club Champion Football Serie A 2001-2002 (c) 2002 Sega Enterprises, Limited.
+
+- TECHNICAL -
+
+Runs on the Sega "Naomi 2 Satellite Terminal" Hardware.
+
+Players: Up to 8
+
+- TRIVIA -
+
+This game was based on the top division of Italian football, the Serie A.
+
+- UPDATES -
+
+Ver.1.20 (2002)
+
+Ver.2.0 (2003)
+
+- SERIES -
+
+1. World Club Champion Football Serie A 2001-2002 (2002)
+2. World Club Champion Football Serie A 2002-2003 (2003)
+3. World Club Champion Football European Clubs 2004-2005 (2005)
+4. World Club Champion Football European Clubs 2005-2006 (2006)
+5. World Club Champion Football Intercontinental Clubs 2006-2007 (2008)
+6. World Club Champion Football Intercontinental Clubs 2007-2008 (2009)
+7. World Club Champion Football Intercontinental Clubs 2008-2009 (2009)
+8. World Club Champion Football Intercontinental Clubs 2009-2010 (2010)
+9. World Club Champion Football Intercontinental Clubs 2010-2011 (2011)
+10. World Club Champion Football Intercontinental Clubs 2011-2012 (2012)
+11. World Club Champion Football Intercontinental Clubs 2012-2013 (2013)
+12. World Club Champion Football Intercontinental Clubs 2013-2014 (2014)
+
+- CONTRIBUTE -
+
+Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=30044&amp;o=2</desc>
+		<image>./images/wccf1dup-image.png</image>
+		<thumbnail>./images/wccf1dup-thumb.png</thumbnail>
+		<releasedate>20020101T000000</releasedate>
+		<developer>Hitmaker / Sega</developer>
+		<publisher>Hitmaker / Sega</publisher>
+		<genre>Sports / Soccer</genre>
+		<players>2</players>
+		<md5>cb5e60af7be3c8a89144c171409137b8</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T100516" />
+		<scrap name="ArcadeDB" date="20231102T194432" />
+	</game>
+	<game>
+		<path>./NAOMI 2/wccf212e.zip</path>
+		<name>World Club Champion Football Serie A 2002-2003 Ver.2.12 (Italy) (CDV-10002)</name>
+		<desc>Arcade Video game published 20 years ago:
+
+World Club Champion Football Serie A 2002-2003 (c) 2003 Sega Enterprises, Limited.
+
+- TECHNICAL -
+
+Runs on the Sega "Naomi 2 Satellite Terminal" Hardware.
+
+Screen Orientation: Horizontal
+
+Players: Up to 8.
+
+- TRIVIA -
+
+This game was released in Japan on September, 18, 2003. It was based on the top division of Italian football, the Serie A.
+
+- UPDATES -
+
+Ver.2.0
+
+Ver.2.1
+
+- SERIES -
+
+1. World Club Champion Football Serie A 2001-2002 (2002)
+2. World Club Champion Football Serie A 2002-2003 (2003)
+3. World Club Champion Football European Clubs 2004-2005 (2005)
+4. World Club Champion Football European Clubs 2005-2006 (2006)
+5. World Club Champion Football Intercontinental Clubs 2006-2007 (2008)
+6. World Club Champion Football Intercontinental Clubs 2007-2008 (2009)
+7. World Club Champion Football Intercontinental Clubs 2008-2009 (2009)
+8. World Club Champion Football Intercontinental Clubs 2009-2010 (2010)
+9. World Club Champion Football Intercontinental Clubs 2010-2011 (2011)
+10. World Club Champion Football Intercontinental Clubs 2011-2012 (2012)
+11. World Club Champion Football Intercontinental Clubs 2012-2013 (2013)
+12. World Club Champion Football Intercontinental Clubs 2013-2014 (2014)
+
+- CONTRIBUTE -
+
+Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=62072&amp;o=2</desc>
+		<image>./images/wccf212e-image.png</image>
+		<thumbnail>./images/wccf212e-thumb.png</thumbnail>
+		<releasedate>20040101T000000</releasedate>
+		<developer>Hitmaker / Sega</developer>
+		<publisher>Hitmaker / Sega</publisher>
+		<genre>Sports / Soccer</genre>
+		<players>2</players>
+		<md5>65bd33081c7417408fc3bec8ff10d1df</md5>
+		<lang>it</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231102T100531" />
+		<scrap name="ArcadeDB" date="20231102T194432" />
+	</game>
+	<game>
+		<path>./NAOMI 2/wccf234j.zip</path>
+		<name>World Club Champion Football Serie A 2002-2003 Ver.2.34 (Japan) (CDV-10008)</name>
+		<desc>Arcade Video game published 20 years ago:
+
+World Club Champion Football Serie A 2002-2003 (c) 2003 Sega Enterprises, Limited.
+
+- TECHNICAL -
+
+Runs on the Sega "Naomi 2 Satellite Terminal" Hardware.
+
+Screen Orientation: Horizontal
+
+Players: Up to 8.
+
+- TRIVIA -
+
+This game was released in Japan on September, 18, 2003. It was based on the top division of Italian football, the Serie A.
+
+- UPDATES -
+
+Ver.2.0
+
+Ver.2.1
+
+- SERIES -
+
+1. World Club Champion Football Serie A 2001-2002 (2002)
+2. World Club Champion Football Serie A 2002-2003 (2003)
+3. World Club Champion Football European Clubs 2004-2005 (2005)
+4. World Club Champion Football European Clubs 2005-2006 (2006)
+5. World Club Champion Football Intercontinental Clubs 2006-2007 (2008)
+6. World Club Champion Football Intercontinental Clubs 2007-2008 (2009)
+7. World Club Champion Football Intercontinental Clubs 2008-2009 (2009)
+8. World Club Champion Football Intercontinental Clubs 2009-2010 (2010)
+9. World Club Champion Football Intercontinental Clubs 2010-2011 (2011)
+10. World Club Champion Football Intercontinental Clubs 2011-2012 (2012)
+11. World Club Champion Football Intercontinental Clubs 2012-2013 (2013)
+12. World Club Champion Football Intercontinental Clubs 2013-2014 (2014)
+
+- CONTRIBUTE -
+
+Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=62072&amp;o=2</desc>
+		<image>./images/wccf234j-image.png</image>
+		<thumbnail>./images/wccf234j-thumb.png</thumbnail>
+		<releasedate>20040101T000000</releasedate>
+		<developer>Hitmaker / Sega</developer>
+		<publisher>Hitmaker / Sega</publisher>
+		<genre>Sports / Soccer</genre>
+		<players>2</players>
+		<md5>27fd6ee7219e461d4fd2d51b7bd9a66e</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231102T100537" />
+		<scrap name="ArcadeDB" date="20231102T194432" />
+	</game>
+	<game>
+		<path>./NAOMI 2/wccf310j.zip</path>
+		<name>World Club Champion Football European Clubs 2004-2005 (Asia) (CDV-10013)</name>
+		<desc>Arcade Video game published 18 years ago:
+
+World Club Champion Football European Clubs 2004-2005 (c) 2005 Sega Enterprises, Limited.
+
+- TECHNICAL -
+
+Runs on the Sega "Naomi 2 Satellite Terminal" Hardware.
+Players: Up to 8.
+
+- TRIVIA -
+
+This game was released in Japan on June, 29, 2005.
+
+It was based on the top divisions of four countries in Europe: the English Premier League, Dutch Eredivisie, Spanish La Liga, and Italian Serie A.
+
+- SERIES -
+
+1. World Club Champion Football Serie A 2001-2002 (2002)
+2. World Club Champion Football Serie A 2002-2003 (2003)
+3. World Club Champion Football European Clubs 2004-2005 (2005)
+4. World Club Champion Football European Clubs 2005-2006 (2006)
+5. World Club Champion Football Intercontinental Clubs 2006-2007 (2008)
+6. World Club Champion Football Intercontinental Clubs 2007-2008 (2009)
+7. World Club Champion Football Intercontinental Clubs 2008-2009 (2009)
+8. World Club Champion Football Intercontinental Clubs 2009-2010 (2010)
+9. World Club Champion Football Intercontinental Clubs 2010-2011 (2011)
+10. World Club Champion Football Intercontinental Clubs 2011-2012 (2012)
+11. World Club Champion Football Intercontinental Clubs 2012-2013 (2013)
+12. World Club Champion Football Intercontinental Clubs 2013-2014 (2014)
+
+- CONTRIBUTE -
+
+Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=36290&amp;o=2</desc>
+		<image>./images/wccf310j-image.png</image>
+		<releasedate>20050101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Sports / Soccer</genre>
+		<players>2</players>
+		<md5>681d37c605156361d00f957cdfd91117</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231102T100542" />
+		<scrap name="ArcadeDB" date="20231102T194433" />
+	</game>
+	<game>
+		<path>./NAOMI 2/wccf322e.zip</path>
+		<name>World Club Champion Football European Clubs 2004-2005 Ver.3.22 (Export) (CDV-10015P)</name>
+		<desc>Arcade Video game published 18 years ago:
+
+World Club Champion Football European Clubs 2004-2005 (c) 2005 Sega Enterprises, Limited.
+
+- TECHNICAL -
+
+Runs on the Sega "Naomi 2 Satellite Terminal" Hardware.
+Players: Up to 8.
+
+- TRIVIA -
+
+This game was released in Japan on June, 29, 2005.
+
+It was based on the top divisions of four countries in Europe: the English Premier League, Dutch Eredivisie, Spanish La Liga, and Italian Serie A.
+
+- SERIES -
+
+1. World Club Champion Football Serie A 2001-2002 (2002)
+2. World Club Champion Football Serie A 2002-2003 (2003)
+3. World Club Champion Football European Clubs 2004-2005 (2005)
+4. World Club Champion Football European Clubs 2005-2006 (2006)
+5. World Club Champion Football Intercontinental Clubs 2006-2007 (2008)
+6. World Club Champion Football Intercontinental Clubs 2007-2008 (2009)
+7. World Club Champion Football Intercontinental Clubs 2008-2009 (2009)
+8. World Club Champion Football Intercontinental Clubs 2009-2010 (2010)
+9. World Club Champion Football Intercontinental Clubs 2010-2011 (2011)
+10. World Club Champion Football Intercontinental Clubs 2011-2012 (2012)
+11. World Club Champion Football Intercontinental Clubs 2012-2013 (2013)
+12. World Club Champion Football Intercontinental Clubs 2013-2014 (2014)
+
+- CONTRIBUTE -
+
+Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=36290&amp;o=2</desc>
+		<image>./images/wccf322e-image.png</image>
+		<releasedate>20050101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Sports / Soccer</genre>
+		<players>2</players>
+		<md5>3aacaf9b4afe2aea6456f8e8e4fee61d</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T100546" />
+		<scrap name="ArcadeDB" date="20231102T194433" />
+	</game>
+	<game>
+		<path>./NAOMI 2/wccf420e.zip</path>
+		<name>World Club Champion Football European Clubs 2005-2006 (Export) (CDV-10027)</name>
+		<desc>Arcade Video game published 17 years ago:
+
+World Club Champion Football European Clubs 2005-2006 (c) 2006 Sega Enterprises, Limited.
+
+- TECHNICAL -
+
+Runs on the Sega "Naomi 2 Satellite Terminal" Hardware.
+
+Screen Orientation: Horizontal
+
+Players: Up to 8.
+
+- TRIVIA -
+
+This game was released in Japan on August, 17, 2006.
+It was added teams from the French Ligue 1 and German Bundesliga.
+
+- SERIES -
+
+1. World Club Champion Football Serie A 2001-2002 (2002)
+2. World Club Champion Football Serie A 2002-2003 (2003)
+3. World Club Champion Football European Clubs 2004-2005 (2005)
+4. World Club Champion Football European Clubs 2005-2006 (2006)
+5. World Club Champion Football Intercontinental Clubs 2006-2007 (2008)
+6. World Club Champion Football Intercontinental Clubs 2007-2008 (2009)
+7. World Club Champion Football Intercontinental Clubs 2008-2009 (2009)
+8. World Club Champion Football Intercontinental Clubs 2009-2010 (2010)
+9. World Club Champion Football Intercontinental Clubs 2010-2011 (2011)
+10. World Club Champion Football Intercontinental Clubs 2011-2012 (2012)
+11. World Club Champion Football Intercontinental Clubs 2012-2013 (2013)
+12. World Club Champion Football Intercontinental Clubs 2013-2014 (2014)
+
+- CONTRIBUTE -
+
+Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=39189&amp;o=2</desc>
+		<image>./images/wccf420e-image.png</image>
+		<marquee>./images/wccf420e-marquee.png</marquee>
+		<thumbnail>./images/wccf420e-thumb.png</thumbnail>
+		<releasedate>20060101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Sports / Soccer</genre>
+		<players>2</players>
+		<md5>09cc10e9cafd522e94af13eeda62bbe1</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T100553" />
+		<scrap name="ArcadeDB" date="20231102T194433" />
 	</game>
 </gameList>

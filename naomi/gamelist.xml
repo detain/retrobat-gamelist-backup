@@ -775,20 +775,6 @@ It's a horizontal Shoot 'em up developed by G.rev and released after the "death"
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T094321" />
 	</game>
-	<game id="60409">
-		<path>./NAOMI/brickppl.zip</path>
-		<name>Brick People / Block Peepoo</name>
-		<image>./images/brickppl-image.png</image>
-		<thumbnail>./images/brickppl-thumb.png</thumbnail>
-		<releasedate>20090101T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<arcadesystemname>sega</arcadesystemname>
-		<md5>b1d50639d1db86f61fc1c5e1c18896e4</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20231102T094332" />
-	</game>
 	<game id="46725">
 		<path>./NAOMI/capsnk.zip</path>
 		<name>Capcom vs. SNK: Millennium Fight 2000</name>
@@ -984,12 +970,6 @@ After being defeated, the leader uses a self-destruct sequence to defeat the two
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231102T094600" />
-	</game>
-	<game>
-		<path>./NAOMI/crp.zip</path>
-		<name>crp</name>
-		<md5>bef07d8d8cc64346b304e323cce1ab96</md5>
-		<scrap name="ScreenScraper" date="20231102T094603" />
 	</game>
 	<game id="46735">
 		<path>./NAOMI/crzytaxi.zip</path>
@@ -1246,26 +1226,6 @@ Awakening in the Otherworld, Windia arrives in a Western city reminiscent of the
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231102T094904" />
 	</game>
-	<game id="46742">
-		<path>./NAOMI/derbyoc2.zip</path>
-		<name>Derby Owners Club II</name>
-		<desc>New release of Derby Owners Club with a new feature : you can wash your horses.</desc>
-		<image>./images/derbyoc2-image.png</image>
-		<marquee>./images/derbyoc2-marquee.png</marquee>
-		<thumbnail>./images/derbyoc2-thumb.png</thumbnail>
-		<fanart>./images/derbyoc2-fanart.jpg</fanart>
-		<releasedate>20010101T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Sports with Animals / Horses race</genre>
-		<family>Derby Owners Club</family>
-		<arcadesystemname>naomi</arcadesystemname>
-		<players>1-8</players>
-		<md5>8a707f4c3e03942285c2c4ce24a3dee6</md5>
-		<lang>jp</lang>
-		<region>jp</region>
-		<scrap name="ScreenScraper" date="20231102T094925" />
-	</game>
 	<game id="46744">
 		<path>./NAOMI/derbyocw.zip</path>
 		<name>Derby Owners Club World Edition</name>
@@ -1320,37 +1280,6 @@ All the music has been replaced.</desc>
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T095003" />
-	</game>
-	<game id="61025">
-		<path>./NAOMI/dinoking.zip</path>
-		<name>ZZZ(notgame):Dinosaur King</name>
-		<desc>In Kodai Oja Kyoryu King, you use trading cards of dinosaurs to engage in a 'rock paper scissors' type of battle the nefarious Alpha Gang whose mission is to take over the world with their dinosaurs. players can also compete against one another.</desc>
-		<image>./images/dinoking-image.png</image>
-		<thumbnail>./images/dinoking-thumb.png</thumbnail>
-		<manual>./manuals/dinoking-manual.pdf</manual>
-		<releasedate>20050101T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<family>Dinosaur King</family>
-		<hidden>true</hidden>
-		<md5>92bd8122571d158936c18e71f45446bb</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20231102T095022" />
-	</game>
-	<game id="61026">
-		<path>./NAOMI/dinokior.zip</path>
-		<name>ZZZ(notgame):Dinosaur King - Operation: Dinosaur Rescue</name>
-		<image>./images/dinokior-image.png</image>
-		<releasedate>20060101T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<family>Dinosaur King</family>
-		<hidden>true</hidden>
-		<md5>62b4b494278291b2d0cf688724a56177</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20231102T095033" />
 	</game>
 	<game id="46736">
 		<path>./NAOMI/doa2.zip</path>
@@ -2069,19 +1998,184 @@ The rebellion's savage forces have returned in an all-out campaign for universal
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T095936" />
 	</game>
-	<game id="61585">
+	<game>
+		<path>./NAOMI/brickppl.zip</path>
+		<name>Brick People / Block PeePoo (Ver 1.002)</name>
+		<desc>Arcade Video game published 14 years ago:
+
+Block People (c) 2009 Sega Enterprises, Limited.
+
+The players have to stack up physical blocks against a screen in order to guide little orange 'Block People' characters around a stage. The main part of the game is set up as a series of small challenges, requiring that you make the Block People gather fruit or touch numbered icons in a certain order, all under constraint of time.
+
+- TRIVIA -
+
+Block People was released on July 15, 2009.
+
+Known as "Brick People" outside Japan.
+
+- CONTRIBUTE -
+
+Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=31204&amp;o=2</desc>
+		<image>./images/brickppl-image.png</image>
+		<thumbnail>./images/brickppl-thumb.png</thumbnail>
+		<releasedate>20090101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Puzzle / Misc.</genre>
+		<players>2</players>
+		<md5>b1d50639d1db86f61fc1c5e1c18896e4</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T094332" />
+		<scrap name="ArcadeDB" date="20231102T194430" />
+	</game>
+	<game>
+		<path>./NAOMI/crp.zip</path>
+		<name>crp</name>
+		<md5>bef07d8d8cc64346b304e323cce1ab96</md5>
+		<scrap name="ScreenScraper" date="20231102T094603" />
+		<scrap name="ArcadeDB" date="20231102T194430" />
+	</game>
+	<game>
+		<path>./NAOMI/derbyoc2.zip</path>
+		<name>Derby Owners Club II Ver.2.1 (Japan, Rev B)</name>
+		<desc>Arcade Video game published 22 years ago:
+
+Derby Owners Club II (c) 2001 Sega Enterprises, Limited.
+
+- TECHNICAL -
+
+Sega Naomi Satellite Terminal
+
+CPU: SH-4 64-bit RISC CPU (200 MHz 360 MIPS / 1.4 GFLOPS)
+Graphic Engine: PowerVR (PVR2DC)
+Sound Engine: ARM7 Yamaha AICA 45 MHz (with internal 32-bit RISC CPU, 64 channel ADPCM)
+Main Memory: 32 MByte
+Graphic Memory: 16 MByte
+Sound Memory: 8 MByte
+Media: ROM Board (maximum size of 168 MBytes) / GD-Rom
+Simultaneous Number of Colors: Approx. 16,770,000 (24bits)
+Polygons: 2.5 Million polys/sec
+Rendering Speed: 500 M pixel/sec
+Additional Features: Bump Mapping, Fog, Alpha-Bending (transparency), Mip Mapping (polygon-texture auto switch), Tri-Linear Filtering, Anti-Aliasing, Environment Mapping, and Specular Effect.
+
+Notes: Each 'Game' uses 9 Naomi units, 1 for each of the 8 'Satellite's' and 1 for the main screen. These are all linked together in a network. Player's data saved on HitMaker removable card system. Cards are playable on any other HitMaker system in the same or other locations.
+
+- TRIVIA -
+
+Released in October 2001 in Japan.
+
+- SERIES -
+
+1. Derby Owners Club (1999)
+2. Derby Owners Club 2000 (2000)
+3. Derby Owners Club II (2001)
+4. Derby Owners Club World Edition (2001)
+5. Derby Owners Club 2008: Feel the Rush (2008)
+6. Derby Owners Club 2009: Ride for the Live (2009)
+
+- CONTRIBUTE -
+
+Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=31764&amp;o=2</desc>
+		<image>./images/derbyoc2-image.png</image>
+		<marquee>./images/derbyoc2-marquee.png</marquee>
+		<thumbnail>./images/derbyoc2-thumb.png</thumbnail>
+		<fanart>./images/derbyoc2-fanart.jpg</fanart>
+		<releasedate>20010101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Sports / Horse Racing</genre>
+		<players>2</players>
+		<md5>8a707f4c3e03942285c2c4ce24a3dee6</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231102T094925" />
+		<scrap name="ArcadeDB" date="20231102T194430" />
+	</game>
+	<game>
+		<path>./NAOMI/dinoking.zip</path>
+		<name>Dinosaur King (USA)</name>
+		<desc>Arcade Video game published 18 years ago:
+
+Kodai Oja Kyoryu King (c) 2005 Sega Amusements, Incorporated.
+
+In this interesting game, you use trading cards of dinosaurs to engage in a 'rock paper scissors' type of battle the nefarious Alpha Gang whose mission is to take over the world with their dinosaurs. players can also compete against one another.
+
+- TECHNICAL -
+
+Sega Aurora Hardware
+
+Main CPU: Hitachi SH-4 32-bit RISC CPU @ 300MHz
+Graphic Engine: Imagination Technologies Power VR MBX+VGP @ 150MHz
+Sound Engine: ADPCM Sound
+Triangle Rendering: 10M Polygons/sec
+Fill Rate: 150M Pixel/sec
+Max Resolution: 1280x1024
+Other Features: Ethernet and USB
+
+- TRIVIA -
+
+This game is known outside Japan "Dinosaur King".
+
+The name of this game can be translated as 'Ancient Ruler Dinosaur King'.
+
+- CONTRIBUTE -
+
+Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=14072&amp;o=2</desc>
+		<image>./images/dinoking-image.png</image>
+		<thumbnail>./images/dinoking-thumb.png</thumbnail>
+		<manual>./manuals/dinoking-manual.pdf</manual>
+		<releasedate>20050101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Fighter / Misc.</genre>
+		<players>2</players>
+		<hidden>true</hidden>
+		<md5>92bd8122571d158936c18e71f45446bb</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T095022" />
+		<scrap name="ArcadeDB" date="20231102T194430" />
+	</game>
+	<game>
+		<path>./NAOMI/dinokior.zip</path>
+		<name>Dinosaur King - Operation: Dinosaur Rescue (USA, Export) (MDA-C0021)</name>
+		<desc>Arcade Video game published 17 years ago:
+
+Kodai Oja Kyoryu King - Operation: Dinosaur Rescue (c) 2006 Sega Enterprises, Ltd.
+
+- CONTRIBUTE -
+
+Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=86582&amp;o=2</desc>
+		<image>./images/dinokior-image.png</image>
+		<marquee>./images/dinokior-marquee.png</marquee>
+		<releasedate>20060101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Fighter / Misc.</genre>
+		<players>2</players>
+		<hidden>true</hidden>
+		<md5>62b4b494278291b2d0cf688724a56177</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T095033" />
+		<scrap name="ArcadeDB" date="20231102T194432" />
+	</game>
+	<game>
 		<path>./NAOMI/hopper.zip</path>
-		<name>ZZZ(notgame):Swp Hopper Board</name>
+		<name>SWP Hopper Board</name>
 		<image>./images/hopper-image.png</image>
 		<thumbnail>./images/hopper-thumb.png</thumbnail>
 		<releasedate>20020101T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Various</genre>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Utilities / Redemption Board</genre>
+		<players>2</players>
 		<hidden>true</hidden>
 		<md5>f466fc4d08fa1854a9fe906f000f5b35</md5>
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T095941" />
+		<scrap name="ArcadeDB" date="20231102T194432" />
 	</game>
 </gameList>

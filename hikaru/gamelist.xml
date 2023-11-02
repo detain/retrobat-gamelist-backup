@@ -22,12 +22,6 @@
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T093726" />
 	</game>
-	<game>
-		<path>./Hikaru/airtrixo.zip</path>
-		<name>Air Trix (original)</name>
-		<md5>59d5c21f926dc2496d1659165c1b6ab5</md5>
-		<scrap name="ScreenScraper" date="20231102T093729" />
-	</game>
 	<game id="150286">
 		<path>./Hikaru/braveff.zip</path>
 		<name>Brave Firefighters : Real Life Heroes</name>
@@ -183,12 +177,6 @@ Failure cannot be an option!!</desc>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T093928" />
 	</game>
-	<game>
-		<path>./Hikaru/sgnascaro.zip</path>
-		<name>NASCAR Racing (original)</name>
-		<md5>2bb8c7e7878bf8ff4ceced109f82cccb</md5>
-		<scrap name="ScreenScraper" date="20231102T093930" />
-	</game>
 	<game id="213656">
 		<path>./Hikaru/shaktamb.zip</path>
 		<name>Shakatto Tambourine - Cho Powerup Chu</name>
@@ -245,5 +233,100 @@ Failure cannot be an option!!</desc>
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T094006" />
+	</game>
+	<game>
+		<path>./Hikaru/airtrixo.zip</path>
+		<name>Air Trix (original)</name>
+		<desc>Arcade Video game published 22 years ago:
+
+Air Trix (c) 2001 Sega Enterprises, Limited.
+
+An excellent trick-style skateboarding game. The player stands on and maneuvers a skateboard-style controller that allows the player character to perform tail grabs, spins and other moves.
+
+- TECHNICAL -
+
+Cabinet dimensions: 107'' Deep x 47'' Wide x 89'' High.
+Cabinet weight: 1200 lbs.
+
+Runs on the Sega "Hikaru" hardware.
+
+- TRIVIA -
+
+Air Trix was released in January 2001.
+
+- TIPS AND TRICKS -
+
+* 2 New Characters: On the character selection screen hold the left buttons and then press Start. You should now have 2 new skaters.
+
+- SERIES -
+
+1. Top Skater - Sega Skateboarding (1997)
+2. Air Trix (2001)
+
+- CONTRIBUTE -
+
+Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=4095&amp;o=2</desc>
+		<image>./images/airtrixo-image.png</image>
+		<marquee>./images/airtrixo-marquee.png</marquee>
+		<thumbnail>./images/airtrixo-thumb.png</thumbnail>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Sports / Skateboarding</genre>
+		<players>0</players>
+		<md5>59d5c21f926dc2496d1659165c1b6ab5</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T093729" />
+		<scrap name="ArcadeDB" date="20231102T194429" />
+	</game>
+	<game>
+		<path>./Hikaru/sgnascaro.zip</path>
+		<name>NASCAR Arcade (original)</name>
+		<desc>Arcade Video game published 23 years ago:
+
+NASCAR Arcade (c) 2000 Sega.
+
+- TECHNICAL -
+
+Runs on the Sega "Hikaru" hardware.
+
+- TRIVIA -
+
+NASCAR Arcad was released in September 2000.
+
+Advertised as the first officially licensed NASCAR coin-op racing game.
+
+The music for this game was done by a Japanese band named "Sons of Angels", which was later named "Crush 40".
+
+This game was also developed by Electronic Arts, but presented by Sega.
+
+- TIPS AND TRICKS -
+
+Secret Course: There is a Secret TEAM SEGA racecourse hidden in the game that unlocks after 700 plays. To access this course the players must do the following: Before inserting coins, put gearshift in Neutral! When selecting racecourse, shift gearshift 4th to 2nd to 1st to 3rd, and step on the brake. The TEAM SEGA Course should appear.
+
+Drivers: There are three secret drivers in this game. To access these drivers players must do the following:
+
+DALE EARNHARDT, Jr. - Select Dale Earnhardt, Sr (1951-2001), Car #3, put the shifter into 3rd gear and press on the brake pedal. Dale Jr.'s car will appear.
+
+ADAM PETTY (1980-2000) - Select Kyle Petty. Car #44, step on brake pedal and shift 4th to neutral to 4th, Adam's Car will appear.
+
+RICHARD PETTY - Select Kyle Petty, Car #44 and shift up to 1st gear. Richard Petty's #43 STP Special Retro Car will appear.
+
+- CONTRIBUTE -
+
+Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=4096&amp;o=2</desc>
+		<image>./images/sgnascaro-image.png</image>
+		<marquee>./images/sgnascaro-marquee.png</marquee>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Sega / Electronic Arts</developer>
+		<publisher>Sega / Electronic Arts</publisher>
+		<genre>Driving / Race</genre>
+		<players>0</players>
+		<md5>2bb8c7e7878bf8ff4ceced109f82cccb</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T093930" />
+		<scrap name="ArcadeDB" date="20231102T194430" />
 	</game>
 </gameList>

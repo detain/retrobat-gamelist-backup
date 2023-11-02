@@ -39,13 +39,85 @@
 	<game>
 		<path>./gaelco/gfootbal.zip</path>
 		<name>Gaelco Football</name>
+		<desc>Arcade Video game published 21 years ago:
+
+gaelco FOOTBALL (c) 2002 Gaelco.
+
+Fully redesigned software and advanced technology hardware for the most realistic action seen in a football game to date!
+
+4 different competition modes! Easy, medium, expert &amp; 2-player, plus enhanced game play features, make it enjoyable for everybody for, from occasional player to the heavy user.
+
+New compact cabinet design! Colorful and attractive with reduced dimensions  that fit any location.
+
+- STAFF -
+
+Game designers: Zigurat Software
+Program: Carlos Granados, Fernando Rada, Angel Alda, Santiago Orgaz, Armando V?lez, Alejandro L?pez, Manuel Montoto
+Modeling &amp; Grafics: Jorge Granados, Pablo a. S?nchez, Daniel Ribes
+Animation Analysis: Jorge Granados, Hern?n Sanahuja
+Sound: Fernando Rada
+Motion Capture: CAR (centre d'alt rendiment esportiu), STT (sports training technologies)
+Hardware Design &amp; Production: gaelco s.a.
+Industrial design: Invenio
+Graphic design: David Sueiro
+Football players: Isaac Colominas, Jordi Nobau, Josep Dur?n, Urko Merino
+Music: Jorgemagaz
+
+- CONTRIBUTE -
+
+Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=4244&amp;o=2</desc>
+		<image>./images/gfootbal-image.png</image>
+		<thumbnail>./images/gfootbal-thumb.png</thumbnail>
+		<releasedate>20020101T000000</releasedate>
+		<developer>Gaelco / Zigurat</developer>
+		<publisher>Gaelco / Zigurat</publisher>
+		<genre>Sports / Soccer</genre>
+		<players>0</players>
 		<md5>503cae0d799f254c47bb72d68fa27fac</md5>
+		<lang>en</lang>
+		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T023303" />
+		<scrap name="ArcadeDB" date="20231102T194426" />
 	</game>
 	<game>
 		<path>./gaelco/smashdrvb.zip</path>
 		<name>Smashing Drive (UK)</name>
+		<desc>Arcade Video game published 23 years ago:
+
+Smashing Drive (c) 2000 Gaelco.
+
+An arcade game based on the frantic driving of a 'super-cab' in New York. You are an experienced taxi driver, racing through the city with a "super-cab" and dealing with the infernal traffic on a race to race basis. In your route, you will pick up some picturesque passengers, from the absent-minded tourist with his camera, to a dangerous Mafia's boss with his bodyguard. You have to take them to destination in the least possible time.
+
+During your journey across this chaotic city, you will come across different icons, if you pass them through, they will transform your taxi into a fantastic car during a short period of time, these icons will offer you advantages over the rest of vehicles and obstacles that you will find along your path.
+
+'Smashing Drive' offers you the possibility of choosing between three different circuits, with progressive difficulty, where you will be able to compete against another player, if the machine is linked, or against the CPU.
+
+- TRIVIA -
+
+Smashing Drive was released on December 10, 2000.
+
+Michael Jackson used to own this game (Serial number: SMC0666). It was sold at the official Michael Jackson Auction on Apr. 24th, 2009.
+
+- PORTS -
+
+* CONSOLES:
+Microsoft XBOX (2002)
+Nintendo GameCube (2002)
+Nintendo Game Boy Advance (2004)
+
+- CONTRIBUTE -
+
+Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=4858&amp;o=2</desc>
+		<image>./images/smashdrvb-image.png</image>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Gaelco (Brent Sales license)</developer>
+		<publisher>Gaelco (Brent Sales license)</publisher>
+		<genre>Driving / Race (chase view)</genre>
+		<players>0</players>
 		<md5>0150d5da73ff7d308c35cced55e9a90f</md5>
+		<lang>en</lang>
+		<region>eu</region>
 		<scrap name="ScreenScraper" date="20231102T023304" />
+		<scrap name="ArcadeDB" date="20231102T194427" />
 	</game>
 </gameList>

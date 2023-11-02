@@ -63,11 +63,6 @@
 		<name>Mario Kart DX</name>
 		<scrap name="ScreenScraper" date="20231102T021916" />
 	</game>
-	<game>
-		<path>./TeknoParrot/PokkenTournament.7z</path>
-		<name>PokkenTournament</name>
-		<scrap name="ScreenScraper" date="20231102T021917" />
-	</game>
 	<game id="42675">
 		<path>./TeknoParrot/Radikal Bikers.7z</path>
 		<name>Radikal Bikers</name>
@@ -131,5 +126,11 @@ You must choose from four pizza couriers each with his or her own particular abi
 		<path>./TeknoParrot/Yu-Gi-Oh! 5D's Duel Terminal (USA).7z</path>
 		<name>Yu-Gi-Oh! 5D's Duel Terminal (USA)</name>
 		<scrap name="ScreenScraper" date="20231102T021938" />
+	</game>
+	<game>
+		<path>./TeknoParrot/PokkenTournament.7z</path>
+		<name>PokkenTournament</name>
+		<scrap name="ScreenScraper" date="20231102T021917" />
+		<scrap name="ArcadeDB" date="20231102T194420" />
 	</game>
 </gameList>
