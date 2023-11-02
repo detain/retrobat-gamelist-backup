@@ -375,9 +375,28 @@ The game boasted "incredibly realistic virtual 3D" which meant having to don the
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T001407" />
 	</game>
-	<game>
+	<game id="78451">
 		<path>./No-Intro/20211028-052318 MIA 10/Alien Fires 2199 AD (USA) (Disk 1).ipf</path>
-		<name>Alien Fires 2199 AD (USA) (Disk 1)</name>
+		<name>Alien Fires 2199 AD</name>
+		<desc>Assume the role of a Time Lord, an immortal race of beings responsible for protecting the temporal balance of the universe from chaos and destruction, and travel to the Galaxy's End, to prevent Dr. Samuel Kurtz from travelling to the dawn of time and witnessing the Creation of all that is.
+
+Create your Time Lord choosing from a variety of skills, including Fighting, Marksmanship, Diplomacy, Dexterity, Understanding, Tracking and Quickness.
+
+Features colorful, three dimensional graphics and digitized rock music and sound effects.</desc>
+		<image>./images/Alien Fires 2199 AD (USA) (Disk 1)-image.png</image>
+		<marquee>./images/Alien Fires 2199 AD (USA) (Disk 1)-marquee.png</marquee>
+		<thumbnail>./images/Alien Fires 2199 AD (USA) (Disk 1)-thumb.png</thumbnail>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Jagware</developer>
+		<publisher>Paragon Software</publisher>
 		<md5>036c2c530e99c340b2dda4dc18b67aff</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T103924" />
+	</game>
+	<game>
+		<path>./No-Intro/20211028-052318 MIA 10/Alien Fires 2199 AD (USA) (Disk 2).ipf</path>
+		<name>Alien Fires 2199 AD (USA) (Disk 2)</name>
+		<md5>7071d02da13b96964f0193e0b7dab003</md5>
 	</game>
 </gameList>

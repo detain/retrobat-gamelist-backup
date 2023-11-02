@@ -11406,5 +11406,41 @@ Zork Zero: The Revenge of Megaboz is chronologically a prequel to the first thre
 		<path>./TOSEC/Applications/Public Domain/[ADF]/QDOS v3.10 (1990-05-20)(Kowallik, Rainer)[h QUBBESoft PD][emulator]/QDOS v3.10 (1990-05-20)(Kowallik, Rainer)[h QUBBESoft PD][emulator].adf</path>
 		<name>QDOS v3.10 (1990-05-20)(Kowallik, Rainer)[h QUBBESoft PD][emulator]</name>
 		<md5>c02c9bf25c16424915d7d20436d173f3</md5>
+		<scrap name="ScreenScraper" date="20231102T103814" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/Public Domain/[ADF]/QDOS v3.10 - Friends Edition (1990-05-20)(Kowallik, Rainer)[emulator]/QDOS v3.10 - Friends Edition (1990-05-20)(Kowallik, Rainer)[emulator].adf</path>
+		<name>QDOS v3.10 - Friends Edition (1990-05-20)(Kowallik, Rainer)[emulator]</name>
+		<md5>9fd85302dcfe2b3ea78499298327904e</md5>
+		<scrap name="ScreenScraper" date="20231102T103816" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/Public Domain/[ADF]/QPP v1.0 (1994-06-04)(Resolution)(FW)/QPP v1.0 (1994-06-04)(Resolution)(FW).adf</path>
+		<name>QPP v1.0 (1994-06-04)(Resolution)(FW)</name>
+		<md5>b508b99e0e3d77868433373c57f7824b</md5>
+		<scrap name="ScreenScraper" date="20231102T103818" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/Public Domain/[ADF]/QSL Manager v1.0 (1995-09)(Smyll)/QSL Manager v1.0 (1995-09)(Smyll).adf</path>
+		<name>QSL Manager v1.0 (1995-09)(Smyll)</name>
+		<md5>804b3e9306c5db039b7ac6d8b28e1d9c</md5>
+		<scrap name="ScreenScraper" date="20231102T103821" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/Public Domain/[ADF]/Quaternion Mandelbrot Julia v5.31a (1990)(Baxter, Chris)(SW)/Quaternion Mandelbrot Julia v5.31a (1990)(Baxter, Chris)(SW).adf</path>
+		<name>Quaternion Mandelbrot Julia v5.31a (1990)(Baxter, Chris)(SW)</name>
+		<md5>0ce61f604c28ee6276c0caf4fef105f9</md5>
+		<scrap name="ScreenScraper" date="20231102T103823" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/Public Domain/[ADF]/RadBench v1.4 (1992)(Partridge, Carl - 17-Bit Software)(SW)/RadBench v1.4 (1992)(Partridge, Carl - 17-Bit Software)(SW).adf</path>
+		<name>RadBench v1.4 (1992)(Partridge, Carl - 17-Bit Software)(SW)</name>
+		<md5>9ac0417742a5fb2ff3a8589266dc30ab</md5>
+		<scrap name="ScreenScraper" date="20231102T103825" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/Public Domain/[ADF]/RadBench v1.500 (1992)(Partridge, Carl - 17-Bit Software)(SW)/RadBench v1.500 (1992)(Partridge, Carl - 17-Bit Software)(SW).adf</path>
+		<name>RadBench v1.500 (1992)(Partridge, Carl - 17-Bit Software)(SW)</name>
+		<md5>b64a2f7f69a01d1aa9a6ef66963ff241</md5>
 	</game>
 </gameList>

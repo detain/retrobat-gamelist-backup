@@ -392,9 +392,16 @@ Will you, the descendant of Vang Tu, manage to find the stone before the terribl
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231102T032745" />
 	</game>
-	<game>
+	<game id="268484">
 		<path>./TOSEC/Games/[PRG]/ASCII Chase (2017-06-09)(Caruso, Fabrizio)[a2]/ASCII Chase (2017-06-09)(Caruso, Fabrizio)[a2].prg</path>
-		<name>ASCII Chase (2017-06-09)(Caruso, Fabrizio)[a2]</name>
+		<name>ASCII Chase</name>
 		<md5>7e7265569c68642c1a6424720af9c0cd</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T103746" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[PRG]/ASCII Chase (2017-06-09)(Caruso, Fabrizio)[a]/ASCII Chase (2017-06-09)(Caruso, Fabrizio)[a].prg</path>
+		<name>ASCII Chase (2017-06-09)(Caruso, Fabrizio)[a]</name>
+		<md5>4f10343226e15122ea13f1ebd564bc68</md5>
 	</game>
 </gameList>

@@ -26392,9 +26392,49 @@ You are the Commander of the only SDS (Space Defence Squad) cruise force capable
 		<md5>6d3dfe1dd96fddd09f10721f6b66f643</md5>
 		<scrap name="ScreenScraper" date="20231102T011903" />
 	</game>
-	<game>
+	<game id="253883">
 		<path>./TOSEC/Applications/[TAP]/Password (1984)(Sinclair User)[m tzxtools]/Password (1984)(Sinclair User)[m tzxtools].tap</path>
-		<name>Password (1984)(Sinclair User)[m tzxtools]</name>
+		<name>Password</name>
 		<md5>d340870950e09daced5f515a4b59f3a9</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T103950" />
+	</game>
+	<game id="253883">
+		<path>./TOSEC/Applications/[TAP]/Password (1985)(Your Computer)[m tzxtools]/Password (1985)(Your Computer)[m tzxtools].tap</path>
+		<name>Password</name>
+		<md5>bdc7d85243e0aa64e4daed6f68360add</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T103952" />
+	</game>
+	<game id="253883">
+		<path>./TOSEC/Applications/[TAP]/Password (1988)(Your Sinclair)/Password (1988)(Your Sinclair).tap</path>
+		<name>Password</name>
+		<md5>d71de8e072e925f545306e84bb5e9790</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T103954" />
+	</game>
+	<game id="253883">
+		<path>./TOSEC/Applications/[TAP]/Password (1989)(Your Sinclair)/Password (1989)(Your Sinclair).tap</path>
+		<name>Password</name>
+		<md5>d8325efa05b2e36e3edd9733076d2072</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T103956" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/[TAP]/Patch, The (1985)(Gilsoft International)[m tzxtools]/Patch, The (1985)(Gilsoft International)[m tzxtools].tap</path>
+		<name>Patch, The (1985)(Gilsoft International)[m tzxtools]</name>
+		<md5>66841b2e84336dd7ecc06c5c380fa5fc</md5>
+		<scrap name="ScreenScraper" date="20231102T103958" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/[TAP]/Pattern (19xx)(-)(16K)/Pattern (19xx)(-)(16K).tap</path>
+		<name>Pattern (19xx)(-)(16K)</name>
+		<md5>428b5111bbf5e98e51258fd258d06c63</md5>
+		<scrap name="ScreenScraper" date="20231102T104000" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/[TAP]/Pattern Designer (1986)(Sinclair User)(16K)/Pattern Designer (1986)(Sinclair User)(16K).tap</path>
+		<name>Pattern Designer (1986)(Sinclair User)(16K)</name>
+		<md5>e304b481a948e5d4e740af266b590171</md5>
 	</game>
 </gameList>

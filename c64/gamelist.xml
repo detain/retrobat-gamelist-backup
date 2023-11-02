@@ -3321,9 +3321,1023 @@ The player is presented with multiple views of the play field. Survival depends 
 		<region>eu</region>
 		<scrap name="ScreenScraper" date="20231102T000810" />
 	</game>
-	<game>
+	<game id="115551">
 		<path>./No-Intro/Games/Super Expander 64 (USA, Europe) (Program).crt</path>
-		<name>Super Expander 64 (USA, Europe) (Program)</name>
+		<name>Super Expander 64</name>
 		<md5>a796212bd5b2462ffe17fa056af49352</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T103716" />
+	</game>
+	<game id="115580">
+		<path>./No-Intro/Games/Super Sketch (USA, Europe).crt</path>
+		<name>Super Sketch</name>
+		<image>./images/Super Sketch (USA, Europe)-image.png</image>
+		<md5>12791a7ccff012e65dd00a877965a9dc</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T103721" />
+	</game>
+	<game id="115582">
+		<path>./No-Intro/Games/Super Smash (USA, Europe).crt</path>
+		<name>Super Smash</name>
+		<image>./images/Super Smash (USA, Europe)-image.png</image>
+		<marquee>./images/Super Smash (USA, Europe)-marquee.png</marquee>
+		<releasedate>19830101T000000</releasedate>
+		<publisher>Commodore Electronics Ltd.</publisher>
+		<md5>4f1ebb0f31597fada0c27caaf7d29475</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T103726" />
+	</game>
+	<game id="116628">
+		<path>./No-Intro/Games/Super Snapshot 5 (USA) (Program).crt</path>
+		<name>Super Snapshot 5</name>
+		<image>./images/Super Snapshot 5 (USA) (Program)-image.png</image>
+		<md5>05c8a05452bb722d6a4fa25cbda51d11</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T103729" />
+	</game>
+	<game id="115598">
+		<path>./No-Intro/Games/Super Zaxxon (USA, Europe).crt</path>
+		<name>Super Zaxxon</name>
+		<desc>Super Zaxxon is a three-quarter perspective, space shooter style game. You must first go over a base on an asteroid. Things located on this base include gun implacements, fuel tanks, radar stations, missiles, and fighters. After you successfully navigate this base, you will go through a tunnel to tangle with enemy fighters, mine layers, and mines. You then will have to navigate through a series of barriers on another asteroid in order to take on the Super Zaxxon's, the enemy robot dragons. The game is very similar in appearance to Zaxxon. The differences are: Your fighter moves much faster. This makes going after ground targets a big challenge. The graphics are different. Although this is more of a viewing difference, it can still change ones perspective after they have gotten used to the Zaxxon graphics. There is no more outer space battle. Instead, you must go through a narrow tunnel to get to area 3. Instead of 20 fighters, you now have to tangle with 25 fighters in area 2. A new enemy, the Mine Layer, is introduced. As the name implies, this ship lays mines in your path. You can destroy the mines but it takes a few hits. Instead of encountering one Zaxxon robot, you now have to deal with three Super Zaxxon, dragon looking robots. The placement of things (fuel tanks, gun implacements, etc.) in areas 1 and 3 is different then in Zaxxon. There are now indestructible, elevated guns in area 1. These guns sit on the right side and they are 2.5 units in altitude.</desc>
+		<image>./images/Super Zaxxon (USA, Europe)-image.png</image>
+		<video>./videos/Super Zaxxon (USA, Europe)-video.mp4</video>
+		<marquee>./images/Super Zaxxon (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Super Zaxxon (USA, Europe)-thumb.png</thumbnail>
+		<manual>./manuals/Super Zaxxon (USA, Europe)-manual.pdf</manual>
+		<releasedate>19840101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shoot'em up / Horizontal</genre>
+		<family>Zaxxon</family>
+		<players>1</players>
+		<md5>b0e05cfbf8e35c630a47a0035b4c67ff</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T104043" />
+	</game>
+	<game id="110196">
+		<path>./No-Intro/Games/Tank Wars (USA, Europe).crt</path>
+		<name>Tank Wars</name>
+		<desc>Tank Wars is a simple single screen action game for two players that is similar to the Atari 2600 game Combat. Each player controls a tank and has to shoot down the opponent. Each kill gives the player one point and the one that first reaches ten points will win the game. The game can be played with or without barriers that offer some protection. When used the game starts with each player placing nine rectangular barriers on the battlefield.</desc>
+		<image>./images/Tank Wars (USA, Europe)-image.png</image>
+		<thumbnail>./images/Tank Wars (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Machine Language Games, Inc.</developer>
+		<publisher>OEM</publisher>
+		<genre>Shoot'em up / Horizontal</genre>
+		<players>1-2</players>
+		<md5>677520afe9752b577a84aa431f43d41e</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T104049" />
+	</game>
+	<game id="36755">
+		<path>./No-Intro/Games/Tapper (USA, Europe).crt</path>
+		<name>Tapper</name>
+		<desc>Tapper is an action game where you're a beer tapper (barman) and have to serve beer to demanding customers. There are four customers, each has its own lane lengthier than the previous one, whom you have to keep at bay. If they reach the end of the lane without receiving their beer, you're a goner; if you miss one and accidentally spill beer needlessly you lose a life and should one of them throw you back the mug and you fail to catch it, you lose a life as well.
+
+Occasionally a bizarre icon will appear on one of the lines and, should you grab it, will invoke a "cabarette"-style show which will keep some of the customers occupied.
+
+The Xbox 360 version includes bonus rounds, as well as co-op and versus multiplayer modes, also online, along with achievements.</desc>
+		<image>./images/Tapper (USA, Europe)-image.png</image>
+		<video>./videos/Tapper (USA, Europe)-video.mp4</video>
+		<marquee>./images/Tapper (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Tapper (USA, Europe)-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Bally Midway</developer>
+		<publisher>SEGA</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<md5>d73b21b018e640f361cb5e97dba39f57</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T104059" />
+	</game>
+	<game id="112280">
+		<path>./No-Intro/Games/Tennis (USA) (CCS).crt</path>
+		<name>Tennis</name>
+		<desc>Anyone for a game of tennis? The game Match Point is a tennis simulation and can be played either against the computer or against another player. As in Wimbledon, here you also play with the real tennis rules. If you are less sportive and rather lean back in your armchair and watch a match, you will also get your money's worth with the good-looking demo mode.</desc>
+		<marquee>./images/Tennis (USA) (CCS)-marquee.png</marquee>
+		<releasedate>19840101T000000</releasedate>
+		<developer>D&amp;L Research</developer>
+		<publisher>Imagic</publisher>
+		<genre>Sports / Tennis</genre>
+		<players>1-2</players>
+		<md5>357240ee7012d92a777fe87d0982f390</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T104103" />
+	</game>
+	<game id="112280">
+		<path>./No-Intro/Games/Tennis (USA) (VICE).crt</path>
+		<name>Tennis</name>
+		<desc>Anyone for a game of tennis? The game Match Point is a tennis simulation and can be played either against the computer or against another player. As in Wimbledon, here you also play with the real tennis rules. If you are less sportive and rather lean back in your armchair and watch a match, you will also get your money's worth with the good-looking demo mode.</desc>
+		<marquee>./images/Tennis (USA) (VICE)-marquee.png</marquee>
+		<releasedate>19840101T000000</releasedate>
+		<developer>D&amp;L Research</developer>
+		<publisher>Imagic</publisher>
+		<genre>Sports / Tennis</genre>
+		<players>1-2</players>
+		<md5>b63b48c1f95c1d7a05491dceae5c4894</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T104107" />
+	</game>
+	<game id="110207">
+		<path>./No-Intro/Games/Tenpins (USA, Europe).crt</path>
+		<name>Ten Pins</name>
+		<image>./images/Tenpins (USA, Europe)-image.png</image>
+		<video>./videos/Tenpins (USA, Europe)-video.mp4</video>
+		<releasedate>19861101T000000</releasedate>
+		<developer>Tony Brantner</developer>
+		<publisher>Ahoy!</publisher>
+		<genre>Sports / Bowling</genre>
+		<players>1-4</players>
+		<md5>403309231b0cc9b11b312e43c3734940</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T104113" />
+	</game>
+	<game id="110208">
+		<path>./No-Intro/Games/Tenpins + Meteor Runner + Vortex (USA, Europe) (Megafun).crt</path>
+		<name>Tenpins + Meteor Runner + Vortex</name>
+		<image>./images/Tenpins + Meteor Runner + Vortex (USA, Europe) (Megafun)-image.png</image>
+		<md5>89d7c974bcb0acaba4fd674a6ad2dda7</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T104116" />
+	</game>
+	<game id="110226">
+		<path>./No-Intro/Games/Threshold (USA, Europe).crt</path>
+		<name>Threshold</name>
+		<desc>Threshold is a simple shoot'em up game. You are in control of a spaceship at the bottom of the screen and have to shoot several formations of enemies at the top of the screen.
+
+To make things more difficult you have limited time in form of a fuel tank which will get refilled after you cleared a number of waves. Besides that, your spacecraft is equipped with a laser that tends to overheat. Every shot makes the heat bar of the laser increase a bit. Once it reached its maximum you can't fire anymore and are forced to wait until it cools down while slowly running out of fuel.</desc>
+		<image>./images/Threshold (USA, Europe)-image.png</image>
+		<video>./videos/Threshold (USA, Europe)-video.mp4</video>
+		<marquee>./images/Threshold (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Threshold (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19830101T000000</releasedate>
+		<developer>On-Line Systems</developer>
+		<publisher>Sierra On-Line</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<players>1</players>
+		<md5>a2fc4fffaefd6beca1fe8b7d578939a6</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T104126" />
+	</game>
+	<game id="110253">
+		<path>./No-Intro/Games/Timebound (USA, Europe).crt</path>
+		<name>Timebound</name>
+		<desc>Timebound is an educational game released by CBS Software in 1984. In the game, Doctor Anacron has invented a time machine, but now he's timebound and trapped in a loop somewhere between the year 0 and 2000. By using their knowledge of history, players need to find Anacron and save him. The game is designed to help learn the chronology of historical events.</desc>
+		<image>./images/Timebound (USA, Europe)-image.png</image>
+		<marquee>./images/Timebound (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Timebound (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Children's Computer Workshop</developer>
+		<publisher>CBS Software</publisher>
+		<genre>Educational</genre>
+		<players>1</players>
+		<md5>47006854556379a9325d1423b5a735af</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T104134" />
+	</game>
+	<game id="116691">
+		<path>./No-Intro/Games/Tool-64, The (USA, Europe).crt</path>
+		<name>Tool-64</name>
+		<image>./images/Tool-64, The (USA, Europe)-image.png</image>
+		<releasedate>19830101T000000</releasedate>
+		<publisher>Micro Application</publisher>
+		<md5>da5c2d4b276c25f0561d547bbf9cc2e2</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T104138" />
+	</game>
+	<game id="116692">
+		<path>./No-Intro/Games/Tooth Invaders (USA, Europe).crt</path>
+		<name>Tooth Invaders</name>
+		<image>./images/Tooth Invaders (USA, Europe)-image.png</image>
+		<video>./videos/Tooth Invaders (USA, Europe)-video.mp4</video>
+		<thumbnail>./images/Tooth Invaders (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Commodore Electronics Ltd.</publisher>
+		<md5>4bbc9358fce7f76bd8d0a8d6107cb24b</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T104146" />
+	</game>
+	<game id="110279">
+		<path>./No-Intro/Games/Toy Bizarre (USA, Europe).crt</path>
+		<name>Toy Bizarre</name>
+		<desc>As a worker at a toy store, you must stop the toy robots from taking over the store, before they take over you. Stop the valves that are getting these toys released in order to control where they land on the floor. Make sure you are ready for those safety checks, turn off the valves before you are hit by hefty Hilda. Stop the toys by jumping over them, or by stunning them. Once you finish doing this, next hour, things start up again.</desc>
+		<image>./images/Toy Bizarre (USA, Europe)-image.png</image>
+		<video>./videos/Toy Bizarre (USA, Europe)-video.mp4</video>
+		<marquee>./images/Toy Bizarre (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Toy Bizarre (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19840101T000000</releasedate>
+		<publisher>Activision</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<md5>88d0aaeddefb7d6151d492e21fa412b3</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T104156" />
+	</game>
+	<game id="116727">
+		<path>./No-Intro/Games/Trashman (USA, Europe).crt</path>
+		<name>Trashman</name>
+		<desc>This is a Pacman-style maze game in which you control a garbage truck and try to collect all the trash pieces and bring them to the city dump. Collect all the trash pieces to advance to the next level. While collecting the trash pieces you must avoid the enemies, which kind of look like birds, maybe like you would find at the dump. There are 6 'trash can' power ups per level that allow you to catch the enemies for more points. (Just like how eating a power pill will allow you to eat the ghosts in Pacman). The game maze features wrap-arounds both at the sides and top to bottom.</desc>
+		<image>./images/Trashman (USA, Europe)-image.png</image>
+		<marquee>./images/Trashman (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Trashman (USA, Europe)-thumb.png</thumbnail>
+		<publisher>Creative Software</publisher>
+		<genre>Action / Labyrinth</genre>
+		<players>1</players>
+		<md5>a48159e2ce7cb5b792358595a79682be</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T104204" />
+	</game>
+	<game id="110309">
+		<path>./No-Intro/Games/Turbo Maze Man (USA, Europe).crt</path>
+		<name>Turbo Maze Man</name>
+		<image>./images/Turbo Maze Man (USA, Europe)-image.png</image>
+		<thumbnail>./images/Turbo Maze Man (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19830101T000000</releasedate>
+		<publisher>Turbo Software Incorporated</publisher>
+		<md5>152f411a48643f920b68f275b509eac0</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T104210" />
+	</game>
+	<game id="110327">
+		<path>./No-Intro/Games/Tyler's Dungeons (USA, Europe).crt</path>
+		<name>Tyler's Dungeons</name>
+		<image>./images/Tyler's Dungeons (USA, Europe)-image.png</image>
+		<thumbnail>./images/Tyler's Dungeons (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19840101T000000</releasedate>
+		<publisher>Creative Equipment</publisher>
+		<md5>d6aef8f9e495850fb5ec5da320addc9a</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T104216" />
+	</game>
+	<game id="110159">
+		<path>./No-Intro/Games/Ultrex Quadro Maze (USA, Europe).crt</path>
+		<name>Ultrex Quadro Maze</name>
+		<image>./images/Ultrex Quadro Maze (USA, Europe)-image.png</image>
+		<thumbnail>./images/Ultrex Quadro Maze (USA, Europe)-thumb.png</thumbnail>
+		<md5>a29554f234e0569d7b2cc2172836174e</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T104221" />
+	</game>
+	<game id="110164">
+		<path>./No-Intro/Games/Up &amp; Add'Em (USA, Europe).crt</path>
+		<name>Up and Add 'Em</name>
+		<image>./images/Up &amp; Add'Em (USA, Europe)-image.png</image>
+		<releasedate>19840101T000000</releasedate>
+		<publisher>Fisher Price</publisher>
+		<md5>27f9c0b35f7f3838f69e203fa88731db</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T104224" />
+	</game>
+	<game id="110173">
+		<path>./No-Intro/Games/Up for Grabs (USA, Europe).crt</path>
+		<name>Up for Grabs</name>
+		<image>./images/Up for Grabs (USA, Europe)-image.png</image>
+		<releasedate>19830101T000000</releasedate>
+		<publisher>Spinnaker Software Corporation</publisher>
+		<md5>46d1ab35bb9102ef117667724923f637</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T104228" />
+	</game>
+	<game id="110170">
+		<path>./No-Intro/Games/Up'n Down (USA, Europe).crt</path>
+		<name>Up 'n Down</name>
+		<desc>The object is to drive around a twisty course and collect all the colored flags. You can jump over gaps and over or onto other cars. If you land on another car, you destroy it and collect points. You can also collect things like balloons and ice cream cones for bonus points. The faster you collect all the flags, the bigger a time bonus you get.
+
+In later levels, there are dead-ends or gaps and a vehicle that is carrying a flag you need, so you will need to jump on it. If you are hit by another vehicle or go off the course, you lose a life. Two player games are alternating with the players taking their turns.</desc>
+		<image>./images/Up'n Down (USA, Europe)-image.png</image>
+		<video>./videos/Up'n Down (USA, Europe)-video.mp4</video>
+		<marquee>./images/Up'n Down (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Up'n Down (USA, Europe)-thumb.png</thumbnail>
+		<manual>./manuals/Up'n Down (USA, Europe)-manual.pdf</manual>
+		<releasedate>19840101T000000</releasedate>
+		<publisher>SEGA</publisher>
+		<genre>Casual Game</genre>
+		<players>1-2</players>
+		<md5>c79de237de303a002394837fa471dc23</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T104240" />
+	</game>
+	<game id="110172">
+		<path>./No-Intro/Games/Utah Counties Tutorial (USA).crt</path>
+		<name>Utah Counties Tutorial</name>
+		<md5>897f8d785aa7f541a937b73583ba5c99</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T104241" />
+	</game>
+	<game id="116884">
+		<path>./No-Intro/Games/Viduzzles - Computerized Jigsaw Puzzles (USA, Europe).crt</path>
+		<name>Viduzzles</name>
+		<desc>Viduzzles allows you to do jigsaw puzzles on your computer in either a 25 or 50 piece puzzle, with outlines or no outlines. You are first presented with the picture you have to complete before you are presented with an empty square and the pieces needed to complete the puzzle. You move the pieces into the square and you try to complete the puzzle in the quickest time. Once completed you then move to the next picture.</desc>
+		<image>./images/Viduzzles - Computerized Jigsaw Puzzles (USA, Europe)-image.png</image>
+		<marquee>./images/Viduzzles - Computerized Jigsaw Puzzles (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Viduzzles - Computerized Jigsaw Puzzles (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19830101T000000</releasedate>
+		<publisher>Commodore Electronics Ltd.</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<md5>4dc5a5c619f35d969744946bc1ad4e8e</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T104249" />
+	</game>
+	<game id="110127">
+		<path>./No-Intro/Games/Viking Raider (USA, Europe).crt</path>
+		<name>Adventure Series - Viking Raider</name>
+		<image>./images/Viking Raider (USA, Europe)-image.png</image>
+		<marquee>./images/Viking Raider (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Viking Raider (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19840101T000000</releasedate>
+		<publisher>Interphase Technologies Inc.</publisher>
+		<md5>bebbf07ee55d3d9ded0df0d0e5bb5129</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T104256" />
+	</game>
+	<game id="110127">
+		<path>./No-Intro/Games/Viking Raider (USA, Europe).d64</path>
+		<name>Adventure Series - Viking Raider</name>
+		<image>./images/Viking Raider (USA, Europe)-image.png</image>
+		<marquee>./images/Viking Raider (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Viking Raider (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19840101T000000</releasedate>
+		<publisher>Interphase Technologies Inc.</publisher>
+		<md5>eb874406e5b7b1bb703151e3d38b23b8</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T104258" />
+	</game>
+	<game id="36773">
+		<path>./No-Intro/Games/Vindicators (USA, Europe).crt</path>
+		<name>Vindicators</name>
+		<desc>The Tangent Empire are preparing to attack the earth with their convoy of tanks, and it is you who has been sent forward to destroy the 14 space stations which make up the potential invasion threat.
+
+There are 3 sub-levels on each station, which can be played in any order. The action scrolls in every direction, with you guiding your tank-link droid around to shoot the opposition droids. The tank takes a while to steer, making it initially harder to avoid contact with those enemies. Each level contains energy stars, which can be traded in for upgrades such as improved weapons and extra speed after each level.</desc>
+		<image>./images/Vindicators (USA, Europe)-image.png</image>
+		<video>./videos/Vindicators (USA, Europe)-video.mp4</video>
+		<marquee>./images/Vindicators (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Vindicators (USA, Europe)-thumb.png</thumbnail>
+		<manual>./manuals/Vindicators (USA, Europe)-manual.pdf</manual>
+		<rating>0.7</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Domark</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<md5>9f1f0b312f7b6730d4c6ad323ef669a9</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T104310" />
+	</game>
+	<game id="110129">
+		<path>./No-Intro/Games/Visible Solar System, The (USA, Europe) (MAX).crt</path>
+		<name>The Visible Solar System</name>
+		<image>./images/Visible Solar System, The (USA, Europe) (MAX)-image.png</image>
+		<genre>Educational</genre>
+		<players>1</players>
+		<md5>56083cbc8d55b5faf10a48497fd9d633</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T104313" />
+	</game>
+	<game id="122136">
+		<path>./No-Intro/Games/Warp Speed (USA, Europe) (v1) (Program).crt</path>
+		<name>Warp Speed</name>
+		<md5>426c4996794899dfa4fa9281d923ffce</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T104314" />
+	</game>
+	<game id="122136">
+		<path>./No-Intro/Games/Warp Speed (USA, Europe) (v2.0) (Program).crt</path>
+		<name>Warp Speed</name>
+		<md5>1c3a814df659c3f5be1a0a236b751294</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T104316" />
+	</game>
+	<game id="109769">
+		<path>./No-Intro/Games/Webster - The Word Game (USA, Europe).crt</path>
+		<name>Webster - The Word Game</name>
+		<desc>Webster: The Word Game is a word recognition game. The object of the game is to fill in the missing letters of an incomplete word. On each round a word will appear at the top of the screen with several letters missing. The word will slowly begin moving towards the bottom of the screen and along the bottom of the screen is the complete alphabet. The player needs to select the letters that are missing from the word before time runs out and the word reaches the bottom of the screen. Successfully completing a word earns points, but if the word reaches the bottom of the screen then the player loses a life. The game ends when all five lives are lost.</desc>
+		<image>./images/Webster - The Word Game (USA, Europe)-image.png</image>
+		<marquee>./images/Webster - The Word Game (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Webster - The Word Game (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Heuristic Software</developer>
+		<publisher>CBS Software</publisher>
+		<genre>Educational</genre>
+		<players>1-2</players>
+		<md5>152bd270e0cbbeb848b0e61b59a0d1bf</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T104323" />
+	</game>
+	<game id="109812">
+		<path>./No-Intro/Games/Wizard of Id's Wiztype, The (USA, Europe).crt</path>
+		<name>Wizard's of ID</name>
+		<desc>The Wizard of Id's WizType is an edutainment title based on the comic strip created by artist Brant Parker and writer Johnny Hart. The title is designed to give keyboard novices lessons on how to improve their typing accuracy and speed.</desc>
+		<image>./images/Wizard of Id's Wiztype, The (USA, Europe)-image.png</image>
+		<marquee>./images/Wizard of Id's Wiztype, The (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Wizard of Id's Wiztype, The (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Sydney Development Corp.</developer>
+		<publisher>Sierra On-Line</publisher>
+		<genre>Educational</genre>
+		<players>1</players>
+		<md5>af8070b342b3acdbb64e630b772d0e60</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T104331" />
+	</game>
+	<game id="109798">
+		<path>./No-Intro/Games/Wizard of Wor (USA, Europe).crt</path>
+		<name>Wizard of Wor</name>
+		<desc>Wizard of Wor is an arcade shooter played from a top-down point of view.
+
+The player controls a "Worrior" who is trapped in a dungeon. The goal is to earn as many points as possible by shooting the numerous enemy creatures which wander about the maze like corridors. The creatures wander about at various speeds, may shoot darts at the player, and some even have the ability to disappear temporarily. At the bottom of the screen the player has a radar which can be used to locate creatures that are invisible.</desc>
+		<image>./images/Wizard of Wor (USA, Europe)-image.png</image>
+		<video>./videos/Wizard of Wor (USA, Europe)-video.mp4</video>
+		<marquee>./images/Wizard of Wor (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Wizard of Wor (USA, Europe)-thumb.png</thumbnail>
+		<manual>./manuals/Wizard of Wor (USA, Europe)-manual.pdf</manual>
+		<bezel>./images/Wizard of Wor (USA, Europe)-bezel.png</bezel>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Dave Nutting Associates</developer>
+		<publisher>Commodore Electronics Ltd.</publisher>
+		<genre>Action / Labyrinth</genre>
+		<players>1-2</players>
+		<md5>1597893279f7239adbeca0fdb8f30719</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T104344" />
+	</game>
+	<game id="35880">
+		<path>./No-Intro/Games/Wonder Boy (USA, Europe).crt</path>
+		<name>Wonderboy</name>
+		<desc>Just when things were going great with Tom-Tom and his girlfriend Tanya, some thug of a woodland king had to kidnap her and hide her away, and Tom-Tom doesn't have a clue where. That's why he has to explore deep dark forests, cross endless oceans, climb treacherous slopes, survive endless volcanoes, and even walk through clouds. But Tom-Tom will never be totally alone. You see, when he goes through the exotic locations, he has to come face to face with its inhabitants, like bees, spiders, snakes, coal-kids, frogs, bats, snails, coyotes, and octopuses, to name a few. The hatchet is Tom-Tom's only line of defense against these menaces.</desc>
+		<image>./images/Wonder Boy (USA, Europe)-image.png</image>
+		<video>./videos/Wonder Boy (USA, Europe)-video.mp4</video>
+		<marquee>./images/Wonder Boy (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Wonder Boy (USA, Europe)-thumb.png</thumbnail>
+		<fanart>./images/Wonder Boy (USA, Europe)-fanart.jpg</fanart>
+		<manual>./manuals/Wonder Boy (USA, Europe)-manual.pdf</manual>
+		<rating>0.7</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Westone</developer>
+		<publisher>Activision</publisher>
+		<genre>Platform</genre>
+		<family>Wonder Boy</family>
+		<players>1</players>
+		<md5>f490dd312c165f663a6c298d0bc46a22</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T104356" />
+	</game>
+	<game id="122162">
+		<path>./No-Intro/Games/Write Now! 64 (USA, Europe) (Program).crt</path>
+		<name>ZZZ(notgame):Write Now! 64</name>
+		<hidden>true</hidden>
+		<md5>f8382bfa38bc3cf8820688211feb775a</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T104357" />
+	</game>
+	<game id="36001">
+		<path>./No-Intro/Games/Zaxxon (USA, Europe).crt</path>
+		<name>Zaxxon</name>
+		<desc>The Zaxxon defence system must be destroyed in this isometric-viewed shoot 'em up which was originally hugely successful in the arcades. The game has 3 stages, first taking you through Asteroid City, which is heavily protected by aircraft, guns and missiles. Many barriers are alarmed, leaving you with limited space to progress through, and fire must constantly be dodged.
+
+Stage two is a space shoot out against hordes of enemy aircraft - those you failed to destroy in the first part of the task. Complete this and you reach the final battle with Zaxxon, with the game looping with increased difficulty if you can survive the first time. There are 3 distinct skill levels, while controls involve using forward to dive and back to climb, in the manner of flight simulation.</desc>
+		<image>./images/Zaxxon (USA, Europe)-image.png</image>
+		<video>./videos/Zaxxon (USA, Europe)-video.mp4</video>
+		<marquee>./images/Zaxxon (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Zaxxon (USA, Europe)-thumb.png</thumbnail>
+		<rating>0.65</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shoot'em up / Diagonal</genre>
+		<family>Zaxxon</family>
+		<players>1-2</players>
+		<md5>7a3bfccbc8a72414eb1c2e3ffb711be6</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T104406" />
+	</game>
+	<game id="108850">
+		<path>./No-Intro/Games/Zenji (USA, Europe).crt</path>
+		<name>Zenji</name>
+		<desc>Zenji is an action/strategy game where you control a rolling face throughout a maze. Each section of the maze can be rotated by the face. The goal is to turn the entire maze green by connecting each section of the maze to the source at the center of the screen. After all sections of the maze have been connected, you can move on to the next, more challenging level. In addition to having a time limit to complete your task, you need to avoid the flames and sparks which wander about the maze. From time to time a number will appear in a maze section and count down from 9 to 0. If you touch the number before it disappears, bonus points are earned. As the levels progress, the mazes become larger, trickier and more flames will appear.</desc>
+		<image>./images/Zenji (USA, Europe)-image.png</image>
+		<video>./videos/Zenji (USA, Europe)-video.mp4</video>
+		<marquee>./images/Zenji (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Zenji (USA, Europe)-thumb.png</thumbnail>
+		<manual>./manuals/Zenji (USA, Europe)-manual.pdf</manual>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Adam Bellin</developer>
+		<publisher>Activision</publisher>
+		<genre>Action</genre>
+		<md5>c1be21571e20e0d994d67f3019ad801d</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T104417" />
+	</game>
+	<game id="109432">
+		<path>./No-Intro/Games/Zone Ranger (USA, Europe).crt</path>
+		<name>Zone Ranger</name>
+		<desc>Zone Ranger is an arcade action game somewhat similar to Asteroids. You are the pilot of a spaceship in a deadly region of space. Large killer rocks, rogue satellites, boomerangs, and more all fill this region of space. Using your ships lasers you need to destroy as many of these as you can to earn points. Each level also contains some warp holes; enter one of these and you will be transported to a new location, which could be useful if you get in trouble. You will also occasionally come across some sonic sparklers; touch one of these, and you will temporarily become invincible. Another oddity you may come across is a super portal, which will transport you to the inner sanctum where bonus dots can be found.</desc>
+		<image>./images/Zone Ranger (USA, Europe)-image.png</image>
+		<video>./videos/Zone Ranger (USA, Europe)-video.mp4</video>
+		<marquee>./images/Zone Ranger (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Zone Ranger (USA, Europe)-thumb.png</thumbnail>
+		<manual>./manuals/Zone Ranger (USA, Europe)-manual.pdf</manual>
+		<rating>0.8</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Dan Tompson</developer>
+		<publisher>Activision</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<md5>7f0926e81ec077c074abfa62f7ab1370</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T104427" />
+	</game>
+	<game id="106819">
+		<path>./No-Intro/PP/007 - The Living Daylights (USA, Europe).nib</path>
+		<name>James Bond 007 : The Living Daylights - The Computer Game</name>
+		<desc>The Living Daylights is a side-scrolling action game which features eight levels of gameplay, centered around the Timothy Dalton movie of the same name. Beginning with a "training" mission in Gibraltar, Bond then assists General Koskov's defection to the West, rescues a Bond girl, fights off henchmen, and takes on an evil weapons dealer. Bond can run, duck, jump and use weapons created by Q (including the Ghetto Blaster) and take out enemies with his trusted Walther PPK.</desc>
+		<image>./images/007 - The Living Daylights (USA, Europe)-image.png</image>
+		<video>./videos/007 - The Living Daylights (USA, Europe)-video.mp4</video>
+		<marquee>./images/007 - The Living Daylights (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/007 - The Living Daylights (USA, Europe)-thumb.png</thumbnail>
+		<fanart>./images/007 - The Living Daylights (USA, Europe)-fanart.jpg</fanart>
+		<rating>0.55</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Sculptured Software</developer>
+		<publisher>Domark</publisher>
+		<genre>Shooter / Run and Gun</genre>
+		<family>Operation Wolf</family>
+		<players>1</players>
+		<md5>c74609ce7b6f296272524e4832fed7f4</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T104440" />
+	</game>
+	<game id="121971">
+		<path>./No-Intro/PP/10 Top Classics (USA, Europe) (Compilation) (Side 1).nib</path>
+		<name>10 Top Classics</name>
+		<genre>Compilation</genre>
+		<md5>85303c467bdac42a18656c3c0774661b</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T104441" />
+	</game>
+	<game id="121971">
+		<path>./No-Intro/PP/10 Top Classics (USA, Europe) (Compilation) (Side 2).nib</path>
+		<name>10 Top Classics</name>
+		<genre>Compilation</genre>
+		<md5>ea9edf77a534227d8be8de388a0661fe</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T104443" />
+	</game>
+	<game id="121971">
+		<path>./No-Intro/PP/10 Top Classics (USA, Europe) (Compilation) (Side 3).nib</path>
+		<name>10 Top Classics</name>
+		<genre>Compilation</genre>
+		<md5>5afdb62f354c9bd5563863719d07d03b</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T104445" />
+	</game>
+	<game id="115443">
+		<path>./No-Intro/PP/100% Dynamite (USA, Europe) (Compilation) (Side 1).nib</path>
+		<name>100% Dynamite</name>
+		<desc>100% Dynamite is a collection of 4 games, including 3 arcade conversions:1. After Burner2. Double Dragon3. Last Ninja 24. WEC Le Mans</desc>
+		<image>./images/100% Dynamite (USA, Europe) (Compilation) (Side 1)-image.png</image>
+		<publisher>Ocean</publisher>
+		<genre>Compilation</genre>
+		<md5>c4d454607297f2a396ee06150e949732</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T104448" />
+	</game>
+	<game id="115443">
+		<path>./No-Intro/PP/100% Dynamite (USA, Europe) (Compilation) (Side 2).nib</path>
+		<name>100% Dynamite</name>
+		<desc>100% Dynamite is a collection of 4 games, including 3 arcade conversions:1. After Burner2. Double Dragon3. Last Ninja 24. WEC Le Mans</desc>
+		<image>./images/100% Dynamite (USA, Europe) (Compilation) (Side 2)-image.png</image>
+		<publisher>Ocean</publisher>
+		<genre>Compilation</genre>
+		<md5>81659a38a83a1597ecccdea79ae7d6f4</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T104452" />
+	</game>
+	<game id="115443">
+		<path>./No-Intro/PP/100% Dynamite (USA, Europe) (Compilation) (Side 3).nib</path>
+		<name>100% Dynamite</name>
+		<desc>100% Dynamite is a collection of 4 games, including 3 arcade conversions:1. After Burner2. Double Dragon3. Last Ninja 24. WEC Le Mans</desc>
+		<image>./images/100% Dynamite (USA, Europe) (Compilation) (Side 3)-image.png</image>
+		<publisher>Ocean</publisher>
+		<genre>Compilation</genre>
+		<md5>76bc56e9d5fc83f6391ebb4426949382</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T104456" />
+	</game>
+	<game id="115443">
+		<path>./No-Intro/PP/100% Dynamite (USA, Europe) (Compilation) (Side 4).nib</path>
+		<name>100% Dynamite</name>
+		<desc>100% Dynamite is a collection of 4 games, including 3 arcade conversions:1. After Burner2. Double Dragon3. Last Ninja 24. WEC Le Mans</desc>
+		<image>./images/100% Dynamite (USA, Europe) (Compilation) (Side 4)-image.png</image>
+		<publisher>Ocean</publisher>
+		<genre>Compilation</genre>
+		<md5>5ae63cd03e6c0f3889a9e7226d93e9b8</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T104459" />
+	</game>
+	<game id="115443">
+		<path>./No-Intro/PP/100% Dynamite (USA, Europe) (Compilation) (Side 5).nib</path>
+		<name>100% Dynamite</name>
+		<desc>100% Dynamite is a collection of 4 games, including 3 arcade conversions:1. After Burner2. Double Dragon3. Last Ninja 24. WEC Le Mans</desc>
+		<image>./images/100% Dynamite (USA, Europe) (Compilation) (Side 5)-image.png</image>
+		<publisher>Ocean</publisher>
+		<genre>Compilation</genre>
+		<md5>155ece40c18bc6c3237efd480f7966d5</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T104503" />
+	</game>
+	<game id="106817">
+		<path>./No-Intro/PP/100,000 Pyramid, The (USA, Europe).nib</path>
+		<name>The $100,000 Pyramid</name>
+		<desc>This is an early adaptation of the popular TV game show The $100,000 Pyramid.
+
+The objective is to reach the top of the pyramid by winning successive rounds. Each round consists of selecting a category from the pyramid. Each category consists of a list of words that share some common thread like "things that are red". One player then tries to give the other player clues to guess the word without saying the word itself.
+
+There is also a single player mode that does not resemble the show very much where you have to type in single word clues.</desc>
+		<image>./images/100,000 Pyramid, The (USA, Europe)-image.png</image>
+		<video>./videos/100,000 Pyramid, The (USA, Europe)-video.mp4</video>
+		<marquee>./images/100,000 Pyramid, The (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/100,000 Pyramid, The (USA, Europe)-thumb.png</thumbnail>
+		<rating>0.45</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Richard Hansen</developer>
+		<publisher>Box Office</publisher>
+		<genre>Quiz / English</genre>
+		<players>1-4</players>
+		<md5>5361e1540ee04bee6bc77ffb7d33cf3c</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T104512" />
+	</game>
+	<game id="106813">
+		<path>./No-Intro/PP/10th Frame (USA) (Alt 1).nib</path>
+		<name>10th Frame</name>
+		<desc>Get out that shirt, put on your bowling shows and get ready to roll with 10th FRAME! This simulation gives you the look of "real" bowling through outstanding graphics and a true perspective view.
+With multiple levels of play, realistic pin action and automatic scoring, 10th FRAME is a bowling experience the whole family can enjoy.</desc>
+		<image>./images/10th Frame (USA) (Alt 1)-image.png</image>
+		<video>./videos/10th Frame (USA) (Alt 1)-video.mp4</video>
+		<marquee>./images/10th Frame (USA) (Alt 1)-marquee.png</marquee>
+		<thumbnail>./images/10th Frame (USA) (Alt 1)-thumb.png</thumbnail>
+		<fanart>./images/10th Frame (USA) (Alt 1)-fanart.jpg</fanart>
+		<manual>./manuals/10th Frame (USA) (Alt 1)-manual.pdf</manual>
+		<bezel>./images/10th Frame (USA) (Alt 1)-bezel.png</bezel>
+		<rating>0.85</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Access Software</developer>
+		<publisher>U.S. Gold</publisher>
+		<genre>Sports / Bowling</genre>
+		<players>1-8</players>
+		<md5>72ca5233a4efc25fb3ae24b23e674fa9</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T104528" />
+	</game>
+	<game id="106813">
+		<path>./No-Intro/PP/10th Frame (USA) (Tape Port Dongle).nib</path>
+		<name>10th Frame</name>
+		<desc>Get out that shirt, put on your bowling shows and get ready to roll with 10th FRAME! This simulation gives you the look of "real" bowling through outstanding graphics and a true perspective view.
+With multiple levels of play, realistic pin action and automatic scoring, 10th FRAME is a bowling experience the whole family can enjoy.</desc>
+		<image>./images/10th Frame (USA) (Tape Port Dongle)-image.png</image>
+		<video>./videos/10th Frame (USA) (Tape Port Dongle)-video.mp4</video>
+		<marquee>./images/10th Frame (USA) (Tape Port Dongle)-marquee.png</marquee>
+		<thumbnail>./images/10th Frame (USA) (Tape Port Dongle)-thumb.png</thumbnail>
+		<fanart>./images/10th Frame (USA) (Tape Port Dongle)-fanart.jpg</fanart>
+		<manual>./manuals/10th Frame (USA) (Tape Port Dongle)-manual.pdf</manual>
+		<bezel>./images/10th Frame (USA) (Tape Port Dongle)-bezel.png</bezel>
+		<rating>0.85</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Access Software</developer>
+		<publisher>U.S. Gold</publisher>
+		<genre>Sports / Bowling</genre>
+		<players>1-8</players>
+		<md5>789f544b1e14f360b45ca0079d9b6c50</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T104544" />
+	</game>
+	<game id="36101">
+		<path>./No-Intro/PP/1943 - The Battle of Midway (USA, Europe).nib</path>
+		<name>1943 : The Battle of Midway</name>
+		<desc>1943: The Battle of Midway is a shoot'em up on Commodore 64 that follows 1942. You are plunged into the heart of the Second World War. This time it is a question of recreating the intense battle off the coast of the Midway Islands. Compared to its predecessor, 1943 displays a health bar that empties when you are hit, but can be recharged with some bonuses.</desc>
+		<image>./images/1943 - The Battle of Midway (USA, Europe)-image.png</image>
+		<video>./videos/1943 - The Battle of Midway (USA, Europe)-video.mp4</video>
+		<marquee>./images/1943 - The Battle of Midway (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/1943 - The Battle of Midway (USA, Europe)-thumb.png</thumbnail>
+		<fanart>./images/1943 - The Battle of Midway (USA, Europe)-fanart.jpg</fanart>
+		<manual>./manuals/1943 - The Battle of Midway (USA, Europe)-manual.pdf</manual>
+		<rating>0.3</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<players>1-2</players>
+		<md5>b5ab9a16716efbfd0584814e93fa0148</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T104557" />
+	</game>
+	<game id="106820">
+		<path>./No-Intro/PP/2 on 1 (USA, Europe) (Compilation).nib</path>
+		<name>2 On 1</name>
+		<desc>Combination of two games in a single ROM, Panther and LA SWAT.
+  - Panther: Simple game with a nacelle which advances on a rail avoiding shuttle attacks
+  - THE SWAT: Simple game with three SWAT characters who advance along a street infested with villain to kill</desc>
+		<image>./images/2 on 1 (USA, Europe) (Compilation)-image.png</image>
+		<video>./videos/2 on 1 (USA, Europe) (Compilation)-video.mp4</video>
+		<thumbnail>./images/2 on 1 (USA, Europe) (Compilation)-thumb.png</thumbnail>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Sculptured Software</developer>
+		<publisher>Mastertronic</publisher>
+		<players>1</players>
+		<md5>27f1ea4ea3d6267d1df73c38fdcbc528</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T104604" />
+	</game>
+	<game id="106822">
+		<path>./No-Intro/PP/221B Baker Street (USA, Europe) (Side 1).nib</path>
+		<name>221B Baker Street</name>
+		<desc>The game was inspired by the exploits of Arthur Conan Doyle's fictional detective Sherlock Holmes and derives its title from the detective's residence at 221B Baker Street in London.</desc>
+		<image>./images/221B Baker Street (USA, Europe) (Side 1)-image.png</image>
+		<video>./videos/221B Baker Street (USA, Europe) (Side 1)-video.mp4</video>
+		<marquee>./images/221B Baker Street (USA, Europe) (Side 1)-marquee.png</marquee>
+		<thumbnail>./images/221B Baker Street (USA, Europe) (Side 1)-thumb.png</thumbnail>
+		<releasedate>19860101T000000</releasedate>
+		<publisher>Datasoft</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1-4</players>
+		<md5>c9ed5f8762051c6c232977631655f1b9</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T104614" />
+	</game>
+	<game id="106822">
+		<path>./No-Intro/PP/221B Baker Street (USA, Europe) (Side 2).nib</path>
+		<name>221B Baker Street</name>
+		<desc>The game was inspired by the exploits of Arthur Conan Doyle's fictional detective Sherlock Holmes and derives its title from the detective's residence at 221B Baker Street in London.</desc>
+		<image>./images/221B Baker Street (USA, Europe) (Side 2)-image.png</image>
+		<video>./videos/221B Baker Street (USA, Europe) (Side 2)-video.mp4</video>
+		<marquee>./images/221B Baker Street (USA, Europe) (Side 2)-marquee.png</marquee>
+		<thumbnail>./images/221B Baker Street (USA, Europe) (Side 2)-thumb.png</thumbnail>
+		<releasedate>19860101T000000</releasedate>
+		<publisher>Datasoft</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1-4</players>
+		<md5>d1b9fbfed55d08fb35df67e0c881f1c2</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T104623" />
+	</game>
+	<game id="106823">
+		<path>./No-Intro/PP/3D Golf (USA, Europe).nib</path>
+		<name>3D Golf</name>
+		<image>./images/3D Golf (USA, Europe)-image.png</image>
+		<thumbnail>./images/3D Golf (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19860101T000000</releasedate>
+		<publisher>Mastertronic</publisher>
+		<genre>Sports / Golf</genre>
+		<md5>9a6d1773db6b3de15c80cb4c6bde0248</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T104629" />
+	</game>
+	<game id="106825">
+		<path>./No-Intro/PP/4th &amp; Inches (USA).nib</path>
+		<name>4th &amp; Inches</name>
+		<image>./images/4th &amp; Inches (USA)-image.png</image>
+		<marquee>./images/4th &amp; Inches (USA)-marquee.png</marquee>
+		<thumbnail>./images/4th &amp; Inches (USA)-thumb.png</thumbnail>
+		<manual>./manuals/4th &amp; Inches (USA)-manual.pdf</manual>
+		<releasedate>19870101T000000</releasedate>
+		<publisher>Accolade</publisher>
+		<md5>7fb587aa9aaa70d23876ad6b7e4a564b</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T104639" />
+	</game>
+	<game id="106825">
+		<path>./No-Intro/PP/4th &amp; Inches (USA, Europe) (Alt 1).nib</path>
+		<name>4th &amp; Inches</name>
+		<image>./images/4th &amp; Inches (USA, Europe) (Alt 1)-image.png</image>
+		<marquee>./images/4th &amp; Inches (USA, Europe) (Alt 1)-marquee.png</marquee>
+		<thumbnail>./images/4th &amp; Inches (USA, Europe) (Alt 1)-thumb.png</thumbnail>
+		<manual>./manuals/4th &amp; Inches (USA, Europe) (Alt 1)-manual.pdf</manual>
+		<releasedate>19870101T000000</releasedate>
+		<publisher>Accolade</publisher>
+		<md5>f999955c9ee8f472eb49265c781a0a15</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T104648" />
+	</game>
+	<game id="106825">
+		<path>./No-Intro/PP/4th &amp; Inches (USA, Europe).nib</path>
+		<name>4th &amp; Inches</name>
+		<image>./images/4th &amp; Inches (USA, Europe)-image.png</image>
+		<marquee>./images/4th &amp; Inches (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/4th &amp; Inches (USA, Europe)-thumb.png</thumbnail>
+		<manual>./manuals/4th &amp; Inches (USA, Europe)-manual.pdf</manual>
+		<releasedate>19870101T000000</releasedate>
+		<publisher>Accolade</publisher>
+		<md5>64c9b067be475280e4f038592e059bcd</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T104657" />
+	</game>
+	<game id="110442">
+		<path>./No-Intro/PP/4x4 Off-Road Racing (USA, Europe) (Side 1).nib</path>
+		<name>4x4 Off-Road Racing</name>
+		<desc>As well as recreating off road racing, this game has considerable capability to upgrade your vehicle. There are four choices of vehicle on offer, each of which has its own weight/top-speed/build strength and so on, and thus is suited to different circuits. You can also buy upgrades and repairs, including carrying some spares.
+
+There are four completely different types of course, each taking place on a different surface - Mud, Ice, Desert and Mountains. Each of these is littered with hazards, which can either be painstakingly avoided, or driven through (with the resultant risk of damage).</desc>
+		<image>./images/4x4 Off-Road Racing (USA, Europe) (Side 1)-image.png</image>
+		<marquee>./images/4x4 Off-Road Racing (USA, Europe) (Side 1)-marquee.png</marquee>
+		<thumbnail>./images/4x4 Off-Road Racing (USA, Europe) (Side 1)-thumb.png</thumbnail>
+		<fanart>./images/4x4 Off-Road Racing (USA, Europe) (Side 1)-fanart.jpg</fanart>
+		<manual>./manuals/4x4 Off-Road Racing (USA, Europe) (Side 1)-manual.pdf</manual>
+		<releasedate>19880101T000000</releasedate>
+		<developer>K- Byte</developer>
+		<publisher>Epyx</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+		<md5>47461801acb758c716bbb48763b15198</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T104708" />
+	</game>
+	<game id="110442">
+		<path>./No-Intro/PP/4x4 Off-Road Racing (USA, Europe) (Side 2).nib</path>
+		<name>4x4 Off-Road Racing</name>
+		<desc>As well as recreating off road racing, this game has considerable capability to upgrade your vehicle. There are four choices of vehicle on offer, each of which has its own weight/top-speed/build strength and so on, and thus is suited to different circuits. You can also buy upgrades and repairs, including carrying some spares.
+
+There are four completely different types of course, each taking place on a different surface - Mud, Ice, Desert and Mountains. Each of these is littered with hazards, which can either be painstakingly avoided, or driven through (with the resultant risk of damage).</desc>
+		<image>./images/4x4 Off-Road Racing (USA, Europe) (Side 2)-image.png</image>
+		<marquee>./images/4x4 Off-Road Racing (USA, Europe) (Side 2)-marquee.png</marquee>
+		<thumbnail>./images/4x4 Off-Road Racing (USA, Europe) (Side 2)-thumb.png</thumbnail>
+		<fanart>./images/4x4 Off-Road Racing (USA, Europe) (Side 2)-fanart.jpg</fanart>
+		<manual>./manuals/4x4 Off-Road Racing (USA, Europe) (Side 2)-manual.pdf</manual>
+		<releasedate>19880101T000000</releasedate>
+		<developer>K- Byte</developer>
+		<publisher>Epyx</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+		<md5>ed2d70ff1cbdffae2e8d67626968ba50</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T104720" />
+	</game>
+	<game id="108842">
+		<path>./No-Intro/PP/64 Doctor (USA, Europe) (Program).nib</path>
+		<name>ZZZ(notgame):64 Doctor</name>
+		<image>./images/64 Doctor (USA, Europe) (Program)-image.png</image>
+		<hidden>true</hidden>
+		<md5>981d8781019b9577dbef2aa83e1e3140</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T104722" />
+	</game>
+	<game id="36214">
+		<path>./No-Intro/PP/720 Degrees (USA) (Side 1).nib</path>
+		<name>720°</name>
+		<desc>You're a skateboarder in Skate City, one of the largest skateparks ever built. Ollie off of ramps, grind on rails, and swerve past pedestrians as you bust out tricks. Visit skate shops scattered around the park to upgrade your gear and improve your skills. Participate in competitions to earn medals and cash to use in the shops. But, if you don't get to a competition in time, the infamous "Skate Or Die" message appears, and then you have to hurry!</desc>
+		<image>./images/720 Degrees (USA) (Side 1)-image.png</image>
+		<video>./videos/720 Degrees (USA) (Side 1)-video.mp4</video>
+		<marquee>./images/720 Degrees (USA) (Side 1)-marquee.png</marquee>
+		<thumbnail>./images/720 Degrees (USA) (Side 1)-thumb.png</thumbnail>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Mindscape</publisher>
+		<genre>Sports / Skateboard</genre>
+		<md5>b445949982a0aa917ea18932f13d1b18</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T104732" />
+	</game>
+	<game id="36214">
+		<path>./No-Intro/PP/720 Degrees (USA) (Side 2).nib</path>
+		<name>720°</name>
+		<desc>You're a skateboarder in Skate City, one of the largest skateparks ever built. Ollie off of ramps, grind on rails, and swerve past pedestrians as you bust out tricks. Visit skate shops scattered around the park to upgrade your gear and improve your skills. Participate in competitions to earn medals and cash to use in the shops. But, if you don't get to a competition in time, the infamous "Skate Or Die" message appears, and then you have to hurry!</desc>
+		<image>./images/720 Degrees (USA) (Side 2)-image.png</image>
+		<video>./videos/720 Degrees (USA) (Side 2)-video.mp4</video>
+		<marquee>./images/720 Degrees (USA) (Side 2)-marquee.png</marquee>
+		<thumbnail>./images/720 Degrees (USA) (Side 2)-thumb.png</thumbnail>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Mindscape</publisher>
+		<genre>Sports / Skateboard</genre>
+		<md5>556ca8ce440a0cff04ffbc744451d61c</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T104741" />
+	</game>
+	<game id="109456">
+		<path>./No-Intro/PP/Accolade Comics - Steve Keene, Private Spy (USA, Europe) (Side 1).nib</path>
+		<name>Accolade Comics</name>
+		<desc>A young boy reads his favorite comic book about secret agent Steve Keene. The story begins when agent Keene's boss sends him on one of two missions: to Vienna to investigate the mysterious disappearance of a famous professor, or to solve the mystery of strange self-replicating non-functioning fire hydrants.
+
+While reading from page to page like a comic magazine you can interact with the characters when you choose what Keene should do or say; sometimes you even can take control over Keene to surpass action sequences.</desc>
+		<image>./images/Accolade Comics - Steve Keene, Private Spy (USA, Europe) (Side 1)-image.png</image>
+		<marquee>./images/Accolade Comics - Steve Keene, Private Spy (USA, Europe) (Side 1)-marquee.png</marquee>
+		<thumbnail>./images/Accolade Comics - Steve Keene, Private Spy (USA, Europe) (Side 1)-thumb.png</thumbnail>
+		<manual>./manuals/Accolade Comics - Steve Keene, Private Spy (USA, Europe) (Side 1)-manual.pdf</manual>
+		<releasedate>19870401T000000</releasedate>
+		<developer>Distinctive Software</developer>
+		<publisher>Accolade</publisher>
+		<genre>Adventure</genre>
+		<md5>a9552d204bcc8e372dc7e43195be89eb</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T104751" />
+	</game>
+	<game id="109456">
+		<path>./No-Intro/PP/Accolade Comics - Steve Keene, Private Spy (USA, Europe) (Side 2).nib</path>
+		<name>Accolade Comics</name>
+		<desc>A young boy reads his favorite comic book about secret agent Steve Keene. The story begins when agent Keene's boss sends him on one of two missions: to Vienna to investigate the mysterious disappearance of a famous professor, or to solve the mystery of strange self-replicating non-functioning fire hydrants.
+
+While reading from page to page like a comic magazine you can interact with the characters when you choose what Keene should do or say; sometimes you even can take control over Keene to surpass action sequences.</desc>
+		<image>./images/Accolade Comics - Steve Keene, Private Spy (USA, Europe) (Side 2)-image.png</image>
+		<marquee>./images/Accolade Comics - Steve Keene, Private Spy (USA, Europe) (Side 2)-marquee.png</marquee>
+		<thumbnail>./images/Accolade Comics - Steve Keene, Private Spy (USA, Europe) (Side 2)-thumb.png</thumbnail>
+		<manual>./manuals/Accolade Comics - Steve Keene, Private Spy (USA, Europe) (Side 2)-manual.pdf</manual>
+		<releasedate>19870401T000000</releasedate>
+		<developer>Distinctive Software</developer>
+		<publisher>Accolade</publisher>
+		<genre>Adventure</genre>
+		<md5>452467f73632d5b5864eb136aaa4f264</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T104801" />
+	</game>
+	<game id="109456">
+		<path>./No-Intro/PP/Accolade Comics - Steve Keene, Private Spy (USA, Europe) (Side 3).nib</path>
+		<name>Accolade Comics</name>
+		<desc>A young boy reads his favorite comic book about secret agent Steve Keene. The story begins when agent Keene's boss sends him on one of two missions: to Vienna to investigate the mysterious disappearance of a famous professor, or to solve the mystery of strange self-replicating non-functioning fire hydrants.
+
+While reading from page to page like a comic magazine you can interact with the characters when you choose what Keene should do or say; sometimes you even can take control over Keene to surpass action sequences.</desc>
+		<image>./images/Accolade Comics - Steve Keene, Private Spy (USA, Europe) (Side 3)-image.png</image>
+		<marquee>./images/Accolade Comics - Steve Keene, Private Spy (USA, Europe) (Side 3)-marquee.png</marquee>
+		<thumbnail>./images/Accolade Comics - Steve Keene, Private Spy (USA, Europe) (Side 3)-thumb.png</thumbnail>
+		<manual>./manuals/Accolade Comics - Steve Keene, Private Spy (USA, Europe) (Side 3)-manual.pdf</manual>
+		<releasedate>19870401T000000</releasedate>
+		<developer>Distinctive Software</developer>
+		<publisher>Accolade</publisher>
+		<genre>Adventure</genre>
+		<md5>200db3f2e28380075b4cdc40405c2e13</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T104810" />
+	</game>
+	<game>
+		<path>./No-Intro/PP/Accolade Comics - Steve Keene, Private Spy (USA, Europe) (Side 4).nib</path>
+		<name>Accolade Comics - Steve Keene, Private Spy (USA, Europe) (Side 4)</name>
+		<md5>4e09ffcc5b85392701d47887b712ba23</md5>
 	</game>
 </gameList>
