@@ -1,0 +1,365 @@
+<?xml version="1.0"?>
+<gameList>
+	<game id="114288">
+		<path>./No-Intro/LOGO (USA) (Program).d64</path>
+		<name>Logo</name>
+		<image>./images/LOGO (USA) (Program)-image.png</image>
+		<marquee>./images/LOGO (USA) (Program)-marquee.png</marquee>
+		<thumbnail>./images/LOGO (USA) (Program)-thumb.png</thumbnail>
+		<releasedate>19900101T000000</releasedate>
+		<publisher>Starbyte Software</publisher>
+		<md5>7c1922486fae09237527cc07a89039b0</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T001048" />
+	</game>
+	<game>
+		<path>./TOSEC/Educational/[PRG]/Add and Subtract (1984)(CBM)(US)/Add and Subtract (1984)(CBM)(US).prg</path>
+		<name>Add and Subtract (1984)(CBM)(US)</name>
+		<md5>99fc06f3d04aa6b23def74b69ce3a51f</md5>
+		<scrap name="ScreenScraper" date="20231102T001050" />
+	</game>
+	<game>
+		<path>./TOSEC/Educational/[TAP]/Add and Subtract (1984)(CBM)(US)/Add and Subtract (1984)(CBM)(US).tap</path>
+		<name>Add and Subtract (1984)(CBM)(US)</name>
+		<md5>f6a5929a538b635f7b31f12d1e218359</md5>
+		<scrap name="ScreenScraper" date="20231102T001052" />
+	</game>
+	<game id="268370">
+		<path>./TOSEC/Games/[D64]/3D Grandmaster (19xx)(Robot Software)/3D Grandmaster (19xx)(Robot Software).d64</path>
+		<name>3D Grandmaster</name>
+		<md5>ce7a38deeb0fb43c41097c28e16be9ee</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T001058" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[D64]/Adventure 64 (19xx)(-)(FW)/Adventure 64 (19xx)(-)(FW).d64</path>
+		<name>Adventure 64 (19xx)(-)(FW)</name>
+		<md5>241d48b91ec9a61222982febe94d67da</md5>
+		<scrap name="ScreenScraper" date="20231102T001057" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[D64]/Adventure Plus4 (19xx)(-)/Adventure Plus4 (19xx)(-).d64</path>
+		<name>Adventure Plus4 (19xx)(-)</name>
+		<md5>7cf35af89f366f30dc878c5ab8dd0d4c</md5>
+		<scrap name="ScreenScraper" date="20231102T001059" />
+	</game>
+	<game id="180657">
+		<path>./TOSEC/Games/[D64]/Army Force (19xx)(-)(NTSC)(FW)/Army Force (19xx)(-)(NTSC)(FW).d64</path>
+		<name>Army-force</name>
+		<image>./images/Army Force (19xx)(-)(NTSC)(FW)-image.png</image>
+		<md5>510401cde01d9aa6038a89901b29eb65</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T001102" />
+	</game>
+	<game id="180629">
+		<path>./TOSEC/Games/[D64]/Auld Lang Syne (19xx)(BushRat)(US)/Auld Lang Syne (19xx)(BushRat)(US).d64</path>
+		<name>Auld Lang Syne</name>
+		<image>./images/Auld Lang Syne (19xx)(BushRat)(US)-image.png</image>
+		<md5>5daf0c91c6476736bb96d406d115f5f4</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T001106" />
+	</game>
+	<game id="181020">
+		<path>./TOSEC/Games/[D64]/Orathan (19xx)(Paul Allan Panks)[b]/Orathan (19xx)(Paul Allan Panks)[b].d64</path>
+		<name>Orathan</name>
+		<image>./images/Orathan (19xx)(Paul Allan Panks)[b]-image.png</image>
+		<md5>d1982efd736f300c9ca79ea67c62312a</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T001110" />
+	</game>
+	<game id="181020">
+		<path>./TOSEC/Games/[D64]/Orathan (19xx)(Paul Allan Panks)[b][a]/Orathan (19xx)(Paul Allan Panks)[b][a].d64</path>
+		<name>Orathan</name>
+		<image>./images/Orathan (19xx)(Paul Allan Panks)[b][a]-image.png</image>
+		<md5>a597982f850c3cf0d5b2a95b479e49ad</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T001116" />
+	</game>
+	<game id="126880">
+		<path>./TOSEC/Games/[PRG]/0 and X (19xx)(-)(FW)/0 and X (19xx)(-)(FW).prg</path>
+		<name>0 and X</name>
+		<desc>0 and X is a game of noughts and crosses in three dimensions in a cube 4x4x4. All you have to do is fill a complete row, column or diagonal with X's, in any dimension!!!!</desc>
+		<image>./images/0 and X (19xx)(-)(FW)-image.png</image>
+		<video>./videos/0 and X (19xx)(-)(FW)-video.mp4</video>
+		<thumbnail>./images/0 and X (19xx)(-)(FW)-thumb.png</thumbnail>
+		<releasedate>19860101T000000</releasedate>
+		<publisher>Robtek Ltd.</publisher>
+		<genre>Thinking</genre>
+		<players>1</players>
+		<md5>18c64f2a0cb55f79c60c613a8952d28f</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T001121" />
+	</game>
+	<game id="122865">
+		<path>./TOSEC/Games/[PRG]/1000 Miles (1984)(CBM)(US)/1000 Miles (1984)(CBM)(US).prg</path>
+		<name>1.000 Miles</name>
+		<desc>1000 Miles is based on the french card games called Mille Bornes. The player competes against the computer to reach 1000 miles first. Each player gets seven cards, which can be miles cards for getting closer to your goal or positive or negative cards. Negative cards can be played to cause a flat tire for your opponent, letting him have a crash or other effects. The positive cards can be used to negate the effects of negative cards the opponent played on you.</desc>
+		<image>./images/1000 Miles (1984)(CBM)(US)-image.png</image>
+		<video>./videos/1000 Miles (1984)(CBM)(US)-video.mp4</video>
+		<thumbnail>./images/1000 Miles (1984)(CBM)(US)-thumb.png</thumbnail>
+		<developer>F.H. Covitz</developer>
+		<publisher>F.H. Covitz</publisher>
+		<genre>Board game</genre>
+		<players>1</players>
+		<md5>0bc3b9cfa7e483a511f5ed3d5ddaa624</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T001128" />
+	</game>
+	<game id="268362">
+		<path>./TOSEC/Games/[PRG]/3 of a Kind (19xx)(-)(FW)/3 of a Kind (19xx)(-)(FW).prg</path>
+		<name>3 of a Kind</name>
+		<md5>ac65db36870104ae568804182fab899d</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T001131" />
+	</game>
+	<game id="268366">
+		<path>./TOSEC/Games/[PRG]/3D Construction Kit Demogame (19xx)(-)(FW)/3D Construction Kit Demogame (19xx)(-)(FW).prg</path>
+		<name>3D Construction Kit Demogame</name>
+		<image>./images/3D Construction Kit Demogame (19xx)(-)(FW)-image.png</image>
+		<md5>f59885d9fdc4ab6807660bff0eb23982</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T001135" />
+	</game>
+	<game id="268370">
+		<path>./TOSEC/Games/[PRG]/3D Grandmaster (19xx)(Robot Software)[G3793]/3D Grandmaster (19xx)(Robot Software)[G3793].prg</path>
+		<name>3D Grandmaster</name>
+		<md5>544daf2e84bc0d5fd44795e72237bd25</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T001137" />
+	</game>
+	<game id="268382">
+		<path>./TOSEC/Games/[PRG]/A Bolcsek Kove (1988)(Tihor, Miklos)[cr PPCS]/A Bolcsek Kove (1988)(Tihor, Miklos)[cr PPCS].prg</path>
+		<name>A Bolcsek Kove</name>
+		<desc>In an distant kingdom where people always lived in happiness and peace, a cunning and cruel monster, Zaalro, appeared. He decided to bring everything and everyone under his control, and to extend his dark empire to all the great shores of the continent.
+
+The natives were powerless against his military, as they had never made weapons. However, a scientist named Vang Tu found the Stone of Sages and decided to use the knowledge he gained to overthrow Zaalro's rule. However, he was killed before he could carry out his plan.
+
+Will you, the descendant of Vang Tu, manage to find the stone before the terrible warriors of Zaalro destroy it?</desc>
+		<developer>Tihor Miklos</developer>
+		<publisher>Novotrade</publisher>
+		<genre>Adventure / Graphics</genre>
+		<players>1</players>
+		<md5>57a84031ff75d0a1d1b769fe1fd9733b</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T001140" />
+	</game>
+	<game id="268398">
+		<path>./TOSEC/Games/[PRG]/Action for Two (19xx)(-)(FW)/Action for Two (19xx)(-)(FW).prg</path>
+		<name>Action for Two</name>
+		<md5>a9a6f4b07aac6150901b0e9ef7cdb248</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T001143" />
+	</game>
+	<game id="268954">
+		<path>./TOSEC/Games/[PRG]/Adventure 1 (19xx)(O'Hare, John)(FW)/Adventure 1 (19xx)(O'Hare, John)(FW).prg</path>
+		<name>Adventure 1</name>
+		<md5>4d63bf8e79633f1a841d3e066abc73c6</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T001145" />
+	</game>
+	<game id="268956">
+		<path>./TOSEC/Games/[PRG]/Adventure 2 (19xx)(O'Hare, John)(FW)/Adventure 2 (19xx)(O'Hare, John)(FW).prg</path>
+		<name>Adventure 2</name>
+		<md5>70dce6a47cfbd180c5e0528a7fa71ad1</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T001148" />
+	</game>
+	<game id="268956">
+		<path>./TOSEC/Games/[PRG]/Adventure 2 (19xx)(O'Hare, John)(FW)[enhanced version]/Adventure 2 (19xx)(O'Hare, John)(FW)[enhanced version].prg</path>
+		<name>Adventure 2</name>
+		<md5>d4f17dad110585477f0cd3a28ad5beb8</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T001150" />
+	</game>
+	<game id="268958">
+		<path>./TOSEC/Games/[PRG]/Adventure 3 (19xx)(O'Hare, John)(FW)/Adventure 3 (19xx)(O'Hare, John)(FW).prg</path>
+		<name>Adventure 3</name>
+		<md5>0e7ab6bc9c03afe01547639469db9325</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T001153" />
+	</game>
+	<game id="268404">
+		<path>./TOSEC/Games/[PRG]/Advinman (demo) (19xx)(-)(FW)/Advinman (demo) (19xx)(-)(FW).prg</path>
+		<name>Advinman</name>
+		<md5>128a324628498f87c94a68608346bb79</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T001155" />
+	</game>
+	<game id="268960">
+		<path>./TOSEC/Games/[PRG]/African Adventure (19xx)(-)(FW)/African Adventure (19xx)(-)(FW).prg</path>
+		<name>African Adventure</name>
+		<md5>70d953ae06623bc45fd757997068389b</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T001157" />
+	</game>
+	<game id="109496">
+		<path>./TOSEC/Games/[PRG]/African Safari (19xx)(-)(FW)/African Safari (19xx)(-)(FW).prg</path>
+		<name>African Safari</name>
+		<desc>You play the role of Dr. Livingstone, who must explore a national park near the Zambezi River with the help of a monkey in his quest for the long lost Kenyan Diamond.</desc>
+		<image>./images/African Safari (19xx)(-)(FW)-image.png</image>
+		<marquee>./images/African Safari (19xx)(-)(FW)-marquee.png</marquee>
+		<thumbnail>./images/African Safari (19xx)(-)(FW)-thumb.png</thumbnail>
+		<releasedate>19840101T000000</releasedate>
+		<publisher>Interdisc</publisher>
+		<genre>Adventure / Text</genre>
+		<players>1</players>
+		<md5>83c873f01e057b5d5494a2404a99090e</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T001204" />
+	</game>
+	<game id="268408">
+		<path>./TOSEC/Games/[PRG]/Against In The Underground (19xx)(SchinKengrell-Soft)[h Terrorists]/Against In The Underground (19xx)(SchinKengrell-Soft)[h Terrorists].prg</path>
+		<name>Against In The Underground</name>
+		<md5>74833b438d75b428996cea4f8aa2ef85</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T001206" />
+	</game>
+	<game id="268412">
+		<path>./TOSEC/Games/[PRG]/Airfox (19xx)(-)(FW)/Airfox (19xx)(-)(FW).prg</path>
+		<name>Airfox</name>
+		<md5>8b7e7e2ba2af88bc66f5ea13c17c0599</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T001208" />
+	</game>
+	<game id="35855">
+		<path>./TOSEC/Games/[PRG]/Airwolf (1985)(Angel-Soft)/Airwolf (1985)(Angel-Soft).prg</path>
+		<name>Airwolf</name>
+		<desc>The game of the TV show is viewed from the side and puts you in command of an attack helicopter. Your task is to rescue 5 scientists from an underground lair by destroying its layer of protection and then getting to the core.  Moving onto a screen at a time you must shoot out anything and everything in your path, including lots of regenerating static targets. Realistic gravity takes effect, so you can't simply hover in a set position.</desc>
+		<image>./images/Airwolf (1985)(Angel-Soft)-image.png</image>
+		<video>./videos/Airwolf (1985)(Angel-Soft)-video.mp4</video>
+		<marquee>./images/Airwolf (1985)(Angel-Soft)-marquee.png</marquee>
+		<thumbnail>./images/Airwolf (1985)(Angel-Soft)-thumb.png</thumbnail>
+		<fanart>./images/Airwolf (1985)(Angel-Soft)-fanart.jpg</fanart>
+		<bezel>./images/Airwolf (1985)(Angel-Soft)-bezel.png</bezel>
+		<rating>0.6</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Elite Systems</developer>
+		<publisher>Elite Systems</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
+		<md5>26fe4aa46d2ff557a7f3111379d51b8a</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T001219" />
+	</game>
+	<game id="122195">
+		<path>./TOSEC/Games/[PRG]/Ambush! (1980)(Bayman, Phil)(FW)/Ambush! (1980)(Bayman, Phil)(FW).prg</path>
+		<name>Ambush</name>
+		<desc>Ambush is a space shooter which is played on a single screen with no scrolling. You can move your vessel all over the screen, shooting at enemies or avoiding collision with them. Enemies enter the screen from the top and move at various directions and speeds toward the bottom (they bounce and change direction when hitting the left or right side of the screen). When hitting one of them they split into smaller ones, which may have a changed direction and movement speed (this is repeated for the first and sometimes for the second hit).</desc>
+		<image>./images/Ambush! (1980)(Bayman, Phil)(FW)-image.png</image>
+		<marquee>./images/Ambush! (1980)(Bayman, Phil)(FW)-marquee.png</marquee>
+		<thumbnail>./images/Ambush! (1980)(Bayman, Phil)(FW)-thumb.png</thumbnail>
+		<releasedate>19840101T000000</releasedate>
+		<publisher>Virgin</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<players>1</players>
+		<md5>6dc07aecbddf09889effd08f58766ee0</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T001225" />
+	</game>
+	<game id="133301">
+		<path>./TOSEC/Games/[PRG]/Android Nim (1984)(CBM)(US)/Android Nim (1984)(CBM)(US).prg</path>
+		<name>Android Nim</name>
+		<image>./images/Android Nim (1984)(CBM)(US)-image.png</image>
+		<publisher>Don Dennis &amp; Pete Gerrard</publisher>
+		<md5>723565eb47a2d01c511c54b7fcd34da7</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T001229" />
+	</game>
+	<game id="268448">
+		<path>./TOSEC/Games/[PRG]/Apokalipse (19xx)(Orban, Krisztian)(FW)/Apokalipse (19xx)(Orban, Krisztian)(FW).prg</path>
+		<name>Apokalipse</name>
+		<md5>cb58a9bf6983bc7d4193d6ecd0b39cef</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T001231" />
+	</game>
+	<game id="268454">
+		<path>./TOSEC/Games/[PRG]/Arca-Noid (19xx)(M&amp;M)(FW)/Arca-Noid (19xx)(M&amp;M)(FW).prg</path>
+		<name>Arca-Noid</name>
+		<image>./images/Arca-Noid (19xx)(M&amp;M)(FW)-image.jpg</image>
+		<md5>0fcca4e1542160a0a0c3067cf62f238d</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T001235" />
+	</game>
+	<game id="268454">
+		<path>./TOSEC/Games/[PRG]/Arca-Noid (19xx)(M&amp;M)(FW)[a]/Arca-Noid (19xx)(M&amp;M)(FW)[a].prg</path>
+		<name>Arca-Noid</name>
+		<image>./images/Arca-Noid (19xx)(M&amp;M)(FW)[a]-image.jpg</image>
+		<md5>06bf4eac1af337480ccad2d7965a689b</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T001240" />
+	</game>
+	<game id="268456">
+		<path>./TOSEC/Games/[PRG]/Arcanoid 2 Sky (19xx)(-)(FW)/Arcanoid 2 Sky (19xx)(-)(FW).prg</path>
+		<name>Arcanoid 2 Sky</name>
+		<image>./images/Arcanoid 2 Sky (19xx)(-)(FW)-image.png</image>
+		<md5>2cb106b58d4f868198ecbd048283b9a9</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T001244" />
+	</game>
+	<game id="268458">
+		<path>./TOSEC/Games/[PRG]/Arcanoid 3 (19xx)(-)(FW)/Arcanoid 3 (19xx)(-)(FW).prg</path>
+		<name>Arcanoid 3</name>
+		<image>./images/Arcanoid 3 (19xx)(-)(FW)-image.png</image>
+		<md5>7edb4854327aaffd81acec71db8f9ad0</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T001248" />
+	</game>
+	<game id="268484">
+		<path>./TOSEC/Games/[PRG]/ASCII Chase (2017-05-31)(Caruso, Fabrizio)[64K]/ASCII Chase (2017-05-31)(Caruso, Fabrizio)[64K].prg</path>
+		<name>ASCII Chase</name>
+		<md5>cd8f2efbc7d07d404b9aac3b56e59aa7</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T001251" />
+	</game>
+	<game id="268484">
+		<path>./TOSEC/Games/[PRG]/ASCII Chase (2017-06-01)(Caruso, Fabrizio)/ASCII Chase (2017-06-01)(Caruso, Fabrizio).prg</path>
+		<name>ASCII Chase</name>
+		<md5>26501336cafb93386180384daafdd7fa</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T001253" />
+	</game>
+	<game id="268484">
+		<path>./TOSEC/Games/[PRG]/ASCII Chase (2017-06-01)(Caruso, Fabrizio)[64K]/ASCII Chase (2017-06-01)(Caruso, Fabrizio)[64K].prg</path>
+		<name>ASCII Chase</name>
+		<md5>cd8f2efbc7d07d404b9aac3b56e59aa7</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T001256" />
+	</game>
+	<game id="268484">
+		<path>./TOSEC/Games/[PRG]/ASCII Chase (2017-06-01)(Caruso, Fabrizio)[a]/ASCII Chase (2017-06-01)(Caruso, Fabrizio)[a].prg</path>
+		<name>ASCII Chase</name>
+		<md5>18bc114e1517a43c821a6a6542ad5425</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T001258" />
+	</game>
+	<game id="268484">
+		<path>./TOSEC/Games/[PRG]/ASCII Chase (2017-06-02)(Caruso, Fabrizio)/ASCII Chase (2017-06-02)(Caruso, Fabrizio).prg</path>
+		<name>ASCII Chase</name>
+		<md5>aac060f214175a6dc5292dac350a6212</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T001300" />
+	</game>
+	<game id="268484">
+		<path>./TOSEC/Games/[PRG]/ASCII Chase (2017-06-03)(Caruso, Fabrizio)/ASCII Chase (2017-06-03)(Caruso, Fabrizio).prg</path>
+		<name>ASCII Chase</name>
+		<md5>7ae1c45e9c0f6d564c2a4e0309ed8b88</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T001303" />
+	</game>
+	<game id="268484">
+		<path>./TOSEC/Games/[PRG]/ASCII Chase (2017-06-03)(Caruso, Fabrizio)[a]/ASCII Chase (2017-06-03)(Caruso, Fabrizio)[a].prg</path>
+		<name>ASCII Chase</name>
+		<md5>81dd83060e0803e2b8fb05e63c999f71</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231102T001306" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[PRG]/ASCII Chase (2017-06-04)(Caruso, Fabrizio)/ASCII Chase (2017-06-04)(Caruso, Fabrizio).prg</path>
+		<name>ASCII Chase (2017-06-04)(Caruso, Fabrizio)</name>
+		<md5>a0672a5da988b1a7ee48ca49ee547768</md5>
+	</game>
+</gameList>
