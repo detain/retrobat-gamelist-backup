@@ -1,326 +1,5 @@
 <?xml version="1.0"?>
 <gameList>
-	<game id="251571">
-		<path>./TOSEC-ISO/Applications/[ISO]/3DO Game Guru (1995)(3DO Company)(EU-US)[!].cue</path>
-		<name>ZZZ(notgame):3DO Game Guru</name>
-		<thumbnail>./images/3DO Game Guru (1995)(3DO Company)(EU-US)[!]-thumb.jpg</thumbnail>
-		<boxback>./images/3DO Game Guru (1995)(3DO Company)(EU-US)[!]-boxback.jpg</boxback>
-		<rating>0</rating>
-		<hidden>true</hidden>
-		<lastplayed>20230222T000000</lastplayed>
-		<crc32>E101D911</crc32>
-		<md5>8815accba164d89581c2554ca4b2e92c</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231005T183535" />
-		<scrap name="TheGamesDB" date="20230316T181041" />
-		<scrap name="HfsDB" date="20230316T075952" />
-	</game>
-	<game id="190691">
-		<path>./TOSEC-ISO/Educational/[ISO]/DinoPark Tycoon (1994)(MECC)(US).cue</path>
-		<name>Dinopark Tycoon</name>
-		<desc>One of the more original "business" games made, DinoPark Tycoon is both a strategy and educational game. Build a theme park showing off various types of dinosaurs.
-
-You are in charge, and have to do many things, including:borrowing money
-buying and selling dinosaurs
-buying fences to keep them in, including electric fences for extra security
-hiring staff, such as maintenance, cooks, tour guides, vets
-building and expanding your park to include things such as washrooms, concession stands, and parking lots
-setting admission fees
-advertising your parkTo aid you in making decisions, the game includes these plus more features:dinosaur fact guide
-daily records
-quarterly financial reports
-calenderThere are many more features, such as the ability to buy seeds so you can grow your own plant life for the herbivores. If you want to take a break from the business part, you can watch your park and see people walking through the park and other things.</desc>
-		<image>./images/DinoPark Tycoon (1994)(MECC)(US)-image.png</image>
-		<video>./videos/DinoPark Tycoon (1994)(MECC)(US)-video.mp4</video>
-		<marquee>./images/DinoPark Tycoon (1994)(MECC)(US)-marquee.png</marquee>
-		<thumbnail>./images/DinoPark Tycoon (1994)(MECC)(US)-thumb.png</thumbnail>
-		<manual>./manuals/DinoPark Tycoon (1994)(MECC)(US)-manual.pdf</manual>
-		<boxback>./images/DinoPark Tycoon (1994)(MECC)(US)-boxback.png</boxback>
-		<rating>0.7</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Manley &amp; Associates, Inc.</developer>
-		<publisher>MECC</publisher>
-		<genre>Educational / Build And Management</genre>
-		<players>1</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<crc32>183F9EE5</crc32>
-		<md5>07f85c5d9c42173f10ce9fcb11da8728</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20231005T183537" />
-		<scrap name="TheGamesDB" date="20230316T181042" />
-		<scrap name="HfsDB" date="20230316T080052" />
-	</game>
-	<game id="14390">
-		<path>./TOSEC-ISO/Educational/[ISO]/Fatty Bear's Birthday Surprise (1993)(Humongous Entertainment)(US)[!].cue</path>
-		<name>Fatty Bear's Birthday Surprise</name>
-		<desc>Fatty Bear's Birthday Surprise is the second video game made by Humongous Entertainment (the first being Putt-Putt Joins the Parade) and the first and only of the Fatty Bear point and click adventure games, though the character was also used in the mini-game compilation Fatty Bear's Fun Pack and the crossover spinoff Putt-Putt &amp; Fatty Bear's Activity Pack, which was a combination of the previous game as well as a similar game featuring HE's character Putt-Putt. It was released in 1993 on both floppy disks and CD-ROM for DOS and Macintosh as well as the 3DO Interactive Multiplayer.</desc>
-		<image>./images/Fatty Bear's Birthday Surprise (1993)(Humongous Entertainment)(US)[!]-image.png</image>
-		<video>./videos/Fatty Bear's Birthday Surprise (1993)(Humongous Entertainment)(US)[!]-video.mp4</video>
-		<marquee>./images/Fatty Bear's Birthday Surprise (1993)(Humongous Entertainment)(US)[!]-marquee.png</marquee>
-		<thumbnail>./images/Fatty Bear's Birthday Surprise (1993)(Humongous Entertainment)(US)[!]-thumb.png</thumbnail>
-		<manual>./manuals/Fatty Bear's Birthday Surprise (1993)(Humongous Entertainment)(US)[!]-manual.pdf</manual>
-		<boxback>./images/Fatty Bear's Birthday Surprise (1993)(Humongous Entertainment)(US)[!]-boxback.png</boxback>
-		<rating>0.6</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Humongous Entertainment</developer>
-		<publisher>Humongous Entertainment</publisher>
-		<genre>Adventure</genre>
-		<family>Fatty Bear</family>
-		<players>1-10</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<crc32>26236507</crc32>
-		<md5>6a7dfaf8c0d985ac55e0a11996b52acc</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20231005T183539" />
-		<scrap name="TheGamesDB" date="20230316T181043" />
-		<scrap name="HfsDB" date="20230316T080053" />
-	</game>
-	<game id="248925">
-		<path>./TOSEC-ISO/Educational/[ISO]/Fatty Bear's Funpack (1993)(Humongous Entertainment)(US)[!].cue</path>
-		<name>Fatty Bear's Funpack</name>
-		<desc>Fatty Bear's Fun Pack was Fatty Bear's final appearance as a solo character, but he still did made a cameo in Putt-Putt Saves The Zoo and was referenced in many games afterward. Activities/games included Reversi, Go Fish, Lines and Boxes, Tangrams, and Coloring, all five of which reappeared in Putt-Putt &amp; Fatty Bear's Activity Pack.</desc>
-		<image>./images/Fatty Bear's Funpack (1993)(Humongous Entertainment)(US)[!]-image.png</image>
-		<video>./videos/Fatty Bear's Funpack (1993)(Humongous Entertainment)(US)[!]-video.mp4</video>
-		<marquee>./images/Fatty Bear's Funpack (1993)(Humongous Entertainment)(US)[!]-marquee.png</marquee>
-		<thumbnail>./images/Fatty Bear's Funpack (1993)(Humongous Entertainment)(US)[!]-thumb.png</thumbnail>
-		<manual>./manuals/Fatty Bear's Funpack (1993)(Humongous Entertainment)(US)[!]-manual.pdf</manual>
-		<boxback>./images/Fatty Bear's Funpack (1993)(Humongous Entertainment)(US)[!]-boxback.png</boxback>
-		<rating>0.8</rating>
-		<developer>Humongous Entertainment</developer>
-		<publisher>Humongous Entertainment</publisher>
-		<genre>Various</genre>
-		<family>Fatty Bear</family>
-		<players>1</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<crc32>1DD3937C</crc32>
-		<md5>8c2a40fd5af0b9e54e576a7251e478f7</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20231005T183541" />
-		<scrap name="TheGamesDB" date="20230316T181044" />
-		<scrap name="HfsDB" date="20230316T080054" />
-	</game>
-	<game id="14333">
-		<path>./TOSEC-ISO/Educational/[ISO]/Fun 'n Games (1993)(Panasonic)(US)[!].cue</path>
-		<name>Fun 'n' Games</name>
-		<desc>This version of Fun 'N Games is a bit different from this version of the game. The paint, music, and style portion of this game are basically the same as the other version of the game, so the main difference is that there are a few more and different games in this version. 
-
-The games included are:
-
-
-"Max &amp; Maxine" is a Pac-Man  type game in which the player controls a mouse trying to collect all the cheese in the maze while avoiding getting hit by enemies. If the mouse eats a power up, it doubles in size and can now eat the enemies for a limited amount of time before it returns to normal size.
-"Space Cadet" has the player shooting enemies from the cockpit of a spaceship.
-"Aquashark" is a typical horizontal shoot-em up with the setting of the oceans of the future.
-"Whereabouts" is the typical memory match game where the player flips over cards trying to match them to other flipped over cards.
-"Sliding Puzzle" lets the player choose a picture to get scrambled and it's up to the player to slide the tiles into the correct positions to get the picture complete again.</desc>
-		<image>./images/Fun 'n Games (1993)(Panasonic)(US)[!]-image.png</image>
-		<video>./videos/Fun 'n Games (1993)(Panasonic)(US)[!]-video.mp4</video>
-		<marquee>./images/Fun 'n Games (1993)(Panasonic)(US)[!]-marquee.png</marquee>
-		<thumbnail>./images/Fun 'n Games (1993)(Panasonic)(US)[!]-thumb.png</thumbnail>
-		<boxback>./images/Fun 'n Games (1993)(Panasonic)(US)[!]-boxback.png</boxback>
-		<rating>0.8</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Williams</developer>
-		<publisher>Panasonic</publisher>
-		<genre>Various</genre>
-		<players>1</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<crc32>13B0A3E7</crc32>
-		<md5>76f09933b000336bbb473ecaf715389f</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20231005T183542" />
-		<scrap name="TheGamesDB" date="20230316T181046" />
-		<scrap name="HfsDB" date="20230316T080153" />
-	</game>
-	<game id="153420">
-		<path>./TOSEC-ISO/Educational/[ISO]/Mathemagics - An Interactive Learning Cube (1994)(L3)(US)[!].cue</path>
-		<name>ZZZ(notgame):Mathemagics - An Interactive Learning Cube</name>
-		<video>./videos/Mathemagics - An Interactive Learning Cube (1994)(L3)(US)[!]-video.mp4</video>
-		<thumbnail>./images/Mathemagics - An Interactive Learning Cube (1994)(L3)(US)[!]-thumb.jpg</thumbnail>
-		<boxback>./images/Mathemagics - An Interactive Learning Cube (1994)(L3)(US)[!]-boxback.jpg</boxback>
-		<rating>0</rating>
-		<hidden>true</hidden>
-		<lastplayed>20230222T000000</lastplayed>
-		<crc32>53A761DC</crc32>
-		<md5>431acf20e91bbe2d540a2240d209ec69</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20231005T183544" />
-		<scrap name="TheGamesDB" date="20230316T181048" />
-		<scrap name="HfsDB" date="20230316T080153" />
-	</game>
-	<game id="190709">
-		<path>./TOSEC-ISO/Educational/[ISO]/Putt-Putt Goes to the Moon (1993)(Humongous Entertainment)(US)[!].cue</path>
-		<name>Putt-Putt Goes to the Moon</name>
-		<desc>When Putt-Putt visits the fireworks factory, a slip of Pep's paw sends him rocketing to the moon.  Once there, he must gather the pieces of a rocket ship to get himself and Pep back home to Earth.</desc>
-		<image>./images/Putt-Putt Goes to the Moon (1993)(Humongous Entertainment)(US)[!]-image.png</image>
-		<video>./videos/Putt-Putt Goes to the Moon (1993)(Humongous Entertainment)(US)[!]-video.mp4</video>
-		<marquee>./images/Putt-Putt Goes to the Moon (1993)(Humongous Entertainment)(US)[!]-marquee.png</marquee>
-		<thumbnail>./images/Putt-Putt Goes to the Moon (1993)(Humongous Entertainment)(US)[!]-thumb.png</thumbnail>
-		<boxback>./images/Putt-Putt Goes to the Moon (1993)(Humongous Entertainment)(US)[!]-boxback.png</boxback>
-		<rating>0.7</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Humongous Entertainment</developer>
-		<publisher>Humongous Entertainment</publisher>
-		<genre>Adventure</genre>
-		<players>1</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<crc32>5AE5EAB7</crc32>
-		<md5>125cd42cd5120ecca3d3a94ba4405772</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20231005T183546" />
-		<scrap name="TheGamesDB" date="20230316T181049" />
-		<scrap name="HfsDB" date="20230316T080253" />
-	</game>
-	<game id="190701">
-		<path>./TOSEC-ISO/Educational/[ISO]/Putt-Putt Joins the Parade (1993)(Humongous Entertainment)(US)[!][CQ 6922-2].cue</path>
-		<name>Putt-Putt Joins the Parade</name>
-		<desc>Putt-Putt, an adorable purple car, wants to join the Cartown Parade.  But, first he must earn money for a carwash, find a balloon, and get a pet (Pep, the puppy).  Children ages 3 to 8 have a great time delivering groceries and mowing lawns and learn good lessons like waiting for the green light before crossing the road.  Each screen has a multitude of fun things to click on, as well.</desc>
-		<image>./images/Putt-Putt Joins the Parade (1993)(Humongous Entertainment)(US)[!][CQ 6922-2]-image.png</image>
-		<video>./videos/Putt-Putt Joins the Parade (1993)(Humongous Entertainment)(US)[!][CQ 6922-2]-video.mp4</video>
-		<marquee>./images/Putt-Putt Joins the Parade (1993)(Humongous Entertainment)(US)[!][CQ 6922-2]-marquee.png</marquee>
-		<thumbnail>./images/Putt-Putt Joins the Parade (1993)(Humongous Entertainment)(US)[!][CQ 6922-2]-thumb.png</thumbnail>
-		<boxback>./images/Putt-Putt Joins the Parade (1993)(Humongous Entertainment)(US)[!][CQ 6922-2]-boxback.png</boxback>
-		<rating>0.7</rating>
-		<releasedate>19930622T000000</releasedate>
-		<developer>Humongous Entertainment</developer>
-		<publisher>Humongous Entertainment</publisher>
-		<genre>Adventure</genre>
-		<players>1</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<crc32>271AED5F</crc32>
-		<md5>77753c4eaf6f95ad058ea881f5f36d42</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20231005T183547" />
-		<scrap name="TheGamesDB" date="20230316T181050" />
-		<scrap name="HfsDB" date="20230316T080254" />
-	</game>
-	<game id="190701">
-		<path>./TOSEC-ISO/Educational/[ISO]/Putt-Putt Joins the Parade (1993)(Humongous Entertainment)(US)[CQ PARADE].cue</path>
-		<name>Putt-Putt Joins the Parade</name>
-		<desc>Putt-Putt, an adorable purple car, wants to join the Cartown Parade.  But, first he must earn money for a carwash, find a balloon, and get a pet (Pep, the puppy).  Children ages 3 to 8 have a great time delivering groceries and mowing lawns and learn good lessons like waiting for the green light before crossing the road.  Each screen has a multitude of fun things to click on, as well.</desc>
-		<image>./images/Putt-Putt Joins the Parade (1993)(Humongous Entertainment)(US)[CQ PARADE]-image.png</image>
-		<video>./videos/Putt-Putt Joins the Parade (1993)(Humongous Entertainment)(US)[CQ PARADE]-video.mp4</video>
-		<marquee>./images/Putt-Putt Joins the Parade (1993)(Humongous Entertainment)(US)[CQ PARADE]-marquee.png</marquee>
-		<thumbnail>./images/Putt-Putt Joins the Parade (1993)(Humongous Entertainment)(US)[CQ PARADE]-thumb.png</thumbnail>
-		<boxback>./images/Putt-Putt Joins the Parade (1993)(Humongous Entertainment)(US)[CQ PARADE]-boxback.png</boxback>
-		<rating>0.7</rating>
-		<releasedate>19930622T000000</releasedate>
-		<developer>Humongous Entertainment</developer>
-		<publisher>Humongous Entertainment</publisher>
-		<genre>Adventure</genre>
-		<players>1</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<crc32>49A9B7F2</crc32>
-		<md5>d0aa3824c72e13d8eff33dd765a3d503</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20231005T183549" />
-		<scrap name="TheGamesDB" date="20230316T181051" />
-		<scrap name="HfsDB" date="20230316T080254" />
-	</game>
-	<game id="190700">
-		<path>./TOSEC-ISO/Educational/[ISO]/Putt-Putt's Fun Pack (1993)(Humongous Entertainment)(US)[!].cue</path>
-		<name>Putt-Putt's Fun Pack</name>
-		<desc>A collection of thinking games inspired from the existing Putt-Putt games, including checkers, pinball, and tic-tac-toe.  Intended as non-violent rainy-day fun for youngsters.</desc>
-		<image>./images/Putt-Putt's Fun Pack (1993)(Humongous Entertainment)(US)[!]-image.png</image>
-		<video>./videos/Putt-Putt's Fun Pack (1993)(Humongous Entertainment)(US)[!]-video.mp4</video>
-		<marquee>./images/Putt-Putt's Fun Pack (1993)(Humongous Entertainment)(US)[!]-marquee.png</marquee>
-		<thumbnail>./images/Putt-Putt's Fun Pack (1993)(Humongous Entertainment)(US)[!]-thumb.png</thumbnail>
-		<boxback>./images/Putt-Putt's Fun Pack (1993)(Humongous Entertainment)(US)[!]-boxback.png</boxback>
-		<rating>0.6</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Humongous Entertainment</developer>
-		<publisher>Humongous Entertainment</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<crc32>0F344E90</crc32>
-		<md5>44b4448c79a9008860862c5c317ffe61</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20231005T183552" />
-		<scrap name="TheGamesDB" date="20230316T181052" />
-		<scrap name="HfsDB" date="20230316T080354" />
-	</game>
-	<game id="122941">
-		<path>./TOSEC-ISO/Educational/[ISO]/Sesame Street - Numbers (1994)(EA Kids)(US)[!].cue</path>
-		<name>Sesame Street : Numbers</name>
-		<desc>This game is meant to help children learn basic math skills such as simple addition and learning to count. The player controls a star that can scroll over interactive objects. Most objects that are clicked on give the player a short animation sequence. The game also contains radios and television sets, that when selected, let the player listen to songs and watch animated clips from the television series, respectively. The game features over an hour of footage from the television series, including songs about numbers. There is also a phone which the player can use to call a muppet and books that are read to the player.
-
-There are also a few games that can be played by visiting each muppets residence. The games include the Present Game, the Paper Clip Game, the Near and Far Game, and "I've Got Your Number."
-
-In the Present Game, players help collect a certain number of requested presents for Elmo.
-
-In the Paper Clip Game, players are challenged to find Bert's paper clip collection by following clues given by Ernie.
-
-The Near and Far Game is played with Big Bird. He hides an object on the player, and then the player selects an object and Big Bird says whether the object is close or far.
-
-In "I've Got Your Number.", the Count gives the player a simple math problem, and the player must select the correct answer.</desc>
-		<image>./images/Sesame Street - Numbers (1994)(EA Kids)(US)[!]-image.png</image>
-		<video>./videos/Sesame Street - Numbers (1994)(EA Kids)(US)[!]-video.mp4</video>
-		<marquee>./images/Sesame Street - Numbers (1994)(EA Kids)(US)[!]-marquee.png</marquee>
-		<thumbnail>./images/Sesame Street - Numbers (1994)(EA Kids)(US)[!]-thumb.png</thumbnail>
-		<boxback>./images/Sesame Street - Numbers (1994)(EA Kids)(US)[!]-boxback.png</boxback>
-		<rating>0.65</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Children's Television Workshop</developer>
-		<publisher>Philips Interactive Media</publisher>
-		<genre>Educational</genre>
-		<family>Sesame Street</family>
-		<players>1</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<crc32>8117B93A</crc32>
-		<md5>61a79f6a0abcdf86fb9e92976a0939de</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20231005T183553" />
-		<scrap name="TheGamesDB" date="20230316T181054" />
-		<scrap name="HfsDB" date="20230316T080354" />
-	</game>
-	<game id="190702">
-		<path>./TOSEC-ISO/Educational/[ISO]/Shelley Duvall's It's A Bird's Life (1992)(Sanctuary Woods)(US)[!].cue</path>
-		<name>Shelley Duvall's It's A Bird's Life</name>
-		<desc>Join a lovable group of parrots on an odyssey to the Amazon rain forest. After a fire at their Los Angeles home, the birds fly south in search of paradise and discover a whole lot more. You'll grow to love Mowgli, Pearlie, Humpty and the rest of the friendly flock as you fly along and share their many exciting experiences. As you enjoy the story, explore 60 beautifully illustrated and animated scenes to play lots of games, puzzles and other interactive activities. Join in sing-alongs and learn about world geography, the rain forest, clouds and birds. Written and narrated by Shelley Duvall, It's a Bird's Life is wholesome fun for the entire family!</desc>
-		<image>./images/Shelley Duvall's It's A Bird's Life (1992)(Sanctuary Woods)(US)[!]-image.png</image>
-		<video>./videos/Shelley Duvall's It's A Bird's Life (1992)(Sanctuary Woods)(US)[!]-video.mp4</video>
-		<marquee>./images/Shelley Duvall's It's A Bird's Life (1992)(Sanctuary Woods)(US)[!]-marquee.png</marquee>
-		<thumbnail>./images/Shelley Duvall's It's A Bird's Life (1992)(Sanctuary Woods)(US)[!]-thumb.png</thumbnail>
-		<boxback>./images/Shelley Duvall's It's A Bird's Life (1992)(Sanctuary Woods)(US)[!]-boxback.png</boxback>
-		<rating>0.6</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Sanctuary Woods</developer>
-		<publisher>Sanctuary Woods</publisher>
-		<genre>Educational</genre>
-		<players>1</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<crc32>95BCB31D</crc32>
-		<md5>8eddcb8320f330ed3510bc392fd4ce99</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20231005T183555" />
-		<scrap name="TheGamesDB" date="20230316T181055" />
-		<scrap name="HfsDB" date="20230316T080454" />
-	</game>
-	<game id="250929">
-		<path>./TOSEC-ISO/Educational/[ISO]/Slopestyle - An Interactive Learning Cube (1994)(L3)(US)[!].cue</path>
-		<name>ZZZ(notgame):Slopestyle : An Interactive Learning Cube</name>
-		<rating>0</rating>
-		<hidden>true</hidden>
-		<lastplayed>20230222T000000</lastplayed>
-		<crc32>B7CDE240</crc32>
-		<md5>523b598904aca77037322826e14efd32</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20231005T183557" />
-		<scrap name="TheGamesDB" date="20230316T181056" />
-		<scrap name="HfsDB" date="20230316T080555" />
-	</game>
 	<game id="14292">
 		<path>./TOSEC-ISO/Games/Alone in the Dark (1994)(Interplay)(US)[!].cue</path>
 		<name>Alone In The Dark</name>
@@ -451,30 +130,6 @@ Apart from Edward Carnby, the game also includes a short section (two sections i
 		<region>ru</region>
 		<scrap name="ScreenScraper" date="20231005T183604" />
 	</game>
-	<game id="14336">
-		<path>./TOSEC-ISO/Games/Ballz - The Director's Cut (1995)(Panasonic)[!].cue</path>
-		<name>Ballz : The Director's Cut</name>
-		<desc>Ballz: The Director's Cut is an improved version of the Genesis and SNES game Ballz 3D: Fighting at its Ballziest. Like the original, it's a 3D fighting game where all the characters are made out of balls. Each character has its own moves animations and combos. In the single player mode you first have to fight against all the playable characters after which there are a variety of final bosses such as a tyrannosaurus, kangaroo, scorpion, ostrich and bull. Each boss has a unique fighting style and weak spot. In multiplayer you can fight against friends.</desc>
-		<image>./media/screenshots/Ballz - The Director's Cut (1995)(Panasonic)[!].png</image>
-		<video>./media/videos/Ballz - The Director's Cut (1995)(Panasonic)[!].mp4</video>
-		<marquee>./media/marquees/Ballz - The Director's Cut (1995)(Panasonic)[!].png</marquee>
-		<thumbnail>./images/Ballz - The Director's Cut (1995)(Panasonic)[!]-thumb.png</thumbnail>
-		<manual>./manuals/Ballz - The Director's Cut (1995)(Panasonic)[!]-manual.pdf</manual>
-		<boxback>./images/Ballz - The Director's Cut (1995)(Panasonic)[!]-boxback.png</boxback>
-		<rating>0.6</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>PF Magic</developer>
-		<publisher>Panasonic</publisher>
-		<genre>Fight</genre>
-		<players>1-2</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<crc32>2C683F24</crc32>
-		<md5>f1517d78125b16f54ebae0424173cefc</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231005T183605" />
-		<scrap name="TheGamesDB" date="20230316T181056" />
-		<scrap name="HfsDB" date="20230316T080655" />
-	</game>
 	<game id="14311">
 		<path>./TOSEC-ISO/Games/Battle Chess (1993)(Interplay)(US)[!].cue</path>
 		<name>Battle Chess</name>
@@ -502,35 +157,6 @@ Multi-player support can be extended to modem and/or serial port play.</desc>
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231005T183607" />
-	</game>
-	<game id="14350">
-		<path>./TOSEC-ISO/Games/BattleSport (1995)(Studio 3DO)(US)[!].cue</path>
-		<name>Battlesport</name>
-		<desc>Battlesport simulates the sport of the future. Choose your vehicle and enter the arena to face your computer opponents to see who scores the most goals before the clock runs out.
-
-Scoring isn't easy. The ball constantly bounces over the arena, retrieved by a player constantly bombarded by opponents. A variety of weapons are available to shoot your competitor, and anyone that takes a hit while carrying the ball loses possession, sending the ball bouncing across the arena. Taking too many shots results in a temporary inability to take part in the action while your opponent happily scores goals.
-
-Winning matches increases standing in the rankings and the acquisition of cash to purchase a better vehicle and enhanced offensive or defensive items.</desc>
-		<image>./media/screenshots/BattleSport (1995)(Studio 3DO)(US)[!].png</image>
-		<video>./media/videos/BattleSport (1995)(Studio 3DO)(US)[!].mp4</video>
-		<marquee>./media/marquees/BattleSport (1995)(Studio 3DO)(US)[!].png</marquee>
-		<thumbnail>./images/BattleSport (1995)(Studio 3DO)(US)[!]-thumb.png</thumbnail>
-		<manual>./manuals/BattleSport (1995)(Studio 3DO)(US)[!]-manual.pdf</manual>
-		<boxback>./images/BattleSport (1995)(Studio 3DO)(US)[!]-boxback.png</boxback>
-		<rating>0.95</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>Cyclone Studios</developer>
-		<publisher>3DO</publisher>
-		<genre>Sports</genre>
-		<players>1</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<crc32>318B3A39</crc32>
-		<md5>2a0652b6357448aad143c2640ce611fb</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20231005T183609" />
-		<scrap name="TheGamesDB" date="20230316T181057" />
-		<scrap name="HfsDB" date="20230316T080755" />
 	</game>
 	<game id="14357">
 		<path>./TOSEC-ISO/Games/BC Racers (1995)(GoldStar)(EU-US)[!].cue</path>
@@ -5483,5 +5109,323 @@ Players can also customize weather conditions as well as choose from a plethora 
 		<scrap name="ScreenScraper" date="20231005T184146" />
 		<scrap name="TheGamesDB" date="20231103T171143" />
 		<scrap name="HfsDB" date="20230316T093933" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Applications/[ISO]/3DO Game Guru (1995)(3DO Company)(EU-US)[!].cue</path>
+		<name>3DO Game Guru</name>
+		<thumbnail>./images/3DO Game Guru (1995)(3DO Company)(EU-US)[!]-thumb.jpg</thumbnail>
+		<boxback>./images/3DO Game Guru (1995)(3DO Company)(EU-US)[!]-boxback.jpg</boxback>
+		<rating>0</rating>
+		<releasedate>19960101T000000</releasedate>
+		<genre>Action</genre>
+		<players>1</players>
+		<hidden>true</hidden>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>E101D911</crc32>
+		<md5>8815accba164d89581c2554ca4b2e92c</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T183535" />
+		<scrap name="TheGamesDB" date="20231103T180630" />
+		<scrap name="HfsDB" date="20230316T075952" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Educational/[ISO]/DinoPark Tycoon (1994)(MECC)(US).cue</path>
+		<name>DinoPark Tycoon</name>
+		<desc>The objective in DinoPark Tycoon is the successful administration of a dinosaur park. Players start off with a $5,000 loan in the retail version, or a $20,000 loan in the school version.  The money is used to pay for the land, dinosaurs, fencing, food and employees necessary to run the park and pay back the loan; failure to meet loan payments results in the park's foreclosure.  Once the loan is paid off, players may expand the park and earn profits. If players are confused, an animated dinosaur appears and guides the players through the game.</desc>
+		<image>./images/DinoPark Tycoon (1994)(MECC)(US)-image.png</image>
+		<video>./videos/DinoPark Tycoon (1994)(MECC)(US)-video.mp4</video>
+		<marquee>./images/DinoPark Tycoon (1994)(MECC)(US)-marquee.png</marquee>
+		<thumbnail>./images/DinoPark Tycoon (1994)(MECC)(US)-thumb.png</thumbnail>
+		<manual>./manuals/DinoPark Tycoon (1994)(MECC)(US)-manual.pdf</manual>
+		<boxback>./images/DinoPark Tycoon (1994)(MECC)(US)-boxback.png</boxback>
+		<rating>0.7</rating>
+		<releasedate>19940101T000000</releasedate>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>183F9EE5</crc32>
+		<md5>07f85c5d9c42173f10ce9fcb11da8728</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231005T183537" />
+		<scrap name="TheGamesDB" date="20231103T180631" />
+		<scrap name="HfsDB" date="20230316T080052" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Educational/[ISO]/Fatty Bear's Birthday Surprise (1993)(Humongous Entertainment)(US)[!].cue</path>
+		<name>Fatty Bear's Birthday Surprise</name>
+		<image>./images/Fatty Bear's Birthday Surprise (1993)(Humongous Entertainment)(US)[!]-image.png</image>
+		<video>./videos/Fatty Bear's Birthday Surprise (1993)(Humongous Entertainment)(US)[!]-video.mp4</video>
+		<marquee>./images/Fatty Bear's Birthday Surprise (1993)(Humongous Entertainment)(US)[!]-marquee.png</marquee>
+		<thumbnail>./images/Fatty Bear's Birthday Surprise (1993)(Humongous Entertainment)(US)[!]-thumb.png</thumbnail>
+		<manual>./manuals/Fatty Bear's Birthday Surprise (1993)(Humongous Entertainment)(US)[!]-manual.pdf</manual>
+		<boxback>./images/Fatty Bear's Birthday Surprise (1993)(Humongous Entertainment)(US)[!]-boxback.png</boxback>
+		<rating>0.6</rating>
+		<releasedate>19930326T000000</releasedate>
+		<genre>Action</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>26236507</crc32>
+		<md5>6a7dfaf8c0d985ac55e0a11996b52acc</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231005T183539" />
+		<scrap name="TheGamesDB" date="20231103T180631" />
+		<scrap name="HfsDB" date="20230316T080053" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Educational/[ISO]/Fatty Bear's Funpack (1993)(Humongous Entertainment)(US)[!].cue</path>
+		<name>Fatty Bear's Funpack</name>
+		<image>./images/Fatty Bear's Funpack (1993)(Humongous Entertainment)(US)[!]-image.png</image>
+		<video>./videos/Fatty Bear's Funpack (1993)(Humongous Entertainment)(US)[!]-video.mp4</video>
+		<marquee>./images/Fatty Bear's Funpack (1993)(Humongous Entertainment)(US)[!]-marquee.png</marquee>
+		<thumbnail>./images/Fatty Bear's Funpack (1993)(Humongous Entertainment)(US)[!]-thumb.png</thumbnail>
+		<manual>./manuals/Fatty Bear's Funpack (1993)(Humongous Entertainment)(US)[!]-manual.pdf</manual>
+		<boxback>./images/Fatty Bear's Funpack (1993)(Humongous Entertainment)(US)[!]-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>19940806T000000</releasedate>
+		<genre>Action</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>1DD3937C</crc32>
+		<md5>8c2a40fd5af0b9e54e576a7251e478f7</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231005T183541" />
+		<scrap name="TheGamesDB" date="20231103T180632" />
+		<scrap name="HfsDB" date="20230316T080054" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Educational/[ISO]/Fun 'n Games (1993)(Panasonic)(US)[!].cue</path>
+		<name>Fun 'n Games</name>
+		<image>./images/Fun 'n Games (1993)(Panasonic)(US)[!]-image.png</image>
+		<video>./videos/Fun 'n Games (1993)(Panasonic)(US)[!]-video.mp4</video>
+		<marquee>./images/Fun 'n Games (1993)(Panasonic)(US)[!]-marquee.png</marquee>
+		<thumbnail>./images/Fun 'n Games (1993)(Panasonic)(US)[!]-thumb.png</thumbnail>
+		<boxback>./images/Fun 'n Games (1993)(Panasonic)(US)[!]-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>19950328T000000</releasedate>
+		<genre>Action</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>13B0A3E7</crc32>
+		<md5>76f09933b000336bbb473ecaf715389f</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231005T183542" />
+		<scrap name="TheGamesDB" date="20231103T180637" />
+		<scrap name="HfsDB" date="20230316T080153" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Educational/[ISO]/Mathemagics - An Interactive Learning Cube (1994)(L3)(US)[!].cue</path>
+		<name>Mathemagics, An Interactive Learning Cube</name>
+		<video>./videos/Mathemagics - An Interactive Learning Cube (1994)(L3)(US)[!]-video.mp4</video>
+		<thumbnail>./images/Mathemagics - An Interactive Learning Cube (1994)(L3)(US)[!]-thumb.jpg</thumbnail>
+		<boxback>./images/Mathemagics - An Interactive Learning Cube (1994)(L3)(US)[!]-boxback.jpg</boxback>
+		<rating>0</rating>
+		<releasedate>19940101T000000</releasedate>
+		<genre>Action</genre>
+		<players>1</players>
+		<hidden>true</hidden>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>53A761DC</crc32>
+		<md5>431acf20e91bbe2d540a2240d209ec69</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231005T183544" />
+		<scrap name="TheGamesDB" date="20231103T180637" />
+		<scrap name="HfsDB" date="20230316T080153" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Educational/[ISO]/Putt-Putt Goes to the Moon (1993)(Humongous Entertainment)(US)[!].cue</path>
+		<name>Putt-Putt Goes To The Moon</name>
+		<image>./images/Putt-Putt Goes to the Moon (1993)(Humongous Entertainment)(US)[!]-image.png</image>
+		<video>./videos/Putt-Putt Goes to the Moon (1993)(Humongous Entertainment)(US)[!]-video.mp4</video>
+		<marquee>./images/Putt-Putt Goes to the Moon (1993)(Humongous Entertainment)(US)[!]-marquee.png</marquee>
+		<thumbnail>./images/Putt-Putt Goes to the Moon (1993)(Humongous Entertainment)(US)[!]-thumb.png</thumbnail>
+		<boxback>./images/Putt-Putt Goes to the Moon (1993)(Humongous Entertainment)(US)[!]-boxback.png</boxback>
+		<rating>0.7</rating>
+		<releasedate>19940101T000000</releasedate>
+		<genre>Action</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>5AE5EAB7</crc32>
+		<md5>125cd42cd5120ecca3d3a94ba4405772</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231005T183546" />
+		<scrap name="TheGamesDB" date="20231103T180637" />
+		<scrap name="HfsDB" date="20230316T080253" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Educational/[ISO]/Putt-Putt Joins the Parade (1993)(Humongous Entertainment)(US)[!][CQ 6922-2].cue</path>
+		<name>Putt-Putt Joins The Parade</name>
+		<image>./images/Putt-Putt Joins the Parade (1993)(Humongous Entertainment)(US)[!][CQ 6922-2]-image.png</image>
+		<video>./videos/Putt-Putt Joins the Parade (1993)(Humongous Entertainment)(US)[!][CQ 6922-2]-video.mp4</video>
+		<marquee>./images/Putt-Putt Joins the Parade (1993)(Humongous Entertainment)(US)[!][CQ 6922-2]-marquee.png</marquee>
+		<thumbnail>./images/Putt-Putt Joins the Parade (1993)(Humongous Entertainment)(US)[!][CQ 6922-2]-thumb.png</thumbnail>
+		<boxback>./images/Putt-Putt Joins the Parade (1993)(Humongous Entertainment)(US)[!][CQ 6922-2]-boxback.png</boxback>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<genre>Action</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>271AED5F</crc32>
+		<md5>77753c4eaf6f95ad058ea881f5f36d42</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231005T183547" />
+		<scrap name="TheGamesDB" date="20231103T180637" />
+		<scrap name="HfsDB" date="20230316T080254" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Educational/[ISO]/Putt-Putt Joins the Parade (1993)(Humongous Entertainment)(US)[CQ PARADE].cue</path>
+		<name>Putt-Putt Joins The Parade</name>
+		<image>./images/Putt-Putt Joins the Parade (1993)(Humongous Entertainment)(US)[CQ PARADE]-image.png</image>
+		<video>./videos/Putt-Putt Joins the Parade (1993)(Humongous Entertainment)(US)[CQ PARADE]-video.mp4</video>
+		<marquee>./images/Putt-Putt Joins the Parade (1993)(Humongous Entertainment)(US)[CQ PARADE]-marquee.png</marquee>
+		<thumbnail>./images/Putt-Putt Joins the Parade (1993)(Humongous Entertainment)(US)[CQ PARADE]-thumb.png</thumbnail>
+		<boxback>./images/Putt-Putt Joins the Parade (1993)(Humongous Entertainment)(US)[CQ PARADE]-boxback.png</boxback>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<genre>Action</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>49A9B7F2</crc32>
+		<md5>d0aa3824c72e13d8eff33dd765a3d503</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231005T183549" />
+		<scrap name="TheGamesDB" date="20231103T180637" />
+		<scrap name="HfsDB" date="20230316T080254" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Educational/[ISO]/Putt-Putt's Fun Pack (1993)(Humongous Entertainment)(US)[!].cue</path>
+		<name>Putt-Putt's Fun Pack</name>
+		<image>./images/Putt-Putt's Fun Pack (1993)(Humongous Entertainment)(US)[!]-image.png</image>
+		<video>./videos/Putt-Putt's Fun Pack (1993)(Humongous Entertainment)(US)[!]-video.mp4</video>
+		<marquee>./images/Putt-Putt's Fun Pack (1993)(Humongous Entertainment)(US)[!]-marquee.png</marquee>
+		<thumbnail>./images/Putt-Putt's Fun Pack (1993)(Humongous Entertainment)(US)[!]-thumb.png</thumbnail>
+		<boxback>./images/Putt-Putt's Fun Pack (1993)(Humongous Entertainment)(US)[!]-boxback.png</boxback>
+		<rating>0.6</rating>
+		<releasedate>19940101T000000</releasedate>
+		<genre>Action</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>0F344E90</crc32>
+		<md5>44b4448c79a9008860862c5c317ffe61</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231005T183552" />
+		<scrap name="TheGamesDB" date="20231103T180637" />
+		<scrap name="HfsDB" date="20230316T080354" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Educational/[ISO]/Sesame Street - Numbers (1994)(EA Kids)(US)[!].cue</path>
+		<name>Sesame Street Numbers</name>
+		<image>./images/Sesame Street - Numbers (1994)(EA Kids)(US)[!]-image.png</image>
+		<video>./videos/Sesame Street - Numbers (1994)(EA Kids)(US)[!]-video.mp4</video>
+		<marquee>./images/Sesame Street - Numbers (1994)(EA Kids)(US)[!]-marquee.png</marquee>
+		<thumbnail>./images/Sesame Street - Numbers (1994)(EA Kids)(US)[!]-thumb.png</thumbnail>
+		<boxback>./images/Sesame Street - Numbers (1994)(EA Kids)(US)[!]-boxback.png</boxback>
+		<rating>0.65</rating>
+		<releasedate>19940101T000000</releasedate>
+		<genre>Action</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>8117B93A</crc32>
+		<md5>61a79f6a0abcdf86fb9e92976a0939de</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231005T183553" />
+		<scrap name="TheGamesDB" date="20231103T180637" />
+		<scrap name="HfsDB" date="20230316T080354" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Educational/[ISO]/Shelley Duvall's It's A Bird's Life (1992)(Sanctuary Woods)(US)[!].cue</path>
+		<name>Shelly Duvall's It's A Bird's Life</name>
+		<image>./images/Shelley Duvall's It's A Bird's Life (1992)(Sanctuary Woods)(US)[!]-image.png</image>
+		<video>./videos/Shelley Duvall's It's A Bird's Life (1992)(Sanctuary Woods)(US)[!]-video.mp4</video>
+		<marquee>./images/Shelley Duvall's It's A Bird's Life (1992)(Sanctuary Woods)(US)[!]-marquee.png</marquee>
+		<thumbnail>./images/Shelley Duvall's It's A Bird's Life (1992)(Sanctuary Woods)(US)[!]-thumb.png</thumbnail>
+		<boxback>./images/Shelley Duvall's It's A Bird's Life (1992)(Sanctuary Woods)(US)[!]-boxback.png</boxback>
+		<rating>0.6</rating>
+		<releasedate>19940501T000000</releasedate>
+		<genre>Action</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>95BCB31D</crc32>
+		<md5>8eddcb8320f330ed3510bc392fd4ce99</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231005T183555" />
+		<scrap name="TheGamesDB" date="20231103T180638" />
+		<scrap name="HfsDB" date="20230316T080454" />
+	</game>
+	<game id="250929">
+		<path>./TOSEC-ISO/Educational/[ISO]/Slopestyle - An Interactive Learning Cube (1994)(L3)(US)[!].cue</path>
+		<name>ZZZ(notgame):Slopestyle : An Interactive Learning Cube</name>
+		<rating>0</rating>
+		<hidden>true</hidden>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>B7CDE240</crc32>
+		<md5>523b598904aca77037322826e14efd32</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231005T183557" />
+		<scrap name="TheGamesDB" date="20231103T180638" />
+		<scrap name="HfsDB" date="20230316T080555" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/Ballz - The Director's Cut (1995)(Panasonic)[!].cue</path>
+		<name>Ballz: The Director's Cut</name>
+		<desc>Ballz: The Director's Cut is an improved version of the Genesis and SNES game Ballz 3D: Fighting at its Ballziest. Like the original, it's a 3D fighting game where all the characters are made out of balls. Each character has its own moves animations and combos. In the single player mode you first have to fight against all the playable characters after which there are a variety of final bosses such as a tyrannosaurus, kangaroo, scorpion, ostrich and bull. Each boss has a unique fighting style and weak spot. In multiplayer you can fight against friends.</desc>
+		<image>./media/screenshots/Ballz - The Director's Cut (1995)(Panasonic)[!].png</image>
+		<video>./media/videos/Ballz - The Director's Cut (1995)(Panasonic)[!].mp4</video>
+		<marquee>./media/marquees/Ballz - The Director's Cut (1995)(Panasonic)[!].png</marquee>
+		<thumbnail>./images/Ballz - The Director's Cut (1995)(Panasonic)[!]-thumb.png</thumbnail>
+		<manual>./manuals/Ballz - The Director's Cut (1995)(Panasonic)[!]-manual.pdf</manual>
+		<boxback>./images/Ballz - The Director's Cut (1995)(Panasonic)[!]-boxback.png</boxback>
+		<rating>0.6</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>PF Magic</developer>
+		<publisher>Panasonic Interactive Media</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>2C683F24</crc32>
+		<md5>f1517d78125b16f54ebae0424173cefc</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231005T183605" />
+		<scrap name="TheGamesDB" date="20231103T180639" />
+		<scrap name="HfsDB" date="20230316T080655" />
+	</game>
+	<game>
+		<path>./TOSEC-ISO/Games/BattleSport (1995)(Studio 3DO)(US)[!].cue</path>
+		<name>Battlesport</name>
+		<desc>Battlesport simulates the sport of the future. Choose your vehicle and enter the arena to face your computer opponents to see who scores the most goals before the clock runs out.
+
+Scoring isn't easy. The ball constantly bounces over the arena, retrieved by a player constantly bombarded by opponents. A variety of weapons are available to shoot your competitor, and anyone that takes a hit while carrying the ball loses possession, sending the ball bouncing across the arena. Taking too many shots results in a temporary inability to take part in the action while your opponent happily scores goals.
+
+Winning matches increases standing in the rankings and the acquisition of cash to purchase a better vehicle and enhanced offensive or defensive items.</desc>
+		<image>./media/screenshots/BattleSport (1995)(Studio 3DO)(US)[!].png</image>
+		<video>./media/videos/BattleSport (1995)(Studio 3DO)(US)[!].mp4</video>
+		<marquee>./media/marquees/BattleSport (1995)(Studio 3DO)(US)[!].png</marquee>
+		<thumbnail>./images/BattleSport (1995)(Studio 3DO)(US)[!]-thumb.png</thumbnail>
+		<manual>./manuals/BattleSport (1995)(Studio 3DO)(US)[!]-manual.pdf</manual>
+		<boxback>./images/BattleSport (1995)(Studio 3DO)(US)[!]-boxback.png</boxback>
+		<rating>0.95</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Cyclone Studios</developer>
+		<publisher>The 3DO Company</publisher>
+		<genre>Action, Sports</genre>
+		<players>2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>318B3A39</crc32>
+		<md5>2a0652b6357448aad143c2640ce611fb</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231005T183609" />
+		<scrap name="TheGamesDB" date="20231103T180639" />
+		<scrap name="HfsDB" date="20230316T080755" />
 	</game>
 </gameList>
