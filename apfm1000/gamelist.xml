@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./TOSEC/Applications/APF Basic (1979)(APF)[AL100A]/basic_68.bin</path>
+		<name>basic_68</name>
+		<scrap name="TheGamesDB" date="20231103T174414" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/APF Basic (1979)(APF)[AL100A]/basic_80.bin</path>
+		<name>basic_80</name>
+		<scrap name="TheGamesDB" date="20231103T174414" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/Character Dump (2010)(Trionfo, Adam)/Character Dump (2010)(Trionfo, Adam).bin</path>
+		<name>Character Dump (2010)(Trionfo, Adam)</name>
+		<scrap name="TheGamesDB" date="20231103T174415" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/Extended Basic (1983)(Recker, R.L.)/basic_68.bin</path>
+		<name>basic_68</name>
+		<scrap name="TheGamesDB" date="20231103T174415" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/Extended Basic (1983)(Recker, R.L.)/basic_78.bin</path>
+		<name>basic_78</name>
+		<scrap name="TheGamesDB" date="20231103T174415" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/Extended Basic (1983)(Recker, R.L.)/basic_80.bin</path>
+		<name>basic_80</name>
+		<scrap name="TheGamesDB" date="20231103T174416" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/Read PIA (2010)(Trionfo, Adam)/Read PIA (2010)(Trionfo, Adam).bin</path>
+		<name>Read PIA (2010)(Trionfo, Adam)</name>
+		<scrap name="TheGamesDB" date="20231103T174416" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/Backgammon (1979)(APF)[MG1008]/Backgammon (1979)(APF)[MG1008].bin</path>
+		<name>Backgammon</name>
+		<desc>The classic board game, for either two players, or one player against the computer.</desc>
+		<thumbnail>./images/Backgammon (1979)(APF)[MG1008]-thumb.jpg</thumbnail>
+		<releasedate>19780101T000000</releasedate>
+		<genre>Strategy</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231103T174417" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/Baseball (1979)(APF)[MG1006]/Baseball (1979)(APF)[MG1006].bin</path>
+		<name>Baseball</name>
+		<desc>MG1006 Baseball</desc>
+		<thumbnail>./images/Baseball (1979)(APF)[MG1006]-thumb.jpg</thumbnail>
+		<releasedate>19780601T000000</releasedate>
+		<genre>Sports</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231103T174418" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/Blackjack (1979)(APF)[MG1007]/Blackjack (1979)(APF)[MG1007].bin</path>
+		<name>Blackjack (1979)(APF)[MG1007]</name>
+		<scrap name="TheGamesDB" date="20231103T174419" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/Boxing (1979)(APF)[MG1012]/Boxing (1979)(APF)[MG1012].bin</path>
+		<name>Boxing</name>
+		<thumbnail>./images/Boxing (1979)(APF)[MG1012]-thumb.jpg</thumbnail>
+		<releasedate>19790101T000000</releasedate>
+		<genre>Sports</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231103T174420" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/Casino 1 - Slots-Roulette-Keno (1979)(APF)[MG1009]/Casino 1 - Slots-Roulette-Keno (1979)(APF)[MG1009].bin</path>
+		<name>Casino 1 - Slots-Roulette-Keno (1979)(APF)[MG1009]</name>
+		<scrap name="TheGamesDB" date="20231103T174420" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/Catena (1979)(APF)[MG1001]/Catena (1979)(APF)[MG1001].bin</path>
+		<name>Catena (1979)(APF)[MG1001]</name>
+		<scrap name="TheGamesDB" date="20231103T174421" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/Catena (1979)(APF)[MG1002]/Catena (1979)(APF)[MG1002].bin</path>
+		<name>Catena (1979)(APF)[MG1002]</name>
+		<scrap name="TheGamesDB" date="20231103T174421" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/Space Destroyers (1979)(APF)[MG1013]/apf1013a.bin</path>
+		<name>apf1013a</name>
+		<scrap name="TheGamesDB" date="20231103T174421" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/Space Destroyers (1979)(APF)[MG1013]/apf1013b.bin</path>
+		<name>apf1013b</name>
+		<scrap name="TheGamesDB" date="20231103T174421" />
+	</game>
+</gameList>
