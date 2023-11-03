@@ -361,4 +361,18 @@
 		<scrap name="ScreenScraper" date="20221211T065556" />
 		<scrap name="ArcadeDB" date="20221212T082217" />
 	</game>
+	<game id="99443">
+		<path>./No-Intro/08002 (Taiwan).bin</path>
+		<name>ZZZ(notgame):08002</name>
+		<hidden>true</hidden>
+		<md5>927f0738d3ebe5f0d9267d05bf96b1da</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231103T015417" />
+	</game>
+	<game>
+		<path>./No-Intro/16007 (Taiwan).bin</path>
+		<name>16007 (Taiwan)</name>
+		<md5>7e7e1321ad9e4f3e1a512ab4fe3abb0c</md5>
+		<scrap name="ScreenScraper" date="20231103T015418" />
+	</game>
 </gameList>

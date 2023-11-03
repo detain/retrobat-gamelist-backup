@@ -455,4 +455,23 @@
 		<scrap name="ScreenScraper" date="20230301T193100" />
 		<scrap name="ArcadeDB" date="20221212T140005" />
 	</game>
+	<game id="418744">
+		<path>./No-Intro/Waternet (World) (Aftermarket) (Homebrew).bin</path>
+		<name>Waternet</name>
+		<desc>The aim of the game, whatever the game mode, is always to connect all the pipes so that water can flow through them from the source of the waterhole. How this is achieved depends on the game mode. The game has a help section in the main menu where you can always check the rules for each game mode.
+The game has 375 levels, spread over 3 game modes, each with 5 difficulties, so there are 25 levels per difficulty / game mode. To top it all off, the game also features a random difficulty that generates endless random levels for the game mode you've chosen.</desc>
+		<image>./images/Waternet (World) (Aftermarket) (Homebrew)-image.png</image>
+		<video>./videos/Waternet (World) (Aftermarket) (Homebrew)-video.mp4</video>
+		<marquee>./images/Waternet (World) (Aftermarket) (Homebrew)-marquee.png</marquee>
+		<thumbnail>./images/Waternet (World) (Aftermarket) (Homebrew)-thumb.png</thumbnail>
+		<releasedate>20220411T000000</releasedate>
+		<developer>joyrider3774</developer>
+		<publisher>itch.io</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<md5>34d48f05d6be1d64b22732fc03b19301</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231103T015416" />
+	</game>
 </gameList>

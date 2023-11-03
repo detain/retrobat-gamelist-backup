@@ -35,4 +35,256 @@
 		<md5>3c587d21b0b3eb6a87d3b177d8a16dae</md5>
 		<scrap name="ScreenScraper" date="20230217T163302" />
 	</game>
+	<game id="47073">
+		<path>./No-Intro/Amidar (Japan).bin</path>
+		<name>Amidar</name>
+		<desc>As a paintbush, run over the borders of each rectangle to color them in in order to complete the level, while avoiding enemies. You can force them to jump to help you if they get in your way.</desc>
+		<image>./images/Amidar (Japan)-image.png</image>
+		<video>./videos/Amidar (Japan)-video.mp4</video>
+		<marquee>./images/Amidar (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Amidar (Japan)-thumb.png</thumbnail>
+		<rating>0.45</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Parker Bros</publisher>
+		<genre>Action</genre>
+		<family>Amidar</family>
+		<players>1-2</players>
+		<md5>ee4e2d5b4617c3bf9f11016e1fe1c94e</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T005440" />
+	</game>
+	<game id="250268">
+		<path>./No-Intro/Dig Dug (Japan).bin</path>
+		<name>Dig Dug</name>
+		<desc>Dig Dug is a 1-2 player arcade game in which you have to use your shovel to dig your way through the earth. Stopping you from doing this are two monsters, called Pooka and Fygar, who will continually chase you around. The only weapon that you carry is an air pump, which you can use to inflate the monsters to the point where they explode. (if you start to inflate them but stop doing so, the monsters will get turned back to their normal selves). Furthermore, rocks are scattered throughout the earth, and you can use these rocks to squash them. If the monsters do not find you for several seconds, they will eventually get turned into ghosts, which are able to walk through the earth. They are invincible and cannot be killed. From time to time, vegetables will appear in the center, and you can get these for points.</desc>
+		<image>./images/Dig Dug (Japan)-image.png</image>
+		<video>./videos/Dig Dug (Japan)-video.mp4</video>
+		<marquee>./images/Dig Dug (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Dig Dug (Japan)-thumb.png</thumbnail>
+		<fanart>./images/Dig Dug (Japan)-fanart.jpg</fanart>
+		<rating>0.5</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Casio</publisher>
+		<genre>Action / Labyrinth</genre>
+		<family>Dig Dug</family>
+		<players>1</players>
+		<md5>4e2b1c14dca34084a7612d794642a12a</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T005449" />
+	</game>
+	<game id="250270">
+		<path>./No-Intro/Dirty Chameleon (Japan).bin</path>
+		<name>Dirty Chameleon</name>
+		<desc>A single-screen arcade platformer where you play a sneaky chameleon that wants to eat all hen's eggs, placed in nests on platforms and girders. As a chameleon, you can use your tongue both to pull yourself up to the next platform, to eat eggs and to attack enemies. All the while, the hens attack you by swooping at you and sometimes rolling flashing hard eggs at you, while a big vulture at the top of the screen throws baseballs at you. Once all eggs are eaten and all birds at killed, it's on the to the next screen, but if you leave an egg for too long, it will hatch and a new hen is born.</desc>
+		<image>./images/Dirty Chameleon (Japan)-image.png</image>
+		<video>./videos/Dirty Chameleon (Japan)-video.mp4</video>
+		<marquee>./images/Dirty Chameleon (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Dirty Chameleon (Japan)-thumb.png</thumbnail>
+		<rating>0.35</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Jaleco</developer>
+		<publisher>Casio</publisher>
+		<genre>Action / Climbing</genre>
+		<players>1-2</players>
+		<md5>c1250dc9300411c2aa5b6017f07e3176</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T005457" />
+	</game>
+	<game id="47074">
+		<path>./No-Intro/Excite Mahjong (Japan).bin</path>
+		<name>Excite Mahjong</name>
+		<desc>Excite Mahjong is a Strategy game where you will play ... mahjong. Have fun !</desc>
+		<image>./images/Excite Mahjong (Japan)-image.png</image>
+		<video>./videos/Excite Mahjong (Japan)-video.mp4</video>
+		<marquee>./images/Excite Mahjong (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Excite Mahjong (Japan)-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Casio</developer>
+		<publisher>Casio</publisher>
+		<genre>Board game</genre>
+		<players>1</players>
+		<md5>b0ef3b9523fb276772fa4433136bc5db</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T005505" />
+	</game>
+	<game id="250272">
+		<path>./No-Intro/Fighting Bug (Japan).bin</path>
+		<name>Fighting Bug</name>
+		<desc>In Fighting Bug, you're a red bug who wants to eat all the bug-gums (like in Pac-Man but with bugs). Take care to the blue bugs, but you can escape them with turning doors.</desc>
+		<image>./images/Fighting Bug (Japan)-image.png</image>
+		<video>./videos/Fighting Bug (Japan)-video.mp4</video>
+		<marquee>./images/Fighting Bug (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Fighting Bug (Japan)-thumb.png</thumbnail>
+		<rating>0.65</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Universal</developer>
+		<publisher>Casio</publisher>
+		<genre>Action / Labyrinth</genre>
+		<players>1-2</players>
+		<md5>99e9e3d677065325cb2b2030d82a4c8b</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T005513" />
+	</game>
+	<game id="250274">
+		<path>./No-Intro/Naughty Boy (Japan).bin</path>
+		<name>Naughty Boy</name>
+		<desc>Naughty Boy is a Shoot 'Em Up game from Jaleco based on the arcade game of the same name. You stand in the forest but it is not Idyllic, there are several monsters around you and a safety zone behind the red door, which the monsters cannot enter. The same type of doors appear on fences along the side of the screen. Naughty Boy can appear on the other side of the screen by passing through these doors. Naughty Boy must maneuver his way safely through the forest, past the fences and ponds and destroy the flags that are flying on the goblin-guarded fortress with thrown rocks.</desc>
+		<image>./images/Naughty Boy (Japan)-image.png</image>
+		<video>./videos/Naughty Boy (Japan)-video.mp4</video>
+		<marquee>./images/Naughty Boy (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Naughty Boy (Japan)-thumb.png</thumbnail>
+		<rating>0.4</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Jaleco</developer>
+		<publisher>Casio</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
+		<md5>ef6bfd54a18e51370e1aa9a330b66e13</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T005520" />
+	</game>
+	<game id="47075">
+		<path>./No-Intro/Pachinko-UFO (Japan).bin</path>
+		<name>Pachinko-Ufo</name>
+		<desc>Pachinko UFO is a simulator of the popular Japanese gambling pastime of pachinko with added computerised action elements. The main screen resembles a typical pachinko unit with pins for balls to bounce on, spinners for balls to put in motion, and baskets for them to land in. The baskets open and close, and so does the big feature in the middle of the screen, an airplane or spaceship with an integrated fruit-machine like counter. When a score specified by the counters is reached, the game changes to a shooter sequence, where the pachinko balls must be used to shoot down aliens. After that, the game continues to the next table.</desc>
+		<image>./images/Pachinko-UFO (Japan)-image.png</image>
+		<video>./videos/Pachinko-UFO (Japan)-video.mp4</video>
+		<marquee>./images/Pachinko-UFO (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Pachinko-UFO (Japan)-thumb.png</thumbnail>
+		<rating>0.5</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Casio</developer>
+		<publisher>Casio</publisher>
+		<genre>Casino</genre>
+		<players>1</players>
+		<md5>aefafc42cabc5c6ee40defe9ec09b488</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T005529" />
+	</game>
+	<game id="47076">
+		<path>./No-Intro/Pooyan (Japan).bin</path>
+		<name>Pooyan</name>
+		<desc>In Pooyan, you play the role of a pig, protecting its piglets from wolves. The first screen takes place near the pigs' home. Mrs. Pig rides up and down in a cable car, shooting at wolves, who are riding balloons downward, towards the ground. If the wolves land safely on the ground, then they can climb a ladder, near the cable-car, and catch Mrs. Pig. But if she shoots their balloons, they splat on the ground instead. The wolves shoot acorns at the pig. But Mrs. Pig has a food based weapon too. If she gets to the top, she can get meat, to toss at the wolves and make them jump off their balloons in pursuit. Each wolf taken out this way is worth bonus points (on a doubling scheme: 400, 800 1600...) The second scene takes place at the wolves lair. Here the wolves have reinforced balloons--it takes multiple hits to make them fall. Here they float upwards toward a big rock, which they push on top of Mrs. Pig, when seven wolves are present. Additionally, an alpha wolf (wolf leader) appears and summons wolves in packs.</desc>
+		<image>./images/Pooyan (Japan)-image.png</image>
+		<video>./videos/Pooyan (Japan)-video.mp4</video>
+		<marquee>./images/Pooyan (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Pooyan (Japan)-thumb.png</thumbnail>
+		<fanart>./images/Pooyan (Japan)-fanart.jpg</fanart>
+		<rating>0.75</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Casio</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<md5>e43b200c31cec2dd1ebe3331c4bd2bf3</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T005538" />
+	</game>
+	<game id="250276">
+		<path>./No-Intro/Space Panic (Japan).bin</path>
+		<name>Space Panic</name>
+		<desc>A game remarkably similar to Lode Runner, you play an astronaut with limited oxygen (time) chased around by various space aliens. Your only method of dealing with these multicolored threats from space is to dig a hole, lure it into a hole and then manually fill up the hole with the alien in it. Dropping aliens on top of other aliens earns you extra points and eliminates both. Levels get progressively harder and enemies grow faster.</desc>
+		<image>./images/Space Panic (Japan)-image.png</image>
+		<video>./videos/Space Panic (Japan)-video.mp4</video>
+		<marquee>./images/Space Panic (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Space Panic (Japan)-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Universal</developer>
+		<publisher>Casio</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+		<md5>156faed893080aed343d760ad7b8a7ce</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T005546" />
+	</game>
+	<game id="47077">
+		<path>./No-Intro/Super Cobra (Japan).bin</path>
+		<name>Super Cobra</name>
+		<desc>Super Cobra is a side-scrolling shooter based on the arcade game. You're a chopper pilot on a surveillance mission in enemy territory; your goal is to make it through the various obstacle courses alive and score as many points as possible. Tall buildings, mountains, narrow tunnels, and various enemies (such as tanks, rockets, mines, and more) can all get in the way and destroy your chopper if you aren't careful. To help defend yourself, the chopper is armed with a machine gun and bombs which can be used to destroy the enemy tanks and rockets. To make the task more difficult, your chopper has a limited amount of fuel. Throughout the landscapes are fuel tanks; if one of these is shot or bombed, you will be awarded extra fuel. As the levels progress, the enemies become more aggressive, fuel becomes more scarce, and the landscape becomes trickier to navigate.</desc>
+		<image>./images/Super Cobra (Japan)-image.png</image>
+		<video>./videos/Super Cobra (Japan)-video.mp4</video>
+		<marquee>./images/Super Cobra (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Super Cobra (Japan)-thumb.png</thumbnail>
+		<fanart>./images/Super Cobra (Japan)-fanart.jpg</fanart>
+		<rating>0.5</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Casio</publisher>
+		<genre>Shoot'em up / Horizontal</genre>
+		<players>1-2</players>
+		<md5>01e70f498b2e104b4714434014943e1a</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T005555" />
+	</game>
+	<game id="250278">
+		<path>./No-Intro/Turpin (Japan).bin</path>
+		<name>Turpin</name>
+		<desc>Turtles, also known as Turpin, puts you into the role of the maternalistic turtle who tries to save the kidturtles from a bunch of bad bugs (or, in some versions, bad cars). It takes place in a Pacman-esque labyrinth, with turtle boxes in the centre and corners of the screen. Run into a box to release the turtle kid inside. Opening a box makes a little house show up, and you must go with the kidturtle to the house before you can release the next one. All the while, you must avoid the bugs/cars running around the maze. If they get too close, you can release a mine which will stun them temporarily. When you run out of mines, you must resupply by passing over a star in the centre of the screen.</desc>
+		<image>./images/Turpin (Japan)-image.png</image>
+		<video>./videos/Turpin (Japan)-video.mp4</video>
+		<marquee>./images/Turpin (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Turpin (Japan)-thumb.png</thumbnail>
+		<rating>0.65</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Casio</publisher>
+		<genre>Action / Labyrinth</genre>
+		<players>1</players>
+		<md5>8fc81baf228ca5e0f353f0b3ad71d65b</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T005603" />
+	</game>
+	<game id="250280">
+		<path>./No-Intro/Tutankham (Japan).bin</path>
+		<name>Tutankham</name>
+		<desc>Tutankham is an arcade action game played from a top down point of view. You are an explorer in King Tut's tomb on a mission to retrieve as many of the valuable treasures as you can find. In addition to the treasures, you will also find a key in each of the chambers. This is needed in order to unlock the entrance to the next, more difficult chamber. Be careful, for the tomb is guarded by many dangerous creatures! Cobras, bats, scorpions, and more all appear in the maze and will cause you to lose a life if you're caught! To defend yourself you are armed with a laser gun which you can fire left or right, but not up or down. In each of the mazes you are also give one "flash" which can be used to destroy all creatures currently on the screen.</desc>
+		<image>./images/Tutankham (Japan)-image.png</image>
+		<video>./videos/Tutankham (Japan)-video.mp4</video>
+		<marquee>./images/Tutankham (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Tutankham (Japan)-thumb.png</thumbnail>
+		<rating>0.65</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Casio</publisher>
+		<genre>Action / Labyrinth</genre>
+		<players>1-2</players>
+		<md5>f08be1209a255922d219ec4aad109703</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T005611" />
+	</game>
+	<game id="250282">
+		<path>./No-Intro/Warp &amp; Warp (Japan).bin</path>
+		<name>Warp &amp; Warp</name>
+		<desc>In this game you 're in control of a monster fighter. A warp zone is set in the middle of the screen. Warp to the next level when it flashes. You should attack the monsters before they catch or shoot you. A frog turns up occasionally, shoot it for bonuses. The monsters become more vicious when they change color (they turn from yellow to red to purple). The red and the purple monsters are severe chasers.</desc>
+		<image>./images/Warp &amp; Warp (Japan)-image.png</image>
+		<video>./videos/Warp &amp; Warp (Japan)-video.mp4</video>
+		<marquee>./images/Warp &amp; Warp (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Warp &amp; Warp (Japan)-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Casio</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<md5>4ab8e4be4c3d48a2c92ecd36beb4d767</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T005619" />
+	</game>
 </gameList>

@@ -1635,4 +1635,21 @@
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231005T063604" />
 	</game>
+	<game id="430760">
+		<path>./No-Intro/Bao Qing Tian (Taiwan).bin</path>
+		<name>Bao Qing Tian</name>
+		<image>./images/Bao Qing Tian (Taiwan)-image.jpg</image>
+		<marquee>./images/Bao Qing Tian (Taiwan)-marquee.png</marquee>
+		<thumbnail>./images/Bao Qing Tian (Taiwan)-thumb.png</thumbnail>
+		<genre>Action</genre>
+		<md5>ed8e015330a21bee1c3177719338cefb</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231103T005433" />
+	</game>
+	<game>
+		<path>./No-Intro/Mighty Boxer (World).bin</path>
+		<name>Mighty Boxer (World)</name>
+		<md5>751b43c3b88fe44cbab9a4a3c46432ed</md5>
+		<scrap name="ScreenScraper" date="20231103T005433" />
+	</game>
 </gameList>

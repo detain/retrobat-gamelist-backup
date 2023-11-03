@@ -9360,4 +9360,190 @@ Stage two is a space shoot out against hordes of enemy aircraft - those you fail
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230227T230543" />
 	</game>
+	<game id="37926">
+		<path>./No-Intro/Buck Rogers - Planet of Zoom (USA) (Alt).a52</path>
+		<name>Buck Rogers : Planet of Zoom</name>
+		<desc>Fast and furious racing game taking place on a futuristic racetrack.  Guide your spaceship between the pylons and shoot down other enemy racers.
+
+Based on the arcade game (which is even more loosely based on the Buck Rogers comic strips).</desc>
+		<image>./images/Buck Rogers - Planet of Zoom (USA) (Alt)-image.png</image>
+		<video>./videos/Buck Rogers - Planet of Zoom (USA) (Alt)-video.mp4</video>
+		<marquee>./images/Buck Rogers - Planet of Zoom (USA) (Alt)-marquee.png</marquee>
+		<thumbnail>./images/Buck Rogers - Planet of Zoom (USA) (Alt)-thumb.png</thumbnail>
+		<fanart>./images/Buck Rogers - Planet of Zoom (USA) (Alt)-fanart.jpg</fanart>
+		<manual>./manuals/Buck Rogers - Planet of Zoom (USA) (Alt)-manual.pdf</manual>
+		<bezel>./images/Buck Rogers - Planet of Zoom (USA) (Alt)-bezel.png</bezel>
+		<rating>0.75</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Action</genre>
+		<family>Buck Rogers</family>
+		<players>1</players>
+		<md5>f345dd189879f8d13e4c8c5737279fa3</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T223724" />
+	</game>
+	<game id="37939">
+		<path>./No-Intro/Galaxian (USA) (Alt).a52</path>
+		<name>Galaxian</name>
+		<desc>Galaxian is a shoot 'em up in which the player is at the bottom of the screen, with an arrangement of aliens at the top. The player moves left and right to aim at an alien, then shoots a bullet up the screen, and the alien it hits is killed. The aliens are classed as Drones, Emissaries, Hornets and Commanders, with those higher up the screen scoring more points when destroyed. At set intervals an enemy will move down the screen towards you, escorting a bomber, which is a moment of high danger. Clear a wave and another is generated.</desc>
+		<image>./images/Galaxian (USA) (Alt)-image.png</image>
+		<video>./videos/Galaxian (USA) (Alt)-video.mp4</video>
+		<marquee>./images/Galaxian (USA) (Alt)-marquee.png</marquee>
+		<thumbnail>./images/Galaxian (USA) (Alt)-thumb.png</thumbnail>
+		<fanart>./images/Galaxian (USA) (Alt)-fanart.jpg</fanart>
+		<manual>./manuals/Galaxian (USA) (Alt)-manual.pdf</manual>
+		<bezel>./images/Galaxian (USA) (Alt)-bezel.png</bezel>
+		<rating>0.8</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<family>Galaxian</family>
+		<players>1-2</players>
+		<md5>670035122c35616c5259a29edd1582e4</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T223737" />
+	</game>
+	<game id="37942">
+		<path>./No-Intro/Gyruss (USA) (Alt).a52</path>
+		<name>Gyruss</name>
+		<desc>The entire solar system is being attacked by the vicious Gyrusians, and it's up to you to save the day! You will need to fly your spaceship to each of the nine planets and then clear three stages of enemies to rid that planet of the Gyrusians. You start the game with a single canon, and can gain a double canon after shooting a power up satelite. After clearing each planet, there is another bonus stage where additional weapons and bonus points can be collected. Gyruss is an arcade action shooter, however instead of piloting your spaceship horizontally or vertically, you move in a circle around the perimeter of the screen. The NES version of Gyruss adds to the original arcade version additional music, additional weapons, new enemies, and a large boss at the end of each level.</desc>
+		<image>./images/Gyruss (USA) (Alt)-image.png</image>
+		<video>./videos/Gyruss (USA) (Alt)-video.mp4</video>
+		<marquee>./images/Gyruss (USA) (Alt)-marquee.png</marquee>
+		<thumbnail>./images/Gyruss (USA) (Alt)-thumb.png</thumbnail>
+		<manual>./manuals/Gyruss (USA) (Alt)-manual.pdf</manual>
+		<bezel>./images/Gyruss (USA) (Alt)-bezel.png</bezel>
+		<rating>0.45</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Parker Brothers</publisher>
+		<genre>Shooter / Run and Gun</genre>
+		<players>1-2</players>
+		<md5>9983ab618fac2469f82bac1fc19f895b</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T223749" />
+	</game>
+	<game id="37954">
+		<path>./No-Intro/Mario Bros. (USA) (Alt).a52</path>
+		<name>Mario Bros.</name>
+		<desc>Mario and Luigi, the best plumbers in the world, have a real job on their hands. A host of characters have taken over the sewers, and the brothers must clear them out of the pipes.
+
+The platform puzzle which first introduced Luigi to the world has both single and multiplayer action with two differing game types, but with the same objective.
+Crabs, turtles and fighter flies must be cleared out by jumping underneath the platform they sit on, then kicking them away. Each level is cleared when a set number of coins is collected.
+
+For the two player mode, the first to collect the set amount of coins wins.</desc>
+		<image>./images/Mario Bros. (USA) (Alt)-image.png</image>
+		<video>./videos/Mario Bros. (USA) (Alt)-video.mp4</video>
+		<marquee>./images/Mario Bros. (USA) (Alt)-marquee.png</marquee>
+		<thumbnail>./images/Mario Bros. (USA) (Alt)-thumb.png</thumbnail>
+		<fanart>./images/Mario Bros. (USA) (Alt)-fanart.jpg</fanart>
+		<manual>./manuals/Mario Bros. (USA) (Alt)-manual.pdf</manual>
+		<bezel>./images/Mario Bros. (USA) (Alt)-bezel.png</bezel>
+		<rating>0.6</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<md5>0ad079027090c427e9d939bad318d846</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T223802" />
+	</game>
+	<game id="37984">
+		<path>./No-Intro/Star Raiders (USA) (Alternate).a52</path>
+		<name>Star Raiders</name>
+		<desc>As the pilot of an interstellar starship, your mission is to destroy all of the Krylon fighters which are closing in on your starbases! There are three different types of fighters roaming throughout the galaxy; cruisers, fighters, and basestars. With the help of your galactic map, you can find the sectors of the galaxy where these fighters are located and then warp there to destroy them. When all of the fighters in a sector are destroyed, you can warp to a new location for the next battle. Be sure to keep an eye on your starships energy; warping to new locations, being hit by enemy fire, or colliding with an asteroid will drain your energy. If you completely run out of energy, your starship will be destroyed, however you can warp back to a starbase to refuel at any time. Returning to a starbase will also repair other types of damage your starship can receive, such as faulty engines, loss of your shield, and faulty photon torpedoes. When all of the Krylon that are visible on your galactic map have been destroyed, you win this round and can advance in rank (or even be demoted if you performed poorly on a mission).  The games difficulty will gradually increase as you rise in rank from ships cook up to captain.</desc>
+		<image>./images/Star Raiders (USA) (Alternate)-image.png</image>
+		<video>./videos/Star Raiders (USA) (Alternate)-video.mp4</video>
+		<marquee>./images/Star Raiders (USA) (Alternate)-marquee.png</marquee>
+		<thumbnail>./images/Star Raiders (USA) (Alternate)-thumb.png</thumbnail>
+		<manual>./manuals/Star Raiders (USA) (Alternate)-manual.pdf</manual>
+		<bezel>./images/Star Raiders (USA) (Alternate)-bezel.png</bezel>
+		<rating>0.7</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Strategy</genre>
+		<family>Star Raiders</family>
+		<players>1</players>
+		<md5>64579ed5a28e3174262aa5283e41b66a</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T223814" />
+	</game>
+	<game id="37985">
+		<path>./No-Intro/Star Trek - Strategic Operations Simulator (USA) (Alt).a52</path>
+		<name>Star Trek : Strategic Operations Simulator</name>
+		<desc>Star Trek: Strategic Operations Simulator is an arcade action game where you take control of the Starship Enterprise. Your mission is to save the Federation from NOMAD! Before you get a chance at destroying NOMAD, you'll have to battle your way through ten levels (each consisting of multiple rounds). In each round you may encounter Klingon fighters, deadly anti-matter saucers, asteroid fields, and deadly meteors, all of which are capable of depleting the Enterprises energy. The game ends when your energy supply has completely run out. To fight these dangers, the Enterprise is equipped with an unlimited supply of phasers and a limited supply of photon torpedoes. Each round also contains one or more starbases; if you dock at a starbase, some of your supplies (such as energy and torpedoes) will be replenished. The game is played from two points of view; the top of the screen contains a third person view of the Enterprise (along with the ships gauges), and on the bottom of the screen is a first person point of view</desc>
+		<image>./images/Star Trek - Strategic Operations Simulator (USA) (Alt)-image.png</image>
+		<video>./videos/Star Trek - Strategic Operations Simulator (USA) (Alt)-video.mp4</video>
+		<marquee>./images/Star Trek - Strategic Operations Simulator (USA) (Alt)-marquee.png</marquee>
+		<thumbnail>./images/Star Trek - Strategic Operations Simulator (USA) (Alt)-thumb.png</thumbnail>
+		<fanart>./images/Star Trek - Strategic Operations Simulator (USA) (Alt)-fanart.jpg</fanart>
+		<manual>./manuals/Star Trek - Strategic Operations Simulator (USA) (Alt)-manual.pdf</manual>
+		<bezel>./images/Star Trek - Strategic Operations Simulator (USA) (Alt)-bezel.png</bezel>
+		<rating>0.9</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Simulation / SciFi</genre>
+		<family>Star Trek</family>
+		<players>1</players>
+		<md5>003646954d3fab877818d0ada756ced1</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T223828" />
+	</game>
+	<game id="44459">
+		<path>./No-Intro/Tempest (USA) (AtariAge).a52</path>
+		<name>Tempest</name>
+		<desc>Tempest is a shooter using wire-frame graphics. Each Wireway is taken on in turn, and has a network of lines guiding the movement paths of both yourself and the aliens. You remain on the outside and keep shooting as the aliens move towards you. Any that reach the outside are fatal to touch, thus limiting your range of movement greatly if 2 or more achieve this. Some aliens move sideways - in dealing with these, plan ahead allowing for the time your shots to take to travel.</desc>
+		<image>./images/Tempest (USA) (AtariAge)-image.png</image>
+		<video>./videos/Tempest (USA) (AtariAge)-video.mp4</video>
+		<marquee>./images/Tempest (USA) (AtariAge)-marquee.png</marquee>
+		<thumbnail>./images/Tempest (USA) (AtariAge)-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1-2</players>
+		<md5>a31a6e41640ce83944736ce668456631</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T223837" />
+	</game>
+	<game id="44461">
+		<path>./No-Intro/Xari Arena (USA) (Proto 2).a52</path>
+		<name>Xari Arena</name>
+		<desc>An unreleased prototype game for the Atari 5200.
+
+Your goal is to destroy all the Xari's that come out of the well in the center of the screen before they can destroy all your blocks. You can use the joystick or the trackball controller.
+ 
+Each player resembles a hollow paddle (like a capsule), which you can move around your side of the screen.  Your paddle can catch and hold up to three fireballs (the little star looking things that the Xari's shoot), and each stored fireball allows you to destroy one Xari by running into it.  If you hit a Xari without any fireballs stored in your paddle, it is temporarily stunned and you cannot catch or deflect any shots for a few seconds.  If you already have three fireballs stored up, your paddle will start reflecting the fireballs back at the Xari's (a great tactic for those hard to reach guys that won't come near you) and at your partner (which is not so good).  You can choose to reflect shots even if you don't have three fireballs stored up by pressing the bottom controller button.
+ 
+If things start to get out of control you can activate your fire extinguisher (using the top controller button) to temporarily protect your blocks.  The fire extinguisher coats your blocks with foam and will destroy any shots that touch it.  the foam moves quickly down your blocks and only lasts for a few seconds so you have to use it wisely (like when fireballs get behind your blocks).  You get one new fire extinguisher each level, which can be stored for later use.</desc>
+		<image>./images/Xari Arena (USA) (Proto 2)-image.png</image>
+		<video>./videos/Xari Arena (USA) (Proto 2)-video.mp4</video>
+		<marquee>./images/Xari Arena (USA) (Proto 2)-marquee.png</marquee>
+		<thumbnail>./images/Xari Arena (USA) (Proto 2)-thumb.png</thumbnail>
+		<manual>./manuals/Xari Arena (USA) (Proto 2)-manual.pdf</manual>
+		<rating>0.75</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<md5>c1f1d430ebd3e0ff8de688e5101da7af</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231102T223847" />
+	</game>
 </gameList>

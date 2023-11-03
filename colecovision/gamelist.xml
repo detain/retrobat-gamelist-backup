@@ -4623,4 +4623,298 @@ Stage two is a space shoot out against hordes of enemy aircraft - those you fail
 		<region>eu</region>
 		<scrap name="ScreenScraper" date="20230227T231705" />
 	</game>
+	<game id="38069">
+		<path>./No-Intro/BC's Quest for Tires (Canada).col</path>
+		<name>BC's Quest for Tires</name>
+		<desc>Cute Chick is in trouble! She is being held captive by the dinosaur, and it is up to Thor to ride his trusty wheel to the rescue. There are many obstacles in the way which Thor will need to jump and duck, including rocks, trees, rivers, lava pits, cliffs, and of course Fat Broad. When you duck, the character bounces up and down, so don't duck too soon. BC's Quest For Tires is a side scrolling action game resembling Moon Patrol in some ways, featuring characters from the comic strip BC.</desc>
+		<image>./images/BC's Quest for Tires (Canada)-image.png</image>
+		<video>./videos/BC's Quest for Tires (Canada)-video.mp4</video>
+		<marquee>./images/BC's Quest for Tires (Canada)-marquee.png</marquee>
+		<thumbnail>./images/BC's Quest for Tires (Canada)-thumb.png</thumbnail>
+		<manual>./manuals/BC's Quest for Tires (Canada)-manual.pdf</manual>
+		<bezel>./images/BC's Quest for Tires (Canada)-bezel.png</bezel>
+		<rating>0.95</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Sydney Development Corp.</developer>
+		<publisher>Sierra On-Line</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>a1fa161de97e6084691f3bc6f5f46f55</md5>
+		<lang>fr</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231103T005630" />
+	</game>
+	<game id="38068">
+		<path>./No-Intro/BC's Quest for Tires II - Grog's Revenge (Canada).col</path>
+		<name>B.C. II: Grog's Revenge</name>
+		<desc>Thor has completed his Quest for Tires. Now he must discover the Meaning of Life.
+But it won't be easy. The Meaning of Life is hidden away; somewhere in a long maze of mountains.
+Each mountain is covered with clams and Thor needs to gather 100 clams in order to pay the tolls and advance through each mountain.
+The only way to Peter and the toll bridge is through the "real scary caves". There are lots of clams in the caves but watch out for stalagmites. Keep Thor's headlight sweeping back and forth for maximum clams.
+Out of the cave, watch out for Grog, who saves clams from Thor.
+Thor also has contend with rocks, potholes and pterodactyls (they'll eat his wheel) in his Quest for Clams and the Meaning of Life.</desc>
+		<image>./images/BC's Quest for Tires II - Grog's Revenge (Canada)-image.png</image>
+		<video>./videos/BC's Quest for Tires II - Grog's Revenge (Canada)-video.mp4</video>
+		<marquee>./images/BC's Quest for Tires II - Grog's Revenge (Canada)-marquee.png</marquee>
+		<thumbnail>./images/BC's Quest for Tires II - Grog's Revenge (Canada)-thumb.png</thumbnail>
+		<manual>./manuals/BC's Quest for Tires II - Grog's Revenge (Canada)-manual.pdf</manual>
+		<bezel>./images/BC's Quest for Tires II - Grog's Revenge (Canada)-bezel.png</bezel>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Sydney Development Corp.</developer>
+		<publisher>Sierra On-Line</publisher>
+		<genre>Race, Driving</genre>
+		<players>1-2</players>
+		<md5>dcc316df4898d4836c1e430692fd9fd5</md5>
+		<lang>fr</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231103T005640" />
+	</game>
+	<game id="198816">
+		<path>./No-Intro/Castelo (Brazil) (En) (Unl).col</path>
+		<name>Castelo</name>
+		<image>./images/Castelo (Brazil) (En) (Unl)-image.png</image>
+		<marquee>./images/Castelo (Brazil) (En) (Unl)-marquee.png</marquee>
+		<md5>7bf914ee3d7a66eb0fdb579b26ad1f25</md5>
+		<lang>br,en</lang>
+		<region>br</region>
+		<scrap name="ScreenScraper" date="20231103T005645" />
+	</game>
+	<game id="44401">
+		<path>./No-Intro/Cosmic Crisis (Europe).col</path>
+		<name>Cosmic Crisis</name>
+		<desc>Feel that secret joy of the demons? As it Is so badly haunted by those energetic demons, it seems that, this time, the world is terribly drawing to the crisis of surviving. In front of you will be the toughest enemies over met and you get to rely on yourself alone. No fighting though, it wouldn't do you any good; the only chance Is the hammer In your hand and the intelligence in your head. Got it? Fine, now start and win a beautiful victory!</desc>
+		<image>./images/Cosmic Crisis (Europe)-image.png</image>
+		<video>./videos/Cosmic Crisis (Europe)-video.mp4</video>
+		<marquee>./images/Cosmic Crisis (Europe)-marquee.png</marquee>
+		<thumbnail>./images/Cosmic Crisis (Europe)-thumb.png</thumbnail>
+		<manual>./manuals/Cosmic Crisis (Europe)-manual.pdf</manual>
+		<bezel>./images/Cosmic Crisis (Europe)-bezel.png</bezel>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Bit Corp.</developer>
+		<publisher>Bit Corp.</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+		<md5>3ae1ddd596faaced37274dd407d5523c</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T005655" />
+	</game>
+	<game id="38086">
+		<path>./No-Intro/Dam Busters, The (Canada).col</path>
+		<name>The Dam Busters</name>
+		<desc>Dam Busters is an early flight simulation, set in World War II. It focuses on Dam Busters who historically were used to heavily bombard strategic objectives, in this case dams.
+
+This task is not easy, as en route you will face heavy opposition forces. Fortunately, you won't be a sitting bomber in the air. Your aircraft is equipped with machine guns (left and right) with unlimited rounds of fire power, so fire at will as the enemy approaches.
+
+When the time comes, you will have to bomb the target manually. So, get ready to unload the cargo and give them hell!</desc>
+		<image>./images/Dam Busters, The (Canada)-image.png</image>
+		<video>./videos/Dam Busters, The (Canada)-video.mp4</video>
+		<marquee>./images/Dam Busters, The (Canada)-marquee.png</marquee>
+		<thumbnail>./images/Dam Busters, The (Canada)-thumb.png</thumbnail>
+		<manual>./manuals/Dam Busters, The (Canada)-manual.pdf</manual>
+		<bezel>./images/Dam Busters, The (Canada)-bezel.png</bezel>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Coleco Industries</developer>
+		<publisher>Coleco Industries, Inc.</publisher>
+		<genre>Shooter / 1st person</genre>
+		<players>1</players>
+		<md5>dd01108c4b4a62d64b2da39424896b6a</md5>
+		<lang>fr</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231103T005708" />
+	</game>
+	<game id="418860">
+		<path>./No-Intro/Energy Quiz (Canada) (En,Fr-CA) (1983-06-06) (Proto).col</path>
+		<name>Energy Quiz</name>
+		<image>./images/Energy Quiz (Canada) (En,Fr-CA) (1983-06-06) (Proto)-image.png</image>
+		<marquee>./images/Energy Quiz (Canada) (En,Fr-CA) (1983-06-06) (Proto)-marquee.png</marquee>
+		<thumbnail>./images/Energy Quiz (Canada) (En,Fr-CA) (1983-06-06) (Proto)-thumb.png</thumbnail>
+		<md5>9b62bc8d1b0249a49f0ecdc6b547790d</md5>
+		<lang>fr,en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231103T005714" />
+	</game>
+	<game id="38095">
+		<path>./No-Intro/Evolution (Canada).col</path>
+		<name>Evolution</name>
+		<desc>Evolution is an arcade style action game with six levels where you need to evolve from an amoeba to a human. Each level is a different stage in evolution with it's own unique goals. The first level is the amoeba stage where you need to eat all the DNA on the screen while avoiding the spores, microbes, and antibodies that are trying to stop you. The second level is the tadpole stage. The tadpole needs to eat three flies to move on to the next stage while avoiding the very hungry fish. Next is the rodent stage, where you need to eat five blocks of cheese while avoiding the snakes. In level four you need to guide a beaver across alligator infested waters to retrieve sticks and build a dam. The fifth level is the gorilla stage, where your gorilla has to use coconuts to fight off monkeys that are trying to steel its orange stash. And finally is the human stage, where you have to use a laser gun to fight off mutants that are trying to take over the earth.</desc>
+		<image>./images/Evolution (Canada)-image.png</image>
+		<video>./videos/Evolution (Canada)-video.mp4</video>
+		<marquee>./images/Evolution (Canada)-marquee.png</marquee>
+		<thumbnail>./images/Evolution (Canada)-thumb.png</thumbnail>
+		<manual>./manuals/Evolution (Canada)-manual.pdf</manual>
+		<bezel>./images/Evolution (Canada)-bezel.png</bezel>
+		<rating>0.4</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Sydney Development Corp.</developer>
+		<publisher>Sydney Development Corp.</publisher>
+		<players>1</players>
+		<md5>627d22dce35311aae18b0c085f1a3b21</md5>
+		<lang>fr</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231103T005726" />
+	</game>
+	<game id="44419">
+		<path>./No-Intro/M.A.S.H (Europe) (Proto).col</path>
+		<name>M.A.S.H.</name>
+		<desc>You've been piloting your chopper low through the trees, picking up wounded and rushing them back to the 4077th MASH unit. There was enemy fire all around you, and you're still shaking like a leaf. You'd like to rest now, but time is running out for the soldiers you've rescued. There's no way around it. The pressure is on. You'll have to operate. And it's going to take a steady hand and a hawk eye.</desc>
+		<image>./images/M.A.S.H (Europe) (Proto)-image.png</image>
+		<video>./videos/M.A.S.H (Europe) (Proto)-video.mp4</video>
+		<marquee>./images/M.A.S.H (Europe) (Proto)-marquee.png</marquee>
+		<thumbnail>./images/M.A.S.H (Europe) (Proto)-thumb.png</thumbnail>
+		<fanart>./images/M.A.S.H (Europe) (Proto)-fanart.jpg</fanart>
+		<bezel>./images/M.A.S.H (Europe) (Proto)-bezel.png</bezel>
+		<releasedate>19830101T000000</releasedate>
+		<developer>20th Century Fox</developer>
+		<publisher>20th Century Fox</publisher>
+		<md5>7029bf20f4dee5049b0ddc61390b96e1</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T005737" />
+	</game>
+	<game id="44421">
+		<path>./No-Intro/Meteoric Shower (Europe).col</path>
+		<name>Meteoric Shower</name>
+		<desc>Meteoric Shower is essentially a clone of Space Invaders, Galaxian and Galaga, but it introduces several new concepts: Your ship can move in all four directions, it flips upside down when moving down, and enemies can attack from both above and beneath your ship.</desc>
+		<image>./images/Meteoric Shower (Europe)-image.png</image>
+		<video>./videos/Meteoric Shower (Europe)-video.mp4</video>
+		<marquee>./images/Meteoric Shower (Europe)-marquee.png</marquee>
+		<thumbnail>./images/Meteoric Shower (Europe)-thumb.png</thumbnail>
+		<bezel>./images/Meteoric Shower (Europe)-bezel.png</bezel>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Bit Corp.</developer>
+		<publisher>Bit Corp.</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1-2</players>
+		<md5>626fc333194b13cb4f78d8577684685c</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T005747" />
+	</game>
+	<game id="44431">
+		<path>./No-Intro/Strike It! (Europe).col</path>
+		<name>Strike It!</name>
+		<desc>Strike! Strike! Strike!
+
+Our "Strike It" is the most interesting TV game between various varieties and high techniques uses the simplest regulation.
+It is not so easy to hold your pin pon racket to hit the ball and reflecting to the bricks to get high points.
+So speedy reflection and judgment are necessary.
+Then you most pay your full attention to the direction and angle of reflection of the ball.
+Sharp eyesight, speddy hand control and smart judgment are principals to win the game, Try it now!.</desc>
+		<image>./images/Strike It! (Europe)-image.png</image>
+		<video>./videos/Strike It! (Europe)-video.mp4</video>
+		<marquee>./images/Strike It! (Europe)-marquee.png</marquee>
+		<thumbnail>./images/Strike It! (Europe)-thumb.png</thumbnail>
+		<manual>./manuals/Strike It! (Europe)-manual.pdf</manual>
+		<bezel>./images/Strike It! (Europe)-bezel.png</bezel>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Telegames</developer>
+		<publisher>Telegames</publisher>
+		<genre>Action / Breakout games</genre>
+		<players>1</players>
+		<md5>2425b11952e79c247f13e341297f48bf</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T005757" />
+	</game>
+	<game id="38157">
+		<path>./No-Intro/Super Action Football (Europe).col</path>
+		<name>Super Action Football</name>
+		<desc>Another game in the Super Action series that makes use of Coleco's Super Action Controllers. Play against the computer or go head-to-head with a friend over 4 quarters of football action. Step back and throw the long bomb to your wide receiver dancing in the end zone, kick the field goal, or lay down a bone-crunching tackle as you control one of 3 offensive or 3 defensive players. What victory dance will you do as you dive across the goal line in the final seconds of the game?</desc>
+		<image>./images/Super Action Football (Europe)-image.png</image>
+		<video>./videos/Super Action Football (Europe)-video.mp4</video>
+		<marquee>./images/Super Action Football (Europe)-marquee.png</marquee>
+		<thumbnail>./images/Super Action Football (Europe)-thumb.png</thumbnail>
+		<manual>./manuals/Super Action Football (Europe)-manual.pdf</manual>
+		<bezel>./images/Super Action Football (Europe)-bezel.png</bezel>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Coleco Industries, Inc.</developer>
+		<publisher>Coleco Industries, Inc.</publisher>
+		<genre>Sports / Football</genre>
+		<players>1-2</players>
+		<md5>8aabed060476fde3cc706c6463f02980</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T005809" />
+	</game>
+	<game id="44434">
+		<path>./No-Intro/Tank Wars (Europe).col</path>
+		<name>Tank Wars</name>
+		<desc>Protect the Radar Base and yourself from being hit by various enemy tanks, and further trace to defeat every enemy you confront. In this game, you fight by five of your own tanks against 20 enemy tanks in each scene.</desc>
+		<image>./images/Tank Wars (Europe)-image.png</image>
+		<video>./videos/Tank Wars (Europe)-video.mp4</video>
+		<marquee>./images/Tank Wars (Europe)-marquee.png</marquee>
+		<thumbnail>./images/Tank Wars (Europe)-thumb.png</thumbnail>
+		<manual>./manuals/Tank Wars (Europe)-manual.pdf</manual>
+		<bezel>./images/Tank Wars (Europe)-bezel.png</bezel>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Telegames</developer>
+		<publisher>Telegames</publisher>
+		<genre>Shooter</genre>
+		<players>1-2</players>
+		<md5>3016b5b55ce162ae47f03af71fbb5c0d</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T005820" />
+	</game>
+	<game id="38169">
+		<path>./No-Intro/Victory (Europe).col</path>
+		<name>Victory</name>
+		<desc>Victory is based on the Arcade game of the same name.  Use your Coleco Roller Controller to rotate your ship as the space around you scrolls by, smack your fire button to take out anything that moves and snag a power-up or two along the way to aid in your quest.  Similar in style to Asteroids, but with a moving background.</desc>
+		<image>./images/Victory (Europe)-image.png</image>
+		<video>./videos/Victory (Europe)-video.mp4</video>
+		<marquee>./images/Victory (Europe)-marquee.png</marquee>
+		<thumbnail>./images/Victory (Europe)-thumb.png</thumbnail>
+		<manual>./manuals/Victory (Europe)-manual.pdf</manual>
+		<bezel>./images/Victory (Europe)-bezel.png</bezel>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Exidy, Inc.</developer>
+		<publisher>Coleco Industries, Inc.</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>a31facd8adc1134942d9f4102dd3fa9f</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T005830" />
+	</game>
+	<game id="108722">
+		<path>./No-Intro/Yolk's on you, The (Europe) (Proto).col</path>
+		<name>The Yolks on You</name>
+		<desc>This game was only a prototype.Get the eggs/chicks into the coop while fighting off hawks, foxes, and snakes. Avoid groundhog holes and don't break any eggs</desc>
+		<image>./images/Yolk's on you, The (Europe) (Proto)-image.png</image>
+		<video>./videos/Yolk's on you, The (Europe) (Proto)-video.mp4</video>
+		<marquee>./images/Yolk's on you, The (Europe) (Proto)-marquee.png</marquee>
+		<thumbnail>./images/Yolk's on you, The (Europe) (Proto)-thumb.png</thumbnail>
+		<releasedate>19830101T000000</releasedate>
+		<developer>20th Century Fox</developer>
+		<publisher>20th Century Fox</publisher>
+		<genre>Action</genre>
+		<md5>c10aaca46d063771339d3e5a0582baad</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T005838" />
+	</game>
+	<game id="38174">
+		<path>./No-Intro/Zaxxon (Taiwan) (En) (Unl).col</path>
+		<name>Zaxxon</name>
+		<desc>The Zaxxon defence system must be destroyed in this isometric-viewed shoot 'em up which was originally hugely successful in the arcades. The game has 3 stages, first taking you through Asteroid City, which is heavily protected by aircraft, guns and missiles. Many barriers are alarmed, leaving you with limited space to progress through, and fire must constantly be dodged.
+
+Stage two is a space shoot out against hordes of enemy aircraft - those you failed to destroy in the first part of the task. Complete this and you reach the final battle with Zaxxon, with the game looping with increased difficulty if you can survive the first time. There are 3 distinct skill levels, while controls involve using forward to dive and back to climb, in the manner of flight simulation.</desc>
+		<image>./images/Zaxxon (Taiwan) (En) (Unl)-image.png</image>
+		<video>./videos/Zaxxon (Taiwan) (En) (Unl)-video.mp4</video>
+		<marquee>./images/Zaxxon (Taiwan) (En) (Unl)-marquee.png</marquee>
+		<thumbnail>./images/Zaxxon (Taiwan) (En) (Unl)-thumb.png</thumbnail>
+		<manual>./manuals/Zaxxon (Taiwan) (En) (Unl)-manual.pdf</manual>
+		<bezel>./images/Zaxxon (Taiwan) (En) (Unl)-bezel.png</bezel>
+		<rating>0.8</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>Coleco Industries, Inc.</publisher>
+		<genre>Shoot'em up / Diagonal</genre>
+		<family>Zaxxon</family>
+		<players>1-2</players>
+		<md5>1206093901f2cfb36ac5442db264c9f9</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231103T005849" />
+	</game>
 </gameList>
