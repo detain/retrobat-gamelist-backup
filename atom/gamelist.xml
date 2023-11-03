@@ -577,4 +577,402 @@ All this makes the Africa Diamond a true test of cunning, intelligence and wit. 
 		<md5>bc1df02aa28d6d5e87c8998164ae898c</md5>
 		<scrap name="ScreenScraper" date="20231017T195640" />
 	</game>
+	<game id="416851">
+		<path>./No-Intro/Games/747 (Europe).uef</path>
+		<name>747</name>
+		<md5>6841589ffec2ed7ae1f4b2c1900287e7</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231102T195654" />
+	</game>
+	<game id="417229">
+		<path>./No-Intro/Games/Adventure (Europe).uef</path>
+		<name>Adventure</name>
+		<md5>88cd5cda7394e23a14a4deedfd0ba1c7</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231102T195658" />
+	</game>
+	<game id="416827">
+		<path>./No-Intro/Games/Africa Diamond, The (Europe).uef</path>
+		<name>Africa Diamond, The</name>
+		<desc>Somewhere in the Old Country House, the famous Africa Diamond was hidden. Legend has it that possession of the gem will give countless wealth and even magical powers! 
+However, to take the gem is no easy task! Vampires, dwarfs, Wild dogs, to name a few, have taken over the house, and will welcome vou with open jaws! If you can get to the gem, a surprise awaits you!
+All this makes the Africa Diamond a true test of cunning, intelligence and wit. Are you smart enough to take the gem? After all, the most you have to lose is your life!</desc>
+		<md5>18ec2a5c628231b145b2543e72c61a8b</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231102T195658" />
+	</game>
+	<game id="416860">
+		<path>./No-Intro/Games/Backgammon (Europe).uef</path>
+		<name>Backgammon</name>
+		<md5>e34947bec2b670fd6d2cd6f0ab9a4387</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231102T195659" />
+	</game>
+	<game id="417202">
+		<path>./No-Intro/Games/Breakout (Europe).uef</path>
+		<name>Breakout</name>
+		<md5>9edeffbb7e57f17018be8fbf947d49b6</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231102T195701" />
+	</game>
+	<game id="416830">
+		<path>./No-Intro/Games/Business Game (Europe).uef</path>
+		<name>Business Game</name>
+		<md5>2f729dd808dc73d84db44c1355d1f933</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231102T195702" />
+	</game>
+	<game id="416848">
+		<path>./No-Intro/Games/Centipede (Europe).uef</path>
+		<name>Centipede</name>
+		<genre>Shooter / Space Invaders Like</genre>
+		<md5>2a90eba9767a8b72e13ca6eb8cb09c7b</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231102T195704" />
+	</game>
+	<game id="416845">
+		<path>./No-Intro/Games/Cylon Attack (Europe).uef</path>
+		<name>Cylon Attack</name>
+		<md5>20cb9394c2cf6368d92f97d26f8c99e3</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231102T195705" />
+	</game>
+	<game id="417199">
+		<path>./No-Intro/Games/Death Satellite (Europe).uef</path>
+		<name>Death Satellite</name>
+		<md5>9f8ff14212e4795299fd659856bc3f6f</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231102T195707" />
+	</game>
+	<game id="417220">
+		<path>./No-Intro/Games/Defender (Europe).uef</path>
+		<name>Defender</name>
+		<md5>56a66aa27b94a970a641ace136c08215</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231102T195709" />
+	</game>
+	<game id="416839">
+		<path>./No-Intro/Games/Demon Dungeon (Europe).uef</path>
+		<name>Demon Dungeon</name>
+		<md5>773cdd4ab2eda2e139808950a618039e</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231102T195710" />
+	</game>
+	<game id="417211">
+		<path>./No-Intro/Games/Early Warning (Europe).uef</path>
+		<name>Early Warning</name>
+		<md5>68ef7b15f89e1af852b1bc450604c01f</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231102T195712" />
+	</game>
+	<game id="417214">
+		<path>./No-Intro/Games/Galaxian (Europe).uef</path>
+		<name>Galaxian</name>
+		<fanart>./images/Galaxian (Europe)-fanart.jpg</fanart>
+		<genre>Shooter / Space Invaders Like</genre>
+		<family>Galaxian</family>
+		<md5>04801262cf2e2c50d01107179c09685f</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231102T195716" />
+	</game>
+	<game id="416836">
+		<path>./No-Intro/Games/Hyperfire (Europe).uef</path>
+		<name>Hyperfire</name>
+		<md5>3d470fed4b4d96463306bc06a3e0d308</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231102T195718" />
+	</game>
+	<game id="416833">
+		<path>./No-Intro/Games/Labyrinth (Europe).uef</path>
+		<name>Labyrinth</name>
+		<md5>e5acc500e696009979d9ea2631eb97be</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231102T195719" />
+	</game>
+	<game id="417205">
+		<path>./No-Intro/Games/Minefield (Europe).uef</path>
+		<name>Minefield</name>
+		<md5>0b7361def66e17349aac2388d5a015a2</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231102T195721" />
+	</game>
+	<game id="416842">
+		<path>./No-Intro/Games/Omega Mission (Europe).uef</path>
+		<name>Omega Mission</name>
+		<md5>90e9e08aa2943998b492f0662d38d22c</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231102T195722" />
+	</game>
+	<game id="417217">
+		<path>./No-Intro/Games/Pinball (Europe).uef</path>
+		<name>Pinball</name>
+		<md5>db162871f7956b273338d8decbc25602</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231102T195724" />
+	</game>
+	<game id="416854">
+		<path>./No-Intro/Games/Protector, The (Europe).uef</path>
+		<name>Protector, The</name>
+		<md5>91d661ed96a64973b87bd60d4fa8c5de</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231102T195725" />
+	</game>
+	<game id="417226">
+		<path>./No-Intro/Games/Space Fighter (Europe).uef</path>
+		<name>Space Fighter</name>
+		<md5>2699313c33fb289f9807b717ac5eb9d8</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231102T195727" />
+	</game>
+	<game id="417232">
+		<path>./No-Intro/Games/Swarm (Europe).uef</path>
+		<name>Swarm</name>
+		<md5>ab6ae070a92be5c6d3f12647f3b4d1fa</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231102T195728" />
+	</game>
+	<game id="416857">
+		<path>./No-Intro/Games/Tangled (Europe).uef</path>
+		<name>Tangled</name>
+		<md5>d6e5f344e84b9fa93730d5d5f6f36715</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231102T195729" />
+	</game>
+	<game id="417223">
+		<path>./No-Intro/Games/UFO Bomber (Europe).uef</path>
+		<name>UFO Bomber</name>
+		<md5>4dd73a48bbf456c2d82e0a20ffc81269</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231102T195731" />
+	</game>
+	<game id="417208">
+		<path>./No-Intro/Games/Zodiac (Europe).uef</path>
+		<name>Zodiac</name>
+		<md5>6562f95e1880d2b081afba9bd2f3bc76</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231102T195732" />
+	</game>
+	<game id="416851">
+		<path>./No-Intro/Tapes Bitstream/747 (Europe).uef</path>
+		<name>747</name>
+		<md5>6841589ffec2ed7ae1f4b2c1900287e7</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231102T195734" />
+	</game>
+	<game id="417229">
+		<path>./No-Intro/Tapes Bitstream/Adventure (Europe).uef</path>
+		<name>Adventure</name>
+		<md5>88cd5cda7394e23a14a4deedfd0ba1c7</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231102T195735" />
+	</game>
+	<game id="416827">
+		<path>./No-Intro/Tapes Bitstream/Africa Diamond, The (Europe).uef</path>
+		<name>Africa Diamond, The</name>
+		<desc>Somewhere in the Old Country House, the famous Africa Diamond was hidden. Legend has it that possession of the gem will give countless wealth and even magical powers! 
+However, to take the gem is no easy task! Vampires, dwarfs, Wild dogs, to name a few, have taken over the house, and will welcome vou with open jaws! If you can get to the gem, a surprise awaits you!
+All this makes the Africa Diamond a true test of cunning, intelligence and wit. Are you smart enough to take the gem? After all, the most you have to lose is your life!</desc>
+		<md5>18ec2a5c628231b145b2543e72c61a8b</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231102T195736" />
+	</game>
+	<game id="416860">
+		<path>./No-Intro/Tapes Bitstream/Backgammon (Europe).uef</path>
+		<name>Backgammon</name>
+		<md5>e34947bec2b670fd6d2cd6f0ab9a4387</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231102T195738" />
+	</game>
+	<game id="417202">
+		<path>./No-Intro/Tapes Bitstream/Breakout (Europe).uef</path>
+		<name>Breakout</name>
+		<md5>9edeffbb7e57f17018be8fbf947d49b6</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231102T195740" />
+	</game>
+	<game id="416830">
+		<path>./No-Intro/Tapes Bitstream/Business Game (Europe).uef</path>
+		<name>Business Game</name>
+		<md5>2f729dd808dc73d84db44c1355d1f933</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231102T195741" />
+	</game>
+	<game id="416848">
+		<path>./No-Intro/Tapes Bitstream/Centipede (Europe).uef</path>
+		<name>Centipede</name>
+		<genre>Shooter / Space Invaders Like</genre>
+		<md5>2a90eba9767a8b72e13ca6eb8cb09c7b</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231102T195743" />
+	</game>
+	<game id="416845">
+		<path>./No-Intro/Tapes Bitstream/Cylon Attack (Europe).uef</path>
+		<name>Cylon Attack</name>
+		<md5>20cb9394c2cf6368d92f97d26f8c99e3</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231102T195744" />
+	</game>
+	<game id="417199">
+		<path>./No-Intro/Tapes Bitstream/Death Satellite (Europe).uef</path>
+		<name>Death Satellite</name>
+		<md5>9f8ff14212e4795299fd659856bc3f6f</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231102T195746" />
+	</game>
+	<game id="417220">
+		<path>./No-Intro/Tapes Bitstream/Defender (Europe).uef</path>
+		<name>Defender</name>
+		<md5>56a66aa27b94a970a641ace136c08215</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231102T195747" />
+	</game>
+	<game id="416839">
+		<path>./No-Intro/Tapes Bitstream/Demon Dungeon (Europe).uef</path>
+		<name>Demon Dungeon</name>
+		<md5>773cdd4ab2eda2e139808950a618039e</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231102T195748" />
+	</game>
+	<game id="417211">
+		<path>./No-Intro/Tapes Bitstream/Early Warning (Europe).uef</path>
+		<name>Early Warning</name>
+		<md5>68ef7b15f89e1af852b1bc450604c01f</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231102T195750" />
+	</game>
+	<game id="417214">
+		<path>./No-Intro/Tapes Bitstream/Galaxian (Europe).uef</path>
+		<name>Galaxian</name>
+		<fanart>./images/Galaxian (Europe)-fanart.jpg</fanart>
+		<genre>Shooter / Space Invaders Like</genre>
+		<family>Galaxian</family>
+		<md5>04801262cf2e2c50d01107179c09685f</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231102T195751" />
+	</game>
+	<game id="416836">
+		<path>./No-Intro/Tapes Bitstream/Hyperfire (Europe).uef</path>
+		<name>Hyperfire</name>
+		<md5>3d470fed4b4d96463306bc06a3e0d308</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231102T195752" />
+	</game>
+	<game id="416833">
+		<path>./No-Intro/Tapes Bitstream/Labyrinth (Europe).uef</path>
+		<name>Labyrinth</name>
+		<md5>e5acc500e696009979d9ea2631eb97be</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231102T195754" />
+	</game>
+	<game id="417205">
+		<path>./No-Intro/Tapes Bitstream/Minefield (Europe).uef</path>
+		<name>Minefield</name>
+		<md5>0b7361def66e17349aac2388d5a015a2</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231102T195755" />
+	</game>
+	<game id="416842">
+		<path>./No-Intro/Tapes Bitstream/Omega Mission (Europe).uef</path>
+		<name>Omega Mission</name>
+		<md5>90e9e08aa2943998b492f0662d38d22c</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231102T195756" />
+	</game>
+	<game id="417217">
+		<path>./No-Intro/Tapes Bitstream/Pinball (Europe).uef</path>
+		<name>Pinball</name>
+		<md5>db162871f7956b273338d8decbc25602</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231102T195758" />
+	</game>
+	<game id="416854">
+		<path>./No-Intro/Tapes Bitstream/Protector, The (Europe).uef</path>
+		<name>Protector, The</name>
+		<md5>91d661ed96a64973b87bd60d4fa8c5de</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231102T195759" />
+	</game>
+	<game id="417226">
+		<path>./No-Intro/Tapes Bitstream/Space Fighter (Europe).uef</path>
+		<name>Space Fighter</name>
+		<md5>2699313c33fb289f9807b717ac5eb9d8</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231102T195801" />
+	</game>
+	<game id="417232">
+		<path>./No-Intro/Tapes Bitstream/Swarm (Europe).uef</path>
+		<name>Swarm</name>
+		<md5>ab6ae070a92be5c6d3f12647f3b4d1fa</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231102T195803" />
+	</game>
+	<game id="416857">
+		<path>./No-Intro/Tapes Bitstream/Tangled (Europe).uef</path>
+		<name>Tangled</name>
+		<md5>d6e5f344e84b9fa93730d5d5f6f36715</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231102T195804" />
+	</game>
+	<game id="417223">
+		<path>./No-Intro/Tapes Bitstream/UFO Bomber (Europe).uef</path>
+		<name>UFO Bomber</name>
+		<md5>4dd73a48bbf456c2d82e0a20ffc81269</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231102T195806" />
+	</game>
+	<game id="417208">
+		<path>./No-Intro/Tapes Bitstream/Zodiac (Europe).uef</path>
+		<name>Zodiac</name>
+		<md5>6562f95e1880d2b081afba9bd2f3bc76</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231102T195807" />
+	</game>
 </gameList>
