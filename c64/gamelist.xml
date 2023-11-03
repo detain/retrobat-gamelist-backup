@@ -4336,8 +4336,1393 @@ While reading from page to page like a comic magazine you can interact with the 
 		<scrap name="ScreenScraper" date="20231102T104810" />
 	</game>
 	<game>
+		<path>./No-Intro/Games/10x10 (World) (Aftermarket) (Homebrew).d64</path>
+		<name>10x10 (World) (Aftermarket) (Homebrew)</name>
+		<md5>236d3af8e3196856e07a570063593651</md5>
+		<scrap name="ScreenScraper" date="20231103T024858" />
+	</game>
+	<game>
+		<path>./No-Intro/Games/10x10 (World) (Aftermarket) (Homebrew).prg</path>
+		<name>10x10 (World) (Aftermarket) (Homebrew)</name>
+		<md5>d655dbe77682694dfd5661272b2acef7</md5>
+		<scrap name="ScreenScraper" date="20231103T024859" />
+	</game>
+	<game>
+		<path>./No-Intro/Games/20 (World) (Aftermarket) (Homebrew).prg</path>
+		<name>20 (World) (Aftermarket) (Homebrew)</name>
+		<md5>0ad2192f47edea23efc416d006e4145d</md5>
+		<scrap name="ScreenScraper" date="20231103T024901" />
+	</game>
+	<game id="89082">
+		<path>./No-Intro/Games/256K-EPROM-System (Germany) (v5) (Program).crt</path>
+		<name>ZZZ(notgame):256k-eprom-system</name>
+		<image>./images/256K-EPROM-System (Germany) (v5) (Program)-image.png</image>
+		<hidden>true</hidden>
+		<md5>fb27e1968d937a81185a865ed798e0fd</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T024903" />
+	</game>
+	<game id="108846">
+		<path>./No-Intro/Games/Action Cartridge Plus (Germany) (v6.0) (Program).crt</path>
+		<name>ZZZ(notgame):Action Cartridge Plus</name>
+		<image>./images/Action Cartridge Plus (Germany) (v6.0) (Program)-image.png</image>
+		<hidden>true</hidden>
+		<md5>465f7942d0d79f99a31f216cc6840b6c</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T024906" />
+	</game>
+	<game id="108841">
+		<path>./No-Intro/Games/Action Replay Professional (Europe) (v4.2) (Program) (Unl).crt</path>
+		<name>ZZZ(notgame):Action Replay Professional</name>
+		<image>./images/Action Replay Professional (Europe) (v4.2) (Program) (Unl)-image.png</image>
+		<hidden>true</hidden>
+		<md5>81b506974fb0168b62e91f20b5c921eb</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T024908" />
+	</game>
+	<game id="108841">
+		<path>./No-Intro/Games/Action Replay Professional (Europe) (v6.0) (Program) (Unl).crt</path>
+		<name>ZZZ(notgame):Action Replay Professional</name>
+		<image>./images/Action Replay Professional (Europe) (v6.0) (Program) (Unl)-image.png</image>
+		<hidden>true</hidden>
+		<md5>4b5aa6c899e1ded103b46122881cd655</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T024910" />
+	</game>
+	<game id="109747">
+		<path>./No-Intro/Games/Avenger (Japan) (v02) (MAX).crt</path>
+		<name>Avengers</name>
+		<image>./images/Avenger (Japan) (v02) (MAX)-image.png</image>
+		<thumbnail>./images/Avenger (Japan) (v02) (MAX)-thumb.png</thumbnail>
+		<manual>./manuals/Avenger (Japan) (v02) (MAX)-manual.pdf</manual>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Commodore</developer>
+		<publisher>Commodore Electronics Ltd.</publisher>
+		<genre>Shooter / Space Invaders Like</genre>
+		<md5>1d3fe16c2f5630e6b1b5142e3c0c3f8c</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T024915" />
+	</game>
+	<game id="35935">
+		<path>./No-Intro/Games/Batman - The Movie (Europe).crt</path>
+		<name>Batman : The Movie</name>
+		<desc>Based on the 1989-Batman movie. The game consists of five different parts, each resembling well known game types. Part one, the chemical plant: Hunt down Jack Napier who has raided the plant (typical platform action, climb ladders or use "Bat"-rope and shoot at some enemies...). Part two, "Batmobile" (...the car): Joker is chasing you and have to escape to "Bat"-cave. Avoid obstacles like police blocking the road and others. Part three, "Bat"-cave: A puzzle game where you have to find a certain item (belonging to Joker) amongst other items. Part four, "Batjet": Cut the ropes of the balloons which are filled with poisonous gas. Part five, the cathedral: Hunt down Joker. This part plays like the first one. Finally you will confront Joker in a fight that decides the fate of Gotham city.</desc>
+		<image>./images/Batman - The Movie (Europe)-image.png</image>
+		<video>./videos/Batman - The Movie (Europe)-video.mp4</video>
+		<marquee>./images/Batman - The Movie (Europe)-marquee.png</marquee>
+		<thumbnail>./images/Batman - The Movie (Europe)-thumb.png</thumbnail>
+		<fanart>./images/Batman - The Movie (Europe)-fanart.jpg</fanart>
+		<manual>./manuals/Batman - The Movie (Europe)-manual.pdf</manual>
+		<bezel>./images/Batman - The Movie (Europe)-bezel.png</bezel>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Ocean</developer>
+		<publisher>Ocean</publisher>
+		<genre>Platform</genre>
+		<family>Batman</family>
+		<players>1</players>
+		<md5>f0e6f8f1e2dc138d4f28d4c4ede9263c</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T024924" />
+	</game>
+	<game id="36421">
+		<path>./No-Intro/Games/Battle Command (Europe).crt</path>
+		<name>Battle Command</name>
+		<desc>Battle Command is a 3D arcade/strategy game, loosely derived from the same developers' Carrier Command. In a near future alternate reality, the Ultra War is fought between the two dominate races in the New World. The 'Mauler' is the latest technology - an Armored Fighting Machine capable of being lifted in and out of hostile territory by a fast Stealth Chopper, and armed with the most advanced weaponry science can devise.
+
+You command a single "Mauler" assault tank in one of a series of scenarios. These range from a railway ambush to escort duties and a raid on a riverside hideout. Before starting you must choose the right weaponry based on the mission briefing.</desc>
+		<image>./images/Battle Command (Europe)-image.png</image>
+		<video>./videos/Battle Command (Europe)-video.mp4</video>
+		<marquee>./images/Battle Command (Europe)-marquee.png</marquee>
+		<thumbnail>./images/Battle Command (Europe)-thumb.png</thumbnail>
+		<manual>./manuals/Battle Command (Europe)-manual.pdf</manual>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Realtime Games Software</developer>
+		<publisher>Ocean</publisher>
+		<genre>Simulation</genre>
+		<players>1</players>
+		<md5>bf912cfdcd3d3f97507a6abeb9d96e9c</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T024931" />
+	</game>
+	<game id="110592">
+		<path>./No-Intro/Games/Bowling (Japan) (MAX).crt</path>
+		<name>Bowling</name>
+		<image>./images/Bowling (Japan) (MAX)-image.png</image>
+		<md5>408bdebe4f814cb3f700da41d5b88159</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T024933" />
+	</game>
+	<game id="112510">
+		<path>./No-Intro/Games/Chase H.Q. II - Special Criminal Investigation (Europe).crt</path>
+		<name>Chase HQ II : Special Criminal Investigation</name>
+		<desc>Chase HQ 2 is much better than the first game and it is a pretty good technical achievement in its own right. Unfortunately, I found the gameplay a bit disappointing firstly due to the focus on fire power rather than car bashing and secondly due to the somewhat messy and unforgiving nature of the game....</desc>
+		<image>./images/Chase H.Q. II - Special Criminal Investigation (Europe)-image.png</image>
+		<video>./videos/Chase H.Q. II - Special Criminal Investigation (Europe)-video.mp4</video>
+		<marquee>./images/Chase H.Q. II - Special Criminal Investigation (Europe)-marquee.png</marquee>
+		<thumbnail>./images/Chase H.Q. II - Special Criminal Investigation (Europe)-thumb.png</thumbnail>
+		<rating>0.45</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Probe Software</developer>
+		<publisher>Ocean</publisher>
+		<genre>Race, Driving / Race 1st Pers. view</genre>
+		<family>Chase H.Q.</family>
+		<players>1</players>
+		<md5>fb837b1c30574023254c8b2f463041e5</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T024940" />
+	</game>
+	<game id="111129">
+		<path>./No-Intro/Games/Clowns (Japan) (v01) (MAX).crt</path>
+		<name>Clowns Max</name>
+		<image>./images/Clowns (Japan) (v01) (MAX)-image.png</image>
+		<marquee>./images/Clowns (Japan) (v01) (MAX)-marquee.png</marquee>
+		<thumbnail>./images/Clowns (Japan) (v01) (MAX)-thumb.png</thumbnail>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Commodore Electronics Ltd.</publisher>
+		<md5>0bcbcee0642e1722b17d3e37fc101194</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T024944" />
+	</game>
+	<game id="111129">
+		<path>./No-Intro/Games/Clowns (Japan) (v02) (MAX).crt</path>
+		<name>Clowns Max</name>
+		<image>./images/Clowns (Japan) (v02) (MAX)-image.png</image>
+		<marquee>./images/Clowns (Japan) (v02) (MAX)-marquee.png</marquee>
+		<thumbnail>./images/Clowns (Japan) (v02) (MAX)-thumb.png</thumbnail>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Commodore Electronics Ltd.</publisher>
+		<md5>5c9dccb57b10f5e4500ff44e7ad5c843</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T024948" />
+	</game>
+	<game id="111148">
+		<path>./No-Intro/Games/Coccinelle cherche dessinateur (France).crt</path>
+		<name>Coccinelle</name>
+		<image>./images/Coccinelle cherche dessinateur (France)-image.png</image>
+		<publisher>Spinnaker Software Corporation</publisher>
+		<md5>24f014babfe84955a4ef6d8fb45b0854</md5>
+		<lang>fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T024951" />
+	</game>
+	<game id="122290">
+		<path>./No-Intro/Games/Conrad Disk Booster (Germany) (Program).crt</path>
+		<name>ZZZ(notgame):Conrad Disk Booster</name>
+		<hidden>true</hidden>
+		<md5>9305333053c191939d56668c44e4111c</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T024952" />
+	</game>
+	<game>
+		<path>./No-Intro/Games/Don't Block The Box! (World) (Aftermarket) (Homebrew).prg</path>
+		<name>Don't Block The Box! (World) (Aftermarket) (Homebrew)</name>
+		<md5>2ee9e7c9aed2c44eec1d6d7c07a815e8</md5>
+		<scrap name="ScreenScraper" date="20231103T024953" />
+	</game>
+	<game id="35915">
+		<path>./No-Intro/Games/Fiendish Freddy's Big Top o' Fun + International Soccer + Flimbo's Quest + Klax (Europe) (C 64 Games System).crt</path>
+		<name>Fiendish Freddy's Big Top 'o Fun</name>
+		<desc>Fiendish Freddy's Big Top O 'Fun is a multi-event action game. The circus is in trouble: due tonight is the payment of a $10.000 loan to the Big Greedy Bank. The evening's performance must bring in that money or the circus will be seized. The bank does not play fair, though: they send the evil clown Fiendish Freddy to sabotage the acts.
+
+The performance consists of six different events; High Diving, Juggling, Trapeze, Knife Throw, Tightrope, and Cannonball. There is a practice mode for single events, and up to five players can compete in the full game, but must reach the $10.000 on their own, not together. The money is awarded by a jury after each act.</desc>
+		<image>./images/Fiendish Freddy's Big Top o' Fun + International Soccer + Flimbo's Quest + Klax (Europe) (C 64 Games System)-image.png</image>
+		<video>./videos/Fiendish Freddy's Big Top o' Fun + International Soccer + Flimbo's Quest + Klax (Europe) (C 64 Games System)-video.mp4</video>
+		<marquee>./images/Fiendish Freddy's Big Top o' Fun + International Soccer + Flimbo's Quest + Klax (Europe) (C 64 Games System)-marquee.png</marquee>
+		<thumbnail>./images/Fiendish Freddy's Big Top o' Fun + International Soccer + Flimbo's Quest + Klax (Europe) (C 64 Games System)-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Imagitec Design</developer>
+		<publisher>Mindscape</publisher>
+		<genre>Sports / Multisports</genre>
+		<players>1-4</players>
+		<md5>79811b0e5b04ced6c4c508258a43beef</md5>
+		<lang>fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T024959" />
+	</game>
+	<game>
+		<path>./No-Intro/Games/Fix-It Felix Jr. (World) (Aftermarket) (Homebrew).prg</path>
+		<name>Fix-It Felix Jr. (World) (Aftermarket) (Homebrew)</name>
+		<md5>e4287f75c573970dc86391f74e98912e</md5>
+		<scrap name="ScreenScraper" date="20231103T025001" />
+	</game>
+	<game id="122406">
+		<path>./No-Intro/Games/Format- und Hardcopymodul (Germany) (Program).crt</path>
+		<name>ZZZ(notgame):Format- Und Hardcopymodul</name>
+		<hidden>true</hidden>
+		<md5>73d031717e6e27cdaad90d215904a09c</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T025002" />
+	</game>
+	<game>
+		<path>./No-Intro/Games/Froop (World) (Aftermarket) (Homebrew).prg</path>
+		<name>Froop (World) (Aftermarket) (Homebrew)</name>
+		<md5>89600b9c3a13a1f66cd2396ba9a32944</md5>
+		<scrap name="ScreenScraper" date="20231103T025004" />
+	</game>
+	<game id="112502">
+		<path>./No-Intro/Games/Galaga (World) (v1.05) (Aftermarket) (Homebrew).d64</path>
+		<name>Galaga</name>
+		<desc>Galaga is a vertical arcade shooter from Namco. You control a space fighter at the bottom of the screen, scrolling left and right in order to avoid oncoming bombs and kamikaze attacks from alien invaders--and to fire your own missiles to fight back!
+
+There are an infinite number of stages to progress through. Every third level is a "challenge stage" in which you have a free chance to shoot as many aliens as possible and rack up bonus points.
+
+Certain aliens have tractor beams they can use to capture one of your ships. If that wasn't your last "life," you can try to shoot that alien down and recapture your ship, giving you two ships at once and doubling your firepower.
+
+A summary screen appears when the game is over, giving you both your final score and you final "hit ratio"--the number of missiles fired, enemies destroyed, and the percentage of targets hit.</desc>
+		<image>./images/Galaga (World) (v1.05) (Aftermarket) (Homebrew)-image.png</image>
+		<marquee>./images/Galaga (World) (v1.05) (Aftermarket) (Homebrew)-marquee.png</marquee>
+		<thumbnail>./images/Galaga (World) (v1.05) (Aftermarket) (Homebrew)-thumb.png</thumbnail>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Henrik Wening</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<family>Galaxian</family>
+		<players>1-2</players>
+		<md5>1e0cbe155343ae95397f723a35c48369</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231103T025008" />
+	</game>
+	<game id="112502">
+		<path>./No-Intro/Games/Galaga (World) (v1.06) (Aftermarket) (Homebrew).d64</path>
+		<name>Galaga</name>
+		<desc>Galaga is a vertical arcade shooter from Namco. You control a space fighter at the bottom of the screen, scrolling left and right in order to avoid oncoming bombs and kamikaze attacks from alien invaders--and to fire your own missiles to fight back!
+
+There are an infinite number of stages to progress through. Every third level is a "challenge stage" in which you have a free chance to shoot as many aliens as possible and rack up bonus points.
+
+Certain aliens have tractor beams they can use to capture one of your ships. If that wasn't your last "life," you can try to shoot that alien down and recapture your ship, giving you two ships at once and doubling your firepower.
+
+A summary screen appears when the game is over, giving you both your final score and you final "hit ratio"--the number of missiles fired, enemies destroyed, and the percentage of targets hit.</desc>
+		<image>./images/Galaga (World) (v1.06) (Aftermarket) (Homebrew)-image.png</image>
+		<marquee>./images/Galaga (World) (v1.06) (Aftermarket) (Homebrew)-marquee.png</marquee>
+		<thumbnail>./images/Galaga (World) (v1.06) (Aftermarket) (Homebrew)-thumb.png</thumbnail>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Henrik Wening</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<family>Galaxian</family>
+		<players>1-2</players>
+		<md5>cfbe9e994ac06a9d3e3724c1f39b9b50</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231103T025013" />
+	</game>
+	<game>
+		<path>./No-Intro/Games/Galaxian DX (World) (Aftermarket) (Homebrew).d64</path>
+		<name>Galaxian DX (World) (Aftermarket) (Homebrew)</name>
+		<md5>b77ae70a530150f39fb916671b966b4c</md5>
+		<scrap name="ScreenScraper" date="20231103T025015" />
+	</game>
+	<game id="122488">
+		<path>./No-Intro/Games/Happy-Packer (Germany) (Program).crt</path>
+		<name>ZZZ(notgame):Happy-packer</name>
+		<hidden>true</hidden>
+		<md5>56bca11ded4bb3bd12c6884865395055</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T025016" />
+	</game>
+	<game>
+		<path>./No-Intro/Games/Hyper Harvest (World) (Aftermarket) (Homebrew).prg</path>
+		<name>Hyper Harvest (World) (Aftermarket) (Homebrew)</name>
+		<md5>cf6349a3882e205cf5476fb4b005f692</md5>
+		<scrap name="ScreenScraper" date="20231103T025018" />
+	</game>
+	<game id="122517">
+		<path>./No-Intro/Games/Hypra-Disk-Modul II (Germany) (Program).crt</path>
+		<name>ZZZ(notgame):Hypra-disk-modul 2</name>
+		<hidden>true</hidden>
+		<md5>b1a58e84e32c6ac18b0cecf008b0d869</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T025019" />
+	</game>
+	<game>
+		<path>./No-Intro/Games/Infinite Space (World) (Aftermarket) (Homebrew).d64</path>
+		<name>Infinite Space (World) (Aftermarket) (Homebrew)</name>
+		<md5>c45507b6decdbe342e45da835d63a7fb</md5>
+		<scrap name="ScreenScraper" date="20231103T025021" />
+	</game>
+	<game>
+		<path>./No-Intro/Games/Infinite Space (World) (Aftermarket) (Homebrew).prg</path>
+		<name>Infinite Space (World) (Aftermarket) (Homebrew)</name>
+		<md5>8bbee4a93a751e8b5d500c0cdd302e00</md5>
+		<scrap name="ScreenScraper" date="20231103T025022" />
+	</game>
+	<game>
+		<path>./No-Intro/Games/Lady Pac (World) (Aftermarket) (Homebrew).d64</path>
+		<name>Lady Pac (World) (Aftermarket) (Homebrew)</name>
+		<md5>7ab5cb910291eacd440ce5d768ba6331</md5>
+		<scrap name="ScreenScraper" date="20231103T025024" />
+	</game>
+	<game id="114552">
+		<path>./No-Intro/Games/MAX BASIC (Japan) (MAX).crt</path>
+		<name>ZZZ(notgame):Max Basic</name>
+		<image>./images/MAX BASIC (Japan) (MAX)-image.png</image>
+		<hidden>true</hidden>
+		<md5>0532e33add3dbe11c081f174fe6f4327</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T025026" />
+	</game>
+	<game id="182513">
+		<path>./No-Intro/Games/Megamania (World) (Aftermarket) (Homebrew).d64</path>
+		<name>Megamania</name>
+		<md5>b55fa35ec6ae77f5f875c7a7c094f507</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231103T025029" />
+	</game>
+	<game id="182513">
+		<path>./No-Intro/Games/Megamania (World) (Aftermarket) (Homebrew).prg</path>
+		<name>Megamania</name>
+		<md5>cfa9583404b7c033292dfd0ea5c64015</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231103T025030" />
+	</game>
+	<game>
+		<path>./No-Intro/Games/Merge 64 (World) (Aftermarket) (Homebrew).d64</path>
+		<name>Merge 64 (World) (Aftermarket) (Homebrew)</name>
+		<md5>678dac720a277ee3941cf2df08d9c531</md5>
+		<scrap name="ScreenScraper" date="20231103T025032" />
+	</game>
+	<game>
+		<path>./No-Intro/Games/Merge 64 (World) (Aftermarket) (Homebrew).prg</path>
+		<name>Merge 64 (World) (Aftermarket) (Homebrew)</name>
+		<md5>59f7cf5cb34bc2fa1593f2e7761c5128</md5>
+		<scrap name="ScreenScraper" date="20231103T025033" />
+	</game>
+	<game id="115193">
+		<path>./No-Intro/Games/MicroProse Soccer + Rick Dangerous + Stunt Car Racer (Europe) (Power Play).crt</path>
+		<name>Power Play</name>
+		<desc>This cartridge with 3 games was sold worldwide.</desc>
+		<image>./images/MicroProse Soccer + Rick Dangerous + Stunt Car Racer (Europe) (Power Play)-image.png</image>
+		<video>./videos/MicroProse Soccer + Rick Dangerous + Stunt Car Racer (Europe) (Power Play)-video.mp4</video>
+		<marquee>./images/MicroProse Soccer + Rick Dangerous + Stunt Car Racer (Europe) (Power Play)-marquee.png</marquee>
+		<thumbnail>./images/MicroProse Soccer + Rick Dangerous + Stunt Car Racer (Europe) (Power Play)-thumb.png</thumbnail>
+		<releasedate>19900101T000000</releasedate>
+		<publisher>The Disc Company</publisher>
+		<genre>Sports / Soccer</genre>
+		<players>1-2</players>
+		<md5>fabc7432be0865c9489a9abb75d00328</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T025040" />
+	</game>
+	<game>
+		<path>./No-Intro/Games/Mike Quarter (Present Sorter) (World) (Aftermarket) (Homebrew).prg</path>
+		<name>Mike Quarter (Present Sorter) (World) (Aftermarket) (Homebrew)</name>
+		<md5>1e25ada33fac322c812b0281ba6adac3</md5>
+		<scrap name="ScreenScraper" date="20231103T025041" />
+	</game>
+	<game id="118909">
+		<path>./No-Intro/Games/MINI BASIC I (Japan) (MAX).crt</path>
+		<name>ZZZ(notgame):Mini Basic I (cbm Basic V2)</name>
+		<image>./images/MINI BASIC I (Japan) (MAX)-image.png</image>
+		<hidden>true</hidden>
+		<md5>122e502d8788b6ddbbb443b6be30713a</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T025044" />
+	</game>
+	<game id="115281">
+		<path>./No-Intro/Games/Mole Attack (Japan) (v01) (MAX).crt</path>
+		<name>Mole Attack Max</name>
+		<desc>Moles pop up from nine holes, and the player has 60 seconds to send them fleeing back underground by bopping them on the head with a hammer.[1] Players can use joystick or the keyboard to position the hammer</desc>
+		<image>./images/Mole Attack (Japan) (v01) (MAX)-image.png</image>
+		<video>./videos/Mole Attack (Japan) (v01) (MAX)-video.mp4</video>
+		<thumbnail>./images/Mole Attack (Japan) (v01) (MAX)-thumb.png</thumbnail>
+		<manual>./manuals/Mole Attack (Japan) (v01) (MAX)-manual.pdf</manual>
+		<releasedate>19830101T000000</releasedate>
+		<publisher>Commodore Electronics Ltd.</publisher>
+		<md5>a5d7737f94733155ee83128dfe640fa1</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T025049" />
+	</game>
+	<game id="115285">
+		<path>./No-Intro/Games/Money Wars (Japan) (v01) (MAX).crt</path>
+		<name>Money Wars</name>
+		<image>./images/Money Wars (Japan) (v01) (MAX)-image.png</image>
+		<thumbnail>./images/Money Wars (Japan) (v01) (MAX)-thumb.png</thumbnail>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Commodore Electronics Ltd.</publisher>
+		<md5>6f43cacd8ad1c3a5718c3404dcf0c741</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T025053" />
+	</game>
+	<game id="116393">
+		<path>./No-Intro/Games/Muistio 64 (Finland) (Program).crt</path>
+		<name>Muistio 64</name>
+		<image>./images/Muistio 64 (Finland) (Program)-image.png</image>
+		<md5>cfefb95c4e2549fc8fb17d73bf205f44</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231103T025055" />
+	</game>
+	<game id="115423">
+		<path>./No-Intro/Games/Myth (Europe).crt</path>
+		<name>Myth - History in the Making</name>
+		<desc>Each level is centred on a certain location, such as in Hades, an Egyptian pyramid and ancient Greece, where the player must collect a magic orb in each to finish. Each level is based around related myths and legends. The gameplay consists of running and jumping through each level, collecting objects and weapons, fighting enemies and solving puzzles. Enemies include skeletons, demons, wraiths, mummies and vikings. Weapons include a sword, gun and fireballs. Each level contains a mythical boss enemy, such as Medusa, Thor and a Hydra. Puzzles involve using the right object in the right location to progress, such as throwing skulls into a pit of fire to summon a monster, and using the right weapon against enemies, such as attacking a specific monster with tridents. The user manual gave some background information about the various myths referred to in the game and gave hints to the puzzles. C64GS CART - At black screen, type SYS 3 MYTH with the spaces in uppercase. This will begin the game!</desc>
+		<image>./images/Myth (Europe)-image.png</image>
+		<video>./videos/Myth (Europe)-video.mp4</video>
+		<marquee>./images/Myth (Europe)-marquee.png</marquee>
+		<thumbnail>./images/Myth (Europe)-thumb.png</thumbnail>
+		<manual>./manuals/Myth (Europe)-manual.pdf</manual>
+		<bezel>./images/Myth (Europe)-bezel.png</bezel>
+		<releasedate>19900101T000000</releasedate>
+		<developer>System 3 Software</developer>
+		<publisher>System 3 Software</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<md5>b9fb71ba50568d23714c3c9c80ba919e</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T025103" />
+	</game>
+	<game id="36131">
+		<path>./No-Intro/Games/Navy SEALs (Europe).crt</path>
+		<name>Navy Seals</name>
+		<desc>Like many of Ocean's games this was licensed from a film,in this case one by Orion, the company best known for Robocop. You control a succession of the USA's elite fighters with the aim of destroying missiles held by terrorists. You must destroy the missiles by placing bombs next to them and then fleeing the scene. 
+
+You will of course meet many more fighters throughout the level, and pick up improved weapons as the game goes on (neither of which fit with the film, or real-life logic, but make for Generic Ocean Film License #718). The gameplay is primarily side-scrolling, but the levels are taller than the screen.</desc>
+		<image>./images/Navy SEALs (Europe)-image.png</image>
+		<video>./videos/Navy SEALs (Europe)-video.mp4</video>
+		<marquee>./images/Navy SEALs (Europe)-marquee.png</marquee>
+		<thumbnail>./images/Navy SEALs (Europe)-thumb.png</thumbnail>
+		<bezel>./images/Navy SEALs (Europe)-bezel.png</bezel>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Ocean</developer>
+		<publisher>Ocean</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>486b18fbc2a4830dc790f78fbee506ce</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T025109" />
+	</game>
+	<game id="116430">
+		<path>./No-Intro/Games/Omega Race (Japan) (v02) (MAX).crt</path>
+		<name>Omega Race Max</name>
+		<desc>This is a remake of a Bally-Midway arcade game. You control a spaceship and shoot down the enemy "Droid" ships that attack you. Your ship must survive Droid-dropped mines too--but you can shoot them too. The last ship of the Droid flights goes into a spiraling pattern.
+
+There is no end to this game. Rather, it is a game in which you try to get the highest score, or complete the highest number of levels.
+
+You control a small triangle that is your ship. The ship can turn, move forward (with thrusters) and fire. Movement is one of the games challenges; once the ship is moving, it can only be slowed by turning the nose in the opposite direction and use the thrusters. While doing that, the ship is unable to fire toward anything it is in motion toward.
+
+Bouncing also comes into play during movement. When the ship hits the side of the screen, a wall of force appears, and the ship bounces. You don't have control over where the ship bounces, and must take time to regain control, before you run into an enemy ship and die.</desc>
+		<image>./images/Omega Race (Japan) (v02) (MAX)-image.png</image>
+		<video>./videos/Omega Race (Japan) (v02) (MAX)-video.mp4</video>
+		<marquee>./images/Omega Race (Japan) (v02) (MAX)-marquee.png</marquee>
+		<manual>./manuals/Omega Race (Japan) (v02) (MAX)-manual.pdf</manual>
+		<bezel>./images/Omega Race (Japan) (v02) (MAX)-bezel.png</bezel>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Commodore Electronics Ltd.</publisher>
+		<players>1</players>
+		<md5>a8d373cd070ac3a180a6e8b0344f03fd</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T025116" />
+	</game>
+	<game id="35853">
+		<path>./No-Intro/Games/Pacman (World) (Aftermarket) (Homebrew).d64</path>
+		<name>Pac-Man</name>
+		<desc>One of the most popular and influential games of the 1980's, Pac-Man stars a little, yellow dot-muncher who works his way around to clear a maze of the various dots and fruit which inhabit the board.
+
+Pac-Man's goal is continually challenged by four ghosts: The shy blue ghost Bashful (Inky), the trailing red ghost Shadow (Blinky), the fast pink ghost Speedy (Pinky), and the forgetful orange ghost Pokey (Clyde).  One touch from any of these ghosts means a loss of life for Pac-Man.
+
+Pac-Man can turn the tables on his pursuers by eating of the four Energizers located within the maze.  During this time, the ghosts turn blue, and Pac-Man can eat them for bonus points.  This only lasts for a limited amount of time, as the ghost's eyes float back to their center box, and regenerate to chase after Pac-Man again.
+
+Survive a few rounds of gameplay, and be treated to humorous intermissions between Pac-Man and the ghosts.</desc>
+		<image>./images/Pacman (World) (Aftermarket) (Homebrew)-image.png</image>
+		<video>./videos/Pacman (World) (Aftermarket) (Homebrew)-video.mp4</video>
+		<marquee>./images/Pacman (World) (Aftermarket) (Homebrew)-marquee.png</marquee>
+		<thumbnail>./images/Pacman (World) (Aftermarket) (Homebrew)-thumb.png</thumbnail>
+		<fanart>./images/Pacman (World) (Aftermarket) (Homebrew)-fanart.jpg</fanart>
+		<manual>./manuals/Pacman (World) (Aftermarket) (Homebrew)-manual.pdf</manual>
+		<rating>0.75</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Atari</publisher>
+		<genre>Action / Labyrinth</genre>
+		<family>Pac-Man</family>
+		<players>1-2</players>
+		<md5>eb8a46121b3d1855542d896c2fba4df8</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231103T025124" />
+	</game>
+	<game id="116030">
+		<path>./No-Intro/Games/Pancho (France).crt</path>
+		<name>Pancho</name>
+		<image>./images/Pancho (France)-image.png</image>
+		<video>./videos/Pancho (France)-video.mp4</video>
+		<thumbnail>./images/Pancho (France)-thumb.png</thumbnail>
+		<releasedate>19840101T000000</releasedate>
+		<publisher>Data Becker</publisher>
+		<md5>db5322ed81b0bd4a4a2e653c72c74afd</md5>
+		<lang>fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T025128" />
+	</game>
+	<game id="36538">
+		<path>./No-Intro/Games/Pang (Europe).crt</path>
+		<name>Pang</name>
+		<desc>Pang is a platform game which consists of 50 levels in total. It can be played with one or two players on the same screen, and the other player can join anytime within the game. 
+
+Your goal is to destroy the balloons which bounce around the playfield. To accomplish this, you can shoot hooks which travel upwards, and blow up any balloon they touch. Depending on their size, they either split on two smaller ones, or evaporate if they're at their minimum size. Apart from balloons, some levels also have barriers that have to be destroyed with your hooks, since they often block your access to balloons. There are also some barriers which cannot ever be destroyed. Your character has the ability to climb ladders, but cannot jump. 
+
+You can also pick up power-ups such as: the ability to fire two shots at once, the hook that attaches to the ceiling and waits 'til something bumps into it, a gun which has a high rate of fire but cannot destroy barriers. Beside extra weapons, you can also pick certain things like clock (halting time for a small period), dynamite (reducing all balls to minimum size, thus making you able to reach more points), life, and such.</desc>
+		<image>./images/Pang (Europe)-image.png</image>
+		<video>./videos/Pang (Europe)-video.mp4</video>
+		<marquee>./images/Pang (Europe)-marquee.png</marquee>
+		<thumbnail>./images/Pang (Europe)-thumb.png</thumbnail>
+		<fanart>./images/Pang (Europe)-fanart.jpg</fanart>
+		<rating>0.75</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Arc Developments</developer>
+		<publisher>Ocean</publisher>
+		<genre>Action</genre>
+		<family>Pang</family>
+		<players>1-2</players>
+		<md5>f26e4d3911377a1be1475e4d7582213d</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T025135" />
+	</game>
+	<game>
+		<path>./No-Intro/Games/Paper Planes (World) (Aftermarket) (Homebrew).prg</path>
+		<name>Paper Planes (World) (Aftermarket) (Homebrew)</name>
+		<md5>177d1aa974d48666b15f280568495d61</md5>
+		<scrap name="ScreenScraper" date="20231103T025137" />
+	</game>
+	<game>
+		<path>./No-Intro/Games/Pillars (World) (Aftermarket) (Homebrew).d64</path>
+		<name>Pillars (World) (Aftermarket) (Homebrew)</name>
+		<md5>43ff12bb9ea9d642085bc60a433e38ac</md5>
+		<scrap name="ScreenScraper" date="20231103T025139" />
+	</game>
+	<game>
+		<path>./No-Intro/Games/Pillars (World) (v2.00) (Aftermarket) (Homebrew).d64</path>
+		<name>Pillars (World) (v2.00) (Aftermarket) (Homebrew)</name>
+		<md5>98d8fc4b6cdfe05d179d18612cc987eb</md5>
+		<scrap name="ScreenScraper" date="20231103T025140" />
+	</game>
+	<game id="116313">
+		<path>./No-Intro/Games/PS-64 (Finland) (v2.00) (Program).crt</path>
+		<name>Ps-64</name>
+		<image>./images/PS-64 (Finland) (v2.00) (Program)-image.png</image>
+		<md5>034284750b83442e9aeb3b2c2ae4eab1</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231103T025143" />
+	</game>
+	<game id="114621">
+		<path>./No-Intro/Games/Radar Rat Race (Japan) (v02) (MAX) (Alt).crt</path>
+		<name>Radar Rat Race</name>
+		<desc>Radar Rat Race takes the gameplay of Rally X and puts it into a rodent context. You control a rat, who must grab all the pieces of cheese in a maze, and flee from all the other rats. Once you reach a barrier in the maze, you are automatically rotated, but you can always manually change direction.
+
+There are red ones who chase after you, and black ones who are activated when you get close to them - both types kill you on contact. When they are close, you can activate a Star Screen to block them off.
+
+The Radar of the title is on the right of the screen, and shows you where each piece of cheese is, although the actual maze is not illuminated, so your next snack might be further away than you think.</desc>
+		<image>./images/Radar Rat Race (Japan) (v02) (MAX) (Alt)-image.png</image>
+		<video>./videos/Radar Rat Race (Japan) (v02) (MAX) (Alt)-video.mp4</video>
+		<marquee>./images/Radar Rat Race (Japan) (v02) (MAX) (Alt)-marquee.png</marquee>
+		<thumbnail>./images/Radar Rat Race (Japan) (v02) (MAX) (Alt)-thumb.png</thumbnail>
+		<manual>./manuals/Radar Rat Race (Japan) (v02) (MAX) (Alt)-manual.pdf</manual>
+		<bezel>./images/Radar Rat Race (Japan) (v02) (MAX) (Alt)-bezel.png</bezel>
+		<rating>0.7</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Commodore</developer>
+		<publisher>Commodore Electronics Ltd.</publisher>
+		<genre>Action / Labyrinth</genre>
+		<players>1</players>
+		<md5>cd24678fea44a2512b0449e7433a5e41</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T025151" />
+	</game>
+	<game id="114621">
+		<path>./No-Intro/Games/Radar Rat Race (Japan) (v02) (MAX).crt</path>
+		<name>Radar Rat Race</name>
+		<desc>Radar Rat Race takes the gameplay of Rally X and puts it into a rodent context. You control a rat, who must grab all the pieces of cheese in a maze, and flee from all the other rats. Once you reach a barrier in the maze, you are automatically rotated, but you can always manually change direction.
+
+There are red ones who chase after you, and black ones who are activated when you get close to them - both types kill you on contact. When they are close, you can activate a Star Screen to block them off.
+
+The Radar of the title is on the right of the screen, and shows you where each piece of cheese is, although the actual maze is not illuminated, so your next snack might be further away than you think.</desc>
+		<image>./images/Radar Rat Race (Japan) (v02) (MAX)-image.png</image>
+		<video>./videos/Radar Rat Race (Japan) (v02) (MAX)-video.mp4</video>
+		<marquee>./images/Radar Rat Race (Japan) (v02) (MAX)-marquee.png</marquee>
+		<thumbnail>./images/Radar Rat Race (Japan) (v02) (MAX)-thumb.png</thumbnail>
+		<manual>./manuals/Radar Rat Race (Japan) (v02) (MAX)-manual.pdf</manual>
+		<bezel>./images/Radar Rat Race (Japan) (v02) (MAX)-bezel.png</bezel>
+		<rating>0.7</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Commodore</developer>
+		<publisher>Commodore Electronics Ltd.</publisher>
+		<genre>Action / Labyrinth</genre>
+		<players>1</players>
+		<md5>953268d49b474e125a99fa31097935f9</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T025159" />
+	</game>
+	<game id="114786">
+		<path>./No-Intro/Games/Rechenlowe, Der - Fit in Addition und Subtraktion - 2.-3. Schuljahr (Germany).crt</path>
+		<name>Rechenlowe, Der - Fit In Addition Und Subtraktion - 2.-3. Schuljahr</name>
+		<image>./images/Rechenlowe, Der - Fit in Addition und Subtraktion - 2.-3. Schuljahr (Germany)-image.png</image>
+		<md5>8b19b19cc2050e3a2fcc1e81bbb76bfe</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T025201" />
+	</game>
+	<game id="114786">
+		<path>./No-Intro/Games/Rechenlowe, Der - Fit in Addition und Subtraktion - 3.-4. Schuljahr (Germany).crt</path>
+		<name>Rechenlowe, Der - Fit In Addition Und Subtraktion - 2.-3. Schuljahr</name>
+		<image>./images/Rechenlowe, Der - Fit in Addition und Subtraktion - 3.-4. Schuljahr (Germany)-image.png</image>
+		<md5>50daae305d1f50cb9b22487e02306381</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T025203" />
+	</game>
+	<game id="114787">
+		<path>./No-Intro/Games/Rechenlowe, Der - Fit in Geometrie - 3.-4. Schuljahr (Germany).crt</path>
+		<name>Rechenlowe, Der - Fit In Geometrie - 3.-4. Schuljahr</name>
+		<image>./images/Rechenlowe, Der - Fit in Geometrie - 3.-4. Schuljahr (Germany)-image.png</image>
+		<md5>978946764a8536f6d154d10b86fff8d3</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T025205" />
+	</game>
+	<game id="114788">
+		<path>./No-Intro/Games/Rechenlowe, Der - Fit in Mathematik - 1. Schuljahr (Germany).crt</path>
+		<name>Rechenlowe, Der - Fit In Mathematik - 1. Schuljahr</name>
+		<image>./images/Rechenlowe, Der - Fit in Mathematik - 1. Schuljahr (Germany)-image.png</image>
+		<md5>da00c206b3f97f58e7490a33c270949f</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T025208" />
+	</game>
+	<game id="114789">
+		<path>./No-Intro/Games/Rechenlowe, Der - Fit in Multiplikation und Division - 2.-3. Schuljahr (Germany).crt</path>
+		<name>Rechenlowe, Der - Fit In Multiplikation Und Division - 2.-3. Schuljahr</name>
+		<image>./images/Rechenlowe, Der - Fit in Multiplikation und Division - 2.-3. Schuljahr (Germany)-image.png</image>
+		<md5>1a912494d9601db1a6bc53b32284111e</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T025210" />
+	</game>
+	<game id="114789">
+		<path>./No-Intro/Games/Rechenlowe, Der - Fit in Multiplikation und Division - 3.-4. Schuljahr (Germany).crt</path>
+		<name>Rechenlowe, Der - Fit In Multiplikation Und Division - 2.-3. Schuljahr</name>
+		<image>./images/Rechenlowe, Der - Fit in Multiplikation und Division - 3.-4. Schuljahr (Germany)-image.png</image>
+		<md5>edfee303af9b25b6a535f23a144ccdaf</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T025212" />
+	</game>
+	<game id="114751">
+		<path>./No-Intro/Games/Rechtschreiblowe, Der - Fit in Rechtschreibung - 3.-4. Schuljahr (Germany) (Teil 1).d64</path>
+		<name>Rechtschreiblowe, Der - Fit In Rechtschreibung - 3.-4. Schuljahr</name>
+		<image>./images/Rechtschreiblowe, Der - Fit in Rechtschreibung - 3.-4. Schuljahr (Germany) (Teil 1)-image.png</image>
+		<md5>94db2e4a63137626362f455bbdc5743c</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T025215" />
+	</game>
+	<game id="114751">
+		<path>./No-Intro/Games/Rechtschreiblowe, Der - Fit in Rechtschreibung - 3.-4. Schuljahr (Germany) (Teil 2).d64</path>
+		<name>Rechtschreiblowe, Der - Fit In Rechtschreibung - 3.-4. Schuljahr</name>
+		<image>./images/Rechtschreiblowe, Der - Fit in Rechtschreibung - 3.-4. Schuljahr (Germany) (Teil 2)-image.png</image>
+		<md5>50c98e57e25baecf442a1e3831272249</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T025217" />
+	</game>
+	<game id="114751">
+		<path>./No-Intro/Games/Rechtschreiblowe, Der - Fit in Rechtschreibung - 3.-4. Schuljahr (Germany) (Teil 3).d64</path>
+		<name>Rechtschreiblowe, Der - Fit In Rechtschreibung - 3.-4. Schuljahr</name>
+		<image>./images/Rechtschreiblowe, Der - Fit in Rechtschreibung - 3.-4. Schuljahr (Germany) (Teil 3)-image.png</image>
+		<md5>d1cee0d63c4d9daad134024ae8890e8b</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T025220" />
+	</game>
+	<game id="114751">
+		<path>./No-Intro/Games/Rechtschreiblowe, Der - Fit in Rechtschreibung - 3.-4. Schuljahr (Germany).crt</path>
+		<name>Rechtschreiblowe, Der - Fit In Rechtschreibung - 3.-4. Schuljahr</name>
+		<image>./images/Rechtschreiblowe, Der - Fit in Rechtschreibung - 3.-4. Schuljahr (Germany)-image.png</image>
+		<md5>42d3546a7aec63d3d0c679b56dd91895</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T025222" />
+	</game>
+	<game id="114707">
+		<path>./No-Intro/Games/Road Race (Japan) (v02) (MAX).crt</path>
+		<name>Road Race</name>
+		<image>./images/Road Race (Japan) (v02) (MAX)-image.png</image>
+		<thumbnail>./images/Road Race (Japan) (v02) (MAX)-thumb.png</thumbnail>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Commodore Electronics Ltd.</publisher>
+		<md5>bd3b33585d32298a39402abc44487dc8</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T025225" />
+	</game>
+	<game id="36120">
+		<path>./No-Intro/Games/RoboCop 2 (Europe).crt</path>
+		<name>Robocop 2</name>
+		<desc>RoboCop 2 is a mission-based platform game. Missions have various objectives, such as destroying nukes or killing all the enemies. If you didn't destroy/kill enough, you'll be transported to a training mission, which is a first-person perspective shoot 'em up. Should you also fail the training, you must go to the beginning of the previous mission. Successfully completed mission or enough points scored by training allow you to proceed to the next stage. Unlike in the first RoboCop, there's no time limit, and you are able to jump.</desc>
+		<image>./images/RoboCop 2 (Europe)-image.png</image>
+		<video>./videos/RoboCop 2 (Europe)-video.mp4</video>
+		<marquee>./images/RoboCop 2 (Europe)-marquee.png</marquee>
+		<thumbnail>./images/RoboCop 2 (Europe)-thumb.png</thumbnail>
+		<fanart>./images/RoboCop 2 (Europe)-fanart.jpg</fanart>
+		<rating>0.4</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Painting by Numbers</developer>
+		<publisher>Ocean</publisher>
+		<genre>Platform</genre>
+		<family>RoboCop</family>
+		<players>1-2</players>
+		<md5>5ecee01da9bc9d658f8b404c2a7aef1b</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T025233" />
+	</game>
+	<game id="36039">
+		<path>./No-Intro/Games/RoboCop 3 (Europe).crt</path>
+		<name>Robocop 3</name>
+		<desc>RoboCop 3 is a side-scrolling platform shooter. You get missions (such as rescuing your colleagues who are being kept hostages), which are divided into several smaller levels. The levels usually consist of several platforms, and are heavily populated by enemies who shoot at you. You can gather special repair kits, which will be used to restore your health after you've completed a level. "RoboCop 3" is more of a shooter than its predecessors, having more and tougher enemies.</desc>
+		<image>./images/RoboCop 3 (Europe)-image.png</image>
+		<video>./videos/RoboCop 3 (Europe)-video.mp4</video>
+		<marquee>./images/RoboCop 3 (Europe)-marquee.png</marquee>
+		<thumbnail>./images/RoboCop 3 (Europe)-thumb.png</thumbnail>
+		<fanart>./images/RoboCop 3 (Europe)-fanart.jpg</fanart>
+		<rating>0.75</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Probe Software</developer>
+		<publisher>Ocean</publisher>
+		<genre>Platform</genre>
+		<family>RoboCop</family>
+		<players>1</players>
+		<md5>968d382d591d6aae958d8d2c4318e6e5</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T025240" />
+	</game>
+	<game id="36000">
+		<path>./No-Intro/Games/Shadow of the Beast (Europe).crt</path>
+		<name>Shadow of the Beast</name>
+		<desc>While very young, Aarbron was kidnapped and enslaved by the Priests of the Beast Lord. He grew up on drugs made to destroy his own will and turn him into the Beast Messenger, a powerful creature serving Maletoth, The Beast Lord himself. He did his job, until one day he noticed a man about to be sacrificed in a ritual, his face triggering ancient memories... and as the sacrificial knife descended into the man's body, Aarbron recognizes the face. Of his father.
+As his father dies in the altar, memories of his childhood and tormented past at the hands of the Beast Lord emerged, and as feelings of hate over his captors took over him, he swore revenge and fled the temple, knowing the road to avenge his father and redemption would be hard.
+
+Shadow of the Beast, one of Psygnosis most popular titles during the 16-bit computer era is a side-scrolling platformer best known for the use of parallax scrolling along lush graphics, a musical score  by David Whittaker, a iconic cover by Roger Dean and what many consider to be unforgiving gameplay, balancing between the "very challenging" and the "impossible". The player has to navigate through several areas filled with enemies and traps, collecting keys and activating triggers than open new areas or give Aarbron the means to overcome a sub-boss. The number of moves the player has at disposal is limited: duck, jump and only two attacks: punch and a flying kick. While most enemies die with just one hit, the player must time each attack accurately. However, there are also traps of objects that cannot be destroyed, and these require the player to jump, duck or move according the sequence. The player has only one life with 12 hit points that can be replenished by collecting some objects hidden in the level (like an off-route location or a under a megalith), which also contributes to the difficulty level.</desc>
+		<image>./images/Shadow of the Beast (Europe)-image.png</image>
+		<video>./videos/Shadow of the Beast (Europe)-video.mp4</video>
+		<marquee>./images/Shadow of the Beast (Europe)-marquee.png</marquee>
+		<thumbnail>./images/Shadow of the Beast (Europe)-thumb.png</thumbnail>
+		<fanart>./images/Shadow of the Beast (Europe)-fanart.jpg</fanart>
+		<manual>./manuals/Shadow of the Beast (Europe)-manual.pdf</manual>
+		<rating>0.45</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Reflections Interactive Limited</developer>
+		<publisher>Ocean</publisher>
+		<genre>Beat'em Up</genre>
+		<family>Shadow of the Beast</family>
+		<players>1</players>
+		<md5>ff97f50b19082c9805282bb479ba67ec</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T025248" />
+	</game>
+	<game id="36525">
+		<path>./No-Intro/Games/Space Gun (Europe).crt</path>
+		<name>Space Gun</name>
+		<desc>2039 A.D. Man begins deep space exploration in search of new life forms and usable fuel sources. What he discovers is trouble.
+
+Until now, the success of past explorations was causing the space effort to grow by leaps and bounds. Until now, the explorers had found little more than fungus and small insects as alternative
+lifeforms. Until now, the chief dangers had been 
+those posed by the hostile environment of space. Until now, the aliens had not known about THEM.
+
+On the ragged edge of the galaxy, other creatures that roam the stars discover humans and spaceships to be excellent sources of food and other resources. Prepared at the worst for clashes with rival exploration teams, the human crews can do little to
+defend themselves as wave upon wave of nightmare
+creatures descend upon their ships and bases.
+
+In response to their distress calls, the Federation has assembled a series of rescue teams, lead by their best military sharpshooters, to deal with the alien menace. As the leader of one of these teams, you must gun down the intruders and pick up the human survivors. Brave the maze of dark corridors that may lead to a deadly shootout between you and legions of monsters. Pick up survivors and extra ammo on the way.</desc>
+		<image>./images/Space Gun (Europe)-image.png</image>
+		<video>./videos/Space Gun (Europe)-video.mp4</video>
+		<marquee>./images/Space Gun (Europe)-marquee.png</marquee>
+		<thumbnail>./images/Space Gun (Europe)-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Ocean</developer>
+		<publisher>Taito</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>1</players>
+		<md5>24900229ffd862bd120642ec89ed744a</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T025254" />
+	</game>
+	<game id="115529">
+		<path>./No-Intro/Games/Super Alien (Japan) (v01) (MAX).crt</path>
+		<name>Super Alien Max</name>
+		<image>./images/Super Alien (Japan) (v01) (MAX)-image.png</image>
+		<video>./videos/Super Alien (Japan) (v01) (MAX)-video.mp4</video>
+		<thumbnail>./images/Super Alien (Japan) (v01) (MAX)-thumb.png</thumbnail>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Commodore Electronics Ltd.</publisher>
+		<md5>2000bfbfe3de0260446258b925c43a33</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T025258" />
+	</game>
+	<game id="116628">
+		<path>./No-Intro/Games/Super Snapshot 5 (Europe) (Program).crt</path>
+		<name>Super Snapshot 5</name>
+		<image>./images/Super Snapshot 5 (Europe) (Program)-image.png</image>
+		<md5>dd0937d190006f2fd6357d14b6f82c97</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T025301" />
+	</game>
+	<game>
+		<path>./No-Intro/Games/Taz (World) (Aftermarket) (Homebrew).prg</path>
+		<name>Taz (World) (Aftermarket) (Homebrew)</name>
+		<md5>a1c14c315a1a59a7121dd994d0542d8f</md5>
+		<scrap name="ScreenScraper" date="20231103T025302" />
+	</game>
+	<game id="116671">
+		<path>./No-Intro/Games/Teledata (Sweden) (Program).crt</path>
+		<name>Teledata</name>
+		<image>./images/Teledata (Sweden) (Program)-image.png</image>
+		<md5>c0b5df8f443a33a7faa3f4636222b269</md5>
+		<lang>sw</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T025305" />
+	</game>
+	<game id="35865">
+		<path>./No-Intro/Games/Terminator 2 - Judgment Day + Modern Music Maker + Image System, The (Europe).crt</path>
+		<name>Terminator 2 - Judgement Day</name>
+		<desc>The game consists of several actions parts linked together. All parts are different, each resembling typical games of the genre (for example: 1st level is like a side-view beat 'em up). Between each level a small cutscene from the movie is shown.</desc>
+		<image>./images/Terminator 2 - Judgment Day + Modern Music Maker + Image System, The (Europe)-image.png</image>
+		<video>./videos/Terminator 2 - Judgment Day + Modern Music Maker + Image System, The (Europe)-video.mp4</video>
+		<marquee>./images/Terminator 2 - Judgment Day + Modern Music Maker + Image System, The (Europe)-marquee.png</marquee>
+		<thumbnail>./images/Terminator 2 - Judgment Day + Modern Music Maker + Image System, The (Europe)-thumb.png</thumbnail>
+		<fanart>./images/Terminator 2 - Judgment Day + Modern Music Maker + Image System, The (Europe)-fanart.jpg</fanart>
+		<manual>./manuals/Terminator 2 - Judgment Day + Modern Music Maker + Image System, The (Europe)-manual.pdf</manual>
+		<releasedate>19910101T000000</releasedate>
+		<developer>LJN</developer>
+		<publisher>Ocean</publisher>
+		<family>Terminator</family>
+		<players>1</players>
+		<md5>87b7ca073c3ab14a6f5ca4140ab07299</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T025313" />
+	</game>
+	<game id="35834">
+		<path>./No-Intro/Games/Toki (Europe).crt</path>
+		<name>Toki</name>
+		<desc>The hero of the game is a young jungle-man named Toki. One day the evil wizard Dr. Stark kidnaps his girlfriend Wanda. When Toki tries to save her, he is turned into a monkey! Now Toki has to find Dr. Stark in his palace, to rescue Wanda, and to become a human being again!
+
+It is a platform game with a lot of various levels: jungle, underwater, volcanic caves, on the ice... Toki's only weapons are spitting on the enemies or jumping on them and crashing them. There are many possibilities to upgrade his spitting "weapon";  for example, if he finds an upgrade, he can spit fireballs. 
+
+This game is ported from an older arcade version.</desc>
+		<image>./images/Toki (Europe)-image.png</image>
+		<video>./videos/Toki (Europe)-video.mp4</video>
+		<marquee>./images/Toki (Europe)-marquee.png</marquee>
+		<thumbnail>./images/Toki (Europe)-thumb.png</thumbnail>
+		<fanart>./images/Toki (Europe)-fanart.jpg</fanart>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Ocean</developer>
+		<publisher>Taito</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<md5>30244052ac1b8bbbd702969d0a451f34</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T025319" />
+	</game>
+	<game id="116877">
+		<path>./No-Intro/Games/VIC-Text 64 (Sweden) (Program).crt</path>
+		<name>ZZZ(notgame):Vic-text 64</name>
+		<hidden>true</hidden>
+		<md5>ed24b651d72d4ff6d56c0b65c0c42ca2</md5>
+		<lang>sw</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T025321" />
+	</game>
+	<game id="109798">
+		<path>./No-Intro/Games/Wizard of Wor (Japan) (MAX).crt</path>
+		<name>Wizard of Wor</name>
+		<desc>Wizard of Wor is an arcade shooter played from a top-down point of view.
+
+The player controls a "Worrior" who is trapped in a dungeon. The goal is to earn as many points as possible by shooting the numerous enemy creatures which wander about the maze like corridors. The creatures wander about at various speeds, may shoot darts at the player, and some even have the ability to disappear temporarily. At the bottom of the screen the player has a radar which can be used to locate creatures that are invisible.</desc>
+		<image>./images/Wizard of Wor (Japan) (MAX)-image.png</image>
+		<video>./videos/Wizard of Wor (Japan) (MAX)-video.mp4</video>
+		<marquee>./images/Wizard of Wor (Japan) (MAX)-marquee.png</marquee>
+		<thumbnail>./images/Wizard of Wor (Japan) (MAX)-thumb.png</thumbnail>
+		<manual>./manuals/Wizard of Wor (Japan) (MAX)-manual.pdf</manual>
+		<bezel>./images/Wizard of Wor (Japan) (MAX)-bezel.png</bezel>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Dave Nutting Associates</developer>
+		<publisher>Commodore Electronics Ltd.</publisher>
+		<genre>Action / Labyrinth</genre>
+		<players>1-2</players>
+		<md5>311fa4155e2673972bd61bc1b1325b25</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T025328" />
+	</game>
+	<game id="109798">
+		<path>./No-Intro/Games/Wizard of Wor (Japan) (v02) (MAX).crt</path>
+		<name>Wizard of Wor</name>
+		<desc>Wizard of Wor is an arcade shooter played from a top-down point of view.
+
+The player controls a "Worrior" who is trapped in a dungeon. The goal is to earn as many points as possible by shooting the numerous enemy creatures which wander about the maze like corridors. The creatures wander about at various speeds, may shoot darts at the player, and some even have the ability to disappear temporarily. At the bottom of the screen the player has a radar which can be used to locate creatures that are invisible.</desc>
+		<image>./images/Wizard of Wor (Japan) (v02) (MAX)-image.png</image>
+		<video>./videos/Wizard of Wor (Japan) (v02) (MAX)-video.mp4</video>
+		<marquee>./images/Wizard of Wor (Japan) (v02) (MAX)-marquee.png</marquee>
+		<thumbnail>./images/Wizard of Wor (Japan) (v02) (MAX)-thumb.png</thumbnail>
+		<manual>./manuals/Wizard of Wor (Japan) (v02) (MAX)-manual.pdf</manual>
+		<bezel>./images/Wizard of Wor (Japan) (v02) (MAX)-bezel.png</bezel>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Dave Nutting Associates</developer>
+		<publisher>Commodore Electronics Ltd.</publisher>
+		<genre>Action / Labyrinth</genre>
+		<players>1-2</players>
+		<md5>5f7f74953b65f8cfb30753bc49271c7a</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T025336" />
+	</game>
+	<game id="115601">
+		<path>./No-Intro/PP/3er Reihe, Die (Germany) (Compilation).nib</path>
+		<name>3er Reihe, Die</name>
+		<image>./images/3er Reihe, Die (Germany) (Compilation)-image.png</image>
+		<marquee>./images/3er Reihe, Die (Germany) (Compilation)-marquee.png</marquee>
+		<thumbnail>./images/3er Reihe, Die (Germany) (Compilation)-thumb.png</thumbnail>
+		<md5>669c0eb4cfcb20c6668007d53e72c230</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T025341" />
+	</game>
+	<game id="109456">
 		<path>./No-Intro/PP/Accolade Comics - Steve Keene, Private Spy (USA, Europe) (Side 4).nib</path>
-		<name>Accolade Comics - Steve Keene, Private Spy (USA, Europe) (Side 4)</name>
+		<name>Accolade Comics</name>
+		<desc>A young boy reads his favorite comic book about secret agent Steve Keene. The story begins when agent Keene's boss sends him on one of two missions: to Vienna to investigate the mysterious disappearance of a famous professor, or to solve the mystery of strange self-replicating non-functioning fire hydrants.
+
+While reading from page to page like a comic magazine you can interact with the characters when you choose what Keene should do or say; sometimes you even can take control over Keene to surpass action sequences.</desc>
+		<image>./images/Accolade Comics - Steve Keene, Private Spy (USA, Europe) (Side 4)-image.png</image>
+		<marquee>./images/Accolade Comics - Steve Keene, Private Spy (USA, Europe) (Side 4)-marquee.png</marquee>
+		<thumbnail>./images/Accolade Comics - Steve Keene, Private Spy (USA, Europe) (Side 4)-thumb.png</thumbnail>
+		<manual>./manuals/Accolade Comics - Steve Keene, Private Spy (USA, Europe) (Side 4)-manual.pdf</manual>
+		<releasedate>19870401T000000</releasedate>
+		<developer>Distinctive Software</developer>
+		<publisher>Accolade</publisher>
+		<genre>Adventure</genre>
 		<md5>4e09ffcc5b85392701d47887b712ba23</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231103T025343" />
+	</game>
+	<game id="109456">
+		<path>./No-Intro/PP/Accolade Comics - Steve Keene, Private Spy (USA, Europe) (Side 5).nib</path>
+		<name>Accolade Comics</name>
+		<desc>A young boy reads his favorite comic book about secret agent Steve Keene. The story begins when agent Keene's boss sends him on one of two missions: to Vienna to investigate the mysterious disappearance of a famous professor, or to solve the mystery of strange self-replicating non-functioning fire hydrants.
+
+While reading from page to page like a comic magazine you can interact with the characters when you choose what Keene should do or say; sometimes you even can take control over Keene to surpass action sequences.</desc>
+		<image>./images/Accolade Comics - Steve Keene, Private Spy (USA, Europe) (Side 5)-image.png</image>
+		<marquee>./images/Accolade Comics - Steve Keene, Private Spy (USA, Europe) (Side 5)-marquee.png</marquee>
+		<thumbnail>./images/Accolade Comics - Steve Keene, Private Spy (USA, Europe) (Side 5)-thumb.png</thumbnail>
+		<manual>./manuals/Accolade Comics - Steve Keene, Private Spy (USA, Europe) (Side 5)-manual.pdf</manual>
+		<releasedate>19870401T000000</releasedate>
+		<developer>Distinctive Software</developer>
+		<publisher>Accolade</publisher>
+		<genre>Adventure</genre>
+		<md5>3e6c1ecac0ebd1ab587efd035ce0cd85</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231103T025349" />
+	</game>
+	<game id="109456">
+		<path>./No-Intro/PP/Accolade Comics - Steve Keene, Private Spy (USA, Europe) (Side 6).nib</path>
+		<name>Accolade Comics</name>
+		<desc>A young boy reads his favorite comic book about secret agent Steve Keene. The story begins when agent Keene's boss sends him on one of two missions: to Vienna to investigate the mysterious disappearance of a famous professor, or to solve the mystery of strange self-replicating non-functioning fire hydrants.
+
+While reading from page to page like a comic magazine you can interact with the characters when you choose what Keene should do or say; sometimes you even can take control over Keene to surpass action sequences.</desc>
+		<image>./images/Accolade Comics - Steve Keene, Private Spy (USA, Europe) (Side 6)-image.png</image>
+		<marquee>./images/Accolade Comics - Steve Keene, Private Spy (USA, Europe) (Side 6)-marquee.png</marquee>
+		<thumbnail>./images/Accolade Comics - Steve Keene, Private Spy (USA, Europe) (Side 6)-thumb.png</thumbnail>
+		<manual>./manuals/Accolade Comics - Steve Keene, Private Spy (USA, Europe) (Side 6)-manual.pdf</manual>
+		<releasedate>19870401T000000</releasedate>
+		<developer>Distinctive Software</developer>
+		<publisher>Accolade</publisher>
+		<genre>Adventure</genre>
+		<md5>9a7dae636bdc93708ae94e3e76d5275e</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231103T025355" />
+	</game>
+	<game id="122192">
+		<path>./No-Intro/PP/ACE - Air Combat Emulator (USA, Europe).nib</path>
+		<name>ACE : Air Combat Emulator</name>
+		<desc>The AIR COMBAT EMULATOR, packed with exciting features, is by far the fastest, most realistic flight simulator available. For the first time on a home computer, feel what it is really like to fly a high performance military jet and engage tanks, missiles, ships, helicopter gun-ships and two types of cunning intelligent enemy aircraft.
+
+Featuring over 300 sprite images, ACE has the smoothest most detailed cockpit view of hills, trees and other ground objects ever achieved thanks to specially developed Dynamic Graphics Technique allowing sensational high speed solid 3D graphics.
+
+In combat, your head will spin as you struggle with the help of advanced avionics including rear-view camera and radar, to stay alive long enough to do some damage to the enemy.
+
+The unique two seat flying option (pilot, navigator/weapons man) and Synchro Speech which passes vital aircraft condition information to the flight crew without freezing the action combined with dynamic tactical map, take offs and landings, summer, winter and night-time flying and a remarkably realistic in-flight refuelling option makes ACE the ultimate AERIAL COMBAT EMULATOR.</desc>
+		<image>./images/ACE - Air Combat Emulator (USA, Europe)-image.png</image>
+		<video>./videos/ACE - Air Combat Emulator (USA, Europe)-video.mp4</video>
+		<marquee>./images/ACE - Air Combat Emulator (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/ACE - Air Combat Emulator (USA, Europe)-thumb.png</thumbnail>
+		<manual>./manuals/ACE - Air Combat Emulator (USA, Europe)-manual.pdf</manual>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Ian Martin</developer>
+		<publisher>Cascade Games</publisher>
+		<genre>Simulation</genre>
+		<players>1</players>
+		<md5>6c3b2ddb00d9f62fe6facad1a8067f53</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231103T025402" />
+	</game>
+	<game id="35996">
+		<path>./No-Intro/PP/Ace of Aces (Europe).nib</path>
+		<name>Ace of Aces</name>
+		<desc>Ace of Aces puts you in the cockpit of the Mosquito, the Maverick RAF fighter bomber of World War II. It's white knuckle aerial combat simulation, combining the exhilaration of flight with the gut-wrenching pressure of enemy confrontation. During World War II, Mosquitos downed 659 enemy aircraft and 500 V-Buzz Bombs. Your only allies are your wits, your weapons and your radar. Are you equal to the challenge? Down the Nazi bombers, sink de U-boats, outrun the V-Buzz Bombs and stop the enemy trains to release the POWs. Should you fly around a storm or around? Navigate carefully, consult your intelligence reports and maps to make a decision. Choose your weapons and fuel wisely - once your're on a mission, there's no going back. Select one mission or any combination. If you complete all four successfully - and make it back alive - you'll become the most distinguished flight veteran of World War II - the Ace of Aces!</desc>
+		<image>./images/Ace of Aces (Europe)-image.png</image>
+		<video>./videos/Ace of Aces (Europe)-video.mp4</video>
+		<marquee>./images/Ace of Aces (Europe)-marquee.png</marquee>
+		<thumbnail>./images/Ace of Aces (Europe)-thumb.png</thumbnail>
+		<fanart>./images/Ace of Aces (Europe)-fanart.jpg</fanart>
+		<manual>./manuals/Ace of Aces (Europe)-manual.pdf</manual>
+		<rating>0.7</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Artech Studios</developer>
+		<publisher>U.S. Gold</publisher>
+		<genre>Simulation / Vehicle</genre>
+		<players>1</players>
+		<md5>85b62e57d05bb4b66acd7002bad41e15</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T025409" />
+	</game>
+	<game id="35996">
+		<path>./No-Intro/PP/Ace of Aces (USA).nib</path>
+		<name>Ace of Aces</name>
+		<desc>Ace of Aces puts you in the cockpit of the Mosquito, the Maverick RAF fighter bomber of World War II. It's white knuckle aerial combat simulation, combining the exhilaration of flight with the gut-wrenching pressure of enemy confrontation. During World War II, Mosquitos downed 659 enemy aircraft and 500 V-Buzz Bombs. Your only allies are your wits, your weapons and your radar. Are you equal to the challenge? Down the Nazi bombers, sink de U-boats, outrun the V-Buzz Bombs and stop the enemy trains to release the POWs. Should you fly around a storm or around? Navigate carefully, consult your intelligence reports and maps to make a decision. Choose your weapons and fuel wisely - once your're on a mission, there's no going back. Select one mission or any combination. If you complete all four successfully - and make it back alive - you'll become the most distinguished flight veteran of World War II - the Ace of Aces!</desc>
+		<image>./images/Ace of Aces (USA)-image.png</image>
+		<video>./videos/Ace of Aces (USA)-video.mp4</video>
+		<marquee>./images/Ace of Aces (USA)-marquee.png</marquee>
+		<thumbnail>./images/Ace of Aces (USA)-thumb.png</thumbnail>
+		<fanart>./images/Ace of Aces (USA)-fanart.jpg</fanart>
+		<manual>./manuals/Ace of Aces (USA)-manual.pdf</manual>
+		<rating>0.7</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Artech Studios</developer>
+		<publisher>U.S. Gold</publisher>
+		<genre>Simulation / Vehicle</genre>
+		<players>1</players>
+		<md5>63bc395b558ff0300bdcec9572d8c3ad</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231103T025417" />
+	</game>
+	<game id="36104">
+		<path>./No-Intro/PP/Acrojet (Europe).nib</path>
+		<name>AcroJet</name>
+		<desc>Acrojet contains ten acrobatic events which can be played by up to four players and at four different levels of difficulty.
+In all ten events you fly a BD5J Acrojet over a series of obstacles:
+
+1. In the Pylon Race you have to fly around pylons and land safely. 
+2. In the Slalom Race you have to fly a 'figure 8'.
+3. In the next event, the Ribbon Cut you have to break two ribbons.
+4. In the Inverted Ribbon Cut you perform the same stunt but flying the plane upside down. 
+5. In the Ribbon Roll there are two ribbons in a row and you have to fly under one
+
+and complete a full roll followed by flying under the second ribbon.
+6. In the Under Ribbon Race you perform a slalom by flying in sequence under three ribbons. 
+7. In the Under Ribbon Loop you fly under a ribbon followed by a loop and passing over the same ribbon upside down.
+8. In the Spot Landing event you have to fly up to 2,000 feet and land on the runway as close as possible to a marked spot.
+9. In the Flame-Out Landing event you perform the same stunt 
+but then without the engines running.
+10. The tenth and last event, the Cuban Eight, you have to make a half-loop over a ribbon, followed by a half-role, a half loop and flying under the first ribbon again. 
+
+Some game parameters can be set. You can decide how the weather conditions are going to be.
+An instrument panel at the bottom of the screen contains several read-outs, like a altitude meter, a compass, an artificial horizon and a vertical velocity meter.</desc>
+		<image>./images/Acrojet (Europe)-image.png</image>
+		<marquee>./images/Acrojet (Europe)-marquee.png</marquee>
+		<thumbnail>./images/Acrojet (Europe)-thumb.png</thumbnail>
+		<manual>./manuals/Acrojet (Europe)-manual.pdf</manual>
+		<rating>0.6</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>U.S. Gold</developer>
+		<publisher>MicroProse</publisher>
+		<genre>Simulation</genre>
+		<players>1-4</players>
+		<md5>1c5abb0166c34901c621c9c250cfd024</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T025425" />
+	</game>
+	<game id="109373">
+		<path>./No-Intro/PP/Action Biker (USA, Europe).nib</path>
+		<name>Action Biker</name>
+		<desc>Action Biker is a game that uses the character Clumsy Colin from the British comic Buster, and he was also used as the mascot for the crisp range KP Skips. You take control of Colin on his motorbike and you must ride around an isometric 360 degree landscape to collect various clothing items and bike parts to enter a drag race. There are various obstacles to avoid and these include walls, fences, trees, telegraph poles, a petrol station and water and if you crash into any then you lose one of five lives. There are also raised platforms that can be negotiated but you are able to jump from them safely. Once you have collected all the items required, you can make your way to the drag strip to race.</desc>
+		<image>./images/Action Biker (USA, Europe)-image.png</image>
+		<video>./videos/Action Biker (USA, Europe)-video.mp4</video>
+		<marquee>./images/Action Biker (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Action Biker (USA, Europe)-thumb.png</thumbnail>
+		<manual>./manuals/Action Biker (USA, Europe)-manual.pdf</manual>
+		<bezel>./images/Action Biker (USA, Europe)-bezel.png</bezel>
+		<rating>0.85</rating>
+		<releasedate>19850101T000000</releasedate>
+		<publisher>Mastertronic</publisher>
+		<genre>Race, Driving / Motorcycle Race, 3rd Pers.</genre>
+		<players>1</players>
+		<md5>0dfbf0175cb2629034ebeb6d9cd0c3eb</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231103T025432" />
+	</game>
+	<game id="122094">
+		<path>./No-Intro/PP/Action Classics Volume I (USA, Europe) (Compilation).nib</path>
+		<name>Action Classics Volume I</name>
+		<genre>Compilation</genre>
+		<md5>192a48a614fe1c42cf44beb726f09313</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231103T025433" />
+	</game>
+	<game id="35906">
+		<path>./No-Intro/PP/Action Fighter (USA).nib</path>
+		<name>Action Fighter</name>
+		<desc>This is a top down vertically scrolling shooter, in which you start off as a motorbike. You are quite vulnerable to attack at first, but power ups come in the form of a Sega van which you have to dock with. The first time you dock you get double fire, the second time gives you a rocket, the third gives a rear force field and the fourth invulnerablility.
+
+By destroying cars and bikes that appear on your way, you can collect A-F letters. Collecting A through to D allows you change into a sportscar which is less vulnerable to attack, but not as nimble. Collect all the letters in order to be able to transform into a high tech plane. This is the final stage of one of the five missions. Only the high tech plane can guide you to your destination in which your main target is hiding.
+
+There is also time limit in which you have to complete the mission. It is advisable to transform into the high tech plane as fast as it is possible.
+
+Picking up flags gives you bonus points with 10,000 points gaining you an extra life.</desc>
+		<image>./images/Action Fighter (USA)-image.png</image>
+		<video>./videos/Action Fighter (USA)-video.mp4</video>
+		<marquee>./images/Action Fighter (USA)-marquee.png</marquee>
+		<thumbnail>./images/Action Fighter (USA)-thumb.png</thumbnail>
+		<fanart>./images/Action Fighter (USA)-fanart.jpg</fanart>
+		<manual>./manuals/Action Fighter (USA)-manual.pdf</manual>
+		<rating>0.4</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>Firebird Software</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+		<md5>9692b0edafdb4b9a2a2c1fe9bde21cf1</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231103T025442" />
+	</game>
+	<game id="122095">
+		<path>./No-Intro/PP/Action Pack (USA, Europe) (Compilation) (Side 1).nib</path>
+		<name>Action Pack</name>
+		<image>./images/Action Pack (USA, Europe) (Compilation) (Side 1)-image.png</image>
+		<marquee>./images/Action Pack (USA, Europe) (Compilation) (Side 1)-marquee.png</marquee>
+		<thumbnail>./images/Action Pack (USA, Europe) (Compilation) (Side 1)-thumb.png</thumbnail>
+		<manual>./manuals/Action Pack (USA, Europe) (Compilation) (Side 1)-manual.pdf</manual>
+		<md5>56637d138403747bcb17a0b706c748f2</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231103T025448" />
+	</game>
+	<game id="122095">
+		<path>./No-Intro/PP/Action Pack (USA, Europe) (Compilation) (Side 2).nib</path>
+		<name>Action Pack</name>
+		<image>./images/Action Pack (USA, Europe) (Compilation) (Side 2)-image.png</image>
+		<marquee>./images/Action Pack (USA, Europe) (Compilation) (Side 2)-marquee.png</marquee>
+		<thumbnail>./images/Action Pack (USA, Europe) (Compilation) (Side 2)-thumb.png</thumbnail>
+		<manual>./manuals/Action Pack (USA, Europe) (Compilation) (Side 2)-manual.pdf</manual>
+		<md5>33a7a0a70d4b9f3910a06ae4caefed4e</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231103T025454" />
+	</game>
+	<game id="109466">
+		<path>./No-Intro/PP/Action Service (USA, Europe).nib</path>
+		<name>Combat Course</name>
+		<desc>Lace up those boots soldier, and get ready for five levels of challenging action in this boot camp simulator. As make your way through various levels you'll be given points for doing the right thing and deducted points for any missteps. You can record your attempts and review them, to spot your mistakes and learn from them.
+Level one is the Physical course, which requires you to jump over walls, jump trenches and crawl under barbwire. Level two is the Risk course. This one will have you planting dynamite and throwing grenades.
+Level three has the player going hand-to-hand in the Combat course. The fourth level combines the previous three levels into one, and finally, the fifth level is a custom "Cobra" course that throws random elements from all the courses at the player.
+To give the game replay value, there is a course construction set so that you can make your own levels. The Atari ST and Amiga versions contain digitized sound.</desc>
+		<image>./images/Action Service (USA, Europe)-image.png</image>
+		<marquee>./images/Action Service (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Action Service (USA, Europe)-thumb.png</thumbnail>
+		<fanart>./images/Action Service (USA, Europe)-fanart.jpg</fanart>
+		<manual>./manuals/Action Service (USA, Europe)-manual.pdf</manual>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Cobra Soft</developer>
+		<publisher>Cobra Soft</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<md5>6a6a334b584f18d967314e41dd7ef1cd</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231103T025501" />
+	</game>
+	<game id="122199">
+		<path>./No-Intro/PP/Action Thrillers (USA, Europe) (Compilation).nib</path>
+		<name>ZZZ(notgame):Action Thrillers</name>
+		<hidden>true</hidden>
+		<md5>b2d59c57a2b89f9f3da36a24bb4dbfc3</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231103T025502" />
+	</game>
+	<game id="122103">
+		<path>./No-Intro/PP/Activision Action Demonstration (USA, Europe) (Promo) (Side 1).nib</path>
+		<name>ZZZ(notgame):Aliens</name>
+		<releasedate>19860101T000000</releasedate>
+		<publisher>Activision</publisher>
+		<hidden>true</hidden>
+		<md5>019d4f8b54c4d954425058ab347f50f4</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231103T025504" />
+	</game>
+	<game id="122097">
+		<path>./No-Intro/PP/Activision Action Demonstration (USA, Europe) (Promo) (Side 2).nib</path>
+		<name>ZZZ(notgame):Activision Action Demonstration</name>
+		<hidden>true</hidden>
+		<md5>4495bc7717eb63cc30e8be9167d39efc</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231103T025505" />
+	</game>
+	<game id="122096">
+		<path>./No-Intro/PP/Activision Demo Disk #2 (USA, Europe) (Promo).nib</path>
+		<name>ZZZ(notgame):Activision Demo Disk #2</name>
+		<hidden>true</hidden>
+		<md5>0456ab002ddfcaa336a89572a9ce8ad5</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231103T025506" />
+	</game>
+	<game id="122100">
+		<path>./No-Intro/PP/Activision Demo Disk #3 (USA, Europe) (Promo).nib</path>
+		<name>ZZZ(notgame):Activision Demo Disk #3</name>
+		<hidden>true</hidden>
+		<md5>0f5c375a34f16bd27b40eedd030f0c66</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231103T025507" />
+	</game>
+	<game id="35944">
+		<path>./No-Intro/PP/Addams Family, The (USA, Europe).nib</path>
+		<name>The Addams Family</name>
+		<desc>The Addams Family is a platformer based on the movie of the same name. The player takes the role of Gomez who searches for his missing family members. To find them he has to explore different parts of the mansion, e.g. the woods, while jumping a lot and avoiding enemies. In comparison to the other versions of the game this one is more puzzle-oriented, meaning the player has to find keys to access certain parts of the game world. Another big difference is that this version is not side-scrolling, the player is always sees the whole room and the game switches to another one if the player leaves the screen or enters a door.</desc>
+		<image>./images/Addams Family, The (USA, Europe)-image.png</image>
+		<video>./videos/Addams Family, The (USA, Europe)-video.mp4</video>
+		<marquee>./images/Addams Family, The (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Addams Family, The (USA, Europe)-thumb.png</thumbnail>
+		<rating>0.4</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Ocean</developer>
+		<publisher>Ocean</publisher>
+		<genre>Platform</genre>
+		<family>The Addams Family</family>
+		<players>1</players>
+		<md5>9705a25df47f25f0da8efbc99b664c53</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231103T025513" />
+	</game>
+	<game id="109471">
+		<path>./No-Intro/PP/Addictaball (USA, Europe) (Alt 1).nib</path>
+		<name>Addicta Ball</name>
+		<desc>A great new 1 or 2 player arcade classic. Simple for all the familly to play with joystick or mouse but so deadly addictive you can't stop playing.
+You need courage, lightning reflexes, tactical genius and strategic planning to beat the ball but you'll certainly enjoy finding all the hidden features along the way.</desc>
+		<image>./images/Addictaball (USA, Europe) (Alt 1)-image.png</image>
+		<video>./videos/Addictaball (USA, Europe) (Alt 1)-video.mp4</video>
+		<marquee>./images/Addictaball (USA, Europe) (Alt 1)-marquee.png</marquee>
+		<thumbnail>./images/Addictaball (USA, Europe) (Alt 1)-thumb.png</thumbnail>
+		<releasedate>19870101T000000</releasedate>
+		<publisher>Alligata Software</publisher>
+		<genre>Action / Breakout games</genre>
+		<players>1-2</players>
+		<md5>93540242be7958b3c7893ed55bbde94d</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231103T025519" />
+	</game>
+	<game id="109471">
+		<path>./No-Intro/PP/Addictaball (USA, Europe).nib</path>
+		<name>Addicta Ball</name>
+		<desc>A great new 1 or 2 player arcade classic. Simple for all the familly to play with joystick or mouse but so deadly addictive you can't stop playing.
+You need courage, lightning reflexes, tactical genius and strategic planning to beat the ball but you'll certainly enjoy finding all the hidden features along the way.</desc>
+		<image>./images/Addictaball (USA, Europe)-image.png</image>
+		<video>./videos/Addictaball (USA, Europe)-video.mp4</video>
+		<marquee>./images/Addictaball (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Addictaball (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19870101T000000</releasedate>
+		<publisher>Alligata Software</publisher>
+		<genre>Action / Breakout games</genre>
+		<players>1-2</players>
+		<md5>01890745aa2ce98531f0497acb7b0e73</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231103T025525" />
+	</game>
+	<game id="122104">
+		<path>./No-Intro/PP/Advanced Art Studio (USA, Europe) (Program).nib</path>
+		<name>ZZZ(notgame):Advanced Art Studio</name>
+		<hidden>true</hidden>
+		<md5>e755ff8d566b7cf1506fbcd59c435d3d</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231103T025526" />
+	</game>
+	<game id="36271">
+		<path>./No-Intro/PP/Advanced Dungeons &amp; Dragons - Dragon Lance - Dragons of Flame (Europe) (Alt 1) (Side 1).nib</path>
+		<name>Dragons of Flame</name>
+		<desc>Set in between the SSI's AD&amp;D Dragonlance action games Heroes of the Lance and Shadow Sorcerer. This game follows the tradition of Heroes of the Lance with a side-scrolling, action-oriented view, a breakaway from the standard GoldBox RPGs.  Plot-wise, it also takes place between those two games, following closely the novel/game modules written by Weiss/Hickman.
+
+You take control of one character at a time, with each hero having different abilities.</desc>
+		<image>./images/Advanced Dungeons &amp; Dragons - Dragon Lance - Dragons of Flame (Europe) (Alt 1) (Side 1)-image.png</image>
+		<marquee>./images/Advanced Dungeons &amp; Dragons - Dragon Lance - Dragons of Flame (Europe) (Alt 1) (Side 1)-marquee.png</marquee>
+		<thumbnail>./images/Advanced Dungeons &amp; Dragons - Dragon Lance - Dragons of Flame (Europe) (Alt 1) (Side 1)-thumb.png</thumbnail>
+		<manual>./manuals/Advanced Dungeons &amp; Dragons - Dragon Lance - Dragons of Flame (Europe) (Alt 1) (Side 1)-manual.pdf</manual>
+		<releasedate>19900101T000000</releasedate>
+		<developer>U.S. Gold</developer>
+		<publisher>Strategic Simulations</publisher>
+		<genre>Role playing games</genre>
+		<family>Dungeons &amp; Dragons</family>
+		<players>1</players>
+		<md5>82d73a3d0b8d23ce7bb355ea0230d6fd</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T025534" />
+	</game>
+	<game>
+		<path>./No-Intro/PP/Advanced Dungeons &amp; Dragons - Dragon Lance - Dragons of Flame (Europe) (Alt 1) (Side 2).nib</path>
+		<name>Advanced Dungeons &amp; Dragons - Dragon Lance - Dragons of Flame (Europe) (Alt 1) (Side 2)</name>
+		<md5>777b6ab277e46ead54d3bfb4676b04fc</md5>
 	</game>
 </gameList>

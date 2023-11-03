@@ -12,4 +12,469 @@
 		<md5>96146e854e70de8d9140c8ff3f8fb84a</md5>
 		<scrap name="ScreenScraper" date="20231018T041238" />
 	</game>
+	<game id="99397">
+		<path>./No-Intro/Astonishia Story R (Korea).smc</path>
+		<name>Astonishia Story R</name>
+		<desc>Astonishia Story R is the GP32's first RPG, developed by Game Park's solitary first tier developer. The game is beautiful; *lots* of animation, detailed sprites, randomly flying birds, huge towns and an interesting cast of characters. This is PSOne quality 2D, without a doubt. It has a solid (though simple) battle system, which is like a merger of traditional and strategy RPGs.</desc>
+		<image>./images/Astonishia Story R (Korea)-image.png</image>
+		<marquee>./images/Astonishia Story R (Korea)-marquee.png</marquee>
+		<thumbnail>./images/Astonishia Story R (Korea)-thumb.png</thumbnail>
+		<rating>0.95</rating>
+		<releasedate>20020121T000000</releasedate>
+		<developer>Sonnori</developer>
+		<publisher>Gamepark</publisher>
+		<genre>Role playing games</genre>
+		<family>Astonishia Story</family>
+		<players>1</players>
+		<md5>95db70f40897e05306439b8c7614f281</md5>
+		<lang>kr</lang>
+		<region>kr</region>
+		<scrap name="ScreenScraper" date="20231103T025819" />
+	</game>
+	<game id="99398">
+		<path>./No-Intro/Blue Angelo - Angels from the Shrine (Europe) (En,Fr,De,Es,It,Pt).smc</path>
+		<name>Blue Angelo - Angels From The Shrine</name>
+		<image>./images/Blue Angelo - Angels from the Shrine (Europe) (En,Fr,De,Es,It,Pt)-image.png</image>
+		<marquee>./images/Blue Angelo - Angels from the Shrine (Europe) (En,Fr,De,Es,It,Pt)-marquee.png</marquee>
+		<thumbnail>./images/Blue Angelo - Angels from the Shrine (Europe) (En,Fr,De,Es,It,Pt)-thumb.png</thumbnail>
+		<releasedate>20041216T000000</releasedate>
+		<developer>Virtual Spaghetti</developer>
+		<publisher>Shibuya Interactive</publisher>
+		<genre>Role playing games / Action RPG</genre>
+		<md5>8b22486246c4a979e3f469f6ea4b7b4f</md5>
+		<lang>de,en,pt,es,fr,it</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T025824" />
+	</game>
+	<game id="99399">
+		<path>./No-Intro/Dooly Soccer 2002 (Korea).smc</path>
+		<name>Dooly Soccer 2002</name>
+		<desc>The third and final South Korean game based on the famous local animated series "Little Dooley Dinosaur", dedicated to the 2002 World Cup. The genre is an arcade futsal without a complete story.
+
+There are two modes: "story" and "free". The former requires playing for the team made up of Dooley and his friends - the characters from the animated series have to beat a variety of other teams and ultimately obtain the right as representatives of Korea to play with the team of " all stars ", made up of the best players in the world.</desc>
+		<image>./images/Dooly Soccer 2002 (Korea)-image.png</image>
+		<marquee>./images/Dooly Soccer 2002 (Korea)-marquee.png</marquee>
+		<thumbnail>./images/Dooly Soccer 2002 (Korea)-thumb.png</thumbnail>
+		<rating>0.6</rating>
+		<releasedate>20020618T000000</releasedate>
+		<developer>Abyss</developer>
+		<publisher>Gamepark</publisher>
+		<genre>Sports / Soccer</genre>
+		<md5>ce71c359076bd440e7dfcfcf30b338f2</md5>
+		<lang>kr</lang>
+		<region>kr</region>
+		<scrap name="ScreenScraper" date="20231103T025829" />
+	</game>
+	<game id="59929">
+		<path>./No-Intro/Dungeon &amp; Guarder - Dragon Gore (Europe).smc</path>
+		<name>Dungeon &amp; Guarder - Dragon Gore</name>
+		<desc>A straightforward , bloody beat 'em up with a medieval theme. Add experience, items and magic to the mix, and it starts to feel like something interesting. Perhaps the best thing about the game is that the developers (Gamepark) obviously know what goes into a successful beat 'em up. The game has a very early Capcom feel to it, which is reinforced by the giant sprites and pseudo-euro music.</desc>
+		<image>./images/Dungeon &amp; Guarder - Dragon Gore (Europe)-image.png</image>
+		<marquee>./images/Dungeon &amp; Guarder - Dragon Gore (Europe)-marquee.png</marquee>
+		<thumbnail>./images/Dungeon &amp; Guarder - Dragon Gore (Europe)-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<developer>Gamepark</developer>
+		<publisher>Gamepark</publisher>
+		<genre>Beat'em Up</genre>
+		<md5>4b7309a84ada9cf69964eb87872d5499</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T025834" />
+	</game>
+	<game id="59929">
+		<path>./No-Intro/Dungeon &amp; Guarder - Dragon Gore (Korea).smc</path>
+		<name>Dungeon &amp; Guarder - Dragon Gore</name>
+		<desc>A straightforward , bloody beat 'em up with a medieval theme. Add experience, items and magic to the mix, and it starts to feel like something interesting. Perhaps the best thing about the game is that the developers (Gamepark) obviously know what goes into a successful beat 'em up. The game has a very early Capcom feel to it, which is reinforced by the giant sprites and pseudo-euro music.</desc>
+		<image>./images/Dungeon &amp; Guarder - Dragon Gore (Korea)-image.png</image>
+		<marquee>./images/Dungeon &amp; Guarder - Dragon Gore (Korea)-marquee.png</marquee>
+		<thumbnail>./images/Dungeon &amp; Guarder - Dragon Gore (Korea)-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>20011123T000000</releasedate>
+		<developer>Gamepark</developer>
+		<publisher>Gamepark</publisher>
+		<genre>Beat'em Up</genre>
+		<md5>93e65544f35fcf2734ae4a1083c3a298</md5>
+		<lang>kr</lang>
+		<region>kr</region>
+		<scrap name="ScreenScraper" date="20231103T025839" />
+	</game>
+	<game id="59931">
+		<path>./No-Intro/Dyhard - With Infinite Stairs (Europe).smc</path>
+		<name>Dyhard - With Infinite Stairs</name>
+		<desc>Dyhard - with infinite stairs is a platformer in which you walk back and forth against your will, only able to jump up on platforms, while trying not to fall down. In other levels you try to hop down onto platforms, trying not to get killed by the rocks above. The sprites are nice and large. It has good style, and gets bonus points for the very cool art and nice story.</desc>
+		<image>./images/Dyhard - With Infinite Stairs (Europe)-image.png</image>
+		<marquee>./images/Dyhard - With Infinite Stairs (Europe)-marquee.png</marquee>
+		<rating>0.7</rating>
+		<developer>Krookie Soft</developer>
+		<publisher>Gamepark</publisher>
+		<md5>5e7a1e15bffa6adaf46a974e47f9ce06</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T025843" />
+	</game>
+	<game id="59931">
+		<path>./No-Intro/Dyhard - With Infinite Stairs (Korea).smc</path>
+		<name>DyHard Infinity</name>
+		<desc>Dyhard - with infinite stairs is a platformer in which you walk back and forth against your will, only able to jump up on platforms, while trying not to fall down. In other levels you try to hop down onto platforms, trying not to get killed by the rocks above. The sprites are nice and large. It has good style, and gets bonus points for the very cool art and nice story.</desc>
+		<image>./images/Dyhard - With Infinite Stairs (Korea)-image.png</image>
+		<marquee>./images/Dyhard - With Infinite Stairs (Korea)-marquee.png</marquee>
+		<thumbnail>./images/Dyhard - With Infinite Stairs (Korea)-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>20011123T000000</releasedate>
+		<developer>Krookie Soft</developer>
+		<publisher>Gamepark</publisher>
+		<md5>79e2cd66f19d5c447fee48a9e4ed2c34</md5>
+		<lang>kr</lang>
+		<region>kr</region>
+		<scrap name="ScreenScraper" date="20231103T025848" />
+	</game>
+	<game id="59930">
+		<path>./No-Intro/GP Fight (Korea).smc</path>
+		<name>GP Daenantu - GP!!! Dairantou</name>
+		<desc>The game is a beat'em up in which you are at a school and the students seem to be at war with each other. You can pick between 6 different students (2 girls and 4 guys), which have different stats that don't really matter. In each level the game will have you do a certain objective, like survive for 120 seconds or kill off all the others or collect food while beating up your classmates. After each stage the 4 people in the stage (including the player) will be ranked. If you didn't make it in the top 3 then it is game over (there are no continues). There are 3 hidden characters to be unlocked, and the game is 5 stages long.
+There are only three types of theme songs in this game which can make it dull. There is the introduction theme, the in-game music and then the game over music.</desc>
+		<image>./images/GP Fight (Korea)-image.png</image>
+		<marquee>./images/GP Fight (Korea)-marquee.png</marquee>
+		<thumbnail>./images/GP Fight (Korea)-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>20030321T000000</releasedate>
+		<developer>TeamBlaze</developer>
+		<publisher>Gamepark</publisher>
+		<md5>59f0fcae2ab0e01d2b59ad1e8f0f184f</md5>
+		<lang>kr</lang>
+		<region>kr</region>
+		<scrap name="ScreenScraper" date="20231103T025852" />
+	</game>
+	<game id="59932">
+		<path>./No-Intro/Hany Party Game (Korea).smc</path>
+		<name>Hany Party Game</name>
+		<image>./images/Hany Party Game (Korea)-image.png</image>
+		<marquee>./images/Hany Party Game (Korea)-marquee.png</marquee>
+		<thumbnail>./images/Hany Party Game (Korea)-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>20020626T000000</releasedate>
+		<developer>Include</developer>
+		<publisher>Gamepark</publisher>
+		<md5>0d4075f6c177f71eabb856eca407baaf</md5>
+		<lang>kr</lang>
+		<region>kr</region>
+		<scrap name="ScreenScraper" date="20231103T025857" />
+	</game>
+	<game id="59933">
+		<path>./No-Intro/Her Knights - All for Princess - Deadline (Korea).smc</path>
+		<name>Her Knights - All For Princess - Deadline</name>
+		<image>./images/Her Knights - All for Princess - Deadline (Korea)-image.png</image>
+		<marquee>./images/Her Knights - All for Princess - Deadline (Korea)-marquee.png</marquee>
+		<thumbnail>./images/Her Knights - All for Princess - Deadline (Korea)-thumb.png</thumbnail>
+		<md5>43036c384ce10683eb9371375b9cc7c6</md5>
+		<lang>kr</lang>
+		<region>kr</region>
+		<scrap name="ScreenScraper" date="20231103T025902" />
+	</game>
+	<game id="59934">
+		<path>./No-Intro/Her Knights - All for the Princess (Europe).smc</path>
+		<name>Her Knights - All For The Princess</name>
+		<desc>Her Knights: All for the Princess is a spin-off of Geunyeo-ui Gisadan - Her Knights. Princess Lemian is forced to marry a man she does not love. As she tries to escape from the unwanted wedding, she realizes that her path is blocked by soldiers. Her faithful knights arrive to fight them and help the princess escape.
+
+Unlike the preceding game, All for the Princess is a 2D side-scrolling beat-em-up. The player can choose to control any of the five available knights. There are too basic attacks - fast and strong. Combo attacks can be performing by combining these two with directional buttons. There are separate controls assigned to blocking ans evasive manoeuvres. The knights can also strafe backwards, while turning around is performed by pressing a separate button. Enemies usually drop health-restoring or stat-enhancing items when defeated.</desc>
+		<image>./images/Her Knights - All for the Princess (Europe)-image.png</image>
+		<marquee>./images/Her Knights - All for the Princess (Europe)-marquee.png</marquee>
+		<thumbnail>./images/Her Knights - All for the Princess (Europe)-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<developer>Byulbram Creature</developer>
+		<publisher>Gamepark</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1</players>
+		<md5>b561135cf79cd02e3577146c26b3dc41</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T025907" />
+	</game>
+	<game id="59935">
+		<path>./No-Intro/Kimchiman GP32 (Korea).smc</path>
+		<name>Kimchi-Man</name>
+		<image>./images/Kimchiman GP32 (Korea)-image.png</image>
+		<marquee>./images/Kimchiman GP32 (Korea)-marquee.png</marquee>
+		<thumbnail>./images/Kimchiman GP32 (Korea)-thumb.png</thumbnail>
+		<rating>0.6</rating>
+		<releasedate>20020201T000000</releasedate>
+		<developer>Spearhead</developer>
+		<publisher>Gamepark</publisher>
+		<genre>Platform / Fighter Scrolling</genre>
+		<md5>bcfa9c1c078c438198f8c5302c73c25c</md5>
+		<lang>kr</lang>
+		<region>kr</region>
+		<scrap name="ScreenScraper" date="20231103T025911" />
+	</game>
+	<game id="59947">
+		<path>./No-Intro/Little Girl Mill of a Gingko, The (Korea).smc</path>
+		<name>The Little Girl Mill of a Gingko</name>
+		<image>./images/Little Girl Mill of a Gingko, The (Korea)-image.png</image>
+		<marquee>./images/Little Girl Mill of a Gingko, The (Korea)-marquee.png</marquee>
+		<thumbnail>./images/Little Girl Mill of a Gingko, The (Korea)-thumb.png</thumbnail>
+		<md5>28284fa9789aa2868c0e0c29814463ad</md5>
+		<lang>kr</lang>
+		<region>kr</region>
+		<scrap name="ScreenScraper" date="20231103T025917" />
+	</game>
+	<game id="59936">
+		<path>./No-Intro/Little Wizard (Europe).smc</path>
+		<name>Little Wizard</name>
+		<desc>Entertaining and happy-looking 2D 1-on-1 fantasy fighting game with a setting reminiscent of young Harry Potter.
+
+The idea of students of a wizard school fighting each other is cool, and the fact that you learn additional abilities/spells as you make progress is also a good incentive to play the game through.
+
+The cartoony, colorful and nicely drawn graphics coupled with the smooth characters animations make this game a pleasure to play.
+
+Bottom line: Definitely one of the better fighting games on any portable console, the warm graphics and clever gameplay will make it last longer than you may expect.</desc>
+		<image>./images/Little Wizard (Europe)-image.png</image>
+		<marquee>./images/Little Wizard (Europe)-marquee.png</marquee>
+		<thumbnail>./images/Little Wizard (Europe)-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>20011123T000000</releasedate>
+		<developer>Gamepark</developer>
+		<publisher>Gamepark</publisher>
+		<genre>Fight</genre>
+		<players>1-2</players>
+		<md5>fb042b0746cb376b1dc3d9fe7a0ee782</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T025922" />
+	</game>
+	<game id="59936">
+		<path>./No-Intro/Little Wizard (Korea).smc</path>
+		<name>Little Wizard</name>
+		<desc>Entertaining and happy-looking 2D 1-on-1 fantasy fighting game with a setting reminiscent of young Harry Potter.
+
+The idea of students of a wizard school fighting each other is cool, and the fact that you learn additional abilities/spells as you make progress is also a good incentive to play the game through.
+
+The cartoony, colorful and nicely drawn graphics coupled with the smooth characters animations make this game a pleasure to play.
+
+Bottom line: Definitely one of the better fighting games on any portable console, the warm graphics and clever gameplay will make it last longer than you may expect.</desc>
+		<image>./images/Little Wizard (Korea)-image.png</image>
+		<marquee>./images/Little Wizard (Korea)-marquee.png</marquee>
+		<thumbnail>./images/Little Wizard (Korea)-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>20011123T000000</releasedate>
+		<developer>Gamepark</developer>
+		<publisher>Gamepark</publisher>
+		<genre>Fight</genre>
+		<players>1-2</players>
+		<md5>d11b7ff88d23c871cf3a7083dece1d92</md5>
+		<lang>kr</lang>
+		<region>kr</region>
+		<scrap name="ScreenScraper" date="20231103T025927" />
+	</game>
+	<game id="59937">
+		<path>./No-Intro/OneShot Voca (Korea).smc</path>
+		<name>Oneshot Voca</name>
+		<desc>A Korean/English dictionary application for the GamePark 32.</desc>
+		<image>./images/OneShot Voca (Korea)-image.png</image>
+		<marquee>./images/OneShot Voca (Korea)-marquee.png</marquee>
+		<releasedate>20021001T000000</releasedate>
+		<developer>Damasys</developer>
+		<publisher>Gamepark</publisher>
+		<genre>Educational</genre>
+		<md5>89bb9560b170b122c92e2f7ab893048c</md5>
+		<lang>kr</lang>
+		<region>kr</region>
+		<scrap name="ScreenScraper" date="20231103T025931" />
+	</game>
+	<game id="59938">
+		<path>./No-Intro/Princess Maker 2 (Korea).smc</path>
+		<name>Princess Maker 2</name>
+		<desc>Like in Princess Maker 1, the story begins with a demon army attacking the kingdom, led by Lucifon the Prince of Darkness. Lucifon was sent by the Deities to punish the people of a medieval city for their sinful ways. A wandering Swordsman (You) sneaks into the camp one night and defeats Lucifon in hand-to-hand combat. He and his armies retreat. The grateful King invites you to stay and grants you an annual salary of 500 gold pieces.
+Then, one night, the Swordsman hears a voice and goes out to see a girl floating in an orb of light. He is then spoken to by the girl's patron deity who asks him to raise her. How he raises her will determine if mankind has truly repented.</desc>
+		<image>./images/Princess Maker 2 (Korea)-image.png</image>
+		<marquee>./images/Princess Maker 2 (Korea)-marquee.png</marquee>
+		<thumbnail>./images/Princess Maker 2 (Korea)-thumb.png</thumbnail>
+		<releasedate>20020808T000000</releasedate>
+		<developer>Gainax</developer>
+		<publisher>Gamepark</publisher>
+		<genre>Simulation / Life</genre>
+		<family>Princess Maker</family>
+		<md5>8234109c225bc51558ec7358bad12201</md5>
+		<lang>kr</lang>
+		<region>kr</region>
+		<scrap name="ScreenScraper" date="20231103T025936" />
+	</game>
+	<game id="59939">
+		<path>./No-Intro/Rally Pop (Korea).smc</path>
+		<name>Rally Pop</name>
+		<desc>Rally Pop is basically Worms except you use cell phones. It is basically an artillery game in which you take turns trying to bomb your opponents phone with different weapons. Also there is no story line.
+
+Game play : In the game you can be eight to ten different cell phones that all have their own unique ammo that they fire. The stages are drawn kind of goofy and of course there is wind to affect your bullets speed and etc. It is hard not because of the wind or etc but because after one or two shots the computer already knows your coordinates and will siege you to death before you even know his coordinates.</desc>
+		<image>./images/Rally Pop (Korea)-image.png</image>
+		<marquee>./images/Rally Pop (Korea)-marquee.png</marquee>
+		<thumbnail>./images/Rally Pop (Korea)-thumb.png</thumbnail>
+		<releasedate>20011123T000000</releasedate>
+		<developer>Gamepark</developer>
+		<publisher>Gamepark</publisher>
+		<genre>Race, Driving</genre>
+		<md5>b31b7739b93bd3503b7c8fe4d1fbf308</md5>
+		<lang>kr</lang>
+		<region>kr</region>
+		<scrap name="ScreenScraper" date="20231103T025941" />
+	</game>
+	<game id="59940">
+		<path>./No-Intro/Raphael (Korea).smc</path>
+		<name>Raphael</name>
+		<desc>Underneath the mediocre graphics and barely existent story, there's a classic game just begging to be played. Quite literally in fact, as Raphael is a port of the ASCII published MSX game Castle Excellent from 1985.</desc>
+		<image>./images/Raphael (Korea)-image.png</image>
+		<marquee>./images/Raphael (Korea)-marquee.png</marquee>
+		<thumbnail>./images/Raphael (Korea)-thumb.png</thumbnail>
+		<rating>0.6</rating>
+		<releasedate>20020909T000000</releasedate>
+		<developer>T3 Entertainment</developer>
+		<publisher>Gamepark</publisher>
+		<genre>Puzzle-Game</genre>
+		<md5>cc49c5de1f2a210ae31353d51b168e8b</md5>
+		<lang>kr</lang>
+		<region>kr</region>
+		<scrap name="ScreenScraper" date="20231103T025946" />
+	</game>
+	<game id="59945">
+		<path>./No-Intro/Tanggle's Magic Square (Korea).smc</path>
+		<name>Tanggle's Magic Square</name>
+		<desc>Tanggle's Magic Squares is a puzzle game with Bejeweled leanings. You rotate columns of little twirling fruits and vegetables (With eyes! And headbands!) until you get a whole row of one type. That row then disappears, and a few more fruits wander into your existing pile. You do this until all of the fruits disappear</desc>
+		<image>./images/Tanggle's Magic Square (Korea)-image.png</image>
+		<marquee>./images/Tanggle's Magic Square (Korea)-marquee.png</marquee>
+		<thumbnail>./images/Tanggle's Magic Square (Korea)-thumb.png</thumbnail>
+		<rating>0.55</rating>
+		<md5>df3975c7c82e95fedebb4a85b043177f</md5>
+		<lang>kr</lang>
+		<region>kr</region>
+		<scrap name="ScreenScraper" date="20231103T025950" />
+	</game>
+	<game id="59944">
+		<path>./No-Intro/Therapy (Korea).smc</path>
+		<name>Therapy</name>
+		<image>./images/Therapy (Korea)-image.png</image>
+		<marquee>./images/Therapy (Korea)-marquee.png</marquee>
+		<thumbnail>./images/Therapy (Korea)-thumb.png</thumbnail>
+		<md5>c9cf16ddaf73de63a4f3d0ba28cf6a38</md5>
+		<lang>kr</lang>
+		<region>kr</region>
+		<scrap name="ScreenScraper" date="20231103T025955" />
+	</game>
+	<game id="59943">
+		<path>./No-Intro/Tomak - Save the Earth, Again (Europe) (v1.0).smc</path>
+		<name>Tomak - Save The Earth, Again</name>
+		<desc>Tomak: Save the Earth, Again is a horizontal scrolling shooter from Korea. The graphics are reminiscent of the artwork in the Metal Slug series, with large enemies and giant bosses at the end of the levels that take most of the screen state. As in most titles of this genre, the game is divided in stages with a unique boss enemy at the end. The player controls one of three bizarre characters: a girl inside a flowerpot called Evian, the red demon Bastylo or a wizard named Night Moon Shine.
+
+As they fly around shooting at the oncoming foes, each successful hit increases a charge point meter at the top of the screen, below the health bar. This accumulated blue energy is used by the secondary weapons, that can be selected at any time to switch to more effective and powerful shots. Up to two players can cooperate in Arcade Mode, or compete for points in the Versus Mode.</desc>
+		<image>./images/Tomak - Save the Earth, Again (Europe) (v1.0)-image.png</image>
+		<marquee>./images/Tomak - Save the Earth, Again (Europe) (v1.0)-marquee.png</marquee>
+		<thumbnail>./images/Tomak - Save the Earth, Again (Europe) (v1.0)-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<genre>Shoot'em up / Horizontal</genre>
+		<md5>6b9c59bd7f3fe7a180ef5d15817abc5a</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T030000" />
+	</game>
+	<game id="59943">
+		<path>./No-Intro/Tomak - Save the Earth, Again (Europe) (v2.0).smc</path>
+		<name>Tomak - Save The Earth, Again</name>
+		<desc>Tomak: Save the Earth, Again is a horizontal scrolling shooter from Korea. The graphics are reminiscent of the artwork in the Metal Slug series, with large enemies and giant bosses at the end of the levels that take most of the screen state. As in most titles of this genre, the game is divided in stages with a unique boss enemy at the end. The player controls one of three bizarre characters: a girl inside a flowerpot called Evian, the red demon Bastylo or a wizard named Night Moon Shine.
+
+As they fly around shooting at the oncoming foes, each successful hit increases a charge point meter at the top of the screen, below the health bar. This accumulated blue energy is used by the secondary weapons, that can be selected at any time to switch to more effective and powerful shots. Up to two players can cooperate in Arcade Mode, or compete for points in the Versus Mode.</desc>
+		<image>./images/Tomak - Save the Earth, Again (Europe) (v2.0)-image.png</image>
+		<marquee>./images/Tomak - Save the Earth, Again (Europe) (v2.0)-marquee.png</marquee>
+		<thumbnail>./images/Tomak - Save the Earth, Again (Europe) (v2.0)-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<genre>Shoot'em up / Horizontal</genre>
+		<md5>90ac7332d078caebd45ba8b01dfe18d3</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T030005" />
+	</game>
+	<game id="59943">
+		<path>./No-Intro/Tomak - Save the Earth, Again (Korea).smc</path>
+		<name>Tomak - Save The Earth, Again</name>
+		<desc>Tomak: Save the Earth, Again is a horizontal scrolling shooter from Korea. The graphics are reminiscent of the artwork in the Metal Slug series, with large enemies and giant bosses at the end of the levels that take most of the screen state. As in most titles of this genre, the game is divided in stages with a unique boss enemy at the end. The player controls one of three bizarre characters: a girl inside a flowerpot called Evian, the red demon Bastylo or a wizard named Night Moon Shine.
+
+As they fly around shooting at the oncoming foes, each successful hit increases a charge point meter at the top of the screen, below the health bar. This accumulated blue energy is used by the secondary weapons, that can be selected at any time to switch to more effective and powerful shots. Up to two players can cooperate in Arcade Mode, or compete for points in the Versus Mode.</desc>
+		<image>./images/Tomak - Save the Earth, Again (Korea)-image.png</image>
+		<marquee>./images/Tomak - Save the Earth, Again (Korea)-marquee.png</marquee>
+		<thumbnail>./images/Tomak - Save the Earth, Again (Korea)-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<genre>Shoot'em up / Horizontal</genre>
+		<md5>da229619951277574a190558563ed08f</md5>
+		<lang>kr</lang>
+		<region>kr</region>
+		<scrap name="ScreenScraper" date="20231103T030009" />
+	</game>
+	<game id="59941">
+		<path>./No-Intro/W.B.W. - Wanna Be Wizard! (Korea).smc</path>
+		<name>W.B.W. - Mabeobsaga Doego Sip-eo!</name>
+		<desc>Wanna be Wizard is a japanese-style Action-RPG based on a one-way story of a girl willing to become a wizard and of her island. Battle scene will be like a beat them up. Items, different levels of power, magic spells,... will be available and you'll be able to control both characters.</desc>
+		<image>./images/W.B.W. - Wanna Be Wizard! (Korea)-image.png</image>
+		<marquee>./images/W.B.W. - Wanna Be Wizard! (Korea)-marquee.png</marquee>
+		<thumbnail>./images/W.B.W. - Wanna Be Wizard! (Korea)-thumb.png</thumbnail>
+		<releasedate>20041027T000000</releasedate>
+		<developer>A&amp;B Soft</developer>
+		<publisher>Gamepark</publisher>
+		<genre>Role playing games / Action RPG</genre>
+		<md5>4ebe86cde3d3faff384a6fb5ca4246ec</md5>
+		<lang>kr</lang>
+		<region>kr</region>
+		<scrap name="ScreenScraper" date="20231103T030014" />
+	</game>
+	<game id="59942">
+		<path>./No-Intro/Wizard Slayer (Korea).smc</path>
+		<name>Wizard Slayer</name>
+		<desc>Review - Wizard Slayer is a nice side scrolling shooter with excellent graphics all around reminiscent of Cotton.
+
+Levels are very colorful, the scrolling is smooth and the parallax layers are a definite plus. On the bad side, some levels seem to go by uneventfully, as they stretch for what seems to be a long time. Also, the enemies you will face are very detailed and well animated but they should have been more varied.</desc>
+		<image>./images/Wizard Slayer (Korea)-image.png</image>
+		<marquee>./images/Wizard Slayer (Korea)-marquee.png</marquee>
+		<thumbnail>./images/Wizard Slayer (Korea)-thumb.png</thumbnail>
+		<rating>0.3</rating>
+		<releasedate>20021011T000000</releasedate>
+		<developer>FZ Media</developer>
+		<publisher>Gamepark</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<md5>fda625ca66be09908880fed253d24898</md5>
+		<lang>kr</lang>
+		<region>kr</region>
+		<scrap name="ScreenScraper" date="20231103T030019" />
+	</game>
+	<game id="59946">
+		<path>./No-Intro/Woody &amp; Kunta - Treasure Island (Europe).smc</path>
+		<name>Treasure Island</name>
+		<desc>The main objective of the game is to drop bombs though the correct holes to bomb your opponent. Now this may sound easy however it is not. The tubes that you drop your bombs in will correspond to only one tube on your opponent's side. During boss fights every few turns the tubes will change order and there will be many more tubes (8 instead of the normal 6). In the game, you will also be able to get items to aid you in battle by either tossing a bomb through a tube that leads to a target or by just random npcs on the island that you meet. After you win a battle your icon on the island's map will move X amount of spaces. Depending on how many turns it took to defeat your opponent, you will get to move X amount of spaces on the island, with 3 as the maximum. The point of moving is to get to the end of the island to challenge the boss at the end it to get to the next portion of the island.
+
+The game  consists of 4 maps.</desc>
+		<image>./images/Woody &amp; Kunta - Treasure Island (Europe)-image.png</image>
+		<marquee>./images/Woody &amp; Kunta - Treasure Island (Europe)-marquee.png</marquee>
+		<thumbnail>./images/Woody &amp; Kunta - Treasure Island (Europe)-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<developer>Gamepark</developer>
+		<publisher>Gamepark</publisher>
+		<genre>Puzzle-Game</genre>
+		<md5>c77e84df52823cd86ab2e9740570bb4f</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T030024" />
+	</game>
+	<game id="59946">
+		<path>./No-Intro/Woody &amp; Kunta - Treasure Island (Korea).smc</path>
+		<name>Treasure Island</name>
+		<desc>The main objective of the game is to drop bombs though the correct holes to bomb your opponent. Now this may sound easy however it is not. The tubes that you drop your bombs in will correspond to only one tube on your opponent's side. During boss fights every few turns the tubes will change order and there will be many more tubes (8 instead of the normal 6). In the game, you will also be able to get items to aid you in battle by either tossing a bomb through a tube that leads to a target or by just random npcs on the island that you meet. After you win a battle your icon on the island's map will move X amount of spaces. Depending on how many turns it took to defeat your opponent, you will get to move X amount of spaces on the island, with 3 as the maximum. The point of moving is to get to the end of the island to challenge the boss at the end it to get to the next portion of the island.
+
+The game  consists of 4 maps.</desc>
+		<image>./images/Woody &amp; Kunta - Treasure Island (Korea)-image.png</image>
+		<marquee>./images/Woody &amp; Kunta - Treasure Island (Korea)-marquee.png</marquee>
+		<thumbnail>./images/Woody &amp; Kunta - Treasure Island (Korea)-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>20020121T000000</releasedate>
+		<developer>Gamepark</developer>
+		<publisher>Gamepark</publisher>
+		<genre>Puzzle-Game</genre>
+		<md5>6dfb8fe822d6520d0b31462fd0d5627e</md5>
+		<lang>kr</lang>
+		<region>kr</region>
+		<scrap name="ScreenScraper" date="20231103T030030" />
+	</game>
 </gameList>

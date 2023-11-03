@@ -4537,4 +4537,164 @@ You become the Hawk King - a creature capable of incredible speed and power - as
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20230228T212514" />
 	</game>
+	<game id="58827">
+		<path>./No-Intro/Blitz! - Action Football (USA, Europe) (Alt).vec</path>
+		<name>Blitz! - Action Football</name>
+		<desc>Will you have a championship season or just be an also-ran?  You're in control as head coach of this championship caliber squad.  Run, pass, punt, kick field goals -- all the excitement of a real game.  Play against the computer's tough defense or invite a visiting coach to join in a real showdown!</desc>
+		<image>./images/Blitz! - Action Football (USA, Europe) (Alt)-image.png</image>
+		<video>./videos/Blitz! - Action Football (USA, Europe) (Alt)-video.mp4</video>
+		<marquee>./images/Blitz! - Action Football (USA, Europe) (Alt)-marquee.png</marquee>
+		<thumbnail>./images/Blitz! - Action Football (USA, Europe) (Alt)-thumb.png</thumbnail>
+		<manual>./manuals/Blitz! - Action Football (USA, Europe) (Alt)-manual.pdf</manual>
+		<bezel>./images/Blitz! - Action Football (USA, Europe) (Alt)-bezel.png</bezel>
+		<rating>0.7</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>GCE</developer>
+		<publisher>GCE</publisher>
+		<genre>Sports / Football</genre>
+		<players>1-2</players>
+		<md5>5d74770bb175357812e61ee7ca731270</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231103T030323" />
+	</game>
+	<game id="58827">
+		<path>./No-Intro/Blitz! - Action Football (USA, Europe).vec</path>
+		<name>Blitz! - Action Football</name>
+		<desc>Will you have a championship season or just be an also-ran?  You're in control as head coach of this championship caliber squad.  Run, pass, punt, kick field goals -- all the excitement of a real game.  Play against the computer's tough defense or invite a visiting coach to join in a real showdown!</desc>
+		<image>./images/Blitz! - Action Football (USA, Europe)-image.png</image>
+		<video>./videos/Blitz! - Action Football (USA, Europe)-video.mp4</video>
+		<marquee>./images/Blitz! - Action Football (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Blitz! - Action Football (USA, Europe)-thumb.png</thumbnail>
+		<manual>./manuals/Blitz! - Action Football (USA, Europe)-manual.pdf</manual>
+		<bezel>./images/Blitz! - Action Football (USA, Europe)-bezel.png</bezel>
+		<rating>0.7</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>GCE</developer>
+		<publisher>GCE</publisher>
+		<genre>Sports / Football</genre>
+		<players>1-2</players>
+		<md5>94f144c31fd4563f9473ed0563463e54</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231103T030330" />
+	</game>
+	<game id="269012">
+		<path>./No-Intro/Mr. Boston Clean Sweep (Europe).vec</path>
+		<name>Mr. Boston Clean Sweep</name>
+		<desc>Evil bank robbers have just blown your bank to smithereens. As bank president, you only have a vacuum available to recover the money strewn among the rubble, before the thieves destroy you! The thieves get increasingly anxious, but for added challenge, turn off the lights of the bank's corridors and gather the money through a blind maze.
+
+The Mr. Boston version of Clean Sweep was given out to customers of Mr. Boston Liquor along with a Vectrex console. 10 copies were given out and only 2 are still known to exist today.
+
+Mr Boston Clean Sweep is nearly identical to the retail release of Clean Sweep with only a few changes.
+  - In the game you play as a top hat whereas in Clean Sweep you play as a vacuum.
+  - The title screen was changed from “Clean Sweep” to “Mr Boston”.
+  - The retail Clean Sweep box was used with a Mr. Boston sticker added.
+  - A Mr. Boston label was added to the cartridge with schnapps proof and distillery info.
+  - The overlay had “Mr. Boston” and top hat man logo added.</desc>
+		<image>./images/Mr. Boston Clean Sweep (Europe)-image.png</image>
+		<video>./videos/Mr. Boston Clean Sweep (Europe)-video.mp4</video>
+		<marquee>./images/Mr. Boston Clean Sweep (Europe)-marquee.png</marquee>
+		<thumbnail>./images/Mr. Boston Clean Sweep (Europe)-thumb.png</thumbnail>
+		<releasedate>19830101T000000</releasedate>
+		<developer>GCE</developer>
+		<publisher>GCE</publisher>
+		<players>1-2</players>
+		<md5>1c95cf8fcd2c98db747208ade464a44f</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T030336" />
+	</game>
+	<game id="58879">
+		<path>./No-Intro/Pole Position (USA) (Alt).vec</path>
+		<name>Pole Position</name>
+		<desc>The spectacular arcade game, Pole Position, takes on an exciting new look through the magic of Vectrex! Experience all the challenge of a Grand Prix racing event with non-stop action that'll leave you breathless!
+Do you possess the skill, dexterity and courage to pull out from the crowd for qualification in one of the exclusive starting positions... or will you end up as an also ran?</desc>
+		<image>./images/Pole Position (USA) (Alt)-image.png</image>
+		<video>./videos/Pole Position (USA) (Alt)-video.mp4</video>
+		<marquee>./images/Pole Position (USA) (Alt)-marquee.png</marquee>
+		<thumbnail>./images/Pole Position (USA) (Alt)-thumb.png</thumbnail>
+		<fanart>./images/Pole Position (USA) (Alt)-fanart.jpg</fanart>
+		<manual>./manuals/Pole Position (USA) (Alt)-manual.pdf</manual>
+		<bezel>./images/Pole Position (USA) (Alt)-bezel.png</bezel>
+		<rating>0.8</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>GCE</publisher>
+		<genre>Race, Driving / Race 3rd Pers. view</genre>
+		<family>Pole Position</family>
+		<players>1</players>
+		<md5>f85c521f445c82bf200b5b85b9b1cd60</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231103T030344" />
+	</game>
+	<game id="58879">
+		<path>./No-Intro/Pole Position (USA).vec</path>
+		<name>Pole Position</name>
+		<desc>The spectacular arcade game, Pole Position, takes on an exciting new look through the magic of Vectrex! Experience all the challenge of a Grand Prix racing event with non-stop action that'll leave you breathless!
+Do you possess the skill, dexterity and courage to pull out from the crowd for qualification in one of the exclusive starting positions... or will you end up as an also ran?</desc>
+		<image>./images/Pole Position (USA)-image.png</image>
+		<video>./videos/Pole Position (USA)-video.mp4</video>
+		<marquee>./images/Pole Position (USA)-marquee.png</marquee>
+		<thumbnail>./images/Pole Position (USA)-thumb.png</thumbnail>
+		<fanart>./images/Pole Position (USA)-fanart.jpg</fanart>
+		<manual>./manuals/Pole Position (USA)-manual.pdf</manual>
+		<bezel>./images/Pole Position (USA)-bezel.png</bezel>
+		<rating>0.8</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>GCE</publisher>
+		<genre>Race, Driving / Race 3rd Pers. view</genre>
+		<family>Pole Position</family>
+		<players>1</players>
+		<md5>f94173910549038d4d8f329413a5aa54</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231103T030353" />
+	</game>
+	<game id="58956">
+		<path>./No-Intro/Star Ship (Europe).vec</path>
+		<name>Star Ship</name>
+		<desc>Welcome, Captain Kirk, to your command on the Starship Enterprise. Your mission is to seek out and destroy the enemy Klingon Mothership. Travel through nine sectors of space, each more difficult, or take a shortcut through the Black Hole. Be careful ... the Klingons and Romulans are hiding in space, waiting to destroy you at every turn!</desc>
+		<image>./images/Star Ship (Europe)-image.png</image>
+		<video>./videos/Star Ship (Europe)-video.mp4</video>
+		<marquee>./images/Star Ship (Europe)-marquee.png</marquee>
+		<thumbnail>./images/Star Ship (Europe)-thumb.png</thumbnail>
+		<manual>./manuals/Star Ship (Europe)-manual.pdf</manual>
+		<bezel>./images/Star Ship (Europe)-bezel.png</bezel>
+		<rating>0.8</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>GCE</developer>
+		<publisher>GCE</publisher>
+		<genre>Shooter / Vehicle, 1st person</genre>
+		<family>Star Trek</family>
+		<players>1</players>
+		<md5>47cefe6f77dbafb4475a64fe89da02c0</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T030400" />
+	</game>
+	<game id="58994">
+		<path>./No-Intro/WebWarp (Europe).vec</path>
+		<name>Web Warp</name>
+		<desc>Enter a galaxy of the future filled with adventure and danger - a galaxy unlike any you have imagined before.
+You become the Hawk King - a creature capable of incredible speed and power - as you attempt to capture the amazing creatures that inhabit the speeding Web of Fantasy. All 20 creatures are protected by guardians and the dreaded Cosmic Dragon and each will become progressively more difficult to capture. No one has ever captured the elusive twentieth creature. Will you?</desc>
+		<image>./images/WebWarp (Europe)-image.png</image>
+		<video>./videos/WebWarp (Europe)-video.mp4</video>
+		<marquee>./images/WebWarp (Europe)-marquee.png</marquee>
+		<thumbnail>./images/WebWarp (Europe)-thumb.png</thumbnail>
+		<manual>./manuals/WebWarp (Europe)-manual.pdf</manual>
+		<bezel>./images/WebWarp (Europe)-bezel.png</bezel>
+		<rating>0.8</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>GCE</developer>
+		<publisher>GCE</publisher>
+		<genre>Shooter / Vehicle, Diagonal</genre>
+		<players>1-2</players>
+		<md5>a3e0f44454d4100b18493f1bd2485d8b</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T030408" />
+	</game>
 </gameList>

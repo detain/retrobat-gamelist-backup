@@ -8042,9 +8042,706 @@ You play a space traveller whose space ship breaks down while orbiting a remote 
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T022108" />
 	</game>
-	<game>
+	<game id="57788">
 		<path>./No-Intro/Sector/Yami no Iyo Densetsu (Japan) (FM77AV) (Disk 2).d77</path>
-		<name>Yami no Iyo Densetsu (Japan) (FM77AV) (Disk 2)</name>
+		<name>Yami No Iyo Densetsu</name>
+		<desc>You're a spiritual detective Shura and being requested to help Metropolitan Police Department to investigate murder of a man who was sucked all the blood off and death of a girl in a different prefecture.</desc>
+		<image>./images/Yami no Iyo Densetsu (Japan) (FM77AV) (Disk 2)-image.png</image>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Hot-B</developer>
+		<publisher>Hot-B</publisher>
+		<genre>Adventure / Graphics</genre>
+		<players>1</players>
 		<md5>6a9e8116b5ca137b52d51b93192ef502</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T025615" />
+	</game>
+	<game id="57788">
+		<path>./No-Intro/Sector/Yami no Iyo Densetsu (Japan) (FM77AV) (Disk 2).zip</path>
+		<name>Yami No Iyo Densetsu</name>
+		<desc>You're a spiritual detective Shura and being requested to help Metropolitan Police Department to investigate murder of a man who was sucked all the blood off and death of a girl in a different prefecture.</desc>
+		<image>./images/Yami no Iyo Densetsu (Japan) (FM77AV) (Disk 2)-image.png</image>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Hot-B</developer>
+		<publisher>Hot-B</publisher>
+		<genre>Adventure / Graphics</genre>
+		<players>1</players>
+		<md5>6a9e8116b5ca137b52d51b93192ef502</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T025616" />
+	</game>
+	<game id="57788">
+		<path>./No-Intro/Sector/Yami no Iyo Densetsu (Japan) (FM77AV) (Disk 3) [b].d77</path>
+		<name>Yami No Iyo Densetsu</name>
+		<desc>You're a spiritual detective Shura and being requested to help Metropolitan Police Department to investigate murder of a man who was sucked all the blood off and death of a girl in a different prefecture.</desc>
+		<image>./images/Yami no Iyo Densetsu (Japan) (FM77AV) (Disk 3) [b]-image.png</image>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Hot-B</developer>
+		<publisher>Hot-B</publisher>
+		<genre>Adventure / Graphics</genre>
+		<players>1</players>
+		<md5>b3a64160d9f0b999400f74c7c7d4f77d</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T025618" />
+	</game>
+	<game id="57788">
+		<path>./No-Intro/Sector/Yami no Iyo Densetsu (Japan) (FM77AV) (Disk 3) [b].zip</path>
+		<name>Yami No Iyo Densetsu</name>
+		<desc>You're a spiritual detective Shura and being requested to help Metropolitan Police Department to investigate murder of a man who was sucked all the blood off and death of a girl in a different prefecture.</desc>
+		<image>./images/Yami no Iyo Densetsu (Japan) (FM77AV) (Disk 3) [b]-image.png</image>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Hot-B</developer>
+		<publisher>Hot-B</publisher>
+		<genre>Adventure / Graphics</genre>
+		<players>1</players>
+		<md5>b3a64160d9f0b999400f74c7c7d4f77d</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T025619" />
+	</game>
+	<game id="140174">
+		<path>./No-Intro/Sector/Yanpara Adventure - Staff Shoumetsu no Nazo (Japan) (load START).d77</path>
+		<name>Yanpara Adventure</name>
+		<image>./images/Yanpara Adventure - Staff Shoumetsu no Nazo (Japan) (load START)-image.png</image>
+		<thumbnail>./images/Yanpara Adventure - Staff Shoumetsu no Nazo (Japan) (load START)-thumb.png</thumbnail>
+		<releasedate>19860101T000000</releasedate>
+		<publisher>Pony Canyon</publisher>
+		<genre>Adventure / Graphics</genre>
+		<players>1</players>
+		<md5>e8bb2edde14fc39141e695ea29d3d277</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T025623" />
+	</game>
+	<game id="140174">
+		<path>./No-Intro/Sector/Yanpara Adventure - Staff Shoumetsu no Nazo (Japan) (load START).zip</path>
+		<name>Yanpara Adventure</name>
+		<image>./images/Yanpara Adventure - Staff Shoumetsu no Nazo (Japan) (load START)-image.png</image>
+		<thumbnail>./images/Yanpara Adventure - Staff Shoumetsu no Nazo (Japan) (load START)-thumb.png</thumbnail>
+		<releasedate>19860101T000000</releasedate>
+		<publisher>Pony Canyon</publisher>
+		<genre>Adventure / Graphics</genre>
+		<players>1</players>
+		<md5>e8bb2edde14fc39141e695ea29d3d277</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T025624" />
+	</game>
+	<game id="57789">
+		<path>./No-Intro/Sector/Yellow Lemon (Japan).d77</path>
+		<name>Yellow Lemon</name>
+		<desc>Yellow Lemon is a simple text-based simulation game consisting entirely of conversations with four school girls. The player has to type conversations topics and responses, hoping to increase the girl's "liking" parameter. Once it is high enough the girl would assume erotic poses and sexual relationship is implied. Afterwards the game switches to another girl for the same procedure.</desc>
+		<image>./images/Yellow Lemon (Japan)-image.png</image>
+		<thumbnail>./images/Yellow Lemon (Japan)-thumb.png</thumbnail>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Akira Miyata</developer>
+		<publisher>PSK</publisher>
+		<genre>Adventure / Text</genre>
+		<players>1</players>
+		<md5>9effe45a8942e322509f83d6075a8caf</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T025628" />
+	</game>
+	<game id="57789">
+		<path>./No-Intro/Sector/Yellow Lemon (Japan).zip</path>
+		<name>Yellow Lemon</name>
+		<desc>Yellow Lemon is a simple text-based simulation game consisting entirely of conversations with four school girls. The player has to type conversations topics and responses, hoping to increase the girl's "liking" parameter. Once it is high enough the girl would assume erotic poses and sexual relationship is implied. Afterwards the game switches to another girl for the same procedure.</desc>
+		<image>./images/Yellow Lemon (Japan)-image.png</image>
+		<thumbnail>./images/Yellow Lemon (Japan)-thumb.png</thumbnail>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Akira Miyata</developer>
+		<publisher>PSK</publisher>
+		<genre>Adventure / Text</genre>
+		<players>1</players>
+		<md5>9effe45a8942e322509f83d6075a8caf</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T025629" />
+	</game>
+	<game id="140176">
+		<path>./No-Intro/Sector/Ys (Japan) (FM-7) (Disk 1).d77</path>
+		<name>Ys: Ancient Ys Vanished Omen</name>
+		<desc>In this game, the player takes the role of Adol (Aron in the English-language Sega Master System version) Christin, a red-haired adventurer and expert swordsman. One day he encounter a fortune teller who sends him on a quest to find information about the six books of Ys. It appears that there was once an ancient land called Ys, whose secret was sealed in those six books. Before long Adol learns that the six books were all stolen by the evil wizard Dark Fact (Dulk Dekt in the Sega Master System version, Malificus in the English-language computer versions). It is Adol's task to defeat the villain and discover the secret of Ys! Ys: Ancient Ys Vanished Omen is an action role-playing game with its own trademark combat system: instead of pressing the "attack" button, the protagonist simply runs into the enemies he encounters. More damage is inflicted upon the enemies if Adol charges at them from the back or from the sides - a head-to-head collision might result in the hero's death if the monster is stronger than him. The player gains gold and experience points for defeating foes; once enough experience has been accumulated, Adol levels up and becomes stronger. The hero can buy and equip swords, armor, shields, and other accessories.</desc>
+		<image>./images/Ys (Japan) (FM-7) (Disk 1)-image.png</image>
+		<thumbnail>./images/Ys (Japan) (FM-7) (Disk 1)-thumb.png</thumbnail>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Nihon Falcom</developer>
+		<publisher>Nihon Falcom</publisher>
+		<genre>Role playing games / Action RPG</genre>
+		<players>1</players>
+		<md5>45ae63215825aa081a616b701efee932</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T025632" />
+	</game>
+	<game id="140176">
+		<path>./No-Intro/Sector/Ys (Japan) (FM-7) (Disk 1).zip</path>
+		<name>Ys: Ancient Ys Vanished Omen</name>
+		<desc>In this game, the player takes the role of Adol (Aron in the English-language Sega Master System version) Christin, a red-haired adventurer and expert swordsman. One day he encounter a fortune teller who sends him on a quest to find information about the six books of Ys. It appears that there was once an ancient land called Ys, whose secret was sealed in those six books. Before long Adol learns that the six books were all stolen by the evil wizard Dark Fact (Dulk Dekt in the Sega Master System version, Malificus in the English-language computer versions). It is Adol's task to defeat the villain and discover the secret of Ys! Ys: Ancient Ys Vanished Omen is an action role-playing game with its own trademark combat system: instead of pressing the "attack" button, the protagonist simply runs into the enemies he encounters. More damage is inflicted upon the enemies if Adol charges at them from the back or from the sides - a head-to-head collision might result in the hero's death if the monster is stronger than him. The player gains gold and experience points for defeating foes; once enough experience has been accumulated, Adol levels up and becomes stronger. The hero can buy and equip swords, armor, shields, and other accessories.</desc>
+		<image>./images/Ys (Japan) (FM-7) (Disk 1)-image.png</image>
+		<thumbnail>./images/Ys (Japan) (FM-7) (Disk 1)-thumb.png</thumbnail>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Nihon Falcom</developer>
+		<publisher>Nihon Falcom</publisher>
+		<genre>Role playing games / Action RPG</genre>
+		<players>1</players>
+		<md5>45ae63215825aa081a616b701efee932</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T025633" />
+	</game>
+	<game id="140176">
+		<path>./No-Intro/Sector/Ys (Japan) (FM-7) (Disk 2).d77</path>
+		<name>Ys: Ancient Ys Vanished Omen</name>
+		<desc>In this game, the player takes the role of Adol (Aron in the English-language Sega Master System version) Christin, a red-haired adventurer and expert swordsman. One day he encounter a fortune teller who sends him on a quest to find information about the six books of Ys. It appears that there was once an ancient land called Ys, whose secret was sealed in those six books. Before long Adol learns that the six books were all stolen by the evil wizard Dark Fact (Dulk Dekt in the Sega Master System version, Malificus in the English-language computer versions). It is Adol's task to defeat the villain and discover the secret of Ys! Ys: Ancient Ys Vanished Omen is an action role-playing game with its own trademark combat system: instead of pressing the "attack" button, the protagonist simply runs into the enemies he encounters. More damage is inflicted upon the enemies if Adol charges at them from the back or from the sides - a head-to-head collision might result in the hero's death if the monster is stronger than him. The player gains gold and experience points for defeating foes; once enough experience has been accumulated, Adol levels up and becomes stronger. The hero can buy and equip swords, armor, shields, and other accessories.</desc>
+		<image>./images/Ys (Japan) (FM-7) (Disk 2)-image.png</image>
+		<thumbnail>./images/Ys (Japan) (FM-7) (Disk 2)-thumb.png</thumbnail>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Nihon Falcom</developer>
+		<publisher>Nihon Falcom</publisher>
+		<genre>Role playing games / Action RPG</genre>
+		<players>1</players>
+		<md5>d1a3d7aa0632fa78ce5520b7c08c0597</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T025637" />
+	</game>
+	<game id="140176">
+		<path>./No-Intro/Sector/Ys (Japan) (FM-7) (Disk 2).zip</path>
+		<name>Ys: Ancient Ys Vanished Omen</name>
+		<desc>In this game, the player takes the role of Adol (Aron in the English-language Sega Master System version) Christin, a red-haired adventurer and expert swordsman. One day he encounter a fortune teller who sends him on a quest to find information about the six books of Ys. It appears that there was once an ancient land called Ys, whose secret was sealed in those six books. Before long Adol learns that the six books were all stolen by the evil wizard Dark Fact (Dulk Dekt in the Sega Master System version, Malificus in the English-language computer versions). It is Adol's task to defeat the villain and discover the secret of Ys! Ys: Ancient Ys Vanished Omen is an action role-playing game with its own trademark combat system: instead of pressing the "attack" button, the protagonist simply runs into the enemies he encounters. More damage is inflicted upon the enemies if Adol charges at them from the back or from the sides - a head-to-head collision might result in the hero's death if the monster is stronger than him. The player gains gold and experience points for defeating foes; once enough experience has been accumulated, Adol levels up and becomes stronger. The hero can buy and equip swords, armor, shields, and other accessories.</desc>
+		<image>./images/Ys (Japan) (FM-7) (Disk 2)-image.png</image>
+		<thumbnail>./images/Ys (Japan) (FM-7) (Disk 2)-thumb.png</thumbnail>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Nihon Falcom</developer>
+		<publisher>Nihon Falcom</publisher>
+		<genre>Role playing games / Action RPG</genre>
+		<players>1</players>
+		<md5>d1a3d7aa0632fa78ce5520b7c08c0597</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T025638" />
+	</game>
+	<game id="140176">
+		<path>./No-Intro/Sector/Ys (Japan) (FM-7) (User Disk) (Alt).d77</path>
+		<name>Ys: Ancient Ys Vanished Omen</name>
+		<desc>In this game, the player takes the role of Adol (Aron in the English-language Sega Master System version) Christin, a red-haired adventurer and expert swordsman. One day he encounter a fortune teller who sends him on a quest to find information about the six books of Ys. It appears that there was once an ancient land called Ys, whose secret was sealed in those six books. Before long Adol learns that the six books were all stolen by the evil wizard Dark Fact (Dulk Dekt in the Sega Master System version, Malificus in the English-language computer versions). It is Adol's task to defeat the villain and discover the secret of Ys! Ys: Ancient Ys Vanished Omen is an action role-playing game with its own trademark combat system: instead of pressing the "attack" button, the protagonist simply runs into the enemies he encounters. More damage is inflicted upon the enemies if Adol charges at them from the back or from the sides - a head-to-head collision might result in the hero's death if the monster is stronger than him. The player gains gold and experience points for defeating foes; once enough experience has been accumulated, Adol levels up and becomes stronger. The hero can buy and equip swords, armor, shields, and other accessories.</desc>
+		<image>./images/Ys (Japan) (FM-7) (User Disk) (Alt)-image.png</image>
+		<thumbnail>./images/Ys (Japan) (FM-7) (User Disk) (Alt)-thumb.png</thumbnail>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Nihon Falcom</developer>
+		<publisher>Nihon Falcom</publisher>
+		<genre>Role playing games / Action RPG</genre>
+		<players>1</players>
+		<md5>98e742ffce18af9b2af2b87c14bad763</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T025642" />
+	</game>
+	<game id="140176">
+		<path>./No-Intro/Sector/Ys (Japan) (FM-7) (User Disk) (Alt).zip</path>
+		<name>Ys: Ancient Ys Vanished Omen</name>
+		<desc>In this game, the player takes the role of Adol (Aron in the English-language Sega Master System version) Christin, a red-haired adventurer and expert swordsman. One day he encounter a fortune teller who sends him on a quest to find information about the six books of Ys. It appears that there was once an ancient land called Ys, whose secret was sealed in those six books. Before long Adol learns that the six books were all stolen by the evil wizard Dark Fact (Dulk Dekt in the Sega Master System version, Malificus in the English-language computer versions). It is Adol's task to defeat the villain and discover the secret of Ys! Ys: Ancient Ys Vanished Omen is an action role-playing game with its own trademark combat system: instead of pressing the "attack" button, the protagonist simply runs into the enemies he encounters. More damage is inflicted upon the enemies if Adol charges at them from the back or from the sides - a head-to-head collision might result in the hero's death if the monster is stronger than him. The player gains gold and experience points for defeating foes; once enough experience has been accumulated, Adol levels up and becomes stronger. The hero can buy and equip swords, armor, shields, and other accessories.</desc>
+		<image>./images/Ys (Japan) (FM-7) (User Disk) (Alt)-image.png</image>
+		<thumbnail>./images/Ys (Japan) (FM-7) (User Disk) (Alt)-thumb.png</thumbnail>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Nihon Falcom</developer>
+		<publisher>Nihon Falcom</publisher>
+		<genre>Role playing games / Action RPG</genre>
+		<players>1</players>
+		<md5>98e742ffce18af9b2af2b87c14bad763</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T025643" />
+	</game>
+	<game id="140176">
+		<path>./No-Intro/Sector/Ys (Japan) (FM-7) (User Disk).d77</path>
+		<name>Ys: Ancient Ys Vanished Omen</name>
+		<desc>In this game, the player takes the role of Adol (Aron in the English-language Sega Master System version) Christin, a red-haired adventurer and expert swordsman. One day he encounter a fortune teller who sends him on a quest to find information about the six books of Ys. It appears that there was once an ancient land called Ys, whose secret was sealed in those six books. Before long Adol learns that the six books were all stolen by the evil wizard Dark Fact (Dulk Dekt in the Sega Master System version, Malificus in the English-language computer versions). It is Adol's task to defeat the villain and discover the secret of Ys! Ys: Ancient Ys Vanished Omen is an action role-playing game with its own trademark combat system: instead of pressing the "attack" button, the protagonist simply runs into the enemies he encounters. More damage is inflicted upon the enemies if Adol charges at them from the back or from the sides - a head-to-head collision might result in the hero's death if the monster is stronger than him. The player gains gold and experience points for defeating foes; once enough experience has been accumulated, Adol levels up and becomes stronger. The hero can buy and equip swords, armor, shields, and other accessories.</desc>
+		<image>./images/Ys (Japan) (FM-7) (User Disk)-image.png</image>
+		<thumbnail>./images/Ys (Japan) (FM-7) (User Disk)-thumb.png</thumbnail>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Nihon Falcom</developer>
+		<publisher>Nihon Falcom</publisher>
+		<genre>Role playing games / Action RPG</genre>
+		<players>1</players>
+		<md5>144ab93f58af6672078538351f99f451</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T025646" />
+	</game>
+	<game id="140176">
+		<path>./No-Intro/Sector/Ys (Japan) (FM-7) (User Disk).zip</path>
+		<name>Ys: Ancient Ys Vanished Omen</name>
+		<desc>In this game, the player takes the role of Adol (Aron in the English-language Sega Master System version) Christin, a red-haired adventurer and expert swordsman. One day he encounter a fortune teller who sends him on a quest to find information about the six books of Ys. It appears that there was once an ancient land called Ys, whose secret was sealed in those six books. Before long Adol learns that the six books were all stolen by the evil wizard Dark Fact (Dulk Dekt in the Sega Master System version, Malificus in the English-language computer versions). It is Adol's task to defeat the villain and discover the secret of Ys! Ys: Ancient Ys Vanished Omen is an action role-playing game with its own trademark combat system: instead of pressing the "attack" button, the protagonist simply runs into the enemies he encounters. More damage is inflicted upon the enemies if Adol charges at them from the back or from the sides - a head-to-head collision might result in the hero's death if the monster is stronger than him. The player gains gold and experience points for defeating foes; once enough experience has been accumulated, Adol levels up and becomes stronger. The hero can buy and equip swords, armor, shields, and other accessories.</desc>
+		<image>./images/Ys (Japan) (FM-7) (User Disk)-image.png</image>
+		<thumbnail>./images/Ys (Japan) (FM-7) (User Disk)-thumb.png</thumbnail>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Nihon Falcom</developer>
+		<publisher>Nihon Falcom</publisher>
+		<genre>Role playing games / Action RPG</genre>
+		<players>1</players>
+		<md5>144ab93f58af6672078538351f99f451</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T025647" />
+	</game>
+	<game id="140176">
+		<path>./No-Intro/Sector/Ys (Japan) (FM77AV) (Disk 1) (Alt).d77</path>
+		<name>Ys: Ancient Ys Vanished Omen</name>
+		<desc>In this game, the player takes the role of Adol (Aron in the English-language Sega Master System version) Christin, a red-haired adventurer and expert swordsman. One day he encounter a fortune teller who sends him on a quest to find information about the six books of Ys. It appears that there was once an ancient land called Ys, whose secret was sealed in those six books. Before long Adol learns that the six books were all stolen by the evil wizard Dark Fact (Dulk Dekt in the Sega Master System version, Malificus in the English-language computer versions). It is Adol's task to defeat the villain and discover the secret of Ys! Ys: Ancient Ys Vanished Omen is an action role-playing game with its own trademark combat system: instead of pressing the "attack" button, the protagonist simply runs into the enemies he encounters. More damage is inflicted upon the enemies if Adol charges at them from the back or from the sides - a head-to-head collision might result in the hero's death if the monster is stronger than him. The player gains gold and experience points for defeating foes; once enough experience has been accumulated, Adol levels up and becomes stronger. The hero can buy and equip swords, armor, shields, and other accessories.</desc>
+		<image>./images/Ys (Japan) (FM77AV) (Disk 1) (Alt)-image.png</image>
+		<thumbnail>./images/Ys (Japan) (FM77AV) (Disk 1) (Alt)-thumb.png</thumbnail>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Nihon Falcom</developer>
+		<publisher>Nihon Falcom</publisher>
+		<genre>Role playing games / Action RPG</genre>
+		<players>1</players>
+		<md5>a28da336d877f36d52f56edc81130c02</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T025650" />
+	</game>
+	<game id="140176">
+		<path>./No-Intro/Sector/Ys (Japan) (FM77AV) (Disk 1) (Alt).zip</path>
+		<name>Ys: Ancient Ys Vanished Omen</name>
+		<desc>In this game, the player takes the role of Adol (Aron in the English-language Sega Master System version) Christin, a red-haired adventurer and expert swordsman. One day he encounter a fortune teller who sends him on a quest to find information about the six books of Ys. It appears that there was once an ancient land called Ys, whose secret was sealed in those six books. Before long Adol learns that the six books were all stolen by the evil wizard Dark Fact (Dulk Dekt in the Sega Master System version, Malificus in the English-language computer versions). It is Adol's task to defeat the villain and discover the secret of Ys! Ys: Ancient Ys Vanished Omen is an action role-playing game with its own trademark combat system: instead of pressing the "attack" button, the protagonist simply runs into the enemies he encounters. More damage is inflicted upon the enemies if Adol charges at them from the back or from the sides - a head-to-head collision might result in the hero's death if the monster is stronger than him. The player gains gold and experience points for defeating foes; once enough experience has been accumulated, Adol levels up and becomes stronger. The hero can buy and equip swords, armor, shields, and other accessories.</desc>
+		<image>./images/Ys (Japan) (FM77AV) (Disk 1) (Alt)-image.png</image>
+		<thumbnail>./images/Ys (Japan) (FM77AV) (Disk 1) (Alt)-thumb.png</thumbnail>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Nihon Falcom</developer>
+		<publisher>Nihon Falcom</publisher>
+		<genre>Role playing games / Action RPG</genre>
+		<players>1</players>
+		<md5>a28da336d877f36d52f56edc81130c02</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T025652" />
+	</game>
+	<game id="140176">
+		<path>./No-Intro/Sector/Ys (Japan) (FM77AV) (Disk 1).d77</path>
+		<name>Ys: Ancient Ys Vanished Omen</name>
+		<desc>In this game, the player takes the role of Adol (Aron in the English-language Sega Master System version) Christin, a red-haired adventurer and expert swordsman. One day he encounter a fortune teller who sends him on a quest to find information about the six books of Ys. It appears that there was once an ancient land called Ys, whose secret was sealed in those six books. Before long Adol learns that the six books were all stolen by the evil wizard Dark Fact (Dulk Dekt in the Sega Master System version, Malificus in the English-language computer versions). It is Adol's task to defeat the villain and discover the secret of Ys! Ys: Ancient Ys Vanished Omen is an action role-playing game with its own trademark combat system: instead of pressing the "attack" button, the protagonist simply runs into the enemies he encounters. More damage is inflicted upon the enemies if Adol charges at them from the back or from the sides - a head-to-head collision might result in the hero's death if the monster is stronger than him. The player gains gold and experience points for defeating foes; once enough experience has been accumulated, Adol levels up and becomes stronger. The hero can buy and equip swords, armor, shields, and other accessories.</desc>
+		<image>./images/Ys (Japan) (FM77AV) (Disk 1)-image.png</image>
+		<thumbnail>./images/Ys (Japan) (FM77AV) (Disk 1)-thumb.png</thumbnail>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Nihon Falcom</developer>
+		<publisher>Nihon Falcom</publisher>
+		<genre>Role playing games / Action RPG</genre>
+		<players>1</players>
+		<md5>0f7bac184c1582a29b7b254ab0e86f89</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T025655" />
+	</game>
+	<game id="140176">
+		<path>./No-Intro/Sector/Ys (Japan) (FM77AV) (Disk 1).zip</path>
+		<name>Ys: Ancient Ys Vanished Omen</name>
+		<desc>In this game, the player takes the role of Adol (Aron in the English-language Sega Master System version) Christin, a red-haired adventurer and expert swordsman. One day he encounter a fortune teller who sends him on a quest to find information about the six books of Ys. It appears that there was once an ancient land called Ys, whose secret was sealed in those six books. Before long Adol learns that the six books were all stolen by the evil wizard Dark Fact (Dulk Dekt in the Sega Master System version, Malificus in the English-language computer versions). It is Adol's task to defeat the villain and discover the secret of Ys! Ys: Ancient Ys Vanished Omen is an action role-playing game with its own trademark combat system: instead of pressing the "attack" button, the protagonist simply runs into the enemies he encounters. More damage is inflicted upon the enemies if Adol charges at them from the back or from the sides - a head-to-head collision might result in the hero's death if the monster is stronger than him. The player gains gold and experience points for defeating foes; once enough experience has been accumulated, Adol levels up and becomes stronger. The hero can buy and equip swords, armor, shields, and other accessories.</desc>
+		<image>./images/Ys (Japan) (FM77AV) (Disk 1)-image.png</image>
+		<thumbnail>./images/Ys (Japan) (FM77AV) (Disk 1)-thumb.png</thumbnail>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Nihon Falcom</developer>
+		<publisher>Nihon Falcom</publisher>
+		<genre>Role playing games / Action RPG</genre>
+		<players>1</players>
+		<md5>0f7bac184c1582a29b7b254ab0e86f89</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T025656" />
+	</game>
+	<game id="140176">
+		<path>./No-Intro/Sector/Ys (Japan) (FM77AV) (Disk 2) (Alt).d77</path>
+		<name>Ys: Ancient Ys Vanished Omen</name>
+		<desc>In this game, the player takes the role of Adol (Aron in the English-language Sega Master System version) Christin, a red-haired adventurer and expert swordsman. One day he encounter a fortune teller who sends him on a quest to find information about the six books of Ys. It appears that there was once an ancient land called Ys, whose secret was sealed in those six books. Before long Adol learns that the six books were all stolen by the evil wizard Dark Fact (Dulk Dekt in the Sega Master System version, Malificus in the English-language computer versions). It is Adol's task to defeat the villain and discover the secret of Ys! Ys: Ancient Ys Vanished Omen is an action role-playing game with its own trademark combat system: instead of pressing the "attack" button, the protagonist simply runs into the enemies he encounters. More damage is inflicted upon the enemies if Adol charges at them from the back or from the sides - a head-to-head collision might result in the hero's death if the monster is stronger than him. The player gains gold and experience points for defeating foes; once enough experience has been accumulated, Adol levels up and becomes stronger. The hero can buy and equip swords, armor, shields, and other accessories.</desc>
+		<image>./images/Ys (Japan) (FM77AV) (Disk 2) (Alt)-image.png</image>
+		<thumbnail>./images/Ys (Japan) (FM77AV) (Disk 2) (Alt)-thumb.png</thumbnail>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Nihon Falcom</developer>
+		<publisher>Nihon Falcom</publisher>
+		<genre>Role playing games / Action RPG</genre>
+		<players>1</players>
+		<md5>becc8e045297bceb6dbb1fe73f402014</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T025700" />
+	</game>
+	<game id="140176">
+		<path>./No-Intro/Sector/Ys (Japan) (FM77AV) (Disk 2) (Alt).zip</path>
+		<name>Ys: Ancient Ys Vanished Omen</name>
+		<desc>In this game, the player takes the role of Adol (Aron in the English-language Sega Master System version) Christin, a red-haired adventurer and expert swordsman. One day he encounter a fortune teller who sends him on a quest to find information about the six books of Ys. It appears that there was once an ancient land called Ys, whose secret was sealed in those six books. Before long Adol learns that the six books were all stolen by the evil wizard Dark Fact (Dulk Dekt in the Sega Master System version, Malificus in the English-language computer versions). It is Adol's task to defeat the villain and discover the secret of Ys! Ys: Ancient Ys Vanished Omen is an action role-playing game with its own trademark combat system: instead of pressing the "attack" button, the protagonist simply runs into the enemies he encounters. More damage is inflicted upon the enemies if Adol charges at them from the back or from the sides - a head-to-head collision might result in the hero's death if the monster is stronger than him. The player gains gold and experience points for defeating foes; once enough experience has been accumulated, Adol levels up and becomes stronger. The hero can buy and equip swords, armor, shields, and other accessories.</desc>
+		<image>./images/Ys (Japan) (FM77AV) (Disk 2) (Alt)-image.png</image>
+		<thumbnail>./images/Ys (Japan) (FM77AV) (Disk 2) (Alt)-thumb.png</thumbnail>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Nihon Falcom</developer>
+		<publisher>Nihon Falcom</publisher>
+		<genre>Role playing games / Action RPG</genre>
+		<players>1</players>
+		<md5>becc8e045297bceb6dbb1fe73f402014</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T025701" />
+	</game>
+	<game id="140176">
+		<path>./No-Intro/Sector/Ys (Japan) (FM77AV) (Disk 2).d77</path>
+		<name>Ys: Ancient Ys Vanished Omen</name>
+		<desc>In this game, the player takes the role of Adol (Aron in the English-language Sega Master System version) Christin, a red-haired adventurer and expert swordsman. One day he encounter a fortune teller who sends him on a quest to find information about the six books of Ys. It appears that there was once an ancient land called Ys, whose secret was sealed in those six books. Before long Adol learns that the six books were all stolen by the evil wizard Dark Fact (Dulk Dekt in the Sega Master System version, Malificus in the English-language computer versions). It is Adol's task to defeat the villain and discover the secret of Ys! Ys: Ancient Ys Vanished Omen is an action role-playing game with its own trademark combat system: instead of pressing the "attack" button, the protagonist simply runs into the enemies he encounters. More damage is inflicted upon the enemies if Adol charges at them from the back or from the sides - a head-to-head collision might result in the hero's death if the monster is stronger than him. The player gains gold and experience points for defeating foes; once enough experience has been accumulated, Adol levels up and becomes stronger. The hero can buy and equip swords, armor, shields, and other accessories.</desc>
+		<image>./images/Ys (Japan) (FM77AV) (Disk 2)-image.png</image>
+		<thumbnail>./images/Ys (Japan) (FM77AV) (Disk 2)-thumb.png</thumbnail>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Nihon Falcom</developer>
+		<publisher>Nihon Falcom</publisher>
+		<genre>Role playing games / Action RPG</genre>
+		<players>1</players>
+		<md5>b69d3842d61e96d9cd6822c48e763c2a</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T025705" />
+	</game>
+	<game id="140176">
+		<path>./No-Intro/Sector/Ys (Japan) (FM77AV) (Disk 2).zip</path>
+		<name>Ys: Ancient Ys Vanished Omen</name>
+		<desc>In this game, the player takes the role of Adol (Aron in the English-language Sega Master System version) Christin, a red-haired adventurer and expert swordsman. One day he encounter a fortune teller who sends him on a quest to find information about the six books of Ys. It appears that there was once an ancient land called Ys, whose secret was sealed in those six books. Before long Adol learns that the six books were all stolen by the evil wizard Dark Fact (Dulk Dekt in the Sega Master System version, Malificus in the English-language computer versions). It is Adol's task to defeat the villain and discover the secret of Ys! Ys: Ancient Ys Vanished Omen is an action role-playing game with its own trademark combat system: instead of pressing the "attack" button, the protagonist simply runs into the enemies he encounters. More damage is inflicted upon the enemies if Adol charges at them from the back or from the sides - a head-to-head collision might result in the hero's death if the monster is stronger than him. The player gains gold and experience points for defeating foes; once enough experience has been accumulated, Adol levels up and becomes stronger. The hero can buy and equip swords, armor, shields, and other accessories.</desc>
+		<image>./images/Ys (Japan) (FM77AV) (Disk 2)-image.png</image>
+		<thumbnail>./images/Ys (Japan) (FM77AV) (Disk 2)-thumb.png</thumbnail>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Nihon Falcom</developer>
+		<publisher>Nihon Falcom</publisher>
+		<genre>Role playing games / Action RPG</genre>
+		<players>1</players>
+		<md5>b69d3842d61e96d9cd6822c48e763c2a</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T025706" />
+	</game>
+	<game id="140176">
+		<path>./No-Intro/Sector/Ys (Japan) (FM77AV) (User Disk) [b].d77</path>
+		<name>Ys: Ancient Ys Vanished Omen</name>
+		<desc>In this game, the player takes the role of Adol (Aron in the English-language Sega Master System version) Christin, a red-haired adventurer and expert swordsman. One day he encounter a fortune teller who sends him on a quest to find information about the six books of Ys. It appears that there was once an ancient land called Ys, whose secret was sealed in those six books. Before long Adol learns that the six books were all stolen by the evil wizard Dark Fact (Dulk Dekt in the Sega Master System version, Malificus in the English-language computer versions). It is Adol's task to defeat the villain and discover the secret of Ys! Ys: Ancient Ys Vanished Omen is an action role-playing game with its own trademark combat system: instead of pressing the "attack" button, the protagonist simply runs into the enemies he encounters. More damage is inflicted upon the enemies if Adol charges at them from the back or from the sides - a head-to-head collision might result in the hero's death if the monster is stronger than him. The player gains gold and experience points for defeating foes; once enough experience has been accumulated, Adol levels up and becomes stronger. The hero can buy and equip swords, armor, shields, and other accessories.</desc>
+		<image>./images/Ys (Japan) (FM77AV) (User Disk) [b]-image.png</image>
+		<thumbnail>./images/Ys (Japan) (FM77AV) (User Disk) [b]-thumb.png</thumbnail>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Nihon Falcom</developer>
+		<publisher>Nihon Falcom</publisher>
+		<genre>Role playing games / Action RPG</genre>
+		<players>1</players>
+		<md5>b5df667e6a37463b81240c70cd75f99a</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T025709" />
+	</game>
+	<game id="140176">
+		<path>./No-Intro/Sector/Ys (Japan) (FM77AV) (User Disk) [b].zip</path>
+		<name>Ys: Ancient Ys Vanished Omen</name>
+		<desc>In this game, the player takes the role of Adol (Aron in the English-language Sega Master System version) Christin, a red-haired adventurer and expert swordsman. One day he encounter a fortune teller who sends him on a quest to find information about the six books of Ys. It appears that there was once an ancient land called Ys, whose secret was sealed in those six books. Before long Adol learns that the six books were all stolen by the evil wizard Dark Fact (Dulk Dekt in the Sega Master System version, Malificus in the English-language computer versions). It is Adol's task to defeat the villain and discover the secret of Ys! Ys: Ancient Ys Vanished Omen is an action role-playing game with its own trademark combat system: instead of pressing the "attack" button, the protagonist simply runs into the enemies he encounters. More damage is inflicted upon the enemies if Adol charges at them from the back or from the sides - a head-to-head collision might result in the hero's death if the monster is stronger than him. The player gains gold and experience points for defeating foes; once enough experience has been accumulated, Adol levels up and becomes stronger. The hero can buy and equip swords, armor, shields, and other accessories.</desc>
+		<image>./images/Ys (Japan) (FM77AV) (User Disk) [b]-image.png</image>
+		<thumbnail>./images/Ys (Japan) (FM77AV) (User Disk) [b]-thumb.png</thumbnail>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Nihon Falcom</developer>
+		<publisher>Nihon Falcom</publisher>
+		<genre>Role playing games / Action RPG</genre>
+		<players>1</players>
+		<md5>b5df667e6a37463b81240c70cd75f99a</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T025710" />
+	</game>
+	<game id="140177">
+		<path>./No-Intro/Sector/Ys II (Japan) (FM77AV) (Disk 1) (Program Disk).d77</path>
+		<name>Ys II - Ancient Ys Vanished - The Final Chapter</name>
+		<desc>A bright light shot up from Darm Tower in the end of the first Ys, and Adol Christin is awakened by a young girl who finds him lying on the ground. She introduces herself as Lilia and tells Adol he is in the land of Ys. Finally he was able to establish a connection between his world and this mysterious land! But finding the gateway to Ys is not enough: Adol must stop an evil entity that his archenemy Dark Fact served. And his foes already know where he is. Ys II: Ancient Ys Vanished - The Final Chapter is a direct sequel to Ys: The Vanished Omens. The game continues to utilize the action role-playing combat style of the first installment, which requires the player to make the protagonist run into the enemy in order to cause damage, without the need to press an attack button. The player should choose the angles and the measure of contact with the enemy carefully, otherwise the hero will be killed. The player character can (and should) level up, perform quests for village people, gather money, and upgrade weapons and inventory, like in most other RPGs. The sequel offers a longer quest than the first installment, and adds a magic arsenal to Adol's abilities. Among the magic spells is a fire attack, a time-stopping spell, and a transformation ability that allows Adol to pass for a monster and converse with enemies. Magic spells deplete Adol's magic points bar.</desc>
+		<image>./images/Ys II (Japan) (FM77AV) (Disk 1) (Program Disk)-image.png</image>
+		<thumbnail>./images/Ys II (Japan) (FM77AV) (Disk 1) (Program Disk)-thumb.png</thumbnail>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Nihon Falcom</developer>
+		<publisher>Nihon Falcom</publisher>
+		<genre>Role playing games / Action RPG</genre>
+		<family>Ys</family>
+		<players>1</players>
+		<md5>2c298197f2cf0be5abc653ceeda99bf2</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T025714" />
+	</game>
+	<game id="140177">
+		<path>./No-Intro/Sector/Ys II (Japan) (FM77AV) (Disk 1) (Program Disk).zip</path>
+		<name>Ys II - Ancient Ys Vanished - The Final Chapter</name>
+		<desc>A bright light shot up from Darm Tower in the end of the first Ys, and Adol Christin is awakened by a young girl who finds him lying on the ground. She introduces herself as Lilia and tells Adol he is in the land of Ys. Finally he was able to establish a connection between his world and this mysterious land! But finding the gateway to Ys is not enough: Adol must stop an evil entity that his archenemy Dark Fact served. And his foes already know where he is. Ys II: Ancient Ys Vanished - The Final Chapter is a direct sequel to Ys: The Vanished Omens. The game continues to utilize the action role-playing combat style of the first installment, which requires the player to make the protagonist run into the enemy in order to cause damage, without the need to press an attack button. The player should choose the angles and the measure of contact with the enemy carefully, otherwise the hero will be killed. The player character can (and should) level up, perform quests for village people, gather money, and upgrade weapons and inventory, like in most other RPGs. The sequel offers a longer quest than the first installment, and adds a magic arsenal to Adol's abilities. Among the magic spells is a fire attack, a time-stopping spell, and a transformation ability that allows Adol to pass for a monster and converse with enemies. Magic spells deplete Adol's magic points bar.</desc>
+		<image>./images/Ys II (Japan) (FM77AV) (Disk 1) (Program Disk)-image.png</image>
+		<thumbnail>./images/Ys II (Japan) (FM77AV) (Disk 1) (Program Disk)-thumb.png</thumbnail>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Nihon Falcom</developer>
+		<publisher>Nihon Falcom</publisher>
+		<genre>Role playing games / Action RPG</genre>
+		<family>Ys</family>
+		<players>1</players>
+		<md5>2c298197f2cf0be5abc653ceeda99bf2</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T025715" />
+	</game>
+	<game id="140177">
+		<path>./No-Intro/Sector/Ys II (Japan) (FM77AV) (Disk 2).d77</path>
+		<name>Ys II - Ancient Ys Vanished - The Final Chapter</name>
+		<desc>A bright light shot up from Darm Tower in the end of the first Ys, and Adol Christin is awakened by a young girl who finds him lying on the ground. She introduces herself as Lilia and tells Adol he is in the land of Ys. Finally he was able to establish a connection between his world and this mysterious land! But finding the gateway to Ys is not enough: Adol must stop an evil entity that his archenemy Dark Fact served. And his foes already know where he is. Ys II: Ancient Ys Vanished - The Final Chapter is a direct sequel to Ys: The Vanished Omens. The game continues to utilize the action role-playing combat style of the first installment, which requires the player to make the protagonist run into the enemy in order to cause damage, without the need to press an attack button. The player should choose the angles and the measure of contact with the enemy carefully, otherwise the hero will be killed. The player character can (and should) level up, perform quests for village people, gather money, and upgrade weapons and inventory, like in most other RPGs. The sequel offers a longer quest than the first installment, and adds a magic arsenal to Adol's abilities. Among the magic spells is a fire attack, a time-stopping spell, and a transformation ability that allows Adol to pass for a monster and converse with enemies. Magic spells deplete Adol's magic points bar.</desc>
+		<image>./images/Ys II (Japan) (FM77AV) (Disk 2)-image.png</image>
+		<thumbnail>./images/Ys II (Japan) (FM77AV) (Disk 2)-thumb.png</thumbnail>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Nihon Falcom</developer>
+		<publisher>Nihon Falcom</publisher>
+		<genre>Role playing games / Action RPG</genre>
+		<family>Ys</family>
+		<players>1</players>
+		<md5>406e5e1788b0bfc31f2a69be71ff2fc5</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T025719" />
+	</game>
+	<game id="140177">
+		<path>./No-Intro/Sector/Ys II (Japan) (FM77AV) (Disk 2).zip</path>
+		<name>Ys II - Ancient Ys Vanished - The Final Chapter</name>
+		<desc>A bright light shot up from Darm Tower in the end of the first Ys, and Adol Christin is awakened by a young girl who finds him lying on the ground. She introduces herself as Lilia and tells Adol he is in the land of Ys. Finally he was able to establish a connection between his world and this mysterious land! But finding the gateway to Ys is not enough: Adol must stop an evil entity that his archenemy Dark Fact served. And his foes already know where he is. Ys II: Ancient Ys Vanished - The Final Chapter is a direct sequel to Ys: The Vanished Omens. The game continues to utilize the action role-playing combat style of the first installment, which requires the player to make the protagonist run into the enemy in order to cause damage, without the need to press an attack button. The player should choose the angles and the measure of contact with the enemy carefully, otherwise the hero will be killed. The player character can (and should) level up, perform quests for village people, gather money, and upgrade weapons and inventory, like in most other RPGs. The sequel offers a longer quest than the first installment, and adds a magic arsenal to Adol's abilities. Among the magic spells is a fire attack, a time-stopping spell, and a transformation ability that allows Adol to pass for a monster and converse with enemies. Magic spells deplete Adol's magic points bar.</desc>
+		<image>./images/Ys II (Japan) (FM77AV) (Disk 2)-image.png</image>
+		<thumbnail>./images/Ys II (Japan) (FM77AV) (Disk 2)-thumb.png</thumbnail>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Nihon Falcom</developer>
+		<publisher>Nihon Falcom</publisher>
+		<genre>Role playing games / Action RPG</genre>
+		<family>Ys</family>
+		<players>1</players>
+		<md5>406e5e1788b0bfc31f2a69be71ff2fc5</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T025720" />
+	</game>
+	<game id="140177">
+		<path>./No-Intro/Sector/Ys II (Japan) (FM77AV) (Disk 3).d77</path>
+		<name>Ys II - Ancient Ys Vanished - The Final Chapter</name>
+		<desc>A bright light shot up from Darm Tower in the end of the first Ys, and Adol Christin is awakened by a young girl who finds him lying on the ground. She introduces herself as Lilia and tells Adol he is in the land of Ys. Finally he was able to establish a connection between his world and this mysterious land! But finding the gateway to Ys is not enough: Adol must stop an evil entity that his archenemy Dark Fact served. And his foes already know where he is. Ys II: Ancient Ys Vanished - The Final Chapter is a direct sequel to Ys: The Vanished Omens. The game continues to utilize the action role-playing combat style of the first installment, which requires the player to make the protagonist run into the enemy in order to cause damage, without the need to press an attack button. The player should choose the angles and the measure of contact with the enemy carefully, otherwise the hero will be killed. The player character can (and should) level up, perform quests for village people, gather money, and upgrade weapons and inventory, like in most other RPGs. The sequel offers a longer quest than the first installment, and adds a magic arsenal to Adol's abilities. Among the magic spells is a fire attack, a time-stopping spell, and a transformation ability that allows Adol to pass for a monster and converse with enemies. Magic spells deplete Adol's magic points bar.</desc>
+		<image>./images/Ys II (Japan) (FM77AV) (Disk 3)-image.png</image>
+		<thumbnail>./images/Ys II (Japan) (FM77AV) (Disk 3)-thumb.png</thumbnail>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Nihon Falcom</developer>
+		<publisher>Nihon Falcom</publisher>
+		<genre>Role playing games / Action RPG</genre>
+		<family>Ys</family>
+		<players>1</players>
+		<md5>892f89c347426e57386e3650ddff6bd6</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T025723" />
+	</game>
+	<game id="140177">
+		<path>./No-Intro/Sector/Ys II (Japan) (FM77AV) (Disk 3).zip</path>
+		<name>Ys II - Ancient Ys Vanished - The Final Chapter</name>
+		<desc>A bright light shot up from Darm Tower in the end of the first Ys, and Adol Christin is awakened by a young girl who finds him lying on the ground. She introduces herself as Lilia and tells Adol he is in the land of Ys. Finally he was able to establish a connection between his world and this mysterious land! But finding the gateway to Ys is not enough: Adol must stop an evil entity that his archenemy Dark Fact served. And his foes already know where he is. Ys II: Ancient Ys Vanished - The Final Chapter is a direct sequel to Ys: The Vanished Omens. The game continues to utilize the action role-playing combat style of the first installment, which requires the player to make the protagonist run into the enemy in order to cause damage, without the need to press an attack button. The player should choose the angles and the measure of contact with the enemy carefully, otherwise the hero will be killed. The player character can (and should) level up, perform quests for village people, gather money, and upgrade weapons and inventory, like in most other RPGs. The sequel offers a longer quest than the first installment, and adds a magic arsenal to Adol's abilities. Among the magic spells is a fire attack, a time-stopping spell, and a transformation ability that allows Adol to pass for a monster and converse with enemies. Magic spells deplete Adol's magic points bar.</desc>
+		<image>./images/Ys II (Japan) (FM77AV) (Disk 3)-image.png</image>
+		<thumbnail>./images/Ys II (Japan) (FM77AV) (Disk 3)-thumb.png</thumbnail>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Nihon Falcom</developer>
+		<publisher>Nihon Falcom</publisher>
+		<genre>Role playing games / Action RPG</genre>
+		<family>Ys</family>
+		<players>1</players>
+		<md5>892f89c347426e57386e3650ddff6bd6</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T025725" />
+	</game>
+	<game id="140177">
+		<path>./No-Intro/Sector/Ys II (Japan) (FM77AV) (Disk 4) (User Disk).d77</path>
+		<name>Ys II - Ancient Ys Vanished - The Final Chapter</name>
+		<desc>A bright light shot up from Darm Tower in the end of the first Ys, and Adol Christin is awakened by a young girl who finds him lying on the ground. She introduces herself as Lilia and tells Adol he is in the land of Ys. Finally he was able to establish a connection between his world and this mysterious land! But finding the gateway to Ys is not enough: Adol must stop an evil entity that his archenemy Dark Fact served. And his foes already know where he is. Ys II: Ancient Ys Vanished - The Final Chapter is a direct sequel to Ys: The Vanished Omens. The game continues to utilize the action role-playing combat style of the first installment, which requires the player to make the protagonist run into the enemy in order to cause damage, without the need to press an attack button. The player should choose the angles and the measure of contact with the enemy carefully, otherwise the hero will be killed. The player character can (and should) level up, perform quests for village people, gather money, and upgrade weapons and inventory, like in most other RPGs. The sequel offers a longer quest than the first installment, and adds a magic arsenal to Adol's abilities. Among the magic spells is a fire attack, a time-stopping spell, and a transformation ability that allows Adol to pass for a monster and converse with enemies. Magic spells deplete Adol's magic points bar.</desc>
+		<image>./images/Ys II (Japan) (FM77AV) (Disk 4) (User Disk)-image.png</image>
+		<thumbnail>./images/Ys II (Japan) (FM77AV) (Disk 4) (User Disk)-thumb.png</thumbnail>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Nihon Falcom</developer>
+		<publisher>Nihon Falcom</publisher>
+		<genre>Role playing games / Action RPG</genre>
+		<family>Ys</family>
+		<players>1</players>
+		<md5>6fa0d0d4f43f386481110a039ea59f64</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T025728" />
+	</game>
+	<game id="140177">
+		<path>./No-Intro/Sector/Ys II (Japan) (FM77AV) (Disk 4) (User Disk).zip</path>
+		<name>Ys II - Ancient Ys Vanished - The Final Chapter</name>
+		<desc>A bright light shot up from Darm Tower in the end of the first Ys, and Adol Christin is awakened by a young girl who finds him lying on the ground. She introduces herself as Lilia and tells Adol he is in the land of Ys. Finally he was able to establish a connection between his world and this mysterious land! But finding the gateway to Ys is not enough: Adol must stop an evil entity that his archenemy Dark Fact served. And his foes already know where he is. Ys II: Ancient Ys Vanished - The Final Chapter is a direct sequel to Ys: The Vanished Omens. The game continues to utilize the action role-playing combat style of the first installment, which requires the player to make the protagonist run into the enemy in order to cause damage, without the need to press an attack button. The player should choose the angles and the measure of contact with the enemy carefully, otherwise the hero will be killed. The player character can (and should) level up, perform quests for village people, gather money, and upgrade weapons and inventory, like in most other RPGs. The sequel offers a longer quest than the first installment, and adds a magic arsenal to Adol's abilities. Among the magic spells is a fire attack, a time-stopping spell, and a transformation ability that allows Adol to pass for a monster and converse with enemies. Magic spells deplete Adol's magic points bar.</desc>
+		<image>./images/Ys II (Japan) (FM77AV) (Disk 4) (User Disk)-image.png</image>
+		<thumbnail>./images/Ys II (Japan) (FM77AV) (Disk 4) (User Disk)-thumb.png</thumbnail>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Nihon Falcom</developer>
+		<publisher>Nihon Falcom</publisher>
+		<genre>Role playing games / Action RPG</genre>
+		<family>Ys</family>
+		<players>1</players>
+		<md5>6fa0d0d4f43f386481110a039ea59f64</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T025730" />
+	</game>
+	<game>
+		<path>./No-Intro/Tapes Bitstream/Arranger II (Japan).t77</path>
+		<name>Arranger II (Japan)</name>
+		<md5>16d7d72e8c582653d65ed66eacc836e1</md5>
+		<scrap name="ScreenScraper" date="20231103T025731" />
+	</game>
+	<game>
+		<path>./No-Intro/Tapes Waveform/Arranger II (Japan).wav</path>
+		<name>Arranger II (Japan)</name>
+		<md5>c4e9f9c71f0eedcaeab28090e0446ac1</md5>
+		<scrap name="ScreenScraper" date="20231103T025734" />
+	</game>
+	<game>
+		<path>./No-Intro/Tapes Waveform/Biotek (Japan).wav</path>
+		<name>Biotek (Japan)</name>
+		<md5>8b7c8b0dacbdc45b32e2b8b62af22f25</md5>
+		<scrap name="ScreenScraper" date="20231103T025735" />
+	</game>
+	<game>
+		<path>./No-Intro/Tapes Waveform/Cobra Hunter (Japan).wav</path>
+		<name>Cobra Hunter (Japan)</name>
+		<md5>2c299c5a8aff2f80d51f82188fa4743c</md5>
+		<scrap name="ScreenScraper" date="20231103T025737" />
+	</game>
+	<game>
+		<path>./No-Intro/Tapes Waveform/Crash Ball (Japan).wav</path>
+		<name>Crash Ball (Japan)</name>
+		<md5>eaf9a0093a20ec36b827c82b082951e8</md5>
+		<scrap name="ScreenScraper" date="20231103T025738" />
+	</game>
+	<game>
+		<path>./No-Intro/Tapes Waveform/Elevator Game (Japan).wav</path>
+		<name>Elevator Game (Japan)</name>
+		<md5>5c4490036c938ee494ee46ce5ca7d6fc</md5>
+		<scrap name="ScreenScraper" date="20231103T025740" />
+	</game>
+	<game>
+		<path>./No-Intro/Tapes Waveform/FM Racer (Japan).wav</path>
+		<name>FM Racer (Japan)</name>
+		<md5>99e1c156e691ae0719f8e6446a1ec9e1</md5>
+		<scrap name="ScreenScraper" date="20231103T025741" />
+	</game>
+	<game id="139953">
+		<path>./No-Intro/Tapes Waveform/Hitsuji Yaai! (Japan).wav</path>
+		<name>Hitsuji Yaai!</name>
+		<desc>In Hey Sheep! you control a shepherd boy who must gather his sheep into the fencing before nightfall so he can go on a date with a girl. You can catch the sheep by running into them and then once you drag them to the top of the screen you can close the gate by pressing up on the underside of it and going in the direction to shut it. In later levels a wolves appear which will open the gate when the pass by it allowing the sheep a chance to escape. If you fail to get all the sheep locked away safely by nightfall the game is over.</desc>
+		<image>./images/Hitsuji Yaai! (Japan)-image.png</image>
+		<video>./videos/Hitsuji Yaai! (Japan)-video.mp4</video>
+		<thumbnail>./images/Hitsuji Yaai! (Japan)-thumb.png</thumbnail>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Kikuta Masaaki</developer>
+		<publisher>Hudson</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>32110b50accbffe9affa8c84203c986c</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T025746" />
+	</game>
+	<game id="139967">
+		<path>./No-Intro/Tapes Waveform/I wa Sanjutsu Nari (Japan).wav</path>
+		<name>I wa Sanjutsu Nari</name>
+		<desc>This game is a simulation game of running a hospital. The game title is a pun of sorts on the phrase “I wa Jinjustu Nari” which translates into something like “A Doctor is a Savior”. The game begins by telling you that after you made a lot of money you decided to become a medical doctor. You have 10,000,000 in yen you can take on in loans for ten years so your goal is to build a private hospital and make as much money as you can.</desc>
+		<image>./images/I wa Sanjutsu Nari (Japan)-image.png</image>
+		<video>./videos/I wa Sanjutsu Nari (Japan)-video.mp4</video>
+		<thumbnail>./images/I wa Sanjutsu Nari (Japan)-thumb.png</thumbnail>
+		<releasedate>19830101T000000</releasedate>
+		<developer>M&amp;M</developer>
+		<publisher>Hudson</publisher>
+		<genre>Simulation / Build And Management</genre>
+		<players>1</players>
+		<md5>6c5bcf08c44afbfb297b9a7b5671542b</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T025752" />
+	</game>
+	<game>
+		<path>./No-Intro/Tapes Waveform/Killer Station (Japan).wav</path>
+		<name>Killer Station (Japan)</name>
+		<md5>70bfbce0743a936a846ec2b00dd8b6a4</md5>
+		<scrap name="ScreenScraper" date="20231103T025753" />
+	</game>
+	<game>
+		<path>./No-Intro/Tapes Waveform/Kinasai! (Japan).wav</path>
+		<name>Kinasai! (Japan)</name>
+		<md5>a07d3f9b65adfe70d9e6abfceafdb72c</md5>
+		<scrap name="ScreenScraper" date="20231103T025754" />
+	</game>
+	<game>
+		<path>./No-Intro/Tapes Waveform/Marine Attack (Japan).wav</path>
+		<name>Marine Attack (Japan)</name>
+		<md5>678bef3ce568f5b26b732a7b74bad49d</md5>
+		<scrap name="ScreenScraper" date="20231103T025756" />
+	</game>
+	<game>
+		<path>./No-Intro/Tapes Waveform/Oozumou (Japan).wav</path>
+		<name>Oozumou (Japan)</name>
+		<md5>39d8cc5b1714aeec894cb6ada8fc4231</md5>
+		<scrap name="ScreenScraper" date="20231103T025757" />
+	</game>
+	<game>
+		<path>./No-Intro/Tapes Waveform/Ringu no Ue wa Oosawagi (Japan).wav</path>
+		<name>Ringu no Ue wa Oosawagi (Japan)</name>
+		<md5>e9b452096505752a9c4e9e2ef5e2f303</md5>
+		<scrap name="ScreenScraper" date="20231103T025758" />
+	</game>
+	<game>
+		<path>./No-Intro/Tapes Waveform/Shinjuwan Kougeki (Japan).wav</path>
+		<name>Shinjuwan Kougeki (Japan)</name>
+		<md5>3e4b0d8e629a0268886ec37b6b1f2b25</md5>
+		<scrap name="ScreenScraper" date="20231103T025800" />
+	</game>
+	<game id="140181">
+		<path>./No-Intro/Tapes Waveform/Soukoban (Japan).wav</path>
+		<name>Sokoban</name>
+		<desc>Sokoban! The classic Japanese puzzle game that has been ported many times to various systems and is sometimes better known as a Boxxle in the West due to that being its name on the Nintendo Game Boy. The gameplay is simple, you must control a character and push boxes onto the dots on each map to complete the level. If you make the slightest mistake though it usually means you have to begin the stage again. A devilishly challenging puzzle game that is sure to test your wits.</desc>
+		<image>./images/Soukoban (Japan)-image.png</image>
+		<video>./videos/Soukoban (Japan)-video.mp4</video>
+		<marquee>./images/Soukoban (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Soukoban (Japan)-thumb.png</thumbnail>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Hiroyuki Imabayashi</developer>
+		<publisher>Thinking Rabbit</publisher>
+		<genre>Action / Labyrinth</genre>
+		<players>1</players>
+		<md5>ec5365cc6084c271d3c37417fc190d1c</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T025806" />
+	</game>
+	<game id="140090">
+		<path>./No-Intro/Tapes Waveform/Space Warp (Japan).wav</path>
+		<name>Space Warp</name>
+		<desc>Space Warp is a puzzle game in which you control a ship within four boxes that abstractly represent a three-dimensional cube. Your goal is to touch the letters in alphabetical order, but if you screw up, you lose!</desc>
+		<image>./images/Space Warp (Japan)-image.png</image>
+		<video>./videos/Space Warp (Japan)-video.mp4</video>
+		<thumbnail>./images/Space Warp (Japan)-thumb.png</thumbnail>
+		<releasedate>19840101T000000</releasedate>
+		<publisher>Star Pack</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<md5>b915a7884a7ba1034b9cf843000d769d</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T025810" />
+	</game>
+	<game>
+		<path>./No-Intro/Tapes Waveform/Yume no Pro Yakyuu (Japan).wav</path>
+		<name>Yume no Pro Yakyuu (Japan)</name>
+		<md5>7775bb1b2344efb3e651fad0f692a45e</md5>
+		<scrap name="ScreenScraper" date="20231103T025811" />
+	</game>
+	<game>
+		<path>./No-Intro/Waveform/Arranger II (Japan) (En).wav</path>
+		<name>Arranger II (Japan) (En)</name>
+		<md5>c4e9f9c71f0eedcaeab28090e0446ac1</md5>
+		<scrap name="ScreenScraper" date="20231103T025814" />
 	</game>
 </gameList>

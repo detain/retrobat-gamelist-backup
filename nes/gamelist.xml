@@ -45867,4 +45867,2499 @@ Old and new power-ups abound in each level for the Mario Brothers, including the
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230216T034122" />
 	</game>
+	<game id="18551">
+		<path>./No-Intro/Headered/'89 Dennou Kyuusei Uranai (Japan).nes</path>
+		<name>'89 Dennou Kyuusei Uranai</name>
+		<desc>This game is a simulation of horoscope/fortune-telling. In the beginning of the game, you enter your name, then choose your birthday and sex. Depending on your choice, you'll see a planet that rules your destiny from now on. After that you go through a variety of menus and sub-menus to learn about your life. You can discover what generally awaits you in life or simply enter an exact date and read your horoscope for it. You can check out the status of your health and your lucky items, as well as learn what kind of a person you are. Naturally, you can also add the data of another person, and see if there is a possibility of a romantic relationship between you two.</desc>
+		<image>./images/'89 Dennou Kyuusei Uranai (Japan)-image.png</image>
+		<video>./videos/'89 Dennou Kyuusei Uranai (Japan)-video.mp4</video>
+		<marquee>./images/'89 Dennou Kyuusei Uranai (Japan)-marquee.png</marquee>
+		<thumbnail>./images/'89 Dennou Kyuusei Uranai (Japan)-thumb.png</thumbnail>
+		<rating>0.2</rating>
+		<releasedate>19881210T000000</releasedate>
+		<developer>Micronics</developer>
+		<publisher>Induction Produce</publisher>
+		<genre>Simulation</genre>
+		<players>1</players>
+		<md5>44091221ff27af8f274f210dec670bb1</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T050922" />
+	</game>
+	<game>
+		<path>./No-Intro/Headered/'93 Chaoji Hun (Contra '93) (Asia) (Pirate).nes</path>
+		<name>'93 Chaoji Hun (Contra '93) (Asia) (Pirate)</name>
+		<md5>92559c7114165573d39dcccca931ba75</md5>
+		<scrap name="ScreenScraper" date="20231103T050923" />
+	</game>
+	<game id="420831">
+		<path>./No-Intro/Headered/0-to-X (World) (Demo) (Aftermarket) (Unl).nes</path>
+		<name>0-to-X</name>
+		<desc>Based on a hit internet phenomenon, 0-to-X is an addictive puzzler developed by nemesys. In addition to tile mashing fun, the game features an amazing soundtrack by Memblers. Slide like tiles together, which will then become the next numerically greater tile. Can you make it to X, or even beyond?</desc>
+		<developer>Nemesys</developer>
+		<publisher>Sole Goose Productions</publisher>
+		<genre>Puzzle-Game</genre>
+		<md5>6c4099738b2de1686027259697d969dd</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231103T050924" />
+	</game>
+	<game id="1658">
+		<path>./No-Intro/Headered/10-Yard Fight (Japan) (Rev 1).nes</path>
+		<name>10 Yard Fight</name>
+		<desc>10-Yard Fight is a simple arcade game based on American football. One player can play against the computer or a second player head-to-head matchup and can choose between five levels of difficulty (high school, college, pro, playoffs, and Super Bowl). If you win a game at a lower difficulty level, the following game is automatically played at the next highest difficulty level.
+
+Gameplay is top-down and vertical-scrolling. There are no plays or formations to select from before the action begins; the player can take the snap as quarterback or choose one of two players on defense. On offense, the player can either keep the ball on the run, toss it to one of the two running backs, or throw long to the receiver; an interception turns the ball over to the other team. If a touchdown can't be scored, then the directional kicking system can be used to punt the ball or try for a field goal. One game consists (accelerated real-time) 30-minute halves of play to decide who wins this 10-Yard Fight.</desc>
+		<image>./images/10-Yard Fight (Japan) (Rev 1)-image.png</image>
+		<video>./videos/10-Yard Fight (Japan) (Rev 1)-video.mp4</video>
+		<marquee>./images/10-Yard Fight (Japan) (Rev 1)-marquee.png</marquee>
+		<thumbnail>./images/10-Yard Fight (Japan) (Rev 1)-thumb.png</thumbnail>
+		<fanart>./images/10-Yard Fight (Japan) (Rev 1)-fanart.jpg</fanart>
+		<manual>./manuals/10-Yard Fight (Japan) (Rev 1)-manual.pdf</manual>
+		<bezel>./images/10-Yard Fight (Japan) (Rev 1)-bezel.png</bezel>
+		<rating>0.4</rating>
+		<releasedate>19850830T000000</releasedate>
+		<developer>Irem</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports / Football</genre>
+		<players>1-2</players>
+		<md5>1e2ec36ed66519dd03a52f1847e9d56d</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T050934" />
+	</game>
+	<game id="1658">
+		<path>./No-Intro/Headered/10-Yard Fight (Japan).nes</path>
+		<name>10 Yard Fight</name>
+		<desc>10-Yard Fight is a simple arcade game based on American football. One player can play against the computer or a second player head-to-head matchup and can choose between five levels of difficulty (high school, college, pro, playoffs, and Super Bowl). If you win a game at a lower difficulty level, the following game is automatically played at the next highest difficulty level.
+
+Gameplay is top-down and vertical-scrolling. There are no plays or formations to select from before the action begins; the player can take the snap as quarterback or choose one of two players on defense. On offense, the player can either keep the ball on the run, toss it to one of the two running backs, or throw long to the receiver; an interception turns the ball over to the other team. If a touchdown can't be scored, then the directional kicking system can be used to punt the ball or try for a field goal. One game consists (accelerated real-time) 30-minute halves of play to decide who wins this 10-Yard Fight.</desc>
+		<image>./images/10-Yard Fight (Japan)-image.png</image>
+		<video>./videos/10-Yard Fight (Japan)-video.mp4</video>
+		<marquee>./images/10-Yard Fight (Japan)-marquee.png</marquee>
+		<thumbnail>./images/10-Yard Fight (Japan)-thumb.png</thumbnail>
+		<fanart>./images/10-Yard Fight (Japan)-fanart.jpg</fanart>
+		<manual>./manuals/10-Yard Fight (Japan)-manual.pdf</manual>
+		<bezel>./images/10-Yard Fight (Japan)-bezel.png</bezel>
+		<rating>0.4</rating>
+		<releasedate>19850830T000000</releasedate>
+		<developer>Irem</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports / Football</genre>
+		<players>1-2</players>
+		<md5>1378270f6cf90095b7fea1e6648503a4</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T050944" />
+	</game>
+	<game id="1658">
+		<path>./No-Intro/Headered/10-Yard Fight (USA) (Retro-Bit Generations) (Aftermarket) (Unl).nes</path>
+		<name>10-Yard Fight</name>
+		<desc>10-Yard Fight is a simple arcade game based on American football. One player can play against the computer or a second player head-to-head matchup and can choose between five levels of difficulty (high school, college, pro, playoffs, and Super Bowl). If you win a game at a lower difficulty level, the following game is automatically played at the next highest difficulty level.
+
+Gameplay is top-down and vertical-scrolling. There are no plays or formations to select from before the action begins; the player can take the snap as quarterback or choose one of two players on defense. On offense, the player can either keep the ball on the run, toss it to one of the two running backs, or throw long to the receiver; an interception turns the ball over to the other team. If a touchdown can't be scored, then the directional kicking system can be used to punt the ball or try for a field goal. One game consists (accelerated real-time) 30-minute halves of play to decide who wins this 10-Yard Fight.</desc>
+		<image>./images/10-Yard Fight (USA) (Retro-Bit Generations) (Aftermarket) (Unl)-image.png</image>
+		<video>./videos/10-Yard Fight (USA) (Retro-Bit Generations) (Aftermarket) (Unl)-video.mp4</video>
+		<marquee>./images/10-Yard Fight (USA) (Retro-Bit Generations) (Aftermarket) (Unl)-marquee.png</marquee>
+		<thumbnail>./images/10-Yard Fight (USA) (Retro-Bit Generations) (Aftermarket) (Unl)-thumb.png</thumbnail>
+		<fanart>./images/10-Yard Fight (USA) (Retro-Bit Generations) (Aftermarket) (Unl)-fanart.jpg</fanart>
+		<manual>./manuals/10-Yard Fight (USA) (Retro-Bit Generations) (Aftermarket) (Unl)-manual.pdf</manual>
+		<bezel>./images/10-Yard Fight (USA) (Retro-Bit Generations) (Aftermarket) (Unl)-bezel.png</bezel>
+		<rating>0.4</rating>
+		<releasedate>19851018T000000</releasedate>
+		<developer>Irem</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports / Football</genre>
+		<players>1-2</players>
+		<md5>1a73ca95a7cbbbbb39be186d3d2c47e7</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231103T050954" />
+	</game>
+	<game id="1658">
+		<path>./No-Intro/Headered/10-Yard Fight (USA, Europe).nes</path>
+		<name>10-Yard Fight</name>
+		<desc>10-Yard Fight is a simple arcade game based on American football. One player can play against the computer or a second player head-to-head matchup and can choose between five levels of difficulty (high school, college, pro, playoffs, and Super Bowl). If you win a game at a lower difficulty level, the following game is automatically played at the next highest difficulty level.
+
+Gameplay is top-down and vertical-scrolling. There are no plays or formations to select from before the action begins; the player can take the snap as quarterback or choose one of two players on defense. On offense, the player can either keep the ball on the run, toss it to one of the two running backs, or throw long to the receiver; an interception turns the ball over to the other team. If a touchdown can't be scored, then the directional kicking system can be used to punt the ball or try for a field goal. One game consists (accelerated real-time) 30-minute halves of play to decide who wins this 10-Yard Fight.</desc>
+		<image>./images/10-Yard Fight (USA, Europe)-image.png</image>
+		<video>./videos/10-Yard Fight (USA, Europe)-video.mp4</video>
+		<marquee>./images/10-Yard Fight (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/10-Yard Fight (USA, Europe)-thumb.png</thumbnail>
+		<fanart>./images/10-Yard Fight (USA, Europe)-fanart.jpg</fanart>
+		<manual>./manuals/10-Yard Fight (USA, Europe)-manual.pdf</manual>
+		<bezel>./images/10-Yard Fight (USA, Europe)-bezel.png</bezel>
+		<rating>0.4</rating>
+		<releasedate>19851018T000000</releasedate>
+		<developer>Irem</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports / Football</genre>
+		<players>1-2</players>
+		<md5>7b1d38579ede25e20b3aaf870be69c42</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231103T050955" />
+	</game>
+	<game id="1930">
+		<path>./No-Intro/Headered/100 Man Dollar Kid - Maboroshi no Teiou Hen (Japan).nes</path>
+		<name>100 Man Dollar Kid : Maboroshi no Teiou Hen</name>
+		<desc>You are Casino Kid, a nameless youth who has 500$ in his pocket and is ready to face the best poker and blackjack players in the casino to increase this amount significantly. You move around a large casino room and talk to people. Some people will just chat with you, while others will challenge you to a game: either blackjack or poker. In the beginning, most people won't agree to play with you. You'll have to defeat the opponents in a particular order in order to be able to win all blackjack and poker games and to face the Final Opponent.</desc>
+		<image>./images/100 Man Dollar Kid - Maboroshi no Teiou Hen (Japan)-image.png</image>
+		<video>./videos/100 Man Dollar Kid - Maboroshi no Teiou Hen (Japan)-video.mp4</video>
+		<marquee>./images/100 Man Dollar Kid - Maboroshi no Teiou Hen (Japan)-marquee.png</marquee>
+		<thumbnail>./images/100 Man Dollar Kid - Maboroshi no Teiou Hen (Japan)-thumb.png</thumbnail>
+		<fanart>./images/100 Man Dollar Kid - Maboroshi no Teiou Hen (Japan)-fanart.jpg</fanart>
+		<manual>./manuals/100 Man Dollar Kid - Maboroshi no Teiou Hen (Japan)-manual.pdf</manual>
+		<bezel>./images/100 Man Dollar Kid - Maboroshi no Teiou Hen (Japan)-bezel.png</bezel>
+		<rating>0.4</rating>
+		<releasedate>19890106T000000</releasedate>
+		<developer>SOFEL Co., Ltd.</developer>
+		<publisher>SOFEL Co., Ltd.</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<md5>9a3d56dc0f7dbb61e0e6dccdeba40160</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T051005" />
+	</game>
+	<game id="191810">
+		<path>./No-Intro/Headered/100-in-1 Contra Function 16 (Asia) (En) (Pirate).nes</path>
+		<name>ZZZ(notgame):100-in-1 Contra Function 16</name>
+		<hidden>true</hidden>
+		<md5>8b92a02edc06b89002519130a10c50e1</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231103T051007" />
+	</game>
+	<game>
+		<path>./No-Intro/Headered/10000000-in-1 Unchained Melody 95 (Asia) (En) (Pirate).nes</path>
+		<name>10000000-in-1 Unchained Melody 95 (Asia) (En) (Pirate)</name>
+		<md5>bf4adadd5a5153272ead226336d60395</md5>
+		<scrap name="ScreenScraper" date="20231103T051008" />
+	</game>
+	<game id="420828">
+		<path>./No-Intro/Headered/1007 Bolts (World) (Aftermarket) (Unl).nes</path>
+		<name>1007 Bolts</name>
+		<md5>c6824c21f04f6b9f9525efebfd91d8dd</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231103T051009" />
+	</game>
+	<game id="420828">
+		<path>./No-Intro/Headered/1007 Bolts (World) (Beta) (Aftermarket) (Unl).nes</path>
+		<name>1007 Bolts</name>
+		<md5>73bb898934bb80e926284f9871edf14c</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231103T051011" />
+	</game>
+	<game>
+		<path>./No-Intro/Headered/11-in-1 NES Musical Pack (World) (Aftermarket) (Unl).nes</path>
+		<name>11-in-1 NES Musical Pack (World) (Aftermarket) (Unl)</name>
+		<md5>82f510b34cdab086509ec8b4b3b84e90</md5>
+		<scrap name="ScreenScraper" date="20231103T051012" />
+	</game>
+	<game id="173091">
+		<path>./No-Intro/Headered/110-in-1 (Asia) (En) (Pirate).nes</path>
+		<name>ZZZ(notgame):260-in-1 Nintendo Super Cartridge</name>
+		<desc>GAME LISTING:
+01. Tetris (BPS)
+02. Tetris (Tengen)
+03. 3D Block (Hwang Shinwei)
+04. Flipull (Taito)
+05. Quarth (Konami)
+06. Puzznic (Taito)
+07. Dr. Mario (Nintendo)
+08. Magic Jewelry II [Columns] (RCM)
+09. Ms. Pac-Man (Tengen)
+10. Pac-Man (Namco)
+11. Pac-Land (Tengen)
+12. Pac-Mania (Tengen)
+13. Legend of Kage (Taito)
+14. Gradius (Konami)
+15. Adventure Island (Hudson Soft)
+16. Adventures of Dino Riki (Hudson Soft)
+17. Arkanoid (Taito)
+18. Paperboy (Mindscape)
+19. Star Soldier (Hudson Soft)
+20. Battle City (Namco)
+21. Mario Bros. (Nintendo)
+22. Super Mario Bros. (Nintendo)
+23. Rally X (Namco)
+24. Excitebike (Nintendo)
+25. Zippy Race (Irem)
+26. Road Fighter (Konami)
+27. City Connection (Jaleco)
+28. F-1 Race (Nintendo)
+29. X-Race (?)
+30. Mag Max (FCI)
+31. Penquin Wars (Konami)
+32. Golf (Nintendo)
+33. Tennis (Nintendo)
+34. Soccer (Nintendo)
+35. Pooyan (Konami)
+36. Balloon Fight (Nintendo)
+37. Pinball (Nintendo)
+38. Baseball (Nintendo)
+39. Lunar Pool (FCI)
+40. 10-Yard Fight (Nintendo)
+41. Formation Z (Jaleco)
+42. Volguard II (Db Soft)
+43. 1942 (Capcom)
+44. B-Wings (Data East)
+45. Xevious (Namco)
+46. Gyrodine (Taito)
+47. Sky Destroyer (Konami)
+48. Raid on Bungling Bay (Broderbund)
+49. Star Force (Tecmo)
+50. Defender (Hal)
+51. Exerion (Jaleco)
+52. Macross (Namco)
+53. Warpman (Namco)
+54. Field Combat (Jaleco)
+55. Galaga (Namco)
+56. Galaxian (Namco)
+57. Twin Bee (Konami)
+58. Space Invaders (Taito)
+59. Front Line (Taito)
+60. Millipede (Hal)
+61. Lode Runner (Broderbund)
+62. Lode Runner II (Broderbund)
+63. Dig-Dug (Namco)
+64. Dig Dug 2 (Namco)
+65. Donkey Kong (Nintendo)
+66. Donkey Kong JR. (Nintendo)
+67. Donkey Kong 3 (Nintendo)
+68. M.U.S.C.L.E. (Bandai)
+69. Tag Team Wrestling (Data East)
+70. Ninja Kun (Jaleco)
+71. Ninja Kun 2 (Jaleco)
+72. King's Knight (Squaresoft)
+73. Urban Champion (Nintendo)
+74. Karateka (Broderbund)
+75. Kung Fu (Nintendo)
+76. Yie Ar Kung Fu (Konami)
+77. Ice Climber (Nintendo)
+78. Super Arabian (Broderbund)
+79. Popeye (Nintendo)
+80. Antarctic Adventure (Konami)
+81. Bomberman (Hudson Soft)
+82. Chack 'n Pop (Taito)
+83. Circus Charlie (Konami)
+84. Burger Time! (Data East)
+85. Nuts &amp; Milk (Hudson Soft)
+86. Door Door (Enix)
+87. Wrecking Crew (Nintendo)
+88. Crush Roller (Hwang Shinwei)
+89. Joust (Hal)
+90. Mappy (Namco)
+91. Binary Land (Hudson Soft)
+92. Clu Clu Land (Nintendo)
+93. Devil World (Nintendo)
+94. Piano Demo
+95. Mario Punch Sprite Demo
+96. Frogger Demo
+97. Wild Ball (Hwang Shinwei) -M Rated-
+98. Nintendo Mahjong (Nintendo)
+99. Mahjong (?)
+100. Shanghai Demo
+101. Nintendo Mahjong II (Nintendo)
+102. Chinese Chess (?)
+103. Memory (?)
+104. Duck Hunt (Nintendo) Light Gun Series
+105. Hogan's Ally (Nintendo) Light Gun Series
+106. Wild Gunman (Nintendo) Light Gun Series
+------------------------------------------
+107-260 = Trained Games (Game Genie-ized)</desc>
+		<image>./images/110-in-1 (Asia) (En) (Pirate)-image.png</image>
+		<hidden>true</hidden>
+		<md5>8ccafa62e091302d745c6af8aac41f64</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231103T051015" />
+	</game>
+	<game>
+		<path>./No-Intro/Headered/150-in-1 Golden 1992 (Asia) (En) (Pirate).nes</path>
+		<name>150-in-1 Golden 1992 (Asia) (En) (Pirate)</name>
+		<md5>564f5fe6c87485353bd3befd86b54e76</md5>
+		<scrap name="ScreenScraper" date="20231103T051016" />
+	</game>
+	<game id="173091">
+		<path>./No-Intro/Headered/168-in-1 (Asia) (En,Ja) (AB CARD-15) (Pirate).nes</path>
+		<name>ZZZ(notgame):260-in-1 Nintendo Super Cartridge</name>
+		<desc>GAME LISTING:
+01. Tetris (BPS)
+02. Tetris (Tengen)
+03. 3D Block (Hwang Shinwei)
+04. Flipull (Taito)
+05. Quarth (Konami)
+06. Puzznic (Taito)
+07. Dr. Mario (Nintendo)
+08. Magic Jewelry II [Columns] (RCM)
+09. Ms. Pac-Man (Tengen)
+10. Pac-Man (Namco)
+11. Pac-Land (Tengen)
+12. Pac-Mania (Tengen)
+13. Legend of Kage (Taito)
+14. Gradius (Konami)
+15. Adventure Island (Hudson Soft)
+16. Adventures of Dino Riki (Hudson Soft)
+17. Arkanoid (Taito)
+18. Paperboy (Mindscape)
+19. Star Soldier (Hudson Soft)
+20. Battle City (Namco)
+21. Mario Bros. (Nintendo)
+22. Super Mario Bros. (Nintendo)
+23. Rally X (Namco)
+24. Excitebike (Nintendo)
+25. Zippy Race (Irem)
+26. Road Fighter (Konami)
+27. City Connection (Jaleco)
+28. F-1 Race (Nintendo)
+29. X-Race (?)
+30. Mag Max (FCI)
+31. Penquin Wars (Konami)
+32. Golf (Nintendo)
+33. Tennis (Nintendo)
+34. Soccer (Nintendo)
+35. Pooyan (Konami)
+36. Balloon Fight (Nintendo)
+37. Pinball (Nintendo)
+38. Baseball (Nintendo)
+39. Lunar Pool (FCI)
+40. 10-Yard Fight (Nintendo)
+41. Formation Z (Jaleco)
+42. Volguard II (Db Soft)
+43. 1942 (Capcom)
+44. B-Wings (Data East)
+45. Xevious (Namco)
+46. Gyrodine (Taito)
+47. Sky Destroyer (Konami)
+48. Raid on Bungling Bay (Broderbund)
+49. Star Force (Tecmo)
+50. Defender (Hal)
+51. Exerion (Jaleco)
+52. Macross (Namco)
+53. Warpman (Namco)
+54. Field Combat (Jaleco)
+55. Galaga (Namco)
+56. Galaxian (Namco)
+57. Twin Bee (Konami)
+58. Space Invaders (Taito)
+59. Front Line (Taito)
+60. Millipede (Hal)
+61. Lode Runner (Broderbund)
+62. Lode Runner II (Broderbund)
+63. Dig-Dug (Namco)
+64. Dig Dug 2 (Namco)
+65. Donkey Kong (Nintendo)
+66. Donkey Kong JR. (Nintendo)
+67. Donkey Kong 3 (Nintendo)
+68. M.U.S.C.L.E. (Bandai)
+69. Tag Team Wrestling (Data East)
+70. Ninja Kun (Jaleco)
+71. Ninja Kun 2 (Jaleco)
+72. King's Knight (Squaresoft)
+73. Urban Champion (Nintendo)
+74. Karateka (Broderbund)
+75. Kung Fu (Nintendo)
+76. Yie Ar Kung Fu (Konami)
+77. Ice Climber (Nintendo)
+78. Super Arabian (Broderbund)
+79. Popeye (Nintendo)
+80. Antarctic Adventure (Konami)
+81. Bomberman (Hudson Soft)
+82. Chack 'n Pop (Taito)
+83. Circus Charlie (Konami)
+84. Burger Time! (Data East)
+85. Nuts &amp; Milk (Hudson Soft)
+86. Door Door (Enix)
+87. Wrecking Crew (Nintendo)
+88. Crush Roller (Hwang Shinwei)
+89. Joust (Hal)
+90. Mappy (Namco)
+91. Binary Land (Hudson Soft)
+92. Clu Clu Land (Nintendo)
+93. Devil World (Nintendo)
+94. Piano Demo
+95. Mario Punch Sprite Demo
+96. Frogger Demo
+97. Wild Ball (Hwang Shinwei) -M Rated-
+98. Nintendo Mahjong (Nintendo)
+99. Mahjong (?)
+100. Shanghai Demo
+101. Nintendo Mahjong II (Nintendo)
+102. Chinese Chess (?)
+103. Memory (?)
+104. Duck Hunt (Nintendo) Light Gun Series
+105. Hogan's Ally (Nintendo) Light Gun Series
+106. Wild Gunman (Nintendo) Light Gun Series
+------------------------------------------
+107-260 = Trained Games (Game Genie-ized)</desc>
+		<image>./images/168-in-1 (Asia) (En,Ja) (AB CARD-15) (Pirate)-image.png</image>
+		<hidden>true</hidden>
+		<md5>b455d07db012fb6cd9e198793de79e79</md5>
+		<lang>en,jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T051019" />
+	</game>
+	<game>
+		<path>./No-Intro/Headered/168-in-1 New Contra Function 16 (Asia) (En) (Pirate).nes</path>
+		<name>168-in-1 New Contra Function 16 (Asia) (En) (Pirate)</name>
+		<md5>63afc83521a70400389a43d0d8a0ae57</md5>
+		<scrap name="ScreenScraper" date="20231103T051020" />
+	</game>
+	<game id="153300">
+		<path>./No-Intro/Headered/18-in-1 (Asia) (En) (Pirate).nes</path>
+		<name>ZZZ(notgame):Education Games 18-in-1</name>
+		<hidden>true</hidden>
+		<md5>d3eb18dcc51aed57c5b174dcb55e3860</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231103T051021" />
+	</game>
+	<game id="1461">
+		<path>./No-Intro/Headered/1942 (Japan, USA) (En).nes</path>
+		<name>1942</name>
+		<desc>A conversion of the arcade game, 1942 is a vertically scrolling shooter for one or two players. The year is 1942, and you are a daring fighter pilot "Super Ace". You begin and end each of the numerous levels on an aircraft carrier and then fly your plane into battle against the enemy over both sea and land. After destroying certain plane formations you can collect several different power ups to increase your fire power and chances of survival.</desc>
+		<image>./images/1942 (Japan, USA) (En)-image.png</image>
+		<video>./videos/1942 (Japan, USA) (En)-video.mp4</video>
+		<marquee>./images/1942 (Japan, USA) (En)-marquee.png</marquee>
+		<thumbnail>./images/1942 (Japan, USA) (En)-thumb.png</thumbnail>
+		<fanart>./images/1942 (Japan, USA) (En)-fanart.jpg</fanart>
+		<manual>./manuals/1942 (Japan, USA) (En)-manual.pdf</manual>
+		<bezel>./images/1942 (Japan, USA) (En)-bezel.png</bezel>
+		<rating>0.55</rating>
+		<releasedate>19851211T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<family>194X</family>
+		<players>1-2</players>
+		<md5>073f7e6bd3da86bd1e1d5e3abf525d7e</md5>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T051023" />
+	</game>
+	<game id="1468">
+		<path>./No-Intro/Headered/1943 (Japan) (FamicomBox).nes</path>
+		<name>1943 : The Battle of Valhalla</name>
+		<desc>The sequel to 1942, which is still a vertically scrolling shooter, has the player once again fighting over the clouds during the second world war, this time in an intense battle just off the coast of Midway islands.
+
+Updates to the gameplay include an energy bar, which can be run down by either being hit from incoming fire or using a special weapon. The energy bar can be replenished by picking up power-ups, while special weapons (lightning, cyclones and waves) can knock down all fighters on the screen at the time.</desc>
+		<image>./images/1943 (Japan) (FamicomBox)-image.png</image>
+		<video>./videos/1943 (Japan) (FamicomBox)-video.mp4</video>
+		<marquee>./images/1943 (Japan) (FamicomBox)-marquee.png</marquee>
+		<thumbnail>./images/1943 (Japan) (FamicomBox)-thumb.png</thumbnail>
+		<fanart>./images/1943 (Japan) (FamicomBox)-fanart.jpg</fanart>
+		<manual>./manuals/1943 (Japan) (FamicomBox)-manual.pdf</manual>
+		<bezel>./images/1943 (Japan) (FamicomBox)-bezel.png</bezel>
+		<rating>0.7</rating>
+		<releasedate>19880620T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<players>1-2</players>
+		<md5>cc486366f43f0ab715e1e0ef23f63de0</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T051035" />
+	</game>
+	<game id="1468">
+		<path>./No-Intro/Headered/1943 - The Battle of Midway (Japan) (Beta).nes</path>
+		<name>1943 : The Battle of Valhalla</name>
+		<desc>The sequel to 1942, which is still a vertically scrolling shooter, has the player once again fighting over the clouds during the second world war, this time in an intense battle just off the coast of Midway islands.
+
+Updates to the gameplay include an energy bar, which can be run down by either being hit from incoming fire or using a special weapon. The energy bar can be replenished by picking up power-ups, while special weapons (lightning, cyclones and waves) can knock down all fighters on the screen at the time.</desc>
+		<image>./images/1943 - The Battle of Midway (Japan) (Beta)-image.png</image>
+		<video>./videos/1943 - The Battle of Midway (Japan) (Beta)-video.mp4</video>
+		<marquee>./images/1943 - The Battle of Midway (Japan) (Beta)-marquee.png</marquee>
+		<thumbnail>./images/1943 - The Battle of Midway (Japan) (Beta)-thumb.png</thumbnail>
+		<fanart>./images/1943 - The Battle of Midway (Japan) (Beta)-fanart.jpg</fanart>
+		<manual>./manuals/1943 - The Battle of Midway (Japan) (Beta)-manual.pdf</manual>
+		<bezel>./images/1943 - The Battle of Midway (Japan) (Beta)-bezel.png</bezel>
+		<rating>0.7</rating>
+		<releasedate>19880620T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<players>1-2</players>
+		<md5>683c3b9e927b821d4d9a9f4525c82594</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T051046" />
+	</game>
+	<game id="1468">
+		<path>./No-Intro/Headered/1943 - The Battle of Midway (USA) (Retro-Bit Generations) (Aftermarket) (Unl).nes</path>
+		<name>1943 : The Battle of Midway</name>
+		<desc>The sequel to 1942, which is still a vertically scrolling shooter, has the player once again fighting over the clouds during the second world war, this time in an intense battle just off the coast of Midway islands.
+
+Updates to the gameplay include an energy bar, which can be run down by either being hit from incoming fire or using a special weapon. The energy bar can be replenished by picking up power-ups, while special weapons (lightning, cyclones and waves) can knock down all fighters on the screen at the time.</desc>
+		<image>./images/1943 - The Battle of Midway (USA) (Retro-Bit Generations) (Aftermarket) (Unl)-image.png</image>
+		<video>./videos/1943 - The Battle of Midway (USA) (Retro-Bit Generations) (Aftermarket) (Unl)-video.mp4</video>
+		<marquee>./images/1943 - The Battle of Midway (USA) (Retro-Bit Generations) (Aftermarket) (Unl)-marquee.png</marquee>
+		<thumbnail>./images/1943 - The Battle of Midway (USA) (Retro-Bit Generations) (Aftermarket) (Unl)-thumb.png</thumbnail>
+		<fanart>./images/1943 - The Battle of Midway (USA) (Retro-Bit Generations) (Aftermarket) (Unl)-fanart.jpg</fanart>
+		<manual>./manuals/1943 - The Battle of Midway (USA) (Retro-Bit Generations) (Aftermarket) (Unl)-manual.pdf</manual>
+		<bezel>./images/1943 - The Battle of Midway (USA) (Retro-Bit Generations) (Aftermarket) (Unl)-bezel.png</bezel>
+		<rating>0.7</rating>
+		<releasedate>19881002T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<players>1-2</players>
+		<md5>e015eee34a78c49df6fc10443433b888</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231103T051055" />
+	</game>
+	<game id="1468">
+		<path>./No-Intro/Headered/1943 - The Battle of Midway (USA).nes</path>
+		<name>1943 : The Battle of Midway</name>
+		<desc>The sequel to 1942, which is still a vertically scrolling shooter, has the player once again fighting over the clouds during the second world war, this time in an intense battle just off the coast of Midway islands.
+
+Updates to the gameplay include an energy bar, which can be run down by either being hit from incoming fire or using a special weapon. The energy bar can be replenished by picking up power-ups, while special weapons (lightning, cyclones and waves) can knock down all fighters on the screen at the time.</desc>
+		<image>./images/1943 - The Battle of Midway (USA)-image.png</image>
+		<video>./videos/1943 - The Battle of Midway (USA)-video.mp4</video>
+		<marquee>./images/1943 - The Battle of Midway (USA)-marquee.png</marquee>
+		<thumbnail>./images/1943 - The Battle of Midway (USA)-thumb.png</thumbnail>
+		<fanart>./images/1943 - The Battle of Midway (USA)-fanart.jpg</fanart>
+		<manual>./manuals/1943 - The Battle of Midway (USA)-manual.pdf</manual>
+		<bezel>./images/1943 - The Battle of Midway (USA)-bezel.png</bezel>
+		<rating>0.7</rating>
+		<releasedate>19881002T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<players>1-2</players>
+		<md5>3948924cefe485a5f52fe7af4e3abd25</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231103T051056" />
+	</game>
+	<game id="1468">
+		<path>./No-Intro/Headered/1943 - The Battle of Valhalla (Japan).nes</path>
+		<name>1943 : The Battle of Valhalla</name>
+		<desc>The sequel to 1942, which is still a vertically scrolling shooter, has the player once again fighting over the clouds during the second world war, this time in an intense battle just off the coast of Midway islands.
+
+Updates to the gameplay include an energy bar, which can be run down by either being hit from incoming fire or using a special weapon. The energy bar can be replenished by picking up power-ups, while special weapons (lightning, cyclones and waves) can knock down all fighters on the screen at the time.</desc>
+		<image>./images/1943 - The Battle of Valhalla (Japan)-image.png</image>
+		<video>./videos/1943 - The Battle of Valhalla (Japan)-video.mp4</video>
+		<marquee>./images/1943 - The Battle of Valhalla (Japan)-marquee.png</marquee>
+		<thumbnail>./images/1943 - The Battle of Valhalla (Japan)-thumb.png</thumbnail>
+		<fanart>./images/1943 - The Battle of Valhalla (Japan)-fanart.jpg</fanart>
+		<manual>./manuals/1943 - The Battle of Valhalla (Japan)-manual.pdf</manual>
+		<bezel>./images/1943 - The Battle of Valhalla (Japan)-bezel.png</bezel>
+		<rating>0.7</rating>
+		<releasedate>19880620T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<players>1-2</players>
+		<md5>fd5b7f1d4795005d8a62f074ebcf2e67</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T051106" />
+	</game>
+	<game>
+		<path>./No-Intro/Headered/1988 Jinpai Mali (Asia) (En) (Kaiser) (KS-7032) (Pirate).nes</path>
+		<name>1988 Jinpai Mali (Asia) (En) (Kaiser) (KS-7032) (Pirate)</name>
+		<md5>710378028967ece4aaf9d61016199537</md5>
+		<scrap name="ScreenScraper" date="20231103T051107" />
+	</game>
+	<game id="18546">
+		<path>./No-Intro/Headered/1991 Du Ma Racing (Asia) (Idea-Tek) (Unl).nes</path>
+		<name>1991 Du Ma Racing</name>
+		<desc>1991 Du Ma Racing is a horse racing game offering two game modes. 
+
+In race mode, two players can compete in a race. By pressing a button at the right time, they can build up their horse's power, then press another button to release it and give their horse an edge in the race. The player who does this faster and more accurately will have a better chance of winning the race.
+
+In gamble mode, 1 to 6 players start out with 500 credits to place bets on 5 horses. The race will be simulated without any player interaction, and at the end of each race event players will get their respective prize money. The goal is to earn more money this way than any other player.</desc>
+		<image>./images/1991 Du Ma Racing (Asia) (Idea-Tek) (Unl)-image.png</image>
+		<video>./videos/1991 Du Ma Racing (Asia) (Idea-Tek) (Unl)-video.mp4</video>
+		<marquee>./images/1991 Du Ma Racing (Asia) (Idea-Tek) (Unl)-marquee.png</marquee>
+		<thumbnail>./images/1991 Du Ma Racing (Asia) (Idea-Tek) (Unl)-thumb.png</thumbnail>
+		<fanart>./images/1991 Du Ma Racing (Asia) (Idea-Tek) (Unl)-fanart.jpg</fanart>
+		<rating>0.4</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Idea-Tek, Inc.</developer>
+		<publisher>Super Mega</publisher>
+		<genre>Sports with Animals / Horses race</genre>
+		<players>1-6</players>
+		<md5>6ce6e67cce25901a92a0164aa79b1589</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231103T051114" />
+	</game>
+	<game id="18546">
+		<path>./No-Intro/Headered/1991 Du Ma Racing (Asia) (Micro Genius) (Unl).nes</path>
+		<name>1991 Du Ma Racing</name>
+		<desc>1991 Du Ma Racing is a horse racing game offering two game modes. 
+
+In race mode, two players can compete in a race. By pressing a button at the right time, they can build up their horse's power, then press another button to release it and give their horse an edge in the race. The player who does this faster and more accurately will have a better chance of winning the race.
+
+In gamble mode, 1 to 6 players start out with 500 credits to place bets on 5 horses. The race will be simulated without any player interaction, and at the end of each race event players will get their respective prize money. The goal is to earn more money this way than any other player.</desc>
+		<image>./images/1991 Du Ma Racing (Asia) (Micro Genius) (Unl)-image.png</image>
+		<video>./videos/1991 Du Ma Racing (Asia) (Micro Genius) (Unl)-video.mp4</video>
+		<marquee>./images/1991 Du Ma Racing (Asia) (Micro Genius) (Unl)-marquee.png</marquee>
+		<thumbnail>./images/1991 Du Ma Racing (Asia) (Micro Genius) (Unl)-thumb.png</thumbnail>
+		<fanart>./images/1991 Du Ma Racing (Asia) (Micro Genius) (Unl)-fanart.jpg</fanart>
+		<rating>0.4</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Idea-Tek, Inc.</developer>
+		<publisher>Super Mega</publisher>
+		<genre>Sports with Animals / Horses race</genre>
+		<players>1-6</players>
+		<md5>3e37ff41f4306d8c477ec91397cfb928</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231103T051122" />
+	</game>
+	<game id="420822">
+		<path>./No-Intro/Headered/1992 Gaishi 190-in-1 Hua Mian Xuan Guan (Asia) (En) (Pirate).nes</path>
+		<name>ZZZ(notgame):1992 Gaishi 190-in-1 Hua Mian Xuan Guan</name>
+		<hidden>true</hidden>
+		<md5>f90a171ff41f4ceab4213fda32d4190e</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231103T051124" />
+	</game>
+	<game>
+		<path>./No-Intro/Headered/1996 Aoyunhui Jingji Ban 24-in-1 (Asia) (En) (CK-008) (Pirate).nes</path>
+		<name>1996 Aoyunhui Jingji Ban 24-in-1 (Asia) (En) (CK-008) (Pirate)</name>
+		<md5>f9ffd53fa23711ed3219e43fbb0528e6</md5>
+		<scrap name="ScreenScraper" date="20231103T051125" />
+	</game>
+	<game>
+		<path>./No-Intro/Headered/1996 Yingyu CAI 3-in-1 (China) (Unl).nes</path>
+		<name>1996 Yingyu CAI 3-in-1 (China) (Unl)</name>
+		<md5>6370707cc7eb5489f583a188d219bc72</md5>
+		<scrap name="ScreenScraper" date="20231103T051126" />
+	</game>
+	<game id="18547">
+		<path>./No-Intro/Headered/1999 - Hore, Mitakotoka! Seikimatsu (Japan).nes</path>
+		<name>1999 : Hore, Mitakotoka! Seikimatsu</name>
+		<desc>Four Japanese high-school students were camping at the countryside, when they suddenly saw an UFO landing nearby. Before they managed to understand anything, a small pink alien with a strict-looking face came out of the space ship and announced that the end of the century is near - and something extraordinary will happen in the year 1999.
+
+That's where the game begins. You can play as one (or two, in 2-player mode) of the students, competing against the others. You must prepare for the upcoming end of the century, earn enough money, and generally manage your life well. This is a Monopoly-like board game, only instead of dices you use cards. The characters are represented by small cars on a city map. The number that appears on the card you pull from the deck represents the amount of squares your car can move on the map. Each square leads to a different event: accident, romantic meeting, promotion, etc. Some of the events allow you to make an additional choice. For example, if you land in a casino, you'll be asked if you want to gamble. Answering "yes" will lead to a slot machine mini-game.</desc>
+		<image>./images/1999 - Hore, Mitakotoka! Seikimatsu (Japan)-image.png</image>
+		<video>./videos/1999 - Hore, Mitakotoka! Seikimatsu (Japan)-video.mp4</video>
+		<marquee>./images/1999 - Hore, Mitakotoka! Seikimatsu (Japan)-marquee.png</marquee>
+		<thumbnail>./images/1999 - Hore, Mitakotoka! Seikimatsu (Japan)-thumb.png</thumbnail>
+		<rating>0.6</rating>
+		<releasedate>19920918T000000</releasedate>
+		<developer>Coconuts Japan</developer>
+		<publisher>Coconuts Japan</publisher>
+		<genre>Board game</genre>
+		<players>1-4</players>
+		<md5>bd1c3d49fb1655b4221c69ac55298605</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T051133" />
+	</game>
+	<game>
+		<path>./No-Intro/Headered/2-in-1 - Conan &amp; Rygar (Asia) (En) (RC58) (Pirate).nes</path>
+		<name>2-in-1 - Conan &amp; Rygar (Asia) (En) (RC58) (Pirate)</name>
+		<md5>6469f93defaf97abda3833ecc780bd90</md5>
+		<scrap name="ScreenScraper" date="20231103T051134" />
+	</game>
+	<game>
+		<path>./No-Intro/Headered/2-in-1 - Shuang Wang Ji (Asia) (Pirate).nes</path>
+		<name>2-in-1 - Shuang Wang Ji (Asia) (Pirate)</name>
+		<md5>3215314d10699b6566fc0c3ff33c602e</md5>
+		<scrap name="ScreenScraper" date="20231103T051136" />
+	</game>
+	<game>
+		<path>./No-Intro/Headered/2-in-1 - Street Dance + Hit Mouse (China) (En) (Aftermarket) (Unl).nes</path>
+		<name>2-in-1 - Street Dance + Hit Mouse (China) (En) (Aftermarket) (Unl)</name>
+		<md5>0ee4955fec42bae9572e50775f70b939</md5>
+		<scrap name="ScreenScraper" date="20231103T051137" />
+	</game>
+	<game>
+		<path>./No-Intro/Headered/2-in-1 - Zhili Pintu + Dudu Wawa Da Maoxian (China) (Unl).nes</path>
+		<name>2-in-1 - Zhili Pintu + Dudu Wawa Da Maoxian (China) (Unl)</name>
+		<md5>03e680c3e01822efa2824c32c5c7fa56</md5>
+		<scrap name="ScreenScraper" date="20231103T051138" />
+	</game>
+	<game id="367364">
+		<path>./No-Intro/Headered/2-in-1 Geminim-Siamond (World) (Aftermarket) (Unl).nes</path>
+		<name>2 in 1 Geminim-Siamond</name>
+		<desc>In this multicart, you'll be able to experience the first two games by Sivak Games. Included are the games Geminim and Siamond.
+
+Geminim is based on the logic game of Nim. On your turn, you must take some gems from one color away and eventually hope to be the one who takes the last gem and win the round. Version 1.100 is included.
+
+Siamond is based on the mind game of Simon. Repeat the pattern presented to you perfectly for as long as you can.</desc>
+		<image>./images/2-in-1 Geminim-Siamond (World) (Aftermarket) (Unl)-image.png</image>
+		<video>./videos/2-in-1 Geminim-Siamond (World) (Aftermarket) (Unl)-video.mp4</video>
+		<marquee>./images/2-in-1 Geminim-Siamond (World) (Aftermarket) (Unl)-marquee.png</marquee>
+		<thumbnail>./images/2-in-1 Geminim-Siamond (World) (Aftermarket) (Unl)-thumb.png</thumbnail>
+		<releasedate>20080625T000000</releasedate>
+		<developer>Sivak Games</developer>
+		<publisher>Retrozone</publisher>
+		<genre>Puzzle-Game</genre>
+		<md5>c99b566cc2e5fdc0a2493aa2e91841bd</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231103T051145" />
+	</game>
+	<game id="173091">
+		<path>./No-Intro/Headered/20-in-1 (Asia) (En) (KY-2001) (Aftermarket) (Pirate).nes</path>
+		<name>ZZZ(notgame):260-in-1 Nintendo Super Cartridge</name>
+		<desc>GAME LISTING:
+01. Tetris (BPS)
+02. Tetris (Tengen)
+03. 3D Block (Hwang Shinwei)
+04. Flipull (Taito)
+05. Quarth (Konami)
+06. Puzznic (Taito)
+07. Dr. Mario (Nintendo)
+08. Magic Jewelry II [Columns] (RCM)
+09. Ms. Pac-Man (Tengen)
+10. Pac-Man (Namco)
+11. Pac-Land (Tengen)
+12. Pac-Mania (Tengen)
+13. Legend of Kage (Taito)
+14. Gradius (Konami)
+15. Adventure Island (Hudson Soft)
+16. Adventures of Dino Riki (Hudson Soft)
+17. Arkanoid (Taito)
+18. Paperboy (Mindscape)
+19. Star Soldier (Hudson Soft)
+20. Battle City (Namco)
+21. Mario Bros. (Nintendo)
+22. Super Mario Bros. (Nintendo)
+23. Rally X (Namco)
+24. Excitebike (Nintendo)
+25. Zippy Race (Irem)
+26. Road Fighter (Konami)
+27. City Connection (Jaleco)
+28. F-1 Race (Nintendo)
+29. X-Race (?)
+30. Mag Max (FCI)
+31. Penquin Wars (Konami)
+32. Golf (Nintendo)
+33. Tennis (Nintendo)
+34. Soccer (Nintendo)
+35. Pooyan (Konami)
+36. Balloon Fight (Nintendo)
+37. Pinball (Nintendo)
+38. Baseball (Nintendo)
+39. Lunar Pool (FCI)
+40. 10-Yard Fight (Nintendo)
+41. Formation Z (Jaleco)
+42. Volguard II (Db Soft)
+43. 1942 (Capcom)
+44. B-Wings (Data East)
+45. Xevious (Namco)
+46. Gyrodine (Taito)
+47. Sky Destroyer (Konami)
+48. Raid on Bungling Bay (Broderbund)
+49. Star Force (Tecmo)
+50. Defender (Hal)
+51. Exerion (Jaleco)
+52. Macross (Namco)
+53. Warpman (Namco)
+54. Field Combat (Jaleco)
+55. Galaga (Namco)
+56. Galaxian (Namco)
+57. Twin Bee (Konami)
+58. Space Invaders (Taito)
+59. Front Line (Taito)
+60. Millipede (Hal)
+61. Lode Runner (Broderbund)
+62. Lode Runner II (Broderbund)
+63. Dig-Dug (Namco)
+64. Dig Dug 2 (Namco)
+65. Donkey Kong (Nintendo)
+66. Donkey Kong JR. (Nintendo)
+67. Donkey Kong 3 (Nintendo)
+68. M.U.S.C.L.E. (Bandai)
+69. Tag Team Wrestling (Data East)
+70. Ninja Kun (Jaleco)
+71. Ninja Kun 2 (Jaleco)
+72. King's Knight (Squaresoft)
+73. Urban Champion (Nintendo)
+74. Karateka (Broderbund)
+75. Kung Fu (Nintendo)
+76. Yie Ar Kung Fu (Konami)
+77. Ice Climber (Nintendo)
+78. Super Arabian (Broderbund)
+79. Popeye (Nintendo)
+80. Antarctic Adventure (Konami)
+81. Bomberman (Hudson Soft)
+82. Chack 'n Pop (Taito)
+83. Circus Charlie (Konami)
+84. Burger Time! (Data East)
+85. Nuts &amp; Milk (Hudson Soft)
+86. Door Door (Enix)
+87. Wrecking Crew (Nintendo)
+88. Crush Roller (Hwang Shinwei)
+89. Joust (Hal)
+90. Mappy (Namco)
+91. Binary Land (Hudson Soft)
+92. Clu Clu Land (Nintendo)
+93. Devil World (Nintendo)
+94. Piano Demo
+95. Mario Punch Sprite Demo
+96. Frogger Demo
+97. Wild Ball (Hwang Shinwei) -M Rated-
+98. Nintendo Mahjong (Nintendo)
+99. Mahjong (?)
+100. Shanghai Demo
+101. Nintendo Mahjong II (Nintendo)
+102. Chinese Chess (?)
+103. Memory (?)
+104. Duck Hunt (Nintendo) Light Gun Series
+105. Hogan's Ally (Nintendo) Light Gun Series
+106. Wild Gunman (Nintendo) Light Gun Series
+------------------------------------------
+107-260 = Trained Games (Game Genie-ized)</desc>
+		<image>./images/20-in-1 (Asia) (En) (KY-2001) (Aftermarket) (Pirate)-image.png</image>
+		<hidden>true</hidden>
+		<md5>8bd5e839e0a5077fbf46e4a6a74d5f91</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231103T051148" />
+	</game>
+	<game id="1330">
+		<path>./No-Intro/Headered/2010 Street Fighter (Japan).nes</path>
+		<name>2010 : Street Fighter</name>
+		<desc>The player is Ken, the hero of the Street Fighter series. It's been 25 years since he last participated in a fighting tournament. He has become a scientist and has developed a powerful medicine together with his friend Troy. But an unknown fiend breaks into his laboratory, kills Troy, and steals the invention. It's time to recall the good old days and to embark on a quest for revenge!
+
+Despite the US title, the game has little to do with the Street Fighter or the Final Fight games. This is an action platformer in which the player navigates Ken around, trying to avoid or kill the enemies by shooting at them with ranged weapons, adjusting the direction of the shot, or kicking and punching them. Ken is very agile and can jump high and climb walls.</desc>
+		<image>./images/2010 Street Fighter (Japan)-image.png</image>
+		<video>./videos/2010 Street Fighter (Japan)-video.mp4</video>
+		<marquee>./images/2010 Street Fighter (Japan)-marquee.png</marquee>
+		<thumbnail>./images/2010 Street Fighter (Japan)-thumb.png</thumbnail>
+		<fanart>./images/2010 Street Fighter (Japan)-fanart.jpg</fanart>
+		<manual>./manuals/2010 Street Fighter (Japan)-manual.pdf</manual>
+		<bezel>./images/2010 Street Fighter (Japan)-bezel.png</bezel>
+		<rating>0.4</rating>
+		<releasedate>19900808T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<family>Street Fighter</family>
+		<players>1</players>
+		<md5>1d59f7f167612eb492ea9f963db53523</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T051159" />
+	</game>
+	<game id="97386">
+		<path>./No-Intro/Headered/2048 (World) (Rev 5) (Aftermarket) (Unl).nes</path>
+		<name>2048</name>
+		<desc>2048 is an originally Smartphone Game. You must play with tile to add them pair by pair to obtain 2048.</desc>
+		<image>./images/2048 (World) (Rev 5) (Aftermarket) (Unl)-image.png</image>
+		<video>./videos/2048 (World) (Rev 5) (Aftermarket) (Unl)-video.mp4</video>
+		<marquee>./images/2048 (World) (Rev 5) (Aftermarket) (Unl)-marquee.png</marquee>
+		<thumbnail>./images/2048 (World) (Rev 5) (Aftermarket) (Unl)-thumb.png</thumbnail>
+		<fanart>./images/2048 (World) (Rev 5) (Aftermarket) (Unl)-fanart.jpg</fanart>
+		<releasedate>20140621T000000</releasedate>
+		<developer>tsone</developer>
+		<publisher>tsone</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<md5>26a5a3d4012f40214cce37b5209b260c</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231103T051207" />
+	</game>
+	<game>
+		<path>./No-Intro/Headered/22 Games (China) (En) (Tsang Hai) (Pirate).nes</path>
+		<name>22 Games (China) (En) (Tsang Hai) (Pirate)</name>
+		<md5>260f35241010cb4ce82fa28d0b167f84</md5>
+		<scrap name="ScreenScraper" date="20231103T051208" />
+	</game>
+	<game>
+		<path>./No-Intro/Headered/23+222-in-1 (245-in-1 Real Game) (China) (Aftermarket) (Pirate).nes</path>
+		<name>23+222-in-1 (245-in-1 Real Game) (China) (Aftermarket) (Pirate)</name>
+		<md5>de8d544dbec35b920b8aff3c1afff287</md5>
+		<scrap name="ScreenScraper" date="20231103T051210" />
+	</game>
+	<game>
+		<path>./No-Intro/Headered/23-in-1 Super Game (Europe) (K23-001) (Pirate).nes</path>
+		<name>23-in-1 Super Game (Europe) (K23-001) (Pirate)</name>
+		<md5>421b63d574f5fd1fb8a904add191f009</md5>
+		<scrap name="ScreenScraper" date="20231103T051212" />
+	</game>
+	<game id="420819">
+		<path>./No-Intro/Headered/240p Test Suite (World) (v0.01) (Program) (Aftermarket) (Unl).nes</path>
+		<name>ZZZ(notgame):240p Test Suite</name>
+		<hidden>true</hidden>
+		<md5>2fed0a18662006cf88d97b5cd88ee220</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231103T051213" />
+	</game>
+	<game id="420819">
+		<path>./No-Intro/Headered/240p Test Suite (World) (v0.02) (Program) (Aftermarket) (Unl).nes</path>
+		<name>ZZZ(notgame):240p Test Suite</name>
+		<hidden>true</hidden>
+		<md5>086d36f98f5c78e2b3d0f7a5d94c54a3</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231103T051215" />
+	</game>
+	<game id="420819">
+		<path>./No-Intro/Headered/240p Test Suite (World) (v0.03) (Program) (Aftermarket) (Unl).nes</path>
+		<name>ZZZ(notgame):240p Test Suite</name>
+		<hidden>true</hidden>
+		<md5>80a4528ee9ce2e10fc0db115672e47e2</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231103T051216" />
+	</game>
+	<game id="420819">
+		<path>./No-Intro/Headered/240p Test Suite (World) (v0.04) (Program) (Aftermarket) (Unl).nes</path>
+		<name>ZZZ(notgame):240p Test Suite</name>
+		<hidden>true</hidden>
+		<md5>0d1332e79948dcd8536f15e021cc44f3</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231103T051217" />
+	</game>
+	<game id="420819">
+		<path>./No-Intro/Headered/240p Test Suite (World) (v0.05) (Program) (Aftermarket) (Unl).nes</path>
+		<name>ZZZ(notgame):240p Test Suite</name>
+		<hidden>true</hidden>
+		<md5>9158c8757c14d2d67022f14a59643294</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231103T051219" />
+	</game>
+	<game id="420819">
+		<path>./No-Intro/Headered/240p Test Suite (World) (v0.06) (Program) (Aftermarket) (Unl).nes</path>
+		<name>ZZZ(notgame):240p Test Suite</name>
+		<hidden>true</hidden>
+		<md5>f653185443d6abe653fc59c2605c1220</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231103T051220" />
+	</game>
+	<game id="420819">
+		<path>./No-Intro/Headered/240p Test Suite (World) (v0.07) (Program) (Aftermarket) (Unl).nes</path>
+		<name>ZZZ(notgame):240p Test Suite</name>
+		<hidden>true</hidden>
+		<md5>4f793a223b81a98cfd3c3254edfbba89</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231103T051222" />
+	</game>
+	<game id="420819">
+		<path>./No-Intro/Headered/240p Test Suite (World) (v0.08) (Program) (Aftermarket) (Unl) (Alt).nes</path>
+		<name>ZZZ(notgame):240p Test Suite</name>
+		<hidden>true</hidden>
+		<md5>b39b96365afe95731fb94b4df2cf5532</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231103T051223" />
+	</game>
+	<game id="420819">
+		<path>./No-Intro/Headered/240p Test Suite (World) (v0.08) (Program) (Aftermarket) (Unl).nes</path>
+		<name>ZZZ(notgame):240p Test Suite</name>
+		<hidden>true</hidden>
+		<md5>704abf6d919d4d338fa05357d5bc6ba6</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231103T051225" />
+	</game>
+	<game id="420819">
+		<path>./No-Intro/Headered/240p Test Suite (World) (v0.09) (Program) (Aftermarket) (Unl) (Alt).nes</path>
+		<name>ZZZ(notgame):240p Test Suite</name>
+		<hidden>true</hidden>
+		<md5>b44c59506cc570ff23ed098476edc771</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231103T051227" />
+	</game>
+	<game id="420819">
+		<path>./No-Intro/Headered/240p Test Suite (World) (v0.09) (Program) (Aftermarket) (Unl).nes</path>
+		<name>ZZZ(notgame):240p Test Suite</name>
+		<hidden>true</hidden>
+		<md5>6990e9b1eb53e55f3a7394ce8092f254</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231103T051228" />
+	</game>
+	<game id="420819">
+		<path>./No-Intro/Headered/240p Test Suite (World) (v0.10) (Program) (Aftermarket) (Unl) (Alt).nes</path>
+		<name>ZZZ(notgame):240p Test Suite</name>
+		<hidden>true</hidden>
+		<md5>10ca9a2317f8024916a8f19007c0d633</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231103T051229" />
+	</game>
+	<game id="420819">
+		<path>./No-Intro/Headered/240p Test Suite (World) (v0.10) (Program) (Aftermarket) (Unl).nes</path>
+		<name>ZZZ(notgame):240p Test Suite</name>
+		<hidden>true</hidden>
+		<md5>d3014407f61edbcee85cf42eb971e307</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231103T051231" />
+	</game>
+	<game id="420819">
+		<path>./No-Intro/Headered/240p Test Suite (World) (v0.11) (Program) (Aftermarket) (Unl) (Alt).nes</path>
+		<name>ZZZ(notgame):240p Test Suite</name>
+		<hidden>true</hidden>
+		<md5>3098aff9ea37a97ad5df84a13cde9f61</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231103T051232" />
+	</game>
+	<game id="420819">
+		<path>./No-Intro/Headered/240p Test Suite (World) (v0.11) (Program) (Aftermarket) (Unl).nes</path>
+		<name>ZZZ(notgame):240p Test Suite</name>
+		<hidden>true</hidden>
+		<md5>62d67bc54446f0e55f8943530b8c3f9c</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231103T051234" />
+	</game>
+	<game id="420819">
+		<path>./No-Intro/Headered/240p Test Suite (World) (v0.12) (BNROM) (Program) (Aftermarket) (Unl).nes</path>
+		<name>ZZZ(notgame):240p Test Suite</name>
+		<hidden>true</hidden>
+		<md5>a94bd80c20e953141e793fa824fd7517</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231103T051235" />
+	</game>
+	<game id="420819">
+		<path>./No-Intro/Headered/240p Test Suite (World) (v0.12) (UNROM) (Program) (Aftermarket) (Unl).nes</path>
+		<name>ZZZ(notgame):240p Test Suite</name>
+		<hidden>true</hidden>
+		<md5>f7abbd23adb0920d8ace4b84d3e9f6bf</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231103T051237" />
+	</game>
+	<game id="420819">
+		<path>./No-Intro/Headered/240p Test Suite (World) (v0.13) (Program) (Aftermarket) (Unl) (Alt).nes</path>
+		<name>ZZZ(notgame):240p Test Suite</name>
+		<hidden>true</hidden>
+		<md5>406256b786340aa412a57eccb26c4fad</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231103T051238" />
+	</game>
+	<game id="420819">
+		<path>./No-Intro/Headered/240p Test Suite (World) (v0.13) (Program) (Aftermarket) (Unl).nes</path>
+		<name>ZZZ(notgame):240p Test Suite</name>
+		<hidden>true</hidden>
+		<md5>d4749c9ca301a3b5eebbf9ceeda4b18e</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231103T051240" />
+	</game>
+	<game id="420819">
+		<path>./No-Intro/Headered/240p Test Suite (World) (v0.14) (Program) (Aftermarket) (Unl) (Alt).nes</path>
+		<name>ZZZ(notgame):240p Test Suite</name>
+		<hidden>true</hidden>
+		<md5>c05eb31044eb04e8a5e53f8198f803df</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231103T051242" />
+	</game>
+	<game id="420819">
+		<path>./No-Intro/Headered/240p Test Suite (World) (v0.14) (Program) (Aftermarket) (Unl).nes</path>
+		<name>ZZZ(notgame):240p Test Suite</name>
+		<hidden>true</hidden>
+		<md5>a898f5777554d7a16ddad5ce4fdd4494</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231103T051243" />
+	</game>
+	<game id="420819">
+		<path>./No-Intro/Headered/240p Test Suite (World) (v0.15) (Program) (Aftermarket) (Unl) (Alt).nes</path>
+		<name>ZZZ(notgame):240p Test Suite</name>
+		<hidden>true</hidden>
+		<md5>d5b5fdf6b550f68d82fe971ceb8ba592</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231103T051244" />
+	</game>
+	<game id="420819">
+		<path>./No-Intro/Headered/240p Test Suite (World) (v0.15) (Program) (Aftermarket) (Unl).nes</path>
+		<name>ZZZ(notgame):240p Test Suite</name>
+		<hidden>true</hidden>
+		<md5>7b5ea49d571ba8d65b6a650f2d123d4a</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231103T051246" />
+	</game>
+	<game id="420819">
+		<path>./No-Intro/Headered/240p Test Suite (World) (v0.16) (Program) (Aftermarket) (Unl) (Alt).nes</path>
+		<name>ZZZ(notgame):240p Test Suite</name>
+		<hidden>true</hidden>
+		<md5>cdbca902ccb1f682df9cee1212b412b2</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231103T051247" />
+	</game>
+	<game id="420819">
+		<path>./No-Intro/Headered/240p Test Suite (World) (v0.16) (Program) (Aftermarket) (Unl).nes</path>
+		<name>ZZZ(notgame):240p Test Suite</name>
+		<hidden>true</hidden>
+		<md5>341e81887e34f4d1cfd7f91ae67ad31e</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231103T051249" />
+	</game>
+	<game id="420819">
+		<path>./No-Intro/Headered/240p Test Suite (World) (v0.17) (Program) (Aftermarket) (Unl) (Alt).nes</path>
+		<name>ZZZ(notgame):240p Test Suite</name>
+		<hidden>true</hidden>
+		<md5>55f6180c9ba069bdc96bf7907fb27030</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231103T051250" />
+	</game>
+	<game id="420819">
+		<path>./No-Intro/Headered/240p Test Suite (World) (v0.17) (Program) (Aftermarket) (Unl).nes</path>
+		<name>ZZZ(notgame):240p Test Suite</name>
+		<hidden>true</hidden>
+		<md5>394f8d7704a9ab61f00a91fb04d406a4</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231103T051251" />
+	</game>
+	<game id="420819">
+		<path>./No-Intro/Headered/240p Test Suite (World) (v0.18) (Program) (Aftermarket) (Unl) (Alt).nes</path>
+		<name>ZZZ(notgame):240p Test Suite</name>
+		<hidden>true</hidden>
+		<md5>30b6ab3a0690ac4ef8a4c7ce8aa9d38e</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231103T051253" />
+	</game>
+	<game id="420819">
+		<path>./No-Intro/Headered/240p Test Suite (World) (v0.18) (Program) (Aftermarket) (Unl).nes</path>
+		<name>ZZZ(notgame):240p Test Suite</name>
+		<hidden>true</hidden>
+		<md5>14bc3e751bf2eb8d436d4d46decf24a9</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231103T051254" />
+	</game>
+	<game id="420819">
+		<path>./No-Intro/Headered/240p Test Suite (World) (v0.19) (Program) (Aftermarket) (Unl) (Alt).nes</path>
+		<name>ZZZ(notgame):240p Test Suite</name>
+		<hidden>true</hidden>
+		<md5>ea499da9847dc4971226694443871926</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231103T051256" />
+	</game>
+	<game id="420819">
+		<path>./No-Intro/Headered/240p Test Suite (World) (v0.19) (Program) (Aftermarket) (Unl).nes</path>
+		<name>ZZZ(notgame):240p Test Suite</name>
+		<hidden>true</hidden>
+		<md5>6e6397c5b0a33c209141b7870660fef4</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231103T051257" />
+	</game>
+	<game id="420819">
+		<path>./No-Intro/Headered/240p Test Suite (World) (v0.20) (Program) (Aftermarket) (Unl) (Alt).nes</path>
+		<name>ZZZ(notgame):240p Test Suite</name>
+		<hidden>true</hidden>
+		<md5>c65939a69599b89b9749ba64a0b89170</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231103T051259" />
+	</game>
+	<game id="420819">
+		<path>./No-Intro/Headered/240p Test Suite (World) (v0.20) (Program) (Aftermarket) (Unl).nes</path>
+		<name>ZZZ(notgame):240p Test Suite</name>
+		<hidden>true</hidden>
+		<md5>d454e9611f632408abde8c5df9bee865</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231103T051300" />
+	</game>
+	<game id="420819">
+		<path>./No-Intro/Headered/240p Test Suite (World) (v0.21) (Program) (Aftermarket) (Unl) (Alt).nes</path>
+		<name>ZZZ(notgame):240p Test Suite</name>
+		<hidden>true</hidden>
+		<md5>a169f622f41cf85678fafa6addcb2664</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231103T051302" />
+	</game>
+	<game id="420819">
+		<path>./No-Intro/Headered/240p Test Suite (World) (v0.21) (Program) (Aftermarket) (Unl).nes</path>
+		<name>ZZZ(notgame):240p Test Suite</name>
+		<hidden>true</hidden>
+		<md5>fb3a351f6595a90a31f7f3bc9779b496</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231103T051303" />
+	</game>
+	<game id="420819">
+		<path>./No-Intro/Headered/240p Test Suite (World) (v0.22) (BNROM) (Program) (Aftermarket) (Unl).nes</path>
+		<name>ZZZ(notgame):240p Test Suite</name>
+		<hidden>true</hidden>
+		<md5>15a69a8571f29754418ba9bc0ec4ec45</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231103T051305" />
+	</game>
+	<game id="420819">
+		<path>./No-Intro/Headered/240p Test Suite (World) (v0.22) (UNROM) (Program) (Aftermarket) (Unl).nes</path>
+		<name>ZZZ(notgame):240p Test Suite</name>
+		<hidden>true</hidden>
+		<md5>78a7494dedd11bfc0fa73e7ab9e42a97</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231103T051306" />
+	</game>
+	<game id="420819">
+		<path>./No-Intro/Headered/240p Test Suite (World) (v0.22-132) (BNROM) (Program) (Aftermarket) (Unl).nes</path>
+		<name>ZZZ(notgame):240p Test Suite</name>
+		<hidden>true</hidden>
+		<md5>fb5caa9f0a48db2f40ba294e5d225056</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231103T051308" />
+	</game>
+	<game id="420819">
+		<path>./No-Intro/Headered/240p Test Suite (World) (v0.22-132) (SGROM) (Program) (Aftermarket) (Unl).nes</path>
+		<name>ZZZ(notgame):240p Test Suite</name>
+		<hidden>true</hidden>
+		<md5>ebf45e641b12b81e84f2fdc8826c62ce</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231103T051309" />
+	</game>
+	<game id="420819">
+		<path>./No-Intro/Headered/240p Test Suite (World) (v0.22-132) (TGROM) (Program) (Aftermarket) (Unl).nes</path>
+		<name>ZZZ(notgame):240p Test Suite</name>
+		<hidden>true</hidden>
+		<md5>8ac6be9147f387396064d9e3fed6fa1e</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231103T051311" />
+	</game>
+	<game id="420819">
+		<path>./No-Intro/Headered/240p Test Suite (World) (v0.22-132) (UNROM) (Program) (Aftermarket) (Unl).nes</path>
+		<name>ZZZ(notgame):240p Test Suite</name>
+		<hidden>true</hidden>
+		<md5>89ea555044c63bb09d54036ad8d84ea8</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231103T051312" />
+	</game>
+	<game id="420819">
+		<path>./No-Intro/Headered/240p Test Suite (World) (v0.23) (BNROM) (Program) (Aftermarket) (Unl).nes</path>
+		<name>ZZZ(notgame):240p Test Suite</name>
+		<hidden>true</hidden>
+		<md5>0af85f9b92959758e15dde1d19afed24</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231103T051314" />
+	</game>
+	<game id="420819">
+		<path>./No-Intro/Headered/240p Test Suite (World) (v0.23) (SGROM) (Program) (Aftermarket) (Unl).nes</path>
+		<name>ZZZ(notgame):240p Test Suite</name>
+		<hidden>true</hidden>
+		<md5>3a5333f4158fab4d9863fed217fe5bce</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231103T051315" />
+	</game>
+	<game id="420819">
+		<path>./No-Intro/Headered/240p Test Suite (World) (v0.23) (TGROM) (Program) (Aftermarket) (Unl).nes</path>
+		<name>ZZZ(notgame):240p Test Suite</name>
+		<hidden>true</hidden>
+		<md5>3d9e102bc65395ed81f831deab05ec70</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231103T051317" />
+	</game>
+	<game id="420819">
+		<path>./No-Intro/Headered/240p Test Suite (World) (v0.23) (UNROM) (Program) (Aftermarket) (Unl).nes</path>
+		<name>ZZZ(notgame):240p Test Suite</name>
+		<hidden>true</hidden>
+		<md5>9bf9fedfc3ac0116ee520933c36e0e2e</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231103T051318" />
+	</game>
+	<game id="420894">
+		<path>./No-Intro/Headered/24K 4-in-1 Baozheng Zhen Ka Quanji (Asia) (En) (Pirate).nes</path>
+		<name>ZZZ(notgame):24K 4-in-1 Baozheng Zhen Ka Quanji</name>
+		<hidden>true</hidden>
+		<md5>d0329cec29b7a74c3fac16275d990d34</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231103T051320" />
+	</game>
+	<game id="420897">
+		<path>./No-Intro/Headered/2600 AD (World) (Demo) (Aftermarket) (Unl).nes</path>
+		<name>2600 AD</name>
+		<md5>c0d419a71e2c70cdf4d047c814388106</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231103T051321" />
+	</game>
+	<game id="420891">
+		<path>./No-Intro/Headered/2A03 Puritans (World) (Aftermarket) (Unl).nes</path>
+		<name>2A03 Puritans</name>
+		<md5>b5519fa2c046787a67523606d5b64f83</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231103T051322" />
+	</game>
+	<game id="18548">
+		<path>./No-Intro/Headered/3-D WorldRunner (USA).nes</path>
+		<name>3-D WorldRunner</name>
+		<desc>Somewhere in a place known as Solar System #517, the evil Grax and his horde of Serpentbeasts are terrorizing the people of the eight worlds. A hero is needed who can run and jump. Jump between worlds, in fact. That hero is the WorldRunner.
+
+3-D WorldRunner is a 3rd person game, behind the player, moving "forwards" towards the screen and away from you. Your only skill is the ability to jump. Jump over holes, enemies and on top of columns. Bonus items are found in the air, on top of columns and laying on the ground. Additionally the game is viewable in 3-D with a pair of 3-D glasses (included in the original box).</desc>
+		<image>./images/3-D WorldRunner (USA)-image.png</image>
+		<video>./videos/3-D WorldRunner (USA)-video.mp4</video>
+		<marquee>./images/3-D WorldRunner (USA)-marquee.png</marquee>
+		<thumbnail>./images/3-D WorldRunner (USA)-thumb.png</thumbnail>
+		<fanart>./images/3-D WorldRunner (USA)-fanart.jpg</fanart>
+		<manual>./manuals/3-D WorldRunner (USA)-manual.pdf</manual>
+		<bezel>./images/3-D WorldRunner (USA)-bezel.png</bezel>
+		<rating>0.6</rating>
+		<releasedate>19870901T000000</releasedate>
+		<developer>Square</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Platform / Run Jump</genre>
+		<players>1</players>
+		<md5>22c70bc73dcb7dfb8c852a5949078150</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231103T051324" />
+	</game>
+	<game id="94352">
+		<path>./No-Intro/Headered/3-in-1 (Asia) (En) (Super 308) (Pirate).nes</path>
+		<name>Super Mario Bros. / Tetris / Nintendo World Cup</name>
+		<desc>This cartridge contains three games:
+
+1. Nintendo World Cup
+2. Super Mario Bros.
+3. Tetris</desc>
+		<image>./images/3-in-1 (Asia) (En) (Super 308) (Pirate)-image.png</image>
+		<video>./videos/3-in-1 (Asia) (En) (Super 308) (Pirate)-video.mp4</video>
+		<marquee>./images/3-in-1 (Asia) (En) (Super 308) (Pirate)-marquee.png</marquee>
+		<thumbnail>./images/3-in-1 (Asia) (En) (Super 308) (Pirate)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Compilation</genre>
+		<family>Super Mario Bros</family>
+		<players>1-6</players>
+		<md5>f0a6479289f9e9c1e6d715e31b75b98c</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231103T051331" />
+	</game>
+	<game id="420888">
+		<path>./No-Intro/Headered/3-in-1 2p Pak (World) (Beta) (2012-03-17) (Aftermarket) (Unl).nes</path>
+		<name>3-in-1 2p Pak</name>
+		<md5>001f2f2a987fc73a6320271a23c64e06</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231103T051332" />
+	</game>
+	<game id="420888">
+		<path>./No-Intro/Headered/3-in-1 2p Pak (World) (Robert L Bryant) (Aftermarket) (Unl).nes</path>
+		<name>3-in-1 2p Pak</name>
+		<md5>aa310f89f1e46277d14c58057aa40b4c</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231103T051334" />
+	</game>
+	<game id="420888">
+		<path>./No-Intro/Headered/3-in-1 2p Pak (World) (Sly Dog Studios) (Aftermarket) (Unl).nes</path>
+		<name>3-in-1 2p Pak</name>
+		<md5>06befaf4d791283333510b4d6b278e65</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231103T051335" />
+	</game>
+	<game id="44472">
+		<path>./No-Intro/Headered/3-in-1 Supergun (Asia) (En) (Unl).nes</path>
+		<name>3 In 1 Supergun</name>
+		<desc>3 in 1 Supergun is a compilation of light gun games, developed by Chengdu Tai Jing Da Dong Computer Co and published by Micro Genius, which was released in Asia and Italy in 1993.
+
+
+
+This multicart contains three games, of which require a zapper to play. Oddly, all 3 games start up with a menu reading "Gun Fighter" on the top and with the option of selecting 3 difficulties.
+
+
+
+At least two versions of this multicart are known to exist, with the other version(s) fixing the spelling of "Clown" on the menu and adding 3 (non-zapper) games; one dumped variant adds F15 City War, Poke Block and Volleyball.</desc>
+		<image>./images/3-in-1 Supergun (Asia) (En) (Unl)-image.png</image>
+		<video>./videos/3-in-1 Supergun (Asia) (En) (Unl)-video.mp4</video>
+		<marquee>./images/3-in-1 Supergun (Asia) (En) (Unl)-marquee.png</marquee>
+		<thumbnail>./images/3-in-1 Supergun (Asia) (En) (Unl)-thumb.png</thumbnail>
+		<rating>0.5</rating>
+		<developer>TXC Corp</developer>
+		<publisher>Micro Genius</publisher>
+		<genre>Compilation</genre>
+		<players>1</players>
+		<md5>dc8f557c3ad3e3a01e61621b2a454427</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231103T051342" />
+	</game>
+	<game id="173091">
+		<path>./No-Intro/Headered/31-in-1 (Asia) (En) (Pirate).nes</path>
+		<name>ZZZ(notgame):260-in-1 Nintendo Super Cartridge</name>
+		<desc>GAME LISTING:
+01. Tetris (BPS)
+02. Tetris (Tengen)
+03. 3D Block (Hwang Shinwei)
+04. Flipull (Taito)
+05. Quarth (Konami)
+06. Puzznic (Taito)
+07. Dr. Mario (Nintendo)
+08. Magic Jewelry II [Columns] (RCM)
+09. Ms. Pac-Man (Tengen)
+10. Pac-Man (Namco)
+11. Pac-Land (Tengen)
+12. Pac-Mania (Tengen)
+13. Legend of Kage (Taito)
+14. Gradius (Konami)
+15. Adventure Island (Hudson Soft)
+16. Adventures of Dino Riki (Hudson Soft)
+17. Arkanoid (Taito)
+18. Paperboy (Mindscape)
+19. Star Soldier (Hudson Soft)
+20. Battle City (Namco)
+21. Mario Bros. (Nintendo)
+22. Super Mario Bros. (Nintendo)
+23. Rally X (Namco)
+24. Excitebike (Nintendo)
+25. Zippy Race (Irem)
+26. Road Fighter (Konami)
+27. City Connection (Jaleco)
+28. F-1 Race (Nintendo)
+29. X-Race (?)
+30. Mag Max (FCI)
+31. Penquin Wars (Konami)
+32. Golf (Nintendo)
+33. Tennis (Nintendo)
+34. Soccer (Nintendo)
+35. Pooyan (Konami)
+36. Balloon Fight (Nintendo)
+37. Pinball (Nintendo)
+38. Baseball (Nintendo)
+39. Lunar Pool (FCI)
+40. 10-Yard Fight (Nintendo)
+41. Formation Z (Jaleco)
+42. Volguard II (Db Soft)
+43. 1942 (Capcom)
+44. B-Wings (Data East)
+45. Xevious (Namco)
+46. Gyrodine (Taito)
+47. Sky Destroyer (Konami)
+48. Raid on Bungling Bay (Broderbund)
+49. Star Force (Tecmo)
+50. Defender (Hal)
+51. Exerion (Jaleco)
+52. Macross (Namco)
+53. Warpman (Namco)
+54. Field Combat (Jaleco)
+55. Galaga (Namco)
+56. Galaxian (Namco)
+57. Twin Bee (Konami)
+58. Space Invaders (Taito)
+59. Front Line (Taito)
+60. Millipede (Hal)
+61. Lode Runner (Broderbund)
+62. Lode Runner II (Broderbund)
+63. Dig-Dug (Namco)
+64. Dig Dug 2 (Namco)
+65. Donkey Kong (Nintendo)
+66. Donkey Kong JR. (Nintendo)
+67. Donkey Kong 3 (Nintendo)
+68. M.U.S.C.L.E. (Bandai)
+69. Tag Team Wrestling (Data East)
+70. Ninja Kun (Jaleco)
+71. Ninja Kun 2 (Jaleco)
+72. King's Knight (Squaresoft)
+73. Urban Champion (Nintendo)
+74. Karateka (Broderbund)
+75. Kung Fu (Nintendo)
+76. Yie Ar Kung Fu (Konami)
+77. Ice Climber (Nintendo)
+78. Super Arabian (Broderbund)
+79. Popeye (Nintendo)
+80. Antarctic Adventure (Konami)
+81. Bomberman (Hudson Soft)
+82. Chack 'n Pop (Taito)
+83. Circus Charlie (Konami)
+84. Burger Time! (Data East)
+85. Nuts &amp; Milk (Hudson Soft)
+86. Door Door (Enix)
+87. Wrecking Crew (Nintendo)
+88. Crush Roller (Hwang Shinwei)
+89. Joust (Hal)
+90. Mappy (Namco)
+91. Binary Land (Hudson Soft)
+92. Clu Clu Land (Nintendo)
+93. Devil World (Nintendo)
+94. Piano Demo
+95. Mario Punch Sprite Demo
+96. Frogger Demo
+97. Wild Ball (Hwang Shinwei) -M Rated-
+98. Nintendo Mahjong (Nintendo)
+99. Mahjong (?)
+100. Shanghai Demo
+101. Nintendo Mahjong II (Nintendo)
+102. Chinese Chess (?)
+103. Memory (?)
+104. Duck Hunt (Nintendo) Light Gun Series
+105. Hogan's Ally (Nintendo) Light Gun Series
+106. Wild Gunman (Nintendo) Light Gun Series
+------------------------------------------
+107-260 = Trained Games (Game Genie-ized)</desc>
+		<image>./images/31-in-1 (Asia) (En) (Pirate)-image.png</image>
+		<hidden>true</hidden>
+		<md5>c9208a642f634fc4c2ae431f3b08b06d</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231103T051345" />
+	</game>
+	<game id="420900">
+		<path>./No-Intro/Headered/32-in-1 (Asia) (En) (Pirate).nes</path>
+		<name>ZZZ(notgame):32-in-1</name>
+		<hidden>true</hidden>
+		<md5>d6591c40325cca82e11711dec11c19c3</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231103T051346" />
+	</game>
+	<game id="44473">
+		<path>./No-Intro/Headered/3D Block (Asia) (En) (Hwang Shinwei) (Unl).nes</path>
+		<name>3d Block</name>
+		<desc>3D Block is a pirated port of Blockout, made for the Famicom by Hwang Shinwei in 1989. There are three versions: a 1989 version credited to Hwang Shinwei and a 1990 version credited to "RCM Group" with a slightly different title screen. A 1991 version exists on some multicarts and credits both. This is an adaptation of Blockout, which in itself is a 3D version of Tetris. This is emphasized with the cartridge itself, having the artwork ripped from the original game. In this version the well is 5x5x10 cubes large and the size never changes, unlike the official versions. The controls are somewhat unorthodox, as unlike most other games, the Select button pauses the game while Start speeds up the block so that it moves to the bottom of the well faster. The block designs themselves are the same as in the arcade version of Blockout.</desc>
+		<image>./images/3D Block (Asia) (En) (Hwang Shinwei) (Unl)-image.png</image>
+		<video>./videos/3D Block (Asia) (En) (Hwang Shinwei) (Unl)-video.mp4</video>
+		<marquee>./images/3D Block (Asia) (En) (Hwang Shinwei) (Unl)-marquee.png</marquee>
+		<thumbnail>./images/3D Block (Asia) (En) (Hwang Shinwei) (Unl)-thumb.png</thumbnail>
+		<fanart>./images/3D Block (Asia) (En) (Hwang Shinwei) (Unl)-fanart.jpg</fanart>
+		<rating>0.45</rating>
+		<developer>Hwang Shinwei</developer>
+		<publisher>RCM</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<md5>59188d0c9a1848d200be515d1addc4c2</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231103T051354" />
+	</game>
+	<game id="44473">
+		<path>./No-Intro/Headered/3D Block (Asia) (En) (RCM Group) (Unl).nes</path>
+		<name>3d Block</name>
+		<desc>3D Block is a pirated port of Blockout, made for the Famicom by Hwang Shinwei in 1989. There are three versions: a 1989 version credited to Hwang Shinwei and a 1990 version credited to "RCM Group" with a slightly different title screen. A 1991 version exists on some multicarts and credits both. This is an adaptation of Blockout, which in itself is a 3D version of Tetris. This is emphasized with the cartridge itself, having the artwork ripped from the original game. In this version the well is 5x5x10 cubes large and the size never changes, unlike the official versions. The controls are somewhat unorthodox, as unlike most other games, the Select button pauses the game while Start speeds up the block so that it moves to the bottom of the well faster. The block designs themselves are the same as in the arcade version of Blockout.</desc>
+		<image>./images/3D Block (Asia) (En) (RCM Group) (Unl)-image.png</image>
+		<video>./videos/3D Block (Asia) (En) (RCM Group) (Unl)-video.mp4</video>
+		<marquee>./images/3D Block (Asia) (En) (RCM Group) (Unl)-marquee.png</marquee>
+		<thumbnail>./images/3D Block (Asia) (En) (RCM Group) (Unl)-thumb.png</thumbnail>
+		<fanart>./images/3D Block (Asia) (En) (RCM Group) (Unl)-fanart.jpg</fanart>
+		<rating>0.45</rating>
+		<developer>Hwang Shinwei</developer>
+		<publisher>RCM</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<md5>551d4dd7b7a8978ba971d67738999fe1</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231103T051402" />
+	</game>
+	<game id="18549">
+		<path>./No-Intro/Headered/4 Nin Uchi Mahjong (Japan) (Rev 1).nes</path>
+		<name>4 Nin Uchi Mahjong</name>
+		<desc>This is a generic and very primitive mahjong game.  It  is Nintendo's second mahjong game made for the Famicom, the first titled simply Mahjong.  This game has smaller tiles than the first one but allows people to play against three computer opponents instead of one.  Both games made with a single 16kbyte PROM and 8kbyte CHROM, thus they don't use any special mapper chips.</desc>
+		<image>./images/4 Nin Uchi Mahjong (Japan) (Rev 1)-image.png</image>
+		<video>./videos/4 Nin Uchi Mahjong (Japan) (Rev 1)-video.mp4</video>
+		<marquee>./images/4 Nin Uchi Mahjong (Japan) (Rev 1)-marquee.png</marquee>
+		<thumbnail>./images/4 Nin Uchi Mahjong (Japan) (Rev 1)-thumb.png</thumbnail>
+		<fanart>./images/4 Nin Uchi Mahjong (Japan) (Rev 1)-fanart.jpg</fanart>
+		<manual>./manuals/4 Nin Uchi Mahjong (Japan) (Rev 1)-manual.pdf</manual>
+		<rating>0.5</rating>
+		<releasedate>19841102T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Strategy / Mahjong</genre>
+		<players>1</players>
+		<md5>6d106b111eb177010329f7778468f79d</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T051411" />
+	</game>
+	<game id="18549">
+		<path>./No-Intro/Headered/4 Nin Uchi Mahjong (Japan).nes</path>
+		<name>4 Nin Uchi Mahjong</name>
+		<desc>This is a generic and very primitive mahjong game.  It  is Nintendo's second mahjong game made for the Famicom, the first titled simply Mahjong.  This game has smaller tiles than the first one but allows people to play against three computer opponents instead of one.  Both games made with a single 16kbyte PROM and 8kbyte CHROM, thus they don't use any special mapper chips.</desc>
+		<image>./images/4 Nin Uchi Mahjong (Japan)-image.png</image>
+		<video>./videos/4 Nin Uchi Mahjong (Japan)-video.mp4</video>
+		<marquee>./images/4 Nin Uchi Mahjong (Japan)-marquee.png</marquee>
+		<thumbnail>./images/4 Nin Uchi Mahjong (Japan)-thumb.png</thumbnail>
+		<fanart>./images/4 Nin Uchi Mahjong (Japan)-fanart.jpg</fanart>
+		<manual>./manuals/4 Nin Uchi Mahjong (Japan)-manual.pdf</manual>
+		<rating>0.5</rating>
+		<releasedate>19841102T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Strategy / Mahjong</genre>
+		<players>1</players>
+		<md5>44f219c48d7b62798d814efacf164865</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T051420" />
+	</game>
+	<game id="173091">
+		<path>./No-Intro/Headered/4-in-1 (Asia) (En) (AP009) (Pirate).nes</path>
+		<name>ZZZ(notgame):260-in-1 Nintendo Super Cartridge</name>
+		<desc>GAME LISTING:
+01. Tetris (BPS)
+02. Tetris (Tengen)
+03. 3D Block (Hwang Shinwei)
+04. Flipull (Taito)
+05. Quarth (Konami)
+06. Puzznic (Taito)
+07. Dr. Mario (Nintendo)
+08. Magic Jewelry II [Columns] (RCM)
+09. Ms. Pac-Man (Tengen)
+10. Pac-Man (Namco)
+11. Pac-Land (Tengen)
+12. Pac-Mania (Tengen)
+13. Legend of Kage (Taito)
+14. Gradius (Konami)
+15. Adventure Island (Hudson Soft)
+16. Adventures of Dino Riki (Hudson Soft)
+17. Arkanoid (Taito)
+18. Paperboy (Mindscape)
+19. Star Soldier (Hudson Soft)
+20. Battle City (Namco)
+21. Mario Bros. (Nintendo)
+22. Super Mario Bros. (Nintendo)
+23. Rally X (Namco)
+24. Excitebike (Nintendo)
+25. Zippy Race (Irem)
+26. Road Fighter (Konami)
+27. City Connection (Jaleco)
+28. F-1 Race (Nintendo)
+29. X-Race (?)
+30. Mag Max (FCI)
+31. Penquin Wars (Konami)
+32. Golf (Nintendo)
+33. Tennis (Nintendo)
+34. Soccer (Nintendo)
+35. Pooyan (Konami)
+36. Balloon Fight (Nintendo)
+37. Pinball (Nintendo)
+38. Baseball (Nintendo)
+39. Lunar Pool (FCI)
+40. 10-Yard Fight (Nintendo)
+41. Formation Z (Jaleco)
+42. Volguard II (Db Soft)
+43. 1942 (Capcom)
+44. B-Wings (Data East)
+45. Xevious (Namco)
+46. Gyrodine (Taito)
+47. Sky Destroyer (Konami)
+48. Raid on Bungling Bay (Broderbund)
+49. Star Force (Tecmo)
+50. Defender (Hal)
+51. Exerion (Jaleco)
+52. Macross (Namco)
+53. Warpman (Namco)
+54. Field Combat (Jaleco)
+55. Galaga (Namco)
+56. Galaxian (Namco)
+57. Twin Bee (Konami)
+58. Space Invaders (Taito)
+59. Front Line (Taito)
+60. Millipede (Hal)
+61. Lode Runner (Broderbund)
+62. Lode Runner II (Broderbund)
+63. Dig-Dug (Namco)
+64. Dig Dug 2 (Namco)
+65. Donkey Kong (Nintendo)
+66. Donkey Kong JR. (Nintendo)
+67. Donkey Kong 3 (Nintendo)
+68. M.U.S.C.L.E. (Bandai)
+69. Tag Team Wrestling (Data East)
+70. Ninja Kun (Jaleco)
+71. Ninja Kun 2 (Jaleco)
+72. King's Knight (Squaresoft)
+73. Urban Champion (Nintendo)
+74. Karateka (Broderbund)
+75. Kung Fu (Nintendo)
+76. Yie Ar Kung Fu (Konami)
+77. Ice Climber (Nintendo)
+78. Super Arabian (Broderbund)
+79. Popeye (Nintendo)
+80. Antarctic Adventure (Konami)
+81. Bomberman (Hudson Soft)
+82. Chack 'n Pop (Taito)
+83. Circus Charlie (Konami)
+84. Burger Time! (Data East)
+85. Nuts &amp; Milk (Hudson Soft)
+86. Door Door (Enix)
+87. Wrecking Crew (Nintendo)
+88. Crush Roller (Hwang Shinwei)
+89. Joust (Hal)
+90. Mappy (Namco)
+91. Binary Land (Hudson Soft)
+92. Clu Clu Land (Nintendo)
+93. Devil World (Nintendo)
+94. Piano Demo
+95. Mario Punch Sprite Demo
+96. Frogger Demo
+97. Wild Ball (Hwang Shinwei) -M Rated-
+98. Nintendo Mahjong (Nintendo)
+99. Mahjong (?)
+100. Shanghai Demo
+101. Nintendo Mahjong II (Nintendo)
+102. Chinese Chess (?)
+103. Memory (?)
+104. Duck Hunt (Nintendo) Light Gun Series
+105. Hogan's Ally (Nintendo) Light Gun Series
+106. Wild Gunman (Nintendo) Light Gun Series
+------------------------------------------
+107-260 = Trained Games (Game Genie-ized)</desc>
+		<image>./images/4-in-1 (Asia) (En) (AP009) (Pirate)-image.png</image>
+		<hidden>true</hidden>
+		<md5>fecff7e4ae8d42f562b15c95d1306ef4</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231103T051423" />
+	</game>
+	<game id="173091">
+		<path>./No-Intro/Headered/4-in-1 (CK-001) (Asia) (En) (Pirate).nes</path>
+		<name>ZZZ(notgame):260-in-1 Nintendo Super Cartridge</name>
+		<desc>GAME LISTING:
+01. Tetris (BPS)
+02. Tetris (Tengen)
+03. 3D Block (Hwang Shinwei)
+04. Flipull (Taito)
+05. Quarth (Konami)
+06. Puzznic (Taito)
+07. Dr. Mario (Nintendo)
+08. Magic Jewelry II [Columns] (RCM)
+09. Ms. Pac-Man (Tengen)
+10. Pac-Man (Namco)
+11. Pac-Land (Tengen)
+12. Pac-Mania (Tengen)
+13. Legend of Kage (Taito)
+14. Gradius (Konami)
+15. Adventure Island (Hudson Soft)
+16. Adventures of Dino Riki (Hudson Soft)
+17. Arkanoid (Taito)
+18. Paperboy (Mindscape)
+19. Star Soldier (Hudson Soft)
+20. Battle City (Namco)
+21. Mario Bros. (Nintendo)
+22. Super Mario Bros. (Nintendo)
+23. Rally X (Namco)
+24. Excitebike (Nintendo)
+25. Zippy Race (Irem)
+26. Road Fighter (Konami)
+27. City Connection (Jaleco)
+28. F-1 Race (Nintendo)
+29. X-Race (?)
+30. Mag Max (FCI)
+31. Penquin Wars (Konami)
+32. Golf (Nintendo)
+33. Tennis (Nintendo)
+34. Soccer (Nintendo)
+35. Pooyan (Konami)
+36. Balloon Fight (Nintendo)
+37. Pinball (Nintendo)
+38. Baseball (Nintendo)
+39. Lunar Pool (FCI)
+40. 10-Yard Fight (Nintendo)
+41. Formation Z (Jaleco)
+42. Volguard II (Db Soft)
+43. 1942 (Capcom)
+44. B-Wings (Data East)
+45. Xevious (Namco)
+46. Gyrodine (Taito)
+47. Sky Destroyer (Konami)
+48. Raid on Bungling Bay (Broderbund)
+49. Star Force (Tecmo)
+50. Defender (Hal)
+51. Exerion (Jaleco)
+52. Macross (Namco)
+53. Warpman (Namco)
+54. Field Combat (Jaleco)
+55. Galaga (Namco)
+56. Galaxian (Namco)
+57. Twin Bee (Konami)
+58. Space Invaders (Taito)
+59. Front Line (Taito)
+60. Millipede (Hal)
+61. Lode Runner (Broderbund)
+62. Lode Runner II (Broderbund)
+63. Dig-Dug (Namco)
+64. Dig Dug 2 (Namco)
+65. Donkey Kong (Nintendo)
+66. Donkey Kong JR. (Nintendo)
+67. Donkey Kong 3 (Nintendo)
+68. M.U.S.C.L.E. (Bandai)
+69. Tag Team Wrestling (Data East)
+70. Ninja Kun (Jaleco)
+71. Ninja Kun 2 (Jaleco)
+72. King's Knight (Squaresoft)
+73. Urban Champion (Nintendo)
+74. Karateka (Broderbund)
+75. Kung Fu (Nintendo)
+76. Yie Ar Kung Fu (Konami)
+77. Ice Climber (Nintendo)
+78. Super Arabian (Broderbund)
+79. Popeye (Nintendo)
+80. Antarctic Adventure (Konami)
+81. Bomberman (Hudson Soft)
+82. Chack 'n Pop (Taito)
+83. Circus Charlie (Konami)
+84. Burger Time! (Data East)
+85. Nuts &amp; Milk (Hudson Soft)
+86. Door Door (Enix)
+87. Wrecking Crew (Nintendo)
+88. Crush Roller (Hwang Shinwei)
+89. Joust (Hal)
+90. Mappy (Namco)
+91. Binary Land (Hudson Soft)
+92. Clu Clu Land (Nintendo)
+93. Devil World (Nintendo)
+94. Piano Demo
+95. Mario Punch Sprite Demo
+96. Frogger Demo
+97. Wild Ball (Hwang Shinwei) -M Rated-
+98. Nintendo Mahjong (Nintendo)
+99. Mahjong (?)
+100. Shanghai Demo
+101. Nintendo Mahjong II (Nintendo)
+102. Chinese Chess (?)
+103. Memory (?)
+104. Duck Hunt (Nintendo) Light Gun Series
+105. Hogan's Ally (Nintendo) Light Gun Series
+106. Wild Gunman (Nintendo) Light Gun Series
+------------------------------------------
+107-260 = Trained Games (Game Genie-ized)</desc>
+		<image>./images/4-in-1 (CK-001) (Asia) (En) (Pirate)-image.png</image>
+		<hidden>true</hidden>
+		<md5>73af2975661c3591fef48041d0f0d0e1</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231103T051426" />
+	</game>
+	<game id="173091">
+		<path>./No-Intro/Headered/4-in-1 (SN 406) (Asia) (En) (Pirate).nes</path>
+		<name>ZZZ(notgame):260-in-1 Nintendo Super Cartridge</name>
+		<desc>GAME LISTING:
+01. Tetris (BPS)
+02. Tetris (Tengen)
+03. 3D Block (Hwang Shinwei)
+04. Flipull (Taito)
+05. Quarth (Konami)
+06. Puzznic (Taito)
+07. Dr. Mario (Nintendo)
+08. Magic Jewelry II [Columns] (RCM)
+09. Ms. Pac-Man (Tengen)
+10. Pac-Man (Namco)
+11. Pac-Land (Tengen)
+12. Pac-Mania (Tengen)
+13. Legend of Kage (Taito)
+14. Gradius (Konami)
+15. Adventure Island (Hudson Soft)
+16. Adventures of Dino Riki (Hudson Soft)
+17. Arkanoid (Taito)
+18. Paperboy (Mindscape)
+19. Star Soldier (Hudson Soft)
+20. Battle City (Namco)
+21. Mario Bros. (Nintendo)
+22. Super Mario Bros. (Nintendo)
+23. Rally X (Namco)
+24. Excitebike (Nintendo)
+25. Zippy Race (Irem)
+26. Road Fighter (Konami)
+27. City Connection (Jaleco)
+28. F-1 Race (Nintendo)
+29. X-Race (?)
+30. Mag Max (FCI)
+31. Penquin Wars (Konami)
+32. Golf (Nintendo)
+33. Tennis (Nintendo)
+34. Soccer (Nintendo)
+35. Pooyan (Konami)
+36. Balloon Fight (Nintendo)
+37. Pinball (Nintendo)
+38. Baseball (Nintendo)
+39. Lunar Pool (FCI)
+40. 10-Yard Fight (Nintendo)
+41. Formation Z (Jaleco)
+42. Volguard II (Db Soft)
+43. 1942 (Capcom)
+44. B-Wings (Data East)
+45. Xevious (Namco)
+46. Gyrodine (Taito)
+47. Sky Destroyer (Konami)
+48. Raid on Bungling Bay (Broderbund)
+49. Star Force (Tecmo)
+50. Defender (Hal)
+51. Exerion (Jaleco)
+52. Macross (Namco)
+53. Warpman (Namco)
+54. Field Combat (Jaleco)
+55. Galaga (Namco)
+56. Galaxian (Namco)
+57. Twin Bee (Konami)
+58. Space Invaders (Taito)
+59. Front Line (Taito)
+60. Millipede (Hal)
+61. Lode Runner (Broderbund)
+62. Lode Runner II (Broderbund)
+63. Dig-Dug (Namco)
+64. Dig Dug 2 (Namco)
+65. Donkey Kong (Nintendo)
+66. Donkey Kong JR. (Nintendo)
+67. Donkey Kong 3 (Nintendo)
+68. M.U.S.C.L.E. (Bandai)
+69. Tag Team Wrestling (Data East)
+70. Ninja Kun (Jaleco)
+71. Ninja Kun 2 (Jaleco)
+72. King's Knight (Squaresoft)
+73. Urban Champion (Nintendo)
+74. Karateka (Broderbund)
+75. Kung Fu (Nintendo)
+76. Yie Ar Kung Fu (Konami)
+77. Ice Climber (Nintendo)
+78. Super Arabian (Broderbund)
+79. Popeye (Nintendo)
+80. Antarctic Adventure (Konami)
+81. Bomberman (Hudson Soft)
+82. Chack 'n Pop (Taito)
+83. Circus Charlie (Konami)
+84. Burger Time! (Data East)
+85. Nuts &amp; Milk (Hudson Soft)
+86. Door Door (Enix)
+87. Wrecking Crew (Nintendo)
+88. Crush Roller (Hwang Shinwei)
+89. Joust (Hal)
+90. Mappy (Namco)
+91. Binary Land (Hudson Soft)
+92. Clu Clu Land (Nintendo)
+93. Devil World (Nintendo)
+94. Piano Demo
+95. Mario Punch Sprite Demo
+96. Frogger Demo
+97. Wild Ball (Hwang Shinwei) -M Rated-
+98. Nintendo Mahjong (Nintendo)
+99. Mahjong (?)
+100. Shanghai Demo
+101. Nintendo Mahjong II (Nintendo)
+102. Chinese Chess (?)
+103. Memory (?)
+104. Duck Hunt (Nintendo) Light Gun Series
+105. Hogan's Ally (Nintendo) Light Gun Series
+106. Wild Gunman (Nintendo) Light Gun Series
+------------------------------------------
+107-260 = Trained Games (Game Genie-ized)</desc>
+		<image>./images/4-in-1 (SN 406) (Asia) (En) (Pirate)-image.png</image>
+		<hidden>true</hidden>
+		<md5>7360719a2fc1d38470c6ee3f81fa438f</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231103T051429" />
+	</game>
+	<game>
+		<path>./No-Intro/Headered/4-in-1 - BattleCity - Pac-Man - Galaga - Ice Climber (Asia) (En) (Pirate).nes</path>
+		<name>4-in-1 - BattleCity - Pac-Man - Galaga - Ice Climber (Asia) (En) (Pirate)</name>
+		<md5>cc7400f7f4153b0448d5403cfa5124b4</md5>
+		<scrap name="ScreenScraper" date="20231103T051430" />
+	</game>
+	<game>
+		<path>./No-Intro/Headered/42 Games (China) (En) (Tsang Hai) (Pirate).nes</path>
+		<name>42 Games (China) (En) (Tsang Hai) (Pirate)</name>
+		<md5>c31b23bbbabe2632fea89ebfd737891f</md5>
+		<scrap name="ScreenScraper" date="20231103T051432" />
+	</game>
+	<game>
+		<path>./No-Intro/Headered/45-in-1 (Asia) (En) (JY-120A) (Pirate).nes</path>
+		<name>45-in-1 (Asia) (En) (JY-120A) (Pirate)</name>
+		<md5>54c69393a22b61baf72f166a35f04478</md5>
+		<scrap name="ScreenScraper" date="20231103T051433" />
+	</game>
+	<game>
+		<path>./No-Intro/Headered/5-in-1 (1993) (Asia) (En) (Unl).nes</path>
+		<name>5-in-1 (1993) (Asia) (En) (Unl)</name>
+		<md5>36a6c57d4ccb17251cd7a186e323e48a</md5>
+		<scrap name="ScreenScraper" date="20231103T051434" />
+	</game>
+	<game>
+		<path>./No-Intro/Headered/5-STAR Restaurant (World) (Aftermarket) (Unl).nes</path>
+		<name>5-STAR Restaurant (World) (Aftermarket) (Unl)</name>
+		<md5>0e044a7f991fb38dcc41d3846896a480</md5>
+		<scrap name="ScreenScraper" date="20231103T051436" />
+	</game>
+	<game>
+		<path>./No-Intro/Headered/500-in-1 - Unchained Melody (Asia) (En) (Pirate).nes</path>
+		<name>500-in-1 - Unchained Melody (Asia) (En) (Pirate)</name>
+		<md5>de132ec7ce00d1a1602ae1b05043a14d</md5>
+		<scrap name="ScreenScraper" date="20231103T051437" />
+	</game>
+	<game>
+		<path>./No-Intro/Headered/52-in-1 (Asia) (En) (Pirate).nes</path>
+		<name>52-in-1 (Asia) (En) (Pirate)</name>
+		<md5>1d71bf5f0b7eaa48ee127eb4d7e3b7a3</md5>
+		<scrap name="ScreenScraper" date="20231103T051438" />
+	</game>
+	<game>
+		<path>./No-Intro/Headered/52-in-1 (VT302) (Asia) (En) (Pirate).nes</path>
+		<name>52-in-1 (VT302) (Asia) (En) (Pirate)</name>
+		<md5>263ebc4d3335856678777d97095b5da6</md5>
+		<scrap name="ScreenScraper" date="20231103T051440" />
+	</game>
+	<game id="173091">
+		<path>./No-Intro/Headered/58-in-1 (Asia) (En,Zh) (FL-58) (Pirate).nes</path>
+		<name>ZZZ(notgame):260-in-1 Nintendo Super Cartridge</name>
+		<desc>GAME LISTING:
+01. Tetris (BPS)
+02. Tetris (Tengen)
+03. 3D Block (Hwang Shinwei)
+04. Flipull (Taito)
+05. Quarth (Konami)
+06. Puzznic (Taito)
+07. Dr. Mario (Nintendo)
+08. Magic Jewelry II [Columns] (RCM)
+09. Ms. Pac-Man (Tengen)
+10. Pac-Man (Namco)
+11. Pac-Land (Tengen)
+12. Pac-Mania (Tengen)
+13. Legend of Kage (Taito)
+14. Gradius (Konami)
+15. Adventure Island (Hudson Soft)
+16. Adventures of Dino Riki (Hudson Soft)
+17. Arkanoid (Taito)
+18. Paperboy (Mindscape)
+19. Star Soldier (Hudson Soft)
+20. Battle City (Namco)
+21. Mario Bros. (Nintendo)
+22. Super Mario Bros. (Nintendo)
+23. Rally X (Namco)
+24. Excitebike (Nintendo)
+25. Zippy Race (Irem)
+26. Road Fighter (Konami)
+27. City Connection (Jaleco)
+28. F-1 Race (Nintendo)
+29. X-Race (?)
+30. Mag Max (FCI)
+31. Penquin Wars (Konami)
+32. Golf (Nintendo)
+33. Tennis (Nintendo)
+34. Soccer (Nintendo)
+35. Pooyan (Konami)
+36. Balloon Fight (Nintendo)
+37. Pinball (Nintendo)
+38. Baseball (Nintendo)
+39. Lunar Pool (FCI)
+40. 10-Yard Fight (Nintendo)
+41. Formation Z (Jaleco)
+42. Volguard II (Db Soft)
+43. 1942 (Capcom)
+44. B-Wings (Data East)
+45. Xevious (Namco)
+46. Gyrodine (Taito)
+47. Sky Destroyer (Konami)
+48. Raid on Bungling Bay (Broderbund)
+49. Star Force (Tecmo)
+50. Defender (Hal)
+51. Exerion (Jaleco)
+52. Macross (Namco)
+53. Warpman (Namco)
+54. Field Combat (Jaleco)
+55. Galaga (Namco)
+56. Galaxian (Namco)
+57. Twin Bee (Konami)
+58. Space Invaders (Taito)
+59. Front Line (Taito)
+60. Millipede (Hal)
+61. Lode Runner (Broderbund)
+62. Lode Runner II (Broderbund)
+63. Dig-Dug (Namco)
+64. Dig Dug 2 (Namco)
+65. Donkey Kong (Nintendo)
+66. Donkey Kong JR. (Nintendo)
+67. Donkey Kong 3 (Nintendo)
+68. M.U.S.C.L.E. (Bandai)
+69. Tag Team Wrestling (Data East)
+70. Ninja Kun (Jaleco)
+71. Ninja Kun 2 (Jaleco)
+72. King's Knight (Squaresoft)
+73. Urban Champion (Nintendo)
+74. Karateka (Broderbund)
+75. Kung Fu (Nintendo)
+76. Yie Ar Kung Fu (Konami)
+77. Ice Climber (Nintendo)
+78. Super Arabian (Broderbund)
+79. Popeye (Nintendo)
+80. Antarctic Adventure (Konami)
+81. Bomberman (Hudson Soft)
+82. Chack 'n Pop (Taito)
+83. Circus Charlie (Konami)
+84. Burger Time! (Data East)
+85. Nuts &amp; Milk (Hudson Soft)
+86. Door Door (Enix)
+87. Wrecking Crew (Nintendo)
+88. Crush Roller (Hwang Shinwei)
+89. Joust (Hal)
+90. Mappy (Namco)
+91. Binary Land (Hudson Soft)
+92. Clu Clu Land (Nintendo)
+93. Devil World (Nintendo)
+94. Piano Demo
+95. Mario Punch Sprite Demo
+96. Frogger Demo
+97. Wild Ball (Hwang Shinwei) -M Rated-
+98. Nintendo Mahjong (Nintendo)
+99. Mahjong (?)
+100. Shanghai Demo
+101. Nintendo Mahjong II (Nintendo)
+102. Chinese Chess (?)
+103. Memory (?)
+104. Duck Hunt (Nintendo) Light Gun Series
+105. Hogan's Ally (Nintendo) Light Gun Series
+106. Wild Gunman (Nintendo) Light Gun Series
+------------------------------------------
+107-260 = Trained Games (Game Genie-ized)</desc>
+		<image>./images/58-in-1 (Asia) (En,Zh) (FL-58) (Pirate)-image.png</image>
+		<hidden>true</hidden>
+		<md5>b57b2e343572d99783f711586008f5e5</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231103T051442" />
+	</game>
+	<game id="173091">
+		<path>./No-Intro/Headered/64-in-1 (Asia) (En) (Pirate).nes</path>
+		<name>ZZZ(notgame):260-in-1 Nintendo Super Cartridge</name>
+		<desc>GAME LISTING:
+01. Tetris (BPS)
+02. Tetris (Tengen)
+03. 3D Block (Hwang Shinwei)
+04. Flipull (Taito)
+05. Quarth (Konami)
+06. Puzznic (Taito)
+07. Dr. Mario (Nintendo)
+08. Magic Jewelry II [Columns] (RCM)
+09. Ms. Pac-Man (Tengen)
+10. Pac-Man (Namco)
+11. Pac-Land (Tengen)
+12. Pac-Mania (Tengen)
+13. Legend of Kage (Taito)
+14. Gradius (Konami)
+15. Adventure Island (Hudson Soft)
+16. Adventures of Dino Riki (Hudson Soft)
+17. Arkanoid (Taito)
+18. Paperboy (Mindscape)
+19. Star Soldier (Hudson Soft)
+20. Battle City (Namco)
+21. Mario Bros. (Nintendo)
+22. Super Mario Bros. (Nintendo)
+23. Rally X (Namco)
+24. Excitebike (Nintendo)
+25. Zippy Race (Irem)
+26. Road Fighter (Konami)
+27. City Connection (Jaleco)
+28. F-1 Race (Nintendo)
+29. X-Race (?)
+30. Mag Max (FCI)
+31. Penquin Wars (Konami)
+32. Golf (Nintendo)
+33. Tennis (Nintendo)
+34. Soccer (Nintendo)
+35. Pooyan (Konami)
+36. Balloon Fight (Nintendo)
+37. Pinball (Nintendo)
+38. Baseball (Nintendo)
+39. Lunar Pool (FCI)
+40. 10-Yard Fight (Nintendo)
+41. Formation Z (Jaleco)
+42. Volguard II (Db Soft)
+43. 1942 (Capcom)
+44. B-Wings (Data East)
+45. Xevious (Namco)
+46. Gyrodine (Taito)
+47. Sky Destroyer (Konami)
+48. Raid on Bungling Bay (Broderbund)
+49. Star Force (Tecmo)
+50. Defender (Hal)
+51. Exerion (Jaleco)
+52. Macross (Namco)
+53. Warpman (Namco)
+54. Field Combat (Jaleco)
+55. Galaga (Namco)
+56. Galaxian (Namco)
+57. Twin Bee (Konami)
+58. Space Invaders (Taito)
+59. Front Line (Taito)
+60. Millipede (Hal)
+61. Lode Runner (Broderbund)
+62. Lode Runner II (Broderbund)
+63. Dig-Dug (Namco)
+64. Dig Dug 2 (Namco)
+65. Donkey Kong (Nintendo)
+66. Donkey Kong JR. (Nintendo)
+67. Donkey Kong 3 (Nintendo)
+68. M.U.S.C.L.E. (Bandai)
+69. Tag Team Wrestling (Data East)
+70. Ninja Kun (Jaleco)
+71. Ninja Kun 2 (Jaleco)
+72. King's Knight (Squaresoft)
+73. Urban Champion (Nintendo)
+74. Karateka (Broderbund)
+75. Kung Fu (Nintendo)
+76. Yie Ar Kung Fu (Konami)
+77. Ice Climber (Nintendo)
+78. Super Arabian (Broderbund)
+79. Popeye (Nintendo)
+80. Antarctic Adventure (Konami)
+81. Bomberman (Hudson Soft)
+82. Chack 'n Pop (Taito)
+83. Circus Charlie (Konami)
+84. Burger Time! (Data East)
+85. Nuts &amp; Milk (Hudson Soft)
+86. Door Door (Enix)
+87. Wrecking Crew (Nintendo)
+88. Crush Roller (Hwang Shinwei)
+89. Joust (Hal)
+90. Mappy (Namco)
+91. Binary Land (Hudson Soft)
+92. Clu Clu Land (Nintendo)
+93. Devil World (Nintendo)
+94. Piano Demo
+95. Mario Punch Sprite Demo
+96. Frogger Demo
+97. Wild Ball (Hwang Shinwei) -M Rated-
+98. Nintendo Mahjong (Nintendo)
+99. Mahjong (?)
+100. Shanghai Demo
+101. Nintendo Mahjong II (Nintendo)
+102. Chinese Chess (?)
+103. Memory (?)
+104. Duck Hunt (Nintendo) Light Gun Series
+105. Hogan's Ally (Nintendo) Light Gun Series
+106. Wild Gunman (Nintendo) Light Gun Series
+------------------------------------------
+107-260 = Trained Games (Game Genie-ized)</desc>
+		<image>./images/64-in-1 (Asia) (En) (Pirate)-image.png</image>
+		<hidden>true</hidden>
+		<md5>12f251143a28b916bd9d28e289ea9e89</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231103T051445" />
+	</game>
+	<game id="173091">
+		<path>./No-Intro/Headered/68-in-1 (Asia) (En) (WQ2006 D) (Pirate).nes</path>
+		<name>ZZZ(notgame):260-in-1 Nintendo Super Cartridge</name>
+		<desc>GAME LISTING:
+01. Tetris (BPS)
+02. Tetris (Tengen)
+03. 3D Block (Hwang Shinwei)
+04. Flipull (Taito)
+05. Quarth (Konami)
+06. Puzznic (Taito)
+07. Dr. Mario (Nintendo)
+08. Magic Jewelry II [Columns] (RCM)
+09. Ms. Pac-Man (Tengen)
+10. Pac-Man (Namco)
+11. Pac-Land (Tengen)
+12. Pac-Mania (Tengen)
+13. Legend of Kage (Taito)
+14. Gradius (Konami)
+15. Adventure Island (Hudson Soft)
+16. Adventures of Dino Riki (Hudson Soft)
+17. Arkanoid (Taito)
+18. Paperboy (Mindscape)
+19. Star Soldier (Hudson Soft)
+20. Battle City (Namco)
+21. Mario Bros. (Nintendo)
+22. Super Mario Bros. (Nintendo)
+23. Rally X (Namco)
+24. Excitebike (Nintendo)
+25. Zippy Race (Irem)
+26. Road Fighter (Konami)
+27. City Connection (Jaleco)
+28. F-1 Race (Nintendo)
+29. X-Race (?)
+30. Mag Max (FCI)
+31. Penquin Wars (Konami)
+32. Golf (Nintendo)
+33. Tennis (Nintendo)
+34. Soccer (Nintendo)
+35. Pooyan (Konami)
+36. Balloon Fight (Nintendo)
+37. Pinball (Nintendo)
+38. Baseball (Nintendo)
+39. Lunar Pool (FCI)
+40. 10-Yard Fight (Nintendo)
+41. Formation Z (Jaleco)
+42. Volguard II (Db Soft)
+43. 1942 (Capcom)
+44. B-Wings (Data East)
+45. Xevious (Namco)
+46. Gyrodine (Taito)
+47. Sky Destroyer (Konami)
+48. Raid on Bungling Bay (Broderbund)
+49. Star Force (Tecmo)
+50. Defender (Hal)
+51. Exerion (Jaleco)
+52. Macross (Namco)
+53. Warpman (Namco)
+54. Field Combat (Jaleco)
+55. Galaga (Namco)
+56. Galaxian (Namco)
+57. Twin Bee (Konami)
+58. Space Invaders (Taito)
+59. Front Line (Taito)
+60. Millipede (Hal)
+61. Lode Runner (Broderbund)
+62. Lode Runner II (Broderbund)
+63. Dig-Dug (Namco)
+64. Dig Dug 2 (Namco)
+65. Donkey Kong (Nintendo)
+66. Donkey Kong JR. (Nintendo)
+67. Donkey Kong 3 (Nintendo)
+68. M.U.S.C.L.E. (Bandai)
+69. Tag Team Wrestling (Data East)
+70. Ninja Kun (Jaleco)
+71. Ninja Kun 2 (Jaleco)
+72. King's Knight (Squaresoft)
+73. Urban Champion (Nintendo)
+74. Karateka (Broderbund)
+75. Kung Fu (Nintendo)
+76. Yie Ar Kung Fu (Konami)
+77. Ice Climber (Nintendo)
+78. Super Arabian (Broderbund)
+79. Popeye (Nintendo)
+80. Antarctic Adventure (Konami)
+81. Bomberman (Hudson Soft)
+82. Chack 'n Pop (Taito)
+83. Circus Charlie (Konami)
+84. Burger Time! (Data East)
+85. Nuts &amp; Milk (Hudson Soft)
+86. Door Door (Enix)
+87. Wrecking Crew (Nintendo)
+88. Crush Roller (Hwang Shinwei)
+89. Joust (Hal)
+90. Mappy (Namco)
+91. Binary Land (Hudson Soft)
+92. Clu Clu Land (Nintendo)
+93. Devil World (Nintendo)
+94. Piano Demo
+95. Mario Punch Sprite Demo
+96. Frogger Demo
+97. Wild Ball (Hwang Shinwei) -M Rated-
+98. Nintendo Mahjong (Nintendo)
+99. Mahjong (?)
+100. Shanghai Demo
+101. Nintendo Mahjong II (Nintendo)
+102. Chinese Chess (?)
+103. Memory (?)
+104. Duck Hunt (Nintendo) Light Gun Series
+105. Hogan's Ally (Nintendo) Light Gun Series
+106. Wild Gunman (Nintendo) Light Gun Series
+------------------------------------------
+107-260 = Trained Games (Game Genie-ized)</desc>
+		<image>./images/68-in-1 (Asia) (En) (WQ2006 D) (Pirate)-image.png</image>
+		<hidden>true</hidden>
+		<md5>34c1648fccc1559af0527085d7581d38</md5>
+		<lang>de,en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T051448" />
+	</game>
+	<game id="1726">
+		<path>./No-Intro/Headered/720 Degrees (USA).nes</path>
+		<name>720 Degrees</name>
+		<desc>You're a skateboarder in Skate City, one of the largest skateparks ever built. Ollie off of ramps, grind on rails, and swerve past pedestrians as you bust out tricks. Visit skate shops scattered around the park to upgrade your gear and improve your skills. Participate in competitions to earn medals and cash to use in the shops. But, if you don't get to a competition in time, the infamous "Skate Or Die" message appears, and then you have to hurry!</desc>
+		<image>./images/720 Degrees (USA)-image.png</image>
+		<video>./videos/720 Degrees (USA)-video.mp4</video>
+		<marquee>./images/720 Degrees (USA)-marquee.png</marquee>
+		<thumbnail>./images/720 Degrees (USA)-thumb.png</thumbnail>
+		<fanart>./images/720 Degrees (USA)-fanart.jpg</fanart>
+		<manual>./manuals/720 Degrees (USA)-manual.pdf</manual>
+		<bezel>./images/720 Degrees (USA)-bezel.png</bezel>
+		<rating>0.55</rating>
+		<releasedate>19891101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Mindscape</publisher>
+		<genre>Sports / Skateboard</genre>
+		<players>1</players>
+		<md5>7a3d0a025c2d73a42ceed45ad9e95df4</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231103T051449" />
+	</game>
+	<game>
+		<path>./No-Intro/Headered/777 Lucky Bingo (Asia) (En) (Unl).nes</path>
+		<name>777 Lucky Bingo (Asia) (En) (Unl)</name>
+		<md5>20151bfc2c50e84e566aca7bdf8a1da3</md5>
+		<scrap name="ScreenScraper" date="20231103T051450" />
+	</game>
+	<game>
+		<path>./No-Intro/Headered/777 Xingyun Lunpan (Asia) (Unl).nes</path>
+		<name>777 Xingyun Lunpan (Asia) (Unl)</name>
+		<md5>632e54a5239d93f87e8f14656a6dfeb7</md5>
+		<scrap name="ScreenScraper" date="20231103T051451" />
+	</game>
+	<game id="1556">
+		<path>./No-Intro/Headered/8 Eyes (Japan).nes</path>
+		<name>8 Eye's</name>
+		<desc>8 Eyes chronicles the adventures of Orin, the falconer, who must visit 8 different houses in 8 different lands and defeat 8 different guardians in order to collect 8 different jewels called eyes. It is a side-scrolling action/adventure game where the lead character can attack with a sword of somewhat limited reach. However, that is not the most powerful tool at his disposal - Orin also has his trusty falcon that he can send around the room to attack enemies or trigger remote switches. In single-player mode, the player controls both the falconer and the falcon. However, the game also offers a cooperative mode where the first player controls Orin and the second player controls his falcon in a mode which offers greater flight capability.</desc>
+		<image>./images/8 Eyes (Japan)-image.png</image>
+		<video>./videos/8 Eyes (Japan)-video.mp4</video>
+		<marquee>./images/8 Eyes (Japan)-marquee.png</marquee>
+		<thumbnail>./images/8 Eyes (Japan)-thumb.png</thumbnail>
+		<fanart>./images/8 Eyes (Japan)-fanart.jpg</fanart>
+		<manual>./manuals/8 Eyes (Japan)-manual.pdf</manual>
+		<bezel>./images/8 Eyes (Japan)-bezel.png</bezel>
+		<rating>0.45</rating>
+		<releasedate>19880927T000000</releasedate>
+		<developer>Thinking Rabbit</developer>
+		<publisher>Taxan USA Corp.</publisher>
+		<genre>Adventure</genre>
+		<players>1-2</players>
+		<md5>f0629c17b2de7ab1d5f0c434f0588c7e</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T051502" />
+	</game>
+	<game id="1556">
+		<path>./No-Intro/Headered/8 Eyes (USA).nes</path>
+		<name>8 Eye's</name>
+		<desc>8 Eyes chronicles the adventures of Orin, the falconer, who must visit 8 different houses in 8 different lands and defeat 8 different guardians in order to collect 8 different jewels called eyes. It is a side-scrolling action/adventure game where the lead character can attack with a sword of somewhat limited reach. However, that is not the most powerful tool at his disposal - Orin also has his trusty falcon that he can send around the room to attack enemies or trigger remote switches. In single-player mode, the player controls both the falconer and the falcon. However, the game also offers a cooperative mode where the first player controls Orin and the second player controls his falcon in a mode which offers greater flight capability.</desc>
+		<image>./images/8 Eyes (USA)-image.png</image>
+		<video>./videos/8 Eyes (USA)-video.mp4</video>
+		<marquee>./images/8 Eyes (USA)-marquee.png</marquee>
+		<thumbnail>./images/8 Eyes (USA)-thumb.png</thumbnail>
+		<fanart>./images/8 Eyes (USA)-fanart.jpg</fanart>
+		<manual>./manuals/8 Eyes (USA)-manual.pdf</manual>
+		<bezel>./images/8 Eyes (USA)-bezel.png</bezel>
+		<rating>0.45</rating>
+		<releasedate>19900102T000000</releasedate>
+		<developer>Thinking Rabbit</developer>
+		<publisher>Taxan USA Corp.</publisher>
+		<genre>Adventure</genre>
+		<players>1-2</players>
+		<md5>ada436501f575fb9b4e0651bc54031e2</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231103T051503" />
+	</game>
+	<game id="199984">
+		<path>./No-Intro/Headered/8-BIT ADV STEINS;GATE (USA) (Nintendo Switch).nes</path>
+		<name>Steins;Gate</name>
+		<desc>8-bit ADV Steins;Gate is an 8-bit Nintendo Famicom/Nintendo Entertainment System-style game bundled with the Nintendo Switch releases of the visual novel Steins;Gate Elite. It is a retro adventure game in the style of classic Famicom/NES games of the 1980s, with downmixed chiptune versions of the music from the original Steins;Gate and the same characters, but a different plot, taking place on different worldlines. It was developed by 5pb. Games, and was released in September 2018 for Nintendo Switch. It is actually a Famicom/NES ROM that is run using a bundled Famicom/NES emulator.</desc>
+		<image>./images/8-BIT ADV STEINS;GATE (USA) (Nintendo Switch)-image.png</image>
+		<video>./videos/8-BIT ADV STEINS;GATE (USA) (Nintendo Switch)-video.mp4</video>
+		<marquee>./images/8-BIT ADV STEINS;GATE (USA) (Nintendo Switch)-marquee.png</marquee>
+		<thumbnail>./images/8-BIT ADV STEINS;GATE (USA) (Nintendo Switch)-thumb.png</thumbnail>
+		<releasedate>20190219T000000</releasedate>
+		<developer>Spike Chunsoft</developer>
+		<publisher>Spike Chunsoft</publisher>
+		<players>1</players>
+		<md5>cc78cb0405dc6b15f7f0921f5591a330</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231103T051505" />
+	</game>
+	<game>
+		<path>./No-Intro/Headered/8-Bit Hero Trainer (World) (Aftermarket) (Unl).nes</path>
+		<name>8-Bit Hero Trainer (World) (Aftermarket) (Unl)</name>
+		<md5>5a9f4f23c708f42dc00192601ed8ecce</md5>
+	</game>
 </gameList>

@@ -30470,4 +30470,571 @@ Zenith is a pseudo-3D space shooter similar to Horizon V gameplay-wise, the main
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20230223T182310" />
 	</game>
+	<game id="264820">
+		<path>./No-Intro/Flux/Brandish Renewal (Japan).zip</path>
+		<name>Brandish Renewal</name>
+		<image>./images/Brandish Renewal (Japan)-image.png</image>
+		<genre>Role playing games / Action RPG</genre>
+		<family>Brandish</family>
+		<md5>f365ec57c67f1e23953fc67fbf268a1b</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T050642" />
+	</game>
+	<game>
+		<path>./No-Intro/Flux/Doom II (Japan).zip</path>
+		<name>Doom II (Japan)</name>
+		<md5>95f7a262a7cae98fb6d13639b0965f63</md5>
+		<scrap name="ScreenScraper" date="20231103T050645" />
+	</game>
+	<game>
+		<path>./No-Intro/Flux/Legend of Kyrandia, The (Japan).zip</path>
+		<name>Legend of Kyrandia, The (Japan)</name>
+		<md5>5b44a43c90d44e0be7730e79bb9dfe01</md5>
+		<scrap name="ScreenScraper" date="20231103T050647" />
+	</game>
+	<game>
+		<path>./No-Intro/Flux/Might and Magic - Clouds of Xeen (Japan).zip</path>
+		<name>Might and Magic - Clouds of Xeen (Japan)</name>
+		<md5>77a8f01472a3029abd5b8379199e7e19</md5>
+		<scrap name="ScreenScraper" date="20231103T050650" />
+	</game>
+	<game id="167949">
+		<path>./No-Intro/Flux/Princess Maker (Japan).zip</path>
+		<name>Princess Maker</name>
+		<desc>Princess Maker is the first of Gainax' "princess-raising simulation" game series.
+
+You are a noble warrior who has just saved your kingdom from an invasion by the terrible Demon Lord. The grateful king offers you to choose any reward you wish for your brave deed. But instead of opting for half of the kingdom or the riches of the land, you ask the king for the permission to raise a poor little orphan girl named Maria. 
+
+And so the game begins. You are the one who has to build Maria's future. Of course, you can do it in many ways. You can strive to make a real princess out of her, teach her good manners, study arts, to make her a brave fighter like yourself, or just a lazy bimbo who cares for nothing. Her destiny is in your hands!</desc>
+		<image>./images/Princess Maker (Japan)-image.png</image>
+		<thumbnail>./images/Princess Maker (Japan)-thumb.png</thumbnail>
+		<manual>./manuals/Princess Maker (Japan)-manual.pdf</manual>
+		<developer>Gainax</developer>
+		<publisher>Gainax</publisher>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T050656" />
+	</game>
+	<game>
+		<path>./No-Intro/Flux/Princess Maker Nouryokuchi Editor (Japan).zip</path>
+		<name>Princess Maker Nouryokuchi Editor (Japan)</name>
+		<md5>9820eb2cc0d5c52b1e24c97e877cdc90</md5>
+		<scrap name="ScreenScraper" date="20231103T050658" />
+	</game>
+	<game id="267280">
+		<path>./No-Intro/Flux/Sim City 2000 (Japan).zip</path>
+		<name>SimCity 2000</name>
+		<marquee>./images/Sim City 2000 (Japan)-marquee.png</marquee>
+		<manual>./manuals/Sim City 2000 (Japan)-manual.pdf</manual>
+		<genre>Simulation / Build And Management</genre>
+		<family>SimCity</family>
+		<md5>e5b93e8d145ae942e46aa8b04c8d5705</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T050704" />
+	</game>
+	<game>
+		<path>./No-Intro/Flux/Sim City Returns (Japan).zip</path>
+		<name>Sim City Returns (Japan)</name>
+		<md5>a9da6d7b0fffc539570e2e9a909e60a9</md5>
+		<scrap name="ScreenScraper" date="20231103T050706" />
+	</game>
+	<game>
+		<path>./No-Intro/Flux/Veil of Darkness (Japan).zip</path>
+		<name>Veil of Darkness (Japan)</name>
+		<md5>83518d5693ee614295d094a6e50fe5b1</md5>
+		<scrap name="ScreenScraper" date="20231103T050713" />
+	</game>
+	<game id="254921">
+		<path>./No-Intro/Games/Campaign-ban Daisenryaku II Unit Kaizou Pack (Japan).hdm</path>
+		<name>ABA!</name>
+		<md5>8fe23c548d1aac93a8ece3fa416adf37</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T050714" />
+	</game>
+	<game id="254921">
+		<path>./No-Intro/Games/Disk Battler (Japan) (Disk 1) (Alt).hdm</path>
+		<name>ABA!</name>
+		<md5>096dd941704272603f71226b70d3e8f7</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T050716" />
+	</game>
+	<game id="254921">
+		<path>./No-Intro/Games/Disk Battler (Japan) (Disk 1).hdm</path>
+		<name>ABA!</name>
+		<md5>3a4df6a60779a0504f4bf1ebb4a0d9b1</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T050717" />
+	</game>
+	<game id="254921">
+		<path>./No-Intro/Games/Disk Battler (Japan) (Disk 2).hdm</path>
+		<name>ABA!</name>
+		<md5>7d3612e90d11fb79098e50b9a9c37b30</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T050718" />
+	</game>
+	<game id="254921">
+		<path>./No-Intro/Games/Disk Battler (Japan) (User Disk).hdm</path>
+		<name>ABA!</name>
+		<md5>1d752bb1b390329d4b0ca0ff73541da2</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T050720" />
+	</game>
+	<game id="254921">
+		<path>./No-Intro/Games/Fire Arms (Japan) (Disk 1) (Alt).hdm</path>
+		<name>ABA!</name>
+		<md5>287f5da189f967f0ebf33731b08f0261</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T050721" />
+	</game>
+	<game id="254921">
+		<path>./No-Intro/Games/Fire Arms (Japan) (Disk 1).hdm</path>
+		<name>ABA!</name>
+		<md5>843f088dc3a5fce63df1654664413b5d</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T050722" />
+	</game>
+	<game id="254921">
+		<path>./No-Intro/Games/Fire Arms (Japan) (Disk 2).hdm</path>
+		<name>ABA!</name>
+		<md5>260f4f97cf3584bd40b4f7ee7b371e08</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T050723" />
+	</game>
+	<game id="255592">
+		<path>./No-Intro/Games/M Hard (Japan) (Disk 1).hdm</path>
+		<name>M Hard</name>
+		<image>./images/M Hard (Japan) (Disk 1)-image.png</image>
+		<md5>4305769cdfe022cb5cc78d80bb46b62b</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T050726" />
+	</game>
+	<game id="255592">
+		<path>./No-Intro/Games/M Hard (Japan) (Disk 2).hdm</path>
+		<name>M Hard</name>
+		<image>./images/M Hard (Japan) (Disk 2)-image.png</image>
+		<md5>c9a339593eda02b1c320eb05f74f380b</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T050729" />
+	</game>
+	<game id="255592">
+		<path>./No-Intro/Games/M Hard (Japan) (Disk 3).hdm</path>
+		<name>M Hard</name>
+		<image>./images/M Hard (Japan) (Disk 3)-image.png</image>
+		<md5>4a47520207cc8791acb7bb6d9bd9fa07</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T050732" />
+	</game>
+	<game id="255592">
+		<path>./No-Intro/Games/M Hard (Japan) (Set 1) (Disk 1).hdm</path>
+		<name>M Hard</name>
+		<image>./images/M Hard (Japan) (Set 1) (Disk 1)-image.png</image>
+		<md5>7fa42b3bce40d7b3795362353f46a207</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T050735" />
+	</game>
+	<game id="255592">
+		<path>./No-Intro/Games/M Hard (Japan) (Set 1) (Disk 2).hdm</path>
+		<name>M Hard</name>
+		<image>./images/M Hard (Japan) (Set 1) (Disk 2)-image.png</image>
+		<md5>20520dcbc30b42bca90b70a415436c7d</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T050737" />
+	</game>
+	<game id="255592">
+		<path>./No-Intro/Games/M Hard (Japan) (Set 1) (Disk 3).hdm</path>
+		<name>M Hard</name>
+		<image>./images/M Hard (Japan) (Set 1) (Disk 3)-image.png</image>
+		<md5>6951f51c57f1a66dceb4e9cfcfd34e9a</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T050740" />
+	</game>
+	<game id="267046">
+		<path>./No-Intro/Games/Rose Blood - Chi no Kawaki (Japan) (Disk 1).hdm</path>
+		<name>Rose Blood - Chi no Kawaki</name>
+		<image>./images/Rose Blood - Chi no Kawaki (Japan) (Disk 1)-image.jpg</image>
+		<md5>8a2d0143b8ff9346e5fe79f4445de88d</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T050743" />
+	</game>
+	<game id="267046">
+		<path>./No-Intro/Games/Rose Blood - Chi no Kawaki (Japan) (Disk 2).hdm</path>
+		<name>Rose Blood - Chi no Kawaki</name>
+		<image>./images/Rose Blood - Chi no Kawaki (Japan) (Disk 2)-image.jpg</image>
+		<md5>e7ca3ddb2ce6d5864794bbd1ae18bd2b</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T050746" />
+	</game>
+	<game id="267046">
+		<path>./No-Intro/Games/Rose Blood - Chi no Kawaki (Japan) (Set 1) (Disk 1).hdm</path>
+		<name>Rose Blood - Chi no Kawaki</name>
+		<image>./images/Rose Blood - Chi no Kawaki (Japan) (Set 1) (Disk 1)-image.jpg</image>
+		<md5>45d40147e54d9ec34bd92f1afc2500de</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T050749" />
+	</game>
+	<game id="267046">
+		<path>./No-Intro/Games/Rose Blood - Chi no Kawaki (Japan) (Set 1) (Disk 2).hdm</path>
+		<name>Rose Blood - Chi no Kawaki</name>
+		<image>./images/Rose Blood - Chi no Kawaki (Japan) (Set 1) (Disk 2)-image.jpg</image>
+		<md5>d3098eccb08059632c835072ea6d347c</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T050751" />
+	</game>
+	<game id="168115">
+		<path>./No-Intro/Games/Yume no Sei (Japan) (Disk 1).hdm</path>
+		<name>Yume No Sei</name>
+		<image>./images/Yume no Sei (Japan) (Disk 1)-image.jpg</image>
+		<md5>2507f4bc90cb7313b8f0383713c5799e</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T050754" />
+	</game>
+	<game id="168115">
+		<path>./No-Intro/Games/Yume no Sei (Japan) (Disk 2).hdm</path>
+		<name>Yume No Sei</name>
+		<image>./images/Yume no Sei (Japan) (Disk 2)-image.jpg</image>
+		<md5>6dc2e0a1878881170f9a50529951f23f</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T050757" />
+	</game>
+	<game id="168115">
+		<path>./No-Intro/Games/Yume no Sei (Japan) (Disk 3).hdm</path>
+		<name>Yume No Sei</name>
+		<image>./images/Yume no Sei (Japan) (Disk 3)-image.jpg</image>
+		<md5>522fe61eb4e241cdb031ea9587e33472</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T050800" />
+	</game>
+	<game id="257608">
+		<path>./No-Intro/Games/Zest to fantasy (Japan) (Disk 1).hdm</path>
+		<name>Zest - To Fantasy</name>
+		<image>./images/Zest to fantasy (Japan) (Disk 1)-image.jpg</image>
+		<md5>4dd67d6645acce03f7a5b65813378b32</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T050803" />
+	</game>
+	<game id="257608">
+		<path>./No-Intro/Games/Zest to fantasy (Japan) (Disk 2).hdm</path>
+		<name>Zest - To Fantasy</name>
+		<image>./images/Zest to fantasy (Japan) (Disk 2)-image.jpg</image>
+		<md5>7e09d41f9a18704e390f9dcd24ce37e6</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T050806" />
+	</game>
+	<game id="257608">
+		<path>./No-Intro/Games/Zest to fantasy (Japan) (Disk 3).hdm</path>
+		<name>Zest - To Fantasy</name>
+		<image>./images/Zest to fantasy (Japan) (Disk 3)-image.jpg</image>
+		<md5>dfd056043e4728356ae940bf5e415372</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T050808" />
+	</game>
+	<game id="167501">
+		<path>./No-Intro/HardDisk/Alone in the Dark (Japan).hdi</path>
+		<name>Alone In The Dark</name>
+		<desc>Jeremy Hartwood has committed suicide in his Louisiana mansion, Derceto. You take the role of either Edward Carnby, a private investigator, or Emily Hartwood, Jeremy's niece, and investigate the suspicious death. The three-floor mansion is reputed to be haunted by its eccentric past owner. Very quickly, you realise that it is. Warped rats, zombies and giant worms are among the foes who are after you, and you must somehow escape.
+
+Alone in the Dark is an action-adventure survival horror game. The action is displayed from a number of fixed viewpoints. The backgrounds are 2D painted images, while the player character, all items and monsters are rendered as 3D models.</desc>
+		<image>./images/Alone in the Dark (Japan)-image.png</image>
+		<marquee>./images/Alone in the Dark (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Alone in the Dark (Japan)-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>19940311T000000</releasedate>
+		<developer>Infogrames</developer>
+		<publisher>Arrow Micro-Techs Corp.</publisher>
+		<genre>Adventure / Survival Horror</genre>
+		<players>1</players>
+		<md5>3e613273ad222ac16938bf1ed2f695c7</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T050814" />
+	</game>
+	<game id="257944">
+		<path>./No-Intro/HardDisk/Alone in the Dark 2 (Japan).hdi</path>
+		<name>Alone in the Dark 2</name>
+		<desc>In Alone in the Dark 2, you play as Detective Edward Carnby. Carnby must now investigate a bootlegger named One Eyed Jack who has allegedly kidnapped young Grace Saunders. His partner Ted Stryker attempts to infiltrate Jack's dilapidated Hell's Kitchen mansion and rescue the girl, only to disappear.
+Carnby soon learns that Jack and his gangsters are actually 15th century pirates who gained immortality after Jack allied himself with Elizabeth Jarret, a voodoo witch. However, the dark magic that allows them to remain immortal forces Jack and his crew to make regular human sacrifices.
+Carnby must now fight his way through Hell's Kitchen to find a way to break the spell.
+The game's graphics are a 2D-3D hybrid. You must solve numerous puzzles while fighting zombie pirates with your weapons or by trickery.</desc>
+		<image>./images/Alone in the Dark 2 (Japan)-image.png</image>
+		<marquee>./images/Alone in the Dark 2 (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Alone in the Dark 2 (Japan)-thumb.png</thumbnail>
+		<fanart>./images/Alone in the Dark 2 (Japan)-fanart.jpg</fanart>
+		<releasedate>19941203T000000</releasedate>
+		<developer>Arrow Micro-Techs</developer>
+		<publisher>Arrow Micro-Techs</publisher>
+		<genre>Adventure / Survival Horror</genre>
+		<family>Alone in the Dark</family>
+		<players>1</players>
+		<md5>906406bc3bda3f263de8e0ab86f1860a</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T050821" />
+	</game>
+	<game>
+		<path>./No-Intro/HardDisk/M Hand (Japan).hdi</path>
+		<name>M Hand (Japan)</name>
+		<md5>3afdbb509065fe6b731172f82b2025b1</md5>
+		<scrap name="ScreenScraper" date="20231103T050822" />
+	</game>
+	<game id="267046">
+		<path>./No-Intro/HardDisk/Rose Blood - Chi no Kawaki (Japan).hdi</path>
+		<name>Rose Blood - Chi no Kawaki</name>
+		<image>./images/Rose Blood - Chi no Kawaki (Japan)-image.jpg</image>
+		<md5>33deaa01ff66aec51e152704658550a1</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T050825" />
+	</game>
+	<game>
+		<path>./No-Intro/HardDisk/Touhou Fuumaroku - The Story of Eastern Wonderland (Japan).hdi</path>
+		<name>Touhou Fuumaroku - The Story of Eastern Wonderland (Japan)</name>
+		<md5>2360b61356c53da5280690dde9bc8cf4</md5>
+		<scrap name="ScreenScraper" date="20231103T050827" />
+	</game>
+	<game>
+		<path>./No-Intro/HardDisk/Touhou Gensoukyou - Lotus Land Story (Japan) (Unknown, Original).hdi</path>
+		<name>Touhou Gensoukyou - Lotus Land Story (Japan) (Unknown, Original)</name>
+		<md5>e0d69bdf7d4c5423aa9f32d7970b8fd6</md5>
+		<scrap name="ScreenScraper" date="20231103T050828" />
+	</game>
+	<game>
+		<path>./No-Intro/HardDisk/Touhou Gensoukyou - Lotus Land Story (Japan).hdi</path>
+		<name>Touhou Gensoukyou - Lotus Land Story (Japan)</name>
+		<md5>8258183523beb9ecbcab4c697118faf3</md5>
+		<scrap name="ScreenScraper" date="20231103T050830" />
+	</game>
+	<game>
+		<path>./No-Intro/HardDisk/Touhou Kaikidan - Mystic Square (Japan).hdi</path>
+		<name>Touhou Kaikidan - Mystic Square (Japan)</name>
+		<md5>d0591de3b7040c2bc585f2e2c5bf3943</md5>
+		<scrap name="ScreenScraper" date="20231103T050831" />
+	</game>
+	<game id="257191">
+		<path>./No-Intro/HardDisk/Touhou Reiiden - The Highly Responsive to Prayers (Japan).hdi</path>
+		<name>Touhou Project 1 - Highly Responsive to Prayers</name>
+		<desc>Something has wrecked the Hakurei Shrine, and the resident Shrine Maiden isn't going to take it lying down. She charges through the gateway into another world, intent on locating and punishing the one responsible for the act. Although she isn't capable of harming her enemies directly, she wields an incredible weapon: the Hakurei Yin-Yang Orb. With it Reimu will be able to cut a bloody swath through all who stand before her... assuming that she can manage to control it!</desc>
+		<image>./images/Touhou Reiiden - The Highly Responsive to Prayers (Japan)-image.png</image>
+		<video>./videos/Touhou Reiiden - The Highly Responsive to Prayers (Japan)-video.mp4</video>
+		<thumbnail>./images/Touhou Reiiden - The Highly Responsive to Prayers (Japan)-thumb.png</thumbnail>
+		<fanart>./images/Touhou Reiiden - The Highly Responsive to Prayers (Japan)-fanart.jpg</fanart>
+		<releasedate>19970815T000000</releasedate>
+		<developer>Zun Soft</developer>
+		<genre>Action / Breakout games</genre>
+		<family>Touhou Project</family>
+		<players>1</players>
+		<md5>0d0c743abc0e336bb9ad40711ec79e2f</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T050837" />
+	</game>
+	<game>
+		<path>./No-Intro/HardDisk/Touhou Yumejikuu - Phantasmagoria of Dim. Dream (Japan).hdi</path>
+		<name>Touhou Yumejikuu - Phantasmagoria of Dim. Dream (Japan)</name>
+		<md5>c1af55a102e838ad2553ae6ff8894885</md5>
+		<scrap name="ScreenScraper" date="20231103T050838" />
+	</game>
+	<game id="168115">
+		<path>./No-Intro/HardDisk/Yume no Sei (Japan).hdi</path>
+		<name>Yume No Sei</name>
+		<image>./images/Yume no Sei (Japan)-image.jpg</image>
+		<md5>2032aeb5936d696965c3e964a9c6c258</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T050841" />
+	</game>
+	<game id="257608">
+		<path>./No-Intro/HardDisk/Zest to Fantasy (Japan).hdi</path>
+		<name>Zest - To Fantasy</name>
+		<image>./images/Zest to Fantasy (Japan)-image.jpg</image>
+		<md5>f147a4df899f62de7361c414869e4af1</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T050843" />
+	</game>
+	<game>
+		<path>./No-Intro/Uncategorized/Aiza - New Generation (Japan) (Disk 1).fdi</path>
+		<name>Aiza - New Generation (Japan) (Disk 1)</name>
+		<md5>b57d12c158ddef4fa9066146606fa47f</md5>
+		<scrap name="ScreenScraper" date="20231103T050845" />
+	</game>
+	<game>
+		<path>./No-Intro/Uncategorized/Aiza - New Generation (Japan) (Disk 2).fdi</path>
+		<name>Aiza - New Generation (Japan) (Disk 2)</name>
+		<md5>0a5674678fa4711016f7eea24d03800f</md5>
+		<scrap name="ScreenScraper" date="20231103T050846" />
+	</game>
+	<game>
+		<path>./No-Intro/Uncategorized/Aiza - New Generation (Japan) (Disk 3).fdi</path>
+		<name>Aiza - New Generation (Japan) (Disk 3)</name>
+		<md5>1710c35671a59f01bc4a25730ddabec8</md5>
+		<scrap name="ScreenScraper" date="20231103T050847" />
+	</game>
+	<game>
+		<path>./No-Intro/Uncategorized/Aiza - New Generation (Japan) (System Disk).fdi</path>
+		<name>Aiza - New Generation (Japan) (System Disk)</name>
+		<md5>368dd0fd7fd83c9c284a30b84358ea09</md5>
+		<scrap name="ScreenScraper" date="20231103T050848" />
+	</game>
+	<game>
+		<path>./No-Intro/Uncategorized/Arcus 2 (Japan) (Disk 1).fdi</path>
+		<name>Arcus 2 (Japan) (Disk 1)</name>
+		<md5>a13b4dc14f824c15d720ed698de3d15c</md5>
+		<scrap name="ScreenScraper" date="20231103T050850" />
+	</game>
+	<game>
+		<path>./No-Intro/Uncategorized/Arcus 2 (Japan) (Disk 2).fdi</path>
+		<name>Arcus 2 (Japan) (Disk 2)</name>
+		<md5>4c7714d9981bdffb54aee1b0bfed942d</md5>
+		<scrap name="ScreenScraper" date="20231103T050851" />
+	</game>
+	<game>
+		<path>./No-Intro/Uncategorized/Arcus 2 (Japan) (Disk 3).fdi</path>
+		<name>Arcus 2 (Japan) (Disk 3)</name>
+		<md5>b9f5332a3f8afa20ec2f3b09c278e486</md5>
+		<scrap name="ScreenScraper" date="20231103T050852" />
+	</game>
+	<game id="167519">
+		<path>./No-Intro/Uncategorized/Arcus 3 (Japan) (Disk 1).fdi</path>
+		<name>Arcus III</name>
+		<desc>Twelve years have passed since the half-elf Pikto and his friends have defeated the evil demon and restored peace in the world of Arcusas. But evil raises its ugly head one more time. The capital city is attacked, the soldiers are massacred... Is the powerful sorcerer Vido to blame? But Pikto knows that in order to preserve peace in the land, different races - elves, dwarves, humans - have to unite. He must find faithful companions, venture to dangerous places. and save the world once again!
+
+Arcus III returns to the traditional gameplay concept of the first game: the entire game plays from first-person view; pseudo-3D maze-like dungeons are home to randomly appearing enemies, which must be defeated in turn-based combat. Pikto and his companions can also learn a variety of magic spells.</desc>
+		<image>./images/Arcus 3 (Japan) (Disk 1)-image.png</image>
+		<fanart>./images/Arcus 3 (Japan) (Disk 1)-fanart.jpg</fanart>
+		<releasedate>19911018T000000</releasedate>
+		<developer>Wolf Team</developer>
+		<publisher>Wolf Team</publisher>
+		<genre>Role playing games</genre>
+		<family>Arcus</family>
+		<players>1</players>
+		<md5>fa3315e98008df5f467a3f574c2d19a6</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T050856" />
+	</game>
+	<game id="167519">
+		<path>./No-Intro/Uncategorized/Arcus 3 (Japan) (Disk 2).fdi</path>
+		<name>Arcus III</name>
+		<desc>Twelve years have passed since the half-elf Pikto and his friends have defeated the evil demon and restored peace in the world of Arcusas. But evil raises its ugly head one more time. The capital city is attacked, the soldiers are massacred... Is the powerful sorcerer Vido to blame? But Pikto knows that in order to preserve peace in the land, different races - elves, dwarves, humans - have to unite. He must find faithful companions, venture to dangerous places. and save the world once again!
+
+Arcus III returns to the traditional gameplay concept of the first game: the entire game plays from first-person view; pseudo-3D maze-like dungeons are home to randomly appearing enemies, which must be defeated in turn-based combat. Pikto and his companions can also learn a variety of magic spells.</desc>
+		<image>./images/Arcus 3 (Japan) (Disk 2)-image.png</image>
+		<fanart>./images/Arcus 3 (Japan) (Disk 2)-fanart.jpg</fanart>
+		<releasedate>19911018T000000</releasedate>
+		<developer>Wolf Team</developer>
+		<publisher>Wolf Team</publisher>
+		<genre>Role playing games</genre>
+		<family>Arcus</family>
+		<players>1</players>
+		<md5>7a7adc4f7a7162f7f58e42d8a2a662f2</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T050900" />
+	</game>
+	<game id="167519">
+		<path>./No-Intro/Uncategorized/Arcus 3 (Japan) (Disk 3).fdi</path>
+		<name>Arcus III</name>
+		<desc>Twelve years have passed since the half-elf Pikto and his friends have defeated the evil demon and restored peace in the world of Arcusas. But evil raises its ugly head one more time. The capital city is attacked, the soldiers are massacred... Is the powerful sorcerer Vido to blame? But Pikto knows that in order to preserve peace in the land, different races - elves, dwarves, humans - have to unite. He must find faithful companions, venture to dangerous places. and save the world once again!
+
+Arcus III returns to the traditional gameplay concept of the first game: the entire game plays from first-person view; pseudo-3D maze-like dungeons are home to randomly appearing enemies, which must be defeated in turn-based combat. Pikto and his companions can also learn a variety of magic spells.</desc>
+		<image>./images/Arcus 3 (Japan) (Disk 3)-image.png</image>
+		<fanart>./images/Arcus 3 (Japan) (Disk 3)-fanart.jpg</fanart>
+		<releasedate>19911018T000000</releasedate>
+		<developer>Wolf Team</developer>
+		<publisher>Wolf Team</publisher>
+		<genre>Role playing games</genre>
+		<family>Arcus</family>
+		<players>1</players>
+		<md5>85551456563922152565235cf939eca2</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T050904" />
+	</game>
+	<game id="167519">
+		<path>./No-Intro/Uncategorized/Arcus 3 (Japan) (Disk 4).fdi</path>
+		<name>Arcus III</name>
+		<desc>Twelve years have passed since the half-elf Pikto and his friends have defeated the evil demon and restored peace in the world of Arcusas. But evil raises its ugly head one more time. The capital city is attacked, the soldiers are massacred... Is the powerful sorcerer Vido to blame? But Pikto knows that in order to preserve peace in the land, different races - elves, dwarves, humans - have to unite. He must find faithful companions, venture to dangerous places. and save the world once again!
+
+Arcus III returns to the traditional gameplay concept of the first game: the entire game plays from first-person view; pseudo-3D maze-like dungeons are home to randomly appearing enemies, which must be defeated in turn-based combat. Pikto and his companions can also learn a variety of magic spells.</desc>
+		<image>./images/Arcus 3 (Japan) (Disk 4)-image.png</image>
+		<fanart>./images/Arcus 3 (Japan) (Disk 4)-fanart.jpg</fanart>
+		<releasedate>19911018T000000</releasedate>
+		<developer>Wolf Team</developer>
+		<publisher>Wolf Team</publisher>
+		<genre>Role playing games</genre>
+		<family>Arcus</family>
+		<players>1</players>
+		<md5>2ab9273018179f6935127d56300e14da</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231103T050908" />
+	</game>
+	<game>
+		<path>./No-Intro/Uncategorized/Atlas (Japan) (Data Disk).fdi</path>
+		<name>Atlas (Japan) (Data Disk)</name>
+		<md5>0bb9ce9d72bc616f4d249611aea2186c</md5>
+		<scrap name="ScreenScraper" date="20231103T050909" />
+	</game>
+	<game>
+		<path>./No-Intro/Uncategorized/Atlas (Japan) (Game Disk).fdi</path>
+		<name>Atlas (Japan) (Game Disk)</name>
+		<md5>b4174c5abf68557a70adb6e7fe46b651</md5>
+		<scrap name="ScreenScraper" date="20231103T050910" />
+	</game>
+	<game>
+		<path>./No-Intro/Uncategorized/Atlas (Japan) (System Disk).fdi</path>
+		<name>Atlas (Japan) (System Disk)</name>
+		<md5>b3a7a175bf3cabb051611ad4e83548f0</md5>
+		<scrap name="ScreenScraper" date="20231103T050911" />
+	</game>
+	<game>
+		<path>./No-Intro/Uncategorized/Atlas (Japan) (User Disk).fdi</path>
+		<name>Atlas (Japan) (User Disk)</name>
+		<md5>087b1c3ef81dfb39d0981397a8b9c8c2</md5>
+		<scrap name="ScreenScraper" date="20231103T050912" />
+	</game>
+	<game>
+		<path>./No-Intro/Uncategorized/Atlas 2 (Japan) (Data Disk).fdi</path>
+		<name>Atlas 2 (Japan) (Data Disk)</name>
+		<md5>b5774e32d91ce03ff0b7163ebc61f82d</md5>
+		<scrap name="ScreenScraper" date="20231103T050913" />
+	</game>
+	<game>
+		<path>./No-Intro/Uncategorized/Atlas 2 (Japan) (System Disk).fdi</path>
+		<name>Atlas 2 (Japan) (System Disk)</name>
+		<md5>50601adc484e78121d7ad78d7a64f2c8</md5>
+		<scrap name="ScreenScraper" date="20231103T050915" />
+	</game>
+	<game>
+		<path>./No-Intro/Uncategorized/Atlas 2 (Japan) (Unknown, Vis).fdi</path>
+		<name>Atlas 2 (Japan) (Unknown, Vis)</name>
+		<md5>f3d0481f13007891a12a20a77853fe09</md5>
+		<scrap name="ScreenScraper" date="20231103T050916" />
+	</game>
 </gameList>

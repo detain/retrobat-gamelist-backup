@@ -180,4 +180,264 @@ The new super game with 4 levels, bonus functions and realistic pinball effects!
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20230217T195652" />
 	</game>
+	<game id="59489">
+		<path>./No-Intro/Bubble Boy (Europe).bin</path>
+		<name>Bubble Boy</name>
+		<desc>The falling bubbles have to be correctly turned and placed in a matter of seconds. And if that doesn't work, you'll have to use the bomb ...</desc>
+		<image>./images/Bubble Boy (Europe)-image.png</image>
+		<video>./videos/Bubble Boy (Europe)-video.mp4</video>
+		<marquee>./images/Bubble Boy (Europe)-marquee.png</marquee>
+		<developer>Hartung</developer>
+		<publisher>Hartung</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<md5>a03ca20479ff776e0217313edafe4047</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T030034" />
+	</game>
+	<game id="254521">
+		<path>./No-Intro/Car Racing (Europe).bin</path>
+		<name>Car Racing</name>
+		<desc>Accelerate, change gears, brake - super racing fun with the brand new Formula 1 cardrige for the "Game Master" Grand Prix.
+With a top speed of 400 km/h it goes over 4 international racetracks. And only outspoken record drivers can be found in the list of the world's best ...
+With turbo function, gas and gear button.</desc>
+		<image>./images/Car Racing (Europe)-image.png</image>
+		<marquee>./images/Car Racing (Europe)-marquee.png</marquee>
+		<developer>Hartung</developer>
+		<publisher>Hartung</publisher>
+		<genre>Race, Driving / Race 3rd Pers. view</genre>
+		<players>1</players>
+		<md5>6a0637c95b5b8ea3ddbc4f2375e2b6f4</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T030038" />
+	</game>
+	<game id="59490">
+		<path>./No-Intro/Continental Galaxy (Europe).bin</path>
+		<name>Continental Galaxy 2020</name>
+		<desc>Red alert!!!! The invaders of Minus-Delta-T approaching our solar system - and only you in your space glider can still avert the catastrophe on earth. You need a crystal clear head and nerves of steel ...</desc>
+		<image>./images/Continental Galaxy (Europe)-image.png</image>
+		<video>./videos/Continental Galaxy (Europe)-video.mp4</video>
+		<marquee>./images/Continental Galaxy (Europe)-marquee.png</marquee>
+		<developer>Hartung</developer>
+		<publisher>Hartung</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<players>1</players>
+		<md5>cb8b5a9e6f73fc86dc5837869492e837</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T030042" />
+	</game>
+	<game>
+		<path>./No-Intro/Dungeon Advanture (Europe).bin</path>
+		<name>Dungeon Advanture (Europe)</name>
+		<md5>809df2a9559f6a860c877f914912aa88</md5>
+		<scrap name="ScreenScraper" date="20231103T030043" />
+	</game>
+	<game id="59492">
+		<path>./No-Intro/Falling Block (Europe).bin</path>
+		<name>Falling Block!</name>
+		<desc>The new super video game from Game Master: Spatial imagination and lightning-fast reactions are required here.
+9 game levels and various chicanes with increasing difficulty ensure fascinating gaming fun.</desc>
+		<image>./images/Falling Block (Europe)-image.png</image>
+		<video>./videos/Falling Block (Europe)-video.mp4</video>
+		<marquee>./images/Falling Block (Europe)-marquee.png</marquee>
+		<developer>Hartung</developer>
+		<publisher>Hartung</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<md5>fd09a58f4dcd275dcbc5f1d4bc2f3e09</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T030047" />
+	</game>
+	<game id="254515">
+		<path>./No-Intro/Finite Zone (Europe).bin</path>
+		<name>Finite Zone</name>
+		<image>./images/Finite Zone (Europe)-image.png</image>
+		<marquee>./images/Finite Zone (Europe)-marquee.png</marquee>
+		<players>1</players>
+		<md5>6d7e784898343d21f9f6aef0bc061ab7</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T030050" />
+	</game>
+	<game id="59493">
+		<path>./No-Intro/Go Bang! (Europe).bin</path>
+		<name>Go Bang</name>
+		<desc>The fascinating old-Asian strategy game as a video game for the game master. 3 different game levels for beginners, advanced and experts make the Game Master either an ideal practice partner or a serious opponent in this game.</desc>
+		<image>./images/Go Bang! (Europe)-image.png</image>
+		<video>./videos/Go Bang! (Europe)-video.mp4</video>
+		<marquee>./images/Go Bang! (Europe)-marquee.png</marquee>
+		<developer>Hartung</developer>
+		<publisher>Hartung</publisher>
+		<genre>Asiatic board game / Go</genre>
+		<players>1</players>
+		<md5>c2e198743c83fea5b5176c8811f334f2</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T030055" />
+	</game>
+	<game id="59494">
+		<path>./No-Intro/Hyper Space (Europe).bin</path>
+		<name>Hyper Space</name>
+		<image>./images/Hyper Space (Europe)-image.png</image>
+		<video>./videos/Hyper Space (Europe)-video.mp4</video>
+		<marquee>./images/Hyper Space (Europe)-marquee.png</marquee>
+		<thumbnail>./images/Hyper Space (Europe)-thumb.png</thumbnail>
+		<developer>Hartung</developer>
+		<publisher>Hartung</publisher>
+		<players>1</players>
+		<md5>2ec75fcdf4ec1c87d86215caa5d26193</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T030100" />
+	</game>
+	<game id="59495">
+		<path>./No-Intro/Kung Fu (Europe).bin</path>
+		<name>Kung Fu Challenge</name>
+		<desc>The Shaolin monastery is in danger - deceitful fighters from Mandushuria are threatening to level the center of the monks to the ground. And only you are left to save the holy place: With the edge of your hand against ninja throwing stars, clubs and trident.</desc>
+		<image>./images/Kung Fu (Europe)-image.png</image>
+		<video>./videos/Kung Fu (Europe)-video.mp4</video>
+		<marquee>./images/Kung Fu (Europe)-marquee.png</marquee>
+		<developer>Hartung</developer>
+		<publisher>Hartung</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1</players>
+		<md5>9da233d4ce78262063087cbd72f7c7a1</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T030105" />
+	</game>
+	<game id="254523">
+		<path>./No-Intro/Move It (Germany) (En).bin</path>
+		<name>Move It</name>
+		<image>./images/Move It (Germany) (En)-image.png</image>
+		<marquee>./images/Move It (Germany) (En)-marquee.png</marquee>
+		<players>1</players>
+		<md5>1a0e725373941fae94df98abe22d6e92</md5>
+		<lang>en,de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T030108" />
+	</game>
+	<game id="59496">
+		<path>./No-Intro/Pin Ball (Europe).bin</path>
+		<name>Pin Ball</name>
+		<desc>With this cartridge the Game Master turns into an electronic super pinball machine: Simply tension the launch spring, let go and off you go...
+And whoever scores the most points can register as a pinball champion on the current leaderboard!
+The new super game with 4 levels, bonus functions and realistic pinball effects!</desc>
+		<video>./videos/Pin Ball (Europe)-video.mp4</video>
+		<marquee>./images/Pin Ball (Europe)-marquee.png</marquee>
+		<developer>Hartung</developer>
+		<publisher>Hartung</publisher>
+		<genre>Pinball</genre>
+		<players>1</players>
+		<md5>ea07da74db1cec925554e216e18a77ad</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T030111" />
+	</game>
+	<game id="250969">
+		<path>./No-Intro/Soccer (Europe).bin</path>
+		<name>Soccer</name>
+		<image>./images/Soccer (Europe)-image.png</image>
+		<marquee>./images/Soccer (Europe)-marquee.png</marquee>
+		<genre>Sports / Soccer</genre>
+		<players>1</players>
+		<md5>21ed82e77ac793904d226e2f80decec8</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T030115" />
+	</game>
+	<game id="59497">
+		<path>./No-Intro/Space Castle (Europe).bin</path>
+		<name>Space Castle</name>
+		<desc>With a space jet against 5 intergalactic battle stars. An exciting Game Master adventure in which you have to use quick reactions and tactical skills to save the world from the attack of hostile aliens.
+With bonus function and automatic point counting.</desc>
+		<image>./images/Space Castle (Europe)-image.png</image>
+		<video>./videos/Space Castle (Europe)-video.mp4</video>
+		<marquee>./images/Space Castle (Europe)-marquee.png</marquee>
+		<developer>Hartung</developer>
+		<publisher>Hartung</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<players>1</players>
+		<md5>db6f4c5272d6d400339bbae4b27aeca8</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T030119" />
+	</game>
+	<game id="254513">
+		<path>./No-Intro/Space Invader (Germany) (En).bin</path>
+		<name>Space Invader</name>
+		<image>./images/Space Invader (Germany) (En)-image.png</image>
+		<marquee>./images/Space Invader (Germany) (En)-marquee.png</marquee>
+		<players>1</players>
+		<md5>e82891f63558420b78555caf62d8ce90</md5>
+		<lang>en,de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T030123" />
+	</game>
+	<game id="254517">
+		<path>./No-Intro/Space Warrior (Germany) (En).bin</path>
+		<name>Space Warrior</name>
+		<image>./images/Space Warrior (Germany) (En)-image.png</image>
+		<marquee>./images/Space Warrior (Germany) (En)-marquee.png</marquee>
+		<players>1</players>
+		<md5>f101080f52438bed46e28a99eff65368</md5>
+		<lang>en,de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T030126" />
+	</game>
+	<game id="254525">
+		<path>./No-Intro/Tank War (Germany) (En).bin</path>
+		<name>Tank War</name>
+		<image>./images/Tank War (Germany) (En)-image.png</image>
+		<marquee>./images/Tank War (Germany) (En)-marquee.png</marquee>
+		<players>1</players>
+		<md5>4a82748ad7ca532112ba1ad766ab0e8a</md5>
+		<lang>en,de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T030130" />
+	</game>
+	<game id="59498">
+		<path>./No-Intro/Tennis (Europe).bin</path>
+		<name>Tennis Master</name>
+		<desc>Game, set and victory - high sporting excitement is guaranteed here: The brand new tennis cardrige for the "Game Masters" tournament ensures realistic gameplay on the LCD screen. So nothing like throwing the ball up, pressing the punch button and blasting off ...
+With beginner and professional levels, referee function and score display like in real tennis!</desc>
+		<image>./images/Tennis (Europe)-image.png</image>
+		<video>./videos/Tennis (Europe)-video.mp4</video>
+		<marquee>./images/Tennis (Europe)-marquee.png</marquee>
+		<developer>Hartung</developer>
+		<publisher>Hartung</publisher>
+		<genre>Sports / Tennis</genre>
+		<players>1</players>
+		<md5>c8a03104f14efb82614377258c930b6e</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T030134" />
+	</game>
+	<game id="59499">
+		<path>./No-Intro/Urban Champion (Europe).bin</path>
+		<name>Urban Champion</name>
+		<image>./images/Urban Champion (Europe)-image.png</image>
+		<video>./videos/Urban Champion (Europe)-video.mp4</video>
+		<marquee>./images/Urban Champion (Europe)-marquee.png</marquee>
+		<developer>Hartung</developer>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<md5>052b4ee08184b1dda2af62d5b2cec46a</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T030139" />
+	</game>
+	<game id="59488">
+		<path>./No-Intro/[BIOS] Hartung Game Master (Germany).bin</path>
+		<name>ZZZ(notgame):[bios] Hartung Game Master</name>
+		<hidden>true</hidden>
+		<md5>6bff08b5e5f96de405cd56d5f04a08f8</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231103T030140" />
+	</game>
 </gameList>
