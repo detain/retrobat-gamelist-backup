@@ -16372,17 +16372,6 @@ Each cage hides a mini games where you have to catch the animal to calm it and t
 		<scrap name="ScreenScraper" date="20230227T144938" />
 	</game>
 	<game>
-		<path>./TOSEC/Applications/2600 Digital Clock - Demo 1 (demo) (1997-10-03)(Cracknell, Chris 'Crackers')(NTSC)(PD)/2600 Digital Clock - Demo 1 (demo) (1997-10-03)(Cracknell, Chris 'Crackers')(NTSC)(PD).a26</path>
-		<name>2600 Digital Clock - Demo 1 (demo) (1997-10-03)(Cracknell, Chris 'Crackers')(NTSC)(PD)</name>
-		<rating>0</rating>
-		<releasedate>20230222T000000</releasedate>
-		<players>0</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<crc32>007454DA</crc32>
-		<md5>eada0dd61ce13f8317de774dc1e68604</md5>
-		<scrap name="ScreenScraper" date="20230227T144940" />
-	</game>
-	<game>
 		<path>./TOSEC/Applications/2600 Digital Clock - Demo 2 (demo) (1997-10-03)(Cracknell, Chris 'Crackers')(NTSC)(PD)/2600 Digital Clock - Demo 2 (demo) (1997-10-03)(Cracknell, Chris 'Crackers')(NTSC)(PD).a26</path>
 		<name>2600 Digital Clock - Demo 2 (demo) (1997-10-03)(Cracknell, Chris 'Crackers')(NTSC)(PD)</name>
 		<rating>0</rating>
@@ -16414,17 +16403,6 @@ Each cage hides a mini games where you have to catch the animal to calm it and t
 		<crc32>4118FE90</crc32>
 		<md5>75e8d8b9e9c5c67c2226dbfd77dcfa7d</md5>
 		<scrap name="ScreenScraper" date="20230227T144946" />
-	</game>
-	<game>
-		<path>./TOSEC/Applications/2600 Digital Clock v2 (1998-09-07)(Cracknell, Chris 'Crackers')(NTSC)(PD)(beta)/2600 Digital Clock v2 (1998-09-07)(Cracknell, Chris 'Crackers')(NTSC)(PD)(beta).a26</path>
-		<name>2600 Digital Clock v2 (1998-09-07)(Cracknell, Chris 'Crackers')(NTSC)(PD)(beta)</name>
-		<rating>0</rating>
-		<releasedate>20230222T000000</releasedate>
-		<players>0</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<crc32>4CFD21F8</crc32>
-		<md5>5e99aa93d0acc741dcda8752c4e813ce</md5>
-		<scrap name="ScreenScraper" date="20230227T144948" />
 	</game>
 	<game>
 		<path>./TOSEC/Applications/2600 Digital Clock v3 (1998-09)(Cracknell, Chris 'Crackers')(NTSC)(PD)/2600 Digital Clock v3 (1998-09)(Cracknell, Chris 'Crackers')(NTSC)(PD).a26</path>
@@ -50697,5 +50675,29 @@ However, motivation reaches its zero before the end of the game, because after h
 		<lang>en</lang>
 		<region>eu</region>
 		<scrap name="ScreenScraper" date="20231103T024823" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/2600 Digital Clock - Demo 1 (demo) (1997-10-03)(Cracknell, Chris 'Crackers')(NTSC)(PD)/2600 Digital Clock - Demo 1 (demo) (1997-10-03)(Cracknell, Chris 'Crackers')(NTSC)(PD).a26</path>
+		<name>2600 Digital Clock - Demo 1 (demo) (1997-10-03)(Cracknell, Chris 'Crackers')(NTSC)(PD)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>007454DA</crc32>
+		<md5>eada0dd61ce13f8317de774dc1e68604</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T144940" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/2600 Digital Clock v2 (1998-09-07)(Cracknell, Chris 'Crackers')(NTSC)(PD)(beta)/2600 Digital Clock v2 (1998-09-07)(Cracknell, Chris 'Crackers')(NTSC)(PD)(beta).a26</path>
+		<name>2600 Digital Clock v2 (1998-09-07)(Cracknell, Chris 'Crackers')(NTSC)(PD)(beta)</name>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<crc32>4CFD21F8</crc32>
+		<md5>5e99aa93d0acc741dcda8752c4e813ce</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230227T144948" />
 	</game>
 </gameList>

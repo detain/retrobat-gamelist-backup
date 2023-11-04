@@ -6742,4 +6742,217 @@ Nintendo originally released the game as the launch title for the Family Compute
 		<md5>18d20a07fd107d9db045451578914c94</md5>
 		<scrap name="ScreenScraper" date="20230222T215617" />
 	</game>
+	<game id="88114">
+		<path>./No-Intro/FDS/Adian no Tsue (Japan) (Beta) (1986-10-29).fds</path>
+		<name>Adian no Tsue</name>
+		<desc>Adian no Tsue ("Staff of Adian") is an educational action-adventure game in which you control a boy named Lucian who sets out to rescue Princess Patricia from a demon King. You must navigate levels by defeating enemies with your staff as well as solving arithmetic problems in order to earn bells and experience. Bells are the currency you'll use to buy items from the shopkeeper and 600 experience points are required in order to open the door to the next level or trigger the boss battle in specific rooms you'll need to discover.</desc>
+		<image>./images/Adian no Tsue (Japan) (Beta) (1986-10-29)-image.png</image>
+		<video>./videos/Adian no Tsue (Japan) (Beta) (1986-10-29)-video.mp4</video>
+		<marquee>./images/Adian no Tsue (Japan) (Beta) (1986-10-29)-marquee.png</marquee>
+		<thumbnail>./images/Adian no Tsue (Japan) (Beta) (1986-10-29)-thumb.png</thumbnail>
+		<manual>./manuals/Adian no Tsue (Japan) (Beta) (1986-10-29)-manual.pdf</manual>
+		<rating>0.55</rating>
+		<releasedate>19861212T000000</releasedate>
+		<developer>Sunsoft</developer>
+		<publisher>Sunsoft</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<md5>93609d9f2a72cc6097679599e4bf425f</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231104T005341" />
+	</game>
+	<game id="88114">
+		<path>./No-Intro/FDS/Adian no Tsue (Japan).fds</path>
+		<name>Adian no Tsue</name>
+		<desc>Adian no Tsue ("Staff of Adian") is an educational action-adventure game in which you control a boy named Lucian who sets out to rescue Princess Patricia from a demon King. You must navigate levels by defeating enemies with your staff as well as solving arithmetic problems in order to earn bells and experience. Bells are the currency you'll use to buy items from the shopkeeper and 600 experience points are required in order to open the door to the next level or trigger the boss battle in specific rooms you'll need to discover.</desc>
+		<image>./images/Adian no Tsue (Japan)-image.png</image>
+		<video>./videos/Adian no Tsue (Japan)-video.mp4</video>
+		<marquee>./images/Adian no Tsue (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Adian no Tsue (Japan)-thumb.png</thumbnail>
+		<manual>./manuals/Adian no Tsue (Japan)-manual.pdf</manual>
+		<rating>0.55</rating>
+		<releasedate>19861212T000000</releasedate>
+		<developer>Sunsoft</developer>
+		<publisher>Sunsoft</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<md5>2155652ba2ce18282705337d03b3f505</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231104T005352" />
+	</game>
+	<game id="71309">
+		<path>./No-Intro/FDS/Ai Senshi Nicol (Japan).fds</path>
+		<name>Ai Senshi Nicol</name>
+		<desc>Help the brave inventor Nicol rescue his kidnapped girlfriend Stella from a Demon Bull King from the planet Dairass in this overhead action game. Control Nicol through 7 continents as he recovers 3 pieces on each level to his dimensional transporter invention that the Demon King stole and encased in diamonds. You'll blast away at various minions and avoid treacherous terrain while exploring multiple floors of each continent searching out the diamonds to be re-united with Stella and defeat the evil Demon King!</desc>
+		<image>./images/Ai Senshi Nicol (Japan)-image.png</image>
+		<video>./videos/Ai Senshi Nicol (Japan)-video.mp4</video>
+		<marquee>./images/Ai Senshi Nicol (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Ai Senshi Nicol (Japan)-thumb.png</thumbnail>
+		<manual>./manuals/Ai Senshi Nicol (Japan)-manual.pdf</manual>
+		<releasedate>19870427T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<md5>7839c79cb30fab6440114554508609fa</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231104T005403" />
+	</game>
+	<game id="189024">
+		<path>./No-Intro/FDS/Air Fortress (Japan) (Proto) (1986-10-20).fds</path>
+		<name>Air Fortress</name>
+		<desc>The people of the planet Farmel, having recently gained the technology for space travel, eagerly explored the galaxy only to find a herd of monstrous "Air Fortresses" moving in their direction. They quickly discovered that the Fortresses behaved like interstellar locusts, consuming all of the resources and living things in their path. The Space Federation sent their mightiest fleet, which was quickly eliminated by the powerful Fortresses. In a final gambit they send a single warrior named Hal Bailman, outfitted with a shielded spacesuit, powerful weapons, and small "lightship" to infiltrate the Fortresses and destroy them from the inside out.</desc>
+		<image>./images/Air Fortress (Japan) (Proto) (1986-10-20)-image.png</image>
+		<video>./videos/Air Fortress (Japan) (Proto) (1986-10-20)-video.mp4</video>
+		<marquee>./images/Air Fortress (Japan) (Proto) (1986-10-20)-marquee.png</marquee>
+		<thumbnail>./images/Air Fortress (Japan) (Proto) (1986-10-20)-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>19870817T000000</releasedate>
+		<developer>HAL Laboratory</developer>
+		<publisher>HAL Laboratory</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
+		<md5>1e6853a0d4c2b3be38f14a73cf031c66</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231104T005413" />
+	</game>
+	<game id="88116">
+		<path>./No-Intro/FDS/Aki to Tsukasa no Fushigi no Kabe (Japan) (Unl).fds</path>
+		<name>Aki to Tsukasa no Fushigi no Kabe</name>
+		<desc>Aki to Tsukasa no Fushigi no Kabe is an unlicensed hentai game that's basically solo table tennis where you hit certain parts of a wall to reveal a girl in an erotic pose.</desc>
+		<image>./images/Aki to Tsukasa no Fushigi no Kabe (Japan) (Unl)-image.png</image>
+		<video>./videos/Aki to Tsukasa no Fushigi no Kabe (Japan) (Unl)-video.mp4</video>
+		<marquee>./images/Aki to Tsukasa no Fushigi no Kabe (Japan) (Unl)-marquee.png</marquee>
+		<thumbnail>./images/Aki to Tsukasa no Fushigi no Kabe (Japan) (Unl)-thumb.png</thumbnail>
+		<rating>0.3</rating>
+		<releasedate>19880915T000000</releasedate>
+		<developer>Super Pig</developer>
+		<publisher>New System House Oh!</publisher>
+		<genre>Adult</genre>
+		<players>1</players>
+		<md5>ba576a03aeb7fc733c104043de9964f2</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231104T005423" />
+	</game>
+	<game id="88117">
+		<path>./No-Intro/FDS/Akumajou Dracula (Japan) (Rev 1).fds</path>
+		<name>Akumajou Dracula</name>
+		<desc>Transylvania enjoyed a century of peace thanks to the legendary hero, Christopher Belmont, a vampire hunter who vanquished Count Dracula one hundred years earlier with a holy whip named Vampire Killer. While the Easter celebration carried on with a grand carnival, evil men gathered in a monastery at the edge of the village and conducted a black mass to resurrect Count Dracula.
+
+The men succeeded in bringing their master back. A bolt of lightning enveloped the monastery where they held the rite, signaling the resurrection of Count Dracula. When the Count returned, his Castle, which had fallen one hundred years prior, reappeared in Transylvania, and his legions of loyal minions reformed.
+
+Simon Belmont, the descendant of Christopher Belmont, knew that as a member of the Belmont Clan and the current wielder of the Vampire Killer whip, it was his duty to bring peace and stability back to Transylvania by destroying Dracula.</desc>
+		<image>./images/Akumajou Dracula (Japan) (Rev 1)-image.png</image>
+		<video>./videos/Akumajou Dracula (Japan) (Rev 1)-video.mp4</video>
+		<marquee>./images/Akumajou Dracula (Japan) (Rev 1)-marquee.png</marquee>
+		<thumbnail>./images/Akumajou Dracula (Japan) (Rev 1)-thumb.png</thumbnail>
+		<manual>./manuals/Akumajou Dracula (Japan) (Rev 1)-manual.pdf</manual>
+		<releasedate>19860926T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<family>Castlevania</family>
+		<players>1</players>
+		<md5>fe739e10ec1f70888a4cac28d8562fae</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231104T005437" />
+	</game>
+	<game id="88117">
+		<path>./No-Intro/FDS/Akumajou Dracula (Japan) (Rev 2) (Disk Writer).fds</path>
+		<name>Akumajou Dracula</name>
+		<desc>Transylvania enjoyed a century of peace thanks to the legendary hero, Christopher Belmont, a vampire hunter who vanquished Count Dracula one hundred years earlier with a holy whip named Vampire Killer. While the Easter celebration carried on with a grand carnival, evil men gathered in a monastery at the edge of the village and conducted a black mass to resurrect Count Dracula.
+
+The men succeeded in bringing their master back. A bolt of lightning enveloped the monastery where they held the rite, signaling the resurrection of Count Dracula. When the Count returned, his Castle, which had fallen one hundred years prior, reappeared in Transylvania, and his legions of loyal minions reformed.
+
+Simon Belmont, the descendant of Christopher Belmont, knew that as a member of the Belmont Clan and the current wielder of the Vampire Killer whip, it was his duty to bring peace and stability back to Transylvania by destroying Dracula.</desc>
+		<image>./images/Akumajou Dracula (Japan) (Rev 2) (Disk Writer)-image.png</image>
+		<video>./videos/Akumajou Dracula (Japan) (Rev 2) (Disk Writer)-video.mp4</video>
+		<marquee>./images/Akumajou Dracula (Japan) (Rev 2) (Disk Writer)-marquee.png</marquee>
+		<thumbnail>./images/Akumajou Dracula (Japan) (Rev 2) (Disk Writer)-thumb.png</thumbnail>
+		<manual>./manuals/Akumajou Dracula (Japan) (Rev 2) (Disk Writer)-manual.pdf</manual>
+		<releasedate>19860926T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<family>Castlevania</family>
+		<players>1</players>
+		<md5>33def5907d3561f6649a5e0ccf9a1d09</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231104T005450" />
+	</game>
+	<game id="88117">
+		<path>./No-Intro/FDS/Akumajou Dracula (Japan) (Rev 2) (Wii and Wii U Virtual Console).fds</path>
+		<name>Akumajou Dracula</name>
+		<desc>Transylvania enjoyed a century of peace thanks to the legendary hero, Christopher Belmont, a vampire hunter who vanquished Count Dracula one hundred years earlier with a holy whip named Vampire Killer. While the Easter celebration carried on with a grand carnival, evil men gathered in a monastery at the edge of the village and conducted a black mass to resurrect Count Dracula.
+
+The men succeeded in bringing their master back. A bolt of lightning enveloped the monastery where they held the rite, signaling the resurrection of Count Dracula. When the Count returned, his Castle, which had fallen one hundred years prior, reappeared in Transylvania, and his legions of loyal minions reformed.
+
+Simon Belmont, the descendant of Christopher Belmont, knew that as a member of the Belmont Clan and the current wielder of the Vampire Killer whip, it was his duty to bring peace and stability back to Transylvania by destroying Dracula.</desc>
+		<image>./images/Akumajou Dracula (Japan) (Rev 2) (Wii and Wii U Virtual Console)-image.png</image>
+		<video>./videos/Akumajou Dracula (Japan) (Rev 2) (Wii and Wii U Virtual Console)-video.mp4</video>
+		<marquee>./images/Akumajou Dracula (Japan) (Rev 2) (Wii and Wii U Virtual Console)-marquee.png</marquee>
+		<thumbnail>./images/Akumajou Dracula (Japan) (Rev 2) (Wii and Wii U Virtual Console)-thumb.png</thumbnail>
+		<manual>./manuals/Akumajou Dracula (Japan) (Rev 2) (Wii and Wii U Virtual Console)-manual.pdf</manual>
+		<releasedate>19860926T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<family>Castlevania</family>
+		<players>1</players>
+		<md5>958f03c1c054a528f22869ca84e03a32</md5>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231104T005503" />
+	</game>
+	<game id="88117">
+		<path>./No-Intro/FDS/Akumajou Dracula (Japan).fds</path>
+		<name>Akumajou Dracula</name>
+		<desc>Transylvania enjoyed a century of peace thanks to the legendary hero, Christopher Belmont, a vampire hunter who vanquished Count Dracula one hundred years earlier with a holy whip named Vampire Killer. While the Easter celebration carried on with a grand carnival, evil men gathered in a monastery at the edge of the village and conducted a black mass to resurrect Count Dracula.
+
+The men succeeded in bringing their master back. A bolt of lightning enveloped the monastery where they held the rite, signaling the resurrection of Count Dracula. When the Count returned, his Castle, which had fallen one hundred years prior, reappeared in Transylvania, and his legions of loyal minions reformed.
+
+Simon Belmont, the descendant of Christopher Belmont, knew that as a member of the Belmont Clan and the current wielder of the Vampire Killer whip, it was his duty to bring peace and stability back to Transylvania by destroying Dracula.</desc>
+		<image>./images/Akumajou Dracula (Japan)-image.png</image>
+		<video>./videos/Akumajou Dracula (Japan)-video.mp4</video>
+		<marquee>./images/Akumajou Dracula (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Akumajou Dracula (Japan)-thumb.png</thumbnail>
+		<manual>./manuals/Akumajou Dracula (Japan)-manual.pdf</manual>
+		<releasedate>19860926T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<family>Castlevania</family>
+		<players>1</players>
+		<md5>62ce2cf11cca70f6db84f5e6d7ada1c4</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231104T005516" />
+	</game>
+	<game id="98598">
+		<path>./No-Intro/FDS/Akuu Senki Raijin (Japan) (Beta) (1987-06-10).fds</path>
+		<name>Akuu Senki Raijin</name>
+		<desc>In the year 2734, the mechanical life form Garemu suddenly attacked five hyperspace navigation broadcasting points, "FIELD". In order to prevent Garem's invasion, the Milky Way alliance has decided to dispatch the mobile weapon Raijin, which you must pilot. Like Square's earlier semi-classic Thexder, the player can opt to change between the two modes of their craft at certain points during each level. Upon touching ground as the mecha, the player is occasionally able to find other directions to continue exploring as a spaceship, presenting both vertical-scrolling and side-scrolling shoot-'em-up sections. There are three items you must find before you complete a level; a star, an orb, a computer, and a bomb. After you collect all of these, it will trigger the boss battle the next time you try to go to the boss area.</desc>
+		<image>./images/Akuu Senki Raijin (Japan) (Beta) (1987-06-10)-image.png</image>
+		<video>./videos/Akuu Senki Raijin (Japan) (Beta) (1987-06-10)-video.mp4</video>
+		<marquee>./images/Akuu Senki Raijin (Japan) (Beta) (1987-06-10)-marquee.png</marquee>
+		<thumbnail>./images/Akuu Senki Raijin (Japan) (Beta) (1987-06-10)-thumb.png</thumbnail>
+		<manual>./manuals/Akuu Senki Raijin (Japan) (Beta) (1987-06-10)-manual.pdf</manual>
+		<releasedate>19881207T000000</releasedate>
+		<developer>Microcabin</developer>
+		<publisher>Disk Original Group (DOG)</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<players>1</players>
+		<md5>bd7e25faa070c247015f2dfb09b20760</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231104T005529" />
+	</game>
+	<game>
+		<path>./No-Intro/FDS/Akuu Senki Raijin (Japan) (Disk Writer).fds</path>
+		<name>Akuu Senki Raijin (Japan) (Disk Writer)</name>
+		<md5>9e7224595700636f69734e5b0e4a86dc</md5>
+	</game>
 </gameList>
