@@ -3409,4 +3409,1086 @@ Waterworld brings your Virtual Boy screaming to life with incredibly smooth and 
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230228T213359" />
 	</game>
+	<game id="419550">
+		<path>./No-Intro/3-D BattleSnake (World) (Aftermarket) (Unl).vb</path>
+		<name>3-D Battlesnake</name>
+		<marquee>./images/3-D BattleSnake (World) (Aftermarket) (Unl)-marquee.png</marquee>
+		<thumbnail>./images/3-D BattleSnake (World) (Aftermarket) (Unl)-thumb.png</thumbnail>
+		<md5>0ab33db88ee41f540d968127dc55fa50</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231105T041248" />
+	</game>
+	<game id="419565">
+		<path>./No-Intro/3D Crosswords (World) (Emulator Version) (Aftermarket) (Unl).vb</path>
+		<name>3D Crosswords</name>
+		<marquee>./images/3D Crosswords (World) (Emulator Version) (Aftermarket) (Unl)-marquee.png</marquee>
+		<thumbnail>./images/3D Crosswords (World) (Emulator Version) (Aftermarket) (Unl)-thumb.png</thumbnail>
+		<md5>cef10df7728f4398af46d51efc89d3d0</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231105T041255" />
+	</game>
+	<game id="419565">
+		<path>./No-Intro/3D Crosswords (World) (Hardware Version) (Aftermarket) (Unl).vb</path>
+		<name>3D Crosswords</name>
+		<marquee>./images/3D Crosswords (World) (Hardware Version) (Aftermarket) (Unl)-marquee.png</marquee>
+		<thumbnail>./images/3D Crosswords (World) (Hardware Version) (Aftermarket) (Unl)-thumb.png</thumbnail>
+		<md5>35554dcf602fd2452d7adb033a85cc40</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231105T041302" />
+	</game>
+	<game id="423958">
+		<path>./No-Intro/Bad Apple (World) (Demo) (Emulator Version) (Aftermarket) (Unl).vb</path>
+		<name>ZZZ(notgame):Bad Apple</name>
+		<hidden>true</hidden>
+		<md5>f8fcc14c7ed3d091fc4bc433bc88acf2</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231105T041304" />
+	</game>
+	<game id="423958">
+		<path>./No-Intro/Bad Apple (World) (Demo) (Hardware Version) (Aftermarket) (Unl).vb</path>
+		<name>ZZZ(notgame):Bad Apple</name>
+		<hidden>true</hidden>
+		<md5>b01b1f5dc1d84d98688d214ab8734fca</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231105T041306" />
+	</game>
+	<game id="172279">
+		<path>./No-Intro/Ballface (World) (Demo) (Aftermarket) (Unl).vb</path>
+		<name>Ballface</name>
+		<desc>“Ballface” is a direct clone of the known prototype of Faceball. It was not built with the actual ROM in hand, but using detailed descriptions provided by an individual called Mr. G prior to the ROM of Faceball getting released.</desc>
+		<image>./images/Ballface (World) (Demo) (Aftermarket) (Unl)-image.png</image>
+		<video>./videos/Ballface (World) (Demo) (Aftermarket) (Unl)-video.mp4</video>
+		<marquee>./images/Ballface (World) (Demo) (Aftermarket) (Unl)-marquee.png</marquee>
+		<thumbnail>./images/Ballface (World) (Demo) (Aftermarket) (Unl)-thumb.png</thumbnail>
+		<releasedate>20130106T000000</releasedate>
+		<developer>DanB</developer>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<md5>2add85e4e285cba673dd93f135eba2cb</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231105T041318" />
+	</game>
+	<game id="143416">
+		<path>./No-Intro/BLOX (World) (v1.0) (Aftermarket) (Unl).vb</path>
+		<name>Blox</name>
+		<desc>Blox was created by KR155E and are based off of the 1982 arcade game Sokobon, and the 1990 Game Boy game Boxxle. You move boxes around a board until they cover a tile that has a target on it. Once all the boxes are on a target you move on to the next level. Although it's a simple concept, like many good games, it gets harder as you progress. The length of the game depends on what difficulty you have the game set on.</desc>
+		<image>./images/BLOX (World) (v1.0) (Aftermarket) (Unl)-image.png</image>
+		<video>./videos/BLOX (World) (v1.0) (Aftermarket) (Unl)-video.mp4</video>
+		<marquee>./images/BLOX (World) (v1.0) (Aftermarket) (Unl)-marquee.png</marquee>
+		<thumbnail>./images/BLOX (World) (v1.0) (Aftermarket) (Unl)-thumb.png</thumbnail>
+		<rating>0.5</rating>
+		<releasedate>20031016T000000</releasedate>
+		<developer>Christian Radke (KR155E)</developer>
+		<publisher>Planet Virtual Boy</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<md5>231145f89792e8399a730612e97ae4df</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231105T041330" />
+	</game>
+	<game id="143416">
+		<path>./No-Intro/BLOX (World) (v1.1) (Aftermarket) (Unl).vb</path>
+		<name>Blox</name>
+		<desc>Blox was created by KR155E and are based off of the 1982 arcade game Sokobon, and the 1990 Game Boy game Boxxle. You move boxes around a board until they cover a tile that has a target on it. Once all the boxes are on a target you move on to the next level. Although it's a simple concept, like many good games, it gets harder as you progress. The length of the game depends on what difficulty you have the game set on.</desc>
+		<image>./images/BLOX (World) (v1.1) (Aftermarket) (Unl)-image.png</image>
+		<video>./videos/BLOX (World) (v1.1) (Aftermarket) (Unl)-video.mp4</video>
+		<marquee>./images/BLOX (World) (v1.1) (Aftermarket) (Unl)-marquee.png</marquee>
+		<thumbnail>./images/BLOX (World) (v1.1) (Aftermarket) (Unl)-thumb.png</thumbnail>
+		<rating>0.5</rating>
+		<releasedate>20031016T000000</releasedate>
+		<developer>Christian Radke (KR155E)</developer>
+		<publisher>Planet Virtual Boy</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<md5>f82d4c9fdd81518537d88f70c6602bb5</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231105T041341" />
+	</game>
+	<game id="420603">
+		<path>./No-Intro/BLOX 2 (World) (En,Fr,De,Es,It,Sv,Fi,Cs,Sl) (Aftermarket) (Unl).vb</path>
+		<name>ZZZ(notgame):Blox 2</name>
+		<hidden>true</hidden>
+		<md5>cc91d6389df2c9777919e8e8ab2c0e66</md5>
+		<lang>de,en,es,fr,it</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231105T041343" />
+	</game>
+	<game id="44479">
+		<path>./No-Intro/Bound High (Japan) (En) (Proto).vb</path>
+		<name>Bound High!</name>
+		<desc>Bound High is one of the games that could have saved the Virtualboy if the console had been relaunched. The game was postponed several times and finally cancelled due to the lack of success of the console, despite having been completed. Chalvo, the bouncing robot, tracks down alien invaders, who threaten the peace of the inhabitants of Earth, in 3D levels located in space - above Earth or in similar universes.</desc>
+		<image>./images/Bound High (Japan) (En) (Proto)-image.png</image>
+		<video>./videos/Bound High (Japan) (En) (Proto)-video.mp4</video>
+		<marquee>./images/Bound High (Japan) (En) (Proto)-marquee.png</marquee>
+		<thumbnail>./images/Bound High (Japan) (En) (Proto)-thumb.png</thumbnail>
+		<fanart>./images/Bound High (Japan) (En) (Proto)-fanart.jpg</fanart>
+		<rating>0.6</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Japan System Supply</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Various</genre>
+		<players>1</players>
+		<md5>a460e2660fa951e9d4e3b05aee9f5018</md5>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231105T041356" />
+	</game>
+	<game id="172272">
+		<path>./No-Intro/Capitan Sevilla 2 (World) (Es) (Aftermarket) (Unl).vb</path>
+		<name>Capitan Sevilla 2</name>
+		<desc>Capitan Sevilla 2 is a port of the Action game Capitan Sevilla published on ZX Spectrum in 1988.</desc>
+		<image>./images/Capitan Sevilla 2 (World) (Es) (Aftermarket) (Unl)-image.png</image>
+		<video>./videos/Capitan Sevilla 2 (World) (Es) (Aftermarket) (Unl)-video.mp4</video>
+		<marquee>./images/Capitan Sevilla 2 (World) (Es) (Aftermarket) (Unl)-marquee.png</marquee>
+		<thumbnail>./images/Capitan Sevilla 2 (World) (Es) (Aftermarket) (Unl)-thumb.png</thumbnail>
+		<developer>Hi Score</developer>
+		<publisher>PVB Coding Competition 2010</publisher>
+		<genre>Action / Adventure</genre>
+		<players>1</players>
+		<md5>fe92b28e43edd00c6b9401d81446a0a7</md5>
+		<lang>en,es</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231105T041408" />
+	</game>
+	<game id="423892">
+		<path>./No-Intro/Capitan Sevilla 3D (World) (En,De,Es) (Demo) (Aftermarket) (Unl).vb</path>
+		<name>Capitan Sevilla 3D</name>
+		<desc>Capitán Sevilla 3D is a remake of Capitán Sevilla 2, which in turn is a tribute and sequel to Hi-Score's and Dinamic Software's Capitán Sevilla for Amstrad CPC, ZX Spectrum and MSX from 1988. It's a humorous side-scrolling action platformer where you jump and shoot your way through a total of 4 areas.
+
+The original game demo by Rubén Garcerá Soto won 2nd prize in the PVB Coding Competition 2010. In 2018, under the new name “Capitán Sevilla 3D”, the game has been rebuilt from the ground up in VUEngine by the VUEngine team. Since the original game demo was 2D-only, all the environments have been remastered in 3D. A demo has been made available to backers of the VUEngine Patreon campaign. It contained the first three (out of four) areas and was fully playable from start to finish.</desc>
+		<image>./images/Capitan Sevilla 3D (World) (En,De,Es) (Demo) (Aftermarket) (Unl)-image.jpg</image>
+		<marquee>./images/Capitan Sevilla 3D (World) (En,De,Es) (Demo) (Aftermarket) (Unl)-marquee.png</marquee>
+		<thumbnail>./images/Capitan Sevilla 3D (World) (En,De,Es) (Demo) (Aftermarket) (Unl)-thumb.png</thumbnail>
+		<releasedate>20180101T000000</releasedate>
+		<developer>Jorgeche</developer>
+		<genre>Platform / Run Jump Scrolling</genre>
+		<players>1</players>
+		<md5>101479a7e4b20566465ded419eb550b0</md5>
+		<lang>de,en,es</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231105T041417" />
+	</game>
+	<game id="423760">
+		<path>./No-Intro/Elevated Speed (World) (High Resolution Version) (Aftermarket) (Unl).vb</path>
+		<name>Elevated Speed</name>
+		<desc>The year is 2017. While EM vehicles have been available to the wealthy for decades, a “misplaced” shipment of military-grade EMV components has fallen into the hands of the speed gangs of San Angeles.
+
+A new era of racing has dawned.
+
+Strap yourself into the cockpit of a futuristic racing machine and step on the boost! Elevated Speed takes you to the neon-lit future of 2017 to prove yourself to be the fastest EMV driver on Earth… and beyond!</desc>
+		<image>./images/Elevated Speed (World) (High Resolution Version) (Aftermarket) (Unl)-image.jpg</image>
+		<video>./videos/Elevated Speed (World) (High Resolution Version) (Aftermarket) (Unl)-video.mp4</video>
+		<marquee>./images/Elevated Speed (World) (High Resolution Version) (Aftermarket) (Unl)-marquee.png</marquee>
+		<thumbnail>./images/Elevated Speed (World) (High Resolution Version) (Aftermarket) (Unl)-thumb.png</thumbnail>
+		<releasedate>20210101T000000</releasedate>
+		<developer>PizzaRollsRoyce</developer>
+		<genre>Race, Driving</genre>
+		<players>1-2</players>
+		<md5>8f7bcfdd0f412d9060b06a97a89fe202</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231105T041430" />
+	</game>
+	<game id="423760">
+		<path>./No-Intro/Elevated Speed (World) (Low Resolution Version) (Aftermarket) (Unl).vb</path>
+		<name>Elevated Speed</name>
+		<desc>The year is 2017. While EM vehicles have been available to the wealthy for decades, a “misplaced” shipment of military-grade EMV components has fallen into the hands of the speed gangs of San Angeles.
+
+A new era of racing has dawned.
+
+Strap yourself into the cockpit of a futuristic racing machine and step on the boost! Elevated Speed takes you to the neon-lit future of 2017 to prove yourself to be the fastest EMV driver on Earth… and beyond!</desc>
+		<image>./images/Elevated Speed (World) (Low Resolution Version) (Aftermarket) (Unl)-image.jpg</image>
+		<video>./videos/Elevated Speed (World) (Low Resolution Version) (Aftermarket) (Unl)-video.mp4</video>
+		<marquee>./images/Elevated Speed (World) (Low Resolution Version) (Aftermarket) (Unl)-marquee.png</marquee>
+		<thumbnail>./images/Elevated Speed (World) (Low Resolution Version) (Aftermarket) (Unl)-thumb.png</thumbnail>
+		<releasedate>20210101T000000</releasedate>
+		<developer>PizzaRollsRoyce</developer>
+		<genre>Race, Driving</genre>
+		<players>1-2</players>
+		<md5>0b310032ec2ebfcefb12676e4a8c7414</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231105T041442" />
+	</game>
+	<game id="172278">
+		<path>./No-Intro/Fishbone (World) (Aftermarket) (Unl).vb</path>
+		<name>Fishbone</name>
+		<desc>Big fish eat small fish! In Fishbone you play as a fish called Bubbles and go for Highscores in a total of 4 levels by eating as many smaller fish as you can, while avoiding the ones bigger than you, bombs and other harmful things.</desc>
+		<image>./images/Fishbone (World) (Aftermarket) (Unl)-image.png</image>
+		<video>./videos/Fishbone (World) (Aftermarket) (Unl)-video.mp4</video>
+		<marquee>./images/Fishbone (World) (Aftermarket) (Unl)-marquee.png</marquee>
+		<thumbnail>./images/Fishbone (World) (Aftermarket) (Unl)-thumb.png</thumbnail>
+		<releasedate>20121104T000000</releasedate>
+		<developer>ThunderStruck</developer>
+		<publisher>ThunderStruck</publisher>
+		<players>1</players>
+		<md5>eee8be03986ddbc3ada91b10a543f17e</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231105T041455" />
+	</game>
+	<game id="172278">
+		<path>./No-Intro/Fishbone (World) (Demo 1) (Aftermarket) (Unl).vb</path>
+		<name>Fishbone</name>
+		<desc>Big fish eat small fish! In Fishbone you play as a fish called Bubbles and go for Highscores in a total of 4 levels by eating as many smaller fish as you can, while avoiding the ones bigger than you, bombs and other harmful things.</desc>
+		<image>./images/Fishbone (World) (Demo 1) (Aftermarket) (Unl)-image.png</image>
+		<video>./videos/Fishbone (World) (Demo 1) (Aftermarket) (Unl)-video.mp4</video>
+		<marquee>./images/Fishbone (World) (Demo 1) (Aftermarket) (Unl)-marquee.png</marquee>
+		<thumbnail>./images/Fishbone (World) (Demo 1) (Aftermarket) (Unl)-thumb.png</thumbnail>
+		<releasedate>20121104T000000</releasedate>
+		<developer>ThunderStruck</developer>
+		<publisher>ThunderStruck</publisher>
+		<players>1</players>
+		<md5>5db98a9e661512105b93268d4f80adfd</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231105T041507" />
+	</game>
+	<game id="172278">
+		<path>./No-Intro/Fishbone (World) (Demo 2) (Aftermarket) (Unl).vb</path>
+		<name>Fishbone</name>
+		<desc>Big fish eat small fish! In Fishbone you play as a fish called Bubbles and go for Highscores in a total of 4 levels by eating as many smaller fish as you can, while avoiding the ones bigger than you, bombs and other harmful things.</desc>
+		<image>./images/Fishbone (World) (Demo 2) (Aftermarket) (Unl)-image.png</image>
+		<video>./videos/Fishbone (World) (Demo 2) (Aftermarket) (Unl)-video.mp4</video>
+		<marquee>./images/Fishbone (World) (Demo 2) (Aftermarket) (Unl)-marquee.png</marquee>
+		<thumbnail>./images/Fishbone (World) (Demo 2) (Aftermarket) (Unl)-thumb.png</thumbnail>
+		<releasedate>20121104T000000</releasedate>
+		<developer>ThunderStruck</developer>
+		<publisher>ThunderStruck</publisher>
+		<players>1</players>
+		<md5>919c64e6a2d4d1d952df1e8e8f5ccb64</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231105T041518" />
+	</game>
+	<game id="172278">
+		<path>./No-Intro/Fishbone (World) (Demo 3) (Aftermarket) (Unl).vb</path>
+		<name>Fishbone</name>
+		<desc>Big fish eat small fish! In Fishbone you play as a fish called Bubbles and go for Highscores in a total of 4 levels by eating as many smaller fish as you can, while avoiding the ones bigger than you, bombs and other harmful things.</desc>
+		<image>./images/Fishbone (World) (Demo 3) (Aftermarket) (Unl)-image.png</image>
+		<video>./videos/Fishbone (World) (Demo 3) (Aftermarket) (Unl)-video.mp4</video>
+		<marquee>./images/Fishbone (World) (Demo 3) (Aftermarket) (Unl)-marquee.png</marquee>
+		<thumbnail>./images/Fishbone (World) (Demo 3) (Aftermarket) (Unl)-thumb.png</thumbnail>
+		<releasedate>20121104T000000</releasedate>
+		<developer>ThunderStruck</developer>
+		<publisher>ThunderStruck</publisher>
+		<players>1</players>
+		<md5>fcb59e8ab2a38ea21f1c7dfb46fa7416</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231105T041532" />
+	</game>
+	<game id="422787">
+		<path>./No-Intro/Formula V (World) (Demo) (Emulator Version) (Aftermarket) (Unl).vb</path>
+		<name>Formula V</name>
+		<desc>Formula V is a fast, futuristic top-down racing game, think F-Zero meets Micro Machines. It is about a high velocity racing series featuring spaceship-like, hovering racers that succeeded today's “Formula” racing series, like “Formula 1”. The game is currently being developed by Team VUEngine, funded through their Patreon campaign. Regular work-in-progress demos are available for backers of the campaign and there's a recent public demo as well.</desc>
+		<image>./images/Formula V (World) (Demo) (Emulator Version) (Aftermarket) (Unl)-image.png</image>
+		<marquee>./images/Formula V (World) (Demo) (Emulator Version) (Aftermarket) (Unl)-marquee.png</marquee>
+		<thumbnail>./images/Formula V (World) (Demo) (Emulator Version) (Aftermarket) (Unl)-thumb.png</thumbnail>
+		<releasedate>20220101T000000</releasedate>
+		<developer>Jorgeche</developer>
+		<publisher>KR155E</publisher>
+		<genre>Race, Driving</genre>
+		<players>1-2</players>
+		<md5>34e9a2ffd60f7ea565caada82d57f29f</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231105T041542" />
+	</game>
+	<game id="422787">
+		<path>./No-Intro/Formula V (World) (Demo) (Hardware Version) (Aftermarket) (Unl).vb</path>
+		<name>Formula V</name>
+		<desc>Formula V is a fast, futuristic top-down racing game, think F-Zero meets Micro Machines. It is about a high velocity racing series featuring spaceship-like, hovering racers that succeeded today's “Formula” racing series, like “Formula 1”. The game is currently being developed by Team VUEngine, funded through their Patreon campaign. Regular work-in-progress demos are available for backers of the campaign and there's a recent public demo as well.</desc>
+		<image>./images/Formula V (World) (Demo) (Hardware Version) (Aftermarket) (Unl)-image.png</image>
+		<marquee>./images/Formula V (World) (Demo) (Hardware Version) (Aftermarket) (Unl)-marquee.png</marquee>
+		<thumbnail>./images/Formula V (World) (Demo) (Hardware Version) (Aftermarket) (Unl)-thumb.png</thumbnail>
+		<releasedate>20220101T000000</releasedate>
+		<developer>Jorgeche</developer>
+		<publisher>KR155E</publisher>
+		<genre>Race, Driving</genre>
+		<players>1-2</players>
+		<md5>8e7b777e5a5e130d4b6c3b6481426bc8</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231105T041551" />
+	</game>
+	<game id="420798">
+		<path>./No-Intro/Hamburgers En Route to Switzerland (World) (Aftermarket) (Unl).vb</path>
+		<name>Hamburgers En Route to Switzerland</name>
+		<desc>"Hamburgers En Route To Switzerland" is a side-scrolling Shoot'em Up, where you play as a flying hamburger.
+
+you control zybort, the burger scout, as the front of the burger flock heading towards switzerland. along the migration path are vicious milkshakes to shoot and horrible onion rings to avoid. can zybort lead the burgers to the lovely land of switzer? take that controller in your hands and find out!</desc>
+		<image>./images/Hamburgers En Route to Switzerland (World) (Aftermarket) (Unl)-image.png</image>
+		<marquee>./images/Hamburgers En Route to Switzerland (World) (Aftermarket) (Unl)-marquee.png</marquee>
+		<thumbnail>./images/Hamburgers En Route to Switzerland (World) (Aftermarket) (Unl)-thumb.png</thumbnail>
+		<releasedate>20201022T000000</releasedate>
+		<developer>VirtualChris</developer>
+		<genre>Platform / Shooter Scrolling</genre>
+		<players>1</players>
+		<md5>45aa19c4b2f10c7ef6782b0cb356e265</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231105T041602" />
+	</game>
+	<game id="420798">
+		<path>./No-Intro/Hamburgers En Route to Switzerland (World) (Demo 1) (Aftermarket) (Unl).vb</path>
+		<name>Hamburgers En Route to Switzerland</name>
+		<desc>"Hamburgers En Route To Switzerland" is a side-scrolling Shoot'em Up, where you play as a flying hamburger.
+
+you control zybort, the burger scout, as the front of the burger flock heading towards switzerland. along the migration path are vicious milkshakes to shoot and horrible onion rings to avoid. can zybort lead the burgers to the lovely land of switzer? take that controller in your hands and find out!</desc>
+		<image>./images/Hamburgers En Route to Switzerland (World) (Demo 1) (Aftermarket) (Unl)-image.png</image>
+		<marquee>./images/Hamburgers En Route to Switzerland (World) (Demo 1) (Aftermarket) (Unl)-marquee.png</marquee>
+		<thumbnail>./images/Hamburgers En Route to Switzerland (World) (Demo 1) (Aftermarket) (Unl)-thumb.png</thumbnail>
+		<releasedate>20201022T000000</releasedate>
+		<developer>VirtualChris</developer>
+		<genre>Platform / Shooter Scrolling</genre>
+		<players>1</players>
+		<md5>32ec901e7ac6f96cf7d15c82afb228b4</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231105T041611" />
+	</game>
+	<game id="420798">
+		<path>./No-Intro/Hamburgers En Route to Switzerland (World) (Demo 2) (Aftermarket) (Unl).vb</path>
+		<name>Hamburgers En Route to Switzerland</name>
+		<desc>"Hamburgers En Route To Switzerland" is a side-scrolling Shoot'em Up, where you play as a flying hamburger.
+
+you control zybort, the burger scout, as the front of the burger flock heading towards switzerland. along the migration path are vicious milkshakes to shoot and horrible onion rings to avoid. can zybort lead the burgers to the lovely land of switzer? take that controller in your hands and find out!</desc>
+		<image>./images/Hamburgers En Route to Switzerland (World) (Demo 2) (Aftermarket) (Unl)-image.png</image>
+		<marquee>./images/Hamburgers En Route to Switzerland (World) (Demo 2) (Aftermarket) (Unl)-marquee.png</marquee>
+		<thumbnail>./images/Hamburgers En Route to Switzerland (World) (Demo 2) (Aftermarket) (Unl)-thumb.png</thumbnail>
+		<releasedate>20201022T000000</releasedate>
+		<developer>VirtualChris</developer>
+		<genre>Platform / Shooter Scrolling</genre>
+		<players>1</players>
+		<md5>2cb4bfe7564f5a1f9edbbd481e9dcbba</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231105T041620" />
+	</game>
+	<game id="172277">
+		<path>./No-Intro/Hyper Fighting (World) (Aftermarket) (Unl).vb</path>
+		<name>Hyper Fighting</name>
+		<desc>Port of Street Fighter 2 on Virtualboy. You can play only with Ryu and against Dhalsim, Ryu, Chun Li and Guile.</desc>
+		<image>./images/Hyper Fighting (World) (Aftermarket) (Unl)-image.png</image>
+		<video>./videos/Hyper Fighting (World) (Aftermarket) (Unl)-video.mp4</video>
+		<marquee>./images/Hyper Fighting (World) (Aftermarket) (Unl)-marquee.png</marquee>
+		<thumbnail>./images/Hyper Fighting (World) (Aftermarket) (Unl)-thumb.png</thumbnail>
+		<fanart>./images/Hyper Fighting (World) (Aftermarket) (Unl)-fanart.jpg</fanart>
+		<releasedate>20130828T000000</releasedate>
+		<developer>M.K., Mr. Anon</developer>
+		<publisher>virtual-boy.com</publisher>
+		<genre>Fight</genre>
+		<players>1</players>
+		<md5>c2047a94dcb0db30794c8533ba625622</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231105T041634" />
+	</game>
+	<game id="172277">
+		<path>./No-Intro/Hyper Fighting (World) (Beta) (Aftermarket) (Unl).vb</path>
+		<name>Hyper Fighting</name>
+		<desc>Port of Street Fighter 2 on Virtualboy. You can play only with Ryu and against Dhalsim, Ryu, Chun Li and Guile.</desc>
+		<image>./images/Hyper Fighting (World) (Beta) (Aftermarket) (Unl)-image.png</image>
+		<video>./videos/Hyper Fighting (World) (Beta) (Aftermarket) (Unl)-video.mp4</video>
+		<marquee>./images/Hyper Fighting (World) (Beta) (Aftermarket) (Unl)-marquee.png</marquee>
+		<thumbnail>./images/Hyper Fighting (World) (Beta) (Aftermarket) (Unl)-thumb.png</thumbnail>
+		<fanart>./images/Hyper Fighting (World) (Beta) (Aftermarket) (Unl)-fanart.jpg</fanart>
+		<releasedate>20130828T000000</releasedate>
+		<developer>M.K., Mr. Anon</developer>
+		<publisher>virtual-boy.com</publisher>
+		<genre>Fight</genre>
+		<players>1</players>
+		<md5>b3e46cdbe57d3995065daa917a858a76</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231105T041648" />
+	</game>
+	<game id="423769">
+		<path>./No-Intro/Insecticide (World) (Aftermarket) (Unl).vb</path>
+		<name>Insecticide</name>
+		<image>./images/Insecticide (World) (Aftermarket) (Unl)-image.png</image>
+		<marquee>./images/Insecticide (World) (Aftermarket) (Unl)-marquee.png</marquee>
+		<thumbnail>./images/Insecticide (World) (Aftermarket) (Unl)-thumb.png</thumbnail>
+		<md5>f2358ae652afb6a2520cd6df89ee6b7e</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231105T041657" />
+	</game>
+	<game>
+		<path>./No-Intro/Insmouth no Yakata (Japan).vb</path>
+		<name>Insmouth no Yakata (Japan)</name>
+		<md5>1eb964d0eaa3223cfefdcc99a6265c88</md5>
+		<scrap name="ScreenScraper" date="20231105T041658" />
+	</game>
+	<game id="4730">
+		<path>./No-Intro/Jack Bros. no Meiro de Hiihoo! (Japan).vb</path>
+		<name>Jack Bros. no Meiro de Hiihoo!</name>
+		<desc>Jack Bros., is an adventure video game released in 1995 on Virtual Boy. Once a year, at Halloween, the door between our country and the fairies opens. All fairy should return to Fairieland 23:00, otherwise, they will be banished forever. You must choose one of three Jack Bros. as your character. Each has its own attributes and weapons and special attacks.</desc>
+		<image>./images/Jack Bros. no Meiro de Hiihoo! (Japan)-image.png</image>
+		<video>./videos/Jack Bros. no Meiro de Hiihoo! (Japan)-video.mp4</video>
+		<marquee>./images/Jack Bros. no Meiro de Hiihoo! (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Jack Bros. no Meiro de Hiihoo! (Japan)-thumb.png</thumbnail>
+		<fanart>./images/Jack Bros. no Meiro de Hiihoo! (Japan)-fanart.jpg</fanart>
+		<manual>./manuals/Jack Bros. no Meiro de Hiihoo! (Japan)-manual.pdf</manual>
+		<rating>0.8</rating>
+		<releasedate>19950929T000000</releasedate>
+		<developer>Atlus</developer>
+		<publisher>Atlus</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<md5>1b177fe2dd12ec1d67f6a43502f8d391</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231105T041715" />
+	</game>
+	<game id="172268">
+		<path>./No-Intro/Mario Combat (World) (Aftermarket) (Unl).vb</path>
+		<name>Mario Combat</name>
+		<desc>First person Mario shooting game.</desc>
+		<image>./images/Mario Combat (World) (Aftermarket) (Unl)-image.png</image>
+		<video>./videos/Mario Combat (World) (Aftermarket) (Unl)-video.mp4</video>
+		<marquee>./images/Mario Combat (World) (Aftermarket) (Unl)-marquee.png</marquee>
+		<thumbnail>./images/Mario Combat (World) (Aftermarket) (Unl)-thumb.png</thumbnail>
+		<fanart>./images/Mario Combat (World) (Aftermarket) (Unl)-fanart.jpg</fanart>
+		<releasedate>20140101T000000</releasedate>
+		<developer>ThunderStruck</developer>
+		<publisher>Planet Virtual Boy</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<md5>6fd50c08f16d44da026dca190ade43fe</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231105T041729" />
+	</game>
+	<game id="172267">
+		<path>./No-Intro/Mario Kart - Virtual Cup (World) (Aftermarket) (Unl).vb</path>
+		<name>Mario Kart Virtual Cup</name>
+		<desc>homebrew of the famous karting game with Mario as hero.</desc>
+		<image>./images/Mario Kart - Virtual Cup (World) (Aftermarket) (Unl)-image.png</image>
+		<video>./videos/Mario Kart - Virtual Cup (World) (Aftermarket) (Unl)-video.mp4</video>
+		<marquee>./images/Mario Kart - Virtual Cup (World) (Aftermarket) (Unl)-marquee.png</marquee>
+		<thumbnail>./images/Mario Kart - Virtual Cup (World) (Aftermarket) (Unl)-thumb.png</thumbnail>
+		<fanart>./images/Mario Kart - Virtual Cup (World) (Aftermarket) (Unl)-fanart.jpg</fanart>
+		<rating>0.8</rating>
+		<releasedate>20080930T000000</releasedate>
+		<developer>DogP</developer>
+		<publisher>DogP</publisher>
+		<genre>Race, Driving</genre>
+		<family>Mario Kart</family>
+		<players>1</players>
+		<md5>4b8c8b6a7711a005dd896b3ee9b8d0f1</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231105T041744" />
+	</game>
+	<game id="172266">
+		<path>./No-Intro/Mario VB (World) (Aftermarket) (Unl).vb</path>
+		<name>Mario Vb</name>
+		<desc>VB Mario Land, also known as Mario Adventure, is a canceled Mario game that was originally going to be released for the Virtual Boy. A single-level playable demo was unveiled at the Winter Consumer Electronics Show 1995 in Las Vegas.
+The game was to be a two-dimensional side-scrolling game that would also use three-dimensional perspectives, such moving between the background and foreground of the level. It would star Mario as the main character, using classic Super Mario Bros.-style elements such as Warp Pipes, Koopa Troopas and ? Blocks. Although VB Mario Land's story was not revealed, a large Wario-like figure which functioned similar to a Thwomp was seen in the playable demo. In certain areas, an overhead view was displayed, much like the The Legend of Zelda series of games. The first level ends at the Goal Pole, and Mario can be seen entering a Castle.
+A three-dimensional version of Mario Bros. was mentioned to be implemented into VB Mario Land as a minigame, though this was later released as a separate game titled Mario Clash.</desc>
+		<image>./images/Mario VB (World) (Aftermarket) (Unl)-image.png</image>
+		<video>./videos/Mario VB (World) (Aftermarket) (Unl)-video.mp4</video>
+		<marquee>./images/Mario VB (World) (Aftermarket) (Unl)-marquee.png</marquee>
+		<thumbnail>./images/Mario VB (World) (Aftermarket) (Unl)-thumb.png</thumbnail>
+		<fanart>./images/Mario VB (World) (Aftermarket) (Unl)-fanart.jpg</fanart>
+		<rating>0.9</rating>
+		<releasedate>20080908T000000</releasedate>
+		<genre>Platform</genre>
+		<players>1</players>
+		<md5>03f72468609897a17028823691fc1c56</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231105T041759" />
+	</game>
+	<game id="44480">
+		<path>./No-Intro/Niko-chan Battle (Japan) (Proto).vb</path>
+		<name>NikoChan Battle</name>
+		<desc>Faceball was going to be one of the games to support the unreleased Virtual Boy GameLink cable. Like the Faceball games on other consoles (like Faceball 2000 on Game Boy and SNES), the Virtual Boy version could be described as an ego shooter with smiley balls. In a maze, which completely misses all unnecessary details and even textures, you have to hunt down and shoot all enemies in a certain time limit, which gets smaller from level to level. A radar in the upper right corner and a map of the maze, which you can be displayed by pressing Start, help you locate your foes.</desc>
+		<image>./images/Niko-chan Battle (Japan) (Proto)-image.png</image>
+		<video>./videos/Niko-chan Battle (Japan) (Proto)-video.mp4</video>
+		<marquee>./images/Niko-chan Battle (Japan) (Proto)-marquee.png</marquee>
+		<thumbnail>./images/Niko-chan Battle (Japan) (Proto)-thumb.png</thumbnail>
+		<fanart>./images/Niko-chan Battle (Japan) (Proto)-fanart.jpg</fanart>
+		<rating>0.4</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Bullet Proof Software</developer>
+		<publisher>Bullet Proof Software</publisher>
+		<genre>Shooter / 1st person</genre>
+		<players>1</players>
+		<md5>d9a0215782dcacee5a3c4cc83d1c5189</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231105T041814" />
+	</game>
+	<game id="423898">
+		<path>./No-Intro/Null Pointer Mockup (World) (Demo) (Aftermarket) (Unl).vb</path>
+		<name>ZZZ(notgame):Null Pointer Mockup</name>
+		<hidden>true</hidden>
+		<md5>39ea7766c44b19461ca8fc2a3484f8f8</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231105T041816" />
+	</game>
+	<game id="4734">
+		<path>./No-Intro/Red Alarm (Japan).vb</path>
+		<name>Red Alarm</name>
+		<desc>Bursting through incredible dimensions of Virtual space the final mission is clear. Obliterate all enemies and obstacles created by KAOS and terminate this menacing battle system from within.
+
+Employing an impressive arsenal of high-tech weapons and evasive maneuvers the Tech-Wing Fighter speeds on. Spinning deaths, spy pods and mosquito mechs appear from everywhere! The fate of humanity will soon be defined. Red Alarm! Red Alarm! Alarm Condition Red!!</desc>
+		<image>./images/Red Alarm (Japan)-image.png</image>
+		<video>./videos/Red Alarm (Japan)-video.mp4</video>
+		<marquee>./images/Red Alarm (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Red Alarm (Japan)-thumb.png</thumbnail>
+		<fanart>./images/Red Alarm (Japan)-fanart.jpg</fanart>
+		<manual>./manuals/Red Alarm (Japan)-manual.pdf</manual>
+		<rating>0.7</rating>
+		<releasedate>19950721T000000</releasedate>
+		<developer>Technical Engineering Support</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Simulation</genre>
+		<players>1</players>
+		<md5>bc469bf797f4774bbb1678c7f500853b</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231105T041834" />
+	</game>
+	<game id="423757">
+		<path>./No-Intro/Red Square (World) (Aftermarket) (Unl).vb</path>
+		<name>Red Square</name>
+		<desc>Red Square is a Yume Nikki Fan Game for the Nintendo Virtual Boy, created in 6 weeks for the 2019 Dream Diary Jam.
+
+It is written entirely in NEC V810 assembly, with programming by Kresna and graphics by Nyrator.
+
+Play as Nina and explore her dreams, collecting various effects along the way. Once all 4 effects have been collected the ending becomes available.</desc>
+		<image>./images/Red Square (World) (Aftermarket) (Unl)-image.png</image>
+		<marquee>./images/Red Square (World) (Aftermarket) (Unl)-marquee.png</marquee>
+		<thumbnail>./images/Red Square (World) (Aftermarket) (Unl)-thumb.png</thumbnail>
+		<releasedate>20190101T000000</releasedate>
+		<developer>Kresna</developer>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<md5>60cc7855db22ff05c8ed7f18687197fc</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231105T041843" />
+	</game>
+	<game id="4735">
+		<path>./No-Intro/SD Gundam - Dimension War (Japan).vb</path>
+		<name>SD Gundam - Dimension War</name>
+		<desc>Based on the popular mecha anime franchise, SD Gundam Dimension War is a turn-based strategy game where you are place in command of a small task force as you travel across the galaxy aiming to wipe out the opposing units you encounter. Gameplay is split in to two parts - a map screen where you manoeuvre your troops and a close up view for battles.</desc>
+		<image>./images/SD Gundam - Dimension War (Japan)-image.png</image>
+		<video>./videos/SD Gundam - Dimension War (Japan)-video.mp4</video>
+		<marquee>./images/SD Gundam - Dimension War (Japan)-marquee.png</marquee>
+		<thumbnail>./images/SD Gundam - Dimension War (Japan)-thumb.png</thumbnail>
+		<fanart>./images/SD Gundam - Dimension War (Japan)-fanart.jpg</fanart>
+		<manual>./manuals/SD Gundam - Dimension War (Japan)-manual.pdf</manual>
+		<rating>0.3</rating>
+		<releasedate>19951222T000000</releasedate>
+		<developer>Bandai Namco</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Strategy</genre>
+		<family>SD Gundam</family>
+		<players>1</players>
+		<md5>1cf8c69d8a740d6ef3aab54deced31c4</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231105T041900" />
+	</game>
+	<game id="172269">
+		<path>./No-Intro/Snatcher (World) (Demo) (Aftermarket) (Unl).vb</path>
+		<name>Snatcher</name>
+		<desc>Snatcher is set in the futuristic Neo Kobe City, a city of madness and decadence. The year is 2047. Mankind is facing its gravest crisis. A mysterious bio-roid life form has appeared. Its true nature and purpose are unknown. Is it some country's secret weapon, or an alien from another world? They appear in the winter, killing people and taking their place in society. They wear artificial skin and can sweat and even bleed. 
+
+A new police force, specifically trained to fight the Snatchers, has been formed. They are JUNKERs. Every time you encounter someone, a difficult question must be asked ? is it a person or a snatcher?
+
+The player takes control of Gillian Seed, one of the JUNKERs. The gameplay largely follows the structure of a Japanese-style adventure. The player uses a menu-driven interface to execute commands, which include moving between locations and interacting with the environment.</desc>
+		<image>./images/Snatcher (World) (Demo) (Aftermarket) (Unl)-image.png</image>
+		<video>./videos/Snatcher (World) (Demo) (Aftermarket) (Unl)-video.mp4</video>
+		<marquee>./images/Snatcher (World) (Demo) (Aftermarket) (Unl)-marquee.png</marquee>
+		<thumbnail>./images/Snatcher (World) (Demo) (Aftermarket) (Unl)-thumb.png</thumbnail>
+		<fanart>./images/Snatcher (World) (Demo) (Aftermarket) (Unl)-fanart.jpg</fanart>
+		<releasedate>20150415T000000</releasedate>
+		<developer>Hideo Kojima</developer>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<md5>2999c7db49198890d5f1d4002563804e</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231105T041914" />
+	</game>
+	<game id="423763">
+		<path>./No-Intro/Snowball Wars (World) (Demo 1) (Aftermarket) (Unl).vb</path>
+		<name>Snowball Wars</name>
+		<image>./images/Snowball Wars (World) (Demo 1) (Aftermarket) (Unl)-image.png</image>
+		<marquee>./images/Snowball Wars (World) (Demo 1) (Aftermarket) (Unl)-marquee.png</marquee>
+		<thumbnail>./images/Snowball Wars (World) (Demo 1) (Aftermarket) (Unl)-thumb.png</thumbnail>
+		<releasedate>20070101T000000</releasedate>
+		<developer>Jorgeche</developer>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<md5>d693a18192cbc1bd4aa678af9a3ae0d1</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231105T041923" />
+	</game>
+	<game id="423763">
+		<path>./No-Intro/Snowball Wars (World) (Demo 2) (Aftermarket) (Unl).vb</path>
+		<name>Snowball Wars</name>
+		<image>./images/Snowball Wars (World) (Demo 2) (Aftermarket) (Unl)-image.png</image>
+		<marquee>./images/Snowball Wars (World) (Demo 2) (Aftermarket) (Unl)-marquee.png</marquee>
+		<thumbnail>./images/Snowball Wars (World) (Demo 2) (Aftermarket) (Unl)-thumb.png</thumbnail>
+		<releasedate>20070101T000000</releasedate>
+		<developer>Jorgeche</developer>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<md5>ccb7a50d7fc23ec2890db7771a077392</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231105T041933" />
+	</game>
+	<game id="423763">
+		<path>./No-Intro/Snowball Wars (World) (Demo 3) (Aftermarket) (Unl).vb</path>
+		<name>Snowball Wars</name>
+		<image>./images/Snowball Wars (World) (Demo 3) (Aftermarket) (Unl)-image.png</image>
+		<marquee>./images/Snowball Wars (World) (Demo 3) (Aftermarket) (Unl)-marquee.png</marquee>
+		<thumbnail>./images/Snowball Wars (World) (Demo 3) (Aftermarket) (Unl)-thumb.png</thumbnail>
+		<releasedate>20070101T000000</releasedate>
+		<developer>Jorgeche</developer>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<md5>39f4ded02b9a58c1958f521d27d841af</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231105T041943" />
+	</game>
+	<game id="172270">
+		<path>./No-Intro/Soviet Union 2010 (World) (v1.0) (Aftermarket) (Unl).vb</path>
+		<name>Soviet Union 2010</name>
+		<desc>Some scientists from Vladivostok have invented a time machine and used it to go to back to the 1960s, the time of the Space Race between the USSR and USA.
+It worked, but on return to 2010, a malfunction sent them to a parallel universe where the Cold War is still going on.
+You're one of the members of the Red Army. Save the scientists!
+You control a space ship that's equipped with a cannon. Your mission is to destroy as many USA-serving ships as possible, and get out alive while getting as many points as possible.</desc>
+		<image>./images/Soviet Union 2010 (World) (v1.0) (Aftermarket) (Unl)-image.png</image>
+		<video>./videos/Soviet Union 2010 (World) (v1.0) (Aftermarket) (Unl)-video.mp4</video>
+		<marquee>./images/Soviet Union 2010 (World) (v1.0) (Aftermarket) (Unl)-marquee.png</marquee>
+		<thumbnail>./images/Soviet Union 2010 (World) (v1.0) (Aftermarket) (Unl)-thumb.png</thumbnail>
+		<releasedate>20101101T000000</releasedate>
+		<developer>Matej Horvat</developer>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
+		<md5>90ef8d48eb3178f32e9ef45ac83ef7e1</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231105T041954" />
+	</game>
+	<game id="172270">
+		<path>./No-Intro/Soviet Union 2010 (World) (v1.2) (Aftermarket) (Unl).vb</path>
+		<name>Soviet Union 2010</name>
+		<desc>Some scientists from Vladivostok have invented a time machine and used it to go to back to the 1960s, the time of the Space Race between the USSR and USA.
+It worked, but on return to 2010, a malfunction sent them to a parallel universe where the Cold War is still going on.
+You're one of the members of the Red Army. Save the scientists!
+You control a space ship that's equipped with a cannon. Your mission is to destroy as many USA-serving ships as possible, and get out alive while getting as many points as possible.</desc>
+		<image>./images/Soviet Union 2010 (World) (v1.2) (Aftermarket) (Unl)-image.png</image>
+		<video>./videos/Soviet Union 2010 (World) (v1.2) (Aftermarket) (Unl)-video.mp4</video>
+		<marquee>./images/Soviet Union 2010 (World) (v1.2) (Aftermarket) (Unl)-marquee.png</marquee>
+		<thumbnail>./images/Soviet Union 2010 (World) (v1.2) (Aftermarket) (Unl)-thumb.png</thumbnail>
+		<releasedate>20101101T000000</releasedate>
+		<developer>Matej Horvat</developer>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
+		<md5>74d21ea01f97ac19e018d7f5a3e3bc7c</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231105T042007" />
+	</game>
+	<game id="172271">
+		<path>./No-Intro/Soviet Union 2011 (World) (Beta 1) (Aftermarket) (Unl).vb</path>
+		<name>Soviet Union 2011</name>
+		<desc>It is now the year 2011. The war between the two superpowers is still going on. After successfully taking out scores of the United States space army's ships, the Red Army has sent you to make order on Earth.
+The war on Earth is severe and has taken many lives. The United States air forces are strong and dangerous and will not go away easily.
+Have no mercy! Show them who is the boss!
+You control a Soviet airplane that's equipped with a cannon. Your mission is to take down as many US airplanes as possible, and get out alive while getting a high score.</desc>
+		<image>./images/Soviet Union 2011 (World) (Beta 1) (Aftermarket) (Unl)-image.png</image>
+		<video>./videos/Soviet Union 2011 (World) (Beta 1) (Aftermarket) (Unl)-video.mp4</video>
+		<marquee>./images/Soviet Union 2011 (World) (Beta 1) (Aftermarket) (Unl)-marquee.png</marquee>
+		<thumbnail>./images/Soviet Union 2011 (World) (Beta 1) (Aftermarket) (Unl)-thumb.png</thumbnail>
+		<releasedate>20111101T000000</releasedate>
+		<developer>Matej Horvat</developer>
+		<genre>Shoot'em up / Vertical</genre>
+		<players>1</players>
+		<md5>83c6752eecfdf94f576f3fcda272b91e</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231105T042020" />
+	</game>
+	<game id="172271">
+		<path>./No-Intro/Soviet Union 2011 (World) (Beta 2) (Aftermarket) (Unl).vb</path>
+		<name>Soviet Union 2011</name>
+		<desc>It is now the year 2011. The war between the two superpowers is still going on. After successfully taking out scores of the United States space army's ships, the Red Army has sent you to make order on Earth.
+The war on Earth is severe and has taken many lives. The United States air forces are strong and dangerous and will not go away easily.
+Have no mercy! Show them who is the boss!
+You control a Soviet airplane that's equipped with a cannon. Your mission is to take down as many US airplanes as possible, and get out alive while getting a high score.</desc>
+		<image>./images/Soviet Union 2011 (World) (Beta 2) (Aftermarket) (Unl)-image.png</image>
+		<video>./videos/Soviet Union 2011 (World) (Beta 2) (Aftermarket) (Unl)-video.mp4</video>
+		<marquee>./images/Soviet Union 2011 (World) (Beta 2) (Aftermarket) (Unl)-marquee.png</marquee>
+		<thumbnail>./images/Soviet Union 2011 (World) (Beta 2) (Aftermarket) (Unl)-thumb.png</thumbnail>
+		<releasedate>20111101T000000</releasedate>
+		<developer>Matej Horvat</developer>
+		<genre>Shoot'em up / Vertical</genre>
+		<players>1</players>
+		<md5>46434bfb8eccbe7540a4d2a79d471f40</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231105T042034" />
+	</game>
+	<game id="172271">
+		<path>./No-Intro/Soviet Union 2011 (World) (v1.0) (Aftermarket) (Unl).vb</path>
+		<name>Soviet Union 2011</name>
+		<desc>It is now the year 2011. The war between the two superpowers is still going on. After successfully taking out scores of the United States space army's ships, the Red Army has sent you to make order on Earth.
+The war on Earth is severe and has taken many lives. The United States air forces are strong and dangerous and will not go away easily.
+Have no mercy! Show them who is the boss!
+You control a Soviet airplane that's equipped with a cannon. Your mission is to take down as many US airplanes as possible, and get out alive while getting a high score.</desc>
+		<image>./images/Soviet Union 2011 (World) (v1.0) (Aftermarket) (Unl)-image.png</image>
+		<video>./videos/Soviet Union 2011 (World) (v1.0) (Aftermarket) (Unl)-video.mp4</video>
+		<marquee>./images/Soviet Union 2011 (World) (v1.0) (Aftermarket) (Unl)-marquee.png</marquee>
+		<thumbnail>./images/Soviet Union 2011 (World) (v1.0) (Aftermarket) (Unl)-thumb.png</thumbnail>
+		<releasedate>20111101T000000</releasedate>
+		<developer>Matej Horvat</developer>
+		<genre>Shoot'em up / Vertical</genre>
+		<players>1</players>
+		<md5>fad62e87fc51f44d75d17d5f3ffd4e0f</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231105T042046" />
+	</game>
+	<game id="172271">
+		<path>./No-Intro/Soviet Union 2011 (World) (v1.1) (Aftermarket) (Unl).vb</path>
+		<name>Soviet Union 2011</name>
+		<desc>It is now the year 2011. The war between the two superpowers is still going on. After successfully taking out scores of the United States space army's ships, the Red Army has sent you to make order on Earth.
+The war on Earth is severe and has taken many lives. The United States air forces are strong and dangerous and will not go away easily.
+Have no mercy! Show them who is the boss!
+You control a Soviet airplane that's equipped with a cannon. Your mission is to take down as many US airplanes as possible, and get out alive while getting a high score.</desc>
+		<image>./images/Soviet Union 2011 (World) (v1.1) (Aftermarket) (Unl)-image.png</image>
+		<video>./videos/Soviet Union 2011 (World) (v1.1) (Aftermarket) (Unl)-video.mp4</video>
+		<marquee>./images/Soviet Union 2011 (World) (v1.1) (Aftermarket) (Unl)-marquee.png</marquee>
+		<thumbnail>./images/Soviet Union 2011 (World) (v1.1) (Aftermarket) (Unl)-thumb.png</thumbnail>
+		<releasedate>20111101T000000</releasedate>
+		<developer>Matej Horvat</developer>
+		<genre>Shoot'em up / Vertical</genre>
+		<players>1</players>
+		<md5>9ac4a0beaccd30fc39f34a494e64a8f4</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231105T042058" />
+	</game>
+	<game id="172271">
+		<path>./No-Intro/Soviet Union 2011 (World) (v1.2) (Aftermarket) (Unl).vb</path>
+		<name>Soviet Union 2011</name>
+		<desc>It is now the year 2011. The war between the two superpowers is still going on. After successfully taking out scores of the United States space army's ships, the Red Army has sent you to make order on Earth.
+The war on Earth is severe and has taken many lives. The United States air forces are strong and dangerous and will not go away easily.
+Have no mercy! Show them who is the boss!
+You control a Soviet airplane that's equipped with a cannon. Your mission is to take down as many US airplanes as possible, and get out alive while getting a high score.</desc>
+		<image>./images/Soviet Union 2011 (World) (v1.2) (Aftermarket) (Unl)-image.png</image>
+		<video>./videos/Soviet Union 2011 (World) (v1.2) (Aftermarket) (Unl)-video.mp4</video>
+		<marquee>./images/Soviet Union 2011 (World) (v1.2) (Aftermarket) (Unl)-marquee.png</marquee>
+		<thumbnail>./images/Soviet Union 2011 (World) (v1.2) (Aftermarket) (Unl)-thumb.png</thumbnail>
+		<releasedate>20111101T000000</releasedate>
+		<developer>Matej Horvat</developer>
+		<genre>Shoot'em up / Vertical</genre>
+		<players>1</players>
+		<md5>7209a6bd5d788f12e97b9247d28197ce</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231105T042110" />
+	</game>
+	<game id="4728">
+		<path>./No-Intro/Space Invaders - Virtual Collection (Japan).vb</path>
+		<name>Space Invaders - Virtual Collection</name>
+		<desc>Attention all Earthlings! Relentless alien hordes have been identified near you. Prevent the dangerous Space Invaders from landing on your territory. Use your cannon to defend against waves of descending alien invaders. Don't let them hit the ground or it's all over for you and the Earth! Destroy them and score points!</desc>
+		<image>./images/Space Invaders - Virtual Collection (Japan)-image.png</image>
+		<video>./videos/Space Invaders - Virtual Collection (Japan)-video.mp4</video>
+		<marquee>./images/Space Invaders - Virtual Collection (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Space Invaders - Virtual Collection (Japan)-thumb.png</thumbnail>
+		<fanart>./images/Space Invaders - Virtual Collection (Japan)-fanart.jpg</fanart>
+		<releasedate>19951201T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Shooter / Space Invaders Like</genre>
+		<family>Space Invaders</family>
+		<players>1</players>
+		<md5>7607f6f918615263512b17e56797c9aa</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231105T042126" />
+	</game>
+	<game id="4740">
+		<path>./No-Intro/Space Pinball (Japan) (En) (Proto).vb</path>
+		<name>Galactic Pinball</name>
+		<desc>Galactic Pinball is a pinball video game released in 1995 on Virtual Boy. In addition to the high scores, you can choose between four pinball tables. These are named Alien, UFO, Colony and cosmic.</desc>
+		<image>./images/Space Pinball (Japan) (En) (Proto)-image.png</image>
+		<video>./videos/Space Pinball (Japan) (En) (Proto)-video.mp4</video>
+		<marquee>./images/Space Pinball (Japan) (En) (Proto)-marquee.png</marquee>
+		<thumbnail>./images/Space Pinball (Japan) (En) (Proto)-thumb.png</thumbnail>
+		<fanart>./images/Space Pinball (Japan) (En) (Proto)-fanart.jpg</fanart>
+		<manual>./manuals/Space Pinball (Japan) (En) (Proto)-manual.pdf</manual>
+		<rating>0.75</rating>
+		<releasedate>19950721T000000</releasedate>
+		<developer>Intelligent Systems</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Pinball</genre>
+		<players>1</players>
+		<md5>31073126fad41777357391ecc36d6f7f</md5>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231105T042143" />
+	</game>
+	<game id="4742">
+		<path>./No-Intro/Space Squash (Japan).vb</path>
+		<name>Space Squash</name>
+		<desc>Space Squash is one of those games where the premise is so simple you could write it on the back of a postage stamp and still have room to spare. You guard one end of a tunnel and your opponent guards the other as you both float around smacking a spiked ball between one another. Get it past the opposition to score a point. First to three wins.</desc>
+		<image>./images/Space Squash (Japan)-image.png</image>
+		<video>./videos/Space Squash (Japan)-video.mp4</video>
+		<marquee>./images/Space Squash (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Space Squash (Japan)-thumb.png</thumbnail>
+		<fanart>./images/Space Squash (Japan)-fanart.jpg</fanart>
+		<manual>./manuals/Space Squash (Japan)-manual.pdf</manual>
+		<rating>0.65</rating>
+		<releasedate>19950909T000000</releasedate>
+		<developer>Tomcat System</developer>
+		<publisher>Coconuts Japan</publisher>
+		<genre>Sports</genre>
+		<players>1</players>
+		<md5>09c5f3143c25d1d30a3470e571653e48</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231105T042202" />
+	</game>
+	<game id="423766">
+		<path>./No-Intro/SPONG (World) (En,Fr,De,Es) (Demo) (Aftermarket) (Unl).vb</path>
+		<name>SPONG</name>
+		<desc>SPONG is a multiplayer top-down Pong variant for the Virtual Boy that supports the link cable. It was written as a rather simple demo project for VUEngine's multiplayer capabilities.
+
+While the game's multiplayer code is solid and working nicely, the actual gameplay is rough and unfinished. Due to a shift of priorities, the game was not developed past the initial demo that has rudimentary versions of Marathon Mode (single player) and Versus Mode (multi player) enabled, where, due to the lack of AI, you control both paddles at once in Marathon Mode.</desc>
+		<image>./images/SPONG (World) (En,Fr,De,Es) (Demo) (Aftermarket) (Unl)-image.png</image>
+		<marquee>./images/SPONG (World) (En,Fr,De,Es) (Demo) (Aftermarket) (Unl)-marquee.png</marquee>
+		<thumbnail>./images/SPONG (World) (En,Fr,De,Es) (Demo) (Aftermarket) (Unl)-thumb.png</thumbnail>
+		<releasedate>20180101T000000</releasedate>
+		<developer>Jorgeche</developer>
+		<publisher>KR155E</publisher>
+		<genre>Action / Breakout games</genre>
+		<players>1-2</players>
+		<md5>80ae39bc1c74b4c86dd66a072ef773db</md5>
+		<lang>de,en,es,fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231105T042212" />
+	</game>
+	<game id="423961">
+		<path>./No-Intro/StarFox (World) (Demo) (Aftermarket) (Unl).vb</path>
+		<name>ZZZ(notgame):StarFox</name>
+		<hidden>true</hidden>
+		<md5>d6df73b477a8408da74c6d79dcaa0d0a</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231105T042213" />
+	</game>
+	<game id="4741">
+		<path>./No-Intro/T&amp;E Virtual Golf (Japan).vb</path>
+		<name>T&amp;E Virtual Golf</name>
+		<desc>Golf is a golf video game released in 1995 on Virtual Boy. Golf comes in a 3D perspective and contains two modes "tournament" and "bear play" as well as 18 holes during the course.</desc>
+		<image>./images/T&amp;E Virtual Golf (Japan)-image.png</image>
+		<video>./videos/T&amp;E Virtual Golf (Japan)-video.mp4</video>
+		<marquee>./images/T&amp;E Virtual Golf (Japan)-marquee.png</marquee>
+		<thumbnail>./images/T&amp;E Virtual Golf (Japan)-thumb.png</thumbnail>
+		<fanart>./images/T&amp;E Virtual Golf (Japan)-fanart.jpg</fanart>
+		<manual>./manuals/T&amp;E Virtual Golf (Japan)-manual.pdf</manual>
+		<rating>0.85</rating>
+		<releasedate>19950811T000000</releasedate>
+		<developer>Technical Engineering Support</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports / Golf</genre>
+		<players>1</players>
+		<md5>c1dc0852af217146f93d701e1da233d4</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231105T042231" />
+	</game>
+	<game id="4738">
+		<path>./No-Intro/Tobidase! Panibon (Japan).vb</path>
+		<name>Tobidase! Panibon</name>
+		<desc>Bomberman Blasts the Island of Ever Mist!
+
+Get ready for explosive puzzler action with Bomberman! Detonate the worlds of Scary Ruins, Sinister Forest, and Desert Desolation. Conquer the Island of Ever Mist and capture the three celestial models of power.
+
+Don't panic! Or you might get scorched by greedy Ms. Flashy or the deadly Count Dracu-Doom. Ignite the dreaded Doom Castle with bombastic moves and combustive strategy. Only then can you open the gates to the legendary Golden Statue of Bomberman. It's a puzzling blast!</desc>
+		<image>./images/Tobidase! Panibon (Japan)-image.png</image>
+		<video>./videos/Tobidase! Panibon (Japan)-video.mp4</video>
+		<marquee>./images/Tobidase! Panibon (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Tobidase! Panibon (Japan)-thumb.png</thumbnail>
+		<fanart>./images/Tobidase! Panibon (Japan)-fanart.jpg</fanart>
+		<manual>./manuals/Tobidase! Panibon (Japan)-manual.pdf</manual>
+		<rating>0.65</rating>
+		<releasedate>19950721T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle-Game</genre>
+		<family>Bomberman</family>
+		<players>1</players>
+		<md5>44039dfaa0f8fcf8ece03b8cda267e4a</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231105T042248" />
+	</game>
+	<game>
+		<path>./No-Intro/Tron VB (World) (Demo) (Aftermarket) (Unl).vb</path>
+		<name>Tron VB (World) (Demo) (Aftermarket) (Unl)</name>
+		<md5>b8cac4425d1a01b949801d81eb268ffb</md5>
+		<scrap name="ScreenScraper" date="20231105T042249" />
+	</game>
+	<game id="4733">
+		<path>./No-Intro/V-Tetris (Japan).vb</path>
+		<name>V-Tetris</name>
+		<desc>V-Tetris is a Japanese-exclusive Tetris game for the Virtual Boy. It is not to be confused with the similar Virtual Boy title 3D Tetris, as the two games are entirely different. V-Tetris, unlike 3D Tetris, is mostly the same as the original Tetris games, the only difference being the cylindrical puzzle mode in which blocks could be placed in a 3-D spiral.</desc>
+		<image>./images/V-Tetris (Japan)-image.png</image>
+		<video>./videos/V-Tetris (Japan)-video.mp4</video>
+		<marquee>./images/V-Tetris (Japan)-marquee.png</marquee>
+		<thumbnail>./images/V-Tetris (Japan)-thumb.png</thumbnail>
+		<fanart>./images/V-Tetris (Japan)-fanart.jpg</fanart>
+		<manual>./manuals/V-Tetris (Japan)-manual.pdf</manual>
+		<rating>0.6</rating>
+		<releasedate>19950825T000000</releasedate>
+		<developer>Locomotive Corporation</developer>
+		<publisher>Bullet Proof Software</publisher>
+		<genre>Puzzle-Game</genre>
+		<family>Tetris</family>
+		<players>1</players>
+		<md5>262bbae465f851ded3bb7cf46e375224</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231105T042306" />
+	</game>
+	<game id="4736">
+		<path>./No-Intro/Vertical Force (Japan).vb</path>
+		<name>Vertical Force</name>
+		<desc>The game takes place in "Space Era 210." The giant computer that takes care of a human colony planet named Odin suddenly malfunctions and decides to send an army of drone starfighters to destroy Earth. These drones emit a signal that renders all Earth starfighters useless. An archaeology team finds an ancient starfighter on the planet Ragnarok that is fortuitously impervious to the drones' signal. It is up to the player to command this starship and destroy all the alien drones.</desc>
+		<image>./images/Vertical Force (Japan)-image.png</image>
+		<video>./videos/Vertical Force (Japan)-video.mp4</video>
+		<marquee>./images/Vertical Force (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Vertical Force (Japan)-thumb.png</thumbnail>
+		<fanart>./images/Vertical Force (Japan)-fanart.jpg</fanart>
+		<manual>./manuals/Vertical Force (Japan)-manual.pdf</manual>
+		<rating>0.65</rating>
+		<releasedate>19950812T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<players>1</players>
+		<md5>fa50ce1effb4ce1d66438f723be5c788</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231105T042323" />
+	</game>
+	<game id="3726">
+		<path>./No-Intro/Virtual Bowling (Japan).vb</path>
+		<name>Virtual Bowling</name>
+		<desc>Virtual Bowling is a bowling game released in 1995 on the Virtual Boy. There are three game modes: "standard" mode, where you complete a simple set of 10 frames to get a high score, "Tournament" mode, and "training mode" where you can place the pins freely in any combination before each throw.</desc>
+		<image>./images/Virtual Bowling (Japan)-image.png</image>
+		<video>./videos/Virtual Bowling (Japan)-video.mp4</video>
+		<marquee>./images/Virtual Bowling (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Virtual Bowling (Japan)-thumb.png</thumbnail>
+		<fanart>./images/Virtual Bowling (Japan)-fanart.jpg</fanart>
+		<manual>./manuals/Virtual Bowling (Japan)-manual.pdf</manual>
+		<rating>0.3</rating>
+		<releasedate>19951222T000000</releasedate>
+		<developer>Athena</developer>
+		<publisher>Athena</publisher>
+		<genre>Sports / Bowling</genre>
+		<players>1</players>
+		<md5>5b11d402f7e322c71a7d4fa6503631fa</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231105T042341" />
+	</game>
+	<game id="3727">
+		<path>./No-Intro/Virtual Fishing (Japan).vb</path>
+		<name>Virtual Fishing</name>
+		<desc>Virtual Fishing aims to replicate the fishing experience, pitting you against six opponents as you compete in several competitions.
+Upon starting the game you are presented with a 3D map screen with five locations on for you to compete at, as well as a training area where you can get used to the controls, which are pretty straightforward.</desc>
+		<image>./images/Virtual Fishing (Japan)-image.png</image>
+		<video>./videos/Virtual Fishing (Japan)-video.mp4</video>
+		<marquee>./images/Virtual Fishing (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Virtual Fishing (Japan)-thumb.png</thumbnail>
+		<fanart>./images/Virtual Fishing (Japan)-fanart.jpg</fanart>
+		<manual>./manuals/Virtual Fishing (Japan)-manual.pdf</manual>
+		<rating>0.6</rating>
+		<releasedate>19951006T000000</releasedate>
+		<developer>Locomotive Corporation</developer>
+		<publisher>Pack In Video</publisher>
+		<genre>Hunting and Fishing / Fishing</genre>
+		<players>1</players>
+		<md5>c03e792d8628c3c5729fdcae1620fb9a</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231105T042359" />
+	</game>
+	<game id="4739">
+		<path>./No-Intro/Virtual Lab (Japan).vb</path>
+		<name>Virtual Lab</name>
+		<desc>Virtual Lab is a puzzle game released in 1995 on Virtual Boy. The game is a cross between Tetris and Pipe Dream. Coins fall from the top of the screen and must be arranged to form completely closed tubes.</desc>
+		<image>./images/Virtual Lab (Japan)-image.png</image>
+		<video>./videos/Virtual Lab (Japan)-video.mp4</video>
+		<marquee>./images/Virtual Lab (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Virtual Lab (Japan)-thumb.png</thumbnail>
+		<fanart>./images/Virtual Lab (Japan)-fanart.jpg</fanart>
+		<manual>./manuals/Virtual Lab (Japan)-manual.pdf</manual>
+		<rating>0.25</rating>
+		<releasedate>19951208T000000</releasedate>
+		<developer>Nacoty</developer>
+		<publisher>J-Wing</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<md5>1cec316aca8827fdf99c685a1ee49dbc</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231105T042416" />
+	</game>
+	<game id="4743">
+		<path>./No-Intro/Virtual Pro Yakyuu '95 (Japan).vb</path>
+		<name>Virtual Pro Yakyuu '95</name>
+		<desc>Hey batta batta swing! You're in the virtual big leagues now. Playing 18 teams from around the world. Throwing fast balls, forkballs, sinkers, sliders and changeups. Swinging for the fence, and laying down bunts. Shagging flies. Snagging drives. And tagging out runners. All in bigger-than-life 3D. With single game, all star and pennant race modes. And catch this: it's the only baseball game good enough to play in the virtual boy ball park. So don't drop the ball. Pick up a starting pitcher. Set your DH. And step up to the plate.</desc>
+		<image>./images/Virtual Pro Yakyuu '95 (Japan)-image.png</image>
+		<video>./videos/Virtual Pro Yakyuu '95 (Japan)-video.mp4</video>
+		<marquee>./images/Virtual Pro Yakyuu '95 (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Virtual Pro Yakyuu '95 (Japan)-thumb.png</thumbnail>
+		<fanart>./images/Virtual Pro Yakyuu '95 (Japan)-fanart.jpg</fanart>
+		<manual>./manuals/Virtual Pro Yakyuu '95 (Japan)-manual.pdf</manual>
+		<rating>0.5</rating>
+		<releasedate>19950811T000000</releasedate>
+		<developer>Kemco</developer>
+		<publisher>Kemco</publisher>
+		<genre>Sports / Baseball</genre>
+		<players>1</players>
+		<md5>154b76be987a604ff8aafa4d438928f5</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231105T042434" />
+	</game>
+	<game id="423895">
+		<path>./No-Intro/VUEngine Platformer (World) (En,Fr,De,Es-ES) (Demo) (Aftermarket) (Unl).vb</path>
+		<name>ZZZ(notgame):VUEngine Platformer</name>
+		<hidden>true</hidden>
+		<md5>c96d91fb97572a0af7d53f63b292e0f2</md5>
+		<lang>de,en,fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231105T042435" />
+	</game>
 </gameList>
