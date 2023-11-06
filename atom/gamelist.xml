@@ -1,755 +1,6 @@
 <?xml version="1.0"?>
 <gameList>
 	<game>
-		<path>./TOSEC/Applications/Atom Database (1980)(Acornsoft)/Atom Database (1980)(Acornsoft).uef</path>
-		<name>Atom Database (1980)(Acornsoft)</name>
-		<md5>1e457e2ac5669431f853c13bf721e27e</md5>
-		<scrap name="ScreenScraper" date="20231017T195438" />
-	</game>
-	<game>
-		<path>./TOSEC/Applications/Atom Synthesiser (1981)(Acornsoft)[5K]/Atom Synthesiser (1981)(Acornsoft)[5K].uef</path>
-		<name>Atom Synthesiser (1981)(Acornsoft)[5K]</name>
-		<md5>9617f09a939fc0f260d37691e6c4edfa</md5>
-		<scrap name="ScreenScraper" date="20231017T195439" />
-	</game>
-	<game>
-		<path>./TOSEC/Applications/Atom Typist (1981)(Bug Byte)[7K]/Atom Typist (1981)(Bug Byte)[7K].uef</path>
-		<name>Atom Typist (1981)(Bug Byte)[7K]</name>
-		<md5>58c2a2045cdc7811037b62409f0c10b1</md5>
-		<scrap name="ScreenScraper" date="20231017T195441" />
-	</game>
-	<game>
-		<path>./TOSEC/Applications/AtomStore (1981)(Program Power)[12K]/AtomStore (1981)(Program Power)[12K].uef</path>
-		<name>AtomStore (1981)(Program Power)[12K]</name>
-		<md5>df55771157ab832ef6120d35e6c39519</md5>
-		<scrap name="ScreenScraper" date="20231017T195442" />
-	</game>
-	<game>
-		<path>./TOSEC/Educational/Peeko-Computer (1981)(Acornsoft)/Peeko-Computer (1981)(Acornsoft).uef</path>
-		<name>Peeko-Computer (1981)(Acornsoft)</name>
-		<md5>e962b14af4b22cb330e660badbe75723</md5>
-		<scrap name="ScreenScraper" date="20231017T195443" />
-	</game>
-	<game>
-		<path>./TOSEC/Games/[CSW]/Atomic Chuckie Egg (2012)(van Oss, Kees)(FW)[colour for Atomulator]/Atomic Chuckie Egg (2012)(van Oss, Kees)(FW)[colour for Atomulator].csw</path>
-		<name>Atomic Chuckie Egg (2012)(van Oss, Kees)(FW)[colour for Atomulator]</name>
-		<md5>1763aa8ee47894efe29ef5eb2eb8c523</md5>
-		<scrap name="ScreenScraper" date="20231017T195444" />
-	</game>
-	<game>
-		<path>./TOSEC/Games/[CSW]/Atomic Chuckie Egg (2012)(van Oss, Kees)(FW)[monochrome for Atomulator]/Atomic Chuckie Egg (2012)(van Oss, Kees)(FW)[monochrome for Atomulator].csw</path>
-		<name>Atomic Chuckie Egg (2012)(van Oss, Kees)(FW)[monochrome for Atomulator]</name>
-		<md5>64fe72732560658197bc6a0ef6533cd1</md5>
-		<scrap name="ScreenScraper" date="20231017T195445" />
-	</game>
-	<game>
-		<path>./TOSEC/Games/[CSW]/Atomic Joe Blade (2014)(van Oss, Kees)(FW)[Atomulator]/Atomic Joe Blade (2014)(van Oss, Kees)(FW)[Atomulator].csw</path>
-		<name>Atomic Joe Blade (2014)(van Oss, Kees)(FW)[Atomulator]</name>
-		<md5>dfb03f7a71081c588f76ce8158437415</md5>
-		<scrap name="ScreenScraper" date="20231017T195446" />
-	</game>
-	<game>
-		<path>./TOSEC/Games/[CSW]/Galaforce (2012)(van Oss, Kees)(FW)[colour for Atomulator]/Galaforce (2012)(van Oss, Kees)(FW)[colour for Atomulator].csw</path>
-		<name>Galaforce (2012)(van Oss, Kees)(FW)[colour for Atomulator]</name>
-		<md5>9ec2a70b0029edd8e6fac9d140670350</md5>
-		<scrap name="ScreenScraper" date="20231017T195447" />
-	</game>
-	<game>
-		<path>./TOSEC/Games/[CSW]/Galaforce (2012)(van Oss, Kees)(FW)[monochrome for Atomulator]/Galaforce (2012)(van Oss, Kees)(FW)[monochrome for Atomulator].csw</path>
-		<name>Galaforce (2012)(van Oss, Kees)(FW)[monochrome for Atomulator]</name>
-		<md5>d70262b5347b5ffe726023df2443614c</md5>
-		<scrap name="ScreenScraper" date="20231017T195448" />
-	</game>
-	<game>
-		<path>./TOSEC/Games/[CSW]/Hard Hat Harry (2011)(van Oss, Kees)(FW)[Atomulator]/Hard Hat Harry (2011)(van Oss, Kees)(FW)[Atomulator].csw</path>
-		<name>Hard Hat Harry (2011)(van Oss, Kees)(FW)[Atomulator]</name>
-		<md5>8189ef514243803f63dfef42cad9fa54</md5>
-		<scrap name="ScreenScraper" date="20231017T195449" />
-	</game>
-	<game>
-		<path>./TOSEC/Games/[CSW]/Hyper Viper (2012-02)(van Oss, Kees)(FW)[colour for Atomulator]/Hyper Viper (2012-02)(van Oss, Kees)(FW)[colour for Atomulator].csw</path>
-		<name>Hyper Viper (2012-02)(van Oss, Kees)(FW)[colour for Atomulator]</name>
-		<md5>9fc10a3199e27706b6360460845620bd</md5>
-		<scrap name="ScreenScraper" date="20231017T195450" />
-	</game>
-	<game>
-		<path>./TOSEC/Games/[CSW]/Hyper Viper (2012-02)(van Oss, Kees)(FW)[monochrome for Atomulator]/Hyper Viper (2012-02)(van Oss, Kees)(FW)[monochrome for Atomulator].csw</path>
-		<name>Hyper Viper (2012-02)(van Oss, Kees)(FW)[monochrome for Atomulator]</name>
-		<md5>44ca2858d10a3d15cb7dbe62405cd550</md5>
-		<scrap name="ScreenScraper" date="20231017T195451" />
-	</game>
-	<game>
-		<path>./TOSEC/Games/[CSW]/Jungle Journey (2012)(van Oss, Kees)(FW)[colour for Atomulator]/Jungle Journey (2012)(van Oss, Kees)(FW)[colour for Atomulator].csw</path>
-		<name>Jungle Journey (2012)(van Oss, Kees)(FW)[colour for Atomulator]</name>
-		<md5>78a95edcc6c36faec4955cd4f001ee0a</md5>
-		<scrap name="ScreenScraper" date="20231017T195453" />
-	</game>
-	<game>
-		<path>./TOSEC/Games/[CSW]/Repton (2013)(van Oss, Kees)(FW)[colour for Atomulator]/Repton (2013)(van Oss, Kees)(FW)[colour for Atomulator].csw</path>
-		<name>Repton (2013)(van Oss, Kees)(FW)[colour for Atomulator]</name>
-		<md5>48caa25aacf55049ead97e917ead2466</md5>
-		<scrap name="ScreenScraper" date="20231017T195454" />
-	</game>
-	<game>
-		<path>./TOSEC/Games/[DSK]/Atomic Chuckie Egg (2012)(van Oss, Kees)(FW)/Atomic Chuckie Egg (2012)(van Oss, Kees)(FW).dsk</path>
-		<name>Atomic Chuckie Egg (2012)(van Oss, Kees)(FW)</name>
-		<md5>8bbbdf8b95de9b06ac1f4b6f2cf75910</md5>
-		<scrap name="ScreenScraper" date="20231017T195455" />
-	</game>
-	<game>
-		<path>./TOSEC/Games/[DSK]/Atomic Jet Set Willy (2015)(van Oss, Kees)(FW)/Atomic Jet Set Willy (2015)(van Oss, Kees)(FW).dsk</path>
-		<name>Atomic Jet Set Willy (2015)(van Oss, Kees)(FW)</name>
-		<md5>64991201584a8a3ce79f562356a5f78a</md5>
-		<scrap name="ScreenScraper" date="20231017T195457" />
-	</game>
-	<game>
-		<path>./TOSEC/Games/[DSK]/Atomic Jet Set Willy 2 (2015)(van Oss, Kees)(FW)/Atomic Jet Set Willy 2 (2015)(van Oss, Kees)(FW).dsk</path>
-		<name>Atomic Jet Set Willy 2 (2015)(van Oss, Kees)(FW)</name>
-		<md5>e843d2decb3b5208e6dfa9787a432632</md5>
-		<scrap name="ScreenScraper" date="20231017T195458" />
-	</game>
-	<game>
-		<path>./TOSEC/Games/[DSK]/Atomic Joe Blade (2014)(van Oss, Kees)(FW)/Atomic Joe Blade (2014)(van Oss, Kees)(FW).DSK</path>
-		<name>Atomic Joe Blade (2014)(van Oss, Kees)(FW)</name>
-		<md5>9e743d826b820d86f7f63ffbf1a3fac5</md5>
-		<scrap name="ScreenScraper" date="20231017T195459" />
-	</game>
-	<game>
-		<path>./TOSEC/Games/[DSK]/Egghead in Space (2016)(Retro Software)[32K]/Egghead in Space (2016)(Retro Software)[32K].dsk</path>
-		<name>Egghead in Space (2016)(Retro Software)[32K]</name>
-		<md5>83642017bfab74cdac1633be733df0f7</md5>
-		<scrap name="ScreenScraper" date="20231017T195500" />
-	</game>
-	<game>
-		<path>./TOSEC/Games/[DSK]/F14 Tomcat (2015)(van Oss, Kees)(FW)/F14 Tomcat (2015)(van Oss, Kees)(FW).dsk</path>
-		<name>F14 Tomcat (2015)(van Oss, Kees)(FW)</name>
-		<md5>8e7229b1a5775f0ac53a08170d8d3258</md5>
-		<scrap name="ScreenScraper" date="20231017T195502" />
-	</game>
-	<game>
-		<path>./TOSEC/Games/[DSK]/Galaforce (2012)(van Oss, Kees)(FW)/Galaforce (2012)(van Oss, Kees)(FW).dsk</path>
-		<name>Galaforce (2012)(van Oss, Kees)(FW)</name>
-		<md5>41fe773d9116d9b1b517ab2bf1e4efb9</md5>
-		<scrap name="ScreenScraper" date="20231017T195503" />
-	</game>
-	<game>
-		<path>./TOSEC/Games/[DSK]/Galaxians (1982)(Aardvark)[12K]/Galaxians (1982)(Aardvark)[12K].dsk</path>
-		<name>Galaxians (1982)(Aardvark)[12K]</name>
-		<md5>a4c0797193890fc8c40886ffae191c4f</md5>
-		<scrap name="ScreenScraper" date="20231017T195504" />
-	</game>
-	<game>
-		<path>./TOSEC/Games/[DSK]/Hard Hat Harry (2011)(van Oss, Kees)(FW)/Hard Hat Harry (2011)(van Oss, Kees)(FW).dsk</path>
-		<name>Hard Hat Harry (2011)(van Oss, Kees)(FW)</name>
-		<md5>38d362c30a9457e73b8a4bebcd01ede1</md5>
-		<scrap name="ScreenScraper" date="20231017T195505" />
-	</game>
-	<game>
-		<path>./TOSEC/Games/[DSK]/Hyper Viper (2012-02)(van Oss, Kees)(FW)/Hyper Viper (2012-02)(van Oss, Kees)(FW).dsk</path>
-		<name>Hyper Viper (2012-02)(van Oss, Kees)(FW)</name>
-		<md5>0fd45dd7346eaff7e790a5ead8196caa</md5>
-		<scrap name="ScreenScraper" date="20231017T195506" />
-	</game>
-	<game>
-		<path>./TOSEC/Games/[DSK]/Jet Set Miner &amp; Level Editor (2011)(van Oss, Kees)(FW)/Jet Set Miner &amp; Level Editor (2011)(van Oss, Kees)(FW).dsk</path>
-		<name>Jet Set Miner &amp; Level Editor (2011)(van Oss, Kees)(FW)</name>
-		<md5>9ca9f90728a7050dec55d9362d0185c0</md5>
-		<scrap name="ScreenScraper" date="20231017T195507" />
-	</game>
-	<game>
-		<path>./TOSEC/Games/[DSK]/Jungle Journey (2012)(van Oss, Kees)(FW)[colour]/Jungle Journey (2012)(van Oss, Kees)(FW)[colour].dsk</path>
-		<name>Jungle Journey (2012)(van Oss, Kees)(FW)[colour]</name>
-		<md5>eef79b93d7ba3de132833b286f2df62b</md5>
-		<scrap name="ScreenScraper" date="20231017T195508" />
-	</game>
-	<game>
-		<path>./TOSEC/Games/[DSK]/Manic Miner (2017)(Retro Software)[32K]/Manic Miner (2017)(Retro Software)[32K].dsk</path>
-		<name>Manic Miner (2017)(Retro Software)[32K]</name>
-		<md5>da08cca3c89823522f07b505a90546e4</md5>
-		<scrap name="ScreenScraper" date="20231017T195509" />
-	</game>
-	<game>
-		<path>./TOSEC/Games/[DSK]/Repton (2013)(van Oss, Kees)(FW)[colour]/Repton (2013)(van Oss, Kees)(FW)[colour].dsk</path>
-		<name>Repton (2013)(van Oss, Kees)(FW)[colour]</name>
-		<md5>c573777031902bd4f212494d166de50e</md5>
-		<scrap name="ScreenScraper" date="20231017T195510" />
-	</game>
-	<game>
-		<path>./TOSEC/Games/[TAP]/Atomic Chuckie Egg (2012)(van Oss, Kees)(FW)[colour for Wouter Ras]/Atomic Chuckie Egg (2012)(van Oss, Kees)(FW)[colour for Wouter Ras].tap</path>
-		<name>Atomic Chuckie Egg (2012)(van Oss, Kees)(FW)[colour for Wouter Ras]</name>
-		<md5>3ee1d9d30e738e72bb247a09b2de3c31</md5>
-		<scrap name="ScreenScraper" date="20231017T195512" />
-	</game>
-	<game>
-		<path>./TOSEC/Games/[TAP]/Atomic Chuckie Egg (2012)(van Oss, Kees)(FW)[monochrome for Wouter Ras]/Atomic Chuckie Egg (2012)(van Oss, Kees)(FW)[monochrome for Wouter Ras].tap</path>
-		<name>Atomic Chuckie Egg (2012)(van Oss, Kees)(FW)[monochrome for Wouter Ras]</name>
-		<md5>80250772445913c70d96028af9b4ae75</md5>
-		<scrap name="ScreenScraper" date="20231017T195513" />
-	</game>
-	<game>
-		<path>./TOSEC/Games/[TAP]/Atomic Jet Set Willy (2015)(van Oss, Kees)(FW)[Wouter Ras]/Atomic Jet Set Willy (2015)(van Oss, Kees)(FW)[Wouter Ras].tap</path>
-		<name>Atomic Jet Set Willy (2015)(van Oss, Kees)(FW)[Wouter Ras]</name>
-		<md5>cf180727d254547fbab9f001eae963cd</md5>
-		<scrap name="ScreenScraper" date="20231017T195514" />
-	</game>
-	<game>
-		<path>./TOSEC/Games/[TAP]/Atomic Jet Set Willy 2 (2015)(van Oss, Kees)(FW)[Wouter Ras]/Atomic Jet Set Willy 2 (2015)(van Oss, Kees)(FW)[Wouter Ras].tap</path>
-		<name>Atomic Jet Set Willy 2 (2015)(van Oss, Kees)(FW)[Wouter Ras]</name>
-		<md5>9760a8bb02a5df34812170add7cf16ce</md5>
-		<scrap name="ScreenScraper" date="20231017T195516" />
-	</game>
-	<game>
-		<path>./TOSEC/Games/[TAP]/Galaforce (2012)(van Oss, Kees)(FW)[colour for Wouter Ras]/Galaforce (2012)(van Oss, Kees)(FW)[colour for Wouter Ras].tap</path>
-		<name>Galaforce (2012)(van Oss, Kees)(FW)[colour for Wouter Ras]</name>
-		<md5>53531f0e3495cf849deb311eacef1f9d</md5>
-		<scrap name="ScreenScraper" date="20231017T195517" />
-	</game>
-	<game>
-		<path>./TOSEC/Games/[TAP]/Galaforce (2012)(van Oss, Kees)(FW)[monochrome for Wouter Ras]/Galaforce (2012)(van Oss, Kees)(FW)[monochrome for Wouter Ras].tap</path>
-		<name>Galaforce (2012)(van Oss, Kees)(FW)[monochrome for Wouter Ras]</name>
-		<md5>207880d48458396fc014abde662bb139</md5>
-		<scrap name="ScreenScraper" date="20231017T195518" />
-	</game>
-	<game>
-		<path>./TOSEC/Games/[TAP]/Hard Hat Harry (2011)(van Oss, Kees)(FW)[Wouter Ras]/Hard Hat Harry (2011)(van Oss, Kees)(FW)[Wouter Ras].tap</path>
-		<name>Hard Hat Harry (2011)(van Oss, Kees)(FW)[Wouter Ras]</name>
-		<md5>fbbc564922ac34a36ba5cf12a1866a70</md5>
-		<scrap name="ScreenScraper" date="20231017T195519" />
-	</game>
-	<game>
-		<path>./TOSEC/Games/[TAP]/Hyper Viper (2012-02)(van Oss, Kees)(FW)[colour for Wouter Ras]/Hyper Viper (2012-02)(van Oss, Kees)(FW)[colour for Wouter Ras].tap</path>
-		<name>Hyper Viper (2012-02)(van Oss, Kees)(FW)[colour for Wouter Ras]</name>
-		<md5>e41ef4bc54996509b2f33ecd5f58265c</md5>
-		<scrap name="ScreenScraper" date="20231017T195520" />
-	</game>
-	<game>
-		<path>./TOSEC/Games/[TAP]/Hyper Viper (2012-02)(van Oss, Kees)(FW)[monochrome for Wouter Ras]/Hyper Viper (2012-02)(van Oss, Kees)(FW)[monochrome for Wouter Ras].tap</path>
-		<name>Hyper Viper (2012-02)(van Oss, Kees)(FW)[monochrome for Wouter Ras]</name>
-		<md5>13b8698233050689db82e1e255cdf768</md5>
-		<scrap name="ScreenScraper" date="20231017T195521" />
-	</game>
-	<game>
-		<path>./TOSEC/Games/[TAP]/Jet Set Miner (2011)(van Oss, Kees)(FW)[colour for Wouter Ras]/Jet Set Miner (2011)(van Oss, Kees)(FW)[colour for Wouter Ras].tap</path>
-		<name>Jet Set Miner (2011)(van Oss, Kees)(FW)[colour for Wouter Ras]</name>
-		<md5>88f85c5b93caad99a72dc7e21cfa0384</md5>
-		<scrap name="ScreenScraper" date="20231017T195522" />
-	</game>
-	<game>
-		<path>./TOSEC/Games/[TAP]/Jet Set Miner (2011)(van Oss, Kees)(FW)[monochrome for Wouter Ras]/Jet Set Miner (2011)(van Oss, Kees)(FW)[monochrome for Wouter Ras].tap</path>
-		<name>Jet Set Miner (2011)(van Oss, Kees)(FW)[monochrome for Wouter Ras]</name>
-		<md5>16e1f062869f50e946314cb5451e47a0</md5>
-		<scrap name="ScreenScraper" date="20231017T195523" />
-	</game>
-	<game>
-		<path>./TOSEC/Games/[TAP]/Jungle Journey (2012)(van Oss, Kees)(FW)[colour for Wouter Ras]/Jungle Journey (2012)(van Oss, Kees)(FW)[colour for Wouter Ras].tap</path>
-		<name>Jungle Journey (2012)(van Oss, Kees)(FW)[colour for Wouter Ras]</name>
-		<md5>efcf22413833f7bf9df5689bee04852e</md5>
-		<scrap name="ScreenScraper" date="20231017T195525" />
-	</game>
-	<game>
-		<path>./TOSEC/Games/[TAP]/Repton (2013)(van Oss, Kees)(FW)[colour for Wouter Ras]/Repton (2013)(van Oss, Kees)(FW)[colour for Wouter Ras].tap</path>
-		<name>Repton (2013)(van Oss, Kees)(FW)[colour for Wouter Ras]</name>
-		<md5>c6d6c28b8e319f8b60a9b77ae5032b05</md5>
-		<scrap name="ScreenScraper" date="20231017T195526" />
-	</game>
-	<game id="416851">
-		<path>./TOSEC/Games/[UEF]/747 (1982)(Bug Byte)[12K]/747 (1982)(Bug Byte)[12K].uef</path>
-		<name>747</name>
-		<md5>6841589ffec2ed7ae1f4b2c1900287e7</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231017T195528" />
-	</game>
-	<game id="417229">
-		<path>./TOSEC/Games/[UEF]/Adventure (1981)(Program Power)[12K]/Adventure (1981)(Program Power)[12K].uef</path>
-		<name>Adventure</name>
-		<md5>88cd5cda7394e23a14a4deedfd0ba1c7</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231017T195529" />
-	</game>
-	<game id="416827">
-		<path>./TOSEC/Games/[UEF]/Africa Diamond, The (1982)(Ramtronics)[12K]/Africa Diamond, The (1982)(Ramtronics)[12K].uef</path>
-		<name>Africa Diamond, The</name>
-		<desc>Somewhere in the Old Country House, the famous Africa Diamond was hidden. Legend has it that possession of the gem will give countless wealth and even magical powers! 
-However, to take the gem is no easy task! Vampires, dwarfs, Wild dogs, to name a few, have taken over the house, and will welcome vou with open jaws! If you can get to the gem, a surprise awaits you!
-All this makes the Africa Diamond a true test of cunning, intelligence and wit. Are you smart enough to take the gem? After all, the most you have to lose is your life!</desc>
-		<md5>18ec2a5c628231b145b2543e72c61a8b</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231017T195531" />
-	</game>
-	<game>
-		<path>./TOSEC/Games/[UEF]/Atomic Chuckie Egg (2012)(van Oss, Kees)(FW)[colour for Atomulator]/Atomic Chuckie Egg (2012)(van Oss, Kees)(FW)[colour for Atomulator].uef</path>
-		<name>Atomic Chuckie Egg (2012)(van Oss, Kees)(FW)[colour for Atomulator]</name>
-		<md5>6327ef6ad059435450a3f44f3fc758ae</md5>
-		<scrap name="ScreenScraper" date="20231017T195532" />
-	</game>
-	<game>
-		<path>./TOSEC/Games/[UEF]/Atomic Chuckie Egg (2012)(van Oss, Kees)(FW)[monochrome for Atomulator]/Atomic Chuckie Egg (2012)(van Oss, Kees)(FW)[monochrome for Atomulator].uef</path>
-		<name>Atomic Chuckie Egg (2012)(van Oss, Kees)(FW)[monochrome for Atomulator]</name>
-		<md5>cd6460a030e88134d30e64a82b380cbf</md5>
-		<scrap name="ScreenScraper" date="20231017T195534" />
-	</game>
-	<game>
-		<path>./TOSEC/Games/[UEF]/Atomic Joe Blade (2014)(van Oss, Kees)(FW)[Atomulator]/Atomic Joe Blade (2014)(van Oss, Kees)(FW)[Atomulator].uef</path>
-		<name>Atomic Joe Blade (2014)(van Oss, Kees)(FW)[Atomulator]</name>
-		<md5>b0f8013ad1f2f2df8317311dca97d3f0</md5>
-		<scrap name="ScreenScraper" date="20231017T195535" />
-	</game>
-	<game>
-		<path>./TOSEC/Games/[UEF]/Atomic Joe Blade (2014)(van Oss, Kees)(FW)[Wouter Ras]/Atomic Joe Blade (2014)(van Oss, Kees)(FW)[Wouter Ras].tap</path>
-		<name>Atomic Joe Blade (2014)(van Oss, Kees)(FW)[Wouter Ras]</name>
-		<md5>f138f2059c03ea4061040439bee31e51</md5>
-		<scrap name="ScreenScraper" date="20231017T195536" />
-	</game>
-	<game id="416860">
-		<path>./TOSEC/Games/[UEF]/Backgammon (1981)(Bug Byte)/Backgammon (1981)(Bug Byte).uef</path>
-		<name>Backgammon</name>
-		<md5>e34947bec2b670fd6d2cd6f0ab9a4387</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231017T195538" />
-	</game>
-	<game id="417202">
-		<path>./TOSEC/Games/[UEF]/Breakout (1981)(Bug Byte)[4K]/Breakout (1981)(Bug Byte)[4K].uef</path>
-		<name>Breakout</name>
-		<md5>9edeffbb7e57f17018be8fbf947d49b6</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231017T195539" />
-	</game>
-	<game id="416830">
-		<path>./TOSEC/Games/[UEF]/Business Game (1982)(Program Power)/Business Game (1982)(Program Power).uef</path>
-		<name>Business Game</name>
-		<md5>2f729dd808dc73d84db44c1355d1f933</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231017T195541" />
-	</game>
-	<game id="416848">
-		<path>./TOSEC/Games/[UEF]/Centipede (198x)(Micromania)/Centipede (198x)(Micromania).uef</path>
-		<name>Centipede</name>
-		<genre>Shooter / Space Invaders Like</genre>
-		<md5>2a90eba9767a8b72e13ca6eb8cb09c7b</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231017T195543" />
-	</game>
-	<game id="416845">
-		<path>./TOSEC/Games/[UEF]/Cylon Attack (1982)(A&amp;F Software)/Cylon Attack (1982)(A&amp;F Software).uef</path>
-		<name>Cylon Attack</name>
-		<md5>20cb9394c2cf6368d92f97d26f8c99e3</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231017T195545" />
-	</game>
-	<game id="417199">
-		<path>./TOSEC/Games/[UEF]/Death Satellite (1982)(A&amp;F Software)[12K]/Death Satellite (1982)(A&amp;F Software)[12K].uef</path>
-		<name>Death Satellite</name>
-		<md5>9f8ff14212e4795299fd659856bc3f6f</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231017T195546" />
-	</game>
-	<game id="417220">
-		<path>./TOSEC/Games/[UEF]/Defender (1982)(Micromania)/Defender (1982)(Micromania).uef</path>
-		<name>Defender</name>
-		<md5>56a66aa27b94a970a641ace136c08215</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231017T195548" />
-	</game>
-	<game id="416839">
-		<path>./TOSEC/Games/[UEF]/Demon Dungeon (1980)(Program Power)[5K]/Demon Dungeon (1980)(Program Power)[5K].uef</path>
-		<name>Demon Dungeon</name>
-		<md5>773cdd4ab2eda2e139808950a618039e</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231017T195550" />
-	</game>
-	<game id="417211">
-		<path>./TOSEC/Games/[UEF]/Early Warning (1982)(A&amp;F Software)/Early Warning (1982)(A&amp;F Software).uef</path>
-		<name>Early Warning</name>
-		<md5>68ef7b15f89e1af852b1bc450604c01f</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231017T195551" />
-	</game>
-	<game>
-		<path>./TOSEC/Games/[UEF]/Galaforce (2012)(van Oss, Kees)(FW)[colour for Atomulator]/Galaforce (2012)(van Oss, Kees)(FW)[colour for Atomulator].uef</path>
-		<name>Galaforce (2012)(van Oss, Kees)(FW)[colour for Atomulator]</name>
-		<md5>e545de5b0f83613cb189f6df9e9e6ae0</md5>
-		<scrap name="ScreenScraper" date="20231017T195553" />
-	</game>
-	<game>
-		<path>./TOSEC/Games/[UEF]/Galaforce (2012)(van Oss, Kees)(FW)[monochrome for Atomulator]/Galaforce (2012)(van Oss, Kees)(FW)[monochrome for Atomulator].uef</path>
-		<name>Galaforce (2012)(van Oss, Kees)(FW)[monochrome for Atomulator]</name>
-		<md5>fca1c004bd59931ebcdffa004fc97282</md5>
-		<scrap name="ScreenScraper" date="20231017T195554" />
-	</game>
-	<game id="417214">
-		<path>./TOSEC/Games/[UEF]/Galaxian (1981)(Bug Byte)[12K]/Galaxian (1981)(Bug Byte)[12K].uef</path>
-		<name>Galaxian</name>
-		<fanart>./images/Galaxian (1981)(Bug Byte)[12K]-fanart.jpg</fanart>
-		<genre>Shooter / Space Invaders Like</genre>
-		<family>Galaxian</family>
-		<md5>04801262cf2e2c50d01107179c09685f</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231017T195558" />
-	</game>
-	<game>
-		<path>./TOSEC/Games/[UEF]/Hard Hat Harry (2011)(van Oss, Kees)(FW)[Atomulator]/Hard Hat Harry (2011)(van Oss, Kees)(FW)[Atomulator].uef</path>
-		<name>Hard Hat Harry (2011)(van Oss, Kees)(FW)[Atomulator]</name>
-		<md5>05e5b77a45ee9d53bc57e807ee7244d6</md5>
-		<scrap name="ScreenScraper" date="20231017T195559" />
-	</game>
-	<game>
-		<path>./TOSEC/Games/[UEF]/Hyper Viper (2012-02)(van Oss, Kees)(FW)[colour for Atomulator]/Hyper Viper (2012-02)(van Oss, Kees)(FW)[colour for Atomulator].uef</path>
-		<name>Hyper Viper (2012-02)(van Oss, Kees)(FW)[colour for Atomulator]</name>
-		<md5>a79c350d59e7d907cc90f545f324ac7b</md5>
-		<scrap name="ScreenScraper" date="20231017T195600" />
-	</game>
-	<game>
-		<path>./TOSEC/Games/[UEF]/Hyper Viper (2012-02)(van Oss, Kees)(FW)[monochrome for Atomulator]/Hyper Viper (2012-02)(van Oss, Kees)(FW)[monochrome for Atomulator].uef</path>
-		<name>Hyper Viper (2012-02)(van Oss, Kees)(FW)[monochrome for Atomulator]</name>
-		<md5>03a5a2cfe2fe36985aacf9ea8c074996</md5>
-		<scrap name="ScreenScraper" date="20231017T195601" />
-	</game>
-	<game id="416836">
-		<path>./TOSEC/Games/[UEF]/Hyperfire (1982)(Program Power)[12K]/Hyperfire (1982)(Program Power)[12K].uef</path>
-		<name>Hyperfire</name>
-		<md5>3d470fed4b4d96463306bc06a3e0d308</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231017T195603" />
-	</game>
-	<game>
-		<path>./TOSEC/Games/[UEF]/Jet Set Miner (2011)(van Oss, Kees)(FW)[colour for Atomulator]/Jet Set Miner (2011)(van Oss, Kees)(FW)[colour for Atomulator].uef</path>
-		<name>Jet Set Miner (2011)(van Oss, Kees)(FW)[colour for Atomulator]</name>
-		<md5>b09b742c936c26981e53e4e77dee9e6e</md5>
-		<scrap name="ScreenScraper" date="20231017T195604" />
-	</game>
-	<game>
-		<path>./TOSEC/Games/[UEF]/Jet Set Miner (2011)(van Oss, Kees)(FW)[monochrome for Atomulator]/Jet Set Miner (2011)(van Oss, Kees)(FW)[monochrome for Atomulator].uef</path>
-		<name>Jet Set Miner (2011)(van Oss, Kees)(FW)[monochrome for Atomulator]</name>
-		<md5>4ddd0611066c2493cac98176635b44f8</md5>
-		<scrap name="ScreenScraper" date="20231017T195605" />
-	</game>
-	<game>
-		<path>./TOSEC/Games/[UEF]/Jungle Journey (2012)(van Oss, Kees)(FW)[colour for Atomulator]/Jungle Journey (2012)(van Oss, Kees)(FW)[colour for Atomulator].uef</path>
-		<name>Jungle Journey (2012)(van Oss, Kees)(FW)[colour for Atomulator]</name>
-		<md5>30e0e5e56ad0c172a5d287fe67c9870a</md5>
-		<scrap name="ScreenScraper" date="20231017T195607" />
-	</game>
-	<game id="416833">
-		<path>./TOSEC/Games/[UEF]/Labyrinth (1981)(Bug Byte)[12K]/Labyrinth (1981)(Bug Byte)[12K].uef</path>
-		<name>Labyrinth</name>
-		<md5>e5acc500e696009979d9ea2631eb97be</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231017T195608" />
-	</game>
-	<game id="417205">
-		<path>./TOSEC/Games/[UEF]/Minefield (1982)(A&amp;F Software)/Minefield (1982)(A&amp;F Software).uef</path>
-		<name>Minefield</name>
-		<md5>0b7361def66e17349aac2388d5a015a2</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231017T195610" />
-	</game>
-	<game id="416842">
-		<path>./TOSEC/Games/[UEF]/Omega Mission (1982)(Micromania)/Omega Mission (1982)(Micromania).uef</path>
-		<name>Omega Mission</name>
-		<md5>90e9e08aa2943998b492f0662d38d22c</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231017T195611" />
-	</game>
-	<game id="417217">
-		<path>./TOSEC/Games/[UEF]/Pinball (1980)(Bug Byte)[6K]/Pinball (1980)(Bug Byte)[6K].uef</path>
-		<name>Pinball</name>
-		<md5>db162871f7956b273338d8decbc25602</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231017T195613" />
-	</game>
-	<game id="416854">
-		<path>./TOSEC/Games/[UEF]/Protector, The (1982)(Micromania)/Protector, The (1982)(Micromania).uef</path>
-		<name>Protector, The</name>
-		<md5>91d661ed96a64973b87bd60d4fa8c5de</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231017T195614" />
-	</game>
-	<game>
-		<path>./TOSEC/Games/[UEF]/Repton (2013)(van Oss, Kees)(FW)[colour for Atomulator]/Repton (2013)(van Oss, Kees)(FW)[colour for Atomulator].uef</path>
-		<name>Repton (2013)(van Oss, Kees)(FW)[colour for Atomulator]</name>
-		<md5>cb3a69b46863b720042b40e8c7193b55</md5>
-		<scrap name="ScreenScraper" date="20231017T195615" />
-	</game>
-	<game id="417226">
-		<path>./TOSEC/Games/[UEF]/Space Fighter (1981)(Program Power)[6K]/Space Fighter (1981)(Program Power)[6K].uef</path>
-		<name>Space Fighter</name>
-		<md5>2699313c33fb289f9807b717ac5eb9d8</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231017T195616" />
-	</game>
-	<game id="417232">
-		<path>./TOSEC/Games/[UEF]/Swarm (1981)(Program Power)/Swarm (1981)(Program Power).uef</path>
-		<name>Swarm</name>
-		<md5>ab6ae070a92be5c6d3f12647f3b4d1fa</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231017T195618" />
-	</game>
-	<game id="416857">
-		<path>./TOSEC/Games/[UEF]/Tangled (1982)(A&amp;F Software)/Tangled (1982)(A&amp;F Software).uef</path>
-		<name>Tangled</name>
-		<md5>d6e5f344e84b9fa93730d5d5f6f36715</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231017T195619" />
-	</game>
-	<game id="417223">
-		<path>./TOSEC/Games/[UEF]/UFO Bomber (1981)(Bug Byte)[7K]/UFO Bomber (1981)(Bug Byte)[7K].uef</path>
-		<name>UFO Bomber</name>
-		<md5>4dd73a48bbf456c2d82e0a20ffc81269</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231017T195621" />
-	</game>
-	<game id="417208">
-		<path>./TOSEC/Games/[UEF]/Zodiac (1981)(A&amp;F Software)[12K]/Zodiac (1981)(A&amp;F Software)[12K].uef</path>
-		<name>Zodiac</name>
-		<md5>6562f95e1880d2b081afba9bd2f3bc76</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231017T195622" />
-	</game>
-	<game>
-		<path>./TOSEC/Games/[WAV]/Atomic Chuckie Egg (2012)(van Oss, Kees)(FW)[colour]/Atomic Chuckie Egg (2012)(van Oss, Kees)(FW)[colour].wav</path>
-		<name>Atomic Chuckie Egg (2012)(van Oss, Kees)(FW)[colour]</name>
-		<md5>0eee56334da7eef2f9aaecad50190ded</md5>
-		<scrap name="ScreenScraper" date="20231017T195624" />
-	</game>
-	<game>
-		<path>./TOSEC/Games/[WAV]/Atomic Chuckie Egg (2012)(van Oss, Kees)(FW)[monochrome]/Atomic Chuckie Egg (2012)(van Oss, Kees)(FW)[monochrome].wav</path>
-		<name>Atomic Chuckie Egg (2012)(van Oss, Kees)(FW)[monochrome]</name>
-		<md5>f029ec1dd3199575aa52163640dae890</md5>
-		<scrap name="ScreenScraper" date="20231017T195625" />
-	</game>
-	<game>
-		<path>./TOSEC/Games/[WAV]/Atomic Joe Blade (2014)(van Oss, Kees)(FW)/Atomic Joe Blade (2014)(van Oss, Kees)(FW).wav</path>
-		<name>Atomic Joe Blade (2014)(van Oss, Kees)(FW)</name>
-		<md5>1b17cc6b86ecb4290ac68784e3362b67</md5>
-		<scrap name="ScreenScraper" date="20231017T195627" />
-	</game>
-	<game>
-		<path>./TOSEC/Games/[WAV]/Galaforce (2012)(van Oss, Kees)(FW)[colour]/Galaforce (2012)(van Oss, Kees)(FW)[colour].wav</path>
-		<name>Galaforce (2012)(van Oss, Kees)(FW)[colour]</name>
-		<md5>40b5bf9f9b85f48e9c3c44651bbb278e</md5>
-		<scrap name="ScreenScraper" date="20231017T195628" />
-	</game>
-	<game>
-		<path>./TOSEC/Games/[WAV]/Galaforce (2012)(van Oss, Kees)(FW)[monochrome]/Galaforce (2012)(van Oss, Kees)(FW)[monochrome].wav</path>
-		<name>Galaforce (2012)(van Oss, Kees)(FW)[monochrome]</name>
-		<md5>60ef59fe66c7d1d6ff8870dbcf8dd276</md5>
-		<scrap name="ScreenScraper" date="20231017T195629" />
-	</game>
-	<game>
-		<path>./TOSEC/Games/[WAV]/Hard Hat Harry (2011)(van Oss, Kees)(FW)/Hard Hat Harry (2011)(van Oss, Kees)(FW).wav</path>
-		<name>Hard Hat Harry (2011)(van Oss, Kees)(FW)</name>
-		<md5>2dda43834db0fe8b4cee19ea19b831d2</md5>
-		<scrap name="ScreenScraper" date="20231017T195631" />
-	</game>
-	<game>
-		<path>./TOSEC/Games/[WAV]/Hyper Viper (2012-02)(van Oss, Kees)(FW)[colour]/Hyper Viper (2012-02)(van Oss, Kees)(FW)[colour].wav</path>
-		<name>Hyper Viper (2012-02)(van Oss, Kees)(FW)[colour]</name>
-		<md5>bf052588b58fa52aa097ae908cc43b03</md5>
-		<scrap name="ScreenScraper" date="20231017T195632" />
-	</game>
-	<game>
-		<path>./TOSEC/Games/[WAV]/Hyper Viper (2012-02)(van Oss, Kees)(FW)[monochrome]/Hyper Viper (2012-02)(van Oss, Kees)(FW)[monochrome].wav</path>
-		<name>Hyper Viper (2012-02)(van Oss, Kees)(FW)[monochrome]</name>
-		<md5>347aec4915d41dfb711a3ed8a1bad316</md5>
-		<scrap name="ScreenScraper" date="20231017T195634" />
-	</game>
-	<game>
-		<path>./TOSEC/Games/[WAV]/Jet Set Miner (2011)(van Oss, Kees)(FW)[colour]/Jet Set Miner (2011)(van Oss, Kees)(FW)[colour].wav</path>
-		<name>Jet Set Miner (2011)(van Oss, Kees)(FW)[colour]</name>
-		<md5>f568e6c27e38c4a7a92107958ec33d4e</md5>
-		<scrap name="ScreenScraper" date="20231017T195635" />
-	</game>
-	<game>
-		<path>./TOSEC/Games/[WAV]/Jet Set Miner (2011)(van Oss, Kees)(FW)[monochrome]/Jet Set Miner (2011)(van Oss, Kees)(FW)[monochrome].wav</path>
-		<name>Jet Set Miner (2011)(van Oss, Kees)(FW)[monochrome]</name>
-		<md5>cefaf3ea4bd2ffae8566b0d105c9416d</md5>
-		<scrap name="ScreenScraper" date="20231017T195637" />
-	</game>
-	<game>
-		<path>./TOSEC/Games/[WAV]/Jungle Journey (2012)(van Oss, Kees)(FW)[colour]/Jungle Journey (2012)(van Oss, Kees)(FW)[colour].wav</path>
-		<name>Jungle Journey (2012)(van Oss, Kees)(FW)[colour]</name>
-		<md5>8b6251382fda8baee61ae740d4c5f4c5</md5>
-		<scrap name="ScreenScraper" date="20231017T195638" />
-	</game>
-	<game>
-		<path>./TOSEC/Games/[WAV]/Repton (2013)(van Oss, Kees)(FW)[colour]/Repton (2013)(van Oss, Kees)(FW)[colour].wav</path>
-		<name>Repton (2013)(van Oss, Kees)(FW)[colour]</name>
-		<md5>bc1df02aa28d6d5e87c8998164ae898c</md5>
-		<scrap name="ScreenScraper" date="20231017T195640" />
-	</game>
-	<game id="416860">
-		<path>./No-Intro/Tapes Bitstream/Backgammon (Europe).uef</path>
-		<name>Backgammon</name>
-		<md5>e34947bec2b670fd6d2cd6f0ab9a4387</md5>
-		<lang>en</lang>
-		<region>eu</region>
-		<scrap name="ScreenScraper" date="20231102T195738" />
-	</game>
-	<game id="417202">
-		<path>./No-Intro/Tapes Bitstream/Breakout (Europe).uef</path>
-		<name>Breakout</name>
-		<md5>9edeffbb7e57f17018be8fbf947d49b6</md5>
-		<lang>en</lang>
-		<region>eu</region>
-		<scrap name="ScreenScraper" date="20231102T195740" />
-	</game>
-	<game id="416830">
-		<path>./No-Intro/Tapes Bitstream/Business Game (Europe).uef</path>
-		<name>Business Game</name>
-		<md5>2f729dd808dc73d84db44c1355d1f933</md5>
-		<lang>en</lang>
-		<region>eu</region>
-		<scrap name="ScreenScraper" date="20231102T195741" />
-	</game>
-	<game id="416848">
-		<path>./No-Intro/Tapes Bitstream/Centipede (Europe).uef</path>
-		<name>Centipede</name>
-		<genre>Shooter / Space Invaders Like</genre>
-		<md5>2a90eba9767a8b72e13ca6eb8cb09c7b</md5>
-		<lang>en</lang>
-		<region>eu</region>
-		<scrap name="ScreenScraper" date="20231102T195743" />
-	</game>
-	<game id="416845">
-		<path>./No-Intro/Tapes Bitstream/Cylon Attack (Europe).uef</path>
-		<name>Cylon Attack</name>
-		<md5>20cb9394c2cf6368d92f97d26f8c99e3</md5>
-		<lang>en</lang>
-		<region>eu</region>
-		<scrap name="ScreenScraper" date="20231102T195744" />
-	</game>
-	<game id="417199">
-		<path>./No-Intro/Tapes Bitstream/Death Satellite (Europe).uef</path>
-		<name>Death Satellite</name>
-		<md5>9f8ff14212e4795299fd659856bc3f6f</md5>
-		<lang>en</lang>
-		<region>eu</region>
-		<scrap name="ScreenScraper" date="20231102T195746" />
-	</game>
-	<game id="417220">
-		<path>./No-Intro/Tapes Bitstream/Defender (Europe).uef</path>
-		<name>Defender</name>
-		<md5>56a66aa27b94a970a641ace136c08215</md5>
-		<lang>en</lang>
-		<region>eu</region>
-		<scrap name="ScreenScraper" date="20231102T195747" />
-	</game>
-	<game id="416839">
-		<path>./No-Intro/Tapes Bitstream/Demon Dungeon (Europe).uef</path>
-		<name>Demon Dungeon</name>
-		<md5>773cdd4ab2eda2e139808950a618039e</md5>
-		<lang>en</lang>
-		<region>eu</region>
-		<scrap name="ScreenScraper" date="20231102T195748" />
-	</game>
-	<game id="417211">
-		<path>./No-Intro/Tapes Bitstream/Early Warning (Europe).uef</path>
-		<name>Early Warning</name>
-		<md5>68ef7b15f89e1af852b1bc450604c01f</md5>
-		<lang>en</lang>
-		<region>eu</region>
-		<scrap name="ScreenScraper" date="20231102T195750" />
-	</game>
-	<game id="417214">
-		<path>./No-Intro/Tapes Bitstream/Galaxian (Europe).uef</path>
-		<name>Galaxian</name>
-		<fanart>./images/Galaxian (Europe)-fanart.jpg</fanart>
-		<genre>Shooter / Space Invaders Like</genre>
-		<family>Galaxian</family>
-		<md5>04801262cf2e2c50d01107179c09685f</md5>
-		<lang>en</lang>
-		<region>eu</region>
-		<scrap name="ScreenScraper" date="20231102T195751" />
-	</game>
-	<game id="416836">
-		<path>./No-Intro/Tapes Bitstream/Hyperfire (Europe).uef</path>
-		<name>Hyperfire</name>
-		<md5>3d470fed4b4d96463306bc06a3e0d308</md5>
-		<lang>en</lang>
-		<region>eu</region>
-		<scrap name="ScreenScraper" date="20231102T195752" />
-	</game>
-	<game id="416833">
-		<path>./No-Intro/Tapes Bitstream/Labyrinth (Europe).uef</path>
-		<name>Labyrinth</name>
-		<md5>e5acc500e696009979d9ea2631eb97be</md5>
-		<lang>en</lang>
-		<region>eu</region>
-		<scrap name="ScreenScraper" date="20231102T195754" />
-	</game>
-	<game id="417205">
-		<path>./No-Intro/Tapes Bitstream/Minefield (Europe).uef</path>
-		<name>Minefield</name>
-		<md5>0b7361def66e17349aac2388d5a015a2</md5>
-		<lang>en</lang>
-		<region>eu</region>
-		<scrap name="ScreenScraper" date="20231102T195755" />
-	</game>
-	<game id="416842">
-		<path>./No-Intro/Tapes Bitstream/Omega Mission (Europe).uef</path>
-		<name>Omega Mission</name>
-		<md5>90e9e08aa2943998b492f0662d38d22c</md5>
-		<lang>en</lang>
-		<region>eu</region>
-		<scrap name="ScreenScraper" date="20231102T195756" />
-	</game>
-	<game id="417217">
-		<path>./No-Intro/Tapes Bitstream/Pinball (Europe).uef</path>
-		<name>Pinball</name>
-		<md5>db162871f7956b273338d8decbc25602</md5>
-		<lang>en</lang>
-		<region>eu</region>
-		<scrap name="ScreenScraper" date="20231102T195758" />
-	</game>
-	<game id="416854">
-		<path>./No-Intro/Tapes Bitstream/Protector, The (Europe).uef</path>
-		<name>Protector, The</name>
-		<md5>91d661ed96a64973b87bd60d4fa8c5de</md5>
-		<lang>en</lang>
-		<region>eu</region>
-		<scrap name="ScreenScraper" date="20231102T195759" />
-	</game>
-	<game id="417226">
-		<path>./No-Intro/Tapes Bitstream/Space Fighter (Europe).uef</path>
-		<name>Space Fighter</name>
-		<md5>2699313c33fb289f9807b717ac5eb9d8</md5>
-		<lang>en</lang>
-		<region>eu</region>
-		<scrap name="ScreenScraper" date="20231102T195801" />
-	</game>
-	<game id="417232">
-		<path>./No-Intro/Tapes Bitstream/Swarm (Europe).uef</path>
-		<name>Swarm</name>
-		<md5>ab6ae070a92be5c6d3f12647f3b4d1fa</md5>
-		<lang>en</lang>
-		<region>eu</region>
-		<scrap name="ScreenScraper" date="20231102T195803" />
-	</game>
-	<game id="416857">
-		<path>./No-Intro/Tapes Bitstream/Tangled (Europe).uef</path>
-		<name>Tangled</name>
-		<md5>d6e5f344e84b9fa93730d5d5f6f36715</md5>
-		<lang>en</lang>
-		<region>eu</region>
-		<scrap name="ScreenScraper" date="20231102T195804" />
-	</game>
-	<game id="417223">
-		<path>./No-Intro/Tapes Bitstream/UFO Bomber (Europe).uef</path>
-		<name>UFO Bomber</name>
-		<md5>4dd73a48bbf456c2d82e0a20ffc81269</md5>
-		<lang>en</lang>
-		<region>eu</region>
-		<scrap name="ScreenScraper" date="20231102T195806" />
-	</game>
-	<game id="417208">
-		<path>./No-Intro/Tapes Bitstream/Zodiac (Europe).uef</path>
-		<name>Zodiac</name>
-		<md5>6562f95e1880d2b081afba9bd2f3bc76</md5>
-		<lang>en</lang>
-		<region>eu</region>
-		<scrap name="ScreenScraper" date="20231102T195807" />
-	</game>
-	<game>
 		<path>./No-Intro/Games/747 (Europe).uef</path>
 		<name>747</name>
 		<developer>Bug-Byte Software</developer>
@@ -1053,5 +304,981 @@ All this makes the Africa Diamond a true test of cunning, intelligence and wit. 
 		<region>eu</region>
 		<scrap name="ScreenScraper" date="20231102T195736" />
 		<scrap name="HfsDB" date="20231103T190708" />
+	</game>
+	<game>
+		<path>./No-Intro/Tapes Bitstream/Backgammon (Europe).uef</path>
+		<name>Backgammon</name>
+		<video>./videos/Backgammon (Europe)-video.mp4</video>
+		<thumbnail>./images/Backgammon (Europe)-thumb.png</thumbnail>
+		<developer>Bug-Byte Software</developer>
+		<publisher>Bug-Byte Software</publisher>
+		<md5>e34947bec2b670fd6d2cd6f0ab9a4387</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231102T195738" />
+		<scrap name="HfsDB" date="20231105T115941" />
+	</game>
+	<game>
+		<path>./No-Intro/Tapes Bitstream/Breakout (Europe).uef</path>
+		<name>Breakout</name>
+		<video>./videos/Breakout (Europe)-video.mp4</video>
+		<thumbnail>./images/Breakout (Europe)-thumb.png</thumbnail>
+		<developer>Bug-Byte Software</developer>
+		<publisher>Bug-Byte Software</publisher>
+		<md5>9edeffbb7e57f17018be8fbf947d49b6</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231102T195740" />
+		<scrap name="HfsDB" date="20231105T115942" />
+	</game>
+	<game>
+		<path>./No-Intro/Tapes Bitstream/Business Game (Europe).uef</path>
+		<name>Business Game</name>
+		<thumbnail>./images/Business Game (Europe)-thumb.jpg</thumbnail>
+		<developer>Micro Power</developer>
+		<publisher>Micro Power</publisher>
+		<md5>2f729dd808dc73d84db44c1355d1f933</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231102T195741" />
+		<scrap name="HfsDB" date="20231105T120042" />
+	</game>
+	<game id="416848">
+		<path>./No-Intro/Tapes Bitstream/Centipede (Europe).uef</path>
+		<name>Centipede</name>
+		<genre>Shooter / Space Invaders Like</genre>
+		<md5>2a90eba9767a8b72e13ca6eb8cb09c7b</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231102T195743" />
+		<scrap name="HfsDB" date="20231105T120042" />
+	</game>
+	<game>
+		<path>./No-Intro/Tapes Bitstream/Cylon Attack (Europe).uef</path>
+		<name>Cylon Attack</name>
+		<desc>Cylon Attack is a pseudo 3D space shooter played from a first-person perspective and clearly based on the American TV series Battlestar Galactica where the Cylon race is featured, but not carrying an official license. The player is the only interceptor pilot on an Earth supply mothership. He has to survive the different attack waves of the enemies while defending the ship. At the start of each wave he is launched in a fighter ship and needs to destroy all enemies to survive the wave, while flying around freely.
+
+There is only a limited amount of fuel available, but the player can return to the mothership at any time for a refuel, leaving the main base exposed for a moment. A radar map near the top of the screen shows the position of enemies and the main ship. The player's ship can climb up and down, and turn. When an alien vessel approaches, the sights (cross-hair) changes, indicating when there is a good chance of a hit. When it changes a second time, it locks onto the enemy. Only a laser weapon can be fired and it takes some time to recharge.
+
+The screen shows the player's score, the high score, the status of the mothership, the remaining strength of the shields, the amount of fuel left, and various indicators for climb/turn ratio and the lasers.</desc>
+		<image>./images/Cylon Attack (Europe)-image.png</image>
+		<video>./videos/Cylon Attack (Europe)-video.mp4</video>
+		<thumbnail>./images/Cylon Attack (Europe)-thumb.jpg</thumbnail>
+		<developer>A&amp;F Software</developer>
+		<publisher>A&amp;F Software Ltd.</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<md5>20cb9394c2cf6368d92f97d26f8c99e3</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231102T195744" />
+		<scrap name="HfsDB" date="20231105T120142" />
+	</game>
+	<game id="417199">
+		<path>./No-Intro/Tapes Bitstream/Death Satellite (Europe).uef</path>
+		<name>Death Satellite</name>
+		<md5>9f8ff14212e4795299fd659856bc3f6f</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231102T195746" />
+		<scrap name="HfsDB" date="20231105T120142" />
+	</game>
+	<game id="417220">
+		<path>./No-Intro/Tapes Bitstream/Defender (Europe).uef</path>
+		<name>Defender</name>
+		<md5>56a66aa27b94a970a641ace136c08215</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231102T195747" />
+		<scrap name="HfsDB" date="20231105T120142" />
+	</game>
+	<game id="416839">
+		<path>./No-Intro/Tapes Bitstream/Demon Dungeon (Europe).uef</path>
+		<name>Demon Dungeon</name>
+		<md5>773cdd4ab2eda2e139808950a618039e</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231102T195748" />
+		<scrap name="HfsDB" date="20231105T120142" />
+	</game>
+	<game>
+		<path>./No-Intro/Tapes Bitstream/Early Warning (Europe).uef</path>
+		<name>Early Warning</name>
+		<video>./videos/Early Warning (Europe)-video.mp4</video>
+		<thumbnail>./images/Early Warning (Europe)-thumb.png</thumbnail>
+		<md5>68ef7b15f89e1af852b1bc450604c01f</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231102T195750" />
+		<scrap name="HfsDB" date="20231105T120243" />
+	</game>
+	<game>
+		<path>./No-Intro/Tapes Bitstream/Galaxian (Europe).uef</path>
+		<name>Galaxian</name>
+		<video>./videos/Galaxian (Europe)-video.mp4</video>
+		<thumbnail>./images/Galaxian (Europe)-thumb.png</thumbnail>
+		<fanart>./images/Galaxian (Europe)-fanart.jpg</fanart>
+		<md5>04801262cf2e2c50d01107179c09685f</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231102T195751" />
+		<scrap name="HfsDB" date="20231105T120243" />
+	</game>
+	<game>
+		<path>./No-Intro/Tapes Bitstream/Hyperfire (Europe).uef</path>
+		<name>Hyperfire</name>
+		<thumbnail>./images/Hyperfire (Europe)-thumb.jpg</thumbnail>
+		<developer>Micro Power</developer>
+		<publisher>Micro Power</publisher>
+		<md5>3d470fed4b4d96463306bc06a3e0d308</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231102T195752" />
+		<scrap name="HfsDB" date="20231105T120342" />
+	</game>
+	<game>
+		<path>./No-Intro/Tapes Bitstream/Labyrinth (Europe).uef</path>
+		<name>Labyrinth</name>
+		<md5>e5acc500e696009979d9ea2631eb97be</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231102T195754" />
+		<scrap name="HfsDB" date="20231105T120343" />
+	</game>
+	<game id="417205">
+		<path>./No-Intro/Tapes Bitstream/Minefield (Europe).uef</path>
+		<name>Minefield</name>
+		<md5>0b7361def66e17349aac2388d5a015a2</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231102T195755" />
+		<scrap name="HfsDB" date="20231105T120343" />
+	</game>
+	<game>
+		<path>./No-Intro/Tapes Bitstream/Omega Mission (Europe).uef</path>
+		<name>Omega Mission</name>
+		<developer>Micromania</developer>
+		<publisher>Micromania</publisher>
+		<md5>90e9e08aa2943998b492f0662d38d22c</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231102T195756" />
+		<scrap name="HfsDB" date="20231105T120343" />
+	</game>
+	<game>
+		<path>./No-Intro/Tapes Bitstream/Pinball (Europe).uef</path>
+		<name>Pinball</name>
+		<video>./videos/Pinball (Europe)-video.mp4</video>
+		<thumbnail>./images/Pinball (Europe)-thumb.png</thumbnail>
+		<developer>Bug-Byte Software</developer>
+		<publisher>Bug-Byte Software</publisher>
+		<md5>db162871f7956b273338d8decbc25602</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231102T195758" />
+		<scrap name="HfsDB" date="20231105T120442" />
+	</game>
+	<game>
+		<path>./No-Intro/Tapes Bitstream/Protector, The (Europe).uef</path>
+		<name>The Protector</name>
+		<developer>Micromania</developer>
+		<publisher>Micromania</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>91d661ed96a64973b87bd60d4fa8c5de</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231102T195759" />
+		<scrap name="HfsDB" date="20231105T120443" />
+	</game>
+	<game id="417226">
+		<path>./No-Intro/Tapes Bitstream/Space Fighter (Europe).uef</path>
+		<name>Space Fighter</name>
+		<md5>2699313c33fb289f9807b717ac5eb9d8</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231102T195801" />
+		<scrap name="HfsDB" date="20231105T120443" />
+	</game>
+	<game>
+		<path>./No-Intro/Tapes Bitstream/Swarm (Europe).uef</path>
+		<name>Swarm</name>
+		<video>./videos/Swarm (Europe)-video.mp4</video>
+		<thumbnail>./images/Swarm (Europe)-thumb.jpg</thumbnail>
+		<developer>Micro Power</developer>
+		<publisher>Micro Power</publisher>
+		<md5>ab6ae070a92be5c6d3f12647f3b4d1fa</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231102T195803" />
+		<scrap name="HfsDB" date="20231105T120443" />
+	</game>
+	<game id="416857">
+		<path>./No-Intro/Tapes Bitstream/Tangled (Europe).uef</path>
+		<name>Tangled</name>
+		<md5>d6e5f344e84b9fa93730d5d5f6f36715</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231102T195804" />
+		<scrap name="HfsDB" date="20231105T120443" />
+	</game>
+	<game>
+		<path>./No-Intro/Tapes Bitstream/UFO Bomber (Europe).uef</path>
+		<name>Ufo Bomber</name>
+		<developer>Bug-Byte Software</developer>
+		<publisher>Bug-Byte Software</publisher>
+		<md5>4dd73a48bbf456c2d82e0a20ffc81269</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231102T195806" />
+		<scrap name="HfsDB" date="20231105T120543" />
+	</game>
+	<game id="417208">
+		<path>./No-Intro/Tapes Bitstream/Zodiac (Europe).uef</path>
+		<name>Zodiac</name>
+		<md5>6562f95e1880d2b081afba9bd2f3bc76</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231102T195807" />
+		<scrap name="HfsDB" date="20231105T120543" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/Atom Database (1980)(Acornsoft)/Atom Database (1980)(Acornsoft).uef</path>
+		<name>Atom Database (1980)(Acornsoft)</name>
+		<md5>1e457e2ac5669431f853c13bf721e27e</md5>
+		<scrap name="ScreenScraper" date="20231017T195438" />
+		<scrap name="HfsDB" date="20231105T120543" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/Atom Synthesiser (1981)(Acornsoft)[5K]/Atom Synthesiser (1981)(Acornsoft)[5K].uef</path>
+		<name>Atom Synthesiser (1981)(Acornsoft)[5K]</name>
+		<md5>9617f09a939fc0f260d37691e6c4edfa</md5>
+		<scrap name="ScreenScraper" date="20231017T195439" />
+		<scrap name="HfsDB" date="20231105T120543" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/Atom Typist (1981)(Bug Byte)[7K]/Atom Typist (1981)(Bug Byte)[7K].uef</path>
+		<name>Atom Typist (1981)(Bug Byte)[7K]</name>
+		<md5>58c2a2045cdc7811037b62409f0c10b1</md5>
+		<scrap name="ScreenScraper" date="20231017T195441" />
+		<scrap name="HfsDB" date="20231105T120643" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/AtomStore (1981)(Program Power)[12K]/AtomStore (1981)(Program Power)[12K].uef</path>
+		<name>Atomstore</name>
+		<thumbnail>./images/AtomStore (1981)(Program Power)[12K]-thumb.jpg</thumbnail>
+		<developer>Micro Power</developer>
+		<publisher>Micro Power</publisher>
+		<md5>df55771157ab832ef6120d35e6c39519</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231017T195442" />
+		<scrap name="HfsDB" date="20231105T120643" />
+	</game>
+	<game>
+		<path>./TOSEC/Educational/Peeko-Computer (1981)(Acornsoft)/Peeko-Computer (1981)(Acornsoft).uef</path>
+		<name>Peeko-Computer (1981)(Acornsoft)</name>
+		<md5>e962b14af4b22cb330e660badbe75723</md5>
+		<scrap name="ScreenScraper" date="20231017T195443" />
+		<scrap name="HfsDB" date="20231105T120643" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[CSW]/Atomic Chuckie Egg (2012)(van Oss, Kees)(FW)[colour for Atomulator]/Atomic Chuckie Egg (2012)(van Oss, Kees)(FW)[colour for Atomulator].csw</path>
+		<name>Atomic Chuckie Egg (2012)(van Oss, Kees)(FW)[colour for Atomulator]</name>
+		<md5>1763aa8ee47894efe29ef5eb2eb8c523</md5>
+		<scrap name="ScreenScraper" date="20231017T195444" />
+		<scrap name="HfsDB" date="20231105T120643" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[CSW]/Atomic Chuckie Egg (2012)(van Oss, Kees)(FW)[monochrome for Atomulator]/Atomic Chuckie Egg (2012)(van Oss, Kees)(FW)[monochrome for Atomulator].csw</path>
+		<name>Atomic Chuckie Egg (2012)(van Oss, Kees)(FW)[monochrome for Atomulator]</name>
+		<md5>64fe72732560658197bc6a0ef6533cd1</md5>
+		<scrap name="ScreenScraper" date="20231017T195445" />
+		<scrap name="HfsDB" date="20231105T120744" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[CSW]/Atomic Joe Blade (2014)(van Oss, Kees)(FW)[Atomulator]/Atomic Joe Blade (2014)(van Oss, Kees)(FW)[Atomulator].csw</path>
+		<name>Atomic Joe Blade (2014)(van Oss, Kees)(FW)[Atomulator]</name>
+		<md5>dfb03f7a71081c588f76ce8158437415</md5>
+		<scrap name="ScreenScraper" date="20231017T195446" />
+		<scrap name="HfsDB" date="20231105T120744" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[CSW]/Galaforce (2012)(van Oss, Kees)(FW)[colour for Atomulator]/Galaforce (2012)(van Oss, Kees)(FW)[colour for Atomulator].csw</path>
+		<name>Galaforce (2012)(van Oss, Kees)(FW)[colour for Atomulator]</name>
+		<md5>9ec2a70b0029edd8e6fac9d140670350</md5>
+		<scrap name="ScreenScraper" date="20231017T195447" />
+		<scrap name="HfsDB" date="20231105T120844" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[CSW]/Galaforce (2012)(van Oss, Kees)(FW)[monochrome for Atomulator]/Galaforce (2012)(van Oss, Kees)(FW)[monochrome for Atomulator].csw</path>
+		<name>Galaforce (2012)(van Oss, Kees)(FW)[monochrome for Atomulator]</name>
+		<md5>d70262b5347b5ffe726023df2443614c</md5>
+		<scrap name="ScreenScraper" date="20231017T195448" />
+		<scrap name="HfsDB" date="20231105T120844" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[CSW]/Hard Hat Harry (2011)(van Oss, Kees)(FW)[Atomulator]/Hard Hat Harry (2011)(van Oss, Kees)(FW)[Atomulator].csw</path>
+		<name>Hard Hat Harry (2011)(van Oss, Kees)(FW)[Atomulator]</name>
+		<md5>8189ef514243803f63dfef42cad9fa54</md5>
+		<scrap name="ScreenScraper" date="20231017T195449" />
+		<scrap name="HfsDB" date="20231105T120844" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[CSW]/Hyper Viper (2012-02)(van Oss, Kees)(FW)[colour for Atomulator]/Hyper Viper (2012-02)(van Oss, Kees)(FW)[colour for Atomulator].csw</path>
+		<name>Hyper Viper (2012-02)(van Oss, Kees)(FW)[colour for Atomulator]</name>
+		<md5>9fc10a3199e27706b6360460845620bd</md5>
+		<scrap name="ScreenScraper" date="20231017T195450" />
+		<scrap name="HfsDB" date="20231105T120844" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[CSW]/Hyper Viper (2012-02)(van Oss, Kees)(FW)[monochrome for Atomulator]/Hyper Viper (2012-02)(van Oss, Kees)(FW)[monochrome for Atomulator].csw</path>
+		<name>Hyper Viper (2012-02)(van Oss, Kees)(FW)[monochrome for Atomulator]</name>
+		<md5>44ca2858d10a3d15cb7dbe62405cd550</md5>
+		<scrap name="ScreenScraper" date="20231017T195451" />
+		<scrap name="HfsDB" date="20231105T120844" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[CSW]/Jungle Journey (2012)(van Oss, Kees)(FW)[colour for Atomulator]/Jungle Journey (2012)(van Oss, Kees)(FW)[colour for Atomulator].csw</path>
+		<name>Jungle Journey (2012)(van Oss, Kees)(FW)[colour for Atomulator]</name>
+		<md5>78a95edcc6c36faec4955cd4f001ee0a</md5>
+		<scrap name="ScreenScraper" date="20231017T195453" />
+		<scrap name="HfsDB" date="20231105T120944" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[CSW]/Repton (2013)(van Oss, Kees)(FW)[colour for Atomulator]/Repton (2013)(van Oss, Kees)(FW)[colour for Atomulator].csw</path>
+		<name>Repton (2013)(van Oss, Kees)(FW)[colour for Atomulator]</name>
+		<md5>48caa25aacf55049ead97e917ead2466</md5>
+		<scrap name="ScreenScraper" date="20231017T195454" />
+		<scrap name="HfsDB" date="20231105T120944" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[DSK]/Atomic Chuckie Egg (2012)(van Oss, Kees)(FW)/Atomic Chuckie Egg (2012)(van Oss, Kees)(FW).dsk</path>
+		<name>Atomic Chuckie Egg (2012)(van Oss, Kees)(FW)</name>
+		<md5>8bbbdf8b95de9b06ac1f4b6f2cf75910</md5>
+		<scrap name="ScreenScraper" date="20231017T195455" />
+		<scrap name="HfsDB" date="20231105T120944" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[DSK]/Atomic Jet Set Willy (2015)(van Oss, Kees)(FW)/Atomic Jet Set Willy (2015)(van Oss, Kees)(FW).dsk</path>
+		<name>Atomic Jet Set Willy (2015)(van Oss, Kees)(FW)</name>
+		<md5>64991201584a8a3ce79f562356a5f78a</md5>
+		<scrap name="ScreenScraper" date="20231017T195457" />
+		<scrap name="HfsDB" date="20231105T120944" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[DSK]/Atomic Jet Set Willy 2 (2015)(van Oss, Kees)(FW)/Atomic Jet Set Willy 2 (2015)(van Oss, Kees)(FW).dsk</path>
+		<name>Atomic Jet Set Willy 2 (2015)(van Oss, Kees)(FW)</name>
+		<md5>e843d2decb3b5208e6dfa9787a432632</md5>
+		<scrap name="ScreenScraper" date="20231017T195458" />
+		<scrap name="HfsDB" date="20231105T120944" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[DSK]/Atomic Joe Blade (2014)(van Oss, Kees)(FW)/Atomic Joe Blade (2014)(van Oss, Kees)(FW).DSK</path>
+		<name>Atomic Joe Blade (2014)(van Oss, Kees)(FW)</name>
+		<md5>9e743d826b820d86f7f63ffbf1a3fac5</md5>
+		<scrap name="ScreenScraper" date="20231017T195459" />
+		<scrap name="HfsDB" date="20231105T121045" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[DSK]/Egghead in Space (2016)(Retro Software)[32K]/Egghead in Space (2016)(Retro Software)[32K].dsk</path>
+		<name>Egghead In Space</name>
+		<desc>The Plot
+Remember how those aliens paid Egghead a visit a few years ago leaving his house in such a mess he had to go around clearing up after them?
+Obviously that wasn't un oeuf, because they're back again and this time they've abducted Egghead's favourite BBC/Electron games.
+Quick witted as ever, our "dairydevil" hero managed to "scramble" aboard one of the alien rocket ships before it took off for planet Zog and hitched a ride back with the extra-terrestrials to retrieve his precious software collection. Upon arriving, Egghead managed to teleport into the underground labyrinth and that was when his problems really began...
+The Mission
+Move Egghead around the screens leaping from platform to platform in search of the disc containing the computer games. Try not to fall too far as eggs are delicate, and avoid any green slime you may encounter. On the other hand, the green bubbles that rise from the slime are not deadly. Numerous items can be collected along the way to help Egghead in his quest. For example, a source of light will help illuminate a darkened room, and some sort of weapon might scare off some of those aliens. Once the computer disc has been located, Egghead needs to acquire some transport back to Earth.</desc>
+		<image>./images/Egghead in Space (2016)(Retro Software)[32K]-image.png</image>
+		<releasedate>20160221T000000</releasedate>
+		<developer>Chris Dewhurst, Jonathan Cauldwell &amp; Kees Van Oss</developer>
+		<publisher>Kees Van Oss</publisher>
+		<md5>83642017bfab74cdac1633be733df0f7</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231017T195500" />
+		<scrap name="HfsDB" date="20231105T121045" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[DSK]/F14 Tomcat (2015)(van Oss, Kees)(FW)/F14 Tomcat (2015)(van Oss, Kees)(FW).dsk</path>
+		<name>F14 Tomcat (2015)(van Oss, Kees)(FW)</name>
+		<md5>8e7229b1a5775f0ac53a08170d8d3258</md5>
+		<scrap name="ScreenScraper" date="20231017T195502" />
+		<scrap name="HfsDB" date="20231105T121144" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[DSK]/Galaforce (2012)(van Oss, Kees)(FW)/Galaforce (2012)(van Oss, Kees)(FW).dsk</path>
+		<name>Galaforce (2012)(van Oss, Kees)(FW)</name>
+		<md5>41fe773d9116d9b1b517ab2bf1e4efb9</md5>
+		<scrap name="ScreenScraper" date="20231017T195503" />
+		<scrap name="HfsDB" date="20231105T121145" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[DSK]/Galaxians (1982)(Aardvark)[12K]/Galaxians (1982)(Aardvark)[12K].dsk</path>
+		<name>Galaxian</name>
+		<video>./videos/Galaxians (1982)(Aardvark)[12K]-video.mp4</video>
+		<thumbnail>./images/Galaxians (1982)(Aardvark)[12K]-thumb.png</thumbnail>
+		<md5>a4c0797193890fc8c40886ffae191c4f</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231017T195504" />
+		<scrap name="HfsDB" date="20231105T121146" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[DSK]/Hard Hat Harry (2011)(van Oss, Kees)(FW)/Hard Hat Harry (2011)(van Oss, Kees)(FW).dsk</path>
+		<name>Hard Hat Harry (2011)(van Oss, Kees)(FW)</name>
+		<md5>38d362c30a9457e73b8a4bebcd01ede1</md5>
+		<scrap name="ScreenScraper" date="20231017T195505" />
+		<scrap name="HfsDB" date="20231105T121146" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[DSK]/Hyper Viper (2012-02)(van Oss, Kees)(FW)/Hyper Viper (2012-02)(van Oss, Kees)(FW).dsk</path>
+		<name>Hyper Viper (2012-02)(van Oss, Kees)(FW)</name>
+		<md5>0fd45dd7346eaff7e790a5ead8196caa</md5>
+		<scrap name="ScreenScraper" date="20231017T195506" />
+		<scrap name="HfsDB" date="20231105T121245" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[DSK]/Jet Set Miner &amp; Level Editor (2011)(van Oss, Kees)(FW)/Jet Set Miner &amp; Level Editor (2011)(van Oss, Kees)(FW).dsk</path>
+		<name>Jet Set Miner &amp; Level Editor (2011)(van Oss, Kees)(FW)</name>
+		<md5>9ca9f90728a7050dec55d9362d0185c0</md5>
+		<scrap name="ScreenScraper" date="20231017T195507" />
+		<scrap name="HfsDB" date="20231105T121245" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[DSK]/Jungle Journey (2012)(van Oss, Kees)(FW)[colour]/Jungle Journey (2012)(van Oss, Kees)(FW)[colour].dsk</path>
+		<name>Jungle Journey (2012)(van Oss, Kees)(FW)[colour]</name>
+		<md5>eef79b93d7ba3de132833b286f2df62b</md5>
+		<scrap name="ScreenScraper" date="20231017T195508" />
+		<scrap name="HfsDB" date="20231105T121345" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[DSK]/Manic Miner (2017)(Retro Software)[32K]/Manic Miner (2017)(Retro Software)[32K].dsk</path>
+		<name>Manic Miner</name>
+		<image>./images/Manic Miner (2017)(Retro Software)[32K]-image.jpg</image>
+		<releasedate>20170201T000000</releasedate>
+		<developer>Chris Robson, Kees Van Oss &amp; Matthew Smith</developer>
+		<publisher>Kees Van Oss</publisher>
+		<md5>da08cca3c89823522f07b505a90546e4</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231017T195509" />
+		<scrap name="HfsDB" date="20231105T121345" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[DSK]/Repton (2013)(van Oss, Kees)(FW)[colour]/Repton (2013)(van Oss, Kees)(FW)[colour].dsk</path>
+		<name>Repton (2013)(van Oss, Kees)(FW)[colour]</name>
+		<md5>c573777031902bd4f212494d166de50e</md5>
+		<scrap name="ScreenScraper" date="20231017T195510" />
+		<scrap name="HfsDB" date="20231105T121345" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[TAP]/Atomic Chuckie Egg (2012)(van Oss, Kees)(FW)[colour for Wouter Ras]/Atomic Chuckie Egg (2012)(van Oss, Kees)(FW)[colour for Wouter Ras].tap</path>
+		<name>Atomic Chuckie Egg (2012)(van Oss, Kees)(FW)[colour for Wouter Ras]</name>
+		<md5>3ee1d9d30e738e72bb247a09b2de3c31</md5>
+		<scrap name="ScreenScraper" date="20231017T195512" />
+		<scrap name="HfsDB" date="20231105T121345" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[TAP]/Atomic Chuckie Egg (2012)(van Oss, Kees)(FW)[monochrome for Wouter Ras]/Atomic Chuckie Egg (2012)(van Oss, Kees)(FW)[monochrome for Wouter Ras].tap</path>
+		<name>Atomic Chuckie Egg (2012)(van Oss, Kees)(FW)[monochrome for Wouter Ras]</name>
+		<md5>80250772445913c70d96028af9b4ae75</md5>
+		<scrap name="ScreenScraper" date="20231017T195513" />
+		<scrap name="HfsDB" date="20231105T121446" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[TAP]/Atomic Jet Set Willy (2015)(van Oss, Kees)(FW)[Wouter Ras]/Atomic Jet Set Willy (2015)(van Oss, Kees)(FW)[Wouter Ras].tap</path>
+		<name>Atomic Jet Set Willy (2015)(van Oss, Kees)(FW)[Wouter Ras]</name>
+		<md5>cf180727d254547fbab9f001eae963cd</md5>
+		<scrap name="ScreenScraper" date="20231017T195514" />
+		<scrap name="HfsDB" date="20231105T121446" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[TAP]/Atomic Jet Set Willy 2 (2015)(van Oss, Kees)(FW)[Wouter Ras]/Atomic Jet Set Willy 2 (2015)(van Oss, Kees)(FW)[Wouter Ras].tap</path>
+		<name>Atomic Jet Set Willy 2 (2015)(van Oss, Kees)(FW)[Wouter Ras]</name>
+		<md5>9760a8bb02a5df34812170add7cf16ce</md5>
+		<scrap name="ScreenScraper" date="20231017T195516" />
+		<scrap name="HfsDB" date="20231105T121545" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[TAP]/Galaforce (2012)(van Oss, Kees)(FW)[colour for Wouter Ras]/Galaforce (2012)(van Oss, Kees)(FW)[colour for Wouter Ras].tap</path>
+		<name>Galaforce (2012)(van Oss, Kees)(FW)[colour for Wouter Ras]</name>
+		<md5>53531f0e3495cf849deb311eacef1f9d</md5>
+		<scrap name="ScreenScraper" date="20231017T195517" />
+		<scrap name="HfsDB" date="20231105T121545" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[TAP]/Galaforce (2012)(van Oss, Kees)(FW)[monochrome for Wouter Ras]/Galaforce (2012)(van Oss, Kees)(FW)[monochrome for Wouter Ras].tap</path>
+		<name>Galaforce (2012)(van Oss, Kees)(FW)[monochrome for Wouter Ras]</name>
+		<md5>207880d48458396fc014abde662bb139</md5>
+		<scrap name="ScreenScraper" date="20231017T195518" />
+		<scrap name="HfsDB" date="20231105T121546" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[TAP]/Hard Hat Harry (2011)(van Oss, Kees)(FW)[Wouter Ras]/Hard Hat Harry (2011)(van Oss, Kees)(FW)[Wouter Ras].tap</path>
+		<name>Hard Hat Harry (2011)(van Oss, Kees)(FW)[Wouter Ras]</name>
+		<md5>fbbc564922ac34a36ba5cf12a1866a70</md5>
+		<scrap name="ScreenScraper" date="20231017T195519" />
+		<scrap name="HfsDB" date="20231105T121546" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[TAP]/Hyper Viper (2012-02)(van Oss, Kees)(FW)[colour for Wouter Ras]/Hyper Viper (2012-02)(van Oss, Kees)(FW)[colour for Wouter Ras].tap</path>
+		<name>Hyper Viper (2012-02)(van Oss, Kees)(FW)[colour for Wouter Ras]</name>
+		<md5>e41ef4bc54996509b2f33ecd5f58265c</md5>
+		<scrap name="ScreenScraper" date="20231017T195520" />
+		<scrap name="HfsDB" date="20231105T121546" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[TAP]/Hyper Viper (2012-02)(van Oss, Kees)(FW)[monochrome for Wouter Ras]/Hyper Viper (2012-02)(van Oss, Kees)(FW)[monochrome for Wouter Ras].tap</path>
+		<name>Hyper Viper (2012-02)(van Oss, Kees)(FW)[monochrome for Wouter Ras]</name>
+		<md5>13b8698233050689db82e1e255cdf768</md5>
+		<scrap name="ScreenScraper" date="20231017T195521" />
+		<scrap name="HfsDB" date="20231105T121646" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[TAP]/Jet Set Miner (2011)(van Oss, Kees)(FW)[colour for Wouter Ras]/Jet Set Miner (2011)(van Oss, Kees)(FW)[colour for Wouter Ras].tap</path>
+		<name>Jet Set Miner (2011)(van Oss, Kees)(FW)[colour for Wouter Ras]</name>
+		<md5>88f85c5b93caad99a72dc7e21cfa0384</md5>
+		<scrap name="ScreenScraper" date="20231017T195522" />
+		<scrap name="HfsDB" date="20231105T121646" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[TAP]/Jet Set Miner (2011)(van Oss, Kees)(FW)[monochrome for Wouter Ras]/Jet Set Miner (2011)(van Oss, Kees)(FW)[monochrome for Wouter Ras].tap</path>
+		<name>Jet Set Miner (2011)(van Oss, Kees)(FW)[monochrome for Wouter Ras]</name>
+		<md5>16e1f062869f50e946314cb5451e47a0</md5>
+		<scrap name="ScreenScraper" date="20231017T195523" />
+		<scrap name="HfsDB" date="20231105T121646" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[TAP]/Jungle Journey (2012)(van Oss, Kees)(FW)[colour for Wouter Ras]/Jungle Journey (2012)(van Oss, Kees)(FW)[colour for Wouter Ras].tap</path>
+		<name>Jungle Journey (2012)(van Oss, Kees)(FW)[colour for Wouter Ras]</name>
+		<md5>efcf22413833f7bf9df5689bee04852e</md5>
+		<scrap name="ScreenScraper" date="20231017T195525" />
+		<scrap name="HfsDB" date="20231105T121646" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[TAP]/Repton (2013)(van Oss, Kees)(FW)[colour for Wouter Ras]/Repton (2013)(van Oss, Kees)(FW)[colour for Wouter Ras].tap</path>
+		<name>Repton (2013)(van Oss, Kees)(FW)[colour for Wouter Ras]</name>
+		<md5>c6d6c28b8e319f8b60a9b77ae5032b05</md5>
+		<scrap name="ScreenScraper" date="20231017T195526" />
+		<scrap name="HfsDB" date="20231105T121745" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[UEF]/747 (1982)(Bug Byte)[12K]/747 (1982)(Bug Byte)[12K].uef</path>
+		<name>747</name>
+		<developer>Bug-Byte Software</developer>
+		<publisher>Bug-Byte Software</publisher>
+		<genre>Simulation</genre>
+		<players>1</players>
+		<md5>6841589ffec2ed7ae1f4b2c1900287e7</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231017T195528" />
+		<scrap name="HfsDB" date="20231105T121746" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[UEF]/Adventure (1981)(Program Power)[12K]/Adventure (1981)(Program Power)[12K].uef</path>
+		<name>Write Your Own Adventure</name>
+		<md5>88cd5cda7394e23a14a4deedfd0ba1c7</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231017T195529" />
+		<scrap name="HfsDB" date="20231105T121746" />
+	</game>
+	<game id="416827">
+		<path>./TOSEC/Games/[UEF]/Africa Diamond, The (1982)(Ramtronics)[12K]/Africa Diamond, The (1982)(Ramtronics)[12K].uef</path>
+		<name>Africa Diamond, The</name>
+		<desc>Somewhere in the Old Country House, the famous Africa Diamond was hidden. Legend has it that possession of the gem will give countless wealth and even magical powers! 
+However, to take the gem is no easy task! Vampires, dwarfs, Wild dogs, to name a few, have taken over the house, and will welcome vou with open jaws! If you can get to the gem, a surprise awaits you!
+All this makes the Africa Diamond a true test of cunning, intelligence and wit. Are you smart enough to take the gem? After all, the most you have to lose is your life!</desc>
+		<md5>18ec2a5c628231b145b2543e72c61a8b</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231017T195531" />
+		<scrap name="HfsDB" date="20231105T121747" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[UEF]/Atomic Chuckie Egg (2012)(van Oss, Kees)(FW)[colour for Atomulator]/Atomic Chuckie Egg (2012)(van Oss, Kees)(FW)[colour for Atomulator].uef</path>
+		<name>Atomic Chuckie Egg (2012)(van Oss, Kees)(FW)[colour for Atomulator]</name>
+		<md5>6327ef6ad059435450a3f44f3fc758ae</md5>
+		<scrap name="ScreenScraper" date="20231017T195532" />
+		<scrap name="HfsDB" date="20231105T121846" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[UEF]/Atomic Chuckie Egg (2012)(van Oss, Kees)(FW)[monochrome for Atomulator]/Atomic Chuckie Egg (2012)(van Oss, Kees)(FW)[monochrome for Atomulator].uef</path>
+		<name>Atomic Chuckie Egg (2012)(van Oss, Kees)(FW)[monochrome for Atomulator]</name>
+		<md5>cd6460a030e88134d30e64a82b380cbf</md5>
+		<scrap name="ScreenScraper" date="20231017T195534" />
+		<scrap name="HfsDB" date="20231105T121846" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[UEF]/Atomic Joe Blade (2014)(van Oss, Kees)(FW)[Atomulator]/Atomic Joe Blade (2014)(van Oss, Kees)(FW)[Atomulator].uef</path>
+		<name>Atomic Joe Blade (2014)(van Oss, Kees)(FW)[Atomulator]</name>
+		<md5>b0f8013ad1f2f2df8317311dca97d3f0</md5>
+		<scrap name="ScreenScraper" date="20231017T195535" />
+		<scrap name="HfsDB" date="20231105T121946" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[UEF]/Atomic Joe Blade (2014)(van Oss, Kees)(FW)[Wouter Ras]/Atomic Joe Blade (2014)(van Oss, Kees)(FW)[Wouter Ras].tap</path>
+		<name>Atomic Joe Blade (2014)(van Oss, Kees)(FW)[Wouter Ras]</name>
+		<md5>f138f2059c03ea4061040439bee31e51</md5>
+		<scrap name="ScreenScraper" date="20231017T195536" />
+		<scrap name="HfsDB" date="20231105T121946" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[UEF]/Backgammon (1981)(Bug Byte)/Backgammon (1981)(Bug Byte).uef</path>
+		<name>Backgammon</name>
+		<video>./videos/Backgammon (1981)(Bug Byte)-video.mp4</video>
+		<thumbnail>./images/Backgammon (1981)(Bug Byte)-thumb.png</thumbnail>
+		<developer>Bug-Byte Software</developer>
+		<publisher>Bug-Byte Software</publisher>
+		<md5>e34947bec2b670fd6d2cd6f0ab9a4387</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231017T195538" />
+		<scrap name="HfsDB" date="20231105T121947" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[UEF]/Breakout (1981)(Bug Byte)[4K]/Breakout (1981)(Bug Byte)[4K].uef</path>
+		<name>Breakout</name>
+		<video>./videos/Breakout (1981)(Bug Byte)[4K]-video.mp4</video>
+		<thumbnail>./images/Breakout (1981)(Bug Byte)[4K]-thumb.png</thumbnail>
+		<developer>Bug-Byte Software</developer>
+		<publisher>Bug-Byte Software</publisher>
+		<md5>9edeffbb7e57f17018be8fbf947d49b6</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231017T195539" />
+		<scrap name="HfsDB" date="20231105T121947" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[UEF]/Business Game (1982)(Program Power)/Business Game (1982)(Program Power).uef</path>
+		<name>Business Game</name>
+		<thumbnail>./images/Business Game (1982)(Program Power)-thumb.jpg</thumbnail>
+		<developer>Micro Power</developer>
+		<publisher>Micro Power</publisher>
+		<md5>2f729dd808dc73d84db44c1355d1f933</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231017T195541" />
+		<scrap name="HfsDB" date="20231105T121948" />
+	</game>
+	<game id="416848">
+		<path>./TOSEC/Games/[UEF]/Centipede (198x)(Micromania)/Centipede (198x)(Micromania).uef</path>
+		<name>Centipede</name>
+		<genre>Shooter / Space Invaders Like</genre>
+		<md5>2a90eba9767a8b72e13ca6eb8cb09c7b</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231017T195543" />
+		<scrap name="HfsDB" date="20231105T122047" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[UEF]/Cylon Attack (1982)(A&amp;F Software)/Cylon Attack (1982)(A&amp;F Software).uef</path>
+		<name>Cylon Attack</name>
+		<desc>Cylon Attack is a pseudo 3D space shooter played from a first-person perspective and clearly based on the American TV series Battlestar Galactica where the Cylon race is featured, but not carrying an official license. The player is the only interceptor pilot on an Earth supply mothership. He has to survive the different attack waves of the enemies while defending the ship. At the start of each wave he is launched in a fighter ship and needs to destroy all enemies to survive the wave, while flying around freely.
+
+There is only a limited amount of fuel available, but the player can return to the mothership at any time for a refuel, leaving the main base exposed for a moment. A radar map near the top of the screen shows the position of enemies and the main ship. The player's ship can climb up and down, and turn. When an alien vessel approaches, the sights (cross-hair) changes, indicating when there is a good chance of a hit. When it changes a second time, it locks onto the enemy. Only a laser weapon can be fired and it takes some time to recharge.
+
+The screen shows the player's score, the high score, the status of the mothership, the remaining strength of the shields, the amount of fuel left, and various indicators for climb/turn ratio and the lasers.</desc>
+		<image>./images/Cylon Attack (1982)(A&amp;F Software)-image.png</image>
+		<video>./videos/Cylon Attack (1982)(A&amp;F Software)-video.mp4</video>
+		<thumbnail>./images/Cylon Attack (1982)(A&amp;F Software)-thumb.jpg</thumbnail>
+		<developer>A&amp;F Software</developer>
+		<publisher>A&amp;F Software Ltd.</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<md5>20cb9394c2cf6368d92f97d26f8c99e3</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231017T195545" />
+		<scrap name="HfsDB" date="20231105T122048" />
+	</game>
+	<game id="417199">
+		<path>./TOSEC/Games/[UEF]/Death Satellite (1982)(A&amp;F Software)[12K]/Death Satellite (1982)(A&amp;F Software)[12K].uef</path>
+		<name>Death Satellite</name>
+		<md5>9f8ff14212e4795299fd659856bc3f6f</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231017T195546" />
+		<scrap name="HfsDB" date="20231105T122147" />
+	</game>
+	<game id="417220">
+		<path>./TOSEC/Games/[UEF]/Defender (1982)(Micromania)/Defender (1982)(Micromania).uef</path>
+		<name>Defender</name>
+		<md5>56a66aa27b94a970a641ace136c08215</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231017T195548" />
+		<scrap name="HfsDB" date="20231105T122147" />
+	</game>
+	<game id="416839">
+		<path>./TOSEC/Games/[UEF]/Demon Dungeon (1980)(Program Power)[5K]/Demon Dungeon (1980)(Program Power)[5K].uef</path>
+		<name>Demon Dungeon</name>
+		<md5>773cdd4ab2eda2e139808950a618039e</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231017T195550" />
+		<scrap name="HfsDB" date="20231105T122147" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[UEF]/Early Warning (1982)(A&amp;F Software)/Early Warning (1982)(A&amp;F Software).uef</path>
+		<name>Early Warning</name>
+		<video>./videos/Early Warning (1982)(A&amp;F Software)-video.mp4</video>
+		<thumbnail>./images/Early Warning (1982)(A&amp;F Software)-thumb.png</thumbnail>
+		<md5>68ef7b15f89e1af852b1bc450604c01f</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231017T195551" />
+		<scrap name="HfsDB" date="20231105T122148" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[UEF]/Galaforce (2012)(van Oss, Kees)(FW)[colour for Atomulator]/Galaforce (2012)(van Oss, Kees)(FW)[colour for Atomulator].uef</path>
+		<name>Galaforce (2012)(van Oss, Kees)(FW)[colour for Atomulator]</name>
+		<md5>e545de5b0f83613cb189f6df9e9e6ae0</md5>
+		<scrap name="ScreenScraper" date="20231017T195553" />
+		<scrap name="HfsDB" date="20231105T122148" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[UEF]/Galaforce (2012)(van Oss, Kees)(FW)[monochrome for Atomulator]/Galaforce (2012)(van Oss, Kees)(FW)[monochrome for Atomulator].uef</path>
+		<name>Galaforce (2012)(van Oss, Kees)(FW)[monochrome for Atomulator]</name>
+		<md5>fca1c004bd59931ebcdffa004fc97282</md5>
+		<scrap name="ScreenScraper" date="20231017T195554" />
+		<scrap name="HfsDB" date="20231105T122148" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[UEF]/Galaxian (1981)(Bug Byte)[12K]/Galaxian (1981)(Bug Byte)[12K].uef</path>
+		<name>Galaxian</name>
+		<video>./videos/Galaxian (1981)(Bug Byte)[12K]-video.mp4</video>
+		<thumbnail>./images/Galaxian (1981)(Bug Byte)[12K]-thumb.png</thumbnail>
+		<fanart>./images/Galaxian (1981)(Bug Byte)[12K]-fanart.jpg</fanart>
+		<md5>04801262cf2e2c50d01107179c09685f</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231017T195558" />
+		<scrap name="HfsDB" date="20231105T122248" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[UEF]/Hard Hat Harry (2011)(van Oss, Kees)(FW)[Atomulator]/Hard Hat Harry (2011)(van Oss, Kees)(FW)[Atomulator].uef</path>
+		<name>Hard Hat Harry (2011)(van Oss, Kees)(FW)[Atomulator]</name>
+		<md5>05e5b77a45ee9d53bc57e807ee7244d6</md5>
+		<scrap name="ScreenScraper" date="20231017T195559" />
+		<scrap name="HfsDB" date="20231105T122248" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[UEF]/Hyper Viper (2012-02)(van Oss, Kees)(FW)[colour for Atomulator]/Hyper Viper (2012-02)(van Oss, Kees)(FW)[colour for Atomulator].uef</path>
+		<name>Hyper Viper (2012-02)(van Oss, Kees)(FW)[colour for Atomulator]</name>
+		<md5>a79c350d59e7d907cc90f545f324ac7b</md5>
+		<scrap name="ScreenScraper" date="20231017T195600" />
+		<scrap name="HfsDB" date="20231105T122249" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[UEF]/Hyper Viper (2012-02)(van Oss, Kees)(FW)[monochrome for Atomulator]/Hyper Viper (2012-02)(van Oss, Kees)(FW)[monochrome for Atomulator].uef</path>
+		<name>Hyper Viper (2012-02)(van Oss, Kees)(FW)[monochrome for Atomulator]</name>
+		<md5>03a5a2cfe2fe36985aacf9ea8c074996</md5>
+		<scrap name="ScreenScraper" date="20231017T195601" />
+		<scrap name="HfsDB" date="20231105T122349" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[UEF]/Hyperfire (1982)(Program Power)[12K]/Hyperfire (1982)(Program Power)[12K].uef</path>
+		<name>Hyperfire</name>
+		<thumbnail>./images/Hyperfire (1982)(Program Power)[12K]-thumb.jpg</thumbnail>
+		<developer>Micro Power</developer>
+		<publisher>Micro Power</publisher>
+		<md5>3d470fed4b4d96463306bc06a3e0d308</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231017T195603" />
+		<scrap name="HfsDB" date="20231105T122349" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[UEF]/Jet Set Miner (2011)(van Oss, Kees)(FW)[colour for Atomulator]/Jet Set Miner (2011)(van Oss, Kees)(FW)[colour for Atomulator].uef</path>
+		<name>Jet Set Miner (2011)(van Oss, Kees)(FW)[colour for Atomulator]</name>
+		<md5>b09b742c936c26981e53e4e77dee9e6e</md5>
+		<scrap name="ScreenScraper" date="20231017T195604" />
+		<scrap name="HfsDB" date="20231105T122449" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[UEF]/Jet Set Miner (2011)(van Oss, Kees)(FW)[monochrome for Atomulator]/Jet Set Miner (2011)(van Oss, Kees)(FW)[monochrome for Atomulator].uef</path>
+		<name>Jet Set Miner (2011)(van Oss, Kees)(FW)[monochrome for Atomulator]</name>
+		<md5>4ddd0611066c2493cac98176635b44f8</md5>
+		<scrap name="ScreenScraper" date="20231017T195605" />
+		<scrap name="HfsDB" date="20231105T122449" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[UEF]/Jungle Journey (2012)(van Oss, Kees)(FW)[colour for Atomulator]/Jungle Journey (2012)(van Oss, Kees)(FW)[colour for Atomulator].uef</path>
+		<name>Jungle Journey (2012)(van Oss, Kees)(FW)[colour for Atomulator]</name>
+		<md5>30e0e5e56ad0c172a5d287fe67c9870a</md5>
+		<scrap name="ScreenScraper" date="20231017T195607" />
+		<scrap name="HfsDB" date="20231105T122449" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[UEF]/Labyrinth (1981)(Bug Byte)[12K]/Labyrinth (1981)(Bug Byte)[12K].uef</path>
+		<name>Labyrinth</name>
+		<md5>e5acc500e696009979d9ea2631eb97be</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231017T195608" />
+		<scrap name="HfsDB" date="20231105T122449" />
+	</game>
+	<game id="417205">
+		<path>./TOSEC/Games/[UEF]/Minefield (1982)(A&amp;F Software)/Minefield (1982)(A&amp;F Software).uef</path>
+		<name>Minefield</name>
+		<md5>0b7361def66e17349aac2388d5a015a2</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231017T195610" />
+		<scrap name="HfsDB" date="20231105T122549" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[UEF]/Omega Mission (1982)(Micromania)/Omega Mission (1982)(Micromania).uef</path>
+		<name>Omega Mission</name>
+		<developer>Micromania</developer>
+		<publisher>Micromania</publisher>
+		<md5>90e9e08aa2943998b492f0662d38d22c</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231017T195611" />
+		<scrap name="HfsDB" date="20231105T122549" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[UEF]/Pinball (1980)(Bug Byte)[6K]/Pinball (1980)(Bug Byte)[6K].uef</path>
+		<name>Pinball</name>
+		<video>./videos/Pinball (1980)(Bug Byte)[6K]-video.mp4</video>
+		<thumbnail>./images/Pinball (1980)(Bug Byte)[6K]-thumb.png</thumbnail>
+		<developer>Bug-Byte Software</developer>
+		<publisher>Bug-Byte Software</publisher>
+		<md5>db162871f7956b273338d8decbc25602</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231017T195613" />
+		<scrap name="HfsDB" date="20231105T122550" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[UEF]/Protector, The (1982)(Micromania)/Protector, The (1982)(Micromania).uef</path>
+		<name>The Protector</name>
+		<developer>Micromania</developer>
+		<publisher>Micromania</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>91d661ed96a64973b87bd60d4fa8c5de</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231017T195614" />
+		<scrap name="HfsDB" date="20231105T122550" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[UEF]/Repton (2013)(van Oss, Kees)(FW)[colour for Atomulator]/Repton (2013)(van Oss, Kees)(FW)[colour for Atomulator].uef</path>
+		<name>Repton (2013)(van Oss, Kees)(FW)[colour for Atomulator]</name>
+		<md5>cb3a69b46863b720042b40e8c7193b55</md5>
+		<scrap name="ScreenScraper" date="20231017T195615" />
+		<scrap name="HfsDB" date="20231105T122649" />
+	</game>
+	<game id="417226">
+		<path>./TOSEC/Games/[UEF]/Space Fighter (1981)(Program Power)[6K]/Space Fighter (1981)(Program Power)[6K].uef</path>
+		<name>Space Fighter</name>
+		<md5>2699313c33fb289f9807b717ac5eb9d8</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231017T195616" />
+		<scrap name="HfsDB" date="20231105T122650" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[UEF]/Swarm (1981)(Program Power)/Swarm (1981)(Program Power).uef</path>
+		<name>Swarm</name>
+		<video>./videos/Swarm (1981)(Program Power)-video.mp4</video>
+		<thumbnail>./images/Swarm (1981)(Program Power)-thumb.jpg</thumbnail>
+		<developer>Micro Power</developer>
+		<publisher>Micro Power</publisher>
+		<md5>ab6ae070a92be5c6d3f12647f3b4d1fa</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231017T195618" />
+		<scrap name="HfsDB" date="20231105T122751" />
+	</game>
+	<game id="416857">
+		<path>./TOSEC/Games/[UEF]/Tangled (1982)(A&amp;F Software)/Tangled (1982)(A&amp;F Software).uef</path>
+		<name>Tangled</name>
+		<md5>d6e5f344e84b9fa93730d5d5f6f36715</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231017T195619" />
+		<scrap name="HfsDB" date="20231105T122751" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[UEF]/UFO Bomber (1981)(Bug Byte)[7K]/UFO Bomber (1981)(Bug Byte)[7K].uef</path>
+		<name>Ufo Bomber</name>
+		<developer>Bug-Byte Software</developer>
+		<publisher>Bug-Byte Software</publisher>
+		<md5>4dd73a48bbf456c2d82e0a20ffc81269</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231017T195621" />
+		<scrap name="HfsDB" date="20231105T122850" />
+	</game>
+	<game id="417208">
+		<path>./TOSEC/Games/[UEF]/Zodiac (1981)(A&amp;F Software)[12K]/Zodiac (1981)(A&amp;F Software)[12K].uef</path>
+		<name>Zodiac</name>
+		<md5>6562f95e1880d2b081afba9bd2f3bc76</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231017T195622" />
+		<scrap name="HfsDB" date="20231105T122850" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[WAV]/Atomic Chuckie Egg (2012)(van Oss, Kees)(FW)[colour]/Atomic Chuckie Egg (2012)(van Oss, Kees)(FW)[colour].wav</path>
+		<name>Atomic Chuckie Egg (2012)(van Oss, Kees)(FW)[colour]</name>
+		<md5>0eee56334da7eef2f9aaecad50190ded</md5>
+		<scrap name="ScreenScraper" date="20231017T195624" />
+		<scrap name="HfsDB" date="20231105T122951" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[WAV]/Atomic Chuckie Egg (2012)(van Oss, Kees)(FW)[monochrome]/Atomic Chuckie Egg (2012)(van Oss, Kees)(FW)[monochrome].wav</path>
+		<name>Atomic Chuckie Egg (2012)(van Oss, Kees)(FW)[monochrome]</name>
+		<md5>f029ec1dd3199575aa52163640dae890</md5>
+		<scrap name="ScreenScraper" date="20231017T195625" />
+		<scrap name="HfsDB" date="20231105T122951" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[WAV]/Atomic Joe Blade (2014)(van Oss, Kees)(FW)/Atomic Joe Blade (2014)(van Oss, Kees)(FW).wav</path>
+		<name>Atomic Joe Blade (2014)(van Oss, Kees)(FW)</name>
+		<md5>1b17cc6b86ecb4290ac68784e3362b67</md5>
+		<scrap name="ScreenScraper" date="20231017T195627" />
+		<scrap name="HfsDB" date="20231105T123051" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[WAV]/Galaforce (2012)(van Oss, Kees)(FW)[colour]/Galaforce (2012)(van Oss, Kees)(FW)[colour].wav</path>
+		<name>Galaforce (2012)(van Oss, Kees)(FW)[colour]</name>
+		<md5>40b5bf9f9b85f48e9c3c44651bbb278e</md5>
+		<scrap name="ScreenScraper" date="20231017T195628" />
+		<scrap name="HfsDB" date="20231105T123051" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[WAV]/Galaforce (2012)(van Oss, Kees)(FW)[monochrome]/Galaforce (2012)(van Oss, Kees)(FW)[monochrome].wav</path>
+		<name>Galaforce (2012)(van Oss, Kees)(FW)[monochrome]</name>
+		<md5>60ef59fe66c7d1d6ff8870dbcf8dd276</md5>
+		<scrap name="ScreenScraper" date="20231017T195629" />
+		<scrap name="HfsDB" date="20231105T123152" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[WAV]/Hard Hat Harry (2011)(van Oss, Kees)(FW)/Hard Hat Harry (2011)(van Oss, Kees)(FW).wav</path>
+		<name>Hard Hat Harry (2011)(van Oss, Kees)(FW)</name>
+		<md5>2dda43834db0fe8b4cee19ea19b831d2</md5>
+		<scrap name="ScreenScraper" date="20231017T195631" />
+		<scrap name="HfsDB" date="20231105T123152" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[WAV]/Hyper Viper (2012-02)(van Oss, Kees)(FW)[colour]/Hyper Viper (2012-02)(van Oss, Kees)(FW)[colour].wav</path>
+		<name>Hyper Viper (2012-02)(van Oss, Kees)(FW)[colour]</name>
+		<md5>bf052588b58fa52aa097ae908cc43b03</md5>
+		<scrap name="ScreenScraper" date="20231017T195632" />
+		<scrap name="HfsDB" date="20231105T123252" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[WAV]/Hyper Viper (2012-02)(van Oss, Kees)(FW)[monochrome]/Hyper Viper (2012-02)(van Oss, Kees)(FW)[monochrome].wav</path>
+		<name>Hyper Viper (2012-02)(van Oss, Kees)(FW)[monochrome]</name>
+		<md5>347aec4915d41dfb711a3ed8a1bad316</md5>
+		<scrap name="ScreenScraper" date="20231017T195634" />
+		<scrap name="HfsDB" date="20231105T123252" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[WAV]/Jet Set Miner (2011)(van Oss, Kees)(FW)[colour]/Jet Set Miner (2011)(van Oss, Kees)(FW)[colour].wav</path>
+		<name>Jet Set Miner (2011)(van Oss, Kees)(FW)[colour]</name>
+		<md5>f568e6c27e38c4a7a92107958ec33d4e</md5>
+		<scrap name="ScreenScraper" date="20231017T195635" />
+		<scrap name="HfsDB" date="20231105T123353" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[WAV]/Jet Set Miner (2011)(van Oss, Kees)(FW)[monochrome]/Jet Set Miner (2011)(van Oss, Kees)(FW)[monochrome].wav</path>
+		<name>Jet Set Miner (2011)(van Oss, Kees)(FW)[monochrome]</name>
+		<md5>cefaf3ea4bd2ffae8566b0d105c9416d</md5>
+		<scrap name="ScreenScraper" date="20231017T195637" />
+		<scrap name="HfsDB" date="20231105T123353" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[WAV]/Jungle Journey (2012)(van Oss, Kees)(FW)[colour]/Jungle Journey (2012)(van Oss, Kees)(FW)[colour].wav</path>
+		<name>Jungle Journey (2012)(van Oss, Kees)(FW)[colour]</name>
+		<md5>8b6251382fda8baee61ae740d4c5f4c5</md5>
+		<scrap name="ScreenScraper" date="20231017T195638" />
+		<scrap name="HfsDB" date="20231105T123452" />
+	</game>
+	<game>
+		<path>./TOSEC/Games/[WAV]/Repton (2013)(van Oss, Kees)(FW)[colour]/Repton (2013)(van Oss, Kees)(FW)[colour].wav</path>
+		<name>Repton (2013)(van Oss, Kees)(FW)[colour]</name>
+		<md5>bc1df02aa28d6d5e87c8998164ae898c</md5>
+		<scrap name="ScreenScraper" date="20231017T195640" />
+		<scrap name="HfsDB" date="20231105T123453" />
 	</game>
 </gameList>
