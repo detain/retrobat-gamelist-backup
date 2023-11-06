@@ -13293,4 +13293,1811 @@ Weather conditions, time of day and location all have impact on the chance of ca
 		<md5>a6865b590aac2a04c18c9e5fe06f9e30</md5>
 		<scrap name="ScreenScraper" date="20230223T044129" />
 	</game>
+	<game id="46335">
+		<path>./No-Intro/10-Pin Bowling (Europe).gbc</path>
+		<name>10-Pin Bowling</name>
+		<desc>10-PIN BOWLING brings you all the fun of bowling in miniature form on your Game Boy Color. Play by yourself or with a friend in 10 frames of simple straight-up bowling action. Challenge your friend to see who's better or challenge your own scores to see if you can beat them. Aim carefully and apply the right amount of strength and you'll be racking up strikes in no time. This cartridge also uses the Rumble technology so you can feel every strike and spare in the alley. 10-PIN BOWLING features everything but the stinky shoe rentals. Will you rule the lane, or will you just be another gutter ball?</desc>
+		<image>./images/10-Pin Bowling (Europe)-image.png</image>
+		<video>./videos/10-Pin Bowling (Europe)-video.mp4</video>
+		<marquee>./images/10-Pin Bowling (Europe)-marquee.png</marquee>
+		<thumbnail>./images/10-Pin Bowling (Europe)-thumb.png</thumbnail>
+		<manual>./manuals/10-Pin Bowling (Europe)-manual.pdf</manual>
+		<rating>0.7</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Morning Star Multimedia</developer>
+		<publisher>Majesco</publisher>
+		<genre>Sports / Bowling</genre>
+		<players>1</players>
+		<md5>85c0c028e6177cda40401f14d16699f4</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T060031" />
+	</game>
+	<game id="37057">
+		<path>./No-Intro/102 Dalmatas - Cachorros Al Rescate (Spain).gbc</path>
+		<name>102 Dalmatians : Puppies to the Rescue</name>
+		<desc>Cruella De Vil has captured more Dalmatian puppies to make into a coat. You, as Domino or Oddball, must free them.
+
+Disney's 102 Dalmatians: Puppies to the Rescue on the Game Boy Color is a 2D, side-scrolling platform game. You must run and jump about the level, searching for a key. Once you have the key, you then go to each cage to open it and free the puppies. When all puppies are free, you will get a password and move to the next level. Try to avoid the enemy toys that move about as they will damage you. You can use your bark to stun a toy but that is temporary.</desc>
+		<image>./images/102 Dalmatas - Cachorros Al Rescate (Spain)-image.png</image>
+		<video>./videos/102 Dalmatas - Cachorros Al Rescate (Spain)-video.mp4</video>
+		<marquee>./images/102 Dalmatas - Cachorros Al Rescate (Spain)-marquee.png</marquee>
+		<thumbnail>./images/102 Dalmatas - Cachorros Al Rescate (Spain)-thumb.png</thumbnail>
+		<manual>./manuals/102 Dalmatas - Cachorros Al Rescate (Spain)-manual.pdf</manual>
+		<rating>0.75</rating>
+		<releasedate>20001122T000000</releasedate>
+		<developer>Crystal Dynamics</developer>
+		<publisher>Activision</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>2a65d5c037463fe93127d45d4145a0a6</md5>
+		<lang>es</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T060045" />
+	</game>
+	<game id="37057">
+		<path>./No-Intro/102 Dalmatiens a la Rescousse, Les (France).gbc</path>
+		<name>Les 102 Dalmatiens à la Rescousse</name>
+		<desc>Cruella De Vil has captured more Dalmatian puppies to make into a coat. You, as Domino or Oddball, must free them.
+
+Disney's 102 Dalmatians: Puppies to the Rescue on the Game Boy Color is a 2D, side-scrolling platform game. You must run and jump about the level, searching for a key. Once you have the key, you then go to each cage to open it and free the puppies. When all puppies are free, you will get a password and move to the next level. Try to avoid the enemy toys that move about as they will damage you. You can use your bark to stun a toy but that is temporary.</desc>
+		<image>./images/102 Dalmatiens a la Rescousse, Les (France)-image.png</image>
+		<video>./videos/102 Dalmatiens a la Rescousse, Les (France)-video.mp4</video>
+		<marquee>./images/102 Dalmatiens a la Rescousse, Les (France)-marquee.png</marquee>
+		<thumbnail>./images/102 Dalmatiens a la Rescousse, Les (France)-thumb.png</thumbnail>
+		<manual>./manuals/102 Dalmatiens a la Rescousse, Les (France)-manual.pdf</manual>
+		<rating>0.75</rating>
+		<releasedate>20001122T000000</releasedate>
+		<developer>Crystal Dynamics</developer>
+		<publisher>Activision</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>0ddb1e2111a510557484f942ac78b915</md5>
+		<lang>fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T060059" />
+	</game>
+	<game id="37057">
+		<path>./No-Intro/102 Dalmatiner (Germany).gbc</path>
+		<name>102 Dalmatiner</name>
+		<desc>Cruella De Vil has captured more Dalmatian puppies to make into a coat. You, as Domino or Oddball, must free them.
+
+Disney's 102 Dalmatians: Puppies to the Rescue on the Game Boy Color is a 2D, side-scrolling platform game. You must run and jump about the level, searching for a key. Once you have the key, you then go to each cage to open it and free the puppies. When all puppies are free, you will get a password and move to the next level. Try to avoid the enemy toys that move about as they will damage you. You can use your bark to stun a toy but that is temporary.</desc>
+		<image>./images/102 Dalmatiner (Germany)-image.png</image>
+		<video>./videos/102 Dalmatiner (Germany)-video.mp4</video>
+		<marquee>./images/102 Dalmatiner (Germany)-marquee.png</marquee>
+		<thumbnail>./images/102 Dalmatiner (Germany)-thumb.png</thumbnail>
+		<manual>./manuals/102 Dalmatiner (Germany)-manual.pdf</manual>
+		<rating>0.75</rating>
+		<releasedate>20001122T000000</releasedate>
+		<developer>Crystal Dynamics</developer>
+		<publisher>Activision</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>a649ef1410ae4c24020fb8b0113739e3</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T060113" />
+	</game>
+	<game>
+		<path>./No-Intro/20 Second Platformer, A (World) (GB Compatible) (Aftermarket) (Unl).gbc</path>
+		<name>20 Second Platformer, A (World) (GB Compatible) (Aftermarket) (Unl)</name>
+		<md5>b9fc9e6b9b6a0113c530f5cb0a34da71</md5>
+		<scrap name="ScreenScraper" date="20231106T060114" />
+	</game>
+	<game>
+		<path>./No-Intro/20 Second Platformer, A (World) (v1.1) (GB Compatible) (Aftermarket) (Unl).gbc</path>
+		<name>20 Second Platformer, A (World) (v1.1) (GB Compatible) (Aftermarket) (Unl)</name>
+		<md5>900f66d94349339d3b416b5ff0806314</md5>
+		<scrap name="ScreenScraper" date="20231106T060116" />
+	</game>
+	<game>
+		<path>./No-Intro/2001 Fatal Fury (Taiwan) (En) (Unl).gbc</path>
+		<name>2001 Fatal Fury (Taiwan) (En) (Unl)</name>
+		<md5>5da744788c35f96f9fa249aba68cf095</md5>
+		<scrap name="ScreenScraper" date="20231106T060118" />
+	</game>
+	<game>
+		<path>./No-Intro/2002 Adventure Digimon 7 (Taiwan) (En) (Unl).gbc</path>
+		<name>2002 Adventure Digimon 7 (Taiwan) (En) (Unl)</name>
+		<md5>7fb36e36e1ba06bd222c31163213c426</md5>
+		<scrap name="ScreenScraper" date="20231106T060120" />
+	</game>
+	<game>
+		<path>./No-Intro/2002 Digimon Adventure 6 (Taiwan) (En) (Unl).gbc</path>
+		<name>2002 Digimon Adventure 6 (Taiwan) (En) (Unl)</name>
+		<md5>0c661268d0b50d287658ed4d3693185b</md5>
+		<scrap name="ScreenScraper" date="20231106T060121" />
+	</game>
+	<game>
+		<path>./No-Intro/2003 Digimom Sapphii (Taiwan) (De) (Unl).gbc</path>
+		<name>2003 Digimom Sapphii (Taiwan) (De) (Unl)</name>
+		<md5>c7f39d8f17fa808ee91b21b2e45d8d90</md5>
+		<scrap name="ScreenScraper" date="20231106T060123" />
+	</game>
+	<game>
+		<path>./No-Intro/2003 Digimom Sapphii (Taiwan) (En) (Unl).gbc</path>
+		<name>2003 Digimom Sapphii (Taiwan) (En) (Unl)</name>
+		<md5>f204617e057286c4320529bf6679740f</md5>
+		<scrap name="ScreenScraper" date="20231106T060125" />
+	</game>
+	<game>
+		<path>./No-Intro/2003 Gu Huo Lang II (Taiwan) (Unl).gbc</path>
+		<name>2003 Gu Huo Lang II (Taiwan) (Unl)</name>
+		<md5>28b7a4941e28a3cbf7d4d72c907727a8</md5>
+		<scrap name="ScreenScraper" date="20231106T060127" />
+	</game>
+	<game>
+		<path>./No-Intro/2003 Hali Bote 2 - Xiaoshi de Mishi (Taiwan) (Unl).gbc</path>
+		<name>2003 Hali Bote 2 - Xiaoshi de Mishi (Taiwan) (Unl)</name>
+		<md5>c64b45177c93d6465618199543e1805a</md5>
+		<scrap name="ScreenScraper" date="20231106T060128" />
+	</game>
+	<game>
+		<path>./No-Intro/2003 Hali Xiaozi IV (Taiwan) (Unl).gbc</path>
+		<name>2003 Hali Xiaozi IV (Taiwan) (Unl)</name>
+		<md5>76e2195c8f2f35c5b88d73830bcb0a4c</md5>
+		<scrap name="ScreenScraper" date="20231106T060130" />
+	</game>
+	<game>
+		<path>./No-Intro/2003 Harry Potter 3 (Taiwan) (Unl).gbc</path>
+		<name>2003 Harry Potter 3 (Taiwan) (Unl)</name>
+		<md5>439acae020bd073ecf7f41a881ccabda</md5>
+		<scrap name="ScreenScraper" date="20231106T060132" />
+	</game>
+	<game>
+		<path>./No-Intro/2003 Koudai Guaishou - Lanbaoshi (Taiwan) (Unl).gbc</path>
+		<name>2003 Koudai Guaishou - Lanbaoshi (Taiwan) (Unl)</name>
+		<md5>5e9ac200f771f793f4ff65506fb63763</md5>
+		<scrap name="ScreenScraper" date="20231106T060133" />
+	</game>
+	<game>
+		<path>./No-Intro/2003 Shuma Baolong - Gedou Ban (Taiwan) (Unl).gbc</path>
+		<name>2003 Shuma Baolong - Gedou Ban (Taiwan) (Unl)</name>
+		<md5>890733af5a3766bc1954c186d8f9ba65</md5>
+		<scrap name="ScreenScraper" date="20231106T060135" />
+	</game>
+	<game>
+		<path>./No-Intro/2123 (World) (Aftermarket) (Unl).gbc</path>
+		<name>2123 (World) (Aftermarket) (Unl)</name>
+		<md5>6e0e4a0131c8bc9904955d97c02933d3</md5>
+		<scrap name="ScreenScraper" date="20231106T060137" />
+	</game>
+	<game id="368700">
+		<path>./No-Intro/23 in 1 (Taiwan) (Unl).gbc</path>
+		<name>23 in 1</name>
+		<md5>001fc1b6cfae773f2d24219409bdcb19</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231106T060138" />
+	</game>
+	<game id="82993">
+		<path>./No-Intro/31 in 1 (Taiwan) (31B-001, Sachen) (Unl).gbc</path>
+		<name>31 In 1</name>
+		<desc>Compilation of the following games :
+
+THUNDER BLASTER MAN ; JURASSIC BOY 2 ; STREET RIDER ; BOMB DISPOSER ; DAN LASER ; VEX BLOCK ; EXPLOSIVEW BRICK 99 ; SMALL GORILLA ; TRAP &amp; TURN ; PILE WONDER ; ARCTIC ZONE ; ZOO BLOCK ; MAGIC TOWER ; VIRUS ATTACK ; ELECTRON WORLD ; TROUBLE ZONE ; DICK SQUARE ; RAILWAY ; WORM VISITOR ; 2ND SPACE ; BLACK FOREST TALE ; A-FORCE ; SKY ACE ; WAR FLEA ; CRAZY BURGER ; DEEP ; ZIP BALL ; PUPPET KINGHT ; CAPTAIN KNICK-KNACK ANT SOLDIER ; DUCK ADVENTURES</desc>
+		<developer>Sachen</developer>
+		<genre>Compilation</genre>
+		<md5>f56a4dd7e30ca39cfe6da0e6e6a28668</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231106T060140" />
+	</game>
+	<game id="82993">
+		<path>./No-Intro/31-in-1 Mighty Mix (Australia) (31B-001, Sachen) (Unl).gbc</path>
+		<name>31 In 1</name>
+		<desc>Compilation of the following games :
+
+THUNDER BLASTER MAN ; JURASSIC BOY 2 ; STREET RIDER ; BOMB DISPOSER ; DAN LASER ; VEX BLOCK ; EXPLOSIVEW BRICK 99 ; SMALL GORILLA ; TRAP &amp; TURN ; PILE WONDER ; ARCTIC ZONE ; ZOO BLOCK ; MAGIC TOWER ; VIRUS ATTACK ; ELECTRON WORLD ; TROUBLE ZONE ; DICK SQUARE ; RAILWAY ; WORM VISITOR ; 2ND SPACE ; BLACK FOREST TALE ; A-FORCE ; SKY ACE ; WAR FLEA ; CRAZY BURGER ; DEEP ; ZIP BALL ; PUPPET KINGHT ; CAPTAIN KNICK-KNACK ANT SOLDIER ; DUCK ADVENTURES</desc>
+		<developer>Sachen</developer>
+		<genre>Compilation</genre>
+		<md5>a08b575b947d0249cdf214fc130706ce</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231106T060142" />
+	</game>
+	<game id="368704">
+		<path>./No-Intro/36 in 1 (Taiwan) (SL36-0032) (Unl).gbc</path>
+		<name>36 in 1</name>
+		<md5>9094e49551e838184d0c9290b1ef3694</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231106T060144" />
+	</game>
+	<game id="46337">
+		<path>./No-Intro/3D Pocket Pool (Europe) (En,Fr,De,Es,It,Nl).gbc</path>
+		<name>3D Pocket Pool</name>
+		<desc>3D Pocket Pool consists of various rule sets, all variations of typical billiards games. 3D Pocket Pool uses various monster like characters instead of normal human characters. In 3D Pocket Pool there are four different modes of play: Practice, Tournament, Two-Player and Killer</desc>
+		<image>./images/3D Pocket Pool (Europe) (En,Fr,De,Es,It,Nl)-image.png</image>
+		<video>./videos/3D Pocket Pool (Europe) (En,Fr,De,Es,It,Nl)-video.mp4</video>
+		<marquee>./images/3D Pocket Pool (Europe) (En,Fr,De,Es,It,Nl)-marquee.png</marquee>
+		<thumbnail>./images/3D Pocket Pool (Europe) (En,Fr,De,Es,It,Nl)-thumb.png</thumbnail>
+		<rating>0.65</rating>
+		<releasedate>20010330T000000</releasedate>
+		<developer>Aardvark Technical Services</developer>
+		<publisher>Virgin Interactive Entertainment</publisher>
+		<genre>Sports / Pool</genre>
+		<players>1-2</players>
+		<md5>429e6da4b32d8caa22e78d92c0febd12</md5>
+		<lang>de,en,es,fr,it,nl</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T060156" />
+	</game>
+	<game>
+		<path>./No-Intro/3D Quasars (World) (Aftermarket) (Unl).gbc</path>
+		<name>3D Quasars (World) (Aftermarket) (Unl)</name>
+		<md5>23627de756d221f4093812a5e5f42623</md5>
+		<scrap name="ScreenScraper" date="20231106T060158" />
+	</game>
+	<game id="82832">
+		<path>./No-Intro/4x4 World Trophy (Europe) (En,Fr,De,Es,It) (GB Compatible).gbc</path>
+		<name>4x4 World Trophy</name>
+		<desc>Some cars should stay on the pavement, while others are designed to go where no other vehicle has gone before. Those are the vehicles included in TEST DRIVE OFF ROAD. You can choose from four different vehicles: a Hummer, Land Rover Defender 90, Jeep Wrangler and Chevrolet K-1500 Z71. In addition to the four starting vehicles six more become available with extended play and include a monster truck, dune buggy, stock car, hot rod, Mini Cooper, and an off-road beetle. When you are ready to race there is a Mixed League and Class League to choose from. Mixed League is open to any vehicle and Class League restricts the entries to vehicles of a particular type. While you are racing the 12 tracks offer three different surfaces including dirt, snow, and rocks. Try to master the elements and go where other cars can't with TEST DRIVE OFF ROAD.</desc>
+		<image>./images/4x4 World Trophy (Europe) (En,Fr,De,Es,It) (GB Compatible)-image.png</image>
+		<video>./videos/4x4 World Trophy (Europe) (En,Fr,De,Es,It) (GB Compatible)-video.mp4</video>
+		<marquee>./images/4x4 World Trophy (Europe) (En,Fr,De,Es,It) (GB Compatible)-marquee.png</marquee>
+		<thumbnail>./images/4x4 World Trophy (Europe) (En,Fr,De,Es,It) (GB Compatible)-thumb.png</thumbnail>
+		<rating>0.55</rating>
+		<releasedate>19991101T000000</releasedate>
+		<developer>Infogrames</developer>
+		<publisher>Infogrames</publisher>
+		<genre>Race, Driving</genre>
+		<family>Test Drive</family>
+		<players>1-2</players>
+		<md5>5878a145e365fa1841b22e837c3226ff</md5>
+		<lang>de,en,es,fr,it</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T060209" />
+	</game>
+	<game>
+		<path>./No-Intro/Aardvark (World) (Aftermarket) (Unl).gbc</path>
+		<name>Aardvark (World) (Aftermarket) (Unl)</name>
+		<md5>dd6b704cde7ff9516c09ba86833a7f9f</md5>
+		<scrap name="ScreenScraper" date="20231106T060211" />
+	</game>
+	<game id="368712">
+		<path>./No-Intro/Absolute X (Europe) (Proto).gbc</path>
+		<name>ZZZ(notgame):Absolute X</name>
+		<hidden>true</hidden>
+		<md5>cffbcb83ed97a4ff88f71ee383bd0eba</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T060213" />
+	</game>
+	<game id="46340">
+		<path>./No-Intro/Action Replay Online (Europe) (Unl).gbc</path>
+		<name>ZZZ(notgame):Action Replay Online</name>
+		<image>./images/Action Replay Online (Europe) (Unl)-image.png</image>
+		<hidden>true</hidden>
+		<md5>e718083d717d4262d3f26eba4040f8e4</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T060217" />
+	</game>
+	<game>
+		<path>./No-Intro/Action Replay Xtreme - Special Edition for Pokemon Crystal (Europe) (Unl).gbc</path>
+		<name>Action Replay Xtreme - Special Edition for Pokemon Crystal (Europe) (Unl)</name>
+		<md5>361cb47dbb4af50b2d6d3de9c7d74a58</md5>
+		<scrap name="ScreenScraper" date="20231106T060219" />
+	</game>
+	<game>
+		<path>./No-Intro/Adulting! Soundtrack (World) (GB Compatible) (Aftermarket) (Unl).gbc</path>
+		<name>Adulting! Soundtrack (World) (GB Compatible) (Aftermarket) (Unl)</name>
+		<md5>d154381bd849d7a04cb90e789f32bb8e</md5>
+		<scrap name="ScreenScraper" date="20231106T060220" />
+	</game>
+	<game id="46342">
+		<path>./No-Intro/Adventures of the Smurfs, The (Europe) (En,Fr,De,Es,It,Nl).gbc</path>
+		<name>The Adventures of the Smurfs</name>
+		<desc>Adventures Of The Smurfs is a game released for the Gameboy Color. It was released solely in Europe due to the continued popularity of the Smurf characters in that area.</desc>
+		<image>./images/Adventures of the Smurfs, The (Europe) (En,Fr,De,Es,It,Nl)-image.png</image>
+		<video>./videos/Adventures of the Smurfs, The (Europe) (En,Fr,De,Es,It,Nl)-video.mp4</video>
+		<marquee>./images/Adventures of the Smurfs, The (Europe) (En,Fr,De,Es,It,Nl)-marquee.png</marquee>
+		<thumbnail>./images/Adventures of the Smurfs, The (Europe) (En,Fr,De,Es,It,Nl)-thumb.png</thumbnail>
+		<fanart>./images/Adventures of the Smurfs, The (Europe) (En,Fr,De,Es,It,Nl)-fanart.jpg</fanart>
+		<rating>0.7</rating>
+		<releasedate>20001011T000000</releasedate>
+		<developer>Infogrames</developer>
+		<publisher>Infogrames</publisher>
+		<genre>Adventure</genre>
+		<family>Les Schtroumpfs</family>
+		<players>1</players>
+		<md5>29deff80e9e8d734f77d8590ac5cdce9</md5>
+		<lang>de,en,es,fr,it,nl</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T060234" />
+	</game>
+	<game>
+		<path>./No-Intro/AF+ER (World) (GB Compatible) (Aftermarket) (Unl).gbc</path>
+		<name>AF+ER (World) (GB Compatible) (Aftermarket) (Unl)</name>
+		<md5>fa646273b3c23600957c8ccb390a4c51</md5>
+		<scrap name="ScreenScraper" date="20231106T060236" />
+	</game>
+	<game>
+		<path>./No-Intro/Agency (World) (Aftermarket) (Unl).gbc</path>
+		<name>Agency (World) (Aftermarket) (Unl)</name>
+		<md5>0ed716a57524307533df8568aeae8f7f</md5>
+		<scrap name="ScreenScraper" date="20231106T060238" />
+	</game>
+	<game>
+		<path>./No-Intro/Agent B (World) (Demo) (GB Compatible) (Aftermarket) (Unl).gbc</path>
+		<name>Agent B (World) (Demo) (GB Compatible) (Aftermarket) (Unl)</name>
+		<md5>670535d6b535a1dfddf9265016c22cb9</md5>
+		<scrap name="ScreenScraper" date="20231106T060240" />
+	</game>
+	<game>
+		<path>./No-Intro/Agent B (World) (GB Compatible) (Aftermarket) (Unl).gbc</path>
+		<name>Agent B (World) (GB Compatible) (Aftermarket) (Unl)</name>
+		<md5>e6007f4f4d8d671d7c94390be47e6dfa</md5>
+		<scrap name="ScreenScraper" date="20231106T060242" />
+	</game>
+	<game id="82084">
+		<path>./No-Intro/AirForce Delta (Japan).gbc</path>
+		<name>AirForce Delta</name>
+		<desc>As a jet fighter pilot in a civil war, the player will take to the skies in a behind-the-plane view for ten missions with a selection of up to eight aircraft. 
+
+To complete a mission, the player must destroy a certain number of enemy aircraft or ground targets then destroy a boss air or ground craft. Each mission will reward the player with money. When the player has beaten the boss, the money may then be used to purchase new planes and upgrades for those planes.</desc>
+		<image>./images/AirForce Delta (Japan)-image.png</image>
+		<video>./videos/AirForce Delta (Japan)-video.mp4</video>
+		<marquee>./images/AirForce Delta (Japan)-marquee.png</marquee>
+		<thumbnail>./images/AirForce Delta (Japan)-thumb.png</thumbnail>
+		<rating>0.6</rating>
+		<releasedate>20001122T000000</releasedate>
+		<developer>Climax Studios</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<md5>9d64f8607e9bc3e788f30fff123be448</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T060253" />
+	</game>
+	<game id="36903">
+		<path>./No-Intro/Aladdin (Europe) (En,Fr,De,Es,It,Nl).gbc</path>
+		<name>Aladdin</name>
+		<desc>The game from Virgin based on the 1992 animated Disney film is a side-scrolling platformer.
+
+The player controls Aladdin, who must make his way through several levels based on locations from the movie: from the streets and rooftops of Agrabah, the Cave of Wonders and the Sultan's dungeon to the final confrontation in Grand Vizier Jafar's palace. The Sultan's guards and also animals of the desert want to hinder Aladdin in his way. He can defend himself with his sword or by throwing apples. Next to apples, Aladdin can also collect gems which can be traded for lives and continues with a traveling trader. Finding Genie or Abu icons enables bonus rounds. The Genie bonus round is a game of luck played for apples, gems or extra lives. In Abu's bonus round, the player controls the little monkey who has to catch bonus items that fall from the sky, but without touching any of the unwanted objects like rocks and pots.
+
+The game's humorous animations were created by Walt Disney Feature Animation.</desc>
+		<image>./images/Aladdin (Europe) (En,Fr,De,Es,It,Nl)-image.png</image>
+		<video>./videos/Aladdin (Europe) (En,Fr,De,Es,It,Nl)-video.mp4</video>
+		<marquee>./images/Aladdin (Europe) (En,Fr,De,Es,It,Nl)-marquee.png</marquee>
+		<thumbnail>./images/Aladdin (Europe) (En,Fr,De,Es,It,Nl)-thumb.png</thumbnail>
+		<fanart>./images/Aladdin (Europe) (En,Fr,De,Es,It,Nl)-fanart.jpg</fanart>
+		<rating>0.55</rating>
+		<releasedate>20001110T000000</releasedate>
+		<developer>Virgin</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Action</genre>
+		<family>Aladdin</family>
+		<players>1</players>
+		<md5>bad95d30c38a92e7906feecb6d6bd272</md5>
+		<lang>de,en,es,fr,it,nl</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T060307" />
+	</game>
+	<game id="46343">
+		<path>./No-Intro/Alfred's Adventure (Europe) (En,Fr,De,Es,It).gbc</path>
+		<name>Alfred's Adventure</name>
+		<desc>Alfred's Adventure stars our 'plucky' hero Alfred Chicken. Alfred must battle his way North, South, West and Easter through 1 platform based levels, full of hidden rooms and power ups. He must rescue Billy Egg who has been 'poached' by the fowl Meka-Chickens for their bizarre cloning 'eggs-periment'. Alfred, the all round good egg, must stop their evil bid to take over the world but surely he's up to the task. After all, he's not chicken... is he?</desc>
+		<image>./images/Alfred's Adventure (Europe) (En,Fr,De,Es,It)-image.png</image>
+		<video>./videos/Alfred's Adventure (Europe) (En,Fr,De,Es,It)-video.mp4</video>
+		<marquee>./images/Alfred's Adventure (Europe) (En,Fr,De,Es,It)-marquee.png</marquee>
+		<thumbnail>./images/Alfred's Adventure (Europe) (En,Fr,De,Es,It)-thumb.png</thumbnail>
+		<rating>0.5</rating>
+		<releasedate>20000601T000000</releasedate>
+		<developer>Mobius Entertainment</developer>
+		<publisher>Mobius Entertainment</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<md5>bcc135b000c1c54f12f4ae87c7673b0c</md5>
+		<lang>de,en,es,fr,it</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T060320" />
+	</game>
+	<game id="37226">
+		<path>./No-Intro/Alice in Wonderland (Europe) (En,Fr,De,Es).gbc</path>
+		<name>Alice in Wonderland</name>
+		<desc>A true translation right from the Disney movie, Alice finds herself in the wonderland that she's expected to.
+
+Over the course of the game Alice meets major characters from the story, who will have either lost an item or need some help in some sort, for which Alice will volunteer to help.
+
+Basically a side scrolling platform, with parts in an isometric view as well.</desc>
+		<image>./images/Alice in Wonderland (Europe) (En,Fr,De,Es)-image.png</image>
+		<video>./videos/Alice in Wonderland (Europe) (En,Fr,De,Es)-video.mp4</video>
+		<marquee>./images/Alice in Wonderland (Europe) (En,Fr,De,Es)-marquee.png</marquee>
+		<thumbnail>./images/Alice in Wonderland (Europe) (En,Fr,De,Es)-thumb.png</thumbnail>
+		<fanart>./images/Alice in Wonderland (Europe) (En,Fr,De,Es)-fanart.jpg</fanart>
+		<rating>0.45</rating>
+		<releasedate>20001004T000000</releasedate>
+		<developer>Digital Eclipse</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<family>Disney</family>
+		<players>1-2</players>
+		<md5>265de745b9b6c8e84e02acbf80d0428e</md5>
+		<lang>de,en,es,fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T060333" />
+	</game>
+	<game>
+		<path>./No-Intro/All Humans Must Die! (World) (GB Compatible) (Aftermarket) (Unl).gbc</path>
+		<name>All Humans Must Die! (World) (GB Compatible) (Aftermarket) (Unl)</name>
+		<md5>f104769941c0c25e8b468c2ae274d632</md5>
+		<scrap name="ScreenScraper" date="20231106T060335" />
+	</game>
+	<game id="37030">
+		<path>./No-Intro/All Star Tennis 2000 (Europe) (AZTP) (GB Compatible).gbc</path>
+		<name>All Star Tennis 2000</name>
+		<desc>All Star Tennis 2000 is a tennis game that brings the All Star Tennis series from the PlayStation and Nintendo 64 to the Game Boy Color.
+
+The game allows you to play with tennis players such as Krajicek, Chang, Phillipousis and Novotna in various game modes: Tournament, Smash Tennis, Arcade, and Bomb Tennis. The last mode requires you to pay extra attention because bombs appear at each spot the ball bounces. These bombs explode after some seconds and will knock your player back. Arcade mode has you compete against all tennis players in succession. Smash Tennis allows you to play single matches, either with singles or doubles. You can play in eight different courts with different types of courts (grass, dirt, tarmac).
+
+A two player mode is available with two Game Boy Colors and a Multi-Link Cable.</desc>
+		<image>./images/All Star Tennis 2000 (Europe) (AZTP) (GB Compatible)-image.png</image>
+		<video>./videos/All Star Tennis 2000 (Europe) (AZTP) (GB Compatible)-video.mp4</video>
+		<marquee>./images/All Star Tennis 2000 (Europe) (AZTP) (GB Compatible)-marquee.png</marquee>
+		<thumbnail>./images/All Star Tennis 2000 (Europe) (AZTP) (GB Compatible)-thumb.png</thumbnail>
+		<rating>0.55</rating>
+		<releasedate>19990625T000000</releasedate>
+		<developer>Smart Dog</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Sports / Tennis</genre>
+		<players>1-2</players>
+		<md5>c5e3bb77000c5d3755e816f6c0eed489</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T060346" />
+	</game>
+	<game id="37030">
+		<path>./No-Intro/All Star Tennis 2000 (Europe) (AZTX) (Proto) (GB Compatible).gbc</path>
+		<name>All Star Tennis 2000</name>
+		<desc>All Star Tennis 2000 is a tennis game that brings the All Star Tennis series from the PlayStation and Nintendo 64 to the Game Boy Color.
+
+The game allows you to play with tennis players such as Krajicek, Chang, Phillipousis and Novotna in various game modes: Tournament, Smash Tennis, Arcade, and Bomb Tennis. The last mode requires you to pay extra attention because bombs appear at each spot the ball bounces. These bombs explode after some seconds and will knock your player back. Arcade mode has you compete against all tennis players in succession. Smash Tennis allows you to play single matches, either with singles or doubles. You can play in eight different courts with different types of courts (grass, dirt, tarmac).
+
+A two player mode is available with two Game Boy Colors and a Multi-Link Cable.</desc>
+		<image>./images/All Star Tennis 2000 (Europe) (AZTX) (Proto) (GB Compatible)-image.png</image>
+		<video>./videos/All Star Tennis 2000 (Europe) (AZTX) (Proto) (GB Compatible)-video.mp4</video>
+		<marquee>./images/All Star Tennis 2000 (Europe) (AZTX) (Proto) (GB Compatible)-marquee.png</marquee>
+		<thumbnail>./images/All Star Tennis 2000 (Europe) (AZTX) (Proto) (GB Compatible)-thumb.png</thumbnail>
+		<rating>0.55</rating>
+		<releasedate>19990625T000000</releasedate>
+		<developer>Smart Dog</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Sports / Tennis</genre>
+		<players>1-2</players>
+		<md5>6bbdbc468d32a31d21727ec0136ee419</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T060357" />
+	</game>
+	<game>
+		<path>./No-Intro/Alley Cat (World) (Aftermarket) (Unl).gbc</path>
+		<name>Alley Cat (World) (Aftermarket) (Unl)</name>
+		<md5>5edc7fd33f6872f6243d746ffb992f11</md5>
+		<scrap name="ScreenScraper" date="20231106T060359" />
+	</game>
+	<game id="37031">
+		<path>./No-Intro/Alone in the Dark - The New Nightmare (Europe) (En,Fr,De,Es,It,Nl) (Beta).gbc</path>
+		<name>Alone in the Dark : The New Nightmare</name>
+		<desc>Edward Carnaby, private eye of the paranormal, is back.
+
+Carnaby's best friend, Charles Fiske, has been found dead near Shadow Island--a mysterious island near Maine. It is your duty to take up the investigation and find out the secrets of Shadow Island. The game takes place in the surrounding grounds of a gloomy mansion. The game is dark...very dark, and in true survival horror style there are many things lurking, waiting to pounce.
+
+9 years after the original was released, the game that started it all returns for a new chapter in the Alone in the Dark series.
+
+Can you see.......beyond your fear?</desc>
+		<image>./images/Alone in the Dark - The New Nightmare (Europe) (En,Fr,De,Es,It,Nl) (Beta)-image.png</image>
+		<video>./videos/Alone in the Dark - The New Nightmare (Europe) (En,Fr,De,Es,It,Nl) (Beta)-video.mp4</video>
+		<marquee>./images/Alone in the Dark - The New Nightmare (Europe) (En,Fr,De,Es,It,Nl) (Beta)-marquee.png</marquee>
+		<thumbnail>./images/Alone in the Dark - The New Nightmare (Europe) (En,Fr,De,Es,It,Nl) (Beta)-thumb.png</thumbnail>
+		<rating>0.6</rating>
+		<releasedate>20010627T000000</releasedate>
+		<developer>Pocket Studios</developer>
+		<publisher>Infogrames</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<md5>ef451d968a8d2494840385c85c128e6f</md5>
+		<lang>de,en,es,fr,it,nl</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T060410" />
+	</game>
+	<game id="37031">
+		<path>./No-Intro/Alone in the Dark - The New Nightmare (Europe) (En,Fr,De,Es,It,Nl).gbc</path>
+		<name>Alone in the Dark : The New Nightmare</name>
+		<desc>Edward Carnaby, private eye of the paranormal, is back.
+
+Carnaby's best friend, Charles Fiske, has been found dead near Shadow Island--a mysterious island near Maine. It is your duty to take up the investigation and find out the secrets of Shadow Island. The game takes place in the surrounding grounds of a gloomy mansion. The game is dark...very dark, and in true survival horror style there are many things lurking, waiting to pounce.
+
+9 years after the original was released, the game that started it all returns for a new chapter in the Alone in the Dark series.
+
+Can you see.......beyond your fear?</desc>
+		<image>./images/Alone in the Dark - The New Nightmare (Europe) (En,Fr,De,Es,It,Nl)-image.png</image>
+		<video>./videos/Alone in the Dark - The New Nightmare (Europe) (En,Fr,De,Es,It,Nl)-video.mp4</video>
+		<marquee>./images/Alone in the Dark - The New Nightmare (Europe) (En,Fr,De,Es,It,Nl)-marquee.png</marquee>
+		<thumbnail>./images/Alone in the Dark - The New Nightmare (Europe) (En,Fr,De,Es,It,Nl)-thumb.png</thumbnail>
+		<rating>0.6</rating>
+		<releasedate>20010627T000000</releasedate>
+		<developer>Pocket Studios</developer>
+		<publisher>Infogrames</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<md5>30ec849758f703d7071e2ac28e048101</md5>
+		<lang>de,en,es,fr,it,nl</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T060421" />
+	</game>
+	<game id="37031">
+		<path>./No-Intro/Alone in the Dark - The New Nightmare (USA) (Beta) (2001-02-21).gbc</path>
+		<name>Alone in the Dark: The New Nightmare</name>
+		<desc>Edward Carnaby, private eye of the paranormal, is back.
+
+Carnaby's best friend, Charles Fiske, has been found dead near Shadow Island--a mysterious island near Maine. It is your duty to take up the investigation and find out the secrets of Shadow Island. The game takes place in the surrounding grounds of a gloomy mansion. The game is dark...very dark, and in true survival horror style there are many things lurking, waiting to pounce.
+
+9 years after the original was released, the game that started it all returns for a new chapter in the Alone in the Dark series.
+
+Can you see.......beyond your fear?</desc>
+		<image>./images/Alone in the Dark - The New Nightmare (USA) (Beta) (2001-02-21)-image.png</image>
+		<video>./videos/Alone in the Dark - The New Nightmare (USA) (Beta) (2001-02-21)-video.mp4</video>
+		<marquee>./images/Alone in the Dark - The New Nightmare (USA) (Beta) (2001-02-21)-marquee.png</marquee>
+		<thumbnail>./images/Alone in the Dark - The New Nightmare (USA) (Beta) (2001-02-21)-thumb.png</thumbnail>
+		<rating>0.6</rating>
+		<releasedate>20010627T000000</releasedate>
+		<developer>Pocket Studios</developer>
+		<publisher>Infogrames</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<md5>5a021b40ccc17a66465dab276bf06cbe</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231106T060433" />
+	</game>
+	<game id="79428">
+		<path>./No-Intro/Animal Breeder 3 (Japan) (SGB Enhanced) (GB Compatible).gbc</path>
+		<name>Animal Breeder 3</name>
+		<desc>Animal Breeder 3 is an RPG/Breeding game developed and published by J-Wing for the Game Boy Color platform. Animal Breeder 3 was only released in Japan.</desc>
+		<image>./images/Animal Breeder 3 (Japan) (SGB Enhanced) (GB Compatible)-image.png</image>
+		<marquee>./images/Animal Breeder 3 (Japan) (SGB Enhanced) (GB Compatible)-marquee.png</marquee>
+		<thumbnail>./images/Animal Breeder 3 (Japan) (SGB Enhanced) (GB Compatible)-thumb.png</thumbnail>
+		<releasedate>19990624T000000</releasedate>
+		<developer>J-Wing</developer>
+		<publisher>J-Wing</publisher>
+		<genre>Role playing games / Japanese RPG</genre>
+		<players>1</players>
+		<md5>3f0f1cc327ff1be267b226b85b7a11c6</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T060443" />
+	</game>
+	<game id="81927">
+		<path>./No-Intro/Animal Breeder 4 (Japan).gbc</path>
+		<name>Animal Breeder 4</name>
+		<desc>Animal Breeder 4 is an RPG/Breeding game developed and published by J-Wing for the Game Boy Color platform. Animal Breeder 4 was only released in Japan.</desc>
+		<image>./images/Animal Breeder 4 (Japan)-image.png</image>
+		<marquee>./images/Animal Breeder 4 (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Animal Breeder 4 (Japan)-thumb.png</thumbnail>
+		<releasedate>20010101T000000</releasedate>
+		<developer>J-Wing</developer>
+		<publisher>J-Wing</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<md5>22d11b8d9670fb9b4ca84368f0f50cee</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T060453" />
+	</game>
+	<game id="81928">
+		<path>./No-Intro/Animastar GB (Japan).gbc</path>
+		<name>Animastar GB</name>
+		<desc>Animastar (ã‚¢ãƒ‹ãƒžã‚¹ã‚¿ãƒ¼?) is a life simulation game released on the Dreamcast, and was only released in Japan on June 15, 2000. It is similar to other games such as Monster Rancher and PokÃ©mon. The goal of the game is to breed, train and race monsters named "anima." A follow-up on the Game Boy Color, Animastar GB, was released in Japan on March 30, 2001.</desc>
+		<image>./images/Animastar GB (Japan)-image.png</image>
+		<marquee>./images/Animastar GB (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Animastar GB (Japan)-thumb.png</thumbnail>
+		<releasedate>20010330T000000</releasedate>
+		<developer>AKI Corporation</developer>
+		<publisher>Media Factory</publisher>
+		<genre>Role playing games</genre>
+		<players>1-2</players>
+		<md5>26c14f848115af6246b8f514fbeb6dab</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T060503" />
+	</game>
+	<game id="36853">
+		<path>./No-Intro/Animorphs (Europe) (En,Fr,De,Es,It).gbc</path>
+		<name>Animorphs</name>
+		<desc>Based on Scholastic's popular books and television series, Animorphs for Gameboy Color is a 2D action / RPG hybrid.  The evil Yeerks are invading Earth and only the Animorphs can stop them with their morphing power.  Play as all five members of the Animorphs and collect DNA from animals you meet - now you have the power to morph into these animals.  Keep your morphing power a secret from the regular humans, and use the correct morph at the right time to escape from tricky situations.  Play through five stages of RPG action and five 2D minigames in order to defeat the Yeerks and save the planet.</desc>
+		<image>./images/Animorphs (Europe) (En,Fr,De,Es,It)-image.png</image>
+		<video>./videos/Animorphs (Europe) (En,Fr,De,Es,It)-video.mp4</video>
+		<marquee>./images/Animorphs (Europe) (En,Fr,De,Es,It)-marquee.png</marquee>
+		<thumbnail>./images/Animorphs (Europe) (En,Fr,De,Es,It)-thumb.png</thumbnail>
+		<manual>./manuals/Animorphs (Europe) (En,Fr,De,Es,It)-manual.pdf</manual>
+		<rating>0.35</rating>
+		<releasedate>20001215T000000</releasedate>
+		<developer>Run and Gun!</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<md5>6d9ab3b90805908d732c275157e29c79</md5>
+		<lang>de,en,es,fr,it</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T060517" />
+	</game>
+	<game>
+		<path>./No-Intro/Another Adventure (World) (En,Es) (GB Compatible) (Aftermarket) (Unl).gbc</path>
+		<name>Another Adventure (World) (En,Es) (GB Compatible) (Aftermarket) (Unl)</name>
+		<md5>6e2c510ef5562393cda32a807af4069a</md5>
+		<scrap name="ScreenScraper" date="20231106T060519" />
+	</game>
+	<game id="37155">
+		<path>./No-Intro/Anpfiff - Der RTL Fussball-Manager (Germany).gbc</path>
+		<name>Anpfiff : Der RTL Fussball-Manager</name>
+		<desc>Player Manager 2001 is the Game Boy Color version of the long running football management series that started on the Amiga in 1989. It follows the norm of the genre and lets you take control of any team in the top two divisions of five European countries (England, France, Germany, Spain and Italy). As the manager it is your task to buy and sell players, lay up training schedules, set contracts and scout for new players. Most importantly, your job is to choose the right squad, and create tactics that takes advantage of your opponents' weaknesses. There are different staff modes meaning that you can choose to put some parts of the game as auto. The matches are text based.</desc>
+		<image>./images/Anpfiff - Der RTL Fussball-Manager (Germany)-image.png</image>
+		<video>./videos/Anpfiff - Der RTL Fussball-Manager (Germany)-video.mp4</video>
+		<marquee>./images/Anpfiff - Der RTL Fussball-Manager (Germany)-marquee.png</marquee>
+		<thumbnail>./images/Anpfiff - Der RTL Fussball-Manager (Germany)-thumb.png</thumbnail>
+		<rating>0.65</rating>
+		<releasedate>20001021T000000</releasedate>
+		<developer>G3 Interactive Ltd.</developer>
+		<publisher>THQ</publisher>
+		<genre>Sports</genre>
+		<players>1</players>
+		<md5>d55433c70617d18bb078426e8cd99708</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T060532" />
+	</game>
+	<game id="36854">
+		<path>./No-Intro/Antz (Europe) (En,Fr,De,Es,It,Nl) (Beta) (GB Compatible).gbc</path>
+		<name>Antz</name>
+		<desc>From the hit movie, Antz, comes a side-scrolling adventure where you play Z, and you set out to win the heart of Princess Bala.  Each of the 19 levels you explore are taken from situations in the movie.  Your character has a variety of actions: crouching down, going through tunnels, hiding from enemies, jumping over obstacles, hanging from trees, climbing ropes and more.  You also encounter "boss" characters to keep the game exciting.  Simple gameplay and easy controls make it ideal for children and older platform lovers as well.</desc>
+		<image>./images/Antz (Europe) (En,Fr,De,Es,It,Nl) (Beta) (GB Compatible)-image.png</image>
+		<video>./videos/Antz (Europe) (En,Fr,De,Es,It,Nl) (Beta) (GB Compatible)-video.mp4</video>
+		<marquee>./images/Antz (Europe) (En,Fr,De,Es,It,Nl) (Beta) (GB Compatible)-marquee.png</marquee>
+		<thumbnail>./images/Antz (Europe) (En,Fr,De,Es,It,Nl) (Beta) (GB Compatible)-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19991001T000000</releasedate>
+		<developer>Light &amp; Shadow Productions (LSP)</developer>
+		<publisher>Infogrames</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>a1cf50da360d45d78075ae48313a18fa</md5>
+		<lang>de,en,es,fr,it,nl</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T060545" />
+	</game>
+	<game id="36854">
+		<path>./No-Intro/Antz (Europe) (En,Fr,De,Es,It,Nl) (GB Compatible).gbc</path>
+		<name>Antz</name>
+		<desc>From the hit movie, Antz, comes a side-scrolling adventure where you play Z, and you set out to win the heart of Princess Bala.  Each of the 19 levels you explore are taken from situations in the movie.  Your character has a variety of actions: crouching down, going through tunnels, hiding from enemies, jumping over obstacles, hanging from trees, climbing ropes and more.  You also encounter "boss" characters to keep the game exciting.  Simple gameplay and easy controls make it ideal for children and older platform lovers as well.</desc>
+		<image>./images/Antz (Europe) (En,Fr,De,Es,It,Nl) (GB Compatible)-image.png</image>
+		<video>./videos/Antz (Europe) (En,Fr,De,Es,It,Nl) (GB Compatible)-video.mp4</video>
+		<marquee>./images/Antz (Europe) (En,Fr,De,Es,It,Nl) (GB Compatible)-marquee.png</marquee>
+		<thumbnail>./images/Antz (Europe) (En,Fr,De,Es,It,Nl) (GB Compatible)-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19991001T000000</releasedate>
+		<developer>Light &amp; Shadow Productions (LSP)</developer>
+		<publisher>Infogrames</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>e4c1111dcc4dc23860ce016daf584dc1</md5>
+		<lang>de,en,es,fr,it,nl</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T060557" />
+	</game>
+	<game id="37032">
+		<path>./No-Intro/Antz Racing (Europe) (En,Fr,De,Es,It,Nl).gbc</path>
+		<name>Antz Racing</name>
+		<desc>Based on the computer animated film Antz produced by DreamWorks, this game represents the racing challenge between 6 main characters (Z, Bala, Weaver, Mandible, Cutter, and Azteca). 
+
+Each character has own racing machine as well as parameters for Resistance, Holding, and Speed. There are two game modes: Quick Race and 4 Seasons Championship. During Quick Race player choose the season and the track based on random selection. During 4 Seasons Championship player should win each race to earn a password and progress further. 
+
+The gameplay represents a race between four drivers in top third-person view on several laps. Player should control selected driver, collect different power-ups, speed up, avoid obstacles, jump in machine, shoot, etc. to win a race. When damage level of the machine reaches its critical point, the machine will stop for some time to be repaired.
+
+The game has three difficulty levels and is available in English, German, Dutch, Spanish, French, and Italian languages.</desc>
+		<image>./images/Antz Racing (Europe) (En,Fr,De,Es,It,Nl)-image.png</image>
+		<video>./videos/Antz Racing (Europe) (En,Fr,De,Es,It,Nl)-video.mp4</video>
+		<marquee>./images/Antz Racing (Europe) (En,Fr,De,Es,It,Nl)-marquee.png</marquee>
+		<thumbnail>./images/Antz Racing (Europe) (En,Fr,De,Es,It,Nl)-thumb.png</thumbnail>
+		<rating>0.3</rating>
+		<releasedate>20010330T000000</releasedate>
+		<developer>RFX Interactive</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+		<md5>cb9c9001a0df32e6f89216e291684836</md5>
+		<lang>de,en,es,fr,it,nl</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T060608" />
+	</game>
+	<game id="37033">
+		<path>./No-Intro/Antz World Sportz (Europe) (En,Fr,De,Es,It,Nl).gbc</path>
+		<name>Antz World Sportz</name>
+		<desc>Based on the computer animated movie Antz produced by DreamWorks, this game represents the Olympic-style light athletic challenge between 4 main characters (Z, Bala, Weaver, Mandible). Other characters, such as Cutter, and Azteca are present in the game also.
+
+The tournament begins with four sportz activities, and four additional events are available based on your performance. Heated competitions like the 100mm race, flea hurdles, and pebble toss are scheduled. Strength, endurance, and dexterity are not enough to win the Olympic title in these events. You will also have to apply your individual character's skills as well as those of your competitors. Athletic ability and calculated gaming tactics are needed to claim your title of Olympic champion of the Anthill.
+
+In 2D side-scrolling mode, you should press the buttons quickly to run or to throw an sports item. There are 5 stages in the game, and each following stage may be accessed only receiving the medal in previous stage. Current progress may be resumed with a password.
+
+The game has two difficulty levels and is available in English, French, German, Spanish, Italian, and Dutch languages.</desc>
+		<image>./images/Antz World Sportz (Europe) (En,Fr,De,Es,It,Nl)-image.png</image>
+		<video>./videos/Antz World Sportz (Europe) (En,Fr,De,Es,It,Nl)-video.mp4</video>
+		<marquee>./images/Antz World Sportz (Europe) (En,Fr,De,Es,It,Nl)-marquee.png</marquee>
+		<thumbnail>./images/Antz World Sportz (Europe) (En,Fr,De,Es,It,Nl)-thumb.png</thumbnail>
+		<rating>0.2</rating>
+		<releasedate>20011130T000000</releasedate>
+		<developer>M4 Ltd.</developer>
+		<publisher>Light &amp; Shadow Productions (LSP)</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<md5>9c3800babd418a937f4429bbaaf2b81d</md5>
+		<lang>de,en,es,fr,it,nl</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T060620" />
+	</game>
+	<game>
+		<path>./No-Intro/Apollo Mission (World) (Aftermarket) (Unl).gbc</path>
+		<name>Apollo Mission (World) (Aftermarket) (Unl)</name>
+		<md5>50aecb6a5ea96b4727e8e475e451b2d4</md5>
+		<scrap name="ScreenScraper" date="20231106T060622" />
+	</game>
+	<game id="81930">
+		<path>./No-Intro/Aqualife (Japan) (SGB Enhanced) (GB Compatible).gbc</path>
+		<name>Aqualife</name>
+		<desc>Aqualife is a strategy game developed and published by Tamsoft for the Game Boy Color platform. Aqualife was never released outside of Japan.</desc>
+		<image>./images/Aqualife (Japan) (SGB Enhanced) (GB Compatible)-image.png</image>
+		<marquee>./images/Aqualife (Japan) (SGB Enhanced) (GB Compatible)-marquee.png</marquee>
+		<thumbnail>./images/Aqualife (Japan) (SGB Enhanced) (GB Compatible)-thumb.png</thumbnail>
+		<releasedate>19991022T000000</releasedate>
+		<developer>Tamsoft</developer>
+		<publisher>Tamsoft</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<md5>b40dbe0f8ac98ede81f05c37dd0f67b1</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T060630" />
+	</game>
+	<game>
+		<path>./No-Intro/Arena 3000 (World) (Aftermarket) (Unl).gbc</path>
+		<name>Arena 3000 (World) (Aftermarket) (Unl)</name>
+		<md5>49c62d2d16ace6a2c46d2cc817a49abf</md5>
+		<scrap name="ScreenScraper" date="20231106T060632" />
+	</game>
+	<game id="36855">
+		<path>./No-Intro/Arle no Bouken - Mahou no Jewel (Japan) (SGB Enhanced) (GB Compatible).gbc</path>
+		<name>Arle no Bouken : Mahou no Jewel</name>
+		<desc>A monster-collecting RPG set in the Puyo Puyo game world and starring the young apprentice magician Arle, who must explore the land in order to collect a series of magical gems and defeat the evil Satan, who plots to take over the world yet again.
+
+The game is played from a top-down perspective in which you control Arle as she explores towns and dungeons, chatting with NPCs, finding or buying items, etc. Combat whisks your character to a side view from which you select your actions in standard turn-based fashion and fight it out against the many monsters and opposing characters that you can run into. Whenever you defeat a monster, you gain their unique card which can be tapped to summon said monster to join you in your quest. You can have up to two monsters fighting by your side at any time, and they level up and gain experience just like you do.</desc>
+		<image>./images/Arle no Bouken - Mahou no Jewel (Japan) (SGB Enhanced) (GB Compatible)-image.png</image>
+		<video>./videos/Arle no Bouken - Mahou no Jewel (Japan) (SGB Enhanced) (GB Compatible)-video.mp4</video>
+		<marquee>./images/Arle no Bouken - Mahou no Jewel (Japan) (SGB Enhanced) (GB Compatible)-marquee.png</marquee>
+		<thumbnail>./images/Arle no Bouken - Mahou no Jewel (Japan) (SGB Enhanced) (GB Compatible)-thumb.png</thumbnail>
+		<rating>0.25</rating>
+		<releasedate>20000331T000000</releasedate>
+		<developer>Compile</developer>
+		<publisher>Compile</publisher>
+		<genre>Role playing games</genre>
+		<players>1-2</players>
+		<md5>9abaf0dfeb58b76d6b5cce4b42756c8e</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T060643" />
+	</game>
+	<game id="36858">
+		<path>./No-Intro/Asterix &amp; Obelix (Europe) (En,Fr,De,Es).gbc</path>
+		<name>Astérix &amp; Obélix</name>
+		<desc>Caesar has had a palisade constructed around the village inhabited by the Indomitable Gauls in order to keep them prisoner! Choose Obelix or Asterix and set off across the Roman Empire! Bring back a souvenir from each country crossed in order to prove to Caesar that our heroes are the strongest!</desc>
+		<image>./images/Asterix &amp; Obelix (Europe) (En,Fr,De,Es)-image.png</image>
+		<video>./videos/Asterix &amp; Obelix (Europe) (En,Fr,De,Es)-video.mp4</video>
+		<marquee>./images/Asterix &amp; Obelix (Europe) (En,Fr,De,Es)-marquee.png</marquee>
+		<thumbnail>./images/Asterix &amp; Obelix (Europe) (En,Fr,De,Es)-thumb.png</thumbnail>
+		<fanart>./images/Asterix &amp; Obelix (Europe) (En,Fr,De,Es)-fanart.jpg</fanart>
+		<rating>0.75</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Bit Managers</developer>
+		<publisher>Infogrames</publisher>
+		<genre>Action</genre>
+		<family>ASTERIX</family>
+		<players>1</players>
+		<md5>6efc4c27d06564f9000667c029ad02a3</md5>
+		<lang>de,en,es,fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T060655" />
+	</game>
+	<game>
+		<path>./No-Intro/Asterix &amp; Obelix Contre Cesar (Europe) (En,Fr,De,Es,Nl) (GB Compatible).gbc</path>
+		<name>Asterix &amp; Obelix Contre Cesar (Europe) (En,Fr,De,Es,Nl) (GB Compatible)</name>
+		<md5>b7d6335b8d3a34b15ce0b631bb9731a2</md5>
+		<scrap name="ScreenScraper" date="20231106T060656" />
+	</game>
+	<game id="37036">
+		<path>./No-Intro/Asterix - Sur la Trace D'Idefix (Europe) (En,Fr,De,Es,It,Nl).gbc</path>
+		<name>Astérix : Search for Dogmatix</name>
+		<desc>Asterix and Obelix (based on the French comic book series), must embark on a journey from the forests of France to the coliseums of Rome. Their goal is to find Obelix's lovable pet dog, Dogmatix. Players take control of Asterix or Obelix, and run, jump and punch through various well-drawn and colorful levels in this side-scrolling adventure game.
+
+This title is somewhat non-linear, and allows players to choose the order in which to visit stages, as well as the numerous mini-games. The stage-select screen is a mini-map, and after selecting to play either Asterix or Obelix, players can visit the boss arena, the inn (extra energy, hints and passwords are found here), as well as the the local mini-game. These mini-games become available from the title-screen under the "Instant Fun" option. They vary from a "Memory" style shield-matching game to humorous events such as "Throw a Roman Mini Game".
+
+Both Asterix and Obelix play differently as they have individual abilities and limitations. Asterix is more nimble, can run faster and jump higher, whereas Obelix is more powerful (being able to bash through some walls) but noticeably slower. These differences are highlighted by the obstacles presented in the stages - there are many jumps to make as well as many enemies (Roman soldiers, boars, centurions) to dispose of. In the quest to find Dogmatix, it is vital to collect keys hidden within the levels to make available new areas. Similarly, it is also important to collect coins from beaten enemies as they allow the purchases at each inn, (which is aptly manned by Getafix himself!).</desc>
+		<image>./images/Asterix - Sur la Trace D'Idefix (Europe) (En,Fr,De,Es,It,Nl)-image.png</image>
+		<video>./videos/Asterix - Sur la Trace D'Idefix (Europe) (En,Fr,De,Es,It,Nl)-video.mp4</video>
+		<marquee>./images/Asterix - Sur la Trace D'Idefix (Europe) (En,Fr,De,Es,It,Nl)-marquee.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20000531T000000</releasedate>
+		<developer>Rebellion</developer>
+		<publisher>Infogrames</publisher>
+		<genre>Platform</genre>
+		<family>ASTERIX</family>
+		<players>1</players>
+		<md5>1faa6e2a7ec92b95ce32fa2682038b9b</md5>
+		<lang>de,en,es,fr,it,nl</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T060705" />
+	</game>
+	<game>
+		<path>./No-Intro/Astro Plumber (World) (Aftermarket) (Unl).gbc</path>
+		<name>Astro Plumber (World) (Aftermarket) (Unl)</name>
+		<md5>e0b8537949322d3233cc72ee8c1fce15</md5>
+		<scrap name="ScreenScraper" date="20231106T060707" />
+	</game>
+	<game>
+		<path>./No-Intro/Astro-Jump - The Sequel (World) (GB Compatible) (Aftermarket) (Unl).gbc</path>
+		<name>Astro-Jump - The Sequel (World) (GB Compatible) (Aftermarket) (Unl)</name>
+		<md5>f5e2ceff766584d558eff4eadbc97f2d</md5>
+		<scrap name="ScreenScraper" date="20231106T060709" />
+	</game>
+	<game id="81946">
+		<path>./No-Intro/Atlantis - The Lost Empire (Europe) (En,Es,It).gbc</path>
+		<name>Atlantis : The Lost Empire</name>
+		<desc>A civilization shadowed with mystery, guarded by mythical monsters, controlled by a mighty crystal that- in the wrong hands- could destroy the legendary empire. Now, with the aid of a submarine and a mysterious book, go on a journey in search of Atlantis: The Lost Empire. Along the way you will encounter huge sea-creatures, fiery volcanoes, mutiny, and even a beautiful princess. Are you ready to take on this mission?</desc>
+		<image>./images/Atlantis - The Lost Empire (Europe) (En,Es,It)-image.png</image>
+		<video>./videos/Atlantis - The Lost Empire (Europe) (En,Es,It)-video.mp4</video>
+		<marquee>./images/Atlantis - The Lost Empire (Europe) (En,Es,It)-marquee.png</marquee>
+		<thumbnail>./images/Atlantis - The Lost Empire (Europe) (En,Es,It)-thumb.png</thumbnail>
+		<fanart>./images/Atlantis - The Lost Empire (Europe) (En,Es,It)-fanart.jpg</fanart>
+		<rating>0.55</rating>
+		<releasedate>20011109T000000</releasedate>
+		<developer>Eurocom</developer>
+		<publisher>THQ</publisher>
+		<genre>Platform</genre>
+		<family>Disney</family>
+		<players>1</players>
+		<md5>e24141ed6fc94b149bbf43b4bd9658e8</md5>
+		<lang>en,es,it</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T060724" />
+	</game>
+	<game id="81946">
+		<path>./No-Intro/Atlantis - The Lost Empire (Europe) (Fr,De,Nl).gbc</path>
+		<name>Atlantis : The Lost Empire</name>
+		<desc>A civilization shadowed with mystery, guarded by mythical monsters, controlled by a mighty crystal that- in the wrong hands- could destroy the legendary empire. Now, with the aid of a submarine and a mysterious book, go on a journey in search of Atlantis: The Lost Empire. Along the way you will encounter huge sea-creatures, fiery volcanoes, mutiny, and even a beautiful princess. Are you ready to take on this mission?</desc>
+		<image>./images/Atlantis - The Lost Empire (Europe) (Fr,De,Nl)-image.png</image>
+		<video>./videos/Atlantis - The Lost Empire (Europe) (Fr,De,Nl)-video.mp4</video>
+		<marquee>./images/Atlantis - The Lost Empire (Europe) (Fr,De,Nl)-marquee.png</marquee>
+		<thumbnail>./images/Atlantis - The Lost Empire (Europe) (Fr,De,Nl)-thumb.png</thumbnail>
+		<fanart>./images/Atlantis - The Lost Empire (Europe) (Fr,De,Nl)-fanart.jpg</fanart>
+		<rating>0.55</rating>
+		<releasedate>20011109T000000</releasedate>
+		<developer>Eurocom</developer>
+		<publisher>THQ</publisher>
+		<genre>Platform</genre>
+		<family>Disney</family>
+		<players>1</players>
+		<md5>c046f62bb3baf1f8398f5e3fb93dd82a</md5>
+		<lang>fr,de,nl</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T060737" />
+	</game>
+	<game>
+		<path>./No-Intro/Atop the Witch's Tower (World) (v1.1) (GB Compatible) (Aftermarket) (Unl).gbc</path>
+		<name>Atop the Witch's Tower (World) (v1.1) (GB Compatible) (Aftermarket) (Unl)</name>
+		<md5>35773ac09080e95e9dec4b4b2777480f</md5>
+		<scrap name="ScreenScraper" date="20231106T060739" />
+	</game>
+	<game id="82943">
+		<path>./No-Intro/Atsumete Asobu Kuma no Pooh-san - Mori no Takaramono (Japan).gbc</path>
+		<name>Atsumete Asobu Kuma no Pooh-san : Mori no Takaramono</name>
+		<desc>Join Winnie the Pooh and his friends as they come to the Game Boy Color in WINNIE THE POOH: Adventures in the 100 Acre Wood. You must help Pooh get to a certain place on the game board within a specified number of dice rolls. Along the way, he will encounter his friends Tigger, Piglet, Rabbit, and Eeyore, who will play along with Pooh and open mini-games for the loveable bear to store in his cupboard. The mini-games will have the player helping Pooh look for honey, exercise, fish, get unstuck from Rabbit's hole, bounce with Tigger, and catch acorns. The more you play WINNIE THE POOH: Adventures in the 100 Acre Wood, the greater the chances of finding a new path or mini-game.</desc>
+		<image>./images/Atsumete Asobu Kuma no Pooh-san - Mori no Takaramono (Japan)-image.png</image>
+		<video>./videos/Atsumete Asobu Kuma no Pooh-san - Mori no Takaramono (Japan)-video.mp4</video>
+		<marquee>./images/Atsumete Asobu Kuma no Pooh-san - Mori no Takaramono (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Atsumete Asobu Kuma no Pooh-san - Mori no Takaramono (Japan)-thumb.png</thumbnail>
+		<rating>0.6</rating>
+		<releasedate>20000707T000000</releasedate>
+		<developer>TOSE</developer>
+		<publisher>NewKidCo</publisher>
+		<genre>Adventure</genre>
+		<family>Winnie the Pooh</family>
+		<players>1</players>
+		<md5>c74c728ce3177a3a9abc5870b6762885</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T060751" />
+	</game>
+	<game id="81950">
+		<path>./No-Intro/ATV Racing &amp; Karate Joe (Europe) (Unl) (Alt).gbc</path>
+		<name>ATV Racing &amp; Karate Joe</name>
+		<desc>Atv Racing &amp; Karate Joe is a 2 in 1 game. In the 1st, you play on the handlebars of an all terrain quad in different circuits. The 2nd, you play a karateka named Joe. You have to fight different enemy on different levels.</desc>
+		<image>./images/ATV Racing &amp; Karate Joe (Europe) (Unl) (Alt)-image.png</image>
+		<marquee>./images/ATV Racing &amp; Karate Joe (Europe) (Unl) (Alt)-marquee.png</marquee>
+		<thumbnail>./images/ATV Racing &amp; Karate Joe (Europe) (Unl) (Alt)-thumb.png</thumbnail>
+		<releasedate>20010330T000000</releasedate>
+		<developer>Rocket Games</developer>
+		<publisher>Rocket Games</publisher>
+		<genre>Compilation</genre>
+		<md5>6f0a4d09a4a40ca93a528f2409bb872c</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T060800" />
+	</game>
+	<game id="81950">
+		<path>./No-Intro/ATV Racing &amp; Karate Joe (Europe) (Unl).gbc</path>
+		<name>ATV Racing &amp; Karate Joe</name>
+		<desc>Atv Racing &amp; Karate Joe is a 2 in 1 game. In the 1st, you play on the handlebars of an all terrain quad in different circuits. The 2nd, you play a karateka named Joe. You have to fight different enemy on different levels.</desc>
+		<image>./images/ATV Racing &amp; Karate Joe (Europe) (Unl)-image.png</image>
+		<marquee>./images/ATV Racing &amp; Karate Joe (Europe) (Unl)-marquee.png</marquee>
+		<thumbnail>./images/ATV Racing &amp; Karate Joe (Europe) (Unl)-thumb.png</thumbnail>
+		<releasedate>20010330T000000</releasedate>
+		<developer>Rocket Games</developer>
+		<publisher>Rocket Games</publisher>
+		<genre>Compilation</genre>
+		<md5>b702980f1562a0d66106ff8722675eb9</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T060807" />
+	</game>
+	<game id="81949">
+		<path>./No-Intro/ATV Racing (Europe) (Unl).gbc</path>
+		<name>ATV Racing</name>
+		<desc>ATV Racing is a Racing game, published by Datel, which was released in Europe in 2001.</desc>
+		<image>./images/ATV Racing (Europe) (Unl)-image.png</image>
+		<video>./videos/ATV Racing (Europe) (Unl)-video.mp4</video>
+		<marquee>./images/ATV Racing (Europe) (Unl)-marquee.png</marquee>
+		<thumbnail>./images/ATV Racing (Europe) (Unl)-thumb.png</thumbnail>
+		<releasedate>20010223T000000</releasedate>
+		<publisher>Datel</publisher>
+		<genre>Race, Driving</genre>
+		<md5>3426bfe0c82da4c6705f996891579a24</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T060818" />
+	</game>
+	<game id="36860">
+		<path>./No-Intro/Austin Powers - Oh, Behave! (Europe) (En,Fr,De,Es,It).gbc</path>
+		<name>Austin Powers : Oh, Behave!</name>
+		<desc>A collection of games and features based on the Austin Powers movie series. Included on the cart are Austin inspired versions of classic arcade game Pac-Man, board game Othello and Rock/Paper/Scissors. 
+
+The main game, titled 'International Man in a Platform Game' has you controlling Austin and dodging police hats and soccer balls through each level. 
+
+Finally, there are extra features including the Shagulator (a calculator), Austin's Pad (a rudimentary word processor) an Internet style program detailing the two Austin Powers movies, as well as a complete Windows like environment to play around with (including a choice of background artwork, screensavers, sounds and more). You can also send messages to other users through the GBC's infra-red port and print messages using the Game Boy Printer.</desc>
+		<image>./images/Austin Powers - Oh, Behave! (Europe) (En,Fr,De,Es,It)-image.png</image>
+		<video>./videos/Austin Powers - Oh, Behave! (Europe) (En,Fr,De,Es,It)-video.mp4</video>
+		<marquee>./images/Austin Powers - Oh, Behave! (Europe) (En,Fr,De,Es,It)-marquee.png</marquee>
+		<thumbnail>./images/Austin Powers - Oh, Behave! (Europe) (En,Fr,De,Es,It)-thumb.png</thumbnail>
+		<rating>0.4</rating>
+		<releasedate>20001103T000000</releasedate>
+		<developer>Tarantula Studios</developer>
+		<publisher>Take 2 Interactive</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<md5>1cdc49e8f8340c2ce27fd3f5cdd3d618</md5>
+		<lang>de,en,es,fr,it</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T060830" />
+	</game>
+	<game id="37037">
+		<path>./No-Intro/Austin Powers - Welcome to My Underground Lair! (Europe) (En,Fr,De,Es,It).gbc</path>
+		<name>Austin Powers : Welcome to my Underground Lair!</name>
+		<desc>Dr. Evil, the villain that dogs Austin Powers, now has is own video game. Following the same footsteps as Austin Powers: Oh Behave!, the lair contains a selection of evil inspried video games based on Pac-Man, Othello and Rock/Paper/Scissors, and the main game which has you racing along in Dr. Evil's bike collecting money and dodging obstacles. 
+
+You can also find screensavers, video clips, details of the first two Austin Powers movies and PC like programs including a document maker, calculator and the ability to print off and send messages via the infra-red port of the GBC.</desc>
+		<image>./images/Austin Powers - Welcome to My Underground Lair! (Europe) (En,Fr,De,Es,It)-image.png</image>
+		<video>./videos/Austin Powers - Welcome to My Underground Lair! (Europe) (En,Fr,De,Es,It)-video.mp4</video>
+		<marquee>./images/Austin Powers - Welcome to My Underground Lair! (Europe) (En,Fr,De,Es,It)-marquee.png</marquee>
+		<thumbnail>./images/Austin Powers - Welcome to My Underground Lair! (Europe) (En,Fr,De,Es,It)-thumb.png</thumbnail>
+		<rating>0.5</rating>
+		<releasedate>20000918T000000</releasedate>
+		<developer>Tarantula Studios</developer>
+		<publisher>Take 2 Interactive</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<md5>93226ce541766d8b8b7d1f70866ad530</md5>
+		<lang>de,en,es,fr,it</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T060842" />
+	</game>
+	<game id="368724">
+		<path>./No-Intro/Austin Powers Episode III (Europe) (En,Fr,De,Es,It) (Proto).gbc</path>
+		<name>ZZZ(notgame):Austin Powers Episode III</name>
+		<hidden>true</hidden>
+		<md5>a18746b05badafb5b8456ace6ba3e65f</md5>
+		<lang>de,en,es,fr,it</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T060844" />
+	</game>
+	<game id="368728">
+		<path>./No-Intro/Austin Powers Episode IV (Europe) (En,Fr,De,Es,It) (Proto).gbc</path>
+		<name>ZZZ(notgame):Austin Powers Episode IV</name>
+		<hidden>true</hidden>
+		<md5>974d6664dc7114e637c2c1cc2f252724</md5>
+		<lang>de,en,es,fr,it</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T060845" />
+	</game>
+	<game>
+		<path>./No-Intro/Auto Zone (World) (Aftermarket) (Unl).gbc</path>
+		<name>Auto Zone (World) (Aftermarket) (Unl)</name>
+		<md5>4907bfe608ede74e08f4b43c51dc0194</md5>
+		<scrap name="ScreenScraper" date="20231106T060847" />
+	</game>
+	<game>
+		<path>./No-Intro/Autumn With You, An (World) (GB Compatible) (Aftermarket) (Unl).gbc</path>
+		<name>Autumn With You, An (World) (GB Compatible) (Aftermarket) (Unl)</name>
+		<md5>c3a774c513a2ab5a2b134e0210b6caf1</md5>
+		<scrap name="ScreenScraper" date="20231106T060849" />
+	</game>
+	<game id="82032">
+		<path>./No-Intro/Aventures de Buzz l'Eclair, Les (France).gbc</path>
+		<name>Les Aventures de Buzz L'Eclair</name>
+		<desc>Buzz Lightyear of Star Command is a Windows PC game created by Travelers Tales with Disney Interactive and PIXAR in 2000. The game consists of multiple planets, each with a villain on it. In each level the player races the villain to his/her getaway destination. Then the player engages in a one-on-one battle the villain, which usually requires destroying an energy shield surrounding the villain.[1]</desc>
+		<image>./images/Aventures de Buzz l'Eclair, Les (France)-image.png</image>
+		<video>./videos/Aventures de Buzz l'Eclair, Les (France)-video.mp4</video>
+		<marquee>./images/Aventures de Buzz l'Eclair, Les (France)-marquee.png</marquee>
+		<thumbnail>./images/Aventures de Buzz l'Eclair, Les (France)-thumb.png</thumbnail>
+		<rating>0.55</rating>
+		<releasedate>20010209T000000</releasedate>
+		<developer>Travellers Tales</developer>
+		<publisher>Activision</publisher>
+		<genre>Action / Adventure</genre>
+		<players>1</players>
+		<md5>e1ae3e808f17b972d063a0bb0d58888e</md5>
+		<lang>fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T060900" />
+	</game>
+	<game id="81956">
+		<path>./No-Intro/Azarashi Sentai Inazuma - Dokidoki Daisakusen! (Japan).gbc</path>
+		<name>Azarashi Sentai Inazuma : Dokidoki Daisakusen!</name>
+		<desc>Become Inazuma Zarashi and challenge 5 mini-games. You must accumulate transformation power, transform into the Zarashi Sentai Inazuma, and face off against the evil organization Shirokuman in the games.</desc>
+		<image>./images/Azarashi Sentai Inazuma - Dokidoki Daisakusen! (Japan)-image.png</image>
+		<marquee>./images/Azarashi Sentai Inazuma - Dokidoki Daisakusen! (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Azarashi Sentai Inazuma - Dokidoki Daisakusen! (Japan)-thumb.png</thumbnail>
+		<releasedate>20020329T000000</releasedate>
+		<developer>Omega Micott Inc.</developer>
+		<publisher>Omega Micott Inc.</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>e5d8aea67aef0ee94acf1ed35900ea74</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T060909" />
+	</game>
+	<game id="36861">
+		<path>./No-Intro/Azure Dreams (Europe) (En,Fr,De) (SGB Enhanced) (GB Compatible).gbc</path>
+		<name>Azure Dreams</name>
+		<desc>The huge Monster Tower stands near the village Monsbaiya. It is populated by vicious monsters, and few dare enter it. But the monsters in the tower lay eggs, and whoever takes possession of such an egg, can tame a monster which will come out of it, and those monsters, called "familiars", will help their tamers in times of danger. Some brave adventurers dared to enter the tower and to take the eggs. One of them was called Guy. He was killed in the monster tower. Now his son Koh is fifteen, and he is allowed to try his luck in the tower.
+
+You control Koh and his party of "familiars" in this unusual "monster-taming" RPG. You must capture the eggs from the tower, bring them home, grow monsters and tame them. During battles, you assign different commands to them. Different species have different abilities and need different approach. The battles system is a mixture of real time and turn based combat. Unlike most other console RPGs, there are no special battle screens.</desc>
+		<image>./images/Azure Dreams (Europe) (En,Fr,De) (SGB Enhanced) (GB Compatible)-image.png</image>
+		<video>./videos/Azure Dreams (Europe) (En,Fr,De) (SGB Enhanced) (GB Compatible)-video.mp4</video>
+		<marquee>./images/Azure Dreams (Europe) (En,Fr,De) (SGB Enhanced) (GB Compatible)-marquee.png</marquee>
+		<thumbnail>./images/Azure Dreams (Europe) (En,Fr,De) (SGB Enhanced) (GB Compatible)-thumb.png</thumbnail>
+		<manual>./manuals/Azure Dreams (Europe) (En,Fr,De) (SGB Enhanced) (GB Compatible)-manual.pdf</manual>
+		<rating>0.6</rating>
+		<releasedate>19990805T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Role playing games / Dungeon Crawler RPG</genre>
+		<players>1</players>
+		<md5>f6b6ddfaaf03392dc469f4eed49ec15d</md5>
+		<lang>de,en,fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T060924" />
+	</game>
+	<game id="81988">
+		<path>./No-Intro/B-Daman Bakugaiden - Victory e no Michi (Japan) (SGB Enhanced) (GB Compatible).gbc</path>
+		<name>B-Daman Bakugaiden : Victory e no Michi</name>
+		<desc>The game is an RPG in which you turn the panels on the map to advance, and the Vida Warriors can evolve and combine. B-da Warriors can evolve and combine with other Vida Warriors, and the items they collect can be exchanged through communication.</desc>
+		<image>./images/B-Daman Bakugaiden - Victory e no Michi (Japan) (SGB Enhanced) (GB Compatible)-image.png</image>
+		<marquee>./images/B-Daman Bakugaiden - Victory e no Michi (Japan) (SGB Enhanced) (GB Compatible)-marquee.png</marquee>
+		<thumbnail>./images/B-Daman Bakugaiden - Victory e no Michi (Japan) (SGB Enhanced) (GB Compatible)-thumb.png</thumbnail>
+		<releasedate>19990129T000000</releasedate>
+		<developer>C.P. Brain</developer>
+		<publisher>Media Factory</publisher>
+		<genre>Role playing games</genre>
+		<players>1-2</players>
+		<md5>ba1195224261abd308db025d69ee2227</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T060933" />
+	</game>
+	<game id="81987">
+		<path>./No-Intro/B-Daman Bakugaiden V - Final Mega Tune (Japan).gbc</path>
+		<name>B-Daman Bakugaiden V : Final Mega Tune</name>
+		<desc>This is the second in a series of RPGs based on the anime of the same name. You have to modify and strengthen your fighting robot to fight against the enemy. You can also use the data from the previous game by using the communication cable.</desc>
+		<image>./images/B-Daman Bakugaiden V - Final Mega Tune (Japan)-image.png</image>
+		<marquee>./images/B-Daman Bakugaiden V - Final Mega Tune (Japan)-marquee.png</marquee>
+		<thumbnail>./images/B-Daman Bakugaiden V - Final Mega Tune (Japan)-thumb.png</thumbnail>
+		<releasedate>20000204T000000</releasedate>
+		<developer>Mirai-Keikaku</developer>
+		<publisher>Media Factory</publisher>
+		<genre>Strategy</genre>
+		<family>B-Daman</family>
+		<players>1-2</players>
+		<md5>a10a70354cc998e31f0b5fb27c471c37</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T060942" />
+	</game>
+	<game id="36862">
+		<path>./No-Intro/Babe and Friends (Europe) (En,Fr,De,Es,It) (GB Compatible).gbc</path>
+		<name>Babe and Friends</name>
+		<desc>Babe the Pig, of the eponymous movies, was raised by sheepdogs and, hence, believes himself to be a "sheep-pig", who herds sheep as his foster parents do.  In this game, you control the plucky little porker and direct his sheep management attempts, driving them forward toward the goal in exaggerated, frictionless Soko-Ban or Boulder Dash style with porcine barks until their movement is halted or altered should their course intercept an obstacle such as a fencepost, moveable haystack, pit or trampoline.
+
+Babe is given hints and tips in these efforts by lovable characters from both of his feature films, and the 40 levels borrow inspiration both from the calm pastoral setting of the first and the surreal urban folly of its sequel.  While the measured puzzles are a far cry from the excitement of the movies, the material finds a surprisingly good fit in this unexpected genre -- or otherwise put, "that'll do, pig."</desc>
+		<image>./images/Babe and Friends (Europe) (En,Fr,De,Es,It) (GB Compatible)-image.png</image>
+		<video>./videos/Babe and Friends (Europe) (En,Fr,De,Es,It) (GB Compatible)-video.mp4</video>
+		<marquee>./images/Babe and Friends (Europe) (En,Fr,De,Es,It) (GB Compatible)-marquee.png</marquee>
+		<thumbnail>./images/Babe and Friends (Europe) (En,Fr,De,Es,It) (GB Compatible)-thumb.png</thumbnail>
+		<rating>0.6</rating>
+		<releasedate>19991101T000000</releasedate>
+		<developer>Aqua Pacific</developer>
+		<publisher>Crave Entertainment</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<md5>146bc8912c207c200535b84c5acfb06a</md5>
+		<lang>de,en,es,fr,it</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T060954" />
+	</game>
+	<game id="81957">
+		<path>./No-Intro/Baby Felix - Halloween (Europe) (En,Fr,De,Es,It,Nl).gbc</path>
+		<name>Baby Felix : Halloween</name>
+		<desc>Halloween, Baby Felix dressed as a cow-boy and Baby Kitty dressed as an adorable witch, get into an abandoned house, a voice tell them "find the magic keys that will allow you to open the last door of the house...and then free your friends"
+
+- Play as Baby Felix or cute Baby Kitty
+- Travel through 5 different periods : Prehistory, Halloween, Far west...
+- Discover all the characters from the TV series.</desc>
+		<image>./images/Baby Felix - Halloween (Europe) (En,Fr,De,Es,It,Nl)-image.png</image>
+		<video>./videos/Baby Felix - Halloween (Europe) (En,Fr,De,Es,It,Nl)-video.mp4</video>
+		<marquee>./images/Baby Felix - Halloween (Europe) (En,Fr,De,Es,It,Nl)-marquee.png</marquee>
+		<thumbnail>./images/Baby Felix - Halloween (Europe) (En,Fr,De,Es,It,Nl)-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>20011219T000000</releasedate>
+		<developer>Bit Managers</developer>
+		<publisher>Light &amp; Shadow Productions (LSP)</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<md5>45c4b87d2e3fe86fccc6941ffd724098</md5>
+		<lang>de,en,es,fr,it,nl</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T061004" />
+	</game>
+	<game id="200447">
+		<path>./No-Intro/Back to Earth 3D (Europe) (Demo).gbc</path>
+		<name>Back to Earth 3D</name>
+		<image>./images/Back to Earth 3D (Europe) (Demo)-image.png</image>
+		<genre>Demo</genre>
+		<md5>bcb7b00cdafc5a119e6f7be6a1c54945</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T061008" />
+	</game>
+	<game>
+		<path>./No-Intro/Back to Nature (World) (Aftermarket) (Unl).gbc</path>
+		<name>Back to Nature (World) (Aftermarket) (Unl)</name>
+		<md5>78b152baf4c60314eb96d4d433a3d8f3</md5>
+		<scrap name="ScreenScraper" date="20231106T061010" />
+	</game>
+	<game id="81959">
+		<path>./No-Intro/Backgammon (Europe) (En,Fr,De,Es) (GB Compatible).gbc</path>
+		<name>Backgammon</name>
+		<desc>Backgammon, the world's most widely played and recognised board game just got portable. The ultimate game of chance and skill now available on Game Boy, chose from 3 modes of play including "Tournament, Free and Vs Match" and 6 difficulty levels.</desc>
+		<image>./images/Backgammon (Europe) (En,Fr,De,Es) (GB Compatible)-image.png</image>
+		<video>./videos/Backgammon (Europe) (En,Fr,De,Es) (GB Compatible)-video.mp4</video>
+		<marquee>./images/Backgammon (Europe) (En,Fr,De,Es) (GB Compatible)-marquee.png</marquee>
+		<thumbnail>./images/Backgammon (Europe) (En,Fr,De,Es) (GB Compatible)-thumb.png</thumbnail>
+		<rating>0.6</rating>
+		<releasedate>20001201T000000</releasedate>
+		<developer>Altron</developer>
+		<publisher>JVC</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<md5>ff1b35a16b0eca8e1fb10af164e66421</md5>
+		<lang>de,en,es,fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T061021" />
+	</game>
+	<game id="81959">
+		<path>./No-Intro/Backgammon (Japan) (GB Compatible).gbc</path>
+		<name>Backgammon</name>
+		<desc>Backgammon, the world's most widely played and recognised board game just got portable. The ultimate game of chance and skill now available on Game Boy, chose from 3 modes of play including "Tournament, Free and Vs Match" and 6 difficulty levels.</desc>
+		<image>./images/Backgammon (Japan) (GB Compatible)-image.png</image>
+		<video>./videos/Backgammon (Japan) (GB Compatible)-video.mp4</video>
+		<marquee>./images/Backgammon (Japan) (GB Compatible)-marquee.png</marquee>
+		<thumbnail>./images/Backgammon (Japan) (GB Compatible)-thumb.png</thumbnail>
+		<rating>0.6</rating>
+		<releasedate>19990827T000000</releasedate>
+		<developer>Altron</developer>
+		<publisher>JVC</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<md5>d14c8cbcca2510a3c92107312999bebc</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T061034" />
+	</game>
+	<game id="81960">
+		<path>./No-Intro/Bad Badtz-Maru Robo Battle (Japan).gbc</path>
+		<name>Bad Badtz-Maru Robo Battle</name>
+		<desc>Bad Badtz-Maru takes part in an event in Gorgeous Town called Gorgeous-Hai Robo Battle Tournament. In this event, Bad Badtz-Maru must compete with friends Ijuuin Pandaba and Good Hanamaru in order to strengthen robotic equipment in events known as "Robo Battles". The player can gain experience to strengthen the robots. Different types of parts include "normal", "sengoku bushou" and "animal". There are over 800,000 possible combinations of parts.
+A penguin known as the kobun , literally "follower", acts as a guide to the game.</desc>
+		<image>./images/Bad Badtz-Maru Robo Battle (Japan)-image.png</image>
+		<marquee>./images/Bad Badtz-Maru Robo Battle (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Bad Badtz-Maru Robo Battle (Japan)-thumb.png</thumbnail>
+		<releasedate>20010810T000000</releasedate>
+		<developer>TOSE</developer>
+		<publisher>Imagineer</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>21c2dd91ae2d46c006c00caca96d2b6b</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T061042" />
+	</game>
+	<game>
+		<path>./No-Intro/Baiwan Dafuweng - Jin Ban (Taiwan) (Unl).gbc</path>
+		<name>Baiwan Dafuweng - Jin Ban (Taiwan) (Unl)</name>
+		<md5>a87e78da9b5d0d937dd67ddeb970700a</md5>
+		<scrap name="ScreenScraper" date="20231106T061043" />
+	</game>
+	<game id="81961">
+		<path>./No-Intro/Bakukyuu Renpatsu!! Super B-Daman - Gekitan! Rising Valkyrie!! (Japan) (SGB Enhanced) (GB Compatible).gbc</path>
+		<name>Bakukyuu Renpatsu!! Super B-Daman : Gekitan! Rising Valkyrie!!</name>
+		<desc>This RPG is based on the popular anime "Bakugyu Rensha! Super Biderman" is the theme of this RPG, where you face off against rivals, buy parts with your winnings, and modify your Biderman to make it stronger.</desc>
+		<image>./images/Bakukyuu Renpatsu!! Super B-Daman - Gekitan! Rising Valkyrie!! (Japan) (SGB Enhanced) (GB Compatible)-image.png</image>
+		<marquee>./images/Bakukyuu Renpatsu!! Super B-Daman - Gekitan! Rising Valkyrie!! (Japan) (SGB Enhanced) (GB Compatible)-marquee.png</marquee>
+		<thumbnail>./images/Bakukyuu Renpatsu!! Super B-Daman - Gekitan! Rising Valkyrie!! (Japan) (SGB Enhanced) (GB Compatible)-thumb.png</thumbnail>
+		<releasedate>20000324T000000</releasedate>
+		<developer>Alpha Unit</developer>
+		<publisher>Takara</publisher>
+		<md5>60df8a170849c5f5a6f94b1531a29a34</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T061052" />
+	</game>
+	<game id="81962">
+		<path>./No-Intro/Bakusou Dekotora Densetsu GB Special - Otoko Dokyou no Tenka Touitsu (Japan).gbc</path>
+		<name>Bakusou Dekotora Densetsu GB Special : Otoko Dokyou no Tenka Touitsu</name>
+		<desc>A port of the "Legend of the Bakugou Decotora" series. Deliver packages, save money and become independent. Win races against your rivals, collect parts and modify your decotra.</desc>
+		<image>./images/Bakusou Dekotora Densetsu GB Special - Otoko Dokyou no Tenka Touitsu (Japan)-image.png</image>
+		<marquee>./images/Bakusou Dekotora Densetsu GB Special - Otoko Dokyou no Tenka Touitsu (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Bakusou Dekotora Densetsu GB Special - Otoko Dokyou no Tenka Touitsu (Japan)-thumb.png</thumbnail>
+		<releasedate>20000721T000000</releasedate>
+		<developer>Kid</developer>
+		<publisher>Kindle Imagine Develop</publisher>
+		<genre>Race, Driving / Race</genre>
+		<md5>4d6ce58ac78078d47a807cb326c3919a</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T061100" />
+	</game>
+	<game id="37130">
+		<path>./No-Intro/Bakusou Senki Metal Walker GB - Koutetsu no Yuujou (Japan) (GB Compatible).gbc</path>
+		<name>Bakusou Senki Metal Walker GB : Koutetsu no Yuujou</name>
+		<desc>Metal Walker is a mechanical take on Pokémon, where the story takes place in the future on an island where a mysterious element called core has been discovered.  This "core" element was used to create a highly advanced race of robots called Metal Walkers that are used for both labor and protection for the people of the island.  One day, however, a gang of robots decide to rebel and end up killing a very prominent member of the island.  The player then takes control of the son, Tetsuo, with the help of Dr. Hawk and Tetsuo's Metal Walker in an attempt to hunt down the rebel robots and avenge his father's death.
+
+The gameplay is very similar to Pokémon, where the player explores various areas of the island searching for clues called Data Packets and battling other Metal Walkers or wild Walkers called Metal Busters, but instead of capturing these walkers, the player instead destroys them.  Destroying these other Walkers results both in scrap metal and items called Capsules that can be used to upgrade or "evolve" Tetsuo's Walker into a more advanced form.  Additionally, the player can take the scrap metal to the Junk Shop where they can also be turned into capsules as well.  Additionally, capsules can not only contain power-ups, but traps as well that can be used in battles.
+
+The battles are also different, whereas this one the attacks consists of rolling attacks that are angled off of the walls of arenas.  Additionally, if a player fights multiple opponents, all of the enemies will be present on the screen at one time and if they choose the right attack and angle, can result in multiple hits on multiple opponents.
+
+There are also three types of Walkers: Land, Marine, and Sky where, just like in Pokémon, susceptible to the other (ex. Land walkers have advantages over Marine walkers but are vulnerable and weaker to Sky Walker attacks).  Base camps can also be built around various areas of the island and can be used for restoring the health of the players Walker.
+
+As the player progresses farther into the game, they will encounter over 100 different Walkers, each with their own strengths and weaknesses as well as bosses that have to be defeated in order to access more areas of the island.  Players can also use the Link Cable to both battle their Metal Walkers or even exchange their base camps.</desc>
+		<image>./images/Bakusou Senki Metal Walker GB - Koutetsu no Yuujou (Japan) (GB Compatible)-image.png</image>
+		<video>./videos/Bakusou Senki Metal Walker GB - Koutetsu no Yuujou (Japan) (GB Compatible)-video.mp4</video>
+		<marquee>./images/Bakusou Senki Metal Walker GB - Koutetsu no Yuujou (Japan) (GB Compatible)-marquee.png</marquee>
+		<thumbnail>./images/Bakusou Senki Metal Walker GB - Koutetsu no Yuujou (Japan) (GB Compatible)-thumb.png</thumbnail>
+		<manual>./manuals/Bakusou Senki Metal Walker GB - Koutetsu no Yuujou (Japan) (GB Compatible)-manual.pdf</manual>
+		<rating>0.7</rating>
+		<releasedate>19991224T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Role playing games</genre>
+		<players>1-2</players>
+		<md5>ceb1a6c3ce3d2921c0fb65f420f811fa</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T061113" />
+	</game>
+	<game id="37130">
+		<path>./No-Intro/Bakusou Senki Metal Walker GB - Koutetsu no Yuujou (Japan) (Rev 1) (Proto) (GB Compatible).gbc</path>
+		<name>Bakusou Senki Metal Walker GB : Koutetsu no Yuujou</name>
+		<desc>Metal Walker is a mechanical take on Pokémon, where the story takes place in the future on an island where a mysterious element called core has been discovered.  This "core" element was used to create a highly advanced race of robots called Metal Walkers that are used for both labor and protection for the people of the island.  One day, however, a gang of robots decide to rebel and end up killing a very prominent member of the island.  The player then takes control of the son, Tetsuo, with the help of Dr. Hawk and Tetsuo's Metal Walker in an attempt to hunt down the rebel robots and avenge his father's death.
+
+The gameplay is very similar to Pokémon, where the player explores various areas of the island searching for clues called Data Packets and battling other Metal Walkers or wild Walkers called Metal Busters, but instead of capturing these walkers, the player instead destroys them.  Destroying these other Walkers results both in scrap metal and items called Capsules that can be used to upgrade or "evolve" Tetsuo's Walker into a more advanced form.  Additionally, the player can take the scrap metal to the Junk Shop where they can also be turned into capsules as well.  Additionally, capsules can not only contain power-ups, but traps as well that can be used in battles.
+
+The battles are also different, whereas this one the attacks consists of rolling attacks that are angled off of the walls of arenas.  Additionally, if a player fights multiple opponents, all of the enemies will be present on the screen at one time and if they choose the right attack and angle, can result in multiple hits on multiple opponents.
+
+There are also three types of Walkers: Land, Marine, and Sky where, just like in Pokémon, susceptible to the other (ex. Land walkers have advantages over Marine walkers but are vulnerable and weaker to Sky Walker attacks).  Base camps can also be built around various areas of the island and can be used for restoring the health of the players Walker.
+
+As the player progresses farther into the game, they will encounter over 100 different Walkers, each with their own strengths and weaknesses as well as bosses that have to be defeated in order to access more areas of the island.  Players can also use the Link Cable to both battle their Metal Walkers or even exchange their base camps.</desc>
+		<image>./images/Bakusou Senki Metal Walker GB - Koutetsu no Yuujou (Japan) (Rev 1) (Proto) (GB Compatible)-image.png</image>
+		<video>./videos/Bakusou Senki Metal Walker GB - Koutetsu no Yuujou (Japan) (Rev 1) (Proto) (GB Compatible)-video.mp4</video>
+		<marquee>./images/Bakusou Senki Metal Walker GB - Koutetsu no Yuujou (Japan) (Rev 1) (Proto) (GB Compatible)-marquee.png</marquee>
+		<thumbnail>./images/Bakusou Senki Metal Walker GB - Koutetsu no Yuujou (Japan) (Rev 1) (Proto) (GB Compatible)-thumb.png</thumbnail>
+		<manual>./manuals/Bakusou Senki Metal Walker GB - Koutetsu no Yuujou (Japan) (Rev 1) (Proto) (GB Compatible)-manual.pdf</manual>
+		<rating>0.7</rating>
+		<releasedate>19991224T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Role playing games</genre>
+		<players>1-2</players>
+		<md5>68bffbbabc15da177c071eea0e055713</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T061126" />
+	</game>
+	<game id="81964">
+		<path>./No-Intro/Bakuten Shoot Beyblade (Japan).gbc</path>
+		<name>Bakuten Shoot Beyblade</name>
+		<desc>Based on the anime "Bakutenshoot Beyblade". Win battles, get parts and customize your Beyblade. You can also play against other players and exchange parts.</desc>
+		<image>./images/Bakuten Shoot Beyblade (Japan)-image.png</image>
+		<marquee>./images/Bakuten Shoot Beyblade (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Bakuten Shoot Beyblade (Japan)-thumb.png</thumbnail>
+		<releasedate>20010727T000000</releasedate>
+		<developer>Rokumendo</developer>
+		<publisher>Broccoli</publisher>
+		<family>Beyblade</family>
+		<md5>50f6fe2488600b1b80b8dea0aeeac2e1</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T061134" />
+	</game>
+	<game id="81965">
+		<path>./No-Intro/Balloon Fight GB (Japan) (SGB Enhanced, GB Compatible) (NP).gbc</path>
+		<name>Balloon Fight GB</name>
+		<desc>Balloon Fight GB is a color remake of Balloon Kid.
+
+All features from Balloon Kid are still intact. The main new addition is that there is color. There is now also a world map, and the title screen and menu systems are slightly different. Through the world map, levels are given names, which were previously unknown since Balloon Kid did not give any names to areas or levels.
+
+Balloon Fight GB is notoriously rare, and it was distributed via the Nintendo Power Flash cartridge, which is no longer supported by Nintendo. As such, copies of this game downloaded onto one of these cartridges can get high prices and rarely is ever sold. Due to the nature of this cartridge, the game would have had to been downloaded onto the cartridge before the service was discontinued.
+
+This game is available today on the 3DS eShop as a Game Boy Color Virtual Console game. However, the game is only available through the Japan eShop, so 3DS owners in Europe and America cannot download the software.
+
+After the Nintendo Power cartridge writing service was shut down, it was possible to order prewritten Nintendo Power cartridges with Balloon Fight GB over the phone, and these versions came with a fold-out manual and a large button with the game's box art, among other things.</desc>
+		<image>./images/Balloon Fight GB (Japan) (SGB Enhanced, GB Compatible) (NP)-image.png</image>
+		<video>./videos/Balloon Fight GB (Japan) (SGB Enhanced, GB Compatible) (NP)-video.mp4</video>
+		<marquee>./images/Balloon Fight GB (Japan) (SGB Enhanced, GB Compatible) (NP)-marquee.png</marquee>
+		<thumbnail>./images/Balloon Fight GB (Japan) (SGB Enhanced, GB Compatible) (NP)-thumb.png</thumbnail>
+		<releasedate>20000731T000000</releasedate>
+		<developer>Pax Softonica</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+		<md5>f94f61e6beaec6222e0d35229e2e271e</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T061145" />
+	</game>
+	<game>
+		<path>./No-Intro/Bandits at Zero (World) (Aftermarket) (Unl).gbc</path>
+		<name>Bandits at Zero (World) (Aftermarket) (Unl)</name>
+		<md5>3b3d047d3264e1af33cb5b8cabfc8840</md5>
+		<scrap name="ScreenScraper" date="20231106T061146" />
+	</game>
+	<game id="81969">
+		<path>./No-Intro/Barbie - Aventura Submarina (Spain) (GB Compatible).gbc</path>
+		<name>Barbie - Ocean Discovery</name>
+		<desc>Take control of Barbie, a marine biologist, as she explores an underwater world full of mini-games and activities to complete her quest and assemble the final treasure map. Guide her through 9 different maps collecting puzzle pieces along the way by finishing various mini-games such as a pong type game, a puzzle slider, a Kaboom style cannonball catcher and more. Interact with the various aquatic life in the maps and watch them swim around in interesting patterns.</desc>
+		<image>./images/Barbie - Aventura Submarina (Spain) (GB Compatible)-image.png</image>
+		<video>./videos/Barbie - Aventura Submarina (Spain) (GB Compatible)-video.mp4</video>
+		<marquee>./images/Barbie - Aventura Submarina (Spain) (GB Compatible)-marquee.png</marquee>
+		<thumbnail>./images/Barbie - Aventura Submarina (Spain) (GB Compatible)-thumb.png</thumbnail>
+		<rating>0.4</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Realtime Associates</developer>
+		<publisher>Mattel Electronics</publisher>
+		<genre>Action / Adventure</genre>
+		<family>Barbie</family>
+		<players>1</players>
+		<md5>28dd8318bd521b42243af4546062ecab</md5>
+		<lang>es</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T061156" />
+	</game>
+	<game id="81969">
+		<path>./No-Intro/Barbie - Avventure nell'Oceano (Italy) (GB Compatible).gbc</path>
+		<name>Barbie - Ocean Discovery</name>
+		<desc>Take control of Barbie, a marine biologist, as she explores an underwater world full of mini-games and activities to complete her quest and assemble the final treasure map. Guide her through 9 different maps collecting puzzle pieces along the way by finishing various mini-games such as a pong type game, a puzzle slider, a Kaboom style cannonball catcher and more. Interact with the various aquatic life in the maps and watch them swim around in interesting patterns.</desc>
+		<image>./images/Barbie - Avventure nell'Oceano (Italy) (GB Compatible)-image.png</image>
+		<video>./videos/Barbie - Avventure nell'Oceano (Italy) (GB Compatible)-video.mp4</video>
+		<marquee>./images/Barbie - Avventure nell'Oceano (Italy) (GB Compatible)-marquee.png</marquee>
+		<thumbnail>./images/Barbie - Avventure nell'Oceano (Italy) (GB Compatible)-thumb.png</thumbnail>
+		<rating>0.4</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Realtime Associates</developer>
+		<publisher>Mattel Electronics</publisher>
+		<genre>Action / Adventure</genre>
+		<family>Barbie</family>
+		<players>1</players>
+		<md5>8565f7b388a1741fe41a8c972d95869e</md5>
+		<lang>it</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T061206" />
+	</game>
+	<game id="81969">
+		<path>./No-Intro/Barbie - Chasse au Tresor Sous-Marine (France) (GB Compatible).gbc</path>
+		<name>Barbie : Chasse au Trésor Sous-Marine</name>
+		<desc>Take control of Barbie, a marine biologist, as she explores an underwater world full of mini-games and activities to complete her quest and assemble the final treasure map. Guide her through 9 different maps collecting puzzle pieces along the way by finishing various mini-games such as a pong type game, a puzzle slider, a Kaboom style cannonball catcher and more. Interact with the various aquatic life in the maps and watch them swim around in interesting patterns.</desc>
+		<image>./images/Barbie - Chasse au Tresor Sous-Marine (France) (GB Compatible)-image.png</image>
+		<video>./videos/Barbie - Chasse au Tresor Sous-Marine (France) (GB Compatible)-video.mp4</video>
+		<marquee>./images/Barbie - Chasse au Tresor Sous-Marine (France) (GB Compatible)-marquee.png</marquee>
+		<thumbnail>./images/Barbie - Chasse au Tresor Sous-Marine (France) (GB Compatible)-thumb.png</thumbnail>
+		<rating>0.4</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Realtime Associates</developer>
+		<publisher>Mattel Electronics</publisher>
+		<genre>Action / Adventure</genre>
+		<family>Barbie</family>
+		<players>1</players>
+		<md5>21d99fb62922e3538c0b11749a7db8e4</md5>
+		<lang>fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T061216" />
+	</game>
+	<game id="81969">
+		<path>./No-Intro/Barbie - Diepzee Avontuur (Netherlands) (GB Compatible).gbc</path>
+		<name>Barbie - Ocean Discovery</name>
+		<desc>Take control of Barbie, a marine biologist, as she explores an underwater world full of mini-games and activities to complete her quest and assemble the final treasure map. Guide her through 9 different maps collecting puzzle pieces along the way by finishing various mini-games such as a pong type game, a puzzle slider, a Kaboom style cannonball catcher and more. Interact with the various aquatic life in the maps and watch them swim around in interesting patterns.</desc>
+		<image>./images/Barbie - Diepzee Avontuur (Netherlands) (GB Compatible)-image.png</image>
+		<video>./videos/Barbie - Diepzee Avontuur (Netherlands) (GB Compatible)-video.mp4</video>
+		<marquee>./images/Barbie - Diepzee Avontuur (Netherlands) (GB Compatible)-marquee.png</marquee>
+		<thumbnail>./images/Barbie - Diepzee Avontuur (Netherlands) (GB Compatible)-thumb.png</thumbnail>
+		<rating>0.4</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Realtime Associates</developer>
+		<publisher>Mattel Electronics</publisher>
+		<genre>Action / Adventure</genre>
+		<family>Barbie</family>
+		<players>1</players>
+		<md5>cc130e8228a37ecc3d38f7f34aafedaa</md5>
+		<lang>nl</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T061227" />
+	</game>
+	<game id="81969">
+		<path>./No-Intro/Barbie - Meeres Abenteuer (Germany) (GB Compatible).gbc</path>
+		<name>Barbie - Ocean Discovery</name>
+		<desc>Take control of Barbie, a marine biologist, as she explores an underwater world full of mini-games and activities to complete her quest and assemble the final treasure map. Guide her through 9 different maps collecting puzzle pieces along the way by finishing various mini-games such as a pong type game, a puzzle slider, a Kaboom style cannonball catcher and more. Interact with the various aquatic life in the maps and watch them swim around in interesting patterns.</desc>
+		<image>./images/Barbie - Meeres Abenteuer (Germany) (GB Compatible)-image.png</image>
+		<video>./videos/Barbie - Meeres Abenteuer (Germany) (GB Compatible)-video.mp4</video>
+		<marquee>./images/Barbie - Meeres Abenteuer (Germany) (GB Compatible)-marquee.png</marquee>
+		<thumbnail>./images/Barbie - Meeres Abenteuer (Germany) (GB Compatible)-thumb.png</thumbnail>
+		<rating>0.4</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Realtime Associates</developer>
+		<publisher>Mattel Electronics</publisher>
+		<genre>Action / Adventure</genre>
+		<family>Barbie</family>
+		<players>1</players>
+		<md5>ce1b3efd190f51e089bec904e92a5f01</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T061238" />
+	</game>
+	<game id="81969">
+		<path>./No-Intro/Barbie - Ocean Discovery (United Kingdom) (GB Compatible).gbc</path>
+		<name>Barbie - Ocean Discovery</name>
+		<desc>Take control of Barbie, a marine biologist, as she explores an underwater world full of mini-games and activities to complete her quest and assemble the final treasure map. Guide her through 9 different maps collecting puzzle pieces along the way by finishing various mini-games such as a pong type game, a puzzle slider, a Kaboom style cannonball catcher and more. Interact with the various aquatic life in the maps and watch them swim around in interesting patterns.</desc>
+		<image>./images/Barbie - Ocean Discovery (United Kingdom) (GB Compatible)-image.png</image>
+		<video>./videos/Barbie - Ocean Discovery (United Kingdom) (GB Compatible)-video.mp4</video>
+		<marquee>./images/Barbie - Ocean Discovery (United Kingdom) (GB Compatible)-marquee.png</marquee>
+		<thumbnail>./images/Barbie - Ocean Discovery (United Kingdom) (GB Compatible)-thumb.png</thumbnail>
+		<rating>0.4</rating>
+		<releasedate>19990501T000000</releasedate>
+		<developer>Realtime Associates</developer>
+		<publisher>Mattel Electronics</publisher>
+		<genre>Action / Adventure</genre>
+		<family>Barbie</family>
+		<players>1</players>
+		<md5>0d4f6b00b4a1b047ef13a91537f7314a</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231106T061249" />
+	</game>
+	<game id="36865">
+		<path>./No-Intro/Barbie - Pet Rescue (Europe) (En,Fr,De,Es,It).gbc</path>
+		<name>Barbie : Pet Rescue</name>
+		<desc>Barbie Pet Rescue lets kids play with and care for a variety of domesticated animals. Visit Barbie and her kid sister Stacey at the Pet Rescue Center, where you'll wait for rescue missions, explore in the playrooms, or tend to pets in the Care Center.
+
+Rescue missions come in over the phone or via e-mail; after learning which pet is missing where, travel with Barbie on her scooter to one of three different environments in which to search for one of eight lost pets. In many missions, you'll have to figure out how to entice scared animals to come to you, or how to retrieve pets trapped in trees or other sticky situations. If you get stuck yourself, Barbie will give you hints. With each successful mission, you'll receive a printable Paw &amp; Purr Award that hangs on the Pet Rescue Center wall.
+
+Rescued pets come back to the Pet Rescue Center with you and Barbie to wait for their owners and receive a little TLC. Nurse them back to health in the Care Center, where you'll give recovered pets water, treats, vitamins and grooming. You may also need to bandage a hurt leg or pick burrs from ruffled fur. After creating a file for them in the computer and giving them a name you select from a list of suggestions, the animals go to one of two playrooms to wait for their owners.
+
+In the meantime, you can play with them, plus all the other pets already in the playroom--a kitten, bunny, hamster, puppy, and a turtle. Select which animal you'd like to pet, then use the cursor to stroke an animal's head or back or scratch it under the chin. The animals respond to your attention by licking, rolling over, purring, or barking.
+ 
+There is a related mini-game for each kind of animal--Kitten Keepaway, Puppy Treat Toss, Hamster Trail, etc.--and if you do well enough, you'll see the animal perform a special trick. A few of the games require the use of logic and spatial aptitude, but for the most part they challenge the players' mouse mastery and hand-eye coordination.</desc>
+		<image>./images/Barbie - Pet Rescue (Europe) (En,Fr,De,Es,It)-image.png</image>
+		<video>./videos/Barbie - Pet Rescue (Europe) (En,Fr,De,Es,It)-video.mp4</video>
+		<marquee>./images/Barbie - Pet Rescue (Europe) (En,Fr,De,Es,It)-marquee.png</marquee>
+		<thumbnail>./images/Barbie - Pet Rescue (Europe) (En,Fr,De,Es,It)-thumb.png</thumbnail>
+		<manual>./manuals/Barbie - Pet Rescue (Europe) (En,Fr,De,Es,It)-manual.pdf</manual>
+		<rating>0.25</rating>
+		<releasedate>20010815T000000</releasedate>
+		<developer>HotGen Studios</developer>
+		<publisher>Mattel Electronics</publisher>
+		<genre>Adventure</genre>
+		<family>Barbie</family>
+		<players>1</players>
+		<md5>dccb2adec6b97ac35614414a427abdbb</md5>
+		<lang>de,en,es,fr,it</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T061303" />
+	</game>
+	<game id="37153">
+		<path>./No-Intro/Barca Total 2000 (Europe) (En,Fr,De,Es,It,Nl,Ca).gbc</path>
+		<name>O'Leary Manager 2000</name>
+		<desc>In 2000 Ubi Soft released two David O'Leary-licensed games. One, David O'Leary's Total Soccer 2000,  based on the PC game with the same name. The other one was a manager game, O'Leary Manager 2000.
+
+The gameplay in O'Leary Manager 2000 is not only about the management aspects of football. It's a bit similar to Sensible World of Soccer, as you can play not only as the manager but also the player. This rendered using an top-down view similar to many Amiga games from the early nineties.
+
+In total there is 240 licensed teams from the top two divisions in six European countries. As the manager you get to lay up training schedules, buy and sell players, pick the right players for the right tactics, and a lot of statistics. The game handles matches in three different ways, playing them, watching them or a text-based interface similar to Championship Manager, but with highlights shown in the top-down view. If you don't want to play through the whole season, you can play single matches against the AI or another player. The manager mode also supports multiple players.</desc>
+		<image>./images/Barca Total 2000 (Europe) (En,Fr,De,Es,It,Nl,Ca)-image.png</image>
+		<video>./videos/Barca Total 2000 (Europe) (En,Fr,De,Es,It,Nl,Ca)-video.mp4</video>
+		<marquee>./images/Barca Total 2000 (Europe) (En,Fr,De,Es,It,Nl,Ca)-marquee.png</marquee>
+		<thumbnail>./images/Barca Total 2000 (Europe) (En,Fr,De,Es,It,Nl,Ca)-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>20000101T000000</releasedate>
+		<developer>LiveMedia UK</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Sports / Soccer</genre>
+		<players>1</players>
+		<md5>522910c5daf605b45745fa97cda41f84</md5>
+		<lang>de,en,es,fr,it,nl</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T061313" />
+	</game>
+	<game id="81982">
+		<path>./No-Intro/Barcode Taisen Bardigun (Japan) (Rev 1) (SGB Enhanced) (GB Compatible).gbc</path>
+		<name>Barcode Taisen Bardigun</name>
+		<desc>Barcode Taisen Bardigun is a Role-Playing game developed by Graphic Research and published by Tamsoft for the Game Boy Color. Barcode Taisen Bardigun was only released in Japan.
+
+Players start off in Barcode Taisen Bardigun with a short cutscene. After the cutscene is over the player then gets to choose to be either the male or the female character.
+
+Players scan cards in order to get new monsters and power ups. These monsters are raised by the players and can be used in battles.</desc>
+		<image>./images/Barcode Taisen Bardigun (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)-image.png</image>
+		<marquee>./images/Barcode Taisen Bardigun (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)-marquee.png</marquee>
+		<thumbnail>./images/Barcode Taisen Bardigun (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)-thumb.png</thumbnail>
+		<releasedate>19981211T000000</releasedate>
+		<developer>Graphic Research</developer>
+		<publisher>Tam</publisher>
+		<genre>Role playing games</genre>
+		<md5>a28184f9cd3f24e67c3fb5d84b3aa78b</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T061321" />
+	</game>
+	<game id="81982">
+		<path>./No-Intro/Barcode Taisen Bardigun (Japan) (SGB Enhanced) (GB Compatible).gbc</path>
+		<name>Barcode Taisen Bardigun</name>
+		<desc>Barcode Taisen Bardigun is a Role-Playing game developed by Graphic Research and published by Tamsoft for the Game Boy Color. Barcode Taisen Bardigun was only released in Japan.
+
+Players start off in Barcode Taisen Bardigun with a short cutscene. After the cutscene is over the player then gets to choose to be either the male or the female character.
+
+Players scan cards in order to get new monsters and power ups. These monsters are raised by the players and can be used in battles.</desc>
+		<image>./images/Barcode Taisen Bardigun (Japan) (SGB Enhanced) (GB Compatible)-image.png</image>
+		<marquee>./images/Barcode Taisen Bardigun (Japan) (SGB Enhanced) (GB Compatible)-marquee.png</marquee>
+		<thumbnail>./images/Barcode Taisen Bardigun (Japan) (SGB Enhanced) (GB Compatible)-thumb.png</thumbnail>
+		<releasedate>19981211T000000</releasedate>
+		<developer>Graphic Research</developer>
+		<publisher>Tam</publisher>
+		<genre>Role playing games</genre>
+		<md5>00ca1749b004d4c38cdfc884bd547f72</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T061329" />
+	</game>
+	<game id="82523">
+		<path>./No-Intro/Batman - Chaos in Gotham (Europe) (En,Fr,De,Es,It,Nl).gbc</path>
+		<name>The New Batman Adventures : Chaos in Gotham</name>
+		<desc>The Batman returns on Game Boy Color with BATMAN: Chaos in Gotham City. Based on the popular animated BATMAN series, this single-player action game allows you to don the cowl of one of two Bat-heroes: Batman or Batgirl. Some of the Dark Knight's famous arch-villains have escaped and are causing serious trouble in Gotham, and it's up to you to put them back where they belong. Everyone from Poison Ivy to the Clown Prince of Crime the Joker himself is here to wreak havoc and keep the caped crusader busy. Grab your utility belt and assault 18 stages of varied action that take you on a tour of Gotham City. Much of the action is played from a side-scrolling perspective, but some levels have you taking out the Batmobile or the Batcycle in overhead high-speed excitement. Naturally, Batman and Batgirl are both packing their usual assortment of weapons and tools including the Batarang, the grappling hook, smoke bombs, and more.</desc>
+		<image>./images/Batman - Chaos in Gotham (Europe) (En,Fr,De,Es,It,Nl)-image.png</image>
+		<video>./videos/Batman - Chaos in Gotham (Europe) (En,Fr,De,Es,It,Nl)-video.mp4</video>
+		<marquee>./images/Batman - Chaos in Gotham (Europe) (En,Fr,De,Es,It,Nl)-marquee.png</marquee>
+		<thumbnail>./images/Batman - Chaos in Gotham (Europe) (En,Fr,De,Es,It,Nl)-thumb.png</thumbnail>
+		<rating>0.6</rating>
+		<releasedate>20010101T000000</releasedate>
+		<developer>Digital Eclipse</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Action</genre>
+		<family>Batman</family>
+		<players>1</players>
+		<md5>4b64f2a44700d5bf9dc0a25a64a9ebb0</md5>
+		<lang>de,en,es,fr,it,nl</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T061340" />
+	</game>
+	<game id="36868">
+		<path>./No-Intro/Batman Beyond - Return of the Joker (Japan) (NP).gbc</path>
+		<name>Batman Beyond : Return of the Joker</name>
+		<desc>Based off the movie, Batman Beyond puts the player on the streets of Gotham (Beyond) to take out the ever-grinning Joker, but before that an obvious long line of his evil minions - some of which are genetically engineered.
+
+Scroll around, punch, kick, play with bat-weapons, and avoid being on the receiving end of those attacks. There are multiple 'bat suits' that you can choose from, each with their own special abilities and purposes.
+
+Mostly a 3-D beat-the-living-sunshine-out-of-whatever-moves type.</desc>
+		<image>./images/Batman Beyond - Return of the Joker (Japan) (NP)-image.png</image>
+		<video>./videos/Batman Beyond - Return of the Joker (Japan) (NP)-video.mp4</video>
+		<marquee>./images/Batman Beyond - Return of the Joker (Japan) (NP)-marquee.png</marquee>
+		<thumbnail>./images/Batman Beyond - Return of the Joker (Japan) (NP)-thumb.png</thumbnail>
+		<fanart>./images/Batman Beyond - Return of the Joker (Japan) (NP)-fanart.jpg</fanart>
+		<rating>0.5</rating>
+		<releasedate>20010508T000000</releasedate>
+		<developer>Kemco</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Fight</genre>
+		<family>Batman</family>
+		<players>1</players>
+		<md5>cdf275a96518efd2236f0bbb5321c0e3</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T061351" />
+	</game>
+	<game id="36868">
+		<path>./No-Intro/Batman of the Future - Return of the Joker (Europe) (En,Fr,De).gbc</path>
+		<name>Batman of the Future : Return of the Joker</name>
+		<desc>Based off the movie, Batman Beyond puts the player on the streets of Gotham (Beyond) to take out the ever-grinning Joker, but before that an obvious long line of his evil minions - some of which are genetically engineered.
+
+Scroll around, punch, kick, play with bat-weapons, and avoid being on the receiving end of those attacks. There are multiple 'bat suits' that you can choose from, each with their own special abilities and purposes.
+
+Mostly a 3-D beat-the-living-sunshine-out-of-whatever-moves type.</desc>
+		<image>./images/Batman of the Future - Return of the Joker (Europe) (En,Fr,De)-image.png</image>
+		<video>./videos/Batman of the Future - Return of the Joker (Europe) (En,Fr,De)-video.mp4</video>
+		<marquee>./images/Batman of the Future - Return of the Joker (Europe) (En,Fr,De)-marquee.png</marquee>
+		<thumbnail>./images/Batman of the Future - Return of the Joker (Europe) (En,Fr,De)-thumb.png</thumbnail>
+		<fanart>./images/Batman of the Future - Return of the Joker (Europe) (En,Fr,De)-fanart.jpg</fanart>
+		<rating>0.5</rating>
+		<releasedate>20001101T000000</releasedate>
+		<developer>Kemco</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Fight</genre>
+		<family>Batman</family>
+		<players>1</players>
+		<md5>19cd9d45c6bb221613101b22c72593b2</md5>
+		<lang>de,en,fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T061403" />
+	</game>
+	<game id="81985">
+		<path>./No-Intro/Battle Fishers (Japan).gbc</path>
+		<name>Gakuen Battle Fishers - Yoky Shiimono Wa Tsure</name>
+		<desc>The objective of the game is to graduate from the school by defeating the principal in a fishing competition. Play fishing matches against rivals and clear various events to collect lures.</desc>
+		<image>./images/Battle Fishers (Japan)-image.png</image>
+		<marquee>./images/Battle Fishers (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Battle Fishers (Japan)-thumb.png</thumbnail>
+		<releasedate>20000330T000000</releasedate>
+		<developer>Konami Computer Entertainment Nagoya</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<md5>2376c643827d665e9883ffd1b5ac5b37</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T061411" />
+	</game>
+	<game>
+		<path>./No-Intro/Battle Star (World) (Aftermarket) (Unl).gbc</path>
+		<name>Battle Star (World) (Aftermarket) (Unl)</name>
+		<md5>9eccd7d587ce52ebf90722dac7fb1eac</md5>
+		<scrap name="ScreenScraper" date="20231106T061413" />
+	</game>
+	<game id="36869">
+		<path>./No-Intro/BattleTanx (Europe) (En,Fr,De).gbc</path>
+		<name>BattleTanx</name>
+		<desc>Mission based tank shooter game set in the post-apocalyptic future; fight through single-player campaign levels based in U.S. cities against multitudes of gangs with their own tanks and heavy firepower.
+
+The game has a large multiplayer component, allowing up to 4 players at once, with or without teams, AI opponents, and in several gameplay styles, including a standard deathmatch and a capture-the-flag style game.</desc>
+		<image>./images/BattleTanx (Europe) (En,Fr,De)-image.png</image>
+		<video>./videos/BattleTanx (Europe) (En,Fr,De)-video.mp4</video>
+		<marquee>./images/BattleTanx (Europe) (En,Fr,De)-marquee.png</marquee>
+		<thumbnail>./images/BattleTanx (Europe) (En,Fr,De)-thumb.png</thumbnail>
+		<fanart>./images/BattleTanx (Europe) (En,Fr,De)-fanart.jpg</fanart>
+		<rating>0.6</rating>
+		<releasedate>20000301T000000</releasedate>
+		<developer>Lucky Chicken Games, Inc.</developer>
+		<publisher>3DO</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<md5>4b146ce804a9b9c90467742508a67b5f</md5>
+		<lang>de,en,fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T061426" />
+	</game>
+	<game id="81989">
+		<path>./No-Intro/Beach'n Ball (Europe) (En,Fr,De,Es,It) (Beta) (2000-11-21).gbc</path>
+		<name>Beach'n Ball</name>
+		<desc>Put on some sunscreen and head to the sand for action. Play as 20 different pros, including beach legend Gabrielle Reece. In addition to the professional competition, you can also experience playing in: Osaka, Rio de Janeiro, New York, Los Angeles, and other exotic locales. Play a Single Match to get some quick action, or try to win it all in the Championship mode. Remember, advancing through the Championship mode will teach you how to perform super moves that can give you a big advantage. If your friends give you a hard time about your style of play, kick sand in their faces with the Two-Player mode. If you think you have what it takes to spike your way to king of the beach, play POWER SPIKE PRO BEACH VOLLEYBALL.</desc>
+		<image>./images/Beach'n Ball (Europe) (En,Fr,De,Es,It) (Beta) (2000-11-21)-image.png</image>
+		<video>./videos/Beach'n Ball (Europe) (En,Fr,De,Es,It) (Beta) (2000-11-21)-video.mp4</video>
+		<marquee>./images/Beach'n Ball (Europe) (En,Fr,De,Es,It) (Beta) (2000-11-21)-marquee.png</marquee>
+		<thumbnail>./images/Beach'n Ball (Europe) (En,Fr,De,Es,It) (Beta) (2000-11-21)-thumb.png</thumbnail>
+		<releasedate>20010515T000000</releasedate>
+		<developer>Spark</developer>
+		<publisher>Infogrames</publisher>
+		<genre>Sports / Volleyball</genre>
+		<players>1-2</players>
+		<md5>89de6d072a545f21fb6390f3b9e007d9</md5>
+		<lang>de,en,es,fr,it</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T061437" />
+	</game>
+	<game id="81989">
+		<path>./No-Intro/Beach'n Ball (Europe) (En,Fr,De,Es,It).gbc</path>
+		<name>Beach'n Ball</name>
+		<desc>Put on some sunscreen and head to the sand for action. Play as 20 different pros, including beach legend Gabrielle Reece. In addition to the professional competition, you can also experience playing in: Osaka, Rio de Janeiro, New York, Los Angeles, and other exotic locales. Play a Single Match to get some quick action, or try to win it all in the Championship mode. Remember, advancing through the Championship mode will teach you how to perform super moves that can give you a big advantage. If your friends give you a hard time about your style of play, kick sand in their faces with the Two-Player mode. If you think you have what it takes to spike your way to king of the beach, play POWER SPIKE PRO BEACH VOLLEYBALL.</desc>
+		<image>./images/Beach'n Ball (Europe) (En,Fr,De,Es,It)-image.png</image>
+		<video>./videos/Beach'n Ball (Europe) (En,Fr,De,Es,It)-video.mp4</video>
+		<marquee>./images/Beach'n Ball (Europe) (En,Fr,De,Es,It)-marquee.png</marquee>
+		<thumbnail>./images/Beach'n Ball (Europe) (En,Fr,De,Es,It)-thumb.png</thumbnail>
+		<releasedate>20010515T000000</releasedate>
+		<developer>Spark</developer>
+		<publisher>Infogrames</publisher>
+		<genre>Sports / Volleyball</genre>
+		<players>1-2</players>
+		<md5>576e3a9d7da60439c8fb28c81b56fe5a</md5>
+		<lang>de,en,es,fr,it</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T061448" />
+	</game>
+	<game id="82996">
+		<path>./No-Intro/Beast Fighter (Taiwan) (En) (Sachen) (Unl).gbc</path>
+		<name>Beast Fighter</name>
+		<desc>Beast Fighter is a kaiju-themed scrolling action game for handheld systems.</desc>
+		<thumbnail>./images/Beast Fighter (Taiwan) (En) (Sachen) (Unl)-thumb.png</thumbnail>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>a1d7687a557dd2a3948c9f498703f4a3</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231106T061452" />
+	</game>
+	<game id="81991">
+		<path>./No-Intro/Beatmania GB (Japan) (SGB Enhanced) (GB Compatible).gbc</path>
+		<name>Beatmania GB</name>
+		<desc>A port of the action game where you have to press the buttons in time to the rhythm. Original songs have been added, and you can play against other players using the communication cable.</desc>
+		<image>./images/Beatmania GB (Japan) (SGB Enhanced) (GB Compatible)-image.png</image>
+		<video>./videos/Beatmania GB (Japan) (SGB Enhanced) (GB Compatible)-video.mp4</video>
+		<marquee>./images/Beatmania GB (Japan) (SGB Enhanced) (GB Compatible)-marquee.png</marquee>
+		<thumbnail>./images/Beatmania GB (Japan) (SGB Enhanced) (GB Compatible)-thumb.png</thumbnail>
+		<releasedate>19990311T000000</releasedate>
+		<developer>KCEK</developer>
+		<publisher>Konami</publisher>
+		<genre>Music and Dance / Rhythm</genre>
+		<family>Beatmania</family>
+		<md5>e7c022031cb882912e81970eb63d4f61</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T061502" />
+	</game>
+	<game id="81992">
+		<path>./No-Intro/Beatmania GB - Gotcha Mix 2 (Japan).gbc</path>
+		<name>Beatmania GB : Gotcha Mix 2</name>
+		<desc>The familiar musical action of pressing the right buttons at the right time to match the falling bars. More than 20 songs are included in the game, mainly major songs that everyone knows.</desc>
+		<image>./images/Beatmania GB - Gotcha Mix 2 (Japan)-image.png</image>
+		<video>./videos/Beatmania GB - Gotcha Mix 2 (Japan)-video.mp4</video>
+		<marquee>./images/Beatmania GB - Gotcha Mix 2 (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Beatmania GB - Gotcha Mix 2 (Japan)-thumb.png</thumbnail>
+		<releasedate>20000928T000000</releasedate>
+		<developer>KCEJ</developer>
+		<publisher>Konami</publisher>
+		<genre>Music and Dance / Rhythm</genre>
+		<family>Beatmania</family>
+		<md5>490cf7b762f7b735f249c3a3107c3e55</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T061513" />
+	</game>
+	<game>
+		<path>./No-Intro/Beatmania GB 2 - Gotcha Mix (Japan) (SGB Enhanced) (GB Compatible).gbc</path>
+		<name>Beatmania GB 2 - Gotcha Mix (Japan) (SGB Enhanced) (GB Compatible)</name>
+		<md5>25f20cdc0f6f70d0bc5430a9b0d48742</md5>
+	</game>
 </gameList>
