@@ -36298,9 +36298,2626 @@ This game is based on the anime Tottoko Hamtaro, created by Ritsuko Kawai.</desc
 		<region>eu</region>
 		<scrap name="ScreenScraper" date="20231106T092350" />
 	</game>
-	<game>
+	<game id="82903">
 		<path>./No-Intro/Trickboarder GP (Japan).gbc</path>
-		<name>Trickboarder GP (Japan)</name>
+		<name>Trickboarder GP</name>
+		<desc>Send yourself speeding down a hill to claim first place in TRICK BOARDER. Choose from eight snowboarders, each with different attributes. Learn how to navigate all nine tracks and set speed records in the Time Trial mode. When you want to compete, try to claim the championship in the Grand Prix mode, where you earn points by finishing well on all nine tracks. If you have friends that are into snowboarding, you can challenge them to a race via the link cable. No matter what mode you play, you must keep an eye out for obstacles, or you will lose precious speed and time. Luckily, you can pick up icons that will give you turbo boosts, and you can perform tricks or go through slalom gates that will award additional speed boosts as well. Work your way through the ranks to become a snowboarding champion in TRICK BOARDER.</desc>
+		<image>./images/Trickboarder GP (Japan)-image.png</image>
+		<video>./videos/Trickboarder GP (Japan)-video.mp4</video>
+		<marquee>./images/Trickboarder GP (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Trickboarder GP (Japan)-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>20000331T000000</releasedate>
+		<developer>Natsume</developer>
+		<publisher>Natsume</publisher>
+		<genre>Sports / Skiing</genre>
+		<players>1-2</players>
 		<md5>e6a4ef193f15c78fa2463a693bfb0928</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T202150" />
+	</game>
+	<game>
+		<path>./No-Intro/Trouble City - Pocket Mission (World) (GB Compatible) (Aftermarket) (Unl).gbc</path>
+		<name>Trouble City - Pocket Mission (World) (GB Compatible) (Aftermarket) (Unl)</name>
+		<md5>fac7b33c7d7d3b92e39dfd325e9c7f9a</md5>
+		<scrap name="ScreenScraper" date="20231106T202152" />
+	</game>
+	<game id="369364">
+		<path>./No-Intro/True Color 25 in 1 (Taiwan) (Unl).gbc</path>
+		<name>True Color 25 in 1</name>
+		<md5>72e653c065ff90b33f77cffa78ebb11d</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231106T202154" />
+	</game>
+	<game id="82905">
+		<path>./No-Intro/Tsuri Sensei 2 (Japan) (SGB Enhanced) (GB Compatible).gbc</path>
+		<name>Tsuri Sensei 2</name>
+		<desc>An RPG in which players explore an island while gathering information in order to catch a mysterious fish. The fish you catch are recorded in a picture book.</desc>
+		<image>./images/Tsuri Sensei 2 (Japan) (SGB Enhanced) (GB Compatible)-image.png</image>
+		<marquee>./images/Tsuri Sensei 2 (Japan) (SGB Enhanced) (GB Compatible)-marquee.png</marquee>
+		<thumbnail>./images/Tsuri Sensei 2 (Japan) (SGB Enhanced) (GB Compatible)-thumb.png</thumbnail>
+		<releasedate>19990723T000000</releasedate>
+		<developer>J-Wing</developer>
+		<publisher>J-Wing</publisher>
+		<genre>Hunting and Fishing / Fishing</genre>
+		<md5>8c188939044778f311bdaf2bc9aca076</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T202203" />
+	</game>
+	<game id="82906">
+		<path>./No-Intro/Tsuriiko!! (Japan).gbc</path>
+		<name>Tsuriiko!!</name>
+		<desc>The fish are attracted and fished by aligning the cursor with the target point, throwing the lure into the water, and then hitting it repeatedly. This software pursues the enjoyment of fishing with simple operations.</desc>
+		<image>./images/Tsuriiko!! (Japan)-image.png</image>
+		<marquee>./images/Tsuriiko!! (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Tsuriiko!! (Japan)-thumb.png</thumbnail>
+		<releasedate>20010719T000000</releasedate>
+		<developer>ASCII Corporation</developer>
+		<publisher>ASCII Corporation</publisher>
+		<genre>Hunting and Fishing / Fishing</genre>
+		<md5>aa1bf5ff55e7106b496850e3c6cf7c14</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T202214" />
+	</game>
+	<game>
+		<path>./No-Intro/Turok 2 - Jikku Senshi (Japan) (GB Compatible).gbc</path>
+		<name>Turok 2 - Jikku Senshi (Japan) (GB Compatible)</name>
+		<md5>9253aae0d9257d82f52d879813cf3c19</md5>
+		<scrap name="ScreenScraper" date="20231106T202215" />
+	</game>
+	<game>
+		<path>./No-Intro/Tutti Frutti (World) (Aftermarket) (Unl).gbc</path>
+		<name>Tutti Frutti (World) (Aftermarket) (Unl)</name>
+		<md5>73fca5b16e5d4d746ecabb8a9489cf48</md5>
+		<scrap name="ScreenScraper" date="20231106T202217" />
+	</game>
+	<game id="200467">
+		<path>./No-Intro/Tutty (Europe) (Demo).gbc</path>
+		<name>ZZZ(notgame):Tutty</name>
+		<image>./images/Tutty (Europe) (Demo)-image.png</image>
+		<hidden>true</hidden>
+		<md5>b0d0b548a21729dc64aa40fda75f3027</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T202221" />
+	</game>
+	<game>
+		<path>./No-Intro/TV-Chan's Great Escape! (World) (Proto) (GB Compatible) (Aftermarket) (Unl).gbc</path>
+		<name>TV-Chan's Great Escape! (World) (Proto) (GB Compatible) (Aftermarket) (Unl)</name>
+		<md5>99ff6f711e458726eac291d560c82d10</md5>
+		<scrap name="ScreenScraper" date="20231106T202222" />
+	</game>
+	<game id="82911">
+		<path>./No-Intro/Tweenies - Doodles' Bones (Europe) (En,De,Es,It).gbc</path>
+		<name>Tweenies : Doodles' Bones</name>
+		<desc>Doodles has lost his bones! Max has made a map showing where all Doodles' bones are buried but the map has been torn up and all the pieces lost!
+
+Complete exciting games and puzzles with the Tweenies to find the missing pieces of treasure map. Once you have all the pieces, help Doodles use the map to locate his buried bones in the garden and celebrate his success along with the Tweenies.
+
+- Four fantasy world platform game levels
+- Five puzzle levels
+- All games and puzzles have Easy, Medium and Hard levels</desc>
+		<image>./images/Tweenies - Doodles' Bones (Europe) (En,De,Es,It)-image.png</image>
+		<video>./videos/Tweenies - Doodles' Bones (Europe) (En,De,Es,It)-video.mp4</video>
+		<marquee>./images/Tweenies - Doodles' Bones (Europe) (En,De,Es,It)-marquee.png</marquee>
+		<thumbnail>./images/Tweenies - Doodles' Bones (Europe) (En,De,Es,It)-thumb.png</thumbnail>
+		<releasedate>20011019T000000</releasedate>
+		<developer>Tell-Tale Production</developer>
+		<publisher>BBC Multimedia</publisher>
+		<genre>Platform</genre>
+		<md5>1ba7a470a32664d5f68f4310680d8426</md5>
+		<lang>de,en,es,it</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T202229" />
+	</game>
+	<game id="82911">
+		<path>./No-Intro/Tweenies - Doodles' Bones (Europe) (En,Nl,Sv,No,Da).gbc</path>
+		<name>Tweenies : Doodles' Bones</name>
+		<desc>Doodles has lost his bones! Max has made a map showing where all Doodles' bones are buried but the map has been torn up and all the pieces lost!
+
+Complete exciting games and puzzles with the Tweenies to find the missing pieces of treasure map. Once you have all the pieces, help Doodles use the map to locate his buried bones in the garden and celebrate his success along with the Tweenies.
+
+- Four fantasy world platform game levels
+- Five puzzle levels
+- All games and puzzles have Easy, Medium and Hard levels</desc>
+		<image>./images/Tweenies - Doodles' Bones (Europe) (En,Nl,Sv,No,Da)-image.png</image>
+		<video>./videos/Tweenies - Doodles' Bones (Europe) (En,Nl,Sv,No,Da)-video.mp4</video>
+		<marquee>./images/Tweenies - Doodles' Bones (Europe) (En,Nl,Sv,No,Da)-marquee.png</marquee>
+		<thumbnail>./images/Tweenies - Doodles' Bones (Europe) (En,Nl,Sv,No,Da)-thumb.png</thumbnail>
+		<releasedate>20011019T000000</releasedate>
+		<developer>Tell-Tale Production</developer>
+		<publisher>BBC Multimedia</publisher>
+		<genre>Platform</genre>
+		<md5>6c34052ae5e516f8737982cb93a0845c</md5>
+		<lang>no,en,nl</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T202238" />
+	</game>
+	<game id="82913">
+		<path>./No-Intro/Tweety Sekaiisshuu - 80 Hiki no Neko o Sagase! (Japan).gbc</path>
+		<name>Tweety Sekai Isshuu: 80-Hiki no Sagase</name>
+		<desc>Are you ready to knock out some bad 'ol puttytats? You had better be ready for action if you want to survive the frantic, side-scrolling mayhem of TWEETY'S HIGH-FLYING ADVENTURE for the Game Boy Color. You play as the lovable Tweety Bird in an adventure to save an endangered orphanage. In an animated take on AROUND THE WORLD IN 80 DAYS, you travel to 10 different locales and collect pawprints from 80 cats spread across exotic foreign cities. You'll need to bop these kitty cats with weapons and power-ups like spatulas, plunger guns, oil slicks, banana peels, and more. Just be careful to avoid chomping plants, squirmy worms, bugs, bees, and butterflies along the way. Lola Bunny updates the action with humorous newscasts between levels as you run, jump, and fly your way to victory. You'll need quick, button-smashing reflexes and platform-hopping skills of the highest degree to save the kids in TWEETY'S HIGH-FLYING ADVENTURE.</desc>
+		<image>./images/Tweety Sekaiisshuu - 80 Hiki no Neko o Sagase! (Japan)-image.png</image>
+		<video>./videos/Tweety Sekaiisshuu - 80 Hiki no Neko o Sagase! (Japan)-video.mp4</video>
+		<marquee>./images/Tweety Sekaiisshuu - 80 Hiki no Neko o Sagase! (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Tweety Sekaiisshuu - 80 Hiki no Neko o Sagase! (Japan)-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>20000811T000000</releasedate>
+		<developer>Kemco</developer>
+		<publisher>Kemco</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<md5>867971b1e3b751a6b736d03793241176</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T202249" />
+	</game>
+	<game id="82913">
+		<path>./No-Intro/Tweety's High-Flying Adventure (Europe) (En,Es,It).gbc</path>
+		<name>Tweety's High-Flying Adventure</name>
+		<desc>Are you ready to knock out some bad 'ol puttytats? You had better be ready for action if you want to survive the frantic, side-scrolling mayhem of TWEETY'S HIGH-FLYING ADVENTURE for the Game Boy Color. You play as the lovable Tweety Bird in an adventure to save an endangered orphanage. In an animated take on AROUND THE WORLD IN 80 DAYS, you travel to 10 different locales and collect pawprints from 80 cats spread across exotic foreign cities. You'll need to bop these kitty cats with weapons and power-ups like spatulas, plunger guns, oil slicks, banana peels, and more. Just be careful to avoid chomping plants, squirmy worms, bugs, bees, and butterflies along the way. Lola Bunny updates the action with humorous newscasts between levels as you run, jump, and fly your way to victory. You'll need quick, button-smashing reflexes and platform-hopping skills of the highest degree to save the kids in TWEETY'S HIGH-FLYING ADVENTURE.</desc>
+		<image>./images/Tweety's High-Flying Adventure (Europe) (En,Es,It)-image.png</image>
+		<video>./videos/Tweety's High-Flying Adventure (Europe) (En,Es,It)-video.mp4</video>
+		<marquee>./images/Tweety's High-Flying Adventure (Europe) (En,Es,It)-marquee.png</marquee>
+		<thumbnail>./images/Tweety's High-Flying Adventure (Europe) (En,Es,It)-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Kemco</developer>
+		<publisher>Kemco</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<md5>acfa3540921a88cae136da1040ca2302</md5>
+		<lang>en,es,it</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T202302" />
+	</game>
+	<game id="82913">
+		<path>./No-Intro/Tweety's High-Flying Adventure (Europe) (En,Fr,De).gbc</path>
+		<name>Tweety's High-Flying Adventure</name>
+		<desc>Are you ready to knock out some bad 'ol puttytats? You had better be ready for action if you want to survive the frantic, side-scrolling mayhem of TWEETY'S HIGH-FLYING ADVENTURE for the Game Boy Color. You play as the lovable Tweety Bird in an adventure to save an endangered orphanage. In an animated take on AROUND THE WORLD IN 80 DAYS, you travel to 10 different locales and collect pawprints from 80 cats spread across exotic foreign cities. You'll need to bop these kitty cats with weapons and power-ups like spatulas, plunger guns, oil slicks, banana peels, and more. Just be careful to avoid chomping plants, squirmy worms, bugs, bees, and butterflies along the way. Lola Bunny updates the action with humorous newscasts between levels as you run, jump, and fly your way to victory. You'll need quick, button-smashing reflexes and platform-hopping skills of the highest degree to save the kids in TWEETY'S HIGH-FLYING ADVENTURE.</desc>
+		<image>./images/Tweety's High-Flying Adventure (Europe) (En,Fr,De)-image.png</image>
+		<video>./videos/Tweety's High-Flying Adventure (Europe) (En,Fr,De)-video.mp4</video>
+		<marquee>./images/Tweety's High-Flying Adventure (Europe) (En,Fr,De)-marquee.png</marquee>
+		<thumbnail>./images/Tweety's High-Flying Adventure (Europe) (En,Fr,De)-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Kemco</developer>
+		<publisher>Kemco</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<md5>304c2fe8ef1d9ae537004e3465814b4a</md5>
+		<lang>de,en,fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T202317" />
+	</game>
+	<game>
+		<path>./No-Intro/Tycoon Tex (World) (Aftermarket) (Unl).gbc</path>
+		<name>Tycoon Tex (World) (Aftermarket) (Unl)</name>
+		<md5>89fff31f11da93a6f1a3045f8ea088b3</md5>
+		<scrap name="ScreenScraper" date="20231106T202318" />
+	</game>
+	<game>
+		<path>./No-Intro/Tynesoft Commodore 16 Classics (World) (Aftermarket) (Unl).gbc</path>
+		<name>Tynesoft Commodore 16 Classics (World) (Aftermarket) (Unl)</name>
+		<md5>64237b274859b5424353ca4bb3d6abda</md5>
+		<scrap name="ScreenScraper" date="20231106T202320" />
+	</game>
+	<game>
+		<path>./No-Intro/Tynesoft Commodore 16 Classics II (World) (Aftermarket) (Unl).gbc</path>
+		<name>Tynesoft Commodore 16 Classics II (World) (Aftermarket) (Unl)</name>
+		<md5>ca5f9281e0652b85b68120b9d8e5db70</md5>
+		<scrap name="ScreenScraper" date="20231106T202321" />
+	</game>
+	<game id="82917">
+		<path>./No-Intro/Uchuujin Tanaka Tarou de - RPG Tsukuru GB 2 (Japan).gbc</path>
+		<name>Uchuujin Tanaka Tarou de RPG Tsuku-ru GB 2</name>
+		<desc>Software that allows you to easily create RPGs using pre-prepared materials. As a sample, a game in which "Taro Tanaka," the main character of the comic book, appears is included.</desc>
+		<image>./images/Uchuujin Tanaka Tarou de - RPG Tsukuru GB 2 (Japan)-image.png</image>
+		<marquee>./images/Uchuujin Tanaka Tarou de - RPG Tsukuru GB 2 (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Uchuujin Tanaka Tarou de - RPG Tsukuru GB 2 (Japan)-thumb.png</thumbnail>
+		<releasedate>20010720T000000</releasedate>
+		<publisher>Enterbrain</publisher>
+		<genre>Role playing games</genre>
+		<md5>26508069768cb23f6fc03a33f8d4cf43</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T202332" />
+	</game>
+	<game id="37224">
+		<path>./No-Intro/UEFA 2000 (Europe) (En,Fr,De,Es,It,Nl) (Beta).gbc</path>
+		<name>UEFA 2000</name>
+		<desc>UEFA 2000 is a officially licensed soccer game for the Game Boy Color. In the game you can play with many national teams. Only the English team has real player names, however. You can play the game in practice, friendly, cup and league mode. Settings include an option to choose between extra time or golden goal (first to score a goal wins). Like any soccer game you can shoot, pass, tackle and make headers. The game comes with three difficulty settings to play with.</desc>
+		<image>./images/UEFA 2000 (Europe) (En,Fr,De,Es,It,Nl) (Beta)-image.png</image>
+		<video>./videos/UEFA 2000 (Europe) (En,Fr,De,Es,It,Nl) (Beta)-video.mp4</video>
+		<marquee>./images/UEFA 2000 (Europe) (En,Fr,De,Es,It,Nl) (Beta)-marquee.png</marquee>
+		<thumbnail>./images/UEFA 2000 (Europe) (En,Fr,De,Es,It,Nl) (Beta)-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<developer>Bit Managers</developer>
+		<publisher>Infogrames</publisher>
+		<genre>Sports / Soccer</genre>
+		<players>1-4</players>
+		<md5>e84bf72a6a82a76237813e3701551ee8</md5>
+		<lang>de,en,es,fr,it,nl</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T202344" />
+	</game>
+	<game id="37224">
+		<path>./No-Intro/UEFA 2000 (Europe) (En,Fr,De,Es,It,Nl).gbc</path>
+		<name>UEFA 2000</name>
+		<desc>UEFA 2000 is a officially licensed soccer game for the Game Boy Color. In the game you can play with many national teams. Only the English team has real player names, however. You can play the game in practice, friendly, cup and league mode. Settings include an option to choose between extra time or golden goal (first to score a goal wins). Like any soccer game you can shoot, pass, tackle and make headers. The game comes with three difficulty settings to play with.</desc>
+		<image>./images/UEFA 2000 (Europe) (En,Fr,De,Es,It,Nl)-image.png</image>
+		<video>./videos/UEFA 2000 (Europe) (En,Fr,De,Es,It,Nl)-video.mp4</video>
+		<marquee>./images/UEFA 2000 (Europe) (En,Fr,De,Es,It,Nl)-marquee.png</marquee>
+		<thumbnail>./images/UEFA 2000 (Europe) (En,Fr,De,Es,It,Nl)-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<developer>Bit Managers</developer>
+		<publisher>Infogrames</publisher>
+		<genre>Sports / Soccer</genre>
+		<players>1-4</players>
+		<md5>ca00c843a575efd01814fcbf7d84a8dc</md5>
+		<lang>de,en,es,fr,it,nl</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T202357" />
+	</game>
+	<game id="82918">
+		<path>./No-Intro/Ultimate Fighting Championship (Europe).gbc</path>
+		<name>Ultimate Fighting Championship</name>
+		<desc>In Ultimate Fighting, anything goes. From disciplined martial arts techniques to freestyle wrestling, every form of fighting is represented. Now, Ultimate Fighting makes it way to the Game Boy Color with ULTIMATE FIGHTING CHAMPIONSHIP. You can choose from eight different fighters, each with different fighting styles and abilities. Once in the ring, you have full control over your fighter's movement. Oncoming attackers can be easily avoided by moving up or down, which gives the game a pseudo-3D feel. Get used to the controls and learn how to utilized a fighter's strengths and weaknesses in the Training mode. When you are ready for a challenge, fight a Single Match in the Versus mode, become world champion in the Tournament mode, or try to beat as many fighters as you can before being knocked out in the Survival mode. Play ULTIMATE FIGHTING CHAMPIONSHIP, and try to keep you teeth.</desc>
+		<image>./images/Ultimate Fighting Championship (Europe)-image.png</image>
+		<video>./videos/Ultimate Fighting Championship (Europe)-video.mp4</video>
+		<marquee>./images/Ultimate Fighting Championship (Europe)-marquee.png</marquee>
+		<thumbnail>./images/Ultimate Fighting Championship (Europe)-thumb.png</thumbnail>
+		<rating>0.4</rating>
+		<releasedate>20010101T000000</releasedate>
+		<developer>Fluid Studios</developer>
+		<publisher>Crave Entertainment</publisher>
+		<genre>Fight / 3D</genre>
+		<family>UFC Fighting</family>
+		<players>1</players>
+		<md5>65bd155f47eade36f7bd446cf58b9bdb</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T202409" />
+	</game>
+	<game id="82920">
+		<path>./No-Intro/Ultimate Surfing (Europe).gbc</path>
+		<name>Ultimate Surfing</name>
+		<desc>Hang 10 with one the coolest games ever to fit in the palm of your hand. Start out in Free mode, which allows you to surf in any of six different locales around the world: Travel from Australia to sunny California, through Japan, into Hawaii, Brazil, and ultimately the South Pole. Grand Prix mode sends you to the same glorious locales, but challenges you to surf in a circuit that houses the toughest competition in the world. Choose one of six awesome characters to take through to the game's conclusion, and enjoy creative side games like Frisbee Toss and Capture the Flag. The top-notch graphics and gameplay of ULTIMATE SURFING will have you feeling the ocean's breeze splashing across your face, and the controls are simple to learn but sophisticated enough to appeal to the most discerning handheld gamers. As if all of this weren't a sweet enough deal, you can link up with another player and surf against one another. Now, that's one gnarly game, dude.</desc>
+		<image>./images/Ultimate Surfing (Europe)-image.png</image>
+		<video>./videos/Ultimate Surfing (Europe)-video.mp4</video>
+		<marquee>./images/Ultimate Surfing (Europe)-marquee.png</marquee>
+		<thumbnail>./images/Ultimate Surfing (Europe)-thumb.png</thumbnail>
+		<rating>0.4</rating>
+		<releasedate>20010701T000000</releasedate>
+		<developer>Natsume</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Sports / Water</genre>
+		<players>1-2</players>
+		<md5>ba7297329e355c7c52a3ae457f0e6069</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T202423" />
+	</game>
+	<game>
+		<path>./No-Intro/Unearthed (World) (v1.3) (GB Compatible) (Aftermarket) (Unl).gbc</path>
+		<name>Unearthed (World) (v1.3) (GB Compatible) (Aftermarket) (Unl)</name>
+		<md5>09bc56a467f95a19a357174c5710db74</md5>
+		<scrap name="ScreenScraper" date="20231106T202424" />
+	</game>
+	<game>
+		<path>./No-Intro/Ungrateful Son, The (World) (v1.1) (GB Compatible) (Aftermarket) (Unl).gbc</path>
+		<name>Ungrateful Son, The (World) (v1.1) (GB Compatible) (Aftermarket) (Unl)</name>
+		<md5>8f490735c17b983c2e2fbc3a9425ffe7</md5>
+		<scrap name="ScreenScraper" date="20231106T202426" />
+	</game>
+	<game>
+		<path>./No-Intro/Unholy Friend (World) (GB Compatible) (Aftermarket) (Unl).gbc</path>
+		<name>Unholy Friend (World) (GB Compatible) (Aftermarket) (Unl)</name>
+		<md5>b1c7dbc6db86ea54fa8caab4eb3148e2</md5>
+		<scrap name="ScreenScraper" date="20231106T202427" />
+	</game>
+	<game id="37018">
+		<path>./No-Intro/Uno (Europe) (En,Fr,De,Es,It,Nl) (GB Compatible).gbc</path>
+		<name>Uno</name>
+		<desc>UNO, the classic card game of skips, draw-twos, and reverses, has come to the Game Boy Advance. There are two modes of play: Standard and Challenge. Standard has the players keep going until they reach a specified number of points, usually 1000. However, a player only scores points when he gets rid of all the cards in his hand. The points are the total value of the cards left in the opposition's hands. In Challenge, each player has a set number of points, and a player is eliminated when he reaches the point total. Play continues until one player is left standing. In both modes, you can play against up to three computer-controlled opponents. You can also play a single human opponent via a link cable. As an added bonus, there are three new cards that are not part of the real-world game. Now you can play UNO by yourself.</desc>
+		<image>./images/Uno (Europe) (En,Fr,De,Es,It,Nl) (GB Compatible)-image.png</image>
+		<video>./videos/Uno (Europe) (En,Fr,De,Es,It,Nl) (GB Compatible)-video.mp4</video>
+		<marquee>./images/Uno (Europe) (En,Fr,De,Es,It,Nl) (GB Compatible)-marquee.png</marquee>
+		<thumbnail>./images/Uno (Europe) (En,Fr,De,Es,It,Nl) (GB Compatible)-thumb.png</thumbnail>
+		<rating>0.6</rating>
+		<releasedate>20001215T000000</releasedate>
+		<developer>HotGen Ltd.</developer>
+		<publisher>Mattel Electronics</publisher>
+		<genre>Various</genre>
+		<family>Uno</family>
+		<players>1-2</players>
+		<md5>f1e27ad24bb3bf71d1d7b048ae21f0b5</md5>
+		<lang>de,en,es,fr,it,nl</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T202441" />
+	</game>
+	<game>
+		<path>./No-Intro/UXB (World) (Aftermarket) (Unl).gbc</path>
+		<name>UXB (World) (Aftermarket) (Unl)</name>
+		<md5>c20886be531dcaa1157920a7ffa51240</md5>
+		<scrap name="ScreenScraper" date="20231106T202443" />
+	</game>
+	<game id="37225">
+		<path>./No-Intro/V-Rally - Championship Edition (Europe) (En,Fr,De,Es).gbc</path>
+		<name>V-Rally : Championship Edition</name>
+		<desc>Get all the bumps, jumps, thrills, and spills of off-road rally racing in your hands with V-RALLY EDITION '99 for the Game Boy Color. Choose between four real-world rally cars: Peugeot 306 Maxi, the Mitsubishi Lancer WRC, V-Rally Ford Escort WRC, and Subaru Impreza WRC. Then race on 40 courses in exotic locations like Indonesia, Safari, Corsica, New Zealand, Alps, United Kingdom, Greece, Argentina, Italy, and Sweden. The terrain of each track has an effect on your car's performance, and you must be careful because snow, dirt, and asphalt all react differently. In addition to the terrain, keep an eye out for obstacles like rocks, oil slicks, hills, and jumps. You can get all of the off-road action you could ever want with V-RALLY EDITION '99</desc>
+		<image>./images/V-Rally - Championship Edition (Europe) (En,Fr,De,Es)-image.png</image>
+		<video>./videos/V-Rally - Championship Edition (Europe) (En,Fr,De,Es)-video.mp4</video>
+		<marquee>./images/V-Rally - Championship Edition (Europe) (En,Fr,De,Es)-marquee.png</marquee>
+		<thumbnail>./images/V-Rally - Championship Edition (Europe) (En,Fr,De,Es)-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19990401T000000</releasedate>
+		<developer>Velez &amp; Dubail</developer>
+		<publisher>Infogrames</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+		<md5>ec1a1e432cba04e33c408a7dad314997</md5>
+		<lang>de,en,es,fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T202456" />
+	</game>
+	<game id="37225">
+		<path>./No-Intro/V-Rally - Championship Edition (Japan).gbc</path>
+		<name>V-Rally : Championship Edition</name>
+		<desc>Get all the bumps, jumps, thrills, and spills of off-road rally racing in your hands with V-RALLY EDITION '99 for the Game Boy Color. Choose between four real-world rally cars: Peugeot 306 Maxi, the Mitsubishi Lancer WRC, V-Rally Ford Escort WRC, and Subaru Impreza WRC. Then race on 40 courses in exotic locations like Indonesia, Safari, Corsica, New Zealand, Alps, United Kingdom, Greece, Argentina, Italy, and Sweden. The terrain of each track has an effect on your car's performance, and you must be careful because snow, dirt, and asphalt all react differently. In addition to the terrain, keep an eye out for obstacles like rocks, oil slicks, hills, and jumps. You can get all of the off-road action you could ever want with V-RALLY EDITION '99</desc>
+		<image>./images/V-Rally - Championship Edition (Japan)-image.png</image>
+		<video>./videos/V-Rally - Championship Edition (Japan)-video.mp4</video>
+		<marquee>./images/V-Rally - Championship Edition (Japan)-marquee.png</marquee>
+		<thumbnail>./images/V-Rally - Championship Edition (Japan)-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19991014T000000</releasedate>
+		<developer>Velez &amp; Dubail</developer>
+		<publisher>Infogrames</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+		<md5>09fbebc41df99d534290d3033b09814e</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T202509" />
+	</game>
+	<game>
+		<path>./No-Intro/Varmit (World) (Aftermarket) (Unl).gbc</path>
+		<name>Varmit (World) (Aftermarket) (Unl)</name>
+		<md5>fdade90c72f29a498e045323dda5ad37</md5>
+		<scrap name="ScreenScraper" date="20231106T202511" />
+	</game>
+	<game id="82921">
+		<path>./No-Intro/Vegas Games (Europe) (En,Fr,De).gbc</path>
+		<name>Vegas Games</name>
+		<desc>Try to break the bank and come away a millionaire in VEGAS GAMES. You can play 20 different casino games, both cards and machines. The card games include Blackjack and Baccarat. Bet on dice in Craps, or on the result of a spinning wheel in Money Wheel or Roulette. If lottery games are more your style, try to win big in Keno and Video Keno. There are five different versions of Video Poker to try including Deuces Wild, Tens or Better, Jokers Wild Double Down, Jacks or Better High Roller, and Jacks or Better Double Down. No casino is complete without slot machines, and VEGAS GAMES is no exception. This one has eight different machines to try: Ancient Treasures, Love 2 Win, Go Fish, Easy Money, Dynamite Dollars, Buffet, Buck Teeth, and Beyond the Stars. If you love to gamble, you will enjoy playing VEGAS GAMES.</desc>
+		<image>./images/Vegas Games (Europe) (En,Fr,De)-image.png</image>
+		<video>./videos/Vegas Games (Europe) (En,Fr,De)-video.mp4</video>
+		<marquee>./images/Vegas Games (Europe) (En,Fr,De)-marquee.png</marquee>
+		<thumbnail>./images/Vegas Games (Europe) (En,Fr,De)-thumb.png</thumbnail>
+		<releasedate>20000201T000000</releasedate>
+		<developer>Digital Eclipse</developer>
+		<publisher>3DO</publisher>
+		<genre>Casino</genre>
+		<md5>cfdd9df7434c0a8d0e0ad3fdb04ea9b7</md5>
+		<lang>de,en,fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T202524" />
+	</game>
+	<game id="37020">
+		<path>./No-Intro/VIP (Europe) (En,Fr,De,Es,It).gbc</path>
+		<name>VIP</name>
+		<desc>Based on the famous TV series starring Pamela Anderson about Vallery Irons Protection (V.I.P.) agency.
+
+Movie award ceremony was appointed on this evening. Actor Loyd Bradock has been nominated. But his fiancée told that he was vanished. The famous V.I.P. agency took on this case in 9.05 am. Vallery and her team should find the actor and bring him to the prize-giving ceremony, which begins at 9.00 pm.
+
+So you have to progress in time to success, completing the levels as one of six V.I.P. members. On these levels player should make following actions. 
+As Johnny Loh drive in sports car and avoid obstacles;
+2. Perform a roller-skating as Nikki Franco, while jumping and ducking to avoid the obstacles such as bananas and flying balloons;
+3. Walk around town, shooting the bad guys with pistol and grenades as Quick Williams; 
+4. Surf in the boat as Val Irons, avoiding the isles and other boats; 
+5. Fly in helicopter as Val Irons, shooting paragliders and enemy boats;
+6. As Val Irons find the producer progressing to the top level of the story, avoiding or eliminating the enemy robots and guards; 
+7. As Tasha Dexter break through the enemies in Quick Williams` style; 
+8. As Tasha Dexter and Val Irons drive to the producer's Guru in Johnny Loh's style; 
+9. As Val Irons find the producer's Guru descending to the  desert's underground and avoiding its inhabitants such as snakes, eagles, bats, etc.; 
+10. As Val Irons drive in the sports car again; 
+11. As Val Irons perform a roller-skating in the roller-blades given by Nikki Franco; 
+12. As Val Irons explore the well-guarded villa and find the Loyd Bradock finally; 
+13. As Val Irons bring Loyd Bradock to the ceremony on helicopter, avoiding or eliminating the enemies.
+
+On all levels characters may collect lives, health, and other valuable items such as gasoline cans, weapon power-ups, etc. to make their way easier.
+
+Certain parts of the game may be accessed via password. Also the Ubi Key feature is available.</desc>
+		<image>./images/VIP (Europe) (En,Fr,De,Es,It)-image.png</image>
+		<video>./videos/VIP (Europe) (En,Fr,De,Es,It)-video.mp4</video>
+		<marquee>./images/VIP (Europe) (En,Fr,De,Es,It)-marquee.png</marquee>
+		<thumbnail>./images/VIP (Europe) (En,Fr,De,Es,It)-thumb.png</thumbnail>
+		<fanart>./images/VIP (Europe) (En,Fr,De,Es,It)-fanart.jpg</fanart>
+		<rating>0.45</rating>
+		<releasedate>20010101T000000</releasedate>
+		<developer>Planet Interactive</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+		<md5>0e11915bab69cc3b5aaa3473784f03ee</md5>
+		<lang>de,en,es,fr,it</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T202541" />
+	</game>
+	<game id="82923">
+		<path>./No-Intro/Visiteurs, Les (France) (GB Compatible).gbc</path>
+		<name>Les Visiteurs</name>
+		<desc>Les Visiteurs is based off the infamous French comedy of the early 90s. In this platformer for the Game Boy Color, play as Godefroy de Montmirail and Jacquouille La Fripouille in various levels such as a forest or a castle. Use knives or your swashbuckling skills to defeat your enemies, and return to your era.</desc>
+		<image>./images/Visiteurs, Les (France) (GB Compatible)-image.png</image>
+		<video>./videos/Visiteurs, Les (France) (GB Compatible)-video.mp4</video>
+		<marquee>./images/Visiteurs, Les (France) (GB Compatible)-marquee.png</marquee>
+		<thumbnail>./images/Visiteurs, Les (France) (GB Compatible)-thumb.png</thumbnail>
+		<manual>./manuals/Visiteurs, Les (France) (GB Compatible)-manual.pdf</manual>
+		<rating>0.45</rating>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<md5>5962e70172bbe5a77ae507a409d12aa9</md5>
+		<lang>fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T202601" />
+	</game>
+	<game>
+		<path>./No-Intro/VOX (World) (Aftermarket) (Unl).gbc</path>
+		<name>VOX (World) (Aftermarket) (Unl)</name>
+		<md5>8691333d9fd10c3bc65bc5577856a72b</md5>
+		<scrap name="ScreenScraper" date="20231106T202603" />
+	</game>
+	<game>
+		<path>./No-Intro/Wacky Painter (World) (Aftermarket) (Unl).gbc</path>
+		<name>Wacky Painter (World) (Aftermarket) (Unl)</name>
+		<md5>10d0c091687c830645aad567d152b1d6</md5>
+		<scrap name="ScreenScraper" date="20231106T202604" />
+	</game>
+	<game id="37021">
+		<path>./No-Intro/Wacky Races (Europe) (En,Fr,De,Es,It,Nl).gbc</path>
+		<name>Wacky Races</name>
+		<desc>For those who can remember the cartoon series, this will be a blast from the past. Choose from all your favourite characters including Peter Perfect, Penelope Pitstop and, of course, Dick Dastardly and Muttley, and wind your way through cartoon like environments in the familiar vehicles of each character. Simply get to the end of the race first to open up new tracks, and use weapons to pick off the rest of the cast, and aid your progress.</desc>
+		<image>./images/Wacky Races (Europe) (En,Fr,De,Es,It,Nl)-image.png</image>
+		<video>./videos/Wacky Races (Europe) (En,Fr,De,Es,It,Nl)-video.mp4</video>
+		<marquee>./images/Wacky Races (Europe) (En,Fr,De,Es,It,Nl)-marquee.png</marquee>
+		<thumbnail>./images/Wacky Races (Europe) (En,Fr,De,Es,It,Nl)-thumb.png</thumbnail>
+		<fanart>./images/Wacky Races (Europe) (En,Fr,De,Es,It,Nl)-fanart.jpg</fanart>
+		<rating>0.8</rating>
+		<releasedate>20011122T000000</releasedate>
+		<developer>Velez &amp; Dubail</developer>
+		<publisher>Infogrames</publisher>
+		<genre>Race, Driving</genre>
+		<family>Wacky Races</family>
+		<players>1</players>
+		<md5>51356c19a22fcb871cbdd721e42fe201</md5>
+		<lang>de,en,es,fr,it,nl</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T202618" />
+	</game>
+	<game>
+		<path>./No-Intro/Wai Xing Tanxian Zhi Xingqiu Dazhan (Taiwan) (Unl).gbc</path>
+		<name>Wai Xing Tanxian Zhi Xingqiu Dazhan (Taiwan) (Unl)</name>
+		<md5>dd8b136f46a0c2ce1381506396e77fde</md5>
+		<scrap name="ScreenScraper" date="20231106T202620" />
+	</game>
+	<game id="37228">
+		<path>./No-Intro/Walt Disney World Quest - Magical Racing Tour (Europe) (Fr,De,Es).gbc</path>
+		<name>Walt Disney World Quest : Magical Racing Tour</name>
+		<desc>A cart racing game featuring Disney Characters  Starring Jiminy Cricket, Chip, and Dale, and a few characters created specifically for the game.  The catch is that all of the tracks are actually based on rides at all of the four Walt Disney World Parks (Haunted Mansion, Splash Mountain, Space Mountain, Rock'n'Rollercoaster, Typhoon Lagoon, etc...).</desc>
+		<image>./images/Walt Disney World Quest - Magical Racing Tour (Europe) (Fr,De,Es)-image.png</image>
+		<video>./videos/Walt Disney World Quest - Magical Racing Tour (Europe) (Fr,De,Es)-video.mp4</video>
+		<marquee>./images/Walt Disney World Quest - Magical Racing Tour (Europe) (Fr,De,Es)-marquee.png</marquee>
+		<thumbnail>./images/Walt Disney World Quest - Magical Racing Tour (Europe) (Fr,De,Es)-thumb.png</thumbnail>
+		<rating>0.6</rating>
+		<releasedate>20001215T000000</releasedate>
+		<developer>Crystal Dynamics</developer>
+		<publisher>Activision</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+		<md5>3ccf696ddc0e2ed66c26c2ff2cb9e12a</md5>
+		<lang>es,fr,de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T202634" />
+	</game>
+	<game>
+		<path>./No-Intro/Wangzu Tiantang (Taiwan) (Unl).gbc</path>
+		<name>Wangzu Tiantang (Taiwan) (Unl)</name>
+		<md5>4f62184649801733697e35c878092ba4</md5>
+		<scrap name="ScreenScraper" date="20231106T202635" />
+	</game>
+	<game id="82929">
+		<path>./No-Intro/Warau Inu no Bouken - Silly Go Lucky! (Japan).gbc</path>
+		<name>Warau Inu no Bouken : Silly Go Lucky!</name>
+		<desc>The objective is to become a new director and aim for high ratings, and to advance the program to a golden slot. There are 20 different types of comedy to be broadcast. All of them are made into mini-games.</desc>
+		<image>./images/Warau Inu no Bouken - Silly Go Lucky! (Japan)-image.png</image>
+		<marquee>./images/Warau Inu no Bouken - Silly Go Lucky! (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Warau Inu no Bouken - Silly Go Lucky! (Japan)-thumb.png</thumbnail>
+		<releasedate>20010223T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<md5>c275de8abc3dd903038737a2139b0c18</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T202647" />
+	</game>
+	<game id="37230">
+		<path>./No-Intro/Wario Land 2 (Japan) (SGB Enhanced) (GB Compatible).gbc</path>
+		<name>Wario Land II</name>
+		<desc>Seeking revenge on Wario after he stole their treasure in Wario Land: Super Mario Land 3, special agents from the Black Sugar Gang of Kitchen Island sneak into Wario's newly built castle, steal back the treasure, and leave the castle and the surrounding area a mess. As Wario, you must clean the place up and take back what you now call your own.
+
+In a change from the original Wario Land, Wario is now immortal, to a certain point. Instead of dying when hit by an enemy, Wario loses the coins he collected along his travels in each level. And he can also turn into other Warios. For example, if he is hit by a bee, Wario puffs up into a giant ball of air, and floats up to the top of the level. Only when hit by a sharp object will he return to normal. There are other types, like Fire Wario and Zombie Wario, and each can have its advantages, like getting to other areas otherwise unreachable, or they can halt your progress.</desc>
+		<image>./images/Wario Land 2 (Japan) (SGB Enhanced) (GB Compatible)-image.png</image>
+		<video>./videos/Wario Land 2 (Japan) (SGB Enhanced) (GB Compatible)-video.mp4</video>
+		<marquee>./images/Wario Land 2 (Japan) (SGB Enhanced) (GB Compatible)-marquee.png</marquee>
+		<thumbnail>./images/Wario Land 2 (Japan) (SGB Enhanced) (GB Compatible)-thumb.png</thumbnail>
+		<fanart>./images/Wario Land 2 (Japan) (SGB Enhanced) (GB Compatible)-fanart.jpg</fanart>
+		<manual>./manuals/Wario Land 2 (Japan) (SGB Enhanced) (GB Compatible)-manual.pdf</manual>
+		<rating>0.8</rating>
+		<releasedate>19981021T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>a5be435543968412caac1fe7c914472e</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T202708" />
+	</game>
+	<game>
+		<path>./No-Intro/Warp Coin Catastrophe, The (World) (GB Compatible) (Aftermarket) (Unl).gbc</path>
+		<name>Warp Coin Catastrophe, The (World) (GB Compatible) (Aftermarket) (Unl)</name>
+		<md5>c1ef769ab7525ca2b2c3b0eb88b1c49c</md5>
+		<scrap name="ScreenScraper" date="20231106T202709" />
+	</game>
+	<game>
+		<path>./No-Intro/Warp Coin Catastrophe, The (World) (v1.1) (GB Compatible) (Aftermarket) (Unl).gbc</path>
+		<name>Warp Coin Catastrophe, The (World) (v1.1) (GB Compatible) (Aftermarket) (Unl)</name>
+		<md5>2295f4ef94f9b9a21dfc04259ab6d7bf</md5>
+		<scrap name="ScreenScraper" date="20231106T202711" />
+	</game>
+	<game>
+		<path>./No-Intro/Warp Coin Catastrophe, The (World) (v1.1.2) (GB Compatible) (Aftermarket) (Unl).gbc</path>
+		<name>Warp Coin Catastrophe, The (World) (v1.1.2) (GB Compatible) (Aftermarket) (Unl)</name>
+		<md5>d5aef2fb975eebf3b66ea89c469d0d7c</md5>
+		<scrap name="ScreenScraper" date="20231106T202712" />
+	</game>
+	<game id="82932">
+		<path>./No-Intro/Watashi no Kitchen (Japan) (Rev 1).gbc</path>
+		<name>Watashi no Kitchen</name>
+		<desc>A game that allows you to experience cooking based on more than 10 recipes. The player goes shopping, selects the ingredients, and then follows the messages in the kitchen to cook the food. The finished dish will be eaten by your father or mother. If you make a delicious dish, you will be praised.</desc>
+		<image>./images/Watashi no Kitchen (Japan) (Rev 1)-image.png</image>
+		<marquee>./images/Watashi no Kitchen (Japan) (Rev 1)-marquee.png</marquee>
+		<thumbnail>./images/Watashi no Kitchen (Japan) (Rev 1)-thumb.png</thumbnail>
+		<releasedate>20011221T000000</releasedate>
+		<publisher>Kirat</publisher>
+		<genre>Strategy</genre>
+		<md5>c2a2490640ef568e6fa326ab149bfacc</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T202722" />
+	</game>
+	<game id="82932">
+		<path>./No-Intro/Watashi no Kitchen (Japan).gbc</path>
+		<name>Watashi no Kitchen</name>
+		<desc>A game that allows you to experience cooking based on more than 10 recipes. The player goes shopping, selects the ingredients, and then follows the messages in the kitchen to cook the food. The finished dish will be eaten by your father or mother. If you make a delicious dish, you will be praised.</desc>
+		<image>./images/Watashi no Kitchen (Japan)-image.png</image>
+		<marquee>./images/Watashi no Kitchen (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Watashi no Kitchen (Japan)-thumb.png</thumbnail>
+		<releasedate>20011221T000000</releasedate>
+		<publisher>Kirat</publisher>
+		<genre>Strategy</genre>
+		<md5>341597629f04d5ea6716a7ca9eb24dc1</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T202733" />
+	</game>
+	<game id="82933">
+		<path>./No-Intro/Watashi no Restaurant (Japan) (Beta 1).gbc</path>
+		<name>Watashi no Restaurant</name>
+		<desc>Become Yumemi and cook a variety of dishes. Buy ingredients at the supermarket according to the recipe and follow the instructions given by your cooking teacher.</desc>
+		<image>./images/Watashi no Restaurant (Japan) (Beta 1)-image.png</image>
+		<marquee>./images/Watashi no Restaurant (Japan) (Beta 1)-marquee.png</marquee>
+		<thumbnail>./images/Watashi no Restaurant (Japan) (Beta 1)-thumb.png</thumbnail>
+		<releasedate>20020426T000000</releasedate>
+		<publisher>Kirat</publisher>
+		<genre>Strategy</genre>
+		<md5>1de3aa6275844a8957c88d75dcc5ad09</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T202743" />
+	</game>
+	<game id="82933">
+		<path>./No-Intro/Watashi no Restaurant (Japan) (Beta 2).gbc</path>
+		<name>Watashi no Restaurant</name>
+		<desc>Become Yumemi and cook a variety of dishes. Buy ingredients at the supermarket according to the recipe and follow the instructions given by your cooking teacher.</desc>
+		<image>./images/Watashi no Restaurant (Japan) (Beta 2)-image.png</image>
+		<marquee>./images/Watashi no Restaurant (Japan) (Beta 2)-marquee.png</marquee>
+		<thumbnail>./images/Watashi no Restaurant (Japan) (Beta 2)-thumb.png</thumbnail>
+		<releasedate>20020426T000000</releasedate>
+		<publisher>Kirat</publisher>
+		<genre>Strategy</genre>
+		<md5>cae6f72a359b1088efe6c641cbae2f97</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T202753" />
+	</game>
+	<game id="82933">
+		<path>./No-Intro/Watashi no Restaurant (Japan) (Beta 3).gbc</path>
+		<name>Watashi no Restaurant</name>
+		<desc>Become Yumemi and cook a variety of dishes. Buy ingredients at the supermarket according to the recipe and follow the instructions given by your cooking teacher.</desc>
+		<image>./images/Watashi no Restaurant (Japan) (Beta 3)-image.png</image>
+		<marquee>./images/Watashi no Restaurant (Japan) (Beta 3)-marquee.png</marquee>
+		<thumbnail>./images/Watashi no Restaurant (Japan) (Beta 3)-thumb.png</thumbnail>
+		<releasedate>20020426T000000</releasedate>
+		<publisher>Kirat</publisher>
+		<genre>Strategy</genre>
+		<md5>d2731c794aaa3fb4700c83727d8583e2</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T202802" />
+	</game>
+	<game id="82933">
+		<path>./No-Intro/Watashi no Restaurant (Japan).gbc</path>
+		<name>Watashi no Restaurant</name>
+		<desc>Become Yumemi and cook a variety of dishes. Buy ingredients at the supermarket according to the recipe and follow the instructions given by your cooking teacher.</desc>
+		<image>./images/Watashi no Restaurant (Japan)-image.png</image>
+		<marquee>./images/Watashi no Restaurant (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Watashi no Restaurant (Japan)-thumb.png</thumbnail>
+		<releasedate>20020426T000000</releasedate>
+		<publisher>Kirat</publisher>
+		<genre>Strategy</genre>
+		<md5>c9156b49032e63498df93e132b0307b3</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T202813" />
+	</game>
+	<game>
+		<path>./No-Intro/Water Grandprix (World) (Aftermarket) (Unl).gbc</path>
+		<name>Water Grandprix (World) (Aftermarket) (Unl)</name>
+		<md5>0e96876b9e69f491b4e9c2e17c56b64f</md5>
+		<scrap name="ScreenScraper" date="20231106T202815" />
+	</game>
+	<game>
+		<path>./No-Intro/Waternet (World) (Batteryless Generic Save Flash Cartridge Version) (GB Compatible) (Aftermarket) (Unl).gbc</path>
+		<name>Waternet (World) (Batteryless Generic Save Flash Cartridge Version) (GB Compatible) (Aftermarket) (Unl)</name>
+		<md5>e333c74332067d817732f06cf301d736</md5>
+		<scrap name="ScreenScraper" date="20231106T202816" />
+	</game>
+	<game>
+		<path>./No-Intro/Waternet (World) (Batteryless Save Flash Cartridge Version) (GB Compatible) (Aftermarket) (Unl).gbc</path>
+		<name>Waternet (World) (Batteryless Save Flash Cartridge Version) (GB Compatible) (Aftermarket) (Unl)</name>
+		<md5>6f94a1bf91839706d2ef586acc9a82c8</md5>
+		<scrap name="ScreenScraper" date="20231106T202818" />
+	</game>
+	<game>
+		<path>./No-Intro/Waternet (World) (GB Compatible) (Aftermarket) (Unl).gbc</path>
+		<name>Waternet (World) (GB Compatible) (Aftermarket) (Unl)</name>
+		<md5>88babaabfc8c65454dd11590ff5c9f33</md5>
+		<scrap name="ScreenScraper" date="20231106T202819" />
+	</game>
+	<game id="37232">
+		<path>./No-Intro/Wendy - Der Traum von Arizona (Germany) (Beta).gbc</path>
+		<name>Wendy : Der Traum von Arizona</name>
+		<desc>"Wendy: Der Traum von Arizona" is an action adventure for children of any age.
+
+You play the party of Wendy, a German children's cartoon star. She and her friend Bianca are dreaming of going on a riding holiday in Arizona. To get the money required for it, they have to win horse tournaments.
+
+There are seven levels. They are divided into two types: There are action-adventure levels where you have to accomplish different tasks -- like helping your parents or shoeing your horse. To do this, you have to speak to different people, find and use items at the right location and succeed in some mini-games, all the while keeping a safe distance from evil animals (like sheep...) which hurt you when touched.
+
+Between these action-adventure levels, there are the tournament levels in which you perform in several different riding disciplines, often with some qualification stage before.
+
+At the end of the game, there is another arcade sequence in which you have to drive the taxi to the airport. If you have done this, you can enjoy the ending.
+
+After finishing the game, you can switch to a "tournament mode" where you can replay each tournament to get as much points as you can.</desc>
+		<image>./images/Wendy - Der Traum von Arizona (Germany) (Beta)-image.png</image>
+		<marquee>./images/Wendy - Der Traum von Arizona (Germany) (Beta)-marquee.png</marquee>
+		<thumbnail>./images/Wendy - Der Traum von Arizona (Germany) (Beta)-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<developer>BVM Produktion GmbH</developer>
+		<publisher>Kiddinx</publisher>
+		<genre>Sports</genre>
+		<players>1</players>
+		<md5>578a0860ed55c3e497af423c739f7d84</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T202830" />
+	</game>
+	<game id="37232">
+		<path>./No-Intro/Wendy - Der Traum von Arizona (Germany).gbc</path>
+		<name>Wendy : Der Traum von Arizona</name>
+		<desc>"Wendy: Der Traum von Arizona" is an action adventure for children of any age.
+
+You play the party of Wendy, a German children's cartoon star. She and her friend Bianca are dreaming of going on a riding holiday in Arizona. To get the money required for it, they have to win horse tournaments.
+
+There are seven levels. They are divided into two types: There are action-adventure levels where you have to accomplish different tasks -- like helping your parents or shoeing your horse. To do this, you have to speak to different people, find and use items at the right location and succeed in some mini-games, all the while keeping a safe distance from evil animals (like sheep...) which hurt you when touched.
+
+Between these action-adventure levels, there are the tournament levels in which you perform in several different riding disciplines, often with some qualification stage before.
+
+At the end of the game, there is another arcade sequence in which you have to drive the taxi to the airport. If you have done this, you can enjoy the ending.
+
+After finishing the game, you can switch to a "tournament mode" where you can replay each tournament to get as much points as you can.</desc>
+		<image>./images/Wendy - Der Traum von Arizona (Germany)-image.png</image>
+		<marquee>./images/Wendy - Der Traum von Arizona (Germany)-marquee.png</marquee>
+		<thumbnail>./images/Wendy - Der Traum von Arizona (Germany)-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<developer>BVM Produktion GmbH</developer>
+		<publisher>Kiddinx</publisher>
+		<genre>Sports</genre>
+		<players>1</players>
+		<md5>b8e7f2f760dc0e7010ac5a83a793fbd3</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T202841" />
+	</game>
+	<game>
+		<path>./No-Intro/Wetrix (Europe) (En,Fr,De).gbc</path>
+		<name>Wetrix (Europe) (En,Fr,De)</name>
+		<md5>916d740fc366ecbf9e5626218e56562d</md5>
+		<scrap name="ScreenScraper" date="20231106T202842" />
+	</game>
+	<game id="82937">
+		<path>./No-Intro/Wetrix GB (Japan) (SGB Enhanced) (GB Compatible).gbc</path>
+		<name>Wetrix GB</name>
+		<desc>The deeper you go, the greater the pressure becomes. Welcome to the world of Wetrix, the spectacular cellular water puzzle that keeps you immersed for hours at a time</desc>
+		<image>./images/Wetrix GB (Japan) (SGB Enhanced) (GB Compatible)-image.png</image>
+		<video>./videos/Wetrix GB (Japan) (SGB Enhanced) (GB Compatible)-video.mp4</video>
+		<marquee>./images/Wetrix GB (Japan) (SGB Enhanced) (GB Compatible)-marquee.png</marquee>
+		<thumbnail>./images/Wetrix GB (Japan) (SGB Enhanced) (GB Compatible)-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19991029T000000</releasedate>
+		<developer>Zed Two</developer>
+		<publisher>Infogrames</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<md5>f36cd3e0a8a8eacf4a9c5a2a755f237e</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T202857" />
+	</game>
+	<game>
+		<path>./No-Intro/What Friends Are For (World) (v2.0) (GB Compatible) (Aftermarket) (Unl).gbc</path>
+		<name>What Friends Are For (World) (v2.0) (GB Compatible) (Aftermarket) (Unl)</name>
+		<md5>71844ae14b67fbe97b0ab5655e5a87b0</md5>
+		<scrap name="ScreenScraper" date="20231106T202859" />
+	</game>
+	<game>
+		<path>./No-Intro/What's Updog (World) (2022-11-23) (GB Compatible) (Aftermarket) (Unl).gbc</path>
+		<name>What's Updog (World) (2022-11-23) (GB Compatible) (Aftermarket) (Unl)</name>
+		<md5>0bb519a09c675a797f422305115b49cc</md5>
+		<scrap name="ScreenScraper" date="20231106T202901" />
+	</game>
+	<game>
+		<path>./No-Intro/Where's My Cake (World) (GB Compatible) (Aftermarket) (Unl).GBC</path>
+		<name>Where's My Cake (World) (GB Compatible) (Aftermarket) (Unl)</name>
+		<md5>1913a2173775a0c799683c74a80cdebb</md5>
+		<scrap name="ScreenScraper" date="20231106T202902" />
+	</game>
+	<game id="200052">
+		<path>./No-Intro/Wing Warriors (World) (En,Fr,Es) (Beta) (GB Compatible) (Aftermarket) (Unl).gbc</path>
+		<name>WingWarriors</name>
+		<desc>It's a classic shooting game with some bullet-hell reminiscences. 6 stages with 3 bosses, 3 different players to choose from, and a lot of bullets to avoid.</desc>
+		<image>./images/Wing Warriors (World) (En,Fr,Es) (Beta) (GB Compatible) (Aftermarket) (Unl)-image.png</image>
+		<video>./videos/Wing Warriors (World) (En,Fr,Es) (Beta) (GB Compatible) (Aftermarket) (Unl)-video.mp4</video>
+		<marquee>./images/Wing Warriors (World) (En,Fr,Es) (Beta) (GB Compatible) (Aftermarket) (Unl)-marquee.png</marquee>
+		<thumbnail>./images/Wing Warriors (World) (En,Fr,Es) (Beta) (GB Compatible) (Aftermarket) (Unl)-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>20190101T000000</releasedate>
+		<developer>Francisco Javier Del Pino Cuesta</developer>
+		<publisher>Kitmaker Entertainment</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<players>1</players>
+		<md5>475c56c522cc154c1526ab0900d77123</md5>
+		<lang>en,es,fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T202917" />
+	</game>
+	<game id="200052">
+		<path>./No-Intro/Wing Warriors (World) (En,Fr,Es) (GB Compatible) (Aftermarket) (Unl).gbc</path>
+		<name>WingWarriors</name>
+		<desc>It's a classic shooting game with some bullet-hell reminiscences. 6 stages with 3 bosses, 3 different players to choose from, and a lot of bullets to avoid.</desc>
+		<image>./images/Wing Warriors (World) (En,Fr,Es) (GB Compatible) (Aftermarket) (Unl)-image.png</image>
+		<video>./videos/Wing Warriors (World) (En,Fr,Es) (GB Compatible) (Aftermarket) (Unl)-video.mp4</video>
+		<marquee>./images/Wing Warriors (World) (En,Fr,Es) (GB Compatible) (Aftermarket) (Unl)-marquee.png</marquee>
+		<thumbnail>./images/Wing Warriors (World) (En,Fr,Es) (GB Compatible) (Aftermarket) (Unl)-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>20190101T000000</releasedate>
+		<developer>Francisco Javier Del Pino Cuesta</developer>
+		<publisher>Kitmaker Entertainment</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<players>1</players>
+		<md5>82f9d9b020099e908ef588e1a9de5bb3</md5>
+		<lang>en,es,fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T202932" />
+	</game>
+	<game id="37024">
+		<path>./No-Intro/Wings of Fury (Europe) (En,Fr,De) (GB Compatible).gbc</path>
+		<name>Wings of Fury</name>
+		<desc>Wings of Fury is an action game with some minor simulation aspects, in which you are the pilot of an American F6F Hellcat plane. The setting of the game is the Pacific during World War II.
+
+It is your job to defeat the Japanese by destroying enemy bunkers, machine gun nests and barracks on a series of islands. Barracks and gun nests can be bombarded with regular bombs, while you'll have to use rockets to take out the concrete bunkers. After a successful bombing run, return to mow down the Japanese soldiers with your machine guns. You also have to sink Japanese battleships with torpedoes and engage in dogfights with enemy fighter planes.
+
+ 
+You start each mission by taking off from an aircraft carrier, which you'll have to protect from assaults by Japanese torpedo planes. Whenever you run out of fuel, bombs, rockets or machine gun ammo you can replenish those by returning to your carrier. Your carrier is also the place to repair damage to your plane.
+
+The Gameboy Color version of Wings of Fury has a toned down violence level. You no longer mow down Japanese soldiers with your machine guns, instead you bombard jeeps &amp; trucks. Also missing in this version are the Japanese torpedo planes and the small 1st-person view window. New are some extra manoeuvres for your plane like a barrel roll and a review of your ammo consumption after each mission. Using less ammo than allocated gives you bonus points.</desc>
+		<image>./images/Wings of Fury (Europe) (En,Fr,De) (GB Compatible)-image.png</image>
+		<video>./videos/Wings of Fury (Europe) (En,Fr,De) (GB Compatible)-video.mp4</video>
+		<marquee>./images/Wings of Fury (Europe) (En,Fr,De) (GB Compatible)-marquee.png</marquee>
+		<thumbnail>./images/Wings of Fury (Europe) (En,Fr,De) (GB Compatible)-thumb.png</thumbnail>
+		<fanart>./images/Wings of Fury (Europe) (En,Fr,De) (GB Compatible)-fanart.jpg</fanart>
+		<rating>0.75</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Ed Magnin and Associates</developer>
+		<publisher>Mindscape</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<md5>b80371a8c851a4c0b9c944fd14b44d6e</md5>
+		<lang>de,en,fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T202949" />
+	</game>
+	<game id="82943">
+		<path>./No-Intro/Winnie the Pooh - Adventures in the 100 Acre Wood (Europe) (En,Fr,De,Es,It,Nl,Da).gbc</path>
+		<name>Winnie the Pooh : Adventures in the 100 Acre Wood</name>
+		<desc>Join Winnie the Pooh and his friends as they come to the Game Boy Color in WINNIE THE POOH: Adventures in the 100 Acre Wood. You must help Pooh get to a certain place on the game board within a specified number of dice rolls. Along the way, he will encounter his friends Tigger, Piglet, Rabbit, and Eeyore, who will play along with Pooh and open mini-games for the loveable bear to store in his cupboard. The mini-games will have the player helping Pooh look for honey, exercise, fish, get unstuck from Rabbit's hole, bounce with Tigger, and catch acorns. The more you play WINNIE THE POOH: Adventures in the 100 Acre Wood, the greater the chances of finding a new path or mini-game.</desc>
+		<image>./images/Winnie the Pooh - Adventures in the 100 Acre Wood (Europe) (En,Fr,De,Es,It,Nl,Da)-image.png</image>
+		<video>./videos/Winnie the Pooh - Adventures in the 100 Acre Wood (Europe) (En,Fr,De,Es,It,Nl,Da)-video.mp4</video>
+		<marquee>./images/Winnie the Pooh - Adventures in the 100 Acre Wood (Europe) (En,Fr,De,Es,It,Nl,Da)-marquee.png</marquee>
+		<thumbnail>./images/Winnie the Pooh - Adventures in the 100 Acre Wood (Europe) (En,Fr,De,Es,It,Nl,Da)-thumb.png</thumbnail>
+		<rating>0.6</rating>
+		<releasedate>20000401T000000</releasedate>
+		<developer>TOSE</developer>
+		<publisher>NewKidCo</publisher>
+		<genre>Adventure</genre>
+		<family>Winnie the Pooh</family>
+		<players>1</players>
+		<md5>d05a3c8e6af26686166b5049f1438dff</md5>
+		<lang>de,en,es,fr,it,nl</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T203001" />
+	</game>
+	<game>
+		<path>./No-Intro/Wizard of Wor (World) (Aftermarket) (Unl).gbc</path>
+		<name>Wizard of Wor (World) (Aftermarket) (Unl)</name>
+		<md5>f8f8fedf07e783a97a50cd0e05544fc3</md5>
+		<scrap name="ScreenScraper" date="20231106T203002" />
+	</game>
+	<game id="82944">
+		<path>./No-Intro/Wizardry Empire (Japan) (Rev 1).gbc</path>
+		<name>Wizardry Empire</name>
+		<desc>Party up to 6 adventurers from various professions and challenge the dungeon. There are 170 types of monsters in total in the dungeon, and if you win the battle, you will get more than 200 types of experience points and victory items. As experience points accumulate, the character becomes stronger and you can challenge deeper into the dungeon. There are 16x16 dungeons up to the 20th basement floor, and once cleared, more bonus dungeons will appear. A hidden profession is prepared as a unique element. Use your profession-specific abilities (Variant, Avenger, Summoner, etc.) to further your enjoyment.</desc>
+		<image>./images/Wizardry Empire (Japan) (Rev 1)-image.png</image>
+		<video>./videos/Wizardry Empire (Japan) (Rev 1)-video.mp4</video>
+		<marquee>./images/Wizardry Empire (Japan) (Rev 1)-marquee.png</marquee>
+		<thumbnail>./images/Wizardry Empire (Japan) (Rev 1)-thumb.png</thumbnail>
+		<releasedate>19991029T000000</releasedate>
+		<developer>Starfish</developer>
+		<publisher>Starfish</publisher>
+		<genre>Role playing games</genre>
+		<md5>fcf910e4d2f27bab40244eb7bf4aa2d3</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T203018" />
+	</game>
+	<game id="82944">
+		<path>./No-Intro/Wizardry Empire (Japan).gbc</path>
+		<name>Wizardry Empire</name>
+		<desc>Party up to 6 adventurers from various professions and challenge the dungeon. There are 170 types of monsters in total in the dungeon, and if you win the battle, you will get more than 200 types of experience points and victory items. As experience points accumulate, the character becomes stronger and you can challenge deeper into the dungeon. There are 16x16 dungeons up to the 20th basement floor, and once cleared, more bonus dungeons will appear. A hidden profession is prepared as a unique element. Use your profession-specific abilities (Variant, Avenger, Summoner, etc.) to further your enjoyment.</desc>
+		<image>./images/Wizardry Empire (Japan)-image.png</image>
+		<video>./videos/Wizardry Empire (Japan)-video.mp4</video>
+		<marquee>./images/Wizardry Empire (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Wizardry Empire (Japan)-thumb.png</thumbnail>
+		<releasedate>19991029T000000</releasedate>
+		<developer>Starfish</developer>
+		<publisher>Starfish</publisher>
+		<genre>Role playing games</genre>
+		<md5>ccb604ca00f176ae6ca40f4fc33d8c1a</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T203033" />
+	</game>
+	<game id="82945">
+		<path>./No-Intro/Wizardry Empire - Fukkatsu no Tsue (Japan).gbc</path>
+		<name>Wizardry Empire : Fukkatsu no Tsue</name>
+		<desc>3D Dungeon RPG Wizardry Empire Series. Completely original story. In order to rebuild the collapsed empire, the protagonist replaces the wand, which is a proof of his succession to the throne, and challenges the newly opened mage. There are more than 200 types of monsters and items, and 130 types of magic. You can transfer the data of the previous work with a communication cable, making the game even more fun.</desc>
+		<image>./images/Wizardry Empire - Fukkatsu no Tsue (Japan)-image.png</image>
+		<video>./videos/Wizardry Empire - Fukkatsu no Tsue (Japan)-video.mp4</video>
+		<marquee>./images/Wizardry Empire - Fukkatsu no Tsue (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Wizardry Empire - Fukkatsu no Tsue (Japan)-thumb.png</thumbnail>
+		<releasedate>20001222T000000</releasedate>
+		<developer>Starfish</developer>
+		<publisher>Starfish</publisher>
+		<genre>Role playing games</genre>
+		<md5>fa8360094cae37a838fabcfd333ae300</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T203048" />
+	</game>
+	<game id="82946">
+		<path>./No-Intro/Wizardry I - Proving Grounds of the Mad Overlord (Japan).gbc</path>
+		<name>Wizardry I : Proving Grounds of the Mad Overlord</name>
+		<desc>Are you ready to step into the world of Wizardry? Unmatched by any other fantasy role-playing game, the Wizardry Gaming System allows for unlimited combinations of strategies and tactics, so that each quest into the Maze is always fresh and interesting.
+Proving Grounds of the Mad Overlord is the first Wizardry scenario. Starting in the Castle, you assemble one to six adventurers to explore the magic and mystery of the ten-level 3-D Maze. Your characters may be one of five races and eight professions, each with strengths and weaknesses.
+Under your command, brawny warriors, frail magis, pious clerics, and nimble thieves accumulate experience and treasure. As your characters gain experience, they develop greater capabilities to become even better adventurers, allowing them to venture deeper into the Maze.
+Be wary! The treacherous Maze has some tricks and traps of its own. Hundreds of monsters, many with magical powers equal to your own; pits; chutes; rotating rooms; teleporters; special one-of-a-kind surprises; and much more will keep you on your toes for many hours of fun. May luck and good fortune be your companions!</desc>
+		<image>./images/Wizardry I - Proving Grounds of the Mad Overlord (Japan)-image.png</image>
+		<video>./videos/Wizardry I - Proving Grounds of the Mad Overlord (Japan)-video.mp4</video>
+		<marquee>./images/Wizardry I - Proving Grounds of the Mad Overlord (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Wizardry I - Proving Grounds of the Mad Overlord (Japan)-thumb.png</thumbnail>
+		<releasedate>20010223T000000</releasedate>
+		<developer>Sir-tech</developer>
+		<publisher>Sir-tech</publisher>
+		<genre>Role playing games</genre>
+		<family>Wizardry</family>
+		<players>1</players>
+		<md5>6b94c050291c68d6fb13c642c46873ab</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T203101" />
+	</game>
+	<game id="82947">
+		<path>./No-Intro/Wizardry II - Llylgamyn no Isan (Japan).gbc</path>
+		<name>Wizardry II : Llylgamyn no Isan</name>
+		<desc>Wizardry II: Llygamyn no Isan is a Role-Playing game, published by ASCII Entertainment, which was released in Japan in 2001.</desc>
+		<image>./images/Wizardry II - Llylgamyn no Isan (Japan)-image.png</image>
+		<video>./videos/Wizardry II - Llylgamyn no Isan (Japan)-video.mp4</video>
+		<marquee>./images/Wizardry II - Llylgamyn no Isan (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Wizardry II - Llylgamyn no Isan (Japan)-thumb.png</thumbnail>
+		<releasedate>20010223T000000</releasedate>
+		<developer>ASCII Corporation</developer>
+		<publisher>ASCII Corporation</publisher>
+		<genre>Role playing games</genre>
+		<family>Wizardry</family>
+		<players>1</players>
+		<md5>8d0a97cc2c5235656e722b0fb9627504</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T203113" />
+	</game>
+	<game id="82948">
+		<path>./No-Intro/Wizardry III - Diamond no Kishi (Japan).gbc</path>
+		<name>Wizardry III : Diamond no Kishi</name>
+		<desc>Wizardry III: Diamond no Kishi is a Role-Playing game, published by ASCII Entertainment, which was released in Japan in 2001.</desc>
+		<image>./images/Wizardry III - Diamond no Kishi (Japan)-image.png</image>
+		<video>./videos/Wizardry III - Diamond no Kishi (Japan)-video.mp4</video>
+		<marquee>./images/Wizardry III - Diamond no Kishi (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Wizardry III - Diamond no Kishi (Japan)-thumb.png</thumbnail>
+		<releasedate>20010223T000000</releasedate>
+		<developer>ASCII Corporation</developer>
+		<publisher>ASCII Corporation</publisher>
+		<genre>Role playing games</genre>
+		<family>Wizardry</family>
+		<md5>e81e4977a1380a6a0bac49bfd9e04671</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T203125" />
+	</game>
+	<game id="82952">
+		<path>./No-Intro/Woody Woodpecker (Europe) (En,Fr,De,Es,It).gbc</path>
+		<name>Woody Woodpecker</name>
+		<desc>Woody Woodpecker is an Action game, developed by Planet Interactive and published by DreamCatcher Interactive.
+
+The game takes place in the universe cartoon. For much of the adventure, the player is Woody Woodpecker. During the absence of Woody Knothead his nephew and niece Splinter were abducted by the Machiavellian Buzz Buzzard, which requires an exorbitant ransom for their release. Unwilling to pay,Woody goes in search of the missing by venturing into the huge and dangerous amusement park built by Buzz Buzzard.</desc>
+		<image>./images/Woody Woodpecker (Europe) (En,Fr,De,Es,It)-image.png</image>
+		<video>./videos/Woody Woodpecker (Europe) (En,Fr,De,Es,It)-video.mp4</video>
+		<marquee>./images/Woody Woodpecker (Europe) (En,Fr,De,Es,It)-marquee.png</marquee>
+		<thumbnail>./images/Woody Woodpecker (Europe) (En,Fr,De,Es,It)-thumb.png</thumbnail>
+		<rating>0.5</rating>
+		<releasedate>20010101T000000</releasedate>
+		<developer>Dreamcatcher</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action / Adventure</genre>
+		<family>Woody Woodpecker</family>
+		<players>1</players>
+		<md5>f66b21af086612f0f26448e63aa7a9fd</md5>
+		<lang>de,en,es,fr,it</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T203139" />
+	</game>
+	<game id="82954">
+		<path>./No-Intro/Woody Woodpecker no Go! Go! Racing (Japan).gbc</path>
+		<name>Woody Woodpecker no Go! Go! Racing</name>
+		<desc>WOODY WOODPECKER RACING brings all of the classic Woody Woodpecker characters to the Game Boy Color. You can race as 10 different characters on 16 unique tracks. The racing action takes place in four different modes: Extreme, Grand Prix, Sprint, and Time Trial. Extreme has players trying to earn cups in a series of races, where the ultimate goal is to win first place in each race. Grand Prix stages races on the same tracks, but players are awarded points based on where they finish. Doing well in the races in both modes allows you to upgrade your vehicle. Both the Sprint and Time Trial modes allow for competition without the bloodlust of the other two modes. If you want to compete against another person, you can via a link cable. Race with a hyperactive bird in WOODY WOODPECKER RACING.</desc>
+		<image>./images/Woody Woodpecker no Go! Go! Racing (Japan)-image.png</image>
+		<video>./videos/Woody Woodpecker no Go! Go! Racing (Japan)-video.mp4</video>
+		<marquee>./images/Woody Woodpecker no Go! Go! Racing (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Woody Woodpecker no Go! Go! Racing (Japan)-thumb.png</thumbnail>
+		<rating>0.6</rating>
+		<releasedate>20010315T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Race, Driving</genre>
+		<players>1-2</players>
+		<md5>59e6b58b2f788c5e72bfa93e3052869d</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T203153" />
+	</game>
+	<game id="82954">
+		<path>./No-Intro/Woody Woodpecker Racing (Europe).gbc</path>
+		<name>Woody Woodpecker Racing</name>
+		<desc>WOODY WOODPECKER RACING brings all of the classic Woody Woodpecker characters to the Game Boy Color. You can race as 10 different characters on 16 unique tracks. The racing action takes place in four different modes: Extreme, Grand Prix, Sprint, and Time Trial. Extreme has players trying to earn cups in a series of races, where the ultimate goal is to win first place in each race. Grand Prix stages races on the same tracks, but players are awarded points based on where they finish. Doing well in the races in both modes allows you to upgrade your vehicle. Both the Sprint and Time Trial modes allow for competition without the bloodlust of the other two modes. If you want to compete against another person, you can via a link cable. Race with a hyperactive bird in WOODY WOODPECKER RACING.</desc>
+		<image>./images/Woody Woodpecker Racing (Europe)-image.png</image>
+		<video>./videos/Woody Woodpecker Racing (Europe)-video.mp4</video>
+		<marquee>./images/Woody Woodpecker Racing (Europe)-marquee.png</marquee>
+		<thumbnail>./images/Woody Woodpecker Racing (Europe)-thumb.png</thumbnail>
+		<rating>0.6</rating>
+		<releasedate>20001201T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Race, Driving</genre>
+		<players>1-2</players>
+		<md5>890cc599a9ec49d5adf1cd225ebd233c</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T203209" />
+	</game>
+	<game>
+		<path>./No-Intro/World Cup (World) (Aftermarket) (Unl).gbc</path>
+		<name>World Cup (World) (Aftermarket) (Unl)</name>
+		<md5>e8a7906583a479b95e3bc26677f485a0</md5>
+		<scrap name="ScreenScraper" date="20231106T203210" />
+	</game>
+	<game id="37096">
+		<path>./No-Intro/World Soccer GB 2 (Japan) (SGB Enhanced) (GB Compatible).gbc</path>
+		<name>World Soccer GB2</name>
+		<desc>International Superstar Soccer 99 is a soccer game for the Game Boy Color. You can play a 1 player match, 2 players match or play an international cup. The game doesn't feature an official license so all player names in the game only closely resemble real player names. There are 32 national teams to play with.
+
+When you are in the defense you can make a sliding and switch players. While in offense you can make a pass or a shot. While the ball is in the air it is possible to make a header or bicycle kick.
+
+The game is displayed from the side of the field, except during penalties, when the camera is aimed directly at the goal.</desc>
+		<image>./images/World Soccer GB 2 (Japan) (SGB Enhanced) (GB Compatible)-image.png</image>
+		<video>./videos/World Soccer GB 2 (Japan) (SGB Enhanced) (GB Compatible)-video.mp4</video>
+		<marquee>./images/World Soccer GB 2 (Japan) (SGB Enhanced) (GB Compatible)-marquee.png</marquee>
+		<thumbnail>./images/World Soccer GB 2 (Japan) (SGB Enhanced) (GB Compatible)-thumb.png</thumbnail>
+		<fanart>./images/World Soccer GB 2 (Japan) (SGB Enhanced) (GB Compatible)-fanart.jpg</fanart>
+		<rating>0.6</rating>
+		<releasedate>19990624T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Sports / Soccer</genre>
+		<players>1</players>
+		<md5>ac812a2c6eaf743efd64972d8fa5a3c4</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T203227" />
+	</game>
+	<game id="37095">
+		<path>./No-Intro/World Soccer GB 2000 (Japan).gbc</path>
+		<name>World Soccer GB 2000</name>
+		<desc>International Superstar Soccer 2000 is an updated version of International Superstar Soccer 99 also for the Game Boy Color. This time you can choose between 36 national teams from all over the world. Game options have been improved to cover not only an International Cup, but also a mini league, mini tournament and penalty kicks.
+
+Game time can be set to either 3, 5 or 7 minutes and there are 5 difficulty levels for the computer. You can also choose what type of extra time you want, extended or golden goal. Other options that can be turned on or off are fouls, yellow cards and offside.
+
+Graphics for this 2000 version have been thoroughly improved.</desc>
+		<image>./images/World Soccer GB 2000 (Japan)-image.png</image>
+		<video>./videos/World Soccer GB 2000 (Japan)-video.mp4</video>
+		<marquee>./images/World Soccer GB 2000 (Japan)-marquee.png</marquee>
+		<thumbnail>./images/World Soccer GB 2000 (Japan)-thumb.png</thumbnail>
+		<fanart>./images/World Soccer GB 2000 (Japan)-fanart.jpg</fanart>
+		<rating>0.75</rating>
+		<releasedate>20000706T000000</releasedate>
+		<developer>Major A</developer>
+		<publisher>Konami</publisher>
+		<genre>Sports / Soccer</genre>
+		<players>1</players>
+		<md5>4d48457f7138c58be1589a4ddce1f02d</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T203244" />
+	</game>
+	<game id="37235">
+		<path>./No-Intro/Worms Armageddon (Europe) (Beta).gbc</path>
+		<name>Worms Armageddon</name>
+		<desc>The final sequel (at least using the present engine) to the strategy game Worms, Worms Armageddon expands on Worms 2 by improving quite a few facets of gameplay and including play over the Internet through Team 17's WORMNET. 
+
+For those who've never played Worms, it's at heart similar to the old game Artillery, which you control an artillery piece. In essence, you give it a shot angle and shot power, and try to hit your enemy, despite wind effects and the enemy firing back at you. Worms puts you in command of a team of Worms, but not only can you move around the landscape, you can use many types of weapons to try to dispatch the enemy, from bazookas to mini-guns to exploding sheep. 
+
+Everything is presented in a humorous cartoonish style, from the landscapes to the worms themselves and their cries of triumph or despair, depending on how you do.
+
+Armageddon uses an enhanced version of the Worms 2 engine, and while an improvement over Worms 2, it's not a huge change.</desc>
+		<image>./images/Worms Armageddon (Europe) (Beta)-image.png</image>
+		<video>./videos/Worms Armageddon (Europe) (Beta)-video.mp4</video>
+		<marquee>./images/Worms Armageddon (Europe) (Beta)-marquee.png</marquee>
+		<thumbnail>./images/Worms Armageddon (Europe) (Beta)-thumb.png</thumbnail>
+		<fanart>./images/Worms Armageddon (Europe) (Beta)-fanart.jpg</fanart>
+		<rating>0.7</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Infogrames</developer>
+		<publisher>Infogrames</publisher>
+		<genre>Strategy</genre>
+		<family>Worms</family>
+		<players>1-2</players>
+		<md5>01586c8122da5014abed765147e5a7bb</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T203302" />
+	</game>
+	<game id="37235">
+		<path>./No-Intro/Worms Armageddon (Europe) (En,Fr,De,Es,It,Nl).gbc</path>
+		<name>Worms Armageddon</name>
+		<desc>The final sequel (at least using the present engine) to the strategy game Worms, Worms Armageddon expands on Worms 2 by improving quite a few facets of gameplay and including play over the Internet through Team 17's WORMNET. 
+
+For those who've never played Worms, it's at heart similar to the old game Artillery, which you control an artillery piece. In essence, you give it a shot angle and shot power, and try to hit your enemy, despite wind effects and the enemy firing back at you. Worms puts you in command of a team of Worms, but not only can you move around the landscape, you can use many types of weapons to try to dispatch the enemy, from bazookas to mini-guns to exploding sheep. 
+
+Everything is presented in a humorous cartoonish style, from the landscapes to the worms themselves and their cries of triumph or despair, depending on how you do.
+
+Armageddon uses an enhanced version of the Worms 2 engine, and while an improvement over Worms 2, it's not a huge change.</desc>
+		<image>./images/Worms Armageddon (Europe) (En,Fr,De,Es,It,Nl)-image.png</image>
+		<video>./videos/Worms Armageddon (Europe) (En,Fr,De,Es,It,Nl)-video.mp4</video>
+		<marquee>./images/Worms Armageddon (Europe) (En,Fr,De,Es,It,Nl)-marquee.png</marquee>
+		<thumbnail>./images/Worms Armageddon (Europe) (En,Fr,De,Es,It,Nl)-thumb.png</thumbnail>
+		<fanart>./images/Worms Armageddon (Europe) (En,Fr,De,Es,It,Nl)-fanart.jpg</fanart>
+		<rating>0.7</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Infogrames</developer>
+		<publisher>Infogrames</publisher>
+		<genre>Strategy</genre>
+		<family>Worms</family>
+		<players>1-2</players>
+		<md5>b6b81d98a27596443792f47812f15b67</md5>
+		<lang>de,en,es,fr,it,nl</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T203320" />
+	</game>
+	<game id="37026">
+		<path>./No-Intro/X-Men - Mutant Academy (Japan).gbc</path>
+		<name>X-Men : Mutant Academy</name>
+		<desc>Like it's bigger brother on the PlayStation, X-Men: Mutant Academy on the Game Boy Color is a fighting game starring Marvel's famous mutants.
+
+The character roster includes four X-Men (Cyclops, Wolverine, Storm and Gambit) and five evil Mutants (Magneto, Toad, Mystique, Sabretooth and Pyro). There are also two additional secret characters, whose unlocking codes are revealed upon beating the game's story mode.
+
+In addition to the story mode, in which one character takes on all the others in consecutive fights, there is a training mode, battle mode (featuring teams of three characters each), survival mode (one character taking on all others with only a single bar of health) and a versus mode utilizing the Game Link cable.
+
+The Game Boy's two buttons are used for kicks and punches (or basic mutant abilities like Cyclops' eye beam). During a fight, a rage bar will slowly fill, which allows using powerful special attacks activated through button combos.</desc>
+		<image>./images/X-Men - Mutant Academy (Japan)-image.png</image>
+		<video>./videos/X-Men - Mutant Academy (Japan)-video.mp4</video>
+		<marquee>./images/X-Men - Mutant Academy (Japan)-marquee.png</marquee>
+		<thumbnail>./images/X-Men - Mutant Academy (Japan)-thumb.png</thumbnail>
+		<rating>0.65</rating>
+		<releasedate>20010427T000000</releasedate>
+		<developer>Crawfish Interactive Ltd.</developer>
+		<publisher>Activision</publisher>
+		<genre>Fight</genre>
+		<family>X-Men</family>
+		<players>1-2</players>
+		<md5>814042bfbc1ec31e5f992bde98ed613e</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T203334" />
+	</game>
+	<game id="37239">
+		<path>./No-Intro/X-Men - Wolverine's Rage (Europe).gbc</path>
+		<name>X-Men : Wolverine's Rage</name>
+		<desc>Wolverine goes it alone in this action platform title, where you take control of the most famous of the X-Men, and hack and slash your way through 20 levels of enemies and bosses. 
+
+There are 4 main things that Wolvie can achieve: 
+
+1) Hack and slash with his claws (the main attack)
+
+2) Jump (very important to get through levels)
+
+3) Heal (stay still, and he will heal a little at a time. Just be careful, each level has a limited amount of time to complete, so don't stand around too much)
+
+and 4) If you press the attack button (see (1)) several times in a row, Wolvie will go off in a rage. Although hard to control in this state, his attack range improves. He also loses a little health every time)</desc>
+		<image>./images/X-Men - Wolverine's Rage (Europe)-image.png</image>
+		<video>./videos/X-Men - Wolverine's Rage (Europe)-video.mp4</video>
+		<marquee>./images/X-Men - Wolverine's Rage (Europe)-marquee.png</marquee>
+		<thumbnail>./images/X-Men - Wolverine's Rage (Europe)-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>20010615T000000</releasedate>
+		<developer>Digital Eclipse</developer>
+		<publisher>Activision</publisher>
+		<genre>Fight</genre>
+		<family>X-Men</family>
+		<players>1</players>
+		<md5>2acf3b5fb6a9cf4c8194bbadce34aee7</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T203349" />
+	</game>
+	<game>
+		<path>./No-Intro/Xian Dan Chaoren - Ultraman (Taiwan) (Unl).gbc</path>
+		<name>Xian Dan Chaoren - Ultraman (Taiwan) (Unl)</name>
+		<md5>ed23c6ab13f2397becf476509e7e1802</md5>
+		<scrap name="ScreenScraper" date="20231106T203351" />
+	</game>
+	<game id="369380">
+		<path>./No-Intro/Xiao Taiji - Shenhua Lixian (Taiwan) (Unl).gbc</path>
+		<name>Xiao Tai Ji - Shen Hua Li Xian</name>
+		<video>./videos/Xiao Taiji - Shenhua Lixian (Taiwan) (Unl)-video.mp4</video>
+		<md5>86316563964ab9314350c99765a2454d</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231106T203356" />
+	</game>
+	<game>
+		<path>./No-Intro/Xin Fengkuang A Gei Pao Pao Tang (Taiwan) (Unl).gbc</path>
+		<name>Xin Fengkuang A Gei Pao Pao Tang (Taiwan) (Unl)</name>
+		<md5>2a2c1bd906639a49750541fe06489b9e</md5>
+		<scrap name="ScreenScraper" date="20231106T203357" />
+	</game>
+	<game id="369384">
+		<path>./No-Intro/Xin Fengshenbang (Taiwan) (Unl).gbc</path>
+		<name>Xin Feng Shen Bang</name>
+		<md5>b943d261884c20de0b2838cf1416b3a3</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231106T203359" />
+	</game>
+	<game id="369388">
+		<path>./No-Intro/Xin Guangming Yu Hei'an 2 - Zhushen de Yichan (Taiwan) (Unl).gbc</path>
+		<name>Xin Guangming Yu Hei'an 2 - Zhushen De Yichan</name>
+		<md5>18584e6b6f2e8a2cedf9ead60f51ad27</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231106T203401" />
+	</game>
+	<game id="369392">
+		<path>./No-Intro/Xin Shediao Yingxiong Chuan (Taiwan) (Unl).gbc</path>
+		<name>Xin Shediao Yingxiong Chuan</name>
+		<md5>9361a8850493dcfd7209b16052c8f9f0</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231106T203402" />
+	</game>
+	<game>
+		<path>./No-Intro/Xin Shiqi Shidai (Taiwan) (Unl).gbc</path>
+		<name>Xin Shiqi Shidai (Taiwan) (Unl)</name>
+		<md5>23eaa037089df79a1f54aa0604e34146</md5>
+		<scrap name="ScreenScraper" date="20231106T203403" />
+	</game>
+	<game id="369396">
+		<path>./No-Intro/Xingqiu Dazhan II - Kelong Ren Zhanyi (Taiwan) (Unl).gbc</path>
+		<name>Xing Qiu Da Zhan II - Ke Long Ren Zhan Yi</name>
+		<md5>60189a9f7aeda63e0745b347008280f0</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231106T203405" />
+	</game>
+	<game id="82879">
+		<path>./No-Intro/Xintiao Huiyi (Taiwan) (Unl).gbc</path>
+		<name>Tokimeki Memorial Pocket - Culture Hen - Komorebi</name>
+		<desc>The popular love simulation appears for the first time on the Game Boy. The only clubs that can be active are sports clubs. Using a communication cable, players can play against each other using the data after clearing the game.</desc>
+		<image>./images/Xintiao Huiyi (Taiwan) (Unl)-image.png</image>
+		<marquee>./images/Xintiao Huiyi (Taiwan) (Unl)-marquee.png</marquee>
+		<thumbnail>./images/Xintiao Huiyi (Taiwan) (Unl)-thumb.png</thumbnail>
+		<releasedate>19990211T000000</releasedate>
+		<developer>KCEK</developer>
+		<publisher>Konami</publisher>
+		<genre>Simulation</genre>
+		<md5>3331eb2f36baced132100ff07a1502b1</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231106T203416" />
+	</game>
+	<game id="369376">
+		<path>./No-Intro/Xiyou Ji (Taiwan) (Unl).gbc</path>
+		<name>Xi You Ji</name>
+		<md5>a0361b10f4006f1fea4b21f5403b5b95</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231106T203418" />
+	</game>
+	<game id="369400">
+		<path>./No-Intro/Xploder GB (Europe) (v1.2.3E) (GB Compatible) (Unl).gbc</path>
+		<name>Xploder GB</name>
+		<md5>5d4e5be715d0a30bf1f94bb116a34b84</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T203419" />
+	</game>
+	<game id="369400">
+		<path>./No-Intro/Xploder GB (Germany) (v1.2.2G) (GB Compatible) (Unl).gbc</path>
+		<name>Xploder GB</name>
+		<md5>ee55d33109a6cd761fb3b5f7bc21c6c0</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T203421" />
+	</game>
+	<game id="82963">
+		<path>./No-Intro/Xtreme Sports (World) (Switch).gbc</path>
+		<name>Xtreme Sports</name>
+		<desc>In the Game Boy Color version of Xtreme Sports, players compete against more than 200 computer-controlled opponents on 25 different tracks in sports such as street luge, skateboarding, inline skating, surfing and skyboarding. At the start of the game, players choose between characters Guppi and Fin and set off on a trip sponsored by the Xtreme Cola Company, which has invited all extreme sports athletes to Xtreme Sports Island to compete in a tournament. Among the people players encounter are the members of the Bone-Heads gang, who are the antagonists. The player's objective is to unravel the mystery behind them and win the tournament at the same time.
+
+There are two modes available: Practice and Xtreme Island Adventure. In the former, players can participate in 15 different challenges with 3 difficulty settings. In the latter, players move around the island participating in events and exploring the surroundings. Some of the people players meet will give the player clues to solving the mystery of the Bone-Heads while others will issue challenges to compete in various sports. Players collect medals as the player win events. Players must win a certain number of easier challenges before the referees will allow the player into the tougher ones. Along the way players can also find Twitchy Shakes, which are special drinks that will increase the player's abilities depending on the next event the player enters. Players may be able to attain higher speeds or even become invincible.</desc>
+		<image>./images/Xtreme Sports (World) (Switch)-image.png</image>
+		<video>./videos/Xtreme Sports (World) (Switch)-video.mp4</video>
+		<marquee>./images/Xtreme Sports (World) (Switch)-marquee.png</marquee>
+		<thumbnail>./images/Xtreme Sports (World) (Switch)-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>20000628T000000</releasedate>
+		<developer>Wayforward</developer>
+		<publisher>Infogrames</publisher>
+		<genre>Various</genre>
+		<players>1</players>
+		<md5>734f49ccbe8c131bf38e584a00ce7391</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231106T203435" />
+	</game>
+	<game id="82964">
+		<path>./No-Intro/Xtreme Wheels (Europe).gbc</path>
+		<name>Xtreme Wheels</name>
+		<desc>Are you bad enough to handle the best? The world's top BMX racers are ready to take you on, and you have no choice but to answer the call. You'll start at the bottom of the rankings, trying to work your way up the ladder by mastering 20 grueling courses and nailing difficult tricks. The object is to earn as many licenses as possible, which will earn you the right to compete in higher classes. Needless to say, the competition will get smarter and quicker as you advance through the ranks, so you'll need to bring your sharpest skills to the table. There are four different classes to stretch your abilities, and you can actually earn new riders by notching a few victories. XTREME WHEELS is packed with varied hills, jumps, and terrain, so you might want to start off in Exclusive Training mode to get a grip on the handling and realistic physics that the game engine delivers. If you want to be the ultimate Xtreme racer, you'd better get cracking.</desc>
+		<image>./images/Xtreme Wheels (Europe)-image.png</image>
+		<video>./videos/Xtreme Wheels (Europe)-video.mp4</video>
+		<marquee>./images/Xtreme Wheels (Europe)-marquee.png</marquee>
+		<thumbnail>./images/Xtreme Wheels (Europe)-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>20001123T000000</releasedate>
+		<developer>Spike Co</developer>
+		<publisher>Bam Entertainment</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+		<md5>90d9ddb15cc652fcd3a158a54ece8808</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T203449" />
+	</game>
+	<game id="82964">
+		<path>./No-Intro/Xtreme Wheels (Japan) (Possible Proto) (NP).gbc</path>
+		<name>Xtreme Wheels</name>
+		<desc>Are you bad enough to handle the best? The world's top BMX racers are ready to take you on, and you have no choice but to answer the call. You'll start at the bottom of the rankings, trying to work your way up the ladder by mastering 20 grueling courses and nailing difficult tricks. The object is to earn as many licenses as possible, which will earn you the right to compete in higher classes. Needless to say, the competition will get smarter and quicker as you advance through the ranks, so you'll need to bring your sharpest skills to the table. There are four different classes to stretch your abilities, and you can actually earn new riders by notching a few victories. XTREME WHEELS is packed with varied hills, jumps, and terrain, so you might want to start off in Exclusive Training mode to get a grip on the handling and realistic physics that the game engine delivers. If you want to be the ultimate Xtreme racer, you'd better get cracking.</desc>
+		<image>./images/Xtreme Wheels (Japan) (Possible Proto) (NP)-image.png</image>
+		<video>./videos/Xtreme Wheels (Japan) (Possible Proto) (NP)-video.mp4</video>
+		<marquee>./images/Xtreme Wheels (Japan) (Possible Proto) (NP)-marquee.png</marquee>
+		<thumbnail>./images/Xtreme Wheels (Japan) (Possible Proto) (NP)-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>20010426T000000</releasedate>
+		<developer>Spike Co</developer>
+		<publisher>Bam Entertainment</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+		<md5>ae0a7c2524b627b354098078def54f18</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T203502" />
+	</game>
+	<game>
+		<path>./No-Intro/Xzap (World) (Aftermarket) (Unl).gbc</path>
+		<name>Xzap (World) (Aftermarket) (Unl)</name>
+		<md5>c712c2c9955893f00a2dcc4c9444a761</md5>
+		<scrap name="ScreenScraper" date="20231106T203504" />
+	</game>
+	<game id="82965">
+		<path>./No-Intro/Yakouchuu GB (Japan).gbc</path>
+		<name>Yakouchuu GB</name>
+		<desc>An adventure game that was popular on the Super Nintendo Entertainment System (SNES) has been rearranged and ported to the Game Boy. For those who find it difficult to read, the game now displays reading kana.</desc>
+		<image>./images/Yakouchuu GB (Japan)-image.png</image>
+		<marquee>./images/Yakouchuu GB (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Yakouchuu GB (Japan)-thumb.png</thumbnail>
+		<releasedate>19991022T000000</releasedate>
+		<publisher>Athena</publisher>
+		<genre>Adventure</genre>
+		<md5>46c4958373216fbcf69a0c94946575f8</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T203516" />
+	</game>
+	<game>
+		<path>./No-Intro/Year After, The (World) (En) (Beta) (GB Compatible) (Aftermarket) (Unl).gbc</path>
+		<name>Year After, The (World) (En) (Beta) (GB Compatible) (Aftermarket) (Unl)</name>
+		<md5>4e60a2f1edbef45f0794a95dc0607234</md5>
+		<scrap name="ScreenScraper" date="20231106T203518" />
+	</game>
+	<game>
+		<path>./No-Intro/Year After, The (World) (En,Fr,Pt) (GB Compatible) (Aftermarket) (Unl).gbc</path>
+		<name>Year After, The (World) (En,Fr,Pt) (GB Compatible) (Aftermarket) (Unl)</name>
+		<md5>59558bce6ef7774132a6109d1d0a0636</md5>
+		<scrap name="ScreenScraper" date="20231106T203520" />
+	</game>
+	<game>
+		<path>./No-Intro/Year After, The (World) (Pt) (Beta) (GB Compatible) (Aftermarket) (Unl).gbc</path>
+		<name>Year After, The (World) (Pt) (Beta) (GB Compatible) (Aftermarket) (Unl)</name>
+		<md5>2f6556846cc09e6165ff05df60bb072b</md5>
+		<scrap name="ScreenScraper" date="20231106T203522" />
+	</game>
+	<game id="369404">
+		<path>./No-Intro/Yin Ban Zhongwen RPG Zhanlve + Dongzuo + Yizhi 12 in 1 (Taiwan) (Unl).gbc</path>
+		<name>Yin Ban Zhongwen RPG Zhanlve   Dongzuo   Yizhi 12 in 1</name>
+		<md5>5328277fe9c9c4b1671c5f40424c34f1</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231106T203524" />
+	</game>
+	<game>
+		<path>./No-Intro/Yinghan Zidian (Taiwan) (Unl).gbc</path>
+		<name>Yinghan Zidian (Taiwan) (Unl)</name>
+		<md5>6b3c4b0263becc3527f4a41e67588ef0</md5>
+		<scrap name="ScreenScraper" date="20231106T203526" />
+	</game>
+	<game id="369408">
+		<path>./No-Intro/Yingxiong Jian 2 (Taiwan) (Unl).gbc</path>
+		<name>Yingxiong Jian 2</name>
+		<md5>bafeee7c09f44ff52570841a135f0f9e</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231106T203528" />
+	</game>
+	<game id="369412">
+		<path>./No-Intro/Yingxiong Tianxia (Taiwan) (Zh) (Unl).gbc</path>
+		<name>Yingxiong Tianxia</name>
+		<video>./videos/Yingxiong Tianxia (Taiwan) (Zh) (Unl)-video.mp4</video>
+		<md5>48b6a0ef5009a57d3976013bf42aa81d</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231106T203533" />
+	</game>
+	<game>
+		<path>./No-Intro/Yinyang (Taiwan) (De) (Unl).gbc</path>
+		<name>Yinyang (Taiwan) (De) (Unl)</name>
+		<md5>b410f6f84f4e4be7d1e8332067984207</md5>
+		<scrap name="ScreenScraper" date="20231106T203535" />
+	</game>
+	<game>
+		<path>./No-Intro/Yixing VS Tiexue Zhanshi (Taiwan) (Unl).gbc</path>
+		<name>Yixing VS Tiexue Zhanshi (Taiwan) (Unl)</name>
+		<md5>8f9c21b8e8ff2cd19c1cfd9743d5509e</md5>
+		<scrap name="ScreenScraper" date="20231106T203537" />
+	</game>
+	<game id="369416">
+		<path>./No-Intro/Yongzhe Dou E Long VIII (Taiwan) (Unl).gbc</path>
+		<name>Yong Zhe Dou E Long VIII</name>
+		<md5>b44f01ea2d8a7d1987df04ed1424c260</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231106T203538" />
+	</game>
+	<game id="37241">
+		<path>./No-Intro/Yu-Gi-Oh! - Dark Duel Stories (Europe) (Beta).gbc</path>
+		<name>Yu-gi-oh! Dark Duel Stories</name>
+		<desc>Dark Duel Stories brings the Yu-Gi-Oh! card game to you via Gameboy Color.  Battle your way past opponents from the TV show and manga as well as your friends using the Link Cable.
+
+In Dark Duel Stories, you must defeat your opponents to advance and eventually make it to the four Rulers of Ancient Egypt who have the Millennium pieces.  As you win battles, you will get new cards as well as card parts that can be used to construct more cards.
+
+Set up your deck with monsters, traps, and spells to help you defeat your opponents.  And don't forget to bring along some fusion monsters to help when you get into trouble, or just to help finish off your opponent.</desc>
+		<image>./images/Yu-Gi-Oh! - Dark Duel Stories (Europe) (Beta)-image.png</image>
+		<video>./videos/Yu-Gi-Oh! - Dark Duel Stories (Europe) (Beta)-video.mp4</video>
+		<marquee>./images/Yu-Gi-Oh! - Dark Duel Stories (Europe) (Beta)-marquee.png</marquee>
+		<thumbnail>./images/Yu-Gi-Oh! - Dark Duel Stories (Europe) (Beta)-thumb.png</thumbnail>
+		<manual>./manuals/Yu-Gi-Oh! - Dark Duel Stories (Europe) (Beta)-manual.pdf</manual>
+		<rating>0.7</rating>
+		<releasedate>20020318T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Various</genre>
+		<family>Yu-Gi-Oh!</family>
+		<players>1-2</players>
+		<md5>1af296894ba86bfe2f51e2ff7cac9fc7</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T203557" />
+	</game>
+	<game id="37241">
+		<path>./No-Intro/Yu-Gi-Oh! - Dark Duel Stories (Europe).gbc</path>
+		<name>Yu-gi-oh! Dark Duel Stories</name>
+		<desc>Dark Duel Stories brings the Yu-Gi-Oh! card game to you via Gameboy Color.  Battle your way past opponents from the TV show and manga as well as your friends using the Link Cable.
+
+In Dark Duel Stories, you must defeat your opponents to advance and eventually make it to the four Rulers of Ancient Egypt who have the Millennium pieces.  As you win battles, you will get new cards as well as card parts that can be used to construct more cards.
+
+Set up your deck with monsters, traps, and spells to help you defeat your opponents.  And don't forget to bring along some fusion monsters to help when you get into trouble, or just to help finish off your opponent.</desc>
+		<image>./images/Yu-Gi-Oh! - Dark Duel Stories (Europe)-image.png</image>
+		<video>./videos/Yu-Gi-Oh! - Dark Duel Stories (Europe)-video.mp4</video>
+		<marquee>./images/Yu-Gi-Oh! - Dark Duel Stories (Europe)-marquee.png</marquee>
+		<thumbnail>./images/Yu-Gi-Oh! - Dark Duel Stories (Europe)-thumb.png</thumbnail>
+		<manual>./manuals/Yu-Gi-Oh! - Dark Duel Stories (Europe)-manual.pdf</manual>
+		<rating>0.7</rating>
+		<releasedate>20020318T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Various</genre>
+		<family>Yu-Gi-Oh!</family>
+		<players>1-2</players>
+		<md5>036b4944895082f5895a475f4ced3bfb</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T203614" />
+	</game>
+	<game id="37241">
+		<path>./No-Intro/Yu-Gi-Oh! - Das Dunkle Duell (Germany).gbc</path>
+		<name>Yu-Gi-Oh! : Das Dunkle Duell</name>
+		<desc>Dark Duel Stories brings the Yu-Gi-Oh! card game to you via Gameboy Color.  Battle your way past opponents from the TV show and manga as well as your friends using the Link Cable.
+
+In Dark Duel Stories, you must defeat your opponents to advance and eventually make it to the four Rulers of Ancient Egypt who have the Millennium pieces.  As you win battles, you will get new cards as well as card parts that can be used to construct more cards.
+
+Set up your deck with monsters, traps, and spells to help you defeat your opponents.  And don't forget to bring along some fusion monsters to help when you get into trouble, or just to help finish off your opponent.</desc>
+		<image>./images/Yu-Gi-Oh! - Das Dunkle Duell (Germany)-image.png</image>
+		<video>./videos/Yu-Gi-Oh! - Das Dunkle Duell (Germany)-video.mp4</video>
+		<marquee>./images/Yu-Gi-Oh! - Das Dunkle Duell (Germany)-marquee.png</marquee>
+		<thumbnail>./images/Yu-Gi-Oh! - Das Dunkle Duell (Germany)-thumb.png</thumbnail>
+		<manual>./manuals/Yu-Gi-Oh! - Das Dunkle Duell (Germany)-manual.pdf</manual>
+		<rating>0.7</rating>
+		<releasedate>20020318T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Various</genre>
+		<family>Yu-Gi-Oh!</family>
+		<players>1-2</players>
+		<md5>b928699d63702e21a3599b887b947041</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T203631" />
+	</game>
+	<game id="37241">
+		<path>./No-Intro/Yu-Gi-Oh! - Duel des Tenebres (France) (Beta).gbc</path>
+		<name>Yu-Gi-Oh! Duel des Ténèbres</name>
+		<desc>Dark Duel Stories brings the Yu-Gi-Oh! card game to you via Gameboy Color.  Battle your way past opponents from the TV show and manga as well as your friends using the Link Cable.
+
+In Dark Duel Stories, you must defeat your opponents to advance and eventually make it to the four Rulers of Ancient Egypt who have the Millennium pieces.  As you win battles, you will get new cards as well as card parts that can be used to construct more cards.
+
+Set up your deck with monsters, traps, and spells to help you defeat your opponents.  And don't forget to bring along some fusion monsters to help when you get into trouble, or just to help finish off your opponent.</desc>
+		<image>./images/Yu-Gi-Oh! - Duel des Tenebres (France) (Beta)-image.png</image>
+		<video>./videos/Yu-Gi-Oh! - Duel des Tenebres (France) (Beta)-video.mp4</video>
+		<marquee>./images/Yu-Gi-Oh! - Duel des Tenebres (France) (Beta)-marquee.png</marquee>
+		<thumbnail>./images/Yu-Gi-Oh! - Duel des Tenebres (France) (Beta)-thumb.png</thumbnail>
+		<manual>./manuals/Yu-Gi-Oh! - Duel des Tenebres (France) (Beta)-manual.pdf</manual>
+		<rating>0.7</rating>
+		<releasedate>20020318T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Various</genre>
+		<family>Yu-Gi-Oh!</family>
+		<players>1-2</players>
+		<md5>728feea5c73b9bccd9dbbdde5fa88552</md5>
+		<lang>fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T203648" />
+	</game>
+	<game id="37241">
+		<path>./No-Intro/Yu-Gi-Oh! - Duel des Tenebres (France).gbc</path>
+		<name>Yu-Gi-Oh! Duel des Ténèbres</name>
+		<desc>Dark Duel Stories brings the Yu-Gi-Oh! card game to you via Gameboy Color.  Battle your way past opponents from the TV show and manga as well as your friends using the Link Cable.
+
+In Dark Duel Stories, you must defeat your opponents to advance and eventually make it to the four Rulers of Ancient Egypt who have the Millennium pieces.  As you win battles, you will get new cards as well as card parts that can be used to construct more cards.
+
+Set up your deck with monsters, traps, and spells to help you defeat your opponents.  And don't forget to bring along some fusion monsters to help when you get into trouble, or just to help finish off your opponent.</desc>
+		<image>./images/Yu-Gi-Oh! - Duel des Tenebres (France)-image.png</image>
+		<video>./videos/Yu-Gi-Oh! - Duel des Tenebres (France)-video.mp4</video>
+		<marquee>./images/Yu-Gi-Oh! - Duel des Tenebres (France)-marquee.png</marquee>
+		<thumbnail>./images/Yu-Gi-Oh! - Duel des Tenebres (France)-thumb.png</thumbnail>
+		<manual>./manuals/Yu-Gi-Oh! - Duel des Tenebres (France)-manual.pdf</manual>
+		<rating>0.7</rating>
+		<releasedate>20020318T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Various</genre>
+		<family>Yu-Gi-Oh!</family>
+		<players>1-2</players>
+		<md5>ca9d65eba8af25068242c946c50b6753</md5>
+		<lang>fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T203708" />
+	</game>
+	<game id="37241">
+		<path>./No-Intro/Yu-Gi-Oh! - Duelo en las Tinieblas (Spain).gbc</path>
+		<name>Yu-gi-oh! Dark Duel Stories</name>
+		<desc>Dark Duel Stories brings the Yu-Gi-Oh! card game to you via Gameboy Color.  Battle your way past opponents from the TV show and manga as well as your friends using the Link Cable.
+
+In Dark Duel Stories, you must defeat your opponents to advance and eventually make it to the four Rulers of Ancient Egypt who have the Millennium pieces.  As you win battles, you will get new cards as well as card parts that can be used to construct more cards.
+
+Set up your deck with monsters, traps, and spells to help you defeat your opponents.  And don't forget to bring along some fusion monsters to help when you get into trouble, or just to help finish off your opponent.</desc>
+		<image>./images/Yu-Gi-Oh! - Duelo en las Tinieblas (Spain)-image.png</image>
+		<video>./videos/Yu-Gi-Oh! - Duelo en las Tinieblas (Spain)-video.mp4</video>
+		<marquee>./images/Yu-Gi-Oh! - Duelo en las Tinieblas (Spain)-marquee.png</marquee>
+		<thumbnail>./images/Yu-Gi-Oh! - Duelo en las Tinieblas (Spain)-thumb.png</thumbnail>
+		<manual>./manuals/Yu-Gi-Oh! - Duelo en las Tinieblas (Spain)-manual.pdf</manual>
+		<rating>0.7</rating>
+		<releasedate>20020318T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Various</genre>
+		<family>Yu-Gi-Oh!</family>
+		<players>1-2</players>
+		<md5>cdb21e5e2502dc8b9d0cc0acde7841fc</md5>
+		<lang>es</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T203726" />
+	</game>
+	<game id="82978">
+		<path>./No-Intro/Yu-Gi-Oh! - Monster Capsule GB (Japan) (SGB Enhanced) (GB Compatible).gbc</path>
+		<name>Yu-Gi-Oh! : Monster Capsule GB</name>
+		<desc>Seto Kaiba possesses the Millennium Ring and is captured by its power while his mind was shattered after losing to Dark Yugi at "Death-T". Kaiba then invites Yugi Muto and all of Yugi's friends to "Duel Tower". Once in the tower, the ring uses its power to transfer the souls of Katsuya Jonouchi, Anzu Mazaki, Hiroto Honda, Ryo Bakura, and Sugoroku Mutou. In order to get his friends and grandfather back, Yugi has to defeat Kaiba and his minions in the "Monster World Tournament" using "Monster Capsules" (MC).</desc>
+		<image>./images/Yu-Gi-Oh! - Monster Capsule GB (Japan) (SGB Enhanced) (GB Compatible)-image.png</image>
+		<marquee>./images/Yu-Gi-Oh! - Monster Capsule GB (Japan) (SGB Enhanced) (GB Compatible)-marquee.png</marquee>
+		<thumbnail>./images/Yu-Gi-Oh! - Monster Capsule GB (Japan) (SGB Enhanced) (GB Compatible)-thumb.png</thumbnail>
+		<releasedate>20000413T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Role playing games / Japanese RPG</genre>
+		<players>1</players>
+		<md5>b980da92693762bd3a7a4791fe08766e</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T203738" />
+	</game>
+	<game id="37241">
+		<path>./No-Intro/Yu-Gi-Oh! - Racconti Oscuri (Italy).gbc</path>
+		<name>Yu-Gi-Oh! : Racconti Oscuri</name>
+		<desc>Dark Duel Stories brings the Yu-Gi-Oh! card game to you via Gameboy Color.  Battle your way past opponents from the TV show and manga as well as your friends using the Link Cable.
+
+In Dark Duel Stories, you must defeat your opponents to advance and eventually make it to the four Rulers of Ancient Egypt who have the Millennium pieces.  As you win battles, you will get new cards as well as card parts that can be used to construct more cards.
+
+Set up your deck with monsters, traps, and spells to help you defeat your opponents.  And don't forget to bring along some fusion monsters to help when you get into trouble, or just to help finish off your opponent.</desc>
+		<image>./images/Yu-Gi-Oh! - Racconti Oscuri (Italy)-image.png</image>
+		<video>./videos/Yu-Gi-Oh! - Racconti Oscuri (Italy)-video.mp4</video>
+		<marquee>./images/Yu-Gi-Oh! - Racconti Oscuri (Italy)-marquee.png</marquee>
+		<thumbnail>./images/Yu-Gi-Oh! - Racconti Oscuri (Italy)-thumb.png</thumbnail>
+		<manual>./manuals/Yu-Gi-Oh! - Racconti Oscuri (Italy)-manual.pdf</manual>
+		<rating>0.7</rating>
+		<releasedate>20020318T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Various</genre>
+		<family>Yu-Gi-Oh!</family>
+		<players>1-2</players>
+		<md5>dd34a89c4839949f4a983786ec63a993</md5>
+		<lang>it</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T203755" />
+	</game>
+	<game id="82968">
+		<path>./No-Intro/Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Jounouchi Deck (Japan).gbc</path>
+		<name>Yu-Gi-Oh! Duel Monsters 4 : Battle of Great Duelist, Jounouchi Deck</name>
+		<desc>Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelist is a Japan only Yu-Gi-Oh video game for the Game Boy Color, and the fourth installment in the Duel Monsters series. It was released December 7, 2000 as three separate versions (Yugi, Kaiba, and Jounouchi), each being able to use only a certain selection of the 900 available cards.
+
+Each of the god cards are usable after completing the game, but they can only be obtained from a different version by trading:
+
+- Slifer the Sky Dragon can be used in the Yugi Deck version, obtained in the Kaiba version by defeating Yami Yugi.
+
+- Obelisk the Tormentor can be used in the Kaiba Deck version, obtained in the Jounouchi version by defeating Yami Bakura.
+
+- The Winged Dragon of Ra can be used in the Jounouchi Deck version, obtained in the Yugi version by defeating Marik.</desc>
+		<image>./images/Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Jounouchi Deck (Japan)-image.png</image>
+		<video>./videos/Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Jounouchi Deck (Japan)-video.mp4</video>
+		<marquee>./images/Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Jounouchi Deck (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Jounouchi Deck (Japan)-thumb.png</thumbnail>
+		<releasedate>20001207T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Playing cards</genre>
+		<players>1</players>
+		<md5>f84f21fd860d1d9cfb8ca6ea62a0da8f</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T203810" />
+	</game>
+	<game id="82969">
+		<path>./No-Intro/Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Kaiba Deck (Japan).gbc</path>
+		<name>Yu-Gi-Oh! Duel Monsters 4 : Battle of Great Duelist, Kaiba Deck</name>
+		<desc>Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelist is a Japan only Yu-Gi-Oh video game for the Game Boy Color, and the fourth installment in the Duel Monsters series. It was released December 7, 2000 as three separate versions (Yugi, Kaiba, and Jounouchi), each being able to use only a certain selection of the 900 available cards.</desc>
+		<image>./images/Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Kaiba Deck (Japan)-image.png</image>
+		<marquee>./images/Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Kaiba Deck (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Kaiba Deck (Japan)-thumb.png</thumbnail>
+		<releasedate>20001207T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Playing cards</genre>
+		<players>1</players>
+		<md5>19b1085c7c17a8123a7ec59f4033e92c</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T203821" />
+	</game>
+	<game id="82970">
+		<path>./No-Intro/Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Yuugi Deck (Japan).gbc</path>
+		<name>Yu-Gi-Oh! Duel Monsters 4 : Battle of Great Duelist, Yuugi Deck</name>
+		<desc>Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelist is a Japan only Yu-Gi-Oh video game for the Game Boy Color, and the fourth installment in the Duel Monsters series. It was released December 7, 2000 as three separate versions (Yugi, Kaiba, and Jounouchi), each being able to use only a certain selection of the 900 available cards.
+
+Each of the god cards are usable after completing the game, but they can only be obtained from a different version by trading:
+
+- Slifer the Sky Dragon can be used in the Yugi Deck version, obtained in the Kaiba version by defeating Yami Yugi.
+
+- Obelisk the Tormentor can be used in the Kaiba Deck version, obtained in the Jounouchi version by defeating Yami Bakura.
+
+- The Winged Dragon of Ra can be used in the Jounouchi Deck version, obtained in the Yugi version by defeating Marik.</desc>
+		<image>./images/Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Yuugi Deck (Japan)-image.png</image>
+		<marquee>./images/Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Yuugi Deck (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Yuugi Deck (Japan)-thumb.png</thumbnail>
+		<releasedate>20001207T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Playing cards</genre>
+		<players>1</players>
+		<md5>e3809354341cfb1f2ebb3e4dd1bc8828</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T203833" />
+	</game>
+	<game id="82971">
+		<path>./No-Intro/Yu-Gi-Oh! Duel Monsters II - Dark Duel Stories (Japan) (SGB Enhanced) (GB Compatible).gbc</path>
+		<name>Yu-gi-oh! Duel Monsters 2 - Yamikai Kettouki</name>
+		<desc>A game in which players battle with cards, popular in the manga "Yu-Gi-Oh! There are three ways to play the game: "Campaign," in which the objective is to defeat Pegasus J. Crawford; "Taisen," in which you fight with friends; and "Trade," in which you exchange cards.</desc>
+		<image>./images/Yu-Gi-Oh! Duel Monsters II - Dark Duel Stories (Japan) (SGB Enhanced) (GB Compatible)-image.png</image>
+		<marquee>./images/Yu-Gi-Oh! Duel Monsters II - Dark Duel Stories (Japan) (SGB Enhanced) (GB Compatible)-marquee.png</marquee>
+		<thumbnail>./images/Yu-Gi-Oh! Duel Monsters II - Dark Duel Stories (Japan) (SGB Enhanced) (GB Compatible)-thumb.png</thumbnail>
+		<releasedate>19990708T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Playing cards</genre>
+		<players>1-2</players>
+		<md5>782b88b1bf9768a2b1b139177a0c1c33</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T203844" />
+	</game>
+	<game id="37241">
+		<path>./No-Intro/Yu-Gi-Oh! Duel Monsters III - Tri Holy God Advant (Japan).gbc</path>
+		<name>Yu-Gi-Oh! Duel Monsters III : Tri Holy God Advant</name>
+		<desc>Dark Duel Stories brings the Yu-Gi-Oh! card game to you via Gameboy Color.  Battle your way past opponents from the TV show and manga as well as your friends using the Link Cable.
+
+In Dark Duel Stories, you must defeat your opponents to advance and eventually make it to the four Rulers of Ancient Egypt who have the Millennium pieces.  As you win battles, you will get new cards as well as card parts that can be used to construct more cards.
+
+Set up your deck with monsters, traps, and spells to help you defeat your opponents.  And don't forget to bring along some fusion monsters to help when you get into trouble, or just to help finish off your opponent.</desc>
+		<image>./images/Yu-Gi-Oh! Duel Monsters III - Tri Holy God Advant (Japan)-image.png</image>
+		<video>./videos/Yu-Gi-Oh! Duel Monsters III - Tri Holy God Advant (Japan)-video.mp4</video>
+		<marquee>./images/Yu-Gi-Oh! Duel Monsters III - Tri Holy God Advant (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Yu-Gi-Oh! Duel Monsters III - Tri Holy God Advant (Japan)-thumb.png</thumbnail>
+		<manual>./manuals/Yu-Gi-Oh! Duel Monsters III - Tri Holy God Advant (Japan)-manual.pdf</manual>
+		<rating>0.7</rating>
+		<releasedate>20000713T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Various</genre>
+		<family>Yu-Gi-Oh!</family>
+		<players>1-2</players>
+		<md5>560256bd5d95f16dead694d680e1c2e8</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T203859" />
+	</game>
+	<game id="369428">
+		<path>./No-Intro/Yuenan Zhanyi - Chong Jian Tian Ri (Taiwan) (Unl).gbc</path>
+		<name>Yuenan Zhanyi - Chong Jian Tian Ri</name>
+		<md5>f9726ee26bcba4308493cbbb2ae7b3ea</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231106T203900" />
+	</game>
+	<game id="369424">
+		<path>./No-Intro/Yuenan Zhanyi 3 (Taiwan) (Unl).gbc</path>
+		<name>Yue Nan Zhan Yi 3</name>
+		<md5>1fe2a6ec9deeb9b4db56f003fa3c4edb</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231106T203902" />
+	</game>
+	<game id="369432">
+		<path>./No-Intro/Yuenan Zhanyi X - Shenru Dihou (Taiwan) (Unl).gbc</path>
+		<name>Yuenan Zhanyi X - Shenru Dihou</name>
+		<md5>ba516f1573bd24659e6a73cfbd5da789</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231106T203903" />
+	</game>
+	<game>
+		<path>./No-Intro/Zagan Warrior (World) (Aftermarket) (Unl).gbc</path>
+		<name>Zagan Warrior (World) (Aftermarket) (Unl)</name>
+		<md5>a3491f8e6f09dd5945448477d4b8f79b</md5>
+		<scrap name="ScreenScraper" date="20231106T203905" />
+	</game>
+	<game>
+		<path>./No-Intro/Zap'em (World) (Aftermarket) (Unl).gbc</path>
+		<name>Zap'em (World) (Aftermarket) (Unl)</name>
+		<md5>d60bc0b1aa3f89229420f6685aafdeb8</md5>
+		<scrap name="ScreenScraper" date="20231106T203906" />
+	</game>
+	<game id="82379">
+		<path>./No-Intro/Zelda no Densetsu - Fushigi no Kinomi - Daichi no Shou (Japan).gbc</path>
+		<name>Zelda no Densetsu - Fushigi no Kinomi - Daichi no Shou</name>
+		<desc>The land of Holodrum is slowly withering. Onox, the General of Darkness, has imprisoned the Oracle of Seasons and is draining the very life out of the land. With the seasons in tumult and the forces of evil running rampant, the world looks for a hero... and finds Link. His quest won't be easy - he'll have to master the seasons themselves if he's to turn back the evil tide.</desc>
+		<image>./images/Zelda no Densetsu - Fushigi no Kinomi - Daichi no Shou (Japan)-image.png</image>
+		<video>./videos/Zelda no Densetsu - Fushigi no Kinomi - Daichi no Shou (Japan)-video.mp4</video>
+		<marquee>./images/Zelda no Densetsu - Fushigi no Kinomi - Daichi no Shou (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Zelda no Densetsu - Fushigi no Kinomi - Daichi no Shou (Japan)-thumb.png</thumbnail>
+		<fanart>./images/Zelda no Densetsu - Fushigi no Kinomi - Daichi no Shou (Japan)-fanart.jpg</fanart>
+		<manual>./manuals/Zelda no Densetsu - Fushigi no Kinomi - Daichi no Shou (Japan)-manual.pdf</manual>
+		<rating>0.9</rating>
+		<releasedate>20010227T000000</releasedate>
+		<developer>Flagship Studios</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action / Adventure</genre>
+		<family>The Legend of Zelda</family>
+		<players>1</players>
+		<md5>d3c08c1eb4f93b64c30fcb0bb7ff8924</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T203927" />
+	</game>
+	<game id="82377">
+		<path>./No-Intro/Zelda no Densetsu - Fushigi no Kinomi - Jikuu no Shou (Japan).gbc</path>
+		<name>Zelda no Densetsu - Fushigi no Kinomi - Jikuu no Shou</name>
+		<desc>Using the legendary power of the Triforce, Link travels to a distant land known as Labrynna where Veran, the Sorceress of Shadows, has developed a scheme to alter Labrynna's past. Through trickery and deceit, Veran harnesses the power of Nayru, the Oracle of Ages, and travels 400 years into the past. Before the Sorceress of Shadows can complete her dark mission, Link must use the Harp of Ages to save the day.</desc>
+		<image>./images/Zelda no Densetsu - Fushigi no Kinomi - Jikuu no Shou (Japan)-image.png</image>
+		<video>./videos/Zelda no Densetsu - Fushigi no Kinomi - Jikuu no Shou (Japan)-video.mp4</video>
+		<marquee>./images/Zelda no Densetsu - Fushigi no Kinomi - Jikuu no Shou (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Zelda no Densetsu - Fushigi no Kinomi - Jikuu no Shou (Japan)-thumb.png</thumbnail>
+		<fanart>./images/Zelda no Densetsu - Fushigi no Kinomi - Jikuu no Shou (Japan)-fanart.jpg</fanart>
+		<manual>./manuals/Zelda no Densetsu - Fushigi no Kinomi - Jikuu no Shou (Japan)-manual.pdf</manual>
+		<rating>0.9</rating>
+		<releasedate>20010227T000000</releasedate>
+		<developer>Flagship Studios</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action / Adventure</genre>
+		<family>The Legend of Zelda</family>
+		<players>1</players>
+		<md5>484020d0bf01d29f2a74322e0d4acc3a</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T203950" />
+	</game>
+	<game id="82375">
+		<path>./No-Intro/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-06-15) (GB Compatible) (Alt).gbc</path>
+		<name>Zelda no Densetsu - Yume o Miru Shima DX</name>
+		<desc>Link's latest challenge is set on the mysterious Koholint, a place where dreams and reality collide. As a castaway, Link must find a way to escape from the island and return to his beloved homeland of Hyrule. This will not be an easy task.rnrnThe island's inhabitants have no knowledge of the outside world. One creature, a talking owl, may know the solution to Link's dilemma. Link must first tackle eight dungeons full of treacherous monsters and tricky traps. His goal: find the eight instruments of the Sirens and awaken the omnipotent Wind Fish which rules the island.</desc>
+		<image>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-06-15) (GB Compatible) (Alt)-image.png</image>
+		<video>./videos/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-06-15) (GB Compatible) (Alt)-video.mp4</video>
+		<marquee>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-06-15) (GB Compatible) (Alt)-marquee.png</marquee>
+		<thumbnail>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-06-15) (GB Compatible) (Alt)-thumb.png</thumbnail>
+		<fanart>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-06-15) (GB Compatible) (Alt)-fanart.jpg</fanart>
+		<manual>./manuals/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-06-15) (GB Compatible) (Alt)-manual.pdf</manual>
+		<rating>0.9</rating>
+		<releasedate>19981212T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure</genre>
+		<family>The Legend of Zelda</family>
+		<players>1</players>
+		<md5>1163e25d9985d8e5c3544449150f4f46</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T204010" />
+	</game>
+	<game id="82375">
+		<path>./No-Intro/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-06-15) (GB Compatible).gbc</path>
+		<name>Zelda no Densetsu - Yume o Miru Shima DX</name>
+		<desc>Link's latest challenge is set on the mysterious Koholint, a place where dreams and reality collide. As a castaway, Link must find a way to escape from the island and return to his beloved homeland of Hyrule. This will not be an easy task.rnrnThe island's inhabitants have no knowledge of the outside world. One creature, a talking owl, may know the solution to Link's dilemma. Link must first tackle eight dungeons full of treacherous monsters and tricky traps. His goal: find the eight instruments of the Sirens and awaken the omnipotent Wind Fish which rules the island.</desc>
+		<image>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-06-15) (GB Compatible)-image.png</image>
+		<video>./videos/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-06-15) (GB Compatible)-video.mp4</video>
+		<marquee>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-06-15) (GB Compatible)-marquee.png</marquee>
+		<thumbnail>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-06-15) (GB Compatible)-thumb.png</thumbnail>
+		<fanart>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-06-15) (GB Compatible)-fanart.jpg</fanart>
+		<manual>./manuals/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-06-15) (GB Compatible)-manual.pdf</manual>
+		<rating>0.9</rating>
+		<releasedate>19981212T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure</genre>
+		<family>The Legend of Zelda</family>
+		<players>1</players>
+		<md5>baea8ed885dcdf816e9adddd3e1412b5</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T204033" />
+	</game>
+	<game id="82375">
+		<path>./No-Intro/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-06-30) (GB Compatible).gbc</path>
+		<name>Zelda no Densetsu - Yume o Miru Shima DX</name>
+		<desc>Link's latest challenge is set on the mysterious Koholint, a place where dreams and reality collide. As a castaway, Link must find a way to escape from the island and return to his beloved homeland of Hyrule. This will not be an easy task.rnrnThe island's inhabitants have no knowledge of the outside world. One creature, a talking owl, may know the solution to Link's dilemma. Link must first tackle eight dungeons full of treacherous monsters and tricky traps. His goal: find the eight instruments of the Sirens and awaken the omnipotent Wind Fish which rules the island.</desc>
+		<image>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-06-30) (GB Compatible)-image.png</image>
+		<video>./videos/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-06-30) (GB Compatible)-video.mp4</video>
+		<marquee>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-06-30) (GB Compatible)-marquee.png</marquee>
+		<thumbnail>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-06-30) (GB Compatible)-thumb.png</thumbnail>
+		<fanart>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-06-30) (GB Compatible)-fanart.jpg</fanart>
+		<manual>./manuals/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-06-30) (GB Compatible)-manual.pdf</manual>
+		<rating>0.9</rating>
+		<releasedate>19981212T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure</genre>
+		<family>The Legend of Zelda</family>
+		<players>1</players>
+		<md5>7afd2ead1b7b6abf6340442a5fc59390</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T204054" />
+	</game>
+	<game id="82375">
+		<path>./No-Intro/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-06-30) (GB Compatible)_0.gbc</path>
+		<name>Zelda no Densetsu - Yume o Miru Shima DX</name>
+		<desc>Link's latest challenge is set on the mysterious Koholint, a place where dreams and reality collide. As a castaway, Link must find a way to escape from the island and return to his beloved homeland of Hyrule. This will not be an easy task.rnrnThe island's inhabitants have no knowledge of the outside world. One creature, a talking owl, may know the solution to Link's dilemma. Link must first tackle eight dungeons full of treacherous monsters and tricky traps. His goal: find the eight instruments of the Sirens and awaken the omnipotent Wind Fish which rules the island.</desc>
+		<image>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-06-30) (GB Compatible)_0-image.png</image>
+		<video>./videos/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-06-30) (GB Compatible)_0-video.mp4</video>
+		<marquee>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-06-30) (GB Compatible)_0-marquee.png</marquee>
+		<thumbnail>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-06-30) (GB Compatible)_0-thumb.png</thumbnail>
+		<fanart>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-06-30) (GB Compatible)_0-fanart.jpg</fanart>
+		<manual>./manuals/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-06-30) (GB Compatible)_0-manual.pdf</manual>
+		<rating>0.9</rating>
+		<releasedate>19981212T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure</genre>
+		<family>The Legend of Zelda</family>
+		<players>1</players>
+		<md5>bc56b4a1ec8b993b06405f6eccc982b3</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T204116" />
+	</game>
+	<game id="82375">
+		<path>./No-Intro/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-05 18.00.56) (GB Compatible).gbc</path>
+		<name>Zelda no Densetsu - Yume o Miru Shima DX</name>
+		<desc>Link's latest challenge is set on the mysterious Koholint, a place where dreams and reality collide. As a castaway, Link must find a way to escape from the island and return to his beloved homeland of Hyrule. This will not be an easy task.rnrnThe island's inhabitants have no knowledge of the outside world. One creature, a talking owl, may know the solution to Link's dilemma. Link must first tackle eight dungeons full of treacherous monsters and tricky traps. His goal: find the eight instruments of the Sirens and awaken the omnipotent Wind Fish which rules the island.</desc>
+		<image>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-05 18.00.56) (GB Compatible)-image.png</image>
+		<video>./videos/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-05 18.00.56) (GB Compatible)-video.mp4</video>
+		<marquee>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-05 18.00.56) (GB Compatible)-marquee.png</marquee>
+		<thumbnail>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-05 18.00.56) (GB Compatible)-thumb.png</thumbnail>
+		<fanart>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-05 18.00.56) (GB Compatible)-fanart.jpg</fanart>
+		<manual>./manuals/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-05 18.00.56) (GB Compatible)-manual.pdf</manual>
+		<rating>0.9</rating>
+		<releasedate>19981212T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure</genre>
+		<family>The Legend of Zelda</family>
+		<players>1</players>
+		<md5>993737f05c0ad5c106079121c61e467f</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T204137" />
+	</game>
+	<game id="82375">
+		<path>./No-Intro/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-05 18.00.56) (GB Compatible)_0.gbc</path>
+		<name>Zelda no Densetsu - Yume o Miru Shima DX</name>
+		<desc>Link's latest challenge is set on the mysterious Koholint, a place where dreams and reality collide. As a castaway, Link must find a way to escape from the island and return to his beloved homeland of Hyrule. This will not be an easy task.rnrnThe island's inhabitants have no knowledge of the outside world. One creature, a talking owl, may know the solution to Link's dilemma. Link must first tackle eight dungeons full of treacherous monsters and tricky traps. His goal: find the eight instruments of the Sirens and awaken the omnipotent Wind Fish which rules the island.</desc>
+		<image>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-05 18.00.56) (GB Compatible)_0-image.png</image>
+		<video>./videos/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-05 18.00.56) (GB Compatible)_0-video.mp4</video>
+		<marquee>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-05 18.00.56) (GB Compatible)_0-marquee.png</marquee>
+		<thumbnail>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-05 18.00.56) (GB Compatible)_0-thumb.png</thumbnail>
+		<fanart>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-05 18.00.56) (GB Compatible)_0-fanart.jpg</fanart>
+		<manual>./manuals/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-05 18.00.56) (GB Compatible)_0-manual.pdf</manual>
+		<rating>0.9</rating>
+		<releasedate>19981212T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure</genre>
+		<family>The Legend of Zelda</family>
+		<players>1</players>
+		<md5>21bbb6dceb4a367431779873f6162ced</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T204159" />
+	</game>
+	<game id="82375">
+		<path>./No-Intro/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-05 21.55.32) (GB Compatible).gbc</path>
+		<name>Zelda no Densetsu - Yume o Miru Shima DX</name>
+		<desc>Link's latest challenge is set on the mysterious Koholint, a place where dreams and reality collide. As a castaway, Link must find a way to escape from the island and return to his beloved homeland of Hyrule. This will not be an easy task.rnrnThe island's inhabitants have no knowledge of the outside world. One creature, a talking owl, may know the solution to Link's dilemma. Link must first tackle eight dungeons full of treacherous monsters and tricky traps. His goal: find the eight instruments of the Sirens and awaken the omnipotent Wind Fish which rules the island.</desc>
+		<image>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-05 21.55.32) (GB Compatible)-image.png</image>
+		<video>./videos/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-05 21.55.32) (GB Compatible)-video.mp4</video>
+		<marquee>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-05 21.55.32) (GB Compatible)-marquee.png</marquee>
+		<thumbnail>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-05 21.55.32) (GB Compatible)-thumb.png</thumbnail>
+		<fanart>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-05 21.55.32) (GB Compatible)-fanart.jpg</fanart>
+		<manual>./manuals/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-05 21.55.32) (GB Compatible)-manual.pdf</manual>
+		<rating>0.9</rating>
+		<releasedate>19981212T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure</genre>
+		<family>The Legend of Zelda</family>
+		<players>1</players>
+		<md5>1174bd8ecfd6ff22e01fa754708b1e77</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T204222" />
+	</game>
+	<game id="82375">
+		<path>./No-Intro/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-05 21.55.32) (GB Compatible)_0.gbc</path>
+		<name>Zelda no Densetsu - Yume o Miru Shima DX</name>
+		<desc>Link's latest challenge is set on the mysterious Koholint, a place where dreams and reality collide. As a castaway, Link must find a way to escape from the island and return to his beloved homeland of Hyrule. This will not be an easy task.rnrnThe island's inhabitants have no knowledge of the outside world. One creature, a talking owl, may know the solution to Link's dilemma. Link must first tackle eight dungeons full of treacherous monsters and tricky traps. His goal: find the eight instruments of the Sirens and awaken the omnipotent Wind Fish which rules the island.</desc>
+		<image>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-05 21.55.32) (GB Compatible)_0-image.png</image>
+		<video>./videos/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-05 21.55.32) (GB Compatible)_0-video.mp4</video>
+		<marquee>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-05 21.55.32) (GB Compatible)_0-marquee.png</marquee>
+		<thumbnail>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-05 21.55.32) (GB Compatible)_0-thumb.png</thumbnail>
+		<fanart>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-05 21.55.32) (GB Compatible)_0-fanart.jpg</fanart>
+		<manual>./manuals/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-05 21.55.32) (GB Compatible)_0-manual.pdf</manual>
+		<rating>0.9</rating>
+		<releasedate>19981212T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure</genre>
+		<family>The Legend of Zelda</family>
+		<players>1</players>
+		<md5>d56e7601673af3c0f78def06c34c8efa</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T204244" />
+	</game>
+	<game id="82375">
+		<path>./No-Intro/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-07) (GB Compatible).gbc</path>
+		<name>Zelda no Densetsu - Yume o Miru Shima DX</name>
+		<desc>Link's latest challenge is set on the mysterious Koholint, a place where dreams and reality collide. As a castaway, Link must find a way to escape from the island and return to his beloved homeland of Hyrule. This will not be an easy task.rnrnThe island's inhabitants have no knowledge of the outside world. One creature, a talking owl, may know the solution to Link's dilemma. Link must first tackle eight dungeons full of treacherous monsters and tricky traps. His goal: find the eight instruments of the Sirens and awaken the omnipotent Wind Fish which rules the island.</desc>
+		<image>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-07) (GB Compatible)-image.png</image>
+		<video>./videos/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-07) (GB Compatible)-video.mp4</video>
+		<marquee>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-07) (GB Compatible)-marquee.png</marquee>
+		<thumbnail>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-07) (GB Compatible)-thumb.png</thumbnail>
+		<fanart>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-07) (GB Compatible)-fanart.jpg</fanart>
+		<manual>./manuals/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-07) (GB Compatible)-manual.pdf</manual>
+		<rating>0.9</rating>
+		<releasedate>19981212T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure</genre>
+		<family>The Legend of Zelda</family>
+		<players>1</players>
+		<md5>da559597564df006edb68bf68a586a1a</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T204305" />
+	</game>
+	<game id="82375">
+		<path>./No-Intro/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-07) (GB Compatible)_0.gbc</path>
+		<name>Zelda no Densetsu - Yume o Miru Shima DX</name>
+		<desc>Link's latest challenge is set on the mysterious Koholint, a place where dreams and reality collide. As a castaway, Link must find a way to escape from the island and return to his beloved homeland of Hyrule. This will not be an easy task.rnrnThe island's inhabitants have no knowledge of the outside world. One creature, a talking owl, may know the solution to Link's dilemma. Link must first tackle eight dungeons full of treacherous monsters and tricky traps. His goal: find the eight instruments of the Sirens and awaken the omnipotent Wind Fish which rules the island.</desc>
+		<image>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-07) (GB Compatible)_0-image.png</image>
+		<video>./videos/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-07) (GB Compatible)_0-video.mp4</video>
+		<marquee>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-07) (GB Compatible)_0-marquee.png</marquee>
+		<thumbnail>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-07) (GB Compatible)_0-thumb.png</thumbnail>
+		<fanart>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-07) (GB Compatible)_0-fanart.jpg</fanart>
+		<manual>./manuals/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-07) (GB Compatible)_0-manual.pdf</manual>
+		<rating>0.9</rating>
+		<releasedate>19981212T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure</genre>
+		<family>The Legend of Zelda</family>
+		<players>1</players>
+		<md5>f8228ad67881ba0b2947f7a0b67de2b1</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T204327" />
+	</game>
+	<game id="82375">
+		<path>./No-Intro/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-14 02.21.24) (GB Compatible).gbc</path>
+		<name>Zelda no Densetsu - Yume o Miru Shima DX</name>
+		<desc>Link's latest challenge is set on the mysterious Koholint, a place where dreams and reality collide. As a castaway, Link must find a way to escape from the island and return to his beloved homeland of Hyrule. This will not be an easy task.rnrnThe island's inhabitants have no knowledge of the outside world. One creature, a talking owl, may know the solution to Link's dilemma. Link must first tackle eight dungeons full of treacherous monsters and tricky traps. His goal: find the eight instruments of the Sirens and awaken the omnipotent Wind Fish which rules the island.</desc>
+		<image>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-14 02.21.24) (GB Compatible)-image.png</image>
+		<video>./videos/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-14 02.21.24) (GB Compatible)-video.mp4</video>
+		<marquee>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-14 02.21.24) (GB Compatible)-marquee.png</marquee>
+		<thumbnail>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-14 02.21.24) (GB Compatible)-thumb.png</thumbnail>
+		<fanart>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-14 02.21.24) (GB Compatible)-fanart.jpg</fanart>
+		<manual>./manuals/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-14 02.21.24) (GB Compatible)-manual.pdf</manual>
+		<rating>0.9</rating>
+		<releasedate>19981212T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure</genre>
+		<family>The Legend of Zelda</family>
+		<players>1</players>
+		<md5>1672e1168be72a0483e6b11ff717e542</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T204349" />
+	</game>
+	<game id="82375">
+		<path>./No-Intro/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-14 02.21.24) (GB Compatible)_0.gbc</path>
+		<name>Zelda no Densetsu - Yume o Miru Shima DX</name>
+		<desc>Link's latest challenge is set on the mysterious Koholint, a place where dreams and reality collide. As a castaway, Link must find a way to escape from the island and return to his beloved homeland of Hyrule. This will not be an easy task.rnrnThe island's inhabitants have no knowledge of the outside world. One creature, a talking owl, may know the solution to Link's dilemma. Link must first tackle eight dungeons full of treacherous monsters and tricky traps. His goal: find the eight instruments of the Sirens and awaken the omnipotent Wind Fish which rules the island.</desc>
+		<image>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-14 02.21.24) (GB Compatible)_0-image.png</image>
+		<video>./videos/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-14 02.21.24) (GB Compatible)_0-video.mp4</video>
+		<marquee>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-14 02.21.24) (GB Compatible)_0-marquee.png</marquee>
+		<thumbnail>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-14 02.21.24) (GB Compatible)_0-thumb.png</thumbnail>
+		<fanart>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-14 02.21.24) (GB Compatible)_0-fanart.jpg</fanart>
+		<manual>./manuals/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-14 02.21.24) (GB Compatible)_0-manual.pdf</manual>
+		<rating>0.9</rating>
+		<releasedate>19981212T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure</genre>
+		<family>The Legend of Zelda</family>
+		<players>1</players>
+		<md5>5c8af4e0a5c140ed96af55bc85828abc</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T204410" />
+	</game>
+	<game id="82375">
+		<path>./No-Intro/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-14 18.15.00) (GB Compatible).gbc</path>
+		<name>Zelda no Densetsu - Yume o Miru Shima DX</name>
+		<desc>Link's latest challenge is set on the mysterious Koholint, a place where dreams and reality collide. As a castaway, Link must find a way to escape from the island and return to his beloved homeland of Hyrule. This will not be an easy task.rnrnThe island's inhabitants have no knowledge of the outside world. One creature, a talking owl, may know the solution to Link's dilemma. Link must first tackle eight dungeons full of treacherous monsters and tricky traps. His goal: find the eight instruments of the Sirens and awaken the omnipotent Wind Fish which rules the island.</desc>
+		<image>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-14 18.15.00) (GB Compatible)-image.png</image>
+		<video>./videos/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-14 18.15.00) (GB Compatible)-video.mp4</video>
+		<marquee>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-14 18.15.00) (GB Compatible)-marquee.png</marquee>
+		<thumbnail>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-14 18.15.00) (GB Compatible)-thumb.png</thumbnail>
+		<fanart>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-14 18.15.00) (GB Compatible)-fanart.jpg</fanart>
+		<manual>./manuals/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-14 18.15.00) (GB Compatible)-manual.pdf</manual>
+		<rating>0.9</rating>
+		<releasedate>19981212T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure</genre>
+		<family>The Legend of Zelda</family>
+		<players>1</players>
+		<md5>455df3202a18dfd4e7e93a7881c10901</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T204431" />
+	</game>
+	<game id="82375">
+		<path>./No-Intro/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-11-09) (GB Compatible).gbc</path>
+		<name>Zelda no Densetsu - Yume o Miru Shima DX</name>
+		<desc>Link's latest challenge is set on the mysterious Koholint, a place where dreams and reality collide. As a castaway, Link must find a way to escape from the island and return to his beloved homeland of Hyrule. This will not be an easy task.rnrnThe island's inhabitants have no knowledge of the outside world. One creature, a talking owl, may know the solution to Link's dilemma. Link must first tackle eight dungeons full of treacherous monsters and tricky traps. His goal: find the eight instruments of the Sirens and awaken the omnipotent Wind Fish which rules the island.</desc>
+		<image>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-11-09) (GB Compatible)-image.png</image>
+		<video>./videos/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-11-09) (GB Compatible)-video.mp4</video>
+		<marquee>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-11-09) (GB Compatible)-marquee.png</marquee>
+		<thumbnail>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-11-09) (GB Compatible)-thumb.png</thumbnail>
+		<fanart>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-11-09) (GB Compatible)-fanart.jpg</fanart>
+		<manual>./manuals/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-11-09) (GB Compatible)-manual.pdf</manual>
+		<rating>0.9</rating>
+		<releasedate>19981212T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure</genre>
+		<family>The Legend of Zelda</family>
+		<players>1</players>
+		<md5>9fe3162d87054504eb82113f7ae8d6f8</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T204453" />
+	</game>
+	<game id="82375">
+		<path>./No-Intro/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 1) (Demo) (Special Version 1) (GB Compatible).gbc</path>
+		<name>Zelda no Densetsu - Yume o Miru Shima DX</name>
+		<desc>Link's latest challenge is set on the mysterious Koholint, a place where dreams and reality collide. As a castaway, Link must find a way to escape from the island and return to his beloved homeland of Hyrule. This will not be an easy task.rnrnThe island's inhabitants have no knowledge of the outside world. One creature, a talking owl, may know the solution to Link's dilemma. Link must first tackle eight dungeons full of treacherous monsters and tricky traps. His goal: find the eight instruments of the Sirens and awaken the omnipotent Wind Fish which rules the island.</desc>
+		<image>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 1) (Demo) (Special Version 1) (GB Compatible)-image.png</image>
+		<video>./videos/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 1) (Demo) (Special Version 1) (GB Compatible)-video.mp4</video>
+		<marquee>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 1) (Demo) (Special Version 1) (GB Compatible)-marquee.png</marquee>
+		<thumbnail>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 1) (Demo) (Special Version 1) (GB Compatible)-thumb.png</thumbnail>
+		<fanart>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 1) (Demo) (Special Version 1) (GB Compatible)-fanart.jpg</fanart>
+		<manual>./manuals/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 1) (Demo) (Special Version 1) (GB Compatible)-manual.pdf</manual>
+		<rating>0.9</rating>
+		<releasedate>19981212T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure</genre>
+		<family>The Legend of Zelda</family>
+		<players>1</players>
+		<md5>1921ad6fce6de3550cd697594f41cfac</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T204514" />
+	</game>
+	<game id="82375">
+		<path>./No-Intro/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 1) (Demo) (Special Version 2) (GB Compatible).gbc</path>
+		<name>Zelda no Densetsu - Yume o Miru Shima DX</name>
+		<desc>Link's latest challenge is set on the mysterious Koholint, a place where dreams and reality collide. As a castaway, Link must find a way to escape from the island and return to his beloved homeland of Hyrule. This will not be an easy task.rnrnThe island's inhabitants have no knowledge of the outside world. One creature, a talking owl, may know the solution to Link's dilemma. Link must first tackle eight dungeons full of treacherous monsters and tricky traps. His goal: find the eight instruments of the Sirens and awaken the omnipotent Wind Fish which rules the island.</desc>
+		<image>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 1) (Demo) (Special Version 2) (GB Compatible)-image.png</image>
+		<video>./videos/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 1) (Demo) (Special Version 2) (GB Compatible)-video.mp4</video>
+		<marquee>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 1) (Demo) (Special Version 2) (GB Compatible)-marquee.png</marquee>
+		<thumbnail>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 1) (Demo) (Special Version 2) (GB Compatible)-thumb.png</thumbnail>
+		<fanart>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 1) (Demo) (Special Version 2) (GB Compatible)-fanart.jpg</fanart>
+		<manual>./manuals/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 1) (Demo) (Special Version 2) (GB Compatible)-manual.pdf</manual>
+		<rating>0.9</rating>
+		<releasedate>19981212T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure</genre>
+		<family>The Legend of Zelda</family>
+		<players>1</players>
+		<md5>48633045e23f971a72f9fecf6547fe52</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T204536" />
+	</game>
+	<game id="82375">
+		<path>./No-Intro/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 1) (SGB Enhanced) (GB Compatible).gbc</path>
+		<name>Zelda no Densetsu - Yume o Miru Shima DX</name>
+		<desc>Link's latest challenge is set on the mysterious Koholint, a place where dreams and reality collide. As a castaway, Link must find a way to escape from the island and return to his beloved homeland of Hyrule. This will not be an easy task.rnrnThe island's inhabitants have no knowledge of the outside world. One creature, a talking owl, may know the solution to Link's dilemma. Link must first tackle eight dungeons full of treacherous monsters and tricky traps. His goal: find the eight instruments of the Sirens and awaken the omnipotent Wind Fish which rules the island.</desc>
+		<image>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)-image.png</image>
+		<video>./videos/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)-video.mp4</video>
+		<marquee>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)-marquee.png</marquee>
+		<thumbnail>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)-thumb.png</thumbnail>
+		<fanart>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)-fanart.jpg</fanart>
+		<manual>./manuals/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)-manual.pdf</manual>
+		<rating>0.9</rating>
+		<releasedate>19981212T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure</genre>
+		<family>The Legend of Zelda</family>
+		<players>1</players>
+		<md5>6d8f9cd72201caabdfd0455a819af9ce</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T204600" />
+	</game>
+	<game id="82375">
+		<path>./No-Intro/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-08-02) (SGB Enhanced).gbc</path>
+		<name>Zelda no Densetsu - Yume o Miru Shima DX</name>
+		<desc>Link's latest challenge is set on the mysterious Koholint, a place where dreams and reality collide. As a castaway, Link must find a way to escape from the island and return to his beloved homeland of Hyrule. This will not be an easy task.rnrnThe island's inhabitants have no knowledge of the outside world. One creature, a talking owl, may know the solution to Link's dilemma. Link must first tackle eight dungeons full of treacherous monsters and tricky traps. His goal: find the eight instruments of the Sirens and awaken the omnipotent Wind Fish which rules the island.</desc>
+		<image>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-08-02) (SGB Enhanced)-image.png</image>
+		<video>./videos/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-08-02) (SGB Enhanced)-video.mp4</video>
+		<marquee>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-08-02) (SGB Enhanced)-marquee.png</marquee>
+		<thumbnail>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-08-02) (SGB Enhanced)-thumb.png</thumbnail>
+		<fanart>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-08-02) (SGB Enhanced)-fanart.jpg</fanart>
+		<manual>./manuals/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-08-02) (SGB Enhanced)-manual.pdf</manual>
+		<rating>0.9</rating>
+		<releasedate>19981212T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure</genre>
+		<family>The Legend of Zelda</family>
+		<players>1</players>
+		<md5>75ea1034b4b26358e74874ad5f33dce4</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T204623" />
+	</game>
+	<game id="82375">
+		<path>./No-Intro/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-08-03) (SGB Enhanced).gbc</path>
+		<name>Zelda no Densetsu - Yume o Miru Shima DX</name>
+		<desc>Link's latest challenge is set on the mysterious Koholint, a place where dreams and reality collide. As a castaway, Link must find a way to escape from the island and return to his beloved homeland of Hyrule. This will not be an easy task.rnrnThe island's inhabitants have no knowledge of the outside world. One creature, a talking owl, may know the solution to Link's dilemma. Link must first tackle eight dungeons full of treacherous monsters and tricky traps. His goal: find the eight instruments of the Sirens and awaken the omnipotent Wind Fish which rules the island.</desc>
+		<image>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-08-03) (SGB Enhanced)-image.png</image>
+		<video>./videos/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-08-03) (SGB Enhanced)-video.mp4</video>
+		<marquee>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-08-03) (SGB Enhanced)-marquee.png</marquee>
+		<thumbnail>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-08-03) (SGB Enhanced)-thumb.png</thumbnail>
+		<fanart>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-08-03) (SGB Enhanced)-fanart.jpg</fanart>
+		<manual>./manuals/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-08-03) (SGB Enhanced)-manual.pdf</manual>
+		<rating>0.9</rating>
+		<releasedate>19981212T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure</genre>
+		<family>The Legend of Zelda</family>
+		<players>1</players>
+		<md5>d6acc2206f227aacd81b22edcab2da1c</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T204646" />
+	</game>
+	<game id="82375">
+		<path>./No-Intro/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-08-04) (SGB Enhanced).gbc</path>
+		<name>Zelda no Densetsu - Yume o Miru Shima DX</name>
+		<desc>Link's latest challenge is set on the mysterious Koholint, a place where dreams and reality collide. As a castaway, Link must find a way to escape from the island and return to his beloved homeland of Hyrule. This will not be an easy task.rnrnThe island's inhabitants have no knowledge of the outside world. One creature, a talking owl, may know the solution to Link's dilemma. Link must first tackle eight dungeons full of treacherous monsters and tricky traps. His goal: find the eight instruments of the Sirens and awaken the omnipotent Wind Fish which rules the island.</desc>
+		<image>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-08-04) (SGB Enhanced)-image.png</image>
+		<video>./videos/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-08-04) (SGB Enhanced)-video.mp4</video>
+		<marquee>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-08-04) (SGB Enhanced)-marquee.png</marquee>
+		<thumbnail>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-08-04) (SGB Enhanced)-thumb.png</thumbnail>
+		<fanart>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-08-04) (SGB Enhanced)-fanart.jpg</fanart>
+		<manual>./manuals/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-08-04) (SGB Enhanced)-manual.pdf</manual>
+		<rating>0.9</rating>
+		<releasedate>19981212T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure</genre>
+		<family>The Legend of Zelda</family>
+		<players>1</players>
+		<md5>195b6daf6b2a3e28ab7a61170a7d7833</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T204709" />
+	</game>
+	<game id="82375">
+		<path>./No-Intro/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-08-07) (SGB Enhanced).gbc</path>
+		<name>Zelda no Densetsu - Yume o Miru Shima DX</name>
+		<desc>Link's latest challenge is set on the mysterious Koholint, a place where dreams and reality collide. As a castaway, Link must find a way to escape from the island and return to his beloved homeland of Hyrule. This will not be an easy task.rnrnThe island's inhabitants have no knowledge of the outside world. One creature, a talking owl, may know the solution to Link's dilemma. Link must first tackle eight dungeons full of treacherous monsters and tricky traps. His goal: find the eight instruments of the Sirens and awaken the omnipotent Wind Fish which rules the island.</desc>
+		<image>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-08-07) (SGB Enhanced)-image.png</image>
+		<video>./videos/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-08-07) (SGB Enhanced)-video.mp4</video>
+		<marquee>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-08-07) (SGB Enhanced)-marquee.png</marquee>
+		<thumbnail>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-08-07) (SGB Enhanced)-thumb.png</thumbnail>
+		<fanart>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-08-07) (SGB Enhanced)-fanart.jpg</fanart>
+		<manual>./manuals/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-08-07) (SGB Enhanced)-manual.pdf</manual>
+		<rating>0.9</rating>
+		<releasedate>19981212T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure</genre>
+		<family>The Legend of Zelda</family>
+		<players>1</players>
+		<md5>09cefdbbb38503e91dd666aeca68871a</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T204732" />
+	</game>
+	<game id="82375">
+		<path>./No-Intro/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-08-07d) (SGB Enhanced).gbc</path>
+		<name>Zelda no Densetsu - Yume o Miru Shima DX</name>
+		<desc>Link's latest challenge is set on the mysterious Koholint, a place where dreams and reality collide. As a castaway, Link must find a way to escape from the island and return to his beloved homeland of Hyrule. This will not be an easy task.rnrnThe island's inhabitants have no knowledge of the outside world. One creature, a talking owl, may know the solution to Link's dilemma. Link must first tackle eight dungeons full of treacherous monsters and tricky traps. His goal: find the eight instruments of the Sirens and awaken the omnipotent Wind Fish which rules the island.</desc>
+		<image>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-08-07d) (SGB Enhanced)-image.png</image>
+		<video>./videos/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-08-07d) (SGB Enhanced)-video.mp4</video>
+		<marquee>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-08-07d) (SGB Enhanced)-marquee.png</marquee>
+		<thumbnail>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-08-07d) (SGB Enhanced)-thumb.png</thumbnail>
+		<fanart>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-08-07d) (SGB Enhanced)-fanart.jpg</fanart>
+		<manual>./manuals/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-08-07d) (SGB Enhanced)-manual.pdf</manual>
+		<rating>0.9</rating>
+		<releasedate>19981212T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure</genre>
+		<family>The Legend of Zelda</family>
+		<players>1</players>
+		<md5>132ab194cd0332a61f3db66084f6dc4e</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T204755" />
+	</game>
+	<game id="82375">
+		<path>./No-Intro/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-08-07s) (SGB Enhanced).gbc</path>
+		<name>Zelda no Densetsu - Yume o Miru Shima DX</name>
+		<desc>Link's latest challenge is set on the mysterious Koholint, a place where dreams and reality collide. As a castaway, Link must find a way to escape from the island and return to his beloved homeland of Hyrule. This will not be an easy task.rnrnThe island's inhabitants have no knowledge of the outside world. One creature, a talking owl, may know the solution to Link's dilemma. Link must first tackle eight dungeons full of treacherous monsters and tricky traps. His goal: find the eight instruments of the Sirens and awaken the omnipotent Wind Fish which rules the island.</desc>
+		<image>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-08-07s) (SGB Enhanced)-image.png</image>
+		<video>./videos/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-08-07s) (SGB Enhanced)-video.mp4</video>
+		<marquee>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-08-07s) (SGB Enhanced)-marquee.png</marquee>
+		<thumbnail>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-08-07s) (SGB Enhanced)-thumb.png</thumbnail>
+		<fanart>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-08-07s) (SGB Enhanced)-fanart.jpg</fanart>
+		<manual>./manuals/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-08-07s) (SGB Enhanced)-manual.pdf</manual>
+		<rating>0.9</rating>
+		<releasedate>19981212T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure</genre>
+		<family>The Legend of Zelda</family>
+		<players>1</players>
+		<md5>dbc9bc98ad0f7730b9136d98992ae656</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T204818" />
+	</game>
+	<game id="82375">
+		<path>./No-Intro/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-09-04) (SGB Enhanced).gbc</path>
+		<name>Zelda no Densetsu - Yume o Miru Shima DX</name>
+		<desc>Link's latest challenge is set on the mysterious Koholint, a place where dreams and reality collide. As a castaway, Link must find a way to escape from the island and return to his beloved homeland of Hyrule. This will not be an easy task.rnrnThe island's inhabitants have no knowledge of the outside world. One creature, a talking owl, may know the solution to Link's dilemma. Link must first tackle eight dungeons full of treacherous monsters and tricky traps. His goal: find the eight instruments of the Sirens and awaken the omnipotent Wind Fish which rules the island.</desc>
+		<image>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-09-04) (SGB Enhanced)-image.png</image>
+		<video>./videos/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-09-04) (SGB Enhanced)-video.mp4</video>
+		<marquee>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-09-04) (SGB Enhanced)-marquee.png</marquee>
+		<thumbnail>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-09-04) (SGB Enhanced)-thumb.png</thumbnail>
+		<fanart>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-09-04) (SGB Enhanced)-fanart.jpg</fanart>
+		<manual>./manuals/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-09-04) (SGB Enhanced)-manual.pdf</manual>
+		<rating>0.9</rating>
+		<releasedate>19981212T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure</genre>
+		<family>The Legend of Zelda</family>
+		<players>1</players>
+		<md5>821355e18a306e73ee015ab0ba8510b0</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T204839" />
+	</game>
+	<game id="82375">
+		<path>./No-Intro/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-09-22) (SGB Enhanced) (GB Compatible).gbc</path>
+		<name>Zelda no Densetsu - Yume o Miru Shima DX</name>
+		<desc>Link's latest challenge is set on the mysterious Koholint, a place where dreams and reality collide. As a castaway, Link must find a way to escape from the island and return to his beloved homeland of Hyrule. This will not be an easy task.rnrnThe island's inhabitants have no knowledge of the outside world. One creature, a talking owl, may know the solution to Link's dilemma. Link must first tackle eight dungeons full of treacherous monsters and tricky traps. His goal: find the eight instruments of the Sirens and awaken the omnipotent Wind Fish which rules the island.</desc>
+		<image>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-09-22) (SGB Enhanced) (GB Compatible)-image.png</image>
+		<video>./videos/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-09-22) (SGB Enhanced) (GB Compatible)-video.mp4</video>
+		<marquee>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-09-22) (SGB Enhanced) (GB Compatible)-marquee.png</marquee>
+		<thumbnail>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-09-22) (SGB Enhanced) (GB Compatible)-thumb.png</thumbnail>
+		<fanart>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-09-22) (SGB Enhanced) (GB Compatible)-fanart.jpg</fanart>
+		<manual>./manuals/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-09-22) (SGB Enhanced) (GB Compatible)-manual.pdf</manual>
+		<rating>0.9</rating>
+		<releasedate>19981212T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure</genre>
+		<family>The Legend of Zelda</family>
+		<players>1</players>
+		<md5>0e68060f26f64257bcae0b1e820e5e4e</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T204857" />
+	</game>
+	<game id="82375">
+		<path>./No-Intro/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (SGB Enhanced) (GB Compatible).gbc</path>
+		<name>Zelda no Densetsu - Yume o Miru Shima DX</name>
+		<desc>Link's latest challenge is set on the mysterious Koholint, a place where dreams and reality collide. As a castaway, Link must find a way to escape from the island and return to his beloved homeland of Hyrule. This will not be an easy task.rnrnThe island's inhabitants have no knowledge of the outside world. One creature, a talking owl, may know the solution to Link's dilemma. Link must first tackle eight dungeons full of treacherous monsters and tricky traps. His goal: find the eight instruments of the Sirens and awaken the omnipotent Wind Fish which rules the island.</desc>
+		<image>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (SGB Enhanced) (GB Compatible)-image.png</image>
+		<video>./videos/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (SGB Enhanced) (GB Compatible)-video.mp4</video>
+		<marquee>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (SGB Enhanced) (GB Compatible)-marquee.png</marquee>
+		<thumbnail>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (SGB Enhanced) (GB Compatible)-thumb.png</thumbnail>
+		<fanart>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (SGB Enhanced) (GB Compatible)-fanart.jpg</fanart>
+		<manual>./manuals/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (SGB Enhanced) (GB Compatible)-manual.pdf</manual>
+		<rating>0.9</rating>
+		<releasedate>19981212T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure</genre>
+		<family>The Legend of Zelda</family>
+		<players>1</players>
+		<md5>2e2596c008d47df901394d28f5bd66ec</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T204914" />
+	</game>
+	<game id="82375">
+		<path>./No-Intro/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (SGB Enhanced) (GB Compatible).gbc</path>
+		<name>Zelda no Densetsu - Yume o Miru Shima DX</name>
+		<desc>Link's latest challenge is set on the mysterious Koholint, a place where dreams and reality collide. As a castaway, Link must find a way to escape from the island and return to his beloved homeland of Hyrule. This will not be an easy task.rnrnThe island's inhabitants have no knowledge of the outside world. One creature, a talking owl, may know the solution to Link's dilemma. Link must first tackle eight dungeons full of treacherous monsters and tricky traps. His goal: find the eight instruments of the Sirens and awaken the omnipotent Wind Fish which rules the island.</desc>
+		<image>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (SGB Enhanced) (GB Compatible)-image.png</image>
+		<video>./videos/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (SGB Enhanced) (GB Compatible)-video.mp4</video>
+		<marquee>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (SGB Enhanced) (GB Compatible)-marquee.png</marquee>
+		<thumbnail>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (SGB Enhanced) (GB Compatible)-thumb.png</thumbnail>
+		<fanart>./images/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (SGB Enhanced) (GB Compatible)-fanart.jpg</fanart>
+		<manual>./manuals/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (SGB Enhanced) (GB Compatible)-manual.pdf</manual>
+		<rating>0.9</rating>
+		<releasedate>19981212T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure</genre>
+		<family>The Legend of Zelda</family>
+		<players>1</players>
+		<md5>f75874e3654360094fc2b09bd1fed7e8</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T204938" />
+	</game>
+	<game id="82983">
+		<path>./No-Intro/Zen-Nihon Shounen Soccer Taikai - Mezase Nihon Ichi! (Japan).gbc</path>
+		<name>Zen-Nihon Shounen Soccer Taikai : Mezase Nihon Ichi!</name>
+		<desc>As the leader of a youth soccer team, you train your players through practices and games, and aim to win the national championship. You can also play against your friends using a communication cable.</desc>
+		<image>./images/Zen-Nihon Shounen Soccer Taikai - Mezase Nihon Ichi! (Japan)-image.png</image>
+		<marquee>./images/Zen-Nihon Shounen Soccer Taikai - Mezase Nihon Ichi! (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Zen-Nihon Shounen Soccer Taikai - Mezase Nihon Ichi! (Japan)-thumb.png</thumbnail>
+		<releasedate>20010907T000000</releasedate>
+		<developer>Boom</developer>
+		<publisher>Success</publisher>
+		<genre>Sports / Soccer</genre>
+		<md5>2cdd3d78009afdad0a49ded398ff17c9</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T204949" />
+	</game>
+	<game>
+		<path>./No-Intro/Zephyr's Pass (World) (v1.02) (Demo) (Aftermarket) (Unl).gbc</path>
+		<name>Zephyr's Pass (World) (v1.02) (Demo) (Aftermarket) (Unl)</name>
+		<md5>cc8e547eeaa0fa546b122e968d403d48</md5>
+		<scrap name="ScreenScraper" date="20231106T204951" />
+	</game>
+	<game id="369440">
+		<path>./No-Intro/Zhen Sanguo Wushuang 2 - Shin Sangokumusou (Taiwan) (Unl).gbc</path>
+		<name>Zhen San Guo Wu Shuang 2 - Shin Sangokumusou</name>
+		<md5>2fdba20dd19facd380180babc007c56e</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231106T204953" />
+	</game>
+	<game id="369444">
+		<path>./No-Intro/Zhihuan Wang - Shoubu Qu (Taiwan) (Zh) (Unl).gbc</path>
+		<name>Zhi Huan Wang - Shou Bu Qu</name>
+		<md5>dedb5679bb7fd73893272195e3c48d9e</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231106T204955" />
+	</game>
+	<game id="369448">
+		<path>./No-Intro/Zhizhu Xia III - Dianying Ban (Taiwan) (Unl).gbc</path>
+		<name>Zhi Zhu Xia III - Dian Ying Ban</name>
+		<md5>d197d271f067afb8a4e41c1336e03098</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231106T204957" />
+	</game>
+	<game id="82984">
+		<path>./No-Intro/Zidane - Football Generation (Europe) (En,Fr,De,Es,It) (Beta).gbc</path>
+		<name>Zidane Football Generation</name>
+		<desc>Live the ultimate football experience with Zidane Football Generation:
+
+- Three different views available during the match.
+- Three game modes: Friendly, arcade, tournament.
+- 16 national teams at different levels.
+- Save games during tournaments.
+
+And not forgetting the star himself, Zidane!</desc>
+		<image>./images/Zidane - Football Generation (Europe) (En,Fr,De,Es,It) (Beta)-image.png</image>
+		<video>./videos/Zidane - Football Generation (Europe) (En,Fr,De,Es,It) (Beta)-video.mp4</video>
+		<marquee>./images/Zidane - Football Generation (Europe) (En,Fr,De,Es,It) (Beta)-marquee.png</marquee>
+		<thumbnail>./images/Zidane - Football Generation (Europe) (En,Fr,De,Es,It) (Beta)-thumb.png</thumbnail>
+		<releasedate>20020614T000000</releasedate>
+		<developer>Cryo Interactive</developer>
+		<publisher>Aqua Pacific</publisher>
+		<md5>9afe57208b564946dec44244409a9a15</md5>
+		<lang>de,en,es,fr,it</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T205012" />
+	</game>
+	<game id="82984">
+		<path>./No-Intro/Zidane - Football Generation (Europe) (En,Fr,De,Es,It).gbc</path>
+		<name>Zidane Football Generation</name>
+		<desc>Live the ultimate football experience with Zidane Football Generation:
+
+- Three different views available during the match.
+- Three game modes: Friendly, arcade, tournament.
+- 16 national teams at different levels.
+- Save games during tournaments.
+
+And not forgetting the star himself, Zidane!</desc>
+		<image>./images/Zidane - Football Generation (Europe) (En,Fr,De,Es,It)-image.png</image>
+		<video>./videos/Zidane - Football Generation (Europe) (En,Fr,De,Es,It)-video.mp4</video>
+		<marquee>./images/Zidane - Football Generation (Europe) (En,Fr,De,Es,It)-marquee.png</marquee>
+		<thumbnail>./images/Zidane - Football Generation (Europe) (En,Fr,De,Es,It)-thumb.png</thumbnail>
+		<releasedate>20020614T000000</releasedate>
+		<developer>Cryo Interactive</developer>
+		<publisher>Aqua Pacific</publisher>
+		<md5>0044c80fb6c6c7c49466dafe6637d61a</md5>
+		<lang>de,en,es,fr,it</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231106T205025" />
+	</game>
+	<game>
+		<path>./No-Intro/Zodiac (World) (Aftermarket) (Unl).gbc</path>
+		<name>Zodiac (World) (Aftermarket) (Unl)</name>
+		<md5>9b9be252c3ac04112068db69c4c56512</md5>
+		<scrap name="ScreenScraper" date="20231106T205027" />
+	</game>
+	<game id="82988">
+		<path>./No-Intro/Zoids - Jashin Fukkatsu! Genobreaker Hen (Japan) (Rev 1) (SGB Enhanced) (GB Compatible).gbc</path>
+		<name>Zoids : Jashin Fukkatsu! Genobreaker Hen</name>
+		<desc>An RPG based on the popular "Zoids" cartoon series, this game allows players to strengthen their Zoids by modifying them to face off against powerful enemies. The way Zoids attack changes depending on the parts they are equipped with.</desc>
+		<image>./images/Zoids - Jashin Fukkatsu! Genobreaker Hen (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)-image.png</image>
+		<marquee>./images/Zoids - Jashin Fukkatsu! Genobreaker Hen (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)-marquee.png</marquee>
+		<thumbnail>./images/Zoids - Jashin Fukkatsu! Genobreaker Hen (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)-thumb.png</thumbnail>
+		<releasedate>20000804T000000</releasedate>
+		<developer>Will</developer>
+		<publisher>Tomy</publisher>
+		<genre>Role playing games</genre>
+		<md5>acd26c013ffa1c3a7905be69dd79c67c</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T205039" />
+	</game>
+	<game id="82988">
+		<path>./No-Intro/Zoids - Jashin Fukkatsu! Genobreaker Hen (Japan) (SGB Enhanced) (GB Compatible).gbc</path>
+		<name>Zoids : Jashin Fukkatsu! Genobreaker Hen</name>
+		<desc>An RPG based on the popular "Zoids" cartoon series, this game allows players to strengthen their Zoids by modifying them to face off against powerful enemies. The way Zoids attack changes depending on the parts they are equipped with.</desc>
+		<image>./images/Zoids - Jashin Fukkatsu! Genobreaker Hen (Japan) (SGB Enhanced) (GB Compatible)-image.png</image>
+		<marquee>./images/Zoids - Jashin Fukkatsu! Genobreaker Hen (Japan) (SGB Enhanced) (GB Compatible)-marquee.png</marquee>
+		<thumbnail>./images/Zoids - Jashin Fukkatsu! Genobreaker Hen (Japan) (SGB Enhanced) (GB Compatible)-thumb.png</thumbnail>
+		<releasedate>20000804T000000</releasedate>
+		<developer>Will</developer>
+		<publisher>Tomy</publisher>
+		<genre>Role playing games</genre>
+		<md5>e2f33aaf29750f1142b2b6017b454bd4</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T205049" />
+	</game>
+	<game id="82991">
+		<path>./No-Intro/Zoids - Shirogane no Juukishin Liger Zero (Japan).gbc</path>
+		<name>Zoids : Shirogane no Juukishin Liger Zero</name>
+		<desc>The adventures of Allstar and his silver Liger Zero. During a battle, he and his rival Solid (who pilots a Super Geno Saurer, a variant with four long-range cannons) fall into an underground world. Allstar teams up with a girl he meets there, Party, to combat the unpiloted Berserk Führer that has been attacking villages, as his Liger Zero is foretold to be the underground world's savior and thus the only one that can stop it.</desc>
+		<image>./images/Zoids - Shirogane no Juukishin Liger Zero (Japan)-image.png</image>
+		<marquee>./images/Zoids - Shirogane no Juukishin Liger Zero (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Zoids - Shirogane no Juukishin Liger Zero (Japan)-thumb.png</thumbnail>
+		<releasedate>20010615T000000</releasedate>
+		<developer>Tomy</developer>
+		<publisher>Tomy</publisher>
+		<genre>Role playing games</genre>
+		<md5>77836df2b2ce5284e4dda233e118b914</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T205059" />
+	</game>
+	<game id="82992">
+		<path>./No-Intro/Zok Zok Heroes (Japan).gbc</path>
+		<name>Zok Zok Heroes</name>
+		<desc>An RPG in which players transform into various heroes to fight against an evil army.</desc>
+		<image>./images/Zok Zok Heroes (Japan)-image.png</image>
+		<marquee>./images/Zok Zok Heroes (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Zok Zok Heroes (Japan)-thumb.png</thumbnail>
+		<releasedate>20000804T000000</releasedate>
+		<developer>KAZe</developer>
+		<publisher>KAZe</publisher>
+		<genre>Role playing games</genre>
+		<md5>e4874674056451f1df22c2cbf7a25f93</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T205109" />
+	</game>
+	<game>
+		<path>./No-Intro/Zone Control (World) (Aftermarket) (Unl).gbc</path>
+		<name>Zone Control (World) (Aftermarket) (Unl)</name>
+		<md5>13b960d82856078a62f012fa3183697e</md5>
+		<scrap name="ScreenScraper" date="20231106T205111" />
+	</game>
+	<game>
+		<path>./No-Intro/[BIOS] Genius GB Backup Station (Taiwan) (Unl).gbc</path>
+		<name>[BIOS] Genius GB Backup Station (Taiwan) (Unl)</name>
+		<md5>bcb9bb36dbf9d1659ab37a926ce5c68b</md5>
+		<scrap name="ScreenScraper" date="20231106T205112" />
+	</game>
+	<game id="46339">
+		<path>./No-Intro/[BIOS] Nintendo Game Boy Color Boot ROM (Japan) (En).gbc</path>
+		<name>ZZZ(notgame):[bios] Nintendo Game Boy Color Boot Rom</name>
+		<image>./images/[BIOS] Nintendo Game Boy Color Boot ROM (Japan) (En)-image.png</image>
+		<genre>Shooter</genre>
+		<hidden>true</hidden>
+		<md5>7c773f3c0b01cb73bca8e83227287b7f</md5>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T205117" />
+	</game>
+	<game>
+		<path>./No-Intro/[BIOS] Touch Boy System ROM (Taiwan) (Unl).gbc</path>
+		<name>[BIOS] Touch Boy System ROM (Taiwan) (Unl)</name>
+		<md5>7eee78b22cde947bdf09005189bcf5f7</md5>
+		<scrap name="ScreenScraper" date="20231106T205118" />
 	</game>
 </gameList>

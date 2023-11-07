@@ -10,4 +10,331 @@
 		<cheevosHash>37C36E4286D36892A9FC70EAFE4104BE</cheevosHash>
 		<scrap name="ScreenScraper" date="20230301T215008" />
 	</game>
+	<game id="99447">
+		<path>./No-Intro/Dezaemon DD (Japan) (Proto).ndd</path>
+		<name>Dezaemon DD</name>
+		<desc>Dezaemon 3D is a shoot 'em up game creator developed by  Athena and released for the Nintendo 64 only in Japan in 1998. The game was one in which one could design their own shooting game levels similar to the levels shown in Star Soldier: Vanishing Earth. The game had nearly limitless options, from creating the stage boss or adding a custom soundtrack for each level. A 64DD add-on was planned but they never released it: only some messages from the editor mode reveale this unused connection.</desc>
+		<image>./images/Dezaemon DD (Japan) (Proto)-image.png</image>
+		<video>./videos/Dezaemon DD (Japan) (Proto)-video.mp4</video>
+		<marquee>./images/Dezaemon DD (Japan) (Proto)-marquee.png</marquee>
+		<thumbnail>./images/Dezaemon DD (Japan) (Proto)-thumb.png</thumbnail>
+		<fanart>./images/Dezaemon DD (Japan) (Proto)-fanart.jpg</fanart>
+		<rating>0.85</rating>
+		<releasedate>19980626T000000</releasedate>
+		<developer>Athena</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<players>1-2</players>
+		<md5>40aa8ec52c5e025d6c6ad94cebc2218f</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T205138" />
+	</game>
+	<game id="78380">
+		<path>./No-Intro/F-Zero X - Expansion Kit (Japan).ndd</path>
+		<name>F-zero X - Expansion Kit</name>
+		<desc>F-Zero X Expansion Kit, released in Japan on April 21, 2000, is the first expansion disk for the 64DD, Nintendo's disk drive peripheral for the Nintendo 64. F-Zero X was programmed with "64DD hooks", which allow it to detect whether the 64DD is connected and compatible expansion software is loaded. This allows the cartridge-based game to be compatible with expansion disks such as track editors or course updates; however, none of these were utilized outside Japan due to the 64DD's commercial failure. Expansion Kit will only operate in conjunction with the cartridge of the original game. However, all of F-Zero X's regular features are accessible in addition to twelve new tracks, a car editor and a track creator. As the Expansion Kit benefits from a larger amount of storage on disk when compared to the original cartridge version, it includes new soundtracks in stereophonic sound as well as the entire collection of monaural audio tracks from the original game.</desc>
+		<image>./images/F-Zero X - Expansion Kit (Japan)-image.png</image>
+		<video>./videos/F-Zero X - Expansion Kit (Japan)-video.mp4</video>
+		<marquee>./images/F-Zero X - Expansion Kit (Japan)-marquee.png</marquee>
+		<thumbnail>./images/F-Zero X - Expansion Kit (Japan)-thumb.png</thumbnail>
+		<fanart>./images/F-Zero X - Expansion Kit (Japan)-fanart.jpg</fanart>
+		<manual>./manuals/F-Zero X - Expansion Kit (Japan)-manual.pdf</manual>
+		<rating>0.75</rating>
+		<releasedate>20000421T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Randnet</publisher>
+		<genre>Race, Driving</genre>
+		<family>F-Zero</family>
+		<players>1-4</players>
+		<md5>cb2fb00c3921245ae04bb38ba01abe92</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T205200" />
+	</game>
+	<game id="78382">
+		<path>./No-Intro/Kyojin no Doshin (Japan) (Demo) (Kiosk) [b].ndd</path>
+		<name>Kyojin No Doshin</name>
+		<desc>Doshin is all about playing God. Players star in the role of a yellow giant who, like the sun, ascends every morning from the sea to visit the peaceful inhabitants of a chain of tropical islands -- and much like the sun, the giant can bring both life and death. Your basic actions are walking, picking up objects or people, raising the terrain by pulling it up or lowering it by jumping on it. As you explore your surroundings, you encounter different tribes of island natives that go about their daily lives. The ultimate goal of the game is to help the different tribes flourish and get them to construct temples and henges to honor your giant. Each time a tribe builds such a structure, it is added to your monument journal. Released only on 64DD (with an even more obscure add-on disk released later), the game was remade for GameCube.</desc>
+		<image>./images/Kyojin no Doshin (Japan) (Demo) (Kiosk) [b]-image.png</image>
+		<video>./videos/Kyojin no Doshin (Japan) (Demo) (Kiosk) [b]-video.mp4</video>
+		<marquee>./images/Kyojin no Doshin (Japan) (Demo) (Kiosk) [b]-marquee.png</marquee>
+		<thumbnail>./images/Kyojin no Doshin (Japan) (Demo) (Kiosk) [b]-thumb.png</thumbnail>
+		<fanart>./images/Kyojin no Doshin (Japan) (Demo) (Kiosk) [b]-fanart.jpg</fanart>
+		<manual>./manuals/Kyojin no Doshin (Japan) (Demo) (Kiosk) [b]-manual.pdf</manual>
+		<rating>0.7</rating>
+		<releasedate>19991201T000000</releasedate>
+		<developer>Param</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<md5>afe059ae1210751b6c849cfb482c99dd</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T205222" />
+	</game>
+	<game id="78382">
+		<path>./No-Intro/Kyojin no Doshin (Japan).ndd</path>
+		<name>Kyojin No Doshin</name>
+		<desc>Doshin is all about playing God. Players star in the role of a yellow giant who, like the sun, ascends every morning from the sea to visit the peaceful inhabitants of a chain of tropical islands -- and much like the sun, the giant can bring both life and death. Your basic actions are walking, picking up objects or people, raising the terrain by pulling it up or lowering it by jumping on it. As you explore your surroundings, you encounter different tribes of island natives that go about their daily lives. The ultimate goal of the game is to help the different tribes flourish and get them to construct temples and henges to honor your giant. Each time a tribe builds such a structure, it is added to your monument journal. Released only on 64DD (with an even more obscure add-on disk released later), the game was remade for GameCube.</desc>
+		<image>./images/Kyojin no Doshin (Japan)-image.png</image>
+		<video>./videos/Kyojin no Doshin (Japan)-video.mp4</video>
+		<marquee>./images/Kyojin no Doshin (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Kyojin no Doshin (Japan)-thumb.png</thumbnail>
+		<fanart>./images/Kyojin no Doshin (Japan)-fanart.jpg</fanart>
+		<manual>./manuals/Kyojin no Doshin (Japan)-manual.pdf</manual>
+		<rating>0.7</rating>
+		<releasedate>19991201T000000</releasedate>
+		<developer>Param</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<md5>e8eb810d996e12cd6c47445f87a94c72</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T205242" />
+	</game>
+	<game id="99450">
+		<path>./No-Intro/Kyojin no Doshin - Kaihou Sensen Chibikko Chikko Daishuugou (Japan) [b].ndd</path>
+		<name>Kyojin No Doshin - Kaihou Sensen Chibikko Chikko Daishuugou</name>
+		<desc>Kyojin no Doshin Kaih? Sensen Chibikko Chikko Daish?g? is a Nintendo 64DD video game released in 2000 that is an expansion to the original Doshin the Giant released for the console. The original game is required in order to play this game. The game includes 17 black and white miniature films that the player is supposed to watch. Another goal of the player's is to save Doshin from being imprisoned by the game's evil antagonists.</desc>
+		<image>./images/Kyojin no Doshin - Kaihou Sensen Chibikko Chikko Daishuugou (Japan) [b]-image.png</image>
+		<video>./videos/Kyojin no Doshin - Kaihou Sensen Chibikko Chikko Daishuugou (Japan) [b]-video.mp4</video>
+		<marquee>./images/Kyojin no Doshin - Kaihou Sensen Chibikko Chikko Daishuugou (Japan) [b]-marquee.png</marquee>
+		<thumbnail>./images/Kyojin no Doshin - Kaihou Sensen Chibikko Chikko Daishuugou (Japan) [b]-thumb.png</thumbnail>
+		<fanart>./images/Kyojin no Doshin - Kaihou Sensen Chibikko Chikko Daishuugou (Japan) [b]-fanart.jpg</fanart>
+		<manual>./manuals/Kyojin no Doshin - Kaihou Sensen Chibikko Chikko Daishuugou (Japan) [b]-manual.pdf</manual>
+		<rating>0.25</rating>
+		<releasedate>20000517T000000</releasedate>
+		<developer>Param</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Educational</genre>
+		<players>1</players>
+		<md5>fcca9af8c1174c40b478ea0e02673b16</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T205303" />
+	</game>
+	<game id="99452">
+		<path>./No-Intro/Mario Artist - Communication Kit (Japan).ndd</path>
+		<name>Mario Artist - Communication Kit</name>
+		<desc>Mario Artist: Communication Kit was a CD for the Nintendo 64's Nintendo 64DD in Japan that allowed users to share their creations they made on the three other Mario Artist games including Mario Artist: Paint Studio, Mario Artist: Talent Studio, and Mario Artist: Polygon Studio, over the internet through the Net Studio service. The service started in December of 1999, and ended in February of 2001. The service would contain contests that had player making creations on the three different games trying to compete for the top spot. If players owned Paint Studio and the Communication Kit, they could unlock features in the Paint Studio that weren't available previously.</desc>
+		<image>./images/Mario Artist - Communication Kit (Japan)-image.png</image>
+		<video>./videos/Mario Artist - Communication Kit (Japan)-video.mp4</video>
+		<marquee>./images/Mario Artist - Communication Kit (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Mario Artist - Communication Kit (Japan)-thumb.png</thumbnail>
+		<fanart>./images/Mario Artist - Communication Kit (Japan)-fanart.jpg</fanart>
+		<manual>./manuals/Mario Artist - Communication Kit (Japan)-manual.pdf</manual>
+		<rating>0.6</rating>
+		<releasedate>20000629T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Educational</genre>
+		<players>1</players>
+		<md5>114af722029d6386c3bfea4cc8fa603c</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T205323" />
+	</game>
+	<game id="99453">
+		<path>./No-Intro/Mario Artist - Paint Studio (Japan) (Beta) (1999-02-11).ndd</path>
+		<name>Mario Artist - Paint Studio</name>
+		<desc>Mario Artist: Paint Studio is a Nintendo 64DD video game released late in 1999. The game is based off of the SNES classic Mario Paint, though instead of using the SNES Mouse it used the Nintendo 64 Mouse, which it came bundled with. It is a simple paint program where you can create portraits in a similar fashion to how you would in Microsoft Paint or Apple Works. There are various Nintendo based portraits and stamps that you can use in your paintings. With the use of the Capture Cartridge, players could import their images they've taken with the Game Boy Camera over to Paint Studio and alter them on a larger screen. The game was one of four Mario Artist games released on the 64DD. More were planned, though because the games proved unsuccessful they were never released.</desc>
+		<image>./images/Mario Artist - Paint Studio (Japan) (Beta) (1999-02-11)-image.png</image>
+		<video>./videos/Mario Artist - Paint Studio (Japan) (Beta) (1999-02-11)-video.mp4</video>
+		<marquee>./images/Mario Artist - Paint Studio (Japan) (Beta) (1999-02-11)-marquee.png</marquee>
+		<thumbnail>./images/Mario Artist - Paint Studio (Japan) (Beta) (1999-02-11)-thumb.png</thumbnail>
+		<fanart>./images/Mario Artist - Paint Studio (Japan) (Beta) (1999-02-11)-fanart.jpg</fanart>
+		<manual>./manuals/Mario Artist - Paint Studio (Japan) (Beta) (1999-02-11)-manual.pdf</manual>
+		<rating>0.6</rating>
+		<releasedate>19991211T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Educational</genre>
+		<players>1</players>
+		<md5>a76b619ec832a7e2abcfbdfeb5375e39</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T205343" />
+	</game>
+	<game id="99453">
+		<path>./No-Intro/Mario Artist - Paint Studio (Japan).ndd</path>
+		<name>Mario Artist - Paint Studio</name>
+		<desc>Mario Artist: Paint Studio is a Nintendo 64DD video game released late in 1999. The game is based off of the SNES classic Mario Paint, though instead of using the SNES Mouse it used the Nintendo 64 Mouse, which it came bundled with. It is a simple paint program where you can create portraits in a similar fashion to how you would in Microsoft Paint or Apple Works. There are various Nintendo based portraits and stamps that you can use in your paintings. With the use of the Capture Cartridge, players could import their images they've taken with the Game Boy Camera over to Paint Studio and alter them on a larger screen. The game was one of four Mario Artist games released on the 64DD. More were planned, though because the games proved unsuccessful they were never released.</desc>
+		<image>./images/Mario Artist - Paint Studio (Japan)-image.png</image>
+		<video>./videos/Mario Artist - Paint Studio (Japan)-video.mp4</video>
+		<marquee>./images/Mario Artist - Paint Studio (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Mario Artist - Paint Studio (Japan)-thumb.png</thumbnail>
+		<fanart>./images/Mario Artist - Paint Studio (Japan)-fanart.jpg</fanart>
+		<manual>./manuals/Mario Artist - Paint Studio (Japan)-manual.pdf</manual>
+		<rating>0.6</rating>
+		<releasedate>19991211T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Educational</genre>
+		<players>1</players>
+		<md5>8485643e5830cd67ed4c0a5fd49e2491</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T205404" />
+	</game>
+	<game id="99454">
+		<path>./No-Intro/Mario Artist - Polygon Studio (Japan).ndd</path>
+		<name>Mario Artist - Polygon Studio</name>
+		<desc>Mario Artist: Polygon Studio is a Nintendo 64DD video game, and the last of the four Mario Artist video games. It was released in August of 2000 and was compatible with the Mario Artist: Communication Kit. With it, you could share your creations over the internet until February of 2001 when the service was discontinued. With the Polygon Studio, players could create their own 3D models with little detail.</desc>
+		<image>./images/Mario Artist - Polygon Studio (Japan)-image.png</image>
+		<video>./videos/Mario Artist - Polygon Studio (Japan)-video.mp4</video>
+		<marquee>./images/Mario Artist - Polygon Studio (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Mario Artist - Polygon Studio (Japan)-thumb.png</thumbnail>
+		<fanart>./images/Mario Artist - Polygon Studio (Japan)-fanart.jpg</fanart>
+		<manual>./manuals/Mario Artist - Polygon Studio (Japan)-manual.pdf</manual>
+		<rating>0.6</rating>
+		<releasedate>20000829T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Educational</genre>
+		<players>1</players>
+		<md5>da23ee561578b7dad77ed72728b46d30</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T205423" />
+	</game>
+	<game id="99455">
+		<path>./No-Intro/Mario Artist - Talent Studio (Japan).ndd</path>
+		<name>Mario Artist - Talent Studio</name>
+		<desc>In Mario Artist: Talent Studio, the player can create their own characters in 3D, customizing features such as hair, skin, and eye color, voice, clothes, facial features, and body size and type. The process is similar to Nintendo's later Miis, but much more detailed. The characters can then be inserted into movies and animations. Events during these movies can be controlled by pressing the Z-trigger. Images from external video can be imported using the Capture Cartridge.</desc>
+		<image>./images/Mario Artist - Talent Studio (Japan)-image.png</image>
+		<video>./videos/Mario Artist - Talent Studio (Japan)-video.mp4</video>
+		<marquee>./images/Mario Artist - Talent Studio (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Mario Artist - Talent Studio (Japan)-thumb.png</thumbnail>
+		<fanart>./images/Mario Artist - Talent Studio (Japan)-fanart.jpg</fanart>
+		<manual>./manuals/Mario Artist - Talent Studio (Japan)-manual.pdf</manual>
+		<rating>0.6</rating>
+		<releasedate>20000223T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>RandnetDD Co., Ltd.</publisher>
+		<genre>Educational</genre>
+		<players>1</players>
+		<md5>88228e990b58a94e9b3460beff632304</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T205444" />
+	</game>
+	<game id="78387">
+		<path>./No-Intro/Nihon Pro Golf Tour 64 (Japan) [b].ndd</path>
+		<name>Nihon Pro Golf Tour 64</name>
+		<desc>Golf simulation, developed for the short-lived Nintendo 64 disk drive add-on. This rare disk is best-known for being the only title for the system to offer a form of online play. The game features six gameplay modes, polygonal graphics, and a player editor. One or two players can compete in Match Play mode while up to four can compete for the best score in the 18-hole Stroke Player mode. The game also sports a Grand Opening Mode (compete with the world's best Japan Pro-Golfers,), a Career Mode, Qualifying Tournament (you create your own player and start with a handicap of 0) and Network Opening. The latter lets you connect to Randnet and compete in an All-Japan tournament.</desc>
+		<image>./images/Nihon Pro Golf Tour 64 (Japan) [b]-image.png</image>
+		<video>./videos/Nihon Pro Golf Tour 64 (Japan) [b]-video.mp4</video>
+		<marquee>./images/Nihon Pro Golf Tour 64 (Japan) [b]-marquee.png</marquee>
+		<thumbnail>./images/Nihon Pro Golf Tour 64 (Japan) [b]-thumb.png</thumbnail>
+		<fanart>./images/Nihon Pro Golf Tour 64 (Japan) [b]-fanart.jpg</fanart>
+		<manual>./manuals/Nihon Pro Golf Tour 64 (Japan) [b]-manual.pdf</manual>
+		<rating>0.65</rating>
+		<releasedate>20000205T000000</releasedate>
+		<developer>Media Factory</developer>
+		<publisher>SETA Corporation</publisher>
+		<genre>Sports / Golf</genre>
+		<players>1-4</players>
+		<md5>9f797a9c704b5ebd04d6a2b036309af2</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T205505" />
+	</game>
+	<game id="78388">
+		<path>./No-Intro/Randnet Disk (Japan) (Rev 1) [b].ndd</path>
+		<name>ZZZ(notgame):Randnet Disk</name>
+		<desc>The 64DD's web browser and connectivity disk. Features include: Battle -- play against gamers from all over Japan by using the network, observe -- play "Peeping Tom" and watch other players combat each other in game competition, beta testing -- experience pre-release games, information exchange -- send messages about how to get through games, ask for help when you're stuck and chat with friends through the Internet, community -- send your comments about a game you're currently playing, internet surfing -- surf the web on your TV, digital magazine -- get all sorts of sports info and results, music data distribution -- Listen to music through Randnet, editing tool -- create your own characters and music using dedicated creation tools, print mail service (fee applies) -- things you create in Mario Artist can be ordered as postcards and stickers -- Randnet users receive five email addresses with the basic service.</desc>
+		<video>./videos/Randnet Disk (Japan) (Rev 1) [b]-video.mp4</video>
+		<marquee>./images/Randnet Disk (Japan) (Rev 1) [b]-marquee.png</marquee>
+		<thumbnail>./images/Randnet Disk (Japan) (Rev 1) [b]-thumb.png</thumbnail>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<hidden>true</hidden>
+		<md5>33cbc59786063285dc3c090e0ed312e3</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T205515" />
+	</game>
+	<game id="78388">
+		<path>./No-Intro/Randnet Disk (Japan) [b].ndd</path>
+		<name>ZZZ(notgame):Randnet Disk</name>
+		<desc>The 64DD's web browser and connectivity disk. Features include: Battle -- play against gamers from all over Japan by using the network, observe -- play "Peeping Tom" and watch other players combat each other in game competition, beta testing -- experience pre-release games, information exchange -- send messages about how to get through games, ask for help when you're stuck and chat with friends through the Internet, community -- send your comments about a game you're currently playing, internet surfing -- surf the web on your TV, digital magazine -- get all sorts of sports info and results, music data distribution -- Listen to music through Randnet, editing tool -- create your own characters and music using dedicated creation tools, print mail service (fee applies) -- things you create in Mario Artist can be ordered as postcards and stickers -- Randnet users receive five email addresses with the basic service.</desc>
+		<video>./videos/Randnet Disk (Japan) [b]-video.mp4</video>
+		<marquee>./images/Randnet Disk (Japan) [b]-marquee.png</marquee>
+		<thumbnail>./images/Randnet Disk (Japan) [b]-thumb.png</thumbnail>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<hidden>true</hidden>
+		<md5>26087e0750fc6da0f3de2a431e34bddf</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T205527" />
+	</game>
+	<game id="99458">
+		<path>./No-Intro/SimCity 64 (Japan).ndd</path>
+		<name>SimCity 64</name>
+		<desc>The game system is very similar to SimCity 2000 (the buildings are almost the same). However, the game differs from Sim City 2000 in that it is possible to move around in a 3D view of the city, to see the Sims and to talk to them.</desc>
+		<image>./images/SimCity 64 (Japan)-image.png</image>
+		<video>./videos/SimCity 64 (Japan)-video.mp4</video>
+		<marquee>./images/SimCity 64 (Japan)-marquee.png</marquee>
+		<thumbnail>./images/SimCity 64 (Japan)-thumb.png</thumbnail>
+		<fanart>./images/SimCity 64 (Japan)-fanart.jpg</fanart>
+		<manual>./manuals/SimCity 64 (Japan)-manual.pdf</manual>
+		<rating>0.7</rating>
+		<releasedate>20000223T000000</releasedate>
+		<developer>HAL Laboratory</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Strategy / Build And Management</genre>
+		<family>SimCity</family>
+		<players>1</players>
+		<md5>ebba03f20096fc2bc178fc3a1f4ec2b6</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T205548" />
+	</game>
+	<game id="99459">
+		<path>./No-Intro/Super Mario 64 - Disk Version (Japan) (Proto).ndd</path>
+		<name>Super Mario 64 - Disk Version</name>
+		<desc>Super Mario 64: Disk Version is a planned re-release of Super Mario 64 that was intended to boost sales of the ill-fated Nintendo 64 add-on, the 64DD. Its existence was speculated for several years until 2014, when a prototype was discovered. Since then, the ROM has been released to the public.</desc>
+		<image>./images/Super Mario 64 - Disk Version (Japan) (Proto)-image.png</image>
+		<video>./videos/Super Mario 64 - Disk Version (Japan) (Proto)-video.mp4</video>
+		<marquee>./images/Super Mario 64 - Disk Version (Japan) (Proto)-marquee.png</marquee>
+		<thumbnail>./images/Super Mario 64 - Disk Version (Japan) (Proto)-thumb.png</thumbnail>
+		<fanart>./images/Super Mario 64 - Disk Version (Japan) (Proto)-fanart.jpg</fanart>
+		<rating>0.9</rating>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure</genre>
+		<family>Mario</family>
+		<players>1</players>
+		<md5>d9ea905727b44f2774926cb03c2300a7</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231106T205606" />
+	</game>
+	<game>
+		<path>./No-Intro/[BIOS] Nintendo 64DD IPL (Japan) (v1.0) (Beta).z64</path>
+		<name>[BIOS] Nintendo 64DD IPL (Japan) (v1.0) (Beta)</name>
+		<md5>94dba2d79615deed567aa85f4cf74162</md5>
+		<scrap name="ScreenScraper" date="20231106T205607" />
+	</game>
+	<game>
+		<path>./No-Intro/[BIOS] Nintendo 64DD IPL (Japan) (v1.1) (Beta).z64</path>
+		<name>[BIOS] Nintendo 64DD IPL (Japan) (v1.1) (Beta)</name>
+		<md5>7630650c7fc16e199911269647186e79</md5>
+		<scrap name="ScreenScraper" date="20231106T205608" />
+	</game>
+	<game>
+		<path>./No-Intro/[BIOS] Nintendo 64DD IPL (Japan) (v1.2).z64</path>
+		<name>[BIOS] Nintendo 64DD IPL (Japan) (v1.2)</name>
+		<md5>8d3d9f294b6e174bc7b1d2fd1c727530</md5>
+		<scrap name="ScreenScraper" date="20231106T205610" />
+	</game>
+	<game>
+		<path>./No-Intro/[BIOS] Nintendo 64DD Tool IPL (Japan) (Beta).z64</path>
+		<name>[BIOS] Nintendo 64DD Tool IPL (Japan) (Beta)</name>
+		<md5>aad37b1492886b892f1821f37fd3ae34</md5>
+		<scrap name="ScreenScraper" date="20231106T205611" />
+	</game>
 </gameList>
