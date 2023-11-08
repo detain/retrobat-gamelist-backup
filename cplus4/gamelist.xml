@@ -9184,4 +9184,214 @@ Xcellor8 is a multi-scrolling game with the screen scrolling as you move viewed 
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231103T015409" />
 	</game>
+	<game id="59002">
+		<path>./No-Intro/Atomic Mission (USA, Europe).zip</path>
+		<name>Atomic Mission</name>
+		<desc>This is adventure #3 in Scott Adam's text adventure series. It takes place in a nuclear power plant. You must race against time to fulfill your mission or the reactor may be doomed. You use one or two word commands to move around and manipulate objects.</desc>
+		<image>./images/Atomic Mission (USA, Europe)-image.png</image>
+		<releasedate>19840101T000000</releasedate>
+		<genre>Adventure / Text</genre>
+		<md5>a19ad12cbf2261117df58ae64bd635ca</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231108T005514" />
+	</game>
+	<game id="59003">
+		<path>./No-Intro/Calc Plus (USA) (Program).zip</path>
+		<name>Calc Plus</name>
+		<image>./images/Calc Plus (USA) (Program)-image.png</image>
+		<md5>2389b94d9c59e0d01587bc1af5fb110b</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231108T005518" />
+	</game>
+	<game id="59004">
+		<path>./No-Intro/Commodore 16 Keyboard Tutorial Cartridge (USA) (Program).zip</path>
+		<name>ZZZ(notgame):Commodore 16 Keyboard Tutorial Cartridge</name>
+		<image>./images/Commodore 16 Keyboard Tutorial Cartridge (USA) (Program)-image.png</image>
+		<hidden>true</hidden>
+		<md5>e1e7394386ef02a05c8209506b053558</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231108T005521" />
+	</game>
+	<game id="59005">
+		<path>./No-Intro/Financial Advisor (USA) (Program).zip</path>
+		<name>Financial Advisor</name>
+		<image>./images/Financial Advisor (USA) (Program)-image.png</image>
+		<md5>5fd76819bc109612727f98590b92d67d</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231108T005525" />
+	</game>
+	<game id="113259">
+		<path>./No-Intro/Jack Attack (USA, Europe).zip</path>
+		<name>Jack Attack</name>
+		<desc>Jack Attack is a platform action game for the Commodore 64 released on cartridge by Commodore in 1983. A version for the Commodore 16 and Commodore Plus/4 was also released in 1984. The game was named after Commodore's founder Jack Tramiel.
+
+Each level is laid out in a rectangular grid. The levels contain the player character, eight enemies, and a varying arrangement of blocks. The player's goal is to kill all the enemies without being killed by them. There are 64 levels in all.
+
+The player character is able to push and pull blocks, which the player must use to kill the enemies and navigate the platforms. An enemy can be killed by being crushed either horizontally between two blocks or by the player character or a block falling down on it. On the other hand, the player character dies if a block or an enemy falls on top of it. Enemies are unable to push or pull blocks. Some levels include water, which is fatal to the player character, but safe to enemies.
+
+While killing all enemies completes the levels, some levels also add bonuses for jumping on every platform. These platforms disappear after a set time limit and are usually only accessible by arranging the blocks in a certain way adding a puzzle element to the game. A time bonus is also awarded for quickly completing a level.</desc>
+		<image>./images/Jack Attack (USA, Europe)-image.png</image>
+		<video>./videos/Jack Attack (USA, Europe)-video.mp4</video>
+		<marquee>./images/Jack Attack (USA, Europe)-marquee.png</marquee>
+		<manual>./manuals/Jack Attack (USA, Europe)-manual.pdf</manual>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Kevin Kieller, John Traynor</developer>
+		<publisher>Commodore Electronics Ltd.</publisher>
+		<md5>b22a426e223f28d8ff5439917d2ab6f5</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231108T005535" />
+	</game>
+	<game id="114288">
+		<path>./No-Intro/LOGO (USA) (Program).zip</path>
+		<name>Logo</name>
+		<image>./images/LOGO (USA) (Program)-image.png</image>
+		<marquee>./images/LOGO (USA) (Program)-marquee.png</marquee>
+		<thumbnail>./images/LOGO (USA) (Program)-thumb.png</thumbnail>
+		<releasedate>19900101T000000</releasedate>
+		<publisher>Starbyte Software</publisher>
+		<md5>dda8da27d7bc3a35674e5d17f35479d1</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231108T005537" />
+	</game>
+	<game id="59008">
+		<path>./No-Intro/Octasoft BASIC v7.0 (Hungary) (Program).zip</path>
+		<name>Octasoft Basic V7.0</name>
+		<image>./images/Octasoft BASIC v7.0 (Hungary) (Program)-image.png</image>
+		<md5>72c7402ff5efe809b521f66bf3588ca5</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231108T005541" />
+	</game>
+	<game id="116167">
+		<path>./No-Intro/Pirate Adventure (USA, Europe).zip</path>
+		<name>Pirate Adventure</name>
+		<desc>This is adventure #2 in Scott Adam's text adventure series. In this adventure, you shuffle between three locales: an unremarkable (at first) London flat and two islands littered with dangerous critters and people. The goal of the game is to find the two pirate treasures on the treasure island. You move about and use objects by typing one or two word commands such as NORTH, INVENTORY, or GET SNEAKERS. You only have to type the first 3 letters of a command or object for the parser to recognize it.</desc>
+		<image>./images/Pirate Adventure (USA, Europe)-image.png</image>
+		<marquee>./images/Pirate Adventure (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Pirate Adventure (USA, Europe)-thumb.png</thumbnail>
+		<fanart>./images/Pirate Adventure (USA, Europe)-fanart.jpg</fanart>
+		<releasedate>19850101T000000</releasedate>
+		<publisher>Adventure International</publisher>
+		<genre>Adventure / Text</genre>
+		<family>Scott Adams Classic Adventures</family>
+		<players>1</players>
+		<md5>23fb5ed28070db858ef410387be1ce89</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231108T005551" />
+	</game>
+	<game id="115454">
+		<path>./No-Intro/Strange Odyssey (USA, Europe).zip</path>
+		<name>Strange Odyssey</name>
+		<desc>Strange Odyssey is the sixth game of the Scott Adams text adventures series, marketed by Scott's company, Adventure International. It is an old-style text adventure sporting a two word parser and split screen interface.
+
+You play a space traveller whose space ship breaks down while orbiting a remote asteroid. Starting with only a phase pistol, space suit, and shovel, our mission is to collect 5 alien treasures and link back up with your mothership.</desc>
+		<image>./images/Strange Odyssey (USA, Europe)-image.png</image>
+		<marquee>./images/Strange Odyssey (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Strange Odyssey (USA, Europe)-thumb.png</thumbnail>
+		<fanart>./images/Strange Odyssey (USA, Europe)-fanart.jpg</fanart>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Scott Adams</developer>
+		<publisher>Commodore Electronics Ltd.</publisher>
+		<genre>Adventure / Text</genre>
+		<family>Scott Adams Classic Adventures</family>
+		<players>1</players>
+		<md5>af62e5c69576312c56c4a9ddd02240b2</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231108T005600" />
+	</game>
+	<game id="116884">
+		<path>./No-Intro/Viduzzles (USA, Europe).zip</path>
+		<name>Viduzzles</name>
+		<desc>Viduzzles allows you to do jigsaw puzzles on your computer in either a 25 or 50 piece puzzle, with outlines or no outlines. You are first presented with the picture you have to complete before you are presented with an empty square and the pieces needed to complete the puzzle. You move the pieces into the square and you try to complete the puzzle in the quickest time. Once completed you then move to the next picture.</desc>
+		<image>./images/Viduzzles (USA, Europe)-image.png</image>
+		<marquee>./images/Viduzzles (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Viduzzles (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19830101T000000</releasedate>
+		<publisher>Commodore Electronics Ltd.</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<md5>3483621641f0e09666fc7c6f0aedd442</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231108T005607" />
+	</game>
+	<game id="58998">
+		<path>./No-Intro/[BIOS] Commodore 1551 (USA, Europe).zip</path>
+		<name>ZZZ(notgame):[bios]</name>
+		<hidden>true</hidden>
+		<md5>0c767bf0a84d7751af056e53a074c9e2</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231108T005609" />
+	</game>
+	<game id="58998">
+		<path>./No-Intro/[BIOS] Commodore 232 (Japan) (Proto).zip</path>
+		<name>ZZZ(notgame):[bios]</name>
+		<hidden>true</hidden>
+		<md5>8e6aa0244b4d92194ea613f0033d3b1b</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231108T005611" />
+	</game>
+	<game id="58998">
+		<path>./No-Intro/[BIOS] Commodore Plus-4 (Europe) (R3).zip</path>
+		<name>ZZZ(notgame):[bios]</name>
+		<hidden>true</hidden>
+		<md5>b70052ef49f225d01e66a5b73f85233c</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231108T005613" />
+	</game>
+	<game id="58998">
+		<path>./No-Intro/[BIOS] Commodore Plus-4 (Europe) (R4).zip</path>
+		<name>ZZZ(notgame):[bios]</name>
+		<hidden>true</hidden>
+		<md5>9694627582269b676bd594f80d6117b3</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231108T005615" />
+	</game>
+	<game id="58998">
+		<path>./No-Intro/[BIOS] Commodore Plus-4 (Europe) (R5).zip</path>
+		<name>ZZZ(notgame):[bios]</name>
+		<hidden>true</hidden>
+		<md5>81c311fa7b4462f7822e1f49710cc3ca</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231108T005617" />
+	</game>
+	<game id="58998">
+		<path>./No-Intro/[BIOS] Commodore Plus-4 (USA) (R4).zip</path>
+		<name>ZZZ(notgame):[bios]</name>
+		<hidden>true</hidden>
+		<md5>1a1943d65de318e14215932ab3e788ac</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231108T005620" />
+	</game>
+	<game id="58998">
+		<path>./No-Intro/[BIOS] Commodore Plus-4 (USA) (R5).zip</path>
+		<name>ZZZ(notgame):[bios]</name>
+		<hidden>true</hidden>
+		<md5>b603c9eb276c6eb59f20f6dd41480a4f</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231108T005621" />
+	</game>
+	<game id="58998">
+		<path>./No-Intro/[BIOS] Commodore V364 (USA) (Proto).zip</path>
+		<name>ZZZ(notgame):[bios]</name>
+		<hidden>true</hidden>
+		<md5>12c13a707f3050e98437d99503b8841d</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231108T005623" />
+	</game>
 </gameList>
