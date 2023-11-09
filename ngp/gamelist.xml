@@ -58,8 +58,8 @@
 		<marquee>./images/Baseball Stars - Pocket Sports Series (Japan, Europe) (En,Ja)-marquee.png</marquee>
 		<thumbnail>./images/Baseball Stars - Pocket Sports Series (Japan, Europe) (En,Ja)-thumb.png</thumbnail>
 		<fanart>./images/Baseball Stars - Pocket Sports Series (Japan, Europe) (En,Ja)-fanart.jpg</fanart>
-		<rating></rating>
-		<releasedate></releasedate>
+		<rating />
+		<releasedate />
 		<crc32>CAA3A827</crc32>
 		<md5>68ee2d5be4c81348bc499fc29819fd2d</md5>
 		<lang>jp,en</lang>
@@ -102,7 +102,7 @@ The game was released for the Neo Geo Pocket and features monochrome graphics; h
 		<marquee>./media/marquees/Neo Cherry Master - Real Casino Series (Japan) (En,Ja).png</marquee>
 		<thumbnail>./images/Neo Cherry Master - Real Casino Series (Japan) (En,Ja)-thumb.png</thumbnail>
 		<boxback>./images/Neo Cherry Master - Real Casino Series (Japan) (En,Ja)-boxback.png</boxback>
-		<rating></rating>
+		<rating />
 		<releasedate>19981225T000000</releasedate>
 		<developer>Dyna Corporation</developer>
 		<publisher>SNK</publisher>
@@ -224,7 +224,7 @@ Tournament is only against computer. Human player can pick his/her character but
 		<marquee>./media/marquees/Shougi no Tatsujin (Japan).png</marquee>
 		<thumbnail>./images/Shougi no Tatsujin (Japan)-thumb.png</thumbnail>
 		<boxback>./images/Shougi no Tatsujin (Japan)-boxback.png</boxback>
-		<rating></rating>
+		<rating />
 		<releasedate>19981120T000000</releasedate>
 		<developer>ADK</developer>
 		<publisher>SNK</publisher>
@@ -242,7 +242,7 @@ Tournament is only against computer. Human player can pick his/her character but
 		<path>./No-Intro/[BIOS] SNK Neo Geo Pocket (Japan) (En) (Beta).ngp</path>
 		<name>ZZZ(notgame):[bios] Snk Neo Geo Pocket</name>
 		<image>./media/screenshots/[BIOS] SNK Neo Geo Pocket (Japan) (En) (Beta).png</image>
-		<rating></rating>
+		<rating />
 		<hidden>true</hidden>
 		<crc32>836E47C6</crc32>
 		<md5>18a3a190b6b6f47f801fc044b26e1794</md5>
@@ -256,7 +256,7 @@ Tournament is only against computer. Human player can pick his/her character but
 		<path>./No-Intro/[BIOS] SNK Neo Geo Pocket (Japan, Europe) (En).ngp</path>
 		<name>ZZZ(notgame):[bios] Snk Neo Geo Pocket</name>
 		<image>./media/screenshots/[BIOS] SNK Neo Geo Pocket (Japan, Europe) (En).png</image>
-		<rating></rating>
+		<rating />
 		<hidden>true</hidden>
 		<crc32>6232DF8D</crc32>
 		<md5>d87d876c4391935c9d48ef352a3ff02d</md5>
@@ -265,5 +265,25 @@ Tournament is only against computer. Human player can pick his/her character but
 		<scrap name="ScreenScraper" date="20221227T003718" />
 		<scrap name="HfsDB" date="20230127T140633" />
 		<scrap name="ArcadeDB" date="20221212T175955" />
+	</game>
+	<game id="47060">
+		<path>./No-Intro/NeoGeo Cup '98 (Japan, Europe) (En,Ja).ngp</path>
+		<name>NeoGeo Cup '98</name>
+		<desc>In the story mode you choose a team among the best in the world with the objective of winning the famous Neo Geo Cup. However, this is no easy task and winning the title will require long hours of intense matches. Each match will give you a certain number of points that can be used in the store, which adds a little RPG touch. Buying shorts, cleats, jerseys and many other items from a given selection will increase your team's abilities according to several criteria and make your players faster or more skilled in front of the goal.</desc>
+		<image>./images/NeoGeo Cup '98 (Japan, Europe) (En,Ja)-image.png</image>
+		<video>./videos/NeoGeo Cup '98 (Japan, Europe) (En,Ja)-video.mp4</video>
+		<marquee>./images/NeoGeo Cup '98 (Japan, Europe) (En,Ja)-marquee.png</marquee>
+		<thumbnail>./images/NeoGeo Cup '98 (Japan, Europe) (En,Ja)-thumb.png</thumbnail>
+		<manual>./manuals/NeoGeo Cup '98 (Japan, Europe) (En,Ja)-manual.pdf</manual>
+		<rating>0.6</rating>
+		<releasedate>19981028T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Sports / Soccer</genre>
+		<players>1-2</players>
+		<md5>30efe4f72d4678ffb97b885b1b7c3da1</md5>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231109T033331" />
 	</game>
 </gameList>

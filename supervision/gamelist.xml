@@ -1,2 +1,1189 @@
 <?xml version="1.0"?>
-<gameList />
+<gameList>
+	<game>
+		<path>./No-Intro/2 in 1 - Block Buster + Cross High (USA, Europe).sv</path>
+		<name>2 in 1 - Block Buster + Cross High (USA, Europe)</name>
+		<md5>316929b844f277c6b1c4ee1613d13394</md5>
+		<scrap name="ScreenScraper" date="20231109T042119" />
+	</game>
+	<game>
+		<path>./No-Intro/2 in 1 - Hash Blocks + Eagle Plan (USA, Europe).sv</path>
+		<name>2 in 1 - Hash Blocks + Eagle Plan (USA, Europe)</name>
+		<md5>4ed067ce17d373e3a531a422254b61e6</md5>
+		<scrap name="ScreenScraper" date="20231109T042120" />
+	</game>
+	<game id="361947">
+		<path>./No-Intro/4 in 1 - Hash Block + Challenger Tank + Brain Power + Jacky Lucky (USA, Europe).sv</path>
+		<name>4 in 1</name>
+		<desc>This multicart contains full versions of four Supervision games:
+- Hash Block
+- Jacky Lucky
+- Challenger Tank
+- Brain Power</desc>
+		<marquee>./images/4 in 1 - Hash Block + Challenger Tank + Brain Power + Jacky Lucky (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/4 in 1 - Hash Block + Challenger Tank + Brain Power + Jacky Lucky (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<publisher>Watara</publisher>
+		<genre>Compilation</genre>
+		<md5>e24ba13bf9b54da75c543835ca0c5810</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T042126" />
+	</game>
+	<game id="167382">
+		<path>./No-Intro/Alien (USA, Europe).sv</path>
+		<name>Alien</name>
+		<desc>Alien is a basic side-scrolling shooter where the player controls a fighter jet and must shoot down a variety of different enemies. The game scrolls continuously to the right, while enemies attack the player by either shooting or attempting to crash into the player's craft. The player can fire normal shots, or charge up to fire an extra powerful shot, which is required to defeat certain types of enemies. At the end of each stage, a large boss enemy appears, which must be defeated to continue the game.</desc>
+		<image>./images/Alien (USA, Europe)-image.png</image>
+		<video>./videos/Alien (USA, Europe)-video.mp4</video>
+		<marquee>./images/Alien (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Alien (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<publisher>Watara</publisher>
+		<genre>Shoot'em up / Horizontal</genre>
+		<family>Alien</family>
+		<players>1</players>
+		<md5>cf443f0a812ac7c34e33469f9e8132a8</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T042136" />
+	</game>
+	<game id="167383">
+		<path>./No-Intro/Balloon Fight (USA, Europe).sv</path>
+		<name>Balloon Fight</name>
+		<desc>Balloon Fight is a simple platform action game very similar to the better known NES title of the same name. The player controls a creature suspended by a pair of balloons who floats around a room, and must pop the balloons of enemy creatures by landing on top of them. If an enemy touches the player's balloons, they will pop, causing the player to fall and lose a life.
+
+There are several different stages, each with a different layout and various objects such as platforms, deadly spike pits, and fans that push the balloons around. The playfield also loops horizontally, and both the player and the enemies can leave one side of the screen and return through the other. When all enemies on a stage are defeated, the player is awarded a bonus for time remaining and moves on to the next stage.</desc>
+		<image>./images/Balloon Fight (USA, Europe)-image.png</image>
+		<video>./videos/Balloon Fight (USA, Europe)-video.mp4</video>
+		<marquee>./images/Balloon Fight (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Balloon Fight (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Thin Chen Enterprise</developer>
+		<publisher>Watara</publisher>
+		<genre>Platform</genre>
+		<md5>3d33521248e9b3968aa1a1bebc9cef24</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T042145" />
+	</game>
+	<game id="167384">
+		<path>./No-Intro/Block Buster (USA, Europe).sv</path>
+		<name>Block Buster</name>
+		<desc>Block Buster is a simple Tetris clone for one player. The goal is to place pieces made up of four tiles in the playfield, organizing them into complete rows, which then disappear. As rows are cleared, the pace of the game increases, and the game ends if the stack reaches the top of the well.
+
+The most notable difference from regular Tetris is that the game features a 12-by-16-block playfield, compared with the 10-by-20 field found in licensed Tetris titles. There is only one game mode (endless), though the starting level (speed) and amount of garbage can be chosen before starting the game.</desc>
+		<image>./images/Block Buster (USA, Europe)-image.png</image>
+		<video>./videos/Block Buster (USA, Europe)-video.mp4</video>
+		<marquee>./images/Block Buster (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Block Buster (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Bon Treasure Co., Ltd.</developer>
+		<publisher>Watara</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<md5>95ffd2ff15dbb96e00a01641627b6e8a</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T042154" />
+	</game>
+	<game id="167385">
+		<path>./No-Intro/Brain Power (USA, Europe).sv</path>
+		<name>Brain Power</name>
+		<desc>Brain Power is a collection of four primarily logic-and-puzzle minigames:
+
+Mine Detector, a clone of Minesweeper. The player is presented with a board filled with mines, and must find all of the open squares without clicking on any of the mines. Open squares contain a number, which indicates how many of the adjacent squares contains a mine. There are easy (55 mines), medium (66 mines), and hard (77 mines) modes.
+
+Fortune Four, a version of the board game Qubic, also known as 3-D Tic-Tac-Toe. The player takes turn with the computer placing stones on a 4x4x4 grid, the goal being to create a chain of four stones in any direction.
+
+Caterpillar, a clone of Snake. The player controls a snake that must avoid obstacles and eat food placed around the level. When the snake eats a piece of food, it grows longer, but if it runs into an obstacle or its own body, it dies.
+
+Hopper, a version of the board game Peg Solitaire. The player is given a grid with marbles arranged on it, and can remove marbles by "jumping" over them with an adjacent marble. The goal is to only have a single marble remaining. There are seven different layouts to choose from.</desc>
+		<image>./images/Brain Power (USA, Europe)-image.png</image>
+		<video>./videos/Brain Power (USA, Europe)-video.mp4</video>
+		<marquee>./images/Brain Power (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Brain Power (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<publisher>Watara</publisher>
+		<md5>b7c5c8e371aef8b6772cc1b905612f2e</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T042203" />
+	</game>
+	<game id="167412">
+		<path>./No-Intro/Bubble World (USA, Europe).sv</path>
+		<name>Bubble World</name>
+		<desc>Bubble World is a simple arcade action game similar to Bubble Bobble. The player controls a small creature that can jump and shoot bubbles. The objective is to use the bubbles to capture and destroy all the enemies on each stage. Defeated enemies will often release items that may award bonus points, or even destroy all enemies on the screen. When all enemies have been defeated, the player moves on to the next stage. However, if the player touches an enemy or a flame bubble, a life is lost.</desc>
+		<image>./images/Bubble World (USA, Europe)-image.png</image>
+		<video>./videos/Bubble World (USA, Europe)-video.mp4</video>
+		<marquee>./images/Bubble World (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Bubble World (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Bon Treasure Co., Ltd.</developer>
+		<publisher>Watara</publisher>
+		<md5>b5c895fd2d9d85399def107ca8e6fdd4</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T042212" />
+	</game>
+	<game id="167386">
+		<path>./No-Intro/Carrier (USA, Europe) (Rev 1).sv</path>
+		<name>Carrier</name>
+		<desc>Carrier is a variant of the logic puzzle game Soko-Ban. The player controls a warehouse manager who must rearrange crates in a confined space, moving them all into the designated locations. It is possible to rewind a single move, as well as reset the puzzle or switch to any other puzzle in the set.
+
+Stages are grouped in sets of ten, and the player must clear all ten stages to move on to the next stage. There are five stages, for a total of 50 puzzles. Many of the puzzles are taken directly from the Game Boy version of Soko-Ban, Boxxle.</desc>
+		<image>./images/Carrier (USA, Europe) (Rev 1)-image.png</image>
+		<video>./videos/Carrier (USA, Europe) (Rev 1)-video.mp4</video>
+		<marquee>./images/Carrier (USA, Europe) (Rev 1)-marquee.png</marquee>
+		<thumbnail>./images/Carrier (USA, Europe) (Rev 1)-thumb.png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Bon Treasure Co., Ltd.</developer>
+		<publisher>Watara</publisher>
+		<genre>Puzzle-Game</genre>
+		<md5>d365fedc3073ad3e9231ecb763ed3072</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T042222" />
+	</game>
+	<game id="167387">
+		<path>./No-Intro/Cave Wonders (USA, Europe).sv</path>
+		<name>Cave Wonders</name>
+		<desc>Cave Wonders is a roguelike set in a cave. The player must explore a randomly-generated labyrinth in search of treasures, moving from screen to screen or by using teleporters. There are many enemies in the cave, which must be either fought or avoided, as well as treasure chests that contain useful items such as fire to destroy enemies, a small plane to move elsewhere in the room, and hearts to refill the player's health. There are four different caves to choose from, each with multiple difficulty levels; increasing the difficulty will increase the complexity of the generated cave, as well as the number of treasures that must be collected before the exit will appear.</desc>
+		<image>./images/Cave Wonders (USA, Europe)-image.png</image>
+		<video>./videos/Cave Wonders (USA, Europe)-video.mp4</video>
+		<marquee>./images/Cave Wonders (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Cave Wonders (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Bon Treasure Co., Ltd.</developer>
+		<publisher>Watara</publisher>
+		<md5>7d62668f72381a077688e91383109495</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T042231" />
+	</game>
+	<game id="167388">
+		<path>./No-Intro/Challenger Tank (USA, Europe).sv</path>
+		<name>Challenger Tank</name>
+		<desc>Challenger Tank is a vertically-scrolling action game similar to Ikari Warriors. The player controls a tank which moves continually forward, and can freely move about the screen firing in any direction; the tank's cannon can be rotated independently of its movement. Enemy tanks appear from all sides, shooting at the player, and must be destroyed or avoided. At the end of each stage, a large boss appears that must be defeated to continue. Power-ups will occasionally appear that will allow the tank to fire in multiple directions simultaneously, but these are lost if the tank takes a hit.</desc>
+		<image>./images/Challenger Tank (USA, Europe)-image.png</image>
+		<video>./videos/Challenger Tank (USA, Europe)-video.mp4</video>
+		<marquee>./images/Challenger Tank (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Challenger Tank (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<publisher>Watara</publisher>
+		<md5>879479a6589df76a78f6a0622f2f46d5</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T042240" />
+	</game>
+	<game id="167389">
+		<path>./No-Intro/Chimera (USA, Europe).sv</path>
+		<name>Chimera</name>
+		<desc>A strange alien spacecraft has been discovered orbiting the Earth, it its weaponry primed and ready to destroy the planet. Your mission: To infiltrate the craft, disable the weapons, initiate the self-destruct sequence, and escape with your life.
+
+Chimera is an isometric adventure game set on an uninhabited space ship. The player must explore the ship, which is divided into a grid of rooms. There are various items scattered around the maze-like craft, which will be either a help or a hindrance. For example, food and water will keep the player alive, while radiators will quickly deplete water reserves while standing in the same room.
+
+The only actions the player can perform are to move and to interact with objects. Many objects ? such as electric fences, or the aforementioned radiators ? are deadly to the touch unless the player has the correct item in their possession. The ultimate goal is to prime and activate the four-stage self destruct sequence in the correct order by using items found on the ship. A scrolling message indicator at the bottom of the screen provides useful status information.</desc>
+		<image>./images/Chimera (USA, Europe)-image.png</image>
+		<video>./videos/Chimera (USA, Europe)-video.mp4</video>
+		<marquee>./images/Chimera (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Chimera (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<developer>B.I.T.S.</developer>
+		<publisher>Watara</publisher>
+		<genre>Puzzle-Game</genre>
+		<md5>b0cd30f6b9d94b301346300d2b5341d9</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T042250" />
+	</game>
+	<game id="167413">
+		<path>./No-Intro/Chinese Checkers (USA, Europe).sv</path>
+		<name>Chinese Checkers</name>
+		<desc>Chinese Checkers is a digital version of the popular German board game originally known as Stern-Halma. The objective is to be the first player to move a group of 10 pieces to the opposite side of a star-shaped board; pieces can either be moved a single space, or 'jumped' over adjacent pieces. The game can be played in either its 2-player or 3-player variant, but only a single human player can play in a given game; other slots are filled by computer-controlled opponents. It is possible to set the number of rounds in the game, as well as also watch the computer play against itself.</desc>
+		<image>./images/Chinese Checkers (USA, Europe)-image.png</image>
+		<video>./videos/Chinese Checkers (USA, Europe)-video.mp4</video>
+		<marquee>./images/Chinese Checkers (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Chinese Checkers (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Sachen</developer>
+		<publisher>Watara</publisher>
+		<genre>Board game</genre>
+		<md5>f90280e19a99be521fc4294d96e14298</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T042300" />
+	</game>
+	<game id="167414">
+		<path>./No-Intro/Classic Casino (USA, Europe).sv</path>
+		<name>Classic Casino</name>
+		<desc>Classic Casino is a collection featuring three different casino games: Blackjack, Poker, and Slots. Each game gives the player a certain number of credits, which they must use to acquire more in the chosen game. Blackjack is played against the house, while Poker and Slots are solo endeavors.</desc>
+		<image>./images/Classic Casino (USA, Europe)-image.png</image>
+		<video>./videos/Classic Casino (USA, Europe)-video.mp4</video>
+		<marquee>./images/Classic Casino (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Classic Casino (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Bon Treasure Co., Ltd.</developer>
+		<publisher>Watara</publisher>
+		<md5>6f6b636be7a380c20b375af9997aa45c</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T042308" />
+	</game>
+	<game id="167415">
+		<path>./No-Intro/Climber (USA, Europe).sv</path>
+		<name>Climber</name>
+		<desc>Climber is an action platform game starring a boy with a seemingly-endless supply of throwing knives. In addition to making excellent deadly projectiles, these knives will also stick into any surface they hit for a short time. While stuck, they can be used as platforms to reach further areas, or even to destroy certain blocks on the stage. The object of each stage is to reach a goal flag while avoiding the enemies and hazards through careful use of the player's knives.</desc>
+		<image>./images/Climber (USA, Europe)-image.png</image>
+		<video>./videos/Climber (USA, Europe)-video.mp4</video>
+		<marquee>./images/Climber (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Climber (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Bon Treasure Co., Ltd.</developer>
+		<publisher>Watara</publisher>
+		<players>1</players>
+		<md5>d23a1614f0b9c8a789cef61733323399</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T042317" />
+	</game>
+	<game id="357892">
+		<path>./No-Intro/Cross High (USA, Europe) (Rev 1).sv</path>
+		<name>Cross High</name>
+		<desc>Cross High is a motocross simulation in which the goal is to finish each circuit in a given time. There are 3 levels of difficulty with different requirements for the time needed to succeed. Each circuit is a set of obstacles (which include numerous ramps, slow pass areas, all kinds of hills, etc.).
+The high replayability of Cross High is due to the fact that the player constantly improves his driving skills, making more and more precise and "optimized" passages of the track.</desc>
+		<image>./images/Cross High (USA, Europe) (Rev 1)-image.png</image>
+		<video>./videos/Cross High (USA, Europe) (Rev 1)-video.mp4</video>
+		<marquee>./images/Cross High (USA, Europe) (Rev 1)-marquee.png</marquee>
+		<thumbnail>./images/Cross High (USA, Europe) (Rev 1)-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Bon Treasure</developer>
+		<publisher>Bon Treasure</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+		<md5>f5118265b7a4ed27d756099dd3928fa2</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T042325" />
+	</game>
+	<game id="167390">
+		<path>./No-Intro/Crystball (USA, Europe) (Rev 1).sv</path>
+		<name>Crystball</name>
+		<desc>Crystball is a Breakout clone in the tradition of Arkanoid. The player controls a paddle at the bottom of the screen, and must bounce a ball off the bricks on the screen, with the goal of destroying them all. Destroying certain bricks will release power-ups or release enemies that wander the screen. If the ball falls out the bottom of the screen, a life is lost, and if all lives are lost, the game is over.</desc>
+		<image>./images/Crystball (USA, Europe) (Rev 1)-image.png</image>
+		<video>./videos/Crystball (USA, Europe) (Rev 1)-video.mp4</video>
+		<marquee>./images/Crystball (USA, Europe) (Rev 1)-marquee.png</marquee>
+		<thumbnail>./images/Crystball (USA, Europe) (Rev 1)-thumb.png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Bon Treasure Co., Ltd.</developer>
+		<publisher>Watara</publisher>
+		<genre>Action</genre>
+		<md5>d1c8064fdbf3e35f23030c23ccb4c053</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T042334" />
+	</game>
+	<game id="167390">
+		<path>./No-Intro/Crystball (USA, Europe).sv</path>
+		<name>Crystball</name>
+		<desc>Crystball is a Breakout clone in the tradition of Arkanoid. The player controls a paddle at the bottom of the screen, and must bounce a ball off the bricks on the screen, with the goal of destroying them all. Destroying certain bricks will release power-ups or release enemies that wander the screen. If the ball falls out the bottom of the screen, a life is lost, and if all lives are lost, the game is over.</desc>
+		<image>./images/Crystball (USA, Europe)-image.png</image>
+		<video>./videos/Crystball (USA, Europe)-video.mp4</video>
+		<marquee>./images/Crystball (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Crystball (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Bon Treasure Co., Ltd.</developer>
+		<publisher>Watara</publisher>
+		<genre>Action</genre>
+		<md5>a9631d965ce797e2b16d82a8afc2d994</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T042344" />
+	</game>
+	<game id="167416">
+		<path>./No-Intro/Dancing Block (USA, Europe).sv</path>
+		<name>Dancing Block</name>
+		<desc>Dancing Block is a simple arcade action game starring a sentient cube. This cube has a curious feature: a cannon on one side that can shoot pellets. However, as the cube moves by rotating onto different sides, the cannon will reorient whenever the cube moves. The goal of each stage is to collect all the fruit, while avoiding insects. Insects can be destroyed by the cannon... but only if it's firing in the right direction! Some stages feature power-ups that will allow the cube to fire in multiple directions simultaneously, or to shoot larger pellets that can hit multiple targets.
+
+The NES release also includes a stage edit mode.</desc>
+		<image>./images/Dancing Block (USA, Europe)-image.png</image>
+		<video>./videos/Dancing Block (USA, Europe)-video.mp4</video>
+		<marquee>./images/Dancing Block (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Dancing Block (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Thin Chen Enterprise</developer>
+		<publisher>Watara</publisher>
+		<md5>caeed584599c441ecd6a5bbc202cfae8</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T042353" />
+	</game>
+	<game id="167391">
+		<path>./No-Intro/Delta Hero (USA, Europe).sv</path>
+		<name>Delta Hero</name>
+		<desc>Delta Hero is an action maze game starring a young soldier trapped in a strange land. The goal of each stage is to collect enough bags of money and then reach the goal. The hero's only mode of defense against the strange creatures he encounters is a rather short-range gun. There are many items and enemies strewn around each stage, including food that will replenish the player's life, x-ray glasses that will reveal the many hidden items and pathways, and the money required to exit the stage. It is also possible to reveal hidden areas by shooting at them.</desc>
+		<image>./images/Delta Hero (USA, Europe)-image.png</image>
+		<video>./videos/Delta Hero (USA, Europe)-video.mp4</video>
+		<marquee>./images/Delta Hero (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Delta Hero (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Bon Treasure Co., Ltd.</developer>
+		<publisher>Watara</publisher>
+		<md5>b8195c48954c03dbd665da359ed77dc5</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T042403" />
+	</game>
+	<game id="167417">
+		<path>./No-Intro/Dream World (USA, Europe).sv</path>
+		<name>Dream World</name>
+		<desc>Dream World is a side-scrolling platform game starring a girl with psychic powers. She begins with only a regular energy shot, but additional weapons can be found throughout the game. Curiously, using the girl's ESP powers does not consume energy; rather, switching between shot types does, meaning she can only switch a certain number of times on each stage. Different enemies are weak to different weapons, and each stage ends with a large boss that must be defeated to continue.</desc>
+		<image>./images/Dream World (USA, Europe)-image.png</image>
+		<video>./videos/Dream World (USA, Europe)-video.mp4</video>
+		<marquee>./images/Dream World (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Dream World (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Bon Treasure Co., Ltd.</developer>
+		<publisher>Watara</publisher>
+		<md5>43d15c879126e97708aef98d16de92f4</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T042412" />
+	</game>
+	<game id="167392">
+		<path>./No-Intro/Eagle Plan (USA, Europe).sv</path>
+		<name>Eagle Plan</name>
+		<desc>Eagle Plan is an arcade-style flight sim game in the tradition of After Burner. Each mission tasks the player with destroying a certain number of enemies of specific types ? fighter planes, tanks, and warships ? and ends immediately once the conditions have been met. The player's craft has a gun with infinite ammo, as well as a limited number of missiles, tough certain enemies can only be destroyed with a specific type of weapon. Completing missions will earn money, which can be spent between missions to upgrade the player's craft, as well as replenish missiles and fuel. If the player runs out of fuel, which is also depleted from taking hits, the game is over.</desc>
+		<image>./images/Eagle Plan (USA, Europe)-image.png</image>
+		<video>./videos/Eagle Plan (USA, Europe)-video.mp4</video>
+		<marquee>./images/Eagle Plan (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Eagle Plan (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<developer>GTC</developer>
+		<publisher>Watara</publisher>
+		<md5>48481be2481d1a1f2fbdae426d58df6e</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T042420" />
+	</game>
+	<game id="167393">
+		<path>./No-Intro/Earth Defender (USA, Europe).sv</path>
+		<name>Earth Defender</name>
+		<desc>Earth Defender is an action shooting game, and a clone of Data East's Atomic Runner. The player controls an armored superhero fighting an alien invasion, and can freely move about the screen, even hovering in place using a jetpack. However, the screen is always scrolling forward, and it is impossible to backtrack. Each stage consists of a lengthy onslaught of flying enemies, followed by a boss at the end. There are also several power-ups that can be collected to increase the hero's firepower or refill his life.</desc>
+		<image>./images/Earth Defender (USA, Europe)-image.png</image>
+		<video>./videos/Earth Defender (USA, Europe)-video.mp4</video>
+		<marquee>./images/Earth Defender (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Earth Defender (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Bon Treasure Co., Ltd.</developer>
+		<publisher>Watara</publisher>
+		<md5>9f130a26b3843d6a59da894b3692b978</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T042430" />
+	</game>
+	<game id="167394">
+		<path>./No-Intro/Fatal Craft (USA, Europe).sv</path>
+		<name>Fatal Craft</name>
+		<desc>Fatal Craft is a horizontally-scrolling shooter modeled after Konami's seminal arcade classic Gradius, right down to the enemy formations and power-up system. As in most any scrolling shoot-'em-up, the goal is to reach the end of each stage and destroy the boss, defeating enemies and collecting power-ups along the way. Some enemies drop capsules, which when collected will increment the power-up bar at the bottom of the screen; press the power-up button to collect the selected item and reset the bar. There are six types of upgrades available, including a speed-up, a shield, three types of weapon upgrades, and an Option unit that mimic's the ship's movement, providing another source of fire.</desc>
+		<image>./images/Fatal Craft (USA, Europe)-image.png</image>
+		<video>./videos/Fatal Craft (USA, Europe)-video.mp4</video>
+		<marquee>./images/Fatal Craft (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Fatal Craft (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Bon Treasure Co., Ltd.</developer>
+		<publisher>Watara</publisher>
+		<md5>622a64039da1bb856ddae1c89c1d909b</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T042439" />
+	</game>
+	<game id="167395">
+		<path>./No-Intro/Final Combat (USA, Europe).sv</path>
+		<name>Final Combat</name>
+		<desc>Final Combat is a top-view tank action game similar to Namco's Battle City. Each stage contains a large number of enemy units and other objects to destroy. The goal is to destroy the fortified enemy base in each area, though the base cannot be damaged until enough enemy units -- tanks and turrets -- are destroyed. When the OK is given, destroy the base to complete the stage. If the player's tank takes too much damage, it will be destroyed.</desc>
+		<image>./images/Final Combat (USA, Europe)-image.png</image>
+		<video>./videos/Final Combat (USA, Europe)-video.mp4</video>
+		<marquee>./images/Final Combat (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Final Combat (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Thin Chen Enterprise</developer>
+		<publisher>Watara</publisher>
+		<md5>9f3af1177933d8ba8a9f5f0514edaebc</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T042448" />
+	</game>
+	<game id="167396">
+		<path>./No-Intro/Galactic Crusader (USA, Europe).sv</path>
+		<name>Galactic Crusader</name>
+		<desc>Your starship is alive! A metamorphic creature that can transform from a huge flying insect into a metallic destroyer. Face squadron after squadron of alien fighters, marching ever onward towards a final confrontation with an all-powerful enemy.
+
+This is basically a scrolling, shoot-it-if-it-moves, action game. As your ship scrolls up the screen, you fire on ships coming from the top of the screen. Occasionally, after ships have been destroyed, you can pick up a power up to increase your firing ability. At the end of each level is a boss you must defeat to move onward.</desc>
+		<image>./images/Galactic Crusader (USA, Europe)-image.png</image>
+		<video>./videos/Galactic Crusader (USA, Europe)-video.mp4</video>
+		<marquee>./images/Galactic Crusader (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Galactic Crusader (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Joy Van</developer>
+		<publisher>Watara</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<md5>7cf57d6b9ac5d2935369be34d553d04d</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T042457" />
+	</game>
+	<game id="167397">
+		<path>./No-Intro/Galaxy Fighter (USA, Europe).sv</path>
+		<name>Galaxy Fighter</name>
+		<desc>Galaxy Fighter is a vertically-scrolling space shooter. Many kinds of enemies appear in waves to attack the player, piloting an advanced fighter ship. When destroyed, enemies will sometimes drop power-up items, which include firepower upgrades and three different types of sub weapon: small homing missiles, large forward-firing missiles, and a rotating shield that damages nearby enemies. Every so often, a large boss enemy will appear, which must be destroyed in order to proceed. Similar to Toaplan's Truxton, there are no breaks between stages; the entire game scrolls continuously forward, only interrupted when the player's ship is destroyed.</desc>
+		<image>./images/Galaxy Fighter (USA, Europe)-image.png</image>
+		<video>./videos/Galaxy Fighter (USA, Europe)-video.mp4</video>
+		<marquee>./images/Galaxy Fighter (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Galaxy Fighter (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Thin Chen Enterprise</developer>
+		<publisher>Watara</publisher>
+		<md5>4ce6953562364bf13333f91a2fb7106e</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T042506" />
+	</game>
+	<game id="167398">
+		<path>./No-Intro/Grand Prix (USA, Europe).sv</path>
+		<name>Grand Prix</name>
+		<desc>Grand Prix is a simple F1 racing game for one player. The player's car has a turbo boost that can be used to pass other vehicles. The goal is simply to win each race by coming in first, continuing on to the next course. There are eight courses in total, each taking place in a different country.</desc>
+		<image>./images/Grand Prix (USA, Europe)-image.png</image>
+		<video>./videos/Grand Prix (USA, Europe)-video.mp4</video>
+		<marquee>./images/Grand Prix (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Grand Prix (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Bon Treasure Co., Ltd.</developer>
+		<publisher>Watara</publisher>
+		<md5>cbaeae37f45ac9ce039779ec3fd1e840</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T042515" />
+	</game>
+	<game id="167399">
+		<path>./No-Intro/Happy Pairs (USA, Europe).sv</path>
+		<name>Happy Pairs</name>
+		<desc>Happy Pairs is a tile-matching puzzle game based on the Japanese game Shisensh?. Similar to the well-known Shanghai, the object is to remove tiles from the board in matching pairs until the entire board is clear. Pairs can only be removed if they can be connected by a line with no more than two turns. The game is timed, and if the time runs out, the puzzle must be restarted. It is also possible to have the computer find a match for you, but this can only be done a limited number of times. The game includes more than a dozen different backgrounds, each representing a different location around the world, and several dozen different puzzle layouts to solve.</desc>
+		<image>./images/Happy Pairs (USA, Europe)-image.png</image>
+		<video>./videos/Happy Pairs (USA, Europe)-video.mp4</video>
+		<marquee>./images/Happy Pairs (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Happy Pairs (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Sachen</developer>
+		<publisher>Watara</publisher>
+		<genre>Puzzle-Game</genre>
+		<md5>9584f03505b901570909d72cca88b10c</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T042525" />
+	</game>
+	<game id="167418">
+		<path>./No-Intro/Happy Race (USA, Europe).sv</path>
+		<name>Happy Race</name>
+		<desc>Happy Race is a top-down arcade driving game, strikingly similar to Namco's Rally-X sans the scrolling. Each stage consists of an assortment of passageways, obstacles, and flags; the goal of each stage is to collect all of the flags. Impeding the player are a pair of enemy buggies which will chase the player, but it is possible to use part of the car's fuel reserves to kick up dust clouds that will stun the enemies. There are several bonus flags on each stage, and also many bonus food items that will appear randomly and aware extra points. The game offers three difficulty settings.</desc>
+		<image>./images/Happy Race (USA, Europe)-image.png</image>
+		<video>./videos/Happy Race (USA, Europe)-video.mp4</video>
+		<marquee>./images/Happy Race (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Happy Race (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Sachen</developer>
+		<publisher>Watara</publisher>
+		<md5>6e90d2a3b9fc22a35ed886d3947ba22a</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T042536" />
+	</game>
+	<game id="167400">
+		<path>./No-Intro/Hash Blocks (USA, Europe) (Rev 1).sv</path>
+		<name>Hash Blocks</name>
+		<desc>Hash Blocks is a falling-blocks puzzle game similar to Columns. Blocks fall in sets of three from the top of the well, and can be cycled and rotated freely. If four blocks of the same type are lined up horizontally, vertically, or diagonally, they are cleared and removed from the playfield, causing any blocks above them to fall into the open space. If the blocks reach the top of the screen, the game is over.
+
+The game includes two modes. Normal mode tasks the player with clearing a certain number of blocks before the playfield fills up. Flash mode requires the player to clear a specific, flashing block, which may be buried under multiple other blocks. Both modes offer three levels of difficulty, as well as multiple different block graphic sets to use.</desc>
+		<image>./images/Hash Blocks (USA, Europe) (Rev 1)-image.png</image>
+		<video>./videos/Hash Blocks (USA, Europe) (Rev 1)-video.mp4</video>
+		<marquee>./images/Hash Blocks (USA, Europe) (Rev 1)-marquee.png</marquee>
+		<thumbnail>./images/Hash Blocks (USA, Europe) (Rev 1)-thumb.png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<developer>GTC</developer>
+		<publisher>Watara</publisher>
+		<genre>Puzzle-Game</genre>
+		<md5>33d66c6e198a63784e9d169291a737c5</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T042545" />
+	</game>
+	<game id="167419">
+		<path>./No-Intro/Hero Hawk (USA, Europe).sv</path>
+		<name>Hero Hawk</name>
+		<desc>Hero Hawk is a top-down action game similar to Sega's Crack Down, in which the player must infiltrate enemy strongholds and plant bombs at certain locations. Each mission is divided into interconnected rooms, which each contain various hazards, enemy soldiers, item containers, and of course bomb markers. When all bombs on a stage have been planted, the boss area opens up, and the player must defeat the boss to complete the mission.
+
+There are a large variety of items that can be found within missions. Food will refill the player's life, grenades will grant an extra screen-clearing bomb, ammunition will let the player shoot faster, boots will increase walking speed, and the ever-useful SuperVision console will let the player access a map of the stage, which indicates which rooms still need bombs placed. However, if the player takes too many hits and dies, all power-ups are lost. There are only a limited number of continues.</desc>
+		<image>./images/Hero Hawk (USA, Europe)-image.png</image>
+		<video>./videos/Hero Hawk (USA, Europe)-video.mp4</video>
+		<marquee>./images/Hero Hawk (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Hero Hawk (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Thin Chen Enterprise</developer>
+		<publisher>Watara</publisher>
+		<md5>7272f41de036309c6b75bff001ea70c8</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T042554" />
+	</game>
+	<game id="167401">
+		<path>./No-Intro/Hero Kid (USA, Europe).sv</path>
+		<name>Hero Kid</name>
+		<desc>Hero Kid is a side-scrolling platform game starring a young man who must rescue his girlfriend. Each stage scrolls from left to right, and is filled with enemies and obstacles that must be overcome. Hero Kid's energy is continually depleting, and he must collect fruit to replenish it. The many enemies in his way are quite deadly, and will kill our hero in only one hit. However, it is also possible to gain the ability to throw hammers to destroy enemies by collecting floating hearts. Hero Kid only has three lives, and if he runs out, he is sent back to the beginning of the current area.</desc>
+		<image>./images/Hero Kid (USA, Europe)-image.png</image>
+		<video>./videos/Hero Kid (USA, Europe)-video.mp4</video>
+		<marquee>./images/Hero Kid (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Hero Kid (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<publisher>Watara</publisher>
+		<md5>21395a6d09d75dc9ad2fe40a757815c7</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T042603" />
+	</game>
+	<game id="167402">
+		<path>./No-Intro/Honey Bee (USA, Europe).sv</path>
+		<name>Honey Bee</name>
+		<desc>Honey Bee is a vertically-scrolling shooter that bears a striking similarity to Konami's TwinBee. The player controls a cute-looking ship with arms and legs, which can fire both at flying enemies and ground-based enemies. Destroyed ground enemies will drop hearts that give points, and it is also possible to shoot clouds to release items which will also give additional points. There are no power-ups to increase the ship's firepower. At the end of each stage, there is a boss that must be destroyed in order to continue.</desc>
+		<image>./images/Honey Bee (USA, Europe)-image.png</image>
+		<video>./videos/Honey Bee (USA, Europe)-video.mp4</video>
+		<marquee>./images/Honey Bee (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Honey Bee (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Bon Treasure Co., Ltd.</developer>
+		<publisher>Watara</publisher>
+		<md5>52b72b95b4240c66e4fefeb1485bd394</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T042612" />
+	</game>
+	<game id="167403">
+		<path>./No-Intro/Jacky Lucky (USA, Europe).sv</path>
+		<name>Jacky Lucky</name>
+		<desc>Jacky Lucky is a side-scrolling platformer starring a man who carries a big stick. The player controls this man as he makes his way through each stage filled with enemies, most of which can be defeated with the stick but will also defeat our hero in a single hit, as well as destructible blocks that contain various items, including limited amounts of projectiles that can be thrown at enemies. At the end of each stage is a boss that must be defeated. There is also a bonus game between stages where the player can trade any coins they found for extra lives.</desc>
+		<image>./images/Jacky Lucky (USA, Europe)-image.png</image>
+		<video>./videos/Jacky Lucky (USA, Europe)-video.mp4</video>
+		<marquee>./images/Jacky Lucky (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Jacky Lucky (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Bon Treasure Co., Ltd.</developer>
+		<publisher>Watara</publisher>
+		<md5>2570fc334466c45fd05488089cf396b5</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T042621" />
+	</game>
+	<game id="167404">
+		<path>./No-Intro/Jaguar Bomber (USA, Europe).sv</path>
+		<name>Jaguar Bomber</name>
+		<desc>Jaguar Bomber is a vertically-scrolling shooter where the player pilots a fighter jet against an invading alien army. Various types of enemies attack from all sides, and the player must avoid their attacks and destroy as many as possible. The game is very straightforward, and there are no power-ups to increase the ship's firepower. At the end of each stage, there is a large boss that must be destroyed to proceed.</desc>
+		<image>./images/Jaguar Bomber (USA, Europe)-image.png</image>
+		<video>./videos/Jaguar Bomber (USA, Europe)-video.mp4</video>
+		<marquee>./images/Jaguar Bomber (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Jaguar Bomber (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Bon Treasure Co., Ltd.</developer>
+		<publisher>Watara</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<md5>a896fc8bc1eba73a0689cb587c665e94</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T042630" />
+	</game>
+	<game id="167405">
+		<path>./No-Intro/John Adventure (USA, Europe).sv</path>
+		<name>John Adventure</name>
+		<desc>John Adventure is a falling-block puzzle game cloned from Dr. Mario. Each stage presents the player with a bottle filled with dancing objects that must be destroyed. Pairs of pieces fall from the top of the bottle; line four of the same color in a row to cause them to disappear. Destroy all the target pieces to clear the stage, but reach the top of the bottle and it's game over! There are 20 stages and three play speeds available.</desc>
+		<image>./images/John Adventure (USA, Europe)-image.png</image>
+		<video>./videos/John Adventure (USA, Europe)-video.mp4</video>
+		<marquee>./images/John Adventure (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/John Adventure (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Sachen</developer>
+		<publisher>Watara</publisher>
+		<genre>Puzzle-Game</genre>
+		<md5>c1c6a01a67c0cb26c85e81f862f19e67</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T042639" />
+	</game>
+	<game id="250741">
+		<path>./No-Intro/Journey to the West (USA).sv</path>
+		<name>Journey to the West</name>
+		<desc>Journey to the West is based on the classic Chinese novel of the same name. Over the course of the game, the monkey king Sun Wukong and his allies, Zhu Bajie and Sha Wujing, must fight through the many monsters and demons that interfere with their quest to reach India and collect the Buddhist sacred texts. The majority of the game consists of one-on-one duels against various, powerful enemies. Each enemy must be defeated before moving on to the next. Late in the game, the style briefly changes to an overhead perspective, and the goal is to find and collect all the keys so as to facilitate your escape to the next level.</desc>
+		<image>./images/Journey to the West (USA)-image.png</image>
+		<video>./videos/Journey to the West (USA)-video.mp4</video>
+		<marquee>./images/Journey to the West (USA)-marquee.png</marquee>
+		<thumbnail>./images/Journey to the West (USA)-thumb.png</thumbnail>
+		<md5>7bac0340d2497a1d6d8553f14765dfc3</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T042648" />
+	</game>
+	<game id="167406">
+		<path>./No-Intro/Juggler (USA, Europe).sv</path>
+		<name>Juggler</name>
+		<desc>Juggler is an action game where the player controls a magician who can create large floating bubbles. The object of the game is to keep the bubble bouncing long enough for it to grow larger, then pop it to cause pieces to fall on the enemies wandering each stage. Defeated enemies will release power-ups, but the magician must also be careful to keep away from the enemies, as one hit will knock him out.</desc>
+		<image>./images/Juggler (USA, Europe)-image.png</image>
+		<video>./videos/Juggler (USA, Europe)-video.mp4</video>
+		<marquee>./images/Juggler (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Juggler (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Bon Treasure Co., Ltd.</developer>
+		<publisher>Watara</publisher>
+		<md5>fd60a857d2c8d82f9b51c574910b9c83</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T042657" />
+	</game>
+	<game id="167407">
+		<path>./No-Intro/Kabi Island - Gold in Island (USA, Europe).sv</path>
+		<name>Kabi Island - Gold In Island</name>
+		<desc>Kabi-Island is a top-down action game that plays like Bomberman. Each stage is filled with blocks and enemies, both of which can be blown up using bombs. Blocks may contain power-ups -- such as power boosts, additional bombs, speed shoes, or remote bombs -- or one of the gold bars that are needed to complete each stage. The goal of each stage is to collect enough gold bars, which will end the stage immediately. Enemies can be defeated with a single bomb blast, but can also defeat the hero just as easily. The game includes five different worlds, each with their own enemy types and setting.</desc>
+		<image>./images/Kabi Island - Gold in Island (USA, Europe)-image.png</image>
+		<video>./videos/Kabi Island - Gold in Island (USA, Europe)-video.mp4</video>
+		<marquee>./images/Kabi Island - Gold in Island (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Kabi Island - Gold in Island (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Thin Chen Enterprise</developer>
+		<publisher>Watara</publisher>
+		<md5>4beed52bbf858ed057260b3b57b94494</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T042705" />
+	</game>
+	<game id="167420">
+		<path>./No-Intro/Kitchen War (USA, Europe).sv</path>
+		<name>Kitchen War</name>
+		<desc>Kitchen War is an arcade platform game with a food theme. The player controls a tomato chef whose kitchen has become overrun by insects and other vermin. Using weapons such as plates, forks, and ladles -- found in rooms through out the kitchen -- the player must defeat enough of a certain type of pest, such as a snail, spider, or mouse, to proceed to the next stage. Touching enemies will hurt the chef, though he can recover by finding bottles of ketchup which are also hidden within the rooms. Each weapon can only be used a certain number of times before another must be found.</desc>
+		<image>./images/Kitchen War (USA, Europe)-image.png</image>
+		<video>./videos/Kitchen War (USA, Europe)-video.mp4</video>
+		<marquee>./images/Kitchen War (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Kitchen War (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Bon Treasure Co., Ltd.</developer>
+		<publisher>Watara</publisher>
+		<md5>a753cbbeb25563928aaf9b01b9be66fb</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T042712" />
+	</game>
+	<game id="167421">
+		<path>./No-Intro/Kung-Fu Street (USA, Europe).sv</path>
+		<name>Kung-fu Street</name>
+		<desc>Kung-Fu Street is a 1-on-1 martial arts fighting game very similar to Konami's Yie Ar Kung-Fu. The game plays similarly to the NES version of Konami's classic, offering punches and kicks at two different heights, plus flying jump kicks and wall bounces. A variety of different opponents must be defeated, including a ninja, a fencer, and a boxer, who each have their own fighting styles and techniques. If the player loses too many bouts, the game is over with no option to continue.</desc>
+		<image>./images/Kung-Fu Street (USA, Europe)-image.png</image>
+		<video>./videos/Kung-Fu Street (USA, Europe)-video.mp4</video>
+		<marquee>./images/Kung-Fu Street (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Kung-Fu Street (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Thin Chen Enterprise</developer>
+		<publisher>Watara</publisher>
+		<md5>bcfc1c956d7fd886ae0fd9dd6de4bef3</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T042721" />
+	</game>
+	<game id="167408">
+		<path>./No-Intro/Linear Racing (USA, Europe).sv</path>
+		<name>Linear Racing</name>
+		<desc>Linear Racing is a video puzzle game. A short animation is shown, then scrambled into 16 tiles, which must be rearranged to recreate the original image. Tiles may be swapped around, as well as flipped vertically or horizontally, to rebuild the animation. There are six different animations to choose from, and three difficulty settings for each.</desc>
+		<image>./images/Linear Racing (USA, Europe)-image.png</image>
+		<video>./videos/Linear Racing (USA, Europe)-video.mp4</video>
+		<marquee>./images/Linear Racing (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Linear Racing (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<publisher>Watara</publisher>
+		<genre>Puzzle-Game</genre>
+		<md5>e3535104fd48c0ed3240b03065ea3a1f</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T042730" />
+	</game>
+	<game id="167409">
+		<path>./No-Intro/Magincross (USA, Europe).sv</path>
+		<name>Magincross</name>
+		<desc>"In A.D. 2X00 alien Saya Empire secretly built a "Time space" Frontier Post on the Moon, intentionally intrude the earth... In order to defeat the alien's intrusion, the Earth Defense Arms has launched an unprecedented outer space war with the alien Saya Empire..."
+
+Magincross is a horizontally-scrolling space shooter. The player shoots down waves of alien ships until the boss of each stage is reached. Instead of the usual lives system in most shooters, the player's ship instead has a power bar, which will deplete when the player takes a hit, but can be replenished by collecting power-ups that occasionally appear. After defeating the stage boss, the player moves on to the next stage. There are three stages total.</desc>
+		<image>./images/Magincross (USA, Europe)-image.png</image>
+		<video>./videos/Magincross (USA, Europe)-video.mp4</video>
+		<marquee>./images/Magincross (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Magincross (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Thin Chen Enterprise</developer>
+		<publisher>Watara</publisher>
+		<genre>Shoot'em up / Horizontal</genre>
+		<md5>84fe136fd254f26d2a6b33a251ef7f0a</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T042739" />
+	</game>
+	<game id="250743">
+		<path>./No-Intro/Majong (USA, Europe).sv</path>
+		<name>Majong</name>
+		<image>./images/Majong (USA, Europe)-image.png</image>
+		<video>./videos/Majong (USA, Europe)-video.mp4</video>
+		<marquee>./images/Majong (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Majong (USA, Europe)-thumb.png</thumbnail>
+		<developer>Bon Treasure</developer>
+		<publisher>Bon Treasure</publisher>
+		<md5>57c7f913afe11d5c30252280a31eb04a</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T042749" />
+	</game>
+	<game id="167368">
+		<path>./No-Intro/Matta Blatta (USA, Europe).sv</path>
+		<name>Matta Blatta</name>
+		<desc>Matta Blatta is a simple side-scrolling shoot-'em'-up. The player controls a space ship traveling down a long corridor against endless waves of erratically-moving enemies. Each wave consists of a different type of enemy with a different movement and firing pattern. There are two types of power-ups that appear; one will increase the ship's firepower and movement speed, while the other will grant a temporary shield.</desc>
+		<image>./images/Matta Blatta (USA, Europe)-image.png</image>
+		<video>./videos/Matta Blatta (USA, Europe)-video.mp4</video>
+		<marquee>./images/Matta Blatta (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Matta Blatta (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<developer>B.I.T.S.</developer>
+		<publisher>Watara</publisher>
+		<md5>946e0afdcd689697e0461b9a217c6495</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T042757" />
+	</game>
+	<game id="167369">
+		<path>./No-Intro/Olympic Trials (USA, Europe).sv</path>
+		<name>Olympic Trials</name>
+		<desc>Olympic Trials is a track &amp; field sports game for up to four players. The game features six events: Hurdles, Long Jump, Archery, Shot Put, Rowing, and Cycling. It is possible to choose a single event, or to play all six events in order. Success in each game is determined by either quick button mashing, rhythm, or precise timing.</desc>
+		<image>./images/Olympic Trials (USA, Europe)-image.png</image>
+		<video>./videos/Olympic Trials (USA, Europe)-video.mp4</video>
+		<marquee>./images/Olympic Trials (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Olympic Trials (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<developer>B.I.T.S.</developer>
+		<publisher>Watara</publisher>
+		<md5>5bdbff8fa9a0a8ce2157dedccfa7106d</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T042806" />
+	</game>
+	<game id="167370">
+		<path>./No-Intro/P-52 Sea Battle (USA, Europe).sv</path>
+		<name>P-52 Sea Battle</name>
+		<desc>P52 Sea Battle is an arcade naval battle game with four types of targets: Destroyer, Torpedo (Submarines), Aircraft (Carrier), and Cruiser. Choosing either a British, American, or USSR sub, the goal is to destroy all the given targets without running out of torpedoes or being sunk. There are four difficulty levels of each mode available, and clearing missions will earn points which can be used to purchase upgrades for the player's sub, including stronger armor and higher torpedo capacity.</desc>
+		<image>./images/P-52 Sea Battle (USA, Europe)-image.png</image>
+		<video>./videos/P-52 Sea Battle (USA, Europe)-video.mp4</video>
+		<marquee>./images/P-52 Sea Battle (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/P-52 Sea Battle (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<publisher>Watara</publisher>
+		<md5>c38e1c1c617d9611d3f6069a03024708</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T042812" />
+	</game>
+	<game id="167371">
+		<path>./No-Intro/PacBoy &amp; Mouse (USA, Europe).sv</path>
+		<name>Pacboy And Mouse</name>
+		<desc>Pacboy &amp; Mouse in an arcade action game similar to Pengo. A young boy's lady friend has been accosted by mice, and it's up to him to catch them. The player controls the boy in a maze made up of blocks, which can be kicked to make them slide. The goal is to use the blocks to crush all the mice on the stage, but if the player takes too long more mice will appear. It is also possible to kick the walls, which will stun any mice next to that wall. Touching a mouse directly will cause the player to lose a life. Once all the mice have been killed, the player moves on to the next stage.</desc>
+		<image>./images/PacBoy &amp; Mouse (USA, Europe)-image.png</image>
+		<video>./videos/PacBoy &amp; Mouse (USA, Europe)-video.mp4</video>
+		<marquee>./images/PacBoy &amp; Mouse (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/PacBoy &amp; Mouse (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<publisher>Watara</publisher>
+		<md5>8f78dff4f064c7bd993060919b385c67</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T042817" />
+	</game>
+	<game id="167422">
+		<path>./No-Intro/Pacific Battle (USA, Europe).sv</path>
+		<name>Pacific Battle</name>
+		<desc>Pacific Battle is a turn-based naval tactics game. The player controls a fleet of ships and aircraft, including submarines, destroyers, and fighter jets, against a similarly-equipped enemy fleet on a tile-based map. Each unit type has different abilities and attacks; jets for example are quick and capable of long-range attack, but have little armor and are weak to gunfire, while submarines are invisible except to submarines, and are effective against surface ships. The goal of each map is to destroy the enemy fleet while keeping the player's fleet intact. It is only possible to play against the computer, and the game is saved with passwords.</desc>
+		<image>./images/Pacific Battle (USA, Europe)-image.png</image>
+		<video>./videos/Pacific Battle (USA, Europe)-video.mp4</video>
+		<marquee>./images/Pacific Battle (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Pacific Battle (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Bon Treasure Co., Ltd.</developer>
+		<publisher>Watara</publisher>
+		<md5>214747cd1c32e7bb8dcfdf15595e6d94</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T042822" />
+	</game>
+	<game id="167372">
+		<path>./No-Intro/Penguin Hideout (USA, Europe).sv</path>
+		<name>Penguin Hideout</name>
+		<desc>Penguin &amp; Seal is an arcade action game similar to Pengo. The player controls a penguin who must gather gems and deposit them into an igloo while avoiding becoming lunch for the seals wandering nearby. Each stage is filled with blocks, most of which can be destroyed, as well as three gems. The goal is to push the blocks to destroy them and crush the seals, while gathering the gems and depositing them in the igloo on the right side of the screen. Contact with either a seal or a kicked block will kill the penguin instantly. Successfully deposit all three gems to move on to the next stage.
+
+The NES version also includes a 2-player mode and a puzzle construction mode.</desc>
+		<image>./images/Penguin Hideout (USA, Europe)-image.png</image>
+		<video>./videos/Penguin Hideout (USA, Europe)-video.mp4</video>
+		<marquee>./images/Penguin Hideout (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Penguin Hideout (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Sachen</developer>
+		<publisher>Watara</publisher>
+		<md5>0ec15e7b722003989ec0094423e691f9</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T042829" />
+	</game>
+	<game id="167373">
+		<path>./No-Intro/Police Bust (USA, Europe).sv</path>
+		<name>Police Bust</name>
+		<desc>Police Bust is a dot-collecting maze game in the tradition of Pac-Man. The player controls a fugitive who is being chased by two police officers. He must collect all the dots strewn about a maze while avoiding capture. To aid in the escape, the player has access to barriers which will block the officers' path, as well as bombs which will stun them for a short time, but both items are in limited supply. Collect all the dots to move on to the next stage.</desc>
+		<image>./images/Police Bust (USA, Europe)-image.png</image>
+		<video>./videos/Police Bust (USA, Europe)-video.mp4</video>
+		<marquee>./images/Police Bust (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Police Bust (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Bon Treasure Co., Ltd.</developer>
+		<publisher>Watara</publisher>
+		<md5>427488cb0f3251a46e923f9e8608ff80</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T042835" />
+	</game>
+	<game id="167423">
+		<path>./No-Intro/Popo Team (USA, Europe).sv</path>
+		<name>Popo Team</name>
+		<desc>Popo Team is an arcade-style action game similar to Anteater or Oil's Well. The player controls a curiously-sentient underground pump which must collect food and objects hidden within a variety of mazes. There are various objects that move around the maze to help or hinder the player: food items can be eaten for bonus points; creatures can be eaten with the head, but will kill the player if they touch the body; and bombs are harmless to the body, but will kill the head if eaten. The only controls are to extend the head in an open direction, and to quickly retract the tube to the surface.</desc>
+		<image>./images/Popo Team (USA, Europe)-image.png</image>
+		<video>./videos/Popo Team (USA, Europe)-video.mp4</video>
+		<marquee>./images/Popo Team (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Popo Team (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Thin Chen Enterprise</developer>
+		<publisher>Watara</publisher>
+		<md5>56c9c900eb04ee31963b256f530592c8</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T042843" />
+	</game>
+	<game id="167374">
+		<path>./No-Intro/Pyramid (USA, Europe).sv</path>
+		<name>Pyramid</name>
+		<desc>Pyramid is a real-time puzzle game similar to Tetris. Stones of various shapes and sizes fall from the top of the screen, and you need to move and rotate the stones so they fill complete lines at the bottom of the screen. Should the stones reach the top of the screen the game is over. If you get in trouble, there are a limited number of bombs that can be used to clear a small section of stones at the bottom hopefully giving you more room to work with. Unlike the square and rectangular shaped pieces found in Tetris, each of the shapes in Pyramid have one or more angles to them making complete lines more difficult to form.</desc>
+		<image>./images/Pyramid (USA, Europe)-image.png</image>
+		<video>./videos/Pyramid (USA, Europe)-video.mp4</video>
+		<marquee>./images/Pyramid (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Pyramid (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Thin Chen Enterprise</developer>
+		<publisher>Watara</publisher>
+		<genre>Puzzle-Game</genre>
+		<md5>15cd9f6729d5ad8ec2752fa0fe8b71ba</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T042852" />
+	</game>
+	<game id="167424">
+		<path>./No-Intro/Recycle Design (USA, Europe).sv</path>
+		<name>Recycle Design</name>
+		<desc>Recycle Design is a clone of the popular puzzle game Pipe Dream. The player controls a plumber who must connect two ends of a pipe before the water within overflows. The player can place pipe tiles on the screen toward this end, though each piece of pipe costs money which must also be collected on each stage. There are several other differences from the game's inspiration: there are no cross pieces, the only penalty for replacing a piece is the cost of the pipe, two different pipe pieces are held at any time, and there are also rocks which can be pushed around that playfield that will block the path and destroy pipes.</desc>
+		<image>./images/Recycle Design (USA, Europe)-image.png</image>
+		<video>./videos/Recycle Design (USA, Europe)-video.mp4</video>
+		<marquee>./images/Recycle Design (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Recycle Design (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Bon Treasure Co., Ltd.</developer>
+		<publisher>Watara</publisher>
+		<genre>Puzzle-Game</genre>
+		<md5>0a07c444324d0b41546e2363679360da</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T042901" />
+	</game>
+	<game id="167425">
+		<path>./No-Intro/Scaffolder (USA, Europe).sv</path>
+		<name>Scaffolder</name>
+		<desc>Scaffolder is a block puzzle game. Each puzzle consists of a set of blocks, which must be disassembled so that every block lies directly on the floor. The blocks are fragile, and if they fall more than one tile at a time, they will break and the puzzle will be failed. The player controls a man who can push and pull these blocks, as well as jump around the stage, who must also be careful not to let himself be crushed by the blocks. There are two different modes: beginner mode features relatively easy puzzles with no time limit, while skilled mode includes harder puzzles that must be completed within a time limit. Game progress is saved using passwords.</desc>
+		<image>./images/Scaffolder (USA, Europe)-image.png</image>
+		<video>./videos/Scaffolder (USA, Europe)-video.mp4</video>
+		<marquee>./images/Scaffolder (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Scaffolder (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Bon Treasure Co., Ltd.</developer>
+		<publisher>Watara</publisher>
+		<genre>Puzzle-Game</genre>
+		<md5>c07638809b49f2c922c4d4d7519e6f9c</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T042910" />
+	</game>
+	<game id="167375">
+		<path>./No-Intro/Soccer Champion (USA, Europe).sv</path>
+		<name>Soccer Champion</name>
+		<desc>Soccer Champion is an overhead-view soccer game for one player. The player automatically controls the player closest to the ball, or the goalkeeper when he is visible. There are eight national teams to choose from, and two different modes. Exercise mode is a regular exhibition match against the computer, while Champion mode is a tournament where the player must defeat all the other teams in sequence. It is possible to choose between a three-minute, five-minute, and eight-minute game.</desc>
+		<image>./images/Soccer Champion (USA, Europe)-image.png</image>
+		<video>./videos/Soccer Champion (USA, Europe)-video.mp4</video>
+		<marquee>./images/Soccer Champion (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Soccer Champion (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<publisher>Watara</publisher>
+		<genre>Sports / Soccer</genre>
+		<md5>a6b4dee95c8995a1d5e31ee1c9c7086b</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T042919" />
+	</game>
+	<game id="250745">
+		<path>./No-Intro/Sonny X'Press (USA, Europe) (Beta).sv</path>
+		<name>Sonny X'Press</name>
+		<desc>Sonny Xpress is a mail-delivery action game starring the titular Sonny, a monkey who rides a moped. The player controls Sonny as he rides around town delivering packages. To do so, he must first go to the post office and pick up a package, then check the map for his destination, and then finally ride there and make the delivery before starting over again. He must also be mindful of his surroundings, as there are dangerous cars and many other obstacles, and one hit will wreck his ride.
+Delivering packages earns money, which must be deposited in the bank in order to save it. Money can also be used to refuel the moped, and also to pay traffic fines at the police office. Ignoring traffic signs such as red lights and stop signs will land Sonny with a stiff fine that must be repaid.</desc>
+		<image>./images/Sonny X'Press (USA, Europe) (Beta)-image.png</image>
+		<video>./videos/Sonny X'Press (USA, Europe) (Beta)-video.mp4</video>
+		<marquee>./images/Sonny X'Press (USA, Europe) (Beta)-marquee.png</marquee>
+		<thumbnail>./images/Sonny X'Press (USA, Europe) (Beta)-thumb.png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<publisher>Watara</publisher>
+		<genre>Action</genre>
+		<md5>7a0ef963396e67a240e0c068157ac1e3</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T042930" />
+	</game>
+	<game id="250745">
+		<path>./No-Intro/Sonny X'Press (USA, Europe).sv</path>
+		<name>Sonny X'Press</name>
+		<desc>Sonny Xpress is a mail-delivery action game starring the titular Sonny, a monkey who rides a moped. The player controls Sonny as he rides around town delivering packages. To do so, he must first go to the post office and pick up a package, then check the map for his destination, and then finally ride there and make the delivery before starting over again. He must also be mindful of his surroundings, as there are dangerous cars and many other obstacles, and one hit will wreck his ride.
+Delivering packages earns money, which must be deposited in the bank in order to save it. Money can also be used to refuel the moped, and also to pay traffic fines at the police office. Ignoring traffic signs such as red lights and stop signs will land Sonny with a stiff fine that must be repaid.</desc>
+		<image>./images/Sonny X'Press (USA, Europe)-image.png</image>
+		<video>./videos/Sonny X'Press (USA, Europe)-video.mp4</video>
+		<marquee>./images/Sonny X'Press (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Sonny X'Press (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<publisher>Watara</publisher>
+		<genre>Action</genre>
+		<md5>b076cac52175ac41f0a673037b3bb07f</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T042939" />
+	</game>
+	<game id="167426">
+		<path>./No-Intro/Space Fighter (USA, Europe).sv</path>
+		<name>Space Fighter</name>
+		<desc>Space Fighter is an action shooting game starring a team of three robot soldiers, who must defend their cities from an enemy robot army. Each stage consists of a small scrolling top-down map filled with enemy robots. The player must shoot and destroy a certain number of enemies on each stage in order to move on to the next.
+
+There are three different robots to choose from, each with their own different abilities. HUNT is the quickest, but can only shoot straight forward; DALE is the slowest but has a powerful spread shot; and OWEN is average pm speed, but can fire in four directions simultaneously. On each stage, there is also a base that can be used to switch robots and refill their energy.</desc>
+		<image>./images/Space Fighter (USA, Europe)-image.png</image>
+		<video>./videos/Space Fighter (USA, Europe)-video.mp4</video>
+		<marquee>./images/Space Fighter (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Space Fighter (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Bon Treasure Co., Ltd.</developer>
+		<publisher>Watara</publisher>
+		<md5>6a29877dad0a05cc10b8f15a38ff3369</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T042948" />
+	</game>
+	<game id="167376">
+		<path>./No-Intro/SSSnake (USA, Europe).sv</path>
+		<name>Sssnake</name>
+		<desc>Sssnake is a basic Snake game. The player controls a snake in a small room filled with food and obstacles. The goal is to eat all the food while avoiding the obstacles, but whenever the snake eats a piece of food, it grows longer, making it more difficult to maneuver. The snake moves forward at a constant speed and can be turned in the four cardinal directions. Holding a button will make the snake move faster, making it harder to control, but increasing the potential for a time bonus.
+
+In this particular version, there are a number of apples on each stage. When an apple is eaten, it disappears, and an apple core appears elsewhere on the stage, and when the apple core is eaten, a deadly skull appears somewhere else. The player must eat all of the apples and apple cores in one run; they will all be reset if the snake touches an obstacle. The player will also earn bonus points if all the normal apples are eaten before any apple core is eaten.</desc>
+		<image>./images/SSSnake (USA, Europe)-image.png</image>
+		<video>./videos/SSSnake (USA, Europe)-video.mp4</video>
+		<marquee>./images/SSSnake (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/SSSnake (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<developer>B.I.T.S.</developer>
+		<publisher>Watara</publisher>
+		<md5>073cfcdefb73cf2bf9bc8b1978022432</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T042958" />
+	</game>
+	<game id="167377">
+		<path>./No-Intro/Super Block (USA, Europe).sv</path>
+		<name>Super Block</name>
+		<desc>Super Block is a collection of three block puzzle games:
+Play Block is a clone of Flipull. The objective is to launch blocks at other blocks with matching patterns to clear them from the field. Clear enough blocks without running out of moves to move to the next stage.
+Fill Block is a clone of Quarth. Groups of blocks fall from the top of the screen, and the objective is to shoot additional blocks at them to create rectangles, causing the blocks to clear. If a block passes the line at the bottom of the screen, the game is over.
+Hit Block is a mixture of the two other games. Blocks of varying types fall from the top of the screen, and the player must launch a matching block at it to remove it from play. Launching the wrong type will add it to the stack. If a block passes the line at the bottom of the screen, the game is over.</desc>
+		<image>./images/Super Block (USA, Europe)-image.png</image>
+		<video>./videos/Super Block (USA, Europe)-video.mp4</video>
+		<marquee>./images/Super Block (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Super Block (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Bon Treasure Co., Ltd.</developer>
+		<publisher>Watara</publisher>
+		<genre>Puzzle-Game</genre>
+		<md5>c85c839b5ded60edc0dc2c7a1b5d8a60</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T043008" />
+	</game>
+	<game id="167378">
+		<path>./No-Intro/Super Kong (USA, Europe).sv</path>
+		<name>Super Kong</name>
+		<desc>Super Kong is a simple action game that plays like a cross between Pooyan and Donkey Kong 3. The titular Super Kong slowly climbs a vine on the left edge of the screen, while the player controls a young child on a vine at the right edge. The object is to throw balls at Kong to knock him down the vine, ultimately knocking him out at the bottom. However, many obstructions fall from the top of the screen, and Kong himself can throw a large projectile that can knock the child out, losing a life. There are a handful of power-ups to assist the player, and it is also possible to jump off the vine to avoid Kong's attacks. The game includes three stages of increasing difficulty.</desc>
+		<image>./images/Super Kong (USA, Europe)-image.png</image>
+		<video>./videos/Super Kong (USA, Europe)-video.mp4</video>
+		<marquee>./images/Super Kong (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Super Kong (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Thin Chen Enterprise</developer>
+		<publisher>Watara</publisher>
+		<md5>d5ef26274492796050e53a1f5416152a</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T043017" />
+	</game>
+	<game id="167427">
+		<path>./No-Intro/Super Pang (USA, Europe).sv</path>
+		<name>Super Pang</name>
+		<desc>Super Pang is a clone of the arcade game of the same title. The premise is simple: there are balloons bouncing around a room, and you must shoot and destroy them without getting hit. However, it's not that simple; when shot, the balloons will split into two smaller balloons, and only the smallest size will be destroyed when hit. There are several power-ups that will randomly appear to aid the player, including long-lasting shots, quick-fire shots, and scrolls that instantly reduce all balloons on the screen to the smallest size. Pop enough balloons to move onto the next stage.</desc>
+		<image>./images/Super Pang (USA, Europe)-image.png</image>
+		<video>./videos/Super Pang (USA, Europe)-video.mp4</video>
+		<marquee>./images/Super Pang (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Super Pang (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Sachen</developer>
+		<publisher>Watara</publisher>
+		<family>Pang</family>
+		<md5>c93782ad97197a5134bb82a65bba1a54</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T043028" />
+	</game>
+	<game id="167379">
+		<path>./No-Intro/Tasac 2010 (USA, Europe).sv</path>
+		<name>Tasac 2010</name>
+		<desc>Tasac 2010 is a vertically-scrolling space shoot-'em-up game. The player controls a high-powered space fighter through ten stages, which each consist of several waves of smaller enemies followed by a large boss that must be destroyed. There are several power-ups to increase the ship's power, but one hit will destroy it causing all upgrades to be lost. There are two different shot types, and ten stages in total.</desc>
+		<image>./images/Tasac 2010 (USA, Europe)-image.png</image>
+		<video>./videos/Tasac 2010 (USA, Europe)-video.mp4</video>
+		<marquee>./images/Tasac 2010 (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Tasac 2010 (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Thin Chen Enterprise</developer>
+		<publisher>Watara</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<md5>e0ed04b139740452995d962827759a7f</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T043037" />
+	</game>
+	<game id="167380">
+		<path>./No-Intro/Tennis Pro '92 (USA, Europe).sv</path>
+		<name>Tennis Pro '92</name>
+		<desc>Tennis Pro '92 is a no-frills tennis game for one player. The game offers singles play only against a computer opponent at three different levels of difficulty. The player can serve, swing at the ball, and run freely around the court during play. An animated scoreboard keeps track of game progress.</desc>
+		<image>./images/Tennis Pro '92 (USA, Europe)-image.png</image>
+		<video>./videos/Tennis Pro '92 (USA, Europe)-video.mp4</video>
+		<marquee>./images/Tennis Pro '92 (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Tennis Pro '92 (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<developer>B.I.T.S.</developer>
+		<publisher>Watara</publisher>
+		<genre>Sports / Tennis</genre>
+		<md5>0a4c64f3aba648eaa8e0a74f1db8336c</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T043047" />
+	</game>
+	<game id="167428">
+		<path>./No-Intro/Thunder Shooting (USA, Europe).sv</path>
+		<name>Thunder Shooting</name>
+		<desc>In the enormous galaxy, there are many stars facing the crisis of overpopulation. For example, the Alexander Empire is typical nation. To resolve this problem, Alexander is launching 4 fleets and looking for the heaven in the legend: 'The Earth'.
+
+Thunder Shooting is a side-scrolling space shooter. The player controls an advanced starfighter, blasting through waves of enemy ships and asteroids. Numerous power-ups appear throughout each stage, which will upgrade or change the player's weaponry, or alter the behavior of the ship's options. At the end of each stage, there is a boss that must be destroyed. It is possible to choose from any of the four stages in order.</desc>
+		<image>./images/Thunder Shooting (USA, Europe)-image.png</image>
+		<video>./videos/Thunder Shooting (USA, Europe)-video.mp4</video>
+		<marquee>./images/Thunder Shooting (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Thunder Shooting (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Thin Chen Enterprise</developer>
+		<publisher>Watara</publisher>
+		<md5>5a578d07bb4da9215acdc2343e337059</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T043057" />
+	</game>
+	<game id="167381">
+		<path>./No-Intro/Treasure Hunter (USA, Europe) (Rev 1).sv</path>
+		<name>Treasure Hunter</name>
+		<desc>Treasure Hunter is a basic Boulder Dash clone. The player controls an explorer who digs through an underground cave in search of treasure. Each stage contains a number of boulders and treasures. Boulders will fall downward if there is nothing supporting them, and the player must be careful not to get crushed or trapped. The goal is to collect a certain number of treasures, which will open the gate to the next stage. There is also a strict time limit.</desc>
+		<image>./images/Treasure Hunter (USA, Europe) (Rev 1)-image.png</image>
+		<video>./videos/Treasure Hunter (USA, Europe) (Rev 1)-video.mp4</video>
+		<marquee>./images/Treasure Hunter (USA, Europe) (Rev 1)-marquee.png</marquee>
+		<thumbnail>./images/Treasure Hunter (USA, Europe) (Rev 1)-thumb.png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Bon Treasure Co., Ltd.</developer>
+		<publisher>Watara</publisher>
+		<md5>6b4d1688ed5a926d13bcacf7db3e04ee</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T043105" />
+	</game>
+	<game id="167381">
+		<path>./No-Intro/Treasure Hunter (USA, Europe).sv</path>
+		<name>Treasure Hunter</name>
+		<desc>Treasure Hunter is a basic Boulder Dash clone. The player controls an explorer who digs through an underground cave in search of treasure. Each stage contains a number of boulders and treasures. Boulders will fall downward if there is nothing supporting them, and the player must be careful not to get crushed or trapped. The goal is to collect a certain number of treasures, which will open the gate to the next stage. There is also a strict time limit.</desc>
+		<image>./images/Treasure Hunter (USA, Europe)-image.png</image>
+		<video>./videos/Treasure Hunter (USA, Europe)-video.mp4</video>
+		<marquee>./images/Treasure Hunter (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Treasure Hunter (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Bon Treasure Co., Ltd.</developer>
+		<publisher>Watara</publisher>
+		<md5>c5f068b51d50b4e86d63fe7404984002</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T043114" />
+	</game>
+	<game id="250749">
+		<path>./No-Intro/TV-Link (USA, Europe).sv</path>
+		<name>ZZZ(notgame):TV-Link</name>
+		<hidden>true</hidden>
+		<md5>e3494460f4a14c18a2aafa0d791189f8</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T043116" />
+	</game>
+	<game id="167429">
+		<path>./No-Intro/Untouchable (USA, Europe).sv</path>
+		<name>Untouchable</name>
+		<desc>Untouchable is a bizarre side-scrolling shooter starring a young man who flies with with an autogyro backpack. Each stage sees the player fighting through waves of strange enemies, such as flying sea creatures or household objects, culminating in a boss fight at the end. Every so often, another man flies past, and reaching him allows the player to choose from one of six different power-ups, which change each time the man appears. Different shot power-ups are available including double and triple shots, as well as health refills and additional bombs.</desc>
+		<image>./images/Untouchable (USA, Europe)-image.png</image>
+		<video>./videos/Untouchable (USA, Europe)-video.mp4</video>
+		<marquee>./images/Untouchable (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Untouchable (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Bon Treasure Co., Ltd.</developer>
+		<publisher>Watara</publisher>
+		<md5>960b42f19443b8f897a4c85686f3ad59</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T043125" />
+	</game>
+	<game id="167430">
+		<path>./No-Intro/Witty Cat (USA, Europe).sv</path>
+		<name>Witty Cat</name>
+		<desc>Witty Cat is a clone of the 1984 Namco coin-op Mappy. The game stars a mouse in a house full of cats, who must steal all the food in the house without getting caught. The house is divided into floors, which can be reached by using trampolines set up in vertical passages. Both the cats and the mouse can use the trampolines to move around, though the cats are only dangerous when the mouse is on solid ground. If the mouse is able to collect all the food, the stage is cleared and the player moves on to the next area.</desc>
+		<image>./images/Witty Cat (USA, Europe)-image.png</image>
+		<video>./videos/Witty Cat (USA, Europe)-video.mp4</video>
+		<marquee>./images/Witty Cat (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Witty Cat (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Bon Treasure Co., Ltd.</developer>
+		<publisher>Watara</publisher>
+		<md5>1cce14e748212e75c21966f12ac5fe1a</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T043134" />
+	</game>
+</gameList>

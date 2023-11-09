@@ -3627,7 +3627,7 @@ Although the basic goal of each of the 9 levels is to shoot everything without g
 		<name>ZZZ(notgame):32x Sample Program - Pwm Sound Demo</name>
 		<image>./images/32X Sample Program - PWM Sound Demo (Unknown) (SDK Build)-image.png</image>
 		<marquee>./images/32X Sample Program - PWM Sound Demo (Unknown) (SDK Build)-marquee.png</marquee>
-		<rating></rating>
+		<rating />
 		<hidden>true</hidden>
 		<crc32>542AD12E</crc32>
 		<md5>62d3b8f18c3d90afe343d07ead9c1d4c</md5>
@@ -3787,7 +3787,7 @@ Characters each have their own fighting style, array of moves, and storyline.  A
 		<thumbnail>./images/ClayFighter 2 (USA) (Proto) (1995-04-28)-thumb.png</thumbnail>
 		<fanart>./images/ClayFighter 2 (USA) (Proto) (1995-04-28)-fanart.jpg</fanart>
 		<boxback>./images/ClayFighter 2 (USA) (Proto) (1995-04-28)-boxback.png</boxback>
-		<rating></rating>
+		<rating />
 		<releasedate>19950201T000000</releasedate>
 		<developer>Interplay</developer>
 		<publisher>Interplay</publisher>
@@ -6753,7 +6753,7 @@ Soulstar X was never released.</desc>
 		<fanart>./images/Soulstar X (USA) (Proto)-fanart.jpg</fanart>
 		<bezel>./images/Soulstar X (USA) (Proto)-bezel.png</bezel>
 		<boxback>./images/Soulstar X (USA) (Proto)-boxback.png</boxback>
-		<rating></rating>
+		<rating />
 		<developer>Core Design</developer>
 		<publisher>Core Design</publisher>
 		<genre>Shooter</genre>
@@ -7951,7 +7951,7 @@ In August 2009, Ryo Suzuki of SEGASaturno.com dumped an early prototype version 
 		<fanart>./images/Virtua Hamster (USA) (Proto)-fanart.jpg</fanart>
 		<bezel>./images/Virtua Hamster (USA) (Proto)-bezel.png</bezel>
 		<boxback>./images/Virtua Hamster (USA) (Proto)-boxback.png</boxback>
-		<rating></rating>
+		<rating />
 		<releasedate>20090101T000000</releasedate>
 		<developer>SEGA</developer>
 		<publisher>SEGA</publisher>
@@ -8178,7 +8178,7 @@ A prototype was dumped by Ryo Suzuki of SegaSaturno.com in August 2009. This pro
 		<fanart>./images/X-Men (USA) (Proto)-fanart.jpg</fanart>
 		<bezel>./images/X-Men (USA) (Proto)-bezel.png</bezel>
 		<boxback>./images/X-Men (USA) (Proto)-boxback.png</boxback>
-		<rating></rating>
+		<rating />
 		<developer>Western Technologies</developer>
 		<publisher>SEGA</publisher>
 		<genre>Action</genre>
@@ -8502,5 +8502,811 @@ Although the basic goal of each of the 9 levels is to shoot everything without g
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230302T185819" />
 		<scrap name="ArcadeDB" date="20221212T161938" />
+	</game>
+	<game id="12677">
+		<path>./No-Intro/After Burner Complete (Europe).32x</path>
+		<name>After Burner Complete</name>
+		<desc>Afterburner is a conversion of the arcade game of the same name. The goal is simple: use your F-14 Tomcat and shoot as many enemies as you can. This aircraft has two weapons: lock-on missiles and Vulcan cannons (basically machine guns). In some versions there is an option to let the cannons shoot automatically all the time.
+
+The game is viewed from behind the plane with you fighting wave after wave of enemy fighters. But at heart it offers the usual shooter mechanics, meaning you spend most of your time dodging and shooting. Sometimes you come across a friendly supply plane and if you dock with it you can replenish your missiles.</desc>
+		<image>./images/After Burner Complete (Europe)-image.png</image>
+		<video>./videos/After Burner Complete (Europe)-video.mp4</video>
+		<marquee>./images/After Burner Complete (Europe)-marquee.png</marquee>
+		<thumbnail>./images/After Burner Complete (Europe)-thumb.png</thumbnail>
+		<fanart>./images/After Burner Complete (Europe)-fanart.jpg</fanart>
+		<manual>./manuals/After Burner Complete (Europe)-manual.pdf</manual>
+		<bezel>./images/After Burner Complete (Europe)-bezel.png</bezel>
+		<rating>0.7</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Rutubo Games</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shooter / Plane, 3rd person</genre>
+		<family>After Burner</family>
+		<players>1</players>
+		<md5>a8e05bd3cdf97e1811ebd6d52c4371a7</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T032539" />
+	</game>
+	<game id="12674">
+		<path>./No-Intro/Cosmic Carnage (Europe).32x</path>
+		<name>Cosmic Carnage</name>
+		<desc>Cosmic Carnage is a one-on-one fighting game set in outer space.  The story begins as a prison barge is hijacked by it's cargo in an escape attempt.  The resulting chaos caused the barge to crash into a military cruiser. The impact caused extensive damage to both ships.  There were only 8 survivors, 4 from each ship.  What's worse, there's only one escape pod.  You control one of the 8 survivors, and have to finish off all the others to escape with your life.
+
+The gameplay in Cosmic carnage is similar to Street Fighter 2, but with a much slower pace.  Some of the fighters can be customized with different armor combinations, allowing them access to different special moves.</desc>
+		<image>./images/Cosmic Carnage (Europe)-image.png</image>
+		<video>./videos/Cosmic Carnage (Europe)-video.mp4</video>
+		<marquee>./images/Cosmic Carnage (Europe)-marquee.png</marquee>
+		<thumbnail>./images/Cosmic Carnage (Europe)-thumb.png</thumbnail>
+		<fanart>./images/Cosmic Carnage (Europe)-fanart.jpg</fanart>
+		<manual>./manuals/Cosmic Carnage (Europe)-manual.pdf</manual>
+		<bezel>./images/Cosmic Carnage (Europe)-bezel.png</bezel>
+		<rating>0.45</rating>
+		<releasedate>19950201T000000</releasedate>
+		<developer>Givro</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fight</genre>
+		<players>1-2</players>
+		<md5>8aadc467d31bc64f95a7fbe8f95afeb3</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T032553" />
+	</game>
+	<game id="12693">
+		<path>./No-Intro/Darxide (Europe) (En,Fr,De,Es).32x</path>
+		<name>Darxide</name>
+		<desc>One of the last 32X games released (and exclusively in Europe), DarXide is a 3-D space shooter, inspired in part by the arcade gameplay of Asteroids. It is one of the few 32X games to used texture-mapped polygons. 
+
+Players control a lone starship rushing to destroy oncoming asteroids and alien vessels before they annihilate defenseless human miners and colonies. Asteroids break apart into smaller rocks, which much also be hunted down and destroyed. Aliens likewise arrive in larger, more dangerous vessels.
+
+Asteroids broken down to their smallest size and then vaporized will sometimes drop shield or energy recharges, to repair damage caused by laser blasts or collisions. New weapons can also be found. Players have a time limit to meet all objectives in a stage before they are forced to land and try again. The right side of the HUD shows asteroids remaining (and their approximate size), while the left shows the player's distance to their base (and so, time remaining in the stage).</desc>
+		<image>./images/Darxide (Europe) (En,Fr,De,Es)-image.png</image>
+		<video>./videos/Darxide (Europe) (En,Fr,De,Es)-video.mp4</video>
+		<marquee>./images/Darxide (Europe) (En,Fr,De,Es)-marquee.png</marquee>
+		<thumbnail>./images/Darxide (Europe) (En,Fr,De,Es)-thumb.png</thumbnail>
+		<fanart>./images/Darxide (Europe) (En,Fr,De,Es)-fanart.jpg</fanart>
+		<bezel>./images/Darxide (Europe) (En,Fr,De,Es)-bezel.png</bezel>
+		<rating>0.45</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Frontier Developments</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shooter / Vehicle, 3rd person</genre>
+		<players>1</players>
+		<md5>30ee320f76db70a836edeff2c8ce9cd2</md5>
+		<lang>de,en,es,fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T032605" />
+	</game>
+	<game id="12666">
+		<path>./No-Intro/Doom (Europe) (Beta) (1994-10-02).32x</path>
+		<name>Doom</name>
+		<desc>Doom is the definitive first person shooter developed by id Software and released in 1993. It became a Sega 32X launch title and is widely considered to be one of the games that pioneered and popularized the first person shooter genre. Doom retains a large, dedicated fan base to this day.
+
+The player assumes the role of a nameless Space Marine who uses a variety of weaponry to fight his way through several Mars moonbases and the depths of Hell itself.</desc>
+		<image>./images/Doom (Europe) (Beta) (1994-10-02)-image.png</image>
+		<video>./videos/Doom (Europe) (Beta) (1994-10-02)-video.mp4</video>
+		<marquee>./images/Doom (Europe) (Beta) (1994-10-02)-marquee.png</marquee>
+		<thumbnail>./images/Doom (Europe) (Beta) (1994-10-02)-thumb.png</thumbnail>
+		<fanart>./images/Doom (Europe) (Beta) (1994-10-02)-fanart.jpg</fanart>
+		<manual>./manuals/Doom (Europe) (Beta) (1994-10-02)-manual.pdf</manual>
+		<bezel>./images/Doom (Europe) (Beta) (1994-10-02)-bezel.png</bezel>
+		<rating>0.55</rating>
+		<releasedate>19941204T000000</releasedate>
+		<developer>id Software</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shooter / 1st person</genre>
+		<family>Doom</family>
+		<players>1</players>
+		<md5>fd439f39b26ba22e4f79a0c87352c6b0</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T032619" />
+	</game>
+	<game id="12666">
+		<path>./No-Intro/Doom (Europe).32x</path>
+		<name>Doom</name>
+		<desc>Doom is the definitive first person shooter developed by id Software and released in 1993. It became a Sega 32X launch title and is widely considered to be one of the games that pioneered and popularized the first person shooter genre. Doom retains a large, dedicated fan base to this day.
+
+The player assumes the role of a nameless Space Marine who uses a variety of weaponry to fight his way through several Mars moonbases and the depths of Hell itself.</desc>
+		<image>./images/Doom (Europe)-image.png</image>
+		<video>./videos/Doom (Europe)-video.mp4</video>
+		<marquee>./images/Doom (Europe)-marquee.png</marquee>
+		<thumbnail>./images/Doom (Europe)-thumb.png</thumbnail>
+		<fanart>./images/Doom (Europe)-fanart.jpg</fanart>
+		<manual>./manuals/Doom (Europe)-manual.pdf</manual>
+		<bezel>./images/Doom (Europe)-bezel.png</bezel>
+		<rating>0.55</rating>
+		<releasedate>19941204T000000</releasedate>
+		<developer>id Software</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shooter / 1st person</genre>
+		<family>Doom</family>
+		<players>1</players>
+		<md5>1abe8b9b1855b1b101cb7f1d86395c22</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T032630" />
+	</game>
+	<game id="12672">
+		<path>./No-Intro/FIFA Soccer 96 (Europe) (En,Fr,De,Es,It,Sv).32x</path>
+		<name>FIFA Soccer '96</name>
+		<desc>FIFA Soccer 96 featured revolutionary commentary for its time -- the renowned British commentator John Motson covers all the the action on the pitch in real-time.
+
+FIFA Soccer 96 boasts 11 leagues from around the world, ranging from unknown players in the Malaysian league to the celebrated stars of the English and Italian leagues. 59 International teams are available for friendlies tournaments (including the World Cup). You can also create your own dream team through the custom team creator.</desc>
+		<image>./images/FIFA Soccer 96 (Europe) (En,Fr,De,Es,It,Sv)-image.png</image>
+		<video>./videos/FIFA Soccer 96 (Europe) (En,Fr,De,Es,It,Sv)-video.mp4</video>
+		<marquee>./images/FIFA Soccer 96 (Europe) (En,Fr,De,Es,It,Sv)-marquee.png</marquee>
+		<thumbnail>./images/FIFA Soccer 96 (Europe) (En,Fr,De,Es,It,Sv)-thumb.png</thumbnail>
+		<fanart>./images/FIFA Soccer 96 (Europe) (En,Fr,De,Es,It,Sv)-fanart.jpg</fanart>
+		<bezel>./images/FIFA Soccer 96 (Europe) (En,Fr,De,Es,It,Sv)-bezel.png</bezel>
+		<rating>0.5</rating>
+		<releasedate>19951130T000000</releasedate>
+		<developer>Extended Play Productions</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Sports / Soccer</genre>
+		<family>FIFA</family>
+		<players>1-4</players>
+		<md5>24aaa6ef307d20147ce10e7610e59aa2</md5>
+		<lang>de,en,es,fr,it</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T032641" />
+	</game>
+	<game id="12688">
+		<path>./No-Intro/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe) (Beta) (1994-12-14).32x</path>
+		<name>Golf Magazine presents 36 Great Holes starring Fred Couples</name>
+		<desc>As the title implies, in 36 Great Holes the player takes control of 24 different digitized golfers – 12 males and 12 females – playing in 27 historic courses in the U.S. including Disney's Eagle Pines and Tidewater Golf Club, playing 36 authentic holes.  
+
+There are seven different modes (Stroke Play, Tournament, Skins, Shoot-out, Scramble, Practice and Match Play) and three different types of golf club heads including wood, metal and graphite. There is a battery back-up to keep track of 16 different categories of stats and does feature the voice of Fred Couples, even though he is not a playable character.</desc>
+		<image>./images/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe) (Beta) (1994-12-14)-image.png</image>
+		<video>./videos/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe) (Beta) (1994-12-14)-video.mp4</video>
+		<marquee>./images/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe) (Beta) (1994-12-14)-marquee.png</marquee>
+		<thumbnail>./images/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe) (Beta) (1994-12-14)-thumb.png</thumbnail>
+		<fanart>./images/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe) (Beta) (1994-12-14)-fanart.jpg</fanart>
+		<manual>./manuals/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe) (Beta) (1994-12-14)-manual.pdf</manual>
+		<bezel>./images/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe) (Beta) (1994-12-14)-bezel.png</bezel>
+		<rating>0.3</rating>
+		<releasedate>19950301T000000</releasedate>
+		<developer>Flashpoint Productions</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports / Golf</genre>
+		<players>1-8</players>
+		<md5>c30e393f01ada81ca44bad43ee63d3b7</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T032658" />
+	</game>
+	<game id="12688">
+		<path>./No-Intro/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe) (Beta) (1994-12-21).32x</path>
+		<name>Golf Magazine presents 36 Great Holes starring Fred Couples</name>
+		<desc>As the title implies, in 36 Great Holes the player takes control of 24 different digitized golfers – 12 males and 12 females – playing in 27 historic courses in the U.S. including Disney's Eagle Pines and Tidewater Golf Club, playing 36 authentic holes.  
+
+There are seven different modes (Stroke Play, Tournament, Skins, Shoot-out, Scramble, Practice and Match Play) and three different types of golf club heads including wood, metal and graphite. There is a battery back-up to keep track of 16 different categories of stats and does feature the voice of Fred Couples, even though he is not a playable character.</desc>
+		<image>./images/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe) (Beta) (1994-12-21)-image.png</image>
+		<video>./videos/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe) (Beta) (1994-12-21)-video.mp4</video>
+		<marquee>./images/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe) (Beta) (1994-12-21)-marquee.png</marquee>
+		<thumbnail>./images/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe) (Beta) (1994-12-21)-thumb.png</thumbnail>
+		<fanart>./images/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe) (Beta) (1994-12-21)-fanart.jpg</fanart>
+		<manual>./manuals/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe) (Beta) (1994-12-21)-manual.pdf</manual>
+		<bezel>./images/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe) (Beta) (1994-12-21)-bezel.png</bezel>
+		<rating>0.3</rating>
+		<releasedate>19950301T000000</releasedate>
+		<developer>Flashpoint Productions</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports / Golf</genre>
+		<players>1-8</players>
+		<md5>7a186abafff18ba8ed439f362b56014e</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T032713" />
+	</game>
+	<game id="12688">
+		<path>./No-Intro/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).32x</path>
+		<name>Golf Magazine presents 36 Great Holes starring Fred Couples</name>
+		<desc>As the title implies, in 36 Great Holes the player takes control of 24 different digitized golfers – 12 males and 12 females – playing in 27 historic courses in the U.S. including Disney's Eagle Pines and Tidewater Golf Club, playing 36 authentic holes.  
+
+There are seven different modes (Stroke Play, Tournament, Skins, Shoot-out, Scramble, Practice and Match Play) and three different types of golf club heads including wood, metal and graphite. There is a battery back-up to keep track of 16 different categories of stats and does feature the voice of Fred Couples, even though he is not a playable character.</desc>
+		<image>./images/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe)-image.png</image>
+		<video>./videos/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe)-video.mp4</video>
+		<marquee>./images/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe)-marquee.png</marquee>
+		<thumbnail>./images/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe)-thumb.png</thumbnail>
+		<fanart>./images/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe)-fanart.jpg</fanart>
+		<manual>./manuals/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe)-manual.pdf</manual>
+		<bezel>./images/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe)-bezel.png</bezel>
+		<rating>0.3</rating>
+		<releasedate>19950301T000000</releasedate>
+		<developer>Flashpoint Productions</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports / Golf</genre>
+		<players>1-8</players>
+		<md5>f772e22b574406e3e20c172117050973</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T032728" />
+	</game>
+	<game id="12670">
+		<path>./No-Intro/Knuckles' Chaotix (Europe).32x</path>
+		<name>Knuckles' Chaotix</name>
+		<desc>Knuckles' Chaotix is a spin-off of the Sonic the Hedgehog series of Genesis games. Knuckles the Echidna (from Sonic the Hedgehog 3) works at Carnival Island, an amusement park where his job is to protect the park and make it a happy place for visitors. Dr. Robotnik, as usual, has an evil plan for the park. He wants the power emerald which supplies electricity to the entire island. What's worse, he has imprisoned several of Knuckles' friends in the "combi confiner." This contraption only allows Knuckles to free one of his friends at a time by using a ring force bond. 
+
+New characters featured include Vector the Crocodile, Mighty the Armadillo, Espio the Chameleon and Charmy Bee. There also two characters whose sole purpose is to slow you down, Heavy the Robot, and Bomb. Chaotix adds several new power-ups and 3D bonus levels as well.</desc>
+		<image>./images/Knuckles' Chaotix (Europe)-image.png</image>
+		<video>./videos/Knuckles' Chaotix (Europe)-video.mp4</video>
+		<marquee>./images/Knuckles' Chaotix (Europe)-marquee.png</marquee>
+		<thumbnail>./images/Knuckles' Chaotix (Europe)-thumb.png</thumbnail>
+		<fanart>./images/Knuckles' Chaotix (Europe)-fanart.jpg</fanart>
+		<manual>./manuals/Knuckles' Chaotix (Europe)-manual.pdf</manual>
+		<bezel>./images/Knuckles' Chaotix (Europe)-bezel.png</bezel>
+		<rating>0.75</rating>
+		<releasedate>19950501T000000</releasedate>
+		<developer>Sonic Team</developer>
+		<publisher>SEGA</publisher>
+		<genre>Platform</genre>
+		<family>Sonic</family>
+		<players>1-2</players>
+		<md5>4ce9e6b6e8883d8a678d90aabce022d0</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T032742" />
+	</game>
+	<game id="12689">
+		<path>./No-Intro/Metal Head (Europe) (En,Ja).32x</path>
+		<name>Metal Head</name>
+		<desc>It's 5 years after the formation of the Worldwide Federation.  Although war has been averted, terrorist cells around the world threaten the stability of the federation.  To combat this menace, the Federation has created a bi-pedal armored tank known as the Metal Head.  You are a Metal Head pilot, and you have to use all the weapons at your disposal to take out the terrorists.
+
+Metal Head is a bit of a variation on the usual giant robot combat game.  The game's mission areas bear more resemblance to a first-person shooter than a simulation.  The graphics are all rendered in texture mapped polygons, which is unusual for a 32X game.</desc>
+		<image>./images/Metal Head (Europe) (En,Ja)-image.png</image>
+		<video>./videos/Metal Head (Europe) (En,Ja)-video.mp4</video>
+		<marquee>./images/Metal Head (Europe) (En,Ja)-marquee.png</marquee>
+		<thumbnail>./images/Metal Head (Europe) (En,Ja)-thumb.png</thumbnail>
+		<fanart>./images/Metal Head (Europe) (En,Ja)-fanart.jpg</fanart>
+		<manual>./manuals/Metal Head (Europe) (En,Ja)-manual.pdf</manual>
+		<bezel>./images/Metal Head (Europe) (En,Ja)-bezel.png</bezel>
+		<rating>0.6</rating>
+		<releasedate>19950401T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>5ab011dae907f77e68eb764bec3870d8</md5>
+		<lang>en,jp</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T032757" />
+	</game>
+	<game id="12668">
+		<path>./No-Intro/Mortal Kombat II (Europe).32x</path>
+		<name>Mortal Kombat II</name>
+		<desc>The Mortal Kombat fighters, plus several new ones, return for a tournament held by the evil Shang Tsung of the Outworld. The action is one-on-one as before, and famed for its high level of violence and blood (other than the sanitised Nintendo version). There are 5 difficulty levels and optional credits, as well as the usual two player mode including same character duels.
+
+To win the main tournament, the player must beat each of the other human players, before taking on Shang Tsung, Kintaro and finally Shao Kahn. Players have a range of punches and kicks available, as well as flying kicks, uppercuts, roundhouses, and the special moves, which vary for each player. These include throws, uppercuts, long-distance bullets, bicycle kicks and a teleport feature.</desc>
+		<image>./images/Mortal Kombat II (Europe)-image.png</image>
+		<video>./videos/Mortal Kombat II (Europe)-video.mp4</video>
+		<marquee>./images/Mortal Kombat II (Europe)-marquee.png</marquee>
+		<thumbnail>./images/Mortal Kombat II (Europe)-thumb.png</thumbnail>
+		<fanart>./images/Mortal Kombat II (Europe)-fanart.jpg</fanart>
+		<manual>./manuals/Mortal Kombat II (Europe)-manual.pdf</manual>
+		<bezel>./images/Mortal Kombat II (Europe)-bezel.png</bezel>
+		<rating>0.85</rating>
+		<releasedate>19950301T000000</releasedate>
+		<developer>Probe Software</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Fight</genre>
+		<family>Mortal Kombat</family>
+		<players>1-2</players>
+		<md5>9d258d11fe1e4cac2c1aab370c35e57a</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T032812" />
+	</game>
+	<game id="12685">
+		<path>./No-Intro/Motherbase (Europe) (Sample).32x</path>
+		<name>Motherbase</name>
+		<desc>This 32X-exclusive sci-fi shooter has gameplay is somewhat like Sega arcade classic Zaxxon. The graphics consist of a diagonally scrolling playfield which creates a pseudo 3D environment.  The backgrounds are drawn using 2D scrolling planes, but the enemy and ship objects are drawn using 3D flat-shaded polygons.
+
+Although the basic goal of each of the 9 levels is to shoot everything without getting shot, the game has a strategic element.  Your basic spacecraft has very little firepower, and can only sustain one hit.  To make matters worse, there are very few power-ups.  In order to survive, you have to jump on top of enemies and take control of their weapons systems.  This system allows for a large variety of player-controllable ships.</desc>
+		<image>./images/Motherbase (Europe) (Sample)-image.png</image>
+		<video>./videos/Motherbase (Europe) (Sample)-video.mp4</video>
+		<marquee>./images/Motherbase (Europe) (Sample)-marquee.png</marquee>
+		<thumbnail>./images/Motherbase (Europe) (Sample)-thumb.png</thumbnail>
+		<fanart>./images/Motherbase (Europe) (Sample)-fanart.jpg</fanart>
+		<manual>./manuals/Motherbase (Europe) (Sample)-manual.pdf</manual>
+		<bezel>./images/Motherbase (Europe) (Sample)-bezel.png</bezel>
+		<rating>0.65</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>CSK Research Institute Corp.</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shoot'em up / Diagonal</genre>
+		<family>Zaxxon</family>
+		<players>1-2</players>
+		<md5>937371a9985dfe7b42053ab882ef27a9</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T032826" />
+	</game>
+	<game id="12685">
+		<path>./No-Intro/Motherbase (Europe).32x</path>
+		<name>Motherbase</name>
+		<desc>This 32X-exclusive sci-fi shooter has gameplay is somewhat like Sega arcade classic Zaxxon. The graphics consist of a diagonally scrolling playfield which creates a pseudo 3D environment.  The backgrounds are drawn using 2D scrolling planes, but the enemy and ship objects are drawn using 3D flat-shaded polygons.
+
+Although the basic goal of each of the 9 levels is to shoot everything without getting shot, the game has a strategic element.  Your basic spacecraft has very little firepower, and can only sustain one hit.  To make matters worse, there are very few power-ups.  In order to survive, you have to jump on top of enemies and take control of their weapons systems.  This system allows for a large variety of player-controllable ships.</desc>
+		<image>./images/Motherbase (Europe)-image.png</image>
+		<video>./videos/Motherbase (Europe)-video.mp4</video>
+		<marquee>./images/Motherbase (Europe)-marquee.png</marquee>
+		<thumbnail>./images/Motherbase (Europe)-thumb.png</thumbnail>
+		<fanart>./images/Motherbase (Europe)-fanart.jpg</fanart>
+		<manual>./manuals/Motherbase (Europe)-manual.pdf</manual>
+		<bezel>./images/Motherbase (Europe)-bezel.png</bezel>
+		<rating>0.65</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>CSK Research Institute Corp.</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shoot'em up / Diagonal</genre>
+		<family>Zaxxon</family>
+		<players>1-2</players>
+		<md5>66833be0da3d737ac45cdaab9b6bd818</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T032841" />
+	</game>
+	<game id="12694">
+		<path>./No-Intro/Motocross Championship (Europe).32x</path>
+		<name>Motocross Championship</name>
+		<desc>Motocross Championship is the only dirtbike racing game for the 32X.  The action takes place from a behind-the-bike perspective, and makes use of the 32X's hardware bitmap scaling to present a 3D graphical effect.
+
+Like the title suggests, the main game mode is a points based championship.  You can compete in one of 3 motorcycle classes over 12 indoor and outdoor tracks.  There's also two player split screen mode so you can share off-road fun with a friend.</desc>
+		<image>./images/Motocross Championship (Europe)-image.png</image>
+		<video>./videos/Motocross Championship (Europe)-video.mp4</video>
+		<marquee>./images/Motocross Championship (Europe)-marquee.png</marquee>
+		<thumbnail>./images/Motocross Championship (Europe)-thumb.png</thumbnail>
+		<fanart>./images/Motocross Championship (Europe)-fanart.jpg</fanart>
+		<manual>./manuals/Motocross Championship (Europe)-manual.pdf</manual>
+		<bezel>./images/Motocross Championship (Europe)-bezel.png</bezel>
+		<rating>0.6</rating>
+		<releasedate>19950301T000000</releasedate>
+		<developer>Artech Studios</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving / Motorcycle Race, 3rd Pers.</genre>
+		<players>1-2</players>
+		<md5>6bc365808a00b8a640dd86ccb5a0ea24</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T032856" />
+	</game>
+	<game id="200287">
+		<path>./No-Intro/Pinocchio (Europe) (Proto) (1995-06-12).32x</path>
+		<name>Pinocchio</name>
+		<desc>Journey through as Geppetto, the carpenter's live wooden puppet, Pinocchio, as he did in his Disney animated film - which itself was based on a children's novel.
+
+Have Pinocchio run, jump and twist-kick through all the familiar places, including the inside of a whale, and do good deeds enough to become the real human boy he's always wanted to be.</desc>
+		<image>./images/Pinocchio (Europe) (Proto) (1995-06-12)-image.png</image>
+		<video>./videos/Pinocchio (Europe) (Proto) (1995-06-12)-video.mp4</video>
+		<marquee>./images/Pinocchio (Europe) (Proto) (1995-06-12)-marquee.png</marquee>
+		<thumbnail>./images/Pinocchio (Europe) (Proto) (1995-06-12)-thumb.png</thumbnail>
+		<fanart>./images/Pinocchio (Europe) (Proto) (1995-06-12)-fanart.jpg</fanart>
+		<rating>0.8</rating>
+		<releasedate>19951206T000000</releasedate>
+		<developer>Virgin</developer>
+		<publisher>Virgin</publisher>
+		<genre>Action / Adventure</genre>
+		<players>1</players>
+		<md5>406ab3e46797d8459c3d9efbbc044282</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T032908" />
+	</game>
+	<game id="46328">
+		<path>./No-Intro/Sangokushi IV (Japan).32x</path>
+		<name>Sangokushi IV</name>
+		<desc>Romance of the Three Kingdoms IV: Wall of Fire (released as Sangokushi IV in Japan) is the fourth in the Romance of the Three Kingdoms series of turn-based strategy games produced by Koei and based on the historical novel Romance of the Three Kingdoms. Romance of the Three Kingdoms IV: Wall of Fire was the last game in the series to be released on the PC in the United States until Romance of the Three Kingdoms XI.</desc>
+		<image>./images/Sangokushi IV (Japan)-image.png</image>
+		<video>./videos/Sangokushi IV (Japan)-video.mp4</video>
+		<marquee>./images/Sangokushi IV (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Sangokushi IV (Japan)-thumb.png</thumbnail>
+		<fanart>./images/Sangokushi IV (Japan)-fanart.jpg</fanart>
+		<manual>./manuals/Sangokushi IV (Japan)-manual.pdf</manual>
+		<bezel>./images/Sangokushi IV (Japan)-bezel.png</bezel>
+		<rating>0.35</rating>
+		<releasedate>19950707T000000</releasedate>
+		<developer>Koei</developer>
+		<publisher>Koei</publisher>
+		<genre>Role playing games</genre>
+		<family>Romance of the Three Kingdoms</family>
+		<players>1-8</players>
+		<md5>f4bb8844d77442dbb5bee78d0246b456</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231109T032924" />
+	</game>
+	<game id="12676">
+		<path>./No-Intro/Space Harrier (Europe).32x</path>
+		<name>Space Harrier</name>
+		<desc>Deep Space. The last blast! You pick up a frantic distress call from deep space. You teleport to the Land of the Dragons which is swarming with incredible monsters. You must laser blast your way by giant snakes and robotic monsters. Blast through rings of fire, blazing dragons, dreaded orbs and mutant space-heads!</desc>
+		<image>./images/Space Harrier (Europe)-image.png</image>
+		<video>./videos/Space Harrier (Europe)-video.mp4</video>
+		<marquee>./images/Space Harrier (Europe)-marquee.png</marquee>
+		<thumbnail>./images/Space Harrier (Europe)-thumb.png</thumbnail>
+		<fanart>./images/Space Harrier (Europe)-fanart.jpg</fanart>
+		<manual>./manuals/Space Harrier (Europe)-manual.pdf</manual>
+		<bezel>./images/Space Harrier (Europe)-bezel.png</bezel>
+		<rating>0.7</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shooter / 3rd person</genre>
+		<family>Space Harrier</family>
+		<players>1</players>
+		<md5>4619e328e1719bee165941d891c08d81</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T032937" />
+	</game>
+	<game id="12667">
+		<path>./No-Intro/Star Wars Arcade (Europe) (Beta) (1994-09-23).32x</path>
+		<name>Star Wars Arcade</name>
+		<desc>Star Wars Arcade is a 3D shoot 'em-up set in Episodes 4, 5, and 6 of the Star Wars saga.  You take control of either an X-Wing or Y-Wing, and are put right in the middle of the space combat.  In some levels, you have to shoot down a specific number of TIE fighters before time runs out. In other levels, your goal is to simply to make it to the end without getting blasted out of the sky.
+
+Some of the missions take place in deep space, around asteroids, or near Star Destroyers.  Other missions take place on the surface of the Death Star and re-create the Luke Skywalker's famous trench run to destroy it.</desc>
+		<image>./images/Star Wars Arcade (Europe) (Beta) (1994-09-23)-image.png</image>
+		<video>./videos/Star Wars Arcade (Europe) (Beta) (1994-09-23)-video.mp4</video>
+		<marquee>./images/Star Wars Arcade (Europe) (Beta) (1994-09-23)-marquee.png</marquee>
+		<thumbnail>./images/Star Wars Arcade (Europe) (Beta) (1994-09-23)-thumb.png</thumbnail>
+		<fanart>./images/Star Wars Arcade (Europe) (Beta) (1994-09-23)-fanart.jpg</fanart>
+		<manual>./manuals/Star Wars Arcade (Europe) (Beta) (1994-09-23)-manual.pdf</manual>
+		<bezel>./images/Star Wars Arcade (Europe) (Beta) (1994-09-23)-bezel.png</bezel>
+		<rating>0.95</rating>
+		<releasedate>19941114T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shooter / Plane, 1st person</genre>
+		<family>Star Wars</family>
+		<players>1-2</players>
+		<md5>1cf3240ce3d994719ee9fc06e827262a</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T032951" />
+	</game>
+	<game id="12667">
+		<path>./No-Intro/Star Wars Arcade (Europe) (Beta) (1994-09-29).32x</path>
+		<name>Star Wars Arcade</name>
+		<desc>Star Wars Arcade is a 3D shoot 'em-up set in Episodes 4, 5, and 6 of the Star Wars saga.  You take control of either an X-Wing or Y-Wing, and are put right in the middle of the space combat.  In some levels, you have to shoot down a specific number of TIE fighters before time runs out. In other levels, your goal is to simply to make it to the end without getting blasted out of the sky.
+
+Some of the missions take place in deep space, around asteroids, or near Star Destroyers.  Other missions take place on the surface of the Death Star and re-create the Luke Skywalker's famous trench run to destroy it.</desc>
+		<image>./images/Star Wars Arcade (Europe) (Beta) (1994-09-29)-image.png</image>
+		<video>./videos/Star Wars Arcade (Europe) (Beta) (1994-09-29)-video.mp4</video>
+		<marquee>./images/Star Wars Arcade (Europe) (Beta) (1994-09-29)-marquee.png</marquee>
+		<thumbnail>./images/Star Wars Arcade (Europe) (Beta) (1994-09-29)-thumb.png</thumbnail>
+		<fanart>./images/Star Wars Arcade (Europe) (Beta) (1994-09-29)-fanart.jpg</fanart>
+		<manual>./manuals/Star Wars Arcade (Europe) (Beta) (1994-09-29)-manual.pdf</manual>
+		<bezel>./images/Star Wars Arcade (Europe) (Beta) (1994-09-29)-bezel.png</bezel>
+		<rating>0.95</rating>
+		<releasedate>19941114T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shooter / Plane, 1st person</genre>
+		<family>Star Wars</family>
+		<players>1-2</players>
+		<md5>1b6fc1ef31464acd728783e746286f1f</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T033004" />
+	</game>
+	<game id="12667">
+		<path>./No-Intro/Star Wars Arcade (Europe) (Beta) (1994-10-06).32x</path>
+		<name>Star Wars Arcade</name>
+		<desc>Star Wars Arcade is a 3D shoot 'em-up set in Episodes 4, 5, and 6 of the Star Wars saga.  You take control of either an X-Wing or Y-Wing, and are put right in the middle of the space combat.  In some levels, you have to shoot down a specific number of TIE fighters before time runs out. In other levels, your goal is to simply to make it to the end without getting blasted out of the sky.
+
+Some of the missions take place in deep space, around asteroids, or near Star Destroyers.  Other missions take place on the surface of the Death Star and re-create the Luke Skywalker's famous trench run to destroy it.</desc>
+		<image>./images/Star Wars Arcade (Europe) (Beta) (1994-10-06)-image.png</image>
+		<video>./videos/Star Wars Arcade (Europe) (Beta) (1994-10-06)-video.mp4</video>
+		<marquee>./images/Star Wars Arcade (Europe) (Beta) (1994-10-06)-marquee.png</marquee>
+		<thumbnail>./images/Star Wars Arcade (Europe) (Beta) (1994-10-06)-thumb.png</thumbnail>
+		<fanart>./images/Star Wars Arcade (Europe) (Beta) (1994-10-06)-fanart.jpg</fanart>
+		<manual>./manuals/Star Wars Arcade (Europe) (Beta) (1994-10-06)-manual.pdf</manual>
+		<bezel>./images/Star Wars Arcade (Europe) (Beta) (1994-10-06)-bezel.png</bezel>
+		<rating>0.95</rating>
+		<releasedate>19941114T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shooter / Plane, 1st person</genre>
+		<family>Star Wars</family>
+		<players>1-2</players>
+		<md5>6e75534d5f3d7bf42f15cdf0faf3e0da</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T033017" />
+	</game>
+	<game id="12667">
+		<path>./No-Intro/Star Wars Arcade (Europe) (Beta) (1994-10-07).32x</path>
+		<name>Star Wars Arcade</name>
+		<desc>Star Wars Arcade is a 3D shoot 'em-up set in Episodes 4, 5, and 6 of the Star Wars saga.  You take control of either an X-Wing or Y-Wing, and are put right in the middle of the space combat.  In some levels, you have to shoot down a specific number of TIE fighters before time runs out. In other levels, your goal is to simply to make it to the end without getting blasted out of the sky.
+
+Some of the missions take place in deep space, around asteroids, or near Star Destroyers.  Other missions take place on the surface of the Death Star and re-create the Luke Skywalker's famous trench run to destroy it.</desc>
+		<image>./images/Star Wars Arcade (Europe) (Beta) (1994-10-07)-image.png</image>
+		<video>./videos/Star Wars Arcade (Europe) (Beta) (1994-10-07)-video.mp4</video>
+		<marquee>./images/Star Wars Arcade (Europe) (Beta) (1994-10-07)-marquee.png</marquee>
+		<thumbnail>./images/Star Wars Arcade (Europe) (Beta) (1994-10-07)-thumb.png</thumbnail>
+		<fanart>./images/Star Wars Arcade (Europe) (Beta) (1994-10-07)-fanart.jpg</fanart>
+		<manual>./manuals/Star Wars Arcade (Europe) (Beta) (1994-10-07)-manual.pdf</manual>
+		<bezel>./images/Star Wars Arcade (Europe) (Beta) (1994-10-07)-bezel.png</bezel>
+		<rating>0.95</rating>
+		<releasedate>19941114T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shooter / Plane, 1st person</genre>
+		<family>Star Wars</family>
+		<players>1-2</players>
+		<md5>777e1ae822f9ed033d27aa1e409d9623</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T033032" />
+	</game>
+	<game id="12667">
+		<path>./No-Intro/Star Wars Arcade (Europe).32x</path>
+		<name>Star Wars Arcade</name>
+		<desc>Star Wars Arcade is a 3D shoot 'em-up set in Episodes 4, 5, and 6 of the Star Wars saga.  You take control of either an X-Wing or Y-Wing, and are put right in the middle of the space combat.  In some levels, you have to shoot down a specific number of TIE fighters before time runs out. In other levels, your goal is to simply to make it to the end without getting blasted out of the sky.
+
+Some of the missions take place in deep space, around asteroids, or near Star Destroyers.  Other missions take place on the surface of the Death Star and re-create the Luke Skywalker's famous trench run to destroy it.</desc>
+		<image>./images/Star Wars Arcade (Europe)-image.png</image>
+		<video>./videos/Star Wars Arcade (Europe)-video.mp4</video>
+		<marquee>./images/Star Wars Arcade (Europe)-marquee.png</marquee>
+		<thumbnail>./images/Star Wars Arcade (Europe)-thumb.png</thumbnail>
+		<fanart>./images/Star Wars Arcade (Europe)-fanart.jpg</fanart>
+		<manual>./manuals/Star Wars Arcade (Europe)-manual.pdf</manual>
+		<bezel>./images/Star Wars Arcade (Europe)-bezel.png</bezel>
+		<rating>0.95</rating>
+		<releasedate>19941114T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shooter / Plane, 1st person</genre>
+		<family>Star Wars</family>
+		<players>1-2</players>
+		<md5>bfaa6fd031490c26e25f3d59d9c37497</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T033045" />
+	</game>
+	<game id="12667">
+		<path>./No-Intro/Star Wars Arcade (Japan) (Beta) (1994-09-30).32x</path>
+		<name>Star Wars Arcade</name>
+		<desc>Star Wars Arcade is a 3D shoot 'em-up set in Episodes 4, 5, and 6 of the Star Wars saga.  You take control of either an X-Wing or Y-Wing, and are put right in the middle of the space combat.  In some levels, you have to shoot down a specific number of TIE fighters before time runs out. In other levels, your goal is to simply to make it to the end without getting blasted out of the sky.
+
+Some of the missions take place in deep space, around asteroids, or near Star Destroyers.  Other missions take place on the surface of the Death Star and re-create the Luke Skywalker's famous trench run to destroy it.</desc>
+		<image>./images/Star Wars Arcade (Japan) (Beta) (1994-09-30)-image.png</image>
+		<video>./videos/Star Wars Arcade (Japan) (Beta) (1994-09-30)-video.mp4</video>
+		<marquee>./images/Star Wars Arcade (Japan) (Beta) (1994-09-30)-marquee.png</marquee>
+		<thumbnail>./images/Star Wars Arcade (Japan) (Beta) (1994-09-30)-thumb.png</thumbnail>
+		<fanart>./images/Star Wars Arcade (Japan) (Beta) (1994-09-30)-fanart.jpg</fanart>
+		<manual>./manuals/Star Wars Arcade (Japan) (Beta) (1994-09-30)-manual.pdf</manual>
+		<bezel>./images/Star Wars Arcade (Japan) (Beta) (1994-09-30)-bezel.png</bezel>
+		<rating>0.95</rating>
+		<releasedate>19941203T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shooter / Plane, 1st person</genre>
+		<family>Star Wars</family>
+		<players>1-2</players>
+		<md5>320fb649a04da1e5decde198bd799f97</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231109T033100" />
+	</game>
+	<game id="12667">
+		<path>./No-Intro/Star Wars Arcade (Japan) (Beta) (1994-10-03).32x</path>
+		<name>Star Wars Arcade</name>
+		<desc>Star Wars Arcade is a 3D shoot 'em-up set in Episodes 4, 5, and 6 of the Star Wars saga.  You take control of either an X-Wing or Y-Wing, and are put right in the middle of the space combat.  In some levels, you have to shoot down a specific number of TIE fighters before time runs out. In other levels, your goal is to simply to make it to the end without getting blasted out of the sky.
+
+Some of the missions take place in deep space, around asteroids, or near Star Destroyers.  Other missions take place on the surface of the Death Star and re-create the Luke Skywalker's famous trench run to destroy it.</desc>
+		<image>./images/Star Wars Arcade (Japan) (Beta) (1994-10-03)-image.png</image>
+		<video>./videos/Star Wars Arcade (Japan) (Beta) (1994-10-03)-video.mp4</video>
+		<marquee>./images/Star Wars Arcade (Japan) (Beta) (1994-10-03)-marquee.png</marquee>
+		<thumbnail>./images/Star Wars Arcade (Japan) (Beta) (1994-10-03)-thumb.png</thumbnail>
+		<fanart>./images/Star Wars Arcade (Japan) (Beta) (1994-10-03)-fanart.jpg</fanart>
+		<manual>./manuals/Star Wars Arcade (Japan) (Beta) (1994-10-03)-manual.pdf</manual>
+		<bezel>./images/Star Wars Arcade (Japan) (Beta) (1994-10-03)-bezel.png</bezel>
+		<rating>0.95</rating>
+		<releasedate>19941203T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shooter / Plane, 1st person</genre>
+		<family>Star Wars</family>
+		<players>1-2</players>
+		<md5>7837ea435585cf60c1d7ea2d99248e19</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231109T033115" />
+	</game>
+	<game id="12667">
+		<path>./No-Intro/Star Wars Arcade (Japan) (Beta) (1994-10-05).32x</path>
+		<name>Star Wars Arcade</name>
+		<desc>Star Wars Arcade is a 3D shoot 'em-up set in Episodes 4, 5, and 6 of the Star Wars saga.  You take control of either an X-Wing or Y-Wing, and are put right in the middle of the space combat.  In some levels, you have to shoot down a specific number of TIE fighters before time runs out. In other levels, your goal is to simply to make it to the end without getting blasted out of the sky.
+
+Some of the missions take place in deep space, around asteroids, or near Star Destroyers.  Other missions take place on the surface of the Death Star and re-create the Luke Skywalker's famous trench run to destroy it.</desc>
+		<image>./images/Star Wars Arcade (Japan) (Beta) (1994-10-05)-image.png</image>
+		<video>./videos/Star Wars Arcade (Japan) (Beta) (1994-10-05)-video.mp4</video>
+		<marquee>./images/Star Wars Arcade (Japan) (Beta) (1994-10-05)-marquee.png</marquee>
+		<thumbnail>./images/Star Wars Arcade (Japan) (Beta) (1994-10-05)-thumb.png</thumbnail>
+		<fanart>./images/Star Wars Arcade (Japan) (Beta) (1994-10-05)-fanart.jpg</fanart>
+		<manual>./manuals/Star Wars Arcade (Japan) (Beta) (1994-10-05)-manual.pdf</manual>
+		<bezel>./images/Star Wars Arcade (Japan) (Beta) (1994-10-05)-bezel.png</bezel>
+		<rating>0.95</rating>
+		<releasedate>19941203T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shooter / Plane, 1st person</genre>
+		<family>Star Wars</family>
+		<players>1-2</players>
+		<md5>ec824311a5f31007a5bdd98b5209b138</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231109T033129" />
+	</game>
+	<game id="12667">
+		<path>./No-Intro/Star Wars Arcade (Japan).32x</path>
+		<name>Star Wars Arcade</name>
+		<desc>Star Wars Arcade is a 3D shoot 'em-up set in Episodes 4, 5, and 6 of the Star Wars saga.  You take control of either an X-Wing or Y-Wing, and are put right in the middle of the space combat.  In some levels, you have to shoot down a specific number of TIE fighters before time runs out. In other levels, your goal is to simply to make it to the end without getting blasted out of the sky.
+
+Some of the missions take place in deep space, around asteroids, or near Star Destroyers.  Other missions take place on the surface of the Death Star and re-create the Luke Skywalker's famous trench run to destroy it.</desc>
+		<image>./images/Star Wars Arcade (Japan)-image.png</image>
+		<video>./videos/Star Wars Arcade (Japan)-video.mp4</video>
+		<marquee>./images/Star Wars Arcade (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Star Wars Arcade (Japan)-thumb.png</thumbnail>
+		<fanart>./images/Star Wars Arcade (Japan)-fanart.jpg</fanart>
+		<manual>./manuals/Star Wars Arcade (Japan)-manual.pdf</manual>
+		<bezel>./images/Star Wars Arcade (Japan)-bezel.png</bezel>
+		<rating>0.95</rating>
+		<releasedate>19941203T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shooter / Plane, 1st person</genre>
+		<family>Star Wars</family>
+		<players>1-2</players>
+		<md5>f6e8648a6ced9017c9f0bf0ca544f17f</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231109T033143" />
+	</game>
+	<game id="12695">
+		<path>./No-Intro/Stellar Assault (Japan) (En) (Beta) (1995-02-06).32x</path>
+		<name>Stellar Assault</name>
+		<desc>Shadow Squadron is a 3D space combat shooter. The player controls a space fighter in a series of battles against huge enemy ships.  There are 2 different types of ships to fly, and 6 different missions.  In most missions, the player has to destroy several locations on a large ship in order to blow up the whole thing. 
+
+There are two ways to play the game.  First, one can directly control the ship and maneuver it around the 3D polygon environments.  Second, the player can let the 32X do the flying, and simply control a gun turret.</desc>
+		<image>./images/Stellar Assault (Japan) (En) (Beta) (1995-02-06)-image.png</image>
+		<video>./videos/Stellar Assault (Japan) (En) (Beta) (1995-02-06)-video.mp4</video>
+		<marquee>./images/Stellar Assault (Japan) (En) (Beta) (1995-02-06)-marquee.png</marquee>
+		<thumbnail>./images/Stellar Assault (Japan) (En) (Beta) (1995-02-06)-thumb.png</thumbnail>
+		<fanart>./images/Stellar Assault (Japan) (En) (Beta) (1995-02-06)-fanart.jpg</fanart>
+		<manual>./manuals/Stellar Assault (Japan) (En) (Beta) (1995-02-06)-manual.pdf</manual>
+		<bezel>./images/Stellar Assault (Japan) (En) (Beta) (1995-02-06)-bezel.png</bezel>
+		<rating>0.75</rating>
+		<releasedate>19950426T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1-2</players>
+		<md5>b7cac9f37b7873127afe7a91dead2bde</md5>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231109T033157" />
+	</game>
+	<game id="12695">
+		<path>./No-Intro/Stellar Assault (Japan) (En) (Beta) (1995-02-13).32x</path>
+		<name>Stellar Assault</name>
+		<desc>Shadow Squadron is a 3D space combat shooter. The player controls a space fighter in a series of battles against huge enemy ships.  There are 2 different types of ships to fly, and 6 different missions.  In most missions, the player has to destroy several locations on a large ship in order to blow up the whole thing. 
+
+There are two ways to play the game.  First, one can directly control the ship and maneuver it around the 3D polygon environments.  Second, the player can let the 32X do the flying, and simply control a gun turret.</desc>
+		<image>./images/Stellar Assault (Japan) (En) (Beta) (1995-02-13)-image.png</image>
+		<video>./videos/Stellar Assault (Japan) (En) (Beta) (1995-02-13)-video.mp4</video>
+		<marquee>./images/Stellar Assault (Japan) (En) (Beta) (1995-02-13)-marquee.png</marquee>
+		<thumbnail>./images/Stellar Assault (Japan) (En) (Beta) (1995-02-13)-thumb.png</thumbnail>
+		<fanart>./images/Stellar Assault (Japan) (En) (Beta) (1995-02-13)-fanart.jpg</fanart>
+		<manual>./manuals/Stellar Assault (Japan) (En) (Beta) (1995-02-13)-manual.pdf</manual>
+		<bezel>./images/Stellar Assault (Japan) (En) (Beta) (1995-02-13)-bezel.png</bezel>
+		<rating>0.75</rating>
+		<releasedate>19950426T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1-2</players>
+		<md5>775d395064002f0d1120f3e67e936f2b</md5>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231109T033211" />
+	</game>
+	<game id="12695">
+		<path>./No-Intro/Stellar Assault (Japan).32x</path>
+		<name>Stellar Assault</name>
+		<desc>Shadow Squadron is a 3D space combat shooter. The player controls a space fighter in a series of battles against huge enemy ships.  There are 2 different types of ships to fly, and 6 different missions.  In most missions, the player has to destroy several locations on a large ship in order to blow up the whole thing. 
+
+There are two ways to play the game.  First, one can directly control the ship and maneuver it around the 3D polygon environments.  Second, the player can let the 32X do the flying, and simply control a gun turret.</desc>
+		<image>./images/Stellar Assault (Japan)-image.png</image>
+		<video>./videos/Stellar Assault (Japan)-video.mp4</video>
+		<marquee>./images/Stellar Assault (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Stellar Assault (Japan)-thumb.png</thumbnail>
+		<fanart>./images/Stellar Assault (Japan)-fanart.jpg</fanart>
+		<manual>./manuals/Stellar Assault (Japan)-manual.pdf</manual>
+		<bezel>./images/Stellar Assault (Japan)-bezel.png</bezel>
+		<rating>0.75</rating>
+		<releasedate>19950426T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1-2</players>
+		<md5>5f6c601dcecca937b6f2c2161e4566fe</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231109T033226" />
+	</game>
+	<game id="12671">
+		<path>./No-Intro/Virtua Fighter (Europe).32x</path>
+		<name>Virtua Fighter</name>
+		<desc>Virtua Fighter was the first of it's kind:  A one-on-one fighting game featuring fully 3D environments and characters. The fighters and arenas are rendered in flat-shaded polygons. Unlike many fighting games, Virtua Fighter focuses on deep gameplay based on actual fighting styles, rather than outrageous special moves and story lines.
+
+There are 8 fighters to choose from in Virtua Fighter, and an equal number of fighting backdrops in which to compete. Each fighter has a distinctive fighting style, and their own set of signature moves.</desc>
+		<image>./images/Virtua Fighter (Europe)-image.png</image>
+		<video>./videos/Virtua Fighter (Europe)-video.mp4</video>
+		<marquee>./images/Virtua Fighter (Europe)-marquee.png</marquee>
+		<thumbnail>./images/Virtua Fighter (Europe)-thumb.png</thumbnail>
+		<fanart>./images/Virtua Fighter (Europe)-fanart.jpg</fanart>
+		<manual>./manuals/Virtua Fighter (Europe)-manual.pdf</manual>
+		<bezel>./images/Virtua Fighter (Europe)-bezel.png</bezel>
+		<rating>0.7</rating>
+		<releasedate>19951130T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fight / 3D</genre>
+		<family>Virtua Fighter</family>
+		<players>1-2</players>
+		<md5>adcf6c6150d1bc3d073d3754b22ebc69</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T033242" />
+	</game>
+	<game id="12686">
+		<path>./No-Intro/Virtua Racing Deluxe (Europe).32x</path>
+		<name>Virtua Racing Deluxe</name>
+		<desc>Virtua Racing Deluxe is an enhanced arcade-to-console conversion of Sega's 3D racing game. This game is primarily an arcade-style affair; Players compete in a 5 lap race with timed checkpoints. It's also possible to play with 2 players in a split-screen mode.
+
+The 32X version of Virtua Racing adds a couple of new features. There are now 3 different types of cars to drive, including a stock car and a prototype racer. Furthermore, there are two all-new tracks.</desc>
+		<image>./images/Virtua Racing Deluxe (Europe)-image.png</image>
+		<video>./videos/Virtua Racing Deluxe (Europe)-video.mp4</video>
+		<marquee>./images/Virtua Racing Deluxe (Europe)-marquee.png</marquee>
+		<thumbnail>./images/Virtua Racing Deluxe (Europe)-thumb.png</thumbnail>
+		<fanart>./images/Virtua Racing Deluxe (Europe)-fanart.jpg</fanart>
+		<manual>./manuals/Virtua Racing Deluxe (Europe)-manual.pdf</manual>
+		<bezel>./images/Virtua Racing Deluxe (Europe)-bezel.png</bezel>
+		<rating>0.75</rating>
+		<releasedate>19941204T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving</genre>
+		<players>1-2</players>
+		<md5>c30a6430b1a7e819bd2dde63a41d4d57</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T033256" />
+	</game>
+	<game id="12686">
+		<path>./No-Intro/Virtua Racing Deluxe (Japan).32x</path>
+		<name>Virtua Racing Deluxe</name>
+		<desc>Virtua Racing Deluxe is an enhanced arcade-to-console conversion of Sega's 3D racing game. This game is primarily an arcade-style affair; Players compete in a 5 lap race with timed checkpoints. It's also possible to play with 2 players in a split-screen mode.
+
+The 32X version of Virtua Racing adds a couple of new features. There are now 3 different types of cars to drive, including a stock car and a prototype racer. Furthermore, there are two all-new tracks.</desc>
+		<image>./images/Virtua Racing Deluxe (Japan)-image.png</image>
+		<video>./videos/Virtua Racing Deluxe (Japan)-video.mp4</video>
+		<marquee>./images/Virtua Racing Deluxe (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Virtua Racing Deluxe (Japan)-thumb.png</thumbnail>
+		<fanart>./images/Virtua Racing Deluxe (Japan)-fanart.jpg</fanart>
+		<manual>./manuals/Virtua Racing Deluxe (Japan)-manual.pdf</manual>
+		<bezel>./images/Virtua Racing Deluxe (Japan)-bezel.png</bezel>
+		<rating>0.75</rating>
+		<releasedate>19941216T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving</genre>
+		<players>1-2</players>
+		<md5>08cae0a96d9ee07001c6e1c247d407c6</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231109T033309" />
 	</game>
 </gameList>

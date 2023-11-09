@@ -416,4 +416,2917 @@ When you're finished, enter the Sing Along section to make your own song and sin
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230302T203308" />
 	</game>
+	<game id="123663">
+		<path>./No-Intro/103 Winnie the Pooh - The Honey Hunt (United Kingdom).bin</path>
+		<name>Winnie the Pooh - The Honey Hunt</name>
+		<desc>Pooh is on a mission! Help Pooh collect as many honey pots as possible while visiting his favorite spots on his way to the party!</desc>
+		<video>./videos/103 Winnie the Pooh - The Honey Hunt (United Kingdom)-video.mp4</video>
+		<developer>Disney Interactive</developer>
+		<publisher>VTech</publisher>
+		<family>Winnie the Pooh</family>
+		<players>1-2</players>
+		<md5>71671e73e6f0298a93c93b3ee044bd98</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231109T035156" />
+	</game>
+	<game id="423057">
+		<path>./No-Intro/1st1.bin</path>
+		<name>ZZZ(notgame):pas un jeu</name>
+		<hidden>true</hidden>
+		<md5>35ccd518d0b0460db4619b46a090e368</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231109T035158" />
+	</game>
+	<game id="423057">
+		<path>./No-Intro/2mb_2.bin</path>
+		<name>ZZZ(notgame):pas un jeu</name>
+		<hidden>true</hidden>
+		<md5>b78e10f02bc30939d90199ed84da013d</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231109T035200" />
+	</game>
+	<game id="423057">
+		<path>./No-Intro/2nd1.bin</path>
+		<name>ZZZ(notgame):pas un jeu</name>
+		<hidden>true</hidden>
+		<md5>3bd0f0aed5609e4ece918777bbe431a6</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231109T035201" />
+	</game>
+	<game id="423057">
+		<path>./No-Intro/4mb_1.bin</path>
+		<name>ZZZ(notgame):pas un jeu</name>
+		<hidden>true</hidden>
+		<md5>01ab9ae9a5a7675f6ec695280b7ed1e2</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231109T035203" />
+	</game>
+	<game id="153146">
+		<path>./No-Intro/A Day on the Farm (USA) (V.Smile Baby).bin</path>
+		<name>A Day On The Farm</name>
+		<desc>Join Farmer Fred and his animals for a fun-filled day on the farm! He'll teach your baby about mommy and baby animals, fruits and vegetables, colors, and he'll even play a dress up game! The Day on the Farm Baby Smartridge also introduces your baby to animals with baby sign language!</desc>
+		<marquee>./images/A Day on the Farm (USA) (V.Smile Baby)-marquee.png</marquee>
+		<manual>./manuals/A Day on the Farm (USA) (V.Smile Baby)-manual.pdf</manual>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<md5>81f8a42493dbed1c2b8d1a34d85d77b9</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T035209" />
+	</game>
+	<game id="102138">
+		<path>./No-Intro/ABC Land Aventure (France).bin</path>
+		<name>ABC Land Aventure</name>
+		<desc>All of the machines at Alphabet Park have gone haywire! Help Grandpa to fix them by battling through each themed environment, tackling the obstacles and solving the problems along the way to find the control room.</desc>
+		<image>./images/ABC Land Aventure (France)-image.png</image>
+		<video>./videos/ABC Land Aventure (France)-video.mp4</video>
+		<thumbnail>./images/ABC Land Aventure (France)-thumb.png</thumbnail>
+		<manual>./manuals/ABC Land Aventure (France)-manual.pdf</manual>
+		<releasedate>20040101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Educational</genre>
+		<players>1</players>
+		<md5>0293f6d508a1a80c55071a122512d5d8</md5>
+		<lang>fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T035220" />
+	</game>
+	<game id="102138">
+		<path>./No-Intro/Abenteuer im ABC Park (Germany).bin</path>
+		<name>Abenteuer im ABC Park</name>
+		<desc>All of the machines at Alphabet Park have gone haywire! Help Grandpa to fix them by battling through each themed environment, tackling the obstacles and solving the problems along the way to find the control room.</desc>
+		<image>./images/Abenteuer im ABC Park (Germany)-image.png</image>
+		<video>./videos/Abenteuer im ABC Park (Germany)-video.mp4</video>
+		<marquee>./images/Abenteuer im ABC Park (Germany)-marquee.png</marquee>
+		<thumbnail>./images/Abenteuer im ABC Park (Germany)-thumb.png</thumbnail>
+		<manual>./manuals/Abenteuer im ABC Park (Germany)-manual.pdf</manual>
+		<releasedate>20040101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Educational</genre>
+		<players>1</players>
+		<md5>7b16334d4b9f33ee0f445e28d35868d7</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T035230" />
+	</game>
+	<game>
+		<path>./No-Intro/Action Mania (USA) (V.Smile Motion).bin</path>
+		<name>Action Mania (USA) (V.Smile Motion)</name>
+		<md5>6b1baa26c4f6df2d77406f6e1e4c477c</md5>
+		<scrap name="ScreenScraper" date="20231109T035232" />
+	</game>
+	<game id="151065">
+		<path>./No-Intro/Adventures of Little Red Riding Hood, The (USA).bin</path>
+		<name>The Adventures of Little Red Riding Hood</name>
+		<desc>Help Little Red Riding Hood find her way safely to Grandma's. 12 fantastic activities teach letters, words, spelling and logic skills.</desc>
+		<image>./images/Adventures of Little Red Riding Hood, The (USA)-image.png</image>
+		<video>./videos/Adventures of Little Red Riding Hood, The (USA)-video.mp4</video>
+		<thumbnail>./images/Adventures of Little Red Riding Hood, The (USA)-thumb.png</thumbnail>
+		<fanart>./images/Adventures of Little Red Riding Hood, The (USA)-fanart.jpg</fanart>
+		<manual>./manuals/Adventures of Little Red Riding Hood, The (USA)-manual.pdf</manual>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<players>1-2</players>
+		<md5>a4579107261a2382206c1cb41d9a1698</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T035243" />
+	</game>
+	<game id="102136">
+		<path>./No-Intro/Aladdin - Aladdins Welt der Wunder (Germany).bin</path>
+		<name>Aladdin - Aladdins Welt der Wunder</name>
+		<desc>Join Aladdin on an exciting adventure through the Agrabah market, the Cave of Wonder and the Sultan's Palace, as he embarks on a journey to defeat Jafar and find Princess Jasmine. Along the way, Aladdin will need to solve equations, find keys and passwords to open doors, ride a flying carpet and perform many other challenging tasks. To defeat Jafar, kids must master six challenging games in the Learning Adventure mode.</desc>
+		<image>./images/Aladdin - Aladdins Welt der Wunder (Germany)-image.png</image>
+		<video>./videos/Aladdin - Aladdins Welt der Wunder (Germany)-video.mp4</video>
+		<marquee>./images/Aladdin - Aladdins Welt der Wunder (Germany)-marquee.png</marquee>
+		<thumbnail>./images/Aladdin - Aladdins Welt der Wunder (Germany)-thumb.png</thumbnail>
+		<fanart>./images/Aladdin - Aladdins Welt der Wunder (Germany)-fanart.jpg</fanart>
+		<manual>./manuals/Aladdin - Aladdins Welt der Wunder (Germany)-manual.pdf</manual>
+		<releasedate>20050506T000000</releasedate>
+		<developer>Disney Interactive</developer>
+		<publisher>VTech</publisher>
+		<genre>Educational</genre>
+		<family>Aladdin</family>
+		<players>1-2</players>
+		<md5>63bd5548aa9914545959e29790ae6411</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T035256" />
+	</game>
+	<game id="102136">
+		<path>./No-Intro/Aladdin - El Maravilloso Mundo de Aladdin (Spain).bin</path>
+		<name>Aladdin - Aladdin's Wonders of the World</name>
+		<desc>Join Aladdin on an exciting adventure through the Agrabah market, the Cave of Wonder and the Sultan's Palace, as he embarks on a journey to defeat Jafar and find Princess Jasmine. Along the way, Aladdin will need to solve equations, find keys and passwords to open doors, ride a flying carpet and perform many other challenging tasks. To defeat Jafar, kids must master six challenging games in the Learning Adventure mode.</desc>
+		<image>./images/Aladdin - El Maravilloso Mundo de Aladdin (Spain)-image.png</image>
+		<video>./videos/Aladdin - El Maravilloso Mundo de Aladdin (Spain)-video.mp4</video>
+		<marquee>./images/Aladdin - El Maravilloso Mundo de Aladdin (Spain)-marquee.png</marquee>
+		<thumbnail>./images/Aladdin - El Maravilloso Mundo de Aladdin (Spain)-thumb.png</thumbnail>
+		<fanart>./images/Aladdin - El Maravilloso Mundo de Aladdin (Spain)-fanart.jpg</fanart>
+		<manual>./manuals/Aladdin - El Maravilloso Mundo de Aladdin (Spain)-manual.pdf</manual>
+		<releasedate>20050506T000000</releasedate>
+		<developer>Disney Interactive</developer>
+		<publisher>VTech</publisher>
+		<genre>Educational</genre>
+		<family>Aladdin</family>
+		<players>1-2</players>
+		<md5>cbf6fe6456192e90c29662b865eb9029</md5>
+		<lang>es</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T035311" />
+	</game>
+	<game id="102136">
+		<path>./No-Intro/Aladdin - Il magico mondo di Aladdin (Italy).bin</path>
+		<name>Aladdin - Il magico mondo di Aladdin</name>
+		<desc>Join Aladdin on an exciting adventure through the Agrabah market, the Cave of Wonder and the Sultan's Palace, as he embarks on a journey to defeat Jafar and find Princess Jasmine. Along the way, Aladdin will need to solve equations, find keys and passwords to open doors, ride a flying carpet and perform many other challenging tasks. To defeat Jafar, kids must master six challenging games in the Learning Adventure mode.</desc>
+		<image>./images/Aladdin - Il magico mondo di Aladdin (Italy)-image.png</image>
+		<video>./videos/Aladdin - Il magico mondo di Aladdin (Italy)-video.mp4</video>
+		<marquee>./images/Aladdin - Il magico mondo di Aladdin (Italy)-marquee.png</marquee>
+		<thumbnail>./images/Aladdin - Il magico mondo di Aladdin (Italy)-thumb.png</thumbnail>
+		<fanart>./images/Aladdin - Il magico mondo di Aladdin (Italy)-fanart.jpg</fanart>
+		<manual>./manuals/Aladdin - Il magico mondo di Aladdin (Italy)-manual.pdf</manual>
+		<releasedate>20050506T000000</releasedate>
+		<developer>Disney Interactive</developer>
+		<publisher>VTech</publisher>
+		<genre>Educational</genre>
+		<family>Aladdin</family>
+		<players>1-2</players>
+		<md5>41887cccd9c6d01140d780f15ae1f8fe</md5>
+		<lang>it</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T035325" />
+	</game>
+	<game id="102138">
+		<path>./No-Intro/Alphabet Park Adventure (USA) (Rev 1) (Alt).bin</path>
+		<name>Alphabet Park Adventure</name>
+		<desc>All of the machines at Alphabet Park have gone haywire! Help Grandpa to fix them by battling through each themed environment, tackling the obstacles and solving the problems along the way to find the control room.</desc>
+		<image>./images/Alphabet Park Adventure (USA) (Rev 1) (Alt)-image.png</image>
+		<video>./videos/Alphabet Park Adventure (USA) (Rev 1) (Alt)-video.mp4</video>
+		<manual>./manuals/Alphabet Park Adventure (USA) (Rev 1) (Alt)-manual.pdf</manual>
+		<releasedate>20040101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Educational</genre>
+		<players>1</players>
+		<md5>5295fa35b2aef72be934a8f786bade66</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T035332" />
+	</game>
+	<game id="102139">
+		<path>./No-Intro/Apprenti' pilote (France).bin</path>
+		<name>Apprenti' Pilote</name>
+		<desc>Poor little farmer Nick - his sheep have broken out of their pen and runaway! To find them, he must venture out into the great, wide world for thefirst  time.  Luckily,  his  friend  Truckles, a sassy truck, is there to lend ahand. Come along with Nick and Truckles on their exciting adventure.</desc>
+		<image>./images/Apprenti' pilote (France)-image.png</image>
+		<video>./videos/Apprenti' pilote (France)-video.mp4</video>
+		<marquee>./images/Apprenti' pilote (France)-marquee.png</marquee>
+		<thumbnail>./images/Apprenti' pilote (France)-thumb.png</thumbnail>
+		<manual>./manuals/Apprenti' pilote (France)-manual.pdf</manual>
+		<releasedate>20040101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Educational</genre>
+		<players>1-2</players>
+		<md5>0279827c1cef9450d955e2eee901758e</md5>
+		<lang>fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T035344" />
+	</game>
+	<game id="102137">
+		<path>./No-Intro/Arielle die Meerjungfrau - Arielles aufregendes Abenteuer (Germany) (Rev 1).bin</path>
+		<name>Arielle die Meerjungfrau - Arielles aufregendes Abenteuer</name>
+		<image>./images/Arielle die Meerjungfrau - Arielles aufregendes Abenteuer (Germany) (Rev 1)-image.png</image>
+		<video>./videos/Arielle die Meerjungfrau - Arielles aufregendes Abenteuer (Germany) (Rev 1)-video.mp4</video>
+		<marquee>./images/Arielle die Meerjungfrau - Arielles aufregendes Abenteuer (Germany) (Rev 1)-marquee.png</marquee>
+		<thumbnail>./images/Arielle die Meerjungfrau - Arielles aufregendes Abenteuer (Germany) (Rev 1)-thumb.png</thumbnail>
+		<fanart>./images/Arielle die Meerjungfrau - Arielles aufregendes Abenteuer (Germany) (Rev 1)-fanart.jpg</fanart>
+		<manual>./manuals/Arielle die Meerjungfrau - Arielles aufregendes Abenteuer (Germany) (Rev 1)-manual.pdf</manual>
+		<releasedate>20040101T000000</releasedate>
+		<developer>Disney Interactive</developer>
+		<publisher>VTech</publisher>
+		<players>1-2</players>
+		<md5>729506ca5fcc0c0d34db5a2cec1995a8</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T035358" />
+	</game>
+	<game id="102137">
+		<path>./No-Intro/Arielle die Meerjungfrau - Arielles aufregendes Abenteuer (Germany).bin</path>
+		<name>Arielle die Meerjungfrau - Arielles aufregendes Abenteuer</name>
+		<image>./images/Arielle die Meerjungfrau - Arielles aufregendes Abenteuer (Germany)-image.png</image>
+		<video>./videos/Arielle die Meerjungfrau - Arielles aufregendes Abenteuer (Germany)-video.mp4</video>
+		<marquee>./images/Arielle die Meerjungfrau - Arielles aufregendes Abenteuer (Germany)-marquee.png</marquee>
+		<thumbnail>./images/Arielle die Meerjungfrau - Arielles aufregendes Abenteuer (Germany)-thumb.png</thumbnail>
+		<fanart>./images/Arielle die Meerjungfrau - Arielles aufregendes Abenteuer (Germany)-fanart.jpg</fanart>
+		<manual>./manuals/Arielle die Meerjungfrau - Arielles aufregendes Abenteuer (Germany)-manual.pdf</manual>
+		<releasedate>20040101T000000</releasedate>
+		<developer>Disney Interactive</developer>
+		<publisher>VTech</publisher>
+		<players>1-2</players>
+		<md5>3e6e124fa66f5ccf42baf287c999e0e3</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T035411" />
+	</game>
+	<game id="102138">
+		<path>./No-Intro/Aventuras en el Parque Alfabeto (Spain).bin</path>
+		<name>Alphabet Park Adventure</name>
+		<desc>All of the machines at Alphabet Park have gone haywire! Help Grandpa to fix them by battling through each themed environment, tackling the obstacles and solving the problems along the way to find the control room.</desc>
+		<image>./images/Aventuras en el Parque Alfabeto (Spain)-image.png</image>
+		<video>./videos/Aventuras en el Parque Alfabeto (Spain)-video.mp4</video>
+		<manual>./manuals/Aventuras en el Parque Alfabeto (Spain)-manual.pdf</manual>
+		<releasedate>20040101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Educational</genre>
+		<players>1</players>
+		<md5>0b79fca98d7f62d015c7f385058533a5</md5>
+		<lang>es</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T035419" />
+	</game>
+	<game id="102138">
+		<path>./No-Intro/Avventura nel Parco Alfabeto (Italy).bin</path>
+		<name>Avventura nel Parco Alfabeto</name>
+		<desc>All of the machines at Alphabet Park have gone haywire! Help Grandpa to fix them by battling through each themed environment, tackling the obstacles and solving the problems along the way to find the control room.</desc>
+		<image>./images/Avventura nel Parco Alfabeto (Italy)-image.png</image>
+		<video>./videos/Avventura nel Parco Alfabeto (Italy)-video.mp4</video>
+		<manual>./manuals/Avventura nel Parco Alfabeto (Italy)-manual.pdf</manual>
+		<releasedate>20040101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Educational</genre>
+		<players>1</players>
+		<md5>0a15171b53e10b6f60e3fd979d44b0b5</md5>
+		<lang>it</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T035426" />
+	</game>
+	<game>
+		<path>./No-Intro/Baby Einstein (USA) (V.Smile Baby) (Alt).bin</path>
+		<name>Baby Einstein (USA) (V.Smile Baby) (Alt)</name>
+		<md5>831742b7b690286dde8a81909026b82e</md5>
+		<scrap name="ScreenScraper" date="20231109T035427" />
+	</game>
+	<game>
+		<path>./No-Intro/Baby Einstein (USA) (V.Smile Baby).bin</path>
+		<name>Baby Einstein (USA) (V.Smile Baby)</name>
+		<md5>c149b61e1eb170e7f96228eb820e3cf1</md5>
+		<scrap name="ScreenScraper" date="20231109T035429" />
+	</game>
+	<game>
+		<path>./No-Intro/Backyardigans - Viking Voyage (USA) (Rev 2).bin</path>
+		<name>Backyardigans - Viking Voyage (USA) (Rev 2)</name>
+		<md5>8eaee3654420099aa2a5b8044f7cf697</md5>
+		<scrap name="ScreenScraper" date="20231109T035431" />
+	</game>
+	<game>
+		<path>./No-Intro/Backyardigans, The - Viking Voyage (USA).bin</path>
+		<name>Backyardigans, The - Viking Voyage (USA)</name>
+		<md5>69da74d7011e80126a5bd83b2ab83e60</md5>
+		<scrap name="ScreenScraper" date="20231109T035433" />
+	</game>
+	<game>
+		<path>./No-Intro/Barney (USA) (V.Smile Baby).bin</path>
+		<name>Barney (USA) (V.Smile Baby)</name>
+		<md5>d0990f8eaf907dd7f11aa8157ad58477</md5>
+		<scrap name="ScreenScraper" date="20231109T035435" />
+	</game>
+	<game id="152497">
+		<path>./No-Intro/Barney - Erlebnis-Reise (Germany).bin</path>
+		<name>Barney - Erlebnis-Reise</name>
+		<desc>One day, Barney, BJ and Baby Bop ﬁnd a book about a wonderful place called The Land of Make Believe, where a beautiful Princess lives in a castle. Barney and his friends decide they would like to meet the Princess and become her friends, so they begin a journey to ﬁnd her. First, there is preparation to be done, and then exciting travel in a hot air balloon! Along the way, they will meet many different animals in the forest, ﬁnd exciting games in the castle, and have a lot of fun learning new things and meeting the beautiful Princess.</desc>
+		<image>./images/Barney - Erlebnis-Reise (Germany)-image.png</image>
+		<video>./videos/Barney - Erlebnis-Reise (Germany)-video.mp4</video>
+		<marquee>./images/Barney - Erlebnis-Reise (Germany)-marquee.png</marquee>
+		<thumbnail>./images/Barney - Erlebnis-Reise (Germany)-thumb.png</thumbnail>
+		<fanart>./images/Barney - Erlebnis-Reise (Germany)-fanart.jpg</fanart>
+		<manual>./manuals/Barney - Erlebnis-Reise (Germany)-manual.pdf</manual>
+		<releasedate>20060612T000000</releasedate>
+		<developer>HIT Entertainment PLC</developer>
+		<publisher>VTech</publisher>
+		<genre>Educational</genre>
+		<players>1</players>
+		<md5>9cc4457c863ceb1feb666d151324a10e</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T035449" />
+	</game>
+	<game id="152497">
+		<path>./No-Intro/Barney - The Land of Make Believe (USA).bin</path>
+		<name>Barney - The Land of Make Believe</name>
+		<desc>One day, Barney, BJ and Baby Bop ﬁnd a book about a wonderful place called The Land of Make Believe, where a beautiful Princess lives in a castle. Barney and his friends decide they would like to meet the Princess and become her friends, so they begin a journey to ﬁnd her. First, there is preparation to be done, and then exciting travel in a hot air balloon! Along the way, they will meet many different animals in the forest, ﬁnd exciting games in the castle, and have a lot of fun learning new things and meeting the beautiful Princess.</desc>
+		<image>./images/Barney - The Land of Make Believe (USA)-image.png</image>
+		<video>./videos/Barney - The Land of Make Believe (USA)-video.mp4</video>
+		<marquee>./images/Barney - The Land of Make Believe (USA)-marquee.png</marquee>
+		<thumbnail>./images/Barney - The Land of Make Believe (USA)-thumb.png</thumbnail>
+		<fanart>./images/Barney - The Land of Make Believe (USA)-fanart.jpg</fanart>
+		<manual>./manuals/Barney - The Land of Make Believe (USA)-manual.pdf</manual>
+		<releasedate>20060612T000000</releasedate>
+		<developer>HIT Entertainment PLC</developer>
+		<publisher>VTech</publisher>
+		<genre>Educational</genre>
+		<players>1</players>
+		<md5>543e41a308baafac9ad8c7de8444ceba</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T035502" />
+	</game>
+	<game id="250983">
+		<path>./No-Intro/Batman, The - Gotham City Rescue (USA, Europe).bin</path>
+		<name>The Batman - Gotham City Rescue</name>
+		<desc>The Penguin, the Joker and Mr. Freeze have kidnapped the Mayor of Gotham City! Batman's mission is to rescue him. Mr. Freeze is holding the mayor hostage in his ice lab, housed in an old factory. Help Batman rescue the Mayor before it's too late!</desc>
+		<image>./images/Batman, The - Gotham City Rescue (USA, Europe)-image.png</image>
+		<video>./videos/Batman, The - Gotham City Rescue (USA, Europe)-video.mp4</video>
+		<marquee>./images/Batman, The - Gotham City Rescue (USA, Europe)-marquee.png</marquee>
+		<fanart>./images/Batman, The - Gotham City Rescue (USA, Europe)-fanart.jpg</fanart>
+		<manual>./manuals/Batman, The - Gotham City Rescue (USA, Europe)-manual.pdf</manual>
+		<developer>TM &amp; DC Comics</developer>
+		<publisher>VTech</publisher>
+		<family>Batman</family>
+		<players>1</players>
+		<md5>61a9a08a76c370bad91c420b5680c2ca</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T035512" />
+	</game>
+	<game id="151062">
+		<path>./No-Intro/Bilar - Koer ikapp i Kylarkoeping (Sweden).bin</path>
+		<name>Cars - Rev It Up in Radiator Springs</name>
+		<desc>After the Piston Cup, Lightning McQueen heads back to Radiator Springs to hang out with his new-found friends! Mater and his best buddy remember all the crazy things that happened the first time Lightning stumbled across that little town, and now you can join in with all the action!</desc>
+		<image>./images/Bilar - Koer ikapp i Kylarkoeping (Sweden)-image.png</image>
+		<video>./videos/Bilar - Koer ikapp i Kylarkoeping (Sweden)-video.mp4</video>
+		<marquee>./images/Bilar - Koer ikapp i Kylarkoeping (Sweden)-marquee.png</marquee>
+		<thumbnail>./images/Bilar - Koer ikapp i Kylarkoeping (Sweden)-thumb.png</thumbnail>
+		<fanart>./images/Bilar - Koer ikapp i Kylarkoeping (Sweden)-fanart.jpg</fanart>
+		<manual>./manuals/Bilar - Koer ikapp i Kylarkoeping (Sweden)-manual.pdf</manual>
+		<releasedate>20060101T000000</releasedate>
+		<developer>Buena Vista Games</developer>
+		<genre>Educational</genre>
+		<family>Cars</family>
+		<players>1-2</players>
+		<md5>35651479fc4942a4d66908ba0fb7217a</md5>
+		<lang>sw</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T035525" />
+	</game>
+	<game id="151062">
+		<path>./No-Intro/Biler - Raes i Kolerkildekobing (Denmark).bin</path>
+		<name>Cars - Rev It Up in Radiator Springs</name>
+		<desc>After the Piston Cup, Lightning McQueen heads back to Radiator Springs to hang out with his new-found friends! Mater and his best buddy remember all the crazy things that happened the first time Lightning stumbled across that little town, and now you can join in with all the action!</desc>
+		<image>./images/Biler - Raes i Kolerkildekobing (Denmark)-image.png</image>
+		<video>./videos/Biler - Raes i Kolerkildekobing (Denmark)-video.mp4</video>
+		<marquee>./images/Biler - Raes i Kolerkildekobing (Denmark)-marquee.png</marquee>
+		<thumbnail>./images/Biler - Raes i Kolerkildekobing (Denmark)-thumb.png</thumbnail>
+		<fanart>./images/Biler - Raes i Kolerkildekobing (Denmark)-fanart.jpg</fanart>
+		<manual>./manuals/Biler - Raes i Kolerkildekobing (Denmark)-manual.pdf</manual>
+		<releasedate>20060101T000000</releasedate>
+		<developer>Buena Vista Games</developer>
+		<genre>Educational</genre>
+		<family>Cars</family>
+		<players>1-2</players>
+		<md5>a315b86facf0d6f66da0524838df6c46</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231109T035540" />
+	</game>
+	<game id="140694">
+		<path>./No-Intro/Bob der Baumeister - Bobs spannender Arbeitstag (Germany).bin</path>
+		<name>Bob der Baumeister - Bobs spannender Arbeitstag</name>
+		<desc>Bob the Builder is always willing to lend a hand to people in the town. Today Bob is having a very busy day and he needs your help to fulfill his tasks by completing fun and educational games. Learn important school skills along the way and see why Bob's assistance is always in such great demand!</desc>
+		<image>./images/Bob der Baumeister - Bobs spannender Arbeitstag (Germany)-image.png</image>
+		<video>./videos/Bob der Baumeister - Bobs spannender Arbeitstag (Germany)-video.mp4</video>
+		<marquee>./images/Bob der Baumeister - Bobs spannender Arbeitstag (Germany)-marquee.png</marquee>
+		<thumbnail>./images/Bob der Baumeister - Bobs spannender Arbeitstag (Germany)-thumb.png</thumbnail>
+		<fanart>./images/Bob der Baumeister - Bobs spannender Arbeitstag (Germany)-fanart.jpg</fanart>
+		<manual>./manuals/Bob der Baumeister - Bobs spannender Arbeitstag (Germany)-manual.pdf</manual>
+		<releasedate>20050101T000000</releasedate>
+		<developer>HIT Entertainment PLC</developer>
+		<publisher>VTech</publisher>
+		<genre>Educational</genre>
+		<players>1</players>
+		<md5>f46e76f83cb4a63db6e690043dbbb63c</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T035554" />
+	</game>
+	<game id="140694">
+		<path>./No-Intro/Bob the Builder - Bob's Busy Day (Europe) (En-GB).bin</path>
+		<name>Bob the Builder - Bob's Busy Day</name>
+		<desc>Bob the Builder is always willing to lend a hand to people in the town. Today Bob is having a very busy day and he needs your help to fulfill his tasks by completing fun and educational games. Learn important school skills along the way and see why Bob's assistance is always in such great demand!</desc>
+		<image>./images/Bob the Builder - Bob's Busy Day (Europe) (En-GB)-image.png</image>
+		<video>./videos/Bob the Builder - Bob's Busy Day (Europe) (En-GB)-video.mp4</video>
+		<marquee>./images/Bob the Builder - Bob's Busy Day (Europe) (En-GB)-marquee.png</marquee>
+		<thumbnail>./images/Bob the Builder - Bob's Busy Day (Europe) (En-GB)-thumb.png</thumbnail>
+		<fanart>./images/Bob the Builder - Bob's Busy Day (Europe) (En-GB)-fanart.jpg</fanart>
+		<manual>./manuals/Bob the Builder - Bob's Busy Day (Europe) (En-GB)-manual.pdf</manual>
+		<releasedate>20050101T000000</releasedate>
+		<developer>HIT Entertainment PLC</developer>
+		<publisher>VTech</publisher>
+		<genre>Educational</genre>
+		<players>1</players>
+		<md5>73e30d527a2f353da4aac2401063f602</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T035607" />
+	</game>
+	<game id="140694">
+		<path>./No-Intro/Byggare Bob - Bobs stressiga dag (Sweden).bin</path>
+		<name>Bob the Builder - Bob's Busy Day</name>
+		<desc>Bob the Builder is always willing to lend a hand to people in the town. Today Bob is having a very busy day and he needs your help to fulfill his tasks by completing fun and educational games. Learn important school skills along the way and see why Bob's assistance is always in such great demand!</desc>
+		<image>./images/Byggare Bob - Bobs stressiga dag (Sweden)-image.png</image>
+		<video>./videos/Byggare Bob - Bobs stressiga dag (Sweden)-video.mp4</video>
+		<marquee>./images/Byggare Bob - Bobs stressiga dag (Sweden)-marquee.png</marquee>
+		<thumbnail>./images/Byggare Bob - Bobs stressiga dag (Sweden)-thumb.png</thumbnail>
+		<fanart>./images/Byggare Bob - Bobs stressiga dag (Sweden)-fanart.jpg</fanart>
+		<manual>./manuals/Byggare Bob - Bobs stressiga dag (Sweden)-manual.pdf</manual>
+		<releasedate>20050101T000000</releasedate>
+		<developer>HIT Entertainment PLC</developer>
+		<publisher>VTech</publisher>
+		<genre>Educational</genre>
+		<players>1</players>
+		<md5>27017cfabbd8b55fbb2817a7ee7cd767</md5>
+		<lang>sw</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T035620" />
+	</game>
+	<game id="140694">
+		<path>./No-Intro/Byggemand Bob - Bobs travle dag (Denmark).bin</path>
+		<name>Bob the Builder - Bob's Busy Day</name>
+		<desc>Bob the Builder is always willing to lend a hand to people in the town. Today Bob is having a very busy day and he needs your help to fulfill his tasks by completing fun and educational games. Learn important school skills along the way and see why Bob's assistance is always in such great demand!</desc>
+		<image>./images/Byggemand Bob - Bobs travle dag (Denmark)-image.png</image>
+		<video>./videos/Byggemand Bob - Bobs travle dag (Denmark)-video.mp4</video>
+		<marquee>./images/Byggemand Bob - Bobs travle dag (Denmark)-marquee.png</marquee>
+		<thumbnail>./images/Byggemand Bob - Bobs travle dag (Denmark)-thumb.png</thumbnail>
+		<fanart>./images/Byggemand Bob - Bobs travle dag (Denmark)-fanart.jpg</fanart>
+		<manual>./manuals/Byggemand Bob - Bobs travle dag (Denmark)-manual.pdf</manual>
+		<releasedate>20050101T000000</releasedate>
+		<developer>HIT Entertainment PLC</developer>
+		<publisher>VTech</publisher>
+		<genre>Educational</genre>
+		<players>1</players>
+		<md5>d122a6d6961e79dc663445b395a530aa</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231109T035634" />
+	</game>
+	<game>
+		<path>./No-Intro/Care Bears (USA) (V.Smile Baby).bin</path>
+		<name>Care Bears (USA) (V.Smile Baby)</name>
+		<md5>6182b2b59262788f81ee70bb244317b1</md5>
+		<scrap name="ScreenScraper" date="20231109T035635" />
+	</game>
+	<game id="250981">
+		<path>./No-Intro/Care Bears - A Lesson in Caring (USA).bin</path>
+		<name>Care Bears - A Lesson In Caring</name>
+		<desc>One day, the Care Bears receive a letter from a curious child who asks them, "What does caring mean?" The Care Bears want to teach this child, and all children, the true meaning of caring. Select your favorite Care Bear and learn an important lesson in caring by completing fun and educational games. Learn important school skills along the way, and understand what friendship and love are truly about.</desc>
+		<image>./images/Care Bears - A Lesson in Caring (USA)-image.png</image>
+		<video>./videos/Care Bears - A Lesson in Caring (USA)-video.mp4</video>
+		<marquee>./images/Care Bears - A Lesson in Caring (USA)-marquee.png</marquee>
+		<thumbnail>./images/Care Bears - A Lesson in Caring (USA)-thumb.png</thumbnail>
+		<fanart>./images/Care Bears - A Lesson in Caring (USA)-fanart.jpg</fanart>
+		<manual>./manuals/Care Bears - A Lesson in Caring (USA)-manual.pdf</manual>
+		<genre>Educational</genre>
+		<players>1</players>
+		<md5>a232f50ebeca526b53f4b4e4e5653cf2</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T035650" />
+	</game>
+	<game id="151062">
+		<path>./No-Intro/Cars (United Kingdom).bin</path>
+		<name>Cars - Rev It Up in Radiator Springs</name>
+		<desc>After the Piston Cup, Lightning McQueen heads back to Radiator Springs to hang out with his new-found friends! Mater and his best buddy remember all the crazy things that happened the first time Lightning stumbled across that little town, and now you can join in with all the action!</desc>
+		<image>./images/Cars (United Kingdom)-image.png</image>
+		<video>./videos/Cars (United Kingdom)-video.mp4</video>
+		<marquee>./images/Cars (United Kingdom)-marquee.png</marquee>
+		<thumbnail>./images/Cars (United Kingdom)-thumb.png</thumbnail>
+		<fanart>./images/Cars (United Kingdom)-fanart.jpg</fanart>
+		<manual>./manuals/Cars (United Kingdom)-manual.pdf</manual>
+		<releasedate>20060101T000000</releasedate>
+		<developer>Buena Vista Games</developer>
+		<genre>Educational</genre>
+		<family>Cars</family>
+		<players>1-2</players>
+		<md5>b3648fc1efd1b0a7bb32449011414907</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231109T035705" />
+	</game>
+	<game id="151062">
+		<path>./No-Intro/Cars - Quatre roues (France).bin</path>
+		<name>Cars - Quatre Roues</name>
+		<desc>After the Piston Cup, Lightning McQueen heads back to Radiator Springs to hang out with his new-found friends! Mater and his best buddy remember all the crazy things that happened the first time Lightning stumbled across that little town, and now you can join in with all the action!</desc>
+		<image>./images/Cars - Quatre roues (France)-image.png</image>
+		<video>./videos/Cars - Quatre roues (France)-video.mp4</video>
+		<marquee>./images/Cars - Quatre roues (France)-marquee.png</marquee>
+		<thumbnail>./images/Cars - Quatre roues (France)-thumb.png</thumbnail>
+		<fanart>./images/Cars - Quatre roues (France)-fanart.jpg</fanart>
+		<manual>./manuals/Cars - Quatre roues (France)-manual.pdf</manual>
+		<releasedate>20060101T000000</releasedate>
+		<developer>Buena Vista Games</developer>
+		<genre>Educational</genre>
+		<family>Cars</family>
+		<players>1-2</players>
+		<md5>ea8ce4b0f0fd5f51372d02d73c07b21d</md5>
+		<lang>fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T035720" />
+	</game>
+	<game id="151062">
+		<path>./No-Intro/Cars - Rev It Up in Radiator Springs (Europe) (En-GB).bin</path>
+		<name>Cars - Rev It Up in Radiator Springs</name>
+		<desc>After the Piston Cup, Lightning McQueen heads back to Radiator Springs to hang out with his new-found friends! Mater and his best buddy remember all the crazy things that happened the first time Lightning stumbled across that little town, and now you can join in with all the action!</desc>
+		<image>./images/Cars - Rev It Up in Radiator Springs (Europe) (En-GB)-image.png</image>
+		<video>./videos/Cars - Rev It Up in Radiator Springs (Europe) (En-GB)-video.mp4</video>
+		<marquee>./images/Cars - Rev It Up in Radiator Springs (Europe) (En-GB)-marquee.png</marquee>
+		<thumbnail>./images/Cars - Rev It Up in Radiator Springs (Europe) (En-GB)-thumb.png</thumbnail>
+		<fanart>./images/Cars - Rev It Up in Radiator Springs (Europe) (En-GB)-fanart.jpg</fanart>
+		<manual>./manuals/Cars - Rev It Up in Radiator Springs (Europe) (En-GB)-manual.pdf</manual>
+		<releasedate>20060101T000000</releasedate>
+		<developer>Buena Vista Games</developer>
+		<genre>Educational</genre>
+		<family>Cars</family>
+		<players>1-2</players>
+		<md5>63f84e96711ab6980660b1e5322287e4</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T035734" />
+	</game>
+	<game id="151062">
+		<path>./No-Intro/Cars - Rev It Up in Radiator Springs (USA) (Alt 2).bin</path>
+		<name>Cars - Rev It Up in Radiator Springs</name>
+		<desc>After the Piston Cup, Lightning McQueen heads back to Radiator Springs to hang out with his new-found friends! Mater and his best buddy remember all the crazy things that happened the first time Lightning stumbled across that little town, and now you can join in with all the action!</desc>
+		<image>./images/Cars - Rev It Up in Radiator Springs (USA) (Alt 2)-image.png</image>
+		<video>./videos/Cars - Rev It Up in Radiator Springs (USA) (Alt 2)-video.mp4</video>
+		<marquee>./images/Cars - Rev It Up in Radiator Springs (USA) (Alt 2)-marquee.png</marquee>
+		<thumbnail>./images/Cars - Rev It Up in Radiator Springs (USA) (Alt 2)-thumb.png</thumbnail>
+		<fanart>./images/Cars - Rev It Up in Radiator Springs (USA) (Alt 2)-fanart.jpg</fanart>
+		<manual>./manuals/Cars - Rev It Up in Radiator Springs (USA) (Alt 2)-manual.pdf</manual>
+		<releasedate>20060101T000000</releasedate>
+		<developer>Buena Vista Games</developer>
+		<genre>Educational</genre>
+		<family>Cars</family>
+		<players>1-2</players>
+		<md5>5eab7c5ba67d83719f778d03ef3e5130</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T035749" />
+	</game>
+	<game id="151062">
+		<path>./No-Intro/Cars - Rev It Up in Radiator Springs (USA) (Alt).bin</path>
+		<name>Cars - Rev It Up in Radiator Springs</name>
+		<desc>After the Piston Cup, Lightning McQueen heads back to Radiator Springs to hang out with his new-found friends! Mater and his best buddy remember all the crazy things that happened the first time Lightning stumbled across that little town, and now you can join in with all the action!</desc>
+		<image>./images/Cars - Rev It Up in Radiator Springs (USA) (Alt)-image.png</image>
+		<video>./videos/Cars - Rev It Up in Radiator Springs (USA) (Alt)-video.mp4</video>
+		<marquee>./images/Cars - Rev It Up in Radiator Springs (USA) (Alt)-marquee.png</marquee>
+		<thumbnail>./images/Cars - Rev It Up in Radiator Springs (USA) (Alt)-thumb.png</thumbnail>
+		<fanart>./images/Cars - Rev It Up in Radiator Springs (USA) (Alt)-fanart.jpg</fanart>
+		<manual>./manuals/Cars - Rev It Up in Radiator Springs (USA) (Alt)-manual.pdf</manual>
+		<releasedate>20060101T000000</releasedate>
+		<developer>Buena Vista Games</developer>
+		<genre>Educational</genre>
+		<family>Cars</family>
+		<players>1-2</players>
+		<md5>9dddbaa4e8e8dcba92b07cd418603f1d</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T035805" />
+	</game>
+	<game id="151062">
+		<path>./No-Intro/Cars - Vollgas in Radiator Springs (Germany).bin</path>
+		<name>Cars - Vollgas in Radiator Springs</name>
+		<desc>After the Piston Cup, Lightning McQueen heads back to Radiator Springs to hang out with his new-found friends! Mater and his best buddy remember all the crazy things that happened the first time Lightning stumbled across that little town, and now you can join in with all the action!</desc>
+		<image>./images/Cars - Vollgas in Radiator Springs (Germany)-image.png</image>
+		<video>./videos/Cars - Vollgas in Radiator Springs (Germany)-video.mp4</video>
+		<marquee>./images/Cars - Vollgas in Radiator Springs (Germany)-marquee.png</marquee>
+		<thumbnail>./images/Cars - Vollgas in Radiator Springs (Germany)-thumb.png</thumbnail>
+		<fanart>./images/Cars - Vollgas in Radiator Springs (Germany)-fanart.jpg</fanart>
+		<manual>./manuals/Cars - Vollgas in Radiator Springs (Germany)-manual.pdf</manual>
+		<releasedate>20060101T000000</releasedate>
+		<developer>Buena Vista Games</developer>
+		<genre>Educational</genre>
+		<family>Cars</family>
+		<players>1-2</players>
+		<md5>5238ea9f16a7c41d78161825a3a5680b</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T035817" />
+	</game>
+	<game>
+		<path>./No-Intro/Cars 2 (USA) (V.Smile Motion).bin</path>
+		<name>Cars 2 (USA) (V.Smile Motion)</name>
+		<md5>1ed97198e1c12f68fee184e0cd80d370</md5>
+		<scrap name="ScreenScraper" date="20231109T035819" />
+	</game>
+	<game id="123626">
+		<path>./No-Intro/Cendrillon - Le reve enchante de Cendrillon (France).bin</path>
+		<name>Cendrillon - Le rêve enchanté de Cendrillon</name>
+		<desc>Enter the enchanted world of Cinderella, and help her become a true princess. Use your math, spelling, logic, and music skills to help make all of Cinderella's dreams come true!</desc>
+		<image>./images/Cendrillon - Le reve enchante de Cendrillon (France)-image.png</image>
+		<video>./videos/Cendrillon - Le reve enchante de Cendrillon (France)-video.mp4</video>
+		<marquee>./images/Cendrillon - Le reve enchante de Cendrillon (France)-marquee.png</marquee>
+		<thumbnail>./images/Cendrillon - Le reve enchante de Cendrillon (France)-thumb.png</thumbnail>
+		<fanart>./images/Cendrillon - Le reve enchante de Cendrillon (France)-fanart.jpg</fanart>
+		<manual>./manuals/Cendrillon - Le reve enchante de Cendrillon (France)-manual.pdf</manual>
+		<releasedate>20050101T000000</releasedate>
+		<developer>Disney Interactive</developer>
+		<publisher>VTech</publisher>
+		<genre>Educational</genre>
+		<players>1-2</players>
+		<md5>6927f9e0ab62153584cafe4c8fcd2a22</md5>
+		<lang>fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T035833" />
+	</game>
+	<game id="123626">
+		<path>./No-Intro/Cenerentola - I desideri magici di Cenerentola (Italy) (Rev 1).bin</path>
+		<name>Cenerentola - I desideri magici di Cenerentola</name>
+		<desc>Enter the enchanted world of Cinderella, and help her become a true princess. Use your math, spelling, logic, and music skills to help make all of Cinderella's dreams come true!</desc>
+		<image>./images/Cenerentola - I desideri magici di Cenerentola (Italy) (Rev 1)-image.png</image>
+		<video>./videos/Cenerentola - I desideri magici di Cenerentola (Italy) (Rev 1)-video.mp4</video>
+		<marquee>./images/Cenerentola - I desideri magici di Cenerentola (Italy) (Rev 1)-marquee.png</marquee>
+		<thumbnail>./images/Cenerentola - I desideri magici di Cenerentola (Italy) (Rev 1)-thumb.png</thumbnail>
+		<fanart>./images/Cenerentola - I desideri magici di Cenerentola (Italy) (Rev 1)-fanart.jpg</fanart>
+		<manual>./manuals/Cenerentola - I desideri magici di Cenerentola (Italy) (Rev 1)-manual.pdf</manual>
+		<releasedate>20050101T000000</releasedate>
+		<developer>Disney Interactive</developer>
+		<publisher>VTech</publisher>
+		<genre>Educational</genre>
+		<players>1-2</players>
+		<md5>a87c0855e054a0e79794a81c5d14bb60</md5>
+		<lang>it</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T035848" />
+	</game>
+	<game id="123626">
+		<path>./No-Intro/Cenerentola - I desideri magici di Cenerentola (Italy).bin</path>
+		<name>Cenerentola - I desideri magici di Cenerentola</name>
+		<desc>Enter the enchanted world of Cinderella, and help her become a true princess. Use your math, spelling, logic, and music skills to help make all of Cinderella's dreams come true!</desc>
+		<image>./images/Cenerentola - I desideri magici di Cenerentola (Italy)-image.png</image>
+		<video>./videos/Cenerentola - I desideri magici di Cenerentola (Italy)-video.mp4</video>
+		<marquee>./images/Cenerentola - I desideri magici di Cenerentola (Italy)-marquee.png</marquee>
+		<thumbnail>./images/Cenerentola - I desideri magici di Cenerentola (Italy)-thumb.png</thumbnail>
+		<fanart>./images/Cenerentola - I desideri magici di Cenerentola (Italy)-fanart.jpg</fanart>
+		<manual>./manuals/Cenerentola - I desideri magici di Cenerentola (Italy)-manual.pdf</manual>
+		<releasedate>20050101T000000</releasedate>
+		<developer>Disney Interactive</developer>
+		<publisher>VTech</publisher>
+		<genre>Educational</genre>
+		<players>1-2</players>
+		<md5>39a5189cac2cca44d16b94de4d1036cb</md5>
+		<lang>it</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T035904" />
+	</game>
+	<game id="123626">
+		<path>./No-Intro/Cinderella - Askepots magiske onsker (Denmark).bin</path>
+		<name>Cinderella - Cinderella's Magic Wishes</name>
+		<desc>Enter the enchanted world of Cinderella, and help her become a true princess. Use your math, spelling, logic, and music skills to help make all of Cinderella's dreams come true!</desc>
+		<image>./images/Cinderella - Askepots magiske onsker (Denmark)-image.png</image>
+		<video>./videos/Cinderella - Askepots magiske onsker (Denmark)-video.mp4</video>
+		<marquee>./images/Cinderella - Askepots magiske onsker (Denmark)-marquee.png</marquee>
+		<thumbnail>./images/Cinderella - Askepots magiske onsker (Denmark)-thumb.png</thumbnail>
+		<fanart>./images/Cinderella - Askepots magiske onsker (Denmark)-fanart.jpg</fanart>
+		<manual>./manuals/Cinderella - Askepots magiske onsker (Denmark)-manual.pdf</manual>
+		<releasedate>20050101T000000</releasedate>
+		<developer>Disney Interactive</developer>
+		<publisher>VTech</publisher>
+		<genre>Educational</genre>
+		<players>1-2</players>
+		<md5>3b39766986e30f1beffd27775fb86a54</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231109T035918" />
+	</game>
+	<game id="123626">
+		<path>./No-Intro/Cinderella - Askungens magiska oenskningar (Sweden).bin</path>
+		<name>Cinderella - Cinderella's Magic Wishes</name>
+		<desc>Enter the enchanted world of Cinderella, and help her become a true princess. Use your math, spelling, logic, and music skills to help make all of Cinderella's dreams come true!</desc>
+		<image>./images/Cinderella - Askungens magiska oenskningar (Sweden)-image.png</image>
+		<video>./videos/Cinderella - Askungens magiska oenskningar (Sweden)-video.mp4</video>
+		<marquee>./images/Cinderella - Askungens magiska oenskningar (Sweden)-marquee.png</marquee>
+		<thumbnail>./images/Cinderella - Askungens magiska oenskningar (Sweden)-thumb.png</thumbnail>
+		<fanart>./images/Cinderella - Askungens magiska oenskningar (Sweden)-fanart.jpg</fanart>
+		<manual>./manuals/Cinderella - Askungens magiska oenskningar (Sweden)-manual.pdf</manual>
+		<releasedate>20050101T000000</releasedate>
+		<developer>Disney Interactive</developer>
+		<publisher>VTech</publisher>
+		<genre>Educational</genre>
+		<players>1-2</players>
+		<md5>f852ffbb08320b4bb7aac58b2903dcfe</md5>
+		<lang>sw</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T035932" />
+	</game>
+	<game id="123626">
+		<path>./No-Intro/Cinderella - Cinderella's Magic Wishes (Europe) (En-GB).bin</path>
+		<name>Cinderella - Cinderella's Magic Wishes</name>
+		<desc>Enter the enchanted world of Cinderella, and help her become a true princess. Use your math, spelling, logic, and music skills to help make all of Cinderella's dreams come true!</desc>
+		<image>./images/Cinderella - Cinderella's Magic Wishes (Europe) (En-GB)-image.png</image>
+		<video>./videos/Cinderella - Cinderella's Magic Wishes (Europe) (En-GB)-video.mp4</video>
+		<marquee>./images/Cinderella - Cinderella's Magic Wishes (Europe) (En-GB)-marquee.png</marquee>
+		<thumbnail>./images/Cinderella - Cinderella's Magic Wishes (Europe) (En-GB)-thumb.png</thumbnail>
+		<fanart>./images/Cinderella - Cinderella's Magic Wishes (Europe) (En-GB)-fanart.jpg</fanart>
+		<manual>./manuals/Cinderella - Cinderella's Magic Wishes (Europe) (En-GB)-manual.pdf</manual>
+		<releasedate>20050101T000000</releasedate>
+		<developer>Disney Interactive</developer>
+		<publisher>VTech</publisher>
+		<genre>Educational</genre>
+		<players>1-2</players>
+		<md5>bc3e87e8b70b0abd59c58df8acb09fe0</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T035946" />
+	</game>
+	<game id="123626">
+		<path>./No-Intro/Cinderella - Cinderella's Magic Wishes (USA) (Rev 1).bin</path>
+		<name>Cinderella - Cinderella's Magic Wishes</name>
+		<desc>Enter the enchanted world of Cinderella, and help her become a true princess. Use your math, spelling, logic, and music skills to help make all of Cinderella's dreams come true!</desc>
+		<image>./images/Cinderella - Cinderella's Magic Wishes (USA) (Rev 1)-image.png</image>
+		<video>./videos/Cinderella - Cinderella's Magic Wishes (USA) (Rev 1)-video.mp4</video>
+		<marquee>./images/Cinderella - Cinderella's Magic Wishes (USA) (Rev 1)-marquee.png</marquee>
+		<thumbnail>./images/Cinderella - Cinderella's Magic Wishes (USA) (Rev 1)-thumb.png</thumbnail>
+		<fanart>./images/Cinderella - Cinderella's Magic Wishes (USA) (Rev 1)-fanart.jpg</fanart>
+		<manual>./manuals/Cinderella - Cinderella's Magic Wishes (USA) (Rev 1)-manual.pdf</manual>
+		<releasedate>20050101T000000</releasedate>
+		<developer>Disney Interactive</developer>
+		<publisher>VTech</publisher>
+		<genre>Educational</genre>
+		<players>1-2</players>
+		<md5>d54c38eb0495dc8376947d69239d8a4c</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T040000" />
+	</game>
+	<game id="123626">
+		<path>./No-Intro/Cinderella - Lernen im Maerchenland (Germany) (Rev 1).bin</path>
+		<name>Cinderella - Lernen im Maerchenland</name>
+		<desc>Enter the enchanted world of Cinderella, and help her become a true princess. Use your math, spelling, logic, and music skills to help make all of Cinderella's dreams come true!</desc>
+		<image>./images/Cinderella - Lernen im Maerchenland (Germany) (Rev 1)-image.png</image>
+		<video>./videos/Cinderella - Lernen im Maerchenland (Germany) (Rev 1)-video.mp4</video>
+		<marquee>./images/Cinderella - Lernen im Maerchenland (Germany) (Rev 1)-marquee.png</marquee>
+		<thumbnail>./images/Cinderella - Lernen im Maerchenland (Germany) (Rev 1)-thumb.png</thumbnail>
+		<fanart>./images/Cinderella - Lernen im Maerchenland (Germany) (Rev 1)-fanart.jpg</fanart>
+		<manual>./manuals/Cinderella - Lernen im Maerchenland (Germany) (Rev 1)-manual.pdf</manual>
+		<releasedate>20050101T000000</releasedate>
+		<developer>Disney Interactive</developer>
+		<publisher>VTech</publisher>
+		<genre>Educational</genre>
+		<players>1-2</players>
+		<md5>11292320bc0bc132cef9ba7f33c064d9</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T040014" />
+	</game>
+	<game id="123626">
+		<path>./No-Intro/Cinderella - Lernen im Maerchenland (Germany) (V.Smile Motion).bin</path>
+		<name>Cinderella - Lernen im Maerchenland</name>
+		<desc>Enter the enchanted world of Cinderella, and help her become a true princess. Use your math, spelling, logic, and music skills to help make all of Cinderella's dreams come true!</desc>
+		<image>./images/Cinderella - Lernen im Maerchenland (Germany) (V.Smile Motion)-image.png</image>
+		<video>./videos/Cinderella - Lernen im Maerchenland (Germany) (V.Smile Motion)-video.mp4</video>
+		<marquee>./images/Cinderella - Lernen im Maerchenland (Germany) (V.Smile Motion)-marquee.png</marquee>
+		<thumbnail>./images/Cinderella - Lernen im Maerchenland (Germany) (V.Smile Motion)-thumb.png</thumbnail>
+		<fanart>./images/Cinderella - Lernen im Maerchenland (Germany) (V.Smile Motion)-fanart.jpg</fanart>
+		<manual>./manuals/Cinderella - Lernen im Maerchenland (Germany) (V.Smile Motion)-manual.pdf</manual>
+		<releasedate>20050101T000000</releasedate>
+		<developer>Disney Interactive</developer>
+		<publisher>VTech</publisher>
+		<genre>Educational</genre>
+		<players>1-2</players>
+		<md5>e73ee87bd4ba8e5e27245d14f6cb79da</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T040029" />
+	</game>
+	<game id="123626">
+		<path>./No-Intro/Cinderella - Lernen im Maerchenland (Germany).bin</path>
+		<name>Cinderella - Lernen im Maerchenland</name>
+		<desc>Enter the enchanted world of Cinderella, and help her become a true princess. Use your math, spelling, logic, and music skills to help make all of Cinderella's dreams come true!</desc>
+		<image>./images/Cinderella - Lernen im Maerchenland (Germany)-image.png</image>
+		<video>./videos/Cinderella - Lernen im Maerchenland (Germany)-video.mp4</video>
+		<marquee>./images/Cinderella - Lernen im Maerchenland (Germany)-marquee.png</marquee>
+		<thumbnail>./images/Cinderella - Lernen im Maerchenland (Germany)-thumb.png</thumbnail>
+		<fanart>./images/Cinderella - Lernen im Maerchenland (Germany)-fanart.jpg</fanart>
+		<manual>./manuals/Cinderella - Lernen im Maerchenland (Germany)-manual.pdf</manual>
+		<releasedate>20050101T000000</releasedate>
+		<developer>Disney Interactive</developer>
+		<publisher>VTech</publisher>
+		<genre>Educational</genre>
+		<players>1-2</players>
+		<md5>e140e962b7558646ad56b0b534127a94</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T040043" />
+	</game>
+	<game id="102137">
+		<path>./No-Intro/Den lilla sjoejungfrun - Ariels majestaetiska resa! (Sweden).bin</path>
+		<name>The Little Mermaid - Ariel's Majestic Journey</name>
+		<image>./images/Den lilla sjoejungfrun - Ariels majestaetiska resa! (Sweden)-image.png</image>
+		<video>./videos/Den lilla sjoejungfrun - Ariels majestaetiska resa! (Sweden)-video.mp4</video>
+		<marquee>./images/Den lilla sjoejungfrun - Ariels majestaetiska resa! (Sweden)-marquee.png</marquee>
+		<thumbnail>./images/Den lilla sjoejungfrun - Ariels majestaetiska resa! (Sweden)-thumb.png</thumbnail>
+		<fanart>./images/Den lilla sjoejungfrun - Ariels majestaetiska resa! (Sweden)-fanart.jpg</fanart>
+		<manual>./manuals/Den lilla sjoejungfrun - Ariels majestaetiska resa! (Sweden)-manual.pdf</manual>
+		<releasedate>20040101T000000</releasedate>
+		<developer>Disney Interactive</developer>
+		<publisher>VTech</publisher>
+		<players>1-2</players>
+		<md5>35087851aae4a14fdf8da5fe5cce28df</md5>
+		<lang>sw</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T040055" />
+	</game>
+	<game id="102137">
+		<path>./No-Intro/Den lille havfrue - Ariels majestaetiske rejse! (Denmark).bin</path>
+		<name>The Little Mermaid - Ariel's Majestic Journey</name>
+		<image>./images/Den lille havfrue - Ariels majestaetiske rejse! (Denmark)-image.png</image>
+		<video>./videos/Den lille havfrue - Ariels majestaetiske rejse! (Denmark)-video.mp4</video>
+		<marquee>./images/Den lille havfrue - Ariels majestaetiske rejse! (Denmark)-marquee.png</marquee>
+		<thumbnail>./images/Den lille havfrue - Ariels majestaetiske rejse! (Denmark)-thumb.png</thumbnail>
+		<fanart>./images/Den lille havfrue - Ariels majestaetiske rejse! (Denmark)-fanart.jpg</fanart>
+		<manual>./manuals/Den lille havfrue - Ariels majestaetiske rejse! (Denmark)-manual.pdf</manual>
+		<releasedate>20040101T000000</releasedate>
+		<developer>Disney Interactive</developer>
+		<publisher>VTech</publisher>
+		<players>1-2</players>
+		<md5>cfd9dbc6d77a9e3ed679fb70dc3435f7</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231109T040107" />
+	</game>
+	<game id="102136">
+		<path>./No-Intro/Disney Aladdin - Wonders of the World (United Kingdom).bin</path>
+		<name>Aladdin - Aladdin's Wonders of the World</name>
+		<desc>Join Aladdin on an exciting adventure through the Agrabah market, the Cave of Wonder and the Sultan's Palace, as he embarks on a journey to defeat Jafar and find Princess Jasmine. Along the way, Aladdin will need to solve equations, find keys and passwords to open doors, ride a flying carpet and perform many other challenging tasks. To defeat Jafar, kids must master six challenging games in the Learning Adventure mode.</desc>
+		<image>./images/Disney Aladdin - Wonders of the World (United Kingdom)-image.png</image>
+		<video>./videos/Disney Aladdin - Wonders of the World (United Kingdom)-video.mp4</video>
+		<marquee>./images/Disney Aladdin - Wonders of the World (United Kingdom)-marquee.png</marquee>
+		<thumbnail>./images/Disney Aladdin - Wonders of the World (United Kingdom)-thumb.png</thumbnail>
+		<fanart>./images/Disney Aladdin - Wonders of the World (United Kingdom)-fanart.jpg</fanart>
+		<manual>./manuals/Disney Aladdin - Wonders of the World (United Kingdom)-manual.pdf</manual>
+		<releasedate>20050506T000000</releasedate>
+		<developer>Disney Interactive</developer>
+		<publisher>VTech</publisher>
+		<genre>Educational</genre>
+		<family>Aladdin</family>
+		<players>1-2</players>
+		<md5>0a7d091325933afaae4e3de99deb43ff</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231109T040126" />
+	</game>
+	<game>
+		<path>./No-Intro/Disney Fairies - TinkerBell (USA).bin</path>
+		<name>Disney Fairies - TinkerBell (USA)</name>
+		<md5>f67c654fdec3d66d65030733830dad05</md5>
+		<scrap name="ScreenScraper" date="20231109T040122" />
+	</game>
+	<game>
+		<path>./No-Intro/Disney's Aladdin - Aladdin's Wonders of the World (USA).bin</path>
+		<name>Disney's Aladdin - Aladdin's Wonders of the World (USA)</name>
+		<md5>fb92950da5f771d8f9a082c6c41d4a0c</md5>
+		<scrap name="ScreenScraper" date="20231109T040124" />
+	</game>
+	<game>
+		<path>./No-Intro/Disney's The Lion King - Simba's Big Adventure (USA) (Rev 1).bin</path>
+		<name>Disney's The Lion King - Simba's Big Adventure (USA) (Rev 1)</name>
+		<md5>9f5ff09e8135b22da67a63f46a2eee3c</md5>
+		<scrap name="ScreenScraper" date="20231109T040125" />
+	</game>
+	<game>
+		<path>./No-Intro/Disney's The Little Mermaid - Ariel's Majestic Journey (USA) (Rev 1) (Alt).bin</path>
+		<name>Disney's The Little Mermaid - Ariel's Majestic Journey (USA) (Rev 1) (Alt)</name>
+		<md5>e494d920bbfb605b02b72b6f036419ce</md5>
+		<scrap name="ScreenScraper" date="20231109T040127" />
+	</game>
+	<game>
+		<path>./No-Intro/Disney's The Little Mermaid - Ariel's Majestic Journey (USA) (Rev 1).bin</path>
+		<name>Disney's The Little Mermaid - Ariel's Majestic Journey (USA) (Rev 1)</name>
+		<md5>51cb0ac2f89f67bca5a43036779448d0</md5>
+		<scrap name="ScreenScraper" date="20231109T040129" />
+	</game>
+	<game id="123627">
+		<path>./No-Intro/Dora - Doras Reparatur-Abenteuer (Germany) (Rev 1).bin</path>
+		<name>Dora - Doras Reparatur-Abenteuer</name>
+		<desc>Oh no! Tico's cool new Air-Car-Boat-Mobile is broken! Help Dora and Boots find all the parts and get them back to Tico before Swiper the fox can swipe them. Use your color, shape, number and logic parts to help Dora and Boots on their adventure.</desc>
+		<image>./images/Dora - Doras Reparatur-Abenteuer (Germany) (Rev 1)-image.png</image>
+		<video>./videos/Dora - Doras Reparatur-Abenteuer (Germany) (Rev 1)-video.mp4</video>
+		<marquee>./images/Dora - Doras Reparatur-Abenteuer (Germany) (Rev 1)-marquee.png</marquee>
+		<thumbnail>./images/Dora - Doras Reparatur-Abenteuer (Germany) (Rev 1)-thumb.png</thumbnail>
+		<fanart>./images/Dora - Doras Reparatur-Abenteuer (Germany) (Rev 1)-fanart.jpg</fanart>
+		<manual>./manuals/Dora - Doras Reparatur-Abenteuer (Germany) (Rev 1)-manual.pdf</manual>
+		<releasedate>20050101T000000</releasedate>
+		<developer>Nick Jr.</developer>
+		<publisher>VTech</publisher>
+		<family>Dora the Explorer</family>
+		<players>1-2</players>
+		<md5>9e004a4fcb8fe097e290bfa200da781c</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T040145" />
+	</game>
+	<game id="123627">
+		<path>./No-Intro/Dora - Doras Reparatur-Abenteuer (Germany) (V.Smile Motion).bin</path>
+		<name>Dora - Doras Reparatur-Abenteuer</name>
+		<desc>Oh no! Tico's cool new Air-Car-Boat-Mobile is broken! Help Dora and Boots find all the parts and get them back to Tico before Swiper the fox can swipe them. Use your color, shape, number and logic parts to help Dora and Boots on their adventure.</desc>
+		<image>./images/Dora - Doras Reparatur-Abenteuer (Germany) (V.Smile Motion)-image.png</image>
+		<video>./videos/Dora - Doras Reparatur-Abenteuer (Germany) (V.Smile Motion)-video.mp4</video>
+		<marquee>./images/Dora - Doras Reparatur-Abenteuer (Germany) (V.Smile Motion)-marquee.png</marquee>
+		<thumbnail>./images/Dora - Doras Reparatur-Abenteuer (Germany) (V.Smile Motion)-thumb.png</thumbnail>
+		<fanart>./images/Dora - Doras Reparatur-Abenteuer (Germany) (V.Smile Motion)-fanart.jpg</fanart>
+		<manual>./manuals/Dora - Doras Reparatur-Abenteuer (Germany) (V.Smile Motion)-manual.pdf</manual>
+		<releasedate>20050101T000000</releasedate>
+		<developer>Nick Jr.</developer>
+		<publisher>VTech</publisher>
+		<family>Dora the Explorer</family>
+		<players>1-2</players>
+		<md5>9fae9f92ee2ce314e906ef4148299d8a</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T040200" />
+	</game>
+	<game id="123627">
+		<path>./No-Intro/Dora l'exploratrice - Les aventures de Dora Apprentie Mecano (France).bin</path>
+		<name>Dora l'Exploratrice - Les aventures de Dora Apprentie Mécano</name>
+		<desc>Oh no! Tico's cool new Air-Car-Boat-Mobile is broken! Help Dora and Boots find all the parts and get them back to Tico before Swiper the fox can swipe them. Use your color, shape, number and logic parts to help Dora and Boots on their adventure.</desc>
+		<image>./images/Dora l'exploratrice - Les aventures de Dora Apprentie Mecano (France)-image.png</image>
+		<video>./videos/Dora l'exploratrice - Les aventures de Dora Apprentie Mecano (France)-video.mp4</video>
+		<marquee>./images/Dora l'exploratrice - Les aventures de Dora Apprentie Mecano (France)-marquee.png</marquee>
+		<thumbnail>./images/Dora l'exploratrice - Les aventures de Dora Apprentie Mecano (France)-thumb.png</thumbnail>
+		<fanart>./images/Dora l'exploratrice - Les aventures de Dora Apprentie Mecano (France)-fanart.jpg</fanart>
+		<manual>./manuals/Dora l'exploratrice - Les aventures de Dora Apprentie Mecano (France)-manual.pdf</manual>
+		<releasedate>20050101T000000</releasedate>
+		<developer>Nick Jr.</developer>
+		<publisher>VTech</publisher>
+		<family>Dora the Explorer</family>
+		<players>1-2</players>
+		<md5>ead3e28fd2a2dbfa0aaa4bddfccd3ed6</md5>
+		<lang>fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T040215" />
+	</game>
+	<game id="123627">
+		<path>./No-Intro/Dora the Explorer - Dora's Fix-it Adventure (USA) (Rev 1).bin</path>
+		<name>Dora the Explorer - Dora's Fix-It Adventure</name>
+		<desc>Oh no! Tico's cool new Air-Car-Boat-Mobile is broken! Help Dora and Boots find all the parts and get them back to Tico before Swiper the fox can swipe them. Use your color, shape, number and logic parts to help Dora and Boots on their adventure.</desc>
+		<image>./images/Dora the Explorer - Dora's Fix-it Adventure (USA) (Rev 1)-image.png</image>
+		<video>./videos/Dora the Explorer - Dora's Fix-it Adventure (USA) (Rev 1)-video.mp4</video>
+		<marquee>./images/Dora the Explorer - Dora's Fix-it Adventure (USA) (Rev 1)-marquee.png</marquee>
+		<thumbnail>./images/Dora the Explorer - Dora's Fix-it Adventure (USA) (Rev 1)-thumb.png</thumbnail>
+		<fanart>./images/Dora the Explorer - Dora's Fix-it Adventure (USA) (Rev 1)-fanart.jpg</fanart>
+		<manual>./manuals/Dora the Explorer - Dora's Fix-it Adventure (USA) (Rev 1)-manual.pdf</manual>
+		<releasedate>20050101T000000</releasedate>
+		<developer>Nick Jr.</developer>
+		<publisher>VTech</publisher>
+		<family>Dora the Explorer</family>
+		<players>1-2</players>
+		<md5>a4c724a6d3de3f6fda17101a6ee5b284</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T040229" />
+	</game>
+	<game id="123627">
+		<path>./No-Intro/Dora's Fix-it Adventure (United Kingdom).bin</path>
+		<name>Dora the Explorer - Dora's Fix-It Adventure</name>
+		<desc>Oh no! Tico's cool new Air-Car-Boat-Mobile is broken! Help Dora and Boots find all the parts and get them back to Tico before Swiper the fox can swipe them. Use your color, shape, number and logic parts to help Dora and Boots on their adventure.</desc>
+		<image>./images/Dora's Fix-it Adventure (United Kingdom)-image.png</image>
+		<video>./videos/Dora's Fix-it Adventure (United Kingdom)-video.mp4</video>
+		<marquee>./images/Dora's Fix-it Adventure (United Kingdom)-marquee.png</marquee>
+		<thumbnail>./images/Dora's Fix-it Adventure (United Kingdom)-thumb.png</thumbnail>
+		<fanart>./images/Dora's Fix-it Adventure (United Kingdom)-fanart.jpg</fanart>
+		<manual>./manuals/Dora's Fix-it Adventure (United Kingdom)-manual.pdf</manual>
+		<releasedate>20050101T000000</releasedate>
+		<developer>Nick Jr.</developer>
+		<publisher>VTech</publisher>
+		<family>Dora the Explorer</family>
+		<players>1-2</players>
+		<md5>d7f68de4e831a4d4ef8b0ae49b665f8f</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231109T040243" />
+	</game>
+	<game id="151064">
+		<path>./No-Intro/Elmos grosses Abenteuer (Germany).bin</path>
+		<name>Elmos Welt - Elmos großes Abenteuer</name>
+		<desc>Travel with Elmo on an exciting journey and help Mister Noodle with his silly antics along the way! As kids seek adventure through creative environments with Elmo, they engage in exciting games and activities that teach key preschool skills like letters, numbers, shapes and more. Eight clever learning adventures take Elmo through a farm, a circus, a music studio and a magical underwater world. In order to make big discoveries in these clever environments, kids must ace lessons in letters, colors, shapes, comparisons, numbers and animal identification. Four shorter arcade-style games, focused on letters, counting, patterns and following directions, keep preschoolers on target with their learning.</desc>
+		<image>./images/Elmos grosses Abenteuer (Germany)-image.png</image>
+		<video>./videos/Elmos grosses Abenteuer (Germany)-video.mp4</video>
+		<marquee>./images/Elmos grosses Abenteuer (Germany)-marquee.png</marquee>
+		<thumbnail>./images/Elmos grosses Abenteuer (Germany)-thumb.png</thumbnail>
+		<fanart>./images/Elmos grosses Abenteuer (Germany)-fanart.jpg</fanart>
+		<manual>./manuals/Elmos grosses Abenteuer (Germany)-manual.pdf</manual>
+		<developer>Sesame Workshop</developer>
+		<publisher>VTech</publisher>
+		<players>1</players>
+		<md5>ad25143343832b0b3582275e097bce2d</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T040257" />
+	</game>
+	<game id="151065">
+		<path>./No-Intro/Entdecke die Welt von Rotkaeppchen (Germany).bin</path>
+		<name>Entdecke die Welt von Rotkäppchen</name>
+		<desc>Help Little Red Riding Hood find her way safely to Grandma's. 12 fantastic activities teach letters, words, spelling and logic skills.</desc>
+		<image>./images/Entdecke die Welt von Rotkaeppchen (Germany)-image.png</image>
+		<video>./videos/Entdecke die Welt von Rotkaeppchen (Germany)-video.mp4</video>
+		<thumbnail>./images/Entdecke die Welt von Rotkaeppchen (Germany)-thumb.png</thumbnail>
+		<fanart>./images/Entdecke die Welt von Rotkaeppchen (Germany)-fanart.jpg</fanart>
+		<manual>./manuals/Entdecke die Welt von Rotkaeppchen (Germany)-manual.pdf</manual>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<players>1-2</players>
+		<md5>d9279f38d1d50e59046ed89170512c0b</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T040309" />
+	</game>
+	<game id="151064">
+		<path>./No-Intro/Ernies &amp; Berts Fantastisches Abenteuer (Germany).bin</path>
+		<name>Elmos Welt - Elmos großes Abenteuer</name>
+		<desc>Travel with Elmo on an exciting journey and help Mister Noodle with his silly antics along the way! As kids seek adventure through creative environments with Elmo, they engage in exciting games and activities that teach key preschool skills like letters, numbers, shapes and more. Eight clever learning adventures take Elmo through a farm, a circus, a music studio and a magical underwater world. In order to make big discoveries in these clever environments, kids must ace lessons in letters, colors, shapes, comparisons, numbers and animal identification. Four shorter arcade-style games, focused on letters, counting, patterns and following directions, keep preschoolers on target with their learning.</desc>
+		<image>./images/Ernies &amp; Berts Fantastisches Abenteuer (Germany)-image.png</image>
+		<video>./videos/Ernies &amp; Berts Fantastisches Abenteuer (Germany)-video.mp4</video>
+		<marquee>./images/Ernies &amp; Berts Fantastisches Abenteuer (Germany)-marquee.png</marquee>
+		<thumbnail>./images/Ernies &amp; Berts Fantastisches Abenteuer (Germany)-thumb.png</thumbnail>
+		<fanart>./images/Ernies &amp; Berts Fantastisches Abenteuer (Germany)-fanart.jpg</fanart>
+		<manual>./manuals/Ernies &amp; Berts Fantastisches Abenteuer (Germany)-manual.pdf</manual>
+		<developer>Sesame Workshop</developer>
+		<publisher>VTech</publisher>
+		<players>1</players>
+		<md5>d93520389970deb083410248ec3d35e8</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T040323" />
+	</game>
+	<game id="151051">
+		<path>./No-Intro/Finding Nemo - De wonderwereld van Nemo (Netherlands).bin</path>
+		<name>Finding Nemo - De wonderwereld van Nemo</name>
+		<desc>Nemo is safely back home and is very proud of his father's journey to find him. Nemo wants to be brave just like his Dad, so he sets off on a new adventure of his own. Come explore the ocean with Nemo!</desc>
+		<image>./images/Finding Nemo - De wonderwereld van Nemo (Netherlands)-image.png</image>
+		<video>./videos/Finding Nemo - De wonderwereld van Nemo (Netherlands)-video.mp4</video>
+		<marquee>./images/Finding Nemo - De wonderwereld van Nemo (Netherlands)-marquee.png</marquee>
+		<thumbnail>./images/Finding Nemo - De wonderwereld van Nemo (Netherlands)-thumb.png</thumbnail>
+		<fanart>./images/Finding Nemo - De wonderwereld van Nemo (Netherlands)-fanart.jpg</fanart>
+		<manual>./manuals/Finding Nemo - De wonderwereld van Nemo (Netherlands)-manual.pdf</manual>
+		<releasedate>20050101T000000</releasedate>
+		<developer>Disney Interactive</developer>
+		<publisher>VTech</publisher>
+		<players>1-2</players>
+		<md5>e17a8b123a1eb62798cbc6626f7cb38f</md5>
+		<lang>nl</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T040338" />
+	</game>
+	<game id="153143">
+		<path>./No-Intro/Football Club (Italy).bin</path>
+		<name>Football Club</name>
+		<desc>With V.Smile Soccer Challenge, you can travel to eight different countries to collect team players, play world-class soccer, and shop in the sport shop all while learning!</desc>
+		<image>./images/Football Club (Italy)-image.png</image>
+		<video>./videos/Football Club (Italy)-video.mp4</video>
+		<fanart>./images/Football Club (Italy)-fanart.jpg</fanart>
+		<manual>./manuals/Football Club (Italy)-manual.pdf</manual>
+		<releasedate>20061120T000000</releasedate>
+		<publisher>VTech</publisher>
+		<genre>Educational</genre>
+		<players>1-2</players>
+		<md5>9590ef6d622dcec5be9f047dd43f6753</md5>
+		<lang>it</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T040349" />
+	</game>
+	<game id="102139">
+		<path>./No-Intro/Freds Zahlen Rallye (Germany).bin</path>
+		<name>Freds Zahlen Rallye</name>
+		<desc>Poor little farmer Nick - his sheep have broken out of their pen and runaway! To find them, he must venture out into the great, wide world for thefirst  time.  Luckily,  his  friend  Truckles, a sassy truck, is there to lend ahand. Come along with Nick and Truckles on their exciting adventure.</desc>
+		<image>./images/Freds Zahlen Rallye (Germany)-image.png</image>
+		<video>./videos/Freds Zahlen Rallye (Germany)-video.mp4</video>
+		<marquee>./images/Freds Zahlen Rallye (Germany)-marquee.png</marquee>
+		<thumbnail>./images/Freds Zahlen Rallye (Germany)-thumb.png</thumbnail>
+		<manual>./manuals/Freds Zahlen Rallye (Germany)-manual.pdf</manual>
+		<releasedate>20040101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Educational</genre>
+		<players>1-2</players>
+		<md5>17e468ddb35f271ee7f413b62243d002</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T040400" />
+	</game>
+	<game id="153143">
+		<path>./No-Intro/Fussball Schule (Germany).bin</path>
+		<name>Fußball Schule</name>
+		<desc>With V.Smile Soccer Challenge, you can travel to eight different countries to collect team players, play world-class soccer, and shop in the sport shop all while learning!</desc>
+		<image>./images/Fussball Schule (Germany)-image.png</image>
+		<video>./videos/Fussball Schule (Germany)-video.mp4</video>
+		<fanart>./images/Fussball Schule (Germany)-fanart.jpg</fanart>
+		<manual>./manuals/Fussball Schule (Germany)-manual.pdf</manual>
+		<releasedate>20061120T000000</releasedate>
+		<publisher>VTech</publisher>
+		<genre>Educational</genre>
+		<players>1-2</players>
+		<md5>60bcb471bb9e623a4c01789de5f53428</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T040410" />
+	</game>
+	<game id="356740">
+		<path>./No-Intro/Go Diego Go! - Save the Animal Families! (United Kingdom).bin</path>
+		<name>Go Diego Go ! Save the Animal Families !</name>
+		<desc>A rainstorm has separated some baby animals from their homes. Diego must go into the rainforest, save the animals and bring them home to their families. Are you ready to race to the rescue? ¡Al rescate, amigos!</desc>
+		<image>./images/Go Diego Go! - Save the Animal Families! (United Kingdom)-image.png</image>
+		<marquee>./images/Go Diego Go! - Save the Animal Families! (United Kingdom)-marquee.png</marquee>
+		<thumbnail>./images/Go Diego Go! - Save the Animal Families! (United Kingdom)-thumb.png</thumbnail>
+		<fanart>./images/Go Diego Go! - Save the Animal Families! (United Kingdom)-fanart.jpg</fanart>
+		<manual>./manuals/Go Diego Go! - Save the Animal Families! (United Kingdom)-manual.pdf</manual>
+		<md5>922bade5c50d1712571b68b73215ee24</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231109T040423" />
+	</game>
+	<game id="151064">
+		<path>./No-Intro/Grandes decouvertes d'Elmo, Les (France).bin</path>
+		<name>Le Monde d'Elmo - Les Grandes Découvertes D'Elmo</name>
+		<desc>Travel with Elmo on an exciting journey and help Mister Noodle with his silly antics along the way! As kids seek adventure through creative environments with Elmo, they engage in exciting games and activities that teach key preschool skills like letters, numbers, shapes and more. Eight clever learning adventures take Elmo through a farm, a circus, a music studio and a magical underwater world. In order to make big discoveries in these clever environments, kids must ace lessons in letters, colors, shapes, comparisons, numbers and animal identification. Four shorter arcade-style games, focused on letters, counting, patterns and following directions, keep preschoolers on target with their learning.</desc>
+		<image>./images/Grandes decouvertes d'Elmo, Les (France)-image.png</image>
+		<video>./videos/Grandes decouvertes d'Elmo, Les (France)-video.mp4</video>
+		<marquee>./images/Grandes decouvertes d'Elmo, Les (France)-marquee.png</marquee>
+		<thumbnail>./images/Grandes decouvertes d'Elmo, Les (France)-thumb.png</thumbnail>
+		<fanart>./images/Grandes decouvertes d'Elmo, Les (France)-fanart.jpg</fanart>
+		<manual>./manuals/Grandes decouvertes d'Elmo, Les (France)-manual.pdf</manual>
+		<developer>Sesame Workshop</developer>
+		<publisher>VTech</publisher>
+		<players>1</players>
+		<md5>3c5064c05008700db8d790f1ef28e935</md5>
+		<lang>fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T040437" />
+	</game>
+	<game id="153144">
+		<path>./No-Intro/Handy Manny (USA).bin</path>
+		<name>Handy Manny</name>
+		<desc>Manny and his tools are busy. Help them fix the cinema billboard, Joe's construction site and fix the trophy.</desc>
+		<image>./images/Handy Manny (USA)-image.png</image>
+		<video>./videos/Handy Manny (USA)-video.mp4</video>
+		<marquee>./images/Handy Manny (USA)-marquee.png</marquee>
+		<thumbnail>./images/Handy Manny (USA)-thumb.png</thumbnail>
+		<fanart>./images/Handy Manny (USA)-fanart.jpg</fanart>
+		<manual>./manuals/Handy Manny (USA)-manual.pdf</manual>
+		<developer>Disney Interactive</developer>
+		<publisher>VTech</publisher>
+		<genre>Educational</genre>
+		<players>1-2</players>
+		<md5>5f8dcfddb5d3925bb7ffb54be74b0ba2</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T040450" />
+	</game>
+	<game id="123628">
+		<path>./No-Intro/Kleine Einsteins (Germany) (Rev 3).bin</path>
+		<name>Kleine Einsteins</name>
+		<desc>Today is the Glass Slipper Ball at the Schonbrunn Palace in Vienna, Austria! At the ball, there is a glass slipper that can only be won by a great dancer. June is a great dancer! The team makes it their mission to help June get to the palace to win the glass slipper. Join the Little Einsteins to help them complete their mission.</desc>
+		<image>./images/Kleine Einsteins (Germany) (Rev 3)-image.png</image>
+		<video>./videos/Kleine Einsteins (Germany) (Rev 3)-video.mp4</video>
+		<marquee>./images/Kleine Einsteins (Germany) (Rev 3)-marquee.png</marquee>
+		<thumbnail>./images/Kleine Einsteins (Germany) (Rev 3)-thumb.png</thumbnail>
+		<fanart>./images/Kleine Einsteins (Germany) (Rev 3)-fanart.jpg</fanart>
+		<manual>./manuals/Kleine Einsteins (Germany) (Rev 3)-manual.pdf</manual>
+		<developer>Disney Interactive</developer>
+		<publisher>VTech</publisher>
+		<players>1-2</players>
+		<md5>a0a4e6a2e8e8fac077a4d448d2e84507</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T040502" />
+	</game>
+	<game id="123628">
+		<path>./No-Intro/Kleine Einsteins (Germany) (V.Smile Motion).bin</path>
+		<name>Kleine Einsteins</name>
+		<desc>Today is the Glass Slipper Ball at the Schonbrunn Palace in Vienna, Austria! At the ball, there is a glass slipper that can only be won by a great dancer. June is a great dancer! The team makes it their mission to help June get to the palace to win the glass slipper. Join the Little Einsteins to help them complete their mission.</desc>
+		<image>./images/Kleine Einsteins (Germany) (V.Smile Motion)-image.png</image>
+		<video>./videos/Kleine Einsteins (Germany) (V.Smile Motion)-video.mp4</video>
+		<marquee>./images/Kleine Einsteins (Germany) (V.Smile Motion)-marquee.png</marquee>
+		<thumbnail>./images/Kleine Einsteins (Germany) (V.Smile Motion)-thumb.png</thumbnail>
+		<fanart>./images/Kleine Einsteins (Germany) (V.Smile Motion)-fanart.jpg</fanart>
+		<manual>./manuals/Kleine Einsteins (Germany) (V.Smile Motion)-manual.pdf</manual>
+		<developer>Disney Interactive</developer>
+		<publisher>VTech</publisher>
+		<players>1-2</players>
+		<md5>a3da2ef132d53d59bce6a8051bd08cd7</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T040517" />
+	</game>
+	<game id="123629">
+		<path>./No-Intro/Kung Fu Panda - Der Weg des Panda (Germany) (V.Smile Motion).bin</path>
+		<name>Kung Fu Panda - Der Weg des Panda</name>
+		<desc>Welcome to the Valley of Peace, home to Po...the panda. Po is desperate to see his Kung Fu heroes, the Furious Five compete to decide who will become the new defender of the land, the Dragon Warrior.</desc>
+		<image>./images/Kung Fu Panda - Der Weg des Panda (Germany) (V.Smile Motion)-image.png</image>
+		<video>./videos/Kung Fu Panda - Der Weg des Panda (Germany) (V.Smile Motion)-video.mp4</video>
+		<marquee>./images/Kung Fu Panda - Der Weg des Panda (Germany) (V.Smile Motion)-marquee.png</marquee>
+		<thumbnail>./images/Kung Fu Panda - Der Weg des Panda (Germany) (V.Smile Motion)-thumb.png</thumbnail>
+		<fanart>./images/Kung Fu Panda - Der Weg des Panda (Germany) (V.Smile Motion)-fanart.jpg</fanart>
+		<manual>./manuals/Kung Fu Panda - Der Weg des Panda (Germany) (V.Smile Motion)-manual.pdf</manual>
+		<releasedate>20080101T000000</releasedate>
+		<developer>DreamWorks</developer>
+		<publisher>VTech</publisher>
+		<genre>Educational</genre>
+		<family>Kung Fu Panda</family>
+		<players>1</players>
+		<md5>6563ef02cd54fe76a1fc57766e7b73a3</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T040532" />
+	</game>
+	<game id="123629">
+		<path>./No-Intro/Kung Fu Panda - Path of the Panda (USA, Europe).bin</path>
+		<name>Kung Fu Panda - Path of the Panda</name>
+		<desc>Welcome to the Valley of Peace, home to Po...the panda. Po is desperate to see his Kung Fu heroes, the Furious Five compete to decide who will become the new defender of the land, the Dragon Warrior.</desc>
+		<image>./images/Kung Fu Panda - Path of the Panda (USA, Europe)-image.png</image>
+		<video>./videos/Kung Fu Panda - Path of the Panda (USA, Europe)-video.mp4</video>
+		<marquee>./images/Kung Fu Panda - Path of the Panda (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Kung Fu Panda - Path of the Panda (USA, Europe)-thumb.png</thumbnail>
+		<fanart>./images/Kung Fu Panda - Path of the Panda (USA, Europe)-fanart.jpg</fanart>
+		<manual>./manuals/Kung Fu Panda - Path of the Panda (USA, Europe)-manual.pdf</manual>
+		<releasedate>20080718T000000</releasedate>
+		<developer>DreamWorks</developer>
+		<publisher>VTech</publisher>
+		<genre>Educational</genre>
+		<family>Kung Fu Panda</family>
+		<players>1</players>
+		<md5>1439f62f45d222d130a5a5362acc45f2</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T040543" />
+	</game>
+	<game id="102139">
+		<path>./No-Intro/Learnin' Wheels (USA).bin</path>
+		<name>Learnin' Wheels</name>
+		<desc>Poor little farmer Nick - his sheep have broken out of their pen and runaway! To find them, he must venture out into the great, wide world for thefirst  time.  Luckily,  his  friend  Truckles, a sassy truck, is there to lend ahand. Come along with Nick and Truckles on their exciting adventure.</desc>
+		<image>./images/Learnin' Wheels (USA)-image.png</image>
+		<video>./videos/Learnin' Wheels (USA)-video.mp4</video>
+		<marquee>./images/Learnin' Wheels (USA)-marquee.png</marquee>
+		<manual>./manuals/Learnin' Wheels (USA)-manual.pdf</manual>
+		<releasedate>20040101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Educational</genre>
+		<players>1-2</players>
+		<md5>166c231accf6e47e95c91b21f0fa8126</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T040551" />
+	</game>
+	<game id="151050">
+		<path>./No-Intro/Lejonkungen - Simbas stora aeventyr (Sweden).bin</path>
+		<name>The Lion King - Simba's Big Adventure</name>
+		<desc>In Simba's Big Adventure, play along with Simba, the curious and energetic lion cub, as he experiences the most glorious moments and toughest challenges of his life. As you explore the Pride Lands, you will see many exciting things, while learning fun school skills such as numbers, counting, colors, patterns, and much more!</desc>
+		<image>./images/Lejonkungen - Simbas stora aeventyr (Sweden)-image.png</image>
+		<video>./videos/Lejonkungen - Simbas stora aeventyr (Sweden)-video.mp4</video>
+		<marquee>./images/Lejonkungen - Simbas stora aeventyr (Sweden)-marquee.png</marquee>
+		<thumbnail>./images/Lejonkungen - Simbas stora aeventyr (Sweden)-thumb.png</thumbnail>
+		<fanart>./images/Lejonkungen - Simbas stora aeventyr (Sweden)-fanart.jpg</fanart>
+		<manual>./manuals/Lejonkungen - Simbas stora aeventyr (Sweden)-manual.pdf</manual>
+		<releasedate>20040101T000000</releasedate>
+		<developer>Disney Interactive</developer>
+		<publisher>VTech</publisher>
+		<players>1-2</players>
+		<md5>8537dcba1c06eb8ff4665d276b9ac314</md5>
+		<lang>sw</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T040605" />
+	</game>
+	<game id="356750">
+		<path>./No-Intro/Lil' Bratz - Friends, Fashion and Fun (USA).bin</path>
+		<name>Lil' Bratz - Friends, Fashion And Fun</name>
+		<desc>The Lil' Bratz are the greatest group of friends ever! When Talia steps out as the star of a fashion show, Zada, Ailani and Nazalia promise to cheer her on. Use your fashion, matching, math and logical thinking skills to make sure the Lil' Bratz make it to the show on time!</desc>
+		<fanart>./images/Lil' Bratz - Friends, Fashion and Fun (USA)-fanart.jpg</fanart>
+		<family>Bratz</family>
+		<md5>84cff15fd1f2e8392ed78685b2b4ed6c</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T040609" />
+	</game>
+	<game id="151050">
+		<path>./No-Intro/Lovernes Konge - Simbas store eventyr (Denmark).bin</path>
+		<name>The Lion King - Simba's Big Adventure</name>
+		<desc>In Simba's Big Adventure, play along with Simba, the curious and energetic lion cub, as he experiences the most glorious moments and toughest challenges of his life. As you explore the Pride Lands, you will see many exciting things, while learning fun school skills such as numbers, counting, colors, patterns, and much more!</desc>
+		<image>./images/Lovernes Konge - Simbas store eventyr (Denmark)-image.png</image>
+		<video>./videos/Lovernes Konge - Simbas store eventyr (Denmark)-video.mp4</video>
+		<marquee>./images/Lovernes Konge - Simbas store eventyr (Denmark)-marquee.png</marquee>
+		<thumbnail>./images/Lovernes Konge - Simbas store eventyr (Denmark)-thumb.png</thumbnail>
+		<fanart>./images/Lovernes Konge - Simbas store eventyr (Denmark)-fanart.jpg</fanart>
+		<manual>./manuals/Lovernes Konge - Simbas store eventyr (Denmark)-manual.pdf</manual>
+		<releasedate>20040101T000000</releasedate>
+		<developer>Disney Interactive</developer>
+		<publisher>VTech</publisher>
+		<players>1-2</players>
+		<md5>ef048f4645f5ae842454e87f4eed53e6</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231109T040618" />
+	</game>
+	<game id="153146">
+		<path>./No-Intro/Mein erster Bauernhof (Germany) (V.Smile Baby).bin</path>
+		<name>Mein erster Bauernhof</name>
+		<desc>Join Farmer Fred and his animals for a fun-filled day on the farm! He'll teach your baby about mommy and baby animals, fruits and vegetables, colors, and he'll even play a dress up game! The Day on the Farm Baby Smartridge also introduces your baby to animals with baby sign language!</desc>
+		<marquee>./images/Mein erster Bauernhof (Germany) (V.Smile Baby)-marquee.png</marquee>
+		<manual>./manuals/Mein erster Bauernhof (Germany) (V.Smile Baby)-manual.pdf</manual>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<md5>6de80be065e53c9e3c8927c5591b1f7f</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T040623" />
+	</game>
+	<game id="153145">
+		<path>./No-Intro/Mein erster Hund (Germany).bin</path>
+		<name>Mein erster Hund</name>
+		<image>./images/Mein erster Hund (Germany)-image.png</image>
+		<video>./videos/Mein erster Hund (Germany)-video.mp4</video>
+		<fanart>./images/Mein erster Hund (Germany)-fanart.jpg</fanart>
+		<md5>073c30ae755ae4f803286b6c8c65acfb</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T040630" />
+	</game>
+	<game id="153147">
+		<path>./No-Intro/Meine kleinen Tierfreunde (Germany) (V.Smile Baby).bin</path>
+		<name>Meine Kleinen Tierfreunde</name>
+		<desc>A gang of lovable little animals will drive home lessons in shapes, colors, numbers, animals, and music while engaging your little one in exciting play. The Learn &amp; Discover Home Baby Smartridge™ also introduces your baby to first words with baby sign language!</desc>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Educational</genre>
+		<md5>712d6042fe127a1dd2f80d887b6c0634</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T040633" />
+	</game>
+	<game id="153144">
+		<path>./No-Intro/Meister Manny's Werkzeugkiste (Germany).bin</path>
+		<name>Meister Manny's Werkzeugkiste</name>
+		<desc>Manny and his tools are busy. Help them fix the cinema billboard, Joe's construction site and fix the trophy.</desc>
+		<image>./images/Meister Manny's Werkzeugkiste (Germany)-image.png</image>
+		<video>./videos/Meister Manny's Werkzeugkiste (Germany)-video.mp4</video>
+		<marquee>./images/Meister Manny's Werkzeugkiste (Germany)-marquee.png</marquee>
+		<thumbnail>./images/Meister Manny's Werkzeugkiste (Germany)-thumb.png</thumbnail>
+		<fanart>./images/Meister Manny's Werkzeugkiste (Germany)-fanart.jpg</fanart>
+		<manual>./manuals/Meister Manny's Werkzeugkiste (Germany)-manual.pdf</manual>
+		<developer>Disney Interactive</developer>
+		<publisher>VTech</publisher>
+		<genre>Educational</genre>
+		<players>1-2</players>
+		<md5>d00d016aee95d1b70d6d2aef3f0c324a</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T040645" />
+	</game>
+	<game>
+		<path>./No-Intro/Melodilous, Les - Les explorateurs vikings (France).bin</path>
+		<name>Melodilous, Les - Les explorateurs vikings (France)</name>
+		<md5>12a56604177967faa9d58fdeabbf29f4</md5>
+		<scrap name="ScreenScraper" date="20231109T040647" />
+	</game>
+	<game id="151183">
+		<path>./No-Intro/Mickey Mouse Clubhouse (Netherlands) (Rev 3).bin</path>
+		<name>Mickey Mouse Clubhouse</name>
+		<desc>Pluto has lost his ball! You'll have to go through Mickey's garden to find it, with the help of your friends. This is an opportunity for the player to become familiar with numbers, shapes, letters, and logical problem solving. Assisted by Mickey's friends, the young player will be greatly helped in his quest!</desc>
+		<image>./images/Mickey Mouse Clubhouse (Netherlands) (Rev 3)-image.png</image>
+		<video>./videos/Mickey Mouse Clubhouse (Netherlands) (Rev 3)-video.mp4</video>
+		<marquee>./images/Mickey Mouse Clubhouse (Netherlands) (Rev 3)-marquee.png</marquee>
+		<thumbnail>./images/Mickey Mouse Clubhouse (Netherlands) (Rev 3)-thumb.png</thumbnail>
+		<fanart>./images/Mickey Mouse Clubhouse (Netherlands) (Rev 3)-fanart.jpg</fanart>
+		<developer>Disney Interactive</developer>
+		<publisher>VTech</publisher>
+		<genre>Educational</genre>
+		<family>Mickey Mouse</family>
+		<players>1-2</players>
+		<md5>a194e5f64738a276c655376a05ef8fed</md5>
+		<lang>nl</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T040659" />
+	</game>
+	<game id="151183">
+		<path>./No-Intro/Mickey Mouse Clubhouse (Sweden).bin</path>
+		<name>Mickey Mouse Clubhouse</name>
+		<desc>Pluto has lost his ball! You'll have to go through Mickey's garden to find it, with the help of your friends. This is an opportunity for the player to become familiar with numbers, shapes, letters, and logical problem solving. Assisted by Mickey's friends, the young player will be greatly helped in his quest!</desc>
+		<image>./images/Mickey Mouse Clubhouse (Sweden)-image.png</image>
+		<video>./videos/Mickey Mouse Clubhouse (Sweden)-video.mp4</video>
+		<marquee>./images/Mickey Mouse Clubhouse (Sweden)-marquee.png</marquee>
+		<thumbnail>./images/Mickey Mouse Clubhouse (Sweden)-thumb.png</thumbnail>
+		<fanart>./images/Mickey Mouse Clubhouse (Sweden)-fanart.jpg</fanart>
+		<developer>Disney Interactive</developer>
+		<publisher>VTech</publisher>
+		<genre>Educational</genre>
+		<family>Mickey Mouse</family>
+		<players>1-2</players>
+		<md5>d486114aa3e9c720e44bdb05b51012b4</md5>
+		<lang>sw</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T040712" />
+	</game>
+	<game id="151182">
+		<path>./No-Intro/Micky - Mickys magisches Abenteuer (Germany).bin</path>
+		<name>Micky - Mickys magisches Abenteuer</name>
+		<desc>One day, Mickey shows his magic to Minnie. Mickey tries his magic on Pluto's bone and makes it float up into the air. Suddenly, the bone is out of control and flies away! Pluto chases the bone and disappears. "Oh no!" says Mickey. "Where did Pluto go? I think he may have run off to... the castle! Help!" Can you help Mickey find Pluto? Hurry!</desc>
+		<image>./images/Micky - Mickys magisches Abenteuer (Germany)-image.png</image>
+		<video>./videos/Micky - Mickys magisches Abenteuer (Germany)-video.mp4</video>
+		<marquee>./images/Micky - Mickys magisches Abenteuer (Germany)-marquee.png</marquee>
+		<thumbnail>./images/Micky - Mickys magisches Abenteuer (Germany)-thumb.png</thumbnail>
+		<fanart>./images/Micky - Mickys magisches Abenteuer (Germany)-fanart.jpg</fanart>
+		<manual>./manuals/Micky - Mickys magisches Abenteuer (Germany)-manual.pdf</manual>
+		<releasedate>20050101T000000</releasedate>
+		<developer>Disney Interactive</developer>
+		<publisher>VTech</publisher>
+		<genre>Educational</genre>
+		<family>Mickey Mouse</family>
+		<players>1-2</players>
+		<md5>439f4f02f71c2fe855f6c8d97b4ac9b0</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T040727" />
+	</game>
+	<game id="151183">
+		<path>./No-Intro/Micky Maus Wunderhaus (Germany).bin</path>
+		<name>Micky Maus Wunderhaus</name>
+		<desc>Pluto has lost his ball! You'll have to go through Mickey's garden to find it, with the help of your friends. This is an opportunity for the player to become familiar with numbers, shapes, letters, and logical problem solving. Assisted by Mickey's friends, the young player will be greatly helped in his quest!</desc>
+		<image>./images/Micky Maus Wunderhaus (Germany)-image.png</image>
+		<video>./videos/Micky Maus Wunderhaus (Germany)-video.mp4</video>
+		<marquee>./images/Micky Maus Wunderhaus (Germany)-marquee.png</marquee>
+		<thumbnail>./images/Micky Maus Wunderhaus (Germany)-thumb.png</thumbnail>
+		<fanart>./images/Micky Maus Wunderhaus (Germany)-fanart.jpg</fanart>
+		<developer>Disney Interactive</developer>
+		<publisher>VTech</publisher>
+		<genre>Educational</genre>
+		<family>Mickey Mouse</family>
+		<players>1-2</players>
+		<md5>efa043f112ecedb4539815bd3136c7be</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T040739" />
+	</game>
+	<game id="153145">
+		<path>./No-Intro/Min hundvalp (Sweden).bin</path>
+		<name>My Pet Puppy</name>
+		<image>./images/Min hundvalp (Sweden)-image.png</image>
+		<video>./videos/Min hundvalp (Sweden)-video.mp4</video>
+		<fanart>./images/Min hundvalp (Sweden)-fanart.jpg</fanart>
+		<md5>a29a4ac14de8745c176f25e23615bad1</md5>
+		<lang>sw</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T040746" />
+	</game>
+	<game id="151163">
+		<path>./No-Intro/Monsters vs. Aliens (Germany).bin</path>
+		<name>Monsters VS Aliens</name>
+		<desc>Somewhere in a remote and unknown part of the United States, a group of monsters spend their days in captivity. This curious group is formed by: the woman who measures 15 meters, Genormica; the smart but bug-headed Dr. Cucaracha; the male half ape, half fish, Missing Link; the gelatinous and indestructible mass, B.O.B. and the 100-meter-tall larva called Insectosaurus. When Galaxhar decides to invade Earth, these monsters will be the only hope for the planet.</desc>
+		<image>./images/Monsters vs. Aliens (Germany)-image.png</image>
+		<video>./videos/Monsters vs. Aliens (Germany)-video.mp4</video>
+		<marquee>./images/Monsters vs. Aliens (Germany)-marquee.png</marquee>
+		<fanart>./images/Monsters vs. Aliens (Germany)-fanart.jpg</fanart>
+		<releasedate>20090101T000000</releasedate>
+		<developer>DreamWorks</developer>
+		<publisher>VTech</publisher>
+		<genre>Educational</genre>
+		<players>1</players>
+		<md5>89f2fc4c3d73642e4e63c14af5a724ee</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T040756" />
+	</game>
+	<game id="151163">
+		<path>./No-Intro/Monsters vs. Aliens (USA) (V.Smile Motion).bin</path>
+		<name>Monsters VS Aliens</name>
+		<desc>Somewhere in a remote and unknown part of the United States, a group of monsters spend their days in captivity. This curious group is formed by: the woman who measures 15 meters, Genormica; the smart but bug-headed Dr. Cucaracha; the male half ape, half fish, Missing Link; the gelatinous and indestructible mass, B.O.B. and the 100-meter-tall larva called Insectosaurus. When Galaxhar decides to invade Earth, these monsters will be the only hope for the planet.</desc>
+		<image>./images/Monsters vs. Aliens (USA) (V.Smile Motion)-image.png</image>
+		<video>./videos/Monsters vs. Aliens (USA) (V.Smile Motion)-video.mp4</video>
+		<marquee>./images/Monsters vs. Aliens (USA) (V.Smile Motion)-marquee.png</marquee>
+		<fanart>./images/Monsters vs. Aliens (USA) (V.Smile Motion)-fanart.jpg</fanart>
+		<releasedate>20090101T000000</releasedate>
+		<developer>DreamWorks</developer>
+		<publisher>VTech</publisher>
+		<genre>Educational</genre>
+		<players>1</players>
+		<md5>674b5d89b3a5359ed2ed794e50b43c93</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T040806" />
+	</game>
+	<game id="151182">
+		<path>./No-Intro/Musse Pigg - Musses magiska aeventyr (Sweden).bin</path>
+		<name>Mickey Mouse - Mickey's Magical Adventure</name>
+		<desc>One day, Mickey shows his magic to Minnie. Mickey tries his magic on Pluto's bone and makes it float up into the air. Suddenly, the bone is out of control and flies away! Pluto chases the bone and disappears. "Oh no!" says Mickey. "Where did Pluto go? I think he may have run off to... the castle! Help!" Can you help Mickey find Pluto? Hurry!</desc>
+		<image>./images/Musse Pigg - Musses magiska aeventyr (Sweden)-image.png</image>
+		<video>./videos/Musse Pigg - Musses magiska aeventyr (Sweden)-video.mp4</video>
+		<marquee>./images/Musse Pigg - Musses magiska aeventyr (Sweden)-marquee.png</marquee>
+		<thumbnail>./images/Musse Pigg - Musses magiska aeventyr (Sweden)-thumb.png</thumbnail>
+		<fanart>./images/Musse Pigg - Musses magiska aeventyr (Sweden)-fanart.jpg</fanart>
+		<manual>./manuals/Musse Pigg - Musses magiska aeventyr (Sweden)-manual.pdf</manual>
+		<releasedate>20050101T000000</releasedate>
+		<developer>Disney Interactive</developer>
+		<publisher>VTech</publisher>
+		<genre>Educational</genre>
+		<family>Mickey Mouse</family>
+		<players>1-2</players>
+		<md5>c2848036ee62b81832352a0cdf7295ca</md5>
+		<lang>sw</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T040820" />
+	</game>
+	<game id="123663">
+		<path>./No-Intro/My Friends Tigger &amp; Pooh - Die Honigjagd (Germany).bin</path>
+		<name>Winnie the Pooh - Die Honigjagd</name>
+		<desc>Pooh is on a mission! Help Pooh collect as many honey pots as possible while visiting his favorite spots on his way to the party!</desc>
+		<video>./videos/My Friends Tigger &amp; Pooh - Die Honigjagd (Germany)-video.mp4</video>
+		<developer>Disney Interactive</developer>
+		<publisher>VTech</publisher>
+		<family>Winnie the Pooh</family>
+		<players>1-2</players>
+		<md5>fcab8838fc0c4544e663b3af9face439</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T040824" />
+	</game>
+	<game id="123663">
+		<path>./No-Intro/Nalle Puh - Honungsjakten (Sweden).bin</path>
+		<name>Winnie the Pooh - The Honey Hunt</name>
+		<desc>Pooh is on a mission! Help Pooh collect as many honey pots as possible while visiting his favorite spots on his way to the party!</desc>
+		<video>./videos/Nalle Puh - Honungsjakten (Sweden)-video.mp4</video>
+		<developer>Disney Interactive</developer>
+		<publisher>VTech</publisher>
+		<family>Winnie the Pooh</family>
+		<players>1-2</players>
+		<md5>45c7fe8e21d8ccd262fa599994ed336d</md5>
+		<lang>sw</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T040828" />
+	</game>
+	<game id="123663">
+		<path>./No-Intro/Nalle Puhs aeventyr i Sjumilaskogen (Sweden) (V.Smile Baby).bin</path>
+		<name>Winnie the Pooh - The Honey Hunt</name>
+		<desc>Pooh is on a mission! Help Pooh collect as many honey pots as possible while visiting his favorite spots on his way to the party!</desc>
+		<video>./videos/Nalle Puhs aeventyr i Sjumilaskogen (Sweden) (V.Smile Baby)-video.mp4</video>
+		<developer>Disney Interactive</developer>
+		<publisher>VTech</publisher>
+		<family>Winnie the Pooh</family>
+		<players>1-2</players>
+		<md5>62bff1f7c9c2fbfc0c41317fb2602aab</md5>
+		<lang>sw</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T040832" />
+	</game>
+	<game>
+		<path>./No-Intro/NASCAR Academy - Race Car Superstar (USA) (V.Smile Motion).bin</path>
+		<name>NASCAR Academy - Race Car Superstar (USA) (V.Smile Motion)</name>
+		<md5>c6dc9c267d1b9bae1f044e922665f2d4</md5>
+		<scrap name="ScreenScraper" date="20231109T040834" />
+	</game>
+	<game id="151063">
+		<path>./No-Intro/Noddy - Detective for a Day (Europe) (En-GB).bin</path>
+		<name>Noddy - Detective for a Day</name>
+		<desc>It is a sunny day in Toy Town but Noddy has discovered some things have mysteriously gone missing. You can help Noddy decide where to look and your decision will  effect the path of his story. As he explores the town, Noddy finds that some of his friends have problems to be solved. You can get involved by completing fun and educational games as he becomes Detective for a Day!</desc>
+		<image>./images/Noddy - Detective for a Day (Europe) (En-GB)-image.png</image>
+		<video>./videos/Noddy - Detective for a Day (Europe) (En-GB)-video.mp4</video>
+		<marquee>./images/Noddy - Detective for a Day (Europe) (En-GB)-marquee.png</marquee>
+		<fanart>./images/Noddy - Detective for a Day (Europe) (En-GB)-fanart.jpg</fanart>
+		<manual>./manuals/Noddy - Detective for a Day (Europe) (En-GB)-manual.pdf</manual>
+		<developer>Chorion company</developer>
+		<publisher>VTech</publisher>
+		<genre>Educational</genre>
+		<players>1</players>
+		<md5>8cdcda9419488e4eeb18b4e4c994baea</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T040845" />
+	</game>
+	<game id="151063">
+		<path>./No-Intro/Noddy - Detektiv fuer einen Tag (Germany) (Rev 1).bin</path>
+		<name>Noddy - Detektiv fuer einen Tag</name>
+		<desc>It is a sunny day in Toy Town but Noddy has discovered some things have mysteriously gone missing. You can help Noddy decide where to look and your decision will  effect the path of his story. As he explores the town, Noddy finds that some of his friends have problems to be solved. You can get involved by completing fun and educational games as he becomes Detective for a Day!</desc>
+		<image>./images/Noddy - Detektiv fuer einen Tag (Germany) (Rev 1)-image.png</image>
+		<video>./videos/Noddy - Detektiv fuer einen Tag (Germany) (Rev 1)-video.mp4</video>
+		<marquee>./images/Noddy - Detektiv fuer einen Tag (Germany) (Rev 1)-marquee.png</marquee>
+		<fanart>./images/Noddy - Detektiv fuer einen Tag (Germany) (Rev 1)-fanart.jpg</fanart>
+		<manual>./manuals/Noddy - Detektiv fuer einen Tag (Germany) (Rev 1)-manual.pdf</manual>
+		<developer>Chorion company</developer>
+		<publisher>VTech</publisher>
+		<genre>Educational</genre>
+		<players>1</players>
+		<md5>be83c2f7921fb9630b86c7cb780282f7</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T040857" />
+	</game>
+	<game id="151052">
+		<path>./No-Intro/Oben (Germany).bin</path>
+		<name>Oben</name>
+		<desc>Carl Fredricksen always dreamed of a great adventure. He finally decides to make his dream come true when he ties thousands of balloons to his house and flies away to South America. He soon discovers he's not alone as an 8-year-old Wilderness Explorer named Russell accidentally stowed away on the trip. When they arrive, they discover a land stranger than anything they could've imagined where the biggest danger comes from Carl's childhood hero, explorer Charles F. Muntz. When Muntz captures Russell, Carl will risk everything to rescue him and bring them both safely home.</desc>
+		<image>./images/Oben (Germany)-image.png</image>
+		<video>./videos/Oben (Germany)-video.mp4</video>
+		<marquee>./images/Oben (Germany)-marquee.png</marquee>
+		<thumbnail>./images/Oben (Germany)-thumb.png</thumbnail>
+		<fanart>./images/Oben (Germany)-fanart.jpg</fanart>
+		<manual>./manuals/Oben (Germany)-manual.pdf</manual>
+		<developer>Disney Interactive</developer>
+		<publisher>VTech</publisher>
+		<players>1-2</players>
+		<md5>041060915c462b633c97d2892ab02010</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T040909" />
+	</game>
+	<game id="250981">
+		<path>./No-Intro/Osos Amorosos - Una Leccion de Amor (Spain).bin</path>
+		<name>Care Bears - A Lesson In Caring</name>
+		<desc>One day, the Care Bears receive a letter from a curious child who asks them, "What does caring mean?" The Care Bears want to teach this child, and all children, the true meaning of caring. Select your favorite Care Bear and learn an important lesson in caring by completing fun and educational games. Learn important school skills along the way, and understand what friendship and love are truly about.</desc>
+		<image>./images/Osos Amorosos - Una Leccion de Amor (Spain)-image.png</image>
+		<video>./videos/Osos Amorosos - Una Leccion de Amor (Spain)-video.mp4</video>
+		<marquee>./images/Osos Amorosos - Una Leccion de Amor (Spain)-marquee.png</marquee>
+		<thumbnail>./images/Osos Amorosos - Una Leccion de Amor (Spain)-thumb.png</thumbnail>
+		<fanart>./images/Osos Amorosos - Una Leccion de Amor (Spain)-fanart.jpg</fanart>
+		<manual>./manuals/Osos Amorosos - Una Leccion de Amor (Spain)-manual.pdf</manual>
+		<genre>Educational</genre>
+		<players>1</players>
+		<md5>f30d98d9da1174b328bd365d85bbe0b8</md5>
+		<lang>es</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T040921" />
+	</game>
+	<game id="151063">
+		<path>./No-Intro/Oui-Oui - Detective d'un jour (France).bin</path>
+		<name>Oui-Oui - Détective d'un jour</name>
+		<desc>It is a sunny day in Toy Town but Noddy has discovered some things have mysteriously gone missing. You can help Noddy decide where to look and your decision will  effect the path of his story. As he explores the town, Noddy finds that some of his friends have problems to be solved. You can get involved by completing fun and educational games as he becomes Detective for a Day!</desc>
+		<image>./images/Oui-Oui - Detective d'un jour (France)-image.png</image>
+		<video>./videos/Oui-Oui - Detective d'un jour (France)-video.mp4</video>
+		<marquee>./images/Oui-Oui - Detective d'un jour (France)-marquee.png</marquee>
+		<thumbnail>./images/Oui-Oui - Detective d'un jour (France)-thumb.png</thumbnail>
+		<fanart>./images/Oui-Oui - Detective d'un jour (France)-fanart.jpg</fanart>
+		<manual>./manuals/Oui-Oui - Detective d'un jour (France)-manual.pdf</manual>
+		<developer>Chorion company</developer>
+		<publisher>VTech</publisher>
+		<genre>Educational</genre>
+		<players>1</players>
+		<md5>d35841a2519f188e4cba1201ee772e27</md5>
+		<lang>fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T040935" />
+	</game>
+	<game id="123663">
+		<path>./No-Intro/Peter Plys - Honningjagten (Denmark).bin</path>
+		<name>Winnie the Pooh - The Honey Hunt</name>
+		<desc>Pooh is on a mission! Help Pooh collect as many honey pots as possible while visiting his favorite spots on his way to the party!</desc>
+		<video>./videos/Peter Plys - Honningjagten (Denmark)-video.mp4</video>
+		<developer>Disney Interactive</developer>
+		<publisher>VTech</publisher>
+		<family>Winnie the Pooh</family>
+		<players>1-2</players>
+		<md5>21744fe61fe5113ebe1d890d32a236e5</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231109T040940" />
+	</game>
+	<game>
+		<path>./No-Intro/Petite Sirene, La - Ariel devient une princesse (France).bin</path>
+		<name>Petite Sirene, La - Ariel devient une princesse (France)</name>
+		<md5>b845e786ee715da3fc0179f0837318ba</md5>
+		<scrap name="ScreenScraper" date="20231109T040941" />
+	</game>
+	<game>
+		<path>./No-Intro/Pooh's Hundred Acre Wood Adventure (USA) (V.Smile Baby).bin</path>
+		<name>Pooh's Hundred Acre Wood Adventure (USA) (V.Smile Baby)</name>
+		<md5>2aed2aba031b5ad26ad55f05a668bccb</md5>
+		<scrap name="ScreenScraper" date="20231109T040943" />
+	</game>
+	<game id="102140">
+		<path>./No-Intro/Ratatouille - Le nuove Ricette di Remy (Italy).bin</path>
+		<name>Ratatouille - Remy's New Recipes</name>
+		<desc>Gusteau's restaurant is closed, but Remy's new restaurant, La Ratatouille, will  open  soon.  Join  Remy  as  he  seeks  inspiration  and  ingredients  for his  own  dishes.  Along  the  way,  you'll  learn  directions,  numbers,  food categories, spelling and more. Are you ready for an adventure with Remy? Let's go!</desc>
+		<image>./images/Ratatouille - Le nuove Ricette di Remy (Italy)-image.png</image>
+		<video>./videos/Ratatouille - Le nuove Ricette di Remy (Italy)-video.mp4</video>
+		<marquee>./images/Ratatouille - Le nuove Ricette di Remy (Italy)-marquee.png</marquee>
+		<fanart>./images/Ratatouille - Le nuove Ricette di Remy (Italy)-fanart.jpg</fanart>
+		<manual>./manuals/Ratatouille - Le nuove Ricette di Remy (Italy)-manual.pdf</manual>
+		<releasedate>20070101T000000</releasedate>
+		<developer>Disney Pixar</developer>
+		<publisher>VTech</publisher>
+		<genre>Educational</genre>
+		<players>1-2</players>
+		<md5>e695bd1a6b527d4781ace44c9bde7917</md5>
+		<lang>it</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T040956" />
+	</game>
+	<game id="102140">
+		<path>./No-Intro/Ratatouille - Remy's New Recipes (USA).bin</path>
+		<name>Ratatouille - Remy's New Recipes</name>
+		<desc>Gusteau's restaurant is closed, but Remy's new restaurant, La Ratatouille, will  open  soon.  Join  Remy  as  he  seeks  inspiration  and  ingredients  for his  own  dishes.  Along  the  way,  you'll  learn  directions,  numbers,  food categories, spelling and more. Are you ready for an adventure with Remy? Let's go!</desc>
+		<image>./images/Ratatouille - Remy's New Recipes (USA)-image.png</image>
+		<video>./videos/Ratatouille - Remy's New Recipes (USA)-video.mp4</video>
+		<marquee>./images/Ratatouille - Remy's New Recipes (USA)-marquee.png</marquee>
+		<fanart>./images/Ratatouille - Remy's New Recipes (USA)-fanart.jpg</fanart>
+		<manual>./manuals/Ratatouille - Remy's New Recipes (USA)-manual.pdf</manual>
+		<releasedate>20070101T000000</releasedate>
+		<developer>Disney Pixar</developer>
+		<publisher>VTech</publisher>
+		<genre>Educational</genre>
+		<players>1-2</players>
+		<md5>f54134ab67e9a88f83afacdc31bba86a</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T041008" />
+	</game>
+	<game id="102140">
+		<path>./No-Intro/Ratatouille - Remys neue Rezepte (Germany).bin</path>
+		<name>Ratatouille - Remys neue Rezepte</name>
+		<desc>Gusteau's restaurant is closed, but Remy's new restaurant, La Ratatouille, will  open  soon.  Join  Remy  as  he  seeks  inspiration  and  ingredients  for his  own  dishes.  Along  the  way,  you'll  learn  directions,  numbers,  food categories, spelling and more. Are you ready for an adventure with Remy? Let's go!</desc>
+		<image>./images/Ratatouille - Remys neue Rezepte (Germany)-image.png</image>
+		<video>./videos/Ratatouille - Remys neue Rezepte (Germany)-video.mp4</video>
+		<marquee>./images/Ratatouille - Remys neue Rezepte (Germany)-marquee.png</marquee>
+		<thumbnail>./images/Ratatouille - Remys neue Rezepte (Germany)-thumb.png</thumbnail>
+		<fanart>./images/Ratatouille - Remys neue Rezepte (Germany)-fanart.jpg</fanart>
+		<manual>./manuals/Ratatouille - Remys neue Rezepte (Germany)-manual.pdf</manual>
+		<releasedate>20070101T000000</releasedate>
+		<developer>Disney Pixar</developer>
+		<publisher>VTech</publisher>
+		<genre>Educational</genre>
+		<players>1-2</players>
+		<md5>fc382e2cc8fb18a0592df13116d8c59f</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T041022" />
+	</game>
+	<game id="151050">
+		<path>./No-Intro/Re Leone, Il - La Grande Avventura di Simba (Italy).bin</path>
+		<name>Il Re Leone - La Grande Avventura di Simba</name>
+		<desc>In Simba's Big Adventure, play along with Simba, the curious and energetic lion cub, as he experiences the most glorious moments and toughest challenges of his life. As you explore the Pride Lands, you will see many exciting things, while learning fun school skills such as numbers, counting, colors, patterns, and much more!</desc>
+		<image>./images/Re Leone, Il - La Grande Avventura di Simba (Italy)-image.png</image>
+		<video>./videos/Re Leone, Il - La Grande Avventura di Simba (Italy)-video.mp4</video>
+		<marquee>./images/Re Leone, Il - La Grande Avventura di Simba (Italy)-marquee.png</marquee>
+		<thumbnail>./images/Re Leone, Il - La Grande Avventura di Simba (Italy)-thumb.png</thumbnail>
+		<fanart>./images/Re Leone, Il - La Grande Avventura di Simba (Italy)-fanart.jpg</fanart>
+		<manual>./manuals/Re Leone, Il - La Grande Avventura di Simba (Italy)-manual.pdf</manual>
+		<releasedate>20040101T000000</releasedate>
+		<developer>Disney Interactive</developer>
+		<publisher>VTech</publisher>
+		<players>1-2</players>
+		<md5>93b777cc5a77a9f2c851bde6b1ea98e3</md5>
+		<lang>it</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T041037" />
+	</game>
+	<game id="151050">
+		<path>./No-Intro/Roi Lion, Le - Simba decouvre la jungle (France).bin</path>
+		<name>Le Roi Lion - Simba Découvre La Jungle</name>
+		<desc>In Simba's Big Adventure, play along with Simba, the curious and energetic lion cub, as he experiences the most glorious moments and toughest challenges of his life. As you explore the Pride Lands, you will see many exciting things, while learning fun school skills such as numbers, counting, colors, patterns, and much more!</desc>
+		<image>./images/Roi Lion, Le - Simba decouvre la jungle (France)-image.png</image>
+		<video>./videos/Roi Lion, Le - Simba decouvre la jungle (France)-video.mp4</video>
+		<marquee>./images/Roi Lion, Le - Simba decouvre la jungle (France)-marquee.png</marquee>
+		<thumbnail>./images/Roi Lion, Le - Simba decouvre la jungle (France)-thumb.png</thumbnail>
+		<fanart>./images/Roi Lion, Le - Simba decouvre la jungle (France)-fanart.jpg</fanart>
+		<manual>./manuals/Roi Lion, Le - Simba decouvre la jungle (France)-manual.pdf</manual>
+		<releasedate>20040101T000000</releasedate>
+		<developer>Disney Interactive</developer>
+		<publisher>VTech</publisher>
+		<players>1-2</players>
+		<md5>a7eb4d32cafef102ca2838a9412f3003</md5>
+		<lang>fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T041051" />
+	</game>
+	<game id="151056">
+		<path>./No-Intro/Scooby-Doo - Panique a Funland (France).bin</path>
+		<name>Scooby-Doo - Panique à Funland</name>
+		<desc>Strange  and  spooky  things  are  going  on  at  the  Funland  AmusementPark! But when Scooby-Doo and the gang visit, they find that all theghosts are just a bunch of phony pictures made by some projectors.Now it's up to you and Scooby-Doo to find all the projectors and turnthem off, so Funland can be fun again! Test your courage and smarts inthis  exciting  adventure,  and  learn  fun  school  skills  such  as  spelling,vocabulary, numbers, and problem solving.</desc>
+		<image>./images/Scooby-Doo - Panique a Funland (France)-image.png</image>
+		<video>./videos/Scooby-Doo - Panique a Funland (France)-video.mp4</video>
+		<marquee>./images/Scooby-Doo - Panique a Funland (France)-marquee.png</marquee>
+		<thumbnail>./images/Scooby-Doo - Panique a Funland (France)-thumb.png</thumbnail>
+		<fanart>./images/Scooby-Doo - Panique a Funland (France)-fanart.jpg</fanart>
+		<manual>./manuals/Scooby-Doo - Panique a Funland (France)-manual.pdf</manual>
+		<developer>Warner Bros. Interactive</developer>
+		<publisher>VTech</publisher>
+		<family>Scooby-doo</family>
+		<players>1</players>
+		<md5>e44007c0486617f980f75bc911a1baa6</md5>
+		<lang>fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T041105" />
+	</game>
+	<game id="151056">
+		<path>./No-Intro/Scooby-Doo! - Avventura a Funland (Italy).bin</path>
+		<name>Scooby-Doo! - Avventura a Funland</name>
+		<desc>Strange  and  spooky  things  are  going  on  at  the  Funland  AmusementPark! But when Scooby-Doo and the gang visit, they find that all theghosts are just a bunch of phony pictures made by some projectors.Now it's up to you and Scooby-Doo to find all the projectors and turnthem off, so Funland can be fun again! Test your courage and smarts inthis  exciting  adventure,  and  learn  fun  school  skills  such  as  spelling,vocabulary, numbers, and problem solving.</desc>
+		<image>./images/Scooby-Doo! - Avventura a Funland (Italy)-image.png</image>
+		<video>./videos/Scooby-Doo! - Avventura a Funland (Italy)-video.mp4</video>
+		<marquee>./images/Scooby-Doo! - Avventura a Funland (Italy)-marquee.png</marquee>
+		<thumbnail>./images/Scooby-Doo! - Avventura a Funland (Italy)-thumb.png</thumbnail>
+		<fanart>./images/Scooby-Doo! - Avventura a Funland (Italy)-fanart.jpg</fanart>
+		<manual>./manuals/Scooby-Doo! - Avventura a Funland (Italy)-manual.pdf</manual>
+		<developer>Warner Bros. Interactive</developer>
+		<publisher>VTech</publisher>
+		<family>Scooby-doo</family>
+		<players>1</players>
+		<md5>2c0bd69e375bffc2f69bd59d045b1c93</md5>
+		<lang>it</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T041118" />
+	</game>
+	<game id="151056">
+		<path>./No-Intro/Scooby-Doo! - Funland Frenzy (Europe) (En-GB) (Rev 1).bin</path>
+		<name>Scooby-Doo! - Funland Frenzy</name>
+		<desc>Strange  and  spooky  things  are  going  on  at  the  Funland  AmusementPark! But when Scooby-Doo and the gang visit, they find that all theghosts are just a bunch of phony pictures made by some projectors.Now it's up to you and Scooby-Doo to find all the projectors and turnthem off, so Funland can be fun again! Test your courage and smarts inthis  exciting  adventure,  and  learn  fun  school  skills  such  as  spelling,vocabulary, numbers, and problem solving.</desc>
+		<image>./images/Scooby-Doo! - Funland Frenzy (Europe) (En-GB) (Rev 1)-image.png</image>
+		<video>./videos/Scooby-Doo! - Funland Frenzy (Europe) (En-GB) (Rev 1)-video.mp4</video>
+		<marquee>./images/Scooby-Doo! - Funland Frenzy (Europe) (En-GB) (Rev 1)-marquee.png</marquee>
+		<thumbnail>./images/Scooby-Doo! - Funland Frenzy (Europe) (En-GB) (Rev 1)-thumb.png</thumbnail>
+		<fanart>./images/Scooby-Doo! - Funland Frenzy (Europe) (En-GB) (Rev 1)-fanart.jpg</fanart>
+		<manual>./manuals/Scooby-Doo! - Funland Frenzy (Europe) (En-GB) (Rev 1)-manual.pdf</manual>
+		<developer>Warner Bros. Interactive</developer>
+		<publisher>VTech</publisher>
+		<family>Scooby-doo</family>
+		<players>1</players>
+		<md5>f766b617897077f533e8c92f8561256d</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T041132" />
+	</game>
+	<game id="151056">
+		<path>./No-Intro/Scooby-Doo! - Funland Frenzy (USA) (Rev 3).bin</path>
+		<name>Scooby-Doo! - Funland Frenzy</name>
+		<desc>Strange  and  spooky  things  are  going  on  at  the  Funland  AmusementPark! But when Scooby-Doo and the gang visit, they find that all theghosts are just a bunch of phony pictures made by some projectors.Now it's up to you and Scooby-Doo to find all the projectors and turnthem off, so Funland can be fun again! Test your courage and smarts inthis  exciting  adventure,  and  learn  fun  school  skills  such  as  spelling,vocabulary, numbers, and problem solving.</desc>
+		<image>./images/Scooby-Doo! - Funland Frenzy (USA) (Rev 3)-image.png</image>
+		<video>./videos/Scooby-Doo! - Funland Frenzy (USA) (Rev 3)-video.mp4</video>
+		<marquee>./images/Scooby-Doo! - Funland Frenzy (USA) (Rev 3)-marquee.png</marquee>
+		<thumbnail>./images/Scooby-Doo! - Funland Frenzy (USA) (Rev 3)-thumb.png</thumbnail>
+		<fanart>./images/Scooby-Doo! - Funland Frenzy (USA) (Rev 3)-fanart.jpg</fanart>
+		<manual>./manuals/Scooby-Doo! - Funland Frenzy (USA) (Rev 3)-manual.pdf</manual>
+		<developer>Warner Bros. Interactive</developer>
+		<publisher>VTech</publisher>
+		<family>Scooby-doo</family>
+		<players>1</players>
+		<md5>11665c113e83301859d74d5a2cb8cbe8</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T041146" />
+	</game>
+	<game id="151056">
+		<path>./No-Intro/Scooby-Doo! - Funland Frenzy (USA, Europe) (Rev 1).bin</path>
+		<name>Scooby-Doo! - Funland Frenzy</name>
+		<desc>Strange  and  spooky  things  are  going  on  at  the  Funland  AmusementPark! But when Scooby-Doo and the gang visit, they find that all theghosts are just a bunch of phony pictures made by some projectors.Now it's up to you and Scooby-Doo to find all the projectors and turnthem off, so Funland can be fun again! Test your courage and smarts inthis  exciting  adventure,  and  learn  fun  school  skills  such  as  spelling,vocabulary, numbers, and problem solving.</desc>
+		<image>./images/Scooby-Doo! - Funland Frenzy (USA, Europe) (Rev 1)-image.png</image>
+		<video>./videos/Scooby-Doo! - Funland Frenzy (USA, Europe) (Rev 1)-video.mp4</video>
+		<marquee>./images/Scooby-Doo! - Funland Frenzy (USA, Europe) (Rev 1)-marquee.png</marquee>
+		<thumbnail>./images/Scooby-Doo! - Funland Frenzy (USA, Europe) (Rev 1)-thumb.png</thumbnail>
+		<fanart>./images/Scooby-Doo! - Funland Frenzy (USA, Europe) (Rev 1)-fanart.jpg</fanart>
+		<manual>./manuals/Scooby-Doo! - Funland Frenzy (USA, Europe) (Rev 1)-manual.pdf</manual>
+		<developer>Warner Bros. Interactive</developer>
+		<publisher>VTech</publisher>
+		<family>Scooby-doo</family>
+		<players>1</players>
+		<md5>2caaa3f07f0ff586e8b94b933c33569f</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T041159" />
+	</game>
+	<game id="151056">
+		<path>./No-Intro/Scooby-Doo! - Im Lernpark (Germany).bin</path>
+		<name>Scooby-Doo! - Im Lernpark</name>
+		<desc>Strange  and  spooky  things  are  going  on  at  the  Funland  AmusementPark! But when Scooby-Doo and the gang visit, they find that all theghosts are just a bunch of phony pictures made by some projectors.Now it's up to you and Scooby-Doo to find all the projectors and turnthem off, so Funland can be fun again! Test your courage and smarts inthis  exciting  adventure,  and  learn  fun  school  skills  such  as  spelling,vocabulary, numbers, and problem solving.</desc>
+		<image>./images/Scooby-Doo! - Im Lernpark (Germany)-image.png</image>
+		<video>./videos/Scooby-Doo! - Im Lernpark (Germany)-video.mp4</video>
+		<marquee>./images/Scooby-Doo! - Im Lernpark (Germany)-marquee.png</marquee>
+		<thumbnail>./images/Scooby-Doo! - Im Lernpark (Germany)-thumb.png</thumbnail>
+		<fanart>./images/Scooby-Doo! - Im Lernpark (Germany)-fanart.jpg</fanart>
+		<manual>./manuals/Scooby-Doo! - Im Lernpark (Germany)-manual.pdf</manual>
+		<developer>Warner Bros. Interactive</developer>
+		<publisher>VTech</publisher>
+		<family>Scooby-doo</family>
+		<players>1</players>
+		<md5>b02acab0d273483f059da85f0d550ce6</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T041213" />
+	</game>
+	<game id="151056">
+		<path>./No-Intro/Scooby-Doo! - Sjov i forlystelsesparken (Denmark).bin</path>
+		<name>Scooby-Doo! - Funland Frenzy</name>
+		<desc>Strange  and  spooky  things  are  going  on  at  the  Funland  AmusementPark! But when Scooby-Doo and the gang visit, they find that all theghosts are just a bunch of phony pictures made by some projectors.Now it's up to you and Scooby-Doo to find all the projectors and turnthem off, so Funland can be fun again! Test your courage and smarts inthis  exciting  adventure,  and  learn  fun  school  skills  such  as  spelling,vocabulary, numbers, and problem solving.</desc>
+		<image>./images/Scooby-Doo! - Sjov i forlystelsesparken (Denmark)-image.png</image>
+		<video>./videos/Scooby-Doo! - Sjov i forlystelsesparken (Denmark)-video.mp4</video>
+		<marquee>./images/Scooby-Doo! - Sjov i forlystelsesparken (Denmark)-marquee.png</marquee>
+		<thumbnail>./images/Scooby-Doo! - Sjov i forlystelsesparken (Denmark)-thumb.png</thumbnail>
+		<fanart>./images/Scooby-Doo! - Sjov i forlystelsesparken (Denmark)-fanart.jpg</fanart>
+		<manual>./manuals/Scooby-Doo! - Sjov i forlystelsesparken (Denmark)-manual.pdf</manual>
+		<developer>Warner Bros. Interactive</developer>
+		<publisher>VTech</publisher>
+		<family>Scooby-doo</family>
+		<players>1</players>
+		<md5>81d2a80ae35de4842a9e678e7aae413c</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231109T041225" />
+	</game>
+	<game id="151056">
+		<path>./No-Intro/Scooby-Doo! - Tivoli-tokerier (Sweden).bin</path>
+		<name>Scooby-Doo! - Funland Frenzy</name>
+		<desc>Strange  and  spooky  things  are  going  on  at  the  Funland  AmusementPark! But when Scooby-Doo and the gang visit, they find that all theghosts are just a bunch of phony pictures made by some projectors.Now it's up to you and Scooby-Doo to find all the projectors and turnthem off, so Funland can be fun again! Test your courage and smarts inthis  exciting  adventure,  and  learn  fun  school  skills  such  as  spelling,vocabulary, numbers, and problem solving.</desc>
+		<image>./images/Scooby-Doo! - Tivoli-tokerier (Sweden)-image.png</image>
+		<video>./videos/Scooby-Doo! - Tivoli-tokerier (Sweden)-video.mp4</video>
+		<marquee>./images/Scooby-Doo! - Tivoli-tokerier (Sweden)-marquee.png</marquee>
+		<thumbnail>./images/Scooby-Doo! - Tivoli-tokerier (Sweden)-thumb.png</thumbnail>
+		<fanart>./images/Scooby-Doo! - Tivoli-tokerier (Sweden)-fanart.jpg</fanart>
+		<manual>./manuals/Scooby-Doo! - Tivoli-tokerier (Sweden)-manual.pdf</manual>
+		<developer>Warner Bros. Interactive</developer>
+		<publisher>VTech</publisher>
+		<family>Scooby-doo</family>
+		<players>1</players>
+		<md5>9e105a03e955120e9114c47bd9dc97a3</md5>
+		<lang>sw</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T041239" />
+	</game>
+	<game>
+		<path>./No-Intro/Sesame Street - Bert &amp; Ernie's Imagination Adventure (USA).bin</path>
+		<name>Sesame Street - Bert &amp; Ernie's Imagination Adventure (USA)</name>
+		<md5>92598a40dd3141ef4b4e364e1df4dd31</md5>
+		<scrap name="ScreenScraper" date="20231109T041240" />
+	</game>
+	<game>
+		<path>./No-Intro/Sesame Street - Elmo's World - Elmo's Big Discoveries (USA).bin</path>
+		<name>Sesame Street - Elmo's World - Elmo's Big Discoveries (USA)</name>
+		<md5>06efb73eac8f5e5ef2c009ff788ffefc</md5>
+		<scrap name="ScreenScraper" date="20231109T041242" />
+	</game>
+	<game id="151057">
+		<path>./No-Intro/Shrek - Die Geschichte des Drachen (Germany).bin</path>
+		<name>Shrek - Die Geschichte des Drachen</name>
+		<desc>Dragoness has caught a bad cold, and because she spits fire every time she sneezes, the donkey's hair gets fried! Shrek and his fine team must find a magic potion to cure her before the donkey ends up on skewers!nnUse your maths, language, time and science skills, logic and spatial orientation to help Shrek and his friends on their perilous quest to cure Dragonne.</desc>
+		<image>./images/Shrek - Die Geschichte des Drachen (Germany)-image.png</image>
+		<video>./videos/Shrek - Die Geschichte des Drachen (Germany)-video.mp4</video>
+		<marquee>./images/Shrek - Die Geschichte des Drachen (Germany)-marquee.png</marquee>
+		<thumbnail>./images/Shrek - Die Geschichte des Drachen (Germany)-thumb.png</thumbnail>
+		<fanart>./images/Shrek - Die Geschichte des Drachen (Germany)-fanart.jpg</fanart>
+		<manual>./manuals/Shrek - Die Geschichte des Drachen (Germany)-manual.pdf</manual>
+		<developer>DreamWorks</developer>
+		<publisher>VTech</publisher>
+		<family>Shrek</family>
+		<players>1</players>
+		<md5>95165c6f4b45ced04b6cde1cd48ec4c3</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T041255" />
+	</game>
+	<game id="151057">
+		<path>./No-Intro/Shrek - Dragon's Tale (USA) (Alt).bin</path>
+		<name>Shrek - Dragon's Tale</name>
+		<desc>Dragoness has caught a bad cold, and because she spits fire every time she sneezes, the donkey's hair gets fried! Shrek and his fine team must find a magic potion to cure her before the donkey ends up on skewers!nnUse your maths, language, time and science skills, logic and spatial orientation to help Shrek and his friends on their perilous quest to cure Dragonne.</desc>
+		<image>./images/Shrek - Dragon's Tale (USA) (Alt)-image.png</image>
+		<video>./videos/Shrek - Dragon's Tale (USA) (Alt)-video.mp4</video>
+		<marquee>./images/Shrek - Dragon's Tale (USA) (Alt)-marquee.png</marquee>
+		<thumbnail>./images/Shrek - Dragon's Tale (USA) (Alt)-thumb.png</thumbnail>
+		<fanart>./images/Shrek - Dragon's Tale (USA) (Alt)-fanart.jpg</fanart>
+		<manual>./manuals/Shrek - Dragon's Tale (USA) (Alt)-manual.pdf</manual>
+		<developer>DreamWorks</developer>
+		<publisher>VTech</publisher>
+		<family>Shrek</family>
+		<players>1</players>
+		<md5>5202186061a5df7edda653645dd0b593</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T041309" />
+	</game>
+	<game id="151057">
+		<path>./No-Intro/Shrek - Dragon's Tale (USA).bin</path>
+		<name>Shrek - Dragon's Tale</name>
+		<desc>Dragoness has caught a bad cold, and because she spits fire every time she sneezes, the donkey's hair gets fried! Shrek and his fine team must find a magic potion to cure her before the donkey ends up on skewers!nnUse your maths, language, time and science skills, logic and spatial orientation to help Shrek and his friends on their perilous quest to cure Dragonne.</desc>
+		<image>./images/Shrek - Dragon's Tale (USA)-image.png</image>
+		<video>./videos/Shrek - Dragon's Tale (USA)-video.mp4</video>
+		<marquee>./images/Shrek - Dragon's Tale (USA)-marquee.png</marquee>
+		<thumbnail>./images/Shrek - Dragon's Tale (USA)-thumb.png</thumbnail>
+		<fanart>./images/Shrek - Dragon's Tale (USA)-fanart.jpg</fanart>
+		<manual>./manuals/Shrek - Dragon's Tale (USA)-manual.pdf</manual>
+		<developer>DreamWorks</developer>
+		<publisher>VTech</publisher>
+		<family>Shrek</family>
+		<players>1</players>
+		<md5>e41790797ecfba7e2d778bd349639e6c</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T041323" />
+	</game>
+	<game id="151057">
+		<path>./No-Intro/Shrek - Het verhaal van draakje (Netherlands).bin</path>
+		<name>Shrek - Het verhaal van Draakje</name>
+		<desc>Dragoness has caught a bad cold, and because she spits fire every time she sneezes, the donkey's hair gets fried! Shrek and his fine team must find a magic potion to cure her before the donkey ends up on skewers!nnUse your maths, language, time and science skills, logic and spatial orientation to help Shrek and his friends on their perilous quest to cure Dragonne.</desc>
+		<image>./images/Shrek - Het verhaal van draakje (Netherlands)-image.png</image>
+		<video>./videos/Shrek - Het verhaal van draakje (Netherlands)-video.mp4</video>
+		<marquee>./images/Shrek - Het verhaal van draakje (Netherlands)-marquee.png</marquee>
+		<thumbnail>./images/Shrek - Het verhaal van draakje (Netherlands)-thumb.png</thumbnail>
+		<fanart>./images/Shrek - Het verhaal van draakje (Netherlands)-fanart.jpg</fanart>
+		<manual>./manuals/Shrek - Het verhaal van draakje (Netherlands)-manual.pdf</manual>
+		<developer>DreamWorks</developer>
+		<publisher>VTech</publisher>
+		<family>Shrek</family>
+		<players>1</players>
+		<md5>ae5ad6efa946445ce8dd14318f93b07a</md5>
+		<lang>nl</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T041338" />
+	</game>
+	<game id="151057">
+		<path>./No-Intro/Shrek - Le rhume de Dragonne (France).bin</path>
+		<name>Shrek - Le Rhume de Dragonne</name>
+		<desc>Dragoness has caught a bad cold, and because she spits fire every time she sneezes, the donkey's hair gets fried! Shrek and his fine team must find a magic potion to cure her before the donkey ends up on skewers!nnUse your maths, language, time and science skills, logic and spatial orientation to help Shrek and his friends on their perilous quest to cure Dragonne.</desc>
+		<image>./images/Shrek - Le rhume de Dragonne (France)-image.png</image>
+		<video>./videos/Shrek - Le rhume de Dragonne (France)-video.mp4</video>
+		<marquee>./images/Shrek - Le rhume de Dragonne (France)-marquee.png</marquee>
+		<thumbnail>./images/Shrek - Le rhume de Dragonne (France)-thumb.png</thumbnail>
+		<fanart>./images/Shrek - Le rhume de Dragonne (France)-fanart.jpg</fanart>
+		<manual>./manuals/Shrek - Le rhume de Dragonne (France)-manual.pdf</manual>
+		<developer>DreamWorks</developer>
+		<publisher>VTech</publisher>
+		<family>Shrek</family>
+		<players>1</players>
+		<md5>dbb51944fe7de1f76a6d6671a66d8edb</md5>
+		<lang>fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T041351" />
+	</game>
+	<game id="151164">
+		<path>./No-Intro/Shrek de Derde - Arthurs Schooldag Avontuur (Netherlands).bin</path>
+		<name>Shrek de Derde - Arthurs Schooldag Avontuur</name>
+		<desc>When Shrek, Donkey and Puss in Boots show up at Worcestershire Academy, the fun really begins. It's up to you to find young Artie, the next king of Far Far Away. Join the gruesome gang on a swamp hunt as they pursue Artie through dark villages, forests and catacombs while learning lessons in classifications, patterns, logic, spatial sense, basic math and Moreover !</desc>
+		<image>./images/Shrek de Derde - Arthurs Schooldag Avontuur (Netherlands)-image.png</image>
+		<video>./videos/Shrek de Derde - Arthurs Schooldag Avontuur (Netherlands)-video.mp4</video>
+		<marquee>./images/Shrek de Derde - Arthurs Schooldag Avontuur (Netherlands)-marquee.png</marquee>
+		<thumbnail>./images/Shrek de Derde - Arthurs Schooldag Avontuur (Netherlands)-thumb.png</thumbnail>
+		<fanart>./images/Shrek de Derde - Arthurs Schooldag Avontuur (Netherlands)-fanart.jpg</fanart>
+		<developer>DreamWorks</developer>
+		<publisher>VTech</publisher>
+		<family>Shrek</family>
+		<players>1</players>
+		<md5>cc8cbcd3b2f5529f878ed2c86b67e3e3</md5>
+		<lang>nl</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T041403" />
+	</game>
+	<game>
+		<path>./No-Intro/Shrek Forever After (USA) (V.Smile Motion).bin</path>
+		<name>Shrek Forever After (USA) (V.Smile Motion)</name>
+		<md5>b731ba6a769a133d4e25e47fa2d19a38</md5>
+		<scrap name="ScreenScraper" date="20231109T041405" />
+	</game>
+	<game id="151164">
+		<path>./No-Intro/Shrek the Third - Arthur's School Day Adventure (Europe) (En-GB).bin</path>
+		<name>Shrek the Third - Arthur's School Day Adventure</name>
+		<desc>When Shrek, Donkey and Puss in Boots show up at Worcestershire Academy, the fun really begins. It's up to you to find young Artie, the next king of Far Far Away. Join the gruesome gang on a swamp hunt as they pursue Artie through dark villages, forests and catacombs while learning lessons in classifications, patterns, logic, spatial sense, basic math and Moreover !</desc>
+		<image>./images/Shrek the Third - Arthur's School Day Adventure (Europe) (En-GB)-image.png</image>
+		<video>./videos/Shrek the Third - Arthur's School Day Adventure (Europe) (En-GB)-video.mp4</video>
+		<marquee>./images/Shrek the Third - Arthur's School Day Adventure (Europe) (En-GB)-marquee.png</marquee>
+		<thumbnail>./images/Shrek the Third - Arthur's School Day Adventure (Europe) (En-GB)-thumb.png</thumbnail>
+		<fanart>./images/Shrek the Third - Arthur's School Day Adventure (Europe) (En-GB)-fanart.jpg</fanart>
+		<developer>DreamWorks</developer>
+		<publisher>VTech</publisher>
+		<family>Shrek</family>
+		<players>1</players>
+		<md5>13eb2057421895a34077137d21b3f709</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T041417" />
+	</game>
+	<game id="102137">
+		<path>./No-Intro/Sirenetta, La - Ariel e la Crociera Magica (Italy).bin</path>
+		<name>La sirenetta - Ariel e la crociera magica</name>
+		<image>./images/Sirenetta, La - Ariel e la Crociera Magica (Italy)-image.png</image>
+		<video>./videos/Sirenetta, La - Ariel e la Crociera Magica (Italy)-video.mp4</video>
+		<marquee>./images/Sirenetta, La - Ariel e la Crociera Magica (Italy)-marquee.png</marquee>
+		<thumbnail>./images/Sirenetta, La - Ariel e la Crociera Magica (Italy)-thumb.png</thumbnail>
+		<fanart>./images/Sirenetta, La - Ariel e la Crociera Magica (Italy)-fanart.jpg</fanart>
+		<manual>./manuals/Sirenetta, La - Ariel e la Crociera Magica (Italy)-manual.pdf</manual>
+		<releasedate>20040101T000000</releasedate>
+		<developer>Disney Interactive</developer>
+		<publisher>VTech</publisher>
+		<players>1-2</players>
+		<md5>9236c3a35aad92b434b0af701406dede</md5>
+		<lang>it</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T041431" />
+	</game>
+	<game id="102137">
+		<path>./No-Intro/Sirenita, La - El Viaje Fantastico de Ariel (Spain).bin</path>
+		<name>The Little Mermaid - Ariel's Majestic Journey</name>
+		<image>./images/Sirenita, La - El Viaje Fantastico de Ariel (Spain)-image.png</image>
+		<video>./videos/Sirenita, La - El Viaje Fantastico de Ariel (Spain)-video.mp4</video>
+		<marquee>./images/Sirenita, La - El Viaje Fantastico de Ariel (Spain)-marquee.png</marquee>
+		<thumbnail>./images/Sirenita, La - El Viaje Fantastico de Ariel (Spain)-thumb.png</thumbnail>
+		<fanart>./images/Sirenita, La - El Viaje Fantastico de Ariel (Spain)-fanart.jpg</fanart>
+		<manual>./manuals/Sirenita, La - El Viaje Fantastico de Ariel (Spain)-manual.pdf</manual>
+		<releasedate>20040101T000000</releasedate>
+		<developer>Disney Interactive</developer>
+		<publisher>VTech</publisher>
+		<players>1-2</players>
+		<md5>a8a626216242aa397a90fe74c2d8f4e5</md5>
+		<lang>es</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T041445" />
+	</game>
+	<game id="151059">
+		<path>./No-Intro/Spider-Man &amp; Freunde - Wettkampf im Space-Labor (Germany).bin</path>
+		<name>Spider-Man &amp; Freunde - Wettkampf im Space-Labor</name>
+		<desc>Join Spiderman, Thing and Storm in a race against time to defeat Dock Ock before he causes havoc in their peaceful town. You'll have an exciting adventure while learning about the solar system, simple machines, logic, the food pyramid and basic science.</desc>
+		<video>./videos/Spider-Man &amp; Freunde - Wettkampf im Space-Labor (Germany)-video.mp4</video>
+		<fanart>./images/Spider-Man &amp; Freunde - Wettkampf im Space-Labor (Germany)-fanart.jpg</fanart>
+		<manual>./manuals/Spider-Man &amp; Freunde - Wettkampf im Space-Labor (Germany)-manual.pdf</manual>
+		<releasedate>20060101T000000</releasedate>
+		<developer>Marvel Comics</developer>
+		<publisher>VTech</publisher>
+		<genre>Educational</genre>
+		<family>Spider-Man</family>
+		<players>1-2</players>
+		<md5>9ba8e5367abd6dca42984fa4e5087a53</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T041452" />
+	</game>
+	<game id="151059">
+		<path>./No-Intro/Spider-Man &amp; Friends - Doc Ock's Challenge (USA).bin</path>
+		<name>Spider-Man &amp; Friends - Doc Ock's Challenge</name>
+		<desc>Join Spiderman, Thing and Storm in a race against time to defeat Dock Ock before he causes havoc in their peaceful town. You'll have an exciting adventure while learning about the solar system, simple machines, logic, the food pyramid and basic science.</desc>
+		<video>./videos/Spider-Man &amp; Friends - Doc Ock's Challenge (USA)-video.mp4</video>
+		<fanart>./images/Spider-Man &amp; Friends - Doc Ock's Challenge (USA)-fanart.jpg</fanart>
+		<manual>./manuals/Spider-Man &amp; Friends - Doc Ock's Challenge (USA)-manual.pdf</manual>
+		<releasedate>20060101T000000</releasedate>
+		<developer>Marvel Comics</developer>
+		<publisher>VTech</publisher>
+		<genre>Educational</genre>
+		<family>Spider-Man</family>
+		<players>1-2</players>
+		<md5>90142cdc1321eaa6a8a034aef252a1e5</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T041500" />
+	</game>
+	<game id="151059">
+		<path>./No-Intro/Spider-Man &amp; Friends - La Sfida del Dottor Ock (Italy).bin</path>
+		<name>Spider-Man &amp; Friends - La Sfida del Dottor Ock</name>
+		<desc>Join Spiderman, Thing and Storm in a race against time to defeat Dock Ock before he causes havoc in their peaceful town. You'll have an exciting adventure while learning about the solar system, simple machines, logic, the food pyramid and basic science.</desc>
+		<image>./images/Spider-Man &amp; Friends - La Sfida del Dottor Ock (Italy)-image.png</image>
+		<video>./videos/Spider-Man &amp; Friends - La Sfida del Dottor Ock (Italy)-video.mp4</video>
+		<fanart>./images/Spider-Man &amp; Friends - La Sfida del Dottor Ock (Italy)-fanart.jpg</fanart>
+		<manual>./manuals/Spider-Man &amp; Friends - La Sfida del Dottor Ock (Italy)-manual.pdf</manual>
+		<releasedate>20060101T000000</releasedate>
+		<developer>Marvel Comics</developer>
+		<publisher>VTech</publisher>
+		<genre>Educational</genre>
+		<family>Spider-Man</family>
+		<players>1-2</players>
+		<md5>9d2d330b8b493c4d135a09d4e5a4729a</md5>
+		<lang>it</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T041510" />
+	</game>
+	<game id="248959">
+		<path>./No-Intro/Spider-Man &amp; Friends - Missioni Segrete (Italy).bin</path>
+		<name>Spider-Man &amp; Friends - Missioni Segrete</name>
+		<desc>One for all and all for one! When we get together, there's lots of fun! In Spider-Man and Friends: Secret Missions, join forces with Spider-Man, Spider-Girl and Wolverine and help them to solve problems around town. With exciting journeys, learn spelling, animal names, counting, money concepts, problem solving and much more!</desc>
+		<video>./videos/Spider-Man &amp; Friends - Missioni Segrete (Italy)-video.mp4</video>
+		<fanart>./images/Spider-Man &amp; Friends - Missioni Segrete (Italy)-fanart.jpg</fanart>
+		<developer>Marvel</developer>
+		<genre>Educational</genre>
+		<family>Spider-Man</family>
+		<players>1-2</players>
+		<md5>703fdf0bbd89b045f5a3bf66a45c8105</md5>
+		<lang>it</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T041516" />
+	</game>
+	<game id="248959">
+		<path>./No-Intro/Spider-Man &amp; ses amis - Missions secretes (France).bin</path>
+		<name>Spider-Man &amp; Ses Amis - Missions Secrètes</name>
+		<desc>One for all and all for one! When we get together, there's lots of fun! In Spider-Man and Friends: Secret Missions, join forces with Spider-Man, Spider-Girl and Wolverine and help them to solve problems around town. With exciting journeys, learn spelling, animal names, counting, money concepts, problem solving and much more!</desc>
+		<image>./images/Spider-Man &amp; ses amis - Missions secretes (France)-image.png</image>
+		<video>./videos/Spider-Man &amp; ses amis - Missions secretes (France)-video.mp4</video>
+		<fanart>./images/Spider-Man &amp; ses amis - Missions secretes (France)-fanart.jpg</fanart>
+		<manual>./manuals/Spider-Man &amp; ses amis - Missions secretes (France)-manual.pdf</manual>
+		<developer>Marvel</developer>
+		<genre>Educational</genre>
+		<family>Spider-Man</family>
+		<players>1-2</players>
+		<md5>6e25f315ee8095360f3a1ba88e06ea19</md5>
+		<lang>fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T041525" />
+	</game>
+	<game id="151165">
+		<path>./No-Intro/Spongebob - Un giorno da Spugna (Italy).bin</path>
+		<name>Spongebob - Un giorno da Spugna</name>
+		<desc>Have you ever wondered what it would be like to be a sponge? Here's your chance to find out! Join SpongeBob for a normal abnormal day in Bikini Bottom, as he takes on such exciting everyday adventures as getting dressed, flipping patties at the Krusty Krab, crashing his way through a boating lesson, and rocking out at the best house party ever. Can you walk a mile in SpongeBob's squishy, spongy shoes? Let's find out!</desc>
+		<image>./images/Spongebob - Un giorno da Spugna (Italy)-image.png</image>
+		<video>./videos/Spongebob - Un giorno da Spugna (Italy)-video.mp4</video>
+		<marquee>./images/Spongebob - Un giorno da Spugna (Italy)-marquee.png</marquee>
+		<thumbnail>./images/Spongebob - Un giorno da Spugna (Italy)-thumb.png</thumbnail>
+		<fanart>./images/Spongebob - Un giorno da Spugna (Italy)-fanart.jpg</fanart>
+		<manual>./manuals/Spongebob - Un giorno da Spugna (Italy)-manual.pdf</manual>
+		<releasedate>20050101T000000</releasedate>
+		<developer>Nickelodeon</developer>
+		<publisher>VTech</publisher>
+		<genre>Educational</genre>
+		<family>Spongebob Squarepants</family>
+		<players>1-2</players>
+		<md5>7b8e2f76a26bc5a45ef8d469594f7625</md5>
+		<lang>it</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T041541" />
+	</game>
+	<game id="151165">
+		<path>./No-Intro/Spongebob Schwammkopf - Der Tag des Schwamms (Germany) (Rev 1).bin</path>
+		<name>Spongebob Schwammkopf - Der Tag des Schwamms</name>
+		<desc>Have you ever wondered what it would be like to be a sponge? Here's your chance to find out! Join SpongeBob for a normal abnormal day in Bikini Bottom, as he takes on such exciting everyday adventures as getting dressed, flipping patties at the Krusty Krab, crashing his way through a boating lesson, and rocking out at the best house party ever. Can you walk a mile in SpongeBob's squishy, spongy shoes? Let's find out!</desc>
+		<image>./images/Spongebob Schwammkopf - Der Tag des Schwamms (Germany) (Rev 1)-image.png</image>
+		<video>./videos/Spongebob Schwammkopf - Der Tag des Schwamms (Germany) (Rev 1)-video.mp4</video>
+		<marquee>./images/Spongebob Schwammkopf - Der Tag des Schwamms (Germany) (Rev 1)-marquee.png</marquee>
+		<thumbnail>./images/Spongebob Schwammkopf - Der Tag des Schwamms (Germany) (Rev 1)-thumb.png</thumbnail>
+		<fanart>./images/Spongebob Schwammkopf - Der Tag des Schwamms (Germany) (Rev 1)-fanart.jpg</fanart>
+		<manual>./manuals/Spongebob Schwammkopf - Der Tag des Schwamms (Germany) (Rev 1)-manual.pdf</manual>
+		<releasedate>20050101T000000</releasedate>
+		<developer>Nickelodeon</developer>
+		<publisher>VTech</publisher>
+		<genre>Educational</genre>
+		<family>Spongebob Squarepants</family>
+		<players>1-2</players>
+		<md5>6b5ac5b037f0489743c5ceb872d74593</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T041555" />
+	</game>
+	<game id="151165">
+		<path>./No-Intro/Spongebob Schwammkopf - Der Tag des Schwamms (Germany).bin</path>
+		<name>Spongebob Schwammkopf - Der Tag des Schwamms</name>
+		<desc>Have you ever wondered what it would be like to be a sponge? Here's your chance to find out! Join SpongeBob for a normal abnormal day in Bikini Bottom, as he takes on such exciting everyday adventures as getting dressed, flipping patties at the Krusty Krab, crashing his way through a boating lesson, and rocking out at the best house party ever. Can you walk a mile in SpongeBob's squishy, spongy shoes? Let's find out!</desc>
+		<image>./images/Spongebob Schwammkopf - Der Tag des Schwamms (Germany)-image.png</image>
+		<video>./videos/Spongebob Schwammkopf - Der Tag des Schwamms (Germany)-video.mp4</video>
+		<marquee>./images/Spongebob Schwammkopf - Der Tag des Schwamms (Germany)-marquee.png</marquee>
+		<thumbnail>./images/Spongebob Schwammkopf - Der Tag des Schwamms (Germany)-thumb.png</thumbnail>
+		<fanart>./images/Spongebob Schwammkopf - Der Tag des Schwamms (Germany)-fanart.jpg</fanart>
+		<manual>./manuals/Spongebob Schwammkopf - Der Tag des Schwamms (Germany)-manual.pdf</manual>
+		<releasedate>20050101T000000</releasedate>
+		<developer>Nickelodeon</developer>
+		<publisher>VTech</publisher>
+		<genre>Educational</genre>
+		<family>Spongebob Squarepants</family>
+		<players>1-2</players>
+		<md5>8e2b45e193e17d6bc9434867bbdeee2f</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T041609" />
+	</game>
+	<game id="151165">
+		<path>./No-Intro/SpongeBob SquarePants - A Day in the Life of a Sponge (USA) (Rev 1).bin</path>
+		<name>Spongebob Squarepants - A Day In The Life of A Sponge</name>
+		<desc>Have you ever wondered what it would be like to be a sponge? Here's your chance to find out! Join SpongeBob for a normal abnormal day in Bikini Bottom, as he takes on such exciting everyday adventures as getting dressed, flipping patties at the Krusty Krab, crashing his way through a boating lesson, and rocking out at the best house party ever. Can you walk a mile in SpongeBob's squishy, spongy shoes? Let's find out!</desc>
+		<image>./images/SpongeBob SquarePants - A Day in the Life of a Sponge (USA) (Rev 1)-image.png</image>
+		<video>./videos/SpongeBob SquarePants - A Day in the Life of a Sponge (USA) (Rev 1)-video.mp4</video>
+		<marquee>./images/SpongeBob SquarePants - A Day in the Life of a Sponge (USA) (Rev 1)-marquee.png</marquee>
+		<thumbnail>./images/SpongeBob SquarePants - A Day in the Life of a Sponge (USA) (Rev 1)-thumb.png</thumbnail>
+		<fanart>./images/SpongeBob SquarePants - A Day in the Life of a Sponge (USA) (Rev 1)-fanart.jpg</fanart>
+		<manual>./manuals/SpongeBob SquarePants - A Day in the Life of a Sponge (USA) (Rev 1)-manual.pdf</manual>
+		<releasedate>20050101T000000</releasedate>
+		<developer>Nickelodeon</developer>
+		<publisher>VTech</publisher>
+		<genre>Educational</genre>
+		<family>Spongebob Squarepants</family>
+		<players>1-2</players>
+		<md5>bb3b563f9813633f2367bc92881550dd</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T041622" />
+	</game>
+	<game>
+		<path>./No-Intro/Super WHY! - The Beach Day Mystery (USA) (V.Smile Motion).bin</path>
+		<name>Super WHY! - The Beach Day Mystery (USA) (V.Smile Motion)</name>
+		<md5>42115bf6662c0bb4ccebf1baa0b57eaa</md5>
+		<scrap name="ScreenScraper" date="20231109T041624" />
+	</game>
+	<game id="151058">
+		<path>./No-Intro/Superman - A la rescousse ! (France).bin</path>
+		<name>Superman - À la rescousse !</name>
+		<desc>A group of highly sophisticated super-criminals lays siege to Metropolis, and threatens to wreak havoc upon the city until their demands for money are met. Join Superman in saving the inhabitants of Metropolis from fires, destruction, rampaging cyborg spiders, and other catastrophes while learning addition, subtraction, science concepts, vocabulary, comprehension and more!</desc>
+		<image>./images/Superman - A la rescousse ! (France)-image.png</image>
+		<video>./videos/Superman - A la rescousse ! (France)-video.mp4</video>
+		<fanart>./images/Superman - A la rescousse ! (France)-fanart.jpg</fanart>
+		<manual>./manuals/Superman - A la rescousse ! (France)-manual.pdf</manual>
+		<developer>Warner Bros. Interactive</developer>
+		<publisher>VTech</publisher>
+		<family>Superman</family>
+		<players>1</players>
+		<md5>c4dac0e9e6b1a7643b6fbad0074cf48f</md5>
+		<lang>fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T041630" />
+	</game>
+	<game id="151058">
+		<path>./No-Intro/Superman - Der Superheld (Germany).bin</path>
+		<name>Superman - Der Superheld</name>
+		<desc>A group of highly sophisticated super-criminals lays siege to Metropolis, and threatens to wreak havoc upon the city until their demands for money are met. Join Superman in saving the inhabitants of Metropolis from fires, destruction, rampaging cyborg spiders, and other catastrophes while learning addition, subtraction, science concepts, vocabulary, comprehension and more!</desc>
+		<video>./videos/Superman - Der Superheld (Germany)-video.mp4</video>
+		<fanart>./images/Superman - Der Superheld (Germany)-fanart.jpg</fanart>
+		<developer>Warner Bros. Interactive</developer>
+		<publisher>VTech</publisher>
+		<family>Superman</family>
+		<players>1</players>
+		<md5>775cef37e98a60a7a9e80a91e7b76420</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T041634" />
+	</game>
+	<game id="151058">
+		<path>./No-Intro/Superman - The Greatest Hero (USA).bin</path>
+		<name>Superman - The Greatest Hero</name>
+		<desc>A group of highly sophisticated super-criminals lays siege to Metropolis, and threatens to wreak havoc upon the city until their demands for money are met. Join Superman in saving the inhabitants of Metropolis from fires, destruction, rampaging cyborg spiders, and other catastrophes while learning addition, subtraction, science concepts, vocabulary, comprehension and more!</desc>
+		<video>./videos/Superman - The Greatest Hero (USA)-video.mp4</video>
+		<fanart>./images/Superman - The Greatest Hero (USA)-fanart.jpg</fanart>
+		<developer>Warner Bros. Interactive</developer>
+		<publisher>VTech</publisher>
+		<family>Superman</family>
+		<players>1</players>
+		<md5>eaaf0e13d35b2b5a25f6e3ecf2c0ed5a</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T041639" />
+	</game>
+	<game id="151166">
+		<path>./No-Intro/Thomas &amp; Friends - Engines Working Together (Europe) (En-GB) (Rev 1).bin</path>
+		<name>Thomas &amp; Friends - Engines Working Together</name>
+		<desc>Thomas &amp; Friends™ are Really Useful Engines. Today will be a busy day for the engines on the Island of Sodor and they will need your help to show how useful they are. Learn important school skills by working together with Thomas, Percy, James, Harold, Bertie, and more!</desc>
+		<video>./videos/Thomas &amp; Friends - Engines Working Together (Europe) (En-GB) (Rev 1)-video.mp4</video>
+		<fanart>./images/Thomas &amp; Friends - Engines Working Together (Europe) (En-GB) (Rev 1)-fanart.jpg</fanart>
+		<manual>./manuals/Thomas &amp; Friends - Engines Working Together (Europe) (En-GB) (Rev 1)-manual.pdf</manual>
+		<developer>HIT Entertainment PLC</developer>
+		<publisher>VTech</publisher>
+		<players>1</players>
+		<md5>572b82a3a38a67e9b686929144f00023</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T041646" />
+	</game>
+	<game id="151166">
+		<path>./No-Intro/Thomas &amp; Friends - Engines Working Together (Europe) (En-GB).bin</path>
+		<name>Thomas &amp; Friends - Engines Working Together</name>
+		<desc>Thomas &amp; Friends™ are Really Useful Engines. Today will be a busy day for the engines on the Island of Sodor and they will need your help to show how useful they are. Learn important school skills by working together with Thomas, Percy, James, Harold, Bertie, and more!</desc>
+		<video>./videos/Thomas &amp; Friends - Engines Working Together (Europe) (En-GB)-video.mp4</video>
+		<fanart>./images/Thomas &amp; Friends - Engines Working Together (Europe) (En-GB)-fanart.jpg</fanart>
+		<manual>./manuals/Thomas &amp; Friends - Engines Working Together (Europe) (En-GB)-manual.pdf</manual>
+		<developer>HIT Entertainment PLC</developer>
+		<publisher>VTech</publisher>
+		<players>1</players>
+		<md5>502b2bcc52545e72da2853c15a4a478c</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T041653" />
+	</game>
+	<game id="151166">
+		<path>./No-Intro/Thomas &amp; Friends - Engines Working Together (USA) (Rev 1).bin</path>
+		<name>Thomas &amp; Friends - Engines Working Together</name>
+		<desc>Thomas &amp; Friends™ are Really Useful Engines. Today will be a busy day for the engines on the Island of Sodor and they will need your help to show how useful they are. Learn important school skills by working together with Thomas, Percy, James, Harold, Bertie, and more!</desc>
+		<video>./videos/Thomas &amp; Friends - Engines Working Together (USA) (Rev 1)-video.mp4</video>
+		<fanart>./images/Thomas &amp; Friends - Engines Working Together (USA) (Rev 1)-fanart.jpg</fanart>
+		<manual>./manuals/Thomas &amp; Friends - Engines Working Together (USA) (Rev 1)-manual.pdf</manual>
+		<developer>HIT Entertainment PLC</developer>
+		<publisher>VTech</publisher>
+		<players>1</players>
+		<md5>c01b1802192cee219cc853e0de7a0a82</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T041702" />
+	</game>
+	<game id="151166">
+		<path>./No-Intro/Thomas &amp; Friends - Engines Working Together (USA) (V.Smile Motion).bin</path>
+		<name>Thomas &amp; Friends - Engines Working Together</name>
+		<desc>Thomas &amp; Friends™ are Really Useful Engines. Today will be a busy day for the engines on the Island of Sodor and they will need your help to show how useful they are. Learn important school skills by working together with Thomas, Percy, James, Harold, Bertie, and more!</desc>
+		<video>./videos/Thomas &amp; Friends - Engines Working Together (USA) (V.Smile Motion)-video.mp4</video>
+		<fanart>./images/Thomas &amp; Friends - Engines Working Together (USA) (V.Smile Motion)-fanart.jpg</fanart>
+		<manual>./manuals/Thomas &amp; Friends - Engines Working Together (USA) (V.Smile Motion)-manual.pdf</manual>
+		<developer>HIT Entertainment PLC</developer>
+		<publisher>VTech</publisher>
+		<players>1</players>
+		<md5>6890738e51516c490ce3112ca01c8001</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T041710" />
+	</game>
+	<game id="151166">
+		<path>./No-Intro/Thomas &amp; Friends - Tagen hjaelps at (Sweden).bin</path>
+		<name>Thomas &amp; Friends - Engines Working Together</name>
+		<desc>Thomas &amp; Friends™ are Really Useful Engines. Today will be a busy day for the engines on the Island of Sodor and they will need your help to show how useful they are. Learn important school skills by working together with Thomas, Percy, James, Harold, Bertie, and more!</desc>
+		<video>./videos/Thomas &amp; Friends - Tagen hjaelps at (Sweden)-video.mp4</video>
+		<fanart>./images/Thomas &amp; Friends - Tagen hjaelps at (Sweden)-fanart.jpg</fanart>
+		<manual>./manuals/Thomas &amp; Friends - Tagen hjaelps at (Sweden)-manual.pdf</manual>
+		<developer>HIT Entertainment PLC</developer>
+		<publisher>VTech</publisher>
+		<players>1</players>
+		<md5>f45ed99763d1775076b26ec963c7d9f8</md5>
+		<lang>sw</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T041718" />
+	</game>
+	<game id="151166">
+		<path>./No-Intro/Thomas &amp; seine Freunde - Freunde halten zusammen (Germany) (Rev 1).bin</path>
+		<name>Thomas &amp; seine Freunde - Freunde halten zusammen</name>
+		<desc>Thomas &amp; Friends™ are Really Useful Engines. Today will be a busy day for the engines on the Island of Sodor and they will need your help to show how useful they are. Learn important school skills by working together with Thomas, Percy, James, Harold, Bertie, and more!</desc>
+		<video>./videos/Thomas &amp; seine Freunde - Freunde halten zusammen (Germany) (Rev 1)-video.mp4</video>
+		<fanart>./images/Thomas &amp; seine Freunde - Freunde halten zusammen (Germany) (Rev 1)-fanart.jpg</fanart>
+		<manual>./manuals/Thomas &amp; seine Freunde - Freunde halten zusammen (Germany) (Rev 1)-manual.pdf</manual>
+		<developer>HIT Entertainment PLC</developer>
+		<publisher>VTech</publisher>
+		<players>1</players>
+		<md5>b8e49e785602fdfc0a63cd4783ed802a</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T041726" />
+	</game>
+	<game id="151166">
+		<path>./No-Intro/Thomas &amp; seine Freunde - Freunde halten zusammen (Germany).bin</path>
+		<name>Thomas &amp; seine Freunde - Freunde halten zusammen</name>
+		<desc>Thomas &amp; Friends™ are Really Useful Engines. Today will be a busy day for the engines on the Island of Sodor and they will need your help to show how useful they are. Learn important school skills by working together with Thomas, Percy, James, Harold, Bertie, and more!</desc>
+		<video>./videos/Thomas &amp; seine Freunde - Freunde halten zusammen (Germany)-video.mp4</video>
+		<fanart>./images/Thomas &amp; seine Freunde - Freunde halten zusammen (Germany)-fanart.jpg</fanart>
+		<manual>./manuals/Thomas &amp; seine Freunde - Freunde halten zusammen (Germany)-manual.pdf</manual>
+		<developer>HIT Entertainment PLC</developer>
+		<publisher>VTech</publisher>
+		<players>1</players>
+		<md5>c9ff27d7f96115d55b0654c2187fc5ed</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T041733" />
+	</game>
+	<game id="151166">
+		<path>./No-Intro/Thomas et ses amis - Les locomotives s'entraident (France).bin</path>
+		<name>Thomas Et Ses Amis - Les locomotives s'entraident</name>
+		<desc>Thomas &amp; Friends™ are Really Useful Engines. Today will be a busy day for the engines on the Island of Sodor and they will need your help to show how useful they are. Learn important school skills by working together with Thomas, Percy, James, Harold, Bertie, and more!</desc>
+		<image>./images/Thomas et ses amis - Les locomotives s'entraident (France)-image.png</image>
+		<video>./videos/Thomas et ses amis - Les locomotives s'entraident (France)-video.mp4</video>
+		<fanart>./images/Thomas et ses amis - Les locomotives s'entraident (France)-fanart.jpg</fanart>
+		<manual>./manuals/Thomas et ses amis - Les locomotives s'entraident (France)-manual.pdf</manual>
+		<developer>HIT Entertainment PLC</developer>
+		<publisher>VTech</publisher>
+		<players>1</players>
+		<md5>a7424944cb103e7267264fe09ec4e5c0</md5>
+		<lang>fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T041743" />
+	</game>
+	<game id="123630">
+		<path>./No-Intro/Tingeling (Sweden).bin</path>
+		<name>Tinker Bell</name>
+		<desc>Tinker Bell is the newest fairy in Pixie Hollow, but she doesn't think her talent as a tinker is special. So, she tries to learn the talents of other fairies. Help Tink learn an important lesson: magical things happen when you believe in yourself!</desc>
+		<video>./videos/Tingeling (Sweden)-video.mp4</video>
+		<fanart>./images/Tingeling (Sweden)-fanart.jpg</fanart>
+		<manual>./manuals/Tingeling (Sweden)-manual.pdf</manual>
+		<releasedate>20090101T000000</releasedate>
+		<developer>Disney Interactive</developer>
+		<publisher>VTech</publisher>
+		<players>1-2</players>
+		<md5>b5514747c03a0c90506ef9b66f362270</md5>
+		<lang>sw</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T041750" />
+	</game>
+	<game id="123630">
+		<path>./No-Intro/TinkerBell (Germany) (V.Smile Motion).bin</path>
+		<name>Tinker Bell</name>
+		<desc>Tinker Bell is the newest fairy in Pixie Hollow, but she doesn't think her talent as a tinker is special. So, she tries to learn the talents of other fairies. Help Tink learn an important lesson: magical things happen when you believe in yourself!</desc>
+		<image>./images/TinkerBell (Germany) (V.Smile Motion)-image.png</image>
+		<video>./videos/TinkerBell (Germany) (V.Smile Motion)-video.mp4</video>
+		<fanart>./images/TinkerBell (Germany) (V.Smile Motion)-fanart.jpg</fanart>
+		<manual>./manuals/TinkerBell (Germany) (V.Smile Motion)-manual.pdf</manual>
+		<releasedate>20090101T000000</releasedate>
+		<developer>Disney Interactive</developer>
+		<publisher>VTech</publisher>
+		<players>1-2</players>
+		<md5>2d7d0d0ad51985eb25920d0a0c25cb3e</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T041759" />
+	</game>
+	<game id="151182">
+		<path>./No-Intro/Topolino - Le Magiche Avventure di Topolino (Italy).bin</path>
+		<name>Topolino - Le Magiche Avventure di Topolino</name>
+		<desc>One day, Mickey shows his magic to Minnie. Mickey tries his magic on Pluto's bone and makes it float up into the air. Suddenly, the bone is out of control and flies away! Pluto chases the bone and disappears. "Oh no!" says Mickey. "Where did Pluto go? I think he may have run off to... the castle! Help!" Can you help Mickey find Pluto? Hurry!</desc>
+		<image>./images/Topolino - Le Magiche Avventure di Topolino (Italy)-image.png</image>
+		<video>./videos/Topolino - Le Magiche Avventure di Topolino (Italy)-video.mp4</video>
+		<marquee>./images/Topolino - Le Magiche Avventure di Topolino (Italy)-marquee.png</marquee>
+		<thumbnail>./images/Topolino - Le Magiche Avventure di Topolino (Italy)-thumb.png</thumbnail>
+		<fanart>./images/Topolino - Le Magiche Avventure di Topolino (Italy)-fanart.jpg</fanart>
+		<manual>./manuals/Topolino - Le Magiche Avventure di Topolino (Italy)-manual.pdf</manual>
+		<releasedate>20050101T000000</releasedate>
+		<developer>Disney Interactive</developer>
+		<publisher>VTech</publisher>
+		<genre>Educational</genre>
+		<family>Mickey Mouse</family>
+		<players>1-2</players>
+		<md5>0c665632bc5c9df2630afa74dee2ed57</md5>
+		<lang>it</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T041812" />
+	</game>
+	<game id="151053">
+		<path>./No-Intro/Toy Story 2 - Operation - Raedda Woody! (Sweden).bin</path>
+		<name>Toy Story 2 - Operation Rescue Woody!</name>
+		<desc>While Andy is away at summer camp, Woody is toynapped! Buzz and his friends have to save Woody before Andy comes back. Let's join Buzz and his friends on this exciting rescue adventure!</desc>
+		<video>./videos/Toy Story 2 - Operation - Raedda Woody! (Sweden)-video.mp4</video>
+		<fanart>./images/Toy Story 2 - Operation - Raedda Woody! (Sweden)-fanart.jpg</fanart>
+		<developer>Disney Interactive</developer>
+		<publisher>VTech</publisher>
+		<genre>Educational</genre>
+		<players>1-2</players>
+		<md5>1cac2c0afd34e5a063d9f8b827bdea18</md5>
+		<lang>sw</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T041817" />
+	</game>
+	<game id="151053">
+		<path>./No-Intro/Toy Story 2 - Operation - Rescue Woody! (Europe) (En-GB).bin</path>
+		<name>Toy Story 2 - Operation Rescue Woody!</name>
+		<desc>While Andy is away at summer camp, Woody is toynapped! Buzz and his friends have to save Woody before Andy comes back. Let's join Buzz and his friends on this exciting rescue adventure!</desc>
+		<video>./videos/Toy Story 2 - Operation - Rescue Woody! (Europe) (En-GB)-video.mp4</video>
+		<fanart>./images/Toy Story 2 - Operation - Rescue Woody! (Europe) (En-GB)-fanart.jpg</fanart>
+		<developer>Disney Interactive</developer>
+		<publisher>VTech</publisher>
+		<genre>Educational</genre>
+		<players>1-2</players>
+		<md5>a064a6601fe7c40dc522ebca43c59f08</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T041822" />
+	</game>
+	<game id="151053">
+		<path>./No-Intro/Toy Story 2 - Operazione - Salvataggio di Woody (Italy).bin</path>
+		<name>Toy Story 2 - Operazione: Salvataggio di Woody!</name>
+		<desc>While Andy is away at summer camp, Woody is toynapped! Buzz and his friends have to save Woody before Andy comes back. Let's join Buzz and his friends on this exciting rescue adventure!</desc>
+		<video>./videos/Toy Story 2 - Operazione - Salvataggio di Woody (Italy)-video.mp4</video>
+		<fanart>./images/Toy Story 2 - Operazione - Salvataggio di Woody (Italy)-fanart.jpg</fanart>
+		<developer>Disney Interactive</developer>
+		<publisher>VTech</publisher>
+		<genre>Educational</genre>
+		<players>1-2</players>
+		<md5>75786ed13c1068d48d165e639116c610</md5>
+		<lang>it</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T041828" />
+	</game>
+	<game id="151053">
+		<path>./No-Intro/Toy Story 2 - Woodys spannende Rettung (Germany).bin</path>
+		<name>Toy Story 2 - Woodys spannende Rettung</name>
+		<desc>While Andy is away at summer camp, Woody is toynapped! Buzz and his friends have to save Woody before Andy comes back. Let's join Buzz and his friends on this exciting rescue adventure!</desc>
+		<video>./videos/Toy Story 2 - Woodys spannende Rettung (Germany)-video.mp4</video>
+		<fanart>./images/Toy Story 2 - Woodys spannende Rettung (Germany)-fanart.jpg</fanart>
+		<developer>Disney Interactive</developer>
+		<publisher>VTech</publisher>
+		<genre>Educational</genre>
+		<players>1-2</players>
+		<md5>abb200c331f5c5a8043a976191473f92</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T041834" />
+	</game>
+	<game id="256567">
+		<path>./No-Intro/Toy Story 3 (Italy) [b].bin</path>
+		<name>Toy Story 3</name>
+		<marquee>./images/Toy Story 3 (Italy) [b]-marquee.png</marquee>
+		<fanart>./images/Toy Story 3 (Italy) [b]-fanart.jpg</fanart>
+		<md5>6991e2b0c21ac21e4caabefc40a5bec8</md5>
+		<lang>it</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T041839" />
+	</game>
+	<game id="256567">
+		<path>./No-Intro/Toy Story 3 (USA) (V.Smile Motion).bin</path>
+		<name>Toy Story 3</name>
+		<marquee>./images/Toy Story 3 (USA) (V.Smile Motion)-marquee.png</marquee>
+		<fanart>./images/Toy Story 3 (USA) (V.Smile Motion)-fanart.jpg</fanart>
+		<md5>d0759414563098566a1a9b48b6c50fed</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T041845" />
+	</game>
+	<game id="151052">
+		<path>./No-Intro/Up (Europe).bin</path>
+		<name>Up</name>
+		<desc>Carl Fredricksen always dreamed of a great adventure. He finally decides to make his dream come true when he ties thousands of balloons to his house and flies away to South America. He soon discovers he's not alone as an 8-year-old Wilderness Explorer named Russell accidentally stowed away on the trip. When they arrive, they discover a land stranger than anything they could've imagined where the biggest danger comes from Carl's childhood hero, explorer Charles F. Muntz. When Muntz captures Russell, Carl will risk everything to rescue him and bring them both safely home.</desc>
+		<image>./images/Up (Europe)-image.png</image>
+		<video>./videos/Up (Europe)-video.mp4</video>
+		<marquee>./images/Up (Europe)-marquee.png</marquee>
+		<thumbnail>./images/Up (Europe)-thumb.png</thumbnail>
+		<fanart>./images/Up (Europe)-fanart.jpg</fanart>
+		<manual>./manuals/Up (Europe)-manual.pdf</manual>
+		<developer>Disney Interactive</developer>
+		<publisher>VTech</publisher>
+		<players>1-2</players>
+		<md5>f15502bd863acf0316d65e0bc9baddc5</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T041858" />
+	</game>
+	<game id="151052">
+		<path>./No-Intro/Up (USA).bin</path>
+		<name>Up</name>
+		<desc>Carl Fredricksen always dreamed of a great adventure. He finally decides to make his dream come true when he ties thousands of balloons to his house and flies away to South America. He soon discovers he's not alone as an 8-year-old Wilderness Explorer named Russell accidentally stowed away on the trip. When they arrive, they discover a land stranger than anything they could've imagined where the biggest danger comes from Carl's childhood hero, explorer Charles F. Muntz. When Muntz captures Russell, Carl will risk everything to rescue him and bring them both safely home.</desc>
+		<image>./images/Up (USA)-image.png</image>
+		<video>./videos/Up (USA)-video.mp4</video>
+		<marquee>./images/Up (USA)-marquee.png</marquee>
+		<thumbnail>./images/Up (USA)-thumb.png</thumbnail>
+		<fanart>./images/Up (USA)-fanart.jpg</fanart>
+		<manual>./manuals/Up (USA)-manual.pdf</manual>
+		<developer>Disney Interactive</developer>
+		<publisher>VTech</publisher>
+		<players>1-2</players>
+		<md5>26cd8f89e97a1187609b1bc37d31c1ab</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T041910" />
+	</game>
+	<game id="151168">
+		<path>./No-Intro/V.Smile - Art Studio (USA) [b].bin</path>
+		<name>V.Smile - Art Studio</name>
+		<image>./images/V.Smile - Art Studio (USA) [b]-image.png</image>
+		<video>./videos/V.Smile - Art Studio (USA) [b]-video.mp4</video>
+		<thumbnail>./images/V.Smile - Art Studio (USA) [b]-thumb.png</thumbnail>
+		<manual>./manuals/V.Smile - Art Studio (USA) [b]-manual.pdf</manual>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<md5>446c5f5eeb3a44ef6d233da226794b45</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T041918" />
+	</game>
+	<game id="151167">
+		<path>./No-Intro/V.Smile - Lern- und Tanzmatte (Germany).bin</path>
+		<name>V.Smile - Lern- Und Tanzmatte</name>
+		<image>./images/V.Smile - Lern- und Tanzmatte (Germany)-image.png</image>
+		<thumbnail>./images/V.Smile - Lern- und Tanzmatte (Germany)-thumb.png</thumbnail>
+		<manual>./manuals/V.Smile - Lern- und Tanzmatte (Germany)-manual.pdf</manual>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Educational</genre>
+		<md5>b6dac6a08b391b89368fc9bd7b71ad4c</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T041925" />
+	</game>
+	<game id="151168">
+		<path>./No-Intro/V.Smile - Tecknarstudio (Sweden).bin</path>
+		<name>V.Smile - Art Studio</name>
+		<image>./images/V.Smile - Tecknarstudio (Sweden)-image.png</image>
+		<video>./videos/V.Smile - Tecknarstudio (Sweden)-video.mp4</video>
+		<thumbnail>./images/V.Smile - Tecknarstudio (Sweden)-thumb.png</thumbnail>
+		<manual>./manuals/V.Smile - Tecknarstudio (Sweden)-manual.pdf</manual>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<md5>2485576139d306d7a50a17bde111ddbd</md5>
+		<lang>sw</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T041934" />
+	</game>
+	<game id="151168">
+		<path>./No-Intro/V.Smile - Zeichenatelier (Germany).bin</path>
+		<name>V.Smile - Zeichenatelier</name>
+		<image>./images/V.Smile - Zeichenatelier (Germany)-image.png</image>
+		<video>./videos/V.Smile - Zeichenatelier (Germany)-video.mp4</video>
+		<thumbnail>./images/V.Smile - Zeichenatelier (Germany)-thumb.png</thumbnail>
+		<manual>./manuals/V.Smile - Zeichenatelier (Germany)-manual.pdf</manual>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<md5>a2d513e510e109bdaeb1caef1a3179b9</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T041944" />
+	</game>
+	<game id="151060">
+		<path>./No-Intro/Wall-E (Germany).bin</path>
+		<name>Wall-E</name>
+		<desc>In the future, Earth is polluted with trash. Humans have left the planet and live on ship in space. Wall. E is the last robot Earth. Wall. E works everyday to clean up the space. One day Wall. E meet a sleek robot named EVE and discovers a new purpose in life. Join Wall. E and EVE on an exciting adventure across the galaxy!</desc>
+		<image>./images/Wall-E (Germany)-image.png</image>
+		<video>./videos/Wall-E (Germany)-video.mp4</video>
+		<thumbnail>./images/Wall-E (Germany)-thumb.png</thumbnail>
+		<fanart>./images/Wall-E (Germany)-fanart.jpg</fanart>
+		<manual>./manuals/Wall-E (Germany)-manual.pdf</manual>
+		<releasedate>20090101T000000</releasedate>
+		<developer>Disney Interactive</developer>
+		<publisher>VTech</publisher>
+		<players>1-2</players>
+		<md5>8dd562b5331f33fedd5f0103c5bf4b7d</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T041956" />
+	</game>
+	<game id="151060">
+		<path>./No-Intro/Wall-E (Italy).bin</path>
+		<name>Wall-E</name>
+		<desc>In the future, Earth is polluted with trash. Humans have left the planet and live on ship in space. Wall. E is the last robot Earth. Wall. E works everyday to clean up the space. One day Wall. E meet a sleek robot named EVE and discovers a new purpose in life. Join Wall. E and EVE on an exciting adventure across the galaxy!</desc>
+		<image>./images/Wall-E (Italy)-image.png</image>
+		<video>./videos/Wall-E (Italy)-video.mp4</video>
+		<thumbnail>./images/Wall-E (Italy)-thumb.png</thumbnail>
+		<fanart>./images/Wall-E (Italy)-fanart.jpg</fanart>
+		<manual>./manuals/Wall-E (Italy)-manual.pdf</manual>
+		<releasedate>20090101T000000</releasedate>
+		<developer>Disney Interactive</developer>
+		<publisher>VTech</publisher>
+		<players>1-2</players>
+		<md5>2d53143774069aeee7da9194864b6644</md5>
+		<lang>it</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T042008" />
+	</game>
+	<game id="151060">
+		<path>./No-Intro/Wall-E (Sweden).bin</path>
+		<name>Wall-E</name>
+		<desc>In the future, Earth is polluted with trash. Humans have left the planet and live on ship in space. Wall. E is the last robot Earth. Wall. E works everyday to clean up the space. One day Wall. E meet a sleek robot named EVE and discovers a new purpose in life. Join Wall. E and EVE on an exciting adventure across the galaxy!</desc>
+		<image>./images/Wall-E (Sweden)-image.png</image>
+		<video>./videos/Wall-E (Sweden)-video.mp4</video>
+		<fanart>./images/Wall-E (Sweden)-fanart.jpg</fanart>
+		<manual>./manuals/Wall-E (Sweden)-manual.pdf</manual>
+		<releasedate>20090101T000000</releasedate>
+		<developer>Disney Interactive</developer>
+		<publisher>VTech</publisher>
+		<players>1-2</players>
+		<md5>c1345f7c399ec61ddf5586246d68b442</md5>
+		<lang>sw</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T042018" />
+	</game>
+	<game>
+		<path>./No-Intro/Wiggles, The - It's Wiggle Time! (USA).bin</path>
+		<name>Wiggles, The - It's Wiggle Time! (USA)</name>
+		<md5>dd7c865b24acbbb03236a9f7da78c7f1</md5>
+		<scrap name="ScreenScraper" date="20231109T042020" />
+	</game>
+	<game id="123663">
+		<path>./No-Intro/Winnie l'Ourson - La Chasse au miel de Winnie (France) (Rev 2).bin</path>
+		<name>Winnie l'Ourson - La Chasse au miel de Winnie</name>
+		<desc>Pooh is on a mission! Help Pooh collect as many honey pots as possible while visiting his favorite spots on his way to the party!</desc>
+		<image>./images/Winnie l'Ourson - La Chasse au miel de Winnie (France) (Rev 2)-image.png</image>
+		<video>./videos/Winnie l'Ourson - La Chasse au miel de Winnie (France) (Rev 2)-video.mp4</video>
+		<manual>./manuals/Winnie l'Ourson - La Chasse au miel de Winnie (France) (Rev 2)-manual.pdf</manual>
+		<developer>Disney Interactive</developer>
+		<publisher>VTech</publisher>
+		<family>Winnie the Pooh</family>
+		<players>1-2</players>
+		<md5>fd955a0e2448a1cd554cec390eb91575</md5>
+		<lang>fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T042028" />
+	</game>
+	<game id="123663">
+		<path>./No-Intro/Winnie l'Ourson - La Chasse au miel de Winnie (France).bin</path>
+		<name>Winnie l'Ourson - La Chasse au miel de Winnie</name>
+		<desc>Pooh is on a mission! Help Pooh collect as many honey pots as possible while visiting his favorite spots on his way to the party!</desc>
+		<image>./images/Winnie l'Ourson - La Chasse au miel de Winnie (France)-image.png</image>
+		<video>./videos/Winnie l'Ourson - La Chasse au miel de Winnie (France)-video.mp4</video>
+		<manual>./manuals/Winnie l'Ourson - La Chasse au miel de Winnie (France)-manual.pdf</manual>
+		<developer>Disney Interactive</developer>
+		<publisher>VTech</publisher>
+		<family>Winnie the Pooh</family>
+		<players>1-2</players>
+		<md5>8ba748cbc173904b5fd78687fc5cdfe8</md5>
+		<lang>fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T042035" />
+	</game>
+	<game id="123663">
+		<path>./No-Intro/Winnie Puuh - Die Honigjagd (Germany) (V.Smile Motion).bin</path>
+		<name>Winnie the Pooh - Die Honigjagd</name>
+		<desc>Pooh is on a mission! Help Pooh collect as many honey pots as possible while visiting his favorite spots on his way to the party!</desc>
+		<video>./videos/Winnie Puuh - Die Honigjagd (Germany) (V.Smile Motion)-video.mp4</video>
+		<developer>Disney Interactive</developer>
+		<publisher>VTech</publisher>
+		<family>Winnie the Pooh</family>
+		<players>1-2</players>
+		<md5>895b1c8383d57573b239a94427cbcb89</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T042039" />
+	</game>
+	<game id="123663">
+		<path>./No-Intro/Winnie Puuh - Die Honigjagd (Germany).bin</path>
+		<name>Winnie the Pooh - Die Honigjagd</name>
+		<desc>Pooh is on a mission! Help Pooh collect as many honey pots as possible while visiting his favorite spots on his way to the party!</desc>
+		<video>./videos/Winnie Puuh - Die Honigjagd (Germany)-video.mp4</video>
+		<developer>Disney Interactive</developer>
+		<publisher>VTech</publisher>
+		<family>Winnie the Pooh</family>
+		<players>1-2</players>
+		<md5>47d305c07aa7af1fd8a05b294a476469</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T042043" />
+	</game>
+	<game id="123663">
+		<path>./No-Intro/Winnie the Pooh e la caccia al miele (Italy).bin</path>
+		<name>Winnie the Pooh - E la caccia al miele</name>
+		<desc>Pooh is on a mission! Help Pooh collect as many honey pots as possible while visiting his favorite spots on his way to the party!</desc>
+		<video>./videos/Winnie the Pooh e la caccia al miele (Italy)-video.mp4</video>
+		<developer>Disney Interactive</developer>
+		<publisher>VTech</publisher>
+		<family>Winnie the Pooh</family>
+		<players>1-2</players>
+		<md5>6a06d859acfc76cafe0f6a10876725e4</md5>
+		<lang>it</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T042047" />
+	</game>
+	<game id="151061">
+		<path>./No-Intro/Zayzoo - An Earth Adventure (USA, Europe).bin</path>
+		<name>Zayzoo - My Alien Classmate</name>
+		<desc>Help the playful Zayzoo to learn new skills by spending a fun-filled day in his new earth school. From the science lab to the playground, children will learn addition and subtraction, spelling, sentence structure, 3D puzzle solving, logic, and more.</desc>
+		<video>./videos/Zayzoo - An Earth Adventure (USA, Europe)-video.mp4</video>
+		<marquee>./images/Zayzoo - An Earth Adventure (USA, Europe)-marquee.png</marquee>
+		<manual>./manuals/Zayzoo - An Earth Adventure (USA, Europe)-manual.pdf</manual>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Educational</genre>
+		<players>1-2</players>
+		<md5>f5ae93c7e57a2f6aedef7a3572a9250d</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231109T042054" />
+	</game>
+	<game id="151061">
+		<path>./No-Intro/Zayzoo My Alien Classmate (United Kingdom).bin</path>
+		<name>Zayzoo - My Alien Classmate</name>
+		<desc>Help the playful Zayzoo to learn new skills by spending a fun-filled day in his new earth school. From the science lab to the playground, children will learn addition and subtraction, spelling, sentence structure, 3D puzzle solving, logic, and more.</desc>
+		<video>./videos/Zayzoo My Alien Classmate (United Kingdom)-video.mp4</video>
+		<marquee>./images/Zayzoo My Alien Classmate (United Kingdom)-marquee.png</marquee>
+		<manual>./manuals/Zayzoo My Alien Classmate (United Kingdom)-manual.pdf</manual>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Educational</genre>
+		<players>1-2</players>
+		<md5>5633a050f6ece7776a7b179f05ac3f28</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231109T042101" />
+	</game>
+	<game id="151061">
+		<path>./No-Intro/Zayzoos Lernall (Germany).bin</path>
+		<name>Zayzoos Lernall</name>
+		<desc>Help the playful Zayzoo to learn new skills by spending a fun-filled day in his new earth school. From the science lab to the playground, children will learn addition and subtraction, spelling, sentence structure, 3D puzzle solving, logic, and more.</desc>
+		<video>./videos/Zayzoos Lernall (Germany)-video.mp4</video>
+		<marquee>./images/Zayzoos Lernall (Germany)-marquee.png</marquee>
+		<manual>./manuals/Zayzoos Lernall (Germany)-manual.pdf</manual>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Educational</genre>
+		<players>1-2</players>
+		<md5>41f2fa7ad4810e9dc27d88603b856e31</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T042108" />
+	</game>
+	<game id="151061">
+		<path>./No-Intro/Zezou - Notre ami venu d'ailleurs (France).bin</path>
+		<name>Zézou - Notre Ami Venu d'Ailleurs</name>
+		<desc>Help the playful Zayzoo to learn new skills by spending a fun-filled day in his new earth school. From the science lab to the playground, children will learn addition and subtraction, spelling, sentence structure, 3D puzzle solving, logic, and more.</desc>
+		<image>./images/Zezou - Notre ami venu d'ailleurs (France)-image.png</image>
+		<video>./videos/Zezou - Notre ami venu d'ailleurs (France)-video.mp4</video>
+		<marquee>./images/Zezou - Notre ami venu d'ailleurs (France)-marquee.png</marquee>
+		<manual>./manuals/Zezou - Notre ami venu d'ailleurs (France)-manual.pdf</manual>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Educational</genre>
+		<players>1-2</players>
+		<md5>539a281e4f3698945d293c96da301773</md5>
+		<lang>fr</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T042117" />
+	</game>
 </gameList>

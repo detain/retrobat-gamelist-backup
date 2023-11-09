@@ -580,4 +580,591 @@
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20230217T111214" />
 	</game>
+	<game id="250168">
+		<path>./No-Intro/Air Sea Attack (Europe, Asia).rom</path>
+		<name>Air/Sea Attack</name>
+		<desc>Hours of exhilaration await you and your family and friends as you take command of your nuclear submarine deep in hostile waters. The enemy is completely ruthless and is out to destroy you with every weapon at his command. His bombers, helicopters and jet-fighters along with his destroyers cruisers, battleships and submarines are armed to the teeth and have only one mission... to find and annihilate you !</desc>
+		<image>./images/Air Sea Attack (Europe, Asia)-image.png</image>
+		<video>./videos/Air Sea Attack (Europe, Asia)-video.mp4</video>
+		<marquee>./images/Air Sea Attack (Europe, Asia)-marquee.png</marquee>
+		<thumbnail>./images/Air Sea Attack (Europe, Asia)-thumb.png</thumbnail>
+		<manual>./manuals/Air Sea Attack (Europe, Asia)-manual.pdf</manual>
+		<rating>0.55</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1-2</players>
+		<md5>2a3000132c6ae8f6712eaee387ad851c</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T034711" />
+	</game>
+	<game id="250144">
+		<path>./No-Intro/Astro Pinball (Europe, Asia) (En).rom</path>
+		<name>Astro Pinball</name>
+		<desc>Each player gets 5 balls to start and controls the plunger which puts the balls into play. One ball is played at a time. As the ball approaches the flippers, the player attempts to hit the ball to keep it in play. You can choose the number of pins, the speed of the ball and the layout of the pinball game, simply by picking the appropriate game number.</desc>
+		<image>./images/Astro Pinball (Europe, Asia) (En)-image.png</image>
+		<video>./videos/Astro Pinball (Europe, Asia) (En)-video.mp4</video>
+		<marquee>./images/Astro Pinball (Europe, Asia) (En)-marquee.png</marquee>
+		<thumbnail>./images/Astro Pinball (Europe, Asia) (En)-thumb.png</thumbnail>
+		<manual>./manuals/Astro Pinball (Europe, Asia) (En)-manual.pdf</manual>
+		<rating>0.5</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Pinball</genre>
+		<players>1-4</players>
+		<md5>639d6df87e991247b438c8d015a70d4d</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T034721" />
+	</game>
+	<game id="250147">
+		<path>./No-Intro/Auto Chase (Europe, Asia).rom</path>
+		<name>Auto Chase</name>
+		<desc>On holiday in an evil dictatorship country, you are contacted by the freedom fighters and asked to deliver vital cash reserves to the free world. But first you have to drive around the city and pick up the money bags. Unfortunately the evil secret police have been notified and are out in force to stop you. Your mission is to pick up as much of the money as possible and the freedom fighters have equipped your getaway car with special poison gas, soif the secret police get too close, you can leave a trail of poison gas in front of them, which will make them go off the road.</desc>
+		<image>./images/Auto Chase (Europe, Asia)-image.png</image>
+		<video>./videos/Auto Chase (Europe, Asia)-video.mp4</video>
+		<marquee>./images/Auto Chase (Europe, Asia)-marquee.png</marquee>
+		<thumbnail>./images/Auto Chase (Europe, Asia)-thumb.png</thumbnail>
+		<manual>./manuals/Auto Chase (Europe, Asia)-manual.pdf</manual>
+		<rating>0.45</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Race, Driving</genre>
+		<players>1-2</players>
+		<md5>b6bfea8987d76872661e1dd25ba5d542</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T034733" />
+	</game>
+	<game>
+		<path>./No-Intro/BASIC (Europe, Asia) (En) (Rev 1).rom</path>
+		<name>BASIC (Europe, Asia) (En) (Rev 1)</name>
+		<md5>89c444347fb1df849fba51be877b6f7d</md5>
+		<scrap name="ScreenScraper" date="20231109T034734" />
+	</game>
+	<game>
+		<path>./No-Intro/BASIC (Europe, Asia) (En) (Rev 2).rom</path>
+		<name>BASIC (Europe, Asia) (En) (Rev 2)</name>
+		<md5>0e43eb5caf9c0128998d04e033016556</md5>
+		<scrap name="ScreenScraper" date="20231109T034736" />
+	</game>
+	<game>
+		<path>./No-Intro/BASIC (Europe, Asia) (En) (Rev 3).rom</path>
+		<name>BASIC (Europe, Asia) (En) (Rev 3)</name>
+		<md5>53d0dd22b311ffcdc1956db6033844e6</md5>
+		<scrap name="ScreenScraper" date="20231109T034737" />
+	</game>
+	<game>
+		<path>./No-Intro/BASIC (Europe, Asia) (En).rom</path>
+		<name>BASIC (Europe, Asia) (En)</name>
+		<md5>cd6202910695e39ede1f5e79d0bde186</md5>
+		<scrap name="ScreenScraper" date="20231109T034738" />
+	</game>
+	<game id="250150">
+		<path>./No-Intro/Chopper Rescue (Europe, Asia) (En).rom</path>
+		<name>Chopper Rescue</name>
+		<desc>You have to do some of the trickiest flying that's ever been done over three types of terrain. But you can't let anything stop you. You have to pick up vital medical supplies and deliver them where disaster has struck. If you fail, thousands will die. You have to avoid tall buildings and high-flying birds just to make the pick-up. And things get worse after that. In order to make the drop you have to have pinpoint accuracy and very steady nerves.</desc>
+		<image>./images/Chopper Rescue (Europe, Asia) (En)-image.png</image>
+		<video>./videos/Chopper Rescue (Europe, Asia) (En)-video.mp4</video>
+		<marquee>./images/Chopper Rescue (Europe, Asia) (En)-marquee.png</marquee>
+		<manual>./manuals/Chopper Rescue (Europe, Asia) (En)-manual.pdf</manual>
+		<rating>0.65</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
+		<md5>33c422e85fcd342e722503e776726dd7</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T034747" />
+	</game>
+	<game id="250153">
+		<path>./No-Intro/Crazy Chicky (Europe, Asia).rom</path>
+		<name>Crazy Chicky</name>
+		<desc>Now, as everyone knows, the one thing a chicky does best is to lay eggs. And that's why you travel all over the Happy Daze Maze laying eggs wherever you go. Your mission is to fill the whole maze with eggs. While you travel around the Happy Daze Maze, laying your eggs and not bothering anybody, don't forget about the 4 Funky Foxes. They will sneak around and try and catch you, and if they do, they'll gobble you up for dinner. So watch out ! Funky Foxes can run faster than you can, but they can't see very good, so they go slower around corners and you might be able to get away, but remember, there are 4 of them and only 1 of you, so be careful.</desc>
+		<image>./images/Crazy Chicky (Europe, Asia)-image.png</image>
+		<video>./videos/Crazy Chicky (Europe, Asia)-video.mp4</video>
+		<marquee>./images/Crazy Chicky (Europe, Asia)-marquee.png</marquee>
+		<thumbnail>./images/Crazy Chicky (Europe, Asia)-thumb.png</thumbnail>
+		<manual>./manuals/Crazy Chicky (Europe, Asia)-manual.pdf</manual>
+		<rating>0.6</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Action / Labyrinth</genre>
+		<players>1-4</players>
+		<md5>46831e263fdd536a7740861d28f24cc2</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T034758" />
+	</game>
+	<game>
+		<path>./No-Intro/Crazy Pucker ~ Crazy Moonie ~ Crazy Chewy (Europe, Asia) (En).rom</path>
+		<name>Crazy Pucker ~ Crazy Moonie ~ Crazy Chewy (Europe, Asia) (En)</name>
+		<md5>93a92da8d9c40e0f53c8e0f681021f18</md5>
+		<scrap name="ScreenScraper" date="20231109T034759" />
+	</game>
+	<game id="250156">
+		<path>./No-Intro/Deep Sea Adventure (Europe, Asia) (En) (6K).rom</path>
+		<name>Deep Sea Adventure</name>
+		<desc>As you explore the sea bottom, thousands of feet under water, the nastiest creatures of the sea are after you. The devious clicklaw crab, a giant armoured beast. The fanged ray, a huge demented animal. And the slip-slimy octopus, with eight giant tentacles. All of them are trying to attack you for no reason at all. Luckily, you have remembered to bring along your undersea death ray, so you can fight back. But remember, you can only shoot in the direction you are travelling. So be prepared to turn around fast.</desc>
+		<image>./images/Deep Sea Adventure (Europe, Asia) (En) (6K)-image.png</image>
+		<video>./videos/Deep Sea Adventure (Europe, Asia) (En) (6K)-video.mp4</video>
+		<marquee>./images/Deep Sea Adventure (Europe, Asia) (En) (6K)-marquee.png</marquee>
+		<thumbnail>./images/Deep Sea Adventure (Europe, Asia) (En) (6K)-thumb.png</thumbnail>
+		<manual>./manuals/Deep Sea Adventure (Europe, Asia) (En) (6K)-manual.pdf</manual>
+		<rating>0.65</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1-2</players>
+		<md5>4a4cfcf8adb06c0fb62b2e6aaccfff4d</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T034809" />
+	</game>
+	<game id="250156">
+		<path>./No-Intro/Deep Sea Adventure (Europe, Asia) (En) (8K).rom</path>
+		<name>Deep Sea Adventure</name>
+		<desc>As you explore the sea bottom, thousands of feet under water, the nastiest creatures of the sea are after you. The devious clicklaw crab, a giant armoured beast. The fanged ray, a huge demented animal. And the slip-slimy octopus, with eight giant tentacles. All of them are trying to attack you for no reason at all. Luckily, you have remembered to bring along your undersea death ray, so you can fight back. But remember, you can only shoot in the direction you are travelling. So be prepared to turn around fast.</desc>
+		<image>./images/Deep Sea Adventure (Europe, Asia) (En) (8K)-image.png</image>
+		<video>./videos/Deep Sea Adventure (Europe, Asia) (En) (8K)-video.mp4</video>
+		<marquee>./images/Deep Sea Adventure (Europe, Asia) (En) (8K)-marquee.png</marquee>
+		<thumbnail>./images/Deep Sea Adventure (Europe, Asia) (En) (8K)-thumb.png</thumbnail>
+		<manual>./manuals/Deep Sea Adventure (Europe, Asia) (En) (8K)-manual.pdf</manual>
+		<rating>0.65</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1-2</players>
+		<md5>11ad7d0a0caead0e6d22f055dc0aba6e</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T034820" />
+	</game>
+	<game>
+		<path>./No-Intro/Diagnostic A (Europe, Asia) (Program).rom</path>
+		<name>Diagnostic A (Europe, Asia) (Program)</name>
+		<md5>0ac4bb592d14840681742e9f16cfa351</md5>
+		<scrap name="ScreenScraper" date="20231109T034821" />
+	</game>
+	<game>
+		<path>./No-Intro/Diagnostic B (Europe, Asia) (Program).rom</path>
+		<name>Diagnostic B (Europe, Asia) (Program)</name>
+		<md5>2fcefe7bbb4d238a8be418aac87ef9e9</md5>
+		<scrap name="ScreenScraper" date="20231109T034823" />
+	</game>
+	<game id="250195">
+		<path>./No-Intro/Hapmon (Europe, Asia) (En) (Program) (Homebrew).rom</path>
+		<name>ZZZ(notgame):Ha.P. Monitor</name>
+		<marquee>./images/Hapmon (Europe, Asia) (En) (Program) (Homebrew)-marquee.png</marquee>
+		<hidden>true</hidden>
+		<md5>3d3dc6cb1374cca0b2a7fb4e898c98c8</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T034826" />
+	</game>
+	<game id="250159">
+		<path>./No-Intro/Locomotive (Europe, Asia) (En) (10K).rom</path>
+		<name>Locomotive</name>
+		<desc>You're a prisoner in a train factory and the only way out is to build your own train. You have to run across dangerous catwalks, high in the air and drop all the right parts onto the tracks below, in the right order, if you want to survive. The hammers and wrenches and even the nails left around the factory are enchanted and will come to life and try to hammer, wrench and nail you ! All you have is an oil can to destroy them.</desc>
+		<image>./images/Locomotive (Europe, Asia) (En) (10K)-image.png</image>
+		<video>./videos/Locomotive (Europe, Asia) (En) (10K)-video.mp4</video>
+		<marquee>./images/Locomotive (Europe, Asia) (En) (10K)-marquee.png</marquee>
+		<thumbnail>./images/Locomotive (Europe, Asia) (En) (10K)-thumb.png</thumbnail>
+		<manual>./manuals/Locomotive (Europe, Asia) (En) (10K)-manual.pdf</manual>
+		<rating>0.65</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+		<md5>2c84498354cecf47d943b777268040ac</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T034837" />
+	</game>
+	<game id="250159">
+		<path>./No-Intro/Locomotive (Europe, Asia) (En) (12K).rom</path>
+		<name>Locomotive</name>
+		<desc>You're a prisoner in a train factory and the only way out is to build your own train. You have to run across dangerous catwalks, high in the air and drop all the right parts onto the tracks below, in the right order, if you want to survive. The hammers and wrenches and even the nails left around the factory are enchanted and will come to life and try to hammer, wrench and nail you ! All you have is an oil can to destroy them.</desc>
+		<image>./images/Locomotive (Europe, Asia) (En) (12K)-image.png</image>
+		<video>./videos/Locomotive (Europe, Asia) (En) (12K)-video.mp4</video>
+		<marquee>./images/Locomotive (Europe, Asia) (En) (12K)-marquee.png</marquee>
+		<thumbnail>./images/Locomotive (Europe, Asia) (En) (12K)-thumb.png</thumbnail>
+		<manual>./manuals/Locomotive (Europe, Asia) (En) (12K)-manual.pdf</manual>
+		<rating>0.65</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+		<md5>f86dc1a3df3e1f25ebd60c0f1de4fdb5</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T034848" />
+	</game>
+	<game id="250162">
+		<path>./No-Intro/Mouse Puzzle (Europe, Asia).rom</path>
+		<name>Mouse Puzzle</name>
+		<desc>A poor little mouse is hungry and looking for food. He walks through pipes inside the wall, but he can't see too well. So you have to move the pipes around to help him go in the right direction. Otherwise he'll fall out the end of a pipe or maybe bonk right into a wall and that will be the end of him. Only you can help to keep him going. City Kitty is a nasty, sneaky, rotten cat. In some games he will sneak into the pipes and chase your mouse. Don't let him catch up because he is hungry too. And he only eats poor little mouse.</desc>
+		<image>./images/Mouse Puzzle (Europe, Asia)-image.png</image>
+		<video>./videos/Mouse Puzzle (Europe, Asia)-video.mp4</video>
+		<marquee>./images/Mouse Puzzle (Europe, Asia)-marquee.png</marquee>
+		<thumbnail>./images/Mouse Puzzle (Europe, Asia)-thumb.png</thumbnail>
+		<manual>./manuals/Mouse Puzzle (Europe, Asia)-manual.pdf</manual>
+		<rating>0.75</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1-2</players>
+		<md5>136caa24d077372d94594cc722a00cf8</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T034900" />
+	</game>
+	<game id="250165">
+		<path>./No-Intro/Music Maker (Europe, Asia).rom</path>
+		<name>Music Maker</name>
+		<desc>Select instrument, rhythm and tempo and play. Simply press the note-keys indicated on your Music Maker grid and play whatever piece of music you wish. As you play, the notes will appear on screen in correct musical notation with the choosen instrument.</desc>
+		<image>./images/Music Maker (Europe, Asia)-image.png</image>
+		<video>./videos/Music Maker (Europe, Asia)-video.mp4</video>
+		<marquee>./images/Music Maker (Europe, Asia)-marquee.png</marquee>
+		<thumbnail>./images/Music Maker (Europe, Asia)-thumb.png</thumbnail>
+		<manual>./manuals/Music Maker (Europe, Asia)-manual.pdf</manual>
+		<rating>0.5</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Music and Dance / Rhythm</genre>
+		<players>1</players>
+		<md5>c19cbb873193f6441ff793b82a5ec19c</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T034911" />
+	</game>
+	<game id="250171">
+		<path>./No-Intro/Planet Defender (Europe, Asia) (En) (6K).rom</path>
+		<name>Planet Defender</name>
+		<desc>You command the hyperspace cruiser. Aliens, from a far galaxy are attacking earth, but first they must conquer the heavily fortified moonbase. As they swoop in to attack in unearthly formations, only you, in your speedy hyperspace cruiser stand between them and total devastation. Blast them out of the sky with your lethal laser cannon and watch them disintegrate.</desc>
+		<image>./images/Planet Defender (Europe, Asia) (En) (6K)-image.png</image>
+		<video>./videos/Planet Defender (Europe, Asia) (En) (6K)-video.mp4</video>
+		<marquee>./images/Planet Defender (Europe, Asia) (En) (6K)-marquee.png</marquee>
+		<thumbnail>./images/Planet Defender (Europe, Asia) (En) (6K)-thumb.png</thumbnail>
+		<manual>./manuals/Planet Defender (Europe, Asia) (En) (6K)-manual.pdf</manual>
+		<rating>0.6</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1-2</players>
+		<md5>ee3ff50bc0a5d339690848d421d63f2d</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T034922" />
+	</game>
+	<game id="250171">
+		<path>./No-Intro/Planet Defender (Europe, Asia) (En) (8K).rom</path>
+		<name>Planet Defender</name>
+		<desc>You command the hyperspace cruiser. Aliens, from a far galaxy are attacking earth, but first they must conquer the heavily fortified moonbase. As they swoop in to attack in unearthly formations, only you, in your speedy hyperspace cruiser stand between them and total devastation. Blast them out of the sky with your lethal laser cannon and watch them disintegrate.</desc>
+		<image>./images/Planet Defender (Europe, Asia) (En) (8K)-image.png</image>
+		<video>./videos/Planet Defender (Europe, Asia) (En) (8K)-video.mp4</video>
+		<marquee>./images/Planet Defender (Europe, Asia) (En) (8K)-marquee.png</marquee>
+		<thumbnail>./images/Planet Defender (Europe, Asia) (En) (8K)-thumb.png</thumbnail>
+		<manual>./manuals/Planet Defender (Europe, Asia) (En) (8K)-manual.pdf</manual>
+		<rating>0.6</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1-2</players>
+		<md5>02cd5364ee077e02b3d0e1c0a6d2adef</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T034933" />
+	</game>
+	<game id="250174">
+		<path>./No-Intro/Police Jump (Europe, Asia) (En) (Rev 1).rom</path>
+		<name>Police Jump</name>
+		<desc>You are a police inspector. The notorious criminal, Dangerous Dan, has kidnapped a beautiful rich girl and you've tracked him down to his sky-scraper hideaway, but that's the easy part. Now you have to go up there, all by yourself and get him. There are twenty floors between you and your goal, every one of them filled with treacherous booby traps.</desc>
+		<image>./images/Police Jump (Europe, Asia) (En) (Rev 1)-image.png</image>
+		<video>./videos/Police Jump (Europe, Asia) (En) (Rev 1)-video.mp4</video>
+		<marquee>./images/Police Jump (Europe, Asia) (En) (Rev 1)-marquee.png</marquee>
+		<thumbnail>./images/Police Jump (Europe, Asia) (En) (Rev 1)-thumb.png</thumbnail>
+		<manual>./manuals/Police Jump (Europe, Asia) (En) (Rev 1)-manual.pdf</manual>
+		<rating>0.4</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Platform / Run Jump</genre>
+		<players>1-2</players>
+		<md5>9cb73c1ca4853ba299a97ed55b17727e</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T034942" />
+	</game>
+	<game id="250174">
+		<path>./No-Intro/Police Jump (Europe, Asia) (En).rom</path>
+		<name>Police Jump</name>
+		<desc>You are a police inspector. The notorious criminal, Dangerous Dan, has kidnapped a beautiful rich girl and you've tracked him down to his sky-scraper hideaway, but that's the easy part. Now you have to go up there, all by yourself and get him. There are twenty floors between you and your goal, every one of them filled with treacherous booby traps.</desc>
+		<image>./images/Police Jump (Europe, Asia) (En)-image.png</image>
+		<video>./videos/Police Jump (Europe, Asia) (En)-video.mp4</video>
+		<marquee>./images/Police Jump (Europe, Asia) (En)-marquee.png</marquee>
+		<thumbnail>./images/Police Jump (Europe, Asia) (En)-thumb.png</thumbnail>
+		<manual>./manuals/Police Jump (Europe, Asia) (En)-manual.pdf</manual>
+		<rating>0.4</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Platform / Run Jump</genre>
+		<players>1-2</players>
+		<md5>cb9a53961c88ec0210d136792ca3d616</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T034952" />
+	</game>
+	<game id="250177">
+		<path>./No-Intro/Soccer (Europe, Asia).rom</path>
+		<name>Soccer</name>
+		<desc>You plan the strategies and you make the plays. You control different players to advance the ball, to intercept passes and to score. The player or goalie which is under your control will be flashing. A clock on the top of your screen will time the game. When the time ius up, the game is over.</desc>
+		<image>./images/Soccer (Europe, Asia)-image.png</image>
+		<video>./videos/Soccer (Europe, Asia)-video.mp4</video>
+		<marquee>./images/Soccer (Europe, Asia)-marquee.png</marquee>
+		<thumbnail>./images/Soccer (Europe, Asia)-thumb.png</thumbnail>
+		<manual>./manuals/Soccer (Europe, Asia)-manual.pdf</manual>
+		<rating>0.5</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Sports / Soccer</genre>
+		<players>1-2</players>
+		<md5>facb2b5308502f8acec4d77eaed6ea3a</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T035002" />
+	</game>
+	<game id="250189">
+		<path>./No-Intro/Sonic Invader (Europe, Asia).rom</path>
+		<name>Sonic Invader</name>
+		<desc>Your mission is to command a squad of formidable Battle Wagons... ground-based, highly mobile fortresses that are Earth's last defence against the dreaded Sonic Invader from a far solar system. The ruthless Sonic Invader with his tight formation of deadly fighters has attacked thousands of planets all across the galaxy and never tasted defeat. Only you can save the earth.</desc>
+		<image>./images/Sonic Invader (Europe, Asia)-image.png</image>
+		<video>./videos/Sonic Invader (Europe, Asia)-video.mp4</video>
+		<marquee>./images/Sonic Invader (Europe, Asia)-marquee.png</marquee>
+		<thumbnail>./images/Sonic Invader (Europe, Asia)-thumb.png</thumbnail>
+		<manual>./manuals/Sonic Invader (Europe, Asia)-manual.pdf</manual>
+		<rating>0.65</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Shooter / Space Invaders Like</genre>
+		<players>1-4</players>
+		<md5>fa49471a2d8d3482fddd77a35655aa26</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T035014" />
+	</game>
+	<game>
+		<path>./No-Intro/Stone Age (Europe, Asia) (En).rom</path>
+		<name>Stone Age (Europe, Asia) (En)</name>
+		<md5>3b4d8c419fb1bbbd2324ed29dae77c7b</md5>
+		<scrap name="ScreenScraper" date="20231109T035015" />
+	</game>
+	<game id="250180">
+		<path>./No-Intro/Tank Attack (Europe, Asia) (En) (6K).rom</path>
+		<name>Tank Attack</name>
+		<desc>You are engaged in a battle to the death with another tank commander who has the same weapons as you have, so only your superior skill can win the day ! There are many obstacles on the battleground, such as buildings, trees and the river all of which can be used for defence and to help in your attack.</desc>
+		<image>./images/Tank Attack (Europe, Asia) (En) (6K)-image.png</image>
+		<video>./videos/Tank Attack (Europe, Asia) (En) (6K)-video.mp4</video>
+		<marquee>./images/Tank Attack (Europe, Asia) (En) (6K)-marquee.png</marquee>
+		<thumbnail>./images/Tank Attack (Europe, Asia) (En) (6K)-thumb.png</thumbnail>
+		<manual>./manuals/Tank Attack (Europe, Asia) (En) (6K)-manual.pdf</manual>
+		<rating>0.75</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Shooter / Vehicle, 3rd person</genre>
+		<players>1-2</players>
+		<md5>c200695d35ab7096d85cb4be32c8c740</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T035028" />
+	</game>
+	<game id="250180">
+		<path>./No-Intro/Tank Attack (Europe, Asia) (En) (8K).rom</path>
+		<name>Tank Attack</name>
+		<desc>You are engaged in a battle to the death with another tank commander who has the same weapons as you have, so only your superior skill can win the day ! There are many obstacles on the battleground, such as buildings, trees and the river all of which can be used for defence and to help in your attack.</desc>
+		<image>./images/Tank Attack (Europe, Asia) (En) (8K)-image.png</image>
+		<video>./videos/Tank Attack (Europe, Asia) (En) (8K)-video.mp4</video>
+		<marquee>./images/Tank Attack (Europe, Asia) (En) (8K)-marquee.png</marquee>
+		<thumbnail>./images/Tank Attack (Europe, Asia) (En) (8K)-thumb.png</thumbnail>
+		<manual>./manuals/Tank Attack (Europe, Asia) (En) (8K)-manual.pdf</manual>
+		<rating>0.75</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Shooter / Vehicle, 3rd person</genre>
+		<players>1-2</players>
+		<md5>68fc7cf9039568e8be17d2175d1e342c</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T035039" />
+	</game>
+	<game id="250183">
+		<path>./No-Intro/Tennis (Europe, Asia) (En) (Coca-Cola ~ Sprite).rom</path>
+		<name>Tennis</name>
+		<desc>You can play at any level of skill you desire, from novice right up to world cup matches with friends or by yourself. The players are realistic and move all around the court and the ball follows the trajectories it would during a real game.</desc>
+		<image>./images/Tennis (Europe, Asia) (En) (Coca-Cola ~ Sprite)-image.png</image>
+		<video>./videos/Tennis (Europe, Asia) (En) (Coca-Cola ~ Sprite)-video.mp4</video>
+		<marquee>./images/Tennis (Europe, Asia) (En) (Coca-Cola ~ Sprite)-marquee.png</marquee>
+		<thumbnail>./images/Tennis (Europe, Asia) (En) (Coca-Cola ~ Sprite)-thumb.png</thumbnail>
+		<manual>./manuals/Tennis (Europe, Asia) (En) (Coca-Cola ~ Sprite)-manual.pdf</manual>
+		<rating>0.5</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Sports / Tennis</genre>
+		<players>1-2</players>
+		<md5>8c910a98e1045f668ecc1cee39810834</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T035050" />
+	</game>
+	<game id="250183">
+		<path>./No-Intro/Tennis (Europe, Asia) (En) (DSE) (Rev 1) (6K).rom</path>
+		<name>Tennis</name>
+		<desc>You can play at any level of skill you desire, from novice right up to world cup matches with friends or by yourself. The players are realistic and move all around the court and the ball follows the trajectories it would during a real game.</desc>
+		<image>./images/Tennis (Europe, Asia) (En) (DSE) (Rev 1) (6K)-image.png</image>
+		<video>./videos/Tennis (Europe, Asia) (En) (DSE) (Rev 1) (6K)-video.mp4</video>
+		<marquee>./images/Tennis (Europe, Asia) (En) (DSE) (Rev 1) (6K)-marquee.png</marquee>
+		<thumbnail>./images/Tennis (Europe, Asia) (En) (DSE) (Rev 1) (6K)-thumb.png</thumbnail>
+		<manual>./manuals/Tennis (Europe, Asia) (En) (DSE) (Rev 1) (6K)-manual.pdf</manual>
+		<rating>0.5</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Sports / Tennis</genre>
+		<players>1-2</players>
+		<md5>e05ad31589d0b4d3e7a8cea1b4f0391a</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T035100" />
+	</game>
+	<game id="250183">
+		<path>./No-Intro/Tennis (Europe, Asia) (En) (DSE) (Rev 1) (8K).rom</path>
+		<name>Tennis</name>
+		<desc>You can play at any level of skill you desire, from novice right up to world cup matches with friends or by yourself. The players are realistic and move all around the court and the ball follows the trajectories it would during a real game.</desc>
+		<image>./images/Tennis (Europe, Asia) (En) (DSE) (Rev 1) (8K)-image.png</image>
+		<video>./videos/Tennis (Europe, Asia) (En) (DSE) (Rev 1) (8K)-video.mp4</video>
+		<marquee>./images/Tennis (Europe, Asia) (En) (DSE) (Rev 1) (8K)-marquee.png</marquee>
+		<thumbnail>./images/Tennis (Europe, Asia) (En) (DSE) (Rev 1) (8K)-thumb.png</thumbnail>
+		<manual>./manuals/Tennis (Europe, Asia) (En) (DSE) (Rev 1) (8K)-manual.pdf</manual>
+		<rating>0.5</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Sports / Tennis</genre>
+		<players>1-2</players>
+		<md5>1bda4ee02466b98c6c4cf8c962838d3f</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T035111" />
+	</game>
+	<game id="250183">
+		<path>./No-Intro/Tennis (Europe, Asia) (En) (DSE).rom</path>
+		<name>Tennis</name>
+		<desc>You can play at any level of skill you desire, from novice right up to world cup matches with friends or by yourself. The players are realistic and move all around the court and the ball follows the trajectories it would during a real game.</desc>
+		<image>./images/Tennis (Europe, Asia) (En) (DSE)-image.png</image>
+		<video>./videos/Tennis (Europe, Asia) (En) (DSE)-video.mp4</video>
+		<marquee>./images/Tennis (Europe, Asia) (En) (DSE)-marquee.png</marquee>
+		<thumbnail>./images/Tennis (Europe, Asia) (En) (DSE)-thumb.png</thumbnail>
+		<manual>./manuals/Tennis (Europe, Asia) (En) (DSE)-manual.pdf</manual>
+		<rating>0.5</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Sports / Tennis</genre>
+		<players>1-2</players>
+		<md5>0c475ca46f44eea5e754e87b049a81e7</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T035122" />
+	</game>
+	<game id="250183">
+		<path>./No-Intro/Tennis (Europe, Asia) (En) (Wimbledon) (6K).rom</path>
+		<name>Tennis</name>
+		<desc>You can play at any level of skill you desire, from novice right up to world cup matches with friends or by yourself. The players are realistic and move all around the court and the ball follows the trajectories it would during a real game.</desc>
+		<image>./images/Tennis (Europe, Asia) (En) (Wimbledon) (6K)-image.png</image>
+		<video>./videos/Tennis (Europe, Asia) (En) (Wimbledon) (6K)-video.mp4</video>
+		<marquee>./images/Tennis (Europe, Asia) (En) (Wimbledon) (6K)-marquee.png</marquee>
+		<thumbnail>./images/Tennis (Europe, Asia) (En) (Wimbledon) (6K)-thumb.png</thumbnail>
+		<manual>./manuals/Tennis (Europe, Asia) (En) (Wimbledon) (6K)-manual.pdf</manual>
+		<rating>0.5</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Sports / Tennis</genre>
+		<players>1-2</players>
+		<md5>b175bae527d90ac2414e906b161cc3f3</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T035133" />
+	</game>
+	<game id="250183">
+		<path>./No-Intro/Tennis (Europe, Asia) (En) (Wimbledon) (8K).rom</path>
+		<name>Tennis</name>
+		<desc>You can play at any level of skill you desire, from novice right up to world cup matches with friends or by yourself. The players are realistic and move all around the court and the ball follows the trajectories it would during a real game.</desc>
+		<image>./images/Tennis (Europe, Asia) (En) (Wimbledon) (8K)-image.png</image>
+		<video>./videos/Tennis (Europe, Asia) (En) (Wimbledon) (8K)-video.mp4</video>
+		<marquee>./images/Tennis (Europe, Asia) (En) (Wimbledon) (8K)-marquee.png</marquee>
+		<thumbnail>./images/Tennis (Europe, Asia) (En) (Wimbledon) (8K)-thumb.png</thumbnail>
+		<manual>./manuals/Tennis (Europe, Asia) (En) (Wimbledon) (8K)-manual.pdf</manual>
+		<rating>0.5</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Sports / Tennis</genre>
+		<players>1-2</players>
+		<md5>1a60104942ef675d6d34c0c3361025de</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231109T035145" />
+	</game>
+	<game>
+		<path>./No-Intro/Werben Informieren (Germany) (Program).rom</path>
+		<name>Werben Informieren (Germany) (Program)</name>
+		<md5>d8accb43a6359574f8ae85c05f4c20bb</md5>
+		<scrap name="ScreenScraper" date="20231109T035146" />
+	</game>
+	<game>
+		<path>./No-Intro/[BIOS] CreatiVision - Dick Smith Wizzard (Europe, Asia).rom</path>
+		<name>[BIOS] CreatiVision - Dick Smith Wizzard (Europe, Asia)</name>
+		<md5>3b1ef759d8e3fb4071582efd33dd05f9</md5>
+		<scrap name="ScreenScraper" date="20231109T035148" />
+	</game>
+	<game>
+		<path>./No-Intro/[BIOS] Laser 2001 (Europe, Asia).rom</path>
+		<name>[BIOS] Laser 2001 (Europe, Asia)</name>
+		<md5>4dfadfb1158f84e2df2b85b13f303986</md5>
+		<scrap name="ScreenScraper" date="20231109T035149" />
+	</game>
+	<game>
+		<path>./No-Intro/[BIOS] Rameses - Funvision - VZ 2000 (Europe, Asia).rom</path>
+		<name>[BIOS] Rameses - Funvision - VZ 2000 (Europe, Asia)</name>
+		<md5>7194bbc3d4814432c132b1ed9cf1c680</md5>
+		<scrap name="ScreenScraper" date="20231109T035151" />
+	</game>
+	<game>
+		<path>./No-Intro/[BIOS] Salora Manager (Finland).rom</path>
+		<name>[BIOS] Salora Manager (Finland)</name>
+		<md5>e65f96e9ffef24b5215a2cd86d5c94b8</md5>
+		<scrap name="ScreenScraper" date="20231109T035152" />
+	</game>
 </gameList>
