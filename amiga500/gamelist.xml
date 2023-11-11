@@ -11443,4 +11443,9 @@ Zork Zero: The Revenge of Megaboz is chronologically a prequel to the first thre
 		<name>RadBench v1.500 (1992)(Partridge, Carl - 17-Bit Software)(SW)</name>
 		<md5>b64a2f7f69a01d1aa9a6ef66963ff241</md5>
 	</game>
+	<game>
+		<path>./No-Intro/Bitstream/Hugo (Disk 1) (Sweden).zip</path>
+		<name>Hugo (Disk 1) (Sweden)</name>
+		<md5>98ac2b7ce7cb1c3d720c349fd741035b</md5>
+	</game>
 </gameList>
