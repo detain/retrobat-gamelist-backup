@@ -379,24 +379,6 @@ When you're finished, enter the Sing Along section to make your own song and sin
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230302T203301" />
 	</game>
-	<game id="151168">
-		<path>./No-Intro/V.Smile - Art Studio (USA).bin</path>
-		<name>V.Smile - Art Studio</name>
-		<image>./images/V.Smile - Art Studio (USA)-image.png</image>
-		<video>./videos/V.Smile - Art Studio (USA)-video.mp4</video>
-		<thumbnail>./images/V.Smile - Art Studio (USA)-thumb.png</thumbnail>
-		<manual>./manuals/V.Smile - Art Studio (USA)-manual.pdf</manual>
-		<boxback>./images/V.Smile - Art Studio (USA)-boxback.png</boxback>
-		<rating>0</rating>
-		<developer>VTech</developer>
-		<publisher>VTech</publisher>
-		<lastplayed>20230222T000000</lastplayed>
-		<crc32>34ACAFE6</crc32>
-		<md5>446c5f5eeb3a44ef6d233da226794b45</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230302T203304" />
-	</game>
 	<game id="151061">
 		<path>./No-Intro/Zayzoo - An Earth Adventure (USA).bin</path>
 		<name>Zayzoo - My Alien Classmate</name>

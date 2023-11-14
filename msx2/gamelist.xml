@@ -1,27 +1,6 @@
 <?xml version="1.0"?>
 <gameList>
 	<game>
-		<path>./No-Intro/Brunilda (World) (v1.1) (Aftermarket) (Homebrew)/RWBrunildaMSX2_v1_01.rom</path>
-		<name>RWBrunildaMSX2_v1_01</name>
-		<crc32>9EB9BAD0</crc32>
-		<md5>e64516057017949edf78d8517a14028b</md5>
-		<scrap name="ScreenScraper" date="20230221T153122" />
-	</game>
-	<game>
-		<path>./No-Intro/Sword of Ianna, The (World) (En,Es) (v1.2) (Aftermarket) (Homebrew)/ianna.rom</path>
-		<name>ianna</name>
-		<crc32>3E9AEB2B</crc32>
-		<md5>a5cbdd2d012cccd49b8bce76db66e55c</md5>
-		<scrap name="ScreenScraper" date="20230221T153124" />
-	</game>
-	<game>
-		<path>./No-Intro/Sword of Ianna, The (World) (Fr) (v1.2) (Aftermarket) (Homebrew)/ianna.rom</path>
-		<name>ianna</name>
-		<crc32>6DDDEB62</crc32>
-		<md5>3e900c93a758c417afe6bb3c11434c7a</md5>
-		<scrap name="ScreenScraper" date="20230221T153126" />
-	</game>
-	<game>
 		<path>./TOSEC/Applications/[DSK]/CD-Player for MegaSCSI &amp; Sunrise ATA-IDE v1.1 (2000)(Sergio Guerrero)[needs MSX-DOS]/CD-Player for MegaSCSI &amp; Sunrise ATA-IDE v1.1 (2000)(Sergio Guerrero)[needs MSX-DOS].dsk</path>
 		<name>CD-Player for MegaSCSI &amp; Sunrise ATA-IDE v1.1 (2000)(Sergio Guerrero)[needs MSX-DOS]</name>
 		<crc32>2F75BCA9</crc32>

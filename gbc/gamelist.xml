@@ -145,13 +145,6 @@ Disney's 102 Dalmatians: Puppies to the Rescue on the Game Boy Color is a 2D, si
 		<region>eu</region>
 		<scrap name="ScreenScraper" date="20230223T034500" />
 	</game>
-	<game>
-		<path>./No-Intro/3D Quasars (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>3D Quasars (World) (Aftermarket) (Homebrew)</name>
-		<crc32>1FD94E67</crc32>
-		<md5>23627de756d221f4093812a5e5f42623</md5>
-		<scrap name="ScreenScraper" date="20230223T034501" />
-	</game>
 	<game id="82995">
 		<path>./No-Intro/4 in 1 + 8 in 1 (World) (4B-001, 4B-009, 8B-001, Sachen) (Unl).gbc</path>
 		<name>4 in 1 + 8 in 1</name>
@@ -286,13 +279,6 @@ Disney's 102 Dalmatians: Puppies to the Rescue on the Game Boy Color is a 2D, si
 		<region>eu</region>
 		<scrap name="ScreenScraper" date="20230223T034519" />
 	</game>
-	<game>
-		<path>./No-Intro/Aardvark (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Aardvark (World) (Aftermarket) (Homebrew)</name>
-		<crc32>270D45B9</crc32>
-		<md5>dd6b704cde7ff9516c09ba86833a7f9f</md5>
-		<scrap name="ScreenScraper" date="20230223T034520" />
-	</game>
 	<game id="36849">
 		<path>./No-Intro/Action Man - Search for Base X (USA, Europe).gbc</path>
 		<name>Action Man: Search for Base X</name>
@@ -316,20 +302,6 @@ The gameplay is a standard side-scrolling action platformer where the player adv
 		<lang>en</lang>
 		<region>eu</region>
 		<scrap name="ScreenScraper" date="20230223T034527" />
-	</game>
-	<game>
-		<path>./No-Intro/Agent B (World) (2021-12-29) (Aftermarket) (Homebrew).gbc</path>
-		<name>Agent B (World) (2021-12-29) (Aftermarket) (Homebrew)</name>
-		<crc32>31B6E3FA</crc32>
-		<md5>e6007f4f4d8d671d7c94390be47e6dfa</md5>
-		<scrap name="ScreenScraper" date="20230223T034529" />
-	</game>
-	<game>
-		<path>./No-Intro/Agent B (World) (2021-12-29) (Demo) (Aftermarket) (Homebrew).gbc</path>
-		<name>Agent B (World) (2021-12-29) (Demo) (Aftermarket) (Homebrew)</name>
-		<crc32>AE767AD7</crc32>
-		<md5>670535d6b535a1dfddf9265016c22cb9</md5>
-		<scrap name="ScreenScraper" date="20230223T034530" />
 	</game>
 	<game id="82084">
 		<path>./No-Intro/AirForce Delta (USA).gbc</path>
@@ -871,13 +843,6 @@ You can also find screensavers, video clips, details of the first two Austin Pow
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230223T034746" />
 	</game>
-	<game>
-		<path>./No-Intro/Auto Zone (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Auto Zone (World) (Aftermarket) (Homebrew)</name>
-		<crc32>2A86D386</crc32>
-		<md5>4907bfe608ede74e08f4b43c51dc0194</md5>
-		<scrap name="ScreenScraper" date="20230223T034748" />
-	</game>
 	<game id="36861">
 		<path>./No-Intro/Azure Dreams (USA) (SGB Enhanced) (GB Compatible).gbc</path>
 		<name>Azure Dreams</name>
@@ -925,13 +890,6 @@ Babe is given hints and tips in these efforts by lovable characters from both of
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230223T034759" />
 	</game>
-	<game>
-		<path>./No-Intro/Back to Nature (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Back to Nature (World) (Aftermarket) (Homebrew)</name>
-		<crc32>861F9A63</crc32>
-		<md5>78b152baf4c60314eb96d4d433a3d8f3</md5>
-		<scrap name="ScreenScraper" date="20230223T034801" />
-	</game>
 	<game id="36863">
 		<path>./No-Intro/Ballistic (USA) (GB Compatible).gbc</path>
 		<name>Ballistic</name>
@@ -954,13 +912,6 @@ Ballistic also features a versus mode in which players can challenge one another
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230223T034806" />
-	</game>
-	<game>
-		<path>./No-Intro/Bandits at Zero (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Bandits at Zero (World) (Aftermarket) (Homebrew)</name>
-		<crc32>C70F413E</crc32>
-		<md5>3b3d047d3264e1af33cb5b8cabfc8840</md5>
-		<scrap name="ScreenScraper" date="20230223T034808" />
 	</game>
 	<game id="81972">
 		<path>./No-Intro/Barbie - Fashion Pack Games (USA, Europe) (GB Compatible).gbc</path>
@@ -1135,13 +1086,6 @@ Mostly a 3-D beat-the-living-sunshine-out-of-whatever-moves type.</desc>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230223T034851" />
 	</game>
-	<game>
-		<path>./No-Intro/Battle Star (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Battle Star (World) (Aftermarket) (Homebrew)</name>
-		<crc32>B2FD062F</crc32>
-		<md5>9eccd7d587ce52ebf90722dac7fb1eac</md5>
-		<scrap name="ScreenScraper" date="20230223T034852" />
-	</game>
 	<game id="81986">
 		<path>./No-Intro/Battleship (USA, Europe) (GB Compatible).gbc</path>
 		<name>Battleship</name>
@@ -1209,13 +1153,6 @@ The game has a large multiplayer component, allowing up to 4 players at once, wi
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230223T034910" />
-	</game>
-	<game>
-		<path>./No-Intro/Berks (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Berks (World) (Aftermarket) (Homebrew)</name>
-		<crc32>10DED9AB</crc32>
-		<md5>14158554a3d0743a668cd56070bc1ef9</md5>
-		<scrap name="ScreenScraper" date="20230223T034912" />
 	</game>
 	<game id="82001">
 		<path>./No-Intro/Billy Bob's Huntin' 'n' Fishin' (USA, Europe).gbc</path>
@@ -1330,13 +1267,6 @@ Gameplay-wise the game plays like a remake of the first game, with similar level
 		<lang>en</lang>
 		<region>eu</region>
 		<scrap name="ScreenScraper" date="20230223T034942" />
-	</game>
-	<game>
-		<path>./No-Intro/Blinky's Revenge (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Blinky's Revenge (World) (Aftermarket) (Homebrew)</name>
-		<crc32>2D2F9C2B</crc32>
-		<md5>4948bfdacce45f5c1d0facab23f3ba54</md5>
-		<scrap name="ScreenScraper" date="20230223T034944" />
 	</game>
 	<game id="82008">
 		<path>./No-Intro/Blue's Clues - Blue's Alphabet Book (USA) (Rev 1) (Proto).gbc</path>
@@ -1531,20 +1461,6 @@ There is also a battle mode where two players can duke it out via linked Game Bo
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230223T035028" />
 	</game>
-	<game>
-		<path>./No-Intro/Booty (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Booty (World) (Aftermarket) (Homebrew)</name>
-		<crc32>EF6C39C8</crc32>
-		<md5>b85fa198c52bb1aeb40358dd712800a5</md5>
-		<scrap name="ScreenScraper" date="20230223T035029" />
-	</game>
-	<game>
-		<path>./No-Intro/Bubble Trouble (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Bubble Trouble (World) (Aftermarket) (Homebrew)</name>
-		<crc32>3374918B</crc32>
-		<md5>94a53f23bf6200905006082508ea43bf</md5>
-		<scrap name="ScreenScraper" date="20230223T035031" />
-	</game>
 	<game id="36877">
 		<path>./No-Intro/Buffy the Vampire Slayer (USA, Europe).gbc</path>
 		<name>Buffy the Vampire Slayer</name>
@@ -1646,13 +1562,6 @@ There are more than 60 levels. In each you will have to find eight keys to unloc
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230223T035055" />
-	</game>
-	<game>
-		<path>./No-Intro/Bulb! (World) (v2.5, 2022-05-19) (Aftermarket) (Homebrew).gbc</path>
-		<name>Bulb! (World) (v2.5, 2022-05-19) (Aftermarket) (Homebrew)</name>
-		<crc32>650114A2</crc32>
-		<md5>5ec1bf9b053b191634c3d32638878132</md5>
-		<scrap name="ScreenScraper" date="20230223T035057" />
 	</game>
 	<game id="82657">
 		<path>./No-Intro/Bust-A-Move 4 (USA, Europe) (GB Compatible).gbc</path>
@@ -1930,13 +1839,6 @@ Catwoman has dozens of moves to help her navigate and fight her way through nine
 		<md5>695e4a82d1a97859365e3b5d5ba28e8c</md5>
 		<scrap name="ScreenScraper" date="20230223T035213" />
 	</game>
-	<game>
-		<path>./No-Intro/Cave Fighter (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Cave Fighter (World) (Aftermarket) (Homebrew)</name>
-		<crc32>6F4641F0</crc32>
-		<md5>137590affd2da2f275b87b412d6f0c7d</md5>
-		<scrap name="ScreenScraper" date="20230223T035214" />
-	</game>
 	<game id="36883">
 		<path>./No-Intro/Centipede (USA) (GB Compatible).gbc</path>
 		<name>Centipede</name>
@@ -2069,13 +1971,6 @@ The aim of the game is to use your Dino's bubble abilities to trap and pop the b
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230223T035249" />
 	</game>
-	<game>
-		<path>./No-Intro/Climb It (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Climb It (World) (Aftermarket) (Homebrew)</name>
-		<crc32>E7210290</crc32>
-		<md5>e8af8eb59a3f8ab95c68769e651ed138</md5>
-		<scrap name="ScreenScraper" date="20230223T035251" />
-	</game>
 	<game id="36887">
 		<path>./No-Intro/Commander Keen (USA, Europe).gbc</path>
 		<name>Commander Keen</name>
@@ -2100,17 +1995,6 @@ You play the role of Billy Blaze, who, when he isn't tinkering in his secret wor
 		<lang>en</lang>
 		<region>eu</region>
 		<scrap name="ScreenScraper" date="20230223T035257" />
-	</game>
-	<game id="166740">
-		<path>./No-Intro/Commando (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>ZZZ(notgame):Commando</name>
-		<image>./images/Commando (World) (Aftermarket) (Homebrew)-image.png</image>
-		<hidden>true</hidden>
-		<crc32>5381B103</crc32>
-		<md5>ffe6f6d5b40e249a03b8c80ab140f56d</md5>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ScreenScraper" date="20230223T035300" />
 	</game>
 	<game id="36888">
 		<path>./No-Intro/Conker's Pocket Tales (USA, Europe) (En,Fr,De) (SGB Enhanced) (GB Compatible).gbc</path>
@@ -2156,13 +2040,6 @@ Conker travels through many levels, trying to find presents that the Evil Acorn 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230223T035310" />
-	</game>
-	<game>
-		<path>./No-Intro/Crazy Golf (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Crazy Golf (World) (Aftermarket) (Homebrew)</name>
-		<crc32>F7FE3D01</crc32>
-		<md5>dba35ac5202ee0b8578a1a275ee13b93</md5>
-		<scrap name="ScreenScraper" date="20230223T035311" />
 	</game>
 	<game id="36890">
 		<path>./No-Intro/Croc (USA, Europe).gbc</path>
@@ -2278,13 +2155,6 @@ Crystalis is a top-down action RPG. Starting from the cryogenic chamber, the pla
 		<lang>de,en,es,fr,it</lang>
 		<region>eu</region>
 		<scrap name="ScreenScraper" date="20230223T035341" />
-	</game>
-	<game>
-		<path>./No-Intro/Cuthbert in the Cooler (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Cuthbert in the Cooler (World) (Aftermarket) (Homebrew)</name>
-		<crc32>30204C4E</crc32>
-		<md5>d7a018169bc80c1de1e33c024e0991b7</md5>
-		<scrap name="ScreenScraper" date="20230223T035343" />
 	</game>
 	<game id="82065">
 		<path>./No-Intro/CyberTiger (USA, Europe).gbc</path>
@@ -2618,13 +2488,6 @@ The mini games include: "The Scooter Spot", which is a simple ramp hitting/obsta
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230223T035516" />
 	</game>
-	<game>
-		<path>./No-Intro/Doc Cosmos - The Saga Begins (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Doc Cosmos - The Saga Begins (World) (Aftermarket) (Homebrew)</name>
-		<crc32>754DFF51</crc32>
-		<md5>7c18e0d153fc3a0ba7761da0ef35a783</md5>
-		<scrap name="ScreenScraper" date="20230223T035517" />
-	</game>
 	<game id="82106">
 		<path>./No-Intro/Dogz (USA).gbc</path>
 		<name>Dogz</name>
@@ -2726,13 +2589,6 @@ The game is split into different worlds, which are split into different levels. 
 		<lang>de,en,es,fr,it</lang>
 		<region>eu</region>
 		<scrap name="ScreenScraper" date="20230223T035554" />
-	</game>
-	<game>
-		<path>./No-Intro/Dork's Dilemma (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Dork's Dilemma (World) (Aftermarket) (Homebrew)</name>
-		<crc32>77B8B43B</crc32>
-		<md5>b40f87a5332e9638cb92b98cfa4b202b</md5>
-		<scrap name="ScreenScraper" date="20230223T035555" />
 	</game>
 	<game id="82124">
 		<path>./No-Intro/Doug's Big Game (USA).gbc</path>
@@ -3368,20 +3224,6 @@ There are five different modes to choose from:
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230223T035844" />
 	</game>
-	<game>
-		<path>./No-Intro/Expiration Date (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Expiration Date (World) (Aftermarket) (Homebrew)</name>
-		<crc32>050CAA5E</crc32>
-		<md5>36a056d74781b5963802fb17e0b05222</md5>
-		<scrap name="ScreenScraper" date="20230223T035845" />
-	</game>
-	<game>
-		<path>./No-Intro/Exploits of Fingers Malone, The (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Exploits of Fingers Malone, The (World) (Aftermarket) (Homebrew)</name>
-		<crc32>20FE84AF</crc32>
-		<md5>ad2dd8db576cf8aa1262cca24df6ff59</md5>
-		<scrap name="ScreenScraper" date="20230223T035847" />
-	</game>
 	<game id="82171">
 		<path>./No-Intro/Extreme Sports with the Berenstain Bears (USA, Europe) (En,Fr,De,Es,It).gbc</path>
 		<name>Extreme Sports with the Berenstain Bears</name>
@@ -3520,55 +3362,6 @@ The game allows for a first person cockpit view of the races. The season can be 
 		<lang>en</lang>
 		<region>eu</region>
 		<scrap name="ScreenScraper" date="20230223T035926" />
-	</game>
-	<game>
-		<path>./No-Intro/Fillo - Crystal Version (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Fillo - Crystal Version (World) (Aftermarket) (Homebrew)</name>
-		<crc32>88BB855C</crc32>
-		<md5>4505499c8a53c23195b2d47b9366fba7</md5>
-		<scrap name="ScreenScraper" date="20230223T035928" />
-	</game>
-	<game>
-		<path>./No-Intro/Find Out (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Find Out (World) (Aftermarket) (Homebrew)</name>
-		<crc32>5F8B660E</crc32>
-		<md5>dcc73cdf818a54657230bf552504abe1</md5>
-		<scrap name="ScreenScraper" date="20230223T035930" />
-	</game>
-	<game>
-		<path>./No-Intro/Finders Keepers (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Finders Keepers (World) (Aftermarket) (Homebrew)</name>
-		<crc32>4CFA0CFD</crc32>
-		<md5>44bd656c1315621238cc57767e2e0e35</md5>
-		<scrap name="ScreenScraper" date="20230223T035931" />
-	</game>
-	<game>
-		<path>./No-Intro/Fire Ant (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Fire Ant (World) (Aftermarket) (Homebrew)</name>
-		<crc32>154CC020</crc32>
-		<md5>90f41034a9d4928bdf4b56d2e5c9b62c</md5>
-		<scrap name="ScreenScraper" date="20230223T035933" />
-	</game>
-	<game>
-		<path>./No-Intro/Fireman Fred (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Fireman Fred (World) (Aftermarket) (Homebrew)</name>
-		<crc32>563D9CA7</crc32>
-		<md5>63073bf7cd416f5facbfe9e9d7d7e6c9</md5>
-		<scrap name="ScreenScraper" date="20230223T035935" />
-	</game>
-	<game>
-		<path>./No-Intro/Firemen (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Firemen (World) (Aftermarket) (Homebrew)</name>
-		<crc32>7299401F</crc32>
-		<md5>317f997c10602f100fa1231f72194505</md5>
-		<scrap name="ScreenScraper" date="20230223T035936" />
-	</game>
-	<game>
-		<path>./No-Intro/Fix It Felix Jr. (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Fix It Felix Jr. (World) (Aftermarket) (Homebrew)</name>
-		<crc32>C8014615</crc32>
-		<md5>ba2f86e301d723422e92dc2d23fbc976</md5>
-		<scrap name="ScreenScraper" date="20230223T035938" />
 	</game>
 	<game id="82181">
 		<path>./No-Intro/Flintstones, The - Burgertime in Bedrock (USA).gbc</path>
@@ -3750,13 +3543,6 @@ The road is full of cars and trucks, at variable speeds. The river water itself 
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230223T040026" />
 	</game>
-	<game>
-		<path>./No-Intro/G-Man (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>G-Man (World) (Aftermarket) (Homebrew)</name>
-		<crc32>FF3BEAB1</crc32>
-		<md5>67a76a42def402617d23961b3827d156</md5>
-		<scrap name="ScreenScraper" date="20230223T040029" />
-	</game>
 	<game id="37079">
 		<path>./No-Intro/Galaga - Destination Earth (USA).gbc</path>
 		<name>Galaga : Destination Earth</name>
@@ -3858,20 +3644,6 @@ Donkey Junior: As Donkey Kong Jr. you must collect the keys while evading enemie
 		<region>wr</region>
 		<scrap name="ScreenScraper" date="20230223T040050" />
 	</game>
-	<game>
-		<path>./No-Intro/Gamer Boy Mission (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Gamer Boy Mission (World) (Aftermarket) (Homebrew)</name>
-		<crc32>96721E5D</crc32>
-		<md5>a366feb4c07a1f70890d0bf3e13de38b</md5>
-		<scrap name="ScreenScraper" date="20230223T040051" />
-	</game>
-	<game>
-		<path>./No-Intro/Gamer Boy Mission (World) (Demo) (Aftermarket) (Homebrew).gbc</path>
-		<name>Gamer Boy Mission (World) (Demo) (Aftermarket) (Homebrew)</name>
-		<crc32>A02D2AE2</crc32>
-		<md5>905fe863282f27c9f5ec07374918c33d</md5>
-		<scrap name="ScreenScraper" date="20230223T040052" />
-	</game>
 	<game id="142728">
 		<path>./No-Intro/GameShark MX (USA) (v1.02) (Unl).gbc</path>
 		<name>ZZZ(notgame):Shark Mx</name>
@@ -3939,13 +3711,6 @@ The game features 11 different monsters, 15 levels and 4500 frames of animations
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230223T040109" />
-	</game>
-	<game>
-		<path>./No-Intro/Ghost Town (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Ghost Town (World) (Aftermarket) (Homebrew)</name>
-		<crc32>52EFCC35</crc32>
-		<md5>c1a1a97800c76036e5223e4098b1eefe</md5>
-		<scrap name="ScreenScraper" date="20230223T040111" />
 	</game>
 	<game id="36921">
 		<path>./No-Intro/Ghosts'n Goblins (USA, Europe) (GB Compatible).gbc</path>
@@ -4170,13 +3935,6 @@ The entire action is viewed from a top-down perspective, which zooms out while d
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230223T040212" />
 	</game>
-	<game>
-		<path>./No-Intro/Gun Law (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Gun Law (World) (Aftermarket) (Homebrew)</name>
-		<crc32>3A0B6823</crc32>
-		<md5>b7c5022990adb215bdfa6cb2714c34d2</md5>
-		<scrap name="ScreenScraper" date="20230223T040214" />
-	</game>
 	<game id="36929">
 		<path>./No-Intro/Hamtaro - Ham-Hams Unite! (USA).gbc</path>
 		<name>Hamtaro: Ham-Hams Unite!</name>
@@ -4225,13 +3983,6 @@ You play as Sebastian, the soldier sent back in time to rectify the present. Han
 		<lang>de,en,es,fr,it,nl</lang>
 		<region>eu</region>
 		<scrap name="ScreenScraper" date="20230223T040226" />
-	</game>
-	<game>
-		<path>./No-Intro/Harbour Attack (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Harbour Attack (World) (Aftermarket) (Homebrew)</name>
-		<crc32>7455782E</crc32>
-		<md5>a4e6f256943c4b7f99a75b73bdd3a3e0</md5>
-		<scrap name="ScreenScraper" date="20230223T040228" />
 	</game>
 	<game id="82254">
 		<path>./No-Intro/Harley-Davidson Motor Cycles - Race Across America (USA).gbc</path>
@@ -4553,13 +4304,6 @@ In Japan, this game has seen several Windows versions, and even has been release
 		<region>eu</region>
 		<scrap name="ScreenScraper" date="20230223T040355" />
 	</game>
-	<game>
-		<path>./No-Intro/High Noon (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>High Noon (World) (Aftermarket) (Homebrew)</name>
-		<crc32>1D00E48D</crc32>
-		<md5>6d7ec146b7c1a4a3bc1e948cd82abede</md5>
-		<scrap name="ScreenScraper" date="20230223T040357" />
-	</game>
 	<game id="82269">
 		<path>./No-Intro/Hole in One Golf (USA) (Rumble Version) (SGB Enhanced) (GB Compatible).gbc</path>
 		<name>Hole In One Golf</name>
@@ -4642,35 +4386,6 @@ In Japan, this game has seen several Windows versions, and even has been release
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230223T040421" />
-	</game>
-	<game id="3364">
-		<path>./No-Intro/Hugo (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Hugo</name>
-		<desc>Hugo: Äventyret går vidare features the Danish TV-troll Hugo, having to save his family by from an evil witch, by avoiding traps in four arcade mini-games. This is the second release in a series of mini-games, based on the TV-show, here loosely strung together to make a package. The same four games were later re-released as Hugo Classic 4.
-
-The four minigames in this package are:Snowboard: A winter game. Hugo climbs a mountain when the witch blows up a bomb causing an avalanche. Hugo rides a snowboard downhill, avoiding large snowballs and evil snowmen blocking his way. There is also path choices to make, by looking at a map, to avoid being caught by the avalanche.
-
-Nimbus: here Hugo rides around a mountain on a Danish vintage motorcycle brand called 'Nimbus', with the goal being the witches cave, and a treasure chest there. On the mountain path he has to avoid rocks falling from above, goats trying to push him off the path, and at the same time pick up fuel canisters and bags of coins. Again, there is a map to follow, as the path branches off along the way to other more dangerous caves.
-
-Underjorden: Hugo explores an underground labyrinth of tunnels, slowly filling with rising water. A map is essential to find elevators and climbing ropes; in the tunnels are monsters such as dragons and jumping skulls to avoid.
-
-Ballong: Hugo has to fly in a leaky balloon, following a map to his final goal, landing in a cave without touching the walls.Provided the player clears/avoids all obstacles, there is a short movie sequence after each mini-game showing the main story of Hugo's adventures unfolding. The game keeps a hi-score list for all games and players, shown after some idle time waiting in the main menu. There are two modes of playing difficulty, an easier TV-mode, and a more difficult Arcade mode, each of which has its own hi-score list.</desc>
-		<image>./images/Hugo (World) (Aftermarket) (Homebrew)-image.png</image>
-		<video>./videos/Hugo (World) (Aftermarket) (Homebrew)-video.mp4</video>
-		<marquee>./images/Hugo (World) (Aftermarket) (Homebrew)-marquee.png</marquee>
-		<thumbnail>./images/Hugo (World) (Aftermarket) (Homebrew)-thumb.png</thumbnail>
-		<fanart>./images/Hugo (World) (Aftermarket) (Homebrew)-fanart.jpg</fanart>
-		<boxback>./images/Hugo (World) (Aftermarket) (Homebrew)-boxback.png</boxback>
-		<rating>0.65</rating>
-		<developer>ITE Media</developer>
-		<publisher>ITE Media</publisher>
-		<genre>Platform</genre>
-		<players>1</players>
-		<crc32>6581C78A</crc32>
-		<md5>a767370eefdaad9831acb4c3c3258c44</md5>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ScreenScraper" date="20230223T040431" />
 	</game>
 	<game id="36936">
 		<path>./No-Intro/Indiana Jones and the Infernal Machine (USA, Europe) (En,Fr,De).gbc</path>
@@ -5006,13 +4721,6 @@ Full support is also included for 4 players in home run derby mode, and 2 player
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230223T040605" />
 	</game>
-	<game>
-		<path>./No-Intro/Kikstart (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Kikstart (World) (Aftermarket) (Homebrew)</name>
-		<crc32>9A9F483B</crc32>
-		<md5>e35a91c87173b3ddd332b94a85f67257</md5>
-		<scrap name="ScreenScraper" date="20230223T040607" />
-	</game>
 	<game id="36940">
 		<path>./No-Intro/Kirby - Tilt 'n' Tumble (USA).gbc</path>
 		<name>Kirby : Tilt 'n' Tumble</name>
@@ -5081,13 +4789,6 @@ Kirby has been turned into a ball, and it is up to you to tilt and turn the game
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230223T040625" />
 	</game>
-	<game>
-		<path>./No-Intro/Knit-Wit (World) (v1.1) (Aftermarket) (Homebrew).gbc</path>
-		<name>Knit-Wit (World) (v1.1) (Aftermarket) (Homebrew)</name>
-		<crc32>F19D5E86</crc32>
-		<md5>f3ab5b9cd7e7d9478cad2cad85f3a3e6</md5>
-		<scrap name="ScreenScraper" date="20230223T040627" />
-	</game>
 	<game id="82358">
 		<path>./No-Intro/Knockout Kings (USA, Europe).gbc</path>
 		<name>Knockout Kings</name>
@@ -5152,13 +4853,6 @@ Kirby has been turned into a ball, and it is up to you to tilt and turn the game
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230223T040646" />
-	</game>
-	<game>
-		<path>./No-Intro/Laser Squad (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Laser Squad (World) (Aftermarket) (Homebrew)</name>
-		<crc32>32F24248</crc32>
-		<md5>58df996c5721b105989e7052e214a3c4</md5>
-		<scrap name="ScreenScraper" date="20230223T040647" />
 	</game>
 	<game id="82373">
 		<path>./No-Intro/Laura (USA).gbc</path>
@@ -5542,13 +5236,6 @@ You are in control not of any individual Lemming, but of a cross-hair, which can
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230223T040830" />
 	</game>
-	<game>
-		<path>./No-Intro/Liberator (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Liberator (World) (Aftermarket) (Homebrew)</name>
-		<crc32>EBE70D3D</crc32>
-		<md5>d81945176908cc834d3be242528dde96</md5>
-		<scrap name="ScreenScraper" date="20230223T040831" />
-	</game>
 	<game id="82382">
 		<path>./No-Intro/Lil' Monster (USA) (SGB Enhanced) (GB Compatible).gbc</path>
 		<name>Lil' Monster</name>
@@ -5635,13 +5322,6 @@ You are in control not of any individual Lemming, but of a cross-hair, which can
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230223T040856" />
-	</game>
-	<game>
-		<path>./No-Intro/Loco-coco (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Loco-coco (World) (Aftermarket) (Homebrew)</name>
-		<crc32>F6B9FE4E</crc32>
-		<md5>dfd98373a954974a62043f85fc1e85ae</md5>
-		<scrap name="ScreenScraper" date="20230223T040857" />
 	</game>
 	<game id="82392">
 		<path>./No-Intro/Logical (USA).gbc</path>
@@ -5841,13 +5521,6 @@ Some levels are scrolling arcades such as stagecoach traveling, chasing a train,
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230223T040946" />
 	</game>
-	<game>
-		<path>./No-Intro/Lunar Docking (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Lunar Docking (World) (Aftermarket) (Homebrew)</name>
-		<crc32>9EDD066C</crc32>
-		<md5>086dd0976154b38cf76c8f596ce00f0c</md5>
-		<scrap name="ScreenScraper" date="20230223T040947" />
-	</game>
 	<game id="82410">
 		<path>./No-Intro/M&amp;M's Minis Madness (USA) (Sample).gbc</path>
 		<name>M&amp;M's Minis Madness</name>
@@ -5889,27 +5562,6 @@ Some levels are scrolling arcades such as stagecoach traveling, chasing a train,
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230223T040959" />
-	</game>
-	<game>
-		<path>./No-Intro/Machine, The (USA) (Demo) (Aftermarket) (Homebrew).gbc</path>
-		<name>Machine, The (USA) (Demo) (Aftermarket) (Homebrew)</name>
-		<crc32>5662865E</crc32>
-		<md5>74809aa80a43f1b3f0f4482ba357dfd4</md5>
-		<scrap name="ScreenScraper" date="20230223T041001" />
-	</game>
-	<game>
-		<path>./No-Intro/Machine, The (USA) (v1.1) (Demo) (Aftermarket) (Homebrew).gbc</path>
-		<name>Machine, The (USA) (v1.1) (Demo) (Aftermarket) (Homebrew)</name>
-		<crc32>F55A9D95</crc32>
-		<md5>950add06ce17e0986e8ae8e16ac587ef</md5>
-		<scrap name="ScreenScraper" date="20230223T041002" />
-	</game>
-	<game>
-		<path>./No-Intro/Machine, The (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Machine, The (World) (Aftermarket) (Homebrew)</name>
-		<crc32>DA01EB3E</crc32>
-		<md5>ab53ef7ccb86b83fac22366979675acb</md5>
-		<scrap name="ScreenScraper" date="20230223T041004" />
 	</game>
 	<game id="37119">
 		<path>./No-Intro/Madden NFL 2000 (USA, Europe) (SGB Enhanced) (GB Compatible).gbc</path>
@@ -6066,13 +5718,6 @@ Besides exhibition games, there are season and playoff modes with password suppo
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230223T041043" />
-	</game>
-	<game>
-		<path>./No-Intro/Magician's Curse, The (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Magician's Curse, The (World) (Aftermarket) (Homebrew)</name>
-		<crc32>F2B1967E</crc32>
-		<md5>d987545c6662cab8f28eca59b456f2b7</md5>
-		<scrap name="ScreenScraper" date="20230223T041045" />
 	</game>
 	<game id="36953">
 		<path>./No-Intro/Marble Madness (USA, Europe).gbc</path>
@@ -6334,13 +5979,6 @@ Controls can be done either Mary-Kate style, where you use left and right to tur
 		<region>eu</region>
 		<scrap name="ScreenScraper" date="20230223T041156" />
 	</game>
-	<game>
-		<path>./No-Intro/Mayhem (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Mayhem (World) (Aftermarket) (Homebrew)</name>
-		<crc32>4D739AD7</crc32>
-		<md5>c22a900acae07be5aa036d569281adbb</md5>
-		<scrap name="ScreenScraper" date="20230223T041157" />
-	</game>
 	<game id="37128">
 		<path>./No-Intro/Mega Man Xtreme (USA, Europe) (GB Compatible).gbc</path>
 		<name>Mega Man Xtreme</name>
@@ -6396,13 +6034,6 @@ It's up to you to guide X and Zero through this deadly new mission and find out 
 		<crc32>69E35940</crc32>
 		<md5>2582e7e452e897c0017db4f520afc89f</md5>
 		<scrap name="ScreenScraper" date="20230223T041210" />
-	</game>
-	<game>
-		<path>./No-Intro/Memory Mania Challenge (World) (v1.3) (Aftermarket) (Homebrew).gbc</path>
-		<name>Memory Mania Challenge (World) (v1.3) (Aftermarket) (Homebrew)</name>
-		<crc32>50618F4B</crc32>
-		<md5>4c9ea697778efdc5cefd32ce63e58598</md5>
-		<scrap name="ScreenScraper" date="20230223T041212" />
 	</game>
 	<game id="82455">
 		<path>./No-Intro/Men in Black - The Series (USA, Europe) (SGB Enhanced) (GB Compatible).gbc</path>
@@ -6502,13 +6133,6 @@ As the player progresses farther into the game, they will encounter over 100 dif
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230223T041236" />
-	</game>
-	<game>
-		<path>./No-Intro/Meteorite (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Meteorite (World) (Aftermarket) (Homebrew)</name>
-		<crc32>FAFBCEBF</crc32>
-		<md5>e8bb2b9629f352fdc0f59a7bffdd66bb</md5>
-		<scrap name="ScreenScraper" date="20230223T041238" />
 	</game>
 	<game id="82461">
 		<path>./No-Intro/Mia Hamm Soccer Shootout (USA).gbc</path>
@@ -6750,13 +6374,6 @@ Mickey's Speedway USA supports many of the Game Boy Color's functions - you can 
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230223T041342" />
 	</game>
-	<game>
-		<path>./No-Intro/Mirror Between Us, The (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Mirror Between Us, The (World) (Aftermarket) (Homebrew)</name>
-		<crc32>854F4297</crc32>
-		<md5>6b02671ee66e3a9846db327f2b12e390</md5>
-		<scrap name="ScreenScraper" date="20230223T041344" />
-	</game>
 	<game id="82471">
 		<path>./No-Intro/Missile Command (USA) (Rumble Version).gbc</path>
 		<name>Missile Command</name>
@@ -6812,20 +6429,6 @@ The game comes with an "Agent Action Kit", a sort of organizer that uses the car
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230223T041357" />
-	</game>
-	<game>
-		<path>./No-Intro/Mission to Mars (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Mission to Mars (World) (Aftermarket) (Homebrew)</name>
-		<crc32>F651FCF4</crc32>
-		<md5>c3c33d274e6d7ec077ee9935da8ed7f3</md5>
-		<scrap name="ScreenScraper" date="20230223T041359" />
-	</game>
-	<game>
-		<path>./No-Intro/Mona and the Witch's Hat Deluxe (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Mona and the Witch's Hat Deluxe (World) (Aftermarket) (Homebrew)</name>
-		<crc32>39480C79</crc32>
-		<md5>b11f6063fd7006426d136da1ee27b27a</md5>
-		<scrap name="ScreenScraper" date="20230223T041400" />
 	</game>
 	<game id="36964">
 		<path>./No-Intro/Monopoly (USA) (GB Compatible).gbc</path>
@@ -6943,13 +6546,6 @@ Powerups to be collected are Blort cans, which in addition to being Mike's ammun
 		<region>eu</region>
 		<scrap name="ScreenScraper" date="20230223T041431" />
 	</game>
-	<game>
-		<path>./No-Intro/Monty on the Run (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Monty on the Run (World) (Aftermarket) (Homebrew)</name>
-		<crc32>FD1066AC</crc32>
-		<md5>6dbe685543a02c8a52ff08ef94d784b0</md5>
-		<scrap name="ScreenScraper" date="20230223T041432" />
-	</game>
 	<game id="36965">
 		<path>./No-Intro/Mortal Kombat 4 (USA, Europe) (SGB Enhanced) (GB Compatible).gbc</path>
 		<name>Mortal Kombat 4</name>
@@ -6997,13 +6593,6 @@ There is also a level editor and room for three saved custom tracks made by the 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230223T041444" />
-	</game>
-	<game>
-		<path>./No-Intro/Mr. Angry (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Mr. Angry (World) (Aftermarket) (Homebrew)</name>
-		<crc32>B85E63A5</crc32>
-		<md5>1215ac977a4cea023bd98cbb7bd36591</md5>
-		<scrap name="ScreenScraper" date="20230223T041446" />
 	</game>
 	<game id="36967">
 		<path>./No-Intro/Mr. Driller (USA).gbc</path>
@@ -7359,28 +6948,6 @@ The game is jammed with all the goods you expect in a basketball game including 
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230223T041623" />
 	</game>
-	<game id="82514">
-		<path>./No-Intro/NBA in the Zone (USA) (SGB Enhanced) (GB Compatible).gbc</path>
-		<name>NBA In the Zone</name>
-		<desc>Slam-dunk your way to victory in this game that supports five players. Prepare for basketball video gaming at its finest with three-pointers, hoop shots and more. You'll hit the court in Konami's In the Zone.</desc>
-		<image>./images/NBA in the Zone (USA) (SGB Enhanced) (GB Compatible)-image.png</image>
-		<video>./videos/NBA in the Zone (USA) (SGB Enhanced) (GB Compatible)-video.mp4</video>
-		<marquee>./images/NBA in the Zone (USA) (SGB Enhanced) (GB Compatible)-marquee.png</marquee>
-		<thumbnail>./images/NBA in the Zone (USA) (SGB Enhanced) (GB Compatible)-thumb.png</thumbnail>
-		<boxback>./images/NBA in the Zone (USA) (SGB Enhanced) (GB Compatible)-boxback.png</boxback>
-		<rating>0.75</rating>
-		<releasedate>19990101T000000</releasedate>
-		<developer>KCEK</developer>
-		<publisher>Konami</publisher>
-		<genre>Sports / Basketball</genre>
-		<family>NBA In The Zone</family>
-		<players>1-2</players>
-		<crc32>F6BAE9A0</crc32>
-		<md5>61e893ad650d4f7003cd76ff55d244b4</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230223T041629" />
-	</game>
 	<game id="37144">
 		<path>./No-Intro/NBA in the Zone 2000 (USA).gbc</path>
 		<name>NBA In the Zone 2000</name>
@@ -7493,20 +7060,6 @@ Total team management is also included, with the ability to trade, release and s
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230223T041659" />
-	</game>
-	<game>
-		<path>./No-Intro/Neclaus' Quest (World) (v1.0) (Aftermarket) (Homebrew).gbc</path>
-		<name>Neclaus' Quest (World) (v1.0) (Aftermarket) (Homebrew)</name>
-		<crc32>EEDEFA0C</crc32>
-		<md5>74f1d01cd75c5aaad93289e417a10c08</md5>
-		<scrap name="ScreenScraper" date="20230223T041700" />
-	</game>
-	<game>
-		<path>./No-Intro/Neclaus' Quest (World) (v1.1) (Aftermarket) (Homebrew).gbc</path>
-		<name>Neclaus' Quest (World) (v1.1) (Aftermarket) (Homebrew)</name>
-		<crc32>53CF930C</crc32>
-		<md5>b28a4a00b8a2a0a6055f79d13928f9ff</md5>
-		<scrap name="ScreenScraper" date="20230223T041702" />
 	</game>
 	<game id="82864">
 		<path>./No-Intro/New Adventures of Mary-Kate &amp; Ashley, The (USA, Europe) (GB Compatible).gbc</path>
@@ -7742,20 +7295,6 @@ Tracks are divided into four different program environments: Angry Beavers, The 
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230223T041802" />
 	</game>
-	<game>
-		<path>./No-Intro/Nyghtmare - The Ninth King (World) (v0.2.6) (Aftermarket) (Homebrew).gbc</path>
-		<name>Nyghtmare - The Ninth King (World) (v0.2.6) (Aftermarket) (Homebrew)</name>
-		<crc32>E983E8D1</crc32>
-		<md5>8632a46ba831eff50d1ac5fb00faab84</md5>
-		<scrap name="ScreenScraper" date="20230223T041803" />
-	</game>
-	<game>
-		<path>./No-Intro/Nyghtmare - The Ninth King - Alpha Demo (World) (v0.1.2) (Aftermarket) (Homebrew).gbc</path>
-		<name>Nyghtmare - The Ninth King - Alpha Demo (World) (v0.1.2) (Aftermarket) (Homebrew)</name>
-		<crc32>EF42955E</crc32>
-		<md5>a72a4d45b155f4a41bd2613d0bb3f5fa</md5>
-		<scrap name="ScreenScraper" date="20230223T041805" />
-	</game>
 	<game id="82538">
 		<path>./No-Intro/Oddworld Adventures 2 (USA) (En,Fr,De,Es,It) (GB Compatible).gbc</path>
 		<name>Oddworld Adventures II</name>
@@ -7777,27 +7316,6 @@ Tracks are divided into four different program environments: Angry Beavers, The 
 		<lang>de,en,es,fr,it</lang>
 		<region>eu</region>
 		<scrap name="ScreenScraper" date="20230223T041811" />
-	</game>
-	<game>
-		<path>./No-Intro/Olympic Skier (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Olympic Skier (World) (Aftermarket) (Homebrew)</name>
-		<crc32>5E81CEF7</crc32>
-		<md5>70aa706f2831fe9736bf0ab76d925497</md5>
-		<scrap name="ScreenScraper" date="20230223T041813" />
-	</game>
-	<game>
-		<path>./No-Intro/Opossum Country (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Opossum Country (World) (Aftermarket) (Homebrew)</name>
-		<crc32>7348BB32</crc32>
-		<md5>5c0ed7c257219b6fab67c5f9d9ab25f8</md5>
-		<scrap name="ScreenScraper" date="20230223T041814" />
-	</game>
-	<game>
-		<path>./No-Intro/Out on a Limb (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Out on a Limb (World) (Aftermarket) (Homebrew)</name>
-		<crc32>A6671528</crc32>
-		<md5>ec1613010e8f9e0bd729f37248c435a8</md5>
-		<scrap name="ScreenScraper" date="20230223T041816" />
 	</game>
 	<game id="37154">
 		<path>./No-Intro/Pac-Man - Special Color Edition (USA) (SGB Enhanced) (GB Compatible).gbc</path>
@@ -7826,13 +7344,6 @@ Survive a few rounds of gameplay, and be treated to humorous intermissions betwe
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230223T041822" />
-	</game>
-	<game>
-		<path>./No-Intro/Panik!16 (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Panik!16 (World) (Aftermarket) (Homebrew)</name>
-		<crc32>7B31122D</crc32>
-		<md5>cf0917a92643bed6798b47a84ceb928e</md5>
-		<scrap name="ScreenScraper" date="20230223T041823" />
 	</game>
 	<game id="36970">
 		<path>./No-Intro/Paperboy (USA, Europe).gbc</path>
@@ -7909,27 +7420,6 @@ Perfect Dark also includes a variety of mini-games which you encounter as you pr
 		<md5>779683eeab6e09b5574d9f8bb35a8f88</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20230223T041842" />
-	</game>
-	<game>
-		<path>./No-Intro/Pie Crust (World) (v1.0) (Homebrew).gbc</path>
-		<name>Pie Crust (World) (v1.0) (Homebrew)</name>
-		<crc32>F39C8119</crc32>
-		<md5>d076ab5be2ec4972376de685c3705ff2</md5>
-		<scrap name="ScreenScraper" date="20230223T041843" />
-	</game>
-	<game>
-		<path>./No-Intro/Pine Creek (World) (En-US,Es-MX,Pt-BR) (Aftermarket) (Homebrew).gbc</path>
-		<name>Pine Creek (World) (En-US,Es-MX,Pt-BR) (Aftermarket) (Homebrew)</name>
-		<crc32>189AA999</crc32>
-		<md5>f91bc9d802e1fa17e5611bdd9f0d4d60</md5>
-		<scrap name="ScreenScraper" date="20230223T041845" />
-	</game>
-	<game>
-		<path>./No-Intro/Pinecone Pizza Party (World) (Prototype) (Aftermarket) (Homebrew).gbc</path>
-		<name>Pinecone Pizza Party (World) (Prototype) (Aftermarket) (Homebrew)</name>
-		<crc32>1601D6FA</crc32>
-		<md5>5de22f218b0f679cbfe6fdd880c2f529</md5>
-		<scrap name="ScreenScraper" date="20230223T041846" />
 	</game>
 	<game id="82562">
 		<path>./No-Intro/Pitfall - Beyond the Jungle (USA, Europe) (GB Compatible).gbc</path>
@@ -8056,32 +7546,6 @@ Be careful, though, because if Bomberman is touched by a monster, touches a dang
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230223T041918" />
-	</game>
-	<game id="82583">
-		<path>./No-Intro/Pocket Music (USA) (En,Fr,De,Es,It) (Proto).gbc</path>
-		<name>Pocket Music</name>
-		<desc>Make music on the move with Pocket Music, the music creation game. Create your own music from a selection of samples, drum beats, baselines, melodies, and other musical instruments. Play them back, save them to your cartridge, or swap them with a friend. Features include more than 600 different high quality samples and instruments, custom drumbeats, baselines, melodies and sound effects, a riff editor to allow you to create your own sounds, and prearranged tracks to demonstrate the capabilities of the game.</desc>
-		<image>./images/Pocket Music (USA) (En,Fr,De,Es,It) (Proto)-image.png</image>
-		<video>./videos/Pocket Music (USA) (En,Fr,De,Es,It) (Proto)-video.mp4</video>
-		<marquee>./images/Pocket Music (USA) (En,Fr,De,Es,It) (Proto)-marquee.png</marquee>
-		<thumbnail>./images/Pocket Music (USA) (En,Fr,De,Es,It) (Proto)-thumb.png</thumbnail>
-		<boxback>./images/Pocket Music (USA) (En,Fr,De,Es,It) (Proto)-boxback.png</boxback>
-		<releasedate>20020222T000000</releasedate>
-		<developer>Jester Interactive</developer>
-		<publisher>Rage Software</publisher>
-		<genre>Music and Dance</genre>
-		<crc32>C4387812</crc32>
-		<md5>6ca4b011f72523dbd40d9ea470d2b4ea</md5>
-		<lang>de,en,es,fr,it</lang>
-		<region>eu</region>
-		<scrap name="ScreenScraper" date="20230223T041925" />
-	</game>
-	<game>
-		<path>./No-Intro/Pogo Pete (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Pogo Pete (World) (Aftermarket) (Homebrew)</name>
-		<crc32>3001ED1B</crc32>
-		<md5>6181d450198ae4ec17f2aa86bbe2a1d1</md5>
-		<scrap name="ScreenScraper" date="20230223T041926" />
 	</game>
 	<game id="82606">
 		<path>./No-Intro/Pokemon - Crystal Version (USA).gbc</path>
@@ -8355,27 +7819,6 @@ Be careful, though, because if Bomberman is touched by a monster, touches a dang
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230223T042041" />
-	</game>
-	<game>
-		<path>./No-Intro/Powa! (Unknown) (Demo) (Aftermarket) (Homebrew).gbc</path>
-		<name>Powa! (Unknown) (Demo) (Aftermarket) (Homebrew)</name>
-		<crc32>592B6097</crc32>
-		<md5>87749697d02aaa530974e3bf01784e2a</md5>
-		<scrap name="ScreenScraper" date="20230223T042043" />
-	</game>
-	<game>
-		<path>./No-Intro/Powa! (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Powa! (World) (Aftermarket) (Homebrew)</name>
-		<crc32>F0191467</crc32>
-		<md5>c9c39627ee5049e47ce1acd67fff7b8a</md5>
-		<scrap name="ScreenScraper" date="20230223T042044" />
-	</game>
-	<game>
-		<path>./No-Intro/Powa! (World) (Ja) (Aftermarket) (Homebrew).gbc</path>
-		<name>Powa! (World) (Ja) (Aftermarket) (Homebrew)</name>
-		<crc32>E8F68ACC</crc32>
-		<md5>79057202277940eb8a37257ebcb513c3</md5>
-		<scrap name="ScreenScraper" date="20230223T042045" />
 	</game>
 	<game id="37164">
 		<path>./No-Intro/Power Quest (USA) (En-US,En-GB,Fr,De,Es,It) (SGB Enhanced) (GB Compatible).gbc</path>
@@ -8714,49 +8157,6 @@ The game allows you to play a variety of pool games such as 8 Ball, 9 Ball, 6 Ba
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230223T042216" />
-	</game>
-	<game>
-		<path>./No-Intro/Proof of Destruction (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Proof of Destruction (World) (Aftermarket) (Homebrew)</name>
-		<crc32>FA528F88</crc32>
-		<md5>a0f537747bab3d8599281deae17ff47f</md5>
-		<scrap name="ScreenScraper" date="20230223T042217" />
-	</game>
-	<game id="82652">
-		<path>./No-Intro/Puchi Carat (USA) (Proto) (SGB Enhanced) (GB Compatible).gbc</path>
-		<name>Puchi Carat</name>
-		<desc>A mix between classic "Walls" and "Bubbles" puzzles games
-12 characters to challenge
-12 gems to win
-Intense competitions
-4 amazing game modes
-
-The general objective of Puchi Carat is to destroy gem-like blocks using a ball and paddle. Gems "fall in" from the top of the play area one line at a time and are connected to each other either horizontally or vertically. Hitting a gem with the ball will destroy it, and if the destroyed gem causes other gems to no longer be connected to the top of the play area, they fall off, scoring bonus points. Destroying a special flashing gem also destroys all regular gems of the same color in the playfield. There are also metallic blocks that take more than one hit to destroy.
-
-The player controls a paddle at the bottom of the playfield, which can move left and right to bounce the ball back upward. Unlike in most other Breakout-style games, missing the ball does not cost a life or end the game, but rather adds more lines of gems to the top of the playfield. Gem lines will advance on their own after a certain amount of time, as well as when the playfield is cleared entirely or drops below a certain number of gems. If the gems advance across the line at the bottom of the playfield where the paddle resides, the player loses and the game is over.
-
-The arcade version of Puchi Carat features three main gameplay modes: A single-player mode where the goal is to clear a certain number of gem lines, a story mode in which the player challenges each character in a head-to-head battle (where dropped gems are added to the opponent's playfield from the bottom), and a two-player versus mode following the same rules as the story mode. Each of the single-player modes offers three levels of difficulty. Various ports of the game offer additional gameplay modes (such as time-attack mode), more difficulty levels, and expanded storylines for each character.</desc>
-		<image>./images/Puchi Carat (USA) (Proto) (SGB Enhanced) (GB Compatible)-image.png</image>
-		<video>./videos/Puchi Carat (USA) (Proto) (SGB Enhanced) (GB Compatible)-video.mp4</video>
-		<marquee>./images/Puchi Carat (USA) (Proto) (SGB Enhanced) (GB Compatible)-marquee.png</marquee>
-		<thumbnail>./images/Puchi Carat (USA) (Proto) (SGB Enhanced) (GB Compatible)-thumb.png</thumbnail>
-		<boxback>./images/Puchi Carat (USA) (Proto) (SGB Enhanced) (GB Compatible)-boxback.png</boxback>
-		<releasedate>20001208T000000</releasedate>
-		<developer>Eon Digital Entertainment</developer>
-		<publisher>Taito</publisher>
-		<genre>Puzzle-Game</genre>
-		<crc32>A97EA742</crc32>
-		<md5>6d1682824a006ddbde77527a2e62622a</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230223T042223" />
-	</game>
-	<game>
-		<path>./No-Intro/Purple Turtles (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Purple Turtles (World) (Aftermarket) (Homebrew)</name>
-		<crc32>471277DF</crc32>
-		<md5>1487948f044a16e9ac9d8aa740f87827</md5>
-		<scrap name="ScreenScraper" date="20230223T042225" />
 	</game>
 	<game id="82660">
 		<path>./No-Intro/Puzzle Master (USA) (GB Compatible).gbc</path>
@@ -9292,13 +8692,6 @@ Like in all other Megaten games, the player can summon demons and fuse them, get
 		<region>eu</region>
 		<scrap name="ScreenScraper" date="20230223T042439" />
 	</game>
-	<game>
-		<path>./No-Intro/Rig Attack (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Rig Attack (World) (Aftermarket) (Homebrew)</name>
-		<crc32>D013D775</crc32>
-		<md5>b311207a613d72a52a779b2aa3b3990c</md5>
-		<scrap name="ScreenScraper" date="20230223T042440" />
-	</game>
 	<game id="37176">
 		<path>./No-Intro/Road Champs - BXS Stunt Biking (USA, Europe).gbc</path>
 		<name>Road Champs : BXS Stunt Biking</name>
@@ -9369,13 +8762,6 @@ We can speculate that Genetic Fantasia worked on Roadsters GameBoy Color for Tit
 		<crc32>38B022BE</crc32>
 		<md5>79b84a54581ca90b245619522c09e523</md5>
 		<scrap name="ScreenScraper" date="20230223T042459" />
-	</game>
-	<game>
-		<path>./No-Intro/Robin to the Rescue (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Robin to the Rescue (World) (Aftermarket) (Homebrew)</name>
-		<crc32>9CD52C18</crc32>
-		<md5>c13132e59221fc42ed79dbebc42f7d0e</md5>
-		<scrap name="ScreenScraper" date="20230223T042500" />
 	</game>
 	<game id="369172">
 		<path>./No-Intro/Robopon - Star Version (USA) (Proto).gbc</path>
@@ -9448,13 +8834,6 @@ We can speculate that Genetic Fantasia worked on Roadsters GameBoy Color for Tit
 		<lang>en</lang>
 		<region>eu</region>
 		<scrap name="ScreenScraper" date="20230223T042520" />
-	</game>
-	<game>
-		<path>./No-Intro/Rockman (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Rockman (World) (Aftermarket) (Homebrew)</name>
-		<crc32>490B5676</crc32>
-		<md5>8db0381e11b2acb529d6534b97ab967b</md5>
-		<scrap name="ScreenScraper" date="20230223T042521" />
 	</game>
 	<game id="82708">
 		<path>./No-Intro/Rocky Mountain - Trophy Hunter (USA).gbc</path>
@@ -9534,34 +8913,6 @@ We can speculate that Genetic Fantasia worked on Roadsters GameBoy Color for Tit
 		<lang>en</lang>
 		<region>eu</region>
 		<scrap name="ScreenScraper" date="20230223T042547" />
-	</game>
-	<game>
-		<path>./No-Intro/Ruby &amp; Rusty Save the Crows (World) (Beta 3) (Aftermarket) (Homebrew).gbc</path>
-		<name>Ruby &amp; Rusty Save the Crows (World) (Beta 3) (Aftermarket) (Homebrew)</name>
-		<crc32>B2547AA6</crc32>
-		<md5>7545b127e8998e1e299289d79673ef63</md5>
-		<scrap name="ScreenScraper" date="20230223T042549" />
-	</game>
-	<game>
-		<path>./No-Intro/Ruby &amp; Rusty Save the Crows (World) (v1.0) (Aftermarket) (Homebrew).gbc</path>
-		<name>Ruby &amp; Rusty Save the Crows (World) (v1.0) (Aftermarket) (Homebrew)</name>
-		<crc32>A46BAA15</crc32>
-		<md5>2b55508c1568411d22520fbed55d85f3</md5>
-		<scrap name="ScreenScraper" date="20230223T042550" />
-	</game>
-	<game>
-		<path>./No-Intro/Ruby &amp; Rusty Save the Crows (World) (v2.0) (Aftermarket) (Homebrew).gbc</path>
-		<name>Ruby &amp; Rusty Save the Crows (World) (v2.0) (Aftermarket) (Homebrew)</name>
-		<crc32>5602CA84</crc32>
-		<md5>9896e3a34ae29d05dd0f5d2a298a75ad</md5>
-		<scrap name="ScreenScraper" date="20230223T042552" />
-	</game>
-	<game>
-		<path>./No-Intro/Ruby &amp; Rusty Save the Crows (World) (v2.6) (Aftermarket) (Homebrew).gbc</path>
-		<name>Ruby &amp; Rusty Save the Crows (World) (v2.6) (Aftermarket) (Homebrew)</name>
-		<crc32>C18F82CB</crc32>
-		<md5>f9feabe8eb6d7921a883fd74faf08bcc</md5>
-		<scrap name="ScreenScraper" date="20230223T042554" />
 	</game>
 	<game id="37180">
 		<path>./No-Intro/Rugrats - Time Travelers (USA, Europe) (GB Compatible).gbc</path>
@@ -10072,13 +9423,6 @@ When lady-pirate Risky Boots receives information that a  treasure chest is foun
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230223T042753" />
 	</game>
-	<game>
-		<path>./No-Intro/Shark Attack (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Shark Attack (World) (Aftermarket) (Homebrew)</name>
-		<crc32>CF80A2BA</crc32>
-		<md5>45e090a174fd41f2e78759477d5b3ea1</md5>
-		<scrap name="ScreenScraper" date="20230223T042755" />
-	</game>
 	<game id="82747">
 		<path>./No-Intro/Shaun Palmer's Pro Snowboarder (USA, Australia).gbc</path>
 		<name>Shaun Palmer's Pro Snowboarder</name>
@@ -10143,20 +9487,6 @@ Shrek: Fairy Tale Freakdown appears to be aimed to towards young children, due t
 		<lang>en</lang>
 		<region>eu</region>
 		<scrap name="ScreenScraper" date="20230223T042812" />
-	</game>
-	<game>
-		<path>./No-Intro/Skelby (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Skelby (World) (Aftermarket) (Homebrew)</name>
-		<crc32>6EC6C18C</crc32>
-		<md5>96ada1aaa3214b4f6ee5c77f7dc61a26</md5>
-		<scrap name="ScreenScraper" date="20230223T042814" />
-	</game>
-	<game>
-		<path>./No-Intro/Skycon (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Skycon (World) (Aftermarket) (Homebrew)</name>
-		<crc32>195DBC30</crc32>
-		<md5>a8ea5b8df744d028e681f9b608cff68a</md5>
-		<scrap name="ScreenScraper" date="20230223T042815" />
 	</game>
 	<game id="82866">
 		<path>./No-Intro/Smurfs Nightmare, The (USA).gbc</path>
@@ -10422,13 +9752,6 @@ Roam 18 levels of New York City using all of Spider-Man's powers like the Spidey
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230223T042921" />
 	</game>
-	<game>
-		<path>./No-Intro/Spiky Harold (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Spiky Harold (World) (Aftermarket) (Homebrew)</name>
-		<crc32>7E9EDA35</crc32>
-		<md5>1020159b01e4ca5bdc8f24d936b50c93</md5>
-		<scrap name="ScreenScraper" date="20230223T042923" />
-	</game>
 	<game id="37197">
 		<path>./No-Intro/SpongeBob SquarePants - Legend of the Lost Spatula (USA, Europe).gbc</path>
 		<name>SpongeBob SquarePants : Legend of the Lost Spatula</name>
@@ -10564,13 +9887,6 @@ Each character has a unique Pod that can be upgraded with the credits you win af
 		<region>eu</region>
 		<scrap name="ScreenScraper" date="20230223T043000" />
 	</game>
-	<game>
-		<path>./No-Intro/Stellar Wars (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Stellar Wars (World) (Aftermarket) (Homebrew)</name>
-		<crc32>E0B96256</crc32>
-		<md5>5d20a03ac7dae3572d4826ae884085d7</md5>
-		<scrap name="ScreenScraper" date="20230223T043001" />
-	</game>
 	<game id="37202">
 		<path>./No-Intro/Street Fighter Alpha - Warriors' Dreams (USA).gbc</path>
 		<name>Street Fighter Alpha: Warriors' Dreams</name>
@@ -10645,20 +9961,6 @@ Every level is filled with power-ups and items that let you boost your energy an
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230223T043019" />
-	</game>
-	<game>
-		<path>./No-Intro/Super Gran (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Super Gran (World) (Aftermarket) (Homebrew)</name>
-		<crc32>98EE2E8A</crc32>
-		<md5>c2274789b0a45c67f1ed84a3822b4c52</md5>
-		<scrap name="ScreenScraper" date="20230223T043020" />
-	</game>
-	<game>
-		<path>./No-Intro/Super Jacked Up Tomato Face Johnson (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Super Jacked Up Tomato Face Johnson (World) (Aftermarket) (Homebrew)</name>
-		<crc32>87956DDF</crc32>
-		<md5>a2a41746a1ec29a25d3e715342cb71f2</md5>
-		<scrap name="ScreenScraper" date="20230223T043022" />
 	</game>
 	<game id="37204">
 		<path>./No-Intro/Super Mario Bros. Deluxe (USA, Europe) (Rev 1).gbc</path>
@@ -10784,13 +10086,6 @@ The game also features a unique "merge" system, which allows you to create a num
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230223T043055" />
 	</game>
-	<game>
-		<path>./No-Intro/Tank Attack (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Tank Attack (World) (Aftermarket) (Homebrew)</name>
-		<crc32>C77DC518</crc32>
-		<md5>0fe226f5b7a3da7d3f16b0ba42030b52</md5>
-		<scrap name="ScreenScraper" date="20230223T043057" />
-	</game>
 	<game id="82824">
 		<path>./No-Intro/Tarzan (USA, Europe).gbc</path>
 		<name>Tarzan</name>
@@ -10822,20 +10117,6 @@ The game also features a unique "merge" system, which allows you to create a num
 		<crc32>3611D0D8</crc32>
 		<md5>7b671745f13bcc3abaa2d9351fc22f8f</md5>
 		<scrap name="ScreenScraper" date="20230223T043104" />
-	</game>
-	<game>
-		<path>./No-Intro/Tazz (World) (2022-10-14) (Aftermarket) (Homebrew).gbc</path>
-		<name>Tazz (World) (2022-10-14) (Aftermarket) (Homebrew)</name>
-		<crc32>1D97B754</crc32>
-		<md5>cf0dd6ce83aa648a1aa1e6dc7c3846f8</md5>
-		<scrap name="ScreenScraper" date="20230223T043106" />
-	</game>
-	<game>
-		<path>./No-Intro/Tazz (World) (2022-10-18) (Aftermarket) (Homebrew).gbc</path>
-		<name>Tazz (World) (2022-10-18) (Aftermarket) (Homebrew)</name>
-		<crc32>6FB0BA23</crc32>
-		<md5>434dcfae5fdcf6f8f8ed466cdc88cc2f</md5>
-		<scrap name="ScreenScraper" date="20230223T043107" />
 	</game>
 	<game id="37006">
 		<path>./No-Intro/Tech Deck Skateboarding (USA, Europe).gbc</path>
@@ -11112,13 +10393,6 @@ Extras can be collected for extra energy, time etc. The game is presented from a
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230223T043213" />
 	</game>
-	<game>
-		<path>./No-Intro/Tir Na Nog (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Tir Na Nog (World) (Aftermarket) (Homebrew)</name>
-		<crc32>44524C90</crc32>
-		<md5>171ccc606b9753de51e50c93f7c3a986</md5>
-		<scrap name="ScreenScraper" date="20230223T043215" />
-	</game>
 	<game id="37008">
 		<path>./No-Intro/Titus the Fox (USA) (GB Compatible).gbc</path>
 		<name>Titus the Fox: To Marrakech and Back</name>
@@ -11160,13 +10434,6 @@ There are secret rooms to find, and bosses at the end of each level. The player 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230223T043226" />
-	</game>
-	<game>
-		<path>./No-Intro/Tobu Tobu Girl Deluxe (World) (GB Compatible) (Aftermarket) (Homebrew).gbc</path>
-		<name>Tobu Tobu Girl Deluxe (World) (GB Compatible) (Aftermarket) (Homebrew)</name>
-		<crc32>16650A8B</crc32>
-		<md5>c48f26f5079ad1b411c78fbcb2738d67</md5>
-		<scrap name="ScreenScraper" date="20230223T043228" />
 	</game>
 	<game id="82878">
 		<path>./No-Intro/TOCA Touring Car Championship (USA, Europe).gbc</path>
@@ -11703,13 +10970,6 @@ The player will fly a F-14 Tomcat on an isometric map. He has to complete severa
 		<region>eu</region>
 		<scrap name="ScreenScraper" date="20230223T043451" />
 	</game>
-	<game>
-		<path>./No-Intro/Tower of Evil (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Tower of Evil (World) (Aftermarket) (Homebrew)</name>
-		<crc32>AEB6E36F</crc32>
-		<md5>0452cb3853113dca202e5dca225b80ee</md5>
-		<scrap name="ScreenScraper" date="20230223T043453" />
-	</game>
 	<game id="37014">
 		<path>./No-Intro/Towers - Lord Baniff's Deceit (USA, Europe).gbc</path>
 		<name>Towers : Lord Baniff's Deceit</name>
@@ -11814,13 +11074,6 @@ The gameplay is similar to other first-person realtime D&amp;D games like the Ey
 		<lang>en</lang>
 		<region>eu</region>
 		<scrap name="ScreenScraper" date="20230223T043521" />
-	</game>
-	<game>
-		<path>./No-Intro/Treasure Island Color (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Treasure Island Color (World) (Aftermarket) (Homebrew)</name>
-		<crc32>4AB0EB5A</crc32>
-		<md5>b8d3db1fd7025e861975433cd718f8d6</md5>
-		<scrap name="ScreenScraper" date="20230223T043522" />
 	</game>
 	<game id="82903">
 		<path>./No-Intro/Trick Boarder (USA).gbc</path>
@@ -11988,13 +11241,6 @@ The third title in the Turok series adds two characters to play instead of one, 
 		<region>eu</region>
 		<scrap name="ScreenScraper" date="20230223T043607" />
 	</game>
-	<game>
-		<path>./No-Intro/Tutti Frutti (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Tutti Frutti (World) (Aftermarket) (Homebrew)</name>
-		<crc32>CA377CA6</crc32>
-		<md5>73fca5b16e5d4d746ecabb8a9489cf48</md5>
-		<scrap name="ScreenScraper" date="20230223T043609" />
-	</game>
 	<game id="82913">
 		<path>./No-Intro/Tweety's High-Flying Adventure (USA).gbc</path>
 		<name>Tweety's High-Flying Adventure</name>
@@ -12015,13 +11261,6 @@ The third title in the Turok series adds two characters to play instead of one, 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230223T043615" />
-	</game>
-	<game>
-		<path>./No-Intro/Tycoon Tex (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Tycoon Tex (World) (Aftermarket) (Homebrew)</name>
-		<crc32>FA8436BA</crc32>
-		<md5>89fff31f11da93a6f1a3045f8ea088b3</md5>
-		<scrap name="ScreenScraper" date="20230223T043617" />
 	</game>
 	<game id="83005">
 		<path>./No-Intro/Tyrannosaurus Tex (USA) (Proto).gbc</path>
@@ -12165,13 +11404,6 @@ The Game Boy Color version of Tyrian 2000 would have been the first time Tyrian 
 		<scrap name="ScreenScraper" date="20230223T043657" />
 	</game>
 	<game>
-		<path>./No-Intro/UXB (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>UXB (World) (Aftermarket) (Homebrew)</name>
-		<crc32>DD42BE4C</crc32>
-		<md5>c20886be531dcaa1157920a7ffa51240</md5>
-		<scrap name="ScreenScraper" date="20230223T043659" />
-	</game>
-	<game>
 		<path>./No-Intro/V-Rally - Edition 99 (USA) (En,Fr,Es).gbc</path>
 		<name>V-Rally - Edition 99 (USA) (En,Fr,Es)</name>
 		<thumbnail>./images/V-Rally - Edition 99 (USA) (En,Fr,Es)-thumb.png</thumbnail>
@@ -12179,13 +11411,6 @@ The Game Boy Color version of Tyrian 2000 would have been the first time Tyrian 
 		<crc32>DA300C6C</crc32>
 		<md5>84a0fe6c3fb014cf43c119c344f99965</md5>
 		<scrap name="ScreenScraper" date="20230223T043701" />
-	</game>
-	<game>
-		<path>./No-Intro/Varmit (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Varmit (World) (Aftermarket) (Homebrew)</name>
-		<crc32>E4827006</crc32>
-		<md5>fdade90c72f29a498e045323dda5ad37</md5>
-		<scrap name="ScreenScraper" date="20230223T043702" />
 	</game>
 	<game id="82921">
 		<path>./No-Intro/Vegas Games (USA) (En,Fr,De) (Rev 1) (Proto).gbc</path>
@@ -12295,13 +11520,6 @@ Certain parts of the game may be accessed via password. Also the Ubi Key feature
 		<region>eu</region>
 		<scrap name="ScreenScraper" date="20230223T043726" />
 	</game>
-	<game>
-		<path>./No-Intro/VOX (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>VOX (World) (Aftermarket) (Homebrew)</name>
-		<crc32>346561FB</crc32>
-		<md5>8691333d9fd10c3bc65bc5577856a72b</md5>
-		<scrap name="ScreenScraper" date="20230223T043728" />
-	</game>
 	<game id="369368">
 		<path>./No-Intro/VR Sports - Powerboat Racing (USA) (Proto).gbc</path>
 		<name>VR Sports - Powerboat Racing</name>
@@ -12311,13 +11529,6 @@ Certain parts of the game may be accessed via password. Also the Ubi Key feature
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230223T043731" />
-	</game>
-	<game>
-		<path>./No-Intro/Wacky Painter (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Wacky Painter (World) (Aftermarket) (Homebrew)</name>
-		<crc32>09DAA18D</crc32>
-		<md5>10d0c091687c830645aad567d152b1d6</md5>
-		<scrap name="ScreenScraper" date="20230223T043732" />
 	</game>
 	<game id="37021">
 		<path>./No-Intro/Wacky Races (USA) (En,Fr,Es).gbc</path>
@@ -12460,27 +11671,6 @@ Using a Game Link Cable, you can test your war skills against another player. Tw
 		<region>eu</region>
 		<scrap name="ScreenScraper" date="20230223T043809" />
 	</game>
-	<game>
-		<path>./No-Intro/Waternet (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Waternet (World) (Aftermarket) (Homebrew)</name>
-		<crc32>EF202121</crc32>
-		<md5>88babaabfc8c65454dd11590ff5c9f33</md5>
-		<scrap name="ScreenScraper" date="20230223T043811" />
-	</game>
-	<game>
-		<path>./No-Intro/Waternet (World) (Batteryless Generic Save Flash Cartridge Version) (Aftermarket) (Homebrew).gbc</path>
-		<name>Waternet (World) (Batteryless Generic Save Flash Cartridge Version) (Aftermarket) (Homebrew)</name>
-		<crc32>F8402DC5</crc32>
-		<md5>e333c74332067d817732f06cf301d736</md5>
-		<scrap name="ScreenScraper" date="20230223T043812" />
-	</game>
-	<game>
-		<path>./No-Intro/Waternet (World) (Batteryless Save Flash Cartridge Version) (Aftermarket) (Homebrew).gbc</path>
-		<name>Waternet (World) (Batteryless Save Flash Cartridge Version) (Aftermarket) (Homebrew)</name>
-		<crc32>75591760</crc32>
-		<md5>6f94a1bf91839706d2ef586acc9a82c8</md5>
-		<scrap name="ScreenScraper" date="20230223T043814" />
-	</game>
 	<game id="82934">
 		<path>./No-Intro/WCW Mayhem (USA, Europe).gbc</path>
 		<name>WCW Mayhem</name>
@@ -12616,27 +11806,6 @@ So let's play WHO WANTS TO BE A MILLIONAIRE: 2nd Edition!
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230223T043850" />
 	</game>
-	<game id="200052">
-		<path>./No-Intro/Wing Warriors (World) (En,Fr,Es) (Aftermarket) (Homebrew).gbc</path>
-		<name>WingWarriors</name>
-		<desc>It's a classic shooting game with some bullet-hell reminiscences. 6 stages with 3 bosses, 3 different players to choose from, and a lot of bullets to avoid.</desc>
-		<image>./images/Wing Warriors (World) (En,Fr,Es) (Aftermarket) (Homebrew)-image.png</image>
-		<video>./videos/Wing Warriors (World) (En,Fr,Es) (Aftermarket) (Homebrew)-video.mp4</video>
-		<marquee>./images/Wing Warriors (World) (En,Fr,Es) (Aftermarket) (Homebrew)-marquee.png</marquee>
-		<thumbnail>./images/Wing Warriors (World) (En,Fr,Es) (Aftermarket) (Homebrew)-thumb.png</thumbnail>
-		<boxback>./images/Wing Warriors (World) (En,Fr,Es) (Aftermarket) (Homebrew)-boxback.png</boxback>
-		<rating>0.85</rating>
-		<releasedate>20190101T000000</releasedate>
-		<developer>Francisco Javier Del Pino Cuesta</developer>
-		<publisher>Kitmaker Entertainment</publisher>
-		<genre>Shoot'em up / Vertical</genre>
-		<players>1</players>
-		<crc32>7328CFB6</crc32>
-		<md5>82f9d9b020099e908ef588e1a9de5bb3</md5>
-		<lang>en,es,fr</lang>
-		<region>eu</region>
-		<scrap name="ScreenScraper" date="20230223T043859" />
-	</game>
 	<game id="37024">
 		<path>./No-Intro/Wings of Fury (USA) (GB Compatible).gbc</path>
 		<name>Wings of Fury</name>
@@ -12687,13 +11856,6 @@ The Gameboy Color version of Wings of Fury has a toned down violence level. You 
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230223T043911" />
 	</game>
-	<game>
-		<path>./No-Intro/Wizard of Wor (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Wizard of Wor (World) (Aftermarket) (Homebrew)</name>
-		<crc32>492A9529</crc32>
-		<md5>f8f8fedf07e783a97a50cd0e05544fc3</md5>
-		<scrap name="ScreenScraper" date="20230223T043912" />
-	</game>
 	<game id="82952">
 		<path>./No-Intro/Woody Woodpecker (USA).gbc</path>
 		<name>Woody Woodpecker</name>
@@ -12738,13 +11900,6 @@ The game takes place in the universe cartoon. For much of the adventure, the pla
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230223T043924" />
-	</game>
-	<game>
-		<path>./No-Intro/World Cup (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>World Cup (World) (Aftermarket) (Homebrew)</name>
-		<crc32>56B3AB5F</crc32>
-		<md5>e8a7906583a479b95e3bc26677f485a0</md5>
-		<scrap name="ScreenScraper" date="20230223T043926" />
 	</game>
 	<game id="37235">
 		<path>./No-Intro/Worms Armageddon (USA) (En,Fr,Es).gbc</path>
@@ -13051,13 +12206,6 @@ There are two modes available: Practice and Xtreme Island Adventure. In the form
 		<region>eu</region>
 		<scrap name="ScreenScraper" date="20230223T044039" />
 	</game>
-	<game>
-		<path>./No-Intro/Year After, The (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Year After, The (World) (Aftermarket) (Homebrew)</name>
-		<crc32>B304833D</crc32>
-		<md5>59558bce6ef7774132a6109d1d0a0636</md5>
-		<scrap name="ScreenScraper" date="20230223T044041" />
-	</game>
 	<game id="37240">
 		<path>./No-Intro/Yogi Bear - Great Balloon Blast (USA).gbc</path>
 		<name>Yogi Bear : Great Balloon Blast</name>
@@ -13113,20 +12261,6 @@ Set up your deck with monsters, traps, and spells to help you defeat your oppone
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230223T044053" />
 	</game>
-	<game>
-		<path>./No-Intro/Zagan Warrior (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Zagan Warrior (World) (Aftermarket) (Homebrew)</name>
-		<crc32>E770F71A</crc32>
-		<md5>a3491f8e6f09dd5945448477d4b8f79b</md5>
-		<scrap name="ScreenScraper" date="20230223T044054" />
-	</game>
-	<game>
-		<path>./No-Intro/Zap'em (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Zap'em (World) (Aftermarket) (Homebrew)</name>
-		<crc32>66F17C5E</crc32>
-		<md5>d60bc0b1aa3f89229420f6685aafdeb8</md5>
-		<scrap name="ScreenScraper" date="20230223T044055" />
-	</game>
 	<game id="37028">
 		<path>./No-Intro/Zebco Fishing! (USA) (Rumble Version).gbc</path>
 		<name>Zebco Fishing!</name>
@@ -13172,13 +12306,6 @@ Weather conditions, time of day and location all have impact on the chance of ca
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230223T044107" />
-	</game>
-	<game>
-		<path>./No-Intro/Zodiac (World) (Aftermarket) (Homebrew).gbc</path>
-		<name>Zodiac (World) (Aftermarket) (Homebrew)</name>
-		<crc32>C4D86C05</crc32>
-		<md5>9b9be252c3ac04112068db69c4c56512</md5>
-		<scrap name="ScreenScraper" date="20230223T044108" />
 	</game>
 	<game id="369452">
 		<path>./No-Intro/Zook Z (USA) (Unl).gbc</path>

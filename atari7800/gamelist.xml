@@ -1,1860 +1,5 @@
 <?xml version="1.0"?>
 <gameList>
-	<game id="44464">
-		<path>./No-Intro/7800 Monitor Cart (USA) (Program) (Unl).a78</path>
-		<name>ZZZ(notgame):[bios] Atari 7800</name>
-		<image>./images/7800 Monitor Cart (USA) (Program) (Unl)-image.png</image>
-		<rating>0</rating>
-		<hidden>true</hidden>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>441ac404cdc7bcbd4d787f911df7bf0d</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230544" />
-	</game>
-	<game id="37995">
-		<path>./No-Intro/Ace of Aces (USA).a78</path>
-		<name>Ace of Aces</name>
-		<desc>Ace of Aces puts you in the cockpit of the Mosquito, the Maverick RAF fighter bomber of World War II. It's white knuckle aerial combat simulation, combining the exhilaration of flight with the gut-wrenching pressure of enemy confrontation. During World War II, Mosquitos downed 659 enemy aircraft and 500 V-Buzz Bombs. Your only allies are your wits, your weapons and your radar. Are you equal to the challenge? Down the Nazi bombers, sink de U-boats, outrun the V-Buzz Bombs and stop the enemy trains to release the POWs. Should you fly around a storm or around? Navigate carefully, consult your intelligence reports and maps to make a decision. Choose your weapons and fuel wisely - once your're on a mission, there's no going back. Select one mission or any combination. If you complete all four successfully - and make it back alive - you'll become the most distinguished flight veteran of World War II - the Ace of Aces!</desc>
-		<image>./media/screenshots/Ace of Aces (USA).png</image>
-		<video>./media/videos/Ace of Aces (USA).mp4</video>
-		<marquee>./media/marquees/Ace of Aces (USA).png</marquee>
-		<thumbnail>./images/Ace of Aces (USA)-thumb.png</thumbnail>
-		<fanart>./images/Ace of Aces (USA)-fanart.jpg</fanart>
-		<bezel>./images/Ace of Aces (USA)-bezel.png</bezel>
-		<boxback>./images/Ace of Aces (USA)-boxback.png</boxback>
-		<rating>0.4</rating>
-		<releasedate>19880601T000000</releasedate>
-		<developer>Artech Studios</developer>
-		<publisher>Atari</publisher>
-		<genre>Shooter / Plane, 1st person</genre>
-		<players>1</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>0be996d25144966d5541c9eb4919b289</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230549" />
-	</game>
-	<game id="37996">
-		<path>./No-Intro/Alien Brigade (USA).a78</path>
-		<name>Alien Brigade</name>
-		<desc>Alien Brigade is a side scrolling shooter similar to Operation Wolf. Aliens have arrived on earth and have brainwashed both soldiers and civilians in order to take over the world. Your job is to stop them! On each of the five levels you will have a different objective to complete, including saving civilians and destroying alien installations. Throughout the levels there will be numerous aliens and brainwashed people you will need to shoot, as well as attacking tanks, helicopters, and more. After shooting enemies a bonus may sometimes be left behind; if you shoot this, you can earn additional ammo, more powerful weapons, or increased health. If you don't shoot fast enough and are hit  by enemy fire your health will slowly decrease; the game ends when all of your health is gone.</desc>
-		<image>./media/screenshots/Alien Brigade (USA).png</image>
-		<video>./media/videos/Alien Brigade (USA).mp4</video>
-		<marquee>./media/marquees/Alien Brigade (USA).png</marquee>
-		<thumbnail>./images/Alien Brigade (USA)-thumb.png</thumbnail>
-		<fanart>./images/Alien Brigade (USA)-fanart.jpg</fanart>
-		<bezel>./images/Alien Brigade (USA)-bezel.png</bezel>
-		<boxback>./images/Alien Brigade (USA)-boxback.png</boxback>
-		<rating>0.8</rating>
-		<releasedate>19900702T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Shooter</genre>
-		<players>1</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>877dcc97a775ed55081864b2dbf5f1e2</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230552" />
-	</game>
-	<game id="108706">
-		<path>./No-Intro/Asteroids (USA) (Beta).a78</path>
-		<name>3D Asteroids</name>
-		<desc>This is an unencrypted pre-release version of the game that became Asteroids for the 7800.</desc>
-		<image>./media/screenshots/Asteroids (USA) (Beta).png</image>
-		<video>./media/videos/Asteroids (USA) (Beta).mp4</video>
-		<marquee>./media/marquees/Asteroids (USA) (Beta).png</marquee>
-		<thumbnail>./images/Asteroids (USA) (Beta)-thumb.png</thumbnail>
-		<fanart>./images/Asteroids (USA) (Beta)-fanart.jpg</fanart>
-		<boxback>./images/Asteroids (USA) (Beta)-boxback.png</boxback>
-		<rating>0.75</rating>
-		<releasedate>19840101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Shooter</genre>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>4332c24e4f3bc72e7fe1b77adf66c2b7</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230553" />
-	</game>
-	<game id="37997">
-		<path>./No-Intro/Asteroids (USA).a78</path>
-		<name>Asteroids</name>
-		<desc>Asteroids is a conversion of the arcade game of the same name.
-
-Play the role of a spaceship pilot trapped in a gigantic asteroid cloud and pulverize incoming asteroids with the ship's photon cannon.  When all asteroids are destroyed, the play can them move to the next round. In addition to asteroid, the player will also face an Alien Robot Saucer which shoots randomly across the screen.
-
-The player using the controller may rotate the ship (left or right) to any direction or move the ship forward. Shots will be fired according to the ship direction. The player has three reserved ships available to replace a destroyed spaceship. The spaceship is destroyed if an asteroid collides with the spaceship or is shot by an Alien Robot Saucer. Additionally, the player may opt to use the hyperspace warp to avoid collision. The warp however, may also destroy the spaceship in the process.
-
-Asteroids when shot will break-up into smaller pieces or be destroyed.. There are three types of asteroids: large asteroids, medium asteroids, and small asteroids. Large asteroids and medium asteroids when shot, will break-up into two smaller sized asteroids. Small asteroids when shot will be destroyed. 
-
-Alien Robot Saucers come in two sizes: small and large. Both use photon lasers to shoot and will explode when destroyed. Alien Robot Saucers will not appear at the Novice Level.
-
-Game Difficulty and Variations
-There are 4 available difficulty settings: Novice, Intermediate, Advanced, and Expert. 
-
-The game also offers three different game variations:
-
-1. Standard Play - For one or two players, taking turns when a player's ship is destroyed.
-
-2. Competition Asteroids - Two players appear on the screen at the same time. Friendly fire is in affect, which means shots fired from one player's spaceship will destroy the other player's spaceship. Each player has separate ship reserves.
-
-3. Team Asteroids - Two players on the screen at the same time. Friendly fire is disabled, which means shots fired from one player's spaceship will not destroy the other player's spaceship and just pass through. Ship reserves for both players are combined.
-
-Scoring
-The score of the Player 1 is viewable on the upper left side of the screen, while Player 2 on the opposite upper right side. A player will be awarded a new reserve ship for every 10,000 points.
-
-1. Small saucer - 1,000 points
-2. Other player's ship - 500 points
-3. Large saucer - 200 points
-4. Small asteroid - 100 points
-5. Medium asteroid  - 50 points
-6. Large asteroid - 20 points</desc>
-		<image>./media/screenshots/Asteroids (USA).png</image>
-		<video>./media/videos/Asteroids (USA).mp4</video>
-		<marquee>./media/marquees/Asteroids (USA).png</marquee>
-		<thumbnail>./images/Asteroids (USA)-thumb.png</thumbnail>
-		<fanart>./images/Asteroids (USA)-fanart.jpg</fanart>
-		<bezel>./images/Asteroids (USA)-bezel.png</bezel>
-		<boxback>./images/Asteroids (USA)-boxback.png</boxback>
-		<rating>0.75</rating>
-		<releasedate>19871101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Shooter</genre>
-		<players>1-2</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>07342c78619ba6ffcc61c10e907e3b50</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230555" />
-	</game>
-	<game id="44464">
-		<path>./No-Intro/Atari 7800 Development Card (USA).a78</path>
-		<name>ZZZ(notgame):[bios] Atari 7800</name>
-		<image>./images/Atari 7800 Development Card (USA)-image.png</image>
-		<rating>0</rating>
-		<hidden>true</hidden>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>0d9452d4db4d1e1cf843f4f10605eb7d</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230556" />
-	</game>
-	<game id="37999">
-		<path>./No-Intro/Ballblazer (USA).a78</path>
-		<name>Ballblazer</name>
-		<desc>In the year 3037, the most competitive sport in the known universe is Ballblazer. For the first time ever, humans from the planet Earth have won the right to compete in the final round of the Ballblazer Championship, to fight for Earth's honor and the title Masterblazer!
-
-Ballblazer is a 3D futuristic soccer-like game, where the player (inside a Rotofoil) is set on a one-on-one 1,155 square playing field (the Grid). The objective of the player to kick a floating ball (Plasmorb) inside the opponent's goal (Goalbeams). A player may compete against a human or computer opponent.
-
-The Rotofoil is equipped with a multi-purpose forcefield. This forcefield when in short distance of the Plasmorb will act as a pull field, automatically pulling the Plasmorb towards to player. When a player in possession of the Plasmorb shoots, the forcefield will act as push field and launches the ball. When the match starts, the player must move down field and attempt to gain possession of the Plasmorb using the joystick and blast the Plasmorb to an intended direction. 
-
-The player should also be aware that the Goldbeams move slightly every second and the distance between them will shrink. The highest scoring goals are goals made when Goldbeams have disappeared across the horizon (Over The Horizon/OTH shots). A player may also attempt to steal possession of a Plasmorb by rushing beside the opponent and blast the Plasmorb away. The game ends when time runs out or a player wins 10 consecutive goals. If the game ends in a draw, over-time will apply and the first player to score will win the game.
-
-Scoring
-
-Close-in goals - 1 point
-Goals near Goldbeams - 2 points
-OTH shots - 3 points
-Players may steal points from each other by making goals. 
-The total combined score of both players cannot accede more than 10 points.
-A player winning 10 consecutive points automatically wins the game.</desc>
-		<image>./media/screenshots/Ballblazer (USA).png</image>
-		<video>./media/videos/Ballblazer (USA).mp4</video>
-		<marquee>./media/marquees/Ballblazer (USA).png</marquee>
-		<thumbnail>./images/Ballblazer (USA)-thumb.png</thumbnail>
-		<bezel>./images/Ballblazer (USA)-bezel.png</bezel>
-		<boxback>./images/Ballblazer (USA)-boxback.png</boxback>
-		<rating>0.75</rating>
-		<releasedate>19880907T000000</releasedate>
-		<developer>Lucasfilm Games</developer>
-		<publisher>Atari</publisher>
-		<genre>Sports</genre>
-		<players>1-2</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>8fc3a695eaea3984912d98ed4a543376</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230559" />
-	</game>
-	<game id="38000">
-		<path>./No-Intro/Barnyard Blaster (USA).a78</path>
-		<name>Barnyard Blaster</name>
-		<desc>You and your grandpa just put your life savings into buying a small farm a few acres for growing vegetables and raising horses, a place to get away from the battle of city life. But you discover that the entire farm is full of things that are determined to drive you away.
-
-Barnyard Blaster is a shooting gallery type game for use with the Atari XG-1 light gun or the joystick. There are three levels plus one bonus level.Your goal is to rid your farm of vermin by shooting targets in each of three levels. Between each level you'll play Gramps' bonus screen where you can brush up on your shooting. But in order to proceed through each level, you must achieve a certain percentage of shooting accuracy. At the end of the game you're given a ranking depending on how well you did.</desc>
-		<image>./media/screenshots/Barnyard Blaster (USA).png</image>
-		<video>./media/videos/Barnyard Blaster (USA).mp4</video>
-		<marquee>./media/marquees/Barnyard Blaster (USA).png</marquee>
-		<thumbnail>./images/Barnyard Blaster (USA)-thumb.png</thumbnail>
-		<bezel>./images/Barnyard Blaster (USA)-bezel.png</bezel>
-		<boxback>./images/Barnyard Blaster (USA)-boxback.png</boxback>
-		<rating>0.55</rating>
-		<releasedate>19880605T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Action</genre>
-		<players>1-2</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>42682415906c21c6af80e4198403ffda</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230601" />
-	</game>
-	<game id="38001">
-		<path>./No-Intro/Basketbrawl (USA).a78</path>
-		<name>Basketbrawl</name>
-		<desc>In a desperate attempt to stop inner-city gang wars, the city leaders organized a basketball league.  The league is scheduled to play on three courts: a street, a junkyard, and a rooftop.  The mayor figured that a friendly game of hoops would be a much more peaceful way to settle disputes. He was wrong.
-
-You can choose 1-on-1 or 2-on-2 game modes. There are six characters to choose from (ten in Atari Lynx version); each with their own health, speed, and power attributes. Each player without the ball can jump to block a shot or punch there opponent to get the ball. There's also an option to perform a power throw on an opposing player. Players with the ball can shoot or pass. Power ups appear on the court at random instances. These power up one attribute for the player. For example, the lightning power up increases the player's speed. 
-
-The referee does not call fouls, but does hurl knives at the players.</desc>
-		<image>./media/screenshots/Basketbrawl (USA).png</image>
-		<video>./media/videos/Basketbrawl (USA).mp4</video>
-		<marquee>./media/marquees/Basketbrawl (USA).png</marquee>
-		<thumbnail>./images/Basketbrawl (USA)-thumb.png</thumbnail>
-		<fanart>./images/Basketbrawl (USA)-fanart.png</fanart>
-		<bezel>./images/Basketbrawl (USA)-bezel.png</bezel>
-		<boxback>./images/Basketbrawl (USA)-boxback.png</boxback>
-		<rating>0.45</rating>
-		<releasedate>19900603T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Sports</genre>
-		<players>1-2</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>f5f6b69c5eb4b55fc163158d1a6b423e</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230604" />
-	</game>
-	<game id="38004">
-		<path>./No-Intro/Centipede (USA).a78</path>
-		<name>Centipede</name>
-		<desc>In Centipede, the player is trapped in the Enchanted Forest. Armed with only a magic wand to ward off the forest's insect denizens, all of which apparently are attacking in the player in continuous waves. 
-
-The player must use the magic wand to shoot sparks at approaching insects to score points by pressing the controller button. Holding down the controller button will set the wand to rapid fire shots. If the player is bitten by an insect, the player will be temporarily paralyzed and lose one of the three starting magic wands. 
-
-Insect Opponents and Mushrooms
-All enemy insects have a distinctive sound before attacking, which may help the player identify which insect is attacking. Enemies and objects in the game are as the following:
-
-1. The Centipede
-The Centipede will attack in 12 waves. In the first wave, the Centipede will have a head attached to 11 body segments. In the second wave, the Centipede will have a head attached to 10 body segments, in addition to a detached head. The third wave will have the Centipede with an attached head, 9 body segments, plus two detached heads. These body segments will transform into heads and continue to do so until Wave 12. In the last wave, the Centipede will have 12 detached heads, independently attacking the player. Centipede heads are worth more points than body segments.
-
-Attacks from the Centipede will come from the top of the screen, moving downward. If a spark hits any part of the Centipede, that particular body segment will transform into a mushroom, while the body segment behind it will become the new Centipede head. When the Centipede is destroyed, it will briefly disappear and re-appear from the top of the screen again.
-
-The Spider
-The Spider will attempt to distract the player from attacking the Centipede. It will destroy any mushroom it touches. Spiders will score more points if it is hit in closer distances.
-
-The Flea
-The Flea will appear if the player has destroyed most of the existing mushrooms. It will drop down creating a new batch of mushrooms where it falls. The Flea will disappear after two hits. After the first hit, the Flea will drop down much faster.
-
-The Scorpion
-The Scorpion will appear in the third wave. It moves slowly but will pick up speed, moving faster. While doing so, it will poison any mushroom it touches.
-
-Mushrooms
-Mushrooms fill the Enchanted Forest and may act as obstacles or cover for the player, with added effects to enemy insects. It takes for shots to complete destroy a mushroom. There are two type of mushrooms: Magic Mushrooms and Poisonous mushrooms. Magic mushrooms are the default mushrooms in the game and are also the the result of the player destroying an insect or Centipede body segment. Poisonous Mushrooms are the result of the Scorpion touching a mushroom. Poisonous Mushrooms will prompt the Centipede near it to move straight towards the player through any mushroom. Losing a wand will restore any partially damaged mushroom.
-
-Game Difficulty and Variations
-The game offers four difficulty levels: Novice, Standard, Advanced, and Expert. Game Variations are as the following:
-
-1. One Player
-Two Player Alternating
-Two players will take turns when the active player is bitten.
-Dual Player Competition
-Two players will appear on the screen at the same time. Scoring is separate. Shots fired from one player will paralyze the other player.
-Team Play
-Two players will appear on the screen at the same time. Scoring is combined. Shots fired from one player will not paralyze the other player.
-
-Scoring
-The player will win a bonus magic wand for every 12,000 points to a maximum of six wands. The game will end when all wands are lost. Scoring are as the following:
-
-Centipede Head - 100 points
-Centipede Body Segment - 10 points
-Spider at close range - 900 points
-Spider at medium range - 600 points
-Flea - 200 points
-Scorpion - 1,000 points
-Flea - 200 points
-Restored mushroom - 5 points
-Destroyed mushroom - 1 points</desc>
-		<image>./media/screenshots/Centipede (USA).png</image>
-		<video>./media/videos/Centipede (USA).mp4</video>
-		<marquee>./media/marquees/Centipede (USA).png</marquee>
-		<thumbnail>./images/Centipede (USA)-thumb.png</thumbnail>
-		<bezel>./images/Centipede (USA)-bezel.png</bezel>
-		<boxback>./images/Centipede (USA)-boxback.png</boxback>
-		<rating>0.85</rating>
-		<releasedate>19870601T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Shooter / Space Invaders Like</genre>
-		<players>1-2</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>5a09946e57dbe30408a8f253a28d07db</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230608" />
-	</game>
-	<game id="38005">
-		<path>./No-Intro/Choplifter! (USA).a78</path>
-		<name>Choplifter!</name>
-		<desc>Choplifter is a side-scrolling action/arcade game that puts you in command of an attack chopper.  Your mission: Go behind enemy lines and rescue up to 16 hostages per level.  Be careful, though, because tanks and enemy aircraft will try to stop you -- and they won't stop shooting while you are rescuing those hostages!
-
-Originally released for Apple II home computers, Choplifter was later ported to the arcades and a number of video game consoles.  Many imitators and homages would follow.</desc>
-		<image>./media/screenshots/Choplifter! (USA).png</image>
-		<video>./media/videos/Choplifter! (USA).mp4</video>
-		<marquee>./media/marquees/Choplifter! (USA).png</marquee>
-		<thumbnail>./images/Choplifter! (USA)-thumb.png</thumbnail>
-		<fanart>./images/Choplifter! (USA)-fanart.jpg</fanart>
-		<bezel>./images/Choplifter! (USA)-bezel.png</bezel>
-		<boxback>./images/Choplifter! (USA)-boxback.png</boxback>
-		<rating>0.5</rating>
-		<releasedate>19870701T000000</releasedate>
-		<developer>Brøderbund Software</developer>
-		<publisher>Atari</publisher>
-		<genre>Shoot'em up / Horizontal</genre>
-		<family>Choplifter</family>
-		<players>1</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>93e4387864b014c155d7c17877990d1e</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230609" />
-	</game>
-	<game id="38006">
-		<path>./No-Intro/Commando (USA).a78</path>
-		<name>Commando</name>
-		<desc>Several levels await your super-tough Commando in this arcade conversion. Armed with only a standard rifle and a few grenades you must take on hordes of Nazis. Some are wandering around in the open, while others have picked out hiding places, which you must approach from certain angles. Trees, rivers and bridges create a varied combat-like terrain and must be incorporated into your thinking. Extra grenades can be collected, and will definitely be required, as they allow you to kill form distance and thus avoid some enemy shots.</desc>
-		<image>./media/screenshots/Commando (USA).png</image>
-		<video>./media/videos/Commando (USA).mp4</video>
-		<marquee>./media/marquees/Commando (USA).png</marquee>
-		<thumbnail>./images/Commando (USA)-thumb.png</thumbnail>
-		<bezel>./images/Commando (USA)-bezel.png</bezel>
-		<boxback>./images/Commando (USA)-boxback.png</boxback>
-		<rating>0.8</rating>
-		<releasedate>19850919T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Atari</publisher>
-		<genre>Shooter / Run and Gun</genre>
-		<players>1-2</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>2e8e28f6ad8b9b9267d518d880c73ebb</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230612" />
-	</game>
-	<game id="38007">
-		<path>./No-Intro/Crack'ed (USA).a78</path>
-		<name>Crack'ed</name>
-		<desc>As a professional ornithologist, you're thrilled to find out that some rare South American hornbills have nested in your "old yolk tree." But while the hornbills are out feeding, a group of mischievous bluebirds, owls, and snakes begin raiding their nests and stealing eggs.
-
-You get out your slingshot and begin hitting the marauding creatures. But you have to be careful. If you hit an egg-carrying bird, it drops the egg and you have to act fast to catch it before it hits the ground and return it to a nest. At the same time, you have to watch for snakes that may be sneaking up to nests and gobbling eggs. If you can protect the eggs long enough, you can take them to another nesting site.</desc>
-		<image>./media/screenshots/Crack'ed (USA).png</image>
-		<video>./media/videos/Crack'ed (USA).mp4</video>
-		<marquee>./media/marquees/Crack'ed (USA).png</marquee>
-		<thumbnail>./images/Crack'ed (USA)-thumb.png</thumbnail>
-		<bezel>./images/Crack'ed (USA)-bezel.png</bezel>
-		<boxback>./images/Crack'ed (USA)-boxback.png</boxback>
-		<rating>0.6</rating>
-		<releasedate>19880101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Shooter</genre>
-		<players>1</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>db691469128d9a4217ec7e315930b646</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230615" />
-	</game>
-	<game id="38008">
-		<path>./No-Intro/Crossbow (USA).a78</path>
-		<name>Crossbow</name>
-		<desc>In Crossbow, you and several friends are trying to cross many treacherous landscapes in order to retrieve stolen treasures from the castle of the Evil Master. All of the members of your party are unarmed, however you carry a crossbow. Using this, you need to shoot any obstacles or hostile enemies that may get in the way of your friends as they cross the screen. You see the landscape from a first person point of view, and one by one each member of the party will walk from the left to right on the screen. There are many different landscapes that need to be crossed, each with its own variety of dangers. There are deserts with scorpions, ice caverns, jungles with hostile monkeys, a lava spewing volcano, and even the heavily guarded castle. The game starts with two friends in your party, with additional friends joining after clearing certain parts of the game. The game ends when everyone in your party has been killed.</desc>
-		<image>./media/screenshots/Crossbow (USA).png</image>
-		<video>./media/videos/Crossbow (USA).mp4</video>
-		<marquee>./media/marquees/Crossbow (USA).png</marquee>
-		<thumbnail>./images/Crossbow (USA)-thumb.png</thumbnail>
-		<bezel>./images/Crossbow (USA)-bezel.png</bezel>
-		<boxback>./images/Crossbow (USA)-boxback.png</boxback>
-		<rating>0.85</rating>
-		<releasedate>19880101T000000</releasedate>
-		<developer>Exidy, Inc.</developer>
-		<publisher>Atari</publisher>
-		<genre>Shooter</genre>
-		<players>1</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>a94e4560b6ad053a1c24e096f1262ebf</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230618" />
-	</game>
-	<game id="38010">
-		<path>./No-Intro/Dark Chambers (USA).a78</path>
-		<name>Dark Chambers</name>
-		<desc>Dark Chambers is an arcade action game similar to Gauntlet. You are an explorer in an underground maze; your goal is to survive the 26 different levels and collect as many of the hidden treasures as you can. Hidden somewhere in each of the levels is an exit which will take you on to the next level. Trying to stop you from completing your quest are a wide variety of creatures, including zombies, wraiths, skeletons, wizards, and the grim reaper. Each of the creatures in the game has a different strength; when you shoot a creature, it will transform into the next weaker creature. Eventually a creature will become the weakest one (a zombie) at which point it can be destroyed. In addition to the creatures and treasures, other items that can be found in the maze are keys (to open doors), potions (to restore health), poison (drains health), guns (increases your firing rate), traps, shields, and bombs. The game is played from an overhead point of view, and is for one player or two players simultaneously.</desc>
-		<image>./media/screenshots/Dark Chambers (USA).png</image>
-		<video>./media/videos/Dark Chambers (USA).mp4</video>
-		<marquee>./media/marquees/Dark Chambers (USA).png</marquee>
-		<thumbnail>./images/Dark Chambers (USA)-thumb.png</thumbnail>
-		<bezel>./images/Dark Chambers (USA)-bezel.png</bezel>
-		<boxback>./images/Dark Chambers (USA)-boxback.png</boxback>
-		<rating>0.45</rating>
-		<releasedate>19880101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Action</genre>
-		<players>1-2</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>179b76ff729d4849b8f66a502398acae</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230621" />
-	</game>
-	<game id="38011">
-		<path>./No-Intro/Desert Falcon (USA).a78</path>
-		<name>Desert Falcon</name>
-		<desc>Desert Falcon is an arcade style shooter. Many of the Pharaoh's great treasures are lost throughout the desert, and your goal is to steal as many as you can to earn points. The game features a scrolling, isometric point of view as you control your falcon through the various desert landscapes. The treasures you are after are guarded of course. Many desert creatures including vultures, warriors, flying fish, sphinxes and more will all attempt to stop you from succeeding in your task. Also, at the end of each level you will need to face a large, howling sphinx before you can continue on. Your falcon isn't completely unarmed, and has the ability to fire darts which can be used to destroy the assorted enemies and the sphinx. In the sand, you will occasionally come across some hieroglyphs. Several different superpowers can be gained by landing and hopping over three of these hieroglyphs. Depending on which hieroglyphs are collected, you may become invincible, warp to the end of the level, earn free points, trick enemies into attacking a decoy instead of you, or even get an air bomb which destroys all airborne enemies.</desc>
-		<image>./media/screenshots/Desert Falcon (USA).png</image>
-		<video>./media/videos/Desert Falcon (USA).mp4</video>
-		<marquee>./media/marquees/Desert Falcon (USA).png</marquee>
-		<thumbnail>./images/Desert Falcon (USA)-thumb.png</thumbnail>
-		<bezel>./images/Desert Falcon (USA)-bezel.png</bezel>
-		<boxback>./images/Desert Falcon (USA)-boxback.png</boxback>
-		<rating>0.65</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Shoot'em up / Diagonal</genre>
-		<players>1</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>95ac811c7d27af0032ba090f28c107bd</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230624" />
-	</game>
-	<game id="44464">
-		<path>./No-Intro/Diagnostic Test Cartrige (USA) (Beta).a78</path>
-		<name>ZZZ(notgame):[bios] Atari 7800</name>
-		<image>./images/Diagnostic Test Cartrige (USA) (Beta)-image.png</image>
-		<rating>0</rating>
-		<hidden>true</hidden>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>6bfc9970b1a78e53653b650d3a833145</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230625" />
-	</game>
-	<game id="44464">
-		<path>./No-Intro/Diagnostic Test Cartrige (USA).a78</path>
-		<name>ZZZ(notgame):[bios] Atari 7800</name>
-		<image>./images/Diagnostic Test Cartrige (USA)-image.png</image>
-		<rating>0</rating>
-		<hidden>true</hidden>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>91041aadd1700a7a4076f4005f2c362f</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230627" />
-	</game>
-	<game id="38012">
-		<path>./No-Intro/Dig Dug (USA).a78</path>
-		<name>Dig Dug</name>
-		<desc>Dig Dug is a 1-2 player arcade game in which you have to use your shovel to dig your way through the earth. Stopping you from doing this are two monsters, called Pooka and Fygar, who will continually chase you around. The only weapon that you carry is an air pump, which you can use to inflate the monsters to the point where they explode. (if you start to inflate them but stop doing so, the monsters will get turned back to their normal selves.) Furthermore, rocks are scattered throughout the earth, and you can use these rocks to squash them. If the monsters do not find you for several seconds, they will eventually get turned into ghosts, which are able to walk through the earth. They are invincible and cannot be killed. From time to time, vegetables will appear in the center, and you can get these for points.</desc>
-		<image>./media/screenshots/Dig Dug (USA).png</image>
-		<video>./media/videos/Dig Dug (USA).mp4</video>
-		<marquee>./media/marquees/Dig Dug (USA).png</marquee>
-		<thumbnail>./images/Dig Dug (USA)-thumb.png</thumbnail>
-		<bezel>./images/Dig Dug (USA)-bezel.png</bezel>
-		<boxback>./images/Dig Dug (USA)-boxback.png</boxback>
-		<rating>0.75</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Atari</publisher>
-		<genre>Action / Labyrinth</genre>
-		<family>Dig Dug</family>
-		<players>1-2</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>731879ea82fc0ca245e39e036fe293e6</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230629" />
-	</game>
-	<game id="38013">
-		<path>./No-Intro/Donkey Kong (USA).a78</path>
-		<name>Donkey Kong</name>
-		<desc>Released in the arcades in 1981, Donkey Kong was not only Nintendo's first real smash hit for the company, but marked the introduction for two of their most popular mascots: Mario (originally "Jumpman") and Donkey Kong.
-
-Donkey Kong is a platform-action game that has Mario scale four different industrial themed levels (construction zone, cement factory, an elevator-themed level, and removing rivets from girders) in an attempt to save the damsel in distress, Pauline, from the big ape before the timer runs out.  Once the rivets are removed from the final level, Donkey Kong falls, and the two lovers are reunited.  From there, the levels start over at a higher difficulty.
-
-Along the way, Mario must dodge a constant stream of barrels, "living" fireballs, and spring-weights.  Although not as powerful as in other future games, Mario can find a hammer which allows him to destroy the barrels and fireballs for a limited amount of time.  Additionally, Mario can also find Pauline's hat, purse and umbrella for additional bonus points.
-
-Donkey Kong is also notable for being one of the first complete narratives in video game form, told through simplistic cut scenes that advance the story.  It should also be noted that in versions of the game for early 1980's consoles, Donkey Kong only used 2-3 of the original levels, with the cement factory usually omitted.</desc>
-		<image>./media/screenshots/Donkey Kong (USA).png</image>
-		<video>./media/videos/Donkey Kong (USA).mp4</video>
-		<marquee>./media/marquees/Donkey Kong (USA).png</marquee>
-		<thumbnail>./images/Donkey Kong (USA)-thumb.png</thumbnail>
-		<fanart>./images/Donkey Kong (USA)-fanart.jpg</fanart>
-		<bezel>./images/Donkey Kong (USA)-bezel.png</bezel>
-		<boxback>./images/Donkey Kong (USA)-boxback.png</boxback>
-		<rating>0.7</rating>
-		<releasedate>19880101T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Atari</publisher>
-		<genre>Platform</genre>
-		<family>Donkey Kong</family>
-		<players>1-2</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>19f1ee292a23636bd57d408b62de79c7</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230631" />
-	</game>
-	<game id="38014">
-		<path>./No-Intro/Donkey Kong Junior (USA).a78</path>
-		<name>Donkey Kong Junior</name>
-		<desc>Mario has kidnapped Junior's Papa!
-
-Donkey Kong Jr. was originally released in the arcades in 1982 as a sequel to Donkey Kong.  In this game, Mario plays the antagonist, finally having captured Donkey Kong, and has put the ape in a locked cage.  As Donkey Kong Jr., players will have to make their way through four different levels (Vines, Springboard, Chains and Mario's Hideout) in an attempt to find keys to free the little monkey's Father.
-
-Along the way, Mario will send out Snapjaws, swooping purple birds, and electric sparks in an attempt to stop Junior.  Junior can defend himself by dropping fruit found around the levels on the heads of his foes.  The more foes a piece of fruit hits in a falling sequence, the higher bonus points can be scored.
-
-Junior can also avoid enemies more easily by grabbing hold of two chains or vines at a time to climb away faster, or by jumping over his foes.  However, any long fall or falling into the water on certain levels will mean the loss of a life for Junior.
-
-In the final cut scene, Junior will free Donkey Kong and both will escape after giving Mario the boot.  Once all four levels are cleared, the game levels will start over at a higher difficulty.
-
-Like the original Donkey Kong, the earlier 1980's console versions do not have all of the levels and animations from the arcade.</desc>
-		<image>./media/screenshots/Donkey Kong Junior (USA).png</image>
-		<video>./media/videos/Donkey Kong Junior (USA).mp4</video>
-		<marquee>./media/marquees/Donkey Kong Junior (USA).png</marquee>
-		<thumbnail>./images/Donkey Kong Junior (USA)-thumb.png</thumbnail>
-		<fanart>./images/Donkey Kong Junior (USA)-fanart.jpg</fanart>
-		<bezel>./images/Donkey Kong Junior (USA)-bezel.png</bezel>
-		<boxback>./images/Donkey Kong Junior (USA)-boxback.png</boxback>
-		<rating>0.6</rating>
-		<releasedate>19880101T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Atari</publisher>
-		<genre>Platform</genre>
-		<family>Donkey Kong</family>
-		<players>1-2</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>5e332fbfc1e0fc74223d2e73271ce650</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230632" />
-	</game>
-	<game id="38015">
-		<path>./No-Intro/Double Dragon (USA).a78</path>
-		<name>Double Dragon</name>
-		<desc>Set in a post-apocalyptic New York, Double Dragon is the story of Billy and Jimmy Lee, twin brothers trained in the fighting style of Sou-Setsu-Ken. Together, they manage a small martial arts training school, teaching their students in self-defense. One day, Billy's girlfriend, Marian, is kidnapped off the street by the "Black Warriors", a savage street gang led by a man named Willy. The Black Warriors demand the Lee brothers disclose their martial arts secrets in exchange for Marian's freedom. The Lee brothers set out on a rescue mission to crush the Black Warriors and save Marian.
-
-Using whatever techniques they have at their disposal, from the basic punches and kicks to the invulnerable elbow strike, as well any weapon that comes into their hands, the Lee brothers must pursue the gang through the city slum, industrial area and the forest before reaching their hideout to confront the big boss, Willy.</desc>
-		<image>./media/screenshots/Double Dragon (USA).png</image>
-		<video>./media/videos/Double Dragon (USA).mp4</video>
-		<marquee>./media/marquees/Double Dragon (USA).png</marquee>
-		<thumbnail>./images/Double Dragon (USA)-thumb.png</thumbnail>
-		<fanart>./images/Double Dragon (USA)-fanart.jpg</fanart>
-		<bezel>./images/Double Dragon (USA)-bezel.png</bezel>
-		<boxback>./images/Double Dragon (USA)-boxback.png</boxback>
-		<rating>0.6</rating>
-		<releasedate>19890101T000000</releasedate>
-		<developer>Technos Japan Corp.</developer>
-		<publisher>Activision</publisher>
-		<genre>Beat'em Up</genre>
-		<family>Double Dragon</family>
-		<players>1-2</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>543484c00ba233736bcaba2da20eeea9</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230637" />
-	</game>
-	<game id="38016">
-		<path>./No-Intro/F-18 Hornet (USA).a78</path>
-		<name>F-18 Hornet</name>
-		<desc>F-18 Hornet is a one-player fighter simulator in which the player pilots a Navy F-18/A Jet through a series of simulated combat situations including carrier take-offs and landings, bombings, strafings, and air combat. 
-
-In each of four missions, you are confronted with a variety of opponents and must perform a series of combat objectives in order from the Naval Aviator rank.</desc>
-		<image>./media/screenshots/F-18 Hornet (USA).png</image>
-		<video>./media/videos/F-18 Hornet (USA).mp4</video>
-		<marquee>./media/marquees/F-18 Hornet (USA).png</marquee>
-		<thumbnail>./images/F-18 Hornet (USA)-thumb.png</thumbnail>
-		<bezel>./images/F-18 Hornet (USA)-bezel.png</bezel>
-		<boxback>./images/F-18 Hornet (USA)-boxback.png</boxback>
-		<rating>0</rating>
-		<releasedate>19880101T000000</releasedate>
-		<developer>Absolute Entertainment</developer>
-		<publisher>Absolute Entertainment</publisher>
-		<genre>Simulation / Vehicle</genre>
-		<players>1</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>2251a6a0f3aec84cc0aff66fc9fa91e8</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230639" />
-	</game>
-	<game id="38017">
-		<path>./No-Intro/Fatal Run (USA).a78</path>
-		<name>Fatal Run</name>
-		<desc>In this post-apocalyptic driving/racing game you must travel to various towns delivering medicine, while on your way to a missile base which houses a rocket that can save the world.
- 
-While driving through the 32 levels, you'll meet countless enemies who want to stop you from achieving your goal. Your car boasts many weapons to help you out, including dynamite, rockets, oil slicks, smoke screens, and machine guns. You can also upgrade your vehicle within the city shops. Upgrading your gas tank provides better mileage while upgrading your bumper protects you during collisions.
-A password feature let's you continue where you left off.</desc>
-		<image>./media/screenshots/Fatal Run (USA).png</image>
-		<video>./media/videos/Fatal Run (USA).mp4</video>
-		<marquee>./media/marquees/Fatal Run (USA).png</marquee>
-		<thumbnail>./images/Fatal Run (USA)-thumb.png</thumbnail>
-		<bezel>./images/Fatal Run (USA)-bezel.png</bezel>
-		<boxback>./images/Fatal Run (USA)-boxback.png</boxback>
-		<rating>0.45</rating>
-		<releasedate>19900101T000000</releasedate>
-		<developer>Sculptured Software</developer>
-		<publisher>Atari</publisher>
-		<genre>Race, Driving</genre>
-		<players>1</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>d25d5d19188e9f149977c49eb0367cd1</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230642" />
-	</game>
-	<game id="38018">
-		<path>./No-Intro/Fight Night (USA).a78</path>
-		<name>Fight Night</name>
-		<desc>Fight Night is a boxing game in which players box 11 different opponents on the way to the final match with the champ, Bronx Bomber. Each boxer has unique strengths and weaknesses, along with one specialised "super punch". There are four different modes of play; the single-player Main Event and the multi-player Tournament (on disk/cartridge versions only), and also Training and Sparring modes. Players can also create their own boxer, setting the appearance and abilities.</desc>
-		<image>./media/screenshots/Fight Night (USA).png</image>
-		<video>./media/videos/Fight Night (USA).mp4</video>
-		<marquee>./media/marquees/Fight Night (USA).png</marquee>
-		<thumbnail>./images/Fight Night (USA)-thumb.png</thumbnail>
-		<bezel>./images/Fight Night (USA)-bezel.png</bezel>
-		<boxback>./images/Fight Night (USA)-boxback.png</boxback>
-		<rating>0.05</rating>
-		<releasedate>19880101T000000</releasedate>
-		<developer>Sydney Development Corp.</developer>
-		<publisher>Accolade</publisher>
-		<genre>Sports / Boxing</genre>
-		<players>1-2</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>07dbbfe612a0a28e283c01545e59f25e</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230645" />
-	</game>
-	<game id="38019">
-		<path>./No-Intro/Food Fight (USA) (Beta).a78</path>
-		<name>Food Fight</name>
-		<desc>You play as Charley trying to eat an ice cream cone. But first you must avoid the chefs that are out to get you: Angelo, Zorba, Oscar, and Jacques. Avoid the food thrown at you by the chefs to get the cone. You can also throw your own food at the chefs to slow them down.</desc>
-		<image>./media/screenshots/Food Fight (USA) (Beta).png</image>
-		<video>./media/videos/Food Fight (USA) (Beta).mp4</video>
-		<marquee>./media/marquees/Food Fight (USA) (Beta).png</marquee>
-		<thumbnail>./images/Food Fight (USA) (Beta)-thumb.png</thumbnail>
-		<bezel>./images/Food Fight (USA) (Beta)-bezel.png</bezel>
-		<boxback>./images/Food Fight (USA) (Beta)-boxback.png</boxback>
-		<rating>0.75</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Action</genre>
-		<players>1-2</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>e05041ad193e354f9fa37c18f3550b5a</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230648" />
-	</game>
-	<game id="38019">
-		<path>./No-Intro/Food Fight (USA).a78</path>
-		<name>Food Fight</name>
-		<desc>You play as Charley trying to eat an ice cream cone. But first you must avoid the chefs that are out to get you: Angelo, Zorba, Oscar, and Jacques. Avoid the food thrown at you by the chefs to get the cone. You can also throw your own food at the chefs to slow them down.</desc>
-		<image>./media/screenshots/Food Fight (USA).png</image>
-		<video>./media/videos/Food Fight (USA).mp4</video>
-		<marquee>./media/marquees/Food Fight (USA).png</marquee>
-		<thumbnail>./images/Food Fight (USA)-thumb.png</thumbnail>
-		<bezel>./images/Food Fight (USA)-bezel.png</bezel>
-		<boxback>./images/Food Fight (USA)-boxback.png</boxback>
-		<rating>0.75</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Action</genre>
-		<players>1-2</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>cf76b00244105b8e03cdc37677ec1073</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230651" />
-	</game>
-	<game id="38020">
-		<path>./No-Intro/Galaga (USA).a78</path>
-		<name>Galaga</name>
-		<desc>Galaga is a vertical arcade shooter from Namco.  You control a space fighter at the bottom of the screen, scrolling left and right in order to avoid oncoming bombs and kamikaze attacks from alien invaders--and to fire your own missiles to fight back!
-
-There are an infinite number of stages to progress through.  Every third level is a "challenge stage" in which you have a free chance to shoot as many aliens as possible and rack up bonus points.
-
-Certain aliens have tractor beams they can use to capture one of your ships.  If that wasn't your last "life," you can try to shoot that alien down and recapture your ship, giving you two ships at once and doubling your firepower.
-
-A summary screen appears when the game is over, giving you both your final score and you final "hit ratio"--the number of missiles fired, enemies destroyed, and the percentage of targets hit.</desc>
-		<image>./media/screenshots/Galaga (USA).png</image>
-		<video>./media/videos/Galaga (USA).mp4</video>
-		<marquee>./media/marquees/Galaga (USA).png</marquee>
-		<thumbnail>./images/Galaga (USA)-thumb.png</thumbnail>
-		<fanart>./images/Galaga (USA)-fanart.jpg</fanart>
-		<bezel>./images/Galaga (USA)-bezel.png</bezel>
-		<boxback>./images/Galaga (USA)-boxback.png</boxback>
-		<rating>0.65</rating>
-		<releasedate>19860801T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Atari</publisher>
-		<genre>Shooter / Space Invaders Like</genre>
-		<family>Galaxian</family>
-		<players>1-2</players>
-		<kidgame>true</kidgame>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>fb8d803b328b2e442548f7799cfa9a4a</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230652" />
-	</game>
-	<game id="108709">
-		<path>./No-Intro/GATO (USA) (Proto).a78</path>
-		<name>GATO</name>
-		<desc>GATO is a submarine simulator originally released for several personal computers, such as the Apple II, Atari 8-bit, and Commodore 64. Atari had plans to port GATO to the Atari 7800 and even put together a simple demo, but it doesn't appear the game ever got beyond that stage. The demo consists of four screenshots that you can cycle through by pressing the fire button. You can download the ROM image above and run it in the MESS Atari 7800 emulator.</desc>
-		<image>./media/screenshots/GATO (USA) (Proto).png</image>
-		<video>./media/videos/GATO (USA) (Proto).mp4</video>
-		<marquee>./media/marquees/GATO (USA) (Proto).png</marquee>
-		<thumbnail>./images/GATO (USA) (Proto)-thumb.png</thumbnail>
-		<boxback>./images/GATO (USA) (Proto)-boxback.png</boxback>
-		<rating>0</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>06204dadc975be5e5e37e7cc66f984cf</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230654" />
-	</game>
-	<game id="38021">
-		<path>./No-Intro/Hat Trick (USA).a78</path>
-		<name>Hat Trick</name>
-		<desc>Hat Trick is a two-on-two hockey game based on the 1984 coin-op of the same name. Each player controls a goalie and a skater. The object is to shoot the puck into the opposing teams goal. Each game lasts two minutes.</desc>
-		<image>./media/screenshots/Hat Trick (USA).png</image>
-		<video>./media/videos/Hat Trick (USA).mp4</video>
-		<marquee>./media/marquees/Hat Trick (USA).png</marquee>
-		<thumbnail>./images/Hat Trick (USA)-thumb.png</thumbnail>
-		<bezel>./images/Hat Trick (USA)-bezel.png</bezel>
-		<boxback>./images/Hat Trick (USA)-boxback.png</boxback>
-		<rating>0.25</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Bally Sente</developer>
-		<publisher>Atari</publisher>
-		<genre>Sports</genre>
-		<players>1-2</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>fd9e78e201b6baafddfd3e1fbfe6ba31</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230656" />
-	</game>
-	<game id="44464">
-		<path>./No-Intro/High Score Cartridge (USA) (Proto).a78</path>
-		<name>ZZZ(notgame):[bios] Atari 7800</name>
-		<image>./media/screenshots/High Score Cartridge (USA) (Proto).png</image>
-		<rating>0</rating>
-		<hidden>true</hidden>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>c8a73288ab97226c52602204ab894286</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230658" />
-	</game>
-	<game id="38022">
-		<path>./No-Intro/Ikari Warriors (USA).a78</path>
-		<name>Ikari Warriors</name>
-		<desc>A conversion of the arcade game, Ikari Warriors is a vertically scrolling action game. One or two players fight their way through a variety of terrain, such as jungles, rivers, and ruins. Along the way different weapons can be found, including machine guns, grenades, and rocket launchers.</desc>
-		<image>./media/screenshots/Ikari Warriors (USA).png</image>
-		<video>./media/videos/Ikari Warriors (USA).mp4</video>
-		<marquee>./media/marquees/Ikari Warriors (USA).png</marquee>
-		<thumbnail>./images/Ikari Warriors (USA)-thumb.png</thumbnail>
-		<bezel>./images/Ikari Warriors (USA)-bezel.png</bezel>
-		<boxback>./images/Ikari Warriors (USA)-boxback.png</boxback>
-		<rating>0.6</rating>
-		<releasedate>19890101T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>Atari</publisher>
-		<genre>Shooter / Run and Gun</genre>
-		<family>Ikari</family>
-		<players>1-2</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>c3672482ca93f70eafd9134b936c3feb</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230701" />
-	</game>
-	<game id="38023">
-		<path>./No-Intro/Impossible Mission (USA).a78</path>
-		<name>Impossible Mission</name>
-		<desc>You play a secret agent on a quest to stop the evil Professor
-Elvin Atombender, who is believed to be tampering with national security computers. You must penetrate Atombender's stronghold, avoid his deadly robot creations, and acquire various pieces of a password to use in the main control room.
-
-The robots, rooms, and puzzle pieces will be switched around when starting over which provides replay value.</desc>
-		<image>./media/screenshots/Impossible Mission (USA).png</image>
-		<video>./media/videos/Impossible Mission (USA).mp4</video>
-		<marquee>./media/marquees/Impossible Mission (USA).png</marquee>
-		<thumbnail>./images/Impossible Mission (USA)-thumb.png</thumbnail>
-		<bezel>./images/Impossible Mission (USA)-bezel.png</bezel>
-		<boxback>./images/Impossible Mission (USA)-boxback.png</boxback>
-		<rating>0.6</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Epyx</developer>
-		<publisher>Atari</publisher>
-		<genre>Platform</genre>
-		<players>1</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>baebc9246c087e893dfa489632157180</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230704" />
-	</game>
-	<game id="38024">
-		<path>./No-Intro/Jinks (USA).a78</path>
-		<name>Jinks</name>
-		<desc>Jinks added a largely new concept to the Breakout type games,offering much freer paddle movement ( both horizontally and vertically), a horizontally scrolling screen and the ability to flip the triangular paddle as needed.
-
-The objective is to survive on the planet Jinks - an exploration mission on this resource-rich planet has gone wrong. As hazards, there are objects that can destroy the paddle or make it smaller. There is also the ability to shake the screen if the ball is in a looping position.</desc>
-		<image>./media/screenshots/Jinks (USA).png</image>
-		<video>./media/videos/Jinks (USA).mp4</video>
-		<marquee>./media/marquees/Jinks (USA).png</marquee>
-		<thumbnail>./images/Jinks (USA)-thumb.png</thumbnail>
-		<bezel>./images/Jinks (USA)-bezel.png</bezel>
-		<boxback>./images/Jinks (USA)-boxback.png</boxback>
-		<rating>0.3</rating>
-		<releasedate>19890101T000000</releasedate>
-		<developer>Diamond Software</developer>
-		<publisher>Atari</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>045fd12050b7f2b842d5970f2414e912</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230707" />
-	</game>
-	<game id="38025">
-		<path>./No-Intro/Joust (USA).a78</path>
-		<name>Joust</name>
-		<desc>In Joust, players take control of a knight with a lance who rides their flying ostrich (or stork, for Player 2) to do battle against computer-controlled evil knights who ride atop vultures.
-
-Players must flap their steed's wings to hit the enemy from a higher jousting point to destroy the vulture and its rider. Once the enemy has been hit, an egg falls to one of the platforms below. The heroic knights must destroy the eggs before they hatch and release new and increasingly more difficult knights. The three strengths of enemy knights are Bounder (red knight), Hunter (white knight), and Shadow Lord (blue knight). These enemy knights are not the only challenge to be found in the game. Players must also contend with crumbling platforms, lava trolls who attempt to pull knights into the fire, and the dreaded "unbeatable"(?) pterodactyl.
-
-The game was novel for its time for being one of the few two-player simultaneous games in the arcade.</desc>
-		<image>./media/screenshots/Joust (USA).png</image>
-		<video>./media/videos/Joust (USA).mp4</video>
-		<marquee>./media/marquees/Joust (USA).png</marquee>
-		<thumbnail>./images/Joust (USA)-thumb.png</thumbnail>
-		<bezel>./images/Joust (USA)-bezel.png</bezel>
-		<boxback>./images/Joust (USA)-boxback.png</boxback>
-		<rating>0.9</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Williams</developer>
-		<publisher>Atari</publisher>
-		<genre>Platform / Run Jump</genre>
-		<players>1-2</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>f18b3b897a25ab3885b43b4bd141b396</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230710" />
-	</game>
-	<game id="38026">
-		<path>./No-Intro/Karateka (USA).a78</path>
-		<name>Karateka</name>
-		<desc>The evil Akuma has destroyed your homeland, killed many of your friends and kidnapped your Princess Mariko. Fortunately, you are skilled in Martial Arts, so your inevitable quest to reach Akuma's palace has a chance of success.
-
-The game is viewed from the side and features a succession of increasingly-difficult opponents. All the standard karate kicks and punches are available to both you and your foes. The game's design was serious and realistic, and the game featured lots of cutscenes to develop the story.</desc>
-		<image>./media/screenshots/Karateka (USA).png</image>
-		<video>./media/videos/Karateka (USA).mp4</video>
-		<marquee>./media/marquees/Karateka (USA).png</marquee>
-		<thumbnail>./images/Karateka (USA)-thumb.png</thumbnail>
-		<bezel>./images/Karateka (USA)-bezel.png</bezel>
-		<boxback>./images/Karateka (USA)-boxback.png</boxback>
-		<rating>0.6</rating>
-		<releasedate>19880101T000000</releasedate>
-		<developer>Brøderbund Software</developer>
-		<publisher>Atari</publisher>
-		<genre>Beat'em Up</genre>
-		<players>1</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>c3a5a8692a423d43d9d28dd5b7d109d9</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230713" />
-	</game>
-	<game id="38027">
-		<path>./No-Intro/Klax (USA) (Proto).a78</path>
-		<name>Klax</name>
-		<desc>An action/puzzle game, the object is to catch assorted color falling tiles and create rows, columns, or diagonals of a single color. Each level requires a different pattern to be made, and the tiles fall faster, more at a time, and in an increasing number of colors as the game progresses.</desc>
-		<image>./media/screenshots/Klax (USA) (Proto).png</image>
-		<video>./media/videos/Klax (USA) (Proto).mp4</video>
-		<marquee>./media/marquees/Klax (USA) (Proto).png</marquee>
-		<thumbnail>./images/Klax (USA) (Proto)-thumb.png</thumbnail>
-		<fanart>./images/Klax (USA) (Proto)-fanart.jpg</fanart>
-		<boxback>./images/Klax (USA) (Proto)-boxback.png</boxback>
-		<rating>0.85</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Blue Sky Software</developer>
-		<publisher>Atari</publisher>
-		<genre>Puzzle-Game</genre>
-		<players>1</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>17b3b764d33eae9b5260f01df7bb9d2f</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230714" />
-	</game>
-	<game id="38028">
-		<path>./No-Intro/Kung-Fu Master (USA).a78</path>
-		<name>Kung-Fu Master</name>
-		<desc>A conversion of the arcade game of the same name, which itself is loosely based on a movie, Kung-Fu Master is a side scrolling action game for one or two players, who alternate turns.
-
-Mr. X has captured the pickpocket Sylvia and it is up to Thomas, a kung-fu master who owns a restaurant, to get her back. She is located on the top floor of Mr. X's castle and Thomas will need to fight his way to the top. Of course, this won't be easy as each floor has many opponents to get past and a floor boss at the end of each level. 
-
-Thomas is able to move left and right, jump, duck, and punch and kick. Enemy projectiles such as knives can be kicked in the air to rebound them towards the enemy. On the top floor resides Mr. X himself.</desc>
-		<image>./media/screenshots/Kung-Fu Master (USA).png</image>
-		<video>./media/videos/Kung-Fu Master (USA).mp4</video>
-		<marquee>./media/marquees/Kung-Fu Master (USA).png</marquee>
-		<thumbnail>./images/Kung-Fu Master (USA)-thumb.png</thumbnail>
-		<bezel>./images/Kung-Fu Master (USA)-bezel.png</bezel>
-		<boxback>./images/Kung-Fu Master (USA)-boxback.png</boxback>
-		<rating>0.55</rating>
-		<releasedate>19890101T000000</releasedate>
-		<developer>Irem</developer>
-		<publisher>Absolute Entertainment</publisher>
-		<genre>Fight / 2D</genre>
-		<players>1-2</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>f57d0af323d4e173fb49ed447f0563d7</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230717" />
-	</game>
-	<game id="38029">
-		<path>./No-Intro/Mario Bros. (USA).a78</path>
-		<name>Mario Bros.</name>
-		<desc>Mario and Luigi, the best plumbers in the world, have a real job on their hands. A host of characters have taken over the sewers, and the brothers must clear them out of the pipes.
-
-The platform puzzle which first introduced Luigi to the world has both single and multiplayer action with two differing game types, but with the same objective.
-Crabs, turtles and fighter flies must be cleared out by jumping underneath the platform they sit on, then kicking them away. Each level is cleared when a set number of coins is collected.
-
-For the two player mode, the first to collect the set amount of coins wins.</desc>
-		<image>./media/screenshots/Mario Bros. (USA).png</image>
-		<video>./media/videos/Mario Bros. (USA).mp4</video>
-		<marquee>./media/marquees/Mario Bros. (USA).png</marquee>
-		<thumbnail>./images/Mario Bros. (USA)-thumb.png</thumbnail>
-		<bezel>./images/Mario Bros. (USA)-bezel.png</bezel>
-		<boxback>./images/Mario Bros. (USA)-boxback.png</boxback>
-		<rating>0.7</rating>
-		<releasedate>19880101T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Atari</publisher>
-		<genre>Platform</genre>
-		<family>Mario Bros.</family>
-		<players>1-2</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>431ca060201ee1f9eb49d44962874049</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230720" />
-	</game>
-	<game id="38030">
-		<path>./No-Intro/Mat Mania Challenge (USA).a78</path>
-		<name>Mat Mania Challenge</name>
-		<desc>Tie up those wrestling boots and climb into the Atari 
-Wrestling Federation Championship ring. Based on the Technos coin-op of 1985, Mat Mania challenge features two player head-to-head action, or a one player journey to the championship belt. Each match lasts three minutes. The object is to either outscore, pin, or get your opponent counted out. You can perform such moves as the Overhead Slam or the Piledriver and many more; but your opponent has the same abilities.</desc>
-		<image>./media/screenshots/Mat Mania Challenge (USA).png</image>
-		<video>./media/videos/Mat Mania Challenge (USA).mp4</video>
-		<marquee>./media/marquees/Mat Mania Challenge (USA).png</marquee>
-		<thumbnail>./images/Mat Mania Challenge (USA)-thumb.png</thumbnail>
-		<bezel>./images/Mat Mania Challenge (USA)-bezel.png</bezel>
-		<boxback>./images/Mat Mania Challenge (USA)-boxback.png</boxback>
-		<rating>0.35</rating>
-		<releasedate>19900101T000000</releasedate>
-		<developer>American Technos</developer>
-		<publisher>Atari</publisher>
-		<genre>Sports</genre>
-		<players>1-2</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>37b5692e33a98115e574185fa8398c22</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230722" />
-	</game>
-	<game id="38031">
-		<path>./No-Intro/Mean 18 Ultimate Golf (USA).a78</path>
-		<name>Mean 18 Ultimate Golf</name>
-		<desc>Pebbele Beach and St. Andrews are two of the courses on offer in this golf simulation, released in the early years of 16-bit technology. The three-click control system was used, whereby the first click starts the swing, the second sets the power, and the third sets draw or fade.
-
-Beginner and Expert difficulty options are given - the latter mode has more pronounced draw and fade effects, making the timing of the third click even more crucial. You can also choose between regular and professional tees - in the latter option the distance on the holes is longer, and the computer doesn't choose the best club automatically. Because long drives aren't a crucial aspect of many of the holes, the Begginer/Expert setting is a bigger factor on your likely scoring. A uniquie feature for the day was the course designer, which was quite versatile with practice.</desc>
-		<image>./media/screenshots/Mean 18 Ultimate Golf (USA).png</image>
-		<video>./media/videos/Mean 18 Ultimate Golf (USA).mp4</video>
-		<marquee>./media/marquees/Mean 18 Ultimate Golf (USA).png</marquee>
-		<thumbnail>./images/Mean 18 Ultimate Golf (USA)-thumb.png</thumbnail>
-		<bezel>./images/Mean 18 Ultimate Golf (USA)-bezel.png</bezel>
-		<boxback>./images/Mean 18 Ultimate Golf (USA)-boxback.png</boxback>
-		<rating>0.4</rating>
-		<releasedate>19890101T000000</releasedate>
-		<developer>Accolade</developer>
-		<publisher>Accolade</publisher>
-		<genre>Sports / Golf</genre>
-		<players>1-2</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>f2f5e5841e4dda89a2faf8933dc33ea6</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230723" />
-	</game>
-	<game id="38032">
-		<path>./No-Intro/Meltdown (USA).a78</path>
-		<name>Meltdown</name>
-		<desc>Meltdown is an arcade action game similar to Reactor. On the screen you will see a representation of a nuclear reactor; numerous control rods are located in the center of the screen, with the reactor walls around the edges. Inside the reactor are numerous (and dangerous) particles which will damage the control rods if they collide. Using the light gun, you need to shoot and destroy the various particles  before the control rods are destroyed. As the control rods take damage, the walls of the reactor will slowly cave inward, decreasing the amount of space available. From time to time power crystals may appear; if shot, these will provide bonuses such as extra points, control rod repair, temporarily freeze the particles, more powerful shots, and more. The game ends when the control rods have been completely destroyed causing the reactor to meltdown.</desc>
-		<image>./media/screenshots/Meltdown (USA).png</image>
-		<video>./media/videos/Meltdown (USA).mp4</video>
-		<marquee>./media/marquees/Meltdown (USA).png</marquee>
-		<thumbnail>./images/Meltdown (USA)-thumb.png</thumbnail>
-		<bezel>./images/Meltdown (USA)-bezel.png</bezel>
-		<boxback>./images/Meltdown (USA)-boxback.png</boxback>
-		<rating>0</rating>
-		<releasedate>19900101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>bedc30ec43587e0c98fc38c39c1ef9d0</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230726" />
-	</game>
-	<game id="38033">
-		<path>./No-Intro/Midnight Mutants (USA).a78</path>
-		<name>Midnight Mutants</name>
-		<desc>You play the part of Jimmy visiting Grampa on Halloween. Unfortunately, on this Halloween Dr. Evil has returned from the grave and captured Grampa in a pumpkin, and now you have to save him! Midnight Mutants is an action adventure game. As Jimmy you'll need to explore Grampa's mansion and the surrounding lands in order to find items which can be used to defeat enemies (including Dr. Evil) as well as safely reach new areas. The lands have become cursed, however, and there will be many obstacles on your quest including killer bats, zombies, werewolves and more. Jimmy has two life meters, one for health and one for blood. Some creatures are poisonous on contact and reduce the blood meter, while others reduce the health meter. If either runs out, the game is over. Throughout the game, Grampa's spirit will be in contact with Jimmy and can occasionally provide clues or other useful information. The game features an isometric point of view, and in some larger areas the screen will scroll horizontally or vertically to follow the action. Good luck on your quest to save Grampa and survive this Halloween!</desc>
-		<image>./media/screenshots/Midnight Mutants (USA).png</image>
-		<video>./media/videos/Midnight Mutants (USA).mp4</video>
-		<marquee>./media/marquees/Midnight Mutants (USA).png</marquee>
-		<thumbnail>./images/Midnight Mutants (USA)-thumb.png</thumbnail>
-		<bezel>./images/Midnight Mutants (USA)-bezel.png</bezel>
-		<boxback>./images/Midnight Mutants (USA)-boxback.png</boxback>
-		<rating>0.85</rating>
-		<releasedate>19901010T000000</releasedate>
-		<developer>Radioactive Software</developer>
-		<publisher>Atari</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>bc1e905db1008493a9632aa83ab4682b</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230729" />
-	</game>
-	<game id="44465">
-		<path>./No-Intro/Missing in Action (USA) (Proto).a78</path>
-		<name>Missing In Action</name>
-		<desc>Having been shown several years ago at classic gaming events, the Atari 7800 prototype Missing in Action has finally seen the light of day! AtariAge user Mitch recently acquired the only known prototype of this game to exist and has graciously shared the binary with the community so everyone may enjoy it. Missing in Action is based on the 1984 movie of the same name, featuring Chuck Norris as the protagonist. The game is a side-scrolling beat 'em up, taking place in Vietnam during the height of the Vietnam War. As Colonel James Braddock, a captured POW, your mission is to escape from an internment camp, rescue captured POWs, free the American embassy, and kill the evil drug czar. Had it been completed, Missing in Action would have been an impressive addition to the 7800 library. As it stands, this prototype is about 85% complete and is quite playable.</desc>
-		<image>./media/screenshots/Missing in Action (USA) (Proto).png</image>
-		<video>./media/videos/Missing in Action (USA) (Proto).mp4</video>
-		<marquee>./media/marquees/Missing in Action (USA) (Proto).png</marquee>
-		<thumbnail>./images/Missing in Action (USA) (Proto)-thumb.png</thumbnail>
-		<boxback>./images/Missing in Action (USA) (Proto)-boxback.png</boxback>
-		<rating>0</rating>
-		<releasedate>19890527T000000</releasedate>
-		<developer>Sculptured Software</developer>
-		<publisher>TNT Games</publisher>
-		<genre>Shooter</genre>
-		<players>1</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>017066f522908081ec3ee624f5e4a8aa</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230730" />
-	</game>
-	<game id="38034">
-		<path>./No-Intro/Motor Psycho (USA).a78</path>
-		<name>Motor Psycho</name>
-		<desc>MotorPsycho is similar in feel to Pole Position, but with motorcycles substituting the cars. The object is to complete each race within the alloted time while dodging other motorcycles. Ramps strewn throughout the track allow the motorcycle to jump over obstacles and the other motorcyclists. You can shift between high and low gears, but there are no brakes. A player can customize their motorcycle by adjusting the "straighten" and "turn" response times before the race.</desc>
-		<image>./media/screenshots/Motor Psycho (USA).png</image>
-		<video>./media/videos/Motor Psycho (USA).mp4</video>
-		<marquee>./media/marquees/Motor Psycho (USA).png</marquee>
-		<thumbnail>./images/Motor Psycho (USA)-thumb.png</thumbnail>
-		<bezel>./images/Motor Psycho (USA)-bezel.png</bezel>
-		<boxback>./images/Motor Psycho (USA)-boxback.png</boxback>
-		<rating>0.6</rating>
-		<releasedate>19900101T000000</releasedate>
-		<developer>BlueSky Software</developer>
-		<publisher>Atari</publisher>
-		<genre>Race, Driving / Motorcycle Race, 3rd Pers.</genre>
-		<players>1</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>3bc8f554cf86f8132a623cc2201a564b</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230733" />
-	</game>
-	<game id="38035">
-		<path>./No-Intro/Ms. Pac-Man (USA).a78</path>
-		<name>Ms. Pac-Man</name>
-		<desc>In 1982, a sequel to the  incredibly popular Pac-Man was introduced in the form of his girlfriend, Ms. Pac-Man.  This sequel continued on the "eat the dots/avoid the ghosts" gameplay of the original game, but added new features to keep the title fresh.
-
-Like her boyfriend, Ms. Pac-Man attempts to clear four various and challenging mazes filled with dots and ever-moving bouncing fruit  while avoiding Inky, Blinky, Pinky and Sue, each with their own personalities and tactics.  One touch from any of these ghosts means a loss of life for Ms. Pac-Man.
-
-Ms. Pac-Man can turn the tables on her pursuers by eating one of the four Energizers located within the maze. During this time, the ghosts turn blue, and Ms. Pac-Man can eat them for bonus points (ranging from 200, 400, 800 and 1600, progressively). The Energizer power only lasts for a limited amount of time, as the ghost's eyes float back to their center box, and regenerate to chase after Ms. Pac-Man again.
-
-Survive a few rounds of gameplay, and the player will be treated to humorous intermissions showing the growing romantic relationship between Pac-Man and Ms. Pac-Man, leading all the way up to the arrival of "Junior".</desc>
-		<image>./media/screenshots/Ms. Pac-Man (USA).png</image>
-		<video>./media/videos/Ms. Pac-Man (USA).mp4</video>
-		<marquee>./media/marquees/Ms. Pac-Man (USA).png</marquee>
-		<thumbnail>./images/Ms. Pac-Man (USA)-thumb.png</thumbnail>
-		<bezel>./images/Ms. Pac-Man (USA)-bezel.png</bezel>
-		<boxback>./images/Ms. Pac-Man (USA)-boxback.png</boxback>
-		<rating>0.7</rating>
-		<releasedate>19860501T000000</releasedate>
-		<developer>General Computer Corporation</developer>
-		<publisher>Atari</publisher>
-		<genre>Action / Labyrinth</genre>
-		<family>Pac-Man</family>
-		<players>1-2</players>
-		<kidgame>true</kidgame>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>fc0ea52a9fac557251b65ee680d951e5</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230736" />
-	</game>
-	<game id="38036">
-		<path>./No-Intro/Ninja Golf (USA).a78</path>
-		<name>Ninja Golf</name>
-		<desc>Ninja Golf is an arcade action game which combines a golf game with a side scrolling fighting game. You are a ninja, and your goal is to survive nine holes of ninja golf! On each of the holes, you alternate between the golf and action parts. First you hit the ball by selecting the direction and distance from the overhead view on the bottom of the screen; next you will need to run to the location your ball was hit while defending yourself from the many enemies. Depending on the terrain you need to cross, various enemy ninjas, giant frogs, killer sharks, snakes, and other enemies will all get in your way. To eliminate the enemies, you can kick, punch, or use a throwing star. Several bonuses may be found from time to time; temporary invincibility, an extra life, health restoration, or a magic transport to the green may all appear on the screen. Once you have reached the green, you will need to defeat a fire breathing dragon which guards the hole. The nine hole course progressively increases in difficulty and features par 3,  par 4, and par 5 holes.</desc>
-		<image>./media/screenshots/Ninja Golf (USA).png</image>
-		<video>./media/videos/Ninja Golf (USA).mp4</video>
-		<marquee>./media/marquees/Ninja Golf (USA).png</marquee>
-		<thumbnail>./images/Ninja Golf (USA)-thumb.png</thumbnail>
-		<bezel>./images/Ninja Golf (USA)-bezel.png</bezel>
-		<boxback>./images/Ninja Golf (USA)-boxback.png</boxback>
-		<rating>0.7</rating>
-		<releasedate>19890101T000000</releasedate>
-		<developer>BlueSky Software</developer>
-		<publisher>Atari</publisher>
-		<genre>Sports / Golf</genre>
-		<players>1</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>220121f771fc4b98cef97dc040e8d378</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230739" />
-	</game>
-	<game id="38037">
-		<path>./No-Intro/One-on-One Basketball (USA).a78</path>
-		<name>One-on-One Basketball</name>
-		<desc>Control either Julius Erving or Larry Bird in front of a single basket, in a game of one on one.  The user can select to play either to a certain score or for a certain amount of time.  When on offense, the player can rotate to keep away from his rival, take a shot from a distance or move in to the basket for special up-close slam-dunks.  When on defense, you can try to take your rival's ball or jump up to block a shot.  Particularly good set-ups get a slow-motion replay.  You can even smash the glass on the backboard, which will send an irate janitor onto the court to clean up the mess.</desc>
-		<image>./media/screenshots/One-on-One Basketball (USA).png</image>
-		<video>./media/videos/One-on-One Basketball (USA).mp4</video>
-		<marquee>./media/marquees/One-on-One Basketball (USA).png</marquee>
-		<thumbnail>./images/One-on-One Basketball (USA)-thumb.png</thumbnail>
-		<fanart>./images/One-on-One Basketball (USA)-fanart.jpg</fanart>
-		<bezel>./images/One-on-One Basketball (USA)-bezel.png</bezel>
-		<boxback>./images/One-on-One Basketball (USA)-boxback.png</boxback>
-		<rating>0.2</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Computer Magic</developer>
-		<publisher>Atari</publisher>
-		<genre>Sports / Basketball</genre>
-		<players>1-2</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>74569571a208f8b0b1ccfb22d7c914e1</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230743" />
-	</game>
-	<game id="44466">
-		<path>./No-Intro/Pete Rose Baseball (USA).a78</path>
-		<name>Pete Rose Baseball</name>
-		<desc>It's the last game of the World Series. You're in the 9th innings. Bases loaded. One out. And your up to bat.
-
-What do you do? Swing away? Wait for a walk? Go for the fences? It's all up to you, just like in real pro ball.
-
-Sure, we'll give you the options. And some tips. Like in pitching. Batting. And Fielding. But, it's you call .</desc>
-		<image>./media/screenshots/Pete Rose Baseball (USA).png</image>
-		<video>./media/videos/Pete Rose Baseball (USA).mp4</video>
-		<marquee>./media/marquees/Pete Rose Baseball (USA).png</marquee>
-		<thumbnail>./images/Pete Rose Baseball (USA)-thumb.png</thumbnail>
-		<fanart>./images/Pete Rose Baseball (USA)-fanart.png</fanart>
-		<bezel>./images/Pete Rose Baseball (USA)-bezel.png</bezel>
-		<boxback>./images/Pete Rose Baseball (USA)-boxback.png</boxback>
-		<rating>0.5</rating>
-		<releasedate>19890101T000000</releasedate>
-		<developer>Robert Curtiss</developer>
-		<publisher>Absolute Entertainment</publisher>
-		<genre>Sports / Baseball</genre>
-		<players>2</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>1a5207870dec6fae9111cb747e20d8e3</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230746" />
-	</game>
-	<game id="44467">
-		<path>./No-Intro/Pit Fighter (USA) (Proto).a78</path>
-		<name>Pit Fighter</name>
-		<desc>This prototype is a very early version of the game. There are issues with collision detection, and the graphics are quite simple. Although this is understood to be a port of Pitfighter, it could really be any number of fighting games based on the generic graphics.</desc>
-		<image>./media/screenshots/Pit Fighter (USA) (Proto).png</image>
-		<video>./media/videos/Pit Fighter (USA) (Proto).mp4</video>
-		<marquee>./media/marquees/Pit Fighter (USA) (Proto).png</marquee>
-		<thumbnail>./images/Pit Fighter (USA) (Proto)-thumb.png</thumbnail>
-		<boxback>./images/Pit Fighter (USA) (Proto)-boxback.png</boxback>
-		<rating>0</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Fight</genre>
-		<players>1-2</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>05f43244465943ce819780a71a5b572a</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230747" />
-	</game>
-	<game id="38040">
-		<path>./No-Intro/Planet Smashers (USA).a78</path>
-		<name>Planet Smashers</name>
-		<desc>Planet Smashers is a vertically scrolling shooter similar to Xevious. Power ups can be captured by destroying cargo ships. Power ups include improved weapons, shield restoration, and cloaking ability. Cargo ships also drop warp capsules that the player needs to collect in order to proceed to the level boss.
-
-One difference in this game that sets it apart from others of the same type is the Earth Shield. Every time the player lets a ship go by unscathed the Earth Shield depletes a little. If the shield is destroyed, it's game over.</desc>
-		<image>./media/screenshots/Planet Smashers (USA).png</image>
-		<video>./media/videos/Planet Smashers (USA).mp4</video>
-		<marquee>./media/marquees/Planet Smashers (USA).png</marquee>
-		<thumbnail>./images/Planet Smashers (USA)-thumb.png</thumbnail>
-		<bezel>./images/Planet Smashers (USA)-bezel.png</bezel>
-		<boxback>./images/Planet Smashers (USA)-boxback.png</boxback>
-		<rating>0.5</rating>
-		<releasedate>19890527T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Shoot'em up / Vertical</genre>
-		<players>1-2</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>33aea1e2b6634a1dec8c7006d9afda22</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230750" />
-	</game>
-	<game id="44468">
-		<path>./No-Intro/Plutos (USA) (Proto).a78</path>
-		<name>Plutos</name>
-		<desc>Plutos is a vertically oriented space shooter that features gameplay similar to Raiden. The game features six different levels, each with its own unique theme and boss. Only three of these levels are unique graphically--the other three are just color palette changes. Plutos offers one player as well as two player simultaneous modes, selectable with the left difficulty switch. Plutos also has features a unique weapons power-up system. There are three different types of weapons, each of which can be upgraded up to four times, as well as an invincibility power-up. The three different weapons are: Dual machine guns, spread gun, and energy gun.</desc>
-		<image>./media/screenshots/Plutos (USA) (Proto).png</image>
-		<video>./media/videos/Plutos (USA) (Proto).mp4</video>
-		<marquee>./media/marquees/Plutos (USA) (Proto).png</marquee>
-		<thumbnail>./images/Plutos (USA) (Proto)-thumb.png</thumbnail>
-		<boxback>./images/Plutos (USA) (Proto)-boxback.png</boxback>
-		<rating>0</rating>
-		<releasedate>19900527T000000</releasedate>
-		<developer>Tynesoft</developer>
-		<publisher>Tynesoft</publisher>
-		<genre>Action</genre>
-		<players>1-2</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>86546808dc60961cdb1b20e761c50ab1</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230752" />
-	</game>
-	<game id="38041">
-		<path>./No-Intro/Pole Position II (USA) (Beta).a78</path>
-		<name>Pole Position II</name>
-		<desc>In Pole Position II, based on the arcade sequel to Pole Position, you are again driving an F-1 racer in a timed qualifying run, trying to achieve the pole position. Then it is off to the race, in hopes of taking that top spot. The difference in Pole Position II and it's predecessor is that now you have four tracks to select from.</desc>
-		<image>./media/screenshots/Pole Position II (USA) (Beta).png</image>
-		<video>./media/videos/Pole Position II (USA) (Beta).mp4</video>
-		<marquee>./media/marquees/Pole Position II (USA) (Beta).png</marquee>
-		<thumbnail>./images/Pole Position II (USA) (Beta)-thumb.png</thumbnail>
-		<bezel>./images/Pole Position II (USA) (Beta)-bezel.png</bezel>
-		<boxback>./images/Pole Position II (USA) (Beta)-boxback.png</boxback>
-		<rating>0.7</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Atari</publisher>
-		<genre>Race, Driving</genre>
-		<family>Pole Position</family>
-		<players>1</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>dab84748d29d3854bca3675a8937988b</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230755" />
-	</game>
-	<game id="38041">
-		<path>./No-Intro/Pole Position II (USA).a78</path>
-		<name>Pole Position II</name>
-		<desc>In Pole Position II, based on the arcade sequel to Pole Position, you are again driving an F-1 racer in a timed qualifying run, trying to achieve the pole position. Then it is off to the race, in hopes of taking that top spot. The difference in Pole Position II and it's predecessor is that now you have four tracks to select from.</desc>
-		<image>./media/screenshots/Pole Position II (USA).png</image>
-		<video>./media/videos/Pole Position II (USA).mp4</video>
-		<marquee>./media/marquees/Pole Position II (USA).png</marquee>
-		<thumbnail>./images/Pole Position II (USA)-thumb.png</thumbnail>
-		<bezel>./images/Pole Position II (USA)-bezel.png</bezel>
-		<boxback>./images/Pole Position II (USA)-boxback.png</boxback>
-		<rating>0.7</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Atari</publisher>
-		<genre>Race, Driving</genre>
-		<family>Pole Position</family>
-		<players>1</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>584582bb09ee8122e7fc09dc7d1ed813</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230758" />
-	</game>
-	<game id="38042">
-		<path>./No-Intro/Rampage (USA).a78</path>
-		<name>Rampage</name>
-		<desc>George, Lizzy and Ralph were just ordinary Americans, until an experiment went wrong, turning them into a Gorilla, Lizard and Werewolf respectively. Following this, the three of them plan to go round destroying buildings, and up to 3 human players can join in.
-
-Smashing at the edges of the buildings for long enough will make them collapse. The police and military are after you, and will shoot at you, so try to destroy them (failing that, you can avoid the bullets). You will need to eat regularly, with things like plants on offer, to avoid shrinking back to being human</desc>
-		<image>./media/screenshots/Rampage (USA).png</image>
-		<video>./media/videos/Rampage (USA).mp4</video>
-		<marquee>./media/marquees/Rampage (USA).png</marquee>
-		<thumbnail>./images/Rampage (USA)-thumb.png</thumbnail>
-		<fanart>./images/Rampage (USA)-fanart.jpg</fanart>
-		<bezel>./images/Rampage (USA)-bezel.png</bezel>
-		<boxback>./images/Rampage (USA)-boxback.png</boxback>
-		<rating>0.6</rating>
-		<releasedate>19890101T000000</releasedate>
-		<developer>Bally Midway</developer>
-		<publisher>Activision</publisher>
-		<genre>Fight / 2D</genre>
-		<family>Rampage</family>
-		<players>1-2</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>ac03806cef2558fc795a7d5d8dba7bc0</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230800" />
-	</game>
-	<game id="44469">
-		<path>./No-Intro/Rampart (USA) (Proto).a78</path>
-		<name>Rampart</name>
-		<desc>Rampart is an unreleased Atari 7800 port of the Atari arcade game of the same name. Your goal in the arcade version of the game is to build up a castle using pieces to form a wall around your territory. After your castle is built, you then place cannons and use them to fire at enemy ships or another player's castle. After each round you then have an opportunity to rebuild your castle before the next round begins.
-
-Unfortunately, the 7800 port of Rampart that is currently available is in an early state and not complete in terms of gameplay or graphics, which is immediately obvious by the lack of a proper title screen. Rampart requires a two-button 7800 joystick. You can select difficulty and number of players, including one player, two players, team or competition modes. Gameplay consists of shooting the enemy targets, which appear as "NME" graphics. The left joystick button fires your normal weapon. The right fire button will destroy all enemies onscreen. If you choose a two player game (team or competition), both players can shoot at enemy targets. There are several different playfield backgrounds depending on the game type selected, or if you play additional games.
-
-Internal Atari memos from 1993 mention that the game is almost finalized, so a more complete version of the game must exist somewhere.</desc>
-		<image>./media/screenshots/Rampart (USA) (Proto).png</image>
-		<video>./media/videos/Rampart (USA) (Proto).mp4</video>
-		<marquee>./media/marquees/Rampart (USA) (Proto).png</marquee>
-		<thumbnail>./images/Rampart (USA) (Proto)-thumb.png</thumbnail>
-		<boxback>./images/Rampart (USA) (Proto)-boxback.png</boxback>
-		<rating>0</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>Imagitec Design</developer>
-		<publisher>Atari</publisher>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>442761655bb25ddfe5f7ab16bf591c6f</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230801" />
-	</game>
-	<game id="38043">
-		<path>./No-Intro/RealSports Baseball (USA).a78</path>
-		<name>RealSports Baseball</name>
-		<desc>Baseball is an action game which can be played by two players or one player against the computer. The game allows you to bunt the ball or try for a homerun, steal bases, and throw several types of pitches from a fast ball to a curve ball. Several game variations are included which allow you to select whether the home or visiting team is at bat first, and whether or not a player can swing only at pitches that are a strike, or they can swing at any pitch.</desc>
-		<image>./media/screenshots/RealSports Baseball (USA).png</image>
-		<video>./media/videos/RealSports Baseball (USA).mp4</video>
-		<marquee>./media/marquees/RealSports Baseball (USA).png</marquee>
-		<thumbnail>./images/RealSports Baseball (USA)-thumb.png</thumbnail>
-		<bezel>./images/RealSports Baseball (USA)-bezel.png</bezel>
-		<boxback>./images/RealSports Baseball (USA)-boxback.png</boxback>
-		<rating>0.4</rating>
-		<releasedate>19890101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Sports / Baseball</genre>
-		<players>1-2</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>383ed9bd1efb9b6cb3388a777678c928</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230804" />
-	</game>
-	<game id="44470">
-		<path>./No-Intro/Rescue on Fractalus (USA) (Proto).a78</path>
-		<name>Rescue on Fractalus</name>
-		<desc>Jet through the cavernous canyons of Fractalus?--in panormic realism. Your fellow pilots are waiting desperately for you. But so are the vicious Jaggi? aliens. You never know what's going to turn up--or where--until it happens...</desc>
-		<image>./media/screenshots/Rescue on Fractalus (USA) (Proto).png</image>
-		<video>./media/videos/Rescue on Fractalus (USA) (Proto).mp4</video>
-		<marquee>./media/marquees/Rescue on Fractalus (USA) (Proto).png</marquee>
-		<thumbnail>./images/Rescue on Fractalus (USA) (Proto)-thumb.png</thumbnail>
-		<boxback>./images/Rescue on Fractalus (USA) (Proto)-boxback.png</boxback>
-		<rating>0</rating>
-		<releasedate>19840101T000000</releasedate>
-		<developer>Lars Jensen</developer>
-		<publisher>Atari</publisher>
-		<genre>Shooter</genre>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>8f7eb10ad0bd75474abf0c6c36c08486</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230806" />
-	</game>
-	<game id="360232">
-		<path>./No-Intro/Rikki &amp; Vikki (World) (Aftermarket) (Unl).a78</path>
-		<name>Rikki and Vikki</name>
-		<image>./media/screenshots/Rikki &amp; Vikki (World) (Aftermarket) (Unl).png</image>
-		<video>./media/videos/Rikki &amp; Vikki (World) (Aftermarket) (Unl).mp4</video>
-		<marquee>./media/marquees/Rikki &amp; Vikki (World) (Aftermarket) (Unl).png</marquee>
-		<thumbnail>./images/Rikki &amp; Vikki (World) (Aftermarket) (Unl)-thumb.png</thumbnail>
-		<boxback>./images/Rikki &amp; Vikki (World) (Aftermarket) (Unl)-boxback.png</boxback>
-		<rating>0</rating>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>b3bc889e9cc498636990c5a4d980e85c</md5>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ScreenScraper" date="20230227T230807" />
-	</game>
-	<game id="38044">
-		<path>./No-Intro/Robotron - 2084 (USA).a78</path>
-		<name>Robotron : 2084</name>
-		<desc>This is a port of the arcade game of the same name.
-
-You are a mutant human, who by some freak of nature has the ability to shoot energy pulses from his body in eight different directions! Your job is simple: save humanity from their own creation -- the ROBOTRONS! The gameplay is pretty unique for the time. You can move and fire in any of eight directions. You get thrown in a room with various evil baddies strewn about, you've got to kill all the robots while at the same time finding some way to grab humans and avoid death.</desc>
-		<image>./media/screenshots/Robotron - 2084 (USA).png</image>
-		<video>./media/videos/Robotron - 2084 (USA).mp4</video>
-		<marquee>./media/marquees/Robotron - 2084 (USA).png</marquee>
-		<thumbnail>./images/Robotron - 2084 (USA)-thumb.png</thumbnail>
-		<bezel>./images/Robotron - 2084 (USA)-bezel.png</bezel>
-		<boxback>./images/Robotron - 2084 (USA)-boxback.png</boxback>
-		<rating>0.9</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Williams</developer>
-		<publisher>Atari</publisher>
-		<genre>Shooter</genre>
-		<players>1-2</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>66ecaafe1b82ae68ffc96267aaf7a4d7</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230809" />
-	</game>
-	<game id="38046">
-		<path>./No-Intro/Scrapyard Dog (USA).a78</path>
-		<name>Scrapyard Dog</name>
-		<desc>In Scrapyard Dog you play the role of Louie, the junkyard guy, who's companion Scraps has been dognapped by the dastardly Mr. Big. Louie has bombs and cans at his disposal to use against the enemies, which include gangsters, rats, and mice. He can also use shields to protect himself on route to the sixteen checkpoints in the game. Louie must reach each checkpoint in a certain amount of time in order to save Scraps.</desc>
-		<image>./media/screenshots/Scrapyard Dog (USA).png</image>
-		<video>./media/videos/Scrapyard Dog (USA).mp4</video>
-		<marquee>./media/marquees/Scrapyard Dog (USA).png</marquee>
-		<thumbnail>./images/Scrapyard Dog (USA)-thumb.png</thumbnail>
-		<bezel>./images/Scrapyard Dog (USA)-bezel.png</bezel>
-		<boxback>./images/Scrapyard Dog (USA)-boxback.png</boxback>
-		<rating>0.35</rating>
-		<releasedate>19900101T000000</releasedate>
-		<developer>BlueSky Software</developer>
-		<publisher>Atari</publisher>
-		<genre>Platform</genre>
-		<players>1</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>980c35ae9625773a450aa7ef51751c04</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230812" />
-	</game>
-	<game id="38047">
-		<path>./No-Intro/Sentinel (USA) (Proto).a78</path>
-		<name>Sentinel</name>
-		<desc>Sentinel is a side scrolling action game. Several worlds have fallen victim of an alien attack, and you need to free them. To do this, a glowing orb called the Sentinel has been sent which can absorb the alien energy. As the Sentinel floats above the various, scrolling landscapes, you need to protect it from attacks by using the light gun to destroy enemies and enemy fire. If you don't destroy an enemy, it will deplete the Sentinels energy supply which will eventually destroy it. There are four levels of increasing difficulty, each with a large boss at the end. To help out on your mission, several bonuses may be encountered from time to time; increased firepower and energy can be acquired when you shoot the bonus capsules that appear. Three levels of difficulty are available.</desc>
-		<image>./media/screenshots/Sentinel (USA) (Proto).png</image>
-		<video>./media/videos/Sentinel (USA) (Proto).mp4</video>
-		<marquee>./media/marquees/Sentinel (USA) (Proto).png</marquee>
-		<thumbnail>./images/Sentinel (USA) (Proto)-thumb.png</thumbnail>
-		<bezel>./images/Sentinel (USA) (Proto)-bezel.png</bezel>
-		<boxback>./images/Sentinel (USA) (Proto)-boxback.png</boxback>
-		<rating>0.5</rating>
-		<releasedate>19900101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Action</genre>
-		<players>1-2</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>b697d9c2d1b9f6cb21041286d1bbfa7f</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230815" />
-	</game>
-	<game id="44471">
-		<path>./No-Intro/Sirius (USA) (Proto).a78</path>
-		<name>Sirius</name>
-		<desc>Sirius is a horizontally oriented space shooter that will feel right at home to those familiar with games such as Gradius and R-Type . The game consists of four different levels, each with its own unique theme and boss. Sirius deftly demonstrates what the 7800 hardware is capable of and compares favorably with NES and Sega Master System games of the time. Sirius is very difficult, so if you like a challenge, you'll love Sirius.
-
-Sirius is a single player game only. The difficulty level (easy and hard) can be selected via the left difficulty switch. Sirius has several different types of weapons power-ups. The first is a "ghost ship" that follows you and fires when you fire. Other power-ups include rapid fire guns and rapid fire plus spread fire. You can pick up one extra of each power-up type for reserve so that when you are killed you won't be quite so vulnerable. There are also diamonds that you can pick up but they don't seem to do much other than reward you 300 points.</desc>
-		<image>./media/screenshots/Sirius (USA) (Proto).png</image>
-		<video>./media/videos/Sirius (USA) (Proto).mp4</video>
-		<marquee>./media/marquees/Sirius (USA) (Proto).png</marquee>
-		<thumbnail>./images/Sirius (USA) (Proto)-thumb.png</thumbnail>
-		<boxback>./images/Sirius (USA) (Proto)-boxback.png</boxback>
-		<rating>0</rating>
-		<releasedate>19900101T000000</releasedate>
-		<developer>Tynesoft</developer>
-		<publisher>Tynesoft</publisher>
-		<genre>Shooter</genre>
-		<players>1</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>2d643ac548c40e58c99d0fe433ba4ba0</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230816" />
-	</game>
-	<game id="38049">
-		<path>./No-Intro/Summer Games (USA).a78</path>
-		<name>Summer Games</name>
-		<desc>Summer Games allows up to eight players to compete in a series of summer themed Olympic events. The gameplay is similar to the other entries in Epyx "games" series. Each player can choose a country to represent, and then takes turns competing in various events to see who will win the gold medal! The game allows you to compete in all of the events sequentially, choose a few events, choose just one event, or practice an event. The events available vary slightly depending on the platform, and may include:
-
-1. Pole vault
-2. Platform diving
-3. 4x400 meter relay
-4. 100 meter dash
-5. Gymnastics
-6. Freestyle swimming
-7. Skeet shooting
-8. 100 meter freestyle
-9. Rowing</desc>
-		<image>./media/screenshots/Summer Games (USA).png</image>
-		<video>./media/videos/Summer Games (USA).mp4</video>
-		<marquee>./media/marquees/Summer Games (USA).png</marquee>
-		<thumbnail>./images/Summer Games (USA)-thumb.png</thumbnail>
-		<fanart>./images/Summer Games (USA)-fanart.jpg</fanart>
-		<bezel>./images/Summer Games (USA)-bezel.png</bezel>
-		<boxback>./images/Summer Games (USA)-boxback.png</boxback>
-		<rating>0.4</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Epyx</developer>
-		<publisher>Atari</publisher>
-		<genre>Sports / Multisports</genre>
-		<players>1-8</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>cbb0746192540a13b4c7775c7ce2021f</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230821" />
-	</game>
-	<game id="38050">
-		<path>./No-Intro/Super Huey UH-IX (USA).a78</path>
-		<name>Super Huey UH-IX</name>
-		<desc>Super Huey UH-IX is a helicopter simulation game. You are the pilot of the experimental helicopter UH-1XA and you need to test it out in several game modes. In the flight school mode, you can learn how to fly. The computer will guide you through takeoff, flight, and landing. In reality mode, you will need to fly a mission to locate and bomb an enemy base and return home safely. The last mode is arcade mode where you have an unlimited amount of ammo to try and shoot down as many enemy aircraft as possible. The game is played from a first person view of the cockpit which is complete with radar and various instruments to help you fly.</desc>
-		<image>./media/screenshots/Super Huey UH-IX (USA).png</image>
-		<video>./media/videos/Super Huey UH-IX (USA).mp4</video>
-		<marquee>./media/marquees/Super Huey UH-IX (USA).png</marquee>
-		<thumbnail>./images/Super Huey UH-IX (USA)-thumb.png</thumbnail>
-		<bezel>./images/Super Huey UH-IX (USA)-bezel.png</bezel>
-		<boxback>./images/Super Huey UH-IX (USA)-boxback.png</boxback>
-		<rating>0.3</rating>
-		<releasedate>19880101T000000</releasedate>
-		<developer>Cosmi Corporation</developer>
-		<publisher>Atari</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>cc18e3b37a507c4217eb6cb1de8c8538</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230823" />
-	</game>
-	<game id="38051">
-		<path>./No-Intro/Super Skateboardin' (USA).a78</path>
-		<name>Super Skateboardin'</name>
-		<desc>Super Skateboardin' is a game where a young skateboarder is hired by his dad's company to do what he does best, Skateboard. Your job is to navigate the many rooms of the factory and turn off all the electrical equipment in 15 minutes, or else the electricity bill will skyrocket. Your wage is based on how fast you complete the task, and you need that money to enter the Skateboarding 
-Championship. Super Skateboardin' is a straightforward game from the designer of Pitfall!, David Crane.</desc>
-		<image>./media/screenshots/Super Skateboardin' (USA).png</image>
-		<video>./media/videos/Super Skateboardin' (USA).mp4</video>
-		<marquee>./media/marquees/Super Skateboardin' (USA).png</marquee>
-		<thumbnail>./images/Super Skateboardin' (USA)-thumb.png</thumbnail>
-		<bezel>./images/Super Skateboardin' (USA)-bezel.png</bezel>
-		<boxback>./images/Super Skateboardin' (USA)-boxback.png</boxback>
-		<rating>0.4</rating>
-		<releasedate>19880101T000000</releasedate>
-		<developer>Absolute Entertainment</developer>
-		<publisher>Absolute Entertainment</publisher>
-		<genre>Sports / Skateboard</genre>
-		<players>1</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>59b5793bece1c80f77b55d60fb39cb94</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230825" />
-	</game>
-	<game id="38052">
-		<path>./No-Intro/Tank Command (USA).a78</path>
-		<name>Tank Command</name>
-		<desc>Tank Command is a vertically scrolling action game. You control a tank on a mission to capture the enemy flag as well as earn as many points as possible. To do this, you will need to blast your way through their defenses on three levels of increasing difficulty. Blocking your progress are enemy tanks, pillboxes, missiles, jeeps, infantry, huts, and more, all of which earn you points when destroyed. Your tank is equipped with a limited amount of fuel and ammo, however it can be replenished occasionally by collecting the bonus icons when they appear on the screen. If you can make it past all of the obstacles and capture the flag, then you win the game!</desc>
-		<image>./media/screenshots/Tank Command (USA).png</image>
-		<video>./media/videos/Tank Command (USA).mp4</video>
-		<marquee>./media/marquees/Tank Command (USA).png</marquee>
-		<thumbnail>./images/Tank Command (USA)-thumb.png</thumbnail>
-		<bezel>./images/Tank Command (USA)-bezel.png</bezel>
-		<boxback>./images/Tank Command (USA)-boxback.png</boxback>
-		<rating>0.4</rating>
-		<releasedate>19880101T000000</releasedate>
-		<developer>Froggo Games Corporation</developer>
-		<publisher>Froggo Games Corporation</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>5c4f752371a523f15e9980fea73b874d</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230828" />
-	</game>
-	<game id="38053">
-		<path>./No-Intro/Title Match Pro Wrestling (USA).a78</path>
-		<name>Title Match Pro Wrestling</name>
-		<desc>Title Match is a wrestling game which can be played by one or two players. There are four different wrestlers you can choose from, and two modes of gameplay (one on one, or tag team). Each wrestler can kick, punch, and perform several moves such as the airplane spin, body slam, power lift, and more. Using the available moves you need to deplete your opponents energy  and pin him for three counts (though be careful, as some of the more powerful moves also use up a bit of your own energy). If your opponents energy is low enough and you successfully pin him that will count as a fall, and the best out of three falls will win the match!</desc>
-		<image>./media/screenshots/Title Match Pro Wrestling (USA).png</image>
-		<video>./media/videos/Title Match Pro Wrestling (USA).mp4</video>
-		<marquee>./media/marquees/Title Match Pro Wrestling (USA).png</marquee>
-		<thumbnail>./images/Title Match Pro Wrestling (USA)-thumb.png</thumbnail>
-		<bezel>./images/Title Match Pro Wrestling (USA)-bezel.png</bezel>
-		<boxback>./images/Title Match Pro Wrestling (USA)-boxback.png</boxback>
-		<rating>0.35</rating>
-		<releasedate>19890101T000000</releasedate>
-		<developer>Absolute Entertainment</developer>
-		<publisher>Absolute Entertainment</publisher>
-		<genre>Sports</genre>
-		<players>1-2</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>1af475ff6429a160752b592f0f92b287</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230831" />
-	</game>
-	<game id="38009">
-		<path>./No-Intro/Tomcat - The F-14 Fighter Simulator (USA).a78</path>
-		<name>Tomcat : The F-14 Fighter Simulator</name>
-		<desc>To be born with wings...
-
-Become a F-14 Naval Aviator undergoing seek and destroy missions while dodging and gunning enemy bogeys in deadly dogfights with your 20mm cannon and air-to-air missiles.
-
-You cockpit comes with state of the art technology, courtesy of the U.S. Air Force: Display and main computer, Bogey Alert Indicator, G-Force Indicator, Electronic Counter Measures, and a Cannon Overheat Indicator (yes, it can overheat!)...and if your feeling up to it, give the ol'bird a boost to Mach 1.0!
-
-The gameplay like other simulation games consists of taking off, flying, combat and landing. Though most of the gameplay focuses around dogfighting with enemy bogeys (dodging missiles). In addition to that, there are also night-flying missions that add difficulty due to limited vision.
-
-Taking off and landing however, also required additional skill as your doing it on the USS Enterprise (No relation to Star Trek), not on your standard airstrip. Pay attention to the F.D. officer as your preparing to take off (since he's the boss when it comes to this stuff...and try no to run over him...yet).
-
-Your weaponry consists of a M 61 Machine Gun and 3 different AIM Missiles (AIM 7, 9, 54) each packed with 15 missiles (that's a lot of missiles!).
-
-After each mission you will receive a Mission Rating which is based on your flying skill, number of bogey kill and number of weapons fired.</desc>
-		<image>./media/screenshots/Tomcat - The F-14 Fighter Simulator (USA).png</image>
-		<video>./media/videos/Tomcat - The F-14 Fighter Simulator (USA).mp4</video>
-		<marquee>./media/marquees/Tomcat - The F-14 Fighter Simulator (USA).png</marquee>
-		<thumbnail>./images/Tomcat - The F-14 Fighter Simulator (USA)-thumb.png</thumbnail>
-		<bezel>./images/Tomcat - The F-14 Fighter Simulator (USA)-bezel.png</bezel>
-		<boxback>./images/Tomcat - The F-14 Fighter Simulator (USA)-boxback.png</boxback>
-		<rating>1</rating>
-		<releasedate>19890101T000000</releasedate>
-		<developer>Imagineer</developer>
-		<publisher>Absolute Entertainment</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>c3903ab01a51222a52197dbfe6538ecf</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230834" />
-	</game>
-	<game id="38054">
-		<path>./No-Intro/Touchdown Football (USA).a78</path>
-		<name>Touchdown Football</name>
-		<desc>A very capable football simulation, given the year and technology.  Call the plays, then run them using the keyboard or joystick.  Digitized voices enhance the game, including the crowd, calling the numbers, and referee's calls.</desc>
-		<image>./media/screenshots/Touchdown Football (USA).png</image>
-		<video>./media/videos/Touchdown Football (USA).mp4</video>
-		<marquee>./media/marquees/Touchdown Football (USA).png</marquee>
-		<thumbnail>./images/Touchdown Football (USA)-thumb.png</thumbnail>
-		<bezel>./images/Touchdown Football (USA)-bezel.png</bezel>
-		<boxback>./images/Touchdown Football (USA)-boxback.png</boxback>
-		<rating>0</rating>
-		<releasedate>19880101T000000</releasedate>
-		<developer>Imagic</developer>
-		<publisher>Atari</publisher>
-		<genre>Sports</genre>
-		<players>1-2</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>208ef955fa90a29815eb097bce89bace</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230837" />
-	</game>
-	<game id="38055">
-		<path>./No-Intro/Tower Toppler (USA).a78</path>
-		<name>Tower Toppler</name>
-		<desc>You play a small green guy who needs to blow up eight towers, because their presence is somehow poisoning the water of planets which could potentially be ideal colonies. Unfortunately you need to get to the top of these towers to blow them up. 
-
-You make your way up to the top of the tower via walkways around the outside of the towers. You need to jump over, kick, and run from various enemies in your journey to the top. Most vertical movement is achieved by jumping onto moving ledges at the right moment. 
-
-The game was considered revolutionary in its time for its graphic technique. As the main character walked around the outside of the tower, the character was fixed in the middle of the screen while the tower itself rotated. This gave it a pseudo-3D effect.
-
-Towers are linked together via a voyage through the sea in your trusty MK.7 submarine. This plays out as a side-scrolling collect-'em-up in which bonus points can be obtained.</desc>
-		<image>./media/screenshots/Tower Toppler (USA).png</image>
-		<video>./media/videos/Tower Toppler (USA).mp4</video>
-		<marquee>./media/marquees/Tower Toppler (USA).png</marquee>
-		<thumbnail>./images/Tower Toppler (USA)-thumb.png</thumbnail>
-		<bezel>./images/Tower Toppler (USA)-bezel.png</bezel>
-		<boxback>./images/Tower Toppler (USA)-boxback.png</boxback>
-		<rating>0.8</rating>
-		<releasedate>19880101T000000</releasedate>
-		<developer>Hewson</developer>
-		<publisher>Atari</publisher>
-		<genre>Platform</genre>
-		<family>Nebulus</family>
-		<players>1-2</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>8d64763db3100aadc552db5e6868506a</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230840" />
-	</game>
-	<game id="38056">
-		<path>./No-Intro/Water Ski (USA).a78</path>
-		<name>Water Ski</name>
-		<desc>In Water Ski you are water skiing on the Pharonna River. You control both the boat and skier in this vertically scrolling action game. Your goal is to reach the finish line before time runs out and also to earn as many points as possible. The river is quite dangerous, and features many twists and turns along with rocks, logs and other obstacles. For bonus points there are numerous ramps located throughout the river which your skier can jump over (and if you can manage to ski over every ramp on the level, you'll earn even more points!). You start the game with four skiers, and the game ends when all of you skiers have crashed.</desc>
-		<image>./media/screenshots/Water Ski (USA).png</image>
-		<video>./media/videos/Water Ski (USA).mp4</video>
-		<marquee>./media/marquees/Water Ski (USA).png</marquee>
-		<thumbnail>./images/Water Ski (USA)-thumb.png</thumbnail>
-		<bezel>./images/Water Ski (USA)-bezel.png</bezel>
-		<boxback>./images/Water Ski (USA)-boxback.png</boxback>
-		<rating>0.4</rating>
-		<releasedate>19880101T000000</releasedate>
-		<developer>Froggo Games Corporation</developer>
-		<publisher>Froggo Games Corporation</publisher>
-		<genre>Sports</genre>
-		<players>1</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>427cb05d0a1abb068998e2760d77f4fb</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230843" />
-	</game>
-	<game id="38057">
-		<path>./No-Intro/Winter Games (USA).a78</path>
-		<name>Winter Games</name>
-		<desc>Another in the series of Epyx Olympic sports games. Compete in many different sporting events like: Ski Jump, Hot Dog, Biathlon, Bobsled, Free Skating, Figure Skating and more.</desc>
-		<image>./media/screenshots/Winter Games (USA).png</image>
-		<video>./media/videos/Winter Games (USA).mp4</video>
-		<marquee>./media/marquees/Winter Games (USA).png</marquee>
-		<thumbnail>./images/Winter Games (USA)-thumb.png</thumbnail>
-		<bezel>./images/Winter Games (USA)-bezel.png</bezel>
-		<boxback>./images/Winter Games (USA)-boxback.png</boxback>
-		<rating>0.55</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Action Graphics</developer>
-		<publisher>Atari</publisher>
-		<genre>Sports / Multisports</genre>
-		<players>1-8</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>3799d72f78dda2ee87b0ef8bf7b91186</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230845" />
-	</game>
-	<game id="38058">
-		<path>./No-Intro/Xenophobe (USA).a78</path>
-		<name>Xenophobe</name>
-		<desc>Xenos.  The very name strikes fear into every colonist's heart.  A distress call is received from space stations orbiting your homeworld, then silence.  A single ship escapes, piloted by a battered man who tells the tale of pods that hatch into acid-spitting Xenos.
-
-A small band of engineers has been dispatched to combat the Xeno threat before it takes over all the space stations and, eventually, your homeworld.  Assemble your band of engineers and fight the Xenos on each station, striving to either clear it or abandon it.  You start out with a standard issue laser, but can pick up additiona weapons as you find them, including Phasers, Lightning Rifles, Poofer guns, and bombs.
-
-Xenophobe was originally an arcade coin-op by Bally/Midway, released in 1987.  Gameplay premise and setting is heavily inspired/influenced by the movie Aliens.</desc>
-		<image>./media/screenshots/Xenophobe (USA).png</image>
-		<video>./media/videos/Xenophobe (USA).mp4</video>
-		<marquee>./media/marquees/Xenophobe (USA).png</marquee>
-		<thumbnail>./images/Xenophobe (USA)-thumb.png</thumbnail>
-		<bezel>./images/Xenophobe (USA)-bezel.png</bezel>
-		<boxback>./images/Xenophobe (USA)-boxback.png</boxback>
-		<rating>0.3</rating>
-		<releasedate>19890101T000000</releasedate>
-		<developer>Bally Midway</developer>
-		<publisher>Atari</publisher>
-		<genre>Action</genre>
-		<players>1-2</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>05fb699db9eef564e2fe45c568746dbc</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230848" />
-	</game>
-	<game id="38059">
-		<path>./No-Intro/Xevious (USA) (Beta).a78</path>
-		<name>Xevious</name>
-		<desc>It is discovered that the actual aliens on earth are human beings, and the ruthless Xevions want their planet back; but without us. Our only defense is the prototype Solvalou Fighter Plane. With this plane we can fight the deadly Domogram Rovers; the Toroid Patrol Fleets and the Zoshi Death Squads. 
-
-Xevious is a vertically scrolling shooter based on the 1982 coin-op of the same name. It was innovative in that it was the first vertically scrolling shooter to feature dual-level attacks; both ground and air.</desc>
-		<image>./media/screenshots/Xevious (USA) (Beta).png</image>
-		<video>./media/videos/Xevious (USA) (Beta).mp4</video>
-		<marquee>./media/marquees/Xevious (USA) (Beta).png</marquee>
-		<thumbnail>./images/Xevious (USA) (Beta)-thumb.png</thumbnail>
-		<bezel>./images/Xevious (USA) (Beta)-bezel.png</bezel>
-		<boxback>./images/Xevious (USA) (Beta)-boxback.png</boxback>
-		<rating>0.75</rating>
-		<releasedate>19880101T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Atari</publisher>
-		<genre>Shoot'em up / Vertical</genre>
-		<players>1-2</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>dbbe99aeeb8cbc0f5f17cd0082d260a0</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230851" />
-	</game>
-	<game id="38059">
-		<path>./No-Intro/Xevious (USA).a78</path>
-		<name>Xevious</name>
-		<desc>It is discovered that the actual aliens on earth are human beings, and the ruthless Xevions want their planet back; but without us. Our only defense is the prototype Solvalou Fighter Plane. With this plane we can fight the deadly Domogram Rovers; the Toroid Patrol Fleets and the Zoshi Death Squads. 
-
-Xevious is a vertically scrolling shooter based on the 1982 coin-op of the same name. It was innovative in that it was the first vertically scrolling shooter to feature dual-level attacks; both ground and air.</desc>
-		<image>./media/screenshots/Xevious (USA).png</image>
-		<video>./media/videos/Xevious (USA).mp4</video>
-		<marquee>./media/marquees/Xevious (USA).png</marquee>
-		<thumbnail>./images/Xevious (USA)-thumb.png</thumbnail>
-		<bezel>./images/Xevious (USA)-bezel.png</bezel>
-		<boxback>./images/Xevious (USA)-boxback.png</boxback>
-		<rating>0.75</rating>
-		<releasedate>19880101T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Atari</publisher>
-		<genre>Shoot'em up / Vertical</genre>
-		<players>1-2</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>d7dc17379aa25e5ae3c14b9e780c6f6d</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230854" />
-	</game>
-	<game id="44464">
-		<path>./No-Intro/[BIOS] Atari 7800 (USA).a78</path>
-		<name>ZZZ(notgame):[bios] Atari 7800</name>
-		<image>./images/[BIOS] Atari 7800 (USA)-image.png</image>
-		<rating>0</rating>
-		<hidden>true</hidden>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>0763f1ffb006ddbe32e52d497ee848ae</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T230855" />
-	</game>
 	<game>
 		<path>./TOSEC/Applications/Atari 7800 Symbolic Debug Monitor &amp; Downloader (1988)(Atari)(NTSC)/Atari 7800 Symbolic Debug Monitor &amp; Downloader (1988)(Atari)(NTSC).a78</path>
 		<name>Atari 7800 Symbolic Debug Monitor &amp; Downloader (1988)(Atari)(NTSC)</name>
@@ -4761,6 +2906,7 @@ Xevious is a vertically scrolling shooter based on the 1982 coin-op of the same 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T234110" />
+		<boxback>./images/Ace of Aces (USA)-boxback.png</boxback>
 	</game>
 	<game id="37996">
 		<path>./No-Intro/Games/Alien Brigade (Europe).a78</path>
@@ -4803,6 +2949,8 @@ Xevious is a vertically scrolling shooter based on the 1982 coin-op of the same 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T234130" />
+		<fanart>./images/Alien Brigade (USA)-fanart.jpg</fanart>
+		<boxback>./images/Alien Brigade (USA)-boxback.png</boxback>
 	</game>
 	<game id="37997">
 		<path>./No-Intro/Games/Asteroids (USA) (Beta).a78</path>
@@ -4854,6 +3002,7 @@ The score of the Player 1 is viewable on the upper left side of the screen, whil
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T234139" />
+		<boxback>./images/Asteroids (USA) (Beta)-boxback.png</boxback>
 	</game>
 	<game id="37997">
 		<path>./No-Intro/Games/Asteroids (USA).a78</path>
@@ -4905,6 +3054,7 @@ The score of the Player 1 is viewable on the upper left side of the screen, whil
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T234146" />
+		<boxback>./images/Asteroids (USA)-boxback.png</boxback>
 	</game>
 	<game id="44464">
 		<path>./No-Intro/Games/Atari 7800 Development Card (USA).a78</path>
@@ -4997,6 +3147,7 @@ A player winning 10 consecutive points automatically wins the game.</desc>
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T234212" />
+		<boxback>./images/Ballblazer (USA)-boxback.png</boxback>
 	</game>
 	<game id="38000">
 		<path>./No-Intro/Games/Barnyard Blaster (Europe).a78</path>
@@ -5043,6 +3194,7 @@ Barnyard Blaster is a shooting gallery type game for use with the Atari XG-1 lig
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T234230" />
+		<boxback>./images/Barnyard Blaster (USA)-boxback.png</boxback>
 	</game>
 	<game id="38043">
 		<path>./No-Intro/Games/Baseball (Europe).a78</path>
@@ -5114,6 +3266,8 @@ The referee does not call fouls, but does hurl knives at the players.</desc>
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T234258" />
+		<fanart>./images/Basketbrawl (USA)-fanart.png</fanart>
+		<boxback>./images/Basketbrawl (USA)-boxback.png</boxback>
 	</game>
 	<game id="38004">
 		<path>./No-Intro/Games/Centipede (Europe).a78</path>
@@ -5248,6 +3402,7 @@ Destroyed mushroom - 1 points</desc>
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T234314" />
+		<boxback>./images/Centipede (USA)-boxback.png</boxback>
 	</game>
 	<game id="38005">
 		<path>./No-Intro/Games/Choplifter! (Europe).a78</path>
@@ -5298,6 +3453,7 @@ Originally released for Apple II home computers, Choplifter was later ported to 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T234334" />
+		<boxback>./images/Choplifter! (USA)-boxback.png</boxback>
 	</game>
 	<game id="38006">
 		<path>./No-Intro/Games/Commando (Europe).a78</path>
@@ -5342,6 +3498,7 @@ Originally released for Apple II home computers, Choplifter was later ported to 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T234358" />
+		<boxback>./images/Commando (USA)-boxback.png</boxback>
 	</game>
 	<game id="38007">
 		<path>./No-Intro/Games/Crack'ed (Europe).a78</path>
@@ -5388,6 +3545,7 @@ You get out your slingshot and begin hitting the marauding creatures. But you ha
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T234416" />
+		<boxback>./images/Crack'ed (USA)-boxback.png</boxback>
 	</game>
 	<game id="38008">
 		<path>./No-Intro/Games/Crossbow (Europe).a78</path>
@@ -5430,6 +3588,7 @@ You get out your slingshot and begin hitting the marauding creatures. But you ha
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T234435" />
+		<boxback>./images/Crossbow (USA)-boxback.png</boxback>
 	</game>
 	<game id="38010">
 		<path>./No-Intro/Games/Dark Chambers (Europe).a78</path>
@@ -5472,6 +3631,7 @@ You get out your slingshot and begin hitting the marauding creatures. But you ha
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T234454" />
+		<boxback>./images/Dark Chambers (USA)-boxback.png</boxback>
 	</game>
 	<game id="38011">
 		<path>./No-Intro/Games/Desert Falcon (Europe).a78</path>
@@ -5514,6 +3674,7 @@ You get out your slingshot and begin hitting the marauding creatures. But you ha
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T234514" />
+		<boxback>./images/Desert Falcon (USA)-boxback.png</boxback>
 	</game>
 	<game id="44464">
 		<path>./No-Intro/Games/Diagnostic Test Cartrige (USA) (Beta).a78</path>
@@ -5580,6 +3741,7 @@ You get out your slingshot and begin hitting the marauding creatures. But you ha
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T234540" />
+		<boxback>./images/Dig Dug (USA)-boxback.png</boxback>
 	</game>
 	<game id="38013">
 		<path>./No-Intro/Games/Donkey Kong (Europe).a78</path>
@@ -5638,6 +3800,7 @@ Donkey Kong is also notable for being one of the first complete narratives in vi
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T234558" />
+		<boxback>./images/Donkey Kong (USA)-boxback.png</boxback>
 	</game>
 	<game id="38014">
 		<path>./No-Intro/Games/Donkey Kong Junior (Europe).a78</path>
@@ -5704,6 +3867,7 @@ Like the original Donkey Kong, the earlier 1980's console versions do not have a
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T234618" />
+		<boxback>./images/Donkey Kong Junior (USA)-boxback.png</boxback>
 	</game>
 	<game id="38015">
 		<path>./No-Intro/Games/Double Dragon (Europe).a78</path>
@@ -5754,6 +3918,7 @@ Using whatever techniques they have at their disposal, from the basic punches an
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T234638" />
+		<boxback>./images/Double Dragon (USA)-boxback.png</boxback>
 	</game>
 	<game id="38016">
 		<path>./No-Intro/Games/F-18 Hornet (Europe).a78</path>
@@ -5798,6 +3963,7 @@ In each of four missions, you are confronted with a variety of opponents and mus
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T234658" />
+		<boxback>./images/F-18 Hornet (USA)-boxback.png</boxback>
 	</game>
 	<game id="38017">
 		<path>./No-Intro/Games/Fatal Run (Europe).a78</path>
@@ -5846,6 +4012,7 @@ A password feature let's you continue where you left off.</desc>
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T234717" />
+		<boxback>./images/Fatal Run (USA)-boxback.png</boxback>
 	</game>
 	<game id="38018">
 		<path>./No-Intro/Games/Fight Night (Europe).a78</path>
@@ -5888,6 +4055,7 @@ A password feature let's you continue where you left off.</desc>
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T234735" />
+		<boxback>./images/Fight Night (USA)-boxback.png</boxback>
 	</game>
 	<game id="38019">
 		<path>./No-Intro/Games/Food Fight (Europe).a78</path>
@@ -5932,6 +4100,7 @@ A password feature let's you continue where you left off.</desc>
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T234756" />
+		<boxback>./images/Food Fight (USA) (Beta)-boxback.png</boxback>
 	</game>
 	<game id="38019">
 		<path>./No-Intro/Games/Food Fight (USA).a78</path>
@@ -5954,6 +4123,7 @@ A password feature let's you continue where you left off.</desc>
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T234805" />
+		<boxback>./images/Food Fight (USA)-boxback.png</boxback>
 	</game>
 	<game id="38020">
 		<path>./No-Intro/Games/Galaga (Europe).a78</path>
@@ -6012,6 +4182,7 @@ A summary screen appears when the game is over, giving you both your final score
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T234825" />
+		<boxback>./images/Galaga (USA)-boxback.png</boxback>
 	</game>
 	<game id="108709">
 		<path>./No-Intro/Games/GATO (USA) (Proto).a78</path>
@@ -6030,6 +4201,7 @@ A summary screen appears when the game is over, giving you both your final score
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T234830" />
+		<boxback>./images/GATO (USA) (Proto)-boxback.png</boxback>
 	</game>
 	<game id="38021">
 		<path>./No-Intro/Games/Hat Trick (Europe).a78</path>
@@ -6072,6 +4244,7 @@ A summary screen appears when the game is over, giving you both your final score
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T234847" />
+		<boxback>./images/Hat Trick (USA)-boxback.png</boxback>
 	</game>
 	<game id="44464">
 		<path>./No-Intro/Games/High Score Cartridge (USA) (Proto).a78</path>
@@ -6126,6 +4299,7 @@ A summary screen appears when the game is over, giving you both your final score
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T234907" />
+		<boxback>./images/Ikari Warriors (USA)-boxback.png</boxback>
 	</game>
 	<game id="38023">
 		<path>./No-Intro/Games/Impossible Mission (Europe).a78</path>
@@ -6176,6 +4350,7 @@ The robots, rooms, and puzzle pieces will be switched around when starting over 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T234929" />
+		<boxback>./images/Impossible Mission (USA)-boxback.png</boxback>
 	</game>
 	<game id="38024">
 		<path>./No-Intro/Games/Jinks (Europe).a78</path>
@@ -6222,6 +4397,7 @@ The objective is to survive on the planet Jinks - an exploration mission on this
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T234949" />
+		<boxback>./images/Jinks (USA)-boxback.png</boxback>
 	</game>
 	<game id="38025">
 		<path>./No-Intro/Games/Joust (Europe).a78</path>
@@ -6272,6 +4448,7 @@ The game was novel for its time for being one of the few two-player simultaneous
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T235008" />
+		<boxback>./images/Joust (USA)-boxback.png</boxback>
 	</game>
 	<game id="38026">
 		<path>./No-Intro/Games/Karateka (Europe).a78</path>
@@ -6320,6 +4497,7 @@ The game is viewed from the side and features a succession of increasingly-diffi
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T235031" />
+		<boxback>./images/Karateka (USA)-boxback.png</boxback>
 	</game>
 	<game id="38027">
 		<path>./No-Intro/Games/Klax (USA) (Proto).a78</path>
@@ -6341,6 +4519,7 @@ The game is viewed from the side and features a succession of increasingly-diffi
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T235038" />
+		<boxback>./images/Klax (USA) (Proto)-boxback.png</boxback>
 	</game>
 	<game id="38028">
 		<path>./No-Intro/Games/Kung-Fu Master (Europe).a78</path>
@@ -6393,6 +4572,7 @@ Thomas is able to move left and right, jump, duck, and punch and kick. Enemy pro
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T235102" />
+		<boxback>./images/Kung-Fu Master (USA)-boxback.png</boxback>
 	</game>
 	<game id="38029">
 		<path>./No-Intro/Games/Mario Bros. (Europe).a78</path>
@@ -6447,6 +4627,7 @@ For the two player mode, the first to collect the set amount of coins wins.</des
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T235120" />
+		<boxback>./images/Mario Bros. (USA)-boxback.png</boxback>
 	</game>
 	<game id="38030">
 		<path>./No-Intro/Games/Mat Mania Challenge (Europe).a78</path>
@@ -6491,6 +4672,7 @@ Wrestling Federation Championship ring. Based on the Technos coin-op of 1985, Ma
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T235139" />
+		<boxback>./images/Mat Mania Challenge (USA)-boxback.png</boxback>
 	</game>
 	<game id="38031">
 		<path>./No-Intro/Games/Mean 18 Ultimate Golf (Europe).a78</path>
@@ -6539,6 +4721,7 @@ Beginner and Expert difficulty options are given - the latter mode has more pron
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T235201" />
+		<boxback>./images/Mean 18 Ultimate Golf (USA)-boxback.png</boxback>
 	</game>
 	<game id="38032">
 		<path>./No-Intro/Games/Meltdown (Europe).a78</path>
@@ -6579,6 +4762,7 @@ Beginner and Expert difficulty options are given - the latter mode has more pron
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T235221" />
+		<boxback>./images/Meltdown (USA)-boxback.png</boxback>
 	</game>
 	<game id="38033">
 		<path>./No-Intro/Games/Midnight Mutants (Europe).a78</path>
@@ -6621,6 +4805,7 @@ Beginner and Expert difficulty options are given - the latter mode has more pron
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T235241" />
+		<boxback>./images/Midnight Mutants (USA)-boxback.png</boxback>
 	</game>
 	<game id="44465">
 		<path>./No-Intro/Games/Missing in Action (USA) (Proto).a78</path>
@@ -6639,6 +4824,7 @@ Beginner and Expert difficulty options are given - the latter mode has more pron
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T235246" />
+		<boxback>./images/Missing in Action (USA) (Proto)-boxback.png</boxback>
 	</game>
 	<game id="38034">
 		<path>./No-Intro/Games/Motor Psycho (Europe).a78</path>
@@ -6681,6 +4867,7 @@ Beginner and Expert difficulty options are given - the latter mode has more pron
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T235306" />
+		<boxback>./images/Motor Psycho (USA)-boxback.png</boxback>
 	</game>
 	<game id="38035">
 		<path>./No-Intro/Games/Ms. Pac-Man (Europe).a78</path>
@@ -6739,6 +4926,7 @@ Survive a few rounds of gameplay, and the player will be treated to humorous int
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T235328" />
+		<boxback>./images/Ms. Pac-Man (USA)-boxback.png</boxback>
 	</game>
 	<game id="38036">
 		<path>./No-Intro/Games/Ninja Golf (Europe).a78</path>
@@ -6781,6 +4969,7 @@ Survive a few rounds of gameplay, and the player will be treated to humorous int
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T235346" />
+		<boxback>./images/Ninja Golf (USA)-boxback.png</boxback>
 	</game>
 	<game id="38037">
 		<path>./No-Intro/Games/One-on-One Basketball (Europe).a78</path>
@@ -6825,6 +5014,7 @@ Survive a few rounds of gameplay, and the player will be treated to humorous int
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T235406" />
+		<boxback>./images/One-on-One Basketball (USA)-boxback.png</boxback>
 	</game>
 	<game id="44466">
 		<path>./No-Intro/Games/Pete Rose Baseball (USA).a78</path>
@@ -6850,6 +5040,8 @@ Sure, we'll give you the options. And some tips. Like in pitching. Batting. And 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T235413" />
+		<fanart>./images/Pete Rose Baseball (USA)-fanart.png</fanart>
+		<boxback>./images/Pete Rose Baseball (USA)-boxback.png</boxback>
 	</game>
 	<game id="44467">
 		<path>./No-Intro/Games/Pit Fighter (USA) (Proto).a78</path>
@@ -6868,6 +5060,7 @@ Sure, we'll give you the options. And some tips. Like in pitching. Batting. And 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T235420" />
+		<boxback>./images/Pit Fighter (USA) (Proto)-boxback.png</boxback>
 	</game>
 	<game id="38040">
 		<path>./No-Intro/Games/Planet Smashers (Europe).a78</path>
@@ -6914,6 +5107,7 @@ One difference in this game that sets it apart from others of the same type is t
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T235439" />
+		<boxback>./images/Planet Smashers (USA)-boxback.png</boxback>
 	</game>
 	<game id="44468">
 		<path>./No-Intro/Games/Plutos (USA) (Proto).a78</path>
@@ -6932,6 +5126,7 @@ One difference in this game that sets it apart from others of the same type is t
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T235445" />
+		<boxback>./images/Plutos (USA) (Proto)-boxback.png</boxback>
 	</game>
 	<game id="38041">
 		<path>./No-Intro/Games/Pole Position II (Europe).a78</path>
@@ -6976,6 +5171,7 @@ One difference in this game that sets it apart from others of the same type is t
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T235503" />
+		<boxback>./images/Pole Position II (USA) (Beta)-boxback.png</boxback>
 	</game>
 	<game id="38041">
 		<path>./No-Intro/Games/Pole Position II (USA).a78</path>
@@ -6998,6 +5194,7 @@ One difference in this game that sets it apart from others of the same type is t
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T235510" />
+		<boxback>./images/Pole Position II (USA)-boxback.png</boxback>
 	</game>
 	<game id="38042">
 		<path>./No-Intro/Games/Rampage (USA).a78</path>
@@ -7023,6 +5220,7 @@ Smashing at the edges of the buildings for long enough will make them collapse. 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T235518" />
+		<boxback>./images/Rampage (USA)-boxback.png</boxback>
 	</game>
 	<game id="44469">
 		<path>./No-Intro/Games/Rampart (USA) (Proto).a78</path>
@@ -7044,6 +5242,7 @@ Internal Atari memos from 1993 mention that the game is almost finalized, so a m
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T235525" />
+		<boxback>./images/Rampart (USA) (Proto)-boxback.png</boxback>
 	</game>
 	<game id="38043">
 		<path>./No-Intro/Games/RealSports Baseball (USA).a78</path>
@@ -7065,6 +5264,7 @@ Internal Atari memos from 1993 mention that the game is almost finalized, so a m
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T235534" />
+		<boxback>./images/RealSports Baseball (USA)-boxback.png</boxback>
 	</game>
 	<game id="44470">
 		<path>./No-Intro/Games/Rescue on Fractalus (USA) (Proto).a78</path>
@@ -7082,6 +5282,7 @@ Internal Atari memos from 1993 mention that the game is almost finalized, so a m
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T235539" />
+		<boxback>./images/Rescue on Fractalus (USA) (Proto)-boxback.png</boxback>
 	</game>
 	<game id="38044">
 		<path>./No-Intro/Games/Robotron - 2084 (USA).a78</path>
@@ -7105,6 +5306,7 @@ You are a mutant human, who by some freak of nature has the ability to shoot ene
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T235547" />
+		<boxback>./images/Robotron - 2084 (USA)-boxback.png</boxback>
 	</game>
 	<game id="38046">
 		<path>./No-Intro/Games/Scrapyard Dog (Europe).a78</path>
@@ -7147,6 +5349,7 @@ You are a mutant human, who by some freak of nature has the ability to shoot ene
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T235606" />
+		<boxback>./images/Scrapyard Dog (USA)-boxback.png</boxback>
 	</game>
 	<game id="38047">
 		<path>./No-Intro/Games/Sentinel (Europe).a78</path>
@@ -7189,6 +5392,7 @@ You are a mutant human, who by some freak of nature has the ability to shoot ene
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T235625" />
+		<boxback>./images/Sentinel (USA) (Proto)-boxback.png</boxback>
 	</game>
 	<game id="44471">
 		<path>./No-Intro/Games/Sirius (USA) (Proto).a78</path>
@@ -7209,6 +5413,7 @@ Sirius is a single player game only. The difficulty level (easy and hard) can be
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T235630" />
+		<boxback>./images/Sirius (USA) (Proto)-boxback.png</boxback>
 	</game>
 	<game id="38049">
 		<path>./No-Intro/Games/Summer Games (USA).a78</path>
@@ -7241,6 +5446,7 @@ Sirius is a single player game only. The difficulty level (easy and hard) can be
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T235638" />
+		<boxback>./images/Summer Games (USA)-boxback.png</boxback>
 	</game>
 	<game id="38050">
 		<path>./No-Intro/Games/Super Huey UH-IX (Europe).a78</path>
@@ -7283,6 +5489,7 @@ Sirius is a single player game only. The difficulty level (easy and hard) can be
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T235656" />
+		<boxback>./images/Super Huey UH-IX (USA)-boxback.png</boxback>
 	</game>
 	<game id="38051">
 		<path>./No-Intro/Games/Super Skateboardin' (Europe).a78</path>
@@ -7327,6 +5534,7 @@ Championship. Super Skateboardin' is a straightforward game from the designer of
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T235715" />
+		<boxback>./images/Super Skateboardin' (USA)-boxback.png</boxback>
 	</game>
 	<game id="38052">
 		<path>./No-Intro/Games/Tank Command (USA).a78</path>
@@ -7348,6 +5556,7 @@ Championship. Super Skateboardin' is a straightforward game from the designer of
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T235721" />
+		<boxback>./images/Tank Command (USA)-boxback.png</boxback>
 	</game>
 	<game id="38053">
 		<path>./No-Intro/Games/Title Match Pro Wrestling (Europe).a78</path>
@@ -7390,6 +5599,7 @@ Championship. Super Skateboardin' is a straightforward game from the designer of
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T235737" />
+		<boxback>./images/Title Match Pro Wrestling (USA)-boxback.png</boxback>
 	</game>
 	<game id="38009">
 		<path>./No-Intro/Games/Tomcat - The F-14 Fighter Simulator (Europe).a78</path>
@@ -7456,6 +5666,7 @@ After each mission you will receive a Mission Rating which is based on your flyi
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T235756" />
+		<boxback>./images/Tomcat - The F-14 Fighter Simulator (USA)-boxback.png</boxback>
 	</game>
 	<game id="38054">
 		<path>./No-Intro/Games/Touchdown Football (USA).a78</path>
@@ -7476,6 +5687,7 @@ After each mission you will receive a Mission Rating which is based on your flyi
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T235804" />
+		<boxback>./images/Touchdown Football (USA)-boxback.png</boxback>
 	</game>
 	<game id="38055">
 		<path>./No-Intro/Games/Tower Toppler (Europe).a78</path>
@@ -7532,6 +5744,7 @@ Towers are linked together via a voyage through the sea in your trusty MK.7 subm
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T235823" />
+		<boxback>./images/Tower Toppler (USA)-boxback.png</boxback>
 	</game>
 	<game id="38056">
 		<path>./No-Intro/Games/Water Ski (USA).a78</path>
@@ -7553,6 +5766,7 @@ Towers are linked together via a voyage through the sea in your trusty MK.7 subm
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T235832" />
+		<boxback>./images/Water Ski (USA)-boxback.png</boxback>
 	</game>
 	<game id="38057">
 		<path>./No-Intro/Games/Winter Games (USA).a78</path>
@@ -7575,6 +5789,7 @@ Towers are linked together via a voyage through the sea in your trusty MK.7 subm
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T235841" />
+		<boxback>./images/Winter Games (USA)-boxback.png</boxback>
 	</game>
 	<game id="38058">
 		<path>./No-Intro/Games/Xenophobe (Europe).a78</path>
@@ -7625,6 +5840,7 @@ Xenophobe was originally an arcade coin-op by Bally/Midway, released in 1987.  G
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T235859" />
+		<boxback>./images/Xenophobe (USA)-boxback.png</boxback>
 	</game>
 	<game id="38059">
 		<path>./No-Intro/Games/Xevious (Europe).a78</path>
@@ -7673,6 +5889,7 @@ Xevious is a vertically scrolling shooter based on the 1982 coin-op of the same 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T235918" />
+		<boxback>./images/Xevious (USA) (Beta)-boxback.png</boxback>
 	</game>
 	<game id="38059">
 		<path>./No-Intro/Games/Xevious (USA).a78</path>
@@ -7697,6 +5914,7 @@ Xevious is a vertically scrolling shooter based on the 1982 coin-op of the same 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T235925" />
+		<boxback>./images/Xevious (USA)-boxback.png</boxback>
 	</game>
 	<game id="44464">
 		<path>./No-Intro/Games/[BIOS] Atari 7800 (Europe).a78</path>
@@ -7784,6 +6002,7 @@ Xevious is a vertically scrolling shooter based on the 1982 coin-op of the same 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T235936" />
+		<boxback>./images/Ace of Aces (USA)-boxback.png</boxback>
 	</game>
 	<game id="37996">
 		<path>./No-Intro/unheadered/Alien Brigade (Europe).a78</path>
@@ -7826,6 +6045,8 @@ Xevious is a vertically scrolling shooter based on the 1982 coin-op of the same 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T235939" />
+		<fanart>./images/Alien Brigade (USA)-fanart.jpg</fanart>
+		<boxback>./images/Alien Brigade (USA)-boxback.png</boxback>
 	</game>
 	<game id="37997">
 		<path>./No-Intro/unheadered/Asteroids (USA) (Beta).a78</path>
@@ -7877,6 +6098,7 @@ The score of the Player 1 is viewable on the upper left side of the screen, whil
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T235941" />
+		<boxback>./images/Asteroids (USA) (Beta)-boxback.png</boxback>
 	</game>
 	<game id="37997">
 		<path>./No-Intro/unheadered/Asteroids (USA).a78</path>
@@ -7928,6 +6150,7 @@ The score of the Player 1 is viewable on the upper left side of the screen, whil
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T235942" />
+		<boxback>./images/Asteroids (USA)-boxback.png</boxback>
 	</game>
 	<game id="44464">
 		<path>./No-Intro/unheadered/Atari 7800 Development Card (USA).a78</path>
@@ -8012,6 +6235,7 @@ A player winning 10 consecutive points automatically wins the game.</desc>
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T235947" />
+		<boxback>./images/Ballblazer (USA)-boxback.png</boxback>
 	</game>
 	<game id="38000">
 		<path>./No-Intro/unheadered/Barnyard Blaster (Europe).a78</path>
@@ -8058,6 +6282,7 @@ Barnyard Blaster is a shooting gallery type game for use with the Atari XG-1 lig
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T235950" />
+		<boxback>./images/Barnyard Blaster (USA)-boxback.png</boxback>
 	</game>
 	<game id="38043">
 		<path>./No-Intro/unheadered/Baseball (Europe).a78</path>
@@ -8129,6 +6354,8 @@ The referee does not call fouls, but does hurl knives at the players.</desc>
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T235955" />
+		<fanart>./images/Basketbrawl (USA)-fanart.png</fanart>
+		<boxback>./images/Basketbrawl (USA)-boxback.png</boxback>
 	</game>
 	<game id="38004">
 		<path>./No-Intro/unheadered/Centipede (Europe).a78</path>
@@ -8263,6 +6490,7 @@ Destroyed mushroom - 1 points</desc>
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T235958" />
+		<boxback>./images/Centipede (USA)-boxback.png</boxback>
 	</game>
 	<game id="38005">
 		<path>./No-Intro/unheadered/Choplifter! (Europe).a78</path>
@@ -8313,6 +6541,7 @@ Originally released for Apple II home computers, Choplifter was later ported to 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231103T000001" />
+		<boxback>./images/Choplifter! (USA)-boxback.png</boxback>
 	</game>
 	<game id="38006">
 		<path>./No-Intro/unheadered/Commando (Europe).a78</path>
@@ -8357,6 +6586,7 @@ Originally released for Apple II home computers, Choplifter was later ported to 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231103T000004" />
+		<boxback>./images/Commando (USA)-boxback.png</boxback>
 	</game>
 	<game id="38007">
 		<path>./No-Intro/unheadered/Crack'ed (Europe).a78</path>
@@ -8403,6 +6633,7 @@ You get out your slingshot and begin hitting the marauding creatures. But you ha
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231103T000007" />
+		<boxback>./images/Crack'ed (USA)-boxback.png</boxback>
 	</game>
 	<game id="38008">
 		<path>./No-Intro/unheadered/Crossbow (Europe).a78</path>
@@ -8445,6 +6676,7 @@ You get out your slingshot and begin hitting the marauding creatures. But you ha
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231103T000011" />
+		<boxback>./images/Crossbow (USA)-boxback.png</boxback>
 	</game>
 	<game id="38010">
 		<path>./No-Intro/unheadered/Dark Chambers (Europe).a78</path>
@@ -8487,6 +6719,7 @@ You get out your slingshot and begin hitting the marauding creatures. But you ha
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231103T000013" />
+		<boxback>./images/Dark Chambers (USA)-boxback.png</boxback>
 	</game>
 	<game id="38011">
 		<path>./No-Intro/unheadered/Desert Falcon (Europe).a78</path>
@@ -8529,6 +6762,7 @@ You get out your slingshot and begin hitting the marauding creatures. But you ha
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231103T000016" />
+		<boxback>./images/Desert Falcon (USA)-boxback.png</boxback>
 	</game>
 	<game id="44464">
 		<path>./No-Intro/unheadered/Diagnostic Test Cartrige (USA) (Beta).a78</path>
@@ -8595,6 +6829,7 @@ You get out your slingshot and begin hitting the marauding creatures. But you ha
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231103T000023" />
+		<boxback>./images/Dig Dug (USA)-boxback.png</boxback>
 	</game>
 	<game id="38013">
 		<path>./No-Intro/unheadered/Donkey Kong (Europe).a78</path>
@@ -8653,6 +6888,7 @@ Donkey Kong is also notable for being one of the first complete narratives in vi
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231103T000026" />
+		<boxback>./images/Donkey Kong (USA)-boxback.png</boxback>
 	</game>
 	<game id="38014">
 		<path>./No-Intro/unheadered/Donkey Kong Junior (Europe).a78</path>
@@ -8719,6 +6955,7 @@ Like the original Donkey Kong, the earlier 1980's console versions do not have a
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231103T000030" />
+		<boxback>./images/Donkey Kong Junior (USA)-boxback.png</boxback>
 	</game>
 	<game id="38015">
 		<path>./No-Intro/unheadered/Double Dragon (Europe).a78</path>
@@ -8769,6 +7006,7 @@ Using whatever techniques they have at their disposal, from the basic punches an
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231103T000033" />
+		<boxback>./images/Double Dragon (USA)-boxback.png</boxback>
 	</game>
 	<game id="38016">
 		<path>./No-Intro/unheadered/F-18 Hornet (Europe).a78</path>
@@ -8813,6 +7051,7 @@ In each of four missions, you are confronted with a variety of opponents and mus
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231103T000035" />
+		<boxback>./images/F-18 Hornet (USA)-boxback.png</boxback>
 	</game>
 	<game id="38017">
 		<path>./No-Intro/unheadered/Fatal Run (Europe).a78</path>
@@ -8861,6 +7100,7 @@ A password feature let's you continue where you left off.</desc>
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231103T000039" />
+		<boxback>./images/Fatal Run (USA)-boxback.png</boxback>
 	</game>
 	<game id="38018">
 		<path>./No-Intro/unheadered/Fight Night (Europe).a78</path>
@@ -8903,6 +7143,7 @@ A password feature let's you continue where you left off.</desc>
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231103T000042" />
+		<boxback>./images/Fight Night (USA)-boxback.png</boxback>
 	</game>
 	<game id="38019">
 		<path>./No-Intro/unheadered/Food Fight (Europe).a78</path>
@@ -8947,6 +7188,7 @@ A password feature let's you continue where you left off.</desc>
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231103T000045" />
+		<boxback>./images/Food Fight (USA) (Beta)-boxback.png</boxback>
 	</game>
 	<game id="38019">
 		<path>./No-Intro/unheadered/Food Fight (USA).a78</path>
@@ -8969,6 +7211,7 @@ A password feature let's you continue where you left off.</desc>
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231103T000047" />
+		<boxback>./images/Food Fight (USA)-boxback.png</boxback>
 	</game>
 	<game id="38020">
 		<path>./No-Intro/unheadered/Galaga (Europe).a78</path>
@@ -9027,6 +7270,7 @@ A summary screen appears when the game is over, giving you both your final score
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231103T000049" />
+		<boxback>./images/Galaga (USA)-boxback.png</boxback>
 	</game>
 	<game id="108709">
 		<path>./No-Intro/unheadered/GATO (USA) (Proto).a78</path>
@@ -9045,6 +7289,7 @@ A summary screen appears when the game is over, giving you both your final score
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231103T000051" />
+		<boxback>./images/GATO (USA) (Proto)-boxback.png</boxback>
 	</game>
 	<game id="38021">
 		<path>./No-Intro/unheadered/Hat Trick (Europe).a78</path>
@@ -9087,6 +7332,7 @@ A summary screen appears when the game is over, giving you both your final score
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231103T000054" />
+		<boxback>./images/Hat Trick (USA)-boxback.png</boxback>
 	</game>
 	<game id="44464">
 		<path>./No-Intro/unheadered/High Score Cartridge (USA) (Proto).a78</path>
@@ -9141,6 +7387,7 @@ A summary screen appears when the game is over, giving you both your final score
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231103T000058" />
+		<boxback>./images/Ikari Warriors (USA)-boxback.png</boxback>
 	</game>
 	<game id="38023">
 		<path>./No-Intro/unheadered/Impossible Mission (Europe).a78</path>
@@ -9191,6 +7438,7 @@ The robots, rooms, and puzzle pieces will be switched around when starting over 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231103T000101" />
+		<boxback>./images/Impossible Mission (USA)-boxback.png</boxback>
 	</game>
 	<game id="38024">
 		<path>./No-Intro/unheadered/Jinks (Europe).a78</path>
@@ -9237,6 +7485,7 @@ The objective is to survive on the planet Jinks - an exploration mission on this
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231103T000104" />
+		<boxback>./images/Jinks (USA)-boxback.png</boxback>
 	</game>
 	<game id="38025">
 		<path>./No-Intro/unheadered/Joust (Europe).a78</path>
@@ -9287,6 +7536,7 @@ The game was novel for its time for being one of the few two-player simultaneous
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231103T000106" />
+		<boxback>./images/Joust (USA)-boxback.png</boxback>
 	</game>
 	<game id="38026">
 		<path>./No-Intro/unheadered/Karateka (Europe).a78</path>
@@ -9335,6 +7585,7 @@ The game is viewed from the side and features a succession of increasingly-diffi
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231103T000109" />
+		<boxback>./images/Karateka (USA)-boxback.png</boxback>
 	</game>
 	<game id="38027">
 		<path>./No-Intro/unheadered/Klax (USA) (Proto).a78</path>
@@ -9356,6 +7607,7 @@ The game is viewed from the side and features a succession of increasingly-diffi
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231103T000111" />
+		<boxback>./images/Klax (USA) (Proto)-boxback.png</boxback>
 	</game>
 	<game id="38028">
 		<path>./No-Intro/unheadered/Kung-Fu Master (Europe).a78</path>
@@ -9408,6 +7660,7 @@ Thomas is able to move left and right, jump, duck, and punch and kick. Enemy pro
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231103T000114" />
+		<boxback>./images/Kung-Fu Master (USA)-boxback.png</boxback>
 	</game>
 	<game id="38029">
 		<path>./No-Intro/unheadered/Mario Bros. (Europe).a78</path>
@@ -9462,6 +7715,7 @@ For the two player mode, the first to collect the set amount of coins wins.</des
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231103T000116" />
+		<boxback>./images/Mario Bros. (USA)-boxback.png</boxback>
 	</game>
 	<game id="38030">
 		<path>./No-Intro/unheadered/Mat Mania Challenge (Europe).a78</path>
@@ -9506,6 +7760,7 @@ Wrestling Federation Championship ring. Based on the Technos coin-op of 1985, Ma
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231103T000119" />
+		<boxback>./images/Mat Mania Challenge (USA)-boxback.png</boxback>
 	</game>
 	<game id="38031">
 		<path>./No-Intro/unheadered/Mean 18 Ultimate Golf (Europe).a78</path>
@@ -9554,6 +7809,7 @@ Beginner and Expert difficulty options are given - the latter mode has more pron
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231103T000122" />
+		<boxback>./images/Mean 18 Ultimate Golf (USA)-boxback.png</boxback>
 	</game>
 	<game id="38032">
 		<path>./No-Intro/unheadered/Meltdown (Europe).a78</path>
@@ -9594,6 +7850,7 @@ Beginner and Expert difficulty options are given - the latter mode has more pron
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231103T000125" />
+		<boxback>./images/Meltdown (USA)-boxback.png</boxback>
 	</game>
 	<game id="38033">
 		<path>./No-Intro/unheadered/Midnight Mutants (Europe).a78</path>
@@ -9636,6 +7893,7 @@ Beginner and Expert difficulty options are given - the latter mode has more pron
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231103T000128" />
+		<boxback>./images/Midnight Mutants (USA)-boxback.png</boxback>
 	</game>
 	<game id="44465">
 		<path>./No-Intro/unheadered/Missing in Action (USA) (Proto).a78</path>
@@ -9654,6 +7912,7 @@ Beginner and Expert difficulty options are given - the latter mode has more pron
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231103T000131" />
+		<boxback>./images/Missing in Action (USA) (Proto)-boxback.png</boxback>
 	</game>
 	<game id="38034">
 		<path>./No-Intro/unheadered/Motor Psycho (Europe).a78</path>
@@ -9696,6 +7955,7 @@ Beginner and Expert difficulty options are given - the latter mode has more pron
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231103T000134" />
+		<boxback>./images/Motor Psycho (USA)-boxback.png</boxback>
 	</game>
 	<game id="38035">
 		<path>./No-Intro/unheadered/Ms. Pac-Man (Europe).a78</path>
@@ -9754,6 +8014,7 @@ Survive a few rounds of gameplay, and the player will be treated to humorous int
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231103T000137" />
+		<boxback>./images/Ms. Pac-Man (USA)-boxback.png</boxback>
 	</game>
 	<game id="38036">
 		<path>./No-Intro/unheadered/Ninja Golf (Europe).a78</path>
@@ -9796,6 +8057,7 @@ Survive a few rounds of gameplay, and the player will be treated to humorous int
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231103T000140" />
+		<boxback>./images/Ninja Golf (USA)-boxback.png</boxback>
 	</game>
 	<game id="38037">
 		<path>./No-Intro/unheadered/One-on-One Basketball (Europe).a78</path>
@@ -9840,6 +8102,7 @@ Survive a few rounds of gameplay, and the player will be treated to humorous int
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231103T000143" />
+		<boxback>./images/One-on-One Basketball (USA)-boxback.png</boxback>
 	</game>
 	<game id="44466">
 		<path>./No-Intro/unheadered/Pete Rose Baseball (USA).a78</path>
@@ -9865,6 +8128,8 @@ Sure, we'll give you the options. And some tips. Like in pitching. Batting. And 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231103T000144" />
+		<fanart>./images/Pete Rose Baseball (USA)-fanart.png</fanart>
+		<boxback>./images/Pete Rose Baseball (USA)-boxback.png</boxback>
 	</game>
 	<game id="44467">
 		<path>./No-Intro/unheadered/Pit Fighter (USA) (Proto).a78</path>
@@ -9883,6 +8148,7 @@ Sure, we'll give you the options. And some tips. Like in pitching. Batting. And 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231103T000146" />
+		<boxback>./images/Pit Fighter (USA) (Proto)-boxback.png</boxback>
 	</game>
 	<game id="38040">
 		<path>./No-Intro/unheadered/Planet Smashers (Europe).a78</path>
@@ -9929,6 +8195,7 @@ One difference in this game that sets it apart from others of the same type is t
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231103T000149" />
+		<boxback>./images/Planet Smashers (USA)-boxback.png</boxback>
 	</game>
 	<game id="44468">
 		<path>./No-Intro/unheadered/Plutos (USA) (Proto).a78</path>
@@ -9947,6 +8214,7 @@ One difference in this game that sets it apart from others of the same type is t
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231103T000151" />
+		<boxback>./images/Plutos (USA) (Proto)-boxback.png</boxback>
 	</game>
 	<game id="38041">
 		<path>./No-Intro/unheadered/Pole Position II (Europe).a78</path>
@@ -9991,6 +8259,7 @@ One difference in this game that sets it apart from others of the same type is t
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231103T000154" />
+		<boxback>./images/Pole Position II (USA) (Beta)-boxback.png</boxback>
 	</game>
 	<game id="38041">
 		<path>./No-Intro/unheadered/Pole Position II (USA).a78</path>
@@ -10013,6 +8282,7 @@ One difference in this game that sets it apart from others of the same type is t
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231103T000156" />
+		<boxback>./images/Pole Position II (USA)-boxback.png</boxback>
 	</game>
 	<game id="38042">
 		<path>./No-Intro/unheadered/Rampage (USA).a78</path>
@@ -10038,6 +8308,7 @@ Smashing at the edges of the buildings for long enough will make them collapse. 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231103T000157" />
+		<boxback>./images/Rampage (USA)-boxback.png</boxback>
 	</game>
 	<game id="44469">
 		<path>./No-Intro/unheadered/Rampart (USA) (Proto).a78</path>
@@ -10059,6 +8330,7 @@ Internal Atari memos from 1993 mention that the game is almost finalized, so a m
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231103T000158" />
+		<boxback>./images/Rampart (USA) (Proto)-boxback.png</boxback>
 	</game>
 	<game id="38043">
 		<path>./No-Intro/unheadered/RealSports Baseball (USA).a78</path>
@@ -10080,6 +8352,7 @@ Internal Atari memos from 1993 mention that the game is almost finalized, so a m
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231103T000200" />
+		<boxback>./images/RealSports Baseball (USA)-boxback.png</boxback>
 	</game>
 	<game id="44470">
 		<path>./No-Intro/unheadered/Rescue on Fractalus (USA) (Proto).a78</path>
@@ -10097,6 +8370,7 @@ Internal Atari memos from 1993 mention that the game is almost finalized, so a m
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231103T000202" />
+		<boxback>./images/Rescue on Fractalus (USA) (Proto)-boxback.png</boxback>
 	</game>
 	<game id="360232">
 		<path>./No-Intro/unheadered/Rikki &amp; Vikki (World) (Aftermarket) (Unl).a78</path>
@@ -10112,6 +8386,7 @@ Internal Atari memos from 1993 mention that the game is almost finalized, so a m
 		<lang>en</lang>
 		<region>wr</region>
 		<scrap name="ScreenScraper" date="20231103T000209" />
+		<boxback>./images/Rikki &amp; Vikki (World) (Aftermarket) (Unl)-boxback.png</boxback>
 	</game>
 	<game id="38044">
 		<path>./No-Intro/unheadered/Robotron - 2084 (USA).a78</path>
@@ -10135,6 +8410,7 @@ You are a mutant human, who by some freak of nature has the ability to shoot ene
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231103T000210" />
+		<boxback>./images/Robotron - 2084 (USA)-boxback.png</boxback>
 	</game>
 	<game id="38046">
 		<path>./No-Intro/unheadered/Scrapyard Dog (Europe).a78</path>
@@ -10177,6 +8453,7 @@ You are a mutant human, who by some freak of nature has the ability to shoot ene
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231103T000213" />
+		<boxback>./images/Scrapyard Dog (USA)-boxback.png</boxback>
 	</game>
 	<game id="38047">
 		<path>./No-Intro/unheadered/Sentinel (Europe).a78</path>
@@ -10219,6 +8496,7 @@ You are a mutant human, who by some freak of nature has the ability to shoot ene
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231103T000216" />
+		<boxback>./images/Sentinel (USA) (Proto)-boxback.png</boxback>
 	</game>
 	<game id="44471">
 		<path>./No-Intro/unheadered/Sirius (USA) (Proto).a78</path>
@@ -10239,6 +8517,7 @@ Sirius is a single player game only. The difficulty level (easy and hard) can be
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231103T000218" />
+		<boxback>./images/Sirius (USA) (Proto)-boxback.png</boxback>
 	</game>
 	<game id="38049">
 		<path>./No-Intro/unheadered/Summer Games (USA).a78</path>
@@ -10271,6 +8550,7 @@ Sirius is a single player game only. The difficulty level (easy and hard) can be
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231103T000219" />
+		<boxback>./images/Summer Games (USA)-boxback.png</boxback>
 	</game>
 	<game id="38050">
 		<path>./No-Intro/unheadered/Super Huey UH-IX (Europe).a78</path>
@@ -10313,6 +8593,7 @@ Sirius is a single player game only. The difficulty level (easy and hard) can be
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231103T000223" />
+		<boxback>./images/Super Huey UH-IX (USA)-boxback.png</boxback>
 	</game>
 	<game id="38051">
 		<path>./No-Intro/unheadered/Super Skateboardin' (Europe).a78</path>
@@ -10357,6 +8638,7 @@ Championship. Super Skateboardin' is a straightforward game from the designer of
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231103T000226" />
+		<boxback>./images/Super Skateboardin' (USA)-boxback.png</boxback>
 	</game>
 	<game id="38052">
 		<path>./No-Intro/unheadered/Tank Command (USA).a78</path>
@@ -10378,6 +8660,7 @@ Championship. Super Skateboardin' is a straightforward game from the designer of
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231103T000227" />
+		<boxback>./images/Tank Command (USA)-boxback.png</boxback>
 	</game>
 	<game id="38053">
 		<path>./No-Intro/unheadered/Title Match Pro Wrestling (Europe).a78</path>
@@ -10420,6 +8703,7 @@ Championship. Super Skateboardin' is a straightforward game from the designer of
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231103T000230" />
+		<boxback>./images/Title Match Pro Wrestling (USA)-boxback.png</boxback>
 	</game>
 	<game id="38009">
 		<path>./No-Intro/unheadered/Tomcat - The F-14 Fighter Simulator (Europe).a78</path>
@@ -10486,6 +8770,7 @@ After each mission you will receive a Mission Rating which is based on your flyi
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231103T000233" />
+		<boxback>./images/Tomcat - The F-14 Fighter Simulator (USA)-boxback.png</boxback>
 	</game>
 	<game id="38054">
 		<path>./No-Intro/unheadered/Touchdown Football (USA).a78</path>
@@ -10506,6 +8791,7 @@ After each mission you will receive a Mission Rating which is based on your flyi
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231103T000234" />
+		<boxback>./images/Touchdown Football (USA)-boxback.png</boxback>
 	</game>
 	<game id="38055">
 		<path>./No-Intro/unheadered/Tower Toppler (Europe).a78</path>
@@ -10562,6 +8848,7 @@ Towers are linked together via a voyage through the sea in your trusty MK.7 subm
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231103T000237" />
+		<boxback>./images/Tower Toppler (USA)-boxback.png</boxback>
 	</game>
 	<game id="38056">
 		<path>./No-Intro/unheadered/Water Ski (USA).a78</path>
@@ -10583,6 +8870,7 @@ Towers are linked together via a voyage through the sea in your trusty MK.7 subm
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231103T000239" />
+		<boxback>./images/Water Ski (USA)-boxback.png</boxback>
 	</game>
 	<game id="38057">
 		<path>./No-Intro/unheadered/Winter Games (USA).a78</path>
@@ -10605,6 +8893,7 @@ Towers are linked together via a voyage through the sea in your trusty MK.7 subm
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231103T000241" />
+		<boxback>./images/Winter Games (USA)-boxback.png</boxback>
 	</game>
 	<game id="38058">
 		<path>./No-Intro/unheadered/Xenophobe (Europe).a78</path>
@@ -10655,6 +8944,7 @@ Xenophobe was originally an arcade coin-op by Bally/Midway, released in 1987.  G
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231103T000244" />
+		<boxback>./images/Xenophobe (USA)-boxback.png</boxback>
 	</game>
 	<game id="38059">
 		<path>./No-Intro/unheadered/Xevious (Europe).a78</path>
@@ -10703,6 +8993,7 @@ Xevious is a vertically scrolling shooter based on the 1982 coin-op of the same 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231103T000247" />
+		<boxback>./images/Xevious (USA) (Beta)-boxback.png</boxback>
 	</game>
 	<game id="38059">
 		<path>./No-Intro/unheadered/Xevious (USA).a78</path>
@@ -10727,6 +9018,7 @@ Xevious is a vertically scrolling shooter based on the 1982 coin-op of the same 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231103T000248" />
+		<boxback>./images/Xevious (USA)-boxback.png</boxback>
 	</game>
 	<game id="44464">
 		<path>./No-Intro/unheadered/[BIOS] Atari 7800 (Europe).a78</path>

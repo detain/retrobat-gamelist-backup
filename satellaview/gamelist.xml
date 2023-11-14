@@ -1,14 +1,5 @@
 <?xml version="1.0"?>
 <gameList>
-	<game>
-		<path>./No-Intro/BS Supercooked! (World) (Aftermarket) (Homebrew).bs</path>
-		<name>BS Supercooked! (World) (Aftermarket) (Homebrew)</name>
-		<crc32>2E3EACB8</crc32>
-		<md5>e686edd361f0daa288fd116ab90603ff</md5>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ScreenScraper" date="20230218T005816" />
-	</game>
 	<game id="38564">
 		<path>./No-Intro/3-ji no Wide Shou - 5 Gatsugou (Japan) (Magazine).bs</path>
 		<name>3 Ji No Wide Shou</name>

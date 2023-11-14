@@ -23,17 +23,6 @@
 		<scrap name="ScreenScraper" date="20230228T211852" />
 	</game>
 	<game>
-		<path>./No-Intro/Flash Masta Firmware (USA) (2016-05-13).wsc</path>
-		<name>Flash Masta Firmware</name>
-		<rating>0</rating>
-		<players>0</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<crc32>AABCE377</crc32>
-		<md5>13bf6cd03774fb7ddb70d62813aa89b9</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20230228T211854" />
-	</game>
-	<game>
 		<path>./No-Intro/Flash Masta Firmware (USA) (2016-08-29) (Unl).wsc</path>
 		<name>Flash Masta Firmware</name>
 		<rating>0</rating>

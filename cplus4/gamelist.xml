@@ -1,18 +1,5 @@
 <?xml version="1.0"?>
 <gameList>
-	<game id="114288">
-		<path>./No-Intro/LOGO (USA) (Program).d64</path>
-		<name>Logo</name>
-		<image>./images/LOGO (USA) (Program)-image.png</image>
-		<marquee>./images/LOGO (USA) (Program)-marquee.png</marquee>
-		<thumbnail>./images/LOGO (USA) (Program)-thumb.png</thumbnail>
-		<releasedate>19900101T000000</releasedate>
-		<publisher>Starbyte Software</publisher>
-		<md5>7c1922486fae09237527cc07a89039b0</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20231102T001048" />
-	</game>
 	<game>
 		<path>./TOSEC/Educational/[PRG]/Add and Subtract (1984)(CBM)(US)/Add and Subtract (1984)(CBM)(US).prg</path>
 		<name>Add and Subtract (1984)(CBM)(US)</name>

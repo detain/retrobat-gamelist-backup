@@ -561,160 +561,6 @@ For ages 3-7.</desc>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230227T142357" />
 	</game>
-	<game id="423207">
-		<path>./No-Intro/Amoeba Jump (World) (NTSC) (Aftermarket) (Homebrew)/amoeba_jump_NTSC.bin</path>
-		<name>Amoeba jump</name>
-		<desc>Amoeba Jump is a vertical jumping game where your objective is to guide the amoeba up a never-ending series of platforms without falling. The higher you get, the higher your score will be.</desc>
-		<rating>0</rating>
-		<developer>Dion Olsthoorn</developer>
-		<publisher>Dion Olsthoorn</publisher>
-		<players>1-2</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<crc32>BD556B76</crc32>
-		<md5>ebbbdf4a936732eba7c16523507b1111</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20230227T142359" />
-	</game>
-	<game id="423207">
-		<path>./No-Intro/Amoeba Jump (World) (PAL 50Hz) (Aftermarket) (Homebrew)/amoeba_jump_PAL50.bin</path>
-		<name>Amoeba jump</name>
-		<desc>Amoeba Jump is a vertical jumping game where your objective is to guide the amoeba up a never-ending series of platforms without falling. The higher you get, the higher your score will be.</desc>
-		<rating>0</rating>
-		<developer>Dion Olsthoorn</developer>
-		<publisher>Dion Olsthoorn</publisher>
-		<players>1-2</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<crc32>0366AD7C</crc32>
-		<md5>ccdc570cd66b12d97755caa88a3667ea</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20230227T142401" />
-	</game>
-	<game id="423207">
-		<path>./No-Intro/Amoeba Jump (World) (PAL 60Hz) (Aftermarket) (Homebrew)/amoeba_jump_PAL60.bin</path>
-		<name>Amoeba jump</name>
-		<desc>Amoeba Jump is a vertical jumping game where your objective is to guide the amoeba up a never-ending series of platforms without falling. The higher you get, the higher your score will be.</desc>
-		<rating>0</rating>
-		<developer>Dion Olsthoorn</developer>
-		<publisher>Dion Olsthoorn</publisher>
-		<players>1-2</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<crc32>FA04AE89</crc32>
-		<md5>ca0035430dad7dd4f9391f232091d216</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20230227T142403" />
-	</game>
-	<game id="423207">
-		<path>./No-Intro/Amoeba Jump (World) (Retron 77 Version) (Aftermarket) (Homebrew)/Amoeba Jump - R77.bin</path>
-		<name>Amoeba jump</name>
-		<desc>Amoeba Jump is a vertical jumping game where your objective is to guide the amoeba up a never-ending series of platforms without falling. The higher you get, the higher your score will be.</desc>
-		<rating>0</rating>
-		<developer>Dion Olsthoorn</developer>
-		<publisher>Dion Olsthoorn</publisher>
-		<players>1-2</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<crc32>4E7B271C</crc32>
-		<md5>7761418d46af069b8cd80c29fe6cd814</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20230227T142405" />
-	</game>
-	<game id="423207">
-		<path>./No-Intro/Amoeba Jump (World) (v0.1) (Aftermarket) (Homebrew)/Amoeba Jump v0.1.bin</path>
-		<name>Amoeba jump</name>
-		<desc>Amoeba Jump is a vertical jumping game where your objective is to guide the amoeba up a never-ending series of platforms without falling. The higher you get, the higher your score will be.</desc>
-		<rating>0</rating>
-		<developer>Dion Olsthoorn</developer>
-		<publisher>Dion Olsthoorn</publisher>
-		<players>1-2</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<crc32>4FFBB09B</crc32>
-		<md5>2649013b983ce353473168d2a0ce2bd3</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20230227T142407" />
-	</game>
-	<game id="423207">
-		<path>./No-Intro/Amoeba Jump (World) (v1.1) (NTSC) (Aftermarket) (Homebrew)/Amoeba Jump v1.1 NTSC.bin</path>
-		<name>Amoeba jump</name>
-		<desc>Amoeba Jump is a vertical jumping game where your objective is to guide the amoeba up a never-ending series of platforms without falling. The higher you get, the higher your score will be.</desc>
-		<rating>0</rating>
-		<developer>Dion Olsthoorn</developer>
-		<publisher>Dion Olsthoorn</publisher>
-		<players>1-2</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<crc32>515FA592</crc32>
-		<md5>3b395ae0cc96eddea898ff2da4332481</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20230227T142409" />
-	</game>
-	<game id="423207">
-		<path>./No-Intro/Amoeba Jump (World) (v1.1) (PAL) (Aftermarket) (Homebrew)/Amoeba Jump v1.1 PAL.bin</path>
-		<name>Amoeba jump</name>
-		<desc>Amoeba Jump is a vertical jumping game where your objective is to guide the amoeba up a never-ending series of platforms without falling. The higher you get, the higher your score will be.</desc>
-		<rating>0</rating>
-		<developer>Dion Olsthoorn</developer>
-		<publisher>Dion Olsthoorn</publisher>
-		<players>1-2</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<crc32>E592D6C8</crc32>
-		<md5>4d39a281703687b285a1f132690ef498</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20230227T142411" />
-	</game>
-	<game id="423207">
-		<path>./No-Intro/Amoeba Jump (World) (v1.2) (NTSC) (Aftermarket) (Homebrew)/Amoeba Jump v1.2 NTSC.bin</path>
-		<name>Amoeba jump</name>
-		<desc>Amoeba Jump is a vertical jumping game where your objective is to guide the amoeba up a never-ending series of platforms without falling. The higher you get, the higher your score will be.</desc>
-		<rating>0</rating>
-		<developer>Dion Olsthoorn</developer>
-		<publisher>Dion Olsthoorn</publisher>
-		<players>1-2</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<crc32>A5617694</crc32>
-		<md5>03e976a52dbfb5ee03d92fd6c0e9a405</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20230227T142413" />
-	</game>
-	<game id="423207">
-		<path>./No-Intro/Amoeba Jump (World) (v1.2) (PAL) (Aftermarket) (Homebrew)/Amoeba Jump v1.2 PAL.bin</path>
-		<name>Amoeba jump</name>
-		<desc>Amoeba Jump is a vertical jumping game where your objective is to guide the amoeba up a never-ending series of platforms without falling. The higher you get, the higher your score will be.</desc>
-		<rating>0</rating>
-		<developer>Dion Olsthoorn</developer>
-		<publisher>Dion Olsthoorn</publisher>
-		<players>1-2</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<crc32>3644C33A</crc32>
-		<md5>04bff96f7e878aaf4d65dce325c8645a</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20230227T142415" />
-	</game>
-	<game id="423207">
-		<path>./No-Intro/Amoeba Jump (World) (v1.3) (NTSC) (Aftermarket) (Homebrew)/Amoeba Jump v1.3 NTSC.bin</path>
-		<name>Amoeba jump</name>
-		<desc>Amoeba Jump is a vertical jumping game where your objective is to guide the amoeba up a never-ending series of platforms without falling. The higher you get, the higher your score will be.</desc>
-		<rating>0</rating>
-		<developer>Dion Olsthoorn</developer>
-		<publisher>Dion Olsthoorn</publisher>
-		<players>1-2</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<crc32>E4349CEF</crc32>
-		<md5>539f3c42c4e15f450ed93cb96ce93af5</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20230227T142417" />
-	</game>
-	<game id="423207">
-		<path>./No-Intro/Amoeba Jump (World) (v1.3) (PAL) (Aftermarket) (Homebrew)/Amoeba Jump v1.3 PAL.bin</path>
-		<name>Amoeba jump</name>
-		<desc>Amoeba Jump is a vertical jumping game where your objective is to guide the amoeba up a never-ending series of platforms without falling. The higher you get, the higher your score will be.</desc>
-		<rating>0</rating>
-		<developer>Dion Olsthoorn</developer>
-		<publisher>Dion Olsthoorn</publisher>
-		<players>1-2</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<crc32>77112941</crc32>
-		<md5>0c72cc3a6658c1abd4b735ef55fa72e4</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20230227T142419" />
-	</game>
 	<game id="87699">
 		<path>./No-Intro/AndroMan on the Moon (USA) (Proto).a26</path>
 		<name>Androman On The Moon</name>
@@ -743,76 +589,6 @@ Androman on the Moon is an interesting game that shows how the 2600 could be exp
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230227T142421" />
-	</game>
-	<game>
-		<path>./No-Intro/Angry Video Game Nerd K.O. Boxing - NTSC (World) (Aftermarket) (Homebrew).bin</path>
-		<name>Angry Video Game Nerd K.O. Boxing - NTSC (World) (Aftermarket) (Homebrew)</name>
-		<rating>0</rating>
-		<releasedate>20230222T000000</releasedate>
-		<players>0</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<crc32>53F02C00</crc32>
-		<md5>6a7e6fc102bf7459f89419c548a79e2c</md5>
-		<scrap name="ScreenScraper" date="20230227T142423" />
-	</game>
-	<game id="106804">
-		<path>./No-Intro/Angry Video Game Nerd K.O. Boxing - PAL (World) (Aftermarket) (Homebrew).bin</path>
-		<name>Angry Video Game Nerd K.o. Boxing</name>
-		<desc>If case you are not familiar with the show, the Angry Video Game Nerd is an Internet show based on reviewing old video games. The "nerd" is a retro gamer like us and, like us, has been aggravated playing terrible games. Often, in the past, we would buy a game (or most likely get one as a gift) only to find out it was TERRIBLE!</desc>
-		<image>./images/Angry Video Game Nerd K.O. Boxing - PAL (World) (Aftermarket) (Homebrew)-image.png</image>
-		<video>./videos/Angry Video Game Nerd K.O. Boxing - PAL (World) (Aftermarket) (Homebrew)-video.mp4</video>
-		<marquee>./images/Angry Video Game Nerd K.O. Boxing - PAL (World) (Aftermarket) (Homebrew)-marquee.png</marquee>
-		<thumbnail>./images/Angry Video Game Nerd K.O. Boxing - PAL (World) (Aftermarket) (Homebrew)-thumb.png</thumbnail>
-		<bezel>./images/Angry Video Game Nerd K.O. Boxing - PAL (World) (Aftermarket) (Homebrew)-bezel.png</bezel>
-		<boxback>./images/Angry Video Game Nerd K.O. Boxing - PAL (World) (Aftermarket) (Homebrew)-boxback.png</boxback>
-		<rating>0</rating>
-		<releasedate>20090817T000000</releasedate>
-		<developer>Devin Cook</developer>
-		<genre>Sports / Boxing</genre>
-		<lastplayed>20230222T000000</lastplayed>
-		<crc32>9A8505B6</crc32>
-		<md5>27279303df0884b2423c2ed1fb7ddc92</md5>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ScreenScraper" date="20230227T142440" />
-	</game>
-	<game id="200014">
-		<path>./No-Intro/Anguna 2600 (World) (Aftermarket) (Homebrew).bin</path>
-		<name>Anguna 2600</name>
-		<desc>You have been captured by monsters.
-Again? Yes, again.
-How does this keep happening to you?
-This time, you were on a mission to
-kill the evil Goblin King,
-the latest monster to terrorize the land.
-But as usual, somehow you got
-yourself caught by his henchmen.
-Luckily, the monsters aren't any smarter
-this time around.
-If they were any smarter, they would
-have taken your sword away.
-Now you must battle your way
-out of the prison dungeon,
-navigate your way through the land,
-and find and defeat the Goblin King.
-Good Luck!</desc>
-		<image>./images/Anguna 2600 (World) (Aftermarket) (Homebrew)-image.png</image>
-		<video>./videos/Anguna 2600 (World) (Aftermarket) (Homebrew)-video.mp4</video>
-		<marquee>./images/Anguna 2600 (World) (Aftermarket) (Homebrew)-marquee.png</marquee>
-		<thumbnail>./images/Anguna 2600 (World) (Aftermarket) (Homebrew)-thumb.png</thumbnail>
-		<boxback>./images/Anguna 2600 (World) (Aftermarket) (Homebrew)-boxback.png</boxback>
-		<rating>0.8</rating>
-		<releasedate>20150101T000000</releasedate>
-		<developer>Nathan Tolbert</developer>
-		<publisher>Bite The Chili</publisher>
-		<genre>Adventure</genre>
-		<players>1</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<crc32>D18E91A1</crc32>
-		<md5>f69a2458d29efaff1b4a76adb923e984</md5>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ScreenScraper" date="20230227T142454" />
 	</game>
 	<game id="51182">
 		<path>./No-Intro/Aquaventure (USA) (Proto) (1983-08-12).a26</path>
@@ -6054,46 +5830,6 @@ The letters on the top row are shuffled and then you use them to make words on t
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230227T143242" />
 	</game>
-	<game id="59451">
-		<path>./No-Intro/Go Fish! (World) (NTSC) (Aftermarket) (Homebrew)/GoFish_NTSC.bin</path>
-		<name>Go Fish</name>
-		<desc>Go Fish! is inspired by the game Shark! Shark!. You are a small fish in a big ocean and you must eat smaller fish to grow. But be careful, for the bigger you are, the bigger the some other fish will be and you will need to contend with octopus, electric eels and other nasties.</desc>
-		<image>./images/GoFish_NTSC-image.png</image>
-		<video>./videos/GoFish_NTSC-video.mp4</video>
-		<marquee>./images/GoFish_NTSC-marquee.png</marquee>
-		<thumbnail>./images/GoFish_NTSC-thumb.png</thumbnail>
-		<bezel>./images/GoFish_NTSC-bezel.png</bezel>
-		<boxback>./images/GoFish_NTSC-boxback.png</boxback>
-		<rating>0</rating>
-		<releasedate>20050605T000000</releasedate>
-		<publisher>AtariAge</publisher>
-		<genre>Action</genre>
-		<lastplayed>20230222T000000</lastplayed>
-		<crc32>B99FC2BF</crc32>
-		<md5>787a2faebadc670a887a0e2483b8f034</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20230227T143300" />
-	</game>
-	<game id="59451">
-		<path>./No-Intro/Go Fish! (World) (PAL) (Aftermarket) (Homebrew)/GoFish_PAL.bin</path>
-		<name>Go Fish</name>
-		<desc>Go Fish! is inspired by the game Shark! Shark!. You are a small fish in a big ocean and you must eat smaller fish to grow. But be careful, for the bigger you are, the bigger the some other fish will be and you will need to contend with octopus, electric eels and other nasties.</desc>
-		<image>./images/GoFish_PAL-image.png</image>
-		<video>./videos/GoFish_PAL-video.mp4</video>
-		<marquee>./images/GoFish_PAL-marquee.png</marquee>
-		<thumbnail>./images/GoFish_PAL-thumb.png</thumbnail>
-		<bezel>./images/GoFish_PAL-bezel.png</bezel>
-		<boxback>./images/GoFish_PAL-boxback.png</boxback>
-		<rating>0</rating>
-		<releasedate>20050605T000000</releasedate>
-		<publisher>AtariAge</publisher>
-		<genre>Action</genre>
-		<lastplayed>20230222T000000</lastplayed>
-		<crc32>9A08FC7C</crc32>
-		<md5>1b64dbaba6bbc1d428e59f088e8018e7</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20230227T143317" />
-	</game>
 	<game id="369548">
 		<path>./No-Intro/Going-Up (USA) (Proto).a26</path>
 		<name>Going-Up</name>
@@ -6452,34 +6188,6 @@ Players will advance to the next level by either stabbing Michael Myers twice, o
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230227T143347" />
-	</game>
-	<game id="51234">
-		<path>./No-Intro/Halo 2600 (World) (Aftermarket) (Homebrew)/Halo2600_Final.bin</path>
-		<name>Halo 2600</name>
-		<desc>The year is 2552. Planet Earth still exists, but overpopulation has forced many of her former residents to colonize other worlds. After contact with an outer colony was lost, a battlegroup was sent to investigate and was almost completely destroyed; only one badly damaged ship returned to tell of a seemingly unstoppable alien warship that had effortlessly annihilated their forces.
-
-This was humankind's first encounter with a group of aliens they eventually came to know as the Covenant, a collective of alien races bent on wiping out humanity. A desperate plan is set in motion: board a Covenant vessel and learn the location of the Covenant home world. But before the mission begins, Covenant forces strike and annihilate the attack force.
-
-The Covenant are now on Earth's doorstep. One ship escapes and makes a blind jump into deep space, hoping to lead the Covenant away from Earth. The ship crashes on Halo--an artificial ring world that is actually a weapon capable of destroying all life in the galaxy should it fall into the hands of the Covenant.
-
-You are the Master Chief--all that remains of a classified military project to build a series of genetically enhanced super- soldiers. You are humanity's last and best hope against the Covenant--but you're woefully out-matched, and survival is not guaranteed. Can you battle your way through the massive world that is Halo, defeat the Covenant, and save humanity?</desc>
-		<image>./images/Halo2600_Final-image.png</image>
-		<video>./videos/Halo2600_Final-video.mp4</video>
-		<marquee>./images/Halo2600_Final-marquee.png</marquee>
-		<thumbnail>./images/Halo2600_Final-thumb.png</thumbnail>
-		<bezel>./images/Halo2600_Final-bezel.png</bezel>
-		<boxback>./images/Halo2600_Final-boxback.png</boxback>
-		<rating>0</rating>
-		<releasedate>20100731T000000</releasedate>
-		<developer>Ed Fries</developer>
-		<publisher>CGE Services Corporation</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>1</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<crc32>3978A823</crc32>
-		<md5>4afa7f377eae1cafb4265c68f73f2718</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20230227T143402" />
 	</game>
 	<game id="14113">
 		<path>./No-Intro/Hangman ~ Spelling (USA).a26</path>
@@ -9506,31 +9214,6 @@ The number of hurdles also varies. The first two have 10 hurdles, the next two, 
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230227T143825" />
 	</game>
-	<game id="14081">
-		<path>./No-Intro/Oystron (World) (Aftermarket) (Homebrew).bin</path>
-		<name>Oystron</name>
-		<desc>"In the Irata solar system lies the planet Stella. It is surrounded by an energy belt. In this belt there live space oysters. They make good food, so there are other outer space creatures living among them, that eat the oysters..." 
-
-The space oysters are headed your way. You must shoot them to reveal pearls. Collect the pearls and deposit them in the Pearls Zone. Defend you pearls from being stolen or destroyed by attacking enemies. Near the end of each level, you must destroy the Oystron by dropping bombs. There is also a warp phase where you must travel at high speed between space oysters and enemies.</desc>
-		<image>./images/Oystron (World) (Aftermarket) (Homebrew)-image.png</image>
-		<video>./videos/Oystron (World) (Aftermarket) (Homebrew)-video.mp4</video>
-		<marquee>./images/Oystron (World) (Aftermarket) (Homebrew)-marquee.png</marquee>
-		<thumbnail>./images/Oystron (World) (Aftermarket) (Homebrew)-thumb.png</thumbnail>
-		<bezel>./images/Oystron (World) (Aftermarket) (Homebrew)-bezel.png</bezel>
-		<boxback>./images/Oystron (World) (Aftermarket) (Homebrew)-boxback.png</boxback>
-		<rating>0.7</rating>
-		<releasedate>19970101T000000</releasedate>
-		<developer>XYPE</developer>
-		<publisher>Hozer Video Games</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<crc32>8155DCCF</crc32>
-		<md5>91f0a708eeb93c133e9672ad2c8e0429</md5>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ScreenScraper" date="20230227T143840" />
-	</game>
 	<game id="13984">
 		<path>./No-Intro/Pac-Man (USA).a26</path>
 		<name>Pac-Man</name>
@@ -11249,17 +10932,6 @@ The Amstrad CPC, Commodore 64 and ZX Spectrum versions are one player only. The 
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230227T144118" />
 	</game>
-	<game id="423204">
-		<path>./No-Intro/Robo-Ninja Climb (World) (Aftermarket) (Homebrew).bin</path>
-		<name>Robo-Ninja Climb</name>
-		<rating>0</rating>
-		<lastplayed>20230222T000000</lastplayed>
-		<crc32>21BCC276</crc32>
-		<md5>2372dd6d58b8bb34882e171ce1143d3c</md5>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ScreenScraper" date="20230227T144121" />
-	</game>
 	<game id="37830">
 		<path>./No-Intro/Robot Tank (USA).a26</path>
 		<name>Robot Tank</name>
@@ -11457,35 +11129,6 @@ Interestingly it appears that S.A.C. Alert was designed with the Joyboard contro
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230227T144138" />
-	</game>
-	<game id="37833">
-		<path>./No-Intro/Saboteur (USA) (Proto).a26</path>
-		<name>Saboteur</name>
-		<desc>You are Hotot, a cybernetic life form from a serene planet in a distant galaxy. Unfortunately, even in a galaxy far far away not everything is as peaceful as it first seems, for Hotot has discovered an alien missile base hidden on his planet. Manned by strange blue aliens, these evil intruders are using your planet as a launching site for their deadly warhead which is posed to destroy the galaxy's power source. With the help of the birdlike Gorfons, you must destroy the warhead, and prevent the destruction of the galaxy! Good luck Hotot. You are the Saboteur.
-
-On the first screen, you are trying to prevent the Qotile construction robots and Yar slaves from completing a missile. You will be helped by the Gorfrons. While the Qotile construction robots and Yar slaves will build up the missile, the Gorfrons will steal pieces to lower it. Beware of the Master robot on the top catwalk as it will try to shoot you and the Gorfrons to prevent your interference. After you finish the Rocket Construction Site, it is off to Warhead Assembly.
-
-In Warhead Assembly, you must destroy the warhead parts on the conveyor belt. There is just one little problem; the conveyor belt is protected by a field. The good news is that the Master robot's energy is on the same frequency so what you do is shoot the Master robot and the shot will then head for the conveyor belt. Of course, the Master robot isn't just standing there, letting you bounce shots off him. He has released a security drone that bounces around the screen trying to hit you.Also, the Master robot will hurt you if you touch him. If you destroy the parts before time runs out, you will advance to a harder round. If not, you must destroy the warhead one-on-one.
-
-In the Warhead Showdown, you must destroy the warhead with a shot. Of course, the warhead isn't gonna stand for that as it has an impressive defense matrix that will try to hold you off. If you take to log to destroy the warhead, it will escape into space. Whether you destroy it or not, you will then return to the Rocket Construction Site at a harder level.</desc>
-		<image>./media/screenshots/Saboteur (USA) (Proto).png</image>
-		<video>./media/videos/Saboteur (USA) (Proto).mp4</video>
-		<marquee>./media/marquees/Saboteur (USA) (Proto).png</marquee>
-		<thumbnail>./images/Saboteur (USA) (Proto)-thumb.png</thumbnail>
-		<bezel>./images/Saboteur (USA) (Proto)-bezel.png</bezel>
-		<boxback>./images/Saboteur (USA) (Proto)-boxback.png</boxback>
-		<rating>0</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>AtariAge</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<crc32>7EFE0286</crc32>
-		<md5>a4ecb54f877cd94515527b11e698608c</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T144140" />
 	</game>
 	<game id="87855">
 		<path>./No-Intro/Save Mary! (USA) (Proto).a26</path>
@@ -11807,39 +11450,6 @@ Dragon=750 points</desc>
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230227T144221" />
-	</game>
-	<game id="423201">
-		<path>./No-Intro/Sheep It Up! - NTSC (World) (Aftermarket) (Homebrew).bin</path>
-		<name>Sheep It Up!</name>
-		<rating>0</rating>
-		<lastplayed>20230222T000000</lastplayed>
-		<crc32>5BE003AD</crc32>
-		<md5>8debebc61916692e2d66f2edf4bed29c</md5>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ScreenScraper" date="20230227T144224" />
-	</game>
-	<game id="423201">
-		<path>./No-Intro/Sheep It Up! - PAL (World) (Aftermarket) (Homebrew).bin</path>
-		<name>Sheep It Up!</name>
-		<rating>0</rating>
-		<lastplayed>20230222T000000</lastplayed>
-		<crc32>13DE1052</crc32>
-		<md5>1f6267db16ffeb90ba48890d5f84ac9e</md5>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ScreenScraper" date="20230227T144226" />
-	</game>
-	<game id="423201">
-		<path>./No-Intro/Sheep It Up! - SECAM (World) (Aftermarket) (Homebrew).bin</path>
-		<name>Sheep It Up!</name>
-		<rating>0</rating>
-		<lastplayed>20230222T000000</lastplayed>
-		<crc32>F915AD29</crc32>
-		<md5>da3f54e89b54b0a2391d0513ab8c9861</md5>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ScreenScraper" date="20230227T144227" />
 	</game>
 	<game id="37838">
 		<path>./No-Intro/Shootin' Gallery (USA).a26</path>
@@ -14020,33 +13630,6 @@ The other two games add a second paddle. In 'Double Breakout' you have two balls
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230227T144551" />
 	</game>
-	<game id="14055">
-		<path>./No-Intro/Super Breakout (USA, Europe) (Atari Anthology).a26</path>
-		<name>Super Breakout</name>
-		<desc>Super Breakout features similar gameplay to the original, but with several new game variations. Your goal is to earn as many points as possible by destroying the bricks at the top of the playfield. To do this, you need to use the paddle at the bottom of the screen to keep a bouncing ball within the playfield. There are four different game variations included. The first is 'Breakout', and plays the same as the original game. 
-
-This leaves three new gameplay concepts. In 'Progressive' the brick walls will slowly drop towards the bottom of the screen and the ball moves progressively faster and faster. When there's room, a new layer of bricks will appear at the top. 
-
-The other two games add a second paddle. In 'Double Breakout' you have two balls to keep in play and score with. In 'Cavity' there is a single ball in play when you start, but two additional balls trapped within the bricks. These are freed when their surrounding bricks are destroyed.</desc>
-		<image>./media/screenshots/Super Breakout (USA, Europe) (Atari Anthology).png</image>
-		<video>./media/videos/Super Breakout (USA, Europe) (Atari Anthology).mp4</video>
-		<marquee>./media/marquees/Super Breakout (USA, Europe) (Atari Anthology).png</marquee>
-		<thumbnail>./images/Super Breakout (USA, Europe) (Atari Anthology)-thumb.png</thumbnail>
-		<bezel>./images/Super Breakout (USA, Europe) (Atari Anthology)-bezel.png</bezel>
-		<boxback>./images/Super Breakout (USA, Europe) (Atari Anthology)-boxback.png</boxback>
-		<rating>0.65</rating>
-		<releasedate>19780101T000000</releasedate>
-		<developer>Turner, Nick / Shaw, Carol</developer>
-		<publisher>Atari</publisher>
-		<genre>Action / Breakout games</genre>
-		<players>1-2</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<crc32>171DBE92</crc32>
-		<md5>0ad9a358e361256b94f3fb4f2fa5a3b1</md5>
-		<lang>en</lang>
-		<region>eu</region>
-		<scrap name="ScreenScraper" date="20230227T144553" />
-	</game>
 	<game id="87927">
 		<path>./No-Intro/Super Challenge Baseball (USA).a26</path>
 		<name>Super Challenge Baseball</name>
@@ -14540,33 +14123,6 @@ The sets of numbers, for instance 8-4, were actually a combination of a page num
 		<lang>en</lang>
 		<region>eu</region>
 		<scrap name="ScreenScraper" date="20230227T144651" />
-	</game>
-	<game id="87824">
-		<path>./No-Intro/Tanks But no Tanks (USA).a26</path>
-		<name>Tanks But no Tanks</name>
-		<desc>In Phantom-Panzer, the player takes control of an assault vehicle in order to defend their "energy base" at the bottom of the screen from the attacking phantom tanks.
-
-The game consists of three phases: the first phase takes place in a city and looks like a maze. It offers relative protection with the building walls. The second phase has the enemy tanks crossing two bridges over a river, but there's practically no cover. In the third and final phase, it's an all-out battle with the phantom tanks aggressively charging in on the player's base and no obstacles to stop them.
-
-The player can only shoot one bullet at a time and has to destroy 20 tanks in each stage. Enemy bullets can be canceled by hitting them with one's own bullet. The player loses one life if they collide with one of the tanks or the enemy bullets. The game is over immediately, however, if an enemy tank or shell hits the player's energy base.</desc>
-		<image>./media/screenshots/Tanks But no Tanks (USA).png</image>
-		<video>./media/videos/Tanks But no Tanks (USA).mp4</video>
-		<marquee>./media/marquees/Tanks But no Tanks (USA).png</marquee>
-		<thumbnail>./images/Tanks But no Tanks (USA)-thumb.png</thumbnail>
-		<bezel>./images/Tanks But no Tanks (USA)-bezel.png</bezel>
-		<boxback>./images/Tanks But no Tanks (USA)-boxback.png</boxback>
-		<rating>0.7</rating>
-		<releasedate>19820506T000000</releasedate>
-		<developer>Bit Corp.</developer>
-		<publisher>Bit Corp.</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>1-2</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<crc32>4ADBB1F9</crc32>
-		<md5>fa6fe97a10efb9e74c0b5a816e6e1958</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T144655" />
 	</game>
 	<game id="37872">
 		<path>./No-Intro/Tapeworm (USA).a26</path>
@@ -15446,32 +15002,6 @@ You are a base in the center of the screen. You must push your joystick in the d
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230227T144821" />
 	</game>
-	<game id="87968">
-		<path>./No-Intro/Venetian Blinds Demo (USA).a26</path>
-		<name>Venetian Blinds</name>
-		<desc>As the name implies the Venetian Blinds demo isn't a game, but a demo that simulates a pair of Venetian blinds! The joystick can be used to raise and lower the blinds by pushing up or down. When the blinds are raised a nicely done sunset is visible out the window. 
-
-The story behind the Venetian Blind demo is rather interesting. As most people know, Activision was founded by several ex-Atari employees who had left due to Atari's policies on programmer recognition (or the lack thereof). One of these employees was Bob Whitehead, creator of the "Venetian Blinds" technique, which was first used in Atari's Video Chess to display eight objects in a row instead of the normal six. Even though Activision had never used the Venetian Blinds technique in any of their games, that didn't stop Atari from threatening to sue Activision for "stealing" the technique along with other various proprietary information. 
-
-Since Activision knew that they hadn't stolen anything from Atari, they decided to play a little joke on Atari. According to David Crane, when the Atari's lawyers questioned them about the "stolen" Venetian Blinds technique David showed them this demo and said "Is this what you guys are referring to?". Apparently Atari wasnâ€™t in a laughing mood, and they went through with the lawsuit. In the end Atari ended up losing the case and Activision went on to become the most successful of the 2600 third party companies. 
-
-Although Activision never made a game out of this demo it didn't go completely to waste. The sunset was later used in the background of Barnstorming.</desc>
-		<image>./media/screenshots/Venetian Blinds Demo (USA).png</image>
-		<video>./media/videos/Venetian Blinds Demo (USA).mp4</video>
-		<marquee>./media/marquees/Venetian Blinds Demo (USA).png</marquee>
-		<thumbnail>./images/Venetian Blinds Demo (USA)-thumb.png</thumbnail>
-		<boxback>./images/Venetian Blinds Demo (USA)-boxback.png</boxback>
-		<rating>0</rating>
-		<releasedate>19810101T000000</releasedate>
-		<publisher>Activision</publisher>
-		<genre>Demo</genre>
-		<lastplayed>20230222T000000</lastplayed>
-		<crc32>1F0D3562</crc32>
-		<md5>d08fccfbebaa531c4a4fa7359393a0a9</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230227T144823" />
-	</game>
 	<game id="14063">
 		<path>./No-Intro/Venture (USA).a26</path>
 		<name>Venture</name>
@@ -15780,66 +15310,6 @@ After 20 points, the level increases.</desc>
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230227T144844" />
-	</game>
-	<game id="423198">
-		<path>./No-Intro/Wall Jump Ninja (World) (2015-01-15) (NTSC) (Aftermarket) (Homebrew)/wall_jump_ninja_20150115_v1_0_NTSC.bin</path>
-		<name>Wall jump ninja</name>
-		<rating>0</rating>
-		<lastplayed>20230222T000000</lastplayed>
-		<crc32>353215E0</crc32>
-		<md5>3c56c0c5f6f97850ed0aa7bcc2a4e30e</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20230227T144846" />
-	</game>
-	<game id="423198">
-		<path>./No-Intro/Wall Jump Ninja (World) (2015-01-15) (PAL 60Hz) (Aftermarket) (Homebrew)/wall_jump_ninja_20150115_v1_0_PAL60.bin</path>
-		<name>Wall jump ninja</name>
-		<rating>0</rating>
-		<lastplayed>20230222T000000</lastplayed>
-		<crc32>B491C2B6</crc32>
-		<md5>2489359c38551a1d96cbaa4e52d8bb30</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20230227T144848" />
-	</game>
-	<game id="423198">
-		<path>./No-Intro/Wall Jump Ninja (World) (2015-01-15) (PAL) (Aftermarket) (Homebrew)/wall_jump_ninja_20150115_v1_0_PAL.bin</path>
-		<name>Wall jump ninja</name>
-		<rating>0</rating>
-		<lastplayed>20230222T000000</lastplayed>
-		<crc32>A6574F27</crc32>
-		<md5>195a8ddf9debcc1444a86aef82b9c26d</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20230227T144850" />
-	</game>
-	<game id="423198">
-		<path>./No-Intro/Wall Jump Ninja (World) (Aftermarket) (Homebrew)/wall_jump_ninja_20160508_v1_1_PAL60.bin</path>
-		<name>Wall jump ninja</name>
-		<rating>0</rating>
-		<lastplayed>20230222T000000</lastplayed>
-		<crc32>BB530A55</crc32>
-		<md5>eb56bef863bed75f203429e568c23d05</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20230227T144852" />
-	</game>
-	<game id="423198">
-		<path>./No-Intro/Wall Jump Ninja (World) (v1.1) (2016-05-08) (NTSC) (Aftermarket) (Homebrew)/wall_jump_ninja_20160508_v1_1_NTSC.bin</path>
-		<name>Wall jump ninja</name>
-		<rating>0</rating>
-		<lastplayed>20230222T000000</lastplayed>
-		<crc32>4F053653</crc32>
-		<md5>5da448a2e1a785d56bf4f04709678156</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20230227T144854" />
-	</game>
-	<game id="423198">
-		<path>./No-Intro/Wall Jump Ninja (World) (v1.1) (2016-05-08) (PAL) (Aftermarket) (Homebrew)/wall_jump_ninja_20160508_v1_1_PAL.bin</path>
-		<name>Wall jump ninja</name>
-		<rating>0</rating>
-		<lastplayed>20230222T000000</lastplayed>
-		<crc32>7C81E726</crc32>
-		<md5>9490206ba47a11332488240f3b91c477</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20230227T144856" />
 	</game>
 	<game id="14105">
 		<path>./No-Intro/Wall-Defender (USA).a26</path>
@@ -49180,6 +48650,7 @@ Also to contend with is a bird in the air that is dropping stones. If you are hi
 		<md5>787a2faebadc670a887a0e2483b8f034</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231103T023958" />
+		<boxback>./images/GoFish_NTSC-boxback.png</boxback>
 	</game>
 	<game id="59451">
 		<path>./No-Intro/GoFish_PAL.bin</path>
@@ -49197,6 +48668,7 @@ Also to contend with is a bird in the air that is dropping stones. If you are hi
 		<md5>1b64dbaba6bbc1d428e59f088e8018e7</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231103T024000" />
+		<boxback>./images/GoFish_PAL-boxback.png</boxback>
 	</game>
 	<game id="14014">
 		<path>./No-Intro/Great Escape (Europe).a26</path>
@@ -49247,6 +48719,7 @@ You are the Master Chief--all that remains of a classified military project to b
 		<md5>4afa7f377eae1cafb4265c68f73f2718</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231103T024009" />
+		<boxback>./images/Halo2600_Final-boxback.png</boxback>
 	</game>
 	<game id="14101">
 		<path>./No-Intro/Hell Driver (Europe).a26</path>
@@ -50396,6 +49869,7 @@ The player can only shoot one bullet at a time and has to destroy 20 tanks in ea
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231103T024654" />
+		<boxback>./images/Tanks but No Tanks (USA)-boxback.png</boxback>
 	</game>
 	<game id="51317">
 		<path>./No-Intro/Time Warp (Europe).a26</path>

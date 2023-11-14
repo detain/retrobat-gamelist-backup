@@ -116,30 +116,6 @@ The game was released for the Neo Geo Pocket and features monochrome graphics; h
 		<scrap name="HfsDB" date="20230127T140433" />
 		<scrap name="ArcadeDB" date="20221212T175954" />
 	</game>
-	<game id="47060">
-		<path>./No-Intro/Neo Geo Cup '98 (Japan, Europe) (En,Ja).ngp</path>
-		<name>NeoGeo Cup '98</name>
-		<desc>In the story mode you choose a team among the best in the world with the objective of winning the famous Neo Geo Cup. However, this is no easy task and winning the title will require long hours of intense matches. Each match will give you a certain number of points that can be used in the store, which adds a little RPG touch. Buying shorts, cleats, jerseys and many other items from a given selection will increase your team's abilities according to several criteria and make your players faster or more skilled in front of the goal.</desc>
-		<image>./media/screenshots/Neo Geo Cup '98 (Japan, Europe) (En,Ja).png</image>
-		<video>./media/videos/Neo Geo Cup '98 (Japan, Europe) (En,Ja).mp4</video>
-		<marquee>./media/marquees/Neo Geo Cup '98 (Japan, Europe) (En,Ja).png</marquee>
-		<thumbnail>./images/Neo Geo Cup '98 (Japan, Europe) (En,Ja)-thumb.png</thumbnail>
-		<manual>./manuals/Neo Geo Cup '98 (Japan, Europe) (En,Ja)-manual.pdf</manual>
-		<boxback>./images/Neo Geo Cup '98 (Japan, Europe) (En,Ja)-boxback.png</boxback>
-		<rating>0.6</rating>
-		<releasedate>19981028T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Sports / Soccer</genre>
-		<players>2</players>
-		<crc32>33ADD5BD</crc32>
-		<md5>30efe4f72d4678ffb97b885b1b7c3da1</md5>
-		<lang>jp,en</lang>
-		<region>jp</region>
-		<scrap name="ScreenScraper" date="20221227T003701" />
-		<scrap name="HfsDB" date="20230127T140433" />
-		<scrap name="ArcadeDB" date="20221212T175954" />
-	</game>
 	<game id="47066">
 		<path>./No-Intro/Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja).ngp</path>
 		<name>Pocket Tennis</name>
@@ -235,34 +211,6 @@ Tournament is only against computer. Human player can pick his/her character but
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20221227T003716" />
-		<scrap name="HfsDB" date="20230127T140633" />
-		<scrap name="ArcadeDB" date="20221212T175955" />
-	</game>
-	<game id="47065">
-		<path>./No-Intro/[BIOS] SNK Neo Geo Pocket (Japan) (En) (Beta).ngp</path>
-		<name>ZZZ(notgame):[bios] Snk Neo Geo Pocket</name>
-		<image>./media/screenshots/[BIOS] SNK Neo Geo Pocket (Japan) (En) (Beta).png</image>
-		<rating />
-		<hidden>true</hidden>
-		<crc32>836E47C6</crc32>
-		<md5>18a3a190b6b6f47f801fc044b26e1794</md5>
-		<lang>jp,en</lang>
-		<region>jp</region>
-		<scrap name="ScreenScraper" date="20221227T003717" />
-		<scrap name="HfsDB" date="20230127T140633" />
-		<scrap name="ArcadeDB" date="20221212T175955" />
-	</game>
-	<game id="47065">
-		<path>./No-Intro/[BIOS] SNK Neo Geo Pocket (Japan, Europe) (En).ngp</path>
-		<name>ZZZ(notgame):[bios] Snk Neo Geo Pocket</name>
-		<image>./media/screenshots/[BIOS] SNK Neo Geo Pocket (Japan, Europe) (En).png</image>
-		<rating />
-		<hidden>true</hidden>
-		<crc32>6232DF8D</crc32>
-		<md5>d87d876c4391935c9d48ef352a3ff02d</md5>
-		<lang>jp,en</lang>
-		<region>eu</region>
-		<scrap name="ScreenScraper" date="20221227T003718" />
 		<scrap name="HfsDB" date="20230127T140633" />
 		<scrap name="ArcadeDB" date="20221212T175955" />
 	</game>

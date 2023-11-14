@@ -65,60 +65,6 @@ You can play against the computer at two skill levels - one for beginners or int
 		<region>eu</region>
 		<scrap name="ScreenScraper" date="20230217T200752" />
 	</game>
-	<game id="97426">
-		<path>./No-Intro/Armor Battle (USA, Europe) (Intellivision Lives!) (Gamecube).int</path>
-		<name>Armor Battle</name>
-		<desc>It's armored conflict and you command the spearhead! Combat missions galore in this computerized tank battle! Maneuver two tanks through hundreds of different terrains! Battles are waged with a full complement of simulated sound effects to add to the realism!
-
-All-out tank combat! You and your opponent are rival commanders. Each of you must maneuver, lay mines, go for tactical surprise!
-
-A two player game...you and your opponent each have two tanks per battle.
-
-You play your tactics on over hundreds of different battlefield maps!
-
-Assess the battlefield, avoid mines, and move quickly over roads or slowly through fields or water.
-
-Knock out both of your opponent's tanks and win the battle!
-
-Complement of simulated sound and visual effects such as explosions, gunfire, tank engines, much more!</desc>
-		<image>./images/Armor Battle (USA, Europe) (Intellivision Lives!) (Gamecube)-image.png</image>
-		<video>./videos/Armor Battle (USA, Europe) (Intellivision Lives!) (Gamecube)-video.mp4</video>
-		<marquee>./images/Armor Battle (USA, Europe) (Intellivision Lives!) (Gamecube)-marquee.png</marquee>
-		<thumbnail>./images/Armor Battle (USA, Europe) (Intellivision Lives!) (Gamecube)-thumb.png</thumbnail>
-		<manual>./manuals/Armor Battle (USA, Europe) (Intellivision Lives!) (Gamecube)-manual.pdf</manual>
-		<boxback>./images/Armor Battle (USA, Europe) (Intellivision Lives!) (Gamecube)-boxback.png</boxback>
-		<rating>0.6</rating>
-		<releasedate>19790101T000000</releasedate>
-		<developer>APh Technological Consulting</developer>
-		<publisher>Mattel Electronics</publisher>
-		<genre>Race, Driving</genre>
-		<players>2</players>
-		<md5>7d7ed146d133d87f73d2da6738eb948e</md5>
-		<lang>en</lang>
-		<region>eu</region>
-		<scrap name="ScreenScraper" date="20230217T200807" />
-	</game>
-	<game id="97430">
-		<path>./No-Intro/Auto Racing (World).int</path>
-		<name>Auto Racing</name>
-		<desc>Auto Racing is a one or two player racing game that puts the player behind the wheel of one of five cars, each with different specialties. The player may  race on five different fairly large courses. In the one player game, the player is racing the clock to finish five laps as quickly as possible. In the two player game, the player can race a friend and gain points for either the opponent crashing or if one is leading far enough to reach the edge of the screen.</desc>
-		<image>./images/Auto Racing (World)-image.png</image>
-		<video>./videos/Auto Racing (World)-video.mp4</video>
-		<marquee>./images/Auto Racing (World)-marquee.png</marquee>
-		<thumbnail>./images/Auto Racing (World)-thumb.png</thumbnail>
-		<manual>./manuals/Auto Racing (World)-manual.pdf</manual>
-		<boxback>./images/Auto Racing (World)-boxback.png</boxback>
-		<rating>0.6</rating>
-		<releasedate>19790101T000000</releasedate>
-		<developer>APh Technological Consulting</developer>
-		<publisher>Mattel Electronics</publisher>
-		<genre>Race, Driving</genre>
-		<players>1-2</players>
-		<md5>97e865e173d137cf5576d080268f7df5</md5>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ScreenScraper" date="20230217T200821" />
-	</game>
 	<game id="250801">
 		<path>./No-Intro/BattleTanks (USA, Europe) (Intellivision Lives!).int</path>
 		<name>BattleTanks</name>
@@ -379,26 +325,6 @@ When the race begins, the horses are speedier at the beginning, slower toward th
 		<lang>en</lang>
 		<region>eu</region>
 		<scrap name="ScreenScraper" date="20230217T201057" />
-	</game>
-	<game id="97501">
-		<path>./No-Intro/Las Vegas Poker &amp; Blackjack (World).int</path>
-		<name>Las Vegas Blackjack And Poker</name>
-		<desc>Las Vegas Poker &amp; Blackjack is a computerized version of different types of Poker and Blackjack, including 7-Card Stud and 5-Card Draw. The player inputs how much "money" that is available to bet with. There is one and two-player games, and Las Vegas Poker &amp; Blackjack includes a dealer to play against.</desc>
-		<image>./images/Las Vegas Poker &amp; Blackjack (World)-image.png</image>
-		<video>./videos/Las Vegas Poker &amp; Blackjack (World)-video.mp4</video>
-		<marquee>./images/Las Vegas Poker &amp; Blackjack (World)-marquee.png</marquee>
-		<thumbnail>./images/Las Vegas Poker &amp; Blackjack (World)-thumb.png</thumbnail>
-		<manual>./manuals/Las Vegas Poker &amp; Blackjack (World)-manual.pdf</manual>
-		<boxback>./images/Las Vegas Poker &amp; Blackjack (World)-boxback.png</boxback>
-		<releasedate>19790101T000000</releasedate>
-		<developer>APh Technological Consulting</developer>
-		<publisher>Mattel Electronics</publisher>
-		<genre>Simulation</genre>
-		<players>1-2</players>
-		<md5>6506a1bf0c749fc768cb6b5162e0cbd7</md5>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ScreenScraper" date="20230217T201110" />
 	</game>
 	<game id="97502">
 		<path>./No-Intro/Las Vegas Roulette (World).int</path>
@@ -6029,40 +5955,6 @@ It supports two players simultaneously, where a center camera is used to show pi
 		<scrap name="ScreenScraper" date="20230301T193226" />
 		<scrap name="ArcadeDB" date="20221212T140208" />
 	</game>
-	<game id="97426">
-		<path>./No-Intro/Armor Battle (USA, Europe).int</path>
-		<name>Armor Battle</name>
-		<desc>It's armored conflict and you command the spearhead! Combat missions galore in this computerized tank battle! Maneuver two tanks through hundreds of different terrains! Battles are waged with a full complement of simulated sound effects to add to the realism!
-
-All-out tank combat! You and your opponent are rival commanders. Each of you must maneuver, lay mines, go for tactical surprise!
-
-A two player game...you and your opponent each have two tanks per battle.
-
-You play your tactics on over hundreds of different battlefield maps!
-
-Assess the battlefield, avoid mines, and move quickly over roads or slowly through fields or water.
-
-Knock out both of your opponent's tanks and win the battle!
-
-Complement of simulated sound and visual effects such as explosions, gunfire, tank engines, much more!</desc>
-		<image>./media/screenshots/Armor Battle (USA, Europe).png</image>
-		<video>./media/videos/Armor Battle (USA, Europe).mp4</video>
-		<marquee>./media/marquees/Armor Battle (USA, Europe).png</marquee>
-		<thumbnail>./images/Armor Battle (USA, Europe)-thumb.png</thumbnail>
-		<manual>./manuals/Armor Battle (USA, Europe)-manual.pdf</manual>
-		<boxback>./images/Armor Battle (USA, Europe)-boxback.png</boxback>
-		<rating>0.6</rating>
-		<releasedate>19790101T000000</releasedate>
-		<developer>APh Technological Consulting</developer>
-		<publisher>Mattel Electronics</publisher>
-		<genre>Race, Driving</genre>
-		<players>2</players>
-		<md5>7fa60b1cb4adac3088727d5ac53ec183</md5>
-		<lang>en</lang>
-		<region>eu</region>
-		<scrap name="ScreenScraper" date="20230301T193228" />
-		<scrap name="ArcadeDB" date="20221212T140208" />
-	</game>
 	<game id="97427">
 		<path>./No-Intro/Astrosmash (USA, Europe).int</path>
 		<name>Astrosmash</name>
@@ -6816,28 +6708,6 @@ You control Duncan by pressing the hand controller DISC.  Skate around the other
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230301T193324" />
-		<scrap name="ArcadeDB" date="20221212T140213" />
-	</game>
-	<game id="97464">
-		<path>./No-Intro/Electric Company, The - Math Fun (USA, Europe).int</path>
-		<name>Electric Company: Math Fun</name>
-		<desc>Math fun is an educational game which can be played by one or two players. Each player controls a gorilla which is wandering through the jungle. As the gorilla walks on, it will encounter a creature which has a math problem with it. You need to enter in the correct answer to the problem as quickly as possible. If you get the answer correct, your gorilla may continue on. If you get the answer wrong, then your gorilla must jump into the river. Your gorilla is unable to leave the river and continue on until you answer another math problem correctly. The goal is to correctly answer as many of the problems as you can in the shortest amount of time. The game includes eighteen different levels of difficulty which can be set individually for each player.</desc>
-		<image>./media/screenshots/Electric Company, The - Math Fun (USA, Europe).png</image>
-		<video>./media/videos/Electric Company, The - Math Fun (USA, Europe).mp4</video>
-		<marquee>./media/marquees/Electric Company, The - Math Fun (USA, Europe).png</marquee>
-		<thumbnail>./images/Electric Company, The - Math Fun (USA, Europe)-thumb.png</thumbnail>
-		<manual>./manuals/Electric Company, The - Math Fun (USA, Europe)-manual.pdf</manual>
-		<boxback>./images/Electric Company, The - Math Fun (USA, Europe)-boxback.png</boxback>
-		<rating />
-		<releasedate>19790101T000000</releasedate>
-		<developer>APh Technological Consulting</developer>
-		<publisher>Mattel Electronics</publisher>
-		<genre>Educational</genre>
-		<players>1-2</players>
-		<md5>dcbea7cde7d03f099680531fe7a80ab5</md5>
-		<lang>en</lang>
-		<region>eu</region>
-		<scrap name="ScreenScraper" date="20230301T193326" />
 		<scrap name="ArcadeDB" date="20221212T140213" />
 	</game>
 	<game id="97465">

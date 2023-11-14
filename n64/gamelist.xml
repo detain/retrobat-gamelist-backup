@@ -22,28 +22,6 @@
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230215T225838" />
 	</game>
-	<game id="59524">
-		<path>./No-Intro/BigEndian/40 Winks (USA) (StoneAgeGamer Everdrive 64 ROM) (Aftermarket) (Unl).z64</path>
-		<name>40 Winks</name>
-		<desc>There's only 40 Winks left in the world of dreams. And if you don't rescue them form the evil NiteKap, NO ONE will EVER have good dreams again! So get ready for action - because you're going on the adventure of a nighttime!</desc>
-		<image>./images/40 Winks (USA) (StoneAgeGamer Everdrive 64 ROM) (Aftermarket) (Unl)-image.png</image>
-		<video>./videos/40 Winks (USA) (StoneAgeGamer Everdrive 64 ROM) (Aftermarket) (Unl)-video.mp4</video>
-		<marquee>./images/40 Winks (USA) (StoneAgeGamer Everdrive 64 ROM) (Aftermarket) (Unl)-marquee.png</marquee>
-		<thumbnail>./images/40 Winks (USA) (StoneAgeGamer Everdrive 64 ROM) (Aftermarket) (Unl)-thumb.png</thumbnail>
-		<fanart>./images/40 Winks (USA) (StoneAgeGamer Everdrive 64 ROM) (Aftermarket) (Unl)-fanart.jpg</fanart>
-		<boxback>./images/40 Winks (USA) (StoneAgeGamer Everdrive 64 ROM) (Aftermarket) (Unl)-boxback.png</boxback>
-		<rating>0.8</rating>
-		<releasedate>19991114T000000</releasedate>
-		<developer>Eurocom</developer>
-		<publisher>Piko Interactive</publisher>
-		<genre>Platform</genre>
-		<players>1-2</players>
-		<crc32>31C19633</crc32>
-		<md5>b88c172ed14f4acb43c4a352d71cc640</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230215T225850" />
-	</game>
 	<game id="5534">
 		<path>./No-Intro/BigEndian/Aidyn Chronicles - The First Mage (USA) (Beta) (2000-12-05).z64</path>
 		<name>Aidyn Chronicles : The First Mage</name>
@@ -130,44 +108,6 @@ Conker goes through plenty of wild and wacky levels, most of which are based on 
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230215T225943" />
 	</game>
-	<game id="5514">
-		<path>./No-Intro/BigEndian/Destruction Derby 64 (USA) (1998-07-31) (Beta).z64</path>
-		<name>Destruction Derby 64</name>
-		<desc>Much like other Destruction Derby titles, the aim of the game is to race through to the finish, while taking out the other cars for points and not crashing out yourself. 
-
-In this addition, up to 4 players can play, with options including a straight out Derby, Capture the Flag, arena battles and much more. 
-
-There are 12 single player tracks to go through, and plenty of cars to use, including a taxi car (which you must complete the game to unlock).</desc>
-		<image>./images/Destruction Derby 64 (USA) (1998-07-31) (Beta)-image.png</image>
-		<video>./videos/Destruction Derby 64 (USA) (1998-07-31) (Beta)-video.mp4</video>
-		<marquee>./images/Destruction Derby 64 (USA) (1998-07-31) (Beta)-marquee.png</marquee>
-		<thumbnail>./images/Destruction Derby 64 (USA) (1998-07-31) (Beta)-thumb.png</thumbnail>
-		<fanart>./images/Destruction Derby 64 (USA) (1998-07-31) (Beta)-fanart.jpg</fanart>
-		<manual>./manuals/Destruction Derby 64 (USA) (1998-07-31) (Beta)-manual.pdf</manual>
-		<bezel>./images/Destruction Derby 64 (USA) (1998-07-31) (Beta)-bezel.png</bezel>
-		<boxback>./images/Destruction Derby 64 (USA) (1998-07-31) (Beta)-boxback.png</boxback>
-		<rating>0.55</rating>
-		<releasedate>19990930T000000</releasedate>
-		<developer>Looking Glass Studios</developer>
-		<publisher>THQ</publisher>
-		<genre>Race, Driving</genre>
-		<family>Destruction Derby</family>
-		<players>1-4</players>
-		<crc32>A0FF0874</crc32>
-		<md5>749ac5bc4e7f2b17274f6966ddbf6872</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230215T225958" />
-	</game>
-	<game id="423054">
-		<path>./No-Intro/BigEndian/Donsol (World) (Unl).z64</path>
-		<name>Donsol</name>
-		<crc32>A0E96C02</crc32>
-		<md5>3f345578242eb8c7f8f9710df6432abb</md5>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ScreenScraper" date="20230215T230000" />
-	</game>
 	<game id="5446">
 		<path>./No-Intro/BigEndian/Doom 64 (USA) (Beta) (1996-12-10).z64</path>
 		<name>Doom 64</name>
@@ -192,40 +132,6 @@ There are 12 single player tracks to go through, and plenty of cars to use, incl
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230215T230016" />
-	</game>
-	<game id="59771">
-		<path>./No-Intro/BigEndian/Dragon Sword 64 (USA) (1999-08-25) (Proto).z64</path>
-		<name>Dragon Sword 64</name>
-		<desc>Incarceration - Incarcerated but mind focused on the quest - escape is imperative; time is all. The only hope, the Dragon Sword lies with the one his captors call the Guv`nor.
-
-The Dead Shall Rise - Now the Dragon Sword is held by its chosen owner, the quests path must be found. The journey so far has been easy; seemingly guided by the very things that block the way. The only clear way is the Darrc-way.
-
-Crush Your Enemies - At last, a chance to stray from the Darrc-path; if only a boat could be acquired. A nagging thought remains the Darrc Lords must have a great interest in the Dragon Sword and its wielder. To raise the dead is no cheap trick.
-
-Infestation - Port-Town: Normally a busy and bustling port. but now an erie and ominous silence hangs over the place. The Darrc hoards seemed to be gathering forces at the Barracks using the Harbour to accelerate their conquests of the neighboring lands.
-
-The Law of Disorder - It is now clear that the Darrc forces have spread their influence further than could be foretold. With Avantaria turned to Darcc, the very fabric of reality is changing. Ahead a mansion looms. Perhaps within lies the quests goal.
-
-The Abyss - With Draccar defeated something strange has happened to the world. Reality has been changed, some new evil is upon the land but you must fight on.
-
-Darrc Pilgrimage - You sense that your quest is nearing the end, but what will the end mean for you. Soon you will find out who has been responsible for desecrating your lands.</desc>
-		<image>./images/Dragon Sword 64 (USA) (1999-08-25) (Proto)-image.png</image>
-		<video>./videos/Dragon Sword 64 (USA) (1999-08-25) (Proto)-video.mp4</video>
-		<marquee>./images/Dragon Sword 64 (USA) (1999-08-25) (Proto)-marquee.png</marquee>
-		<thumbnail>./images/Dragon Sword 64 (USA) (1999-08-25) (Proto)-thumb.png</thumbnail>
-		<fanart>./images/Dragon Sword 64 (USA) (1999-08-25) (Proto)-fanart.jpg</fanart>
-		<boxback>./images/Dragon Sword 64 (USA) (1999-08-25) (Proto)-boxback.png</boxback>
-		<rating>0.65</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>Team Storm</developer>
-		<publisher>MGM Interactive</publisher>
-		<genre>Fight</genre>
-		<players>1-4</players>
-		<crc32>2296B50D</crc32>
-		<md5>942fc6737765ac718799a7f66202216c</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230215T230029" />
 	</game>
 	<game id="5456">
 		<path>./No-Intro/BigEndian/Duke Nukem - Zero Hour (USA) (Beta).z64</path>
@@ -355,34 +261,6 @@ You must control the good glove (name Glover) and find the 7 crystals, putting t
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230215T230150" />
-	</game>
-	<game id="5634">
-		<path>./No-Intro/BigEndian/GT 64 - Championship Edition (USA) (1998-05-25) (Beta).z64</path>
-		<name>GT 64: Championship Edition</name>
-		<desc>GT 64, short for Grand Tour 64, is a 3D racing game for the Nintendo 64. It features cars and drivers from the All-Japan GT Championship season of 1997 as it is an officially licensed game.
-
-There are three stages with each a long and a short version counting six tracks in total situated in Japan, the USA and Europe. All of them are located in urban settings. You can opt to race three, six, twelve or 24 laps on each track. There are fourteen cars available to race in and they can be manually tweaked to improve performance.
-
-The Japanese re-release of the game includes two new tracks based on the 1998 season.</desc>
-		<image>./images/GT 64 - Championship Edition (USA) (1998-05-25) (Beta)-image.png</image>
-		<video>./videos/GT 64 - Championship Edition (USA) (1998-05-25) (Beta)-video.mp4</video>
-		<marquee>./images/GT 64 - Championship Edition (USA) (1998-05-25) (Beta)-marquee.png</marquee>
-		<thumbnail>./images/GT 64 - Championship Edition (USA) (1998-05-25) (Beta)-thumb.png</thumbnail>
-		<fanart>./images/GT 64 - Championship Edition (USA) (1998-05-25) (Beta)-fanart.jpg</fanart>
-		<manual>./manuals/GT 64 - Championship Edition (USA) (1998-05-25) (Beta)-manual.pdf</manual>
-		<bezel>./images/GT 64 - Championship Edition (USA) (1998-05-25) (Beta)-bezel.png</bezel>
-		<boxback>./images/GT 64 - Championship Edition (USA) (1998-05-25) (Beta)-boxback.png</boxback>
-		<rating>0.55</rating>
-		<releasedate>19980831T000000</releasedate>
-		<developer>Imagineer</developer>
-		<publisher>Ocean</publisher>
-		<genre>Race, Driving</genre>
-		<players>1-2</players>
-		<crc32>191BF504</crc32>
-		<md5>4690cab33d0bc10b62d62cecdcaa50a1</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230215T230206" />
 	</game>
 	<game id="5510">
 		<path>./No-Intro/BigEndian/Mace - The Dark Age (USA) (Beta).z64</path>
@@ -566,40 +444,6 @@ The Xbox 360 port has redone graphics to support a 1080p full HD resolution at 6
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230215T230357" />
-	</game>
-	<game id="423051">
-		<path>./No-Intro/BigEndian/Pyoro 64 (Unknown) (MPAL) (Aftermarket) (Homebrew).z64</path>
-		<name>Pyoro 64</name>
-		<crc32>B8874C09</crc32>
-		<md5>b98d8a94fe2f02384cb923fbb2f9d57e</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20230215T230359" />
-	</game>
-	<game id="423051">
-		<path>./No-Intro/BigEndian/Pyoro 64 (Unknown) (NTSC) (Aftermarket) (Homebrew).z64</path>
-		<name>Pyoro 64</name>
-		<crc32>B7EBDDC6</crc32>
-		<md5>2ac0f88bea02d67896ffeae9e8ec72e7</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20230215T230401" />
-	</game>
-	<game id="423051">
-		<path>./No-Intro/BigEndian/Pyoro 64 (Unknown) (PAL) (Aftermarket) (Homebrew).z64</path>
-		<name>Pyoro 64</name>
-		<crc32>1EE17B37</crc32>
-		<md5>250ad6be7e97306364bfd8f420204d8a</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20230215T230402" />
-	</game>
-	<game id="423048">
-		<path>./No-Intro/BigEndian/R64 (World) (Aftermarket) (Homebrew).z64</path>
-		<name>ZZZ(notgame):R64</name>
-		<hidden>true</hidden>
-		<crc32>9B30252E</crc32>
-		<md5>18856426d971617ab4cffb331763e797</md5>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ScreenScraper" date="20230215T230404" />
 	</game>
 	<game id="5527">
 		<path>./No-Intro/BigEndian/Road Rash 64 (USA) (Beta 1).z64</path>
@@ -786,15 +630,6 @@ Change vehicles mid-mission through specially designated hangars.</desc>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230215T230552" />
 	</game>
-	<game id="423042">
-		<path>./No-Intro/BigEndian/Telocation (World) (v1.2) (Aftermarket) (Homebrew).z64</path>
-		<name>Telocation</name>
-		<crc32>2BC6A3D9</crc32>
-		<md5>faf80bdcce97ac96ca21704ab8795089</md5>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ScreenScraper" date="20230215T230554" />
-	</game>
 	<game id="5603">
 		<path>./No-Intro/BigEndian/Top Gear Overdrive (USA) (Beta).z64</path>
 		<name>Top Gear Overdrive</name>
@@ -973,33 +808,6 @@ You must control the good glove (name Glover) and find the 7 crystals, putting t
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230215T230740" />
 	</game>
-	<game id="5528">
-		<path>./No-Intro/BigEndian/WWF No Mercy (USA) (Beta).z64</path>
-		<name>WWF No Mercy</name>
-		<desc>The last wrestling title made by the team of THQ and AKI allows players to compete for 7 different WWF Titles with each belt getting its own unique story. Stories can be replayed, allowing players to defend their title in a storyline. Upon successful completion of a story mode, players will unlock the title they were competing for in Exhibition mode where titles can be won and defended as the players see fit.
-
-A maximum of 4 players can compete in a range of modes, including caged and ladder contests and pay per view events. You can also create your own event and compete for WWF titles unlocked in Championship mode. Certain matches will take you outside the ring to 4 different backstage locations.</desc>
-		<image>./images/WWF No Mercy (USA) (Beta)-image.png</image>
-		<video>./videos/WWF No Mercy (USA) (Beta)-video.mp4</video>
-		<marquee>./images/WWF No Mercy (USA) (Beta)-marquee.png</marquee>
-		<thumbnail>./images/WWF No Mercy (USA) (Beta)-thumb.png</thumbnail>
-		<fanart>./images/WWF No Mercy (USA) (Beta)-fanart.jpg</fanart>
-		<manual>./manuals/WWF No Mercy (USA) (Beta)-manual.pdf</manual>
-		<bezel>./images/WWF No Mercy (USA) (Beta)-bezel.png</bezel>
-		<boxback>./images/WWF No Mercy (USA) (Beta)-boxback.png</boxback>
-		<rating>0.75</rating>
-		<releasedate>20001117T000000</releasedate>
-		<developer>AKI Corporation</developer>
-		<publisher>THQ</publisher>
-		<genre>Sports / Wrestling</genre>
-		<family>WWF</family>
-		<players>1-4</players>
-		<crc32>A526FF27</crc32>
-		<md5>5ce490cf86cfeabf28c19b4c8afc3f24</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230215T230756" />
-	</game>
 	<game id="368132">
 		<path>./No-Intro/BigEndian/X'treme Roller (USA) (Proto).z64</path>
 		<name>ZZZ(notgame):X'treme Roller</name>
@@ -1099,78 +907,6 @@ A maximum of 4 players can compete in a range of modes, including caged and ladd
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230215T230811" />
-	</game>
-	<game id="5514">
-		<path>./No-Intro/ByteSwapped/Destruction Derby 64 (USA) (1998-07-31) (Beta).v64</path>
-		<name>Destruction Derby 64</name>
-		<desc>Much like other Destruction Derby titles, the aim of the game is to race through to the finish, while taking out the other cars for points and not crashing out yourself. 
-
-In this addition, up to 4 players can play, with options including a straight out Derby, Capture the Flag, arena battles and much more. 
-
-There are 12 single player tracks to go through, and plenty of cars to use, including a taxi car (which you must complete the game to unlock).</desc>
-		<image>./images/Destruction Derby 64 (USA) (1998-07-31) (Beta)-image.png</image>
-		<video>./videos/Destruction Derby 64 (USA) (1998-07-31) (Beta)-video.mp4</video>
-		<marquee>./images/Destruction Derby 64 (USA) (1998-07-31) (Beta)-marquee.png</marquee>
-		<thumbnail>./images/Destruction Derby 64 (USA) (1998-07-31) (Beta)-thumb.png</thumbnail>
-		<fanart>./images/Destruction Derby 64 (USA) (1998-07-31) (Beta)-fanart.jpg</fanart>
-		<manual>./manuals/Destruction Derby 64 (USA) (1998-07-31) (Beta)-manual.pdf</manual>
-		<bezel>./images/Destruction Derby 64 (USA) (1998-07-31) (Beta)-bezel.png</bezel>
-		<boxback>./images/Destruction Derby 64 (USA) (1998-07-31) (Beta)-boxback.png</boxback>
-		<rating>0.55</rating>
-		<releasedate>19990930T000000</releasedate>
-		<developer>Looking Glass Studios</developer>
-		<publisher>THQ</publisher>
-		<genre>Race, Driving</genre>
-		<family>Destruction Derby</family>
-		<players>1-4</players>
-		<crc32>5726C048</crc32>
-		<md5>38a007dabc9c19f055914f3279817d04</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230215T230813" />
-	</game>
-	<game id="423054">
-		<path>./No-Intro/ByteSwapped/Donsol (World) (Unl).v64</path>
-		<name>Donsol</name>
-		<crc32>99E5B970</crc32>
-		<md5>67c0dd8a4d6d77c164a279b6e0eb273c</md5>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ScreenScraper" date="20230215T230815" />
-	</game>
-	<game id="59771">
-		<path>./No-Intro/ByteSwapped/Dragon Sword 64 (USA) (1999-08-25) (Proto).v64</path>
-		<name>Dragon Sword 64</name>
-		<desc>Incarceration - Incarcerated but mind focused on the quest - escape is imperative; time is all. The only hope, the Dragon Sword lies with the one his captors call the Guv`nor.
-
-The Dead Shall Rise - Now the Dragon Sword is held by its chosen owner, the quests path must be found. The journey so far has been easy; seemingly guided by the very things that block the way. The only clear way is the Darrc-way.
-
-Crush Your Enemies - At last, a chance to stray from the Darrc-path; if only a boat could be acquired. A nagging thought remains the Darrc Lords must have a great interest in the Dragon Sword and its wielder. To raise the dead is no cheap trick.
-
-Infestation - Port-Town: Normally a busy and bustling port. but now an erie and ominous silence hangs over the place. The Darrc hoards seemed to be gathering forces at the Barracks using the Harbour to accelerate their conquests of the neighboring lands.
-
-The Law of Disorder - It is now clear that the Darrc forces have spread their influence further than could be foretold. With Avantaria turned to Darcc, the very fabric of reality is changing. Ahead a mansion looms. Perhaps within lies the quests goal.
-
-The Abyss - With Draccar defeated something strange has happened to the world. Reality has been changed, some new evil is upon the land but you must fight on.
-
-Darrc Pilgrimage - You sense that your quest is nearing the end, but what will the end mean for you. Soon you will find out who has been responsible for desecrating your lands.</desc>
-		<image>./images/Dragon Sword 64 (USA) (1999-08-25) (Proto)-image.png</image>
-		<video>./videos/Dragon Sword 64 (USA) (1999-08-25) (Proto)-video.mp4</video>
-		<marquee>./images/Dragon Sword 64 (USA) (1999-08-25) (Proto)-marquee.png</marquee>
-		<thumbnail>./images/Dragon Sword 64 (USA) (1999-08-25) (Proto)-thumb.png</thumbnail>
-		<fanart>./images/Dragon Sword 64 (USA) (1999-08-25) (Proto)-fanart.jpg</fanart>
-		<boxback>./images/Dragon Sword 64 (USA) (1999-08-25) (Proto)-boxback.png</boxback>
-		<rating>0.65</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>Team Storm</developer>
-		<publisher>MGM Interactive</publisher>
-		<genre>Fight</genre>
-		<players>1-4</players>
-		<crc32>BC5A6081</crc32>
-		<md5>85d77c74a989e6cff1ef14d9f19313cc</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230215T230817" />
 	</game>
 	<game id="5456">
 		<path>./No-Intro/ByteSwapped/Duke Nukem - Zero Hour (USA) (Beta).v64</path>
@@ -1349,57 +1085,6 @@ Just when you thought it was safe to go back... Unique glove &amp; ball gameplay
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230215T230854" />
-	</game>
-	<game id="5634">
-		<path>./No-Intro/ByteSwapped/GT 64 - Championship Edition (USA) (1998-05-25) (Beta).v64</path>
-		<name>GT 64: Championship Edition</name>
-		<desc>GT 64, short for Grand Tour 64, is a 3D racing game for the Nintendo 64. It features cars and drivers from the All-Japan GT Championship season of 1997 as it is an officially licensed game.
-
-There are three stages with each a long and a short version counting six tracks in total situated in Japan, the USA and Europe. All of them are located in urban settings. You can opt to race three, six, twelve or 24 laps on each track. There are fourteen cars available to race in and they can be manually tweaked to improve performance.
-
-The Japanese re-release of the game includes two new tracks based on the 1998 season.</desc>
-		<image>./images/GT 64 - Championship Edition (USA) (1998-05-25) (Beta)-image.png</image>
-		<video>./videos/GT 64 - Championship Edition (USA) (1998-05-25) (Beta)-video.mp4</video>
-		<marquee>./images/GT 64 - Championship Edition (USA) (1998-05-25) (Beta)-marquee.png</marquee>
-		<thumbnail>./images/GT 64 - Championship Edition (USA) (1998-05-25) (Beta)-thumb.png</thumbnail>
-		<fanart>./images/GT 64 - Championship Edition (USA) (1998-05-25) (Beta)-fanart.jpg</fanart>
-		<manual>./manuals/GT 64 - Championship Edition (USA) (1998-05-25) (Beta)-manual.pdf</manual>
-		<bezel>./images/GT 64 - Championship Edition (USA) (1998-05-25) (Beta)-bezel.png</bezel>
-		<boxback>./images/GT 64 - Championship Edition (USA) (1998-05-25) (Beta)-boxback.png</boxback>
-		<rating>0.55</rating>
-		<releasedate>19980831T000000</releasedate>
-		<developer>Imagineer</developer>
-		<publisher>Ocean</publisher>
-		<genre>Race, Driving</genre>
-		<players>1-2</players>
-		<crc32>DB690612</crc32>
-		<md5>6feb13476ca82d20a7766f36e79147e0</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230215T230855" />
-	</game>
-	<game id="5483">
-		<path>./No-Intro/ByteSwapped/Hercules - The Legendary Journeys (Unknown) (Beta).v64</path>
-		<name>Hercules - The Legendary Journeys</name>
-		<desc>Take control of the legendary hero Hercules and his friends Iolaus and Serena as they attempt to stop Ares from completing his diabolical plans. Use each character's unique attributes: Hercules' legendary strength, Iolaus' nimble nature and Serena's accuracy to complete your quest. Travel through 12 unique fully 3D worlds, from the sunny seaside town of Porticus to the snowy mountains of Alpsius. Explore the bandit-overrun forrests of Traycus or heavenly Mount Olympus. Fight mythical terrifying monsters such as the Minotaur, Cyclops, and more!</desc>
-		<image>./images/Hercules - The Legendary Journeys (Unknown) (Beta)-image.png</image>
-		<video>./videos/Hercules - The Legendary Journeys (Unknown) (Beta)-video.mp4</video>
-		<marquee>./images/Hercules - The Legendary Journeys (Unknown) (Beta)-marquee.png</marquee>
-		<thumbnail>./images/Hercules - The Legendary Journeys (Unknown) (Beta)-thumb.png</thumbnail>
-		<fanart>./images/Hercules - The Legendary Journeys (Unknown) (Beta)-fanart.jpg</fanart>
-		<manual>./manuals/Hercules - The Legendary Journeys (Unknown) (Beta)-manual.pdf</manual>
-		<bezel>./images/Hercules - The Legendary Journeys (Unknown) (Beta)-bezel.png</bezel>
-		<boxback>./images/Hercules - The Legendary Journeys (Unknown) (Beta)-boxback.png</boxback>
-		<rating>0.65</rating>
-		<releasedate>20001116T000000</releasedate>
-		<developer>Player 1</developer>
-		<publisher>Titus</publisher>
-		<genre>Action / Adventure</genre>
-		<players>1</players>
-		<crc32>0E2A01ED</crc32>
-		<md5>e08c033bf1e0e92a65ea9608035dfcee</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20230215T230909" />
 	</game>
 	<game id="5510">
 		<path>./No-Intro/ByteSwapped/Mace - The Dark Age (USA) (Beta).v64</path>
@@ -1584,40 +1269,6 @@ The Xbox 360 port has redone graphics to support a 1080p full HD resolution at 6
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230215T230921" />
 	</game>
-	<game id="423051">
-		<path>./No-Intro/ByteSwapped/Pyoro 64 (Unknown) (MPAL) (Aftermarket) (Homebrew).v64</path>
-		<name>Pyoro 64</name>
-		<crc32>C97F9B4C</crc32>
-		<md5>74805e465147876102e2ce0ab94db182</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20230215T230923" />
-	</game>
-	<game id="423051">
-		<path>./No-Intro/ByteSwapped/Pyoro 64 (Unknown) (NTSC) (Aftermarket) (Homebrew).v64</path>
-		<name>Pyoro 64</name>
-		<crc32>6123E8D3</crc32>
-		<md5>e233ccfbc8185a0359bc7744b64acf95</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20230215T230925" />
-	</game>
-	<game id="423051">
-		<path>./No-Intro/ByteSwapped/Pyoro 64 (Unknown) (PAL) (Aftermarket) (Homebrew).v64</path>
-		<name>Pyoro 64</name>
-		<crc32>D9449233</crc32>
-		<md5>6d71a7981a428cbd57d9b7f6ba9ace19</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20230215T230926" />
-	</game>
-	<game id="423048">
-		<path>./No-Intro/ByteSwapped/R64 (World) (Aftermarket) (Homebrew).v64</path>
-		<name>ZZZ(notgame):R64</name>
-		<hidden>true</hidden>
-		<crc32>467E5A00</crc32>
-		<md5>deadef126425779dacfbfc9d07f57d09</md5>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ScreenScraper" date="20230215T230928" />
-	</game>
 	<game id="5527">
 		<path>./No-Intro/ByteSwapped/Road Rash 64 (USA) (Beta 1).v64</path>
 		<name>Road Rash 64</name>
@@ -1761,32 +1412,6 @@ You can also take part in the usual arcade rally style against 4 other cars, wit
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230215T230939" />
 	</game>
-	<game id="5508">
-		<path>./No-Intro/ByteSwapped/Whack 'n' Roll (USA) (v0.8.2, 1998-02-05) (Beta).v64</path>
-		<name>Glover</name>
-		<desc>A wizard is mixing up a batch of magic potions, when an explosion sends the gloves off his hands flying into the air. One lands safetly outside the castle, but the other lands in an evil potion mixture. It's this evil glove that decides to take over the castle. Meanwhile, 7 crystals, which used to sit on top of the castle and gave the surrounding lands its life force, also fly off in all directions. Thankfully, though, the good Glove changes the crystals into rubber balls, so that they would land safetly. 
-
-You must control the good glove (name Glover) and find the 7 crystals, putting them back into the castle to restore the life back into the land. But be careful, the bad glove is out to stop you and take the kingdom, and the wizards power, for his own.</desc>
-		<image>./images/Whack 'n' Roll (USA) (v0.8.2, 1998-02-05) (Beta)-image.png</image>
-		<video>./videos/Whack 'n' Roll (USA) (v0.8.2, 1998-02-05) (Beta)-video.mp4</video>
-		<marquee>./images/Whack 'n' Roll (USA) (v0.8.2, 1998-02-05) (Beta)-marquee.png</marquee>
-		<thumbnail>./images/Whack 'n' Roll (USA) (v0.8.2, 1998-02-05) (Beta)-thumb.png</thumbnail>
-		<fanart>./images/Whack 'n' Roll (USA) (v0.8.2, 1998-02-05) (Beta)-fanart.jpg</fanart>
-		<manual>./manuals/Whack 'n' Roll (USA) (v0.8.2, 1998-02-05) (Beta)-manual.pdf</manual>
-		<bezel>./images/Whack 'n' Roll (USA) (v0.8.2, 1998-02-05) (Beta)-bezel.png</bezel>
-		<boxback>./images/Whack 'n' Roll (USA) (v0.8.2, 1998-02-05) (Beta)-boxback.png</boxback>
-		<rating>0.8</rating>
-		<releasedate>19981031T000000</releasedate>
-		<developer>Interactive Studios</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Platform</genre>
-		<players>1</players>
-		<crc32>FCDD8DB6</crc32>
-		<md5>3841e6be21c492c1b76dd9d9c3911d58</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230215T230954" />
-	</game>
 	<game id="59510">
 		<path>./No-Intro/ByteSwapped/Wildwaters (USA) (1999-06-15) (Proto).v64</path>
 		<name>Wildwaters</name>
@@ -1807,33 +1432,6 @@ You must control the good glove (name Glover) and find the 7 crystals, putting t
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230215T230956" />
-	</game>
-	<game id="5528">
-		<path>./No-Intro/ByteSwapped/WWF No Mercy (USA) (Beta).v64</path>
-		<name>WWF No Mercy</name>
-		<desc>The last wrestling title made by the team of THQ and AKI allows players to compete for 7 different WWF Titles with each belt getting its own unique story. Stories can be replayed, allowing players to defend their title in a storyline. Upon successful completion of a story mode, players will unlock the title they were competing for in Exhibition mode where titles can be won and defended as the players see fit.
-
-A maximum of 4 players can compete in a range of modes, including caged and ladder contests and pay per view events. You can also create your own event and compete for WWF titles unlocked in Championship mode. Certain matches will take you outside the ring to 4 different backstage locations.</desc>
-		<image>./images/WWF No Mercy (USA) (Beta)-image.png</image>
-		<video>./videos/WWF No Mercy (USA) (Beta)-video.mp4</video>
-		<marquee>./images/WWF No Mercy (USA) (Beta)-marquee.png</marquee>
-		<thumbnail>./images/WWF No Mercy (USA) (Beta)-thumb.png</thumbnail>
-		<fanart>./images/WWF No Mercy (USA) (Beta)-fanart.jpg</fanart>
-		<manual>./manuals/WWF No Mercy (USA) (Beta)-manual.pdf</manual>
-		<bezel>./images/WWF No Mercy (USA) (Beta)-bezel.png</bezel>
-		<boxback>./images/WWF No Mercy (USA) (Beta)-boxback.png</boxback>
-		<rating>0.75</rating>
-		<releasedate>20001117T000000</releasedate>
-		<developer>AKI Corporation</developer>
-		<publisher>THQ</publisher>
-		<genre>Sports / Wrestling</genre>
-		<family>WWF</family>
-		<players>1-4</players>
-		<crc32>3F556B4B</crc32>
-		<md5>c676d1f81ba06ebc99838ac832f43227</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230215T230958" />
 	</game>
 	<game id="368132">
 		<path>./No-Intro/ByteSwapped/X'treme Roller (USA) (Proto).v64</path>
@@ -4199,34 +3797,6 @@ Train a robot with your style for use against the opposing fighters in Robot Mod
 		<scrap name="ArcadeDB" date="20221212T151752" />
 	</game>
 	<game id="5501">
-		<path>./No-Intro/BigEndian/Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es) (Beta) (2000-03-07).z64</path>
-		<name>Daffy Duck Starring as Duck Dodgers</name>
-		<desc>Marvin The Martian has developed an ultimate weapon that will allow him to finally destroy Earth, which will ultimately allow him to take control of the universe. Upon the demonstration of the weapon, a slight snag hinders Marvin from completing his devious deed. The Weapon is out of Atoms, which it runs on, so he sends his minions (All of which are characters from the Looney Tune universe) to gather Atoms to fuel his weapon.
-
-Duck Dodgers is informed by his academy of Marvin's deeds and sets out to find the one-hundred Atoms before Marvin can. This ultimately has Dodgers and his sidekick, Cadet, trekking to four different planets, including a large pirate ship, to obtain the upper-hand over Marvin.</desc>
-		<image>./media/screenshots/Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es) (Beta) (2000-03-07).png</image>
-		<video>./media/videos/Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es) (Beta) (2000-03-07).mp4</video>
-		<marquee>./media/marquees/Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es) (Beta) (2000-03-07).png</marquee>
-		<thumbnail>./images/Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es) (Beta) (2000-03-07)-thumb.png</thumbnail>
-		<fanart>./images/Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es) (Beta) (2000-03-07)-fanart.jpg</fanart>
-		<bezel>./images/Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es) (Beta) (2000-03-07)-bezel.png</bezel>
-		<boxback>./images/Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es) (Beta) (2000-03-07)-boxback.png</boxback>
-		<rating>0.7</rating>
-		<releasedate>20001027T000000</releasedate>
-		<developer>Paradigm Entertainment</developer>
-		<publisher>Infogrames</publisher>
-		<genre>Puzzle-Game</genre>
-		<family>Daffy Duck</family>
-		<players>1</players>
-		<kidgame>true</kidgame>
-		<crc32>1E48D155</crc32>
-		<md5>08ce7620b31851cbb05d386fe22c7109</md5>
-		<lang>en,es,fr</lang>
-		<region>eu</region>
-		<scrap name="ScreenScraper" date="20230301T213231" />
-		<scrap name="ArcadeDB" date="20221212T151752" />
-	</game>
-	<game id="5501">
 		<path>./No-Intro/BigEndian/Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es).z64</path>
 		<name>Daffy Duck Starring as Duck Dodgers</name>
 		<desc>Marvin The Martian has developed an ultimate weapon that will allow him to finally destroy Earth, which will ultimately allow him to take control of the universe. Upon the demonstration of the weapon, a slight snag hinders Marvin from completing his devious deed. The Weapon is out of Atoms, which it runs on, so he sends his minions (All of which are characters from the Looney Tune universe) to gather Atoms to fuel his weapon.
@@ -5232,30 +4802,6 @@ The Japanese re-release of the game includes two new tracks based on the 1998 se
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230301T213326" />
 		<scrap name="ArcadeDB" date="20221212T151804" />
-	</game>
-	<game id="5483">
-		<path>./No-Intro/BigEndian/Hercules - The Legendary Journeys (Unknown) (Beta).z64</path>
-		<name>Hercules - The Legendary Journeys</name>
-		<desc>Take control of the legendary hero Hercules and his friends Iolaus and Serena as they attempt to stop Ares from completing his diabolical plans. Use each character's unique attributes: Hercules' legendary strength, Iolaus' nimble nature and Serena's accuracy to complete your quest. Travel through 12 unique fully 3D worlds, from the sunny seaside town of Porticus to the snowy mountains of Alpsius. Explore the bandit-overrun forrests of Traycus or heavenly Mount Olympus. Fight mythical terrifying monsters such as the Minotaur, Cyclops, and more!</desc>
-		<image>./media/screenshots/Hercules - The Legendary Journeys (Unknown) (Beta).png</image>
-		<video>./media/videos/Hercules - The Legendary Journeys (Unknown) (Beta).mp4</video>
-		<marquee>./media/marquees/Hercules - The Legendary Journeys (Unknown) (Beta).png</marquee>
-		<thumbnail>./images/Hercules - The Legendary Journeys (Unknown) (Beta)-thumb.png</thumbnail>
-		<fanart>./images/Hercules - The Legendary Journeys (Unknown) (Beta)-fanart.jpg</fanart>
-		<manual>./manuals/Hercules - The Legendary Journeys (Unknown) (Beta)-manual.pdf</manual>
-		<bezel>./images/Hercules - The Legendary Journeys (Unknown) (Beta)-bezel.png</bezel>
-		<boxback>./images/Hercules - The Legendary Journeys (Unknown) (Beta)-boxback.png</boxback>
-		<rating>0.65</rating>
-		<releasedate>20001116T000000</releasedate>
-		<developer>Player 1</developer>
-		<publisher>Titus</publisher>
-		<genre>Action / Adventure</genre>
-		<players>1</players>
-		<crc32>A7759499</crc32>
-		<md5>70bd594e286a5b00f597384db964d9d8</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20230301T213328" />
-		<scrap name="ArcadeDB" date="20221212T151805" />
 	</game>
 	<game id="5483">
 		<path>./No-Intro/BigEndian/Hercules - The Legendary Journeys (USA).z64</path>
@@ -9188,32 +8734,6 @@ Quest 64 is the very first RPG made for the Nintendo 64.  It features colorful g
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230301T213659" />
-		<scrap name="ArcadeDB" date="20221212T151853" />
-	</game>
-	<game id="5611">
-		<path>./No-Intro/BigEndian/Rat Attack! (USA) (En,Fr,De,Es,It,Nl).z64</path>
-		<name>Rat Attack</name>
-		<desc>RAT ATTACK! Nuke 'em! The mutant rat invasion is on! And the little rodents have a freakish plot: create bazillions of bizarre and deadly rats bent on trashing everything they can sink their teeth into! YOU gotta stop 'em! Become one of the SCRATCH CATS, an elite squad of eight cat commandos dedicated to protecting the world from its biggest threat yet! Over 50 action-packed levels, 15 specifically designed for multi-player. Six Scratch Cat characters to choose from, plus two hidden "super" cats!</desc>
-		<image>./media/screenshots/Rat Attack! (USA) (En,Fr,De,Es,It,Nl).png</image>
-		<video>./media/videos/Rat Attack! (USA) (En,Fr,De,Es,It,Nl).mp4</video>
-		<marquee>./media/marquees/Rat Attack! (USA) (En,Fr,De,Es,It,Nl).png</marquee>
-		<thumbnail>./images/Rat Attack! (USA) (En,Fr,De,Es,It,Nl)-thumb.png</thumbnail>
-		<fanart>./images/Rat Attack! (USA) (En,Fr,De,Es,It,Nl)-fanart.jpg</fanart>
-		<manual>./manuals/Rat Attack! (USA) (En,Fr,De,Es,It,Nl)-manual.pdf</manual>
-		<bezel>./images/Rat Attack! (USA) (En,Fr,De,Es,It,Nl)-bezel.png</bezel>
-		<boxback>./images/Rat Attack! (USA) (En,Fr,De,Es,It,Nl)-boxback.png</boxback>
-		<rating>0.6</rating>
-		<releasedate>20000421T000000</releasedate>
-		<developer>Pure Entertainment</developer>
-		<publisher>Mindscape</publisher>
-		<genre>Puzzle-Game</genre>
-		<players>1-4</players>
-		<kidgame>true</kidgame>
-		<crc32>2315FEA7</crc32>
-		<md5>f661889fdf65ddcd212e9fb53b2c8f50</md5>
-		<lang>de,en,es,fr,it,nl</lang>
-		<region>eu</region>
-		<scrap name="ScreenScraper" date="20230301T213701" />
 		<scrap name="ArcadeDB" date="20221212T151853" />
 	</game>
 	<game id="5417">
@@ -14470,35 +13990,6 @@ Conker goes through plenty of wild and wacky levels, most of which are based on 
 		<scrap name="ArcadeDB" date="20221212T151950" />
 	</game>
 	<game id="5402">
-		<path>./No-Intro/ByteSwapped/Conker's Bad Fur Day (USA) (Beta) (ECTS 2000) (2000-08-26).v64</path>
-		<name>Conker's Bad Fur Day</name>
-		<desc>Unlike every other Nintendo game ever made, Conker sees his first outing on the N64 with a mature audience in mind. But don't let the violence get in your way of playing this title, which is much like other Rare platformers including Banjo-Kazooie, with a twist.
-
-In this case, Conker has had one hell of a night, and when he wakes up not only does he have a huge hangover, but something just doesn't feel right. So it's up to Conker and his many skills to clean things up. 
-
-Conker goes through plenty of wild and wacky levels, most of which are based on classic movies including The Matrix, Jaws, Aliens, The Terminator and even Eyes Wide Shut. A multiplayer mode is also included, allowing 4 players to battle it out in many different styles of multiplayer gameplay.</desc>
-		<image>./media/screenshots/Conker's Bad Fur Day (USA) (Beta) (ECTS 2000) (2000-08-26).png</image>
-		<video>./media/videos/Conker's Bad Fur Day (USA) (Beta) (ECTS 2000) (2000-08-26).mp4</video>
-		<marquee>./media/marquees/Conker's Bad Fur Day (USA) (Beta) (ECTS 2000) (2000-08-26).png</marquee>
-		<thumbnail>./images/Conker's Bad Fur Day (USA) (Beta) (ECTS 2000) (2000-08-26)-thumb.png</thumbnail>
-		<fanart>./images/Conker's Bad Fur Day (USA) (Beta) (ECTS 2000) (2000-08-26)-fanart.jpg</fanart>
-		<manual>./manuals/Conker's Bad Fur Day (USA) (Beta) (ECTS 2000) (2000-08-26)-manual.pdf</manual>
-		<bezel>./images/Conker's Bad Fur Day (USA) (Beta) (ECTS 2000) (2000-08-26)-bezel.png</bezel>
-		<boxback>./images/Conker's Bad Fur Day (USA) (Beta) (ECTS 2000) (2000-08-26)-boxback.png</boxback>
-		<rating>0.8</rating>
-		<releasedate>20010305T000000</releasedate>
-		<developer>Rareware</developer>
-		<publisher>Rareware</publisher>
-		<genre>Platform</genre>
-		<players>1-4</players>
-		<crc32>AF9C5972</crc32>
-		<md5>2b5335b041b161a73c0eba0d76b26ca0</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230301T214144" />
-		<scrap name="ArcadeDB" date="20221212T151950" />
-	</game>
-	<game id="5402">
 		<path>./No-Intro/ByteSwapped/Conker's Bad Fur Day (USA).v64</path>
 		<name>Conker's Bad Fur Day</name>
 		<desc>Unlike every other Nintendo game ever made, Conker sees his first outing on the N64 with a mature audience in mind. But don't let the violence get in your way of playing this title, which is much like other Rare platformers including Banjo-Kazooie, with a twist.
@@ -15154,34 +14645,6 @@ Train a robot with your style for use against the opposing fighters in Robot Mod
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230301T214222" />
 		<scrap name="ArcadeDB" date="20221212T151957" />
-	</game>
-	<game id="5501">
-		<path>./No-Intro/ByteSwapped/Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es) (Beta) (2000-03-07).v64</path>
-		<name>Daffy Duck Starring as Duck Dodgers</name>
-		<desc>Marvin The Martian has developed an ultimate weapon that will allow him to finally destroy Earth, which will ultimately allow him to take control of the universe. Upon the demonstration of the weapon, a slight snag hinders Marvin from completing his devious deed. The Weapon is out of Atoms, which it runs on, so he sends his minions (All of which are characters from the Looney Tune universe) to gather Atoms to fuel his weapon.
-
-Duck Dodgers is informed by his academy of Marvin's deeds and sets out to find the one-hundred Atoms before Marvin can. This ultimately has Dodgers and his sidekick, Cadet, trekking to four different planets, including a large pirate ship, to obtain the upper-hand over Marvin.</desc>
-		<image>./media/screenshots/Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es) (Beta) (2000-03-07).png</image>
-		<video>./media/videos/Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es) (Beta) (2000-03-07).mp4</video>
-		<marquee>./media/marquees/Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es) (Beta) (2000-03-07).png</marquee>
-		<thumbnail>./images/Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es) (Beta) (2000-03-07)-thumb.png</thumbnail>
-		<fanart>./images/Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es) (Beta) (2000-03-07)-fanart.jpg</fanart>
-		<bezel>./images/Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es) (Beta) (2000-03-07)-bezel.png</bezel>
-		<boxback>./images/Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es) (Beta) (2000-03-07)-boxback.png</boxback>
-		<rating>0.7</rating>
-		<releasedate>20001027T000000</releasedate>
-		<developer>Paradigm Entertainment</developer>
-		<publisher>Infogrames</publisher>
-		<genre>Puzzle-Game</genre>
-		<family>Daffy Duck</family>
-		<players>1</players>
-		<kidgame>true</kidgame>
-		<crc32>79D52B78</crc32>
-		<md5>539a7fa34046337bc3f7cc33ebe58faf</md5>
-		<lang>en,es,fr</lang>
-		<region>eu</region>
-		<scrap name="ScreenScraper" date="20230301T214223" />
-		<scrap name="ArcadeDB" date="20221212T151958" />
 	</game>
 	<game id="5501">
 		<path>./No-Intro/ByteSwapped/Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es).v64</path>
@@ -20070,32 +19533,6 @@ Quest 64 is the very first RPG made for the Nintendo 64.  It features colorful g
 		<scrap name="ScreenScraper" date="20230301T214648" />
 		<scrap name="ArcadeDB" date="20221212T152059" />
 	</game>
-	<game id="5611">
-		<path>./No-Intro/ByteSwapped/Rat Attack! (USA) (En,Fr,De,Es,It,Nl).v64</path>
-		<name>Rat Attack</name>
-		<desc>RAT ATTACK! Nuke 'em! The mutant rat invasion is on! And the little rodents have a freakish plot: create bazillions of bizarre and deadly rats bent on trashing everything they can sink their teeth into! YOU gotta stop 'em! Become one of the SCRATCH CATS, an elite squad of eight cat commandos dedicated to protecting the world from its biggest threat yet! Over 50 action-packed levels, 15 specifically designed for multi-player. Six Scratch Cat characters to choose from, plus two hidden "super" cats!</desc>
-		<image>./media/screenshots/Rat Attack! (USA) (En,Fr,De,Es,It,Nl).png</image>
-		<video>./media/videos/Rat Attack! (USA) (En,Fr,De,Es,It,Nl).mp4</video>
-		<marquee>./media/marquees/Rat Attack! (USA) (En,Fr,De,Es,It,Nl).png</marquee>
-		<thumbnail>./images/Rat Attack! (USA) (En,Fr,De,Es,It,Nl)-thumb.png</thumbnail>
-		<fanart>./images/Rat Attack! (USA) (En,Fr,De,Es,It,Nl)-fanart.jpg</fanart>
-		<manual>./manuals/Rat Attack! (USA) (En,Fr,De,Es,It,Nl)-manual.pdf</manual>
-		<bezel>./images/Rat Attack! (USA) (En,Fr,De,Es,It,Nl)-bezel.png</bezel>
-		<boxback>./images/Rat Attack! (USA) (En,Fr,De,Es,It,Nl)-boxback.png</boxback>
-		<rating>0.6</rating>
-		<releasedate>20000421T000000</releasedate>
-		<developer>Pure Entertainment</developer>
-		<publisher>Mindscape</publisher>
-		<genre>Puzzle-Game</genre>
-		<players>1-4</players>
-		<kidgame>true</kidgame>
-		<crc32>78F6FFA2</crc32>
-		<md5>9ef477aa075abfeb026defde6e57b048</md5>
-		<lang>de,en,es,fr,it,nl</lang>
-		<region>eu</region>
-		<scrap name="ScreenScraper" date="20230301T214649" />
-		<scrap name="ArcadeDB" date="20221212T152059" />
-	</game>
 	<game id="5417">
 		<path>./No-Intro/ByteSwapped/Rayman 2 - The Great Escape (USA) (En,Fr,De,Es,It).v64</path>
 		<name>Rayman 2 : The Great Escape</name>
@@ -22690,32 +22127,6 @@ You can also take part in the usual arcade rally style against 4 other cars, wit
 		<scrap name="ArcadeDB" date="20221212T152127" />
 	</game>
 	<game id="5434">
-		<path>./No-Intro/ByteSwapped/Turok 3 - Shadow of Oblivion (USA) (Beta) (2000-07-21).v64</path>
-		<name>Turok 3 : Shadow of Oblivion</name>
-		<desc>Older than time itself, a savage cosmic entity called Oblivion exists only to devour everything in its path. Two new Turok warriors, Danielle and Joseph Fireseed must face this evil. The heritage of Turok and all humankind depends on them. Join the legacy. Over 24 upgradable weapons to battle 40 new and original enemies! Intense multiplayer action - over 8 modes and 48 maps!</desc>
-		<image>./media/screenshots/Turok 3 - Shadow of Oblivion (USA) (Beta) (2000-07-21).png</image>
-		<video>./media/videos/Turok 3 - Shadow of Oblivion (USA) (Beta) (2000-07-21).mp4</video>
-		<marquee>./media/marquees/Turok 3 - Shadow of Oblivion (USA) (Beta) (2000-07-21).png</marquee>
-		<thumbnail>./images/Turok 3 - Shadow of Oblivion (USA) (Beta) (2000-07-21)-thumb.png</thumbnail>
-		<fanart>./images/Turok 3 - Shadow of Oblivion (USA) (Beta) (2000-07-21)-fanart.jpg</fanart>
-		<manual>./manuals/Turok 3 - Shadow of Oblivion (USA) (Beta) (2000-07-21)-manual.pdf</manual>
-		<bezel>./images/Turok 3 - Shadow of Oblivion (USA) (Beta) (2000-07-21)-bezel.png</bezel>
-		<boxback>./images/Turok 3 - Shadow of Oblivion (USA) (Beta) (2000-07-21)-boxback.png</boxback>
-		<rating>0.65</rating>
-		<releasedate>20000906T000000</releasedate>
-		<developer>Acclaim</developer>
-		<publisher>Acclaim</publisher>
-		<genre>Shooter / 1st person</genre>
-		<family>Turok</family>
-		<players>1-4</players>
-		<crc32>9577BC31</crc32>
-		<md5>003870de68ef6cc4f52780479e0ad0ff</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230301T214914" />
-		<scrap name="ArcadeDB" date="20221212T152127" />
-	</game>
-	<game id="5434">
 		<path>./No-Intro/ByteSwapped/Turok 3 - Shadow of Oblivion (USA).v64</path>
 		<name>Turok 3 : Shadow of Oblivion</name>
 		<desc>Older than time itself, a savage cosmic entity called Oblivion exists only to devour everything in its path. Two new Turok warriors, Danielle and Joseph Fireseed must face this evil. The heritage of Turok and all humankind depends on them. Join the legacy. Over 24 upgradable weapons to battle 40 new and original enemies! Intense multiplayer action - over 8 modes and 48 maps!</desc>
@@ -23790,6 +23201,7 @@ Practice: Practice tricks in a half-pipe or jump slope.</desc>
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231105T042611" />
+		<boxback>./images/40 Winks (USA) (Aftermarket) (Unl)-boxback.png</boxback>
 	</game>
 	<game id="59525">
 		<path>./No-Intro/BigEndian/64 de Hakken!! Tamagotchi - Minna de Tamagotchi World (Japan).z64</path>
@@ -41538,6 +40950,7 @@ Conker goes through plenty of wild and wacky levels, most of which are based on 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231105T092641" />
+		<boxback>./images/Conker's Bad Fur Day (USA) (Beta) (2000-08-26) (ECTS 2000)-boxback.png</boxback>
 	</game>
 	<game id="368104">
 		<path>./No-Intro/ByteSwapped/Controller Kensa-ki NUS-yo N Cassette (Japan) (Test Program).v64</path>
@@ -42190,6 +41603,7 @@ Up to four players can compete in the races, but in order to play new tracks, th
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231105T092740" />
+		<boxback>./images/Doom 64 (USA) (Beta) (1996-12-10)-boxback.png</boxback>
 	</game>
 	<game id="59767">
 		<path>./No-Intro/ByteSwapped/Doraemon - Nobita to 3tsu no Seireiseki (Japan).v64</path>
@@ -51242,6 +50656,7 @@ Modes include time trials, stunt mode including unique track designs to get the 
 		<lang>en,es</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231106T055310" />
+		<boxback>./images/Shadowgate 64 - Trials of the Four Towers (USA) (En,Es) (Beta)-boxback.png</boxback>
 	</game>
 	<game id="108714">
 		<path>./No-Intro/ByteSwapped/Shin Nihon Pro Wrestling Toukon Road - Brave Spirits (Japan).v64</path>
@@ -51612,6 +51027,7 @@ Winning a race or performing tricks provides the player with some credit which c
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231106T055346" />
+		<boxback>./images/South Park Rally (USA) (Beta) (2000-01-14)-boxback.png</boxback>
 	</game>
 	<game id="5531">
 		<path>./No-Intro/ByteSwapped/South Park Rally (USA) (Beta) (2000-01-27).v64</path>
@@ -51634,6 +51050,7 @@ Winning a race or performing tricks provides the player with some credit which c
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231106T055348" />
+		<boxback>./images/South Park Rally (USA) (Beta) (2000-01-27)-boxback.png</boxback>
 	</game>
 	<game id="5635">
 		<path>./No-Intro/ByteSwapped/Space Dynamites (Japan).v64</path>
@@ -52052,6 +51469,7 @@ Change vehicles mid-mission through specially designated hangars.</desc>
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231106T055425" />
+		<boxback>./images/Star Wars Episode I - Battle for Naboo (USA) (Beta)-boxback.png</boxback>
 	</game>
 	<game id="5412">
 		<path>./No-Intro/ByteSwapped/Star Wars Episode I - Racer (Europe) (En,Fr,De).v64</path>
@@ -53889,6 +53307,7 @@ You can also take part in the usual arcade rally style against 4 other cars, wit
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231106T055726" />
+		<boxback>./images/Turok 3 - Shadow of Oblivion (USA) (Beta) (2000-05-03)-boxback.png</boxback>
 	</game>
 	<game id="5434">
 		<path>./No-Intro/ByteSwapped/Turok 3 - Shadow of Oblivion (USA) (Beta) (2000-07-16).v64</path>
@@ -53912,6 +53331,7 @@ You can also take part in the usual arcade rally style against 4 other cars, wit
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231106T055728" />
+		<boxback>./images/Turok 3 - Shadow of Oblivion (USA) (Beta) (2000-07-16)-boxback.png</boxback>
 	</game>
 	<game id="5434">
 		<path>./No-Intro/ByteSwapped/Turok 3 - Shadow of Oblivion (USA) (Beta) (2000-07-18).v64</path>
@@ -53935,6 +53355,7 @@ You can also take part in the usual arcade rally style against 4 other cars, wit
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231106T055731" />
+		<boxback>./images/Turok 3 - Shadow of Oblivion (USA) (Beta) (2000-07-18)-boxback.png</boxback>
 	</game>
 	<game>
 		<path>./No-Intro/ByteSwapped/Twisted Edge - Snowboarding (Europe).v64</path>
@@ -54659,6 +54080,7 @@ You must control the good glove (name Glover) and find the 7 crystals, putting t
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231106T055840" />
+		<boxback>./images/Whack 'n' Roll (USA) (v0.8.2) (Beta) (1998-02-05)-boxback.png</boxback>
 	</game>
 	<game>
 		<path>./No-Intro/ByteSwapped/Wide-Boy64 AGB (World) (v0.00b) (Beta).v64</path>

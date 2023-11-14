@@ -23,32 +23,4 @@
 		<marquee>./images/GearWorks-marquee.png</marquee>
 		<boxback>./images/GearWorks-boxback.png</boxback>
 	</game>
-	<game id="78394">
-		<path>./No-Intro/20211028-052318 MIA 10/4x4 Off-Road Racing (USA).ipf</path>
-		<name>4x4 Off-Road Racing</name>
-		<desc>As well as recreating off road racing, this game has considerable capability to upgrade your vehicle. There are four choices of vehicle on offer, each of which has its own weight/top-speed/build strength and so on, and thus is suited to different circuits. You can also buy upgrades and repairs, including carrying some spares.
-
-
-
-There are four completely different types of course, each taking place on a different surface - Mud, Ice, Desert and Mountains. Each of these is littered with hazards, which can either be painstakingly avoided, or driven through (with the resultant risk of damage).</desc>
-		<image>./images/4x4 Off-Road Racing (USA)-image.png</image>
-		<video>./videos/4x4 Off-Road Racing (USA)-video.mp4</video>
-		<marquee>./images/4x4 Off-Road Racing (USA)-marquee.png</marquee>
-		<thumbnail>./images/4x4 Off-Road Racing (USA)-thumb.png</thumbnail>
-		<fanart>./images/4x4 Off-Road Racing (USA)-fanart.jpg</fanart>
-		<releasedate>19880101T000000</releasedate>
-		<developer>Epyx</developer>
-		<publisher>Epyx</publisher>
-		<genre>Race, Driving</genre>
-		<players>1</players>
-		<md5>88a091995dfe707e1048d7e784ba2bc7</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20231102T103903" />
-	</game>
-	<game>
-		<path>./No-Intro/20211028-052318 MIA 10/ABC Monday Night Football (USA) (v1.1) (Disk 1).ipf</path>
-		<name>ABC Monday Night Football (USA) (v1.1) (Disk 1)</name>
-		<md5>83cd70a07c5e2196d7b036adbdca8281</md5>
-	</game>
 </gameList>

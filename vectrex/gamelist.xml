@@ -191,52 +191,6 @@ future groups begin firing at you! Added danger lurks when Evil Otto enters. He 
 		<region>wr</region>
 		<scrap name="ScreenScraper" date="20230228T211910" />
 	</game>
-	<game id="58827">
-		<path>./No-Intro/Blitz! - Action Football (USA, Europe) (0F11CE0C).vec</path>
-		<name>Blitz!: American Football</name>
-		<desc>Will you have a championship season or just be an also-ran?  You're in control as head coach of this championship caliber squad.  Run, pass, punt, kick field goals -- all the excitement of a real game.  Play against the computer's tough defense or invite a visiting coach to join in a real showdown!</desc>
-		<image>./media/screenshots/Blitz! - Action Football (USA, Europe) (0F11CE0C).png</image>
-		<video>./media/videos/Blitz! - Action Football (USA, Europe) (0F11CE0C).mp4</video>
-		<marquee>./media/marquees/Blitz! - Action Football (USA, Europe) (0F11CE0C).png</marquee>
-		<thumbnail>./images/Blitz! - Action Football (USA, Europe) (0F11CE0C)-thumb.png</thumbnail>
-		<manual>./manuals/Blitz! - Action Football (USA, Europe) (0F11CE0C)-manual.pdf</manual>
-		<bezel>./images/Blitz! - Action Football (USA, Europe) (0F11CE0C)-bezel.png</bezel>
-		<boxback>./images/Blitz! - Action Football (USA, Europe) (0F11CE0C)-boxback.png</boxback>
-		<rating>0.7</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>GCE</developer>
-		<publisher>GCE</publisher>
-		<genre>Sports / Football</genre>
-		<players>1-2</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>94f144c31fd4563f9473ed0563463e54</md5>
-		<lang>en</lang>
-		<region>eu</region>
-		<scrap name="ScreenScraper" date="20230228T211912" />
-	</game>
-	<game id="58827">
-		<path>./No-Intro/Blitz! - Action Football (USA, Europe) (881B27C5).vec</path>
-		<name>Blitz!: American Football</name>
-		<desc>Will you have a championship season or just be an also-ran?  You're in control as head coach of this championship caliber squad.  Run, pass, punt, kick field goals -- all the excitement of a real game.  Play against the computer's tough defense or invite a visiting coach to join in a real showdown!</desc>
-		<image>./media/screenshots/Blitz! - Action Football (USA, Europe) (881B27C5).png</image>
-		<video>./media/videos/Blitz! - Action Football (USA, Europe) (881B27C5).mp4</video>
-		<marquee>./media/marquees/Blitz! - Action Football (USA, Europe) (881B27C5).png</marquee>
-		<thumbnail>./images/Blitz! - Action Football (USA, Europe) (881B27C5)-thumb.png</thumbnail>
-		<manual>./manuals/Blitz! - Action Football (USA, Europe) (881B27C5)-manual.pdf</manual>
-		<bezel>./images/Blitz! - Action Football (USA, Europe) (881B27C5)-bezel.png</bezel>
-		<boxback>./images/Blitz! - Action Football (USA, Europe) (881B27C5)-boxback.png</boxback>
-		<rating>0.7</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>GCE</developer>
-		<publisher>GCE</publisher>
-		<genre>Sports / Football</genre>
-		<players>1-2</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>5d74770bb175357812e61ee7ca731270</md5>
-		<lang>en</lang>
-		<region>eu</region>
-		<scrap name="ScreenScraper" date="20230228T211913" />
-	</game>
 	<game id="58831">
 		<path>./No-Intro/Clean Sweep (World).vec</path>
 		<name>Clean Sweep</name>
@@ -584,58 +538,6 @@ Seek out the survivors on your sonar screen and pilot your sub to their rescue! 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230228T211938" />
-	</game>
-	<game id="58879">
-		<path>./No-Intro/Pole Position (USA) (A00ED3D6).vec</path>
-		<name>Pole Position</name>
-		<desc>The spectacular arcade game, Pole Position, takes on an exciting new look through the magic of Vectrex! Experience all the challenge of a Grand Prix racing event with non-stop action that'll leave you breathless!
-Do you possess the skill, dexterity and courage to pull out from the crowd for qualification in one of the exclusive starting positions... or will you end up as an also ran?</desc>
-		<image>./media/screenshots/Pole Position (USA) (A00ED3D6).png</image>
-		<video>./media/videos/Pole Position (USA) (A00ED3D6).mp4</video>
-		<marquee>./media/marquees/Pole Position (USA) (A00ED3D6).png</marquee>
-		<thumbnail>./images/Pole Position (USA) (A00ED3D6)-thumb.png</thumbnail>
-		<fanart>./images/Pole Position (USA) (A00ED3D6)-fanart.jpg</fanart>
-		<manual>./manuals/Pole Position (USA) (A00ED3D6)-manual.pdf</manual>
-		<bezel>./images/Pole Position (USA) (A00ED3D6)-bezel.png</bezel>
-		<boxback>./images/Pole Position (USA) (A00ED3D6)-boxback.png</boxback>
-		<rating>0.8</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>GCE</publisher>
-		<genre>Race, Driving / Race 3rd Pers. view</genre>
-		<family>Pole Position</family>
-		<players>1</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>f94173910549038d4d8f329413a5aa54</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230228T211940" />
-	</game>
-	<game id="58879">
-		<path>./No-Intro/Pole Position (USA) (C10F37D8).vec</path>
-		<name>Pole Position</name>
-		<desc>The spectacular arcade game, Pole Position, takes on an exciting new look through the magic of Vectrex! Experience all the challenge of a Grand Prix racing event with non-stop action that'll leave you breathless!
-Do you possess the skill, dexterity and courage to pull out from the crowd for qualification in one of the exclusive starting positions... or will you end up as an also ran?</desc>
-		<image>./media/screenshots/Pole Position (USA) (C10F37D8).png</image>
-		<video>./media/videos/Pole Position (USA) (C10F37D8).mp4</video>
-		<marquee>./media/marquees/Pole Position (USA) (C10F37D8).png</marquee>
-		<thumbnail>./images/Pole Position (USA) (C10F37D8)-thumb.png</thumbnail>
-		<fanart>./images/Pole Position (USA) (C10F37D8)-fanart.jpg</fanart>
-		<manual>./manuals/Pole Position (USA) (C10F37D8)-manual.pdf</manual>
-		<bezel>./images/Pole Position (USA) (C10F37D8)-bezel.png</bezel>
-		<boxback>./images/Pole Position (USA) (C10F37D8)-boxback.png</boxback>
-		<rating>0.8</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>GCE</publisher>
-		<genre>Race, Driving / Race 3rd Pers. view</genre>
-		<family>Pole Position</family>
-		<players>1</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<md5>f85c521f445c82bf200b5b85b9b1cd60</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230228T211942" />
 	</game>
 	<game id="58882">
 		<path>./No-Intro/RA+A Spectrum I+ Stress Tester (USA) (Proto).vec</path>

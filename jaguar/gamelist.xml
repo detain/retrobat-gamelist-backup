@@ -1,91 +1,5 @@
 <?xml version="1.0"?>
 <gameList>
-	<game>
-		<path>./No-Intro/J64/Alice's Mom's Rescue (World) (En,Fr,De,Es,It) (Aftermarket) (Homebrew).j64</path>
-		<name>Alice's Mom's Rescue (World) (En,Fr,De,Es,It) (Aftermarket) (Homebrew)</name>
-		<md5>4ba072b0d3a31f7c0d58e8fcf22f6a34</md5>
-		<scrap name="ScreenScraper" date="20230215T191757" />
-	</game>
-	<game id="14145">
-		<path>./No-Intro/J64/Alien vs Predator (World) (v0.93) (Beta) (1994-04-08T082644).j64</path>
-		<name>Aliens Versus Predator</name>
-		<desc>Aliens versus Predator is a first-person shooter on Jaguar. It offers to play as a Marine, an Alien or a Predator, each race having its own strengths and weaknesses. The three campaigns take place on a space colony of marines beset by aliens, and on which a Predator ship has discreetly landed to try to kill the alien queen!</desc>
-		<image>./images/Alien vs Predator (World) (v0.93) (Beta) (1994-04-08T082644)-image.png</image>
-		<video>./videos/Alien vs Predator (World) (v0.93) (Beta) (1994-04-08T082644)-video.mp4</video>
-		<marquee>./images/Alien vs Predator (World) (v0.93) (Beta) (1994-04-08T082644)-marquee.png</marquee>
-		<thumbnail>./images/Alien vs Predator (World) (v0.93) (Beta) (1994-04-08T082644)-thumb.png</thumbnail>
-		<fanart>./images/Alien vs Predator (World) (v0.93) (Beta) (1994-04-08T082644)-fanart.jpg</fanart>
-		<manual>./manuals/Alien vs Predator (World) (v0.93) (Beta) (1994-04-08T082644)-manual.pdf</manual>
-		<boxback>./images/Alien vs Predator (World) (v0.93) (Beta) (1994-04-08T082644)-boxback.png</boxback>
-		<rating>0.75</rating>
-		<releasedate>19941020T000000</releasedate>
-		<developer>Rebellion</developer>
-		<publisher>Atari</publisher>
-		<genre>Shooter / 1st person</genre>
-		<family>Alien</family>
-		<players>1</players>
-		<md5>51ae6d493492ebf9ca3b3bd919e46fc4</md5>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ScreenScraper" date="20230215T191814" />
-	</game>
-	<game id="145237">
-		<path>./No-Intro/J64/Beebris (World) (Aftermarket) (Homebrew).j64</path>
-		<name>Beebris</name>
-		<desc>Beebris is a single-player puzzle game featuring several challenging game modes. Based on the popular tetromino arcade games, Beebris has 40 levels of difficulty, web-based high score tables and one-more-game addictiveness. It also has rather iffy controls in very early and later levels!</desc>
-		<image>./images/Beebris (World) (Aftermarket) (Homebrew)-image.png</image>
-		<video>./videos/Beebris (World) (Aftermarket) (Homebrew)-video.mp4</video>
-		<marquee>./images/Beebris (World) (Aftermarket) (Homebrew)-marquee.png</marquee>
-		<thumbnail>./images/Beebris (World) (Aftermarket) (Homebrew)-thumb.png</thumbnail>
-		<fanart>./images/Beebris (World) (Aftermarket) (Homebrew)-fanart.jpg</fanart>
-		<boxback>./images/Beebris (World) (Aftermarket) (Homebrew)-boxback.png</boxback>
-		<rating>0.6</rating>
-		<releasedate>20091126T000000</releasedate>
-		<developer>Reboot of Jagware</developer>
-		<publisher>Reboot of Jagware</publisher>
-		<genre>Puzzle-Game</genre>
-		<players>1</players>
-		<md5>c90b48d51cf9381ef00c24696bccc1de</md5>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ScreenScraper" date="20230215T191830" />
-	</game>
-	<game>
-		<path>./No-Intro/J64/Degz (World) (Aftermarket) (Homebrew).j64</path>
-		<name>Degz (World) (Aftermarket) (Homebrew)</name>
-		<md5>575211b5efa10433d18702d2a315c02b</md5>
-		<scrap name="ScreenScraper" date="20230215T191832" />
-	</game>
-	<game>
-		<path>./No-Intro/J64/DiamJag (World) (Aftermarket) (Homebrew).j64</path>
-		<name>DiamJag (World) (Aftermarket) (Homebrew)</name>
-		<md5>9885c4e29a6fbe3f55a9e19c9e25bd71</md5>
-		<scrap name="ScreenScraper" date="20230215T191834" />
-	</game>
-	<game>
-		<path>./No-Intro/J64/Do the Same (World) (Aftermarket) (Homebrew).j64</path>
-		<name>Do the Same (World) (Aftermarket) (Homebrew)</name>
-		<md5>fe5ebd548917186168e4dba4a641bd39</md5>
-		<scrap name="ScreenScraper" date="20230215T191836" />
-	</game>
-	<game>
-		<path>./No-Intro/J64/Downfall (World) (Aftermarket) (Homebrew).j64</path>
-		<name>Downfall (World) (Aftermarket) (Homebrew)</name>
-		<md5>4206ec6abeee07b9525fdda9925f3e55</md5>
-		<scrap name="ScreenScraper" date="20230215T191838" />
-	</game>
-	<game>
-		<path>./No-Intro/J64/Expressway (World) (Aftermarket) (Homebrew).j64</path>
-		<name>Expressway (World) (Aftermarket) (Homebrew)</name>
-		<md5>06669eb0a0be483ce628f4b3d5734812</md5>
-		<scrap name="ScreenScraper" date="20230215T191840" />
-	</game>
-	<game>
-		<path>./No-Intro/J64/Full Circle - Rocketeer (World) (Demo) (Aftermarket) (Homebrew).j64</path>
-		<name>Full Circle - Rocketeer (World) (Demo) (Aftermarket) (Homebrew)</name>
-		<md5>161f4b7bd58014d8aebc8c1c56409338</md5>
-		<scrap name="ScreenScraper" date="20230215T191842" />
-	</game>
 	<game id="14183">
 		<path>./No-Intro/J64/I-War (USA, Europe) (Beta) (1995-10-20).j64</path>
 		<name>I-War</name>
@@ -108,12 +22,6 @@ You can select a fast, medium, or heavy tank at the beginning of the game, with 
 		<lang>en</lang>
 		<region>eu</region>
 		<scrap name="ScreenScraper" date="20230215T191857" />
-	</game>
-	<game>
-		<path>./No-Intro/J64/Impulse X (World) (Aftermarket) (Homebrew).j64</path>
-		<name>Impulse X (World) (Aftermarket) (Homebrew)</name>
-		<md5>95428543b717e957b1343d2277860a03</md5>
-		<scrap name="ScreenScraper" date="20230215T191859" />
 	</game>
 	<game id="200229">
 		<path>./No-Intro/J64/Jack Nicklaus Cyber Golf (USA) (v0.02) (Proto) (1994-07-04).j64</path>
@@ -175,12 +83,6 @@ You can select a fast, medium, or heavy tank at the beginning of the game, with 
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230215T191939" />
 	</game>
-	<game>
-		<path>./No-Intro/J64/Jungle Jag (World) (Aftermarket) (Homebrew).j64</path>
-		<name>Jungle Jag (World) (Aftermarket) (Homebrew)</name>
-		<md5>10d5734139bb1158a4405eaead761f04</md5>
-		<scrap name="ScreenScraper" date="20230215T191941" />
-	</game>
 	<game id="14151">
 		<path>./No-Intro/J64/Kasumi Ninja (World) (v0.01) (Beta).j64</path>
 		<name>Kasumi Ninja</name>
@@ -228,150 +130,10 @@ Kasumi Ninja is a one-on-one fighting game featuring digitized character graphic
 		<scrap name="ScreenScraper" date="20230215T192013" />
 	</game>
 	<game>
-		<path>./No-Intro/J64/Kobayashi Maru (World) (Aftermarket) (Homebrew).j64</path>
-		<name>Kobayashi Maru (World) (Aftermarket) (Homebrew)</name>
-		<md5>9c43a83d646026a7f9fea35f1706bcdd</md5>
-		<scrap name="ScreenScraper" date="20230215T192015" />
-	</game>
-	<game>
-		<path>./No-Intro/J64/Kobayashi Maru - Final (World) (Demo) (Aftermarket) (Homebrew).j64</path>
-		<name>Kobayashi Maru - Final (World) (Demo) (Aftermarket) (Homebrew)</name>
-		<md5>a64d2de0dfc727762b4a200ed69f0f46</md5>
-		<scrap name="ScreenScraper" date="20230215T192017" />
-	</game>
-	<game>
-		<path>./No-Intro/J64/Mad Bodies (World) (Proto) (2009-01-17) (Aftermarket) (Homebrew).j64</path>
-		<name>Mad Bodies (World) (Proto) (2009-01-17) (Aftermarket) (Homebrew)</name>
-		<md5>0a2ffc9d5e196b62cbc32c983ca3a7d9</md5>
-		<scrap name="ScreenScraper" date="20230215T192019" />
-	</game>
-	<game>
-		<path>./No-Intro/J64/Orion_'s Jaguar Collection (World) (Aftermarket) (Homebrew).j64</path>
-		<name>Orion_'s Jaguar Collection (World) (Aftermarket) (Homebrew)</name>
-		<md5>59e267f9a8946b6c61c133a9bda9d88a</md5>
-		<scrap name="ScreenScraper" date="20230215T192021" />
-	</game>
-	<game>
-		<path>./No-Intro/J64/OSMOZYS (World) (Demo) (Aftermarket) (Homebrew).j64</path>
-		<name>OSMOZYS (World) (Demo) (Aftermarket) (Homebrew)</name>
-		<md5>985bd1236c3c416381240fb537e86536</md5>
-		<scrap name="ScreenScraper" date="20230215T192023" />
-	</game>
-	<game>
-		<path>./No-Intro/J64/Project One (World) (Demo) (Aftermarket) (Homebrew).j64</path>
-		<name>Project One (World) (Demo) (Aftermarket) (Homebrew)</name>
-		<md5>ac53e13f22837c460521422ed328ffd0</md5>
-		<scrap name="ScreenScraper" date="20230215T192025" />
-	</game>
-	<game>
-		<path>./No-Intro/J64/Rebooteroids (World) (Proto) (Aftermarket) (Homebrew).j64</path>
-		<name>Rebooteroids (World) (Proto) (Aftermarket) (Homebrew)</name>
-		<md5>2ffe66cd0494672d34e23146ff662a7c</md5>
-		<scrap name="ScreenScraper" date="20230215T192027" />
-	</game>
-	<game>
-		<path>./No-Intro/J64/Rocks Off! (World) (Aftermarket) (Homebrew).j64</path>
-		<name>Rocks Off! (World) (Aftermarket) (Homebrew)</name>
-		<md5>fb46a8ecc704eb855a82862b1e25306e</md5>
-		<scrap name="ScreenScraper" date="20230215T192030" />
-	</game>
-	<game>
 		<path>./No-Intro/J64/SkyCopter II (USA) (Proto).j64</path>
 		<name>SkyCopter II (USA) (Proto)</name>
 		<md5>d128a5dd0bac4dbaab0fb402efb2b0ee</md5>
 		<scrap name="ScreenScraper" date="20230215T192032" />
-	</game>
-	<game>
-		<path>./No-Intro/J64/SuperFly DX (World) (v1.1) (Aftermarket) (Homebrew).j64</path>
-		<name>SuperFly DX (World) (v1.1) (Aftermarket) (Homebrew)</name>
-		<md5>f6e38956d245a4f4e8c3b08349422fc8</md5>
-		<scrap name="ScreenScraper" date="20230215T192034" />
-	</game>
-	<game>
-		<path>./No-Intro/ROM/Alice's Mom's Rescue (World) (En,Fr,De,Es,It) (Aftermarket) (Homebrew).rom</path>
-		<name>Alice's Mom's Rescue (World) (En,Fr,De,Es,It) (Aftermarket) (Homebrew)</name>
-		<md5>f11f06533b17d66f66b59a1d5c01ce51</md5>
-		<scrap name="ScreenScraper" date="20230215T192036" />
-	</game>
-	<game id="14145">
-		<path>./No-Intro/ROM/Alien vs Predator (World) (v0.93) (Beta) (1994-04-08T082644).rom</path>
-		<name>Aliens Versus Predator</name>
-		<desc>Aliens versus Predator is a first-person shooter on Jaguar. It offers to play as a Marine, an Alien or a Predator, each race having its own strengths and weaknesses. The three campaigns take place on a space colony of marines beset by aliens, and on which a Predator ship has discreetly landed to try to kill the alien queen!</desc>
-		<image>./images/Alien vs Predator (World) (v0.93) (Beta) (1994-04-08T082644)-image.png</image>
-		<video>./videos/Alien vs Predator (World) (v0.93) (Beta) (1994-04-08T082644)-video.mp4</video>
-		<marquee>./images/Alien vs Predator (World) (v0.93) (Beta) (1994-04-08T082644)-marquee.png</marquee>
-		<thumbnail>./images/Alien vs Predator (World) (v0.93) (Beta) (1994-04-08T082644)-thumb.png</thumbnail>
-		<fanart>./images/Alien vs Predator (World) (v0.93) (Beta) (1994-04-08T082644)-fanart.jpg</fanart>
-		<manual>./manuals/Alien vs Predator (World) (v0.93) (Beta) (1994-04-08T082644)-manual.pdf</manual>
-		<boxback>./images/Alien vs Predator (World) (v0.93) (Beta) (1994-04-08T082644)-boxback.png</boxback>
-		<rating>0.75</rating>
-		<releasedate>19941020T000000</releasedate>
-		<developer>Rebellion</developer>
-		<publisher>Atari</publisher>
-		<genre>Shooter / 1st person</genre>
-		<family>Alien</family>
-		<players>1</players>
-		<md5>2b299e92e82031a31235da74850670cf</md5>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ScreenScraper" date="20230215T192038" />
-	</game>
-	<game id="145237">
-		<path>./No-Intro/ROM/Beebris (World) (Aftermarket) (Homebrew).rom</path>
-		<name>Beebris</name>
-		<desc>Beebris is a single-player puzzle game featuring several challenging game modes. Based on the popular tetromino arcade games, Beebris has 40 levels of difficulty, web-based high score tables and one-more-game addictiveness. It also has rather iffy controls in very early and later levels!</desc>
-		<image>./images/Beebris (World) (Aftermarket) (Homebrew)-image.png</image>
-		<video>./videos/Beebris (World) (Aftermarket) (Homebrew)-video.mp4</video>
-		<marquee>./images/Beebris (World) (Aftermarket) (Homebrew)-marquee.png</marquee>
-		<thumbnail>./images/Beebris (World) (Aftermarket) (Homebrew)-thumb.png</thumbnail>
-		<fanart>./images/Beebris (World) (Aftermarket) (Homebrew)-fanart.jpg</fanart>
-		<boxback>./images/Beebris (World) (Aftermarket) (Homebrew)-boxback.png</boxback>
-		<rating>0.6</rating>
-		<releasedate>20091126T000000</releasedate>
-		<developer>Reboot of Jagware</developer>
-		<publisher>Reboot of Jagware</publisher>
-		<genre>Puzzle-Game</genre>
-		<players>1</players>
-		<md5>6d5c27068b28b2f75fbd0e41b83475e0</md5>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ScreenScraper" date="20230215T192041" />
-	</game>
-	<game>
-		<path>./No-Intro/ROM/Degz (World) (Aftermarket) (Homebrew).rom</path>
-		<name>Degz (World) (Aftermarket) (Homebrew)</name>
-		<md5>9a0caf57934807c69529a9bde3ec5c6e</md5>
-		<scrap name="ScreenScraper" date="20230215T192043" />
-	</game>
-	<game>
-		<path>./No-Intro/ROM/DiamJag (World) (Aftermarket) (Homebrew).rom</path>
-		<name>DiamJag (World) (Aftermarket) (Homebrew)</name>
-		<md5>3f5403b039b1a03caecada5afd909d6d</md5>
-		<scrap name="ScreenScraper" date="20230215T192045" />
-	</game>
-	<game>
-		<path>./No-Intro/ROM/Do the Same (World) (Aftermarket) (Homebrew).rom</path>
-		<name>Do the Same (World) (Aftermarket) (Homebrew)</name>
-		<md5>9da9b713fb50587045ecf8ac7576816f</md5>
-		<scrap name="ScreenScraper" date="20230215T192047" />
-	</game>
-	<game>
-		<path>./No-Intro/ROM/Downfall (World) (Aftermarket) (Homebrew).rom</path>
-		<name>Downfall (World) (Aftermarket) (Homebrew)</name>
-		<md5>26588fe1623a67467adbbed3f52f0248</md5>
-		<scrap name="ScreenScraper" date="20230215T192049" />
-	</game>
-	<game>
-		<path>./No-Intro/ROM/Expressway (World) (Aftermarket) (Homebrew).rom</path>
-		<name>Expressway (World) (Aftermarket) (Homebrew)</name>
-		<md5>4712a5c983b3d7e7d51f959825346ca5</md5>
-		<scrap name="ScreenScraper" date="20230215T192051" />
-	</game>
-	<game>
-		<path>./No-Intro/ROM/Full Circle - Rocketeer (World) (Demo) (Aftermarket) (Homebrew).rom</path>
-		<name>Full Circle - Rocketeer (World) (Demo) (Aftermarket) (Homebrew)</name>
-		<md5>7d2611a334962e57e534149245d11f5d</md5>
-		<scrap name="ScreenScraper" date="20230215T192053" />
 	</game>
 	<game id="14183">
 		<path>./No-Intro/ROM/I-War (USA, Europe) (Beta) (1995-10-20).rom</path>
@@ -395,12 +157,6 @@ You can select a fast, medium, or heavy tank at the beginning of the game, with 
 		<lang>en</lang>
 		<region>eu</region>
 		<scrap name="ScreenScraper" date="20230215T192055" />
-	</game>
-	<game>
-		<path>./No-Intro/ROM/Impulse X (World) (Aftermarket) (Homebrew).rom</path>
-		<name>Impulse X (World) (Aftermarket) (Homebrew)</name>
-		<md5>8d69fb7b5c189282fee4daa22bcb8dd4</md5>
-		<scrap name="ScreenScraper" date="20230215T192057" />
 	</game>
 	<game id="200229">
 		<path>./No-Intro/ROM/Jack Nicklaus Cyber Golf (USA) (v0.02) (Proto) (1994-07-04).rom</path>
@@ -462,12 +218,6 @@ You can select a fast, medium, or heavy tank at the beginning of the game, with 
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230215T192103" />
 	</game>
-	<game>
-		<path>./No-Intro/ROM/Jungle Jag (World) (Aftermarket) (Homebrew).rom</path>
-		<name>Jungle Jag (World) (Aftermarket) (Homebrew)</name>
-		<md5>9396a60e9767df485128eb8704104d0d</md5>
-		<scrap name="ScreenScraper" date="20230215T192105" />
-	</game>
 	<game id="14151">
 		<path>./No-Intro/ROM/Kasumi Ninja (World) (v0.01) (Beta).rom</path>
 		<name>Kasumi Ninja</name>
@@ -515,64 +265,10 @@ Kasumi Ninja is a one-on-one fighting game featuring digitized character graphic
 		<scrap name="ScreenScraper" date="20230215T192109" />
 	</game>
 	<game>
-		<path>./No-Intro/ROM/Kobayashi Maru (World) (Aftermarket) (Homebrew).rom</path>
-		<name>Kobayashi Maru (World) (Aftermarket) (Homebrew)</name>
-		<md5>5172e48ff4b33679366d258cb406c222</md5>
-		<scrap name="ScreenScraper" date="20230215T192111" />
-	</game>
-	<game>
-		<path>./No-Intro/ROM/Kobayashi Maru - Final (World) (Demo) (Aftermarket) (Homebrew).rom</path>
-		<name>Kobayashi Maru - Final (World) (Demo) (Aftermarket) (Homebrew)</name>
-		<md5>b6b453228469a980a55e6d1c0e77dc9e</md5>
-		<scrap name="ScreenScraper" date="20230215T192113" />
-	</game>
-	<game>
-		<path>./No-Intro/ROM/Mad Bodies (World) (Proto) (2009-01-17) (Aftermarket) (Homebrew).rom</path>
-		<name>Mad Bodies (World) (Proto) (2009-01-17) (Aftermarket) (Homebrew)</name>
-		<md5>fb7cbbda44e9acaac38ee278e7ab4eb3</md5>
-		<scrap name="ScreenScraper" date="20230215T192115" />
-	</game>
-	<game>
-		<path>./No-Intro/ROM/Orion_'s Jaguar Collection (World) (Aftermarket) (Homebrew).rom</path>
-		<name>Orion_'s Jaguar Collection (World) (Aftermarket) (Homebrew)</name>
-		<md5>d39b299a630f6721f588fef194e9dbdd</md5>
-		<scrap name="ScreenScraper" date="20230215T192117" />
-	</game>
-	<game>
-		<path>./No-Intro/ROM/OSMOZYS (World) (Demo) (Aftermarket) (Homebrew).rom</path>
-		<name>OSMOZYS (World) (Demo) (Aftermarket) (Homebrew)</name>
-		<md5>36123d4713b40a443be5efd5dbb99eb6</md5>
-		<scrap name="ScreenScraper" date="20230215T192119" />
-	</game>
-	<game>
-		<path>./No-Intro/ROM/Project One (World) (Demo) (Aftermarket) (Homebrew).rom</path>
-		<name>Project One (World) (Demo) (Aftermarket) (Homebrew)</name>
-		<md5>6de21ae5f94fa42bb714145f0d548da8</md5>
-		<scrap name="ScreenScraper" date="20230215T192120" />
-	</game>
-	<game>
-		<path>./No-Intro/ROM/Rebooteroids (World) (Proto) (Aftermarket) (Homebrew).rom</path>
-		<name>Rebooteroids (World) (Proto) (Aftermarket) (Homebrew)</name>
-		<md5>0af3500bf3d1926796eca6955f06ef04</md5>
-		<scrap name="ScreenScraper" date="20230215T192123" />
-	</game>
-	<game>
-		<path>./No-Intro/ROM/Rocks Off! (World) (Aftermarket) (Homebrew).rom</path>
-		<name>Rocks Off! (World) (Aftermarket) (Homebrew)</name>
-		<md5>fe85b8973957fc5035eac270d0d845b0</md5>
-		<scrap name="ScreenScraper" date="20230215T192124" />
-	</game>
-	<game>
 		<path>./No-Intro/ROM/SkyCopter II (USA) (Proto).rom</path>
 		<name>SkyCopter II (USA) (Proto)</name>
 		<md5>3fe0b56638b2555f78860f30f6267553</md5>
 		<scrap name="ScreenScraper" date="20230215T192126" />
-	</game>
-	<game>
-		<path>./No-Intro/ROM/SuperFly DX (World) (v1.1) (Aftermarket) (Homebrew).rom</path>
-		<name>SuperFly DX (World) (v1.1) (Aftermarket) (Homebrew)</name>
-		<md5>266c97e7cd3c09af24a6a63b22b340db</md5>
-		<scrap name="ScreenScraper" date="20230215T192128" />
 	</game>
 	<game>
 		<path>./TOSEC/Applications/[ABS]/CD Encryption Utility v1.6 (19xx)(BLJ)(PD)/CD Encryption Utility v1.6 (19xx)(BLJ)(PD).abs</path>
@@ -5591,34 +5287,6 @@ Features include true 3D sound, a computer voice (which can be turned off if des
 		<scrap name="ScreenScraper" date="20230301T192453" />
 		<scrap name="ArcadeDB" date="20221212T135709" />
 	</game>
-	<game id="14175">
-		<path>./No-Intro/J64/Aircars (USA).j64</path>
-		<name>Air Cars</name>
-		<desc>AirCars takes place in the future after a nuclear holocaust. 
-The large organization E.B.N.E.R.S. is plotting to take over the world and has developed advanced forcefield and teleportation systems, and nuclear powered AirCars. To stop the plot, your group steals plans, builds its own AirCar, and sets out to destroy all of the bases, 28 known and countless unknown ones, stationed around the globe.
-
-You can choose to play a single player game, the 2-player game using a JagLink, or up to 8 players using ICD's CatBoxes. On screen and on radar, each player's AirCar is displayed in a different color to help identify the good guys from the bad guys. There are 3 difficulty settings. You will be using the cockpit's instrument panel to fly the AirCar, select weapons and view radar, as well as combating the enemy in the air and shooting ground targets.
-
-Features include true 3D sound, a computer voice (which can be turned off if desired), and music during the introduction and level intermissions.</desc>
-		<image>./media/screenshots/Aircars (USA).png</image>
-		<video>./media/videos/Aircars (USA).mp4</video>
-		<marquee>./media/marquees/Aircars (USA).png</marquee>
-		<thumbnail>./images/Aircars (USA)-thumb.png</thumbnail>
-		<manual>./manuals/Aircars (USA)-manual.pdf</manual>
-		<boxback>./images/Aircars (USA)-boxback.png</boxback>
-		<rating>0.3</rating>
-		<releasedate>19970527T000000</releasedate>
-		<developer>Midnite Entertainment Group</developer>
-		<publisher>ICD</publisher>
-		<genre>Race, Driving</genre>
-		<players>1-8</players>
-		<kidgame>true</kidgame>
-		<md5>45e12558e1b9eda1b66b86f68f995f2a</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230301T192455" />
-		<scrap name="ArcadeDB" date="20221212T135710" />
-	</game>
 	<game id="14145">
 		<path>./No-Intro/J64/Alien vs Predator (World) (Beta) (1993-08-18).j64</path>
 		<name>Aliens Versus Predator</name>
@@ -5689,27 +5357,6 @@ Features include true 3D sound, a computer voice (which can be turned off if des
 		<lang>en</lang>
 		<region>wr</region>
 		<scrap name="ScreenScraper" date="20230301T192500" />
-		<scrap name="ArcadeDB" date="20221212T135710" />
-	</game>
-	<game id="200237">
-		<path>./No-Intro/J64/Arena Football '95 (World).j64</path>
-		<name>Arena Football '95</name>
-		<desc>Arena Football '95 is an eight-man indoor football game that is played from a behind-the-player perspective in a three-dimensional environment with digitized sprites. At the main title screen, players can jump right into a quick exhibition game, a demonstration exhibition game or manually set-up the match. Besides the already mentioned modes, the game offers both season and playoffs game modes as well.</desc>
-		<image>./media/screenshots/Arena Football '95 (World).png</image>
-		<video>./media/videos/Arena Football '95 (World).mp4</video>
-		<marquee>./media/marquees/Arena Football '95 (World).png</marquee>
-		<thumbnail>./images/Arena Football '95 (World)-thumb.png</thumbnail>
-		<boxback>./images/Arena Football '95 (World)-boxback.png</boxback>
-		<rating />
-		<releasedate>20060715T000000</releasedate>
-		<developer>V-Real Interactive</developer>
-		<publisher>Atari</publisher>
-		<genre>Sports / Football</genre>
-		<players>1-8</players>
-		<md5>a73c0e4f3a0d3de6c40688ff66eb4b6e</md5>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ScreenScraper" date="20230301T192502" />
 		<scrap name="ArcadeDB" date="20221212T135710" />
 	</game>
 	<game id="14160">
@@ -5788,94 +5435,6 @@ There is only one game mode, a points based cup series.  There are four difficul
 		<scrap name="ScreenScraper" date="20230301T192506" />
 		<scrap name="ArcadeDB" date="20221212T135711" />
 	</game>
-	<game id="200235">
-		<path>./No-Intro/J64/Barkley Shut Up and Jam (World) (Beta).j64</path>
-		<name>Barkley Shut Up and Jam!</name>
-		<desc>Barkley Shut Up and Jam! is a basketball video game featuring arcade-style gameplay similar to Midway's NBA Jam but closely following the rules seen in street basketball, players compete with either CPU-controlled opponents or against other players in matches across various cities of the United States.</desc>
-		<image>./media/screenshots/Barkley Shut Up and Jam (World) (Beta).png</image>
-		<video>./media/videos/Barkley Shut Up and Jam (World) (Beta).mp4</video>
-		<marquee>./media/marquees/Barkley Shut Up and Jam (World) (Beta).png</marquee>
-		<thumbnail>./images/Barkley Shut Up and Jam (World) (Beta)-thumb.png</thumbnail>
-		<boxback>./images/Barkley Shut Up and Jam (World) (Beta)-boxback.png</boxback>
-		<rating>0.65</rating>
-		<releasedate>20020701T000000</releasedate>
-		<developer>Ringler Studios</developer>
-		<publisher>B&amp;C Computervision</publisher>
-		<genre>Sports / Basketball</genre>
-		<players>1-4</players>
-		<md5>a69b7a8a9a7a42b189ab48ce8e8587c1</md5>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ScreenScraper" date="20230301T192508" />
-		<scrap name="ArcadeDB" date="20221212T135711" />
-	</game>
-	<game id="200235">
-		<path>./No-Intro/J64/Barkley Shut Up and Jam (World).j64</path>
-		<name>Barkley Shut Up and Jam!</name>
-		<desc>Barkley Shut Up and Jam! is a basketball video game featuring arcade-style gameplay similar to Midway's NBA Jam but closely following the rules seen in street basketball, players compete with either CPU-controlled opponents or against other players in matches across various cities of the United States.</desc>
-		<image>./media/screenshots/Barkley Shut Up and Jam (World).png</image>
-		<video>./media/videos/Barkley Shut Up and Jam (World).mp4</video>
-		<marquee>./media/marquees/Barkley Shut Up and Jam (World).png</marquee>
-		<thumbnail>./images/Barkley Shut Up and Jam (World)-thumb.png</thumbnail>
-		<boxback>./images/Barkley Shut Up and Jam (World)-boxback.png</boxback>
-		<rating>0.65</rating>
-		<releasedate>20020701T000000</releasedate>
-		<developer>Ringler Studios</developer>
-		<publisher>B&amp;C Computervision</publisher>
-		<genre>Sports / Basketball</genre>
-		<players>1-4</players>
-		<md5>7e06fe6e441707ebcdbd0de5ec068c6e</md5>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ScreenScraper" date="20230301T192510" />
-		<scrap name="ArcadeDB" date="20221212T135711" />
-	</game>
-	<game id="46477">
-		<path>./No-Intro/J64/Battle Sphere (World).j64</path>
-		<name>Battle Sphere Gold</name>
-		<desc>A 3D space combat simulator, BattleSphere's story was based upon an episode in the original Star Trek television series and it plays similarly to Star Raiders.
-
-Seven alien races vie against each other - the victor will control the galaxy. They meet in an arena in Sector 51, a spherical sector of space formerly used by the Earth government to secretly test new weapons and starships. Gameplay consists of 5 different play modes with different scenarios and goals. Choose from various starships (each with unique weapons systems) and battle the aliens, who have also chosen their best fighters and have many space ships of their own.</desc>
-		<image>./media/screenshots/Battle Sphere (World).png</image>
-		<video>./media/videos/Battle Sphere (World).mp4</video>
-		<marquee>./media/marquees/Battle Sphere (World).png</marquee>
-		<thumbnail>./images/Battle Sphere (World)-thumb.png</thumbnail>
-		<boxback>./images/Battle Sphere (World)-boxback.png</boxback>
-		<rating>0.7</rating>
-		<releasedate>20020315T000000</releasedate>
-		<developer>4Play/ScatoLogic</developer>
-		<publisher>4Play/ScatoLogic</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>1-32</players>
-		<md5>984ed59d91435ec0d8193e168df31c10</md5>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ScreenScraper" date="20230301T192511" />
-		<scrap name="ArcadeDB" date="20221212T135711" />
-	</game>
-	<game id="46477">
-		<path>./No-Intro/J64/Battle Sphere Gold (World).j64</path>
-		<name>Battle Sphere Gold</name>
-		<desc>A 3D space combat simulator, BattleSphere's story was based upon an episode in the original Star Trek television series and it plays similarly to Star Raiders.
-
-Seven alien races vie against each other - the victor will control the galaxy. They meet in an arena in Sector 51, a spherical sector of space formerly used by the Earth government to secretly test new weapons and starships. Gameplay consists of 5 different play modes with different scenarios and goals. Choose from various starships (each with unique weapons systems) and battle the aliens, who have also chosen their best fighters and have many space ships of their own.</desc>
-		<image>./media/screenshots/Battle Sphere Gold (World).png</image>
-		<video>./media/videos/Battle Sphere Gold (World).mp4</video>
-		<marquee>./media/marquees/Battle Sphere Gold (World).png</marquee>
-		<thumbnail>./images/Battle Sphere Gold (World)-thumb.png</thumbnail>
-		<boxback>./images/Battle Sphere Gold (World)-boxback.png</boxback>
-		<rating>0.7</rating>
-		<releasedate>20020315T000000</releasedate>
-		<developer>4Play/ScatoLogic</developer>
-		<publisher>4Play/ScatoLogic</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>1-32</players>
-		<md5>06f3a61fb712c581aee3599f3a61fa61</md5>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ScreenScraper" date="20230301T192513" />
-		<scrap name="ArcadeDB" date="20221212T135711" />
-	</game>
 	<game id="14197">
 		<path>./No-Intro/J64/Breakout 2000 (USA, Europe) (Beta).j64</path>
 		<name>Breakout 2000</name>
@@ -5924,28 +5483,6 @@ There are also a couple of gameplay enhancements over basic Breakout.  First, th
 		<lang>en</lang>
 		<region>eu</region>
 		<scrap name="ScreenScraper" date="20230301T192516" />
-		<scrap name="ArcadeDB" date="20221212T135711" />
-	</game>
-	<game id="200233">
-		<path>./No-Intro/J64/Brett Hull Hockey (World).j64</path>
-		<name>Brett Hull NHL Hockey</name>
-		<desc>Brett Hull NHL Hockey is another unfinished game for the Atari Jaguar. A beta build of the cartridge version of Brett Hull NHL Hockey was released by B&amp;C Computervisions on January 9, 2004 for US$50. Brett Hull NHL Hockey is a ice hockey game that is played from a vertical perspective in a two-dimensional environment with sprites. Most of the rules from the sport are present in the title, though they can be disabled from the menu and in-game options. Some of the gameplay options found within the game include an exhibition match, regular season and playoff competitions, among other modes of play. The announcer, Al Michaels, makes commentary during gameplay and announces Brett Hull by name but other players are only called by their respective jersey number due to the lack of the NHL license, while his commentaries can also be turned off on the options menu. Season progress is only kept via password and there is also a two-player option for every mode.</desc>
-		<image>./media/screenshots/Brett Hull Hockey (World).png</image>
-		<video>./media/videos/Brett Hull Hockey (World).mp4</video>
-		<marquee>./media/marquees/Brett Hull Hockey (World).png</marquee>
-		<thumbnail>./images/Brett Hull Hockey (World)-thumb.png</thumbnail>
-		<fanart>./images/Brett Hull Hockey (World)-fanart.jpg</fanart>
-		<boxback>./images/Brett Hull Hockey (World)-boxback.png</boxback>
-		<rating>0.7</rating>
-		<releasedate>20040109T000000</releasedate>
-		<developer>Ringler Studios</developer>
-		<publisher>B&amp;C Computervisions</publisher>
-		<genre>Sports / Hockey</genre>
-		<players>1-2</players>
-		<md5>4c32a7a55af8f6b24d570b6d2a83963b</md5>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ScreenScraper" date="20230301T192518" />
 		<scrap name="ArcadeDB" date="20221212T135711" />
 	</game>
 	<game id="14153">
@@ -6564,29 +6101,6 @@ This game features nine bizarre areas, each with multiple puzzles.  The graphics
 		<scrap name="ScreenScraper" date="20230301T192600" />
 		<scrap name="ArcadeDB" date="20221212T135714" />
 	</game>
-	<game id="117345">
-		<path>./No-Intro/J64/Frog Feast (World).j64</path>
-		<name>Frog Feast</name>
-		<desc>Frog Feast is a video game developed by Rastersoft for several older game consoles. The last system to receive the game was the Atari Jaguar and its CD expansion in 2007. Although originally offered by Oldergames, due to difficulties with the company, Rastersoft began selling Frog Feast directly. Frog Feast is a tribute to the Mattel Intellivision game Frog Bog, and the game is almost identical. The game is played either by a single player against the AI, or by a second player.</desc>
-		<image>./media/screenshots/Frog Feast (World).png</image>
-		<video>./media/videos/Frog Feast (World).mp4</video>
-		<marquee>./media/marquees/Frog Feast (World).png</marquee>
-		<thumbnail>./images/Frog Feast (World)-thumb.png</thumbnail>
-		<fanart>./images/Frog Feast (World)-fanart.jpg</fanart>
-		<boxback>./images/Frog Feast (World)-boxback.png</boxback>
-		<rating>0.5</rating>
-		<releasedate>20050101T000000</releasedate>
-		<developer>Rastersoft</developer>
-		<publisher>Rastersoft</publisher>
-		<genre>Action</genre>
-		<players>1-2</players>
-		<kidgame>true</kidgame>
-		<md5>54af14494cb3b9d584adcbd2d1a5216e</md5>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ScreenScraper" date="20230301T192602" />
-		<scrap name="ArcadeDB" date="20221212T135715" />
-	</game>
 	<game id="200231">
 		<path>./No-Intro/J64/High Voltage C Maze (USA) (Demo).j64</path>
 		<name>ZZZ(notgame):High Voltage C Maze</name>
@@ -6622,39 +6136,6 @@ Hover Strike for the Jaguar is a mission-based tank game.  In each mission, you 
 		<lang>en</lang>
 		<region>wr</region>
 		<scrap name="ScreenScraper" date="20230301T192604" />
-		<scrap name="ArcadeDB" date="20221212T135715" />
-	</game>
-	<game id="14204">
-		<path>./No-Intro/J64/Hyper Force (World).j64</path>
-		<name>Hyper Force</name>
-		<desc>It's Just You, Your Gun, and a Corporate Army Bent On Your Destruction.
-
-Trans Con is decimating world after world in search of enough resources and wealth to launch an attack against the Terran High Command. The politicians don't want a direct confrontation that might hurt their corporate sponsors. So, Interstellar Special Forces has been called in to send a lone warrior to eliminate the Trans Con threat. Wanna guess who that warrior is?
-
-Features:
--More than 20 levels of intense action!
--ISF Supply Shop allows you to upgrade 5 different weapons
--Secret areas and hidden switches
--Parallax scrolling
--Incredible in-game music!
--Saved game support with three game slots</desc>
-		<image>./media/screenshots/Hyper Force (World).png</image>
-		<video>./media/videos/Hyper Force (World).mp4</video>
-		<marquee>./media/marquees/Hyper Force (World).png</marquee>
-		<thumbnail>./images/Hyper Force (World)-thumb.png</thumbnail>
-		<fanart>./images/Hyper Force (World)-fanart.jpg</fanart>
-		<manual>./manuals/Hyper Force (World)-manual.pdf</manual>
-		<boxback>./images/Hyper Force (World)-boxback.png</boxback>
-		<rating>0.45</rating>
-		<releasedate>20000410T000000</releasedate>
-		<developer>Visual Impact</developer>
-		<publisher>Songbird Productions</publisher>
-		<genre>Platform</genre>
-		<players>1</players>
-		<md5>21a2abca6e1b8c3fd6b9ab2cc155db42</md5>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ScreenScraper" date="20230301T192606" />
 		<scrap name="ArcadeDB" date="20221212T135715" />
 	</game>
 	<game id="14183">
@@ -6730,34 +6211,6 @@ Iron Soldier is mech sim played from an in-cockpit view.  There are 16 single pl
 		<lang>en</lang>
 		<region>wr</region>
 		<scrap name="ScreenScraper" date="20230301T192610" />
-		<scrap name="ArcadeDB" date="20221212T135715" />
-	</game>
-	<game id="14167">
-		<path>./No-Intro/J64/Iron Soldier 2 (USA, Europe).j64</path>
-		<name>Iron Soldier 2</name>
-		<desc>Iron Soldier 2 puts you back in the pilot's seat of a 42 foot tall humanoid war machine.  The old Iron Fist corporation is gone, and a new democratic republic has been set up. The peace is short lived, though. Iron Fist's rival, PENTA corporation, is now threatening the United Republic's stability.  You are a pilot for the United Republic, and must stop PENTA's advances.
-
-Iron Soldier 2 plays similarly to the first game.  You have new weapons, new enemies, and 20 super-challenging missions to contend with.
-
-Originally released on CD, Telegames later released a cartridge version, featuring the same gameplay as the CD version, but lacking music as well as having had the FMV sequences replaced with still images due to space constraints.</desc>
-		<image>./media/screenshots/Iron Soldier 2 (USA, Europe).png</image>
-		<video>./media/videos/Iron Soldier 2 (USA, Europe).mp4</video>
-		<marquee>./media/marquees/Iron Soldier 2 (USA, Europe).png</marquee>
-		<thumbnail>./images/Iron Soldier 2 (USA, Europe)-thumb.png</thumbnail>
-		<fanart>./images/Iron Soldier 2 (USA, Europe)-fanart.jpg</fanart>
-		<manual>./manuals/Iron Soldier 2 (USA, Europe)-manual.pdf</manual>
-		<boxback>./images/Iron Soldier 2 (USA, Europe)-boxback.png</boxback>
-		<rating>0.65</rating>
-		<releasedate>19971230T000000</releasedate>
-		<developer>Eclipse Software</developer>
-		<publisher>Atari</publisher>
-		<genre>Simulation</genre>
-		<family>Iron Soldier</family>
-		<players>1</players>
-		<md5>35ef8cedbfab697e380170e438858d4c</md5>
-		<lang>en</lang>
-		<region>eu</region>
-		<scrap name="ScreenScraper" date="20230301T192612" />
 		<scrap name="ArcadeDB" date="20221212T135715" />
 	</game>
 	<game id="14151">
@@ -6836,26 +6289,6 @@ This Jaguar game has 3 modes. First, there is a port of the original arcade game
 		<scrap name="ScreenScraper" date="20230301T192616" />
 		<scrap name="ArcadeDB" date="20221212T135716" />
 	</game>
-	<game id="200239">
-		<path>./No-Intro/J64/Native (USA) (Proto).j64</path>
-		<name>Native</name>
-		<desc>Native is a horizontal 2D sprite based shmup like the old arcade classics R-Type I + II. Work on Native was stopped in december 1997. The Level 1 Demo was released as Freeware on 24.10.1997.</desc>
-		<image>./media/screenshots/Native (USA) (Proto).png</image>
-		<video>./media/videos/Native (USA) (Proto).mp4</video>
-		<marquee>./media/marquees/Native (USA) (Proto).png</marquee>
-		<thumbnail>./images/Native (USA) (Proto)-thumb.png</thumbnail>
-		<boxback>./images/Native (USA) (Proto)-boxback.png</boxback>
-		<rating />
-		<releasedate>19971024T000000</releasedate>
-		<developer>Duranik</developer>
-		<genre>Shoot'em up / Horizontal</genre>
-		<players>1</players>
-		<md5>39beed5413322f1487bafd4feb24aa49</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230301T192618" />
-		<scrap name="ArcadeDB" date="20221212T135716" />
-	</game>
 	<game id="14152">
 		<path>./No-Intro/J64/NBA Jam - Tournament Edition (USA, Europe).j64</path>
 		<name>NBA Jam : Tournament Edition</name>
@@ -6879,32 +6312,6 @@ This Jaguar game has 3 modes. First, there is a port of the original arcade game
 		<lang>en</lang>
 		<region>eu</region>
 		<scrap name="ScreenScraper" date="20230301T192620" />
-		<scrap name="ArcadeDB" date="20221212T135717" />
-	</game>
-	<game id="117321">
-		<path>./No-Intro/J64/Phase Zero (World).j64</path>
-		<name>Phase Zero</name>
-		<desc>You pilot your combat vehicle on a variety of missions to retrieve lost personnel and take out enemy targets. The speed of this engine is amazing, and the graphics and audio make for an enjoyable game to explore.
-
-The Phase Zero Demo features:
-- Four plusfully playable levels (additional levels are incomplete) 
-- Incredible 3D engine 
-- Variety of terrain and enemies 
-- Guidance system, shield management system, selectable weapons and - Animated 3D menu loaded with options and background music</desc>
-		<image>./media/screenshots/Phase Zero (World).png</image>
-		<video>./media/videos/Phase Zero (World).mp4</video>
-		<marquee>./media/marquees/Phase Zero (World).png</marquee>
-		<thumbnail>./images/Phase Zero (World)-thumb.png</thumbnail>
-		<boxback>./images/Phase Zero (World)-boxback.png</boxback>
-		<rating />
-		<releasedate>20020605T000000</releasedate>
-		<developer>Hyper Image</developer>
-		<genre>Shooter / Vehicle, 1st person</genre>
-		<players>1</players>
-		<md5>5647d189d38b7115cba94d48f1f8d22e</md5>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ScreenScraper" date="20230301T192621" />
 		<scrap name="ArcadeDB" date="20221212T135717" />
 	</game>
 	<game id="14178">
@@ -6994,54 +6401,6 @@ The main game mode portrays a season of championship racing.  There are several 
 		<lang>en</lang>
 		<region>wr</region>
 		<scrap name="ScreenScraper" date="20230301T192629" />
-		<scrap name="ArcadeDB" date="20221212T135717" />
-	</game>
-	<game id="46478">
-		<path>./No-Intro/J64/Protector (World).j64</path>
-		<name>Protector : Special Edition</name>
-		<desc>Haven-7 is a planetoid near Earth whose inhabitants are in grave danger. Aliens will arrive soon and plan to terraform Haven-7 which will annihilate every living thing. You, with the last remaining spaceship, are the only one left to protect Haven-7 from the aliens.
-
-Protector features 3 difficulty levels and fast-paced shooting action as you blast swarms of aliens all at once in fierce battle. Purchase ship upgrades and find powerups to help you blast the alien starships.</desc>
-		<image>./media/screenshots/Protector (World).png</image>
-		<video>./media/videos/Protector (World).mp4</video>
-		<marquee>./media/marquees/Protector (World).png</marquee>
-		<thumbnail>./images/Protector (World)-thumb.png</thumbnail>
-		<manual>./manuals/Protector (World)-manual.pdf</manual>
-		<boxback>./images/Protector (World)-boxback.png</boxback>
-		<rating>0.85</rating>
-		<releasedate>20021004T000000</releasedate>
-		<developer>Bethesda Softworks</developer>
-		<publisher>Songbird Productions</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>1-2</players>
-		<md5>6564da92b5d4a9dc1d34ab2c941a3b55</md5>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ScreenScraper" date="20230301T192631" />
-		<scrap name="ArcadeDB" date="20221212T135717" />
-	</game>
-	<game id="46478">
-		<path>./No-Intro/J64/Protector - Special Edition (World).j64</path>
-		<name>Protector : Special Edition</name>
-		<desc>Haven-7 is a planetoid near Earth whose inhabitants are in grave danger. Aliens will arrive soon and plan to terraform Haven-7 which will annihilate every living thing. You, with the last remaining spaceship, are the only one left to protect Haven-7 from the aliens.
-
-Protector features 3 difficulty levels and fast-paced shooting action as you blast swarms of aliens all at once in fierce battle. Purchase ship upgrades and find powerups to help you blast the alien starships.</desc>
-		<image>./media/screenshots/Protector - Special Edition (World).png</image>
-		<video>./media/videos/Protector - Special Edition (World).mp4</video>
-		<marquee>./media/marquees/Protector - Special Edition (World).png</marquee>
-		<thumbnail>./images/Protector - Special Edition (World)-thumb.png</thumbnail>
-		<manual>./manuals/Protector - Special Edition (World)-manual.pdf</manual>
-		<boxback>./images/Protector - Special Edition (World)-boxback.png</boxback>
-		<rating>0.85</rating>
-		<releasedate>20021004T000000</releasedate>
-		<developer>Bethesda Softworks</developer>
-		<publisher>Songbird Productions</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>1-2</players>
-		<md5>3774ee26339adfc0bad07091d29c361b</md5>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ScreenScraper" date="20230301T192633" />
 		<scrap name="ArcadeDB" date="20221212T135717" />
 	</game>
 	<game id="14172">
@@ -7208,127 +6567,6 @@ Tower is an extra-tall table that features a medieval horror motif. Like Ruiner,
 		<scrap name="ScreenScraper" date="20230301T192642" />
 		<scrap name="ArcadeDB" date="20221212T135718" />
 	</game>
-	<game id="14205">
-		<path>./No-Intro/J64/Skyhammer (World).j64</path>
-		<name>Skyhammer</name>
-		<desc>In a futuristic city, you are a mercenary pilot flying a helicopter-like craft in cyberspace. Hired by the large corporation Cytox, you are to defend its corporate holdings from those who seek to destroy all it has accomplished.
-
-The numerous missions involve flying to several large cities and hunting down the renegades who threaten them. You have a cockpit view of the city as you hunt down your enemies and dock at the Cyber Mart for repairs. As you destroy your enemies and complete missions, you can earn credits for buying more supplies, weapons and ship upgrades at the Cyber Mart.
-
-Play in Mission Mode or Battle Mode. To win the game, you must complete each mission successfully. The enemies become more tough as you progress through the "levels" of gameplay.</desc>
-		<image>./media/screenshots/Skyhammer (World).png</image>
-		<video>./media/videos/Skyhammer (World).mp4</video>
-		<marquee>./media/marquees/Skyhammer (World).png</marquee>
-		<thumbnail>./images/Skyhammer (World)-thumb.png</thumbnail>
-		<manual>./manuals/Skyhammer (World)-manual.pdf</manual>
-		<boxback>./images/Skyhammer (World)-boxback.png</boxback>
-		<rating>0.8</rating>
-		<releasedate>20000501T000000</releasedate>
-		<developer>Rebellion</developer>
-		<publisher>Songbird Productions</publisher>
-		<genre>Lightgun Shooter</genre>
-		<players>1</players>
-		<md5>04c85be97daf4308135d245e68d4774d</md5>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ScreenScraper" date="20230301T192644" />
-		<scrap name="ArcadeDB" date="20221212T135718" />
-	</game>
-	<game id="200243">
-		<path>./No-Intro/J64/Slam Racer (USA) (Proto).j64</path>
-		<name>Slam Racer</name>
-		<image>./media/screenshots/Slam Racer (USA) (Proto).png</image>
-		<video>./media/videos/Slam Racer (USA) (Proto).mp4</video>
-		<marquee>./media/marquees/Slam Racer (USA) (Proto).png</marquee>
-		<thumbnail>./images/Slam Racer (USA) (Proto)-thumb.png</thumbnail>
-		<boxback>./images/Slam Racer (USA) (Proto)-boxback.png</boxback>
-		<rating />
-		<developer>Sinister Developments</developer>
-		<genre>Race, Driving</genre>
-		<players>1</players>
-		<md5>0e71976a7cda7de311621df209deb4d5</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230301T192645" />
-		<scrap name="ArcadeDB" date="20221212T135719" />
-	</game>
-	<game id="14174">
-		<path>./No-Intro/J64/Soccer Kid (World) (Beta).j64</path>
-		<name>Soccer Kid</name>
-		<desc>Aliens attempting to steal the World Cup have crashed as they tried to flee, and the Cup has been broken, its pieces scattered around the globe. As Soccer Kid, you must retrieve it. During your journey you will visit Britain, Italy, Russia, Japan, and finally the States.
-
-Soccer Kid is a platform game with some unique elements.  As the name implies, you have to kill your enemies with your ball. Football-style tricks of keeping the ball in the air and under control are especially useful - headers and overhead kicks can be played with practice. You gain access to the pieces by collecting 11 Player Cards across each world.
-
-There is a saving feature that gives you the ability to save between each country (but not between individual levels).</desc>
-		<image>./media/screenshots/Soccer Kid (World) (Beta).png</image>
-		<video>./media/videos/Soccer Kid (World) (Beta).mp4</video>
-		<marquee>./media/marquees/Soccer Kid (World) (Beta).png</marquee>
-		<thumbnail>./images/Soccer Kid (World) (Beta)-thumb.png</thumbnail>
-		<fanart>./images/Soccer Kid (World) (Beta)-fanart.jpg</fanart>
-		<manual>./manuals/Soccer Kid (World) (Beta)-manual.pdf</manual>
-		<boxback>./images/Soccer Kid (World) (Beta)-boxback.png</boxback>
-		<rating>0.6</rating>
-		<releasedate>20000102T000000</releasedate>
-		<developer>Krisalis Software</developer>
-		<publisher>Songbird Productions</publisher>
-		<genre>Platform</genre>
-		<players>1</players>
-		<md5>c803a3d9bb7c64c599143c0f6b1cab96</md5>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ScreenScraper" date="20230301T192647" />
-		<scrap name="ArcadeDB" date="20221212T135719" />
-	</game>
-	<game id="14174">
-		<path>./No-Intro/J64/Soccer Kid (World).j64</path>
-		<name>Soccer Kid</name>
-		<desc>Aliens attempting to steal the World Cup have crashed as they tried to flee, and the Cup has been broken, its pieces scattered around the globe. As Soccer Kid, you must retrieve it. During your journey you will visit Britain, Italy, Russia, Japan, and finally the States.
-
-Soccer Kid is a platform game with some unique elements.  As the name implies, you have to kill your enemies with your ball. Football-style tricks of keeping the ball in the air and under control are especially useful - headers and overhead kicks can be played with practice. You gain access to the pieces by collecting 11 Player Cards across each world.
-
-There is a saving feature that gives you the ability to save between each country (but not between individual levels).</desc>
-		<image>./media/screenshots/Soccer Kid (World).png</image>
-		<video>./media/videos/Soccer Kid (World).mp4</video>
-		<marquee>./media/marquees/Soccer Kid (World).png</marquee>
-		<thumbnail>./images/Soccer Kid (World)-thumb.png</thumbnail>
-		<fanart>./images/Soccer Kid (World)-fanart.jpg</fanart>
-		<manual>./manuals/Soccer Kid (World)-manual.pdf</manual>
-		<boxback>./images/Soccer Kid (World)-boxback.png</boxback>
-		<rating>0.6</rating>
-		<releasedate>20000102T000000</releasedate>
-		<developer>Krisalis Software</developer>
-		<publisher>Songbird Productions</publisher>
-		<genre>Platform</genre>
-		<players>1</players>
-		<md5>2d03f3e2b399d0ce0103830820e69524</md5>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ScreenScraper" date="20230301T192649" />
-		<scrap name="ArcadeDB" date="20221212T135719" />
-	</game>
-	<game id="46479">
-		<path>./No-Intro/J64/Space War 2000 (World).j64</path>
-		<name>Space War 2000</name>
-		<desc>As a space knight, you will vie for glory, honor, fame and fortune in this one- or two-player first-person perspective 3D jousting adventure. Procure multiple weapons anhd cool defensive items in your quest to rank with other valiant knights on the High Score Table.</desc>
-		<image>./media/screenshots/Space War 2000 (World).png</image>
-		<video>./media/videos/Space War 2000 (World).mp4</video>
-		<marquee>./media/marquees/Space War 2000 (World).png</marquee>
-		<thumbnail>./images/Space War 2000 (World)-thumb.png</thumbnail>
-		<manual>./manuals/Space War 2000 (World)-manual.pdf</manual>
-		<boxback>./images/Space War 2000 (World)-boxback.png</boxback>
-		<rating>0.6</rating>
-		<releasedate>20010901T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Shooter</genre>
-		<players>1-2</players>
-		<kidgame>true</kidgame>
-		<md5>8045ac181d02e3fc92eae066607073f3</md5>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ScreenScraper" date="20230301T192650" />
-		<scrap name="ArcadeDB" date="20221212T135719" />
-	</game>
 	<game id="368688">
 		<path>./No-Intro/J64/Speedster II (USA) (Proto).j64</path>
 		<name>ZZZ(notgame):Speedster II</name>
@@ -7338,29 +6576,6 @@ There is a saving feature that gives you the ability to save between each countr
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230301T192652" />
-		<scrap name="ArcadeDB" date="20221212T135719" />
-	</game>
-	<game id="14146">
-		<path>./No-Intro/J64/Super Burnout (World) (Demo) (WCES 1995).j64</path>
-		<name>Super Burnout</name>
-		<desc>Super Burnout is an arcade-style superbike racing game inspired by Super Hang-On. Players control an ultra-fast motorcycle through races that take place on famous tracks throughout the world. There are six bikes to choose from with races on a total of eight different tracks. The usual racing game modes are present. There is a single race mode, a practice mode, and a championship mode. Players can also compete against a friend in a single-race versus mode.</desc>
-		<image>./media/screenshots/Super Burnout (World) (Demo) (WCES 1995).png</image>
-		<video>./media/videos/Super Burnout (World) (Demo) (WCES 1995).mp4</video>
-		<marquee>./media/marquees/Super Burnout (World) (Demo) (WCES 1995).png</marquee>
-		<thumbnail>./images/Super Burnout (World) (Demo) (WCES 1995)-thumb.png</thumbnail>
-		<manual>./manuals/Super Burnout (World) (Demo) (WCES 1995)-manual.pdf</manual>
-		<boxback>./images/Super Burnout (World) (Demo) (WCES 1995)-boxback.png</boxback>
-		<rating>0.85</rating>
-		<releasedate>19950705T000000</releasedate>
-		<developer>Shen Technologies SARL</developer>
-		<publisher>Atari</publisher>
-		<genre>Race, Driving</genre>
-		<players>1-2</players>
-		<kidgame>true</kidgame>
-		<md5>4f7e1b03cce05c75f91d12f7e751e1b2</md5>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ScreenScraper" date="20230301T192654" />
 		<scrap name="ArcadeDB" date="20221212T135719" />
 	</game>
 	<game id="14146">
@@ -7553,52 +6768,6 @@ It can be played in three modes - Sandbox level lets you concentrate on the park
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230301T192706" />
-		<scrap name="ArcadeDB" date="20221212T135720" />
-	</game>
-	<game id="14194">
-		<path>./No-Intro/J64/Total Carnage (World) (Beta).j64</path>
-		<name>Total Carnage</name>
-		<desc>The war of 1999 left the country of Kookistan in shambles. Naturally, a dictator named General Akhboob took control of the beleagured nation and began creating an army of radioactive mutants. With a virtually impenetrable stronghold, a bunch of hostages, and a legion of mutants under his command, the evil despot will stop at nothing but world domination. Only two men have the courage and idealistic naivete to take on Akhboob and his forces: Captain Carnage and Major Mayhem, also known as the Doomsday Squad.
-
-As Captain Carnage or Major Mayhem, it is up to you or you and a friend (in simultaneous action) to rescue the hostages while shooting hundreds of mutants bent on your destruction. As you walk and run forward, backward, left, right, and diagonally through 20 battlezones of nonstop action, you'll always have your machine gun by your side. Additional weapons which you can find along the way include grenade launchers, rocket launchers, plasma machine guns, flame throwers, spray-fire rifles, defensive blades, and an assortment of bombs.</desc>
-		<image>./media/screenshots/Total Carnage (World) (Beta).png</image>
-		<video>./media/videos/Total Carnage (World) (Beta).mp4</video>
-		<marquee>./media/marquees/Total Carnage (World) (Beta).png</marquee>
-		<thumbnail>./images/Total Carnage (World) (Beta)-thumb.png</thumbnail>
-		<boxback>./images/Total Carnage (World) (Beta)-boxback.png</boxback>
-		<rating>0.5</rating>
-		<releasedate>20050922T000000</releasedate>
-		<developer>Midway</developer>
-		<publisher>Songbird Productions</publisher>
-		<genre>Shooter / Run and Gun</genre>
-		<players>1</players>
-		<md5>7fbd1b0409050ddeabf7ef440baf0180</md5>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ScreenScraper" date="20230301T192708" />
-		<scrap name="ArcadeDB" date="20221212T135720" />
-	</game>
-	<game id="14194">
-		<path>./No-Intro/J64/Total Carnage (World).j64</path>
-		<name>Total Carnage</name>
-		<desc>The war of 1999 left the country of Kookistan in shambles. Naturally, a dictator named General Akhboob took control of the beleagured nation and began creating an army of radioactive mutants. With a virtually impenetrable stronghold, a bunch of hostages, and a legion of mutants under his command, the evil despot will stop at nothing but world domination. Only two men have the courage and idealistic naivete to take on Akhboob and his forces: Captain Carnage and Major Mayhem, also known as the Doomsday Squad.
-
-As Captain Carnage or Major Mayhem, it is up to you or you and a friend (in simultaneous action) to rescue the hostages while shooting hundreds of mutants bent on your destruction. As you walk and run forward, backward, left, right, and diagonally through 20 battlezones of nonstop action, you'll always have your machine gun by your side. Additional weapons which you can find along the way include grenade launchers, rocket launchers, plasma machine guns, flame throwers, spray-fire rifles, defensive blades, and an assortment of bombs.</desc>
-		<image>./media/screenshots/Total Carnage (World).png</image>
-		<video>./media/videos/Total Carnage (World).mp4</video>
-		<marquee>./media/marquees/Total Carnage (World).png</marquee>
-		<thumbnail>./images/Total Carnage (World)-thumb.png</thumbnail>
-		<boxback>./images/Total Carnage (World)-boxback.png</boxback>
-		<rating>0.5</rating>
-		<releasedate>20050922T000000</releasedate>
-		<developer>Midway</developer>
-		<publisher>Songbird Productions</publisher>
-		<genre>Shooter / Run and Gun</genre>
-		<players>1</players>
-		<md5>5f14d7c3da4e0f26f736158ffb95ce05</md5>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ScreenScraper" date="20230301T192709" />
 		<scrap name="ArcadeDB" date="20221212T135720" />
 	</game>
 	<game id="14185">
@@ -7866,80 +7035,6 @@ The original's weapons (knife, pistol, machine gun, chaingun) all return, but th
 		<scrap name="ScreenScraper" date="20230301T192727" />
 		<scrap name="ArcadeDB" date="20221212T135722" />
 	</game>
-	<game id="14144">
-		<path>./No-Intro/J64/Worms (USA, Europe).j64</path>
-		<name>Worms</name>
-		<desc>Worms is a turn-based strategy game. It features up to 4 teams of 4 worms, aiming to destroy the others on a generated terrain. Each worm has 100 hit points, and dies when his hit points fall to 0. Upon death, a worm explodes, causing damage to everyone around.
-
-Gameplay is turn-based. Each turn, the player can control one specific worm from his team. The worm can crawl left and right or jump. However, there is a time limit to make a move; also, if the worm falls from a great height, it loses health and the turn ends immediately; and if a worm falls into water or offscreen, it dies. Each turn, a worm can also make a single attack: the player can aim up and down, choose a weapon and then fire it. After attacking, the turn ends. 
-
-There's a lot of weapons available - the standard ones as bazookas (which is affected by the (random) wind settings and gravity) and grenades. The others include a Fire Punch, dynamite, air strikes, and utilities such as ropes and girders.
-
-There are 10 styles of terrain, ranging from forests and deserts to Candy land and the moon (complete with affected gravity). Shots leave craters in the ground, and complex tunnels can be formed.</desc>
-		<image>./media/screenshots/Worms (USA, Europe).png</image>
-		<video>./media/videos/Worms (USA, Europe).mp4</video>
-		<marquee>./media/marquees/Worms (USA, Europe).png</marquee>
-		<thumbnail>./images/Worms (USA, Europe)-thumb.png</thumbnail>
-		<fanart>./images/Worms (USA, Europe)-fanart.jpg</fanart>
-		<manual>./manuals/Worms (USA, Europe)-manual.pdf</manual>
-		<boxback>./images/Worms (USA, Europe)-boxback.png</boxback>
-		<rating>0.7</rating>
-		<releasedate>19980515T000000</releasedate>
-		<developer>Team 17</developer>
-		<publisher>Telegames</publisher>
-		<genre>Strategy</genre>
-		<family>Worms</family>
-		<players>1-4</players>
-		<md5>1a87f2f7a32d3e3a8e8d922a0c5aa6af</md5>
-		<lang>en</lang>
-		<region>eu</region>
-		<scrap name="ScreenScraper" date="20230301T192729" />
-		<scrap name="ArcadeDB" date="20221212T135722" />
-	</game>
-	<game id="14207">
-		<path>./No-Intro/J64/Zero 5 (USA, Europe) (Beta).j64</path>
-		<name>Zero 5</name>
-		<desc>ZERO 5 is a futuristic space shooter set in a 3-D, 360 degree playfield. The year is 2044 and the battle for Earth has begun. On the far reaches of the galaxy, a massive invasion force is assembling. Scanners at DEFCON have alerted you to the alien threat. The Earth's best pilots are dispatched in their BAMBAM cruisers to engage the enemy. Multiple weapons, driving soundtrack, non-stop combat, multiple power-ups, and 15 extended missions contribute to a shooters game with real depth.</desc>
-		<image>./media/screenshots/Zero 5 (USA, Europe) (Beta).png</image>
-		<video>./media/videos/Zero 5 (USA, Europe) (Beta).mp4</video>
-		<marquee>./media/marquees/Zero 5 (USA, Europe) (Beta).png</marquee>
-		<thumbnail>./images/Zero 5 (USA, Europe) (Beta)-thumb.png</thumbnail>
-		<manual>./manuals/Zero 5 (USA, Europe) (Beta)-manual.pdf</manual>
-		<boxback>./images/Zero 5 (USA, Europe) (Beta)-boxback.png</boxback>
-		<rating>0.7</rating>
-		<releasedate>19970929T000000</releasedate>
-		<developer>Caspian Software Ltd.</developer>
-		<publisher>Telegames</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>1-2</players>
-		<md5>6977fc843238a167aabfd2e6c251b480</md5>
-		<lang>en</lang>
-		<region>eu</region>
-		<scrap name="ScreenScraper" date="20230301T192730" />
-		<scrap name="ArcadeDB" date="20221212T135722" />
-	</game>
-	<game id="14207">
-		<path>./No-Intro/J64/Zero 5 (USA, Europe).j64</path>
-		<name>Zero 5</name>
-		<desc>ZERO 5 is a futuristic space shooter set in a 3-D, 360 degree playfield. The year is 2044 and the battle for Earth has begun. On the far reaches of the galaxy, a massive invasion force is assembling. Scanners at DEFCON have alerted you to the alien threat. The Earth's best pilots are dispatched in their BAMBAM cruisers to engage the enemy. Multiple weapons, driving soundtrack, non-stop combat, multiple power-ups, and 15 extended missions contribute to a shooters game with real depth.</desc>
-		<image>./media/screenshots/Zero 5 (USA, Europe).png</image>
-		<video>./media/videos/Zero 5 (USA, Europe).mp4</video>
-		<marquee>./media/marquees/Zero 5 (USA, Europe).png</marquee>
-		<thumbnail>./images/Zero 5 (USA, Europe)-thumb.png</thumbnail>
-		<manual>./manuals/Zero 5 (USA, Europe)-manual.pdf</manual>
-		<boxback>./images/Zero 5 (USA, Europe)-boxback.png</boxback>
-		<rating>0.7</rating>
-		<releasedate>19970929T000000</releasedate>
-		<developer>Caspian Software Ltd.</developer>
-		<publisher>Telegames</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>1-2</players>
-		<md5>08b31fae8cbd44ac65d44baf1a0545a2</md5>
-		<lang>en</lang>
-		<region>eu</region>
-		<scrap name="ScreenScraper" date="20230301T192732" />
-		<scrap name="ArcadeDB" date="20221212T135722" />
-	</game>
 	<game id="14181">
 		<path>./No-Intro/J64/Zool 2 (World).j64</path>
 		<name>Zool 2</name>
@@ -8092,33 +7187,6 @@ Features include true 3D sound, a computer voice (which can be turned off if des
 		<scrap name="ScreenScraper" date="20230301T192747" />
 		<scrap name="ArcadeDB" date="20221212T135724" />
 	</game>
-	<game id="14175">
-		<path>./No-Intro/ROM/Aircars (USA).rom</path>
-		<name>Air Cars</name>
-		<desc>AirCars takes place in the future after a nuclear holocaust. 
-The large organization E.B.N.E.R.S. is plotting to take over the world and has developed advanced forcefield and teleportation systems, and nuclear powered AirCars. To stop the plot, your group steals plans, builds its own AirCar, and sets out to destroy all of the bases, 28 known and countless unknown ones, stationed around the globe.
-
-You can choose to play a single player game, the 2-player game using a JagLink, or up to 8 players using ICD's CatBoxes. On screen and on radar, each player's AirCar is displayed in a different color to help identify the good guys from the bad guys. There are 3 difficulty settings. You will be using the cockpit's instrument panel to fly the AirCar, select weapons and view radar, as well as combating the enemy in the air and shooting ground targets.
-
-Features include true 3D sound, a computer voice (which can be turned off if desired), and music during the introduction and level intermissions.</desc>
-		<image>./images/Aircars (USA)-image.png</image>
-		<video>./videos/Aircars (USA)-video.mp4</video>
-		<marquee>./images/Aircars (USA)-marquee.png</marquee>
-		<thumbnail>./images/Aircars (USA)-thumb.png</thumbnail>
-		<manual>./manuals/Aircars (USA)-manual.pdf</manual>
-		<boxback>./images/Aircars (USA)-boxback.png</boxback>
-		<rating>0.3</rating>
-		<releasedate>19970527T000000</releasedate>
-		<developer>Midnite Entertainment Group</developer>
-		<publisher>ICD</publisher>
-		<genre>Race, Driving</genre>
-		<players>1-8</players>
-		<md5>0d6a65c6c0d108afcfdb22bb1d2b55cb</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230301T192749" />
-		<scrap name="ArcadeDB" date="20221212T135724" />
-	</game>
 	<game id="14145">
 		<path>./No-Intro/ROM/Alien vs Predator (World) (Beta) (1993-08-18).rom</path>
 		<name>Aliens Versus Predator</name>
@@ -8189,26 +7257,6 @@ Features include true 3D sound, a computer voice (which can be turned off if des
 		<lang>en</lang>
 		<region>wr</region>
 		<scrap name="ScreenScraper" date="20230301T192754" />
-		<scrap name="ArcadeDB" date="20221212T135725" />
-	</game>
-	<game id="200237">
-		<path>./No-Intro/ROM/Arena Football '95 (World).rom</path>
-		<name>Arena Football '95</name>
-		<desc>Arena Football '95 is an eight-man indoor football game that is played from a behind-the-player perspective in a three-dimensional environment with digitized sprites. At the main title screen, players can jump right into a quick exhibition game, a demonstration exhibition game or manually set-up the match. Besides the already mentioned modes, the game offers both season and playoffs game modes as well.</desc>
-		<image>./images/Arena Football '95 (World)-image.png</image>
-		<video>./videos/Arena Football '95 (World)-video.mp4</video>
-		<marquee>./images/Arena Football '95 (World)-marquee.png</marquee>
-		<thumbnail>./images/Arena Football '95 (World)-thumb.png</thumbnail>
-		<boxback>./images/Arena Football '95 (World)-boxback.png</boxback>
-		<releasedate>20060715T000000</releasedate>
-		<developer>V-Real Interactive</developer>
-		<publisher>Atari</publisher>
-		<genre>Sports / Football</genre>
-		<players>1-8</players>
-		<md5>7b9c10dcb2364ad8a11c18fc8be5c92f</md5>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ScreenScraper" date="20230301T192756" />
 		<scrap name="ArcadeDB" date="20221212T135725" />
 	</game>
 	<game id="14160">
@@ -8284,94 +7332,6 @@ There is only one game mode, a points based cup series.  There are four difficul
 		<scrap name="ScreenScraper" date="20230301T192801" />
 		<scrap name="ArcadeDB" date="20221212T135725" />
 	</game>
-	<game id="200235">
-		<path>./No-Intro/ROM/Barkley Shut Up and Jam (World) (Beta).rom</path>
-		<name>Barkley Shut Up and Jam!</name>
-		<desc>Barkley Shut Up and Jam! is a basketball video game featuring arcade-style gameplay similar to Midway's NBA Jam but closely following the rules seen in street basketball, players compete with either CPU-controlled opponents or against other players in matches across various cities of the United States.</desc>
-		<image>./images/Barkley Shut Up and Jam (World) (Beta)-image.png</image>
-		<video>./videos/Barkley Shut Up and Jam (World) (Beta)-video.mp4</video>
-		<marquee>./images/Barkley Shut Up and Jam (World) (Beta)-marquee.png</marquee>
-		<thumbnail>./images/Barkley Shut Up and Jam (World) (Beta)-thumb.png</thumbnail>
-		<boxback>./images/Barkley Shut Up and Jam (World) (Beta)-boxback.png</boxback>
-		<rating>0.65</rating>
-		<releasedate>20020701T000000</releasedate>
-		<developer>Ringler Studios</developer>
-		<publisher>B&amp;C Computervision</publisher>
-		<genre>Sports / Basketball</genre>
-		<players>1-4</players>
-		<md5>5f884a5052a4dde4c896449b392ad4bf</md5>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ScreenScraper" date="20230301T192802" />
-		<scrap name="ArcadeDB" date="20221212T135725" />
-	</game>
-	<game id="200235">
-		<path>./No-Intro/ROM/Barkley Shut Up and Jam (World).rom</path>
-		<name>Barkley Shut Up and Jam!</name>
-		<desc>Barkley Shut Up and Jam! is a basketball video game featuring arcade-style gameplay similar to Midway's NBA Jam but closely following the rules seen in street basketball, players compete with either CPU-controlled opponents or against other players in matches across various cities of the United States.</desc>
-		<image>./images/Barkley Shut Up and Jam (World)-image.png</image>
-		<video>./videos/Barkley Shut Up and Jam (World)-video.mp4</video>
-		<marquee>./images/Barkley Shut Up and Jam (World)-marquee.png</marquee>
-		<thumbnail>./images/Barkley Shut Up and Jam (World)-thumb.png</thumbnail>
-		<boxback>./images/Barkley Shut Up and Jam (World)-boxback.png</boxback>
-		<rating>0.65</rating>
-		<releasedate>20020701T000000</releasedate>
-		<developer>Ringler Studios</developer>
-		<publisher>B&amp;C Computervision</publisher>
-		<genre>Sports / Basketball</genre>
-		<players>1-4</players>
-		<md5>b5c70890e32375ea7f91cf1db388d298</md5>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ScreenScraper" date="20230301T192804" />
-		<scrap name="ArcadeDB" date="20221212T135725" />
-	</game>
-	<game id="46477">
-		<path>./No-Intro/ROM/Battle Sphere (World).rom</path>
-		<name>Battle Sphere Gold</name>
-		<desc>A 3D space combat simulator, BattleSphere's story was based upon an episode in the original Star Trek television series and it plays similarly to Star Raiders.
-
-Seven alien races vie against each other - the victor will control the galaxy. They meet in an arena in Sector 51, a spherical sector of space formerly used by the Earth government to secretly test new weapons and starships. Gameplay consists of 5 different play modes with different scenarios and goals. Choose from various starships (each with unique weapons systems) and battle the aliens, who have also chosen their best fighters and have many space ships of their own.</desc>
-		<image>./images/Battle Sphere (World)-image.png</image>
-		<video>./videos/Battle Sphere (World)-video.mp4</video>
-		<marquee>./images/Battle Sphere (World)-marquee.png</marquee>
-		<thumbnail>./images/Battle Sphere (World)-thumb.png</thumbnail>
-		<boxback>./images/Battle Sphere (World)-boxback.png</boxback>
-		<rating>0.7</rating>
-		<releasedate>20020315T000000</releasedate>
-		<developer>4Play/ScatoLogic</developer>
-		<publisher>4Play/ScatoLogic</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>1-32</players>
-		<md5>6562144944b6fb86744757a5b99ae506</md5>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ScreenScraper" date="20230301T192805" />
-		<scrap name="ArcadeDB" date="20221212T135726" />
-	</game>
-	<game id="46477">
-		<path>./No-Intro/ROM/Battle Sphere Gold (World).rom</path>
-		<name>Battle Sphere Gold</name>
-		<desc>A 3D space combat simulator, BattleSphere's story was based upon an episode in the original Star Trek television series and it plays similarly to Star Raiders.
-
-Seven alien races vie against each other - the victor will control the galaxy. They meet in an arena in Sector 51, a spherical sector of space formerly used by the Earth government to secretly test new weapons and starships. Gameplay consists of 5 different play modes with different scenarios and goals. Choose from various starships (each with unique weapons systems) and battle the aliens, who have also chosen their best fighters and have many space ships of their own.</desc>
-		<image>./images/Battle Sphere Gold (World)-image.png</image>
-		<video>./videos/Battle Sphere Gold (World)-video.mp4</video>
-		<marquee>./images/Battle Sphere Gold (World)-marquee.png</marquee>
-		<thumbnail>./images/Battle Sphere Gold (World)-thumb.png</thumbnail>
-		<boxback>./images/Battle Sphere Gold (World)-boxback.png</boxback>
-		<rating>0.7</rating>
-		<releasedate>20020315T000000</releasedate>
-		<developer>4Play/ScatoLogic</developer>
-		<publisher>4Play/ScatoLogic</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>1-32</players>
-		<md5>5c0b84a1a64ddbb4d3d2083958754ca5</md5>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ScreenScraper" date="20230301T192807" />
-		<scrap name="ArcadeDB" date="20221212T135726" />
-	</game>
 	<game id="14197">
 		<path>./No-Intro/ROM/Breakout 2000 (USA, Europe) (Beta).rom</path>
 		<name>Breakout 2000</name>
@@ -8418,28 +7378,6 @@ There are also a couple of gameplay enhancements over basic Breakout.  First, th
 		<lang>en</lang>
 		<region>eu</region>
 		<scrap name="ScreenScraper" date="20230301T192810" />
-		<scrap name="ArcadeDB" date="20221212T135726" />
-	</game>
-	<game id="200233">
-		<path>./No-Intro/ROM/Brett Hull Hockey (World).rom</path>
-		<name>Brett Hull NHL Hockey</name>
-		<desc>Brett Hull NHL Hockey is another unfinished game for the Atari Jaguar. A beta build of the cartridge version of Brett Hull NHL Hockey was released by B&amp;C Computervisions on January 9, 2004 for US$50. Brett Hull NHL Hockey is a ice hockey game that is played from a vertical perspective in a two-dimensional environment with sprites. Most of the rules from the sport are present in the title, though they can be disabled from the menu and in-game options. Some of the gameplay options found within the game include an exhibition match, regular season and playoff competitions, among other modes of play. The announcer, Al Michaels, makes commentary during gameplay and announces Brett Hull by name but other players are only called by their respective jersey number due to the lack of the NHL license, while his commentaries can also be turned off on the options menu. Season progress is only kept via password and there is also a two-player option for every mode.</desc>
-		<image>./images/Brett Hull Hockey (World)-image.png</image>
-		<video>./videos/Brett Hull Hockey (World)-video.mp4</video>
-		<marquee>./images/Brett Hull Hockey (World)-marquee.png</marquee>
-		<thumbnail>./images/Brett Hull Hockey (World)-thumb.png</thumbnail>
-		<fanart>./images/Brett Hull Hockey (World)-fanart.jpg</fanart>
-		<boxback>./images/Brett Hull Hockey (World)-boxback.png</boxback>
-		<rating>0.7</rating>
-		<releasedate>20040109T000000</releasedate>
-		<developer>Ringler Studios</developer>
-		<publisher>B&amp;C Computervisions</publisher>
-		<genre>Sports / Hockey</genre>
-		<players>1-2</players>
-		<md5>e294d0251879e7e81291e3ac018261d1</md5>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ScreenScraper" date="20230301T192811" />
 		<scrap name="ArcadeDB" date="20221212T135726" />
 	</game>
 	<game id="14153">
@@ -9049,28 +7987,6 @@ This game features nine bizarre areas, each with multiple puzzles.  The graphics
 		<scrap name="ScreenScraper" date="20230301T192849" />
 		<scrap name="ArcadeDB" date="20221212T135729" />
 	</game>
-	<game id="117345">
-		<path>./No-Intro/ROM/Frog Feast (World).rom</path>
-		<name>Frog Feast</name>
-		<desc>Frog Feast is a video game developed by Rastersoft for several older game consoles. The last system to receive the game was the Atari Jaguar and its CD expansion in 2007. Although originally offered by Oldergames, due to difficulties with the company, Rastersoft began selling Frog Feast directly. Frog Feast is a tribute to the Mattel Intellivision game Frog Bog, and the game is almost identical. The game is played either by a single player against the AI, or by a second player.</desc>
-		<image>./images/Frog Feast (World)-image.png</image>
-		<video>./videos/Frog Feast (World)-video.mp4</video>
-		<marquee>./images/Frog Feast (World)-marquee.png</marquee>
-		<thumbnail>./images/Frog Feast (World)-thumb.png</thumbnail>
-		<fanart>./images/Frog Feast (World)-fanart.jpg</fanart>
-		<boxback>./images/Frog Feast (World)-boxback.png</boxback>
-		<rating>0.5</rating>
-		<releasedate>20050101T000000</releasedate>
-		<developer>Rastersoft</developer>
-		<publisher>Rastersoft</publisher>
-		<genre>Action</genre>
-		<players>1-2</players>
-		<md5>42ec7592035204e846d74521c3aebdd1</md5>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ScreenScraper" date="20230301T192850" />
-		<scrap name="ArcadeDB" date="20221212T135729" />
-	</game>
 	<game id="200231">
 		<path>./No-Intro/ROM/High Voltage C Maze (USA) (Demo).rom</path>
 		<name>ZZZ(notgame):High Voltage C Maze</name>
@@ -9104,39 +8020,6 @@ Hover Strike for the Jaguar is a mission-based tank game.  In each mission, you 
 		<lang>en</lang>
 		<region>wr</region>
 		<scrap name="ScreenScraper" date="20230301T192853" />
-		<scrap name="ArcadeDB" date="20221212T135730" />
-	</game>
-	<game id="14204">
-		<path>./No-Intro/ROM/Hyper Force (World).rom</path>
-		<name>Hyper Force</name>
-		<desc>It's Just You, Your Gun, and a Corporate Army Bent On Your Destruction.
-
-Trans Con is decimating world after world in search of enough resources and wealth to launch an attack against the Terran High Command. The politicians don't want a direct confrontation that might hurt their corporate sponsors. So, Interstellar Special Forces has been called in to send a lone warrior to eliminate the Trans Con threat. Wanna guess who that warrior is?
-
-Features:
--More than 20 levels of intense action!
--ISF Supply Shop allows you to upgrade 5 different weapons
--Secret areas and hidden switches
--Parallax scrolling
--Incredible in-game music!
--Saved game support with three game slots</desc>
-		<image>./images/Hyper Force (World)-image.png</image>
-		<video>./videos/Hyper Force (World)-video.mp4</video>
-		<marquee>./images/Hyper Force (World)-marquee.png</marquee>
-		<thumbnail>./images/Hyper Force (World)-thumb.png</thumbnail>
-		<fanart>./images/Hyper Force (World)-fanart.jpg</fanart>
-		<manual>./manuals/Hyper Force (World)-manual.pdf</manual>
-		<boxback>./images/Hyper Force (World)-boxback.png</boxback>
-		<rating>0.45</rating>
-		<releasedate>20000410T000000</releasedate>
-		<developer>Visual Impact</developer>
-		<publisher>Songbird Productions</publisher>
-		<genre>Platform</genre>
-		<players>1</players>
-		<md5>76cca318a6e714816c0334dad18cb64f</md5>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ScreenScraper" date="20230301T192855" />
 		<scrap name="ArcadeDB" date="20221212T135730" />
 	</game>
 	<game id="14183">
@@ -9210,34 +8093,6 @@ Iron Soldier is mech sim played from an in-cockpit view.  There are 16 single pl
 		<lang>en</lang>
 		<region>wr</region>
 		<scrap name="ScreenScraper" date="20230301T192859" />
-		<scrap name="ArcadeDB" date="20221212T135730" />
-	</game>
-	<game id="14167">
-		<path>./No-Intro/ROM/Iron Soldier 2 (USA, Europe).rom</path>
-		<name>Iron Soldier 2</name>
-		<desc>Iron Soldier 2 puts you back in the pilot's seat of a 42 foot tall humanoid war machine.  The old Iron Fist corporation is gone, and a new democratic republic has been set up. The peace is short lived, though. Iron Fist's rival, PENTA corporation, is now threatening the United Republic's stability.  You are a pilot for the United Republic, and must stop PENTA's advances.
-
-Iron Soldier 2 plays similarly to the first game.  You have new weapons, new enemies, and 20 super-challenging missions to contend with.
-
-Originally released on CD, Telegames later released a cartridge version, featuring the same gameplay as the CD version, but lacking music as well as having had the FMV sequences replaced with still images due to space constraints.</desc>
-		<image>./images/Iron Soldier 2 (USA, Europe)-image.png</image>
-		<video>./videos/Iron Soldier 2 (USA, Europe)-video.mp4</video>
-		<marquee>./images/Iron Soldier 2 (USA, Europe)-marquee.png</marquee>
-		<thumbnail>./images/Iron Soldier 2 (USA, Europe)-thumb.png</thumbnail>
-		<fanart>./images/Iron Soldier 2 (USA, Europe)-fanart.jpg</fanart>
-		<manual>./manuals/Iron Soldier 2 (USA, Europe)-manual.pdf</manual>
-		<boxback>./images/Iron Soldier 2 (USA, Europe)-boxback.png</boxback>
-		<rating>0.65</rating>
-		<releasedate>19971230T000000</releasedate>
-		<developer>Eclipse Software</developer>
-		<publisher>Atari</publisher>
-		<genre>Simulation</genre>
-		<family>Iron Soldier</family>
-		<players>1</players>
-		<md5>1b3678e369f9ecf8d75c9bfe7df75fbf</md5>
-		<lang>en</lang>
-		<region>eu</region>
-		<scrap name="ScreenScraper" date="20230301T192900" />
 		<scrap name="ArcadeDB" date="20221212T135730" />
 	</game>
 	<game id="14151">
@@ -9314,25 +8169,6 @@ This Jaguar game has 3 modes. First, there is a port of the original arcade game
 		<scrap name="ScreenScraper" date="20230301T192905" />
 		<scrap name="ArcadeDB" date="20221212T135731" />
 	</game>
-	<game id="200239">
-		<path>./No-Intro/ROM/Native (USA) (Proto).rom</path>
-		<name>Native</name>
-		<desc>Native is a horizontal 2D sprite based shmup like the old arcade classics R-Type I + II. Work on Native was stopped in december 1997. The Level 1 Demo was released as Freeware on 24.10.1997.</desc>
-		<image>./images/Native (USA) (Proto)-image.png</image>
-		<video>./videos/Native (USA) (Proto)-video.mp4</video>
-		<marquee>./images/Native (USA) (Proto)-marquee.png</marquee>
-		<thumbnail>./images/Native (USA) (Proto)-thumb.png</thumbnail>
-		<boxback>./images/Native (USA) (Proto)-boxback.png</boxback>
-		<releasedate>19971024T000000</releasedate>
-		<developer>Duranik</developer>
-		<genre>Shoot'em up / Horizontal</genre>
-		<players>1</players>
-		<md5>0ea7bf8d43fb95407a6b16766d6ce5d3</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230301T192907" />
-		<scrap name="ArcadeDB" date="20221212T135731" />
-	</game>
 	<game id="14152">
 		<path>./No-Intro/ROM/NBA Jam - Tournament Edition (USA, Europe).rom</path>
 		<name>NBA Jam : Tournament Edition</name>
@@ -9355,31 +8191,6 @@ This Jaguar game has 3 modes. First, there is a port of the original arcade game
 		<lang>en</lang>
 		<region>eu</region>
 		<scrap name="ScreenScraper" date="20230301T192908" />
-		<scrap name="ArcadeDB" date="20221212T135731" />
-	</game>
-	<game id="117321">
-		<path>./No-Intro/ROM/Phase Zero (World).rom</path>
-		<name>Phase Zero</name>
-		<desc>You pilot your combat vehicle on a variety of missions to retrieve lost personnel and take out enemy targets. The speed of this engine is amazing, and the graphics and audio make for an enjoyable game to explore.
-
-The Phase Zero Demo features:
-- Four plusfully playable levels (additional levels are incomplete) 
-- Incredible 3D engine 
-- Variety of terrain and enemies 
-- Guidance system, shield management system, selectable weapons and - Animated 3D menu loaded with options and background music</desc>
-		<image>./images/Phase Zero (World)-image.png</image>
-		<video>./videos/Phase Zero (World)-video.mp4</video>
-		<marquee>./images/Phase Zero (World)-marquee.png</marquee>
-		<thumbnail>./images/Phase Zero (World)-thumb.png</thumbnail>
-		<boxback>./images/Phase Zero (World)-boxback.png</boxback>
-		<releasedate>20020605T000000</releasedate>
-		<developer>Hyper Image</developer>
-		<genre>Shooter / Vehicle, 1st person</genre>
-		<players>1</players>
-		<md5>accb91258c5a03a3afe98cb73aa27811</md5>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ScreenScraper" date="20230301T192910" />
 		<scrap name="ArcadeDB" date="20221212T135731" />
 	</game>
 	<game id="14178">
@@ -9466,54 +8277,6 @@ The main game mode portrays a season of championship racing.  There are several 
 		<lang>en</lang>
 		<region>wr</region>
 		<scrap name="ScreenScraper" date="20230301T192915" />
-		<scrap name="ArcadeDB" date="20221212T135732" />
-	</game>
-	<game id="46478">
-		<path>./No-Intro/ROM/Protector (World).rom</path>
-		<name>Protector : Special Edition</name>
-		<desc>Haven-7 is a planetoid near Earth whose inhabitants are in grave danger. Aliens will arrive soon and plan to terraform Haven-7 which will annihilate every living thing. You, with the last remaining spaceship, are the only one left to protect Haven-7 from the aliens.
-
-Protector features 3 difficulty levels and fast-paced shooting action as you blast swarms of aliens all at once in fierce battle. Purchase ship upgrades and find powerups to help you blast the alien starships.</desc>
-		<image>./images/Protector (World)-image.png</image>
-		<video>./videos/Protector (World)-video.mp4</video>
-		<marquee>./images/Protector (World)-marquee.png</marquee>
-		<thumbnail>./images/Protector (World)-thumb.png</thumbnail>
-		<manual>./manuals/Protector (World)-manual.pdf</manual>
-		<boxback>./images/Protector (World)-boxback.png</boxback>
-		<rating>0.85</rating>
-		<releasedate>20021004T000000</releasedate>
-		<developer>Bethesda Softworks</developer>
-		<publisher>Songbird Productions</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>1-2</players>
-		<md5>56ee76358738e1b2804d095d2999670a</md5>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ScreenScraper" date="20230301T192917" />
-		<scrap name="ArcadeDB" date="20221212T135732" />
-	</game>
-	<game id="46478">
-		<path>./No-Intro/ROM/Protector - Special Edition (World).rom</path>
-		<name>Protector : Special Edition</name>
-		<desc>Haven-7 is a planetoid near Earth whose inhabitants are in grave danger. Aliens will arrive soon and plan to terraform Haven-7 which will annihilate every living thing. You, with the last remaining spaceship, are the only one left to protect Haven-7 from the aliens.
-
-Protector features 3 difficulty levels and fast-paced shooting action as you blast swarms of aliens all at once in fierce battle. Purchase ship upgrades and find powerups to help you blast the alien starships.</desc>
-		<image>./images/Protector - Special Edition (World)-image.png</image>
-		<video>./videos/Protector - Special Edition (World)-video.mp4</video>
-		<marquee>./images/Protector - Special Edition (World)-marquee.png</marquee>
-		<thumbnail>./images/Protector - Special Edition (World)-thumb.png</thumbnail>
-		<manual>./manuals/Protector - Special Edition (World)-manual.pdf</manual>
-		<boxback>./images/Protector - Special Edition (World)-boxback.png</boxback>
-		<rating>0.85</rating>
-		<releasedate>20021004T000000</releasedate>
-		<developer>Bethesda Softworks</developer>
-		<publisher>Songbird Productions</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>1-2</players>
-		<md5>d318f0d9bb8ac24d581c8f840f8ffc86</md5>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ScreenScraper" date="20230301T192918" />
 		<scrap name="ArcadeDB" date="20221212T135732" />
 	</game>
 	<game id="14172">
@@ -9676,125 +8439,6 @@ Tower is an extra-tall table that features a medieval horror motif. Like Ruiner,
 		<scrap name="ScreenScraper" date="20230301T192928" />
 		<scrap name="ArcadeDB" date="20221212T135733" />
 	</game>
-	<game id="14205">
-		<path>./No-Intro/ROM/Skyhammer (World).rom</path>
-		<name>Skyhammer</name>
-		<desc>In a futuristic city, you are a mercenary pilot flying a helicopter-like craft in cyberspace. Hired by the large corporation Cytox, you are to defend its corporate holdings from those who seek to destroy all it has accomplished.
-
-The numerous missions involve flying to several large cities and hunting down the renegades who threaten them. You have a cockpit view of the city as you hunt down your enemies and dock at the Cyber Mart for repairs. As you destroy your enemies and complete missions, you can earn credits for buying more supplies, weapons and ship upgrades at the Cyber Mart.
-
-Play in Mission Mode or Battle Mode. To win the game, you must complete each mission successfully. The enemies become more tough as you progress through the "levels" of gameplay.</desc>
-		<image>./images/Skyhammer (World)-image.png</image>
-		<video>./videos/Skyhammer (World)-video.mp4</video>
-		<marquee>./images/Skyhammer (World)-marquee.png</marquee>
-		<thumbnail>./images/Skyhammer (World)-thumb.png</thumbnail>
-		<manual>./manuals/Skyhammer (World)-manual.pdf</manual>
-		<boxback>./images/Skyhammer (World)-boxback.png</boxback>
-		<rating>0.8</rating>
-		<releasedate>20000501T000000</releasedate>
-		<developer>Rebellion</developer>
-		<publisher>Songbird Productions</publisher>
-		<genre>Lightgun Shooter</genre>
-		<players>1</players>
-		<md5>c8a4a2905c304378918780bd7b5e34d9</md5>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ScreenScraper" date="20230301T192929" />
-		<scrap name="ArcadeDB" date="20221212T135733" />
-	</game>
-	<game id="200243">
-		<path>./No-Intro/ROM/Slam Racer (USA) (Proto).rom</path>
-		<name>Slam Racer</name>
-		<image>./images/Slam Racer (USA) (Proto)-image.png</image>
-		<video>./videos/Slam Racer (USA) (Proto)-video.mp4</video>
-		<marquee>./images/Slam Racer (USA) (Proto)-marquee.png</marquee>
-		<thumbnail>./images/Slam Racer (USA) (Proto)-thumb.png</thumbnail>
-		<boxback>./images/Slam Racer (USA) (Proto)-boxback.png</boxback>
-		<developer>Sinister Developments</developer>
-		<genre>Race, Driving</genre>
-		<players>1</players>
-		<md5>2e43619bb54e43c3acdd63f4a86c79cd</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230301T192931" />
-		<scrap name="ArcadeDB" date="20221212T135733" />
-	</game>
-	<game id="14174">
-		<path>./No-Intro/ROM/Soccer Kid (World) (Beta).rom</path>
-		<name>Soccer Kid</name>
-		<desc>Aliens attempting to steal the World Cup have crashed as they tried to flee, and the Cup has been broken, its pieces scattered around the globe. As Soccer Kid, you must retrieve it. During your journey you will visit Britain, Italy, Russia, Japan, and finally the States.
-
-Soccer Kid is a platform game with some unique elements.  As the name implies, you have to kill your enemies with your ball. Football-style tricks of keeping the ball in the air and under control are especially useful - headers and overhead kicks can be played with practice. You gain access to the pieces by collecting 11 Player Cards across each world.
-
-There is a saving feature that gives you the ability to save between each country (but not between individual levels).</desc>
-		<image>./images/Soccer Kid (World) (Beta)-image.png</image>
-		<video>./videos/Soccer Kid (World) (Beta)-video.mp4</video>
-		<marquee>./images/Soccer Kid (World) (Beta)-marquee.png</marquee>
-		<thumbnail>./images/Soccer Kid (World) (Beta)-thumb.png</thumbnail>
-		<fanart>./images/Soccer Kid (World) (Beta)-fanart.jpg</fanart>
-		<manual>./manuals/Soccer Kid (World) (Beta)-manual.pdf</manual>
-		<boxback>./images/Soccer Kid (World) (Beta)-boxback.png</boxback>
-		<rating>0.6</rating>
-		<releasedate>20000102T000000</releasedate>
-		<developer>Krisalis Software</developer>
-		<publisher>Songbird Productions</publisher>
-		<genre>Platform</genre>
-		<players>1</players>
-		<md5>de65e7dff80f0e8197223d63947bfca5</md5>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ScreenScraper" date="20230301T192932" />
-		<scrap name="ArcadeDB" date="20221212T135733" />
-	</game>
-	<game id="14174">
-		<path>./No-Intro/ROM/Soccer Kid (World).rom</path>
-		<name>Soccer Kid</name>
-		<desc>Aliens attempting to steal the World Cup have crashed as they tried to flee, and the Cup has been broken, its pieces scattered around the globe. As Soccer Kid, you must retrieve it. During your journey you will visit Britain, Italy, Russia, Japan, and finally the States.
-
-Soccer Kid is a platform game with some unique elements.  As the name implies, you have to kill your enemies with your ball. Football-style tricks of keeping the ball in the air and under control are especially useful - headers and overhead kicks can be played with practice. You gain access to the pieces by collecting 11 Player Cards across each world.
-
-There is a saving feature that gives you the ability to save between each country (but not between individual levels).</desc>
-		<image>./images/Soccer Kid (World)-image.png</image>
-		<video>./videos/Soccer Kid (World)-video.mp4</video>
-		<marquee>./images/Soccer Kid (World)-marquee.png</marquee>
-		<thumbnail>./images/Soccer Kid (World)-thumb.png</thumbnail>
-		<fanart>./images/Soccer Kid (World)-fanart.jpg</fanart>
-		<manual>./manuals/Soccer Kid (World)-manual.pdf</manual>
-		<boxback>./images/Soccer Kid (World)-boxback.png</boxback>
-		<rating>0.6</rating>
-		<releasedate>20000102T000000</releasedate>
-		<developer>Krisalis Software</developer>
-		<publisher>Songbird Productions</publisher>
-		<genre>Platform</genre>
-		<players>1</players>
-		<md5>d9a95d736d7aaa161bcbb5f693ebf247</md5>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ScreenScraper" date="20230301T192934" />
-		<scrap name="ArcadeDB" date="20221212T135733" />
-	</game>
-	<game id="46479">
-		<path>./No-Intro/ROM/Space War 2000 (World).rom</path>
-		<name>Space War 2000</name>
-		<desc>As a space knight, you will vie for glory, honor, fame and fortune in this one- or two-player first-person perspective 3D jousting adventure. Procure multiple weapons anhd cool defensive items in your quest to rank with other valiant knights on the High Score Table.</desc>
-		<image>./images/Space War 2000 (World)-image.png</image>
-		<video>./videos/Space War 2000 (World)-video.mp4</video>
-		<marquee>./images/Space War 2000 (World)-marquee.png</marquee>
-		<thumbnail>./images/Space War 2000 (World)-thumb.png</thumbnail>
-		<manual>./manuals/Space War 2000 (World)-manual.pdf</manual>
-		<boxback>./images/Space War 2000 (World)-boxback.png</boxback>
-		<rating>0.6</rating>
-		<releasedate>20010901T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Shooter</genre>
-		<players>1-2</players>
-		<md5>c9cde67aad343469df9fb1bfc0405408</md5>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ScreenScraper" date="20230301T192936" />
-		<scrap name="ArcadeDB" date="20221212T135733" />
-	</game>
 	<game id="368688">
 		<path>./No-Intro/ROM/Speedster II (USA) (Proto).rom</path>
 		<name>ZZZ(notgame):Speedster II</name>
@@ -9803,28 +8447,6 @@ There is a saving feature that gives you the ability to save between each countr
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230301T192937" />
-		<scrap name="ArcadeDB" date="20221212T135734" />
-	</game>
-	<game id="14146">
-		<path>./No-Intro/ROM/Super Burnout (World) (Demo) (WCES 1995).rom</path>
-		<name>Super Burnout</name>
-		<desc>Super Burnout is an arcade-style superbike racing game inspired by Super Hang-On. Players control an ultra-fast motorcycle through races that take place on famous tracks throughout the world. There are six bikes to choose from with races on a total of eight different tracks. The usual racing game modes are present. There is a single race mode, a practice mode, and a championship mode. Players can also compete against a friend in a single-race versus mode.</desc>
-		<image>./images/Super Burnout (World) (Demo) (WCES 1995)-image.png</image>
-		<video>./videos/Super Burnout (World) (Demo) (WCES 1995)-video.mp4</video>
-		<marquee>./images/Super Burnout (World) (Demo) (WCES 1995)-marquee.png</marquee>
-		<thumbnail>./images/Super Burnout (World) (Demo) (WCES 1995)-thumb.png</thumbnail>
-		<manual>./manuals/Super Burnout (World) (Demo) (WCES 1995)-manual.pdf</manual>
-		<boxback>./images/Super Burnout (World) (Demo) (WCES 1995)-boxback.png</boxback>
-		<rating>0.85</rating>
-		<releasedate>19950705T000000</releasedate>
-		<developer>Shen Technologies SARL</developer>
-		<publisher>Atari</publisher>
-		<genre>Race, Driving</genre>
-		<players>1-2</players>
-		<md5>56b13e2ec84d1933ba07421f1566562c</md5>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ScreenScraper" date="20230301T192939" />
 		<scrap name="ArcadeDB" date="20221212T135734" />
 	</game>
 	<game id="14146">
@@ -10010,52 +8632,6 @@ It can be played in three modes - Sandbox level lets you concentrate on the park
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230301T192951" />
-		<scrap name="ArcadeDB" date="20221212T135735" />
-	</game>
-	<game id="14194">
-		<path>./No-Intro/ROM/Total Carnage (World) (Beta).rom</path>
-		<name>Total Carnage</name>
-		<desc>The war of 1999 left the country of Kookistan in shambles. Naturally, a dictator named General Akhboob took control of the beleagured nation and began creating an army of radioactive mutants. With a virtually impenetrable stronghold, a bunch of hostages, and a legion of mutants under his command, the evil despot will stop at nothing but world domination. Only two men have the courage and idealistic naivete to take on Akhboob and his forces: Captain Carnage and Major Mayhem, also known as the Doomsday Squad.
-
-As Captain Carnage or Major Mayhem, it is up to you or you and a friend (in simultaneous action) to rescue the hostages while shooting hundreds of mutants bent on your destruction. As you walk and run forward, backward, left, right, and diagonally through 20 battlezones of nonstop action, you'll always have your machine gun by your side. Additional weapons which you can find along the way include grenade launchers, rocket launchers, plasma machine guns, flame throwers, spray-fire rifles, defensive blades, and an assortment of bombs.</desc>
-		<image>./images/Total Carnage (World) (Beta)-image.png</image>
-		<video>./videos/Total Carnage (World) (Beta)-video.mp4</video>
-		<marquee>./images/Total Carnage (World) (Beta)-marquee.png</marquee>
-		<thumbnail>./images/Total Carnage (World) (Beta)-thumb.png</thumbnail>
-		<boxback>./images/Total Carnage (World) (Beta)-boxback.png</boxback>
-		<rating>0.5</rating>
-		<releasedate>20050922T000000</releasedate>
-		<developer>Midway</developer>
-		<publisher>Songbird Productions</publisher>
-		<genre>Shooter / Run and Gun</genre>
-		<players>1</players>
-		<md5>bcbeb0ca8a295cac5a3afd013b12cf1d</md5>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ScreenScraper" date="20230301T192952" />
-		<scrap name="ArcadeDB" date="20221212T135735" />
-	</game>
-	<game id="14194">
-		<path>./No-Intro/ROM/Total Carnage (World).rom</path>
-		<name>Total Carnage</name>
-		<desc>The war of 1999 left the country of Kookistan in shambles. Naturally, a dictator named General Akhboob took control of the beleagured nation and began creating an army of radioactive mutants. With a virtually impenetrable stronghold, a bunch of hostages, and a legion of mutants under his command, the evil despot will stop at nothing but world domination. Only two men have the courage and idealistic naivete to take on Akhboob and his forces: Captain Carnage and Major Mayhem, also known as the Doomsday Squad.
-
-As Captain Carnage or Major Mayhem, it is up to you or you and a friend (in simultaneous action) to rescue the hostages while shooting hundreds of mutants bent on your destruction. As you walk and run forward, backward, left, right, and diagonally through 20 battlezones of nonstop action, you'll always have your machine gun by your side. Additional weapons which you can find along the way include grenade launchers, rocket launchers, plasma machine guns, flame throwers, spray-fire rifles, defensive blades, and an assortment of bombs.</desc>
-		<image>./images/Total Carnage (World)-image.png</image>
-		<video>./videos/Total Carnage (World)-video.mp4</video>
-		<marquee>./images/Total Carnage (World)-marquee.png</marquee>
-		<thumbnail>./images/Total Carnage (World)-thumb.png</thumbnail>
-		<boxback>./images/Total Carnage (World)-boxback.png</boxback>
-		<rating>0.5</rating>
-		<releasedate>20050922T000000</releasedate>
-		<developer>Midway</developer>
-		<publisher>Songbird Productions</publisher>
-		<genre>Shooter / Run and Gun</genre>
-		<players>1</players>
-		<md5>6a49fe73b5855c374fe6102dc972d22b</md5>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ScreenScraper" date="20230301T192954" />
 		<scrap name="ArcadeDB" date="20221212T135735" />
 	</game>
 	<game id="14185">
@@ -10305,80 +8881,6 @@ The original's weapons (knife, pistol, machine gun, chaingun) all return, but th
 		<region>wr</region>
 		<scrap name="ScreenScraper" date="20230301T193011" />
 		<scrap name="ArcadeDB" date="20221212T135736" />
-	</game>
-	<game id="14144">
-		<path>./No-Intro/ROM/Worms (USA, Europe).rom</path>
-		<name>Worms</name>
-		<desc>Worms is a turn-based strategy game. It features up to 4 teams of 4 worms, aiming to destroy the others on a generated terrain. Each worm has 100 hit points, and dies when his hit points fall to 0. Upon death, a worm explodes, causing damage to everyone around.
-
-Gameplay is turn-based. Each turn, the player can control one specific worm from his team. The worm can crawl left and right or jump. However, there is a time limit to make a move; also, if the worm falls from a great height, it loses health and the turn ends immediately; and if a worm falls into water or offscreen, it dies. Each turn, a worm can also make a single attack: the player can aim up and down, choose a weapon and then fire it. After attacking, the turn ends. 
-
-There's a lot of weapons available - the standard ones as bazookas (which is affected by the (random) wind settings and gravity) and grenades. The others include a Fire Punch, dynamite, air strikes, and utilities such as ropes and girders.
-
-There are 10 styles of terrain, ranging from forests and deserts to Candy land and the moon (complete with affected gravity). Shots leave craters in the ground, and complex tunnels can be formed.</desc>
-		<image>./images/Worms (USA, Europe)-image.png</image>
-		<video>./videos/Worms (USA, Europe)-video.mp4</video>
-		<marquee>./images/Worms (USA, Europe)-marquee.png</marquee>
-		<thumbnail>./images/Worms (USA, Europe)-thumb.png</thumbnail>
-		<fanart>./images/Worms (USA, Europe)-fanart.jpg</fanart>
-		<manual>./manuals/Worms (USA, Europe)-manual.pdf</manual>
-		<boxback>./images/Worms (USA, Europe)-boxback.png</boxback>
-		<rating>0.7</rating>
-		<releasedate>19980515T000000</releasedate>
-		<developer>Team 17</developer>
-		<publisher>Telegames</publisher>
-		<genre>Strategy</genre>
-		<family>Worms</family>
-		<players>1-4</players>
-		<md5>2170a7d9e7fd2bf237f58b5afcaf4723</md5>
-		<lang>en</lang>
-		<region>eu</region>
-		<scrap name="ScreenScraper" date="20230301T193013" />
-		<scrap name="ArcadeDB" date="20221212T135736" />
-	</game>
-	<game id="14207">
-		<path>./No-Intro/ROM/Zero 5 (USA, Europe) (Beta).rom</path>
-		<name>Zero 5</name>
-		<desc>ZERO 5 is a futuristic space shooter set in a 3-D, 360 degree playfield. The year is 2044 and the battle for Earth has begun. On the far reaches of the galaxy, a massive invasion force is assembling. Scanners at DEFCON have alerted you to the alien threat. The Earth's best pilots are dispatched in their BAMBAM cruisers to engage the enemy. Multiple weapons, driving soundtrack, non-stop combat, multiple power-ups, and 15 extended missions contribute to a shooters game with real depth.</desc>
-		<image>./images/Zero 5 (USA, Europe) (Beta)-image.png</image>
-		<video>./videos/Zero 5 (USA, Europe) (Beta)-video.mp4</video>
-		<marquee>./images/Zero 5 (USA, Europe) (Beta)-marquee.png</marquee>
-		<thumbnail>./images/Zero 5 (USA, Europe) (Beta)-thumb.png</thumbnail>
-		<manual>./manuals/Zero 5 (USA, Europe) (Beta)-manual.pdf</manual>
-		<boxback>./images/Zero 5 (USA, Europe) (Beta)-boxback.png</boxback>
-		<rating>0.7</rating>
-		<releasedate>19970929T000000</releasedate>
-		<developer>Caspian Software Ltd.</developer>
-		<publisher>Telegames</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>1-2</players>
-		<md5>ff6b832951e21254374fbc63ad81136e</md5>
-		<lang>en</lang>
-		<region>eu</region>
-		<scrap name="ScreenScraper" date="20230301T193015" />
-		<scrap name="ArcadeDB" date="20221212T135736" />
-	</game>
-	<game id="14207">
-		<path>./No-Intro/ROM/Zero 5 (USA, Europe).rom</path>
-		<name>Zero 5</name>
-		<desc>ZERO 5 is a futuristic space shooter set in a 3-D, 360 degree playfield. The year is 2044 and the battle for Earth has begun. On the far reaches of the galaxy, a massive invasion force is assembling. Scanners at DEFCON have alerted you to the alien threat. The Earth's best pilots are dispatched in their BAMBAM cruisers to engage the enemy. Multiple weapons, driving soundtrack, non-stop combat, multiple power-ups, and 15 extended missions contribute to a shooters game with real depth.</desc>
-		<image>./images/Zero 5 (USA, Europe)-image.png</image>
-		<video>./videos/Zero 5 (USA, Europe)-video.mp4</video>
-		<marquee>./images/Zero 5 (USA, Europe)-marquee.png</marquee>
-		<thumbnail>./images/Zero 5 (USA, Europe)-thumb.png</thumbnail>
-		<manual>./manuals/Zero 5 (USA, Europe)-manual.pdf</manual>
-		<boxback>./images/Zero 5 (USA, Europe)-boxback.png</boxback>
-		<rating>0.7</rating>
-		<releasedate>19970929T000000</releasedate>
-		<developer>Caspian Software Ltd.</developer>
-		<publisher>Telegames</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>1-2</players>
-		<md5>0dfcfdebc54dee4164f5b747d9dcbe7a</md5>
-		<lang>en</lang>
-		<region>eu</region>
-		<scrap name="ScreenScraper" date="20230301T193016" />
-		<scrap name="ArcadeDB" date="20221212T135737" />
 	</game>
 	<game id="14181">
 		<path>./No-Intro/ROM/Zool 2 (World).rom</path>

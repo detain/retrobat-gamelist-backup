@@ -1,55 +1,6 @@
 <?xml version="1.0"?>
 <gameList>
 	<game>
-		<path>./No-Intro/Sword of Ianna, The (World) (v1.1) (Aftermarket) (Homebrew)/ianna-dan.rom</path>
-		<name>ianna-dan</name>
-		<crc32>BFD9D0AB</crc32>
-		<md5>101289fc50b0877b55319efc17c4ea81</md5>
-		<scrap name="ScreenScraper" date="20230221T142145" />
-	</game>
-	<game>
-		<path>./No-Intro/Westen House (World) (Es) (v1.3) (Aftermarket) (Homebrew)/westen1.3-es.rom</path>
-		<name>westen1.3-es</name>
-		<crc32>AACDBBC6</crc32>
-		<md5>3ac59cb7b5aea81bde29dc737e0c20f3</md5>
-		<scrap name="ScreenScraper" date="20230221T142147" />
-	</game>
-	<game>
-		<path>./No-Intro/Westen House (World) (Es) (v1.3.1) (Aftermarket) (Homebrew)/westen1.3.1-es.rom</path>
-		<name>westen1.3.1-es</name>
-		<crc32>C3EEF607</crc32>
-		<md5>92dbc61b396804f24f6ac230a81fc57c</md5>
-		<scrap name="ScreenScraper" date="20230221T142148" />
-	</game>
-	<game>
-		<path>./No-Intro/Westen House (World) (Pt) (v1.3.1) (Aftermarket) (Homebrew)/westen1.3.1-ptbr.rom</path>
-		<name>westen1.3.1-ptbr</name>
-		<crc32>45042115</crc32>
-		<md5>f7c02d92ac0045270f42cdca5c196332</md5>
-		<scrap name="ScreenScraper" date="20230221T142150" />
-	</game>
-	<game>
-		<path>./No-Intro/Westen House (World) (v1.2) (Aftermarket) (Homebrew)/westen1.2.rom</path>
-		<name>westen1.2</name>
-		<crc32>2A74E34C</crc32>
-		<md5>71e7945220b6b96c33644bcf9d939e43</md5>
-		<scrap name="ScreenScraper" date="20230221T142152" />
-	</game>
-	<game>
-		<path>./No-Intro/Westen House (World) (v1.3) (Aftermarket) (Homebrew)/westen1.3.rom</path>
-		<name>westen1.3</name>
-		<crc32>D8010073</crc32>
-		<md5>86ca093f0392993b8a273f6413b84046</md5>
-		<scrap name="ScreenScraper" date="20230221T142154" />
-	</game>
-	<game>
-		<path>./No-Intro/Westen House (World) (v1.3.1) (Aftermarket) (Homebrew)/westen1.3.1.rom</path>
-		<name>westen1.3.1</name>
-		<crc32>CC2E7808</crc32>
-		<md5>391911b3d3303431c6eb244dc009d88e</md5>
-		<scrap name="ScreenScraper" date="20230221T142156" />
-	</game>
-	<game>
 		<path>./TOSEC/Applications/[CAS]/Databa (19xx)(Philips)[RUN'CAS-']/Databa (19xx)(Philips)[RUN'CAS-'].cas</path>
 		<name>Databa (19xx)(Philips)[RUN'CAS-']</name>
 		<crc32>253E3992</crc32>

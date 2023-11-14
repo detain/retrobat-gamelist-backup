@@ -1,85 +1,5 @@
 <?xml version="1.0"?>
 <gameList>
-	<game id="88223">
-		<path>./No-Intro/FDS [unheadered]/Nazo no Murasamejou (World) (Ja) (3DS Virtual Console).fds</path>
-		<name>Nazo no Murasamejou</name>
-		<desc>In feudal Japan, an evil alien descends upon Murasame castle and takes over a giant statue, which then continues to spread its influence over four neighbouring castles. The samurai apprentice Takamaru is thus summoned to recapture the castles and then take on the alien itself.
-
-Nazo no Murasamejou is a fast-paced action game that has some similarities with The Legend of Zelda, although it is faster and has none of the RPG/Adventure elements. It is also much more linear: You fight through the castles one after the other, with each stage consisting of the path to the castle and the castle itself, where the boss is waiting.
-
-Your have two weapons: (unlimited) shurikens for ranged attacks and a sword for melee combat. The sword is automatically used when you are close enough to an enemy, and it can also be used to deflect enemy shurikens. But since you are constantly under attack by ninjas from all directions and also have only a limited time to finish each stage, the game is still quite hard.</desc>
-		<image>./images/Nazo no Murasamejou (World) (Ja) (3DS Virtual Console)-image.png</image>
-		<video>./videos/Nazo no Murasamejou (World) (Ja) (3DS Virtual Console)-video.mp4</video>
-		<marquee>./images/Nazo no Murasamejou (World) (Ja) (3DS Virtual Console)-marquee.png</marquee>
-		<thumbnail>./images/Nazo no Murasamejou (World) (Ja) (3DS Virtual Console)-thumb.png</thumbnail>
-		<manual>./manuals/Nazo no Murasamejou (World) (Ja) (3DS Virtual Console)-manual.pdf</manual>
-		<boxback>./images/Nazo no Murasamejou (World) (Ja) (3DS Virtual Console)-boxback.png</boxback>
-		<releasedate>19860414T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Adventure</genre>
-		<players>1</players>
-		<crc32>1DF004F6</crc32>
-		<md5>79cd5b28438f0c1857c1029820b768ba</md5>
-		<lang>en,jp</lang>
-		<region>jp</region>
-		<scrap name="ScreenScraper" date="20230222T210921" />
-	</game>
-	<game id="422100">
-		<path>./No-Intro/FDS [unheadered]/NESert Golfing (World) (Aftermarket) (Homebrew).fds</path>
-		<name>NESert Golfing</name>
-		<crc32>912CD8F8</crc32>
-		<md5>5fe8d15c7279b077ba7847baa7e95a30</md5>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ScreenScraper" date="20230222T210924" />
-	</game>
-	<game id="88256">
-		<path>./No-Intro/FDS [unheadered]/Super Mario Bros. 2 (World) (GameCube, Wii and Wii U Virtual Console).fds</path>
-		<name>Super Mario Brothers 2</name>
-		<desc>Originally released in Japan as Super Mario Bros.® 2, this game has previously made only brief cameo appearances in the Western hemisphere. Mario fans will appreciate the familiar look and feel of the game, while finding that its updated game play creates an entirely new challenge. No longer content just to wear different-colored overalls, Mario and Luigi also possess different skill sets (Mario can stop quicker, while Luigi can jump higher). In addition to the classic enemies already known to fans worldwide, there are also Poison Mushrooms, backward Warp Zones, and the occasional wind gust (which can help or hinder your progress) to take into account. And if that?s somehow not enough, expert players can go looking for the game?s secret worlds. So get ready to put your Mario skills to the ultimate test, and save the Princess again. Just don?t be surprised if she?s in another castle!</desc>
-		<image>./images/Super Mario Bros. 2 (World) (GameCube, Wii and Wii U Virtual Console)-image.png</image>
-		<video>./videos/Super Mario Bros. 2 (World) (GameCube, Wii and Wii U Virtual Console)-video.mp4</video>
-		<marquee>./images/Super Mario Bros. 2 (World) (GameCube, Wii and Wii U Virtual Console)-marquee.png</marquee>
-		<thumbnail>./images/Super Mario Bros. 2 (World) (GameCube, Wii and Wii U Virtual Console)-thumb.png</thumbnail>
-		<manual>./manuals/Super Mario Bros. 2 (World) (GameCube, Wii and Wii U Virtual Console)-manual.pdf</manual>
-		<boxback>./images/Super Mario Bros. 2 (World) (GameCube, Wii and Wii U Virtual Console)-boxback.png</boxback>
-		<rating>0.6</rating>
-		<releasedate>19860603T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Platform</genre>
-		<family>Mario Bros.</family>
-		<players>1</players>
-		<crc32>5D08DD11</crc32>
-		<md5>b210c0f117d46819cc81720ff521d762</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230222T210932" />
-	</game>
-	<game id="88266">
-		<path>./No-Intro/FDS [unheadered]/Vs. Excitebike (Japan, USA) (Virtual Console).fds</path>
-		<name>Vs. Excitebike</name>
-		<desc>Vs. Excitebike is a motorcross racing simulation game developed by Nintendo as a sequel to Excitebike for the Famicom Disk System. It was also released in the arcades but the Famicom Disk System is arguably better with additional features.  It comes with some improved features, including a simultaneous two player mode that the original game lacked, and an improved track save system (the tracks were saved to the writable portion of the disk). The music is completely different; none of the songs from the original game are present in this version, and a background theme is played during gameplay. There is also a new bonus round that has you jumping over trucks.</desc>
-		<image>./images/Vs. Excitebike (Japan, USA) (Virtual Console)-image.png</image>
-		<video>./videos/Vs. Excitebike (Japan, USA) (Virtual Console)-video.mp4</video>
-		<marquee>./images/Vs. Excitebike (Japan, USA) (Virtual Console)-marquee.png</marquee>
-		<thumbnail>./images/Vs. Excitebike (Japan, USA) (Virtual Console)-thumb.png</thumbnail>
-		<fanart>./images/Vs. Excitebike (Japan, USA) (Virtual Console)-fanart.jpg</fanart>
-		<manual>./manuals/Vs. Excitebike (Japan, USA) (Virtual Console)-manual.pdf</manual>
-		<bezel>./images/Vs. Excitebike (Japan, USA) (Virtual Console)-bezel.png</bezel>
-		<boxback>./images/Vs. Excitebike (Japan, USA) (Virtual Console)-boxback.png</boxback>
-		<releasedate>19881209T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Race, Driving / Motorcycle</genre>
-		<players>1-2</players>
-		<crc32>A1A824BF</crc32>
-		<md5>d07f5f79e9fd1ccdd219637ee630aee6</md5>
-		<lang>jp,en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230222T210951" />
-	</game>
 	<game>
 		<path>./TOSEC/Applications/FDS Disk Listing Program (2002)(Covell, Chris)(PD)/FDS Disk Listing Program (2002)(Covell, Chris)(PD).fds</path>
 		<name>FDS Disk Listing Program (2002)(Covell, Chris)(PD)</name>
@@ -11977,6 +11897,7 @@ Your have two weapons: (unlimited) shurikens for ranged attacks and a sword for 
 		<lang>en,jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231106T051011" />
+		<boxback>./images/Nazo no Murasamejou (World) (Ja) (3DS Virtual Console)-boxback.png</boxback>
 	</game>
 	<game>
 		<path>./No-Intro/FDS/Nazoler Land - Dainigou (Japan).fds</path>
@@ -13367,6 +13288,7 @@ You'll have to think fast and move even faster to complete this quest! The Mushr
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231106T052516" />
+		<boxback>./images/Super Mario Bros. 2 (World) (GameCube, Wii and Wii U Virtual Console)-boxback.png</boxback>
 	</game>
 	<game>
 		<path>./No-Intro/FDS/Super Yume Kojo (Japan) (Pirate).fds</path>
@@ -14051,6 +13973,7 @@ To serve, the player must press the b button, wait for the ball to come back dow
 		<lang>jp,en</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231106T053258" />
+		<boxback>./images/Vs. Excitebike (Japan, USA) (Virtual Console)-boxback.png</boxback>
 	</game>
 	<game id="88267">
 		<path>./No-Intro/FDS/Wakusei Aton Gaiden (Japan) (National Tax Agency Demo).fds</path>

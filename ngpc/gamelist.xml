@@ -75,31 +75,6 @@ The battles are like in Pokémon, completely menu based. You pick whatever power
 		<scrap name="ArcadeDB" date="20221212T175956" />
 	</game>
 	<game id="87588">
-		<path>./No-Intro/Bust-A-Move Pocket (USA) (Demo).ngc</path>
-		<name>Bust-A-Move Pocket</name>
-		<desc>The classic game Bubble Bobble is the ancestor of Puzzle Bobble. Your aim in each stage is to break all the bubbles, by breaking 3 or more of the same color.  The game contains a two-player mode where each player tries to break all bubbles first.</desc>
-		<image>./media/screenshots/Bust-A-Move Pocket (USA) (Demo).png</image>
-		<video>./media/videos/Bust-A-Move Pocket (USA) (Demo).mp4</video>
-		<marquee>./media/marquees/Bust-A-Move Pocket (USA) (Demo).png</marquee>
-		<thumbnail>./images/Bust-A-Move Pocket (USA) (Demo)-thumb.png</thumbnail>
-		<manual>./manuals/Bust-A-Move Pocket (USA) (Demo)-manual.pdf</manual>
-		<boxback>./images/Bust-A-Move Pocket (USA) (Demo)-boxback.png</boxback>
-		<rating>0.8</rating>
-		<releasedate>19990101T000000</releasedate>
-		<developer>Taito</developer>
-		<publisher>SNK</publisher>
-		<genre>Strategy</genre>
-		<players>1-2</players>
-		<kidgame>true</kidgame>
-		<crc32>78A1361D</crc32>
-		<md5>29a8a310b704e8dafee71cea0ad53df0</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230302T190823" />
-		<scrap name="HfsDB" date="20230127T140933" />
-		<scrap name="ArcadeDB" date="20221212T175956" />
-	</game>
-	<game id="87588">
 		<path>./No-Intro/Bust-A-Move Pocket (USA).ngc</path>
 		<name>Bust-A-Move Pocket</name>
 		<desc>The classic game Bubble Bobble is the ancestor of Puzzle Bobble. Your aim in each stage is to break all the bubbles, by breaking 3 or more of the same color.  The game contains a two-player mode where each player tries to break all bubbles first.</desc>
@@ -674,31 +649,6 @@ Skilled players can choose Original Mode to enjoy real poker with authentic feel
 		<scrap name="ArcadeDB" date="20221212T180004" />
 	</game>
 	<game id="47043">
-		<path>./No-Intro/Neo Turf Masters (World) (En,Ja) (Demo).ngc</path>
-		<name>Big Tournament Golf</name>
-		<desc>Neo Turf Masters is a golf game that offers play in three different countries. You can play in the US, Germany, and Japan. There are 18 holes per course, just like in real life, which totals to 54 holes. The game features a two-player versus mode and three single player modes. You can choose from one of six different characters, who each have their own strengths and weaknesses. Like many other golf games, you use an accurate click type of play, where you click in an overhead map where you want to hit the ball, then adjust hook, slice, and power. In Versus mode, you can earn "super-clubs" that can only be used once. These can also be traded between friends.</desc>
-		<image>./media/screenshots/Neo Turf Masters (World) (En,Ja) (Demo).png</image>
-		<video>./media/videos/Neo Turf Masters (World) (En,Ja) (Demo).mp4</video>
-		<marquee>./media/marquees/Neo Turf Masters (World) (En,Ja) (Demo).png</marquee>
-		<thumbnail>./images/Neo Turf Masters (World) (En,Ja) (Demo)-thumb.png</thumbnail>
-		<manual>./manuals/Neo Turf Masters (World) (En,Ja) (Demo)-manual.pdf</manual>
-		<boxback>./images/Neo Turf Masters (World) (En,Ja) (Demo)-boxback.png</boxback>
-		<rating>0.85</rating>
-		<releasedate>19990729T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Sports / Golf</genre>
-		<players>1-2</players>
-		<kidgame>true</kidgame>
-		<crc32>9DCA6ED6</crc32>
-		<md5>f78476c51c398b28e1d2257299d14758</md5>
-		<lang>en,jp</lang>
-		<region>jp</region>
-		<scrap name="ScreenScraper" date="20230302T190857" />
-		<scrap name="HfsDB" date="20230127T142848" />
-		<scrap name="ArcadeDB" date="20221212T180004" />
-	</game>
-	<game id="47043">
 		<path>./No-Intro/Neo Turf Masters (World) (En,Ja).ngc</path>
 		<name>Big Tournament Golf</name>
 		<desc>Neo Turf Masters is a golf game that offers play in three different countries. You can play in the US, Germany, and Japan. There are 18 holes per course, just like in real life, which totals to 54 holes. The game features a two-player versus mode and three single player modes. You can choose from one of six different characters, who each have their own strengths and weaknesses. Like many other golf games, you use an accurate click type of play, where you click in an overhead map where you want to hit the ball, then adjust hook, slice, and power. In Versus mode, you can earn "super-clubs" that can only be used once. These can also be traded between friends.</desc>
@@ -1160,19 +1110,6 @@ The gameplay is identical to KOF's Advanced Mode (e.g. Emergency Evasion and Run
 		<scrap name="ScreenScraper" date="20230302T190925" />
 		<scrap name="HfsDB" date="20230127T144557" />
 		<scrap name="ArcadeDB" date="20221212T180011" />
-	</game>
-	<game id="47063">
-		<path>./No-Intro/[BIOS] SNK Neo Geo Pocket Color (World) (En,Ja).ngp</path>
-		<name>ZZZ(notgame):[bios] Snk Neo Geo Pocket</name>
-		<image>./images/[BIOS] SNK Neo Geo Pocket Color (World) (En,Ja)-image.png</image>
-		<hidden>true</hidden>
-		<crc32>6EEB6F40</crc32>
-		<md5>3655aacebb43a963607d4cf821fc1301</md5>
-		<lang>en,jp</lang>
-		<region>jp</region>
-		<scrap name="ScreenScraper" date="20230302T190926" />
-		<scrap name="HfsDB" date="20230127T144858" />
-		<scrap name="ArcadeDB" date="20221212T180012" />
 	</game>
 	<game id="47064">
 		<path>./No-Intro/Bakumatsu Rouman Tokubetsu Hen - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana (Japan).ngc</path>

@@ -1,32 +1,5 @@
 <?xml version="1.0"?>
 <gameList>
-	<game>
-		<path>./No-Intro/beat mania for WonderSwan (Japan).ws</path>
-		<name>Beatmania</name>
-		<image>./media/screenshots/beat mania for WonderSwan (Japan).png</image>
-		<marquee>./media/marquees/beat mania for WonderSwan (Japan).png</marquee>
-		<thumbnail>./images/beat mania for WonderSwan (Japan)-thumb.png</thumbnail>
-		<video>./media/videos/beat mania for WonderSwan (Japan).mp4</video>
-		<rating>0</rating>
-		<desc>This is a portable version of beatmania and as such it contains everything one could hope for in such a game, a series of music track (with reproduced vocals!), a lot of buttons to press, and a lot of vinyl to scratch.
-
-After you select the music you want to play you'll have a vertical scroll which will indicate when you should hit one of the left directional buttons along with the music. The game also indicates when you should 'scratch' which should be be familiar to anyone who has played a beatmania arcade game. This refers to the scratching of a record, one might think that the WonderSwan is ill-equiped for such a for of input, well think again! beatmania for WonderSwan included in its packaging a miniature record that could be fitted over the right directional keys to  make scratching more realistic.
-
-As you finish songs you'll on lock more difficult and interesting(?) tunes. The game plays vertically.</desc>
-		<releasedate>19990428T000000</releasedate>
-		<developer>ICCE Japan</developer>
-		<publisher>Konami</publisher>
-		<md5>b814e71eb1d079466a9535566d605280</md5>
-		<lang>jp</lang>
-		<genre>Action</genre>
-		<players>2</players>
-		<gametime>0</gametime>
-		<favorite>false</favorite>
-		<kidgame>false</kidgame>
-		<hidden>false</hidden>
-		<playcount>0</playcount>
-		<lastplayed>20230222T000000</lastplayed>
-	</game>
 	<game id="46248">
 		<path>./No-Intro/Anchorz Field (Japan).ws</path>
 		<name>Anchor Field</name>
@@ -47,6 +20,7 @@ As you finish songs you'll on lock more difficult and interesting(?) tunes. The 
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003459" />
+		<boxback>./images/Anchorz Field (Japan)-boxback.png</boxback>
 	</game>
 	<game id="46249">
 		<path>./No-Intro/Armored Unit (Japan).ws</path>
@@ -68,6 +42,7 @@ As you finish songs you'll on lock more difficult and interesting(?) tunes. The 
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003500" />
+		<boxback>./images/Armored Unit (Japan)-boxback.png</boxback>
 	</game>
 	<game id="38474">
 		<path>./No-Intro/Bakusou Dekotora Densetsu for WonderSwan (Japan).ws</path>
@@ -90,6 +65,7 @@ Dekotora is short for "decorated truck", and this racing game consists not only 
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003502" />
+		<boxback>./images/Bakusou Dekotora Densetsu for WonderSwan (Japan)-boxback.png</boxback>
 	</game>
 	<game id="199980">
 		<path>./No-Intro/BANDAI Default Splash Screen (Japan) (Program).ws</path>
@@ -153,6 +129,7 @@ Gameplay is reminiscent of Sonic the Hedghog
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003516" />
+		<boxback>./images/Buffers Evolution (Japan)-boxback.png</boxback>
 	</game>
 	<game id="46250">
 		<path>./No-Intro/Cardcaptor Sakura - Sakura to Fushigi na Clow Card (Japan).ws</path>
@@ -173,6 +150,7 @@ Gameplay is reminiscent of Sonic the Hedghog
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003517" />
+		<boxback>./images/Cardcaptor Sakura - Sakura to Fushigi na Clow Card (Japan)-boxback.png</boxback>
 	</game>
 	<game id="46251">
 		<path>./No-Intro/Chaos Gear - Michibikareshi Mono (Japan).ws</path>
@@ -194,6 +172,7 @@ Gameplay is reminiscent of Sonic the Hedghog
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003519" />
+		<boxback>./images/Chaos Gear - Michibikareshi Mono (Japan)-boxback.png</boxback>
 	</game>
 	<game id="38479">
 		<path>./No-Intro/Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 1).ws</path>
@@ -217,6 +196,7 @@ The story evolves from the opening movie when a fellow chocobo is "turned" evil 
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003520" />
+		<boxback>./images/Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 1)-boxback.png</boxback>
 	</game>
 	<game id="38479">
 		<path>./No-Intro/Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 2).ws</path>
@@ -240,6 +220,7 @@ The story evolves from the opening movie when a fellow chocobo is "turned" evil 
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003522" />
+		<boxback>./images/Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 2)-boxback.png</boxback>
 	</game>
 	<game id="38479">
 		<path>./No-Intro/Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 3).ws</path>
@@ -263,6 +244,7 @@ The story evolves from the opening movie when a fellow chocobo is "turned" evil 
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003523" />
+		<boxback>./images/Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 3)-boxback.png</boxback>
 	</game>
 	<game id="38478">
 		<path>./No-Intro/Chou Aniki - Otoko no Tamafuda (Japan) (Rev 4).ws</path>
@@ -286,6 +268,7 @@ You select your character from a roster of Cho Aniki characters and set out to e
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003526" />
+		<boxback>./images/Chou Aniki - Otoko no Tamafuda (Japan) (Rev 4)-boxback.png</boxback>
 	</game>
 	<game id="46252">
 		<path>./No-Intro/Chou Denki Card Battle - Youfu Makai (Japan) (Rev 3).ws</path>
@@ -307,6 +290,7 @@ You select your character from a roster of Cho Aniki characters and set out to e
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003531" />
+		<boxback>./images/Chou Denki Card Battle - Youfu Makai (Japan) (Rev 3)-boxback.png</boxback>
 	</game>
 	<game id="38480">
 		<path>./No-Intro/Clock Tower for WonderSwan (Japan) (Rev 1).ws</path>
@@ -330,6 +314,7 @@ Now she must survive and get out of the mansion in this point-and-click horror a
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003534" />
+		<boxback>./images/Clock Tower for WonderSwan (Japan) (Rev 1)-boxback.png</boxback>
 	</game>
 	<game id="38481">
 		<path>./No-Intro/Crazy Climber (Japan).ws</path>
@@ -351,6 +336,7 @@ Pendant l'escalade d'un bâtiment, les fenêtres s'ouvrent et se ferment simulta
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003535" />
+		<boxback>./images/Crazy Climber (Japan)-boxback.png</boxback>
 	</game>
 	<game id="38488">
 		<path>./No-Intro/D's Garage 21 Koubo Game - Tane o Maku Tori (Japan).ws</path>
@@ -384,6 +370,7 @@ This game is played vertically.</desc>
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003538" />
+		<boxback>./images/D's Garage 21 Koubo Game - Tane o Maku Tori (Japan)-boxback.png</boxback>
 	</game>
 	<game id="38482">
 		<path>./No-Intro/Densha de Go! (Japan) (Rev 1).ws</path>
@@ -417,6 +404,7 @@ The following lines are featured:
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003540" />
+		<boxback>./images/Densha de Go! (Japan) (Rev 1)-boxback.png</boxback>
 	</game>
 	<game id="38483">
 		<path>./No-Intro/Densha de Go! 2 (Japan).ws</path>
@@ -448,6 +436,7 @@ The following routes are available:
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003541" />
+		<boxback>./images/Densha de Go! 2 (Japan)-boxback.png</boxback>
 	</game>
 	<game id="46253">
 		<path>./No-Intro/Digimon - Ver. WonderSwan (Hong Kong) (En).ws</path>
@@ -469,6 +458,7 @@ The following routes are available:
 		<lang>cn,en</lang>
 		<region>cn</region>
 		<scrap name="ScreenScraper" date="20231103T003543" />
+		<boxback>./images/Digimon - Ver. WonderSwan (Hong Kong) (En)-boxback.png</boxback>
 	</game>
 	<game id="38485">
 		<path>./No-Intro/Digimon Adventure - Anode Tamer (Japan) (Rev 1).ws</path>
@@ -492,6 +482,7 @@ The gameplay involves mainly hunting monsters in dungeons and then sending them 
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003544" />
+		<boxback>./images/Digimon Adventure - Anode Tamer (Japan) (Rev 1)-boxback.png</boxback>
 	</game>
 	<game id="38485">
 		<path>./No-Intro/Digimon Adventure - Anode Tamer (Japan).ws</path>
@@ -515,6 +506,7 @@ The gameplay involves mainly hunting monsters in dungeons and then sending them 
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003545" />
+		<boxback>./images/Digimon Adventure - Anode Tamer (Japan)-boxback.png</boxback>
 	</game>
 	<game id="38486">
 		<path>./No-Intro/Digimon Adventure - Cathode Tamer (Japan).ws</path>
@@ -538,6 +530,7 @@ The story of this game is identical to that of "Anode Tamer", and gameplay mecha
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003547" />
+		<boxback>./images/Digimon Adventure - Cathode Tamer (Japan)-boxback.png</boxback>
 	</game>
 	<game id="38484">
 		<path>./No-Intro/Digimon Adventure 02 - Tag Tamers (Japan) (Rev 1).ws</path>
@@ -561,6 +554,7 @@ The gameplay follows traditional Digimon outlines: you descend into dungeons and
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003548" />
+		<boxback>./images/Digimon Adventure 02 - Tag Tamers (Japan) (Rev 1)-boxback.png</boxback>
 	</game>
 	<game id="38484">
 		<path>./No-Intro/Digimon Adventure 02 - Tag Tamers (Japan).ws</path>
@@ -584,6 +578,7 @@ The gameplay follows traditional Digimon outlines: you descend into dungeons and
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003550" />
+		<boxback>./images/Digimon Adventure 02 - Tag Tamers (Japan)-boxback.png</boxback>
 	</game>
 	<game id="46253">
 		<path>./No-Intro/Digital Monster - Ver. WonderSwan (Japan) (Rev 1).ws</path>
@@ -605,6 +600,7 @@ The gameplay follows traditional Digimon outlines: you descend into dungeons and
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003551" />
+		<boxback>./images/Digital Monster - Ver. WonderSwan (Japan) (Rev 1)-boxback.png</boxback>
 	</game>
 	<game id="46254">
 		<path>./No-Intro/Digital Partner (Japan).ws</path>
@@ -626,6 +622,7 @@ The gameplay follows traditional Digimon outlines: you descend into dungeons and
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003554" />
+		<boxback>./images/Digital Partner (Japan)-boxback.png</boxback>
 	</game>
 	<game id="38487">
 		<path>./No-Intro/Dokodemo Hamster (Japan).ws</path>
@@ -646,6 +643,7 @@ The gameplay follows traditional Digimon outlines: you descend into dungeons and
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003556" />
+		<boxback>./images/Dokodemo Hamster (Japan)-boxback.png</boxback>
 	</game>
 	<game id="38489">
 		<path>./No-Intro/Engacho! for WonderSwan (Japan).ws</path>
@@ -667,6 +665,7 @@ The gameplay follows traditional Digimon outlines: you descend into dungeons and
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003558" />
+		<boxback>./images/Engacho! for WonderSwan (Japan)-boxback.png</boxback>
 	</game>
 	<game id="38490">
 		<path>./No-Intro/Fever - Sankyo Koushiki Pachinko Simulation for WonderSwan (Japan).ws</path>
@@ -689,6 +688,7 @@ This simulator also has a collection hall where the player can use his pachinko 
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003600" />
+		<boxback>./images/Fever - Sankyo Koushiki Pachinko Simulation for WonderSwan (Japan)-boxback.png</boxback>
 	</game>
 	<game id="38491">
 		<path>./No-Intro/Final Lap 2000 (Japan).ws</path>
@@ -721,6 +721,7 @@ The track editing feature can only be used to make simple tracks at the start of
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003602" />
+		<boxback>./images/Final Lap 2000 (Japan)-boxback.png</boxback>
 	</game>
 	<game id="38492">
 		<path>./No-Intro/Fire Pro Wrestling for WonderSwan (Japan) (Rev 5).ws</path>
@@ -744,6 +745,7 @@ Fire Pro Wrestling has a stacked roster, comprised of many not-quite-copyright-i
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003603" />
+		<boxback>./images/Fire Pro Wrestling for WonderSwan (Japan) (Rev 5)-boxback.png</boxback>
 	</game>
 	<game id="38493">
 		<path>./No-Intro/Fishing Freaks - Bass Rise for WonderSwan (Japan).ws</path>
@@ -770,6 +772,7 @@ Records can be shared by means of the Communication Cable.</desc>
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003605" />
+		<boxback>./images/Fishing Freaks - Bass Rise for WonderSwan (Japan)-boxback.png</boxback>
 	</game>
 	<game id="46255">
 		<path>./No-Intro/From TV Animation One Piece - Mezase Kaizoku Ou! (Japan).ws</path>
@@ -792,6 +795,7 @@ Records can be shared by means of the Communication Cable.</desc>
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003608" />
+		<boxback>./images/From TV Animation One Piece - Mezase Kaizoku Ou! (Japan)-boxback.png</boxback>
 	</game>
 	<game id="38494">
 		<path>./No-Intro/Ganso Jajamaru-kun (Japan).ws</path>
@@ -852,6 +856,7 @@ The power-ups that can be found in the bricks between tiers wear out after a cer
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003610" />
+		<boxback>./images/Ganso Jajamaru-kun (Japan)-boxback.png</boxback>
 	</game>
 	<game id="46256">
 		<path>./No-Intro/Glocal Hexcite (Japan).ws</path>
@@ -874,6 +879,7 @@ Players begin by placing a geometric shape (triangle, hexagon, parallelogram, et
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003611" />
+		<boxback>./images/Glocal Hexcite (Japan)-boxback.png</boxback>
 	</game>
 	<game id="38496">
 		<path>./No-Intro/Gomoku Narabe &amp; Reversi - Touryuumon (Japan).ws</path>
@@ -902,6 +908,7 @@ Two players can play the game through the Communication Cable, which is odd as i
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003612" />
+		<boxback>./images/Gomoku Narabe &amp; Reversi - Touryuumon (Japan)-boxback.png</boxback>
 	</game>
 	<game id="38497">
 		<path>./No-Intro/Goraku Ou Tango! (Japan) (Rev 2).ws</path>
@@ -924,6 +931,7 @@ There is a story mode featuring a family of archaeologists who are digging up Ja
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003614" />
+		<boxback>./images/Goraku Ou Tango! (Japan) (Rev 2)-boxback.png</boxback>
 	</game>
 	<game id="38499">
 		<path>./No-Intro/GunPey (Japan).ws</path>
@@ -945,6 +953,7 @@ There is a story mode featuring a family of archaeologists who are digging up Ja
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003615" />
+		<boxback>./images/GunPey (Japan)-boxback.png</boxback>
 	</game>
 	<game id="46257">
 		<path>./No-Intro/Hanafuda Shiyouyo (Japan).ws</path>
@@ -965,6 +974,7 @@ There is a story mode featuring a family of archaeologists who are digging up Ja
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003617" />
+		<boxback>./images/Hanafuda Shiyouyo (Japan)-boxback.png</boxback>
 	</game>
 	<game id="46258">
 		<path>./No-Intro/Harobots (Japan) (Rev 1).ws</path>
@@ -985,6 +995,7 @@ There is a story mode featuring a family of archaeologists who are digging up Ja
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003618" />
+		<boxback>./images/Harobots (Japan) (Rev 1)-boxback.png</boxback>
 	</game>
 	<game id="46258">
 		<path>./No-Intro/Harobots (Japan).ws</path>
@@ -1005,6 +1016,7 @@ There is a story mode featuring a family of archaeologists who are digging up Ja
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003620" />
+		<boxback>./images/Harobots (Japan)-boxback.png</boxback>
 	</game>
 	<game id="46259">
 		<path>./No-Intro/Hunter X Hunter - Ishi o Tsugu Mono (Japan) (Rev 1).ws</path>
@@ -1026,6 +1038,7 @@ There is a story mode featuring a family of archaeologists who are digging up Ja
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003621" />
+		<boxback>./images/Hunter X Hunter - Ishi o Tsugu Mono (Japan) (Rev 1)-boxback.png</boxback>
 	</game>
 	<game id="46259">
 		<path>./No-Intro/Hunter X Hunter - Ishi o Tsugu Mono (Japan) (Rev 2).ws</path>
@@ -1047,6 +1060,7 @@ There is a story mode featuring a family of archaeologists who are digging up Ja
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003623" />
+		<boxback>./images/Hunter X Hunter - Ishi o Tsugu Mono (Japan) (Rev 2)-boxback.png</boxback>
 	</game>
 	<game id="46260">
 		<path>./No-Intro/Kakutou Ryouri Densetsu Bistro Recipe - Wonder Battle Hen (Japan).ws</path>
@@ -1067,6 +1081,7 @@ There is a story mode featuring a family of archaeologists who are digging up Ja
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003624" />
+		<boxback>./images/Kakutou Ryouri Densetsu Bistro Recipe - Wonder Battle Hen (Japan)-boxback.png</boxback>
 	</game>
 	<game id="38501">
 		<path>./No-Intro/Kaze no Klonoa - Moonlight Museum (Japan).ws</path>
@@ -1090,6 +1105,7 @@ Kaze no Klonoa: Moonlight Museum is a platform game with an emphasis on puzzle-s
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003628" />
+		<boxback>./images/Kaze no Klonoa - Moonlight Museum (Japan)-boxback.png</boxback>
 	</game>
 	<game id="46261">
 		<path>./No-Intro/Keiba Yosou Shien Soft - Yosou Shinkaron (Japan).ws</path>
@@ -1110,6 +1126,7 @@ Kaze no Klonoa: Moonlight Museum is a platform game with an emphasis on puzzle-s
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003629" />
+		<boxback>./images/Keiba Yosou Shien Soft - Yosou Shinkaron (Japan)-boxback.png</boxback>
 	</game>
 	<game id="46262">
 		<path>./No-Intro/Kiss Yori... - Seaside Serenade (Japan) (Rev 2).ws</path>
@@ -1129,6 +1146,7 @@ Kaze no Klonoa: Moonlight Museum is a platform game with an emphasis on puzzle-s
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003631" />
+		<boxback>./images/Kiss Yori... - Seaside Serenade (Japan) (Rev 2)-boxback.png</boxback>
 	</game>
 	<game id="46263">
 		<path>./No-Intro/Kosodate Quiz - Dokodemo My Angel (Japan).ws</path>
@@ -1148,6 +1166,7 @@ Kaze no Klonoa: Moonlight Museum is a platform game with an emphasis on puzzle-s
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003633" />
+		<boxback>./images/Kosodate Quiz - Dokodemo My Angel (Japan)-boxback.png</boxback>
 	</game>
 	<game id="38502">
 		<path>./No-Intro/Kyousouba Ikusei Simulation - Keiba (Japan) (Rev 1).ws</path>
@@ -1174,6 +1193,7 @@ Horse information and stable data can be shared with other players via the Commu
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003634" />
+		<boxback>./images/Kyousouba Ikusei Simulation - Keiba (Japan) (Rev 1)-boxback.png</boxback>
 	</game>
 	<game id="38503">
 		<path>./No-Intro/Langrisser Millennium WS - The Last Century (Japan) (Rev 1).ws</path>
@@ -1197,6 +1217,7 @@ The gameplay "Langrisser Millenium" is divided into "Map Mode" and "Battle Mode"
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003636" />
+		<boxback>./images/Langrisser Millennium WS - The Last Century (Japan) (Rev 1)-boxback.png</boxback>
 	</game>
 	<game id="46264">
 		<path>./No-Intro/Last Stand (Japan).ws</path>
@@ -1217,6 +1238,7 @@ The gameplay "Langrisser Millenium" is divided into "Map Mode" and "Battle Mode"
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003638" />
+		<boxback>./images/Last Stand (Japan)-boxback.png</boxback>
 	</game>
 	<game id="38504">
 		<path>./No-Intro/Lode Runner for WonderSwan (Japan).ws</path>
@@ -1243,6 +1265,7 @@ This was one of the earliest games to include a level editor, allowing the creat
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003641" />
+		<boxback>./images/Lode Runner for WonderSwan (Japan)-boxback.png</boxback>
 	</game>
 	<game id="46265">
 		<path>./No-Intro/Macross - True Love Song (Japan).ws</path>
@@ -1263,6 +1286,7 @@ This was one of the earliest games to include a level editor, allowing the creat
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003643" />
+		<boxback>./images/Macross - True Love Song (Japan)-boxback.png</boxback>
 	</game>
 	<game id="38505">
 		<path>./No-Intro/Magical Drop for WonderSwan (Japan).ws</path>
@@ -1287,6 +1311,7 @@ This is a puzzle game in which different balloons are falling down and you must 
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003646" />
+		<boxback>./images/Magical Drop for WonderSwan (Japan)-boxback.png</boxback>
 	</game>
 	<game id="46266">
 		<path>./No-Intro/Mahjong Touryuumon (Japan) (Rev 1).ws</path>
@@ -1306,6 +1331,7 @@ This is a puzzle game in which different balloons are falling down and you must 
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003647" />
+		<boxback>./images/Mahjong Touryuumon (Japan) (Rev 1)-boxback.png</boxback>
 	</game>
 	<game id="46266">
 		<path>./No-Intro/Mahjong Touryuumon (Japan) (Rev 3).ws</path>
@@ -1325,6 +1351,7 @@ This is a puzzle game in which different balloons are falling down and you must 
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003649" />
+		<boxback>./images/Mahjong Touryuumon (Japan) (Rev 3)-boxback.png</boxback>
 	</game>
 	<game id="46267">
 		<path>./No-Intro/Makaimura for WonderSwan (Japan).ws</path>
@@ -1345,6 +1372,7 @@ This is a puzzle game in which different balloons are falling down and you must 
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003650" />
+		<boxback>./images/Makaimura for WonderSwan (Japan)-boxback.png</boxback>
 	</game>
 	<game id="46268">
 		<path>./No-Intro/Medarot Perfect Edition - Kabuto Version (Japan).ws</path>
@@ -1368,6 +1396,7 @@ It follows Hikaru Agata on his quest to compete in Robottle tournaments and defe
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003652" />
+		<boxback>./images/Medarot Perfect Edition - Kabuto Version (Japan)-boxback.png</boxback>
 	</game>
 	<game id="133958">
 		<path>./No-Intro/Medarot Perfect Edition - Kuwagata Version (Japan).ws</path>
@@ -1390,6 +1419,7 @@ It follows Hikaru Agata on his quest to compete in Robottle tournaments and defe
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003653" />
+		<boxback>./images/Medarot Perfect Edition - Kuwagata Version (Japan)-boxback.png</boxback>
 	</game>
 	<game id="38507">
 		<path>./No-Intro/Meitantei Conan - Majutsushi no Chousenjou! (Japan).ws</path>
@@ -1427,6 +1457,7 @@ The mysteries incident's letter of notice
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003655" />
+		<boxback>./images/Meitantei Conan - Majutsushi no Chousenjou! (Japan)-boxback.png</boxback>
 	</game>
 	<game id="38508">
 		<path>./No-Intro/Meitantei Conan - Nishi no Meitantei Saidai no Kiki! (Japan).ws</path>
@@ -1456,6 +1487,7 @@ This game alternates between horizontal display for regular play and investigati
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003656" />
+		<boxback>./images/Meitantei Conan - Nishi no Meitantei Saidai no Kiki! (Japan)-boxback.png</boxback>
 	</game>
 	<game id="46269">
 		<path>./No-Intro/Metakomi Theraphy - Nee Kiite! (Japan).ws</path>
@@ -1477,6 +1509,7 @@ This game alternates between horizontal display for regular play and investigati
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003659" />
+		<boxback>./images/Metakomi Theraphy - Nee Kiite! (Japan)-boxback.png</boxback>
 	</game>
 	<game id="38509">
 		<path>./No-Intro/Mingle Magnet (Japan) (En,Ja) (Rev 1).ws</path>
@@ -1502,6 +1535,7 @@ This game is played vertically.</desc>
 		<lang>jp,en</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003702" />
+		<boxback>./images/Mingle Magnet (Japan) (En,Ja) (Rev 1)-boxback.png</boxback>
 	</game>
 	<game id="46270">
 		<path>./No-Intro/Mobile Suit Gundam MSVS (Japan).ws</path>
@@ -1525,6 +1559,7 @@ This game is played vertically.</desc>
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003705" />
+		<boxback>./images/Mobile Suit Gundam MSVS (Japan)-boxback.png</boxback>
 	</game>
 	<game id="46271">
 		<path>./No-Intro/MobileWonderGate (Japan) (Rev 1).ws</path>
@@ -1543,6 +1578,7 @@ This game is played vertically.</desc>
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003706" />
+		<boxback>./images/MobileWonderGate (Japan) (Rev 1)-boxback.png</boxback>
 	</game>
 	<game id="46272">
 		<path>./No-Intro/Moero!! Pro Yakyuu Rookies (Japan).ws</path>
@@ -1563,6 +1599,7 @@ This game is played vertically.</desc>
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003708" />
+		<boxback>./images/Moero!! Pro Yakyuu Rookies (Japan)-boxback.png</boxback>
 	</game>
 	<game id="46273">
 		<path>./No-Intro/Morita Shougi for WonderSwan (Japan).ws</path>
@@ -1583,6 +1620,7 @@ This game is played vertically.</desc>
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003709" />
+		<boxback>./images/Morita Shougi for WonderSwan (Japan)-boxback.png</boxback>
 	</game>
 	<game id="65787">
 		<path>./No-Intro/Nazo Ou Pocket (Japan).ws</path>
@@ -1603,6 +1641,7 @@ This game is played vertically.</desc>
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003712" />
+		<boxback>./images/Nazo Ou Pocket (Japan)-boxback.png</boxback>
 	</game>
 	<game id="99357">
 		<path>./No-Intro/Neon Genesis Evangelion - Shito Ikusei (Japan).ws</path>
@@ -1626,6 +1665,7 @@ You can also explore different places from the Evangelion anime as Kaji himself,
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003713" />
+		<boxback>./images/Neon Genesis Evangelion - Shito Ikusei (Japan)-boxback.png</boxback>
 	</game>
 	<game id="38510">
 		<path>./No-Intro/Nice On (Japan) (Rev 1).ws</path>
@@ -1652,6 +1692,7 @@ Should you find endlessly teeing off with yourself a bit tedious you may use the
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003715" />
+		<boxback>./images/Nice On (Japan) (Rev 1)-boxback.png</boxback>
 	</game>
 	<game id="65788">
 		<path>./No-Intro/Nihon Pro Mahjong Renmei Kounin - Tetsuman (Japan) (Rev 2).ws</path>
@@ -1671,6 +1712,7 @@ Should you find endlessly teeing off with yourself a bit tedious you may use the
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003717" />
+		<boxback>./images/Nihon Pro Mahjong Renmei Kounin - Tetsuman (Japan) (Rev 2)-boxback.png</boxback>
 	</game>
 	<game id="65789">
 		<path>./No-Intro/Nobunaga no Yabou for WonderSwan (Japan).ws</path>
@@ -1694,6 +1736,7 @@ Nobunaga's Ambition is a turn-based strategy game which can be played in differe
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003718" />
+		<boxback>./images/Nobunaga no Yabou for WonderSwan (Japan)-boxback.png</boxback>
 	</game>
 	<game id="38512">
 		<path>./No-Intro/Ou-chan no Oekaki Logic (Japan).ws</path>
@@ -1716,6 +1759,7 @@ Ou-chan no Oekaki Logic adds a story mode where Ou-Chan, representing the player
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003720" />
+		<boxback>./images/Ou-chan no Oekaki Logic (Japan)-boxback.png</boxback>
 	</game>
 	<game id="38513">
 		<path>./No-Intro/Pocket Fighter (Japan).ws</path>
@@ -1750,6 +1794,7 @@ The game also featured an online high score board through the WonderGate.</desc>
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003723" />
+		<boxback>./images/Pocket Fighter (Japan)-boxback.png</boxback>
 	</game>
 	<game id="65790">
 		<path>./No-Intro/Pro Mahjong Kiwame for WonderSwan (Japan) (Rev 1).ws</path>
@@ -1770,6 +1815,7 @@ The game also featured an online high score board through the WonderGate.</desc>
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003725" />
+		<boxback>./images/Pro Mahjong Kiwame for WonderSwan (Japan) (Rev 1)-boxback.png</boxback>
 	</game>
 	<game id="38514">
 		<path>./No-Intro/Puyo Puyo Tsuu (Japan).ws</path>
@@ -1794,6 +1840,7 @@ This game includes a story mode, in which Arle (the main character) fights again
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003728" />
+		<boxback>./images/Puyo Puyo Tsuu (Japan)-boxback.png</boxback>
 	</game>
 	<game id="65791">
 		<path>./No-Intro/Puzzle Bobble (Japan).ws</path>
@@ -1816,6 +1863,7 @@ This game includes a story mode, in which Arle (the main character) fights again
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003729" />
+		<boxback>./images/Puzzle Bobble (Japan)-boxback.png</boxback>
 	</game>
 	<game id="38515">
 		<path>./No-Intro/Rainbow Islands - Putty's Party (Japan).ws</path>
@@ -1848,6 +1896,7 @@ This game plays vertically.</desc>
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003731" />
+		<boxback>./images/Rainbow Islands - Putty's Party (Japan)-boxback.png</boxback>
 	</game>
 	<game id="65792">
 		<path>./No-Intro/Ring Infinity (Japan).ws</path>
@@ -1873,6 +1922,7 @@ This software supports Wonder Gate, so if you download new data using Wonder Gat
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003734" />
+		<boxback>./images/Ring Infinity (Japan)-boxback.png</boxback>
 	</game>
 	<game id="65793">
 		<path>./No-Intro/Robot Works (Hong Kong) (En,Ja) (Rev 1).ws</path>
@@ -1895,6 +1945,7 @@ While mainly used to program the movement of the physical robot, it also comes w
 		<lang>cn,en,jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003735" />
+		<boxback>./images/Robot Works (Hong Kong) (En,Ja) (Rev 1)-boxback.png</boxback>
 	</game>
 	<game id="65793">
 		<path>./No-Intro/Robot Works (Japan).ws</path>
@@ -1917,6 +1968,7 @@ While mainly used to program the movement of the physical robot, it also comes w
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003737" />
+		<boxback>./images/Robot Works (Japan)-boxback.png</boxback>
 	</game>
 	<game id="65794">
 		<path>./No-Intro/Rockman &amp; Forte - Mirai Kara no Chousensha (Japan).ws</path>
@@ -1938,6 +1990,7 @@ While mainly used to program the movement of the physical robot, it also comes w
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003740" />
+		<boxback>./images/Rockman &amp; Forte - Mirai Kara no Chousensha (Japan)-boxback.png</boxback>
 	</game>
 	<game id="65795">
 		<path>./No-Intro/Sangokushi for WonderSwan (Japan).ws</path>
@@ -1962,6 +2015,7 @@ This turn-based strategy game introduces hundreds of historical characters of th
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003743" />
+		<boxback>./images/Sangokushi for WonderSwan (Japan)-boxback.png</boxback>
 	</game>
 	<game id="65796">
 		<path>./No-Intro/Sangokushi II for WonderSwan (Japan).ws</path>
@@ -1985,6 +2039,7 @@ Upon starting the game, players choose from one of six scenarios that determine 
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003745" />
+		<boxback>./images/Sangokushi II for WonderSwan (Japan)-boxback.png</boxback>
 	</game>
 	<game id="65797">
 		<path>./No-Intro/SD Gundam - Emotional Jam (Japan) (Rev 2).ws</path>
@@ -2006,6 +2061,7 @@ Upon starting the game, players choose from one of six scenarios that determine 
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003746" />
+		<boxback>./images/SD Gundam - Emotional Jam (Japan) (Rev 2)-boxback.png</boxback>
 	</game>
 	<game id="65797">
 		<path>./No-Intro/SD Gundam - Emotional Jam (Japan) (Rev 3).ws</path>
@@ -2027,6 +2083,7 @@ Upon starting the game, players choose from one of six scenarios that determine 
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003748" />
+		<boxback>./images/SD Gundam - Emotional Jam (Japan) (Rev 3)-boxback.png</boxback>
 	</game>
 	<game id="65798">
 		<path>./No-Intro/SD Gundam G Generation - Gather Beat (Japan).ws</path>
@@ -2048,6 +2105,7 @@ Upon starting the game, players choose from one of six scenarios that determine 
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003749" />
+		<boxback>./images/SD Gundam G Generation - Gather Beat (Japan)-boxback.png</boxback>
 	</game>
 	<game id="65799">
 		<path>./No-Intro/SD Gundam Gashapon Senki - Episode 1 (Japan) (Alt).ws</path>
@@ -2070,6 +2128,7 @@ Upon starting the game, players choose from one of six scenarios that determine 
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003753" />
+		<boxback>./images/SD Gundam Gashapon Senki - Episode 1 (Japan) (Alt)-boxback.png</boxback>
 	</game>
 	<game id="65799">
 		<path>./No-Intro/SD Gundam Gashapon Senki - Episode 1 (Japan).ws</path>
@@ -2092,6 +2151,7 @@ Upon starting the game, players choose from one of six scenarios that determine 
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003756" />
+		<boxback>./images/SD Gundam Gashapon Senki - Episode 1 (Japan)-boxback.png</boxback>
 	</game>
 	<game id="65800">
 		<path>./No-Intro/Senkaiden - TV Animation Senkaiden Houshin Engi Yori (Japan).ws</path>
@@ -2112,6 +2172,7 @@ Upon starting the game, players choose from one of six scenarios that determine 
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003757" />
+		<boxback>./images/Senkaiden - TV Animation Senkaiden Houshin Engi Yori (Japan)-boxback.png</boxback>
 	</game>
 	<game id="65801">
 		<path>./No-Intro/Sennou Millennium (Japan).ws</path>
@@ -2132,6 +2193,7 @@ Upon starting the game, players choose from one of six scenarios that determine 
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003759" />
+		<boxback>./images/Sennou Millennium (Japan)-boxback.png</boxback>
 	</game>
 	<game id="38518">
 		<path>./No-Intro/Shanghai Pocket (Japan).ws</path>
@@ -2163,6 +2225,7 @@ Some variants are also included:
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003801" />
+		<boxback>./images/Shanghai Pocket (Japan)-boxback.png</boxback>
 	</game>
 	<game id="38519">
 		<path>./No-Intro/Shin Nihon Pro Wrestling - Toukon Retsuden (Japan) (Rev 1).ws</path>
@@ -2189,6 +2252,7 @@ By punching a fallen gladiator you will get him in a lock. When done closer to t
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003803" />
+		<boxback>./images/Shin Nihon Pro Wrestling - Toukon Retsuden (Japan) (Rev 1)-boxback.png</boxback>
 	</game>
 	<game id="65802">
 		<path>./No-Intro/Shougi Touryuumon (Japan).ws</path>
@@ -2208,6 +2272,7 @@ By punching a fallen gladiator you will get him in a lock. When done closer to t
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003805" />
+		<boxback>./images/Shougi Touryuumon (Japan)-boxback.png</boxback>
 	</game>
 	<game id="38520">
 		<path>./No-Intro/Side Pocket for WonderSwan (Japan).ws</path>
@@ -2232,6 +2297,7 @@ After each stage completed (and some luck), a bonus stage will appear, as well a
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003806" />
+		<boxback>./images/Side Pocket for WonderSwan (Japan)-boxback.png</boxback>
 	</game>
 	<game id="38521">
 		<path>./No-Intro/Slither Link (Japan).ws</path>
@@ -2257,6 +2323,7 @@ When a loop has been created so that all numbers are 'touched' appropriately and
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003810" />
+		<boxback>./images/Slither Link (Japan)-boxback.png</boxback>
 	</game>
 	<game id="38522">
 		<path>./No-Intro/Soccer Yarou! - Challenge the World (Japan).ws</path>
@@ -2281,6 +2348,7 @@ A penalty shot mini-game is included where the view shifts to behind the player 
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003811" />
+		<boxback>./images/Soccer Yarou! - Challenge the World (Japan)-boxback.png</boxback>
 	</game>
 	<game id="65803">
 		<path>./No-Intro/Sotsugyou for WonderSwan (Japan) (Rev 1).ws</path>
@@ -2302,6 +2370,7 @@ A penalty shot mini-game is included where the view shifts to behind the player 
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003814" />
+		<boxback>./images/Sotsugyou for WonderSwan (Japan) (Rev 1)-boxback.png</boxback>
 	</game>
 	<game id="38523">
 		<path>./No-Intro/Space Invaders (Japan).ws</path>
@@ -2327,6 +2396,7 @@ The game is very simple to play. Shoot down the incoming invaders while dodging 
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003817" />
+		<boxback>./images/Space Invaders (Japan)-boxback.png</boxback>
 	</game>
 	<game id="65804">
 		<path>./No-Intro/Super Robot Taisen Compact (Japan) (Rev 1).ws</path>
@@ -2348,6 +2418,7 @@ The game is very simple to play. Shoot down the incoming invaders while dodging 
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003821" />
+		<boxback>./images/Super Robot Taisen Compact (Japan) (Rev 1)-boxback.png</boxback>
 	</game>
 	<game id="65804">
 		<path>./No-Intro/Super Robot Taisen Compact (Japan) (Rev 2).ws</path>
@@ -2369,6 +2440,7 @@ The game is very simple to play. Shoot down the incoming invaders while dodging 
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003824" />
+		<boxback>./images/Super Robot Taisen Compact (Japan) (Rev 2)-boxback.png</boxback>
 	</game>
 	<game id="65804">
 		<path>./No-Intro/Super Robot Taisen Compact (Japan).ws</path>
@@ -2390,6 +2462,7 @@ The game is very simple to play. Shoot down the incoming invaders while dodging 
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003828" />
+		<boxback>./images/Super Robot Taisen Compact (Japan)-boxback.png</boxback>
 	</game>
 	<game id="65805">
 		<path>./No-Intro/Super Robot Taisen Compact 2 - Dai-1-bu - Chijou Gekidou Hen (Japan).ws</path>
@@ -2411,6 +2484,7 @@ The game is very simple to play. Shoot down the incoming invaders while dodging 
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003831" />
+		<boxback>./images/Super Robot Taisen Compact 2 - Dai-1-bu - Chijou Gekidou Hen (Japan)-boxback.png</boxback>
 	</game>
 	<game id="65806">
 		<path>./No-Intro/Super Robot Taisen Compact 2 - Dai-2-bu - Uchuu Gekishin Hen (Japan) (Rev 4).ws</path>
@@ -2432,6 +2506,7 @@ The game is very simple to play. Shoot down the incoming invaders while dodging 
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003833" />
+		<boxback>./images/Super Robot Taisen Compact 2 - Dai-2-bu - Uchuu Gekishin Hen (Japan) (Rev 4)-boxback.png</boxback>
 	</game>
 	<game id="65807">
 		<path>./No-Intro/Super Robot Taisen Compact 2 - Dai-3-bu - Ginga Kessen Hen (Japan) (Rev 2).ws</path>
@@ -2453,6 +2528,7 @@ The game is very simple to play. Shoot down the incoming invaders while dodging 
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003836" />
+		<boxback>./images/Super Robot Taisen Compact 2 - Dai-3-bu - Ginga Kessen Hen (Japan) (Rev 2)-boxback.png</boxback>
 	</game>
 	<game id="65808">
 		<path>./No-Intro/Taikyoku Igo - Heisei Kiin (Japan).ws</path>
@@ -2473,6 +2549,7 @@ The game is very simple to play. Shoot down the incoming invaders while dodging 
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003837" />
+		<boxback>./images/Taikyoku Igo - Heisei Kiin (Japan)-boxback.png</boxback>
 	</game>
 	<game id="65809">
 		<path>./No-Intro/Tanjou Debut for WonderSwan (Japan) (Rev 1).ws</path>
@@ -2493,6 +2570,7 @@ The game is very simple to play. Shoot down the incoming invaders while dodging 
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003839" />
+		<boxback>./images/Tanjou Debut for WonderSwan (Japan) (Rev 1)-boxback.png</boxback>
 	</game>
 	<game id="38524">
 		<path>./No-Intro/Tare Panda no GunPey (Japan).ws</path>
@@ -2521,6 +2599,7 @@ In the story mode a number of novel hazards are presented. Your lines may flip a
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003841" />
+		<boxback>./images/Tare Panda no GunPey (Japan)-boxback.png</boxback>
 	</game>
 	<game id="38525">
 		<path>./No-Intro/Tekken Card Challenge (Japan).ws</path>
@@ -2555,6 +2634,7 @@ Players may fight their friends or foes using the Communication Cable to connect
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003844" />
+		<boxback>./images/Tekken Card Challenge (Japan)-boxback.png</boxback>
 	</game>
 	<game id="368656">
 		<path>./No-Intro/Tenori-on (Japan) (En).ws</path>
@@ -2587,6 +2667,7 @@ Players may fight their friends or foes using the Communication Cable to connect
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003847" />
+		<boxback>./images/Terrors (Japan)-boxback.png</boxback>
 	</game>
 	<game id="65811">
 		<path>./No-Intro/Tetsujin 28 Gou (Japan).ws</path>
@@ -2608,6 +2689,7 @@ Players may fight their friends or foes using the Communication Cable to connect
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003851" />
+		<boxback>./images/Tetsujin 28 Gou (Japan)-boxback.png</boxback>
 	</game>
 	<game id="65812">
 		<path>./No-Intro/Time Bokan Series - Bokan Densetsu - Buta mo Odaterya Doronboo (Japan).ws</path>
@@ -2629,6 +2711,7 @@ Players may fight their friends or foes using the Communication Cable to connect
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003852" />
+		<boxback>./images/Time Bokan Series - Bokan Densetsu - Buta mo Odaterya Doronboo (Japan)-boxback.png</boxback>
 	</game>
 	<game id="65813">
 		<path>./No-Intro/Tokyo Majin Gakuen - Fuju Houroku (Japan).ws</path>
@@ -2651,6 +2734,7 @@ Players may fight their friends or foes using the Communication Cable to connect
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003855" />
+		<boxback>./images/Tokyo Majin Gakuen - Fuju Houroku (Japan)-boxback.png</boxback>
 	</game>
 	<game id="65814">
 		<path>./No-Intro/Trump Collection - Bottom-Up Teki Trump Seikatsu (Japan) (Rev 1).ws</path>
@@ -2671,6 +2755,7 @@ Players may fight their friends or foes using the Communication Cable to connect
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003857" />
+		<boxback>./images/Trump Collection - Bottom-Up Teki Trump Seikatsu (Japan) (Rev 1)-boxback.png</boxback>
 	</game>
 	<game id="65815">
 		<path>./No-Intro/Trump Collection 2 - Bottom-Up Teki Sekaiisshuu no Tabi (Japan) (Rev 1).ws</path>
@@ -2691,6 +2776,7 @@ Players may fight their friends or foes using the Communication Cable to connect
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003858" />
+		<boxback>./images/Trump Collection 2 - Bottom-Up Teki Sekaiisshuu no Tabi (Japan) (Rev 1)-boxback.png</boxback>
 	</game>
 	<game id="65816">
 		<path>./No-Intro/Turntablist - DJ Battle (Japan).ws</path>
@@ -2712,6 +2798,7 @@ Players may fight their friends or foes using the Communication Cable to connect
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003902" />
+		<boxback>./images/Turntablist - DJ Battle (Japan)-boxback.png</boxback>
 	</game>
 	<game id="38526">
 		<path>./No-Intro/Umizuri ni Ikou! (Japan).ws</path>
@@ -2740,6 +2827,7 @@ Once caught you'll learn how big your fish was and be able to exchange data abou
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003904" />
+		<boxback>./images/Umizuri ni Ikou! (Japan)-boxback.png</boxback>
 	</game>
 	<game id="38527">
 		<path>./No-Intro/Uzumaki - Denshi Kaiki Hen (Japan) (Rev 4).ws</path>
@@ -2760,6 +2848,7 @@ Once caught you'll learn how big your fish was and be able to exchange data abou
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003905" />
+		<boxback>./images/Uzumaki - Denshi Kaiki Hen (Japan) (Rev 4)-boxback.png</boxback>
 	</game>
 	<game id="38528">
 		<path>./No-Intro/Uzumaki - Noroi Simulation (Japan).ws</path>
@@ -2789,6 +2878,7 @@ A small human/slug monster hybrid virtual pet can be accessed from the main menu
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003909" />
+		<boxback>./images/Uzumaki - Noroi Simulation (Japan)-boxback.png</boxback>
 	</game>
 	<game id="65817">
 		<path>./No-Intro/Vaitz Blade (Japan) (Rev 1).ws</path>
@@ -2810,6 +2900,7 @@ A small human/slug monster hybrid virtual pet can be accessed from the main menu
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003912" />
+		<boxback>./images/Vaitz Blade (Japan) (Rev 1)-boxback.png</boxback>
 	</game>
 	<game id="38531">
 		<path>./No-Intro/Wasabi Produce - Street Dancer (Japan).ws</path>
@@ -2846,6 +2937,7 @@ A multiplayer mode is also included for two people on one system. both players t
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003913" />
+		<boxback>./images/Wasabi Produce - Street Dancer (Japan)-boxback.png</boxback>
 	</game>
 	<game id="38530">
 		<path>./No-Intro/Wonder Stadium '99 (Japan).ws</path>
@@ -2868,6 +2960,7 @@ The game gives you a selection of 14 fictional and professional teams as well as
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003915" />
+		<boxback>./images/Wonder Stadium '99 (Japan)-boxback.png</boxback>
 	</game>
 	<game id="38529">
 		<path>./No-Intro/Wonder Stadium (Japan).ws</path>
@@ -2896,6 +2989,7 @@ Each ballplayer is hooked to another for instance when you move your man on firs
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003916" />
+		<boxback>./images/Wonder Stadium (Japan)-boxback.png</boxback>
 	</game>
 	<game id="159511">
 		<path>./No-Intro/WonderSwan Handy Sonar (Japan) (Rev 1).ws</path>
@@ -2915,6 +3009,7 @@ Each ballplayer is hooked to another for instance when you move your man on firs
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003918" />
+		<boxback>./images/WonderSwan Handy Sonar (Japan) (Rev 1)-boxback.png</boxback>
 	</game>
 	<game id="159511">
 		<path>./No-Intro/WonderSwan Handy Sonar (Japan) (Rev 2).ws</path>
@@ -2934,6 +3029,7 @@ Each ballplayer is hooked to another for instance when you move your man on firs
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231103T003920" />
+		<boxback>./images/WonderSwan Handy Sonar (Japan) (Rev 2)-boxback.png</boxback>
 	</game>
 	<game id="199980">
 		<path>./No-Intro/WonderWitch (Japan) (FreyaOS 1.0.0) (Program).ws</path>
