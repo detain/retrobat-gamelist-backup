@@ -23,4 +23,9 @@
 		<marquee>./images/GearWorks-marquee.png</marquee>
 		<boxback>./images/GearWorks-boxback.png</boxback>
 	</game>
+	<game>
+		<path>./No-Intro/Bitstream/Hugo (Disk 1) (Sweden).zip</path>
+		<name>Hugo (Disk 1) (Sweden)</name>
+		<md5>98ac2b7ce7cb1c3d720c349fd741035b</md5>
+	</game>
 </gameList>

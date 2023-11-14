@@ -9551,4 +9551,71 @@ The player's goal is to reach the exit of each of the 20 levels. However, there 
 		<name>Breathless (1996)(Power Computing)(AGA)(Disk 1 of 3)[cr SXI][t +35 SXI]</name>
 		<md5>02a1483d5c43f973425831ca67fc2748</md5>
 	</game>
+	<game id="39180">
+		<path>./No-Intro/Bitstream/Hugo (Disk 1) (Sweden).zip</path>
+		<name>Hugo</name>
+		<desc>The evil witch Hexana kidnapped Hugo's family and he has to rescue them. This game contains five ported levels from the popular TV show:
+
+1. Level 1/1: Hugo is driving on a draisine and has to dodge oncoming trains and dead ends by changing the tracks. On the right side of the screen is a map of the route.
+2. Level 1/2: Hugo has to cross a forest and has to dodge several obstacles by jumping over them.
+3. Level 2/1: Hugo is climbing a mountain and has to dodge oncoming stones by jumping over them.
+4. Level 2/2: Hugo is flying a airplane and has to dodge oncoming balloons.
+5. Level 3: You have to choose between three ropes. If you choose the right one your points get doubled.
+
+In every playthrough you have to beat three levels which you choose beforehand. You have to select either 1/1 or 1/2 and either 2/1 or 2/2. Because the levels were created for a TV show were you had to control Hugo with your phone buttons, the controls are simple: Depending on the level there are just two or three buttons to press at the right time.
+
+The levels contained in Hugo were originally released as Hugo - Pa Nye Eventyr and Hugo - Pa Nye Eventyr II.</desc>
+		<image>./images/Hugo (Disk 1) (Sweden)-image.png</image>
+		<video>./videos/Hugo (Disk 1) (Sweden)-video.mp4</video>
+		<marquee>./images/Hugo (Disk 1) (Sweden)-marquee.png</marquee>
+		<thumbnail>./images/Hugo (Disk 1) (Sweden)-thumb.png</thumbnail>
+		<fanart>./images/Hugo (Disk 1) (Sweden)-fanart.jpg</fanart>
+		<manual>./manuals/Hugo (Disk 1) (Sweden)-manual.pdf</manual>
+		<releasedate>19910101T000000</releasedate>
+		<developer>ITE Media</developer>
+		<publisher>NBG EDV Handels- und Verlags GmbH</publisher>
+		<genre>Platform</genre>
+		<family>Hugo the TV troll</family>
+		<players>1</players>
+		<md5>98ac2b7ce7cb1c3d720c349fd741035b</md5>
+		<lang>sw</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231114T185120" />
+	</game>
+	<game id="39180">
+		<path>./No-Intro/Bitstream/Hugo (Disk 2) (Sweden).zip</path>
+		<name>Hugo</name>
+		<desc>The evil witch Hexana kidnapped Hugo's family and he has to rescue them. This game contains five ported levels from the popular TV show:
+
+1. Level 1/1: Hugo is driving on a draisine and has to dodge oncoming trains and dead ends by changing the tracks. On the right side of the screen is a map of the route.
+2. Level 1/2: Hugo has to cross a forest and has to dodge several obstacles by jumping over them.
+3. Level 2/1: Hugo is climbing a mountain and has to dodge oncoming stones by jumping over them.
+4. Level 2/2: Hugo is flying a airplane and has to dodge oncoming balloons.
+5. Level 3: You have to choose between three ropes. If you choose the right one your points get doubled.
+
+In every playthrough you have to beat three levels which you choose beforehand. You have to select either 1/1 or 1/2 and either 2/1 or 2/2. Because the levels were created for a TV show were you had to control Hugo with your phone buttons, the controls are simple: Depending on the level there are just two or three buttons to press at the right time.
+
+The levels contained in Hugo were originally released as Hugo - Pa Nye Eventyr and Hugo - Pa Nye Eventyr II.</desc>
+		<image>./images/Hugo (Disk 2) (Sweden)-image.png</image>
+		<video>./videos/Hugo (Disk 2) (Sweden)-video.mp4</video>
+		<marquee>./images/Hugo (Disk 2) (Sweden)-marquee.png</marquee>
+		<thumbnail>./images/Hugo (Disk 2) (Sweden)-thumb.png</thumbnail>
+		<fanart>./images/Hugo (Disk 2) (Sweden)-fanart.jpg</fanart>
+		<manual>./manuals/Hugo (Disk 2) (Sweden)-manual.pdf</manual>
+		<releasedate>19910101T000000</releasedate>
+		<developer>ITE Media</developer>
+		<publisher>NBG EDV Handels- und Verlags GmbH</publisher>
+		<genre>Platform</genre>
+		<family>Hugo the TV troll</family>
+		<players>1</players>
+		<md5>c36f530e42d2dcc2c723bcadc9822640</md5>
+		<lang>sw</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20231114T185122" />
+	</game>
+	<game>
+		<path>./No-Intro/Bitstream/Hugo (Disk 3) (Sweden).zip</path>
+		<name>Hugo (Disk 3) (Sweden)</name>
+		<md5>0d0618adfaade48d0f8b4edf3146d6e4</md5>
+	</game>
 </gameList>

@@ -26436,5 +26436,23 @@ You are the Commander of the only SDS (Space Defence Squad) cruise force capable
 		<path>./TOSEC/Applications/[TAP]/Pattern Designer (1986)(Sinclair User)(16K)/Pattern Designer (1986)(Sinclair User)(16K).tap</path>
 		<name>Pattern Designer (1986)(Sinclair User)(16K)</name>
 		<md5>e304b481a948e5d4e740af266b590171</md5>
+		<scrap name="ScreenScraper" date="20231114T184941" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/[TAP]/Pattern Generator (1983)(Usborne Publishing)[m tzxtools]/Pattern Generator (1983)(Usborne Publishing)[m tzxtools].tap</path>
+		<name>Pattern Generator (1983)(Usborne Publishing)[m tzxtools]</name>
+		<md5>a33ffc9f4c45612e855c26ae3b8ce79f</md5>
+		<scrap name="ScreenScraper" date="20231114T184943" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/[TAP]/Pattern Generator (1987)(ZX Computing)(16K)[m tzxtools]/Pattern Generator (1987)(ZX Computing)(16K)[m tzxtools].tap</path>
+		<name>Pattern Generator (1987)(ZX Computing)(16K)[m tzxtools]</name>
+		<md5>cc87a4cfe4b38b2d498f3f3fe1e1100e</md5>
+		<scrap name="ScreenScraper" date="20231114T184945" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/[TAP]/Patterns (1982)(Altwasser, Richard Francis)(16K)[m tzxtools]/Patterns (1982)(Altwasser, Richard Francis)(16K)[m tzxtools].tap</path>
+		<name>Patterns (1982)(Altwasser, Richard Francis)(16K)[m tzxtools]</name>
+		<md5>57c5edecbfd201c3eca0705cf1f44863</md5>
 	</game>
 </gameList>
