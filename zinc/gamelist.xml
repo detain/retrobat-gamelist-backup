@@ -1,25 +1,148 @@
 <?xml version="1.0"?>
 <gameList>
-	<game id="40031">
+	<game id="43550">
+		<path>./roms/tekken2.zip</path>
+		<name>Tekken 2</name>
+		<desc>Two years after winning the original 'King of the Iron Fist' tournament, Kazuya Mishima decides to hold a second tournament in an attempt to finish off his father, Heihachi Mishima, in this sequel to 1994 original.
+
+The gameplay in Tekken 2 is identical to that of its predecessor, with one or two players fighting over a series of 3D-rendered backdrops. As before, the fighting system utilises four attack buttons: left punch, right punch, left kick and right kick. Certain button combinations will initiate both standard and special grab and throwing moves.</desc>
+		<image>./images/tekken2-image.png</image>
+		<video>./videos/tekken2-video.mp4</video>
+		<marquee>./images/tekken2-marquee.png</marquee>
+		<thumbnail>./images/tekken2-thumb.png</thumbnail>
+		<fanart>./images/tekken2-fanart.jpg</fanart>
+		<manual>./manuals/tekken2-manual.pdf</manual>
+		<rating>0.7</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Tekken</family>
+		<arcadesystemname>namco</arcadesystemname>
+		<players>1-2</players>
+		<md5>f36660e309fbfe70d13560c20fefbaa9</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231018T040833" />
+		<scrap name="ArcadeDB" date="20231017T153928" />
+	</game>
+	<game id="43550">
+		<path>./roms/tekken2a.zip</path>
+		<name>Tekken 2</name>
+		<desc>Two years after winning the original 'King of the Iron Fist' tournament, Kazuya Mishima decides to hold a second tournament in an attempt to finish off his father, Heihachi Mishima, in this sequel to 1994 original.
+
+The gameplay in Tekken 2 is identical to that of its predecessor, with one or two players fighting over a series of 3D-rendered backdrops. As before, the fighting system utilises four attack buttons: left punch, right punch, left kick and right kick. Certain button combinations will initiate both standard and special grab and throwing moves.</desc>
+		<image>./images/tekken2a-image.png</image>
+		<video>./videos/tekken2a-video.mp4</video>
+		<marquee>./images/tekken2a-marquee.png</marquee>
+		<thumbnail>./images/tekken2a-thumb.png</thumbnail>
+		<fanart>./images/tekken2a-fanart.jpg</fanart>
+		<manual>./manuals/tekken2a-manual.pdf</manual>
+		<rating>0.7</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Tekken</family>
+		<arcadesystemname>namco</arcadesystemname>
+		<players>1-2</players>
+		<md5>0dfb6a15214a53ee667d03097a166e90</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231018T040837" />
+		<scrap name="ArcadeDB" date="20231017T153930" />
+	</game>
+	<game id="43550">
+		<path>./roms/tekken2b.zip</path>
+		<name>Tekken 2</name>
+		<desc>Two years after winning the original 'King of the Iron Fist' tournament, Kazuya Mishima decides to hold a second tournament in an attempt to finish off his father, Heihachi Mishima, in this sequel to 1994 original.
+
+The gameplay in Tekken 2 is identical to that of its predecessor, with one or two players fighting over a series of 3D-rendered backdrops. As before, the fighting system utilises four attack buttons: left punch, right punch, left kick and right kick. Certain button combinations will initiate both standard and special grab and throwing moves.</desc>
+		<image>./images/tekken2b-image.png</image>
+		<video>./videos/tekken2b-video.mp4</video>
+		<marquee>./images/tekken2b-marquee.png</marquee>
+		<thumbnail>./images/tekken2b-thumb.png</thumbnail>
+		<fanart>./images/tekken2b-fanart.jpg</fanart>
+		<manual>./manuals/tekken2b-manual.pdf</manual>
+		<rating>0.7</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Tekken</family>
+		<arcadesystemname>namco</arcadesystemname>
+		<players>1-2</players>
+		<md5>aabf20c2c175dee3ef4d4a73481dcd1b</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20231018T040842" />
+		<scrap name="ArcadeDB" date="20231017T153933" />
+	</game>
+	<game id="43762">
+		<path>./roms/ts2.zip</path>
+		<name>Battle Arena Toshinden 2</name>
+		<desc>Battle Arena Toshinden 2 is a 3-D, weapons-based fighting game featuring a total of 15 different fighters - 11 main fighters, 2 hidden fighters and 2 bosses. Battles take place in a number of 3-D rendered arenas. Unlike most other 3-D fighters of the time - in which only the graphics are 3-D, with the actual fighting taking place on a 2-D plane - Battle Arena Toshinden features wholly 3-D gameplay that allows players to dive out of the path of their opponent's attacks.</desc>
+		<image>./images/ts2-image.png</image>
+		<video>./videos/ts2-video.mp4</video>
+		<marquee>./images/ts2-marquee.png</marquee>
+		<thumbnail>./images/ts2-thumb.png</thumbnail>
+		<fanart>./images/ts2-fanart.jpg</fanart>
+		<manual>./manuals/ts2-manual.pdf</manual>
+		<bezel>./images/ts2-bezel.png</bezel>
+		<rating>0.5</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Tamsoft</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight / Versus</genre>
+		<arcadesystemname>capcom</arcadesystemname>
+		<players>1-2</players>
+		<md5>0c92c319156b3c531a1a3b00d2962c03</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231018T040914" />
+		<scrap name="ArcadeDB" date="20231017T153943" />
+	</game>
+	<game id="43762">
+		<path>./roms/ts2j.zip</path>
+		<name>Battle Arena Toshinden 2</name>
+		<desc>Battle Arena Toshinden 2 is a 3-D, weapons-based fighting game featuring a total of 15 different fighters - 11 main fighters, 2 hidden fighters and 2 bosses. Battles take place in a number of 3-D rendered arenas. Unlike most other 3-D fighters of the time - in which only the graphics are 3-D, with the actual fighting taking place on a 2-D plane - Battle Arena Toshinden features wholly 3-D gameplay that allows players to dive out of the path of their opponent's attacks.</desc>
+		<image>./images/ts2j-image.png</image>
+		<video>./videos/ts2j-video.mp4</video>
+		<marquee>./images/ts2j-marquee.png</marquee>
+		<thumbnail>./images/ts2j-thumb.png</thumbnail>
+		<fanart>./images/ts2j-fanart.jpg</fanart>
+		<manual>./manuals/ts2j-manual.pdf</manual>
+		<bezel>./images/ts2j-bezel.png</bezel>
+		<rating>0.5</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Tamsoft</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight / Versus</genre>
+		<arcadesystemname>capcom</arcadesystemname>
+		<players>1-2</players>
+		<md5>4f6c0f67c32a49da3877cb571c18f49d</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231018T040919" />
+		<scrap name="ArcadeDB" date="20231017T153945" />
+	</game>
+	<game>
 		<path>./roms/aquarush.zip</path>
 		<name>Aqua Rush</name>
-		<desc>An upside down tetris type game, where you can elongate any of the 3 xxx points separately on a block to connect that certain block without any gaps. The game is quite addictive but gets very tough after the first few levels.</desc>
 		<image>./images/aquarush-image.png</image>
 		<video>./videos/aquarush-video.mp4</video>
 		<marquee>./images/aquarush-marquee.png</marquee>
 		<thumbnail>./images/aquarush-thumb.png</thumbnail>
-		<bezel>./images/aquarush-bezel.png</bezel>
+		<fanart>./images/aquarush-fanart.png</fanart>
 		<rating>0.8</rating>
 		<releasedate>19990101T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<genre>Puzzle-Game</genre>
-		<arcadesystemname>namco</arcadesystemname>
-		<players>1-2</players>
+		<genre>Reflexion</genre>
+		<players>2</players>
 		<md5>6aa4305fc11023f71c8c5f56ebeacfd5</md5>
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231018T040401" />
+		<scrap name="HfsDB" date="20231115T094509" />
 		<scrap name="ArcadeDB" date="20231017T153726" />
 	</game>
 	<game id="149461">
@@ -42,160 +165,146 @@
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231018T040406" />
+		<scrap name="HfsDB" date="20231115T094509" />
 		<scrap name="ArcadeDB" date="20231017T153726" />
 	</game>
-	<game id="149461">
+	<game>
 		<path>./roms/beastrzr.zip</path>
 		<name>Beastorizer</name>
-		<desc>Unleash the beast within! Take your pick from 8 unique fighters with the ability to morph into powerful werebeasts (wolf, lion, rabbit, tiger, mole, fox, gorilla &amp; boar) and battle your way to reach the sinister Tylon Corporation's secret bioweapon: the deadly weredemon Uriko! Features solid 3-D graphics with awesome character designs, great sound effects &amp; cool music, and a simple control scheme geared towards fast, aggressive gameplay.</desc>
 		<image>./images/beastrzr-image.png</image>
 		<video>./videos/beastrzr-video.mp4</video>
 		<marquee>./images/beastrzr-marquee.png</marquee>
 		<thumbnail>./images/beastrzr-thumb.png</thumbnail>
+		<manual>./manuals/beastrzr-manual.pdf</manual>
 		<rating>0.7</rating>
 		<releasedate>19970101T000000</releasedate>
-		<developer>SCE</developer>
-		<publisher>Raizing</publisher>
-		<genre>Fight</genre>
-		<family>Bloody Roar</family>
-		<arcadesystemname>eighting</arcadesystemname>
-		<players>1-2</players>
+		<genre>Combat</genre>
+		<players>2</players>
 		<md5>9ac04a4b287fcdf1f13741548d96fcc1</md5>
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231018T040408" />
+		<scrap name="HfsDB" date="20231115T094510" />
 		<scrap name="ArcadeDB" date="20231017T153729" />
 	</game>
-	<game id="40262">
+	<game>
 		<path>./roms/bldyror2.zip</path>
-		<name>Bloody Roar 2: The New Breed</name>
-		<desc>Bloody Roar is back with this sequel. Among the new and improved features are seven new characters (along with four original fighters) complete with new moves and looks. Like the original, each character has an inner-beast; Yugo morphs into a ravenous wolf and the vampire-like Jenny turns into a bat. There are nine initially selectable characters with two more waiting to be found.
-The Arcade mode offers a no-frills competition against the computerized AI. If players get bored with the Arcade mode, a second player can join in the action or select the Versus option -- a two-player brawl. Survival mode tests to see how many opponents a player can beat without getting knocked out. In the Story mode, the real draw of Bloody Roar II, each character comes with his or her own unique scenario. By winning rounds, the story unfurls and resolves after the final conflict.</desc>
+		<name>Bloody Roar 2</name>
 		<image>./images/bldyror2-image.png</image>
 		<video>./videos/bldyror2-video.mp4</video>
 		<marquee>./images/bldyror2-marquee.png</marquee>
 		<thumbnail>./images/bldyror2-thumb.png</thumbnail>
 		<fanart>./images/bldyror2-fanart.jpg</fanart>
-		<bezel>./images/bldyror2-bezel.png</bezel>
 		<rating>0.7</rating>
 		<releasedate>19980101T000000</releasedate>
-		<developer>Eighting</developer>
-		<publisher>Eighting</publisher>
-		<genre>Fight / Versus</genre>
-		<family>Bloody Roar</family>
-		<arcadesystemname>eighting</arcadesystemname>
-		<players>1-2</players>
+		<genre>Combat</genre>
+		<players>2</players>
 		<md5>8205a7a15c7d919db2fdd3788dcbeea1</md5>
 		<lang>en</lang>
 		<region>wr</region>
 		<scrap name="ScreenScraper" date="20231018T040415" />
+		<scrap name="HfsDB" date="20231115T094600" />
 		<scrap name="ArcadeDB" date="20231017T153731" />
 	</game>
-	<game id="40373">
+	<game>
 		<path>./roms/brvblade.zip</path>
 		<name>Brave Blade</name>
-		<desc>A 3-D vertically scrolling shoot'em up.</desc>
 		<image>./images/brvblade-image.png</image>
 		<video>./videos/brvblade-video.mp4</video>
 		<marquee>./images/brvblade-marquee.png</marquee>
 		<thumbnail>./images/brvblade-thumb.png</thumbnail>
-		<bezel>./images/brvblade-bezel.png</bezel>
+		<manual>./manuals/brvblade-manual.pdf</manual>
 		<rating>0.8</rating>
 		<releasedate>20000101T000000</releasedate>
 		<developer>Eighting</developer>
-		<publisher>Eighting</publisher>
-		<genre>Shoot'em up / Vertical</genre>
-		<arcadesystemname>eighting</arcadesystemname>
-		<players>1-2</players>
+		<publisher>Namco</publisher>
+		<genre>Shoot them up</genre>
+		<players>2</players>
 		<md5>670dc2a6927dc59168499b1b0a822566</md5>
 		<lang>en</lang>
 		<region>wr</region>
 		<scrap name="ScreenScraper" date="20231018T040418" />
+		<scrap name="HfsDB" date="20231115T094602" />
 		<scrap name="ArcadeDB" date="20231017T153733" />
 	</game>
-	<game id="40470">
+	<game>
 		<path>./roms/cbaj.zip</path>
 		<name>Cool Boarders Arcade Jam</name>
-		<desc>Cool Boarders Arcade Jam is an arcade snowboarding game in the Cool Boarders franchise.</desc>
 		<image>./images/cbaj-image.png</image>
 		<video>./videos/cbaj-video.mp4</video>
 		<marquee>./images/cbaj-marquee.png</marquee>
 		<thumbnail>./images/cbaj-thumb.png</thumbnail>
+		<fanart>./images/cbaj-fanart.png</fanart>
 		<rating>0.7</rating>
 		<releasedate>19980101T000000</releasedate>
-		<developer>Tecmo</developer>
-		<publisher>Tecmo</publisher>
-		<genre>Sports / Skiing</genre>
-		<arcadesystemname>tecmo</arcadesystemname>
+		<genre>Sport</genre>
 		<players>1</players>
 		<md5>e2dc45688a1c065599de5ac03679539d</md5>
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231018T040422" />
+		<scrap name="HfsDB" date="20231115T094602" />
 		<scrap name="ArcadeDB" date="20231017T153735" />
 	</game>
-	<game id="40809">
+	<game>
 		<path>./roms/danceyes.zip</path>
 		<name>Dancing Eyes</name>
-		<desc>Dancing Eyes is a typically Japanese flavoured puzzle game in which the idea is to 'colour in' areas of women's clothing in order to strip them to their underwear. Gameplay is a variation on Konami's popular and much-copied 1981 classic, "Amidar". Once a level is completed, the player can watch their on-screen female counterpart 'dance', during which the player can use the joystick to move the in-game camera.</desc>
 		<image>./images/danceyes-image.png</image>
 		<video>./videos/danceyes-video.mp4</video>
 		<marquee>./images/danceyes-marquee.png</marquee>
 		<thumbnail>./images/danceyes-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19960101T000000</releasedate>
-		<developer>Namco</developer>
+		<developer>Masateru Umeda</developer>
 		<publisher>Namco</publisher>
-		<genre>Puzzle-Game</genre>
-		<arcadesystemname>namco</arcadesystemname>
+		<genre>Reflexion</genre>
 		<players>1</players>
 		<md5>7925e01beed720741f4050612915d704</md5>
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231018T040426" />
+		<scrap name="HfsDB" date="20231115T094603" />
 		<scrap name="ArcadeDB" date="20231017T153737" />
 	</game>
-	<game id="40953">
+	<game>
 		<path>./roms/doapp.zip</path>
 		<name>Dead Or Alive ++</name>
-		<desc>A sequel to Dead or Alive, Dead or Alive 2 includes new characters, new environments and a whole new great experience for the fighting series</desc>
 		<image>./images/doapp-image.png</image>
 		<video>./videos/doapp-video.mp4</video>
 		<marquee>./images/doapp-marquee.png</marquee>
 		<thumbnail>./images/doapp-thumb.png</thumbnail>
+		<fanart>./images/doapp-fanart.png</fanart>
 		<rating>0.8</rating>
 		<releasedate>19980101T000000</releasedate>
-		<developer>Tecmo</developer>
-		<publisher>Tecmo</publisher>
-		<genre>Fight / Versus</genre>
-		<family>Dead or Alive</family>
-		<arcadesystemname>tecmo</arcadesystemname>
-		<players>1-2</players>
+		<genre>Combat</genre>
+		<players>2</players>
 		<md5>5ced6ace80109b0745429fc101bed22e</md5>
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231018T040430" />
+		<scrap name="HfsDB" date="20231115T094603" />
 		<scrap name="ArcadeDB" date="20231017T153738" />
 	</game>
-	<game id="41056">
+	<game>
 		<path>./roms/dunkmnia.zip</path>
 		<name>Dunk Mania</name>
-		<desc>Dunk Mania is a 2-on-2 basketball game.</desc>
+		<desc>Dunk Mania is a basketball game that features a two-zone structure and a two-on-two game</desc>
 		<image>./images/dunkmnia-image.png</image>
 		<video>./videos/dunkmnia-video.mp4</video>
 		<marquee>./images/dunkmnia-marquee.png</marquee>
 		<thumbnail>./images/dunkmnia-thumb.png</thumbnail>
+		<manual>./manuals/dunkmnia-manual.pdf</manual>
 		<rating>0.8</rating>
 		<releasedate>19950101T000000</releasedate>
 		<developer>Namco</developer>
 		<publisher>Namco</publisher>
-		<genre>Sports / Basketball</genre>
-		<arcadesystemname>namco</arcadesystemname>
-		<players>1-4</players>
+		<genre>Sport</genre>
+		<players>4</players>
 		<md5>7f6c77127f750586386d47387fff2919</md5>
 		<lang>en</lang>
 		<region>wr</region>
 		<scrap name="ScreenScraper" date="20231018T040434" />
+		<scrap name="HfsDB" date="20231115T094604" />
 		<scrap name="ArcadeDB" date="20231017T153740" />
 	</game>
 	<game id="41056">
@@ -217,269 +326,252 @@ The Arcade mode offers a no-frills competition against the computerized AI. If p
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231018T040437" />
+		<scrap name="HfsDB" date="20231115T094604" />
 		<scrap name="ArcadeDB" date="20231017T153742" />
 	</game>
-	<game id="41090">
+	<game>
 		<path>./roms/ehrgeiz.zip</path>
 		<name>Ehrgeiz</name>
-		<desc>EZ: Ehrgeiz - God Bless the Ring is a 3-D fighting game reminiscent of "Power Stone" by Capcom. The world's most brutal tournament has as its trophy the legendary weapon 'EHRGEIZ'. Fighters from around the world assemble to claim this prize and its mysterious power. Featuring interactive backgrounds.</desc>
 		<image>./images/ehrgeiz-image.png</image>
 		<video>./videos/ehrgeiz-video.mp4</video>
 		<marquee>./images/ehrgeiz-marquee.png</marquee>
 		<thumbnail>./images/ehrgeiz-thumb.png</thumbnail>
-		<bezel>./images/ehrgeiz-bezel.png</bezel>
+		<fanart>./images/ehrgeiz-fanart.png</fanart>
+		<manual>./manuals/ehrgeiz-manual.pdf</manual>
 		<rating>0.7</rating>
 		<releasedate>19980101T000000</releasedate>
-		<developer>Dreamfactory</developer>
-		<publisher>Square</publisher>
-		<genre>Fight / Versus</genre>
-		<arcadesystemname>namco</arcadesystemname>
-		<players>1-2</players>
+		<genre>Combat</genre>
+		<players>2</players>
 		<md5>9551b010ee6dd0ff8ab80d1da0cae268</md5>
 		<lang>en</lang>
 		<region>wr</region>
 		<scrap name="ScreenScraper" date="20231018T040442" />
+		<scrap name="HfsDB" date="20231115T094606" />
 		<scrap name="ArcadeDB" date="20231017T153744" />
 	</game>
-	<game id="41214">
+	<game>
 		<path>./roms/fgtlayer.zip</path>
 		<name>Fighting Layer</name>
-		<desc>The gameplay system is similar to that of the Street Fighter EX series (also developed by Arika), such as canceling supers into other supers, and universal guard-break attack</desc>
 		<image>./images/fgtlayer-image.png</image>
 		<video>./videos/fgtlayer-video.mp4</video>
 		<marquee>./images/fgtlayer-marquee.png</marquee>
 		<thumbnail>./images/fgtlayer-thumb.png</thumbnail>
-		<bezel>./images/fgtlayer-bezel.png</bezel>
 		<rating>0.4</rating>
 		<releasedate>19980101T000000</releasedate>
 		<developer>Arika</developer>
-		<publisher>Namco</publisher>
-		<genre>Fight / Versus</genre>
-		<arcadesystemname>namco</arcadesystemname>
-		<players>1-2</players>
+		<genre>Combat</genre>
+		<players>2</players>
 		<md5>8576bb7d87befcf9218feab144a6f6f2</md5>
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231018T040450" />
+		<scrap name="HfsDB" date="20231115T094606" />
 		<scrap name="ArcadeDB" date="20231017T153745" />
 	</game>
-	<game id="41294">
+	<game>
 		<path>./roms/ftimpcta.zip</path>
 		<name>Fighters' Impact A</name>
-		<desc>Fighters' Impact is 3D fighting game. The player can choose 1 from 8 playable characters (the game has a couple of bosses too) and fights against the others. Game has special combo system (players can come up with their own combos), and characters have a special sub-styles of fighting. The game uses 3 buttons: for punch, kick and evade. Rules are simple - the player must beat the opponent in 2 rounds.</desc>
+		<desc>Fighters' Impact A is a 1997 update of the Fighters' Impact game. This version tweaks the gameplay mechanics, removing the unique combo system in favor of pre-determined combos.</desc>
 		<image>./images/ftimpcta-image.png</image>
 		<video>./videos/ftimpcta-video.mp4</video>
 		<marquee>./images/ftimpcta-marquee.png</marquee>
 		<thumbnail>./images/ftimpcta-thumb.png</thumbnail>
+		<fanart>./images/ftimpcta-fanart.jpg</fanart>
 		<rating>0.7</rating>
 		<releasedate>19970101T000000</releasedate>
-		<publisher>Taito</publisher>
-		<genre>Fight / Versus</genre>
-		<arcadesystemname>taito</arcadesystemname>
-		<players>1-2</players>
+		<developer>Taito</developer>
+		<publisher>Taito Corporation</publisher>
+		<genre>Combat</genre>
+		<players>2</players>
 		<md5>de8d10bf133515bc6a43c2eb41238583</md5>
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231018T040453" />
+		<scrap name="HfsDB" date="20231115T094606" />
 		<scrap name="ArcadeDB" date="20231017T153747" />
 	</game>
-	<game id="152285">
+	<game>
 		<path>./roms/gdarius.zip</path>
-		<name>G Darius</name>
-		<desc>G-Darius literally added a new dimension to the highly regarded 'Darius' series, with the introduction of fully 3D rendered backgrounds and enemies. Namco had already done the same with their Xevious series for "Xevious 3D/G", released two years' earlier, but G-Darius is generally regarded as the most accomplished of the two titles.
-
-G-Darius' game-play was also enhanced, with the 'Capture Ball' system; this allowed the player to capture almost any enemy craft and use it against the game's other enemies. Captured enemies can either be detonated like a ''bomb'', damaging all enemies nearby; or used to fire a special 'Alpha Beam', which cuts through everything but gold-colored objects and enemy bosses. Each boss is capable of firing its own version of this beam at the player; when both beams meet, they will interrupt each other's path. Depending on how rapidly the player presses the Fire button, one beam will grow and eventually overpower the others. The Capture ball was actually introduced in "Darius Gaiden" but was only used to a minimal extent.</desc>
+		<name>G-Darius</name>
 		<image>./images/gdarius-image.png</image>
 		<video>./videos/gdarius-video.mp4</video>
 		<marquee>./images/gdarius-marquee.png</marquee>
 		<thumbnail>./images/gdarius-thumb.png</thumbnail>
 		<releasedate>19970101T000000</releasedate>
-		<developer>Taito</developer>
-		<publisher>Taito</publisher>
-		<genre>Shoot'em up / Horizontal</genre>
-		<family>Darius</family>
-		<arcadesystemname>taito</arcadesystemname>
-		<players>1-4</players>
+		<developer>Taito Corporation</developer>
+		<publisher>JP : CyberFront /MediaKite/Sourcenext  EU &amp; US : THQ</publisher>
+		<genre>Shoot them up</genre>
+		<players>2</players>
 		<md5>8de7c3d4ed9ecd638a53d4213f01ad95</md5>
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231018T040456" />
+		<scrap name="HfsDB" date="20231115T094607" />
 		<scrap name="ArcadeDB" date="20231017T153748" />
 	</game>
-	<game id="41404">
+	<game>
 		<path>./roms/gdarius2.zip</path>
-		<name>G-darius Ver.2</name>
-		<desc>G-Darius ver.2 version contains 3 buttons instead of 2 because one was entered for rapid fire, and the selection menu is added for difficulty once a coin is inserted.</desc>
+		<name>G-Darius Ver.2</name>
+		<desc>Much like previous installments in the Darius series, G-Darius is a two-dimensional horizontally scrolling shoot'em up set in a fictional future. While the game features three-dimensional polygonal graphics, the gameplay remains two-dimensional. The player controls a spaceship named the Silver Hawk and must battle enemies and avoid obstacles throughout the game's stages (referred to as zones in the game). The ship is armed with forward-firing missiles, small aerial bombs and a protective force field. These can be upgraded by power-ups, in the form of large orbs, that are dropped by specially-colored enemies when they are destroyed. When the player reaches the end of a zone, a boss appears, which must be defeated to proceed. Once the boss of a zone is destroyed, the player is given a choice of which zone to play next via a branching path.
+
+Among the player's arsenal is the 'capture ball', which the player can launch to capture enemies. Once captured, the enemy will follow and aid the player's ship. Each enemy contains a unique enhancement; some will act as extra turrets and others will act as shields. Additionally, the player can detonate their captured enemy as a bomb. The captured enemy will continue to follow the player until either they are destroyed after taking enough damage or the player's ship is destroyed.
+
+New to the series in G-Darius is the concept of beam-dueling. The player can absorb a captured enemy to fire a powerful laser beam over a short period of time, which will instantly destroy nearly every enemy it comes into contact with. This is primarily used during boss fights. Every major boss in the game has an equivalent laser beam. If the player and the boss fire their lasers simultaneously, a 'duel' between the two will initiate. The player must overwhelm the boss' laser by repeatedly tapping the fire button as quickly as possible. If successful, the boss' beam will eventually dissipate and the player's beam will multiply in size (as well as in power) and severely damage, if not kill, the boss.</desc>
 		<image>./images/gdarius2-image.png</image>
 		<video>./videos/gdarius2-video.mp4</video>
 		<marquee>./images/gdarius2-marquee.png</marquee>
 		<thumbnail>./images/gdarius2-thumb.png</thumbnail>
 		<fanart>./images/gdarius2-fanart.jpg</fanart>
-		<bezel>./images/gdarius2-bezel.png</bezel>
 		<rating>0.7</rating>
 		<releasedate>19970101T000000</releasedate>
-		<publisher>Taito</publisher>
-		<genre>Shoot'em up / Horizontal</genre>
-		<family>Darius</family>
-		<arcadesystemname>taito</arcadesystemname>
-		<players>1-2</players>
+		<developer>Taito Corporation</developer>
+		<publisher>Taito Corporation</publisher>
+		<genre>Shoot them up</genre>
+		<players>2</players>
 		<md5>ef923e065a8e79959ebc2e614145a091</md5>
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231018T040502" />
+		<scrap name="HfsDB" date="20231115T094607" />
 		<scrap name="ArcadeDB" date="20231017T153749" />
 	</game>
-	<game id="41464">
+	<game>
 		<path>./roms/glpracr3.zip</path>
 		<name>Gallop Racer 3</name>
-		<desc>The 3rd game in the 3-D horse racing series from Tecmo.</desc>
 		<image>./images/glpracr3-image.png</image>
 		<video>./videos/glpracr3-video.mp4</video>
 		<marquee>./images/glpracr3-marquee.png</marquee>
 		<thumbnail>./images/glpracr3-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19990101T000000</releasedate>
-		<developer>Tecmo</developer>
-		<publisher>Tecmo</publisher>
-		<genre>Sports / Horses race</genre>
-		<family>Gallop Racer</family>
-		<arcadesystemname>tecmo</arcadesystemname>
-		<players>1-2</players>
+		<genre>Sport</genre>
+		<players>2</players>
 		<md5>3b54c7c9fa7d09a818b707a913f7006c</md5>
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231018T040507" />
+		<scrap name="HfsDB" date="20231115T094608" />
 		<scrap name="ArcadeDB" date="20231017T153751" />
 	</game>
-	<game id="41750">
+	<game>
 		<path>./roms/hvnsgate.zip</path>
 		<name>Heaven's Gate</name>
-		<desc>Yusha: Heaven's Gate is a 3D fighting game with an arcade and Vs. mode. The player can choose from one of the eight combatants that are available at the start, with a few more characters being available once their unlocked. Each character has a different nationality, specialty, and lineage. Each character represents either a good or an evil alignment and depending on the character chosen, it affects which final boss the player will have to fight against.
-Defending, punching and kicking are on three separate buttons. There are variations of each of these moves depending on how quick the button is pressed.
-Consistently damaging or taking damage from an opponent will add to a sol or lunar (depending on the character the player is playing as) power gauge. When this gauge is filled, the player is temporarily invincible and allows the player to use strong power assault moves</desc>
 		<image>./images/hvnsgate-image.png</image>
 		<video>./videos/hvnsgate-video.mp4</video>
 		<marquee>./images/hvnsgate-marquee.png</marquee>
 		<thumbnail>./images/hvnsgate-thumb.png</thumbnail>
+		<fanart>./images/hvnsgate-fanart.png</fanart>
 		<rating>0.7</rating>
 		<releasedate>19960101T000000</releasedate>
-		<developer>Racdym</developer>
-		<publisher>Atlus</publisher>
-		<genre>Fight / Versus</genre>
-		<arcadesystemname>atlus</arcadesystemname>
-		<players>1-2</players>
+		<genre>Combat</genre>
+		<players>2</players>
 		<md5>3427d7ca727a1575eadb7f8731a84794</md5>
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231018T040512" />
+		<scrap name="HfsDB" date="20231115T094609" />
 		<scrap name="ArcadeDB" date="20231017T153754" />
 	</game>
-	<game id="41762">
+	<game>
 		<path>./roms/hyperath.zip</path>
 		<name>Hyper Athlete</name>
-		<desc>A superb 3-D update of Konami's Track and Field series, in which up to 4 players compete in 11 different Olympic events. All 6 events from the legendary first game, 1983's "Track and Field", are included; but tellingly, only 3 events (swimming, pole vault and triple jump) are taken from the less accomplished sequel, Hyper Sports. Hyper Athlete uses the three-button control system of its predecessors (two RUN buttons and one ACTION button per player) and the 11 disciplines can be attempted in any order. The available events are:</desc>
+		<desc>A sport game where players must qualify across eleven olympic events. The game features 32-bit 3-D graphics, great sound, as well as voice. This arcade game is actually an optimized version of the Playstation game "International Track &amp; Field" and it is a great modernization of Konami's original Track &amp; Field game. World records are kept permanently.</desc>
 		<image>./images/hyperath-image.png</image>
 		<video>./videos/hyperath-video.mp4</video>
 		<marquee>./images/hyperath-marquee.png</marquee>
 		<thumbnail>./images/hyperath-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19960101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Sports / Running trails</genre>
-		<family>Track &amp;amp; Field</family>
-		<arcadesystemname>konami</arcadesystemname>
-		<players>1-4</players>
+		<genre>Sport</genre>
+		<players>4</players>
 		<md5>6fbb4873adf14990cb686caf804144ac</md5>
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231018T040516" />
+		<scrap name="HfsDB" date="20231115T094609" />
 		<scrap name="ArcadeDB" date="20231017T153755" />
 	</game>
-	<game id="42852">
+	<game>
 		<path>./roms/jgakuen.zip</path>
 		<name>Rival Schools: United By Fate</name>
-		<desc>The story of Rival Schools introduces the player to a Japanese city called Aoharu City, where several local schools are the victims of unknown attacks and kidnappings of students and staff. The various characters in the game set out to find who is responsible for the attacks on their school, with the cut-scenes and fights portraying their interactions with the other schools and among themselves. Eventually, the story reveals that an elite school in the city, Justice High, is responsible for the attacks. The player's team eventually faces off against Raizo Imawano, the principal of the school, and first boss of the game. If certain requirements are met during the fight against Raizo, the story would continue as the player would then head into a true final boss fight against Hyo Imawano, Raizo's nephew and the true mastermind behind the events of the game.</desc>
 		<image>./images/jgakuen-image.png</image>
 		<video>./videos/jgakuen-video.mp4</video>
 		<marquee>./images/jgakuen-marquee.png</marquee>
 		<thumbnail>./images/jgakuen-thumb.png</thumbnail>
 		<fanart>./images/jgakuen-fanart.jpg</fanart>
-		<bezel>./images/jgakuen-bezel.png</bezel>
 		<releasedate>19970101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Fight / Versus</genre>
-		<family>Rival Schools</family>
-		<arcadesystemname>capcom</arcadesystemname>
-		<players>1-2</players>
+		<genre>Combat</genre>
+		<players>2</players>
 		<md5>53550e48dc568f045f1dfa9e43a3549c</md5>
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231018T040520" />
+		<scrap name="HfsDB" date="20231115T094609" />
 		<scrap name="ArcadeDB" date="20231017T153758" />
 	</game>
-	<game id="43542">
+	<game>
 		<path>./roms/kikaioh.zip</path>
-		<name>Tech Romancer</name>
-		<desc>Tech Romancer is a futuristic robotic 3-D fighting game from Capcom that draws heavily from the various subgenres of mecha anime.</desc>
+		<name>Choukou Senki Kikaioh</name>
 		<image>./images/kikaioh-image.png</image>
 		<video>./videos/kikaioh-video.mp4</video>
 		<marquee>./images/kikaioh-marquee.png</marquee>
 		<thumbnail>./images/kikaioh-thumb.png</thumbnail>
 		<fanart>./images/kikaioh-fanart.jpg</fanart>
+		<manual>./manuals/kikaioh-manual.pdf</manual>
 		<releasedate>19980101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Fight / Versus</genre>
-		<arcadesystemname>capcom</arcadesystemname>
-		<players>1-2</players>
+		<genre>Combat</genre>
+		<players>2</players>
 		<md5>ef72cf27cd455bf9a2aec08dfc859a38</md5>
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231018T040523" />
+		<scrap name="HfsDB" date="20231115T094610" />
 		<scrap name="ArcadeDB" date="20231017T153801" />
 	</game>
-	<game id="78915">
+	<game>
 		<path>./roms/mfjump.zip</path>
 		<name>Monster Farm Jump</name>
-		<desc>The players can play with one of the four selectable characters Roocho, Beochi, Chito, Golem and must jump forward or backward while maneuvering the character in the aerial platform runway and will need pick Items as you advance and avoid falling in gaps to reach the end of the runway to go to next level!</desc>
 		<image>./images/mfjump-image.png</image>
 		<video>./videos/mfjump-video.mp4</video>
 		<marquee>./images/mfjump-marquee.png</marquee>
 		<thumbnail>./images/mfjump-thumb.png</thumbnail>
 		<rating>0.9</rating>
 		<releasedate>20010101T000000</releasedate>
-		<developer>Tecmo</developer>
-		<publisher>Tecmo</publisher>
-		<genre>Platform / Run Jump</genre>
-		<arcadesystemname>tecmo</arcadesystemname>
-		<players>1-2</players>
+		<genre>Plate-formes</genre>
+		<players>2</players>
 		<md5>c80a20e4ee8fafa7f0834c38a164b4e5</md5>
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231018T040529" />
+		<scrap name="HfsDB" date="20231115T094610" />
 		<scrap name="ArcadeDB" date="20231017T153802" />
 	</game>
-	<game id="150504">
+	<game>
 		<path>./roms/mgcldtex.zip</path>
-		<name>Magical Date Ex / Magical Date - Sotsugyou Kokuhaku Daisakusen</name>
+		<name>Magical Date EX / Magical Date - sotsugyou kokuhaku daisakusen</name>
+		<desc>Magical Date: Sotsugyo Kokuhaku Daisakusen (まじかるで～と 卒業告白大作戦) is a skill game and dating sim published by Taito in 1997, as an updated version of Magical Date: Dokidoki Kokuhaku Daisakusen. In this game, the player picks one of three possible girls to date and then starts off in a square as in a board game, proceeding to other squares which have different mini games. At junction points the player is asked questions about their date and has to pick the correct answer, or she will become upset
+
+Released in February 1997 in Japan only. The subtitle of this game translates from Japanese as 'Cruel Graduation Tactics'.</desc>
 		<image>./images/mgcldtex-image.png</image>
 		<video>./videos/mgcldtex-video.mp4</video>
 		<marquee>./images/mgcldtex-marquee.png</marquee>
 		<thumbnail>./images/mgcldtex-thumb.png</thumbnail>
-		<releasedate>19960101T000000</releasedate>
-		<arcadesystemname>taito</arcadesystemname>
+		<fanart>./images/mgcldtex-fanart.jpg</fanart>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Taito Corporation</developer>
+		<publisher>Taito Corporation</publisher>
+		<genre>Party game</genre>
+		<players>2</players>
 		<md5>ee733f491bfbfe0b576d3b21023fbd2d</md5>
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231018T040533" />
+		<scrap name="HfsDB" date="20231115T094611" />
 		<scrap name="ArcadeDB" date="20231017T153803" />
 	</game>
-	<game id="78991">
+	<game>
 		<path>./roms/mrdrillr.zip</path>
 		<name>Mr. Driller</name>
-		<desc>A highly addictive puzzle game in which the player must drill down through an endless onslaught of blocks, attempting to get blocks of the same colour to touch and subsequently make them disappear. 'Undergrounder' bonuses can be picked up for bonus points and air capsules must be collected to restore the player's ever-diminishing air supply.</desc>
 		<image>./images/mrdrillr-image.png</image>
 		<video>./videos/mrdrillr-video.mp4</video>
 		<marquee>./images/mrdrillr-marquee.png</marquee>
@@ -487,58 +579,50 @@ Consistently damaging or taking damage from an opponent will add to a sol or lun
 		<fanart>./images/mrdrillr-fanart.jpg</fanart>
 		<rating>0.8</rating>
 		<releasedate>19990101T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<genre>Puzzle-Game</genre>
-		<family>Mr. Driller</family>
-		<arcadesystemname>namco</arcadesystemname>
+		<genre>Reflexion</genre>
 		<players>1</players>
 		<md5>ca983258a6e158a2250bac5f56ab1177</md5>
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231018T040537" />
+		<scrap name="HfsDB" date="20231115T094611" />
 		<scrap name="ArcadeDB" date="20231017T153805" />
 	</game>
-	<game id="57911">
+	<game>
 		<path>./roms/myangel3.zip</path>
 		<name>Kosodate Quiz My Angel 3</name>
-		<desc>A Japanese quiz game featuring cute little children.</desc>
 		<image>./images/myangel3-image.png</image>
 		<video>./videos/myangel3-video.mp4</video>
 		<marquee>./images/myangel3-marquee.png</marquee>
 		<thumbnail>./images/myangel3-thumb.png</thumbnail>
+		<fanart>./images/myangel3-fanart.png</fanart>
 		<rating>0.9</rating>
 		<releasedate>19980101T000000</releasedate>
-		<publisher>Namco</publisher>
-		<genre>Quiz / Japanese</genre>
-		<family>Kosodate Quiz My Angel</family>
-		<arcadesystemname>namco</arcadesystemname>
-		<players>1-2</players>
+		<genre>Quiz</genre>
+		<players>2</players>
 		<md5>0c521c84c747556b2c631c79177d3028</md5>
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231018T040542" />
+		<scrap name="HfsDB" date="20231115T094612" />
 		<scrap name="ArcadeDB" date="20231017T153806" />
 	</game>
-	<game id="60852">
+	<game>
 		<path>./roms/pacapp.zip</path>
 		<name>Paca Paca Passion</name>
-		<desc>A rhythm action game.</desc>
 		<image>./images/pacapp-image.png</image>
 		<video>./videos/pacapp-video.mp4</video>
 		<marquee>./images/pacapp-marquee.png</marquee>
 		<thumbnail>./images/pacapp-thumb.png</thumbnail>
 		<rating>0.9</rating>
 		<releasedate>19990101T000000</releasedate>
-		<developer>Produce</developer>
-		<publisher>Produce</publisher>
-		<genre>Various / Rhythm</genre>
-		<arcadesystemname>namco</arcadesystemname>
-		<players>1-2</players>
+		<genre>Rythme</genre>
+		<players>2</players>
 		<md5>c522e05421945c28cf8f2ecc5297e822</md5>
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231018T040548" />
+		<scrap name="HfsDB" date="20231115T094612" />
 		<scrap name="ArcadeDB" date="20231017T153807" />
 	</game>
 	<game id="88105">
@@ -557,80 +641,77 @@ Consistently damaging or taking damage from an opponent will add to a sol or lun
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231018T040554" />
+		<scrap name="HfsDB" date="20231115T094612" />
 		<scrap name="ArcadeDB" date="20231017T153808" />
 	</game>
-	<game id="42419">
+	<game>
 		<path>./roms/plsmaswd.zip</path>
 		<name>Plasma Sword: Nightmare of Bilstein</name>
-		<desc>Plasma Sword: Nightmare of Bilstein is the successor of Star Gladiator released for Playstation. Like its predecessor it was first released on Arcade before being ported to the Dreamcast.
-
-The game features 22 anime-like characters in a 3-dimensional futuristic world, except for the backgrounds and the menus, which are plain 2D bitmaps without a lot of movement. The stages are unlimited in all directions, so it's not possible to fall off the edge. The speciality of this game are the so called "plasma moves", visually very appealing special moves which fill the screen and can be executed when you have collected enough "plasma power". Despite of the 22 characters there are only 11 different move layouts, as one layout is shared by two characters.</desc>
 		<image>./images/plsmaswd-image.png</image>
 		<video>./videos/plsmaswd-video.mp4</video>
 		<marquee>./images/plsmaswd-marquee.png</marquee>
 		<thumbnail>./images/plsmaswd-thumb.png</thumbnail>
 		<fanart>./images/plsmaswd-fanart.jpg</fanart>
+		<manual>./manuals/plsmaswd-manual.pdf</manual>
 		<rating>0.9</rating>
 		<releasedate>19980101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Fight / Versus</genre>
-		<family>Star Gladiator</family>
-		<arcadesystemname>capcom</arcadesystemname>
-		<players>1-2</players>
+		<genre>Combat</genre>
+		<players>2</players>
 		<md5>443f26325cad842f19e7c291b2275dca</md5>
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231018T040602" />
+		<scrap name="HfsDB" date="20231115T094613" />
 		<scrap name="ArcadeDB" date="20231017T153810" />
 	</game>
-	<game id="42504">
+	<game>
 		<path>./roms/primglex.zip</path>
-		<name>Prime Goal Ex</name>
-		<desc>J-League Prime Goal EX is one of the first football games in Sony's console, following previous appearances in the SNES, Prime Goal is a straightforward action game with simple arcade controls. While the Japanese version features all 14 JLeague teams and fully licensed players, the European version features the same number of national teams with fictional players, all from Europe. Game modes include friendly match, league and cup knockout modes, as well as an all-star game where the player chooses his stars from the best in the selected zone.</desc>
+		<name>Prime Goal EX</name>
 		<image>./images/primglex-image.png</image>
 		<video>./videos/primglex-video.mp4</video>
 		<marquee>./images/primglex-marquee.png</marquee>
 		<thumbnail>./images/primglex-thumb.png</thumbnail>
+		<fanart>./images/primglex-fanart.png</fanart>
 		<rating>0.7</rating>
 		<releasedate>19960101T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<genre>Sports / Soccer</genre>
-		<arcadesystemname>namco</arcadesystemname>
-		<players>1-2</players>
+		<genre>Sport</genre>
+		<players>2</players>
 		<md5>5e59766a20fb5983773bcac557a6a61a</md5>
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231018T040607" />
+		<scrap name="HfsDB" date="20231115T094613" />
 		<scrap name="ArcadeDB" date="20231017T153811" />
 	</game>
-	<game id="42534">
+	<game>
 		<path>./roms/psyforce.zip</path>
 		<name>Psychic Force</name>
-		<desc>Psychic Force is a great fighting game with eight selectables characters.
+		<desc>Psychic Force (サイキックフォース Saikikku Fōsu) is a 1995 fighting arcade game created by Taito which was later ported to the PlayStation in 1996 and 1997. The PlayStation version was released by Acclaim in North America, and in PAL regions. The game was a 3D fighter which had combined the normal features of an arcade fighting game with psychic powers. There were eight playable characters available to choose from in the game and a final boss/secret character who is playable through the use of a code. Psychic Force was released without much hype and was not commercially successful at the time of its initial release, but the series has since gained a strong cult fanbase. Psychic Force would later get an arcade-exclusive update titled Psychic Force EX, which was released a year later in 1996. EX would make Keith, the final boss/secret character of the original game a playable character without having to initiate a code and that the characters would receive new color schemes for their costumes while the gameplay was improved and balanced. In 1998, a sequel was released under the title Psychic Force 2012 also for the arcade, and was later ported to the Dreamcast console in 1999. It was eventually adapted to the PlayStation under the title Psychic Force 2, which was released in Japan on October 7, 1999 and later to the PAL regions in 2001.
+In 2006, the original Psychic Force was re-released as part of as an anniversary pack for the PlayStation 2 titled Psychic Force Complete, which had included Psychic Force 2012 and a special exclusive remixed version of 2012 titled Psychic Force 2012 EX.
 
-The plot takes place in the year 2010, where selected individuals are blessed with the power of psychic abilities. All people imbued with this power are called "Psychiccers" and uses a specific element such as fire, ice or gravity in fighting. 
-
-Time after Psychiccers are shunned by normal people because of their unnatural abilities and that most cases turn violent and deadly. All of that changes one day when a mysterious corporation known as "NOA" appears and offers Psychiccers a place in their company. Headed by a man named Keith Evans, the corporation seeks to create a perfect utopia for Psychiccers and that they'll eliminate anyone who stands in their way. 
-
-Challenging NOA's ambition is a small independent group known as "Anti-NOA" and that one of its members, a young American Psychiccer named Burn Griffiths, seeks to confront and stop his old friend Keith from going through with his extreme plans of creating a Psychiccer-only world.</desc>
+All combat in Psychic Force takes place in a cubic space defined by a magical force field. The fighters float inside this space and are capable of movement in all directions. Even though Psychic Force is structured as a 3D game, the gameplay is in 2D.
+The walls of the force field play a big part in the strategy behind Psychic Force. A character takes damage when they're forced into a wall by their opponent. The character do not take damage, however, if they move into the wall themselves. If a character takes another hit as they bounce off from the wall, the character will become stunned and fall through the air. The character is eventually invulnerable while they're falling.
+As in most fighting games, the first character to win two rounds wins the match. However, you cannot win a round on time. i.e., if time runs out, neither player wins. Instead, you go to a sudden death round in which the space is much smaller and both characters have 0% Psycho Gauge. The first person to land an attack wins. When you are fighting the computer, however, the character with more health remaining at the end of the round wins.
+The characters are controlled with an eight directional joystick and three buttons which dictate a guard, a light attack, and a heavy attack (On the ported PlayStation version these commands were given to the square, triangle and circle buttons). By combining these different commands, the player can make combo attacks, throws, and special moves which can break the enemy's defenses.
+A character's special move is determined by the Psycho Gauge, which is seen under the Life Gauge of the character. Depending on the type of special move initiated, the Psycho Gauge will immediately drain from within sight and once the character uses up their entire Psycho Gauge, they'll be left with the only option to unleash continuous weak projectiles until the Psycho Gauge is charged back up, either through an automatic slow charge or a manual fast charge in which the player can press all three buttons to help re-charge their Psycho Gauge.
+Other tactics seen from within Psychic Force includes a Barrier Guard, which can be used to help protect a character from both physical attacks and special moves but drains the Psycho Gauge real quickly, an Evasion Barrier, in which the character can immediately put up a force field and avoid slamming against the wall even though it uses up 40% of the Psycho Gauge, a Normal Dash which enables a character to move real quickly in any direction from within sight, and a Quick Dash which enables a character to move real fast towards their opponent while being able to deflect any weak projectile that gets in their way.
+In both the original arcade version and home console Story Mode of Psychic Force, the player's character would go through eight stages of combat from within sight against a specific set of opponents and that they would face off against a specific final boss from within the eighth and final stage which would vary and depend from within the specific playing character's story. The home console Story Mode would add additional cut-scenes in order to advance the story of the specific playing character and an ending would be presented once the player is able to beat the game with the specific playing character.</desc>
 		<image>./images/psyforce-image.png</image>
 		<video>./videos/psyforce-video.mp4</video>
 		<marquee>./images/psyforce-marquee.png</marquee>
 		<thumbnail>./images/psyforce-thumb.png</thumbnail>
+		<fanart>./images/psyforce-fanart.jpg</fanart>
 		<rating>0.6</rating>
 		<releasedate>19950101T000000</releasedate>
-		<developer>Taito</developer>
-		<publisher>Taito</publisher>
-		<genre>Fight / Versus</genre>
-		<family>Psychic Force</family>
-		<arcadesystemname>taito</arcadesystemname>
-		<players>1-2</players>
+		<developer>Taito Corporation</developer>
+		<publisher>Taito Corporation</publisher>
+		<genre>Combat</genre>
+		<players>2</players>
 		<md5>4c07e14f0d549ea266da06337fa13396</md5>
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231018T040610" />
+		<scrap name="HfsDB" date="20231115T094614" />
 		<scrap name="ArcadeDB" date="20231017T153813" />
 	</game>
 	<game id="42534">
@@ -659,6 +740,7 @@ Challenging NOA's ambition is a small independent group known as "Anti-NOA" and 
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231018T040611" />
+		<scrap name="HfsDB" date="20231115T094614" />
 		<scrap name="ArcadeDB" date="20231017T153815" />
 	</game>
 	<game>
@@ -746,6 +828,7 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=2058&am
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231018T040613" />
+		<scrap name="HfsDB" date="20231115T094614" />
 		<scrap name="ArcadeDB" date="20231017T153817" />
 	</game>
 	<game>
@@ -843,30 +926,30 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=2182&am
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231018T040615" />
+		<scrap name="HfsDB" date="20231115T094615" />
 		<scrap name="ArcadeDB" date="20231017T153819" />
 	</game>
-	<game id="42702">
+	<game>
 		<path>./roms/raystorm.zip</path>
 		<name>Ray Storm</name>
-		<desc>Ray Storm is a sequel of RayForce that does not follow the main plot "Con-Human" storyline, to this time the plot consists of eight stages taking place between August 4 and August 7, 2219 AD; the first three stages take place on Earth, the last three at the fictional planet Secilia, and two between them in the orbits of Earth and Secilia, respectively. Whereas RayForce players must head toward Earth to destroy it, RayStorm players start at and move away from the planet. The plot of the game is exposed minimally during play, with only dates and place names given at the start of each of its first seven stages. An "Extra Mode" included with home versions of the game displays maps before the first seven stages and a closing crawl after completing the game, which further illustrate the plot; the map for the fifth stage, for example, shows that a "gravity catapult" at the Moon is used to travel from Earth orbit to Secilia orbit.
-
-In a future where space travel has existed since 2119. Humans explored space, and within 100 years Earth established a twenty-colony Star Federation extending to Orion, with each colony kept under martial law. The colonies then mutinied against the Federation: they took control of the major colony Secilia, formed the Secilia Federation and defeated Earth's forces after many battles. After Earth's surrender, all of its inhabitants had been transferred to the colonies. The Secilia Federation suppressed colonial opposition and sent out a force to destroy the planet completely. However, by then the R-Gray, a aircraft made with parts salvaged from 13 different Secilia ships, is completed and deployed to carry out OPERATION RAYSTORM, a desperate attempt to defend Earth from the Federation.</desc>
+		<desc>RayStorm is a scrolling shooter developed by the Taito Corporation. Originally released in Japan as an arcade game in 1996, it was later ported there to Sony's PlayStation game console in 1997, to the Sega Saturn (under the name Layer Section II) in that same year, and to Windows-based personal computers in 2001. In North America, it was released for the PlayStation by Working Designs in June 1997. The PlayStation version was also released in Europe by SCE Europe. It was re-released in 2010 with improved graphics, as RayStorm HD, for the Xbox 360 and the PlayStation 3 (with the latter version released exclusively in Japan). In 2012, RayStorm was also released for iOS.</desc>
 		<image>./images/raystorm-image.png</image>
 		<video>./videos/raystorm-video.mp4</video>
 		<marquee>./images/raystorm-marquee.png</marquee>
 		<thumbnail>./images/raystorm-thumb.png</thumbnail>
+		<fanart>./images/raystorm-fanart.jpg</fanart>
+		<manual>./manuals/raystorm-manual.pdf</manual>
 		<rating>0.9</rating>
 		<releasedate>19960101T000000</releasedate>
-		<developer>Taito</developer>
-		<publisher>Taito</publisher>
-		<genre>Shoot'em up / Vertical</genre>
-		<family>Gunlock</family>
-		<arcadesystemname>taito</arcadesystemname>
-		<players>1-2</players>
+		<developer>Taito Corporation</developer>
+		<publisher>Taito Corporation</publisher>
+		<genre>Shoot them up</genre>
+		<players>2</players>
 		<md5>fe11897debae78372ee63ffb7c93bba8</md5>
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231018T040617" />
+		<scrap name="HfsDB" date="20231115T094616" />
 		<scrap name="ArcadeDB" date="20231017T153821" />
 	</game>
 	<game id="42852">
@@ -890,364 +973,306 @@ In a future where space travel has existed since 2119. Humans explored space, an
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231018T040622" />
+		<scrap name="HfsDB" date="20231115T094700" />
 		<scrap name="ArcadeDB" date="20231017T153824" />
 	</game>
-	<game id="42852">
+	<game>
 		<path>./roms/rvschool.zip</path>
 		<name>Rival Schools: United By Fate</name>
-		<desc>The story of Rival Schools introduces the player to a Japanese city called Aoharu City, where several local schools are the victims of unknown attacks and kidnappings of students and staff. The various characters in the game set out to find who is responsible for the attacks on their school, with the cut-scenes and fights portraying their interactions with the other schools and among themselves. Eventually, the story reveals that an elite school in the city, Justice High, is responsible for the attacks. The player's team eventually faces off against Raizo Imawano, the principal of the school, and first boss of the game. If certain requirements are met during the fight against Raizo, the story would continue as the player would then head into a true final boss fight against Hyo Imawano, Raizo's nephew and the true mastermind behind the events of the game.</desc>
 		<image>./images/rvschool-image.png</image>
 		<video>./videos/rvschool-video.mp4</video>
 		<marquee>./images/rvschool-marquee.png</marquee>
 		<thumbnail>./images/rvschool-thumb.png</thumbnail>
 		<fanart>./images/rvschool-fanart.jpg</fanart>
-		<bezel>./images/rvschool-bezel.png</bezel>
 		<releasedate>19970101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Fight / Versus</genre>
-		<family>Rival Schools</family>
-		<arcadesystemname>capcom</arcadesystemname>
-		<players>1-2</players>
+		<genre>Combat</genre>
+		<players>2</players>
 		<md5>2ff0dba2f825d5b7c8d23bc859ab4680</md5>
 		<lang>en</lang>
 		<region>eu</region>
 		<scrap name="ScreenScraper" date="20231018T040628" />
+		<scrap name="HfsDB" date="20231115T094700" />
 		<scrap name="ArcadeDB" date="20231017T153826" />
 	</game>
-	<game id="42992">
+	<game>
 		<path>./roms/sfex.zip</path>
 		<name>Street Fighter EX</name>
-		<desc>Street Fighter EX is a spin-off of the iconic Street Fighter series by Capcom, keeping the 2D fighting system, but using 3D graphics.</desc>
 		<image>./images/sfex-image.png</image>
 		<video>./videos/sfex-video.mp4</video>
 		<marquee>./images/sfex-marquee.png</marquee>
 		<thumbnail>./images/sfex-thumb.png</thumbnail>
 		<fanart>./images/sfex-fanart.jpg</fanart>
-		<bezel>./images/sfex-bezel.png</bezel>
+		<manual>./manuals/sfex-manual.pdf</manual>
 		<rating>0.7</rating>
 		<releasedate>19960101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Fight / Versus</genre>
-		<family>Street Fighter</family>
-		<arcadesystemname>capcom</arcadesystemname>
-		<players>1-2</players>
+		<developer>Arika</developer>
+		<genre>Combat</genre>
+		<players>2</players>
 		<md5>f9d46b4481b319a24c543af5898a7426</md5>
 		<lang>en</lang>
 		<region>eu</region>
 		<scrap name="ScreenScraper" date="20231018T040633" />
+		<scrap name="HfsDB" date="20231115T094702" />
 		<scrap name="ArcadeDB" date="20231017T153829" />
 	</game>
-	<game id="42993">
+	<game>
 		<path>./roms/sfex2.zip</path>
 		<name>Street Fighter EX2</name>
-		<desc>Street Fighter EX2 is a 3-D game, in the normally-2-D Street Fighter game series.</desc>
 		<image>./images/sfex2-image.png</image>
 		<video>./videos/sfex2-video.mp4</video>
 		<marquee>./images/sfex2-marquee.png</marquee>
 		<thumbnail>./images/sfex2-thumb.png</thumbnail>
 		<fanart>./images/sfex2-fanart.jpg</fanart>
-		<bezel>./images/sfex2-bezel.png</bezel>
+		<manual>./manuals/sfex2-manual.pdf</manual>
 		<rating>0.7</rating>
 		<releasedate>19980101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Fight / Versus</genre>
-		<family>Street Fighter</family>
-		<arcadesystemname>capcom</arcadesystemname>
-		<players>1-2</players>
+		<genre>Combat</genre>
+		<players>2</players>
 		<md5>a7df58b87f5d87fb856a32975880089f</md5>
 		<lang>en</lang>
 		<region>eu</region>
 		<scrap name="ScreenScraper" date="20231018T040639" />
+		<scrap name="HfsDB" date="20231115T094702" />
 		<scrap name="ArcadeDB" date="20231017T153833" />
 	</game>
-	<game id="42993">
+	<game>
 		<path>./roms/sfex2j.zip</path>
 		<name>Street Fighter EX2</name>
-		<desc>Street Fighter EX2 is a 3-D game, in the normally-2-D Street Fighter game series.</desc>
 		<image>./images/sfex2j-image.png</image>
 		<video>./videos/sfex2j-video.mp4</video>
 		<marquee>./images/sfex2j-marquee.png</marquee>
 		<thumbnail>./images/sfex2j-thumb.png</thumbnail>
 		<fanart>./images/sfex2j-fanart.jpg</fanart>
-		<bezel>./images/sfex2j-bezel.png</bezel>
+		<manual>./manuals/sfex2j-manual.pdf</manual>
 		<rating>0.7</rating>
 		<releasedate>19980101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Fight / Versus</genre>
-		<family>Street Fighter</family>
-		<arcadesystemname>capcom</arcadesystemname>
-		<players>1-2</players>
+		<genre>Combat</genre>
+		<players>2</players>
 		<md5>365620a6a93ce7270294a255a6c1cf2a</md5>
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231018T040643" />
+		<scrap name="HfsDB" date="20231115T094703" />
 		<scrap name="ArcadeDB" date="20231017T153837" />
 	</game>
-	<game id="42994">
+	<game>
 		<path>./roms/sfex2p.zip</path>
 		<name>Street Fighter EX2 Plus</name>
-		<desc>This is an improved Street Fighter EX 2 version, including the various game modes of Street Fighter EX+, notably the Expert mode, which was the main feature of the original title. It adds various bonuses, like the satellite destruction, or the fight against a Cycloid, which can only be beaten in the new Excel mode, the new gameplay mechanic of EX 2.</desc>
 		<image>./images/sfex2p-image.png</image>
 		<video>./videos/sfex2p-video.mp4</video>
 		<marquee>./images/sfex2p-marquee.png</marquee>
 		<thumbnail>./images/sfex2p-thumb.png</thumbnail>
 		<fanart>./images/sfex2p-fanart.jpg</fanart>
-		<bezel>./images/sfex2p-bezel.png</bezel>
+		<manual>./manuals/sfex2p-manual.pdf</manual>
 		<rating>0.7</rating>
 		<releasedate>19990101T000000</releasedate>
 		<developer>Arika</developer>
-		<publisher>Capcom</publisher>
-		<genre>Fight / Versus</genre>
-		<family>Street Fighter</family>
-		<arcadesystemname>capcom</arcadesystemname>
-		<players>1-2</players>
+		<genre>Combat</genre>
+		<players>2</players>
 		<md5>fa09bf9c1471595d8b5d55c074664c7c</md5>
 		<lang>en</lang>
 		<region>eu</region>
 		<scrap name="ScreenScraper" date="20231018T040649" />
+		<scrap name="HfsDB" date="20231115T094703" />
 		<scrap name="ArcadeDB" date="20231017T153840" />
 	</game>
-	<game id="42994">
+	<game>
 		<path>./roms/sfex2pa.zip</path>
 		<name>Street Fighter EX2 Plus</name>
-		<desc>This is an improved Street Fighter EX 2 version, including the various game modes of Street Fighter EX+, notably the Expert mode, which was the main feature of the original title. It adds various bonuses, like the satellite destruction, or the fight against a Cycloid, which can only be beaten in the new Excel mode, the new gameplay mechanic of EX 2.</desc>
 		<image>./images/sfex2pa-image.png</image>
 		<video>./videos/sfex2pa-video.mp4</video>
 		<marquee>./images/sfex2pa-marquee.png</marquee>
 		<thumbnail>./images/sfex2pa-thumb.png</thumbnail>
 		<fanart>./images/sfex2pa-fanart.jpg</fanart>
-		<bezel>./images/sfex2pa-bezel.png</bezel>
+		<manual>./manuals/sfex2pa-manual.pdf</manual>
 		<rating>0.7</rating>
 		<releasedate>19990101T000000</releasedate>
 		<developer>Arika</developer>
-		<publisher>Capcom</publisher>
-		<genre>Fight / Versus</genre>
-		<family>Street Fighter</family>
-		<arcadesystemname>capcom</arcadesystemname>
-		<players>1-2</players>
+		<genre>Combat</genre>
+		<players>2</players>
 		<md5>83b87fca65e02f0c154639930a52ca3a</md5>
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231018T040653" />
+		<scrap name="HfsDB" date="20231115T094704" />
 		<scrap name="ArcadeDB" date="20231017T153843" />
 	</game>
-	<game id="42994">
+	<game>
 		<path>./roms/sfex2pj.zip</path>
 		<name>Street Fighter EX2 Plus</name>
-		<desc>This is an improved Street Fighter EX 2 version, including the various game modes of Street Fighter EX+, notably the Expert mode, which was the main feature of the original title. It adds various bonuses, like the satellite destruction, or the fight against a Cycloid, which can only be beaten in the new Excel mode, the new gameplay mechanic of EX 2.</desc>
 		<image>./images/sfex2pj-image.png</image>
 		<video>./videos/sfex2pj-video.mp4</video>
 		<marquee>./images/sfex2pj-marquee.png</marquee>
 		<thumbnail>./images/sfex2pj-thumb.png</thumbnail>
 		<fanart>./images/sfex2pj-fanart.jpg</fanart>
-		<bezel>./images/sfex2pj-bezel.png</bezel>
+		<manual>./manuals/sfex2pj-manual.pdf</manual>
 		<rating>0.7</rating>
 		<releasedate>19990101T000000</releasedate>
 		<developer>Arika</developer>
-		<publisher>Capcom</publisher>
-		<genre>Fight / Versus</genre>
-		<family>Street Fighter</family>
-		<arcadesystemname>capcom</arcadesystemname>
-		<players>1-2</players>
+		<genre>Combat</genre>
+		<players>2</players>
 		<md5>ffb0dea095827268d96227fa2ff3673d</md5>
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231018T040657" />
+		<scrap name="HfsDB" date="20231115T094704" />
 		<scrap name="ArcadeDB" date="20231017T153845" />
 	</game>
-	<game id="42992">
+	<game>
 		<path>./roms/sfexa.zip</path>
 		<name>Street Fighter EX</name>
-		<desc>Street Fighter EX is a spin-off of the iconic Street Fighter series by Capcom, keeping the 2D fighting system, but using 3D graphics.</desc>
 		<image>./images/sfexa-image.png</image>
 		<video>./videos/sfexa-video.mp4</video>
 		<marquee>./images/sfexa-marquee.png</marquee>
 		<thumbnail>./images/sfexa-thumb.png</thumbnail>
 		<fanart>./images/sfexa-fanart.jpg</fanart>
-		<bezel>./images/sfexa-bezel.png</bezel>
+		<manual>./manuals/sfexa-manual.pdf</manual>
 		<rating>0.7</rating>
 		<releasedate>19960101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Fight / Versus</genre>
-		<family>Street Fighter</family>
-		<arcadesystemname>capcom</arcadesystemname>
-		<players>1-2</players>
+		<developer>Arika</developer>
+		<genre>Combat</genre>
+		<players>2</players>
 		<md5>0661490a519f1d9ab6168307bafaa1da</md5>
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231018T040702" />
+		<scrap name="HfsDB" date="20231115T094705" />
 		<scrap name="ArcadeDB" date="20231017T153848" />
 	</game>
-	<game id="42992">
+	<game>
 		<path>./roms/sfexj.zip</path>
 		<name>Street Fighter EX</name>
-		<desc>Street Fighter EX is a spin-off of the iconic Street Fighter series by Capcom, keeping the 2D fighting system, but using 3D graphics.</desc>
 		<image>./images/sfexj-image.png</image>
 		<video>./videos/sfexj-video.mp4</video>
 		<marquee>./images/sfexj-marquee.png</marquee>
 		<thumbnail>./images/sfexj-thumb.png</thumbnail>
 		<fanart>./images/sfexj-fanart.jpg</fanart>
-		<bezel>./images/sfexj-bezel.png</bezel>
+		<manual>./manuals/sfexj-manual.pdf</manual>
 		<rating>0.7</rating>
 		<releasedate>19960101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Fight / Versus</genre>
-		<family>Street Fighter</family>
-		<arcadesystemname>capcom</arcadesystemname>
-		<players>1-2</players>
+		<developer>Arika</developer>
+		<genre>Combat</genre>
+		<players>2</players>
 		<md5>cefa14eacfd24e85c651495ba5985d07</md5>
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231018T040706" />
+		<scrap name="HfsDB" date="20231115T094705" />
 		<scrap name="ArcadeDB" date="20231017T153850" />
 	</game>
-	<game id="42995">
+	<game>
 		<path>./roms/sfexp.zip</path>
 		<name>Street Fighter EX Plus</name>
-		<desc>This arcade-only update of Street Fighter EX makes some hidden characters selectable.</desc>
 		<image>./images/sfexp-image.png</image>
 		<video>./videos/sfexp-video.mp4</video>
 		<marquee>./images/sfexp-marquee.png</marquee>
 		<thumbnail>./images/sfexp-thumb.png</thumbnail>
 		<fanart>./images/sfexp-fanart.jpg</fanart>
-		<bezel>./images/sfexp-bezel.png</bezel>
 		<rating>0.7</rating>
 		<releasedate>19970101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Fight / Versus</genre>
-		<family>Street Fighter</family>
-		<arcadesystemname>capcom</arcadesystemname>
-		<players>1-2</players>
+		<developer>Arika</developer>
+		<genre>Combat</genre>
+		<players>2</players>
 		<md5>bfa27bcd1b07b2ca73725d0319d023c4</md5>
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231018T040712" />
+		<scrap name="HfsDB" date="20231115T094705" />
 		<scrap name="ArcadeDB" date="20231017T153853" />
 	</game>
-	<game id="42995">
+	<game>
 		<path>./roms/sfexpj.zip</path>
 		<name>Street Fighter EX Plus</name>
-		<desc>This arcade-only update of Street Fighter EX makes some hidden characters selectable.</desc>
 		<image>./images/sfexpj-image.png</image>
 		<video>./videos/sfexpj-video.mp4</video>
 		<marquee>./images/sfexpj-marquee.png</marquee>
 		<thumbnail>./images/sfexpj-thumb.png</thumbnail>
 		<fanart>./images/sfexpj-fanart.jpg</fanart>
-		<bezel>./images/sfexpj-bezel.png</bezel>
 		<rating>0.7</rating>
 		<releasedate>19970101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Fight / Versus</genre>
-		<family>Street Fighter</family>
-		<arcadesystemname>capcom</arcadesystemname>
-		<players>1-2</players>
+		<developer>Arika</developer>
+		<genre>Combat</genre>
+		<players>2</players>
 		<md5>58ca3a28c664ecd244b0caa846a89da8</md5>
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231018T040717" />
+		<scrap name="HfsDB" date="20231115T094706" />
 		<scrap name="ArcadeDB" date="20231017T153856" />
 	</game>
-	<game id="42995">
+	<game>
 		<path>./roms/sfexpu1.zip</path>
 		<name>Street Fighter EX Plus</name>
-		<desc>This arcade-only update of Street Fighter EX makes some hidden characters selectable.</desc>
 		<image>./images/sfexpu1-image.png</image>
 		<video>./videos/sfexpu1-video.mp4</video>
 		<marquee>./images/sfexpu1-marquee.png</marquee>
 		<thumbnail>./images/sfexpu1-thumb.png</thumbnail>
 		<fanart>./images/sfexpu1-fanart.jpg</fanart>
-		<bezel>./images/sfexpu1-bezel.png</bezel>
 		<rating>0.7</rating>
 		<releasedate>19970101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Fight / Versus</genre>
-		<family>Street Fighter</family>
-		<arcadesystemname>capcom</arcadesystemname>
-		<players>1-2</players>
+		<developer>Arika</developer>
+		<genre>Combat</genre>
+		<players>2</players>
 		<md5>460b645eb12cd8f5989bf45a238b7480</md5>
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231018T040722" />
+		<scrap name="HfsDB" date="20231115T094706" />
 		<scrap name="ArcadeDB" date="20231017T153858" />
 	</game>
-	<game id="43396">
+	<game>
 		<path>./roms/shiryu2.zip</path>
-		<name>Strider 2</name>
-		<desc>Strider Hiryu 2 is a direct sequel to the superb 1989 original, the player once again takes on the role of Strider Hiryu; a ninja who wields a deadly plasma-ejecting cypher called the 'Falchion'. Players start the game by selecting one of three difficult missions, with a fourth becoming available once the initial three are completed. Completing the fourth mission will unlock the final 'boss' mission, in which the player must battle a number of bosses which includes the rogue 'Strider Hien' from the first Strider game. Once all missions are completed, the character of Strider Hien - who wields two ranged cyphers - is unlocked.</desc>
+		<name>Strider Hiryu 2</name>
 		<image>./images/shiryu2-image.png</image>
 		<video>./videos/shiryu2-video.mp4</video>
 		<marquee>./images/shiryu2-marquee.png</marquee>
 		<thumbnail>./images/shiryu2-thumb.png</thumbnail>
 		<fanart>./images/shiryu2-fanart.jpg</fanart>
-		<bezel>./images/shiryu2-bezel.png</bezel>
 		<releasedate>19990101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Platform / Fighter Scrolling</genre>
-		<family>Strider</family>
-		<arcadesystemname>capcom</arcadesystemname>
+		<genre>Plate-formes</genre>
 		<players>1</players>
 		<md5>13a600f34ddb70ae9eef4a8b2c47bb93</md5>
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231018T040726" />
+		<scrap name="HfsDB" date="20231115T094706" />
 		<scrap name="ArcadeDB" date="20231017T153900" />
 	</game>
-	<game id="43047">
+	<game>
 		<path>./roms/shngmtkb.zip</path>
 		<name>Shanghai Matekibuyuu</name>
 		<image>./images/shngmtkb-image.png</image>
 		<video>./videos/shngmtkb-video.mp4</video>
 		<marquee>./images/shngmtkb-marquee.png</marquee>
 		<thumbnail>./images/shngmtkb-thumb.png</thumbnail>
+		<fanart>./images/shngmtkb-fanart.png</fanart>
 		<rating>0.7</rating>
 		<releasedate>19980101T000000</releasedate>
-		<developer>Sunsoft</developer>
-		<publisher>Sunsoft</publisher>
-		<genre>Puzzle-Game / Equalize</genre>
-		<family>Shanghai</family>
-		<players>1-2</players>
+		<genre>Reflexion</genre>
+		<players>2</players>
 		<md5>6c20a73d7ce597737dc8cb3b9a9fdcb8</md5>
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231018T040730" />
+		<scrap name="HfsDB" date="20231115T094707" />
 		<scrap name="ArcadeDB" date="20231017T153902" />
 	</game>
-	<game id="39948">
+	<game>
 		<path>./roms/sncwgltd.zip</path>
-		<name>Aero Fighters Special</name>
-		<desc>A vertical scrolling shooter for 1 or 2 players. Controls are directional and 2 buttons. Button 1 fires your main weapon and button 2 fires your special.
-
-You choose from one of four nation's aircraft: US, Japan, Russia, France, Sweden or The UN. Once chosen you embark on various missions.
-
-During the mission you shoot various baddies and at the end of the level you fight a boss. Power-ups are available during the mission and these either recharge your special weapon or upgrade your main weapon. All main weapon upgrades are lost on death and your special is restored to the default number of uses.
-
-When playing as player 2 you get a different plane type. 2 player mode is co-operative.</desc>
+		<name>Sonic Wings Limited</name>
 		<image>./images/sncwgltd-image.png</image>
 		<video>./videos/sncwgltd-video.mp4</video>
 		<marquee>./images/sncwgltd-marquee.png</marquee>
 		<thumbnail>./images/sncwgltd-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19960101T000000</releasedate>
-		<developer>Video System</developer>
-		<publisher>Video System</publisher>
-		<genre>Shoot'em up / Vertical</genre>
-		<family>Aero Fighters</family>
-		<arcadesystemname>vsc</arcadesystemname>
-		<players>1-2</players>
+		<genre>Shoot them up</genre>
+		<players>2</players>
 		<md5>a2d3960a905730081066563c5e840355</md5>
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231018T040734" />
+		<scrap name="HfsDB" date="20231115T094707" />
 		<scrap name="ArcadeDB" date="20231017T153904" />
 	</game>
 	<game id="43187">
@@ -1271,6 +1296,7 @@ When playing as player 2 you get a different plane type. 2 player mode is co-ope
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231018T040738" />
+		<scrap name="HfsDB" date="20231115T094707" />
 		<scrap name="ArcadeDB" date="20231017T153907" />
 	</game>
 	<game id="43187">
@@ -1294,63 +1320,51 @@ When playing as player 2 you get a different plane type. 2 player mode is co-ope
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231018T040743" />
+		<scrap name="HfsDB" date="20231115T094708" />
 		<scrap name="ArcadeDB" date="20231017T153909" />
 	</game>
-	<game id="43187">
+	<game>
 		<path>./roms/souledge.zip</path>
 		<name>Soul Edge Ver. II</name>
-		<desc>This Ver. II of Soul Edge has improved graphics and new selectable characters.</desc>
 		<image>./images/souledge-image.png</image>
 		<video>./videos/souledge-video.mp4</video>
 		<marquee>./images/souledge-marquee.png</marquee>
 		<thumbnail>./images/souledge-thumb.png</thumbnail>
 		<fanart>./images/souledge-fanart.jpg</fanart>
-		<bezel>./images/souledge-bezel.png</bezel>
+		<manual>./manuals/souledge-manual.pdf</manual>
 		<rating>0.6</rating>
 		<releasedate>19960101T000000</releasedate>
-		<publisher>Namco</publisher>
-		<genre>Fight / Versus</genre>
-		<family>Soul Edge</family>
-		<arcadesystemname>namco</arcadesystemname>
-		<players>1-2</players>
+		<genre>Combat</genre>
+		<players>2</players>
 		<md5>be90b04afef2e92053f4e53a2cb01ce0</md5>
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231018T040749" />
+		<scrap name="HfsDB" date="20231115T094708" />
 		<scrap name="ArcadeDB" date="20231017T153913" />
 	</game>
-	<game id="43351">
+	<game>
 		<path>./roms/starglad.zip</path>
 		<name>Star Gladiator Episode I: Final Crusade</name>
-		<desc>Set in the 24th Century, this 3D fighter pits humans against humanoids. Combo systems and counter attacks are all there, as well as some strange characters, especially Saturn who uses two yo-yos as his main weapon.
-
-Characters special moves in this game are called Plasma Combos and they are triggered by putting together a series of basic attacks. There are three types Plasma Combos, Hayato and Gerelt have Type A combos, Gamof, Saturn, Vector and Gore have Type B, and Zelkin, Rimgal and June have Type K. There's also a Plasma Final attack which becomes available if, after the fifth Plasma Combo, the player executes a special attack followed by pressing a specific direction button (the manual does not say what these are - it's up to the player to work it out)</desc>
 		<image>./images/starglad-image.png</image>
 		<video>./videos/starglad-video.mp4</video>
 		<marquee>./images/starglad-marquee.png</marquee>
 		<thumbnail>./images/starglad-thumb.png</thumbnail>
 		<fanart>./images/starglad-fanart.jpg</fanart>
-		<bezel>./images/starglad-bezel.png</bezel>
 		<rating>0.7</rating>
 		<releasedate>19960101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Fight / Versus</genre>
-		<family>Star Gladiator</family>
-		<arcadesystemname>capcom</arcadesystemname>
-		<players>1-2</players>
+		<genre>Combat</genre>
+		<players>2</players>
 		<md5>5e25828fabc67b1c71aebc3eb974ab63</md5>
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231018T040755" />
+		<scrap name="HfsDB" date="20231115T094709" />
 		<scrap name="ArcadeDB" date="20231017T153915" />
 	</game>
-	<game id="42419">
+	<game>
 		<path>./roms/stargld2.zip</path>
-		<name>Plasma Sword: Nightmare of Bilstein</name>
-		<desc>Plasma Sword: Nightmare of Bilstein is the successor of Star Gladiator released for Playstation. Like its predecessor it was first released on Arcade before being ported to the Dreamcast.
-
-The game features 22 anime-like characters in a 3-dimensional futuristic world, except for the backgrounds and the menus, which are plain 2D bitmaps without a lot of movement. The stages are unlimited in all directions, so it's not possible to fall off the edge. The speciality of this game are the so called "plasma moves", visually very appealing special moves which fill the screen and can be executed when you have collected enough "plasma power". Despite of the 22 characters there are only 11 different move layouts, as one layout is shared by two characters.</desc>
+		<name>Star Gladiator 2: Nightmare of Bilstein</name>
 		<image>./images/stargld2-image.png</image>
 		<video>./videos/stargld2-video.mp4</video>
 		<marquee>./images/stargld2-marquee.png</marquee>
@@ -1358,224 +1372,130 @@ The game features 22 anime-like characters in a 3-dimensional futuristic world, 
 		<fanart>./images/stargld2-fanart.jpg</fanart>
 		<rating>0.9</rating>
 		<releasedate>19980101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Fight / Versus</genre>
-		<family>Star Gladiator</family>
-		<arcadesystemname>capcom</arcadesystemname>
-		<players>1-2</players>
+		<genre>Combat</genre>
+		<players>2</players>
 		<md5>daa7c04d8f06ef474dc95fda707eec71</md5>
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231018T040800" />
+		<scrap name="HfsDB" date="20231115T094709" />
 		<scrap name="ArcadeDB" date="20231017T153917" />
 	</game>
-	<game id="43359">
+	<game>
 		<path>./roms/starswep.zip</path>
 		<name>Star Sweep</name>
-		<desc>In this vaguely Tetris-like game, players score points by eliminating "star blocks." A star block is a colored rectangle with a star on one end of it, and blocks are eliminated when the stars of two like-colored blocks touch each other. While the game is being played, star blocks and obstacles rise from the bottom of the screen while the player moves and rotates a cursor which determines where additional star blocks will be thrown into play from off-screen. The game features single-player and competitive play as well as a story mode featuring boss creatures and a bizarre plot -- apparently the whole game is actually a sport in which children poke a creature known as a star pig with sticks in order to make it vomit star blocks.</desc>
 		<image>./images/starswep-image.png</image>
 		<video>./videos/starswep-video.mp4</video>
 		<marquee>./images/starswep-marquee.png</marquee>
 		<thumbnail>./images/starswep-thumb.png</thumbnail>
+		<fanart>./images/starswep-fanart.png</fanart>
 		<rating>0.9</rating>
 		<releasedate>19970101T000000</releasedate>
-		<developer>Axela</developer>
-		<publisher>Axela</publisher>
-		<genre>Puzzle-Game</genre>
-		<arcadesystemname>namco</arcadesystemname>
-		<players>1-2</players>
+		<genre>Reflexion</genre>
+		<players>2</players>
 		<md5>1b6fda7484f1810485ef8caa7227cd7c</md5>
 		<lang>en</lang>
 		<region>wr</region>
 		<scrap name="ScreenScraper" date="20231018T040803" />
+		<scrap name="HfsDB" date="20231115T094710" />
 		<scrap name="ArcadeDB" date="20231017T153918" />
 	</game>
-	<game id="43396">
+	<game>
 		<path>./roms/strider2.zip</path>
 		<name>Strider 2</name>
-		<desc>Strider Hiryu 2 is a direct sequel to the superb 1989 original, the player once again takes on the role of Strider Hiryu; a ninja who wields a deadly plasma-ejecting cypher called the 'Falchion'. Players start the game by selecting one of three difficult missions, with a fourth becoming available once the initial three are completed. Completing the fourth mission will unlock the final 'boss' mission, in which the player must battle a number of bosses which includes the rogue 'Strider Hien' from the first Strider game. Once all missions are completed, the character of Strider Hien - who wields two ranged cyphers - is unlocked.</desc>
 		<image>./images/strider2-image.png</image>
 		<video>./videos/strider2-video.mp4</video>
 		<marquee>./images/strider2-marquee.png</marquee>
 		<thumbnail>./images/strider2-thumb.png</thumbnail>
 		<fanart>./images/strider2-fanart.jpg</fanart>
-		<bezel>./images/strider2-bezel.png</bezel>
+		<manual>./manuals/strider2-manual.pdf</manual>
 		<releasedate>19990101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Platform / Fighter Scrolling</genre>
-		<family>Strider</family>
-		<arcadesystemname>capcom</arcadesystemname>
+		<genre>Plate-formes</genre>
 		<players>1</players>
 		<md5>c4b1c687c0a8801e52398734255ce5c3</md5>
 		<lang>en</lang>
 		<region>eu</region>
 		<scrap name="ScreenScraper" date="20231018T040810" />
+		<scrap name="HfsDB" date="20231115T094710" />
 		<scrap name="ArcadeDB" date="20231017T153920" />
 	</game>
-	<game id="60767">
+	<game>
 		<path>./roms/susume.zip</path>
-		<name>Let's Attack Crazy Cross</name>
+		<name>Susume! Taisen Puzzle-Dama</name>
 		<image>./images/susume-image.png</image>
 		<video>./videos/susume-video.mp4</video>
 		<marquee>./images/susume-marquee.png</marquee>
 		<thumbnail>./images/susume-thumb.png</thumbnail>
 		<rating>0.6</rating>
 		<releasedate>19960101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Puzzle-Game / Fall</genre>
-		<arcadesystemname>konami</arcadesystemname>
+		<genre>Reflexion</genre>
+		<players>2</players>
 		<md5>0bde9a6a2aef1055279ecfb723e29cae</md5>
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231018T040815" />
+		<scrap name="HfsDB" date="20231115T094711" />
 		<scrap name="ArcadeDB" date="20231017T153920" />
 	</game>
-	<game id="43542">
+	<game>
 		<path>./roms/techromn.zip</path>
-		<name>Tech Romancer</name>
-		<desc>Tech Romancer is a futuristic robotic 3-D fighting game from Capcom that draws heavily from the various subgenres of mecha anime.</desc>
+		<name>Choukou Senki Kikaioh</name>
 		<image>./images/techromn-image.png</image>
 		<video>./videos/techromn-video.mp4</video>
 		<marquee>./images/techromn-marquee.png</marquee>
 		<thumbnail>./images/techromn-thumb.png</thumbnail>
 		<fanart>./images/techromn-fanart.jpg</fanart>
+		<manual>./manuals/techromn-manual.pdf</manual>
 		<releasedate>19980101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Fight / Versus</genre>
-		<arcadesystemname>capcom</arcadesystemname>
-		<players>1-2</players>
+		<genre>Combat</genre>
+		<players>2</players>
 		<md5>5ff9d319a9fe8f96465fcade2bb7a427</md5>
 		<lang>en</lang>
 		<region>eu</region>
 		<scrap name="ScreenScraper" date="20231018T040822" />
+		<scrap name="HfsDB" date="20231115T094711" />
 		<scrap name="ArcadeDB" date="20231017T153924" />
 	</game>
-	<game id="43549">
+	<game>
 		<path>./roms/tekken.zip</path>
 		<name>Tekken</name>
-		<desc>World's 8 best martial artists emerge into 'The King Of Iron Fist Tournament' for winning the title of King of Iron Fist and a large purse of prize money. Every artist will try his best to defeat Heihachi and win the prize money and fame.</desc>
 		<image>./images/tekken-image.png</image>
 		<video>./videos/tekken-video.mp4</video>
 		<marquee>./images/tekken-marquee.png</marquee>
 		<thumbnail>./images/tekken-thumb.png</thumbnail>
-		<bezel>./images/tekken-bezel.png</bezel>
+		<fanart>./images/tekken-fanart.png</fanart>
+		<manual>./manuals/tekken-manual.pdf</manual>
 		<rating>0.9</rating>
 		<releasedate>19940101T000000</releasedate>
 		<developer>Namco</developer>
 		<publisher>Namco</publisher>
-		<genre>Fight / Versus</genre>
-		<family>Tekken</family>
-		<arcadesystemname>namco</arcadesystemname>
-		<players>1-2</players>
+		<genre>Combat</genre>
+		<players>2</players>
 		<md5>18e3f15ed16b2791d3b1803aadfc0a8d</md5>
 		<lang>en</lang>
 		<region>wr</region>
 		<scrap name="ScreenScraper" date="20231018T040826" />
+		<scrap name="HfsDB" date="20231115T094712" />
 		<scrap name="ArcadeDB" date="20231017T153926" />
 	</game>
-	<game id="43550">
-		<path>./roms/tekken2.zip</path>
-		<name>Tekken 2</name>
-		<desc>Two years after winning the original 'King of the Iron Fist' tournament, Kazuya Mishima decides to hold a second tournament in an attempt to finish off his father, Heihachi Mishima, in this sequel to 1994 original.
-
-The gameplay in Tekken 2 is identical to that of its predecessor, with one or two players fighting over a series of 3D-rendered backdrops. As before, the fighting system utilises four attack buttons: left punch, right punch, left kick and right kick. Certain button combinations will initiate both standard and special grab and throwing moves.</desc>
-		<image>./images/tekken2-image.png</image>
-		<video>./videos/tekken2-video.mp4</video>
-		<marquee>./images/tekken2-marquee.png</marquee>
-		<thumbnail>./images/tekken2-thumb.png</thumbnail>
-		<fanart>./images/tekken2-fanart.jpg</fanart>
-		<manual>./manuals/tekken2-manual.pdf</manual>
-		<rating>0.7</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<genre>Fight / Versus</genre>
-		<family>Tekken</family>
-		<arcadesystemname>namco</arcadesystemname>
-		<players>1-2</players>
-		<md5>f36660e309fbfe70d13560c20fefbaa9</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20231018T040833" />
-		<scrap name="ArcadeDB" date="20231017T153928" />
-	</game>
-	<game id="43550">
-		<path>./roms/tekken2a.zip</path>
-		<name>Tekken 2</name>
-		<desc>Two years after winning the original 'King of the Iron Fist' tournament, Kazuya Mishima decides to hold a second tournament in an attempt to finish off his father, Heihachi Mishima, in this sequel to 1994 original.
-
-The gameplay in Tekken 2 is identical to that of its predecessor, with one or two players fighting over a series of 3D-rendered backdrops. As before, the fighting system utilises four attack buttons: left punch, right punch, left kick and right kick. Certain button combinations will initiate both standard and special grab and throwing moves.</desc>
-		<image>./images/tekken2a-image.png</image>
-		<video>./videos/tekken2a-video.mp4</video>
-		<marquee>./images/tekken2a-marquee.png</marquee>
-		<thumbnail>./images/tekken2a-thumb.png</thumbnail>
-		<fanart>./images/tekken2a-fanart.jpg</fanart>
-		<manual>./manuals/tekken2a-manual.pdf</manual>
-		<rating>0.7</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<genre>Fight / Versus</genre>
-		<family>Tekken</family>
-		<arcadesystemname>namco</arcadesystemname>
-		<players>1-2</players>
-		<md5>0dfb6a15214a53ee667d03097a166e90</md5>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ScreenScraper" date="20231018T040837" />
-		<scrap name="ArcadeDB" date="20231017T153930" />
-	</game>
-	<game id="43550">
-		<path>./roms/tekken2b.zip</path>
-		<name>Tekken 2</name>
-		<desc>Two years after winning the original 'King of the Iron Fist' tournament, Kazuya Mishima decides to hold a second tournament in an attempt to finish off his father, Heihachi Mishima, in this sequel to 1994 original.
-
-The gameplay in Tekken 2 is identical to that of its predecessor, with one or two players fighting over a series of 3D-rendered backdrops. As before, the fighting system utilises four attack buttons: left punch, right punch, left kick and right kick. Certain button combinations will initiate both standard and special grab and throwing moves.</desc>
-		<image>./images/tekken2b-image.png</image>
-		<video>./videos/tekken2b-video.mp4</video>
-		<marquee>./images/tekken2b-marquee.png</marquee>
-		<thumbnail>./images/tekken2b-thumb.png</thumbnail>
-		<fanart>./images/tekken2b-fanart.jpg</fanart>
-		<manual>./manuals/tekken2b-manual.pdf</manual>
-		<rating>0.7</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<genre>Fight / Versus</genre>
-		<family>Tekken</family>
-		<arcadesystemname>namco</arcadesystemname>
-		<players>1-2</players>
-		<md5>aabf20c2c175dee3ef4d4a73481dcd1b</md5>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ScreenScraper" date="20231018T040842" />
-		<scrap name="ArcadeDB" date="20231017T153933" />
-	</game>
-	<game id="43551">
+	<game>
 		<path>./roms/tekken3.zip</path>
 		<name>Tekken 3</name>
-		<desc>The world's 19 toughest fighters enter The King of Iron Fist Tournament 3, in order to defeat Heihachi, and Ogre, who has taken the souls of many of the world's greatest fighters to adopt its own fighting style. Every character has his own ambition of winning the tournament. A fully 3-D game with one on one concept of fighting.</desc>
 		<image>./images/tekken3-image.png</image>
 		<video>./videos/tekken3-video.mp4</video>
 		<marquee>./images/tekken3-marquee.png</marquee>
 		<thumbnail>./images/tekken3-thumb.png</thumbnail>
 		<fanart>./images/tekken3-fanart.jpg</fanart>
-		<bezel>./images/tekken3-bezel.png</bezel>
-		<releasedate>19960101T000000</releasedate>
+		<releasedate>19970320T000000</releasedate>
 		<developer>Namco</developer>
 		<publisher>Namco</publisher>
-		<genre>Fight / Versus</genre>
-		<family>Tekken</family>
-		<arcadesystemname>namco</arcadesystemname>
-		<players>1-2</players>
+		<genre>Combat</genre>
+		<players>2</players>
 		<md5>a8dc930bdba0b0e57af3096b853c1ba8</md5>
 		<lang>en</lang>
 		<region>wr</region>
 		<scrap name="ScreenScraper" date="20231018T040849" />
+		<scrap name="HfsDB" date="20231115T094713" />
 		<scrap name="ArcadeDB" date="20231017T153936" />
 	</game>
 	<game id="43549">
@@ -1599,6 +1519,7 @@ The gameplay in Tekken 2 is identical to that of its predecessor, with one or tw
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231018T040852" />
+		<scrap name="HfsDB" date="20231115T094713" />
 		<scrap name="ArcadeDB" date="20231017T153937" />
 	</game>
 	<game id="43549">
@@ -1622,104 +1543,49 @@ The gameplay in Tekken 2 is identical to that of its predecessor, with one or tw
 		<lang>en</lang>
 		<region>wr</region>
 		<scrap name="ScreenScraper" date="20231018T040855" />
+		<scrap name="HfsDB" date="20231115T094713" />
 		<scrap name="ArcadeDB" date="20231017T153939" />
 	</game>
-	<game id="43581">
+	<game>
 		<path>./roms/tgmj.zip</path>
 		<name>Tetris The Grand Master</name>
-		<desc>A competitive spin on classic Tetris with gameplay fine-tuned for high levels of play.</desc>
 		<image>./images/tgmj-image.png</image>
 		<video>./videos/tgmj-video.mp4</video>
 		<marquee>./images/tgmj-marquee.png</marquee>
 		<thumbnail>./images/tgmj-thumb.png</thumbnail>
 		<fanart>./images/tgmj-fanart.jpg</fanart>
-		<bezel>./images/tgmj-bezel.png</bezel>
 		<rating>0.9</rating>
 		<releasedate>19980101T000000</releasedate>
 		<developer>Arika</developer>
-		<publisher>Capcom</publisher>
-		<genre>Puzzle-Game / Fall</genre>
-		<family>Tetris</family>
-		<arcadesystemname>capcom</arcadesystemname>
-		<players>1-2</players>
+		<genre>Reflexion</genre>
+		<players>2</players>
 		<md5>d344583efc7c50726be4099e6a93c42e</md5>
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231018T040903" />
+		<scrap name="HfsDB" date="20231115T094714" />
 		<scrap name="ArcadeDB" date="20231017T153940" />
 	</game>
-	<game id="43666">
+	<game>
 		<path>./roms/tondemo.zip</path>
 		<name>Tondemo Crisis</name>
-		<desc>A bizarre game, featuring funny mini-games
-
-The game follows each member of a Japanese, working-class family of four members on their bizarre adventures home from their daily routines to get birthday presents for the family's grandmother Haruko. The game consists of several action-oriented minigames strung together and book-ended with pre-rendered cutscenes. The game was designed and scripted by Kenichi Nishi and features music from the Tokyo Ska Paradise Orchestra.</desc>
 		<image>./images/tondemo-image.png</image>
 		<video>./videos/tondemo-video.mp4</video>
 		<marquee>./images/tondemo-marquee.png</marquee>
 		<thumbnail>./images/tondemo-thumb.png</thumbnail>
+		<fanart>./images/tondemo-fanart.png</fanart>
 		<rating>0.9</rating>
 		<releasedate>19990101T000000</releasedate>
-		<developer>Tecmo</developer>
-		<publisher>Tecmo</publisher>
-		<genre>Compilation</genre>
-		<arcadesystemname>tecmo</arcadesystemname>
+		<genre>Party game</genre>
 		<players>1</players>
 		<md5>5d6419631a4b0994f8d1eea3360da567</md5>
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20231018T040908" />
+		<scrap name="HfsDB" date="20231115T094714" />
 		<scrap name="ArcadeDB" date="20231017T153941" />
 	</game>
-	<game id="43762">
-		<path>./roms/ts2.zip</path>
-		<name>Battle Arena Toshinden 2</name>
-		<desc>Battle Arena Toshinden 2 is a 3-D, weapons-based fighting game featuring a total of 15 different fighters - 11 main fighters, 2 hidden fighters and 2 bosses. Battles take place in a number of 3-D rendered arenas. Unlike most other 3-D fighters of the time - in which only the graphics are 3-D, with the actual fighting taking place on a 2-D plane - Battle Arena Toshinden features wholly 3-D gameplay that allows players to dive out of the path of their opponent's attacks.</desc>
-		<image>./images/ts2-image.png</image>
-		<video>./videos/ts2-video.mp4</video>
-		<marquee>./images/ts2-marquee.png</marquee>
-		<thumbnail>./images/ts2-thumb.png</thumbnail>
-		<fanart>./images/ts2-fanart.jpg</fanart>
-		<manual>./manuals/ts2-manual.pdf</manual>
-		<bezel>./images/ts2-bezel.png</bezel>
-		<rating>0.5</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Tamsoft</developer>
-		<publisher>Capcom</publisher>
-		<genre>Fight / Versus</genre>
-		<arcadesystemname>capcom</arcadesystemname>
-		<players>1-2</players>
-		<md5>0c92c319156b3c531a1a3b00d2962c03</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20231018T040914" />
-		<scrap name="ArcadeDB" date="20231017T153943" />
-	</game>
-	<game id="43762">
-		<path>./roms/ts2j.zip</path>
-		<name>Battle Arena Toshinden 2</name>
-		<desc>Battle Arena Toshinden 2 is a 3-D, weapons-based fighting game featuring a total of 15 different fighters - 11 main fighters, 2 hidden fighters and 2 bosses. Battles take place in a number of 3-D rendered arenas. Unlike most other 3-D fighters of the time - in which only the graphics are 3-D, with the actual fighting taking place on a 2-D plane - Battle Arena Toshinden features wholly 3-D gameplay that allows players to dive out of the path of their opponent's attacks.</desc>
-		<image>./images/ts2j-image.png</image>
-		<video>./videos/ts2j-video.mp4</video>
-		<marquee>./images/ts2j-marquee.png</marquee>
-		<thumbnail>./images/ts2j-thumb.png</thumbnail>
-		<fanart>./images/ts2j-fanart.jpg</fanart>
-		<manual>./manuals/ts2j-manual.pdf</manual>
-		<bezel>./images/ts2j-bezel.png</bezel>
-		<rating>0.5</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Tamsoft</developer>
-		<publisher>Capcom</publisher>
-		<genre>Fight / Versus</genre>
-		<arcadesystemname>capcom</arcadesystemname>
-		<players>1-2</players>
-		<md5>4f6c0f67c32a49da3877cb571c18f49d</md5>
-		<lang>jp</lang>
-		<region>jp</region>
-		<scrap name="ScreenScraper" date="20231018T040919" />
-		<scrap name="ArcadeDB" date="20231017T153945" />
-	</game>
-	<game id="44055">
+	<game>
 		<path>./roms/weddingr.zip</path>
 		<name>Wedding Rhapsody</name>
 		<image>./images/weddingr-image.png</image>
@@ -1728,41 +1594,32 @@ The game follows each member of a Japanese, working-class family of four members
 		<thumbnail>./images/weddingr-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19970101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Quiz / Japanese</genre>
-		<arcadesystemname>konami</arcadesystemname>
-		<players>1-2</players>
+		<genre>Reflexion</genre>
+		<players>2</players>
 		<md5>c94a601940e05e82f1914021e7a9dc33</md5>
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231018T040924" />
+		<scrap name="HfsDB" date="20231115T094714" />
 		<scrap name="ArcadeDB" date="20231017T153946" />
 	</game>
-	<game id="44153">
+	<game>
 		<path>./roms/xevi3dg.zip</path>
-		<name>Xevious 3d/g</name>
-		<desc>An excellent sequel in 3-D.
-
-You are the pilot of the mighty combat aircraft 'Solvalou' and must fly through vast zones full of enemies and armed with the classic weaponry the forward-firing gun for aerial targets, and the bombs to destroying ground-based targets and with the addition of a series of new and powerful weapons. 
-
-This game is a very popular sequel to the "Xevious" saga. It became quite popular because of a good 3-D modelling and nice camera work and featuring a nice BGM and sounds.</desc>
+		<name>Xevious 3D/G</name>
 		<image>./images/xevi3dg-image.png</image>
 		<video>./videos/xevi3dg-video.mp4</video>
 		<marquee>./images/xevi3dg-marquee.png</marquee>
 		<thumbnail>./images/xevi3dg-thumb.png</thumbnail>
+		<fanart>./images/xevi3dg-fanart.png</fanart>
 		<rating>0.9</rating>
 		<releasedate>19950101T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<genre>Shoot'em up / Vertical</genre>
-		<family>Xevious</family>
-		<arcadesystemname>namco</arcadesystemname>
-		<players>1-2</players>
+		<genre>Shoot them up</genre>
+		<players>2</players>
 		<md5>7fc7e040b879d41ad513129832000ed7</md5>
 		<lang>en</lang>
 		<region>wr</region>
 		<scrap name="ScreenScraper" date="20231018T040928" />
+		<scrap name="HfsDB" date="20231115T094802" />
 		<scrap name="ArcadeDB" date="20231017T153948" />
 	</game>
 </gameList>
