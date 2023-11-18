@@ -19362,4 +19362,1186 @@ There are 18 Balance games of which Trampoline target, Hosedown, Desert course, 
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231116T073352" />
 	</game>
+	<game id="12420">
+		<path>./Games/Cabela's Dangerous Hunts 2013 (USA).wua</path>
+		<name>Cabela's Dangerous Hunts 2013</name>
+		<desc>Powered by the all-new Prowler AI system, predators in Dangerous Hunts 2013 are now smarter, and deadlier than ever before. Animals now have the ability to form pack social hierarchies, coordinate complex group tactics and take advantage of the surroundings to set up deadly ambushes. No two scenarios are alike and what worked before will not work so well the next time around.</desc>
+		<image>./images/Cabela's Dangerous Hunts 2013 (USA)-image.jpg</image>
+		<video>./videos/Cabela's Dangerous Hunts 2013 (USA)-video.mp4</video>
+		<marquee>./images/Cabela's Dangerous Hunts 2013 (USA)-marquee.png</marquee>
+		<thumbnail>./images/Cabela's Dangerous Hunts 2013 (USA)-thumb.png</thumbnail>
+		<fanart>./images/Cabela's Dangerous Hunts 2013 (USA)-fanart.jpg</fanart>
+		<rating>0.3</rating>
+		<releasedate>20121203T000000</releasedate>
+		<developer>Cauldron</developer>
+		<publisher>Activision</publisher>
+		<genre>Lightgun Shooter / Hunting</genre>
+		<family>Cabela's</family>
+		<players>1-4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231117T195655" />
+	</game>
+	<game id="12123">
+		<path>./Games/Call of Duty - Black Ops II (USA) (v128).wua</path>
+		<name>Call of Duty : Black Ops II</name>
+		<desc>In the not-too-distant future, two superpowers dominate the world. The United States and China have pushed each other to the brink of destruction. When a cyber-terrorism strike unleashes America's drones against its own cities, the situation goes from bad to full-blown Armageddon. Experience a more branching Call of Duty storyline written by The Dark Knight's David S. Goyer, and set in two eras - 2025 and the 1980s Cold War. Use the GamePad to customize your control scheme mid-battle and shape the outcome of your mission. Call up multiplayer maps, cash in Score Streak rewards (bonuses you'll earn by helping your multiplayer team succeed), and set up your loadout before combat.</desc>
+		<image>./images/Call of Duty - Black Ops II (USA) (v128)-image.jpg</image>
+		<video>./videos/Call of Duty - Black Ops II (USA) (v128)-video.mp4</video>
+		<marquee>./images/Call of Duty - Black Ops II (USA) (v128)-marquee.png</marquee>
+		<thumbnail>./images/Call of Duty - Black Ops II (USA) (v128)-thumb.png</thumbnail>
+		<fanart>./images/Call of Duty - Black Ops II (USA) (v128)-fanart.jpg</fanart>
+		<rating>0.65</rating>
+		<releasedate>20121118T000000</releasedate>
+		<developer>Treyarch</developer>
+		<publisher>Activision</publisher>
+		<genre>Shooter / 1st person</genre>
+		<family>Call Of Duty</family>
+		<players>1-12</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231117T195713" />
+	</game>
+	<game id="12140">
+		<path>./Games/Call of Duty - Ghosts (USA) (DLC) (v112).wua</path>
+		<name>Call of Duty : Ghosts</name>
+		<desc>Outnumbered and Outgunned, but Not Outmatched: Call of Duty: Ghosts is an extraordinary step forward for one of the largest entertainment franchises of all-time. This new chapter in the Call of Duty franchise features a new dynamic where players are on the side of a crippled nation fighting not for freedom, or liberty, but simply to survive. Fueling this all new Call of Duty experience, the franchise's new next-gen engine delivers stunning levels of immersion and performance.</desc>
+		<image>./images/Call of Duty - Ghosts (USA) (DLC) (v112)-image.jpg</image>
+		<video>./videos/Call of Duty - Ghosts (USA) (DLC) (v112)-video.mp4</video>
+		<marquee>./images/Call of Duty - Ghosts (USA) (DLC) (v112)-marquee.png</marquee>
+		<thumbnail>./images/Call of Duty - Ghosts (USA) (DLC) (v112)-thumb.png</thumbnail>
+		<fanart>./images/Call of Duty - Ghosts (USA) (DLC) (v112)-fanart.jpg</fanart>
+		<rating>0.6</rating>
+		<releasedate>20131105T000000</releasedate>
+		<developer>Treyarch</developer>
+		<publisher>Activision</publisher>
+		<genre>Shooter / 1st person</genre>
+		<family>Call Of Duty</family>
+		<players>1-12</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231117T195730" />
+	</game>
+	<game id="12150">
+		<path>./Games/Darksiders II (USA).wua</path>
+		<name>Darksiders II</name>
+		<desc>Awakened by the End of Days, Death, the most feared of the legendary Four Horsemen, embarks on a quest to undo Armageddon. Along the way, Death discovers that there are far worse things than an earthly Apocalypse, and that an ancient grudge may threaten all of Creation. Become the terrifying force which everything fears but nothing can escape. Death Lives, in Darksiders II.</desc>
+		<image>./images/Darksiders II (USA)-image.jpg</image>
+		<video>./videos/Darksiders II (USA)-video.mp4</video>
+		<marquee>./images/Darksiders II (USA)-marquee.png</marquee>
+		<thumbnail>./images/Darksiders II (USA)-thumb.png</thumbnail>
+		<fanart>./images/Darksiders II (USA)-fanart.jpg</fanart>
+		<rating>0.85</rating>
+		<releasedate>20121118T000000</releasedate>
+		<developer>Vigil Games</developer>
+		<publisher>THQ</publisher>
+		<genre>Action / Adventure</genre>
+		<family>Darksiders</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231117T195748" />
+	</game>
+	<game id="245216">
+		<path>./Games/Darksiders Warmastered Edition (USA).wua</path>
+		<name>Darksiders : Warmastered Edition</name>
+		<desc>Deceived by the forces of evil into prematurely bringing about the end of the world, War – the first Horseman of the Apocalypse – stands accused of breaking the sacred law by inciting a war between Heaven and Hell. In the slaughter that ensued, the demonic forces defeated the heavenly hosts and laid claim to the Earth.</desc>
+		<image>./images/Darksiders Warmastered Edition (USA)-image.jpg</image>
+		<video>./videos/Darksiders Warmastered Edition (USA)-video.mp4</video>
+		<marquee>./images/Darksiders Warmastered Edition (USA)-marquee.png</marquee>
+		<thumbnail>./images/Darksiders Warmastered Edition (USA)-thumb.png</thumbnail>
+		<fanart>./images/Darksiders Warmastered Edition (USA)-fanart.jpg</fanart>
+		<rating>0.75</rating>
+		<releasedate>20170523T000000</releasedate>
+		<developer>Kaiko</developer>
+		<publisher>Nordic Games</publisher>
+		<genre>Action / Adventure</genre>
+		<family>Darksiders</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231117T195808" />
+	</game>
+	<game>
+		<path>./Games/DEUS EX HUMAN REV. DIRECTOR'S CUT (USA).wua</path>
+		<name>DEUS EX HUMAN REV. DIRECTOR'S CUT (USA)</name>
+		<scrap name="ScreenScraper" date="20231117T195809" />
+	</game>
+	<game id="12220">
+		<path>./Games/Devil's Third (USA) (v16).wua</path>
+		<name>Devil's Third</name>
+		<desc>From famed Ninja Gaiden designer Tomonobu Itagaki comes an east-meets-west blend of ninja-style melee combat and modern gunplay oozing with savage action. Wage fierce fortress combat in a unique clan-based online multiplayer mode. Or go it alone as Ivan, a brutal ex-mercenary, and survive his all-out war of vengeance… for a guitar.
+
+The online Siege mode lets you create and manage your own clan to compete for power and influence. Customize fortresses to give your clan the advantage when defending against invaders. Or attack other clans' fortresses to conquer their territory and earn clan rewards, like new weapons, customizations, or fortress-building options.
+
+There's also Drill mode, a combination of traditional and off-the-wall online multiplayer options ranging from free-for-all to team matchups, chicken collecting, and even fruit tossing. You can even earn customizable gear and equipment to create your own look and loadout.</desc>
+		<image>./images/Devil's Third (USA) (v16)-image.jpg</image>
+		<video>./videos/Devil's Third (USA) (v16)-video.mp4</video>
+		<marquee>./images/Devil's Third (USA) (v16)-marquee.png</marquee>
+		<thumbnail>./images/Devil's Third (USA) (v16)-thumb.png</thumbnail>
+		<fanart>./images/Devil's Third (USA) (v16)-fanart.jpg</fanart>
+		<rating>0.7</rating>
+		<releasedate>20151211T000000</releasedate>
+		<developer>Valhalla Game Studios</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action / Adventure</genre>
+		<players>1-16</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231117T195828" />
+	</game>
+	<game>
+		<path>./Games/Disney Epic Mickey 2 (USA).wua</path>
+		<name>Disney Epic Mickey 2 (USA)</name>
+		<scrap name="ScreenScraper" date="20231117T195829" />
+	</game>
+	<game id="12182">
+		<path>./Games/Disney Infinity (USA) (v49).wua</path>
+		<name>Disney Infinity</name>
+		<desc>Take on the role of Sulley, the naturally gifted "scarer"; become Captain Jack Sparrow, the sword-wielding pirate; or transform yourself into Mr. Incredible, one of the world's greatest crime-fighters.Battle enemies, solve puzzles, overcome obstacles and complete a variety of other unique quests. Or create your own world! Unlock virtual toys from each Disney Infinity Play set characters, buildings, weapons, gadgets and more – and bring them into the Disney Infinity Toy Box where you can mix them all up to create your own game.You can also add new Disney Infinity Play sets and Figures. Or take your Disney Infinity experience to a whole new level with Disney Infinity Power Discs – an all new way to unlock character powers, fun gadgets and new ways to customise your world.</desc>
+		<video>./videos/Disney Infinity (USA) (v49)-video.mp4</video>
+		<marquee>./images/Disney Infinity (USA) (v49)-marquee.png</marquee>
+		<thumbnail>./images/Disney Infinity (USA) (v49)-thumb.png</thumbnail>
+		<fanart>./images/Disney Infinity (USA) (v49)-fanart.jpg</fanart>
+		<rating>0.75</rating>
+		<releasedate>20130818T000000</releasedate>
+		<developer>Avalanche Software</developer>
+		<publisher>Disney</publisher>
+		<genre>Action / Adventure</genre>
+		<players>1-4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231117T195844" />
+	</game>
+	<game id="12155">
+		<path>./Games/Disney Infinity 2.0 (USA) (v80).wua</path>
+		<name>Disney Infinity 2.0</name>
+		<desc>Play in a game universe where you have endless opportunities to create stories and fun-filled adventures featuring all-new characters and powers! Note: A Disney Infinity Figure and Base are required to play.
+
+Mix, match and mash up characters and worlds in Toy Box 2.0 to create any adventure you can imagine! Use the new Creator tool to quickly build your worlds with ease.</desc>
+		<image>./images/Disney Infinity 2.0 (USA) (v80)-image.jpg</image>
+		<video>./videos/Disney Infinity 2.0 (USA) (v80)-video.mp4</video>
+		<marquee>./images/Disney Infinity 2.0 (USA) (v80)-marquee.png</marquee>
+		<thumbnail>./images/Disney Infinity 2.0 (USA) (v80)-thumb.png</thumbnail>
+		<fanart>./images/Disney Infinity 2.0 (USA) (v80)-fanart.jpg</fanart>
+		<rating>0.8</rating>
+		<releasedate>20140924T000000</releasedate>
+		<developer>Avalanche Software</developer>
+		<publisher>Disney Interactive</publisher>
+		<genre>Action / Adventure</genre>
+		<players>1-4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231117T195902" />
+	</game>
+	<game id="12614">
+		<path>./Games/Disney Infinity 3.0 (USA) (v80).wua</path>
+		<name>Disney Infinity 3.0</name>
+		<desc>Play without limits in this third iteration of Disney Infinity, the game that brings Disney toys to life in expansive video game worlds that encourage fans to mix and match their favorite franchises. Join Forces with some of your favorite characters as you play in their galaxies in story-driven adventures inside Play Sets or create your own universe in the Toy Box!Disney Infinity 3.0 Edition now welcomes Star Wars to the ever-growing collection of Marvel, Disney and Disney-Pixar characters, stories and worlds. And in Toy Box mode, two new multiplayer Toy Box Expansion Games are now available -- Toy Box Speedway (kart racing) and Toy Box Takeover (action-adventure).</desc>
+		<image>./images/Disney Infinity 3.0 (USA) (v80)-image.jpg</image>
+		<video>./videos/Disney Infinity 3.0 (USA) (v80)-video.mp4</video>
+		<marquee>./images/Disney Infinity 3.0 (USA) (v80)-marquee.png</marquee>
+		<thumbnail>./images/Disney Infinity 3.0 (USA) (v80)-thumb.png</thumbnail>
+		<fanart>./images/Disney Infinity 3.0 (USA) (v80)-fanart.jpg</fanart>
+		<rating>0.75</rating>
+		<releasedate>20150830T000000</releasedate>
+		<developer>Avalanche Software</developer>
+		<publisher>Disney Interactive</publisher>
+		<genre>Action / Adventure</genre>
+		<players>1-4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231117T195922" />
+	</game>
+	<game id="12149">
+		<path>./Games/Donkey Kong Country - Tropical Freeze (USA) (v16).wua</path>
+		<name>Donkey Kong Country : Tropical Freeze</name>
+		<desc>Donkey Kong Country: Tropical Freeze is the fifth game in the Donkey Kong Country series and was released exclusively for Nintendo Wii U and later ported to the Nintendo Switch.
+
+While celebrating Donkey Kong's birthday the Kong family witnesses how an invasion fleet of arctic creatures (Snowmad) arrives. The island is frozen over and their flagship takes position on top of the island. This can't go unpunished so the Kong family is off to take back the island.</desc>
+		<image>./images/Donkey Kong Country - Tropical Freeze (USA) (v16)-image.jpg</image>
+		<video>./videos/Donkey Kong Country - Tropical Freeze (USA) (v16)-video.mp4</video>
+		<marquee>./images/Donkey Kong Country - Tropical Freeze (USA) (v16)-marquee.png</marquee>
+		<thumbnail>./images/Donkey Kong Country - Tropical Freeze (USA) (v16)-thumb.png</thumbnail>
+		<fanart>./images/Donkey Kong Country - Tropical Freeze (USA) (v16)-fanart.jpg</fanart>
+		<rating>0.95</rating>
+		<releasedate>20140221T000000</releasedate>
+		<developer>Retro Studios</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<family>Donkey Kong</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231117T195941" />
+	</game>
+	<game id="12142">
+		<path>./Games/FIFA Soccer 13 (USA).wua</path>
+		<name>FIFA Soccer 13</name>
+		<desc>Get a player's-eye view of the action or guide it from above in FIFA 2013, revolutionized for Wii U! The Wii U GamePad gives you total control of the pitch. See the game through a player's perspective as you line up free kicks. Tap any player you want to control, instantly activate touch screen shooting, change formations in real time, send players on runs, and more. Shape the match from the sidelines in Manage Match Mode, where you'll direct players, rally your squad at halftime, and track stats, all from the touch screen. Four players can play while another manages in Co-Op Mode. The action unfolds with HD presentation, high-impact physics, and over 500 officially licensed clubs.</desc>
+		<image>./images/FIFA Soccer 13 (USA)-image.jpg</image>
+		<video>./videos/FIFA Soccer 13 (USA)-video.mp4</video>
+		<marquee>./images/FIFA Soccer 13 (USA)-marquee.png</marquee>
+		<thumbnail>./images/FIFA Soccer 13 (USA)-thumb.png</thumbnail>
+		<fanart>./images/FIFA Soccer 13 (USA)-fanart.jpg</fanart>
+		<rating>0.5</rating>
+		<releasedate>20121118T000000</releasedate>
+		<developer>Electronic Arts</developer>
+		<publisher>EA Sports</publisher>
+		<genre>Sports / Soccer</genre>
+		<family>FIFA</family>
+		<players>1-5</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231117T195959" />
+	</game>
+	<game>
+		<path>./Games/Giana Sisters - Twisted Dreams Director's Cut (USA).wua</path>
+		<name>Giana Sisters - Twisted Dreams Director's Cut (USA)</name>
+		<scrap name="ScreenScraper" date="20231117T200000" />
+	</game>
+	<game id="12609">
+		<path>./Games/Guitar Hero Live (USA) (v96).wua</path>
+		<name>Guitar Hero Live</name>
+		<desc>GH Live, where you can rock real crowds with real reactions and GHTV, a continuous broadcast of playable music videos, with a library of hundreds of videos across multiple genres, there's something for everyone. Make sure you're one of the first to rock out.</desc>
+		<image>./images/Guitar Hero Live (USA) (v96)-image.jpg</image>
+		<video>./videos/Guitar Hero Live (USA) (v96)-video.mp4</video>
+		<marquee>./images/Guitar Hero Live (USA) (v96)-marquee.png</marquee>
+		<thumbnail>./images/Guitar Hero Live (USA) (v96)-thumb.png</thumbnail>
+		<fanart>./images/Guitar Hero Live (USA) (v96)-fanart.jpg</fanart>
+		<rating>0.75</rating>
+		<releasedate>20151010T000000</releasedate>
+		<developer>FreeStyleGames</developer>
+		<publisher>Activision</publisher>
+		<genre>Music and Dance</genre>
+		<family>Guitar Hero</family>
+		<players>1-10</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231117T200024" />
+	</game>
+	<game id="245768">
+		<path>./Games/Hyrule Warriors (USA) (DLC) (v208).wua</path>
+		<name>Hyrule Warriors</name>
+		<desc>Hyrule Warriors, known in Japan as Zelda Mus, is a hack and slash action video game released in Japan on August 14, 2014, and scheduled to be released in the West in September. Developed by Omega Force and Team Ninja for the Wii U video game console, the game is a collaboration between Koei Tecmo and Nintendo, and contains elements of Nintendo's The Legend of Zelda series and Koei Tecmo's Dynasty Warriors series.</desc>
+		<image>./images/Hyrule Warriors (USA) (DLC) (v208)-image.jpg</image>
+		<video>./videos/Hyrule Warriors (USA) (DLC) (v208)-video.mp4</video>
+		<marquee>./images/Hyrule Warriors (USA) (DLC) (v208)-marquee.png</marquee>
+		<thumbnail>./images/Hyrule Warriors (USA) (DLC) (v208)-thumb.png</thumbnail>
+		<fanart>./images/Hyrule Warriors (USA) (DLC) (v208)-fanart.jpg</fanart>
+		<rating>0.8</rating>
+		<releasedate>20140926T000000</releasedate>
+		<developer>OMEGA Force</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Beat'em Up</genre>
+		<family>The Legend of Zelda</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231117T200119" />
+	</game>
+	<game id="12145">
+		<path>./Games/Injustice Gods Among Us (USA) (DLC) (v16).wua</path>
+		<name>Injustice : Gods Among Us</name>
+		<desc>Injustice: Gods Among Us is a fighting game from the creators of the Mortal Kombat series with characters of the DC universe.
+The gameplay consists in a hand-to-hand fighting in a 2D gameplay with 3D elements and characters with some weapons like the Batmobile; some scenarios are taken from DC comics like the Fortress of Solitude (Superman), the Batcave (Batman) and the Watchtower (Justice League); and 28 characters (12 heroes, 12 villains and 4 downloadable) are available in this game.</desc>
+		<video>./videos/Injustice Gods Among Us (USA) (DLC) (v16)-video.mp4</video>
+		<marquee>./images/Injustice Gods Among Us (USA) (DLC) (v16)-marquee.png</marquee>
+		<thumbnail>./images/Injustice Gods Among Us (USA) (DLC) (v16)-thumb.png</thumbnail>
+		<fanart>./images/Injustice Gods Among Us (USA) (DLC) (v16)-fanart.jpg</fanart>
+		<rating>0.8</rating>
+		<releasedate>20130415T000000</releasedate>
+		<developer>NetherRealm Studios</developer>
+		<publisher>Warner Bros. Interactive</publisher>
+		<genre>Fight</genre>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231117T200130" />
+	</game>
+	<game id="12190">
+		<path>./Games/JUST DANCE 2014 (USA) (DLC) (v16).wua</path>
+		<name>Just Dance 2014</name>
+		<desc>Just Dance 2014 is the fifth main game in the dancing series where players are rated for their ability to mimic dance routines to popular songs. For Xbox 360 and Xbox One the whole body movement is analyzed through the Kinect peripheral. The PS3 and PS4 track movement through the PlayStation Eye (optional) and PlayStation Camera respectively along with the Move peripheral, which is optional for the PS4 version. For the Wii and Wii U the Wii Remote is used to track movement and for Wii U the GamePad can be used as a karaoke mike or to direct the scenes with a free-roaming camera. Up to four players dancing simultaneously are supported with up to six for Xbox One. For consoles supporting a microphone, a karaoke mode is supported. There the game does not rate the player's words, but the notes and pitch.</desc>
+		<image>./images/JUST DANCE 2014 (USA) (DLC) (v16)-image.jpg</image>
+		<video>./videos/JUST DANCE 2014 (USA) (DLC) (v16)-video.mp4</video>
+		<marquee>./images/JUST DANCE 2014 (USA) (DLC) (v16)-marquee.png</marquee>
+		<thumbnail>./images/JUST DANCE 2014 (USA) (DLC) (v16)-thumb.png</thumbnail>
+		<fanart>./images/JUST DANCE 2014 (USA) (DLC) (v16)-fanart.jpg</fanart>
+		<rating>0.8</rating>
+		<releasedate>20131001T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Music and Dance</genre>
+		<family>Just Dance</family>
+		<players>1-4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231117T200145" />
+	</game>
+	<game id="12152">
+		<path>./Games/JUST DANCE 2015 (USA) (DLC) (v16).wua</path>
+		<name>Just Dance 2015</name>
+		<desc>Just Dance 2015 is the sixth main game in the dancing series where players perform dance routines, mimicking the moves of on-screen performers, to earn points. The controls are different for each platform. For Wii and Wii U movement is tracked through the Wii Remote, Xbox 360 and Xbox One require the Kinect peripheral, and PS3 and PS4 use the Move controllers along with the PlayStation Eye and PS Camera respectively. You can also download an app to an iOS or Android phone to use it as a controller. The app connects through the local Wi-Fi network and detects the console for the phones to register, based on the technology used in the game Just Dance Now. That way platform-specific peripherals are no longer required.</desc>
+		<image>./images/JUST DANCE 2015 (USA) (DLC) (v16)-image.jpg</image>
+		<video>./videos/JUST DANCE 2015 (USA) (DLC) (v16)-video.mp4</video>
+		<marquee>./images/JUST DANCE 2015 (USA) (DLC) (v16)-marquee.png</marquee>
+		<thumbnail>./images/JUST DANCE 2015 (USA) (DLC) (v16)-thumb.png</thumbnail>
+		<fanart>./images/JUST DANCE 2015 (USA) (DLC) (v16)-fanart.jpg</fanart>
+		<rating>0.8</rating>
+		<releasedate>20141021T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Music and Dance</genre>
+		<family>Just Dance</family>
+		<players>1-4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231117T200203" />
+	</game>
+	<game id="245843">
+		<path>./Games/JUST DANCE 2016 (USA) (DLC) (v32).wua</path>
+		<name>Just Dance 2016</name>
+		<desc>Introducing Just Dance 2016 - the newest game from the top-selling franchise - with a brand new way to play! All you need is your smartphone and the Just Dance Controller App to play Just Dance 2016 on PS4 system, no PlayStationCamera or PlayStationMove needed.
+
+Bust a move to Uptown Funk by Mark Ronson Ft. Bruno Mars and feel the beat in All About That Bass by Meghan Trainor - Just Dance 2016 features an amazing tracklist with visuals that are more creative and breath-taking than ever before. Join over 100MM players and dance to fun favorites and hot hits, today!</desc>
+		<image>./images/JUST DANCE 2016 (USA) (DLC) (v32)-image.jpg</image>
+		<video>./videos/JUST DANCE 2016 (USA) (DLC) (v32)-video.mp4</video>
+		<marquee>./images/JUST DANCE 2016 (USA) (DLC) (v32)-marquee.png</marquee>
+		<thumbnail>./images/JUST DANCE 2016 (USA) (DLC) (v32)-thumb.png</thumbnail>
+		<fanart>./images/JUST DANCE 2016 (USA) (DLC) (v32)-fanart.jpg</fanart>
+		<rating>0.8</rating>
+		<releasedate>20151020T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Music and Dance</genre>
+		<family>Just Dance</family>
+		<players>1-4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231117T200224" />
+	</game>
+	<game id="245849">
+		<path>./Games/JUST DANCE 2017 (USA) (v16).wua</path>
+		<name>Just Dance 2017</name>
+		<desc>Grab your friends and family because it's time to dance! The biggest music video game franchise of all time is back*, with over 60 million units sold**. Just Dance 2017 brings you over 40 new tracks, six game modes, updated content all year long and access to 200+ songs through Just Dance Unlimited! Join a community of more than 118 million players around the world and bust out your best moves! Dance your heart out to Cheap Thrills by Sia Ft. Sean Paul, Lean On by Major Lazer &amp; DJ Snake Ft. MO, and Sorry by Justin Bieber. Relive classics including Don't Stop Me Now by Queen, or if J-Pop is your thing get down to Po Pi Po by Hatsune Miku!</desc>
+		<image>./images/JUST DANCE 2017 (USA) (v16)-image.jpg</image>
+		<video>./videos/JUST DANCE 2017 (USA) (v16)-video.mp4</video>
+		<marquee>./images/JUST DANCE 2017 (USA) (v16)-marquee.png</marquee>
+		<thumbnail>./images/JUST DANCE 2017 (USA) (v16)-thumb.png</thumbnail>
+		<fanart>./images/JUST DANCE 2017 (USA) (v16)-fanart.jpg</fanart>
+		<rating>0.7</rating>
+		<releasedate>20161025T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Music and Dance</genre>
+		<family>Just Dance</family>
+		<players>1-4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231117T200245" />
+	</game>
+	<game id="245852">
+		<path>./Games/JUST DANCE 2018 (USA).wua</path>
+		<name>Just Dance 2018</name>
+		<desc>Whether you’re a party starter, a dancer in the making, or a seasoned pro, get ready to turn up the volume and unleash your inner dancer with Just Dance 2018! Dance to 40 of the hottest tracks of the year, including “24K Magic,” by Bruno Mars, “Side to Side,” by Ariana Grande Ft. Nicki Minaj, “Chantaje,” by Shakira Ft. Maluma, and many more!All you need is your smartphone to start the party. With the revamped World Dance Floor, daily challenges, and the included three-month trial to Just Dance Unlimited* with access to 300+ songs, the fun never stops!*Just Dance Unlimited is an additional subscription service available through Just Dance 2016, Just Dance 2017, and Just Dance 2018.</desc>
+		<image>./images/JUST DANCE 2018 (USA)-image.jpg</image>
+		<video>./videos/JUST DANCE 2018 (USA)-video.mp4</video>
+		<marquee>./images/JUST DANCE 2018 (USA)-marquee.png</marquee>
+		<thumbnail>./images/JUST DANCE 2018 (USA)-thumb.png</thumbnail>
+		<fanart>./images/JUST DANCE 2018 (USA)-fanart.jpg</fanart>
+		<rating>0.7</rating>
+		<releasedate>20171024T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Music and Dance</genre>
+		<family>Just Dance</family>
+		<players>1-4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231117T200303" />
+	</game>
+	<game id="245855">
+		<path>./Games/JUST DANCE 2019 (USA) (v32).wua</path>
+		<name>Just Dance 2019</name>
+		<desc>Just Dance 2019 is the ultimate party game with 40 hot tracks from chart-topping hits to family favorites, including "Finesse (Remix)" by Bruno Mars Ft. Cardi B., "Bang Bang Bang" by BIGBANG, "Shaky Shaky" by Daddy Yankee and more!</desc>
+		<image>./images/JUST DANCE 2019 (USA) (v32)-image.jpg</image>
+		<video>./videos/JUST DANCE 2019 (USA) (v32)-video.mp4</video>
+		<marquee>./images/JUST DANCE 2019 (USA) (v32)-marquee.png</marquee>
+		<thumbnail>./images/JUST DANCE 2019 (USA) (v32)-thumb.png</thumbnail>
+		<fanart>./images/JUST DANCE 2019 (USA) (v32)-fanart.jpg</fanart>
+		<rating>0.7</rating>
+		<releasedate>20181023T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Music and Dance</genre>
+		<family>Just Dance</family>
+		<players>1-4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231117T200320" />
+	</game>
+	<game id="12241">
+		<path>./Games/JUST DANCE 4 (USA) (DLC) (v32).wua</path>
+		<name>Just Dance 4</name>
+		<desc>Make your mark on the dance party, even if you're not on the dance floor, in this Wii U edition of Just Dance 4! The exclusive five-player Puppet Master Mode lets one player shape the action. Switch routines, line up set lists, create choreography, write messages on-screen, and take pictures of your friends' performance to share online, all in real time. Groove to over 40 hits from top artists, including three Wii U-exclusive tracks: “Domino” by Jesse J, “Want You Back” by Cher Lloyd featuring Astro, and “Ain't No Other Man” by The Girly Team. Challenge friends in Battle Mode, work out in Just Sweat Mode, and more.</desc>
+		<image>./images/JUST DANCE 4 (USA) (DLC) (v32)-image.jpg</image>
+		<video>./videos/JUST DANCE 4 (USA) (DLC) (v32)-video.mp4</video>
+		<marquee>./images/JUST DANCE 4 (USA) (DLC) (v32)-marquee.png</marquee>
+		<thumbnail>./images/JUST DANCE 4 (USA) (DLC) (v32)-thumb.png</thumbnail>
+		<fanart>./images/JUST DANCE 4 (USA) (DLC) (v32)-fanart.jpg</fanart>
+		<rating>0.8</rating>
+		<releasedate>20121118T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Music and Dance</genre>
+		<family>Just Dance</family>
+		<players>1-4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231117T200339" />
+	</game>
+	<game id="12349">
+		<path>./Games/Just Dance Kids 2014 (USA).wua</path>
+		<name>Just Dance Kids 2014</name>
+		<desc>Just Dance Kids 2014 is the third game in the Just Dance Kids sub-series of the Just Dance franchise. The game contains thirty music tracks for a younger audience where players need to mimic the dance routines shown on the screen. The music selection is a mix of covers and original recordings with both older and newer songs and artists such as Harry Belafonte and One Direction, but also Mary Had a Little Lamb. Each song has its own dance routine shown by performers on the screen. Next to dance moves for each song there is also a difficulty level with a different type of effort required and they are marked either for a younger or an older player.</desc>
+		<image>./images/Just Dance Kids 2014 (USA)-image.jpg</image>
+		<video>./videos/Just Dance Kids 2014 (USA)-video.mp4</video>
+		<marquee>./images/Just Dance Kids 2014 (USA)-marquee.png</marquee>
+		<thumbnail>./images/Just Dance Kids 2014 (USA)-thumb.png</thumbnail>
+		<fanart>./images/Just Dance Kids 2014 (USA)-fanart.jpg</fanart>
+		<rating>0.65</rating>
+		<releasedate>20131022T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Music and Dance</genre>
+		<family>Just Dance</family>
+		<players>1-4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231117T200357" />
+	</game>
+	<game id="12166">
+		<path>./Games/LEGO CITY UNDERCOVER (USA).wua</path>
+		<name>LEGO City Undercover</name>
+		<desc>LEGO® City comes to life, only on the Wii U™ system! The popular LEGO City vehicles and play sets come to life for the first time in the vast, open world of the LEGO® City: Undercover game. As police officer Chase McCain you are armed with clever disguises, special abilities, and the ultimate crime-fighting tool—the Wii U GamePad controller. With its indispensable map, communicator, and high-tech scanning device, the Wii U GamePad is just what you need to crack the case. Run, drive and even fly through the city to put a stop to the fiendish Rex Fury and end his crime wave once and for all.</desc>
+		<image>./images/LEGO CITY UNDERCOVER (USA)-image.jpg</image>
+		<video>./videos/LEGO CITY UNDERCOVER (USA)-video.mp4</video>
+		<marquee>./images/LEGO CITY UNDERCOVER (USA)-marquee.png</marquee>
+		<thumbnail>./images/LEGO CITY UNDERCOVER (USA)-thumb.png</thumbnail>
+		<fanart>./images/LEGO CITY UNDERCOVER (USA)-fanart.jpg</fanart>
+		<rating>0.85</rating>
+		<releasedate>20130318T000000</releasedate>
+		<developer>TT Games</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action / Adventure</genre>
+		<family>LEGO</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231117T200416" />
+	</game>
+	<game id="12603">
+		<path>./Games/LEGO DIMENSIONS (USA) (DLC) (v320).wua</path>
+		<name>LEGO Dimensions</name>
+		<desc>LEGO Dimensions is a multi-franchise toys-to-life game featuring characters and levels from 14 licensed franchises with additional franchises due to arrive in the future. The game contains elements from the Middle Earth franchise, The LEGO Movie, DC Comics, The Wizard of Oz, The Simpsons, Back to the Future, Scooby-Doo, Doctor Who, Portal 2, the Midway Arcade franchise, LEGO Legends of Chima, LEGO Ninjago, Ghostbusters, and Jurassic World.</desc>
+		<image>./images/LEGO DIMENSIONS (USA) (DLC) (v320)-image.jpg</image>
+		<video>./videos/LEGO DIMENSIONS (USA) (DLC) (v320)-video.mp4</video>
+		<marquee>./images/LEGO DIMENSIONS (USA) (DLC) (v320)-marquee.png</marquee>
+		<thumbnail>./images/LEGO DIMENSIONS (USA) (DLC) (v320)-thumb.png</thumbnail>
+		<fanart>./images/LEGO DIMENSIONS (USA) (DLC) (v320)-fanart.jpg</fanart>
+		<rating>0.75</rating>
+		<releasedate>20150927T000000</releasedate>
+		<developer>TT Games</developer>
+		<publisher>Warner Bros. Interactive</publisher>
+		<genre>Action / Adventure</genre>
+		<family>LEGO</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231117T200435" />
+	</game>
+	<game id="12568">
+		<path>./Games/LEGO Jurassic World (USA) (v16).wua</path>
+		<name>LEGO Jurassic World</name>
+		<desc>LEGO Jurassic World is an action game based on the four Jurassic Park movies and released alongside the 2015 movie Jurassic World. As with many other Tt Games titles it adapts a licensed franchise to a world built up out of LEGO bricks. The game consists of 20 levels, five for each of the movies, played in succession. The game borrows many iconic moments from the films using the original audio clips and often adds a humorous twist.</desc>
+		<image>./images/LEGO Jurassic World (USA) (v16)-image.jpg</image>
+		<video>./videos/LEGO Jurassic World (USA) (v16)-video.mp4</video>
+		<marquee>./images/LEGO Jurassic World (USA) (v16)-marquee.png</marquee>
+		<thumbnail>./images/LEGO Jurassic World (USA) (v16)-thumb.png</thumbnail>
+		<fanart>./images/LEGO Jurassic World (USA) (v16)-fanart.jpg</fanart>
+		<rating>0.65</rating>
+		<releasedate>20150612T000000</releasedate>
+		<developer>TT Games</developer>
+		<publisher>Warner Bros. Interactive</publisher>
+		<genre>Action / Adventure</genre>
+		<family>LEGO</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231117T200452" />
+	</game>
+	<game id="12569">
+		<path>./Games/LEGO MARVEL's Avengers (USA) (DLC) (v64).wua</path>
+		<name>LEGO Marvel's Avengers</name>
+		<desc>LEGO Marvel Avengers is a spin-off of the successful LEGO Marvel Super Heroes focusing on the story of the films of the Marvel Cinematic Universe. The game covers the events of the cinematic universe up to 'Avengers: Age of Ultron' and covers content seen in 'Captain America: The First Avenger', 'Avengers Assemble', 'Iron Man 3', 'Thor 2', and 'Avengers: Age of Ultron' with DLC packs available for other entries within the Marvel Cinematic Universe such as 'Ant-Man' and 'Marvel's Agents of SHIELD'.</desc>
+		<image>./images/LEGO MARVEL's Avengers (USA) (DLC) (v64)-image.jpg</image>
+		<video>./videos/LEGO MARVEL's Avengers (USA) (DLC) (v64)-video.mp4</video>
+		<marquee>./images/LEGO MARVEL's Avengers (USA) (DLC) (v64)-marquee.png</marquee>
+		<thumbnail>./images/LEGO MARVEL's Avengers (USA) (DLC) (v64)-thumb.png</thumbnail>
+		<fanart>./images/LEGO MARVEL's Avengers (USA) (DLC) (v64)-fanart.jpg</fanart>
+		<rating>0.7</rating>
+		<releasedate>20160126T000000</releasedate>
+		<developer>TT Games</developer>
+		<publisher>Warner Bros. Interactive</publisher>
+		<genre>Action</genre>
+		<family>LEGO</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231117T200511" />
+	</game>
+	<game id="245990">
+		<path>./Games/LEGO STAR WARS - The Force Awakens (USA) (v32).wua</path>
+		<name>LEGO Star Wars : The Force Awakens</name>
+		<desc>The No. 1 LEGO videogame franchise triumphantly returns with a fun-filled, humorous journey based on the blockbuster Star Wars film. In LEGO Star Wars: The Force Awakens, players relive the epic action from the blockbuster film Star Wars: The Force Awakens, retold through the clever and witty LEGO lens. The game will also feature exclusive playable content that bridges the story gap between Star Wars Episode VI: Return of the Jedi and Star Wars: The Force Awakens. LEGO Star Wars: The Force Awakens also introduces Multi-Builds and Blaster Battles to the LEGO videogame universe. With Multi-Builds, use available LEGO bricks to open up new paths, then break them apart and re-build them again to open up another! And another! During Blaster Battles, use your surroundings as cover to stand against the First Order.</desc>
+		<image>./images/LEGO STAR WARS - The Force Awakens (USA) (v32)-image.jpg</image>
+		<video>./videos/LEGO STAR WARS - The Force Awakens (USA) (v32)-video.mp4</video>
+		<marquee>./images/LEGO STAR WARS - The Force Awakens (USA) (v32)-marquee.png</marquee>
+		<thumbnail>./images/LEGO STAR WARS - The Force Awakens (USA) (v32)-thumb.png</thumbnail>
+		<fanart>./images/LEGO STAR WARS - The Force Awakens (USA) (v32)-fanart.jpg</fanart>
+		<rating>0.7</rating>
+		<releasedate>20160628T000000</releasedate>
+		<developer>TT Games</developer>
+		<publisher>Warner Bros. Interactive</publisher>
+		<genre>Action / Adventure</genre>
+		<family>LEGO</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231117T200530" />
+	</game>
+	<game id="12165">
+		<path>./Games/LEGO The Hobbit (USA).wua</path>
+		<name>LEGO The Hobbit</name>
+		<desc>LEGO The Hobbit is based on the first two films in The Hobbit movie trilogy: The Hobbit: An Unexpected Journey and The Hobbit: Desolation of Smaug. Like the other LEGO Tt games it is an adaptation of the franchise to the LEGO universe. It allows players to play through different scenes from the films and follow Bilbo Baggins as he is recruited by Gandalf to aid Thorin Oakenshield and his Company of Dwarves. Bilbo leaves the comforts of the Shire on a journey to help the Dwarves reclaim their lost Kingdom of Erebor within the Lonely Mountain. Many dangers and adventures await and unexpected discovery of a certain ring.</desc>
+		<image>./images/LEGO The Hobbit (USA)-image.jpg</image>
+		<video>./videos/LEGO The Hobbit (USA)-video.mp4</video>
+		<marquee>./images/LEGO The Hobbit (USA)-marquee.png</marquee>
+		<thumbnail>./images/LEGO The Hobbit (USA)-thumb.png</thumbnail>
+		<fanart>./images/LEGO The Hobbit (USA)-fanart.jpg</fanart>
+		<rating>0.55</rating>
+		<releasedate>20140422T000000</releasedate>
+		<developer>TT Games</developer>
+		<publisher>Warner Bros. Interactive</publisher>
+		<genre>Action / Adventure</genre>
+		<family>LEGO</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231117T200548" />
+	</game>
+	<game id="246092">
+		<path>./Games/Mario &amp; Sonic at the Sochi 2014 - Olympic Winter Games (USA) (v32).wua</path>
+		<name>Mario &amp; Sonic at the Olympic Winter Games in Sochi 2014</name>
+		<desc>Mario &amp; Sonic at the Olympic Winter Games in Sochi 2014 is a multi-event game on Wii U. It plays several characters (Mario, Bowser, Yoshi, Donkey Kong ...) who will be able to compete in more than sixteen Events divided into five game modes including a worldwide Versus online.</desc>
+		<image>./images/Mario &amp; Sonic at the Sochi 2014 - Olympic Winter Games (USA) (v32)-image.jpg</image>
+		<video>./videos/Mario &amp; Sonic at the Sochi 2014 - Olympic Winter Games (USA) (v32)-video.mp4</video>
+		<thumbnail>./images/Mario &amp; Sonic at the Sochi 2014 - Olympic Winter Games (USA) (v32)-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>20131115T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports / Multisports</genre>
+		<family>Mario &amp; Sonic</family>
+		<players>1-4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231117T200600" />
+	</game>
+	<game id="246125">
+		<path>./Games/Mass Effect 3 Special Edition (USA) (v16).wua</path>
+		<name>Mass Effect 3 - Special Edition</name>
+		<desc>Mass Effect 3 plunges you into an all-out galactic war to take Earth back from a nearly unstoppable foe and how you fight that war is entirely up to you. Groundbreaking interactive storytelling drives the heart-pounding action in which each decision you make could have dire and deadly consequences. You are Commander Shepard, the only one who can save Earth from annihilation.</desc>
+		<image>./images/Mass Effect 3 Special Edition (USA) (v16)-image.jpg</image>
+		<video>./videos/Mass Effect 3 Special Edition (USA) (v16)-video.mp4</video>
+		<marquee>./images/Mass Effect 3 Special Edition (USA) (v16)-marquee.png</marquee>
+		<thumbnail>./images/Mass Effect 3 Special Edition (USA) (v16)-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>20121130T000000</releasedate>
+		<developer>BioWare</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Role playing games</genre>
+		<family>Mass Effect</family>
+		<players>1-4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231117T200616" />
+	</game>
+	<game id="12128">
+		<path>./Games/MONSTER HUNTER 3 ULTIMATE (USA) (v32).wua</path>
+		<name>Monster Hunter 3 Ultimate</name>
+		<desc>Discover the epic world of Monster Hunter as you journey through more than 200 exhilarating quests, battle larger-than-life monsters, and create hundreds of weapons and armor.</desc>
+		<image>./images/MONSTER HUNTER 3 ULTIMATE (USA) (v32)-image.jpg</image>
+		<video>./videos/MONSTER HUNTER 3 ULTIMATE (USA) (v32)-video.mp4</video>
+		<marquee>./images/MONSTER HUNTER 3 ULTIMATE (USA) (v32)-marquee.png</marquee>
+		<thumbnail>./images/MONSTER HUNTER 3 ULTIMATE (USA) (v32)-thumb.png</thumbnail>
+		<fanart>./images/MONSTER HUNTER 3 ULTIMATE (USA) (v32)-fanart.jpg</fanart>
+		<rating>0.9</rating>
+		<releasedate>20130319T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Role playing games</genre>
+		<family>Monster Hunter</family>
+		<players>1-4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231117T200635" />
+	</game>
+	<game id="12174">
+		<path>./Games/NBA 2K13 (USA) (v32).wua</path>
+		<name>Nba 2k13</name>
+		<desc>With more than 5 million copies sold worldwide and more than 25 Sports Game of the Year awards won, NBA 2K12 was another monster release for the biggest NBA video game simulation franchise in the world. This year, 2K Sports has joined forces with the legendary JAY Z as Executive Producer to transcend sports video games and take virtual hardwood to the next level. Featuring an enhanced MyCAREER mode and all-new gameplay features, NBA 2K13 will let gamers pit the best players in NBA history against the new dynasty of talent, including the much-debated matchup between the 2012 U.S. Men's National Team and the 1992 "Dream Team."</desc>
+		<image>./images/NBA 2K13 (USA) (v32)-image.jpg</image>
+		<video>./videos/NBA 2K13 (USA) (v32)-video.mp4</video>
+		<marquee>./images/NBA 2K13 (USA) (v32)-marquee.png</marquee>
+		<thumbnail>./images/NBA 2K13 (USA) (v32)-thumb.png</thumbnail>
+		<fanart>./images/NBA 2K13 (USA) (v32)-fanart.jpg</fanart>
+		<rating>0.75</rating>
+		<releasedate>20121118T000000</releasedate>
+		<developer>Visual Concepts</developer>
+		<publisher>2K Games</publisher>
+		<genre>Sports / Basketball</genre>
+		<family>NBA 2K</family>
+		<players>1-10</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231117T200654" />
+	</game>
+	<game id="12209">
+		<path>./Games/Need for Speed Most Wanted U (USA) (v32).wua</path>
+		<name>Need for Speed : Most Wanted U</name>
+		<desc>Need for Speed: Most Wanted is a Wii U racing game that offers you the opportunity to challenge law enforcement through various chases. The goal here is to collect the offences while avoiding the police in order to top the list of the most wanted drivers. Several types of cars are available (sports, super cars, muscle cars) and an open environment serves as a playground.</desc>
+		<image>./images/Need for Speed Most Wanted U (USA) (v32)-image.jpg</image>
+		<video>./videos/Need for Speed Most Wanted U (USA) (v32)-video.mp4</video>
+		<marquee>./images/Need for Speed Most Wanted U (USA) (v32)-marquee.png</marquee>
+		<thumbnail>./images/Need for Speed Most Wanted U (USA) (v32)-thumb.png</thumbnail>
+		<fanart>./images/Need for Speed Most Wanted U (USA) (v32)-fanart.jpg</fanart>
+		<rating>0.8</rating>
+		<releasedate>20130318T000000</releasedate>
+		<developer>Criterion Games</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Race, Driving</genre>
+		<family>Need for Speed</family>
+		<players>1-6</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231117T200711" />
+	</game>
+	<game id="12146">
+		<path>./Games/New SUPER MARIO BROS. U + New SUPER LUIGI U (USA).wua</path>
+		<name>New Super Mario Bros. U</name>
+		<desc>Mario will leap onto Wii U in New Super Mario Bros. U, a new side-scrolling adventure that introduces new transformations for Mario and the ability for players to play as their Mii characters. The game also introduces the new Boost Mode, which can be used to add blocks, to help players avoid enemies, enable Mario to discover secrets or allow multiple players working together to perform a speed run in record time.</desc>
+		<image>./images/New SUPER MARIO BROS. U + New SUPER LUIGI U (USA)-image.jpg</image>
+		<video>./videos/New SUPER MARIO BROS. U + New SUPER LUIGI U (USA)-video.mp4</video>
+		<marquee>./images/New SUPER MARIO BROS. U + New SUPER LUIGI U (USA)-marquee.png</marquee>
+		<thumbnail>./images/New SUPER MARIO BROS. U + New SUPER LUIGI U (USA)-thumb.png</thumbnail>
+		<fanart>./images/New SUPER MARIO BROS. U + New SUPER LUIGI U (USA)-fanart.jpg</fanart>
+		<manual>./manuals/New SUPER MARIO BROS. U + New SUPER LUIGI U (USA)-manual.pdf</manual>
+		<rating>0.8</rating>
+		<releasedate>20121118T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform / Run Jump</genre>
+		<family>Super Mario Bros</family>
+		<players>1-5</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231117T200732" />
+	</game>
+	<game id="246413">
+		<path>./Games/PAPER MARIO Color Splash (USA).wua</path>
+		<name>Paper Mario : Color Splash</name>
+		<desc>A mystery is afoot on Prism Island - and only Paper Mario can solve it by restoring the island's vanishing colors with his new Paint Hammer and the powerful Battle Cards up his sleeve. These fresh layers of strategy, along with the hilarious action adventure gameplay the series is known for, make this one of the most colorful Paper Mario action-adventure games ever.A hilarious action-adventure game set on mysterious Prism Island.The Paint Hammer lets Mario restore the drained color of Prism IslandColor in colorless spots to solve puzzles and search for clues.Revive Toads who have been drained of their color.New Battle Card systemCleverly use Battle Cards during puzzling battles to defeat enemies.Summon objects with Things cards.Use Enemy cards to summon allies.The new cutout feature allows you to extract areas from environments to overcome obstacles whenever possible</desc>
+		<image>./images/PAPER MARIO Color Splash (USA)-image.jpg</image>
+		<video>./videos/PAPER MARIO Color Splash (USA)-video.mp4</video>
+		<marquee>./images/PAPER MARIO Color Splash (USA)-marquee.png</marquee>
+		<thumbnail>./images/PAPER MARIO Color Splash (USA)-thumb.png</thumbnail>
+		<fanart>./images/PAPER MARIO Color Splash (USA)-fanart.jpg</fanart>
+		<rating>0.65</rating>
+		<releasedate>20161007T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231117T200749" />
+	</game>
+	<game id="12231">
+		<path>./Games/Rabbids Land (USA) (v16).wua</path>
+		<name>Rabbids Land</name>
+		<desc>The Rabbids Land Rabbits on Wii U is a party-game featuring Ubisoft's white rabbits. The cretin invasion takes place in an amusement park where a board game takes place in which you have to overcome by alternating mini-games and quizzes. Some videos can then be unlocked and a score of events.</desc>
+		<image>./images/Rabbids Land (USA) (v16)-image.jpg</image>
+		<video>./videos/Rabbids Land (USA) (v16)-video.mp4</video>
+		<marquee>./images/Rabbids Land (USA) (v16)-marquee.png</marquee>
+		<thumbnail>./images/Rabbids Land (USA) (v16)-thumb.png</thumbnail>
+		<fanart>./images/Rabbids Land (USA) (v16)-fanart.jpg</fanart>
+		<rating>0.5</rating>
+		<releasedate>20121118T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Casual Game</genre>
+		<players>1-4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231117T200807" />
+	</game>
+	<game id="12143">
+		<path>./Games/Rayman Legends (USA).wua</path>
+		<name>Rayman Legends</name>
+		<desc>Developed by Ubisoft Montpellier, Rayman Legends is the follow-up to last year's highly-acclaimed Rayman Origins. Rayman Legends takes full advantage of the Wii U controller to bring players innovative multiplayer interactions that go beyond those found in traditional platform games. Players can use the Wii U controller's touch screen to take out enemies or clear paths and use the gyroscope technology to manipulate and rotate platforms on the TV screen. The Wii U controller also allows players to continue the adventure of Rayman and his friends on the controller's screen even while the television is off.</desc>
+		<image>./images/Rayman Legends (USA)-image.jpg</image>
+		<video>./videos/Rayman Legends (USA)-video.mp4</video>
+		<marquee>./images/Rayman Legends (USA)-marquee.png</marquee>
+		<thumbnail>./images/Rayman Legends (USA)-thumb.png</thumbnail>
+		<fanart>./images/Rayman Legends (USA)-fanart.jpg</fanart>
+		<rating>0.9</rating>
+		<releasedate>20130903T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Platform</genre>
+		<family>Rayman</family>
+		<players>1-5</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231117T200825" />
+	</game>
+	<game id="12163">
+		<path>./Games/RESIDENT EVIL REVELATIONS (USA) (DLC) (v16).wua</path>
+		<name>Resident Evil : Revelations</name>
+		<desc>Resident Evil: Revelations on Wii U is a survival horror. The player must face monsters who are victims of a variant of the T Virus while trying to get out alive from a gigantic liner. In addition to the Campaign mode, there is also a Commando mode playable in cooperative.</desc>
+		<image>./images/RESIDENT EVIL REVELATIONS (USA) (DLC) (v16)-image.jpg</image>
+		<video>./videos/RESIDENT EVIL REVELATIONS (USA) (DLC) (v16)-video.mp4</video>
+		<marquee>./images/RESIDENT EVIL REVELATIONS (USA) (DLC) (v16)-marquee.png</marquee>
+		<thumbnail>./images/RESIDENT EVIL REVELATIONS (USA) (DLC) (v16)-thumb.png</thumbnail>
+		<fanart>./images/RESIDENT EVIL REVELATIONS (USA) (DLC) (v16)-fanart.jpg</fanart>
+		<rating>0.8</rating>
+		<releasedate>20130520T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Adventure / Survival Horror</genre>
+		<family>Resident Evil</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231117T200843" />
+	</game>
+	<game id="12289">
+		<path>./Games/SiNG PARTY (USA).wua</path>
+		<name>Sing Party</name>
+		<desc>SiNG is a new interactive musical performance game for Wii U that gets everyone at the party involved in the music. With dozens of popular songs to choose from, everyone from novice singers and dancers to budding stars can join in on the fun. The main performer holds the GamePad while others in the room sing, dance and clap along with the music.</desc>
+		<video>./videos/SiNG PARTY (USA)-video.mp4</video>
+		<marquee>./images/SiNG PARTY (USA)-marquee.png</marquee>
+		<thumbnail>./images/SiNG PARTY (USA)-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<developer>Freestyle Games</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Music and Dance</genre>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231117T200854" />
+	</game>
+	<game id="12624">
+		<path>./Games/Skylanders SuperChargers (USA) (v96).wua</path>
+		<name>Skylanders Superchargers</name>
+		<desc>In Skylanders SuperChargers, Kaos' quest to rule over Skylands reveals his most sinister weapon ever – a massive "Doomstation of Ultimate Doomstruction" capable of eating the sky itself. Fortunately, a special team of Skylanders known as the SuperChargers has been assembled to pilot an incredible fleet of vehicles with the power to travel through the destruction – over land, sea, and sky! But with Skylands on the verge of collapse, the Skylanders have reached out across all dimensions to call for reinforcements. Answering the call is the most unexpected duo – Donkey Kong and Bowser! Using their own elite vehicles to magically travel between worlds, they have joined the epic battle against Kaos and The Darkness!
+
+Key Features:
+
+* Skylanders SuperChargers introduces 20 new SuperCharger Skylanders and 20 new Vehicles and supports all 300+ Skylanders toys from previous games, enabling any Skylanders character to pilot land, sea or sky-based vehicles.
+
+* Vehicles-to-Life – For the first time, players can take their Skylanders vehicles straight from the real world into the videogame via the Portal of Power to explore the land, sea and skies of Skylands.
+
+* Customized Vehicles –SuperChargers will have the ability to customize vehicles in-game with super cool modifications and upgradeable weapons.
+
+* SuperCharged Combos – For the ultimate gaming experience, players can pair a SuperCharger Skylander with its unique signature vehicle to create a SuperCharged combination, unlocking an exclusive mod that revs up the performance of both the vehicle and character.
+
+Exclusive Features:
+
+* For the first time in Skylanders history, two of Nintendo's iconic characters -- Donkey Kong and Bowser -- will guest star in Skylanders SuperChargers.
+
+* These special Skylanders will be playable in both Skylanders SuperChargers and select amiibo-compatible games with a simple twist of the character's base.
+
+* Turbo Charge Donkey Kong and Hammer Slam Bowser will be exclusively playable on the following Nintendo platforms: Wii U, Wii and the Nintendo 3DS family of systems.
+
+* Enjoy the full game in off-TV mode through the Wii U GamePad.</desc>
+		<image>./images/Skylanders SuperChargers (USA) (v96)-image.jpg</image>
+		<video>./videos/Skylanders SuperChargers (USA) (v96)-video.mp4</video>
+		<marquee>./images/Skylanders SuperChargers (USA) (v96)-marquee.png</marquee>
+		<rating>0.75</rating>
+		<developer>Activision</developer>
+		<publisher>Vicarious Vision</publisher>
+		<genre>Platform</genre>
+		<family>Skylanders</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231117T200905" />
+	</game>
+	<game id="12214">
+		<path>./Games/Skylanders SWAP Force (USA) (v16).wua</path>
+		<name>Skylanders Swap Force</name>
+		<desc>Embark on an exciting new adventure with the Skylanders and the SWAP Force. For generations, the SWAP Force protected the volcano that replenishes Skylands? magic. That is until an epic battle caught them in an eruption that blasted them apart, sent them to Earth and gave them the ability to swap powers. Only you can mix and match their tops and bottoms, put them on the new Portal of Power? and save Skylands.</desc>
+		<image>./images/Skylanders SWAP Force (USA) (v16)-image.jpg</image>
+		<video>./videos/Skylanders SWAP Force (USA) (v16)-video.mp4</video>
+		<marquee>./images/Skylanders SWAP Force (USA) (v16)-marquee.png</marquee>
+		<rating>0.85</rating>
+		<developer>Vicarious Vision</developer>
+		<publisher>Activision</publisher>
+		<genre>Platform</genre>
+		<family>Skylanders</family>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231117T200916" />
+	</game>
+	<game id="12153">
+		<path>./Games/Skylanders Trap Team (USA) (v16).wua</path>
+		<name>Skylanders Trap Team</name>
+		<desc>Kaos has breached the walls of the Cloud Prison, releasing the most infamous villains in Skylands. With the Skylanders, you must track them down and capture them. Using Traptanium, a magical material that controls the elements, you can capture the villains and bring them back to the Skylands to fight for you. Embark on the ultimate adventure and explore the Skylands in search of the escaped villains!</desc>
+		<image>./images/Skylanders Trap Team (USA) (v16)-image.jpg</image>
+		<video>./videos/Skylanders Trap Team (USA) (v16)-video.mp4</video>
+		<marquee>./images/Skylanders Trap Team (USA) (v16)-marquee.png</marquee>
+		<thumbnail>./images/Skylanders Trap Team (USA) (v16)-thumb.png</thumbnail>
+		<fanart>./images/Skylanders Trap Team (USA) (v16)-fanart.jpg</fanart>
+		<rating>0.85</rating>
+		<releasedate>20141005T000000</releasedate>
+		<developer>Toys For Bob</developer>
+		<publisher>Activision</publisher>
+		<genre>Action / Adventure</genre>
+		<family>Skylanders</family>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231117T200935" />
+	</game>
+	<game id="12125">
+		<path>./Games/Sonic Boom Rise of Lyric (USA) (DLC) (v16).wua</path>
+		<name>Sonic Boom: Rise of Lyric</name>
+		<desc>Sonic Boom: Rise of Lyric follows Sonic the Hedgehog, Miles "Tails" Prower, Amy Rose, and Knuckles the Echidna as they battle the evil Dr. Eggman. In what seemed like a normal day of thwarting Dr. Eggman's plans, the group finds themselves on an island where they discover an ancient tomb sealed deep within the island for over 1000 years. Sonic accidentally unleashes a powerful villain named Lyric, a member of a robot-snake race called the Ancestors, who wants to get enough power to feed his war robot army with the Chaos Crystals to destroy all that is organic and create a world of twisted metal and robots. To stop Lyric's evil plan, the group must set aside their differences and find the Chaos Crystals before Lyric. The stakes have never been higher, and the only chance to beat Lyric is to come together and work as a team.</desc>
+		<image>./images/Sonic Boom Rise of Lyric (USA) (DLC) (v16)-image.jpg</image>
+		<video>./videos/Sonic Boom Rise of Lyric (USA) (DLC) (v16)-video.mp4</video>
+		<marquee>./images/Sonic Boom Rise of Lyric (USA) (DLC) (v16)-marquee.png</marquee>
+		<thumbnail>./images/Sonic Boom Rise of Lyric (USA) (DLC) (v16)-thumb.png</thumbnail>
+		<rating>0.3</rating>
+		<releasedate>20141118T000000</releasedate>
+		<developer>Big Red Button</developer>
+		<publisher>SEGA</publisher>
+		<genre>Platform</genre>
+		<family>Sonic</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231117T200951" />
+	</game>
+	<game id="12178">
+		<path>./Games/SONIC LOST WORLD (USA) (DLC) (v48).wua</path>
+		<name>Sonic Lost World</name>
+		<desc>Dr. Eggman has harnessed the power of six menacing creatures known as the Deadly Six, but when the Deadly Six rise up against their master, Sonic has to unite with his arch nemesis in order to take on the new enemies head-to-head. Using his dynamic new parkour moves and improved Colour Powers, Sonic must run, jump and race through a variety of ever changing terrains in order to defeat the Deadly Six.</desc>
+		<image>./images/SONIC LOST WORLD (USA) (DLC) (v48)-image.jpg</image>
+		<video>./videos/SONIC LOST WORLD (USA) (DLC) (v48)-video.mp4</video>
+		<marquee>./images/SONIC LOST WORLD (USA) (DLC) (v48)-marquee.png</marquee>
+		<thumbnail>./images/SONIC LOST WORLD (USA) (DLC) (v48)-thumb.png</thumbnail>
+		<fanart>./images/SONIC LOST WORLD (USA) (DLC) (v48)-fanart.jpg</fanart>
+		<rating>0.65</rating>
+		<releasedate>20131018T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<family>Sonic</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231117T201009" />
+	</game>
+	<game id="12162">
+		<path>./Games/Splinter Cell Blacklist (USA) (DLC) (v48).wua</path>
+		<name>Splinter Cell Blacklist</name>
+		<image>./images/Splinter Cell Blacklist (USA) (DLC) (v48)-image.jpg</image>
+		<marquee>./images/Splinter Cell Blacklist (USA) (DLC) (v48)-marquee.png</marquee>
+		<thumbnail>./images/Splinter Cell Blacklist (USA) (DLC) (v48)-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>20130820T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Action / Adventure</genre>
+		<family>Splinter Cell</family>
+		<players>8</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231117T201020" />
+	</game>
+	<game id="12115">
+		<path>./Games/Super Smash Bros. for Wii U (USA) (DLC) (v304).wua</path>
+		<name>Super Smash Bros. For Wii U</name>
+		<desc>Mario! Link! Samus! Pikachu! All of your favorite Nintendo characters are back, along with plenty of new faces, in Super Smash Bros. for Wii U, the next entry in the beloved Super Smash Bros. series.
+
+Up to four players can battle each other locally or online across beautifully designed stages inspired by classic Nintendo home console games. With a variety of control options and amiibo compatibility, the timeless Super Smash Bros. battles come alive.</desc>
+		<image>./images/Super Smash Bros. for Wii U (USA) (DLC) (v304)-image.jpg</image>
+		<video>./videos/Super Smash Bros. for Wii U (USA) (DLC) (v304)-video.mp4</video>
+		<marquee>./images/Super Smash Bros. for Wii U (USA) (DLC) (v304)-marquee.png</marquee>
+		<thumbnail>./images/Super Smash Bros. for Wii U (USA) (DLC) (v304)-thumb.png</thumbnail>
+		<fanart>./images/Super Smash Bros. for Wii U (USA) (DLC) (v304)-fanart.jpg</fanart>
+		<rating>0.9</rating>
+		<releasedate>20141121T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Sora Ltd.</publisher>
+		<genre>Fight</genre>
+		<family>Super Smash Bros</family>
+		<players>4+</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231117T201039" />
+	</game>
+	<game id="12136">
+		<path>./Games/TEKKEN TAG TOURNAMENT 2 Wii U EDITION (USA) (v32).wua</path>
+		<name>Tekken Tag Tournament 2</name>
+		<desc>Tekken Tag Tournament 2 came with exclusive features for the Wii U:nnMushroom Battle mode - Players can pick up power-ups (which have their inspiration from the Super Mario series) during a fight.
+Nintendo inspired costumes for each fighter.
+Tekken Ball - Making its return from Tekken 3, this mode is a beach volleyball variant where characters are hurt by the ball.</desc>
+		<image>./images/TEKKEN TAG TOURNAMENT 2 Wii U EDITION (USA) (v32)-image.jpg</image>
+		<video>./videos/TEKKEN TAG TOURNAMENT 2 Wii U EDITION (USA) (v32)-video.mp4</video>
+		<marquee>./images/TEKKEN TAG TOURNAMENT 2 Wii U EDITION (USA) (v32)-marquee.png</marquee>
+		<thumbnail>./images/TEKKEN TAG TOURNAMENT 2 Wii U EDITION (USA) (v32)-thumb.png</thumbnail>
+		<fanart>./images/TEKKEN TAG TOURNAMENT 2 Wii U EDITION (USA) (v32)-fanart.jpg</fanart>
+		<rating>0.85</rating>
+		<developer>Bandai Namco</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Fight</genre>
+		<family>Tekken</family>
+		<players>1-4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231117T201058" />
+	</game>
+	<game id="244802">
+		<path>./Games/The Amazing Spider-Man - Ultimate Edition (USA).wua</path>
+		<name>The Amazing Spider-Man - Ultimate Edition</name>
+		<family>Spider-Man</family>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231117T201059" />
+	</game>
+	<game id="12170">
+		<path>./Games/The Amazing Spider-Man 2 (USA).wua</path>
+		<name>The Amazing Spider-Man 2</name>
+		<desc>The Amazing Spider-Man, this all-new third-person action-adventure video game builds on the story of the previous game with an alternative take on the events of the upcoming movie, while also giving players an enhanced, free-roaming web-slinging experience through a greatly expanded New York City.</desc>
+		<image>./images/The Amazing Spider-Man 2 (USA)-image.jpg</image>
+		<marquee>./images/The Amazing Spider-Man 2 (USA)-marquee.png</marquee>
+		<rating>0.75</rating>
+		<developer>Activision</developer>
+		<publisher>Beenox Studios</publisher>
+		<genre>Action</genre>
+		<family>Spider-Man</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231117T201107" />
+	</game>
+	<game id="241512">
+		<path>./Games/The Legend of Zelda - Breath of the Wild (USA) (DLC) (v208).wua</path>
+		<name>The Legend of Zelda: Breath of the Wild</name>
+		<desc>Forget everything you know about The Legend of Zelda games. Step into a world of discovery, exploration and adventure in The Legend of Zelda: Breath of the Wild, a boundary-breaking new game in the acclaimed series. Travel across fields, through forests and to mountain peaks as you discover what has become of the ruined kingdom of Hyrule in this stunning open-air adventure.</desc>
+		<image>./images/The Legend of Zelda - Breath of the Wild (USA) (DLC) (v208)-image.jpg</image>
+		<video>./videos/The Legend of Zelda - Breath of the Wild (USA) (DLC) (v208)-video.mp4</video>
+		<marquee>./images/The Legend of Zelda - Breath of the Wild (USA) (DLC) (v208)-marquee.png</marquee>
+		<thumbnail>./images/The Legend of Zelda - Breath of the Wild (USA) (DLC) (v208)-thumb.png</thumbnail>
+		<fanart>./images/The Legend of Zelda - Breath of the Wild (USA) (DLC) (v208)-fanart.jpg</fanart>
+		<rating>0.95</rating>
+		<releasedate>20170303T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure</genre>
+		<family>The Legend of Zelda</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231117T201125" />
+	</game>
+	<game id="247424">
+		<path>./Games/The Voice - I Want You (USA).wua</path>
+		<name>The Voice - I Want You</name>
+		<thumbnail>./images/The Voice - I Want You (USA)-thumb.png</thumbnail>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231117T201129" />
+	</game>
+	<game id="12181">
+		<path>./Games/The Walking Dead - Survival Instinct (USA).wua</path>
+		<name>The Walking Dead : Survival Instinct</name>
+		<desc>The Walking Dead Survival Instinct is an FPS on Wii U that takes the TV series of the same name. To protect themselves from the prowlers, brothers Daryl and Merle Dixon try to reach Atlanta. Their path is full of pitfalls and it will sometimes be very discreet to escape the many zombies.</desc>
+		<image>./images/The Walking Dead - Survival Instinct (USA)-image.jpg</image>
+		<video>./videos/The Walking Dead - Survival Instinct (USA)-video.mp4</video>
+		<marquee>./images/The Walking Dead - Survival Instinct (USA)-marquee.png</marquee>
+		<thumbnail>./images/The Walking Dead - Survival Instinct (USA)-thumb.png</thumbnail>
+		<rating>0.55</rating>
+		<developer>Activision</developer>
+		<publisher>Terminal Reality</publisher>
+		<genre>Action</genre>
+		<family>The Walking Dead</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231117T201144" />
+	</game>
+	<game id="12187">
+		<path>./Games/The Wonderful 101 (USA) (v16).wua</path>
+		<name>The Wonderful 101</name>
+		<desc>Earth is under attack from an invasion of enormous aliens, and the only thing that can protect the planet is a group of unlikely, yet mighty, heroes with special abilities. Unfortunately, the aliens are too powerful for the heroes to fight individually. They must join forces and work together to defeat their common enemy. These uniquely different heroes can morph into powerful weapons to crush the invaders or turn into objects like a giant fist or bridge to interact with and traverse the environments.</desc>
+		<image>./images/The Wonderful 101 (USA) (v16)-image.jpg</image>
+		<video>./videos/The Wonderful 101 (USA) (v16)-video.mp4</video>
+		<marquee>./images/The Wonderful 101 (USA) (v16)-marquee.png</marquee>
+		<thumbnail>./images/The Wonderful 101 (USA) (v16)-thumb.png</thumbnail>
+		<fanart>./images/The Wonderful 101 (USA) (v16)-fanart.jpg</fanart>
+		<rating>0.9</rating>
+		<releasedate>20130823T000000</releasedate>
+		<developer>PlatinumGames</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231117T201201" />
+	</game>
+	<game id="247313">
+		<path>./Games/Tokyo Mirage Sessions #FE (USA) (DLC) (v16).wua</path>
+		<name>Tokyo Mirage Sessions #FE</name>
+		<desc>Taking place in modern-day Tokyo and featuring real-life locations such as Shibuya and Harajuku, the game centers around hostile beings known as Mirages who seek to harvest energy known as Performa from humans and are responsible for several disappearances. The story follows a group of teenagers who become allied with friendly Mirages, based on characters from the Fire Emblem series, and merge with them to become Mirage Masters. Under the guise of the Fortuna Entertainment talent agency, the Mirage Masters fight to protect innocent people from the Mirages and find out who is behind the attacks.</desc>
+		<image>./images/Tokyo Mirage Sessions #FE (USA) (DLC) (v16)-image.png</image>
+		<video>./videos/Tokyo Mirage Sessions #FE (USA) (DLC) (v16)-video.mp4</video>
+		<marquee>./images/Tokyo Mirage Sessions #FE (USA) (DLC) (v16)-marquee.png</marquee>
+		<thumbnail>./images/Tokyo Mirage Sessions #FE (USA) (DLC) (v16)-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>20160624T000000</releasedate>
+		<developer>Atlus</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role playing games</genre>
+		<family>Fire Emblem</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231117T201216" />
+	</game>
+	<game id="12203">
+		<path>./Games/TRANSFORMERS Rise of the Dark Spark (USA).wua</path>
+		<name>Transformers : Rise of the Dark Spark</name>
+		<desc>Transformers: Rise of the Dark Spark is an action game on Wii U. The player plays alternately Autobots and Decepticons in their quest for Dark Spark, a relic as powerful as evil. This leads them as well on Earth as on Cybertron.</desc>
+		<video>./videos/TRANSFORMERS Rise of the Dark Spark (USA)-video.mp4</video>
+		<marquee>./images/TRANSFORMERS Rise of the Dark Spark (USA)-marquee.png</marquee>
+		<rating>0.45</rating>
+		<developer>Activision</developer>
+		<publisher>Edge Of Reality</publisher>
+		<family>Transformers</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231117T201224" />
+	</game>
+	<game id="12244">
+		<path>./Games/WARRIORS OROCHI 3 Hyper(NA) (USA) (DLC) (v32).wua</path>
+		<name>Warriors Orochi 3 Hyper</name>
+		<desc>Prepare for a Warriors: Orochi battle so epic it calls for reinforcements from five additional franchises and gives them one of the most powerful weapons they've ever used: time travel! The roster of over 130 playable characters includes heroes from Dynasty and Samurai Warriors, plus newcomers from Ninja Gaiden, Warriors: Legends of Troy, Trinity: Souls of Zill O'll, Bladestorm, and Dead or Alive. You'll also play a bonus character exclusive to Wii U. Travel through time and recruit warriors for the ultimate army to defeat a gigantic eight-headed Hydra. A Bond System monitors interaction between characters, shaping the storyline and unlocking rewards based on the connections you make. Fight AI opponents or challenge friends in a new Wii U-exclusive Duel Mode.</desc>
+		<image>./images/WARRIORS OROCHI 3 Hyper(NA) (USA) (DLC) (v32)-image.jpg</image>
+		<video>./videos/WARRIORS OROCHI 3 Hyper(NA) (USA) (DLC) (v32)-video.mp4</video>
+		<marquee>./images/WARRIORS OROCHI 3 Hyper(NA) (USA) (DLC) (v32)-marquee.png</marquee>
+		<thumbnail>./images/WARRIORS OROCHI 3 Hyper(NA) (USA) (DLC) (v32)-thumb.png</thumbnail>
+		<fanart>./images/WARRIORS OROCHI 3 Hyper(NA) (USA) (DLC) (v32)-fanart.jpg</fanart>
+		<rating>0.8</rating>
+		<releasedate>20121118T000000</releasedate>
+		<developer>Koei</developer>
+		<publisher>Koei</publisher>
+		<genre>Beat'em Up</genre>
+		<family>Warriors Orochi</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231117T201242" />
+	</game>
+	<game id="12118">
+		<path>./Games/WATCH_DOGS (USA).wua</path>
+		<name>Watch Dogs</name>
+		<desc>The storyline of Watch Dogs game is built around the concept of information warfare, data being interconnected, and the world's increasing use of technology?questioning who exactly runs the computers they depend on. The game is set in an alternate reality version of Chicago, Illinois, which is one of many cities to feature a supercomputer known as a "CtOS" (Central Operating System). The system controls almost every piece of technology in the city, and contains information on all of the city's residents and activities which can be used for various purposes. In the game's universe, the Northeast blackout of 2003 was found to be caused by a hacker, prompting the development of CtOS. The game will follow a man named Aiden Pearce, a highly skilled hacker described as a person who uses both "fists and wits."</desc>
+		<image>./images/WATCH_DOGS (USA)-image.jpg</image>
+		<video>./videos/WATCH_DOGS (USA)-video.mp4</video>
+		<marquee>./images/WATCH_DOGS (USA)-marquee.png</marquee>
+		<thumbnail>./images/WATCH_DOGS (USA)-thumb.png</thumbnail>
+		<fanart>./images/WATCH_DOGS (USA)-fanart.jpg</fanart>
+		<rating>0.75</rating>
+		<releasedate>20141118T000000</releasedate>
+		<developer>Ubi Soft</developer>
+		<publisher>Ubi Soft</publisher>
+		<genre>Adventure</genre>
+		<family>Watch Dogs</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231117T201259" />
+	</game>
+	<game id="12127">
+		<path>./Games/Xenoblade Chronicles X (USA) (DLC) (v48).wua</path>
+		<name>Xenoblade Chronicles X</name>
+		<desc>The next massive sci-fi role-playing game from Monolith Soft, creators of Baten Kaitos and Xenoblade Chronicles, comes exclusively to Wii U. In Xenoblade Chronicles X, a terrible intergalactic war leaves just a handful of Earth survivors trying to live in a beautiful yet hostile environment. Players engage in battles against powerful creatures of all forms and sizes using the deep battle system that builds on the triumphs of the team's previous RPG adventures.</desc>
+		<image>./images/Xenoblade Chronicles X (USA) (DLC) (v48)-image.jpg</image>
+		<video>./videos/Xenoblade Chronicles X (USA) (DLC) (v48)-video.mp4</video>
+		<marquee>./images/Xenoblade Chronicles X (USA) (DLC) (v48)-marquee.png</marquee>
+		<thumbnail>./images/Xenoblade Chronicles X (USA) (DLC) (v48)-thumb.png</thumbnail>
+		<fanart>./images/Xenoblade Chronicles X (USA) (DLC) (v48)-fanart.jpg</fanart>
+		<rating>0.9</rating>
+		<releasedate>20151204T000000</releasedate>
+		<developer>Monolith Soft</developer>
+		<publisher>Monolith Soft</publisher>
+		<genre>Adventure</genre>
+		<family>Xenoblade</family>
+		<players>1-32</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231117T201317" />
+	</game>
+	<game id="12160">
+		<path>./Games/Yoshi's Woolly World (USA) (v32).wua</path>
+		<name>Yoshi's Woolly World</name>
+		<desc>Yoshi's Woolly World is a platform game in which the player assumes the role of Yoshi. Similar to developer Good-Feel's previous title Kirby's Epic Yarn, the game is set in a world where the characters and environment are composed of yarn and cloth. Yoshi retains much of his moveset from the Yoshi's Island series of games, including using his tongue to swallow enemies and using his flutter jump to reach hard areas, and many elements such as flowers and mystery clouds return. However, unlike other games where swallowing enemies would produce eggs which Yoshi could then throw, Yoshi instead produces balls of yarn.</desc>
+		<image>./images/Yoshi's Woolly World (USA) (v32)-image.jpg</image>
+		<video>./videos/Yoshi's Woolly World (USA) (v32)-video.mp4</video>
+		<marquee>./images/Yoshi's Woolly World (USA) (v32)-marquee.png</marquee>
+		<thumbnail>./images/Yoshi's Woolly World (USA) (v32)-thumb.png</thumbnail>
+		<fanart>./images/Yoshi's Woolly World (USA) (v32)-fanart.jpg</fanart>
+		<rating>0.8</rating>
+		<releasedate>20151016T000000</releasedate>
+		<developer>Good Feel</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231117T201336" />
+	</game>
+	<game id="12319">
+		<path>./Games/Zumba Fitness World Party (USA) (v16).wua</path>
+		<name>Zumba Fitness World Party</name>
+		<desc>For the first time ever, Zumba takes you on a cultural joyride around the world in Zumba Fitness World Party. Burn up to 1,000 calories per hour as you immerse yourself in the movement and music of exotic global destinations in this exhilarating at home workout that features a new visual presentation. World Party is the latest release in the best-selling Zumba Fitness video game franchise that has sold more than nine million copies worldwide and ranks as the #2 fitness franchise of all time, second only to Nintendo's Wii Fit. This groundbreaking new dance-fitness experience unites you with the global Zumba community while offering all of the fitness features you need to maximize your work out. Travel the world with celebrity Zumba instructors; move to a cultural mix of dance styles across 40+ fresh songs and routines; and unlock rewards that reveal the rich heritage of each location.</desc>
+		<image>./images/Zumba Fitness World Party (USA) (v16)-image.png</image>
+		<video>./videos/Zumba Fitness World Party (USA) (v16)-video.mp4</video>
+		<marquee>./images/Zumba Fitness World Party (USA) (v16)-marquee.png</marquee>
+		<thumbnail>./images/Zumba Fitness World Party (USA) (v16)-thumb.png</thumbnail>
+		<fanart>./images/Zumba Fitness World Party (USA) (v16)-fanart.jpg</fanart>
+		<rating>0.45</rating>
+		<releasedate>20131105T000000</releasedate>
+		<developer>Zoë Mode</developer>
+		<publisher>505 Games</publisher>
+		<genre>Sports / Fitness</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231117T201354" />
+	</game>
 </gameList>
