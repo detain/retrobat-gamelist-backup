@@ -3543,4 +3543,878 @@ It all started when Kamek and Baby Bowser set out to steal a gem-set stone. Lege
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20230216T074349" />
 	</game>
+	<game>
+		<path>./Games/13 Sentinels Aegis Rim [01003FC01670C000][v0].nsp</path>
+		<name>13 Sentinels Aegis Rim [01003FC01670C000][v0]</name>
+		<scrap name="ScreenScraper" date="20231125T191849" />
+	</game>
+	<game id="430583">
+		<path>./Games/Advance Wars 1 plus 2 Re-Boot Camp [0100300012F2A000][v0][US](nsw2u.com).nsp</path>
+		<name>Advance Wars 1+2: Re-Boot Camp</name>
+		<desc>Each CO affects your units in different ways, and they each possess a unique ability that can turn the tide of battle. Do you like to go toe-to-toe, or engage from a distance? Choose the CO that best complements your playstyle!</desc>
+		<image>./images/Advance Wars 1 plus 2 Re-Boot Camp [0100300012F2A000][v0][US](nsw2u.com)-image.jpg</image>
+		<video>./videos/Advance Wars 1 plus 2 Re-Boot Camp [0100300012F2A000][v0][US](nsw2u.com)-video.mp4</video>
+		<marquee>./images/Advance Wars 1 plus 2 Re-Boot Camp [0100300012F2A000][v0][US](nsw2u.com)-marquee.png</marquee>
+		<thumbnail>./images/Advance Wars 1 plus 2 Re-Boot Camp [0100300012F2A000][v0][US](nsw2u.com)-thumb.png</thumbnail>
+		<fanart>./images/Advance Wars 1 plus 2 Re-Boot Camp [0100300012F2A000][v0][US](nsw2u.com)-fanart.jpg</fanart>
+		<rating>0.8</rating>
+		<releasedate>20230421T000000</releasedate>
+		<developer>Wayforward</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Strategy</genre>
+		<family>Advance Wars</family>
+		<players>1-4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231125T191920" />
+	</game>
+	<game id="198229">
+		<path>./Games/Assassins Creed III Remastered [NSP + XCI + DLC + Language Packs + Update 1.0.1].xci</path>
+		<name>Assassin's Creed 3 Remastered</name>
+		<desc>Fight for freedom! As the American Colonies are about to revolt, secure liberty for your people and your nation.</desc>
+		<marquee>./images/Assassins Creed III Remastered [NSP + XCI + DLC + Language Packs + Update 1.0.1]-marquee.png</marquee>
+		<thumbnail>./images/Assassins Creed III Remastered [NSP + XCI + DLC + Language Packs + Update 1.0.1]-thumb.png</thumbnail>
+		<fanart>./images/Assassins Creed III Remastered [NSP + XCI + DLC + Language Packs + Update 1.0.1]-fanart.jpg</fanart>
+		<releasedate>20190521T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Adventure / RealTime 3D</genre>
+		<family>Assassin's Creed</family>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231125T191938" />
+	</game>
+	<game>
+		<path>./Games/Asterix and Obelix XXL Romastered/Asterix and Obelix XXL Romastered [0100F46011B50800][v196608].nsp</path>
+		<name>Asterix and Obelix XXL Romastered [0100F46011B50800][v196608]</name>
+		<scrap name="ScreenScraper" date="20231125T191940" />
+	</game>
+	<game>
+		<path>./Games/Asterix and Obelix XXL Romastered [0100F46011B50000][v0].nsp</path>
+		<name>Asterix and Obelix XXL Romastered [0100F46011B50000][v0]</name>
+		<scrap name="ScreenScraper" date="20231125T191941" />
+	</game>
+	<game>
+		<path>./Games/Astral Chain + Update [NSP]/ASTRAL CHAIN Update [v1.0.1].nsp</path>
+		<name>ASTRAL CHAIN Update [v1.0.1]</name>
+		<scrap name="ScreenScraper" date="20231125T191942" />
+	</game>
+	<game>
+		<path>./Games/Bayonetta 3.xci</path>
+		<name>Bayonetta 3</name>
+		<scrap name="ScreenScraper" date="20231125T191944" />
+	</game>
+	<game>
+		<path>./Games/Bubble Bobble 4 Friends (EUR).xci</path>
+		<name>Bubble Bobble 4 Friends (EUR)</name>
+		<scrap name="ScreenScraper" date="20231125T191945" />
+	</game>
+	<game>
+		<path>./Games/Cats On Streets [0100FA601D2F2000].nsp</path>
+		<name>Cats On Streets [0100FA601D2F2000]</name>
+		<md5>634a6fd831bec851dc74e5c01f8fe094</md5>
+		<scrap name="ScreenScraper" date="20231125T191949" />
+	</game>
+	<game id="198331">
+		<path>./Games/Crash Team Racing Nitro-Fueled [0100F9F00C696000][v0].xci</path>
+		<name>Crash Team Racing Nitro-Fueled</name>
+		<desc>Crash is back in the driver's seat! Get ready to go fur-throttle with Crash™ Team Racing Nitro-Fueled. It's the authentic CTR experience plus a whole lot more, now fully-remastered and revved up to the max</desc>
+		<image>./images/Crash Team Racing Nitro-Fueled [0100F9F00C696000][v0]-image.jpg</image>
+		<video>./videos/Crash Team Racing Nitro-Fueled [0100F9F00C696000][v0]-video.mp4</video>
+		<marquee>./images/Crash Team Racing Nitro-Fueled [0100F9F00C696000][v0]-marquee.png</marquee>
+		<thumbnail>./images/Crash Team Racing Nitro-Fueled [0100F9F00C696000][v0]-thumb.png</thumbnail>
+		<fanart>./images/Crash Team Racing Nitro-Fueled [0100F9F00C696000][v0]-fanart.jpg</fanart>
+		<rating>0.8</rating>
+		<releasedate>20190621T000000</releasedate>
+		<developer>Beenox Studios</developer>
+		<publisher>Activision</publisher>
+		<genre>Race, Driving</genre>
+		<family>Crash Bandicoot</family>
+		<players>1-8</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231125T192021" />
+	</game>
+	<game>
+		<path>./Games/Crash Team Racing Nitro-Fueled [NSP + XCI + DLCs + Update 1.0.13]/DLCs/0100f9f00c697001.nsp</path>
+		<name>0100f9f00c697001</name>
+		<md5>7fb2fb8a6040c5e021ab113e35ed81ce</md5>
+		<scrap name="ScreenScraper" date="20231125T192022" />
+	</game>
+	<game>
+		<path>./Games/Crash Team Racing Nitro-Fueled [NSP + XCI + DLCs + Update 1.0.13]/DLCs/0100f9f00c697002.nsp</path>
+		<name>0100f9f00c697002</name>
+		<md5>e693e94dd69c475a39bffcbc7c5b8fdf</md5>
+		<scrap name="ScreenScraper" date="20231125T192023" />
+	</game>
+	<game>
+		<path>./Games/Crash Team Racing Nitro-Fueled [NSP + XCI + DLCs + Update 1.0.13]/DLCs/0100f9f00c697003.nsp</path>
+		<name>0100f9f00c697003</name>
+		<md5>f9e9ae56af27a1b2715e740f49f912b7</md5>
+		<scrap name="ScreenScraper" date="20231125T192024" />
+	</game>
+	<game>
+		<path>./Games/Crash_Bandicoot_4_Its_About_Time_NSW-VENOM/Crash_Bandicoot_4_Its_About_Time_NSW-VENOM totally_tubular_skins_dlc_010073401175f001.nsp</path>
+		<name>Crash_Bandicoot_4_Its_About_Time_NSW-VENOM totally_tubular_skins_dlc_010073401175f001</name>
+		<md5>2830757712e5fcf3e26a6ad1f420afc0</md5>
+		<scrap name="ScreenScraper" date="20231125T192026" />
+	</game>
+	<game>
+		<path>./Games/Crash_Bandicoot_4_Its_About_Time_NSW-VENOM/Crash_Bandicoot_4_Its_About_Time_NSW-VENOM tubular_skins_dlc_010073401175f002.nsp</path>
+		<name>Crash_Bandicoot_4_Its_About_Time_NSW-VENOM tubular_skins_dlc_010073401175f002</name>
+		<md5>137f0376260ae0b1b4b99e6106e43ac3</md5>
+		<scrap name="ScreenScraper" date="20231125T192027" />
+	</game>
+	<game>
+		<path>./Games/Crash_Bandicoot_4_Its_About_Time_NSW-VENOM/Crash_Bandicoot_4_Its_About_Time_NSW-VENOM Update v65536.nsp</path>
+		<name>Crash_Bandicoot_4_Its_About_Time_NSW-VENOM Update v65536</name>
+		<scrap name="ScreenScraper" date="20231125T192028" />
+	</game>
+	<game>
+		<path>./Games/Crash_Bandicoot_4_Its_About_Time_NSW-VENOM.nsp</path>
+		<name>Crash_Bandicoot_4_Its_About_Time_NSW-VENOM</name>
+		<scrap name="ScreenScraper" date="20231125T192029" />
+	</game>
+	<game id="359576">
+		<path>./Games/Darksiders Genesis [NXP + XCI + Update 1.0.1]/Darksiders Genesis[0100F2300D4BA800][US][v65536][Non Patched][Req FW 9.1.0].nsp</path>
+		<name>Darksiders: Genesis</name>
+		<desc>DARKSIDERS GENESIS is an action/adventure that tears its way through Hell and back with guns blazing and swords swinging. Genesis gives players their first look at the world of DARKSIDERS before the events of the original game. Furthermore, it introduces the fourth and last horseman STRIFE, as well as Co-op gameplay for the first time in the history of the franchise.</desc>
+		<image>./images/Darksiders Genesis[0100F2300D4BA800][US][v65536][Non Patched][Req FW 9.1.0]-image.jpg</image>
+		<marquee>./images/Darksiders Genesis[0100F2300D4BA800][US][v65536][Non Patched][Req FW 9.1.0]-marquee.png</marquee>
+		<thumbnail>./images/Darksiders Genesis[0100F2300D4BA800][US][v65536][Non Patched][Req FW 9.1.0]-thumb.png</thumbnail>
+		<fanart>./images/Darksiders Genesis[0100F2300D4BA800][US][v65536][Non Patched][Req FW 9.1.0]-fanart.jpg</fanart>
+		<rating>0.75</rating>
+		<releasedate>20200214T000000</releasedate>
+		<developer>Airship Syndicate</developer>
+		<publisher>THQ Nordic</publisher>
+		<genre>Adventure / RealTime 3D</genre>
+		<family>Darksiders</family>
+		<players>1-2</players>
+		<md5>5551198a3c2ea087adec149235db4b9d</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231125T192053" />
+	</game>
+	<game id="359576">
+		<path>./Games/Darksiders Genesis [NXP + XCI + Update 1.0.1]/Darksiders Genesis[0100F2300D4BA800][US][v65536][Patched FW 9.0.1].nsp</path>
+		<name>Darksiders: Genesis</name>
+		<desc>DARKSIDERS GENESIS is an action/adventure that tears its way through Hell and back with guns blazing and swords swinging. Genesis gives players their first look at the world of DARKSIDERS before the events of the original game. Furthermore, it introduces the fourth and last horseman STRIFE, as well as Co-op gameplay for the first time in the history of the franchise.</desc>
+		<image>./images/Darksiders Genesis[0100F2300D4BA800][US][v65536][Patched FW 9.0.1]-image.jpg</image>
+		<marquee>./images/Darksiders Genesis[0100F2300D4BA800][US][v65536][Patched FW 9.0.1]-marquee.png</marquee>
+		<thumbnail>./images/Darksiders Genesis[0100F2300D4BA800][US][v65536][Patched FW 9.0.1]-thumb.png</thumbnail>
+		<fanart>./images/Darksiders Genesis[0100F2300D4BA800][US][v65536][Patched FW 9.0.1]-fanart.jpg</fanart>
+		<rating>0.75</rating>
+		<releasedate>20200214T000000</releasedate>
+		<developer>Airship Syndicate</developer>
+		<publisher>THQ Nordic</publisher>
+		<genre>Adventure / RealTime 3D</genre>
+		<family>Darksiders</family>
+		<players>1-2</players>
+		<md5>40755007ebf849f56a0a2f9148b55070</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231125T192119" />
+	</game>
+	<game id="359576">
+		<path>./Games/Darksiders Genesis[0100F2300D4BA000][US][v0].xci</path>
+		<name>Darksiders: Genesis</name>
+		<desc>DARKSIDERS GENESIS is an action/adventure that tears its way through Hell and back with guns blazing and swords swinging. Genesis gives players their first look at the world of DARKSIDERS before the events of the original game. Furthermore, it introduces the fourth and last horseman STRIFE, as well as Co-op gameplay for the first time in the history of the franchise.</desc>
+		<image>./images/Darksiders Genesis[0100F2300D4BA000][US][v0]-image.jpg</image>
+		<marquee>./images/Darksiders Genesis[0100F2300D4BA000][US][v0]-marquee.png</marquee>
+		<thumbnail>./images/Darksiders Genesis[0100F2300D4BA000][US][v0]-thumb.png</thumbnail>
+		<fanart>./images/Darksiders Genesis[0100F2300D4BA000][US][v0]-fanart.jpg</fanart>
+		<rating>0.75</rating>
+		<releasedate>20200214T000000</releasedate>
+		<developer>Airship Syndicate</developer>
+		<publisher>THQ Nordic</publisher>
+		<genre>Adventure / RealTime 3D</genre>
+		<family>Darksiders</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231125T192143" />
+	</game>
+	<game>
+		<path>./Games/DEAD OR ALIVE Xtreme 3 Scarlet [NSP + Update +  XCI + DLCs]/All DLCs/01009cc00c97d001.nsp</path>
+		<name>01009cc00c97d001</name>
+		<md5>c793ab2ae1d71245e95055663d4468c8</md5>
+		<scrap name="ScreenScraper" date="20231125T192145" />
+	</game>
+	<game>
+		<path>./Games/DEAD OR ALIVE Xtreme 3 Scarlet [NSP + Update +  XCI + DLCs]/All DLCs/01009cc00c97d002.nsp</path>
+		<name>01009cc00c97d002</name>
+		<md5>e990b75bda6c8ba7f90e3f061506d152</md5>
+		<scrap name="ScreenScraper" date="20231125T192147" />
+	</game>
+	<game>
+		<path>./Games/DEAD OR ALIVE Xtreme 3 Scarlet [NSP + Update +  XCI + DLCs]/All DLCs/01009cc00c97d003.nsp</path>
+		<name>01009cc00c97d003</name>
+		<scrap name="ScreenScraper" date="20231125T192148" />
+	</game>
+	<game>
+		<path>./Games/DEAD OR ALIVE Xtreme 3 Scarlet [NSP + Update +  XCI + DLCs]/All DLCs/01009cc00c97d004.nsp</path>
+		<name>01009cc00c97d004</name>
+		<scrap name="ScreenScraper" date="20231125T192149" />
+	</game>
+	<game>
+		<path>./Games/DEAD OR ALIVE Xtreme 3 Scarlet [NSP + Update +  XCI + DLCs]/All DLCs/01009cc00c97d005.nsp</path>
+		<name>01009cc00c97d005</name>
+		<md5>3e6b2f1bb6f4b55936e05c779e8429f9</md5>
+		<scrap name="ScreenScraper" date="20231125T192151" />
+	</game>
+	<game>
+		<path>./Games/DEAD OR ALIVE Xtreme 3 Scarlet [NSP + Update +  XCI + DLCs]/All DLCs/01009cc00c97d006.nsp</path>
+		<name>01009cc00c97d006</name>
+		<md5>6dce163dca3b72015646e64d8d7f192b</md5>
+		<scrap name="ScreenScraper" date="20231125T192152" />
+	</game>
+	<game>
+		<path>./Games/DEAD OR ALIVE Xtreme 3 Scarlet [NSP + Update +  XCI + DLCs]/All DLCs/01009cc00c97d007.nsp</path>
+		<name>01009cc00c97d007</name>
+		<md5>1a6c2aed7e05268bd1f5a1d8e8eef34a</md5>
+		<scrap name="ScreenScraper" date="20231125T192154" />
+	</game>
+	<game>
+		<path>./Games/DEAD OR ALIVE Xtreme 3 Scarlet [NSP + Update +  XCI + DLCs]/All DLCs/01009cc00c97d008.nsp</path>
+		<name>01009cc00c97d008</name>
+		<md5>c826a94789d952572dee55475ab9926d</md5>
+		<scrap name="ScreenScraper" date="20231125T192155" />
+	</game>
+	<game>
+		<path>./Games/DEAD OR ALIVE Xtreme 3 Scarlet [NSP + Update +  XCI + DLCs]/All DLCs/01009cc00c97d009.nsp</path>
+		<name>01009cc00c97d009</name>
+		<md5>99c5c0444132aeb310a3e34d25de5118</md5>
+		<scrap name="ScreenScraper" date="20231125T192156" />
+	</game>
+	<game>
+		<path>./Games/DEAD OR ALIVE Xtreme 3 Scarlet [NSP + Update +  XCI + DLCs]/All DLCs/01009cc00c97d00a.nsp</path>
+		<name>01009cc00c97d00a</name>
+		<md5>a4a85b9658b53db4805e38a271c869ff</md5>
+		<scrap name="ScreenScraper" date="20231125T192158" />
+	</game>
+	<game>
+		<path>./Games/DEAD OR ALIVE Xtreme 3 Scarlet [NSP + Update +  XCI + DLCs]/All DLCs/01009cc00c97d00b.nsp</path>
+		<name>01009cc00c97d00b</name>
+		<md5>6bb584886a54145161aaaa3857232ace</md5>
+		<scrap name="ScreenScraper" date="20231125T192159" />
+	</game>
+	<game>
+		<path>./Games/DEAD OR ALIVE Xtreme 3 Scarlet [NSP + Update +  XCI + DLCs]/All DLCs/01009cc00c97d00c.nsp</path>
+		<name>01009cc00c97d00c</name>
+		<md5>d0330b4ef55e79372de6b285b5091c00</md5>
+		<scrap name="ScreenScraper" date="20231125T192201" />
+	</game>
+	<game>
+		<path>./Games/DEAD OR ALIVE Xtreme 3 Scarlet [NSP + Update +  XCI + DLCs]/All DLCs/01009cc00c97d00d.nsp</path>
+		<name>01009cc00c97d00d</name>
+		<md5>bcdbdfd01cd51e625e97e15d0bbf5f3b</md5>
+		<scrap name="ScreenScraper" date="20231125T192202" />
+	</game>
+	<game>
+		<path>./Games/DEAD OR ALIVE Xtreme 3 Scarlet [NSP + Update +  XCI + DLCs]/All DLCs/01009cc00c97d010.nsp</path>
+		<name>01009cc00c97d010</name>
+		<md5>d67383d5918a646a4319c1e349130a45</md5>
+		<scrap name="ScreenScraper" date="20231125T192204" />
+	</game>
+	<game>
+		<path>./Games/DEAD OR ALIVE Xtreme 3 Scarlet [NSP + Update +  XCI + DLCs]/All DLCs/01009cc00c97d011.nsp</path>
+		<name>01009cc00c97d011</name>
+		<md5>b49eea733a8b99de5b6b914a998efaa7</md5>
+		<scrap name="ScreenScraper" date="20231125T192205" />
+	</game>
+	<game>
+		<path>./Games/DEAD OR ALIVE Xtreme 3 Scarlet [NSP + Update +  XCI + DLCs]/All DLCs/01009cc00c97d012.nsp</path>
+		<name>01009cc00c97d012</name>
+		<md5>608eac1455c454b09a695f25212ce9b4</md5>
+		<scrap name="ScreenScraper" date="20231125T192207" />
+	</game>
+	<game>
+		<path>./Games/DEAD OR ALIVE Xtreme 3 Scarlet [NSP + Update +  XCI + DLCs]/All DLCs/01009cc00c97d013.nsp</path>
+		<name>01009cc00c97d013</name>
+		<md5>f8a20c2383565cd29315d4664a083e74</md5>
+		<scrap name="ScreenScraper" date="20231125T192209" />
+	</game>
+	<game>
+		<path>./Games/DEAD OR ALIVE Xtreme 3 Scarlet [NSP + Update +  XCI + DLCs]/All DLCs/01009cc00c97d014.nsp</path>
+		<name>01009cc00c97d014</name>
+		<md5>227969e5a96fbc91094e2ab6a81a1950</md5>
+		<scrap name="ScreenScraper" date="20231125T192210" />
+	</game>
+	<game>
+		<path>./Games/DEAD OR ALIVE Xtreme 3 Scarlet [NSP + Update +  XCI + DLCs]/All DLCs/01009cc00c97d015.nsp</path>
+		<name>01009cc00c97d015</name>
+		<md5>f68ea0021436aa6acc17513365e4b9aa</md5>
+		<scrap name="ScreenScraper" date="20231125T192212" />
+	</game>
+	<game>
+		<path>./Games/DEAD OR ALIVE Xtreme 3 Scarlet [NSP + Update +  XCI + DLCs]/All DLCs/01009cc00c97d016.nsp</path>
+		<name>01009cc00c97d016</name>
+		<md5>e9d51dd4cb0df99135e5708380cddfaf</md5>
+		<scrap name="ScreenScraper" date="20231125T192213" />
+	</game>
+	<game>
+		<path>./Games/DEAD OR ALIVE Xtreme 3 Scarlet [NSP + Update +  XCI + DLCs]/All DLCs/01009cc00c97d017.nsp</path>
+		<name>01009cc00c97d017</name>
+		<md5>4c7c96aa5614d97c542fa2287283d392</md5>
+		<scrap name="ScreenScraper" date="20231125T192215" />
+	</game>
+	<game>
+		<path>./Games/DEAD OR ALIVE Xtreme 3 Scarlet [NSP + Update +  XCI + DLCs]/All DLCs/01009cc00c97d018.nsp</path>
+		<name>01009cc00c97d018</name>
+		<md5>608f97e7a7148504e6bbdedf57fff537</md5>
+		<scrap name="ScreenScraper" date="20231125T192216" />
+	</game>
+	<game>
+		<path>./Games/DEAD OR ALIVE Xtreme 3 Scarlet [NSP + Update +  XCI + DLCs]/All DLCs/01009cc00c97d019.nsp</path>
+		<name>01009cc00c97d019</name>
+		<md5>b5c0c8ab16ba5fe4ba563076c219a78b</md5>
+		<scrap name="ScreenScraper" date="20231125T192218" />
+	</game>
+	<game>
+		<path>./Games/DEAD OR ALIVE Xtreme 3 Scarlet [NSP + Update +  XCI + DLCs]/All DLCs/01009cc00c97d01a.nsp</path>
+		<name>01009cc00c97d01a</name>
+		<md5>f7d4032597a0e70fc6cea4c8273142eb</md5>
+		<scrap name="ScreenScraper" date="20231125T192220" />
+	</game>
+	<game>
+		<path>./Games/DEAD OR ALIVE Xtreme 3 Scarlet [NSP + Update +  XCI + DLCs]/All DLCs/01009cc00c97d01b.nsp</path>
+		<name>01009cc00c97d01b</name>
+		<md5>32c6a95abf4c4fd19b7e917bd8d93f8f</md5>
+		<scrap name="ScreenScraper" date="20231125T192221" />
+	</game>
+	<game>
+		<path>./Games/DEAD OR ALIVE Xtreme 3 Scarlet [NSP + Update +  XCI + DLCs]/All DLCs/01009cc00c97d01c.nsp</path>
+		<name>01009cc00c97d01c</name>
+		<md5>1a2f313b9a1a8387cebbebc161fc99ec</md5>
+		<scrap name="ScreenScraper" date="20231125T192223" />
+	</game>
+	<game>
+		<path>./Games/DEAD OR ALIVE Xtreme 3 Scarlet [NSP + Update +  XCI + DLCs]/All DLCs/01009cc00c97d01d.nsp</path>
+		<name>01009cc00c97d01d</name>
+		<md5>73f1bc8c1a35d56a67fe7ebbbe9c31f7</md5>
+		<scrap name="ScreenScraper" date="20231125T192224" />
+	</game>
+	<game>
+		<path>./Games/DEAD OR ALIVE Xtreme 3 Scarlet [NSP + Update +  XCI + DLCs]/All DLCs/01009cc00c97d01e.nsp</path>
+		<name>01009cc00c97d01e</name>
+		<md5>77e3455ea6ccb1d8d187af54e887b507</md5>
+		<scrap name="ScreenScraper" date="20231125T192225" />
+	</game>
+	<game>
+		<path>./Games/DEAD OR ALIVE Xtreme 3 Scarlet [NSP + Update +  XCI + DLCs]/All DLCs/01009cc00c97d01f.nsp</path>
+		<name>01009cc00c97d01f</name>
+		<md5>c8548060d9d091ada92b76195a66ea78</md5>
+		<scrap name="ScreenScraper" date="20231125T192226" />
+	</game>
+	<game>
+		<path>./Games/DEAD OR ALIVE Xtreme 3 Scarlet [NSP + Update +  XCI + DLCs]/All DLCs/01009cc00c97d020.nsp</path>
+		<name>01009cc00c97d020</name>
+		<md5>d06ce2dc6cc23a05c2bbc66399c99166</md5>
+		<scrap name="ScreenScraper" date="20231125T192228" />
+	</game>
+	<game>
+		<path>./Games/DEAD OR ALIVE Xtreme 3 Scarlet [NSP + Update +  XCI + DLCs]/All DLCs/01009cc00c97d021.nsp</path>
+		<name>01009cc00c97d021</name>
+		<md5>06a23551a51015576569066ce79f966e</md5>
+		<scrap name="ScreenScraper" date="20231125T192229" />
+	</game>
+	<game>
+		<path>./Games/DEAD OR ALIVE Xtreme 3 Scarlet [NSP + Update +  XCI + DLCs]/All DLCs/01009cc00c97d022.nsp</path>
+		<name>01009cc00c97d022</name>
+		<md5>e114995191b43dc5e0ef1893dc969f49</md5>
+		<scrap name="ScreenScraper" date="20231125T192231" />
+	</game>
+	<game>
+		<path>./Games/DEAD OR ALIVE Xtreme 3 Scarlet [NSP + Update +  XCI + DLCs]/All DLCs/01009cc00c97d023.nsp</path>
+		<name>01009cc00c97d023</name>
+		<md5>c9d7710f451a87efcdfdb52e383183fa</md5>
+		<scrap name="ScreenScraper" date="20231125T192232" />
+	</game>
+	<game>
+		<path>./Games/DEAD OR ALIVE Xtreme 3 Scarlet [NSP + Update +  XCI + DLCs]/All DLCs/01009cc00c97d024.nsp</path>
+		<name>01009cc00c97d024</name>
+		<md5>3e67f4d2b81cd562fd15e42cb64fd303</md5>
+		<scrap name="ScreenScraper" date="20231125T192234" />
+	</game>
+	<game>
+		<path>./Games/DEAD OR ALIVE Xtreme 3 Scarlet [NSP + Update +  XCI + DLCs]/All DLCs/01009cc00c97d025.nsp</path>
+		<name>01009cc00c97d025</name>
+		<md5>dda7fa5b61f4abcd749f9827896d6708</md5>
+		<scrap name="ScreenScraper" date="20231125T192235" />
+	</game>
+	<game>
+		<path>./Games/DEAD OR ALIVE Xtreme 3 Scarlet [NSP + Update +  XCI + DLCs]/All DLCs/01009cc00c97d02f.nsp</path>
+		<name>01009cc00c97d02f</name>
+		<md5>ec1140e6a07e82154a1a39669ab1c31c</md5>
+		<scrap name="ScreenScraper" date="20231125T192237" />
+	</game>
+	<game>
+		<path>./Games/DEAD OR ALIVE Xtreme 3 Scarlet [NSP + Update +  XCI + DLCs]/All DLCs/01009cc00c97d030.nsp</path>
+		<name>01009cc00c97d030</name>
+		<md5>4548531e518847a98e255a3d99cd847f</md5>
+		<scrap name="ScreenScraper" date="20231125T192238" />
+	</game>
+	<game>
+		<path>./Games/DEAD OR ALIVE Xtreme 3 Scarlet [NSP + Update +  XCI + DLCs]/All DLCs/01009cc00c97d031.nsp</path>
+		<name>01009cc00c97d031</name>
+		<md5>53add93aac580615b7cd891d2b0aa9e9</md5>
+		<scrap name="ScreenScraper" date="20231125T192239" />
+	</game>
+	<game>
+		<path>./Games/DEAD OR ALIVE Xtreme 3 Scarlet [NSP + Update +  XCI + DLCs]/All DLCs/01009cc00c97d032.nsp</path>
+		<name>01009cc00c97d032</name>
+		<md5>d2df98037340045a94d5806af0fc1142</md5>
+		<scrap name="ScreenScraper" date="20231125T192241" />
+	</game>
+	<game>
+		<path>./Games/DEAD OR ALIVE Xtreme 3 Scarlet [NSP + Update +  XCI + DLCs]/All DLCs/01009cc00c97d033.nsp</path>
+		<name>01009cc00c97d033</name>
+		<md5>3072a6ef4c58ae74a25cfd1e3b6399b2</md5>
+		<scrap name="ScreenScraper" date="20231125T192242" />
+	</game>
+	<game>
+		<path>./Games/DEAD OR ALIVE Xtreme 3 Scarlet [NSP + Update +  XCI + DLCs]/All DLCs/01009cc00c97d034.nsp</path>
+		<name>01009cc00c97d034</name>
+		<md5>aeaba77c34862634afdfbce1be08e4a7</md5>
+		<scrap name="ScreenScraper" date="20231125T192244" />
+	</game>
+	<game>
+		<path>./Games/DEAD OR ALIVE Xtreme 3 Scarlet [NSP + Update +  XCI + DLCs]/All DLCs/01009cc00c97d035.nsp</path>
+		<name>01009cc00c97d035</name>
+		<md5>afe1708c2b3da987e278d052d6926591</md5>
+		<scrap name="ScreenScraper" date="20231125T192245" />
+	</game>
+	<game>
+		<path>./Games/DEAD OR ALIVE Xtreme 3 Scarlet [NSP + Update +  XCI + DLCs]/All DLCs/01009cc00c97d036.nsp</path>
+		<name>01009cc00c97d036</name>
+		<md5>5e13f31bffbf16dce4726cde77356d93</md5>
+		<scrap name="ScreenScraper" date="20231125T192247" />
+	</game>
+	<game>
+		<path>./Games/DEAD OR ALIVE Xtreme 3 Scarlet [NSP + Update +  XCI + DLCs]/All DLCs/01009cc00c97d037.nsp</path>
+		<name>01009cc00c97d037</name>
+		<md5>12a5913cee9ee56f1a8f512e067fde65</md5>
+		<scrap name="ScreenScraper" date="20231125T192248" />
+	</game>
+	<game>
+		<path>./Games/DEAD OR ALIVE Xtreme 3 Scarlet 基本無料版[01009CC00C97C800].xci</path>
+		<name>DEAD OR ALIVE Xtreme 3 Scarlet 基本無料版[01009CC00C97C800]</name>
+		<scrap name="ScreenScraper" date="20231125T192250" />
+	</game>
+	<game>
+		<path>./Games/Highway Moto Racing Rush 2023 - Simulator [01002F801BEA8000].nsp</path>
+		<name>Highway Moto Racing Rush 2023 - Simulator [01002F801BEA8000]</name>
+		<scrap name="ScreenScraper" date="20231125T192251" />
+	</game>
+	<game>
+		<path>./Games/Little Nightmares Complete Edition [NSP + Update 1.0.2 + 2 DLCs]/Little Nightmares Complete Edition [Little Nightmares - Fox Mask] [01002FC00412D001][v0].nsp</path>
+		<name>Little Nightmares Complete Edition [Little Nightmares - Fox Mask] [01002FC00412D001][v0]</name>
+		<md5>147ceee2582e5a207c3beea33c11e8cc</md5>
+		<scrap name="ScreenScraper" date="20231125T192253" />
+	</game>
+	<game>
+		<path>./Games/Little Nightmares Complete Edition [NSP + Update 1.0.2 + 2 DLCs]/Little Nightmares Complete Edition [Little Nightmares - Tengu Mask] [01002FC00412D002][v0].nsp</path>
+		<name>Little Nightmares Complete Edition [Little Nightmares - Tengu Mask] [01002FC00412D002][v0]</name>
+		<md5>83d0e8c23d52a3b807c1f3033b4232f8</md5>
+		<scrap name="ScreenScraper" date="20231125T192255" />
+	</game>
+	<game id="198375">
+		<path>./Games/MARVEL ULTIMATE ALLIANCE 3 The Black Order [010060700AC50000][v262144] (1G+1U+1D).xci</path>
+		<name>Marvel Ultimate Alliance 3 The Black Order</name>
+		<desc>In this new storyline, heroes and villains unite in a race across the Marvel Universe to find the Infinity Stones before Thanos and The Black Order use them to unleash cosmic chaos. From Avengers Tower to the X-Mansion and beyond, every stop on the dangerous quest to thwart Thanos results in unexpected collisions of fan-favorite characters and iconic locations.</desc>
+		<image>./images/MARVEL ULTIMATE ALLIANCE 3 The Black Order [010060700AC50000][v262144] (1G+1U+1D)-image.jpg</image>
+		<video>./videos/MARVEL ULTIMATE ALLIANCE 3 The Black Order [010060700AC50000][v262144] (1G+1U+1D)-video.mp4</video>
+		<marquee>./images/MARVEL ULTIMATE ALLIANCE 3 The Black Order [010060700AC50000][v262144] (1G+1U+1D)-marquee.png</marquee>
+		<thumbnail>./images/MARVEL ULTIMATE ALLIANCE 3 The Black Order [010060700AC50000][v262144] (1G+1U+1D)-thumb.png</thumbnail>
+		<fanart>./images/MARVEL ULTIMATE ALLIANCE 3 The Black Order [010060700AC50000][v262144] (1G+1U+1D)-fanart.jpg</fanart>
+		<rating>0.7</rating>
+		<releasedate>20190719T000000</releasedate>
+		<developer>Koei</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role playing games</genre>
+		<family>Marvel</family>
+		<players>1-4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231125T192326" />
+	</game>
+	<game>
+		<path>./Games/Mega Man Zero ZX - Legacy Collection (USA) [XCI + UPDATE]/v-mega_man_zero_zx_legacy_collection_v196608.nsp</path>
+		<name>v-mega_man_zero_zx_legacy_collection_v196608</name>
+		<md5>dba9fc5483b301e1c994890a767d490c</md5>
+		<scrap name="ScreenScraper" date="20231125T192331" />
+	</game>
+	<game id="359774">
+		<path>./Games/Mega Man Zero ZX - Legacy Collection (USA).xci</path>
+		<name>Mega Man Zero/ZX Legacy Collection</name>
+		<desc>Mega Man Zero/ZX Legacy Collection brings together six classic titles in one game: Mega Man Zero 1, 2, 3, and 4, as well as Mega Man ZX and ZX Advent.In addition to the original games, Casual Scenario Mode and a Save-Assist feature are available for those who would like to enjoy the story at their own pace. Players can also try their hand at the new leaderboard-based Z Chaser Mode, an exclusive new mode created just for this set of games</desc>
+		<image>./images/Mega Man Zero ZX - Legacy Collection (USA)-image.jpg</image>
+		<marquee>./images/Mega Man Zero ZX - Legacy Collection (USA)-marquee.png</marquee>
+		<thumbnail>./images/Mega Man Zero ZX - Legacy Collection (USA)-thumb.png</thumbnail>
+		<fanart>./images/Mega Man Zero ZX - Legacy Collection (USA)-fanart.jpg</fanart>
+		<rating>0.9</rating>
+		<releasedate>20200225T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Compilation</genre>
+		<family>Mega Man</family>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231125T192355" />
+	</game>
+	<game id="359773">
+		<path>./Games/Metro Redux (EUR) [XCI].xci</path>
+		<name>Metro Redux</name>
+		<desc>In 2013 the world was devastated by an apocalyptic event, annihilating almost all mankind and turning the earth’s surface into a poisonous wasteland. A handful of survivors took refuge in the depths of the Moscow underground, and human civilization entered a new Dark Age.The year is 2033. An entire generation has been born and raised underground, and their besieged Metro Station-Cities struggle for survival, with each other, and the mutant horrors that await outside.You are Artyom, born in the last days before the fire, but raised underground. Having never ventured beyond the city limits, one fateful event sparks a desperate mission to the heart of the Metro system, to warn the remnants of mankind of a terrible impending threat.But will they even listen? Rather than stand united, the factions of the Metro are locked in a struggle for the ultimate power, a doomsday device from the military vaults of D6. A civil war is stirring that could wipe humanity from the face of the earth forever.Including the epic single-player campaigns of both Metro 2033 and Metro: Last Light, Metro Redux takes you on a journey from the forgotten catacombs beneath the subway to the desolate wastelands above, where your actions will determine the fate of mankind.Metro Redux is the ultimate double game collection, including the definitive versions of both Metro 2033 and Metro: Last Light, now available on Nintendo Switch™Newcomers to the series will get the chance to experience two of the finest story-driven shooters of all time in one vast package; an epic adventure combining gripping survival horror, exploration and tactical combat and stealth.Those who favoured the more survival-horror oriented gameplay of ‘Metro 2033’ can play both campaigns in the ‘Survival’ Play-Style, a fraught, slow burn fight for survival. Those who enjoyed the more action-oriented gameplay of ‘Metro: Last Light’ can try the ‘Spartan’ Play-Style, providing Artyom with a powerful set of combat skills.With the legendary Ranger Mode included to offer an extra layer of challenge and immersion, and all previous released DLC, Metro Redux offers 50+ hours of AAA FPS gameplay for an incredible price.</desc>
+		<image>./images/Metro Redux (EUR) [XCI]-image.jpg</image>
+		<marquee>./images/Metro Redux (EUR) [XCI]-marquee.png</marquee>
+		<thumbnail>./images/Metro Redux (EUR) [XCI]-thumb.png</thumbnail>
+		<releasedate>20200228T000000</releasedate>
+		<developer>4A Games</developer>
+		<publisher>Deep Silver</publisher>
+		<genre>Compilation</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231125T192414" />
+	</game>
+	<game>
+		<path>./Games/MONSTER_HUNTER_RISE_NSW-VENOM/v-monster_hunter_rise_v131072.nsp</path>
+		<name>v-monster_hunter_rise_v131072</name>
+		<scrap name="ScreenScraper" date="20231125T192415" />
+	</game>
+	<game>
+		<path>./Games/MONSTER_HUNTER_RISE_NSW-VENOM.xci</path>
+		<name>MONSTER_HUNTER_RISE_NSW-VENOM</name>
+		<scrap name="ScreenScraper" date="20231125T192416" />
+	</game>
+	<game>
+		<path>./Games/Overcooked_All_You_Can_Eat_NSW-NiiNTENDO/n-overcookedayce_v131072.nsp</path>
+		<name>n-overcookedayce_v131072</name>
+		<scrap name="ScreenScraper" date="20231125T192417" />
+	</game>
+	<game>
+		<path>./Games/Overcooked_All_You_Can_Eat_NSW-NiiNTENDO.xci</path>
+		<name>Overcooked_All_You_Can_Eat_NSW-NiiNTENDO</name>
+		<scrap name="ScreenScraper" date="20231125T192419" />
+	</game>
+	<game>
+		<path>./Games/Party Party Time (JPN) (En,Ja,Ko,Cht) [0100C6A019C84000]/Party Party Time (JPN) (En,Ja,Ko,Cht) (DLC - Thrilling Party Pack) [0100C6A019C85008]/hr-bd8qh-tpp-dlc.nsp</path>
+		<name>hr-bd8qh-tpp-dlc</name>
+		<md5>e06be56264a507b1b2069c57d1a8104c</md5>
+		<scrap name="ScreenScraper" date="20231125T192421" />
+	</game>
+	<game>
+		<path>./Games/Party Party Time (JPN) (En,Ja,Ko,Cht) [0100C6A019C84000]/Party Party Time (JPN) (En,Ja,Ko,Cht) (Update v1.0.13) [0100C6A019C84800]/hr-bd8qhv851968.nsp</path>
+		<name>hr-bd8qhv851968</name>
+		<scrap name="ScreenScraper" date="20231125T192423" />
+	</game>
+	<game>
+		<path>./Games/Party Party Time (JPN) (En,Ja,Ko,Cht) [0100C6A019C84000].xci</path>
+		<name>Party Party Time (JPN) (En,Ja,Ko,Cht) [0100C6A019C84000]</name>
+		<scrap name="ScreenScraper" date="20231125T192424" />
+	</game>
+	<game>
+		<path>./Games/Plants_vs._Zombies_Battle_for_Neighborville_Complete_Edition_NSW-HR/hr-axb3av131072.nsp</path>
+		<name>hr-axb3av131072</name>
+		<md5>84520d8a1c5e8b49a4faeb3c28a63d5b</md5>
+		<scrap name="ScreenScraper" date="20231125T192427" />
+	</game>
+	<game>
+		<path>./Games/Plants_vs._Zombies_Battle_for_Neighborville_Complete_Edition_NSW-HR.xci</path>
+		<name>Plants_vs._Zombies_Battle_for_Neighborville_Complete_Edition_NSW-HR</name>
+		<scrap name="ScreenScraper" date="20231125T192428" />
+	</game>
+	<game id="359653">
+		<path>./Games/Pokemon Mystery Dungeon Rescue Team DX + Update [NSP]/Pokemon Mystery Dungeon Rescue Team DX[01003D200BAA2800][US][v65536].nsp</path>
+		<name>Pokémon Mystery Dungeon: Rescue Team DX</name>
+		<desc>What if you woke up one day, and you were a Pokémon? You can meet and recruit Pokémon in a dungeon-crawling adventure within their world! Build a rescue team to take on mysterious, changing dungeons and strategically plan your moves as you venture forth to make the Pokémon world a safer place…and uncover your true purpose along the way.As you recruit Pokémon, these trusty teammates will need somewhere to stay, so build rescue team camps to house, manage, and strengthen your Pokémon friends. Think hard about who is right for the job and how to approach each mysterious dungeon as you prepare a rescue team. You’ll move a single square at a time or use Auto mode to speed up movement until you engage other Pokémon in turn-based battles—but don’t forget about Pokémon strengths, weaknesses and potential rare qualities! This version adds Mega Evolved Pokémon, gorgeous watercolor-inspired graphics, and more! Get comfortable in your Pokémon form, there’s a lot of work to do.</desc>
+		<image>./images/Pokemon Mystery Dungeon Rescue Team DX[01003D200BAA2800][US][v65536]-image.jpg</image>
+		<marquee>./images/Pokemon Mystery Dungeon Rescue Team DX[01003D200BAA2800][US][v65536]-marquee.png</marquee>
+		<thumbnail>./images/Pokemon Mystery Dungeon Rescue Team DX[01003D200BAA2800][US][v65536]-thumb.png</thumbnail>
+		<fanart>./images/Pokemon Mystery Dungeon Rescue Team DX[01003D200BAA2800][US][v65536]-fanart.jpg</fanart>
+		<rating>0.7</rating>
+		<releasedate>20200306T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure</genre>
+		<family>Pokémon</family>
+		<players>1</players>
+		<md5>9362b50915b1027e2e64d3dca09887ed</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231125T192455" />
+	</game>
+	<game id="359649">
+		<path>./Games/Pokemon Shield [World] [En,Fr,It,Pt,De,Es,Zh,Tw] [01008DB008C2C000][v0].xci</path>
+		<name>Pokémon Shield</name>
+		<desc>A new generation of Pokémon is coming to the Nintendo Switch™ system. Begin your adventure as a Pokémon Trainer by choosing one of three new partner Pokémon: Grookey, Scorbunny, or Sobble. Then embark on a journey in the new Galar region, where you'll challenge the troublemakers of Team Yell, while unraveling the mystery behind the Legendary Pokémon Zacian and Zamazenta! Explore the Wild Area, a vast expanse of land where the player can freely control the camera.</desc>
+		<image>./images/Pokemon Shield [World] [En,Fr,It,Pt,De,Es,Zh,Tw] [01008DB008C2C000][v0]-image.jpg</image>
+		<video>./videos/Pokemon Shield [World] [En,Fr,It,Pt,De,Es,Zh,Tw] [01008DB008C2C000][v0]-video.mp4</video>
+		<marquee>./images/Pokemon Shield [World] [En,Fr,It,Pt,De,Es,Zh,Tw] [01008DB008C2C000][v0]-marquee.png</marquee>
+		<thumbnail>./images/Pokemon Shield [World] [En,Fr,It,Pt,De,Es,Zh,Tw] [01008DB008C2C000][v0]-thumb.png</thumbnail>
+		<fanart>./images/Pokemon Shield [World] [En,Fr,It,Pt,De,Es,Zh,Tw] [01008DB008C2C000][v0]-fanart.jpg</fanart>
+		<rating>0.8</rating>
+		<releasedate>20191115T000000</releasedate>
+		<developer>Game Freak</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role playing games / Action RPG</genre>
+		<family>Pokémon</family>
+		<players>1-4</players>
+		<lang>de,en,es,pt,fr,it,cn</lang>
+		<region>cn</region>
+		<scrap name="ScreenScraper" date="20231125T192524" />
+	</game>
+	<game id="359559">
+		<path>./Games/SAMURAI SHODOWN [Japan] [En,Ja,Zh] [01008FC00D964000].xci</path>
+		<name>Samurai Shodown</name>
+		<desc>SAMURAI SHODOWN has enjoyed worldwide success as a blade-wielding fighting game series since its first release in 1993. 11 years have passed since the last series installment, and it is now time for SAMURAI SHODOWN to return in a brand-new game featuring high-end visuals and gameplay! Faithfully reproducing the game mechanics and atmosphere that contributed to the success of the series, SAMURAI SHODOWN includes a revolutionary feature that learns players' game actions and patterns in order to create CPU-controlled “ghost” characters. With its story set one year before the very first installment, warriors and combatants from various backgrounds and with their own goals are about to battle to fulfill their destinies!</desc>
+		<image>./images/SAMURAI SHODOWN [Japan] [En,Ja,Zh] [01008FC00D964000]-image.jpg</image>
+		<video>./videos/SAMURAI SHODOWN [Japan] [En,Ja,Zh] [01008FC00D964000]-video.mp4</video>
+		<thumbnail>./images/SAMURAI SHODOWN [Japan] [En,Ja,Zh] [01008FC00D964000]-thumb.png</thumbnail>
+		<fanart>./images/SAMURAI SHODOWN [Japan] [En,Ja,Zh] [01008FC00D964000]-fanart.jpg</fanart>
+		<rating>0.75</rating>
+		<releasedate>20200225T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Samurai Shodown</family>
+		<players>1-2</players>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20231125T192549" />
+	</game>
+	<game>
+		<path>./Games/SEGA Mega Drive Classics (EUR) [XCI + UPDATES x 2]/v-segamdc_v131072.nsp</path>
+		<name>v-segamdc_v131072</name>
+		<md5>d538eb0c747576642b66e8061eac75cf</md5>
+		<scrap name="ScreenScraper" date="20231125T192551" />
+	</game>
+	<game>
+		<path>./Games/SEGA Mega Drive Classics (EUR) [XCI + UPDATES x 2]/v-segamdc_v65536.nsp</path>
+		<name>v-segamdc_v65536</name>
+		<md5>02d8eb6ef1486f6f7ca652c187ec4244</md5>
+		<scrap name="ScreenScraper" date="20231125T192554" />
+	</game>
+	<game id="197923">
+		<path>./Games/SEGA Mega Drive Classics (EUR).xci</path>
+		<name>Sega Mega Drive Classics</name>
+		<desc>Including over 50 titles across all genres, from all-time classics like Sonic and Streets of Rage 2 to deep RPGs like the Phantasy Star series; arcade action, shooters, beat'm ups, puzzles, old favorites and hidden gems. There is a classic title for every player to enjoy!
+
+New features also bring modern convenience to the classics. Save your game at any time, rewind those slip-ups, or customize your controls. Earn bragging rights with online multiplayer and achievements.</desc>
+		<image>./images/SEGA Mega Drive Classics (EUR)-image.jpg</image>
+		<marquee>./images/SEGA Mega Drive Classics (EUR)-marquee.png</marquee>
+		<thumbnail>./images/SEGA Mega Drive Classics (EUR)-thumb.png</thumbnail>
+		<fanart>./images/SEGA Mega Drive Classics (EUR)-fanart.jpg</fanart>
+		<releasedate>20181207T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231125T192618" />
+	</game>
+	<game id="427892">
+		<path>./Games/STAR WARS Jedi Knight II Jedi Outcast [0100BB500EACA000][v131072] (1G+1U).xci</path>
+		<name>Star Wars Jedi Knight II: Jedi Outcast</name>
+		<thumbnail>./images/STAR WARS Jedi Knight II Jedi Outcast [0100BB500EACA000][v131072] (1G+1U)-thumb.png</thumbnail>
+		<releasedate>20201110T000000</releasedate>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231125T192625" />
+	</game>
+	<game id="359426">
+		<path>./Games/Super Mario 3D World + Bowsers Fury [Rev 1.0.0] (USA) (Update_v1.1.0).nsp</path>
+		<name>Super Mario 3D World + Bowser's Fury</name>
+		<desc>Power up, team up, one up to save the Sprixie Kingdom! Pounce and climb through dozens of colorful courses! Mario (and his friends) can use a variety of power-ups like the Super Bell, which grants catlike abilities like climbing and scratching. Team up with up to three other players locally* or online** to reach the goal and see who can get a high score. Explore a seamless feline world in the new Bowser's Fury adventure: Free-roaming Super Mario gameplay makes a return in this brand-new adventure. Bowser has become gargantuan and lost all control! Explore Lake Lapcat and its islands, complete objectives to collect Cat Shines, and team up with Bowser Jr. to bring his big, bad dad back to normal. Just watch out for Bowser's island-wide attacks.</desc>
+		<image>./images/Super Mario 3D World + Bowsers Fury [Rev 1.0.0] (USA) (Update_v1.1.0)-image.jpg</image>
+		<video>./videos/Super Mario 3D World + Bowsers Fury [Rev 1.0.0] (USA) (Update_v1.1.0)-video.mp4</video>
+		<marquee>./images/Super Mario 3D World + Bowsers Fury [Rev 1.0.0] (USA) (Update_v1.1.0)-marquee.png</marquee>
+		<thumbnail>./images/Super Mario 3D World + Bowsers Fury [Rev 1.0.0] (USA) (Update_v1.1.0)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20210212T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action / Adventure</genre>
+		<family>Super Mario Bros</family>
+		<players>1-4</players>
+		<md5>220c94d4c03cd1b4fc6429da8d67f459</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231125T192651" />
+	</game>
+	<game id="433543">
+		<path>./Games/Super Mario Bros. Wonder [010015100B514000][v0][US].xci</path>
+		<name>Super Mario Bros. Wonder</name>
+		<desc>Find wonder in the next evolution of Mario funClassic Mario side-scrolling gameplay is turned on its head with the addition of Wonder Flowers. These game-changing items trigger spectacular moments you have to see to believe...Witness pipes coming alive, wreak havoc as a giant spiky ball, and see even more unexpected events called Wonder Effects.Pick from heroic Super Mario™ characters and Power-UpsChoose from familiar characters including Mario, Luigi, Peach, Daisy, Yoshi and Toad. Transform into Elephant Mario to use your trunk to trounce enemies with a surprising new Power-Up!Share the wonder with friends and Mario fansTeam up with up to three friends locally* and gather around one Nintendo Switch™ system to experience the game-bending Wonder Effects together as you tackle courses as a team and help each other on your way to the goal.</desc>
+		<image>./images/Super Mario Bros. Wonder [010015100B514000][v0][US]-image.jpg</image>
+		<video>./videos/Super Mario Bros. Wonder [010015100B514000][v0][US]-video.mp4</video>
+		<marquee>./images/Super Mario Bros. Wonder [010015100B514000][v0][US]-marquee.png</marquee>
+		<thumbnail>./images/Super Mario Bros. Wonder [010015100B514000][v0][US]-thumb.png</thumbnail>
+		<fanart>./images/Super Mario Bros. Wonder [010015100B514000][v0][US]-fanart.jpg</fanart>
+		<releasedate>20231020T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform / Run Jump</genre>
+		<players>1-4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231125T192722" />
+	</game>
+	<game>
+		<path>./Games/Super Mario RPG [0100BC0018138000][v0].nsp</path>
+		<name>Super Mario RPG [0100BC0018138000][v0]</name>
+		<scrap name="ScreenScraper" date="20231125T192723" />
+	</game>
+	<game id="359421">
+		<path>./Games/Super Robot Wars X [Asia] [Ja,En,Ko,Tw] [010026800E304000].xci</path>
+		<name>Super Robot Wars X</name>
+		<desc>The fates of warriors X-cross once again in a new world.
+
+The latest in the Super Robot Wars series! Super Robot Wars X tells the story of super robots who get sucked into a strange new world. This scenario-based story concludes within this game.
+
+In addition to titles making their debut in the Super Robot Wars series like Gundam Reconguista in G, Buddy Complex, and Mashin Hero Wataru, titles that surpass the mecha genre like Nadia: The Secret of Blue Water also make an appearance.
+
+Witness the battles unfold in this dazzling new world!</desc>
+		<image>./images/Super Robot Wars X [Asia] [Ja,En,Ko,Tw] [010026800E304000]-image.jpg</image>
+		<marquee>./images/Super Robot Wars X [Asia] [Ja,En,Ko,Tw] [010026800E304000]-marquee.png</marquee>
+		<thumbnail>./images/Super Robot Wars X [Asia] [Ja,En,Ko,Tw] [010026800E304000]-thumb.png</thumbnail>
+		<fanart>./images/Super Robot Wars X [Asia] [Ja,En,Ko,Tw] [010026800E304000]-fanart.jpg</fanart>
+		<rating>0.9</rating>
+		<releasedate>20200110T000000</releasedate>
+		<developer>B.B. Studio</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Strategy</genre>
+		<family>Super Robot Wars</family>
+		<players>1</players>
+		<lang>jp,en,cn</lang>
+		<region>cn</region>
+		<scrap name="ScreenScraper" date="20231125T192747" />
+	</game>
+	<game>
+		<path>./Games/Super_Smash_Bros_Ultimate/Super_Smash_Bros_Ultimate_Update_v11.0.0_NSW-VENOM.nsp</path>
+		<name>Super_Smash_Bros_Ultimate_Update_v11.0.0_NSW-VENOM</name>
+		<scrap name="ScreenScraper" date="20231125T192748" />
+	</game>
+	<game>
+		<path>./Games/Super_Smash_Bros_Ultimate/v-ssbu_arthur_01006a800016f048.nsp</path>
+		<name>v-ssbu_arthur_01006a800016f048</name>
+		<md5>f0fa305ac6560bee49cfc68386fad92c</md5>
+		<scrap name="ScreenScraper" date="20231125T192750" />
+	</game>
+	<game>
+		<path>./Games/Super_Smash_Bros_Ultimate/v-ssbu_felyne_01006a800016f049.nsp</path>
+		<name>v-ssbu_felyne_01006a800016f049</name>
+		<md5>44822116b9852c84456dbd766d579c93</md5>
+		<scrap name="ScreenScraper" date="20231125T192751" />
+	</game>
+	<game>
+		<path>./Games/Super_Smash_Bros_Ultimate/v-ssbu_hunters_01006a800016f04a.nsp</path>
+		<name>v-ssbu_hunters_01006a800016f04a</name>
+		<md5>7f481c8cac9167840e158c221f04dbfd</md5>
+		<scrap name="ScreenScraper" date="20231125T192753" />
+	</game>
+	<game>
+		<path>./Games/Super_Smash_Bros_Ultimate/v-ssbu_rathalos_01006a800016f04b.nsp</path>
+		<name>v-ssbu_rathalos_01006a800016f04b</name>
+		<md5>affea66addb54d7f85f2a5e17d5dfa91</md5>
+		<scrap name="ScreenScraper" date="20231125T192754" />
+	</game>
+	<game>
+		<path>./Games/Super_Smash_Bros_Ultimate/v-ssbu_ultimate_spirits_set_01006a800016f083.nsp</path>
+		<name>v-ssbu_ultimate_spirits_set_01006a800016f083</name>
+		<md5>dbe5e0c39d8e479473ed662cfb64dcfc</md5>
+		<scrap name="ScreenScraper" date="20231125T192756" />
+	</game>
+	<game id="359405">
+		<path>./Games/Taxi Chaos[0100B76011DAA000][v0].nsp</path>
+		<name>Taxi Chaos</name>
+		<marquee>./images/Taxi Chaos[0100B76011DAA000][v0]-marquee.png</marquee>
+		<thumbnail>./images/Taxi Chaos[0100B76011DAA000][v0]-thumb.png</thumbnail>
+		<releasedate>20210223T000000</releasedate>
+		<publisher>Lion Castle</publisher>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231125T192809" />
+	</game>
+	<game id="198483">
+		<path>./Games/The Legend of Zelda Link's Awakening [World] [Ja,En,Es,Fr,De,It,Nl,Ru,Ko,Zh] [01006BB00C6F0000] (1).xci</path>
+		<name>The Legend Of Zelda : Link's Awakening</name>
+		<desc>As Link, you awaken in a strange land away from Hyrule, where animals talk and monsters roam. To uncover the truth behind your whereabouts and rouse the legendary Wind Fish, explore Koholint Island and all its trap-ridden dungeons, reimagined in stunning detail for this new release of one of the most beloved The Legend of Zelda games. Along the way, you'll meet a hilarious assortment of charming characters to which you'll never want to say goodbye.</desc>
+		<image>./images/The Legend of Zelda Link's Awakening [World] [Ja,En,Es,Fr,De,It,Nl,Ru,Ko,Zh] [01006BB00C6F0000] (1)-image.jpg</image>
+		<video>./videos/The Legend of Zelda Link's Awakening [World] [Ja,En,Es,Fr,De,It,Nl,Ru,Ko,Zh] [01006BB00C6F0000] (1)-video.mp4</video>
+		<marquee>./images/The Legend of Zelda Link's Awakening [World] [Ja,En,Es,Fr,De,It,Nl,Ru,Ko,Zh] [01006BB00C6F0000] (1)-marquee.png</marquee>
+		<thumbnail>./images/The Legend of Zelda Link's Awakening [World] [Ja,En,Es,Fr,De,It,Nl,Ru,Ko,Zh] [01006BB00C6F0000] (1)-thumb.png</thumbnail>
+		<fanart>./images/The Legend of Zelda Link's Awakening [World] [Ja,En,Es,Fr,De,It,Nl,Ru,Ko,Zh] [01006BB00C6F0000] (1)-fanart.jpg</fanart>
+		<rating>0.85</rating>
+		<releasedate>20190920T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action / Adventure</genre>
+		<family>The Legend of Zelda</family>
+		<players>1</players>
+		<lang>de,en,nl,jp,fr,es,ru,it</lang>
+		<region>ru</region>
+		<scrap name="ScreenScraper" date="20231125T192839" />
+	</game>
+	<game>
+		<path>./Games/The Legend of Zelda Tears of the Kingdom [0100F2C0115B6000][v0].xci</path>
+		<name>The Legend of Zelda Tears of the Kingdom [0100F2C0115B6000][v0]</name>
+		<scrap name="ScreenScraper" date="20231125T192840" />
+	</game>
+	<game>
+		<path>./Games/The Witcher 3 - Wild Hunt [Complete Edition] (JPN) (ja,en) [XCI].xci</path>
+		<name>The Witcher 3 - Wild Hunt [Complete Edition] (JPN) (ja,en) [XCI]</name>
+		<scrap name="ScreenScraper" date="20231125T192841" />
+	</game>
+	<game>
+		<path>./Games/Turbo Shell [0100A0A01BEB4000].nsp</path>
+		<name>Turbo Shell [0100A0A01BEB4000]</name>
+		<scrap name="ScreenScraper" date="20231125T192842" />
+	</game>
+	<game>
+		<path>./Games/Turok 3 - Shadow of Oblivion Remastered [010013D019CF4000].nsp</path>
+		<name>Turok 3 - Shadow of Oblivion Remastered [010013D019CF4000]</name>
+		<scrap name="ScreenScraper" date="20231125T192843" />
+	</game>
+	<game id="198309">
+		<path>./Games/Windjammers [USA] [En,Fr,It,De,Es] [010048800B638000].xci</path>
+		<name>Windjammers</name>
+		<desc>Windjammers is a fast-paced head-to-head arcade game where two players face off on a court, and throw discs at the opponent's goal zone to score points. Incredibly fun and intensely addictive, Windjammers is the adrenaline rush you're looking for!</desc>
+		<image>./images/Windjammers [USA] [En,Fr,It,De,Es] [010048800B638000]-image.png</image>
+		<video>./videos/Windjammers [USA] [En,Fr,It,De,Es] [010048800B638000]-video.mp4</video>
+		<marquee>./images/Windjammers [USA] [En,Fr,It,De,Es] [010048800B638000]-marquee.png</marquee>
+		<thumbnail>./images/Windjammers [USA] [En,Fr,It,De,Es] [010048800B638000]-thumb.png</thumbnail>
+		<fanart>./images/Windjammers [USA] [En,Fr,It,De,Es] [010048800B638000]-fanart.jpg</fanart>
+		<releasedate>20181023T000000</releasedate>
+		<developer>DotEmu</developer>
+		<publisher>DotEmu</publisher>
+		<genre>Action</genre>
+		<family>Windjammers</family>
+		<players>1-2</players>
+		<lang>de,en,es,fr,it</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231125T192910" />
+	</game>
+	<game>
+		<path>./Games/WRC_9_The_Official_Game_NSW-NiiNTENDO.nsp</path>
+		<name>WRC_9_The_Official_Game_NSW-NiiNTENDO</name>
+		<scrap name="ScreenScraper" date="20231125T192911" />
+	</game>
+	<game id="359302">
+		<path>./Games/XCOM 2 Collection [0100D0B00FB74000].xci</path>
+		<name>XCOM 2 Collection</name>
+		<desc>The XCOM 2 Collection includes the award-winning strategy game XCOM 2, four DLC packs (Resistance Warrior Pack, Anarchy's Children, Alien Hunters, Shen's Last Gift) and the War of the Chosen expansion all in one package. Activate any of the additional content (DLCs and the Expansion) or just play the base game. 
+ 
+XCOM 2:
+Aliens rule Earth, promising a brilliant future for mankind while secretly hiding a sinister agenda. As the leader of a guerrilla force facing impossible odds, you must ignite a global resistance to eliminate the alien threat and save the hum race from extinction.</desc>
+		<image>./images/XCOM 2 Collection [0100D0B00FB74000]-image.jpg</image>
+		<marquee>./images/XCOM 2 Collection [0100D0B00FB74000]-marquee.png</marquee>
+		<thumbnail>./images/XCOM 2 Collection [0100D0B00FB74000]-thumb.png</thumbnail>
+		<fanart>./images/XCOM 2 Collection [0100D0B00FB74000]-fanart.jpg</fanart>
+		<releasedate>20200529T000000</releasedate>
+		<publisher>2K Games</publisher>
+		<genre>Compilation</genre>
+		<family>X-Com</family>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231125T192936" />
+	</game>
 </gameList>
