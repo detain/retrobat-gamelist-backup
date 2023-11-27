@@ -88,28 +88,6 @@
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20230222T112752" />
 	</game>
-	<game id="15046">
-		<path>./Games/187 Ride Or Die.iso</path>
-		<name>187 Ride Or Die</name>
-		<desc>In order to become "top dog" of the game the player must race and defeat opponents through a variety of different stages all set in Los Angeles's infamous South Central region.
-The game's title comes from two phrases common in the subculture. 187 is the California Penal Code section that defines murder. It has come into general use among gangs in the United States as a synonym for murder, and this usage has passed into popular culture via gangsta rap. "Ride or die" is a combination of the phrases "ride it out" and "die trying", meaning one is willing to do anything even if it involves personal risk.
-If playing with another player, one can be the driver and the other can be the shooter. This can be done in the story and online mode. There are a variety of modes available to the player.</desc>
-		<image>./images/187 Ride Or Die-image.png</image>
-		<video>./videos/187 Ride Or Die-video.mp4</video>
-		<marquee>./images/187 Ride Or Die-marquee.png</marquee>
-		<thumbnail>./images/187 Ride Or Die-thumb.png</thumbnail>
-		<fanart>./images/187 Ride Or Die-fanart.jpg</fanart>
-		<boxback>./images/187 Ride Or Die-boxback.png</boxback>
-		<rating>0.75</rating>
-		<releasedate>20050823T000000</releasedate>
-		<developer>Ubisoft</developer>
-		<publisher>Ubisoft</publisher>
-		<genre>Fight</genre>
-		<players>1-4</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20230222T112754" />
-	</game>
 	<game id="14969">
 		<path>./Games/FIFA World Cup - Germany 2006.iso</path>
 		<name>2006 FIFA World Cup</name>
@@ -152,38 +130,6 @@ If playing with another player, one can be the driver and the other can be the s
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20230222T112757" />
 	</game>
-	<game>
-		<path>./Games/4x4 Evolution 2.iso</path>
-		<name>4x4 Evolution 2</name>
-		<image>./images/4x4 Evolution 2-image.png</image>
-		<marquee>./images/4x4 Evolution 2-marquee.png</marquee>
-		<thumbnail>./images/4x4 Evolution 2-thumb.jpg</thumbnail>
-		<rating>0</rating>
-		<releasedate>20230222T000000</releasedate>
-		<players>0</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<scrap name="ScreenScraper" date="20230222T112758" />
-	</game>
-	<game id="14761">
-		<path>./Games/50 Cent Bulletproof.iso</path>
-		<name>50 Cent : Bulletproof</name>
-		<desc>This game lets you step into the footsteps of 50 Cent himself. As he tries to free the kidnapped K-Dog with his crew in the streets of New York City, 50 gets shot nine times (just like his real-life counterpart) and left for dead. After getting stitched up, he sets out to find those who tried to kill him and uncovers a bigger conspiracy.</desc>
-		<image>./images/50 Cent Bulletproof-image.png</image>
-		<video>./videos/50 Cent Bulletproof-video.mp4</video>
-		<marquee>./images/50 Cent Bulletproof-marquee.png</marquee>
-		<thumbnail>./images/50 Cent Bulletproof-thumb.png</thumbnail>
-		<fanart>./images/50 Cent Bulletproof-fanart.jpg</fanart>
-		<boxback>./images/50 Cent Bulletproof-boxback.png</boxback>
-		<rating>0.5</rating>
-		<releasedate>20051117T000000</releasedate>
-		<developer>Genuine Games</developer>
-		<publisher>Universal</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20230222T112800" />
-	</game>
 	<game id="15073">
 		<path>./Games/Advent Rising.iso</path>
 		<name>Advent Rising</name>
@@ -207,26 +153,6 @@ A small band of human freedom fighters, led by a man named Gideon Wyeth, plans t
 		<lastplayed>20230222T000000</lastplayed>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20230222T112802" />
-	</game>
-	<game id="15237">
-		<path>./Games/Aeon Flux.iso</path>
-		<name>Aeon Flux</name>
-		<desc>Aeon Flux is a sci-fi action game based on the movie that is based on the MTV series of the same name. Charlize Theron stars as the underground operative Aeon Flux. You can use Aeon's acrobatic fighting techniques and futuristic weapons to battle through landscapes inspired by the movie. The game also features a variety of futuristic gadgets and a style meter that help you complete objectives as you move through seven single-player chapters.</desc>
-		<image>./images/Aeon Flux-image.png</image>
-		<video>./videos/Aeon Flux-video.mp4</video>
-		<marquee>./images/Aeon Flux-marquee.png</marquee>
-		<thumbnail>./images/Aeon Flux-thumb.png</thumbnail>
-		<fanart>./images/Aeon Flux-fanart.jpg</fanart>
-		<boxback>./images/Aeon Flux-boxback.png</boxback>
-		<rating>0.7</rating>
-		<releasedate>20051115T000000</releasedate>
-		<developer>Majesco</developer>
-		<publisher>Terminal Reality</publisher>
-		<genre>Action / Adventure</genre>
-		<players>1</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20230222T112804" />
 	</game>
 	<game id="15135">
 		<path>./Games/Aggressive Inline.iso</path>
@@ -272,42 +198,6 @@ Take your pick of over 70 planes, including military fighters rendered from actu
 		<lastplayed>20230222T000000</lastplayed>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20230222T112807" />
-	</game>
-	<game>
-		<path>./Games/Alias.iso</path>
-		<name>Alias</name>
-		<image>./images/Alias-image.png</image>
-		<marquee>./images/Alias-marquee.png</marquee>
-		<thumbnail>./images/Alias-thumb.png</thumbnail>
-		<fanart>./images/Alias-fanart.jpg</fanart>
-		<manual>./manuals/Alias-manual.pdf</manual>
-		<rating>0</rating>
-		<releasedate>20230222T000000</releasedate>
-		<players>0</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<scrap name="ScreenScraper" date="20230222T112809" />
-		<boxback>./images/Alias-boxback.jpg</boxback>
-	</game>
-	<game id="14951">
-		<path>./Games/Aliens Versus Predator Extinction.iso</path>
-		<name>Aliens Versus Predator : Extinction</name>
-		<desc>The battle that has split more blood over centuries continues, with the human marines caught in-between the powerful Aliens and the deadly Predators. Extinction has you controlling one of the three races in a real time strategy mix, building each unit and setting them out into the battlefield to complete a range of tasks. Each race has an advantage and disadvantage. The humans have a collection of different units, from heavy weapons experts to medics, and are better known for their long range attacks. Predators are hardcore fighters, taking the battle right up to the enemy, although there are fewer of them available to counter act their superior power. Finally, the Aliens are fast and deadly, and always hunt in large packs.</desc>
-		<image>./images/Aliens Versus Predator Extinction-image.png</image>
-		<video>./videos/Aliens Versus Predator Extinction-video.mp4</video>
-		<marquee>./images/Aliens Versus Predator Extinction-marquee.png</marquee>
-		<thumbnail>./images/Aliens Versus Predator Extinction-thumb.png</thumbnail>
-		<fanart>./images/Aliens Versus Predator Extinction-fanart.jpg</fanart>
-		<boxback>./images/Aliens Versus Predator Extinction-boxback.png</boxback>
-		<rating>0.75</rating>
-		<releasedate>20030730T000000</releasedate>
-		<developer>Zono</developer>
-		<publisher>Electronic Arts</publisher>
-		<genre>Strategy</genre>
-		<family>Alien</family>
-		<players>1</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20230222T112811" />
 	</game>
 	<game id="15363">
 		<path>./Games/All Star Baseball 2003.iso</path>
@@ -16691,5 +16581,122 @@ On top of the buildings, two mysterious men, who were watching the events unfold
 		<gametime>130</gametime>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20230222T113030" />
+	</game>
+	<game>
+		<path>./Games/187 Ride Or Die.iso</path>
+		<name>187 Ride or Die</name>
+		<desc>In order to become "top dog" of the game the player must race and defeat opponents through a variety of different stages all set in Los Angeles's infamous South Central region.
+The game's title comes from two phrases common in the subculture. 187 is the California Penal Code section that defines murder. It has come into general use among gangs in the United States as a synonym for murder, and this usage has passed into popular culture via gangsta rap. "Ride or die" is a combination of the phrases "ride it out" and "die trying", meaning one is willing to do anything even if it involves personal risk.
+If playing with another player, one can be the driver and the other can be the shooter. This can be done in the story and online mode. There are a variety of modes available to the player.</desc>
+		<image>./images/187 Ride Or Die-image.png</image>
+		<video>./videos/187 Ride Or Die-video.mp4</video>
+		<marquee>./images/187 Ride Or Die-marquee.png</marquee>
+		<thumbnail>./images/187 Ride Or Die-thumb.png</thumbnail>
+		<fanart>./images/187 Ride Or Die-fanart.jpg</fanart>
+		<boxback>./images/187 Ride Or Die-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>20050823T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Course</genre>
+		<lastplayed>20230222T000000</lastplayed>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T112754" />
+		<scrap name="HfsDB" date="20231126T223945" />
+	</game>
+	<game>
+		<path>./Games/4x4 Evolution 2.iso</path>
+		<name>4x4 Evolution 2</name>
+		<image>./images/4x4 Evolution 2-image.png</image>
+		<marquee>./images/4x4 Evolution 2-marquee.png</marquee>
+		<thumbnail>./images/4x4 Evolution 2-thumb.jpg</thumbnail>
+		<rating>0</rating>
+		<releasedate>20230222T000000</releasedate>
+		<players>0</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<scrap name="ScreenScraper" date="20230222T112758" />
+		<scrap name="HfsDB" date="20231126T223945" />
+	</game>
+	<game>
+		<path>./Games/50 Cent Bulletproof.iso</path>
+		<name>50 Cent: Bulletproof</name>
+		<desc>The titular protagonist is hip hop musician 50 Cent playing himself. The story revolves around 50 Cent's search for vengeance, hunting down the hitmen that attempted to murder him. The game also features Tony Yayo, Lloyd Banks, and Young Buck, members of the G-Unit rap crew, as 50's gang. Dr. Dre plays an arm dealer, Eminem plays a corrupt police officer, and DJ Whoo Kid playing as himself as a person selling "bootlegged" music (of the G-Unit camp) out of his trunk.</desc>
+		<image>./images/50 Cent Bulletproof-image.png</image>
+		<video>./videos/50 Cent Bulletproof-video.mp4</video>
+		<marquee>./images/50 Cent Bulletproof-marquee.png</marquee>
+		<thumbnail>./images/50 Cent Bulletproof-thumb.png</thumbnail>
+		<fanart>./images/50 Cent Bulletproof-fanart.jpg</fanart>
+		<boxback>./images/50 Cent Bulletproof-boxback.png</boxback>
+		<rating>0.5</rating>
+		<releasedate>20051117T000000</releasedate>
+		<developer>Genuine Games</developer>
+		<publisher>Vivendi Games</publisher>
+		<genre>Action</genre>
+		<lastplayed>20230222T000000</lastplayed>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T112800" />
+		<scrap name="HfsDB" date="20231126T224045" />
+	</game>
+	<game>
+		<path>./Games/Aeon Flux.iso</path>
+		<name>Aeon Flux</name>
+		<desc>Aeon Flux is a sci-fi action game based on the movie that is based on the MTV series of the same name. Charlize Theron stars as the underground operative Aeon Flux. You can use Aeon's acrobatic fighting techniques and futuristic weapons to battle through landscapes inspired by the movie. The game also features a variety of futuristic gadgets and a style meter that help you complete objectives as you move through seven single-player chapters.</desc>
+		<image>./images/Aeon Flux-image.png</image>
+		<video>./videos/Aeon Flux-video.mp4</video>
+		<marquee>./images/Aeon Flux-marquee.png</marquee>
+		<thumbnail>./images/Aeon Flux-thumb.png</thumbnail>
+		<fanart>./images/Aeon Flux-fanart.jpg</fanart>
+		<boxback>./images/Aeon Flux-boxback.png</boxback>
+		<rating>0.7</rating>
+		<releasedate>20051115T000000</releasedate>
+		<developer>Terminal Reality</developer>
+		<publisher>Majesco</publisher>
+		<genre>Action</genre>
+		<lastplayed>20230222T000000</lastplayed>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T112804" />
+		<scrap name="HfsDB" date="20231126T224045" />
+	</game>
+	<game>
+		<path>./Games/Alias.iso</path>
+		<name>Alias</name>
+		<desc>Alias is a third-person action adventure containing a unique blend of action and stealth that puts you under fire and under pressure. Whether you're up against the clock or being hunted by the enemy, fighting against the odds, or fleeing for your life, the action is relentless. Utilize your incredible spyware, deadly moves, and array of disguises to complete the most dangerous covert missions across the globe. All the heart-stopping action and tension of the TV series is now under your control.</desc>
+		<image>./images/Alias-image.png</image>
+		<marquee>./images/Alias-marquee.png</marquee>
+		<thumbnail>./images/Alias-thumb.png</thumbnail>
+		<fanart>./images/Alias-fanart.jpg</fanart>
+		<manual>./manuals/Alias-manual.pdf</manual>
+		<boxback>./images/Alias-boxback.jpg</boxback>
+		<rating>0</rating>
+		<releasedate>20040406T000000</releasedate>
+		<developer>Acclaim Studios Cheltenham</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T112809" />
+		<scrap name="HfsDB" date="20231126T224146" />
+	</game>
+	<game>
+		<path>./Games/Aliens Versus Predator Extinction.iso</path>
+		<name>Aliens Versus Predator: Extinction</name>
+		<desc>Aliens Versus Predator: Extinction is a real-time strategy game featuring three different species, all vying for control of the planet LV-742. Players can command an elite force of Colonial Marines, stalk their prey as a member of the Predator clan, or scurry along in packs as the acid-spitting Aliens. Gameplay involves advancing through a series of missions ranging in locale from jungles and caverns to futuristic battlefields and space colonies. Each faction offers ten types of combat units that can be upgraded over time with new attributes or equipment specific to the species. Predators, for instance, increase their number of vision modes, Aliens impregnate their victims with facehuggers, while Colonial Marines receive new weapon enhancements. As in titles like StarCraft, units range in scope from standard grunts and infantry to specialized forces and massive troop transports.</desc>
+		<image>./images/Aliens Versus Predator Extinction-image.png</image>
+		<video>./videos/Aliens Versus Predator Extinction-video.mp4</video>
+		<marquee>./images/Aliens Versus Predator Extinction-marquee.png</marquee>
+		<thumbnail>./images/Aliens Versus Predator Extinction-thumb.png</thumbnail>
+		<fanart>./images/Aliens Versus Predator Extinction-fanart.jpg</fanart>
+		<boxback>./images/Aliens Versus Predator Extinction-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>20030730T000000</releasedate>
+		<developer>Zono</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230222T112811" />
+		<scrap name="HfsDB" date="20231126T224146" />
 	</game>
 </gameList>

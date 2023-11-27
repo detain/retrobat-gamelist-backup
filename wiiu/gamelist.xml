@@ -8943,31 +8943,6 @@ Go green and save the Earth. Ava and "Avior" from Planet "Avior" are on a missio
 		<scrap name="ScreenScraper" date="20231115T195020" />
 		<scrap name="HfsDB" date="20231115T153409" />
 	</game>
-	<game id="12254">
-		<path>./eShop/Batman Arkham Origins Blackgate - Deluxe Edition (USA).wua</path>
-		<name>Batman: Arkham Origins : Blackgate - Deluxe Edition</name>
-		<desc>Batman: Arkham Origins Blackgate - Deluxe Edition amplifies the 2.5-D game with new maps, enemy encounters, difficulty levels, batsuits, and enhanced visuals. A companion game to Batman: Arkham Origins, players can continue the storyline of the console version and discover more details of the Dark Knight's past. Featuring stealth gameplay, free-flow combat, and Batman's famed arsenal of gadgets, the genuine Arkham experience is reproduced in a deep, action packed side-scrolling adventure.</desc>
-		<image>./images/Batman Arkham Origins Blackgate - Deluxe Edition (USA)-image.jpg</image>
-		<video>./videos/Batman Arkham Origins Blackgate - Deluxe Edition (USA)-video.mp4</video>
-		<marquee>./images/Batman Arkham Origins Blackgate - Deluxe Edition (USA)-marquee.png</marquee>
-		<thumbnail>./images/Batman Arkham Origins Blackgate - Deluxe Edition (USA)-thumb.png</thumbnail>
-		<fanart>./images/Batman Arkham Origins Blackgate - Deluxe Edition (USA)-fanart.jpg</fanart>
-		<rating>0.6</rating>
-		<releasedate>20140401T000000</releasedate>
-		<developer>Armature Studio</developer>
-		<publisher>Warner Bros Interactive</publisher>
-		<genre>Action / Adventure</genre>
-		<family>Batman</family>
-		<players>1</players>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20231115T195037" />
-	</game>
-	<game>
-		<path>./eShop/Beatbuddy (USA).wua</path>
-		<name>Beatbuddy (USA)</name>
-		<scrap name="ScreenScraper" date="20231115T195038" />
-	</game>
 	<game id="244949">
 		<path>./eShop/Bigley's Revenge (USA).wua</path>
 		<name>Bigley's Revenge</name>
@@ -9687,25 +9662,6 @@ Fun is guaranteed!</desc>
 		<scrap name="ScreenScraper" date="20231115T195827" />
 		<scrap name="HfsDB" date="20231115T155017" />
 	</game>
-	<game id="245081">
-		<path>./eShop/Chasing Dead (USA).wua</path>
-		<name>Chasing Dead</name>
-		<desc>Chasing Dead is a story-based, Sci-fi/Horror First-Person Action Shooter .The game begins with a strange phenomenon in which another Earth appears in our skies. The curiosity and fear of a doppelganger planet initiates multiple missions in order to make contact with the duplicate Earth. A team of agents, astronauts, and scientists were sent 955,600 miles across space by NASA and the US Military, however all contact is lost a few hours after their arrival. You play as a marine named "Jake" who is sent on a mission to retrieve any research and data left behind by the original survey team while fighting off hostile forces. As Jake, you must traverse the zombie-ridden lands of the alternate Earth as you battle endless hordes of the undead, frightening mutants and insane soldiers.</desc>
-		<image>./images/Chasing Dead (USA)-image.jpg</image>
-		<video>./videos/Chasing Dead (USA)-video.mp4</video>
-		<marquee>./images/Chasing Dead (USA)-marquee.png</marquee>
-		<thumbnail>./images/Chasing Dead (USA)-thumb.png</thumbnail>
-		<fanart>./images/Chasing Dead (USA)-fanart.jpg</fanart>
-		<rating>0.2</rating>
-		<releasedate>20160303T000000</releasedate>
-		<developer>2020 Venture</developer>
-		<publisher>2020 Venture</publisher>
-		<genre>Shooter / 1st person</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20231115T195843" />
-	</game>
 	<game id="245084">
 		<path>./eShop/Chests O' Booty (USA).wua</path>
 		<name>Chests O' Booty</name>
@@ -9726,25 +9682,6 @@ Fun is guaranteed!</desc>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231115T195858" />
 		<scrap name="HfsDB" date="20231115T155018" />
-	</game>
-	<game id="12144">
-		<path>./eShop/CHILD of LIGHT (USA) (v16).wua</path>
-		<name>Child of Light</name>
-		<desc>The kingdom of Lemuria is in despair The Black Queen has stolen the Sun, the Moon and the Stars. You play as Aurora, a young princess with a pure heart whose soul is brought to the kingdom of Lemuria. Embark on a quest to recapture the three sources of light, defeat the Black Queen and restore the kingdom of Lemuria.</desc>
-		<image>./images/CHILD of LIGHT (USA) (v16)-image.jpg</image>
-		<video>./videos/CHILD of LIGHT (USA) (v16)-video.mp4</video>
-		<marquee>./images/CHILD of LIGHT (USA) (v16)-marquee.png</marquee>
-		<thumbnail>./images/CHILD of LIGHT (USA) (v16)-thumb.png</thumbnail>
-		<fanart>./images/CHILD of LIGHT (USA) (v16)-fanart.jpg</fanart>
-		<rating>0.85</rating>
-		<releasedate>20140429T000000</releasedate>
-		<developer>Ubisoft</developer>
-		<publisher>Ubisoft</publisher>
-		<genre>Role playing games</genre>
-		<players>1-2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20231115T195915" />
 	</game>
 	<game id="245099">
 		<path>./eShop/Chompy Chomp Chomp Party (USA).wua</path>
@@ -9859,27 +9796,6 @@ The story is continued to tell the story of Sonja Dorleac on her quest. Many lev
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231115T200027" />
 		<scrap name="HfsDB" date="20231115T155318" />
-	</game>
-	<game id="12263">
-		<path>./eShop/Citizens of Earth (USA).wua</path>
-		<name>Citizens of Earth</name>
-		<desc>You've just been elected as Vice President of the World... So what now? Recruit your friends, your family, and everyone else around town to join your party and fight your battles!
-
-In this modern-day retro-RPG, you have returned home from the campaign trails for a little taxpayer-funded vacation... to find things have gone mad! Only YOU have the charisma it takes to delegate all the dirty work and save the world. So don't ask what you can do for your countrymen...Ask what your countrymen can do for you!</desc>
-		<image>./images/Citizens of Earth (USA)-image.jpg</image>
-		<video>./videos/Citizens of Earth (USA)-video.mp4</video>
-		<marquee>./images/Citizens of Earth (USA)-marquee.png</marquee>
-		<thumbnail>./images/Citizens of Earth (USA)-thumb.png</thumbnail>
-		<fanart>./images/Citizens of Earth (USA)-fanart.jpg</fanart>
-		<rating>0.55</rating>
-		<releasedate>20150120T000000</releasedate>
-		<developer>Eden Industries</developer>
-		<publisher>Atlus</publisher>
-		<genre>Role playing games</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20231115T200033" />
 	</game>
 	<game id="12315">
 		<path>./eShop/Cloudberry Kingdom (USA).wua</path>
@@ -10108,26 +10024,6 @@ In this modern-day retro-RPG, you have returned home from the campaign trails fo
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231115T200336" />
 		<scrap name="HfsDB" date="20231115T155920" />
-	</game>
-	<game id="12243">
-		<path>./eShop/Costume Quest 2 (USA) (v16).wua</path>
-		<name>Costume Quest 2</name>
-		<desc>Costume Quest 2 takes place after the cliffhanger ending of the Grubbins on Ice DLC for the original Costume Quest. The kids go through one of the portals, only to find themselves in the past, on the Halloween of their first adventure. They see a dentist use a portal to travel through time, causing Halloween to be outlawed, and also causing the Grubbins to live among the humans. The twins, Wren and Reynold, are visited by the future adult versions of their friends, who send them through a portal to try to stop the dentist from going through with his plans. Wren and Reynold must go through three time periods, meeting a new friend in each time who temporarily joins their party. They battle monsters, in turn-based battles with quick time events to increase power and defense, in order to save Halloween.</desc>
-		<image>./images/Costume Quest 2 (USA) (v16)-image.jpg</image>
-		<video>./videos/Costume Quest 2 (USA) (v16)-video.mp4</video>
-		<marquee>./images/Costume Quest 2 (USA) (v16)-marquee.png</marquee>
-		<thumbnail>./images/Costume Quest 2 (USA) (v16)-thumb.png</thumbnail>
-		<fanart>./images/Costume Quest 2 (USA) (v16)-fanart.jpg</fanart>
-		<rating>0.6</rating>
-		<releasedate>20141030T000000</releasedate>
-		<developer>Double Fine Productions</developer>
-		<publisher>Midnight City</publisher>
-		<genre>Adventure</genre>
-		<family>Costume Quest</family>
-		<players>1</players>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20231115T200353" />
 	</game>
 	<game>
 		<path>./eShop/Crab Cakes (USA).wua</path>
@@ -10541,27 +10437,6 @@ Daikon Set is a collection of 3 mini games (Chroma Star, Pink Mite and The Queen
 		<scrap name="ScreenScraper" date="20231115T200829" />
 		<scrap name="HfsDB" date="20231115T160922" />
 	</game>
-	<game id="245255">
-		<path>./eShop/Dinox (USA).wua</path>
-		<name>Dinox</name>
-		<desc>In Dinox, you'll test your knowledge about the Dinosaurs in a very addictive way. With high quality movie fragments that look like the Dinosaurs are right in front of you, Dinox will show you everything about the Dinosaur era. But that's not all; your score will be posted on the ranking board so you can challenge your family and friends to beat your score. This of course, will be impossible without knowledge of the Dinosaurs!
-
-Dinox is playable in English, French, German Spanish and Dutch and has over 900 multiple choice questions. Reading isn't mandatory, all questions and commentaries are in your selected language. There are also different kinds of questions, so grab your Wii U™ GamePad and jump into the Dinosaur World!</desc>
-		<image>./images/Dinox (USA)-image.jpg</image>
-		<video>./videos/Dinox (USA)-video.mp4</video>
-		<marquee>./images/Dinox (USA)-marquee.png</marquee>
-		<thumbnail>./images/Dinox (USA)-thumb.png</thumbnail>
-		<fanart>./images/Dinox (USA)-fanart.jpg</fanart>
-		<rating>0.3</rating>
-		<releasedate>20150510T000000</releasedate>
-		<developer>Engine Software</developer>
-		<publisher>Engine Software</publisher>
-		<genre>Educational</genre>
-		<players>1-4</players>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20231115T200844" />
-	</game>
 	<game id="245258">
 		<path>./eShop/Discovery (USA).wua</path>
 		<name>Discovery</name>
@@ -10765,29 +10640,6 @@ Don't Starve: Giant Edition combines the content of both the original Don't Star
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231115T201059" />
 		<scrap name="HfsDB" date="20231115T161228" />
-	</game>
-	<game id="245339">
-		<path>./eShop/Dracula's Legacy (USA).wua</path>
-		<name>Dracula's Legacy</name>
-		<desc>Haunted by frightening dreams about her forgotten past, Isabella - along with her fiancé - travels to an old ghost town, the only clue to her origins that she has been able to dredge from the depths of her lost memories.
-
-At the start of the dangerous journey, a terrifying creature attacks the pair and Isabella barely manages to escape with her life by fleeing into the dungeons buried deep beneath the town... where deadly vampires lurk. Now it is up to you: help Isabella as she tries to find her way out, reach the mysterious city of lost souls, and rescue her fiancé!
-
-Solve perplexing puzzles and explore colorful locations in "Dracula's Legacy".</desc>
-		<image>./images/Dracula's Legacy (USA)-image.jpg</image>
-		<video>./videos/Dracula's Legacy (USA)-video.mp4</video>
-		<marquee>./images/Dracula's Legacy (USA)-marquee.png</marquee>
-		<thumbnail>./images/Dracula's Legacy (USA)-thumb.png</thumbnail>
-		<fanart>./images/Dracula's Legacy (USA)-fanart.jpg</fanart>
-		<rating>0.65</rating>
-		<releasedate>20160728T000000</releasedate>
-		<developer>Joindots</developer>
-		<publisher>Joindots</publisher>
-		<genre>Action / Adventure</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20231115T201113" />
 	</game>
 	<game id="245345">
 		<path>./eShop/Dragon Fantasy - The Black Tome of Ice (USA).wua</path>
@@ -11025,11 +10877,6 @@ nnIn each level, the player aims for the ultimate high score. To achieve the hig
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231115T201354" />
 		<scrap name="HfsDB" date="20231115T161830" />
-	</game>
-	<game>
-		<path>./eShop/Earthlock Festival of Magic (USA).wua</path>
-		<name>Earthlock Festival of Magic (USA)</name>
-		<scrap name="ScreenScraper" date="20231115T201355" />
 	</game>
 	<game id="245402">
 		<path>./eShop/Eba &amp; Egg - A Hatch Trip (USA).wua</path>
@@ -11355,25 +11202,6 @@ Easy to learn touch controls, but hard to master. See how many holes you can get
 		<scrap name="ScreenScraper" date="20231115T201715" />
 		<scrap name="HfsDB" date="20231115T162336" />
 	</game>
-	<game id="12286">
-		<path>./eShop/F1 RACE STARS POWERED UP EDITION (USA).wua</path>
-		<name>F1 Race Stars : Powered Up Edition</name>
-		<desc>F1 RACE STARS™: POWERED UP EDITION takes FORMULA ONE™ over the top with new content for Wii U™, including four extra tracks and bonus accessory packs! Featuring official cars and stars, use awesome power-ups on famous circuits transformed to feature jumps, loop-the-loops and shortcuts, then share the fun in split-screen!</desc>
-		<image>./images/F1 RACE STARS POWERED UP EDITION (USA)-image.jpg</image>
-		<video>./videos/F1 RACE STARS POWERED UP EDITION (USA)-video.mp4</video>
-		<marquee>./images/F1 RACE STARS POWERED UP EDITION (USA)-marquee.png</marquee>
-		<thumbnail>./images/F1 RACE STARS POWERED UP EDITION (USA)-thumb.png</thumbnail>
-		<fanart>./images/F1 RACE STARS POWERED UP EDITION (USA)-fanart.jpg</fanart>
-		<rating>0.7</rating>
-		<releasedate>20140116T000000</releasedate>
-		<developer>Codemasters</developer>
-		<publisher>Codemasters</publisher>
-		<genre>Race, Driving</genre>
-		<players>1-4</players>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20231115T201730" />
-	</game>
 	<game id="245459">
 		<path>./eShop/Factotum (USA).wua</path>
 		<name>Factotum</name>
@@ -11395,25 +11223,6 @@ Easy to learn touch controls, but hard to master. See how many holes you can get
 		<scrap name="ScreenScraper" date="20231115T201744" />
 		<scrap name="HfsDB" date="20231115T162337" />
 	</game>
-	<game id="245462">
-		<path>./eShop/Falling Skies The Game (USA).wua</path>
-		<name>Falling Skies : The Game</name>
-		<desc>Based on Falling Skies, the popular TNT sci-fi series, Falling Skies: The Game is set in a world devastated by Espheni aliens. Following the destruction of an Espheni tower at the end of season 3, the 2nd Mass stumble across the wreckage of an ambushed convoy. Among the survivors is an engineer who claims he can create a powerful weapon that may level the playing field in the fight against the Espheni invaders, but it will require the 2nd Mass to undertake several risky operations to collect all the components. What seems at first to be a routine salvage mission quickly becomes a battle for mankind’s very existence.</desc>
-		<image>./images/Falling Skies The Game (USA)-image.jpg</image>
-		<video>./videos/Falling Skies The Game (USA)-video.mp4</video>
-		<marquee>./images/Falling Skies The Game (USA)-marquee.png</marquee>
-		<thumbnail>./images/Falling Skies The Game (USA)-thumb.png</thumbnail>
-		<fanart>./images/Falling Skies The Game (USA)-fanart.jpg</fanart>
-		<rating>0.4</rating>
-		<releasedate>20141030T000000</releasedate>
-		<developer>Torus Games</developer>
-		<publisher>Little Orbit</publisher>
-		<genre>Role playing games</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20231115T201800" />
-	</game>
 	<game id="12561">
 		<path>./eShop/Family Tennis SP (USA).wua</path>
 		<name>Family Tennis SP</name>
@@ -11434,27 +11243,6 @@ Easy to learn touch controls, but hard to master. See how many holes you can get
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231115T201811" />
 		<scrap name="HfsDB" date="20231115T162438" />
-	</game>
-	<game id="12508">
-		<path>./eShop/FAST Racing NEO (USA) (DLC) (v65).wua</path>
-		<name>Fast Racing NEO</name>
-		<desc>Get behind the wheel of a series of anti-gravity vehicles, and push them to the limit in exciting 60 frames per second competition. Try to become a legend by testing each of the three FAST Racing NEO leagues where the speed and difficulty increases in crescendo!
-
-Blast through fast-paced tracks in awe-inspiring locations with the most realistic weather conditions. Glide across the ice braving snowstorms, zip between the skyscrapers of a futuristic metropolis in the rain, and watch out for sandstorms that could knock you off course!</desc>
-		<image>./images/FAST Racing NEO (USA) (DLC) (v65)-image.jpg</image>
-		<video>./videos/FAST Racing NEO (USA) (DLC) (v65)-video.mp4</video>
-		<marquee>./images/FAST Racing NEO (USA) (DLC) (v65)-marquee.png</marquee>
-		<thumbnail>./images/FAST Racing NEO (USA) (DLC) (v65)-thumb.png</thumbnail>
-		<fanart>./images/FAST Racing NEO (USA) (DLC) (v65)-fanart.jpg</fanart>
-		<rating>0.9</rating>
-		<releasedate>20151210T000000</releasedate>
-		<developer>Shin'en</developer>
-		<publisher>Shin'en</publisher>
-		<genre>Race, Driving</genre>
-		<players>1-8</players>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20231115T201823" />
 	</game>
 	<game id="245489">
 		<path>./eShop/Fat City (USA).wua</path>
@@ -11500,25 +11288,6 @@ In this action-puzzler with 60 targets spread throughout the five boroughs of Ne
 		<scrap name="ScreenScraper" date="20231115T201859" />
 		<scrap name="HfsDB" date="20231115T162536" />
 	</game>
-	<game id="245486">
-		<path>./eShop/Fatal Frame - Maiden of Black Water (USA) (DLC).wua</path>
-		<name>Fatal Frame : Maiden of Black Water</name>
-		<desc>Project Zero: Maiden of Black Water consists of 3 interconnected stories that converge to uncover the truth behind a recent group of tragic deaths in a forest marred by a history of suicides. As one of 3 people with the power of the Camera Obscura and the ability to see the shadows of those spirited away, you will explore the ruins of an eerie inn, a shrine filled with life-size dolls, and a lake full of dead priestesses. Each shadowy location is connected by a stream of water flowing throughout the mountain, and this once holy water is tied to the darkest mystery of all—the history of death and darkness on Mt. Hikami.</desc>
-		<image>./images/Fatal Frame - Maiden of Black Water (USA) (DLC)-image.jpg</image>
-		<video>./videos/Fatal Frame - Maiden of Black Water (USA) (DLC)-video.mp4</video>
-		<marquee>./images/Fatal Frame - Maiden of Black Water (USA) (DLC)-marquee.png</marquee>
-		<thumbnail>./images/Fatal Frame - Maiden of Black Water (USA) (DLC)-thumb.png</thumbnail>
-		<fanart>./images/Fatal Frame - Maiden of Black Water (USA) (DLC)-fanart.jpg</fanart>
-		<rating>0.75</rating>
-		<releasedate>20151022T000000</releasedate>
-		<developer>Koei Tecmo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Adventure / Survival Horror</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20231115T201915" />
-	</game>
 	<game id="245498">
 		<path>./eShop/FIFTEEN (USA).wua</path>
 		<name>FIFTEEN</name>
@@ -11563,25 +11332,6 @@ We wish you the best in saving your friend and the galaxy.</desc>
 		<scrap name="ScreenScraper" date="20231115T201944" />
 		<scrap name="HfsDB" date="20231115T162538" />
 	</game>
-	<game id="245570">
-		<path>./eShop/Flight of Light (USA).wua</path>
-		<name>Flight of Light</name>
-		<desc>Fly through fantastical forests in time to the funky beat. Cruise around coral reefs to the sounds of chilled out tunes. Race past asteroid colonies powered by electronic music!Flight of Light is a rhythm game that cuts its own path through exotic, otherworldly landscapes. Leave a trail of stars and stream of colours in your wake as you collect points and speed boosts by moving in time to the music.With an upbeat soundtrack that uniquely blends an eclectic mix of funk, EDM, vaporwave and other genres. Play with up to five players in score and race modes, both co-operatively and competitively.</desc>
-		<image>./images/Flight of Light (USA)-image.jpg</image>
-		<video>./videos/Flight of Light (USA)-video.mp4</video>
-		<marquee>./images/Flight of Light (USA)-marquee.png</marquee>
-		<thumbnail>./images/Flight of Light (USA)-thumb.png</thumbnail>
-		<fanart>./images/Flight of Light (USA)-fanart.jpg</fanart>
-		<rating>0.6</rating>
-		<releasedate>20170803T000000</releasedate>
-		<developer>Crystalline Green</developer>
-		<publisher>Crystalline Green</publisher>
-		<genre>Race, Driving / Rhythm</genre>
-		<players>1-5</players>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20231115T202001" />
-	</game>
 	<game id="12278">
 		<path>./eShop/Flowerworks HD - Follie's Adventure (USA) (v16).wua</path>
 		<name>Flowerworks HD : Follie's Adventure</name>
@@ -11624,25 +11374,6 @@ nnHelp Follie find her seeds, use Flowerworks to transform her surroundings and 
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231115T202035" />
 		<scrap name="HfsDB" date="20231115T162636" />
-	</game>
-	<game id="12356">
-		<path>./eShop/forma.8 (USA).wua</path>
-		<name>Forma.8</name>
-		<desc>Meet forma.8, the eponymous little exploration probe who finds itself stranded alone on the surface of a remote planet. With no powers, weapons or hints of where to go, it’s up to you to recover a powerful energy source beneath the earth and accomplish your mission.With such a vast and expansive planet to search, including a Wii U exclusive area, exploration and puzzle solving are paramount to your quest.</desc>
-		<image>./images/forma.8 (USA)-image.jpg</image>
-		<video>./videos/forma.8 (USA)-video.mp4</video>
-		<marquee>./images/forma.8 (USA)-marquee.png</marquee>
-		<thumbnail>./images/forma.8 (USA)-thumb.png</thumbnail>
-		<fanart>./images/forma.8 (USA)-fanart.jpg</fanart>
-		<rating>0.8</rating>
-		<releasedate>20170223T000000</releasedate>
-		<developer>MixedBag</developer>
-		<publisher>MixedBag</publisher>
-		<genre>Action / Adventure</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20231115T202050" />
 	</game>
 	<game>
 		<path>./eShop/Frederic Ressurection of Music (USA).wua</path>
@@ -11983,26 +11714,6 @@ Only one music can survive and the Funk is the music of the gods.</desc>
 		<scrap name="ScreenScraper" date="20231115T202429" />
 		<scrap name="HfsDB" date="20231115T163444" />
 	</game>
-	<game id="12312">
-		<path>./eShop/Giana Sisters - Twisted Dreams (USA) (v16).wua</path>
-		<name>Giana Sisters : Twisted Dreams</name>
-		<desc>Warp Giana's dream world at will to transform your abilities and surroundings. Use your skill, speed, and brains to brave the dangers of Giana's twisted dreams! Giana laughs at spooky nightmares, lightly twirling past monsters and traps. Fluffy sugarbowl dreams on the other hand tick her off, unleashing her fiery, punky side, ready to dash and smash all in her path!</desc>
-		<image>./images/Giana Sisters - Twisted Dreams (USA) (v16)-image.jpg</image>
-		<video>./videos/Giana Sisters - Twisted Dreams (USA) (v16)-video.mp4</video>
-		<marquee>./images/Giana Sisters - Twisted Dreams (USA) (v16)-marquee.png</marquee>
-		<thumbnail>./images/Giana Sisters - Twisted Dreams (USA) (v16)-thumb.png</thumbnail>
-		<fanart>./images/Giana Sisters - Twisted Dreams (USA) (v16)-fanart.jpg</fanart>
-		<rating>0.7</rating>
-		<releasedate>20130905T000000</releasedate>
-		<developer>Black Forest Games</developer>
-		<publisher>Black Forest Games</publisher>
-		<genre>Platform</genre>
-		<family>Giana Sisters</family>
-		<players>1</players>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20231115T202444" />
-	</game>
 	<game id="245675">
 		<path>./eShop/Girls Like Robots (USA).wua</path>
 		<name>Girls Like Robots</name>
@@ -12101,33 +11812,6 @@ Throw yourself into the unfeeling grasp of planets, dodge asteroids and fight un
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231115T202540" />
 		<scrap name="HfsDB" date="20231115T163646" />
-	</game>
-	<game id="12262">
-		<path>./eShop/Guacamelee! Super Turbo Championship Edition (USA).wua</path>
-		<name>Guacamelee! Super Turbo Championship Edition</name>
-		<desc>Guacamelee! STCE is an action-platform game in the tradition of Metroidvania, set in a magical world inspired by traditional Mexican folklore.
-Get ready for...
-- Action and combat: more moves, including Intenso and the Rooster Kick.
-- Platform game between the world of the living and the world of the dead.
-- Moves that can also be used to get around
-- Lively towns, dark forests and fiery volcanoes
-- Numerous bosses, a host of enemies and new elite enemies
-- Flamboyant costumes that not only change the player's appearance, but also their characteristics.</desc>
-		<image>./images/Guacamelee! Super Turbo Championship Edition (USA)-image.jpg</image>
-		<video>./videos/Guacamelee! Super Turbo Championship Edition (USA)-video.mp4</video>
-		<marquee>./images/Guacamelee! Super Turbo Championship Edition (USA)-marquee.png</marquee>
-		<thumbnail>./images/Guacamelee! Super Turbo Championship Edition (USA)-thumb.png</thumbnail>
-		<fanart>./images/Guacamelee! Super Turbo Championship Edition (USA)-fanart.jpg</fanart>
-		<rating>0.85</rating>
-		<releasedate>20140701T000000</releasedate>
-		<developer>Drinkbox Studios</developer>
-		<publisher>Drinkbox Studios</publisher>
-		<genre>Platform / Fighter Scrolling</genre>
-		<family>Guacamelee</family>
-		<players>1-2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20231115T202555" />
 	</game>
 	<game id="245699">
 		<path>./eShop/Gunman Clive HD Collection (USA) (v16).wua</path>
@@ -12269,25 +11953,6 @@ nnOf course, that hasn't stopped thousands of thrill-seekers from attempting to 
 		<scrap name="ScreenScraper" date="20231115T202724" />
 		<scrap name="HfsDB" date="20231115T163948" />
 	</game>
-	<game id="12193">
-		<path>./eShop/How to Survive (USA).wua</path>
-		<name>How to Survive</name>
-		<desc>In How to Survive, the player character (chosen among three available ones) is stranded on a zombie-infested island. During the course of the game, the character will visit four islands while trying to survive. The islands are not completely abandoned as there are a few people to meet which provide main and side quests to solve.</desc>
-		<image>./images/How to Survive (USA)-image.jpg</image>
-		<video>./videos/How to Survive (USA)-video.mp4</video>
-		<marquee>./images/How to Survive (USA)-marquee.png</marquee>
-		<thumbnail>./images/How to Survive (USA)-thumb.png</thumbnail>
-		<fanart>./images/How to Survive (USA)-fanart.jpg</fanart>
-		<rating>0.65</rating>
-		<releasedate>20140619T000000</releasedate>
-		<developer>Eko Software</developer>
-		<publisher>505 Games</publisher>
-		<genre>Adventure / Survival Horror</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20231115T202738" />
-	</game>
 	<game>
 		<path>./eShop/Hulu (USA).wua</path>
 		<name>Hulu (USA)</name>
@@ -12423,25 +12088,6 @@ nnThe evil Broccoli, irritated by the fact that kids hate vegetables and love ic
 		<scrap name="ScreenScraper" date="20231115T202901" />
 		<scrap name="HfsDB" date="20231115T164250" />
 	</game>
-	<game id="245789">
-		<path>./eShop/Infinity Runner (USA).wua</path>
-		<name>Infinity Runner</name>
-		<desc>The Infinity is the largest spaceship ever built by man-kind; flung into the void of space to secure humanity a new home amongst the stars. However, instead of discovering paradise, the inhabitants of The Infinity unlocked the door to a long forgotten nightmare. Deep inside this leviathan something terrible hunts, out of myth and legend the last werewolf stalks the ship. Infinity Runner centres on a prisoner desperately trying to escape the decaying ship and the clutches of the terror within. In Infinity Runner, the player controls the protagonist, the prisoner, from a first-person perspective as he is challenged to escape from the gargantuan spaceship. Infinity Runner packs a lot into one super slick sci-fi action game bundle and with it re-invents the running genre!</desc>
-		<image>./images/Infinity Runner (USA)-image.jpg</image>
-		<video>./videos/Infinity Runner (USA)-video.mp4</video>
-		<marquee>./images/Infinity Runner (USA)-marquee.png</marquee>
-		<thumbnail>./images/Infinity Runner (USA)-thumb.png</thumbnail>
-		<fanart>./images/Infinity Runner (USA)-fanart.jpg</fanart>
-		<rating>0.45</rating>
-		<releasedate>20160315T000000</releasedate>
-		<developer>Wales Interactive</developer>
-		<publisher>Wales Interactive</publisher>
-		<genre>Action / Adventure</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20231115T202925" />
-	</game>
 	<game id="245792">
 		<path>./eShop/Insect Planet TD (USA).wua</path>
 		<name>Insect Planet TD</name>
@@ -12461,27 +12107,6 @@ nnThe evil Broccoli, irritated by the fact that kids hate vegetables and love ic
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231115T202938" />
 		<scrap name="HfsDB" date="20231115T164349" />
-	</game>
-	<game id="245795">
-		<path>./eShop/Inside My Radio (USA).wua</path>
-		<name>Inside my Radio</name>
-		<desc>Can you beat the beat? Journey as a green LED mysteriously trapped inside a dying boombox and play the ultimate musical experience. In this rhythmic platform adventure where your every action needs to be right on the beat, bring electro, dub and disco music back to life!
-
-Rhythmic awareness is vital when you jump, dash or slam. You have to hit that beat! Never under any circumstances should you play on mute!</desc>
-		<image>./images/Inside My Radio (USA)-image.jpg</image>
-		<video>./videos/Inside My Radio (USA)-video.mp4</video>
-		<marquee>./images/Inside My Radio (USA)-marquee.png</marquee>
-		<thumbnail>./images/Inside My Radio (USA)-thumb.png</thumbnail>
-		<fanart>./images/Inside My Radio (USA)-fanart.jpg</fanart>
-		<rating>0.6</rating>
-		<releasedate>20160225T000000</releasedate>
-		<developer>Seaven Studio</developer>
-		<publisher>Seaven Studio</publisher>
-		<genre>Adventure</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20231115T202954" />
 	</game>
 	<game id="245798">
 		<path>./eShop/Internal Invasion (USA).wua</path>
@@ -12613,27 +12238,6 @@ There are shortcuts and secrets to find, and an online leaderboard for the short
 		<scrap name="ScreenScraper" date="20231115T203113" />
 		<scrap name="HfsDB" date="20231115T164552" />
 	</game>
-	<game id="12411">
-		<path>./eShop/Jett Tailfin (USA).wua</path>
-		<name>Jett Tailfin Racers</name>
-		<desc>Join Jett and his Friends as they race through some wild worlds on their way to Top Fin!
-
-nnThis is the challenging and dangerous world of underwater racing! As a fast fish, you will run through several track trying to be first in the speed challenge. The player must be one of the first to qualify and proceed to the next race. Accumulate enough points through the 16 tracks and become the Champion! You can also face the other racers in special bonus rounds where they will do their best to let you eat their dust? or bubbles.</desc>
-		<image>./images/Jett Tailfin (USA)-image.jpg</image>
-		<video>./videos/Jett Tailfin (USA)-video.mp4</video>
-		<marquee>./images/Jett Tailfin (USA)-marquee.png</marquee>
-		<thumbnail>./images/Jett Tailfin (USA)-thumb.png</thumbnail>
-		<fanart>./images/Jett Tailfin (USA)-fanart.jpg</fanart>
-		<rating>0.2</rating>
-		<releasedate>20140807T000000</releasedate>
-		<developer>Hoplite Research</developer>
-		<publisher>Funbox Media</publisher>
-		<genre>Race, Driving</genre>
-		<players>1-4</players>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20231115T203127" />
-	</game>
 	<game id="245819">
 		<path>./eShop/Jewel Quest (USA) (v16).wua</path>
 		<name>Jewel Quest</name>
@@ -12674,31 +12278,6 @@ nnThis is the challenging and dangerous world of underwater racing! As a fast fi
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231115T203153" />
 		<scrap name="HfsDB" date="20231115T164653" />
-	</game>
-	<game id="245825">
-		<path>./eShop/Joe's Diner (USA).wua</path>
-		<name>Joe's Diner</name>
-		<desc>Somewhere along the venerable Route 7, in the middle of nowhere, you will find Joe's Diner. As an employee working the graveyard shift for the next month, your primary task is to keep the tables clean no tough challenge at all.
-
-Unfortunately, there is a rub to it. The old Diner was built on the site of a former Indian cemetery. Amongst the buried, two rival chieftains lay to rest; while alive, each could not stand the other.
-
-One chieftain endeavors only to rest in peace. The other, a prankster both in life and the afterlife, is prone to ruffle the feathers of his fellow chief.
-
-Besides your tasks as a waiter, it is up to you to keep things calm and not incur the angry chieftains' wrath. To lay them both to everlasting rest just do your duty. Sounds easy but it is not promised.</desc>
-		<image>./images/Joe's Diner (USA)-image.jpg</image>
-		<video>./videos/Joe's Diner (USA)-video.mp4</video>
-		<marquee>./images/Joe's Diner (USA)-marquee.png</marquee>
-		<thumbnail>./images/Joe's Diner (USA)-thumb.png</thumbnail>
-		<fanart>./images/Joe's Diner (USA)-fanart.jpg</fanart>
-		<rating>0.3</rating>
-		<releasedate>20160128T000000</releasedate>
-		<developer>VIS Games</developer>
-		<publisher>Joindots</publisher>
-		<genre>Adventure</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20231115T203209" />
 	</game>
 	<game>
 		<path>./eShop/Jolt Family Robot Racer (USA).wua</path>
@@ -18071,30 +17650,6 @@ nnThe Croods: Prehistoric Party! combines the ultimate fun of a family party gam
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231115T212749" />
 	</game>
-	<game id="12229">
-		<path>./eShop/Fist of the North Star Ken's Rage 2 (USA) (DLC).wua</path>
-		<name>Fist of the North Star : Ken's Rage 2</name>
-		<desc>Various episodes have been included from the original manga in addition to the Raoh storyline, such as that of the Celestial Emperor, the Land of Shura, and the final story revolving around Bat and Rin, allowing the game to faithfully recreate the battles between these captivating characters and their legendary martial arts. The game's Legend Mode follows the overall story of the original manga, while Dream Mode focuses on events that take place between episodes in the original story, enabling "Fist of the North Star" fans as well as newcomers to the series to completely enjoy the rich story the series is known for.</desc>
-		<image>./images/Fist of the North Star Ken's Rage 2 (USA) (DLC)-image.jpg</image>
-		<video>./videos/Fist of the North Star Ken's Rage 2 (USA) (DLC)-video.mp4</video>
-		<marquee>./images/Fist of the North Star Ken's Rage 2 (USA) (DLC)-marquee.png</marquee>
-		<thumbnail>./images/Fist of the North Star Ken's Rage 2 (USA) (DLC)-thumb.png</thumbnail>
-		<fanart>./images/Fist of the North Star Ken's Rage 2 (USA) (DLC)-fanart.jpg</fanart>
-		<rating>0.6</rating>
-		<releasedate>20130207T000000</releasedate>
-		<developer>Koei Tecmo</developer>
-		<publisher>Koei Tecmo</publisher>
-		<genre>Beat'em Up</genre>
-		<players>1-8</players>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20231116T072439" />
-	</game>
-	<game>
-		<path>./eShop/Fit Music (USA).wua</path>
-		<name>Fit Music (USA)</name>
-		<scrap name="ScreenScraper" date="20231116T072440" />
-	</game>
 	<game id="12151">
 		<path>./eShop/ONE PIECE - Unlimited World Red (USA) (DLC).wua</path>
 		<name>One Piece : Unlimited World Red</name>
@@ -20589,5 +20144,395 @@ Tekken Ball - Making its return from Tekken 3, this mode is a beach volleyball v
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231116T073302" />
+	</game>
+	<game>
+		<path>./eShop/Batman Arkham Origins Blackgate - Deluxe Edition (USA).wua</path>
+		<name>Batman: Arkham Origins Blackgate - Deluxe Edition</name>
+		<image>./images/Batman Arkham Origins Blackgate - Deluxe Edition (USA)-image.jpg</image>
+		<video>./videos/Batman Arkham Origins Blackgate - Deluxe Edition (USA)-video.mp4</video>
+		<marquee>./images/Batman Arkham Origins Blackgate - Deluxe Edition (USA)-marquee.png</marquee>
+		<thumbnail>./images/Batman Arkham Origins Blackgate - Deluxe Edition (USA)-thumb.png</thumbnail>
+		<fanart>./images/Batman Arkham Origins Blackgate - Deluxe Edition (USA)-fanart.jpg</fanart>
+		<rating>0.6</rating>
+		<developer>N.C.</developer>
+		<publisher>Warner Bros. Interactive Entertainment Inc.</publisher>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231115T195037" />
+		<scrap name="HfsDB" date="20231126T224246" />
+	</game>
+	<game>
+		<path>./eShop/Beatbuddy (USA).wua</path>
+		<name>Beatbuddy: Tale Of The Guardians</name>
+		<thumbnail>./images/Beatbuddy (USA)-thumb.png</thumbnail>
+		<releasedate>20150924T000000</releasedate>
+		<developer>N.C.</developer>
+		<publisher>N.C.</publisher>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231115T195038" />
+		<scrap name="HfsDB" date="20231126T224247" />
+	</game>
+	<game>
+		<path>./eShop/Chasing Dead (USA).wua</path>
+		<name>Chasing Dead</name>
+		<image>./images/Chasing Dead (USA)-image.jpg</image>
+		<video>./videos/Chasing Dead (USA)-video.mp4</video>
+		<marquee>./images/Chasing Dead (USA)-marquee.png</marquee>
+		<thumbnail>./images/Chasing Dead (USA)-thumb.png</thumbnail>
+		<fanart>./images/Chasing Dead (USA)-fanart.jpg</fanart>
+		<rating>0.2</rating>
+		<releasedate>20160303T000000</releasedate>
+		<developer>N.C.</developer>
+		<publisher>N.C.</publisher>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231115T195843" />
+		<scrap name="HfsDB" date="20231126T224346" />
+	</game>
+	<game>
+		<path>./eShop/CHILD of LIGHT (USA) (v16).wua</path>
+		<name>Child Of Light</name>
+		<image>./images/CHILD of LIGHT (USA) (v16)-image.jpg</image>
+		<video>./videos/CHILD of LIGHT (USA) (v16)-video.mp4</video>
+		<marquee>./images/CHILD of LIGHT (USA) (v16)-marquee.png</marquee>
+		<thumbnail>./images/CHILD of LIGHT (USA) (v16)-thumb.png</thumbnail>
+		<fanart>./images/CHILD of LIGHT (USA) (v16)-fanart.jpg</fanart>
+		<rating>0.85</rating>
+		<releasedate>20140429T000000</releasedate>
+		<developer>Ubisoft Montreal</developer>
+		<publisher>Ubisoft</publisher>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231115T195915" />
+		<scrap name="HfsDB" date="20231126T224347" />
+	</game>
+	<game>
+		<path>./eShop/Citizens of Earth (USA).wua</path>
+		<name>Citizens Of Earth</name>
+		<image>./images/Citizens of Earth (USA)-image.jpg</image>
+		<video>./videos/Citizens of Earth (USA)-video.mp4</video>
+		<marquee>./images/Citizens of Earth (USA)-marquee.png</marquee>
+		<thumbnail>./images/Citizens of Earth (USA)-thumb.png</thumbnail>
+		<fanart>./images/Citizens of Earth (USA)-fanart.jpg</fanart>
+		<rating>0.55</rating>
+		<releasedate>20150122T000000</releasedate>
+		<developer>N.C.</developer>
+		<publisher>ATLUS</publisher>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231115T200033" />
+		<scrap name="HfsDB" date="20231126T224447" />
+	</game>
+	<game>
+		<path>./eShop/Costume Quest 2 (USA) (v16).wua</path>
+		<name>Costume Quest 2</name>
+		<image>./images/Costume Quest 2 (USA) (v16)-image.jpg</image>
+		<video>./videos/Costume Quest 2 (USA) (v16)-video.mp4</video>
+		<marquee>./images/Costume Quest 2 (USA) (v16)-marquee.png</marquee>
+		<thumbnail>./images/Costume Quest 2 (USA) (v16)-thumb.png</thumbnail>
+		<fanart>./images/Costume Quest 2 (USA) (v16)-fanart.jpg</fanart>
+		<rating>0.6</rating>
+		<releasedate>20141031T000000</releasedate>
+		<developer>N.C.</developer>
+		<publisher>N.C.</publisher>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231115T200353" />
+		<scrap name="HfsDB" date="20231126T224447" />
+	</game>
+	<game>
+		<path>./eShop/Dinox (USA).wua</path>
+		<name>Dinox</name>
+		<image>./images/Dinox (USA)-image.jpg</image>
+		<video>./videos/Dinox (USA)-video.mp4</video>
+		<marquee>./images/Dinox (USA)-marquee.png</marquee>
+		<thumbnail>./images/Dinox (USA)-thumb.png</thumbnail>
+		<fanart>./images/Dinox (USA)-fanart.jpg</fanart>
+		<rating>0.3</rating>
+		<releasedate>20151210T000000</releasedate>
+		<developer>Engine Software</developer>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231115T200844" />
+		<scrap name="HfsDB" date="20231126T224547" />
+	</game>
+	<game>
+		<path>./eShop/Dracula's Legacy (USA).wua</path>
+		<name>Dracula'S Legacy</name>
+		<image>./images/Dracula's Legacy (USA)-image.jpg</image>
+		<video>./videos/Dracula's Legacy (USA)-video.mp4</video>
+		<marquee>./images/Dracula's Legacy (USA)-marquee.png</marquee>
+		<thumbnail>./images/Dracula's Legacy (USA)-thumb.png</thumbnail>
+		<fanart>./images/Dracula's Legacy (USA)-fanart.jpg</fanart>
+		<rating>0.65</rating>
+		<releasedate>20160728T000000</releasedate>
+		<developer>N.C.</developer>
+		<publisher>N.C.</publisher>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231115T201113" />
+		<scrap name="HfsDB" date="20231126T224547" />
+	</game>
+	<game>
+		<path>./eShop/Earthlock Festival of Magic (USA).wua</path>
+		<name>Earthlock: Festival Of Magic</name>
+		<releasedate>20170914T000000</releasedate>
+		<developer>N.C.</developer>
+		<publisher>N.C.</publisher>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231115T201355" />
+		<scrap name="HfsDB" date="20231126T224547" />
+	</game>
+	<game>
+		<path>./eShop/F1 RACE STARS POWERED UP EDITION (USA).wua</path>
+		<name>F1 Race Stars: Powered Up Edition</name>
+		<image>./images/F1 RACE STARS POWERED UP EDITION (USA)-image.jpg</image>
+		<video>./videos/F1 RACE STARS POWERED UP EDITION (USA)-video.mp4</video>
+		<marquee>./images/F1 RACE STARS POWERED UP EDITION (USA)-marquee.png</marquee>
+		<thumbnail>./images/F1 RACE STARS POWERED UP EDITION (USA)-thumb.png</thumbnail>
+		<fanart>./images/F1 RACE STARS POWERED UP EDITION (USA)-fanart.jpg</fanart>
+		<rating>0.7</rating>
+		<releasedate>20140116T000000</releasedate>
+		<developer>N.C.</developer>
+		<publisher>Codemasters</publisher>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231115T201730" />
+		<scrap name="HfsDB" date="20231126T224548" />
+	</game>
+	<game>
+		<path>./eShop/Falling Skies The Game (USA).wua</path>
+		<name>Falling Skies: The Game</name>
+		<image>./images/Falling Skies The Game (USA)-image.jpg</image>
+		<video>./videos/Falling Skies The Game (USA)-video.mp4</video>
+		<marquee>./images/Falling Skies The Game (USA)-marquee.png</marquee>
+		<thumbnail>./images/Falling Skies The Game (USA)-thumb.png</thumbnail>
+		<fanart>./images/Falling Skies The Game (USA)-fanart.jpg</fanart>
+		<rating>0.4</rating>
+		<releasedate>20141030T000000</releasedate>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231115T201800" />
+		<scrap name="HfsDB" date="20231126T224647" />
+	</game>
+	<game>
+		<path>./eShop/FAST Racing NEO (USA) (DLC) (v65).wua</path>
+		<name>Fast Racing Neo</name>
+		<image>./images/FAST Racing NEO (USA) (DLC) (v65)-image.jpg</image>
+		<video>./videos/FAST Racing NEO (USA) (DLC) (v65)-video.mp4</video>
+		<marquee>./images/FAST Racing NEO (USA) (DLC) (v65)-marquee.png</marquee>
+		<thumbnail>./images/FAST Racing NEO (USA) (DLC) (v65)-thumb.png</thumbnail>
+		<fanart>./images/FAST Racing NEO (USA) (DLC) (v65)-fanart.jpg</fanart>
+		<rating>0.9</rating>
+		<releasedate>20151210T000000</releasedate>
+		<developer>N.C.</developer>
+		<publisher>N.C.</publisher>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231115T201823" />
+		<scrap name="HfsDB" date="20231126T224647" />
+	</game>
+	<game id="245486">
+		<path>./eShop/Fatal Frame - Maiden of Black Water (USA) (DLC).wua</path>
+		<name>Fatal Frame : Maiden of Black Water</name>
+		<desc>Project Zero: Maiden of Black Water consists of 3 interconnected stories that converge to uncover the truth behind a recent group of tragic deaths in a forest marred by a history of suicides. As one of 3 people with the power of the Camera Obscura and the ability to see the shadows of those spirited away, you will explore the ruins of an eerie inn, a shrine filled with life-size dolls, and a lake full of dead priestesses. Each shadowy location is connected by a stream of water flowing throughout the mountain, and this once holy water is tied to the darkest mystery of all—the history of death and darkness on Mt. Hikami.</desc>
+		<image>./images/Fatal Frame - Maiden of Black Water (USA) (DLC)-image.jpg</image>
+		<video>./videos/Fatal Frame - Maiden of Black Water (USA) (DLC)-video.mp4</video>
+		<marquee>./images/Fatal Frame - Maiden of Black Water (USA) (DLC)-marquee.png</marquee>
+		<thumbnail>./images/Fatal Frame - Maiden of Black Water (USA) (DLC)-thumb.png</thumbnail>
+		<fanart>./images/Fatal Frame - Maiden of Black Water (USA) (DLC)-fanart.jpg</fanart>
+		<rating>0.75</rating>
+		<releasedate>20151022T000000</releasedate>
+		<developer>Koei Tecmo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure / Survival Horror</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231115T201915" />
+		<scrap name="HfsDB" date="20231126T224647" />
+	</game>
+	<game>
+		<path>./eShop/Fist of the North Star Ken's Rage 2 (USA) (DLC).wua</path>
+		<name>Fist Of The North Star: Ken'S Rage 2</name>
+		<image>./images/Fist of the North Star Ken's Rage 2 (USA) (DLC)-image.jpg</image>
+		<video>./videos/Fist of the North Star Ken's Rage 2 (USA) (DLC)-video.mp4</video>
+		<marquee>./images/Fist of the North Star Ken's Rage 2 (USA) (DLC)-marquee.png</marquee>
+		<thumbnail>./images/Fist of the North Star Ken's Rage 2 (USA) (DLC)-thumb.png</thumbnail>
+		<fanart>./images/Fist of the North Star Ken's Rage 2 (USA) (DLC)-fanart.jpg</fanart>
+		<rating>0.6</rating>
+		<releasedate>20130207T000000</releasedate>
+		<developer>Koei</developer>
+		<publisher>N.C.</publisher>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231116T072439" />
+		<scrap name="HfsDB" date="20231126T224748" />
+	</game>
+	<game>
+		<path>./eShop/Fit Music (USA).wua</path>
+		<name>Fit Music For Wii U</name>
+		<video>./videos/Fit Music (USA)-video.mp4</video>
+		<marquee>./images/Fit Music (USA)-marquee.png</marquee>
+		<thumbnail>./images/Fit Music (USA)-thumb.png</thumbnail>
+		<releasedate>20140522T000000</releasedate>
+		<developer>N.C.</developer>
+		<publisher>N.C.</publisher>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231116T072440" />
+		<scrap name="HfsDB" date="20231126T224752" />
+	</game>
+	<game>
+		<path>./eShop/Flight of Light (USA).wua</path>
+		<name>Flight Of Light</name>
+		<image>./images/Flight of Light (USA)-image.jpg</image>
+		<video>./videos/Flight of Light (USA)-video.mp4</video>
+		<marquee>./images/Flight of Light (USA)-marquee.png</marquee>
+		<thumbnail>./images/Flight of Light (USA)-thumb.png</thumbnail>
+		<fanart>./images/Flight of Light (USA)-fanart.jpg</fanart>
+		<rating>0.6</rating>
+		<releasedate>20170803T000000</releasedate>
+		<developer>N.C.</developer>
+		<publisher>N.C.</publisher>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231115T202001" />
+		<scrap name="HfsDB" date="20231126T224848" />
+	</game>
+	<game>
+		<path>./eShop/forma.8 (USA).wua</path>
+		<name>Forma.8</name>
+		<image>./images/forma.8 (USA)-image.jpg</image>
+		<video>./videos/forma.8 (USA)-video.mp4</video>
+		<marquee>./images/forma.8 (USA)-marquee.png</marquee>
+		<thumbnail>./images/forma.8 (USA)-thumb.png</thumbnail>
+		<fanart>./images/forma.8 (USA)-fanart.jpg</fanart>
+		<rating>0.8</rating>
+		<releasedate>20170223T000000</releasedate>
+		<developer>N.C.</developer>
+		<publisher>N.C.</publisher>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231115T202050" />
+		<scrap name="HfsDB" date="20231126T224848" />
+	</game>
+	<game>
+		<path>./eShop/Giana Sisters - Twisted Dreams (USA) (v16).wua</path>
+		<name>Giana Sisters: Twisted Dreams - Director'S Cut</name>
+		<image>./images/Giana Sisters - Twisted Dreams (USA) (v16)-image.jpg</image>
+		<video>./videos/Giana Sisters - Twisted Dreams (USA) (v16)-video.mp4</video>
+		<marquee>./images/Giana Sisters - Twisted Dreams (USA) (v16)-marquee.png</marquee>
+		<thumbnail>./images/Giana Sisters - Twisted Dreams (USA) (v16)-thumb.png</thumbnail>
+		<fanart>./images/Giana Sisters - Twisted Dreams (USA) (v16)-fanart.jpg</fanart>
+		<rating>0.7</rating>
+		<developer>N.C.</developer>
+		<publisher>N.C.</publisher>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231115T202444" />
+		<scrap name="HfsDB" date="20231126T224848" />
+	</game>
+	<game>
+		<path>./eShop/Guacamelee! Super Turbo Championship Edition (USA).wua</path>
+		<name>Guacamelee!: Super Turbo Championship Edition</name>
+		<image>./images/Guacamelee! Super Turbo Championship Edition (USA)-image.jpg</image>
+		<video>./videos/Guacamelee! Super Turbo Championship Edition (USA)-video.mp4</video>
+		<marquee>./images/Guacamelee! Super Turbo Championship Edition (USA)-marquee.png</marquee>
+		<thumbnail>./images/Guacamelee! Super Turbo Championship Edition (USA)-thumb.png</thumbnail>
+		<fanart>./images/Guacamelee! Super Turbo Championship Edition (USA)-fanart.jpg</fanart>
+		<rating>0.85</rating>
+		<releasedate>20140702T000000</releasedate>
+		<developer>DrinkBox Studios</developer>
+		<publisher>N.C.</publisher>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231115T202555" />
+		<scrap name="HfsDB" date="20231126T224848" />
+	</game>
+	<game>
+		<path>./eShop/How to Survive (USA).wua</path>
+		<name>How To Survive</name>
+		<image>./images/How to Survive (USA)-image.jpg</image>
+		<video>./videos/How to Survive (USA)-video.mp4</video>
+		<marquee>./images/How to Survive (USA)-marquee.png</marquee>
+		<thumbnail>./images/How to Survive (USA)-thumb.png</thumbnail>
+		<fanart>./images/How to Survive (USA)-fanart.jpg</fanart>
+		<rating>0.65</rating>
+		<releasedate>20140619T000000</releasedate>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231115T202738" />
+		<scrap name="HfsDB" date="20231126T224948" />
+	</game>
+	<game>
+		<path>./eShop/Infinity Runner (USA).wua</path>
+		<name>Infinity Runner</name>
+		<image>./images/Infinity Runner (USA)-image.jpg</image>
+		<video>./videos/Infinity Runner (USA)-video.mp4</video>
+		<marquee>./images/Infinity Runner (USA)-marquee.png</marquee>
+		<thumbnail>./images/Infinity Runner (USA)-thumb.png</thumbnail>
+		<fanart>./images/Infinity Runner (USA)-fanart.jpg</fanart>
+		<rating>0.45</rating>
+		<releasedate>20160315T000000</releasedate>
+		<developer>N.C.</developer>
+		<publisher>N.C.</publisher>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231115T202925" />
+		<scrap name="HfsDB" date="20231126T224948" />
+	</game>
+	<game>
+		<path>./eShop/Inside My Radio (USA).wua</path>
+		<name>Inside My Radio</name>
+		<image>./images/Inside My Radio (USA)-image.jpg</image>
+		<video>./videos/Inside My Radio (USA)-video.mp4</video>
+		<marquee>./images/Inside My Radio (USA)-marquee.png</marquee>
+		<thumbnail>./images/Inside My Radio (USA)-thumb.png</thumbnail>
+		<fanart>./images/Inside My Radio (USA)-fanart.jpg</fanart>
+		<rating>0.6</rating>
+		<releasedate>20160225T000000</releasedate>
+		<developer>N.C.</developer>
+		<publisher>N.C.</publisher>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231115T202954" />
+		<scrap name="HfsDB" date="20231126T224949" />
+	</game>
+	<game>
+		<path>./eShop/Jett Tailfin (USA).wua</path>
+		<name>Jett Tailfin</name>
+		<image>./images/Jett Tailfin (USA)-image.jpg</image>
+		<video>./videos/Jett Tailfin (USA)-video.mp4</video>
+		<marquee>./images/Jett Tailfin (USA)-marquee.png</marquee>
+		<thumbnail>./images/Jett Tailfin (USA)-thumb.png</thumbnail>
+		<fanart>./images/Jett Tailfin (USA)-fanart.jpg</fanart>
+		<rating>0.2</rating>
+		<releasedate>20140807T000000</releasedate>
+		<developer>N.C.</developer>
+		<publisher>N.C.</publisher>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231115T203127" />
+		<scrap name="HfsDB" date="20231126T225049" />
+	</game>
+	<game>
+		<path>./eShop/Joe's Diner (USA).wua</path>
+		<name>Joe'S Diner</name>
+		<image>./images/Joe's Diner (USA)-image.jpg</image>
+		<video>./videos/Joe's Diner (USA)-video.mp4</video>
+		<marquee>./images/Joe's Diner (USA)-marquee.png</marquee>
+		<thumbnail>./images/Joe's Diner (USA)-thumb.png</thumbnail>
+		<fanart>./images/Joe's Diner (USA)-fanart.jpg</fanart>
+		<rating>0.3</rating>
+		<releasedate>20160128T000000</releasedate>
+		<developer>N.C.</developer>
+		<publisher>N.C.</publisher>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231115T203209" />
+		<scrap name="HfsDB" date="20231126T225050" />
 	</game>
 </gameList>

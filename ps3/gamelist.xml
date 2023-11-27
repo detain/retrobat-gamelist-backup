@@ -45,27 +45,6 @@
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20230215T184815" />
 	</game>
-	<game id="24925">
-		<path>./Mortal Kombat.m3u</path>
-		<name>Mortal Kombat</name>
-		<desc>Mortal Kombat or Mortal Kombat 9 is a fighting video game, with a two-dimensional plane and three-dimensional graphics. The ninth installment in the Mortal Kombat series, it was developed by NetherRealm Studios (formerly known as Midway Games) and published exclusively under license from Warner Bros.
-The game begins right during the final events of Mortal Kombat: Armageddon. During the final confrontation between the forces of good and evil at the pyramid of Argus, nearly all warriors on both sides perish, with only Emperor Shao Kahn and Raiden, the God of Thunder, remaining standing.</desc>
-		<image>./images/Mortal Kombat-image.jpg</image>
-		<video>./videos/Mortal Kombat-video.mp4</video>
-		<marquee>./images/Mortal Kombat-marquee.png</marquee>
-		<thumbnail>./images/Mortal Kombat-thumb.png</thumbnail>
-		<fanart>./images/Mortal Kombat-fanart.jpg</fanart>
-		<boxback>./images/Mortal Kombat-boxback.png</boxback>
-		<rating>0.9</rating>
-		<developer>Warner Bros. Interactive</developer>
-		<publisher>NetherRealm Studios</publisher>
-		<genre>Fight</genre>
-		<family>Mortal Kombat</family>
-		<players>4</players>
-		<md5>6fa89be864a4244664a79687c1bb3f4a</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20230215T184835" />
-	</game>
 	<game id="26882">
 		<path>./Motorbike.m3u</path>
 		<name>Motorbike</name>
@@ -300,25 +279,6 @@ The only rule in Need for Speed Most Wanted is to race without rules. There's a 
 		<md5>a514e0e41887a46077c70607d6130697</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20230215T185011" />
-	</game>
-	<game id="26997">
-		<path>./NFL Blitz.m3u</path>
-		<name>Nfl Blitz</name>
-		<marquee>./images/NFL Blitz-marquee.png</marquee>
-		<releasedate>20120102T000000</releasedate>
-		<developer>EA Sports</developer>
-		<publisher>EA Sports</publisher>
-		<genre>Sports / Football</genre>
-		<family>NFL Blitz</family>
-		<md5>6d67b5f4cff3bb4fafdf1a4ddde76f54</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20230215T185023" />
-	</game>
-	<game>
-		<path>./NHL 13.m3u</path>
-		<name>NHL 13</name>
-		<md5>7cc92c51c03385c0d981f32436b03b03</md5>
-		<scrap name="ScreenScraper" date="20230215T185026" />
 	</game>
 	<game>
 		<path>./NHL Game Center.m3u</path>
@@ -725,22 +685,6 @@ Unlike past editions or the original itself, Championship Edition DX twists the 
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20230215T185308" />
 	</game>
-	<game id="201129">
-		<path>./Persona 4 Arena Ultimax.m3u</path>
-		<name>Persona 4 Arena Ultimax</name>
-		<image>./images/Persona 4 Arena Ultimax-image.jpg</image>
-		<video>./videos/Persona 4 Arena Ultimax-video.mp4</video>
-		<thumbnail>./images/Persona 4 Arena Ultimax-thumb.png</thumbnail>
-		<boxback>./images/Persona 4 Arena Ultimax-boxback.png</boxback>
-		<releasedate>20140930T000000</releasedate>
-		<developer>Atlus</developer>
-		<publisher>Atlus</publisher>
-		<genre>Fight</genre>
-		<family>Persona</family>
-		<md5>7a77ff8bff4973ad4ef5022e2e22729e</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20230215T185320" />
-	</game>
 	<game id="25398">
 		<path>./Persona 5.m3u</path>
 		<name>Persona 5</name>
@@ -782,21 +726,6 @@ Unlike past editions or the original itself, Championship Edition DX twists the 
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20230215T185354" />
 	</game>
-	<game id="26537">
-		<path>./PixelJunk Eden.m3u</path>
-		<name>Pixeljunk Eden</name>
-		<desc>PixelJunk Eden is a psychedelic platformer for PS3. In an ever-changing alien environment, the player must make his way through lush vegetation, eliminate strange enemies and search for treasures. Up to 3 players can play in cooperative mode.</desc>
-		<rating>0.75</rating>
-		<releasedate>20080731T000000</releasedate>
-		<developer>Q-Games</developer>
-		<publisher>Sony</publisher>
-		<genre>Platform</genre>
-		<family>PixelJunk</family>
-		<players>2-3</players>
-		<md5>b17168a9f5dc7bc644a8c48f9e400f6c</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20230215T185357" />
-	</game>
 	<game id="26008">
 		<path>./PixelJunk Monsters.m3u</path>
 		<name>Pixeljunk Monsters</name>
@@ -813,17 +742,6 @@ Unlike past editions or the original itself, Championship Edition DX twists the 
 		<md5>0ff2aa07857bc0a2b107488b02c67b7e</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20230215T185404" />
-	</game>
-	<game id="27120">
-		<path>./PixelJunk Racers 2nd Lap.m3u</path>
-		<name>Pixeljunk Racers 2nd Lap</name>
-		<developer>Q-Games</developer>
-		<publisher>Sony</publisher>
-		<genre>Race, Driving</genre>
-		<family>PixelJunk</family>
-		<md5>812ff58f7d3b30e4abe6baf668899424</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20230215T185407" />
 	</game>
 	<game id="27222">
 		<path>./Puzzle Agent.m3u</path>
@@ -908,18 +826,6 @@ Unlike past editions or the original itself, Championship Edition DX twists the 
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20230215T185448" />
 	</game>
-	<game id="24960">
-		<path>./Sniper Elite 3.m3u</path>
-		<name>Sniper Elite III</name>
-		<desc>Featuring a greater focus on player agency/choice and expansive environments filled with opportunities for distinct play styles, and set in the exotic yet deadly terrain of North Africa during World War II, Sniper Elite 3 sees American OSS agent Karl Fairburne deep behind Nazi lines, providing crucial sharpshooter skills as the Allies battle Germany's fearsome Tiger tanks across the Western Desert. But it's not just the famed Afrika Korps that Karl has to worry about; he soon uncovers German plans to build a 'wunderwaffe' – a 'wonder weapon' – with the power to crush any Allied forces in its path, and turn the tide of the whole war.</desc>
-		<rating>0.6</rating>
-		<developer>Rebellion</developer>
-		<publisher>505 Games</publisher>
-		<genre>Lightgun Shooter</genre>
-		<md5>e85823f3d5aa935b8d06dab4ea55d478</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20230215T185450" />
-	</game>
 	<game id="25272">
 		<path>./Sniper Ghost Warrior 2.m3u</path>
 		<name>Sniper : Ghost Warrior 2</name>
@@ -996,35 +902,6 @@ Unlike past editions or the original itself, Championship Edition DX twists the 
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20230215T185541" />
 	</game>
-	<game id="25418">
-		<path>./Sonic Adventure 2.m3u</path>
-		<name>Sonic Adventure 2</name>
-		<desc>Sonic Adventure 2 is a platform game for PS3, which marks the appearance of the character Shadow. Hero or Dark, make your team composed of three characters evolve towards its respective goal. The progression alternates between search, shooting and platforming phases. The title offers a 2-player mode with several activities.</desc>
-		<marquee>./images/Sonic Adventure 2-marquee.png</marquee>
-		<rating>0.75</rating>
-		<developer>Sonic Team</developer>
-		<publisher>SEGA</publisher>
-		<genre>Action / Adventure</genre>
-		<family>Sonic</family>
-		<players>1-2</players>
-		<md5>40f6079e109491881f33b3b939127a0b</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20230215T185546" />
-	</game>
-	<game id="25653">
-		<path>./Sonic Adventure.m3u</path>
-		<name>Sonic Adventure</name>
-		<desc>Sonic Adventure is the first appearance of the blue hedgehog entirely in three dimensions, and it was originally on Dreamcast before being adapted much later on the PSN of the Playstation 3. Six playable characters, rich and varied environments faithful to the spirit of the series, the side quest of the Chaos, a kind of small Tamagotchi that must be raised in order to participate in mini-games, are the ingredients of this supersonic platformer.</desc>
-		<marquee>./images/Sonic Adventure-marquee.png</marquee>
-		<rating>0.75</rating>
-		<developer>Sonic Team</developer>
-		<publisher>SEGA</publisher>
-		<genre>Action / Adventure</genre>
-		<family>Sonic</family>
-		<md5>e3088bb004a7ac7739e5aa6676242384</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20230215T185552" />
-	</game>
 	<game id="26147">
 		<path>./Sonic CD.m3u</path>
 		<name>Sonic Cd</name>
@@ -1059,61 +936,11 @@ Unlike past editions or the original itself, Championship Edition DX twists the 
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20230215T185612" />
 	</game>
-	<game id="26609">
-		<path>./Sonic the Fighters.m3u</path>
-		<name>Sonic The Fighters</name>
-		<desc>Sonic Championship is a 3D fighting game, featuring characters from the Sonic the Hedgehog franchise. The background story is that Doctor Eggman built the Death Egg II, a new version of his facility that appeared in previous games. Stopping him requires Chaos Emeralds, and various individuals including heroes like Sonic the Hedgehog and Miles "Tails" Prower participate in a fighting tournament to gather them. In total there are eight playable characters (nine in later console releases) and two bosses (Metal Sonic and Doctor Eggman).Gameplay is mostly typical for a versus fighter, it is a one-on-one fight on a best two out of three basis. Players use jumps, punches, kicks and special weapons. Bean the Dynamite for example, a duck-like character who makes his debut in the Sonic universe, uses bombs. Blocking is done by making use of a limited supply of barriers. The whole action is illustrated in a comical fashion though, like one would expect from a Sonic game.</desc>
-		<marquee>./images/Sonic the Fighters-marquee.png</marquee>
-		<fanart>./images/Sonic the Fighters-fanart.jpg</fanart>
-		<rating>0.75</rating>
-		<releasedate>20121127T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Fight</genre>
-		<family>Sonic</family>
-		<players>1-2</players>
-		<md5>8e9c31c3ef24854a66f7f0b768284163</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20230215T185620" />
-	</game>
-	<game id="25873">
-		<path>./Sonic The Hedgehog 2.m3u</path>
-		<name>Sonic The Hedgehog 2</name>
-		<desc>Sonic the Hedgehog 2 on the PSN (re-release of the Megadrive version) offers a new approach to the game with the appearance of Sonic's now famous companion: Tails. The player has the choice to approach the title in two different ways: ignore the enemies and rings and rely only on pure speed to complete the eleven levels or relentless exploration for the more patient. Both characters can be played simultaneously in co-op mode on the same screen.</desc>
-		<rating>0.9</rating>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Platform</genre>
-		<family>Sonic</family>
-		<md5>55a86477be33e38779a44ce6d870a7dc</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20230215T185622" />
-	</game>
 	<game>
 		<path>./Sonic The Hedgehog 4 Episode 2.m3u</path>
 		<name>Sonic The Hedgehog 4 Episode 2</name>
 		<md5>f5deed44c42118ac0a7f9b113f5f872f</md5>
 		<scrap name="ScreenScraper" date="20230215T185626" />
-	</game>
-	<game id="25170">
-		<path>./Sonic The Hedgehog.m3u</path>
-		<name>Sonic The Hedgehog</name>
-		<desc>Sonic The Hedgehog brings the popular character back to his high-velocity roots, for a new dimension of entertainment. In his first adventure set in the human world, Sonic meets a beautiful princess named Elise -- queen of Soleanna, the beautiful city of water. When she's kidnapped by Dr. Eggman, Sonic enters the world of humans to fight the menacing doctor to thwart his malicious plans. As he stops Eggman's plans to destroy this special kingdom of hers, Sonic will encounter and interact with new allies and enemies, like the mysterious, supernatural Silver. As Sonic speeds through the huge kingdom, the mysteries unravel.</desc>
-		<image>./images/Sonic The Hedgehog-image.jpg</image>
-		<marquee>./images/Sonic The Hedgehog-marquee.png</marquee>
-		<thumbnail>./images/Sonic The Hedgehog-thumb.png</thumbnail>
-		<fanart>./images/Sonic The Hedgehog-fanart.jpg</fanart>
-		<boxback>./images/Sonic The Hedgehog-boxback.png</boxback>
-		<rating>0.65</rating>
-		<releasedate>20070130T000000</releasedate>
-		<developer>Sonic Team</developer>
-		<publisher>SEGA</publisher>
-		<genre>Platform</genre>
-		<family>Sonic</family>
-		<players>2</players>
-		<md5>7f0427d02a0f91e53ff19fddc413be67</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20230215T185640" />
 	</game>
 	<game id="25223">
 		<path>./Sonic Unleashed.m3u</path>
@@ -1849,44 +1676,6 @@ The Gorn Return - Determined to conquer the galaxy, the Gorn returns as re-imagi
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20230215T190211" />
 	</game>
-	<game id="24807">
-		<path>./Tales of Xillia 2.m3u</path>
-		<name>Tales Of Xillia 2</name>
-		<desc>Tales of Xillia 2 is a role-playing game for PS3. Ludger Kresnik meets many characters from the first part in new adventures. He has to find his missing brother who is accused of an attack that caused almost two thousand deaths.</desc>
-		<image>./images/Tales of Xillia 2-image.png</image>
-		<video>./videos/Tales of Xillia 2-video.mp4</video>
-		<marquee>./images/Tales of Xillia 2-marquee.png</marquee>
-		<fanart>./images/Tales of Xillia 2-fanart.jpg</fanart>
-		<rating>0.8</rating>
-		<releasedate>20140819T000000</releasedate>
-		<developer>Bandai Namco</developer>
-		<publisher>Bandai Namco</publisher>
-		<genre>Role playing games / Action RPG</genre>
-		<family>Tales Of</family>
-		<players>4</players>
-		<md5>4b2b8bed09988f2017c07990cc575778</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20230215T190223" />
-	</game>
-	<game id="24930">
-		<path>./Tales of Xillia.m3u</path>
-		<name>Tales Of Xillia</name>
-		<desc>Tales of Xillia is an RPG for PS3. It is the first in the series to offer two different points of view on the story with two characters to choose from at the beginning of the game. As the incarnation of Maxwell, the lord of the spirits, Milla will have to rely on Jude's help to regain her powers and neutralise a destructive weapon. The combat system allows you to establish links between characters for even more dynamic and tactical confrontations.</desc>
-		<image>./images/Tales of Xillia-image.jpg</image>
-		<video>./videos/Tales of Xillia-video.mp4</video>
-		<marquee>./images/Tales of Xillia-marquee.png</marquee>
-		<fanart>./images/Tales of Xillia-fanart.jpg</fanart>
-		<rating>0.85</rating>
-		<releasedate>20130806T000000</releasedate>
-		<developer>Bandai Namco</developer>
-		<publisher>Bandai Namco</publisher>
-		<genre>Role playing games / Action RPG</genre>
-		<family>Tales Of</family>
-		<players>1-4</players>
-		<md5>9f6032e72a8828990b07e6a415971eef</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20230215T190236" />
-	</game>
 	<game id="24902">
 		<path>./Tales of Zestiria.m3u</path>
 		<name>Tales Of Zestiria</name>
@@ -2055,20 +1844,6 @@ You play as a young boy who suddenly finds himself embroiled in a long-forgotten
 		<md5>a441fc28a0fc3ca0e501a89612d1b100</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20230215T190352" />
-	</game>
-	<game id="25823">
-		<path>./The Smurfs 2.m3u</path>
-		<name>The Smurfs 2</name>
-		<desc>The Smurfs 2 is an Action-Adventure Platformer game that follows the thrilling story of the second movie of the Smurfs that takes place in New York and Paris. Players will take control of their favorite blue heroes to succeed on their quest to rescue Smurfette from the evil Gargamel.</desc>
-		<marquee>./images/The Smurfs 2-marquee.png</marquee>
-		<rating>0.65</rating>
-		<developer>Wayforward</developer>
-		<publisher>Ubisoft</publisher>
-		<genre>Platform</genre>
-		<family>Les Schtroumpfs</family>
-		<md5>a06af4f195f4652af8f6438d6281dd40</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20230215T190357" />
 	</game>
 	<game id="25444">
 		<path>./The Swapper.m3u</path>
@@ -2341,13 +2116,6 @@ Support the Thunder Wolves in their global battle against terrorism. Take part i
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20230215T190544" />
 	</game>
-	<game id="200551">
-		<path>./Tom Clancys Rainbow Six Vegas 2.m3u</path>
-		<name>Tom Clancy's Rainbow Six - Vegas 2</name>
-		<md5>d31e505eb8efeecc3af585b506bed3fc</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20230215T190546" />
-	</game>
 	<game id="24986">
 		<path>./Tomb Raider Underworld.m3u</path>
 		<name>Tomb Raider Underworld</name>
@@ -2415,21 +2183,6 @@ Support the Thunder Wolves in their global battle against terrorism. Take part i
 		<md5>a187bd60f52f8cf0e11808dab4c5cb1c</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20230215T190614" />
-	</game>
-	<game id="25358">
-		<path>./Toy Story 3.m3u</path>
-		<name>Toy Story 3</name>
-		<desc>Toy Story 3 on Playstation 3 is a faithful action game adaptation of the movie's storyline in which Buzz, Woody and his friends must come to terms with their uncertain future as Andy prepares to enter college. The title features several game modes, including a co-op mode and a level editor. The title also offers mini-game downloads and Playstation Move compatibility.</desc>
-		<marquee>./images/Toy Story 3-marquee.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20100615T000000</releasedate>
-		<developer>Avalanche Software</developer>
-		<publisher>Disney Interactive</publisher>
-		<genre>Adventure</genre>
-		<players>2</players>
-		<md5>b2b2776dafa8525943d0b6607f4e857e</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20230215T190619" />
 	</game>
 	<game id="26250">
 		<path>./Toy Story Mania.m3u</path>
@@ -2700,21 +2453,6 @@ Taking full advantage of the power of PS3, Uncharted: Drake?s Fortune is develop
 		<md5>0a8b0ee00c095f47ac908df75b14f46f</md5>
 		<scrap name="ScreenScraper" date="20230215T190824" />
 	</game>
-	<game id="26908">
-		<path>./Virtua Fighter 2.m3u</path>
-		<name>Virtua Fighter 2</name>
-		<marquee>./images/Virtua Fighter 2-marquee.png</marquee>
-		<fanart>./images/Virtua Fighter 2-fanart.jpg</fanart>
-		<rating>0.25</rating>
-		<releasedate>20121127T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Fight / 3D</genre>
-		<family>Virtua Fighter</family>
-		<md5>c8e7c5ee5f6d14cdcc7aaf6bdb533cd1</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20230215T190831" />
-	</game>
 	<game id="25619">
 		<path>./Virtua Fighter 5 - Final Showdown.m3u</path>
 		<name>Virtua Fighter 5 Final Showdown</name>
@@ -2766,19 +2504,6 @@ Taking full advantage of the power of PS3, Uncharted: Drake?s Fortune is develop
 		<md5>1d9803a3b3764ca0086ffdb6666dc47e</md5>
 		<scrap name="ScreenScraper" date="20230215T190856" />
 	</game>
-	<game id="26932">
-		<path>./Wakeboarding HD.m3u</path>
-		<name>Wakeboarding Hd</name>
-		<desc>Wakeboarding HD is a game of... wakeboarding on Playstation 3! A bit crazy, the software offers you to ride on the most beautiful seas and oceans of the world, to jump over trees, submarines and even helicopters!</desc>
-		<rating>0.85</rating>
-		<releasedate>20100325T000000</releasedate>
-		<developer>TikGames</developer>
-		<publisher>Creat Studios</publisher>
-		<genre>Sports</genre>
-		<md5>b2d7cd9d677edb954d9b53aa62732a90</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20230215T190859" />
-	</game>
 	<game id="26533">
 		<path>./Wanted CORP.m3u</path>
 		<name>Wanted Corp.</name>
@@ -2790,19 +2515,6 @@ Taking full advantage of the power of PS3, Uncharted: Drake?s Fortune is develop
 		<md5>599d7b9d94490b006d62b2a93707837f</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20230215T190904" />
-	</game>
-	<game id="25148">
-		<path>./Warhawk.m3u</path>
-		<name>Warhawk</name>
-		<desc>WarHawk is an action and simulation game for Playstation 3. Exclusively playable online, up to 32 pilots at the same time, the title puts you in the cockpit of fighter planes, at the controls of Jeeps or even at the head of defensive turrets, in the different game modes of the title (Capture The Flag, Deathmatch in team or solo, or in the variant of the Domination mode)</desc>
-		<rating>0.85</rating>
-		<releasedate>20070828T000000</releasedate>
-		<developer>Incognito Studios</developer>
-		<publisher>Sony</publisher>
-		<genre>Simulation</genre>
-		<md5>d96be4f580d763e852d842ef0c791169</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20230215T190906" />
 	</game>
 	<game id="27234">
 		<path>./Warlords.m3u</path>
@@ -3023,59 +2735,6 @@ Wonder Boy In Monster World is the third game in the Monster World spin-off seri
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20230215T191036" />
 	</game>
-	<game id="25520">
-		<path>./Worms 2 Armageddon.m3u</path>
-		<name>Worms 2 : Armageddon</name>
-		<desc>Worms 2: Armageddon is the latest turn-based-strategy blast-a-thon to come to the PlayStation 3 computer entertainment system, and is packed with features set to satisfy both new and older generation of Worms players alike. With fresh visuals, hilarious new weaponry as well as returning iconic favorites, this online and offline destruction-fest is set to grab players across the globe with its unique brand of easy to learn, but hard to master gameplay.</desc>
-		<image>./images/Worms 2 Armageddon-image.jpg</image>
-		<video>./videos/Worms 2 Armageddon-video.mp4</video>
-		<marquee>./images/Worms 2 Armageddon-marquee.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20100914T000000</releasedate>
-		<developer>Team 17</developer>
-		<publisher>Team 17</publisher>
-		<genre>Strategy</genre>
-		<family>Worms</family>
-		<players>2-4</players>
-		<md5>10fc4107556ba7e4cd33c5834e150db0</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20230215T191045" />
-	</game>
-	<game id="26364">
-		<path>./Worms Crazy Golf.m3u</path>
-		<name>Worms Crazy Golf</name>
-		<desc>Worms Crazy Golf is a brazenly bonkers mixture of classic 2D Worms and hilarious eighteen-hole hijinks. Spread across a variety of weird and wonderful courses and featuring some mind-bendingly mental power-ups, this is the craziest golf you'll ever play. With many fan-favorite features from the Worms universe such as the sheep, old woman, mole, magnets, mines and crazy chain reactions making an appearance, it is anything but a straight simulation. Set across three surreal 18-hole golf courses plus a diverse range of skill-based challenge modes, expect to be challenged by increasingly puzzling hole design and an array of obstacles; from castles that teleport your ball, cannons that shoot it across the landscape and even obstructive comedy bats! Only skillful shot execution and clever use of special powers such as the parachute ball, or the ability to slow time down will see you hit par and progress to the next hole.</desc>
-		<image>./images/Worms Crazy Golf-image.jpg</image>
-		<video>./videos/Worms Crazy Golf-video.mp4</video>
-		<marquee>./images/Worms Crazy Golf-marquee.png</marquee>
-		<rating>0.65</rating>
-		<releasedate>20111001T000000</releasedate>
-		<developer>Team 17</developer>
-		<publisher>Team 17</publisher>
-		<genre>Sports / Golf</genre>
-		<family>Worms</family>
-		<md5>021481e7e4466a671eb76c5f2f410de4</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20230215T191054" />
-	</game>
-	<game id="25572">
-		<path>./Worms Revolution.m3u</path>
-		<name>Worms Revolution</name>
-		<rating>0.6</rating>
-		<developer>Team 17</developer>
-		<publisher>Team 17</publisher>
-		<genre>Strategy</genre>
-		<family>Worms</family>
-		<md5>a490e402d0a06c5ba665c95fd1e9ea2c</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20230215T191056" />
-	</game>
-	<game>
-		<path>./Worms.m3u</path>
-		<name>Worms</name>
-		<md5>0103217a5e1b8d012f45720a70f4b900</md5>
-		<scrap name="ScreenScraper" date="20230215T191058" />
-	</game>
 	<game id="24984">
 		<path>./X-COM Enemy Unknown.m3u</path>
 		<name>XCOM : Enemy Unknown</name>
@@ -3122,21 +2781,6 @@ Wonder Boy In Monster World is the third game in the Monster World spin-off seri
 		<name>Yakuza 5 - part 1</name>
 		<md5>7441d18295520cacd62fbbd4f417c4b9</md5>
 		<scrap name="ScreenScraper" date="20230215T191123" />
-	</game>
-	<game id="25737">
-		<path>./Young Justice Legacy.m3u</path>
-		<name>Young Justice : Legacy</name>
-		<desc>In Young Justice: Legacy fans can look forward to an original storyline set in between Seasons 1 and 2 of the television series, written in collaboration with show writers Greg Weisman and Brandon Vietti. The game is packed with fan favorite playable characters, cameo appearances by popular Justice League heroes and villains, and includes online multiplayer as well as local multiplayer modes.</desc>
-		<marquee>./images/Young Justice Legacy-marquee.png</marquee>
-		<thumbnail>./images/Young Justice Legacy-thumb.png</thumbnail>
-		<boxback>./images/Young Justice Legacy-boxback.png</boxback>
-		<rating>0.45</rating>
-		<developer>Little Orbit</developer>
-		<publisher>Bandai Namco</publisher>
-		<genre>Role playing games</genre>
-		<md5>f2f6fdc345f03ecb64bec4223d26f221</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20230215T191132" />
 	</game>
 	<game>
 		<path>./Yu-Gi-Oh 5Ds Decade Duels Plus.m3u</path>
@@ -3488,24 +3132,6 @@ Wonder Boy In Monster World is the third game in the Monster World spin-off seri
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20230215T191216" />
 	</game>
-	<game id="25837">
-		<path>./Naughty Bear Gold Edition.m3u</path>
-		<name>Naughty Bear</name>
-		<desc>Naughty Bear is a very special action/adventure game for Playstation 3. Taking place in a dreamlike world populated by charming teddy bears, the player embodies Naughty Bear, an outcast rejected by his fellow bears. Your objective: to take revenge on your fellow citizens by terrorising them or even killing them in a particularly cruel manner. You will also have to triumph over the bosses in each of the seven worlds of the game.</desc>
-		<marquee>./images/Naughty Bear Gold Edition-marquee.png</marquee>
-		<thumbnail>./images/Naughty Bear Gold Edition-thumb.png</thumbnail>
-		<boxback>./images/Naughty Bear Gold Edition-boxback.png</boxback>
-		<rating>0.65</rating>
-		<developer>505 Games</developer>
-		<publisher>Artificial Mind &amp; Movement</publisher>
-		<genre>Action / Adventure</genre>
-		<playcount>2</playcount>
-		<lastplayed>20230301T114404</lastplayed>
-		<md5>fe6ae2c3533d6c9caf015ca01eb14121</md5>
-		<gametime>225</gametime>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20230215T184930" />
-	</game>
 	<game>
 		<path>./Need For Speed - Shift 2.m3u</path>
 		<name>Need For Speed - Shift 2</name>
@@ -3748,24 +3374,6 @@ Players can unlock a total of 118 playable characters, which includes characters
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20230215T191214" />
 	</game>
-	<game id="25340">
-		<path>./Arcana Heart 3.m3u</path>
-		<name>Arcana Heart 3</name>
-		<desc>In Arcana Heart 3, chaos is erupting in Japan. Planar rifts are appearing in various locations around the country and it is suspected that the Drexler Institute, a player in the Great War many years ago and creator of the Divine Celestial Weapon, is involved. There is a rumor circulating that if one gets their hands on a celestial stone from a rift, their wishes will be granted. Their power draws many young women to search for them, either to seal them away or in hopes that the rumors are true. Each has their own reasons for the hunt, and they won't allow anyone stand in their way, enemy...or friend alike.</desc>
-		<image>./images/Arcana Heart 3-image.jpg</image>
-		<marquee>./images/Arcana Heart 3-marquee.png</marquee>
-		<fanart>./images/Arcana Heart 3-fanart.jpg</fanart>
-		<rating>0.8</rating>
-		<releasedate>20110113T000000</releasedate>
-		<developer>Examu</developer>
-		<publisher>Arc System Works</publisher>
-		<genre>Fight / 2D</genre>
-		<family>Arcana Heart</family>
-		<players>1-2</players>
-		<md5>ace2d3cc91c453b2fc48d110a979d252</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231126T023151" />
-	</game>
 	<game>
 		<path>./Arslan - The Warriors of Legend.m3u</path>
 		<name>Arslan - The Warriors of Legend</name>
@@ -3820,56 +3428,6 @@ Players can unlock a total of 118 playable characters, which includes characters
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231126T023221" />
 	</game>
-	<game id="25503">
-		<path>./Cars 2.m3u</path>
-		<name>Cars 2</name>
-		<desc>From the makers of Toy Story 3: The Video Game comes Cars 2: The Video Game, where players can jump into the Cars 2 universe with some of their favorite Cars personalities in locations around the globe. Train to become an agent of C.H.R.O.M.E (Command Headquarters for Recon Operations &amp; Motorized Espionage) and take on dangerous missions, compete to become the fastest racecar in the world, or use your spy skills in exciting, action-packed combat racing!</desc>
-		<image>./images/Cars 2-image.jpg</image>
-		<video>./videos/Cars 2-video.mp4</video>
-		<marquee>./images/Cars 2-marquee.png</marquee>
-		<rating>0.7</rating>
-		<developer>Avalanche Software</developer>
-		<publisher>Disney Interactive</publisher>
-		<genre>Race, Driving</genre>
-		<family>Cars</family>
-		<md5>ca3d066079a55a6b81e4d6b768723271</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231126T023234" />
-	</game>
-	<game id="25068">
-		<path>./Catherine.m3u</path>
-		<name>Catherine</name>
-		<desc>Vincent likes his girlfriend. Katherine's pretty, smart, and successful. Trouble is, she's starting to talk about long-term commitment, something Vincent's spent his entire life avoiding. Since romantic complications are the last thing he wants to deal with, Vincent meets his friends for their regular night of drinks. Little does he know that he's about to be blindsided by a beautiful, seductive, irresistible freight train named Catherine. Suddenly, he's hung over in bed next to the most beautiful woman he's ever seen, unsure about the previous night's events. Was it just making out, he wonders, or did something more serious happen between them? Should he tell Katherine? Will he ever see Catherine again? Vincent's about to find that a stumble on the staircase of love can turn into a horrific, fatal plummet...</desc>
-		<image>./images/Catherine-image.jpg</image>
-		<video>./videos/Catherine-video.mp4</video>
-		<thumbnail>./images/Catherine-thumb.png</thumbnail>
-		<fanart>./images/Catherine-fanart.jpg</fanart>
-		<rating>0.85</rating>
-		<releasedate>20110726T000000</releasedate>
-		<developer>Deep Silver</developer>
-		<publisher>Atlus</publisher>
-		<genre>Adventure</genre>
-		<players>1-2</players>
-		<md5>c360b05f5d1e6602b4bdbf63f4f98bc2</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231126T023250" />
-	</game>
-	<game id="27721">
-		<path>./Chariot.m3u</path>
-		<name>Chariot</name>
-		<desc>An action-adventure game for PS3, Chariot is based on physics and balance. The player must lead his two characters as they drag their deceased king through dark and dangerous cellars to find a tomb for him and collect treasure.</desc>
-		<marquee>./images/Chariot-marquee.png</marquee>
-		<fanart>./images/Chariot-fanart.jpg</fanart>
-		<rating>0.7</rating>
-		<releasedate>20150505T000000</releasedate>
-		<developer>Frima Studio</developer>
-		<publisher>Frima Studio</publisher>
-		<genre>Adventure</genre>
-		<players>2</players>
-		<md5>9c05ea238292e7998cdb9269cd645188</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231126T023258" />
-	</game>
 	<game id="25108">
 		<path>./Dirt 3.m3u</path>
 		<name>Dirt 3</name>
@@ -3885,36 +3443,6 @@ Players can unlock a total of 118 playable characters, which includes characters
 		<md5>c2df009ea6f6148a322d3088ead81ffc</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231126T023307" />
-	</game>
-	<game id="25563">
-		<path>./DiRT Showdown.m3u</path>
-		<name>Dirt Showdown</name>
-		<desc>DiRT Showdown is an action-oriented racing game for PS3. The player who loves crumpled metal can practice gymkhana but also more violent events where each player must destroy the vehicles of his opponents. Finally, rallycross races complete the picture.</desc>
-		<rating>0.75</rating>
-		<developer>Codemasters</developer>
-		<publisher>Codemasters</publisher>
-		<genre>Race, Driving</genre>
-		<family>Dirt</family>
-		<players>1-8</players>
-		<md5>683a507214a64af5c5b28d37234edb7c</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231126T023309" />
-	</game>
-	<game id="25522">
-		<path>./Disney Universe.m3u</path>
-		<name>Disney Universe</name>
-		<desc>Disney Universe is an action/adventure game for Playstation 3. Playable with 4 players in cooperation, the software allows you to evolve in different Disney universes such as Alice in Wonderland or Monsters &amp; Co. The title offers the player more than 40 costumes inspired by the company's famous characters, each with specific abilities.</desc>
-		<marquee>./images/Disney Universe-marquee.png</marquee>
-		<thumbnail>./images/Disney Universe-thumb.png</thumbnail>
-		<rating>0.65</rating>
-		<developer>Disney Interactive</developer>
-		<publisher>Disney Interactive</publisher>
-		<genre>Action / Adventure</genre>
-		<family>Disney</family>
-		<players>1-4</players>
-		<md5>99223b99caec458a3cddadd848631233</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231126T023319" />
 	</game>
 	<game id="25445">
 		<path>./Dynasty Warriors 7 Empires.m3u</path>
@@ -4014,22 +3542,6 @@ Players can unlock a total of 118 playable characters, which includes characters
 		<md5>769f288e55ea6b34cfa0df71c0ec0f54</md5>
 		<scrap name="ScreenScraper" date="20231126T023359" />
 	</game>
-	<game id="25901">
-		<path>./Hot Wheels Worlds Best Driver.m3u</path>
-		<name>Hot Wheels World's Best Driver</name>
-		<desc>Hot Wheels World?s Best Driver lets players get behind the wheel of thrilling Hot Wheels vehicles while joining the elite ranks of Team Hot Wheels. Gameplay includes competition in dozens of unique, fast-paced, re-playable challenges all highlighting the different driving styles of Team Hot Wheels: the speed record-breaking Green Team, the show-stopping stunts of the Red Team, the high-tech precision of the Blue Team and the world record-breaking jumps of the Yellow Team. The game pushes players to their limits to see if they have what it takes to become the World?s Best Driver.</desc>
-		<image>./images/Hot Wheels Worlds Best Driver-image.png</image>
-		<marquee>./images/Hot Wheels Worlds Best Driver-marquee.png</marquee>
-		<thumbnail>./images/Hot Wheels Worlds Best Driver-thumb.png</thumbnail>
-		<rating>0.2</rating>
-		<developer>Warner Bros. Interactive</developer>
-		<publisher>Warner Bros. Interactive</publisher>
-		<genre>Race, Driving</genre>
-		<family>Hot Wheels</family>
-		<md5>333ff7050a5a35bb73ec0382b3c77c6b</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231126T023410" />
-	</game>
 	<game id="24784">
 		<path>./Injustice - Gods Among Us.m3u</path>
 		<name>Injustice : Gods Among Us</name>
@@ -4063,33 +3575,11 @@ The gameplay consists in a hand-to-hand fighting in a 2D gameplay with 3D elemen
 		<md5>061cb3569b9c1361fd8c04916a8deb24</md5>
 		<scrap name="ScreenScraper" date="20231126T023422" />
 	</game>
-	<game id="25289">
-		<path>./Jetpack Joyride.m3u</path>
-		<name>Jetpack Joyride</name>
-		<desc>Barry Steakfries, an entrepreneur, sees his sales drop considerably. On the verge of bankruptcy, he sees only one solution: ask a secret laboratory if he can create something to boost his profits. When he goes to the lab, he finds a secret creation: a jetpack. Thinking of all the things he could do with it, he storms into the lab, breaks through a wall, steals the jetpack and runs away.The aim of the game is to travel the longest distance on his jetpack, avoiding zappers, missiles and lasers, and collecting as many coins and draw tokens as possible. There are also missions to complete, to level up, and earn money to spend in the shop.</desc>
-		<marquee>./images/Jetpack Joyride-marquee.png</marquee>
-		<fanart>./images/Jetpack Joyride-fanart.jpg</fanart>
-		<rating>0.75</rating>
-		<releasedate>20121120T000000</releasedate>
-		<developer>Beatshapers</developer>
-		<publisher>Beatshapers</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<md5>13fa0c473a05c425d9e2a1fd2fade34a</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231126T023431" />
-	</game>
 	<game>
 		<path>./Killzone 3 Multiplayer.m3u</path>
 		<name>Killzone 3 Multiplayer</name>
 		<md5>6fbcff476242c6bd9603954861a08671</md5>
 		<scrap name="ScreenScraper" date="20231126T023432" />
-	</game>
-	<game>
-		<path>./Killzone3 Behind the Scenes.m3u</path>
-		<name>Killzone3 Behind the Scenes</name>
-		<md5>dc7aecf3488d381008af889802346ffd</md5>
-		<scrap name="ScreenScraper" date="20231126T023434" />
 	</game>
 	<game>
 		<path>./Lego Batman 2 - DC Heroes.m3u</path>
@@ -4131,21 +3621,6 @@ The gameplay consists in a hand-to-hand fighting in a 2D gameplay with 3D elemen
 		<md5>224d65cbd731f7fdce3b6604dcbf3f5a</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231126T023503" />
-	</game>
-	<game id="201037">
-		<path>./LEGO The Hobbit.m3u</path>
-		<name>LEGO The Hobbit</name>
-		<desc>The interactive game of LEGO The Hobbit allows gamers to play along with their favorite scenes from the films, and follows the Hobbit Bilbo Baggins as he is recruited by the Wizard Gandalf to aid Thorin Oakenshield and his Company of Dwarves.</desc>
-		<marquee>./images/LEGO The Hobbit-marquee.png</marquee>
-		<releasedate>20140408T000000</releasedate>
-		<developer>Travellers Tales</developer>
-		<publisher>Warner Bros. Interactive</publisher>
-		<genre>Action / Adventure</genre>
-		<family>LEGO</family>
-		<players>1-2</players>
-		<md5>6d72e6e4128b906ca2c3c8108ff16253</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231126T023508" />
 	</game>
 	<game id="27661">
 		<path>./LEGO© Jurassic World.m3u</path>
@@ -4238,25 +3713,6 @@ With our new toolset in your little burlap hands, you?ll have all the ingredient
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231126T023622" />
 	</game>
-	<game id="25066">
-		<path>./LittleBigPlanet.m3u</path>
-		<name>Littlebigplanet</name>
-		<desc>LittleBigPlanet is a puzzle platformer where the player controls sackboys. It takes the characters on an adventure through levels with different themes and settings, trying to reach the end of each level alive. The platforming is based entirely on physics where the sackboys can push or pull items, or generally manipulate them with their movement or weight. In addition to running, jumping, pushing and pulling, it is also necessary to master grabbing dangling objects and swinging from them to get over some obstacles and traps.</desc>
-		<image>./images/LittleBigPlanet-image.jpg</image>
-		<video>./videos/LittleBigPlanet-video.mp4</video>
-		<marquee>./images/LittleBigPlanet-marquee.png</marquee>
-		<thumbnail>./images/LittleBigPlanet-thumb.png</thumbnail>
-		<fanart>./images/LittleBigPlanet-fanart.jpg</fanart>
-		<rating>0.9</rating>
-		<developer>Media Molecule</developer>
-		<publisher>Sony Computer Entertainment</publisher>
-		<genre>Platform</genre>
-		<family>LittleBigPlanet</family>
-		<players>1-4</players>
-		<md5>d42020d78c8c3e581634c3ca61114212</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231126T023643" />
-	</game>
 	<game id="25142">
 		<path>./Tom Clancy's Ghost Recon - Future Soldier.m3u</path>
 		<name>Ghost Recon : Future Soldier</name>
@@ -4273,6 +3729,28 @@ With our new toolset in your little burlap hands, you?ll have all the ingredient
 		<md5>770b02539ddc99a172c8155fab25b4b3</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231126T023700" />
+	</game>
+	<game>
+		<path>./Arcana Heart 3.m3u</path>
+		<name>Arcana Heart 3</name>
+		<desc>A plucky cast of female fighters duke it out on a battlefield with the help of their "Arcana" spirit (who adds to the character's attacks and defense) in this third entry in the all-girls fighting franchise. Arcana Heart 3 combines fast-paced aerial action with a unique cast for an extraordinary fighting experience!
+
+
+Chaos and disorder are threatening to rip apart the very fabric of Japanese society as planar rifts appear throughout the country. It is suspected that the Drexler Institute, the instigator of the Great War many years ago and creator of the Divine Celestial Weapon, is somehow involved. In the midst of this confusion, a mysterious rumor arises, claiming the existence of wish-granting "Celestial Stones" within the chaotic planar rifts. As a result of these rumors, a number of individuals have converged on Japan in the hopes of obtaining one of these fabled stones – either to seal them away or to see for themselves if rumor is true. Each person has their own reasons for seeking these rare and valuable stones, and they won't let anyone stand in their way, be they foe ... or friend.</desc>
+		<image>./images/Arcana Heart 3-image.jpg</image>
+		<marquee>./images/Arcana Heart 3-marquee.png</marquee>
+		<thumbnail>./images/Arcana Heart 3-thumb.jpg</thumbnail>
+		<fanart>./images/Arcana Heart 3-fanart.jpg</fanart>
+		<rating>0.8</rating>
+		<releasedate>20110419T000000</releasedate>
+		<developer>Examu</developer>
+		<publisher>Aksys Games</publisher>
+		<genre>Combat</genre>
+		<players>2</players>
+		<md5>ace2d3cc91c453b2fc48d110a979d252</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231126T023151" />
+		<scrap name="HfsDB" date="20231127T010247" />
 	</game>
 	<game id="25277">
 		<path>./Army of TWO The Devils Cartel.m3u</path>
@@ -4291,87 +3769,91 @@ With our new toolset in your little burlap hands, you?ll have all the ingredient
 		<md5>ed8dc4705bf255e54e8bbfb688df16e3</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231126T151547" />
+		<scrap name="HfsDB" date="20231127T010347" />
 	</game>
-	<game id="26218">
+	<game>
 		<path>./Blazing Angels 2 Secret Missions of WWII.m3u</path>
-		<name>Blazing Angels 2 : Secret Missions of WW II</name>
-		<desc>Blazing Angels 2 is the sequel to Squadrons of WWII. Players take on the role of young pilots assigned to a secret squadron. They will have to carry out missions of the utmost importance around the globe, with the ultimate goal of preventing the Nazis from creating a weapon of mass destruction.</desc>
+		<name>Blazing Angels 2: Secret Missions of WWII</name>
+		<desc>Blazing Angels 2: Secret Missions shows World War II from a different perspective - that of an elite pilot who is part of a secret team. In the game, the player undertakes some of the most dangerous missions in exotic locations all over the globe. As an elite pilot, the player goes from one great adventure to another, while battling the most lethal experimental weapons of the Third Reich.</desc>
 		<video>./videos/Blazing Angels 2 Secret Missions of WWII-video.mp4</video>
 		<marquee>./images/Blazing Angels 2 Secret Missions of WWII-marquee.png</marquee>
 		<thumbnail>./images/Blazing Angels 2 Secret Missions of WWII-thumb.png</thumbnail>
 		<fanart>./images/Blazing Angels 2 Secret Missions of WWII-fanart.jpg</fanart>
 		<rating>0.75</rating>
 		<releasedate>20071106T000000</releasedate>
-		<developer>Ubisoft</developer>
+		<developer>Ubisoft Romania</developer>
 		<publisher>Ubisoft</publisher>
-		<genre>Shooter / Plane</genre>
-		<family>Blazing Angels</family>
-		<players>1-2</players>
+		<genre>Action</genre>
+		<players>1</players>
 		<md5>0df9e203e4707cfcc7a553e093b6ff66</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231126T151548" />
+		<scrap name="HfsDB" date="20231127T010347" />
 	</game>
-	<game id="201623">
+	<game>
 		<path>./BRAIN CHALLENGE.m3u</path>
-		<name>Brain Challenge</name>
-		<desc>Get your brain in shape with these fun daily exercises! No pain, stress, or boredom; just challenging and entertaining puzzles that act like a vitamin boost for your brain. Twenty different games in five categories (Memory, Visual, Logic, Math, and Focus) will train all areas of your brain. Evaluate your mental capacity under regular or stressful conditions with the Daily Test &amp; the Stress Management Test, and work with your favorite personal coach among two to improve. Keep track of your progress every day, and easily evaluate your level of brain activity.</desc>
+		<name>Brain Challenge Deluxe</name>
+		<desc>Released in Europe in 2008 and for the PSN in 2009.</desc>
 		<marquee>./images/BRAIN CHALLENGE-marquee.png</marquee>
+		<thumbnail>./images/BRAIN CHALLENGE-thumb.jpg</thumbnail>
 		<rating>0.55</rating>
-		<releasedate>20081127T000000</releasedate>
-		<developer>Gameloft Beijing</developer>
-		<publisher>Ubisoft</publisher>
-		<genre>Educational</genre>
-		<players>1-4</players>
+		<releasedate>20081205T000000</releasedate>
+		<genre>Puzzle-Game</genre>
 		<md5>33c55cf4430695487eb53ada321b6023</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231126T151550" />
+		<scrap name="HfsDB" date="20231127T010447" />
 	</game>
-	<game id="24858">
+	<game>
 		<path>./Call Of Duty 4 Modern Warfare.m3u</path>
-		<name>Call of Duty 4 : Modern Warfare</name>
-		<desc>Call of Duty 4: Modern Warfare, the action thriller from the award-winning team at Infinity Ward, the creators of the Call of Duty series, delivers the most intense and cinematic action experience ever. Armed with an arsenal of advanced and powerful modern-day firepower, players are transported to treacherous hotspots around the globe to take on a rogue enemy group threatening the world. As both a U.S. Marine and British S.A.S. soldier fighting through an unfolding story full of twists and turns, players use sophisticated technology, superior firepower, and coordinated land and air strikes on a battlefield where speed, accuracy, and communication are essential to victory. The epic title also delivers an added depth of multiplayer action providing online fans an all-new community of persistence, addictive, and customizable gamep</desc>
+		<name>Call of Duty 4: Modern Warfare</name>
+		<desc>A radical leader has executed the president of an unnamed country in the Middle East, and an "Ultranationalist" movement starts a civil war in Russia. The conflicts are seen from the perspectives of a U.S. Force Reconnaissance Marine and a British SAS commando in various locales around the world.</desc>
 		<image>./images/Call Of Duty 4 Modern Warfare-image.jpg</image>
 		<marquee>./images/Call Of Duty 4 Modern Warfare-marquee.png</marquee>
 		<thumbnail>./images/Call Of Duty 4 Modern Warfare-thumb.png</thumbnail>
 		<fanart>./images/Call Of Duty 4 Modern Warfare-fanart.jpg</fanart>
 		<manual>./manuals/Call Of Duty 4 Modern Warfare-manual.pdf</manual>
 		<rating>0.9</rating>
+		<releasedate>20071106T000000</releasedate>
 		<developer>Infinity Ward</developer>
 		<publisher>Activision</publisher>
-		<genre>Shooter / 1st person</genre>
-		<family>Call Of Duty</family>
+		<genre>Shooter</genre>
+		<players>4</players>
 		<md5>78020723f11fe42c1b4a604b9eaef0ca</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231126T151626" />
+		<scrap name="HfsDB" date="20231127T010447" />
 	</game>
 	<game>
 		<path>./Call of Duty Black Ops II NPUB31054.m3u</path>
 		<name>Call of Duty Black Ops II NPUB31054</name>
 		<md5>9f34f9b59a9a0b1412f730af84951d0a</md5>
 		<scrap name="ScreenScraper" date="20231126T151627" />
+		<scrap name="HfsDB" date="20231127T010448" />
 	</game>
-	<game id="24773">
+	<game>
 		<path>./Call of Duty Black Ops.m3u</path>
-		<name>Call of Duty : Black Ops</name>
+		<name>Call of Duty: Black Ops</name>
 		<desc>Call of Duty: Black Ops takes place during the Cold War, in The Sixties. The story focuses on CIA-backed clandestine black operations carried out behind enemy lines. These missions take place in various locations around the globe such as the Ural Mountains in central Russia, Cuba, Laos, and Vietnam. The single-player campaign revolves around an experimental Soviet chemical weapon codenamed "Nova-6".</desc>
 		<image>./images/Call of Duty Black Ops-image.jpg</image>
 		<video>./videos/Call of Duty Black Ops-video.mp4</video>
 		<marquee>./images/Call of Duty Black Ops-marquee.png</marquee>
+		<thumbnail>./images/Call of Duty Black Ops-thumb.jpg</thumbnail>
 		<fanart>./images/Call of Duty Black Ops-fanart.jpg</fanart>
 		<rating>0.75</rating>
 		<releasedate>20101109T000000</releasedate>
 		<developer>Treyarch</developer>
 		<publisher>Activision</publisher>
-		<genre>Shooter / 1st person</genre>
-		<family>Call Of Duty</family>
-		<players>1</players>
+		<genre>Shooter</genre>
+		<players>4</players>
 		<md5>39dbe6b656b811b375e041aec4f49811</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231126T151653" />
+		<scrap name="HfsDB" date="20231127T010549" />
 	</game>
-	<game id="24713">
+	<game>
 		<path>./Call of Duty Ghosts.m3u</path>
-		<name>Call of Duty : Ghosts</name>
+		<name>Call of Duty: Ghosts</name>
 		<desc>Outnumbered and outgunned, but not outmatched. Welcome to Call of Duty®: Ghosts, an extraordinary step forward for one of the largest entertainment franchises of all-time. This new chapter in the Call of Duty® franchise features a fresh dynamic where players are on the side of a crippled nation fighting not for freedom, or liberty, but simply to survive.
 
 Fueling this all new Call of Duty universe, the franchise's ambitious new next-gen engine delivers stunning levels of immersion and performance all while maintaining the speed and fluidity of 60 frames-per-second across all platforms.
@@ -4382,36 +3864,112 @@ Ten years after a devastating mass event, the nation's borders and the balance o
 		<thumbnail>./images/Call of Duty Ghosts-thumb.png</thumbnail>
 		<fanart>./images/Call of Duty Ghosts-fanart.jpg</fanart>
 		<rating>0.4</rating>
-		<developer>Activision</developer>
-		<publisher>Infinity Ward</publisher>
-		<genre>Shooter / 1st person</genre>
-		<family>Call Of Duty</family>
-		<players>12</players>
+		<releasedate>20131105T000000</releasedate>
+		<developer>Infinity Ward</developer>
+		<publisher>Activision</publisher>
+		<genre>Action</genre>
+		<players>2</players>
 		<md5>1f1c683e477cb7df46cadc9bde0e7882</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231126T151722" />
+		<scrap name="HfsDB" date="20231127T010550" />
 	</game>
 	<game>
 		<path>./Carnival Island Digital.m3u</path>
 		<name>Carnival Island Digital</name>
 		<md5>11635a151d37e40f51f11e875ad12b42</md5>
+		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231126T151723" />
+		<scrap name="HfsDB" date="20231127T010648" />
 	</game>
-	<game id="25108">
+	<game>
+		<path>./Cars 2.m3u</path>
+		<name>Cars 2</name>
+		<desc>Cars 2: The Video Game brings players inside the international training center CHROME (Command Headquarters for Recon Operations and Motorized Espionage), where they choose from more than 20 different characters and train to become world class spies. As part of their international training, they will participate in simulated hazardous missions using high-tech gadgets to evade and slow down adversaries.</desc>
+		<image>./images/Cars 2-image.jpg</image>
+		<video>./videos/Cars 2-video.mp4</video>
+		<marquee>./images/Cars 2-marquee.png</marquee>
+		<thumbnail>./images/Cars 2-thumb.jpg</thumbnail>
+		<fanart>./images/Cars 2-fanart.jpg</fanart>
+		<rating>0.7</rating>
+		<releasedate>20110621T000000</releasedate>
+		<developer>Avalanche Software (USA)</developer>
+		<publisher>Disney Interactive Studios</publisher>
+		<genre>Course</genre>
+		<md5>ca3d066079a55a6b81e4d6b768723271</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231126T023234" />
+		<scrap name="HfsDB" date="20231127T010649" />
+	</game>
+	<game>
+		<path>./Catherine.m3u</path>
+		<name>Catherine</name>
+		<desc>Vincent likes his girlfriend. Katherine's pretty, smart, and successful. Trouble is, she's starting to talk about long-term commitment, something Vincent's spent his entire life avoiding. Since romantic complications are the last thing he wants to deal with, Vincent meets his friends for their regular night of drinks. Little does he know that he's about to be blindsided by a beautiful, seductive, irresistible freight train named Catherine. Suddenly, he's hung over in bed next to the most beautiful woman he's ever seen, unsure about the previous night's events. Was it just making out, he wonders, or did something more serious happen between them? Should he tell Katherine? Will he ever see Catherine again? Vincent's about to find that a stumble on the staircase of love can turn into a horrific, fatal plummet...</desc>
+		<image>./images/Catherine-image.jpg</image>
+		<video>./videos/Catherine-video.mp4</video>
+		<marquee>./images/Catherine-marquee.png</marquee>
+		<thumbnail>./images/Catherine-thumb.png</thumbnail>
+		<fanart>./images/Catherine-fanart.jpg</fanart>
+		<rating>0.85</rating>
+		<releasedate>20120210T000000</releasedate>
+		<developer>Deep Silver</developer>
+		<publisher>Atlus</publisher>
+		<genre>Aventure</genre>
+		<md5>c360b05f5d1e6602b4bdbf63f4f98bc2</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231126T023250" />
+		<scrap name="HfsDB" date="20231127T010650" />
+	</game>
+	<game>
+		<path>./Chariot.m3u</path>
+		<name>Chariot</name>
+		<desc>Chariot is a couch co-op platformer that can be played alone or with a friend. Players take the role of the brave Princess or her faithful Fiancé as they maneuver the departed king's coffin-on-wheels through 25 levels set in 5 vibrant underground environments, with his majesty's ghost giving them a piece of his mind every step of the way. Filled to the brim with emergent physics-based gameplay, Chariot offers hours of exciting exploration, fast-paced ride sequences and mountains upon mountains of loot! Notice: We highly recommend playing Chariot with a controller.</desc>
+		<marquee>./images/Chariot-marquee.png</marquee>
+		<thumbnail>./images/Chariot-thumb.jpg</thumbnail>
+		<fanart>./images/Chariot-fanart.jpg</fanart>
+		<rating>0.7</rating>
+		<releasedate>20141112T000000</releasedate>
+		<developer>Frima Studios</developer>
+		<publisher>Frima Studios</publisher>
+		<genre>Aventure</genre>
+		<md5>9c05ea238292e7998cdb9269cd645188</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231126T023258" />
+		<scrap name="HfsDB" date="20231127T010748" />
+	</game>
+	<game>
 		<path>./DiRT 3.m3u</path>
-		<name>Dirt 3</name>
-		<desc>DiRT 3 is a racing game for PS3. Get behind the wheel of one of the sixty vehicles available, including the Mini Cooper S1275 or the Lancia Stratos HF Integrale, and take part in one of the 6 game modes in single or split screen mode. Online multiplayer is also available, and new modes such as Gymkhana have been introduced.</desc>
+		<name>DiRT 3</name>
+		<desc>The acclaimed off-road racing franchise returns in this third series entry. DiRT 3 delivers mud, sweat and gears the world over: from the intense weather-beaten rally stages of Europe, Africa and the US, to executing performance driving showcases and career challenges where car control is pushed to spectacular limits. The game boasts more cars, more locations, more routes and more events than any other game in the series, including over 50 rally cars representing the very best from five decades of the sport.</desc>
 		<video>./videos/DiRT 3-video.mp4</video>
+		<marquee>./images/DiRT 3-marquee.png</marquee>
+		<thumbnail>./images/DiRT 3-thumb.jpg</thumbnail>
 		<fanart>./images/DiRT 3-fanart.jpg</fanart>
 		<rating>0.75</rating>
+		<releasedate>20110524T000000</releasedate>
 		<developer>Codemasters</developer>
 		<publisher>Codemasters</publisher>
-		<genre>Race, Driving</genre>
-		<family>Dirt</family>
-		<players>2</players>
+		<genre>Course</genre>
 		<md5>c2df009ea6f6148a322d3088ead81ffc</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231126T151725" />
+		<scrap name="HfsDB" date="20231127T010749" />
+	</game>
+	<game>
+		<path>./DiRT Showdown.m3u</path>
+		<name>Dirt: Showdown</name>
+		<desc>An expansion on the rough-riding racing action of Dirt 3's gymkhana competition, Dirt Showdown offers three modes focused on the wilder aspects of off-road driving: Race, Showdown and Demolition!</desc>
+		<marquee>./images/DiRT Showdown-marquee.png</marquee>
+		<thumbnail>./images/DiRT Showdown-thumb.jpg</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>20120529T000000</releasedate>
+		<developer>Codemasters</developer>
+		<publisher>Codemasters</publisher>
+		<genre>Course</genre>
+		<md5>683a507214a64af5c5b28d37234edb7c</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231126T023309" />
+		<scrap name="HfsDB" date="20231127T010749" />
 	</game>
 	<game id="25257">
 		<path>./Disney Epic Mickey 2 The Power of Two.m3u</path>
@@ -4428,89 +3986,135 @@ Ten years after a devastating mass event, the nation's borders and the balance o
 		<md5>a2924ec354081421dd539010e86c32a1</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231126T151746" />
+		<scrap name="HfsDB" date="20231127T010750" />
 	</game>
-	<game id="25445">
+	<game>
+		<path>./Disney Universe.m3u</path>
+		<name>Disney Universe</name>
+		<desc>Disney Universe is an off-the-wall non-stop action adventure where Disney worlds and characters mix up for the first time. Suit up in iconic costumes and face challenges in legendary Disney worlds.  Defeat enemies, collect coins and powerups, unlock new costumes and explore with friends as you battle in a mix-up of worlds inspired by numerous Disney and Pixar films.</desc>
+		<image>./images/Disney Universe-image.jpg</image>
+		<marquee>./images/Disney Universe-marquee.png</marquee>
+		<thumbnail>./images/Disney Universe-thumb.png</thumbnail>
+		<rating>0.65</rating>
+		<releasedate>20111025T000000</releasedate>
+		<developer>Eurocom</developer>
+		<publisher>Disney Interactive Studios</publisher>
+		<genre>Action</genre>
+		<players>4</players>
+		<md5>99223b99caec458a3cddadd848631233</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231126T023319" />
+		<scrap name="HfsDB" date="20231127T010850" />
+	</game>
+	<game>
 		<path>./DYNASTY WARRIORS 7 Empires.m3u</path>
-		<name>Dynasty Warriors 7 Empires</name>
+		<name>Dynasty Warriors 7: Empires</name>
 		<desc>Dynasty Warriors 7 Empires is a Beat-'Em-Up game, developed by Omega Force and published by TECMO KOEI GAMES CO., LTD., which was released in 2013.</desc>
 		<thumbnail>./images/DYNASTY WARRIORS 7 Empires-thumb.png</thumbnail>
 		<rating>0.75</rating>
-		<releasedate>20121108T000000</releasedate>
-		<developer>Tecmo</developer>
-		<publisher>OMEGA Force</publisher>
-		<genre>Beat'em Up</genre>
-		<family>Dynasty Warriors</family>
+		<releasedate>20130226T000000</releasedate>
+		<developer>TECMO KOEI GAMES CO., LTD.</developer>
+		<publisher>TECMO KOEI GAMES CO., LTD.</publisher>
+		<genre>Action</genre>
+		<players>2</players>
 		<md5>e07c43ec66ea21170de5628b8cdea6d4</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231126T151748" />
+		<scrap name="HfsDB" date="20231127T010850" />
 	</game>
 	<game>
 		<path>./DYNASTY WARRIORS 8 Empires Free Alliances Version.m3u</path>
 		<name>DYNASTY WARRIORS 8 Empires Free Alliances Version</name>
 		<md5>80b710f108bdc1c5c074a0cbf1f5f9ec</md5>
 		<scrap name="ScreenScraper" date="20231126T151749" />
+		<scrap name="HfsDB" date="20231127T010949" />
 	</game>
-	<game id="25345">
+	<game>
 		<path>./DYNASTY WARRIORS 8 Empires.m3u</path>
-		<name>Dynasty Warriors 8 : Empires</name>
-		<desc>Dynasty Warriors 8: Empires is a beat'em all combat and adventure game with management and strategy elements. You follow the destiny of a Chinese general who is trying to unify the country. To do this, he must manage the recruitment of his army, the organisation of his council, but also participate in battles and eliminate thousands of his enemies.</desc>
-		<developer>Tecmo</developer>
-		<publisher>Tecmo</publisher>
-		<genre>Beat'em Up</genre>
-		<family>Dynasty Warriors</family>
+		<name>Dynasty Warriors 8 Empires</name>
+		<desc>Dynasty Warriors 8 (??????7 Shin Sangokumus? 7?, known in Japan as Shin Sangokumusou 7) is a hack and slash video game and the eighth official installment of the Dynasty Warriors series. It is developed by Omega Force and published by Tecmo Koei. The story is based on the Chinese writer Luo Guanzhong's historical novel Romance of the Three Kingdoms. The game was unveiled on October 30, 2012 via Jump Magazine and released on February 28, 2013 for the PlayStation 3 in Japan.[3] On April 3, 2013, it was confirmed by Tecmo Koei that there would be an overseas release for both North America and Europe in July 2013. It was released on both PlayStation 3 and Xbox 360 for both physical and digital release. The option of English and Japanese voice overs also return, where there is also an option to change the subtitles to English, French or German.
+
+Having more than 82 characters featured in the game,[13][14] the game largely based its system from Dynasty Warriors 7 and instead focused on adding more content for replayability as well as several tweaks in the combat system.[15] The game is followed by two expansions. The first, Dynasty Warriors 8: Xtreme Legends was released for PlayStation 3 on November 28, 2013 in Japan and on 2014 in North America and Europe. Versions for PlayStation Vita and PlayStation 4 are developed as well, both of which package the expansion with the original version and are released under the title of Dynasty Warriors 8: Xtreme Legends Complete Edition.[7] The PlayStation Vita version was released on the same day as PlayStation 3, while the PlayStation 4 version was released as a launch title for the console in Japan, on March 25, 2014 in North America, and on April 4, 2014 for Europe.[16] The PC port for Complete Edition released on May 13, 2014. The second expansion, Dynasty Warriors 8: Empires was released for the PlayStation 3, PlayStation 4, and Xbox One on November 20, 2014 in Japan,[1] with North American and European versions released in February 2015 for PlayStation 4, PlayStation 3, Xbox One and Microsoft Windows (via Steam).</desc>
+		<marquee>./images/DYNASTY WARRIORS 8 Empires-marquee.png</marquee>
+		<thumbnail>./images/DYNASTY WARRIORS 8 Empires-thumb.png</thumbnail>
+		<releasedate>20141120T000000</releasedate>
+		<developer>Omega Force</developer>
+		<publisher>Koei Tecmo</publisher>
+		<genre>Action</genre>
 		<md5>0c585dc173f89c449d9cb7e83cb482be</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231126T151751" />
+		<scrap name="HfsDB" date="20231127T010950" />
 	</game>
-	<game id="25306">
+	<game>
 		<path>./DYNASTY WARRIORS GUNDAM Reborn.m3u</path>
-		<name>Dynasty Warriors : Gundam Reborn</name>
-		<desc>Dynasty Warriors: Gundam Reborn is a beat'em all action game for PS3. In command of a super-powerful robot, the player takes part in battles against several hundred enemies. It is also possible to follow characters from the series up to Gundam Unicorn or to collect over 120 Mobile Suits.</desc>
+		<name>Dynasty Warriors: Gundam Reborn</name>
+		<desc>Gundam comes to life in the classic Dynasty Warriors series like never before! Experience the thrill of reliving your favorite epic battles from the Gundam Universe in epic battlefields with hundreds of opponents! Play as your favorite Mobile Suits from series such as Gundam Seed and Gundam Unicorn for the first time ever! Features over 100 playable Mobile Suits and thrilling story episodes for each series represented!</desc>
+		<marquee>./images/DYNASTY WARRIORS GUNDAM Reborn-marquee.png</marquee>
+		<thumbnail>./images/DYNASTY WARRIORS GUNDAM Reborn-thumb.jpg</thumbnail>
+		<fanart>./images/DYNASTY WARRIORS GUNDAM Reborn-fanart.jpg</fanart>
 		<rating>0.75</rating>
-		<releasedate>20131219T000000</releasedate>
-		<developer>OMEGA Force</developer>
-		<publisher>Bandai Namco</publisher>
-		<genre>Beat'em Up</genre>
-		<family>Dynasty Warriors</family>
+		<releasedate>20140701T000000</releasedate>
+		<developer>Omega Force</developer>
+		<publisher>Namco Bandai Games</publisher>
+		<genre>Action</genre>
 		<players>2</players>
 		<md5>c9f45eea37ccd78a2a5595c85423c8fd</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231126T151753" />
+		<scrap name="HfsDB" date="20231127T011051" />
 	</game>
-	<game id="25681">
+	<game>
 		<path>./EA SPORTS MMA.m3u</path>
-		<name>Ea Sports Mma</name>
-		<desc>EA SPORTS MMA brings the authenticity of the world's most intense combat sport home like never before. Choose from the world's top fighters or climb the ranks of the worldwide circuit with your created prodigy to become the ultimate MMA champion. Travel the globe and learn a multitude of fighting techniques and skills from masters in each discipline. Select from various weight classes, rule sets, and take on all challengers in multiple cage types or a ring. The challenge continues online with the most robust offering for any MMA videogame, including the ability to create and share custom fighters, prize fights, and more. Are you ready? Let's get it on!</desc>
+		<name>EA Sports MMA</name>
+		<desc>EA Sports MMA is a fighting video game which was published by EA Sports and developed by EA Tiburon from 2008 to 2010. It was released for the PlayStation 3 and Xbox 360[3] on October 19, 2010 in North America and October 22, 2010 everywhere else. Online services have been shut down since April 13, 2012[4] for the PlayStation 3 and Xbox 360.[5]
+
+EA SPORTS MMA brings the authenticity of the world's most intense combat sport home like never before. Choose from the world's top fighters or climb the ranks of the worldwide circuit with your created prodigy to become the ultimate MMA champion. Travel the globe and learn a multitude of fighting techniques and skills from masters in each discipline. Select from various weight classes, rule sets, and take on all challengers in multiple cage types or a ring. The challenge continues online with the most robust offering for any MMA videogame, including the ability to create and share custom fighters, prize fights, and more. Are you ready? Let's get it on!</desc>
+		<image>./images/EA SPORTS MMA-image.jpg</image>
 		<video>./videos/EA SPORTS MMA-video.mp4</video>
 		<marquee>./images/EA SPORTS MMA-marquee.png</marquee>
+		<thumbnail>./images/EA SPORTS MMA-thumb.jpg</thumbnail>
 		<fanart>./images/EA SPORTS MMA-fanart.jpg</fanart>
 		<rating>0.7</rating>
-		<developer>EA Sports</developer>
+		<releasedate>20101019T000000</releasedate>
+		<developer>EA Tiburon</developer>
 		<publisher>EA Sports</publisher>
-		<genre>Fight</genre>
+		<genre>Combat</genre>
 		<players>2</players>
 		<md5>6fc4bbbf7dfca42db76c4e39ee7e1996</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231126T151754" />
+		<scrap name="HfsDB" date="20231127T011052" />
 	</game>
-	<game id="25396">
+	<game>
 		<path>./Family Guy Back To The Multiverse.m3u</path>
-		<name>Family Guy : Back to the Multiverse</name>
+		<name>Family Guy: Back to the Multiverse</name>
 		<desc>Family Guy: Back to the Multiverse is a third-person cooperative gameplay video game set to be released on November 20, 2012 in North America for Xbox 360, PlayStation 3 and PC. It's based on the Family Guy television series, most notably the episode Road to the Multiverse, and is also a continuation of The Big Bang Theory. It is rated M for Mature for blood, violence, drug use, mature humor, and sexual content/themes. This game also features the return of Stewie's evil half-brother Bertram, who was killed in the show.</desc>
+		<image>./images/Family Guy Back To The Multiverse-image.jpg</image>
+		<marquee>./images/Family Guy Back To The Multiverse-marquee.png</marquee>
 		<thumbnail>./images/Family Guy Back To The Multiverse-thumb.png</thumbnail>
 		<rating>0.75</rating>
-		<developer>Heavy Iron Studios</developer>
+		<releasedate>20121120T000000</releasedate>
+		<developer>Heavy Iron Studio</developer>
 		<publisher>Activision</publisher>
-		<players>2-4</players>
+		<genre>Action</genre>
+		<players>4</players>
 		<md5>1ab697e9800c9a260b5ff4fee2688dc3</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231126T151803" />
+		<scrap name="HfsDB" date="20231127T011150" />
 	</game>
 	<game>
 		<path>./Fast  Furious Showdown.m3u</path>
-		<name>Fast  Furious Showdown</name>
+		<name>Fast &amp; Furious: Showdown</name>
+		<marquee>./images/Fast  Furious Showdown-marquee.png</marquee>
+		<thumbnail>./images/Fast  Furious Showdown-thumb.jpg</thumbnail>
+		<releasedate>20130521T000000</releasedate>
+		<genre>Course</genre>
 		<md5>7f9af60c004f70f241573c318e993610</md5>
+		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231126T151804" />
+		<scrap name="HfsDB" date="20231127T011151" />
 	</game>
 	<game id="25255">
 		<path>./Fist of the North Star Kens Rage 2.m3u</path>
@@ -4525,45 +4129,92 @@ Ten years after a devastating mass event, the nation's borders and the balance o
 		<md5>67a89661ba262bdc0a6a2860187339c7</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231126T151806" />
+		<scrap name="HfsDB" date="20231127T011152" />
 	</game>
-	<game id="201219">
+	<game>
 		<path>./HEAVY FIRE SHATTERED SPEAR.m3u</path>
-		<name>Heavy Fire - Shattered Spear</name>
-		<family>Heavy Fire</family>
+		<name>Heavy Fire: Shattered Spear</name>
+		<thumbnail>./images/HEAVY FIRE SHATTERED SPEAR-thumb.jpg</thumbnail>
+		<developer>Teyon</developer>
+		<publisher>Mastiff</publisher>
+		<genre>Action</genre>
 		<md5>b677642e3ae4281264a1e3afabf60a09</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231126T151808" />
+		<scrap name="HfsDB" date="20231127T011252" />
 	</game>
-	<game id="200853">
+	<game>
 		<path>./Hot Shots Golf Out of Bounds.m3u</path>
-		<name>Hot Shots Golf - Out of Bounds</name>
-		<desc>Showcasing high definition graphics along with new, more accurate golf physics, Hot Shots Golf: Out of Bounds offers up a new level of immersion to the franchise's signature over-the-top visuals and pick up and play action. Hot Shots Golf: Out of Bounds brings an entirely new element of gameplay control by introducing a shot system that focuses on the player's swing instead of a power meter. Featuring more than 15 zany golfers and caddies, Hot Shots Golf: Out of Bounds adds six new courses to the overall challenge, ranging from pitch-and-putt par three layouts to challenging 18-hole configurations.</desc>
+		<name>Hot Shots Golf: Out of Bounds</name>
+		<desc>Hot Shots Golf makes its first appearance on PlayStation 3 with online support for multiplayer competition and a new shot system. The framework is otherwise the same as in previous games in the series, which began on the original PlayStation in 1998. Cutesy characters with large heads and whimsical expressions can compete on six new courses filled with onlookers, animals, and other animated surprises. The new venues take place along a coast, on a mountain range, in the woods, and across a desert. The shot system by default forgoes the horizontal power meter in favor of a swing-based approach in which players use visual cues to time their backswings and follow-throughs. Traditionalists can still, however, revert back to the old swing system from the options menu.
+
+Once again a number of customization features are available to personalize each of the game's 15 characters and six caddies. By competing in different events, players can unlock new equipment such as enhanced clubs and balls. Hot Shots Golf: Out of Bounds also includes a robust online component, with the ability to create custom tournaments supporting up to 50 players. Online avatars can be tweaked with 300 visual options, including hairstyles, masks, clothing, and more. Players can also send messages to friends, or visit the PlayStation Store to purchase new courses, clubs, characters, and other features. Key play modes include Versus, Training, Tournament, Stroke, and Match Play. Detailed statistics are tracked throughout each mode and challenge, from best average score and driving distance to average putt length and putting accuracy.</desc>
 		<image>./images/Hot Shots Golf Out of Bounds-image.jpg</image>
 		<video>./videos/Hot Shots Golf Out of Bounds-video.mp4</video>
 		<marquee>./images/Hot Shots Golf Out of Bounds-marquee.png</marquee>
 		<thumbnail>./images/Hot Shots Golf Out of Bounds-thumb.png</thumbnail>
+		<fanart>./images/Hot Shots Golf Out of Bounds-fanart.jpg</fanart>
 		<releasedate>20080318T000000</releasedate>
-		<developer>Clap Hanz</developer>
-		<publisher>Sony Computer Entertainment</publisher>
-		<genre>Sports / Golf</genre>
+		<developer>SCE Santa Monica</developer>
+		<publisher>Sony</publisher>
+		<genre>Sport</genre>
+		<players>4</players>
 		<md5>769f288e55ea6b34cfa0df71c0ec0f54</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231126T151836" />
+		<scrap name="HfsDB" date="20231127T011252" />
 	</game>
-	<game id="24784">
+	<game id="25901">
+		<path>./Hot Wheels Worlds Best Driver.m3u</path>
+		<name>Hot Wheels World's Best Driver</name>
+		<desc>Hot Wheels World?s Best Driver lets players get behind the wheel of thrilling Hot Wheels vehicles while joining the elite ranks of Team Hot Wheels. Gameplay includes competition in dozens of unique, fast-paced, re-playable challenges all highlighting the different driving styles of Team Hot Wheels: the speed record-breaking Green Team, the show-stopping stunts of the Red Team, the high-tech precision of the Blue Team and the world record-breaking jumps of the Yellow Team. The game pushes players to their limits to see if they have what it takes to become the World?s Best Driver.</desc>
+		<image>./images/Hot Wheels Worlds Best Driver-image.png</image>
+		<marquee>./images/Hot Wheels Worlds Best Driver-marquee.png</marquee>
+		<thumbnail>./images/Hot Wheels Worlds Best Driver-thumb.png</thumbnail>
+		<rating>0.2</rating>
+		<developer>Warner Bros. Interactive</developer>
+		<publisher>Warner Bros. Interactive</publisher>
+		<genre>Race, Driving</genre>
+		<family>Hot Wheels</family>
+		<md5>333ff7050a5a35bb73ec0382b3c77c6b</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231126T023410" />
+		<scrap name="HfsDB" date="20231127T011351" />
+	</game>
+	<game>
 		<path>./Injustice Gods Among Us.m3u</path>
-		<name>Injustice : Gods Among Us</name>
-		<desc>Injustice: Gods Among Us is a fighting game from the creators of the Mortal Kombat series with characters of the DC universe.
-The gameplay consists in a hand-to-hand fighting in a 2D gameplay with 3D elements and characters with some weapons like the Batmobile; some scenarios are taken from DC comics like the Fortress of Solitude (Superman), the Batcave (Batman) and the Watchtower (Justice League); and 28 characters (12 heroes, 12 villains and 4 downloadable) are available in this game.</desc>
+		<name>Injustice: Gods Among Us</name>
+		<desc>Injustice: Gods Among Us debuts as a bold new fighting game franchise that introduces a deep, original story featuring a large cast of favorite DC Comics icons such as Batman, Harley Quinn, Solomon Grundy, Superman, The Flash, Wonder Woman and many others. Set in a world where the lines between good and evil are blurred, players will experience heroes and villains engaging in epic battles on a massive scale.</desc>
 		<marquee>./images/Injustice Gods Among Us-marquee.png</marquee>
+		<thumbnail>./images/Injustice Gods Among Us-thumb.jpg</thumbnail>
 		<fanart>./images/Injustice Gods Among Us-fanart.jpg</fanart>
 		<rating>0.8</rating>
-		<developer>Warner Bros. Interactive</developer>
-		<publisher>NetherRealm Studios</publisher>
-		<genre>Fight</genre>
+		<releasedate>20130416T000000</releasedate>
+		<developer>NetherRealm Studios</developer>
+		<publisher>Warner Bros. Interactive Entertainment Inc.</publisher>
 		<md5>c38c0d83b07198425f85551bee45582a</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231126T151853" />
+		<scrap name="HfsDB" date="20231127T011352" />
+	</game>
+	<game>
+		<path>./Jetpack Joyride.m3u</path>
+		<name>Jetpack Joyride</name>
+		<desc>You're going for a ride - from the creators of FRUIT NINJA! Join Barry as he breaks in to a secret laboratory to commandeer the experimental jetpacks from the clutches of science evildoers. After lift-off, simply touch the screen to ascend and release to descend, raining bullets, bubbles, rainbows and lasers downwards as you fly towards higher and higher scores!</desc>
+		<image>./images/Jetpack Joyride-image.jpg</image>
+		<marquee>./images/Jetpack Joyride-marquee.png</marquee>
+		<thumbnail>./images/Jetpack Joyride-thumb.png</thumbnail>
+		<fanart>./images/Jetpack Joyride-fanart.jpg</fanart>
+		<rating>0.75</rating>
+		<releasedate>20121231T000000</releasedate>
+		<developer>Big Ant Studios</developer>
+		<publisher>Halfbrick Studios</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>13fa0c473a05c425d9e2a1fd2fade34a</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231126T023431" />
+		<scrap name="HfsDB" date="20231127T011353" />
 	</game>
 	<game id="24868">
 		<path>./JSTARS Victory VS.m3u</path>
@@ -4576,16 +4227,26 @@ The gameplay consists in a hand-to-hand fighting in a 2D gameplay with 3D elemen
 		<md5>cb216267f2f491e00f049b56146f7932</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231126T151854" />
+		<scrap name="HfsDB" date="20231127T011451" />
+	</game>
+	<game>
+		<path>./Killzone3 Behind the Scenes.m3u</path>
+		<name>Killzone3 Behind the Scenes</name>
+		<md5>dc7aecf3488d381008af889802346ffd</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231126T023434" />
+		<scrap name="HfsDB" date="20231127T011451" />
 	</game>
 	<game>
 		<path>./Killzone3 Multiplayer.m3u</path>
 		<name>Killzone3 Multiplayer</name>
 		<md5>6fbcff476242c6bd9603954861a08671</md5>
 		<scrap name="ScreenScraper" date="20231126T151856" />
+		<scrap name="HfsDB" date="20231127T011452" />
 	</game>
-	<game id="25085">
+	<game>
 		<path>./LEGO Batman 2 DC Super Heroes.m3u</path>
-		<name>LEGO Batman 2 : DC Super Heroes</name>
+		<name>LEGO Batman 2: DC Super Heroes</name>
 		<desc>LEGO Batman 2: DC Super Heroes is an action game and the sequel to LEGO Batman: The Videogame. Just like the first game it draws elements from the Batman universe but built entirely in LEGO-style bricks. It starts when a "Man of the Year" award ceremony in Gotham City is interrupted by the Joker and a gang of bandits. Bruce Wayne is a candidate for the award and changes into Batman to pursue them, teaming up with members of the Justice League.</desc>
 		<image>./images/LEGO Batman 2 DC Super Heroes-image.jpg</image>
 		<video>./videos/LEGO Batman 2 DC Super Heroes-video.mp4</video>
@@ -4594,14 +4255,14 @@ The gameplay consists in a hand-to-hand fighting in a 2D gameplay with 3D elemen
 		<fanart>./images/LEGO Batman 2 DC Super Heroes-fanart.jpg</fanart>
 		<rating>0.85</rating>
 		<releasedate>20120619T000000</releasedate>
-		<developer>Travellers Tales</developer>
-		<publisher>Warner Bros. Interactive</publisher>
-		<genre>Adventure</genre>
-		<family>LEGO</family>
-		<players>1-2</players>
+		<developer>Traveller's Tales Ltd.</developer>
+		<publisher>WB Games</publisher>
+		<genre>Action</genre>
+		<players>2</players>
 		<md5>d8c96605edb8fb584891d844da9a1a36</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231126T151930" />
+		<scrap name="HfsDB" date="20231127T011551" />
 	</game>
 	<game id="25155">
 		<path>./LEGO Harry Potter Years 57.m3u</path>
@@ -4619,84 +4280,146 @@ The gameplay consists in a hand-to-hand fighting in a 2D gameplay with 3D elemen
 		<md5>ff31c3ec663fdda9fe343b6f02eaaa9f</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231126T151959" />
+		<scrap name="HfsDB" date="20231127T011551" />
 	</game>
-	<game id="27661">
+	<game>
 		<path>./LEGO Jurassic World.m3u</path>
-		<name>Lego Jurassic World</name>
-		<desc>LEGO Jurassic World is an action game based on the four Jurassic Park movies and released alongside the 2015 movie Jurassic World. As with many other Tt Games titles it adapts a licensed franchise to a world built up out of LEGO bricks. The game consists of 20 levels, five for each of the movies, played in succession. The game borrows many iconic moments from the films using the original audio clips and often adds a humorous twist.</desc>
+		<name>LEGO Jurassic World</name>
+		<desc>Following the epic storylines of Jurassic Park, The Lost World: Jurassic Park and Jurassic Park III, as well as the highly anticipated Jurassic World, LEGO® Jurassic World™  is the first videogame where players will be able to relive and experience all four Jurassic films.  Reimagined in LEGO form and told in TT Games’ signature classic LEGO humour, the thrilling adventure recreates unforgettable scenes and action sequences from the films, allowing fans to play through key moments and giving them the opportunity to fully explore the expansive grounds of Isla Nublar and Isla Sorna.</desc>
 		<marquee>./images/LEGO Jurassic World-marquee.png</marquee>
 		<thumbnail>./images/LEGO Jurassic World-thumb.png</thumbnail>
 		<fanart>./images/LEGO Jurassic World-fanart.jpg</fanart>
 		<rating>0.75</rating>
-		<releasedate>20150612T000000</releasedate>
-		<developer>Travellers Tales</developer>
-		<publisher>Warner Bros. Interactive</publisher>
-		<genre>Action / Adventure</genre>
-		<family>LEGO</family>
-		<players>1-2</players>
+		<releasedate>20150630T000000</releasedate>
+		<developer>Warner Home Video Games</developer>
+		<publisher>Warner Home Video Games</publisher>
+		<genre>Action</genre>
+		<players>1</players>
 		<md5>2ede392b9ba767fc60c072b40814b353</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231126T152019" />
+		<scrap name="HfsDB" date="20231127T011552" />
 	</game>
-	<game id="24849">
+	<game>
 		<path>./LEGO MARVEL Super Heroes.m3u</path>
-		<name>Lego Marvel Super Heroes</name>
-		<desc>Lego Marvel Super Heroes is an action game, reuniting about one hundred and a half Marvel heroes and villains coming from several Marvel franchises, having the player control the good ones in order to save the Earth from a team of the vicious (headed by Galactus, also named as The Devourer of the Worlds); all in the fashion of LEGO adventures blocky cartoonish visual style and gameplay.</desc>
+		<name>LEGO Marvel Super Heroes</name>
+		<desc>Marvel Super Heroes are assembling for an action-packed, brick-smashing good time! LEGO Marvel Super Heroes offers an original storyline in which Nick Fury calls upon Iron Man, the Hulk, Thor, Spider-Man, Wolverine and other heroes spanning the Marvel Universe to save Earth from such threats as the vengeance of Loki and the hunger of Galactus, Devourer of the Worlds. LEGO and Marvel fans will enjoy classic LEGO video game adventure and humor, while playing as their favorite Marvel characters.
+
+In LEGO Marvel Super Heroes, players will unlock more than 100 characters from across the Marvel Universe, including fan favorites like Spider-Man, Iron Man, Wolverine, Captain America, the Hulk, Thor, Black Widow, Hawkeye, Deadpool, Loki and Galactus! The game will pack in a plethora of super-cool character abilities, combat-like action sequences, epic battle scenes, puzzle-solving and a unique story told with playful LEGO humor.</desc>
 		<marquee>./images/LEGO MARVEL Super Heroes-marquee.png</marquee>
 		<thumbnail>./images/LEGO MARVEL Super Heroes-thumb.png</thumbnail>
 		<fanart>./images/LEGO MARVEL Super Heroes-fanart.jpg</fanart>
 		<rating>0.8</rating>
 		<releasedate>20131022T000000</releasedate>
-		<developer>Warner Bros. Interactive</developer>
-		<publisher>TT Games</publisher>
-		<genre>Adventure</genre>
-		<family>LEGO</family>
+		<developer>Traveller's Tales</developer>
+		<publisher>Warner Bros. Interactive Entertainment Inc.</publisher>
+		<genre>Action</genre>
 		<players>2</players>
 		<md5>224d65cbd731f7fdce3b6604dcbf3f5a</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231126T152021" />
+		<scrap name="HfsDB" date="20231127T011652" />
 	</game>
-	<game id="24694">
+	<game>
+		<path>./LEGO The Hobbit.m3u</path>
+		<name>LEGO The Hobbit</name>
+		<desc>LEGO: The Hobbit is an adventure game based off of Peter Jackson's trilogy of Hobbit movies inspired by J. R. R. Tolkien's The Hobbit.</desc>
+		<marquee>./images/LEGO The Hobbit-marquee.png</marquee>
+		<thumbnail>./images/LEGO The Hobbit-thumb.jpg</thumbnail>
+		<fanart>./images/LEGO The Hobbit-fanart.jpg</fanart>
+		<releasedate>20140408T000000</releasedate>
+		<developer>Traveller's Tales</developer>
+		<publisher>Warner,wb</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<md5>6d72e6e4128b906ca2c3c8108ff16253</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231126T023508" />
+		<scrap name="HfsDB" date="20231127T011653" />
+	</game>
+	<game>
 		<path>./LittleBigPlanet 3 .m3u</path>
-		<name>Littlebigplanet 3</name>
-		<desc>LittleBigPlanet 3 is the third main game in the puzzle-platformer series and created by a different developer than the previous two. The game has an overarching story for the first time, with voiced supporting characters and cut-scene sequences, and it is set in Bunkum where the familiar Sackboy character meets Newton. He tricks Sackboy into unleashing three Titans, creatures that were locked up because they robbed the world of creativity.</desc>
+		<name>LittleBigPlanet 3</name>
+		<desc>LittleBigPlanet 3 is a puzzle-platformer video game developed by Sumo Digital for the PlayStation 3 and PlayStation 4. It was released worldwide through November and December 2014, and it is the third entry in the main LittleBigPlanet series, sixth entry overall. It was announced at Sony's E3 2014 media briefing on 9 June 2014. It was developed primarily by Sumo Digital, with XDev and Media Molecule assisting in an undisclosed capacity.[7]
+
+LittleBigPlanet 3 received generally positive reviews upon release. Critics praised the visuals, the create mode, and the many new gameplay elements, such as the addition of the new characters. The game did however draw criticism for its technical issues.</desc>
 		<image>./images/LittleBigPlanet 3 -image.png</image>
 		<video>./videos/LittleBigPlanet 3 -video.mp4</video>
 		<thumbnail>./images/LittleBigPlanet 3 -thumb.png</thumbnail>
 		<rating>0.7</rating>
-		<releasedate>20141118T000000</releasedate>
+		<releasedate>20141126T000000</releasedate>
 		<developer>Sumo Digital</developer>
-		<publisher>Sony</publisher>
-		<genre>Platform</genre>
-		<family>LittleBigPlanet</family>
-		<players>4</players>
+		<publisher>SCEI</publisher>
+		<genre>Plate-formes</genre>
 		<md5>797e120f62794bcbacbd5122eb8ca23d</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231126T152046" />
+		<scrap name="HfsDB" date="20231127T011752" />
 	</game>
 	<game>
 		<path>./LittleBigPlanet Karting  Digital.m3u</path>
 		<name>LittleBigPlanet Karting  Digital</name>
 		<md5>5808fa3dac5e79631d3f3342d6621484</md5>
 		<scrap name="ScreenScraper" date="20231126T152048" />
+		<scrap name="HfsDB" date="20231127T011752" />
+	</game>
+	<game>
+		<path>./LittleBigPlanet.m3u</path>
+		<name>LittleBigPlanet</name>
+		<desc>Imagine a world that's yours to shape, build and explore. Imagine the possibilities, then jump head first into the reality. LittleBigPlanet puts the power of absolute creation into your own hands. If you can see it, you can enhance it. If you can't see it, you can invent it. 
+
+The LittleBigPlanet experience starts with players learning about their character's powers to interact physically with the environment. There are places to explore, creative resources to collect and puzzles to solve - all requiring a combination of brains and collaborative teamwork. As soon as players begin, their creative skills will grow and they will soon be ready to start creating and modifying their surroundings - the first step to sharing them with the whole community. 
+
+Players can make their world as open or as secretive to explore as they like. When it's ready, they can invite anyone within the LittleBigPlanet community to come and explore their patch - or can go and explore everybody else's.</desc>
+		<image>./images/LittleBigPlanet-image.jpg</image>
+		<video>./videos/LittleBigPlanet-video.mp4</video>
+		<marquee>./images/LittleBigPlanet-marquee.png</marquee>
+		<thumbnail>./images/LittleBigPlanet-thumb.png</thumbnail>
+		<fanart>./images/LittleBigPlanet-fanart.jpg</fanart>
+		<rating>0.9</rating>
+		<releasedate>20081027T000000</releasedate>
+		<developer>Media Molecule</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Plate-formes</genre>
+		<players>4</players>
+		<md5>d42020d78c8c3e581634c3ca61114212</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231126T023643" />
+		<scrap name="HfsDB" date="20231127T011753" />
 	</game>
 	<game>
 		<path>./LittleBigPlanet2 Digital Version.m3u</path>
 		<name>LittleBigPlanet2 Digital Version</name>
 		<md5>a40e6583086af6a4bea545673ce646f5</md5>
+		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231126T152049" />
+		<scrap name="HfsDB" date="20231127T011753" />
 	</game>
 	<game>
 		<path>./LittleBigPlanet3 Digital Version.m3u</path>
 		<name>LittleBigPlanet3 Digital Version</name>
 		<md5>a821569669ab70a94b2326831fa468e6</md5>
 		<scrap name="ScreenScraper" date="20231126T152051" />
+		<scrap name="HfsDB" date="20231127T011753" />
 	</game>
 	<game>
 		<path>./Modern Warfare 3.m3u</path>
-		<name>Modern Warfare 3</name>
+		<name>Call of Duty: Modern Warfare 3</name>
+		<desc>Call of Duty: Modern Warfare 3 (stylized as Call of Duty: MW3) is a 2011 first-person shooter video game, developed by Infinity Ward and Sledgehammer Games (Treyarch for the Wii version), with development assistance from Raven Software, and published by Activision. It is the third installment in the Modern Warfare saga, a direct sequel to 2009's Call of Duty: Modern Warfare 2, and the eighth Call of Duty installment.
+
+The game was released worldwide in November 2011 on Microsoft Windows, Xbox 360, PlayStation 3,[8] and Wii,[7] with a separate version for Nintendo DS developed by n-Space. In Japan, Square Enix handled the installment with a separate subtitled and dubbed version, as they did for Call of Duty: Black Ops. Within 24 hours of going on sale, the game sold 6.5 million copies in the U.S. and UK alone and grossed $400 million, making it the biggest entertainment launch of all time,[9][10][11] until it was surpassed by Call of Duty: Black Ops II in November 2012.</desc>
+		<marquee>./images/Modern Warfare 3-marquee.png</marquee>
+		<thumbnail>./images/Modern Warfare 3-thumb.jpg</thumbnail>
+		<fanart>./images/Modern Warfare 3-fanart.jpg</fanart>
+		<releasedate>20111108T000000</releasedate>
+		<developer>Infinity Ward</developer>
+		<publisher>Activision</publisher>
+		<genre>Shooter</genre>
+		<players>4</players>
 		<md5>7fd80311c7488185eaae5f9c4ae5231f</md5>
+		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231126T152052" />
+		<scrap name="HfsDB" date="20231127T011855" />
 	</game>
 	<game id="25995">
 		<path>./Mortal Kombat II.m3u</path>
@@ -4716,71 +4439,161 @@ The gameplay consists in a hand-to-hand fighting in a 2D gameplay with 3D elemen
 		<md5>35cc4e37cb3a978a0df624f0967d02ba</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231126T152054" />
+		<scrap name="HfsDB" date="20231127T011855" />
 	</game>
-	<game id="25273">
+	<game>
 		<path>./Mortal Kombat vs. DC Universe.m3u</path>
-		<name>Mortal Kombat Vs Dc Universe</name>
-		<desc>Mortal Kombat vs DC Universe tells of the merger between the different worlds of Earthrealm and Earth. Shao Khan and Darkseid, crowned in the game as the most powerful villains in each universe, cross a portal between dimensions simultaneously, after being defeated by Raiden and Superman respectively.</desc>
+		<name>Mortal Kombat vs. DC Universe</name>
+		<desc>For the first time ever Scorpion, Sub-Zero and the Mortal Kombat warriors battle with Batman, Superman and other popular DC Universe Super Heroes. Choose your side and challenge your opponents with a new fighting system including Freefall Kombat and Klose Kombat along with dynamic multi-tiered environments. Plus, pick your favorite character from MK or DCU and pursue a fighting adventure in the new single player mode with an intertwined storyline and two unique perspectives.</desc>
 		<image>./images/Mortal Kombat vs. DC Universe-image.jpg</image>
 		<video>./videos/Mortal Kombat vs. DC Universe-video.mp4</video>
 		<marquee>./images/Mortal Kombat vs. DC Universe-marquee.png</marquee>
+		<thumbnail>./images/Mortal Kombat vs. DC Universe-thumb.jpg</thumbnail>
 		<fanart>./images/Mortal Kombat vs. DC Universe-fanart.jpg</fanart>
 		<rating>0.65</rating>
 		<releasedate>20081116T000000</releasedate>
-		<developer>Warner Bros. Interactive</developer>
-		<publisher>Warner Bros. Interactive</publisher>
-		<genre>Fight</genre>
-		<family>Mortal Kombat</family>
+		<developer>Midway Games</developer>
+		<publisher>Midway Games</publisher>
+		<genre>Combat</genre>
 		<players>2</players>
 		<md5>71d06f0ccf708edd7483828a1d814fb9</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231126T152122" />
+		<scrap name="HfsDB" date="20231127T011955" />
+	</game>
+	<game>
+		<path>./Mortal Kombat.m3u</path>
+		<name>Mortal Kombat</name>
+		<desc>Prepare yourself to reenter the tournament in the triumphant return of Mortal Kombat. A complete reboot of the franchise, this latest iteration combines all-new mature oriented fighter gameplay with a deep story mode, improved graphics and game technology and new game modes to create a Mortal Kombat play experience like none before it. Feature details include: a storyline that takes players back to the original tournament, 4 player tag-team kombat, 3D TV compatibility, fatalities presented in graphic detail never imagined in earlier releases, enhanced online functionality and more. 
+
+Having literally defined the mature game category, Mortal Kombat makes a triumphant return to its violent roots in the fastest and most brutal installment to date. Fighting game players will receive the Mortal Kombat they've been asking for, with Fatalities presented in more detail than ever before. 
+
+After centuries of Mortal Kombat, Emperor Shao Kahn has finally defeated Raiden and his allies. Faced with extinction, Raiden has one last chance to save Earthrealm. To undo the Emperor's victory, he must strike Shao Kahn where he is vulnerable… the Past.</desc>
+		<image>./images/Mortal Kombat-image.jpg</image>
+		<video>./videos/Mortal Kombat-video.mp4</video>
+		<marquee>./images/Mortal Kombat-marquee.png</marquee>
+		<thumbnail>./images/Mortal Kombat-thumb.png</thumbnail>
+		<fanart>./images/Mortal Kombat-fanart.jpg</fanart>
+		<boxback>./images/Mortal Kombat-boxback.png</boxback>
+		<rating>0.9</rating>
+		<releasedate>20110419T000000</releasedate>
+		<developer>NetherRealm Studios</developer>
+		<publisher>Warner Bros. Interactive Entertainment Inc.</publisher>
+		<genre>Combat</genre>
+		<players>4</players>
+		<md5>6fa89be864a4244664a79687c1bb3f4a</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230215T184835" />
+		<scrap name="HfsDB" date="20231127T011956" />
 	</game>
 	<game>
 		<path>./MOTORSTORM 3D RIFT.m3u</path>
 		<name>MOTORSTORM 3D RIFT</name>
 		<md5>fa019bf7e1a0db612f7ebc3695e6d7e4</md5>
+		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231126T152124" />
+		<scrap name="HfsDB" date="20231127T012055" />
 	</game>
 	<game>
 		<path>./MOTORSTORM APOCALYPSE Digital Edition.m3u</path>
 		<name>MOTORSTORM APOCALYPSE Digital Edition</name>
 		<md5>a1ffa0214ec9121e7145bde5d43ab864</md5>
 		<scrap name="ScreenScraper" date="20231126T152126" />
+		<scrap name="HfsDB" date="20231127T012055" />
 	</game>
-	<game id="26032">
+	<game>
+		<path>./Naughty Bear Gold Edition.m3u</path>
+		<name>Naughty Bear Gold Edition</name>
+		<desc>Naughty Bear is a third-person shooter/action video game. Players control the eponymous bear as they use various things to earn "Naughty Points", with extra points being given for random missions.
+ 
+The game is set on a paradisiacal island where teddy bears live in harmony. The main character, Naughty Bear, is a shabby teddy bear who has a tendency to be mischievous, which earns him the dislike of the other bears. Like the other teddy bears, he does not speak but instead conveys his emotions through a variety of sounds and facial expressions. His actions are influenced by an unseen narrator with a demeanor reminiscent of that of a young children's television show host.</desc>
+		<marquee>./images/Naughty Bear Gold Edition-marquee.png</marquee>
+		<thumbnail>./images/Naughty Bear Gold Edition-thumb.png</thumbnail>
+		<boxback>./images/Naughty Bear Gold Edition-boxback.png</boxback>
+		<rating>0.65</rating>
+		<releasedate>20101109T000000</releasedate>
+		<developer>Artificial Mind and Movement</developer>
+		<publisher>505 Games</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<playcount>2</playcount>
+		<lastplayed>20230301T114404</lastplayed>
+		<md5>fe6ae2c3533d6c9caf015ca01eb14121</md5>
+		<gametime>225</gametime>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230215T184930" />
+		<scrap name="HfsDB" date="20231127T012155" />
+	</game>
+	<game>
 		<path>./Naughty Bear Panic in Paradise.m3u</path>
-		<name>Naughty Bear : Panic in Paradise</name>
-		<desc>When the Bears of Perfection Island went on holiday to Paradise Island, Naughty Bear was not invited! Naughty Bear manages to secretly travel with the other bears, duct-taped to the exterior of the bus. With a list of bears who wronged him in hands, Naughty is ready to make them pay, one by one.</desc>
+		<name>Naughty Bear: Panic in Paradise</name>
 		<image>./images/Naughty Bear Panic in Paradise-image.jpg</image>
 		<marquee>./images/Naughty Bear Panic in Paradise-marquee.png</marquee>
 		<thumbnail>./images/Naughty Bear Panic in Paradise-thumb.png</thumbnail>
 		<fanart>./images/Naughty Bear Panic in Paradise-fanart.jpg</fanart>
 		<rating>0.65</rating>
 		<releasedate>20121008T000000</releasedate>
-		<developer>505 Games</developer>
-		<publisher>Behaviour Interactive</publisher>
-		<genre>Action / Adventure</genre>
-		<players>1</players>
+		<developer>Behaviour Interactive</developer>
+		<publisher>505 Games</publisher>
+		<genre>Action</genre>
 		<md5>9ce5713f07c39ced3b28fa4d2b2f7f98</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231126T152128" />
+		<scrap name="HfsDB" date="20231127T012155" />
 	</game>
-	<game id="25080">
+	<game>
 		<path>./Need for Speed Hot Pursuit.m3u</path>
-		<name>Need for Speed : Hot Pursuit</name>
-		<desc>Need for Speed Hot Pursuit brings the franchise back to its roots with intense cops vs. racer chases. The game features Need for Speed Autolog where players compare racing stats and automatically get personalized gameplay recommendations from their friends. Need for Speed Hot Pursuit players can also experience the thrill of the chase and the rush of the escape as they play through full careers as both a cop and a racer - solo or connected. The high speed busts and heart-stopping getaways are all connected via Need for Speed Autolog.</desc>
+		<name>Need for Speed: Hot Pursuit</name>
+		<desc>Need for Speed Hot Pursuit players will experience the thrill of the chase and the rush of the escape as they play through full careers as both a cop and a racer solo or connected. The blistering speeds, brutal busts and heart-stopping getaways are all connected via Need for Speed Autolog. This network not only connects friends for epic head-to head pursuits and races, but also enables players to compare performances and stats, thereby setting the stage for the ultimate in friendly competition.</desc>
+		<marquee>./images/Need for Speed Hot Pursuit-marquee.png</marquee>
 		<thumbnail>./images/Need for Speed Hot Pursuit-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>20101116T000000</releasedate>
-		<developer>Electronic Arts</developer>
-		<publisher>Criterion Games</publisher>
-		<genre>Race, Driving</genre>
-		<family>Need for Speed</family>
-		<players>8</players>
+		<genre>Course</genre>
 		<md5>262c3c850d807b62d069581115d575e6</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231126T152135" />
+		<scrap name="HfsDB" date="20231127T012156" />
+	</game>
+	<game>
+		<path>./NFL Blitz.m3u</path>
+		<name>NFL Blitz</name>
+		<desc>The hits of Blitz will rattle you once again in this revival of the classic, action-packed gridiron sports franchise.</desc>
+		<image>./images/NFL Blitz-image.jpg</image>
+		<marquee>./images/NFL Blitz-marquee.png</marquee>
+		<thumbnail>./images/NFL Blitz-thumb.jpg</thumbnail>
+		<releasedate>20120103T000000</releasedate>
+		<developer>Tiburon</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Plate-formes</genre>
+		<players>4</players>
+		<md5>6d67b5f4cff3bb4fafdf1a4ddde76f54</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230215T185023" />
+		<scrap name="HfsDB" date="20231127T012157" />
+	</game>
+	<game>
+		<path>./NHL 13.m3u</path>
+		<name>NHL 13</name>
+		<desc>NHL 13 is an ice hockey video game developed by EA Canada published by EA Sports. It is the 22nd installment of the NHL series and was released on September 11, 2012 in North America, Europe as well as Australia and New Zealand. The game was released on the PlayStation 3 and the Xbox 360, featuring Philadelphia Flyers forward Claude Giroux on the cover.[1] The game was featured at the Electronic Entertainment Expo 2012 (E3 2012), which took place between June 5–7, 2012. The demo of the game was released on August 21–22, 2012, at the Xbox Live Marketplace and the PlayStation Store.[4]
+
+There was a vote deciding which player would be on the NHL 13 cover. Anybody could vote on the player(s) they wished to see on the cover of the game. The vote started on March 29, 2012 with 60 NHL players in a single-elimination voting with two players in each match-up, and was closed on June 4, receiving over 25 million votes worldwide.[5] On June 20, Claude Giroux was named the winner, over Pekka Rinne at the 2012 NHL Awards in Las Vegas.[6]
+
+An exclusive "Stanley Cup Collector's Edition" was also released, apart from the actual NHL 13 game. The Collector's Edition includes five random Hockey Ultimate Team (HUT) player packs from the two 2012 Stanley Cup Finals teams; a Gold Jumbo HUT pack including legend Wayne Gretzky; and a boost pack featuring the CCM RBZ stick.[7]
+
+Just like in NHL 12, Gary Thorne (play-by-play) and Bill Clement (color) provide commentary for NHL 13.[8]
+
+This year, for the first time, two playable female characters, Hayley Wickenheiser and Angela Ruggiero have been added.[9] In NHL 12, users could create female characters, but there were no real-life players.[10]
+
+On September 20, Gamesindustry.biz reported that NHL 13 had posted the best first week sales in the franchise's history.[11]</desc>
+		<marquee>./images/NHL 13-marquee.png</marquee>
+		<thumbnail>./images/NHL 13-thumb.jpg</thumbnail>
+		<releasedate>20120911T000000</releasedate>
+		<genre>Sport</genre>
+		<md5>7cc92c51c03385c0d981f32436b03b03</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230215T185026" />
+		<scrap name="HfsDB" date="20231127T012257" />
 	</game>
 	<game id="24704">
 		<path>./ONE PIECE PIRATE WARRIORS 3.m3u</path>
@@ -4796,6 +4609,7 @@ The gameplay consists in a hand-to-hand fighting in a 2D gameplay with 3D elemen
 		<md5>8337d42eb81fc4b957151d37a1b67a4f</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231126T152141" />
+		<scrap name="HfsDB" date="20231127T012257" />
 	</game>
 	<game id="25722">
 		<path>./PACMAN and the Ghostly Adventures 2.m3u</path>
@@ -4815,43 +4629,91 @@ PacZilla: this transforms you into a giant.</desc>
 		<md5>aa738f522ad0c89efe1082169d722173</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231126T152156" />
+		<scrap name="HfsDB" date="20231127T012356" />
 	</game>
-	<game id="25751">
+	<game>
 		<path>./PAIN.m3u</path>
-		<name>Pain</name>
-		<desc>Pain is a game in which you propel your character with a giant slingshot in order to cause as much damage as possible. The physics engine handles collisions using Havok and Rag-doll technology. A multiplayer mode is available, which allows up to 4 players to play on the same console.</desc>
+		<name>Greg Hastings Paintball 2</name>
 		<image>./images/PAIN-image.jpg</image>
 		<marquee>./images/PAIN-marquee.png</marquee>
+		<thumbnail>./images/PAIN-thumb.jpg</thumbnail>
 		<rating>0.65</rating>
-		<releasedate>20071129T000000</releasedate>
-		<developer>Idol Minds</developer>
-		<publisher>Sony</publisher>
-		<players>1-4</players>
+		<releasedate>20110614T000000</releasedate>
 		<md5>914bd0c5cfc9b266153155de4b7c070a</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231126T152213" />
+		<scrap name="HfsDB" date="20231127T012357" />
 	</game>
-	<game id="25278">
+	<game>
+		<path>./Persona 4 Arena Ultimax.m3u</path>
+		<name>Persona 4 Arena Ultimax</name>
+		<desc>In Persona 4 Arena Ultimax, the characters from Persona 4 and Persona 3 once again find themselves teaming up to face off in the P-1 Climax, a series of battles which must be won before the world ends. The original cast of characters from Persona 3 and 4 are back to discover the mastermind behind the whole tournament, while a few new faces join the fight, including Junpei Iori, Yukari Takeba, Rise Kujikawa, and more. But standing in their way is the dual katana-wielding Sho Minazuki, a huge threat to everyone involved in the P-1 Climax. Worse yet, there's a Sho lookalike who can wield a Persona...</desc>
+		<image>./images/Persona 4 Arena Ultimax-image.jpg</image>
+		<video>./videos/Persona 4 Arena Ultimax-video.mp4</video>
+		<marquee>./images/Persona 4 Arena Ultimax-marquee.png</marquee>
+		<thumbnail>./images/Persona 4 Arena Ultimax-thumb.png</thumbnail>
+		<fanart>./images/Persona 4 Arena Ultimax-fanart.jpg</fanart>
+		<boxback>./images/Persona 4 Arena Ultimax-boxback.png</boxback>
+		<releasedate>20140930T000000</releasedate>
+		<developer>Atlus</developer>
+		<publisher>Atlus</publisher>
+		<genre>Combat</genre>
+		<players>2</players>
+		<md5>7a77ff8bff4973ad4ef5022e2e22729e</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230215T185320" />
+		<scrap name="HfsDB" date="20231127T012358" />
+	</game>
+	<game>
 		<path>./Persona 4 ARENA.m3u</path>
-		<name>Persona 4 : Arena</name>
-		<desc>Persona 4: The Ultimate in Mayonaka Arena  is a fighting game featuring the characters from Persona 4 and Persona 3. Taking place one year after the fourth opus, it features Story, Arcade, Versus and Score Attack modes.</desc>
+		<name>Persona 4 Arena</name>
+		<desc>Two months after the ending of the hit RPG Persona 4, a new threat has emerged in Persona 4 Arena! 
+
+During Golden Week, a new rumor begins spreading through town about a mysterious TV program, the P-1 Grand Prix. Visible if you look into a turned-off TV on a rainy night, this fighting tournament broadcasts high school friends fighting one another to the bitter end. When Yu Narukami and the others test this rumor, they see their friend Teddie announcing the beginning of the show: "May the manliest of all men come on down!" With that, the participants are shown, one by one... The Investigation Team is horrified to see their own faces introduced with twisted nicknames. The members of the Investigation Team decide to dive into the TV once again to solve the case! What is behind the mysterious TV show? 
+
+Jump into the next chapter of the story as Persona 4 enters a new genre in this 2D fighting game from the dream team of ATLUS and Arc System Works, made to be enjoyed by fighting game beginners and experts alike!</desc>
 		<marquee>./images/Persona 4 ARENA-marquee.png</marquee>
+		<thumbnail>./images/Persona 4 ARENA-thumb.png</thumbnail>
+		<fanart>./images/Persona 4 ARENA-fanart.jpg</fanart>
+		<manual>./manuals/Persona 4 ARENA-manual.pdf</manual>
 		<rating>0.85</rating>
 		<releasedate>20120807T000000</releasedate>
-		<developer>Arc System Works</developer>
+		<developer>Atlus</developer>
 		<publisher>Atlus</publisher>
-		<genre>Fight</genre>
-		<family>Persona</family>
+		<genre>Combat</genre>
 		<players>2</players>
 		<md5>dd2fce0c8ae23a30f386e17895b7b888</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231126T152222" />
+		<scrap name="HfsDB" date="20231127T012400" />
 	</game>
 	<game>
 		<path>./PixelJunk 4am  Live Viewer.m3u</path>
 		<name>PixelJunk 4am  Live Viewer</name>
 		<md5>5b113a793f496ddf7823a255679fcdbc</md5>
 		<scrap name="ScreenScraper" date="20231126T152224" />
+		<scrap name="HfsDB" date="20231127T012457" />
+	</game>
+	<game>
+		<path>./PixelJunk Eden.m3u</path>
+		<name>PixelJunk Eden</name>
+		<desc>Utterly unique and spellbindingly beautiful, PixelJunk Eden welcomes you to a psychedelic world unlike anything you’ve ever experienced before. 
+
+As a tiny, silk-spinning “grimp,” it is up to you to collect the lost “Spectra” that have been scattered across all the gardens of Eden. Swing and jump between plants and rock formations, collect pollen to seed new plants and explore the incredible gardens to locate the precious “Spectra.” 
+
+Lush visuals, slick controls and amazing music make it an incredibly atmospheric and addictive experience.</desc>
+		<thumbnail>./images/PixelJunk Eden-thumb.jpg</thumbnail>
+		<fanart>./images/PixelJunk Eden-fanart.png</fanart>
+		<rating>0.75</rating>
+		<releasedate>20080731T000000</releasedate>
+		<developer>Q-Games</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Plate-formes</genre>
+		<players>3</players>
+		<md5>b17168a9f5dc7bc644a8c48f9e400f6c</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230215T185357" />
+		<scrap name="HfsDB" date="20231127T012458" />
 	</game>
 	<game id="26954">
 		<path>./PixelJunk Monsters Encore.m3u</path>
@@ -4865,152 +4727,334 @@ PacZilla: this transforms you into a giant.</desc>
 		<md5>0ff2aa07857bc0a2b107488b02c67b7e</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231126T152225" />
+		<scrap name="HfsDB" date="20231127T012557" />
+	</game>
+	<game>
+		<path>./PixelJunk Racers 2nd Lap.m3u</path>
+		<name>PixelJunk Racers: 2nd Lap</name>
+		<desc>PixelJunk Racers 2nd Lap is an addictive slot car racing game that supports 1080p and features single player and multiplayer fun (up to 7 players simultaneously offline!). Intuitive controls, 32 different race modes, and online rankings will provide countless hours of racing mayhem. 
+
+What's a race car driver without the podium trophy? Replay PixelJunk™ Racers 2nd Lap to unlock all the added Trophies! Think you're the best? Register your new record on the high score tables and allow anyone in the worldcan compete against your best race! 
+
+See you on the race track!</desc>
+		<thumbnail>./images/PixelJunk Racers 2nd Lap-thumb.jpg</thumbnail>
+		<fanart>./images/PixelJunk Racers 2nd Lap-fanart.jpg</fanart>
+		<releasedate>20100824T000000</releasedate>
+		<developer>Q-Games</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Course</genre>
+		<players>4</players>
+		<md5>812ff58f7d3b30e4abe6baf668899424</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230215T185407" />
+		<scrap name="HfsDB" date="20231127T012558" />
 	</game>
 	<game>
 		<path>./SF3 Online Edition.m3u</path>
 		<name>SF3 Online Edition</name>
 		<md5>46c8a5106ca75be76719957cace5d928</md5>
+		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231126T152227" />
+		<scrap name="HfsDB" date="20231127T012558" />
 	</game>
 	<game>
 		<path>./Sly 2 Band of Thieves.m3u</path>
-		<name>Sly 2 Band of Thieves</name>
+		<name>Sly 2: Band of Thieves</name>
+		<desc>The sequel has a variety of changes, particularly in level design. The ultimate goal is to acquire Clockwerk parts, one or more of which can be found per "world". Sly 2 features a health meter for characters such as Sly, Bentley and Murray, replacing the "charm system" of the first game. It also takes several attacks to defeat guards. Other changes include missions where the player controls Bentley or Murray, who have their own unique skills and are able to do much more than in the previous game. However, Sly remains the main character despite these changes to character roles. Skills can be unlocked by opening safes in each world, as the previous game allowed (collecting clue bottles), but skills may also be acquired by collecting coins and purchasing them from safehouses via Thiefnet.</desc>
+		<image>./images/Sly 2 Band of Thieves-image.jpg</image>
+		<thumbnail>./images/Sly 2 Band of Thieves-thumb.jpg</thumbnail>
+		<fanart>./images/Sly 2 Band of Thieves-fanart.jpg</fanart>
+		<releasedate>20101109T000000</releasedate>
+		<developer>Sucker Punch Productions</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Plate-formes</genre>
+		<players>1</players>
 		<md5>39faabb5b93f80dce2aeda56e213b101</md5>
+		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231126T152228" />
+		<scrap name="HfsDB" date="20231127T012559" />
 	</game>
 	<game>
 		<path>./Sly 3 Honor Among Thieves.m3u</path>
-		<name>Sly 3 Honor Among Thieves</name>
+		<name>Sly 3: Honor Among Thieves</name>
+		<desc>Sly and the gang is back in this third outing of Sly Raccoon-series. This time, the story takes the boys (Sly, Bentley and Murray) to the fortress that houses the treasures of Sly's family. Although they are still weary from the adventures in the previous game, they have to get up and face the new threat that could mean the end of Sly's business and the loss of his family heritage. The game itself is a lot like the previous games: Sly sneaks, jumps, and swings himself around the levels, collecting various items, defeating bad guys and ultimately taking on the boss character. The other members of the gang step in on the action once in a while but the Sly centric sections are the main focus of the game. If you like games that had many things to do, this sneak-em-up/platform/action/adventure/puzzle game is for you.</desc>
+		<image>./images/Sly 3 Honor Among Thieves-image.jpg</image>
+		<marquee>./images/Sly 3 Honor Among Thieves-marquee.png</marquee>
+		<thumbnail>./images/Sly 3 Honor Among Thieves-thumb.jpg</thumbnail>
+		<fanart>./images/Sly 3 Honor Among Thieves-fanart.jpg</fanart>
+		<releasedate>20101109T000000</releasedate>
+		<developer>Sucker Punch Productions</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Plate-formes</genre>
+		<players>1</players>
 		<md5>7c415a906b9e872cb7b1472d6fe3c35e</md5>
+		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231126T152230" />
+		<scrap name="HfsDB" date="20231127T012700" />
 	</game>
-	<game id="200829">
+	<game>
 		<path>./Sly Cooper Thieves in Time.m3u</path>
-		<name>Sly Cooper : Thieves in Time</name>
-		<desc>The pages of the Thievius Raccoonus are disappearing and the gang must get back together and save the Cooper Clan legacy from being destroyed forever in this fourth edition of the stealthy platforming franchise.</desc>
+		<name>Sly Cooper: Thieves in Time</name>
+		<desc>Sly Cooper Thieves in Time continues to chronicle the adventures of the Sly Cooper gang from where Sly 3: Honor Among Thieves concluded. After completing their latest heist, Sly carries on with a case of alleged amnesia and dances off with gal pal Carmelita, leaving Bentley as the keeper of the treasured Thievius Raccoonus, The Cooper family's ancient book of master thievery. When Bentley discovers that pages of the book have begun to disappear in front of his eyes, he must round up the gang and save the Cooper Clan legacy from being destroyed forever.</desc>
 		<image>./images/Sly Cooper Thieves in Time-image.jpg</image>
 		<video>./videos/Sly Cooper Thieves in Time-video.mp4</video>
 		<marquee>./images/Sly Cooper Thieves in Time-marquee.png</marquee>
+		<thumbnail>./images/Sly Cooper Thieves in Time-thumb.jpg</thumbnail>
+		<fanart>./images/Sly Cooper Thieves in Time-fanart.jpg</fanart>
 		<rating>0.9</rating>
 		<releasedate>20130205T000000</releasedate>
 		<developer>Sanzaru Games</developer>
 		<publisher>Sony Computer Entertainment</publisher>
-		<genre>Action / Adventure</genre>
-		<family>Sly Cooper</family>
-		<players>1-2</players>
+		<genre>Plate-formes</genre>
+		<players>1</players>
 		<md5>9e8c164f005efe212e9b7cbc99251c42</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231126T152252" />
+		<scrap name="HfsDB" date="20231127T012701" />
 	</game>
 	<game>
 		<path>./Sly Cooper.m3u</path>
-		<name>Sly Cooper</name>
+		<name>Sly Cooper and the Thievius Raccoonus HD</name>
+		<desc>The game focuses on master thief Sly Cooper and his gang, Bentley the Turtle and Murray the Hippo, as they seek out the Fiendish Five to recover his family's "Thievius Raccoonus," a book with the accumulation of all of Sly's ancestors' thieving moves. The game was praised for using a variation on cel-shading rendering, which is used to create a film noir feel, while still rendered as a hand-drawn animated movie, though criticized for being too short.</desc>
+		<image>./images/Sly Cooper-image.jpg</image>
+		<thumbnail>./images/Sly Cooper-thumb.jpg</thumbnail>
+		<fanart>./images/Sly Cooper-fanart.jpg</fanart>
+		<releasedate>20101109T000000</releasedate>
+		<developer>Sucker Punch Productions</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Plate-formes</genre>
+		<players>1</players>
 		<md5>6e33a0b0578d41475468c04c87a6af76</md5>
+		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231126T152253" />
+		<scrap name="HfsDB" date="20231127T012800" />
+	</game>
+	<game id="24960">
+		<path>./Sniper Elite 3.m3u</path>
+		<name>Sniper Elite III</name>
+		<desc>Featuring a greater focus on player agency/choice and expansive environments filled with opportunities for distinct play styles, and set in the exotic yet deadly terrain of North Africa during World War II, Sniper Elite 3 sees American OSS agent Karl Fairburne deep behind Nazi lines, providing crucial sharpshooter skills as the Allies battle Germany's fearsome Tiger tanks across the Western Desert. But it's not just the famed Afrika Korps that Karl has to worry about; he soon uncovers German plans to build a 'wunderwaffe' – a 'wonder weapon' – with the power to crush any Allied forces in its path, and turn the tide of the whole war.</desc>
+		<rating>0.6</rating>
+		<developer>Rebellion</developer>
+		<publisher>505 Games</publisher>
+		<genre>Lightgun Shooter</genre>
+		<md5>e85823f3d5aa935b8d06dab4ea55d478</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230215T185450" />
+		<scrap name="HfsDB" date="20231127T012800" />
 	</game>
 	<game>
 		<path>./Sonic  AllStars Racing Transformed.m3u</path>
 		<name>Sonic  AllStars Racing Transformed</name>
 		<md5>1de6251546f31e05beac49d330540a08</md5>
+		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231126T152255" />
+		<scrap name="HfsDB" date="20231127T012859" />
 	</game>
-	<game id="25154">
+	<game>
+		<path>./Sonic Adventure 2.m3u</path>
+		<name>Sonic Adventure 2</name>
+		<desc>Sonic Adventure 2 is a 3D Platformer game, developed by Sonic Team and published by Sega, which was released in 2012.</desc>
+		<image>./images/Sonic Adventure 2-image.jpg</image>
+		<marquee>./images/Sonic Adventure 2-marquee.png</marquee>
+		<thumbnail>./images/Sonic Adventure 2-thumb.jpg</thumbnail>
+		<fanart>./images/Sonic Adventure 2-fanart.jpg</fanart>
+		<rating>0.75</rating>
+		<releasedate>20121002T000000</releasedate>
+		<developer>Sonic Team</developer>
+		<publisher>Sega</publisher>
+		<md5>40f6079e109491881f33b3b939127a0b</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230215T185546" />
+		<scrap name="HfsDB" date="20231127T012901" />
+	</game>
+	<game>
+		<path>./Sonic Adventure.m3u</path>
+		<name>Sonic Adventure</name>
+		<desc>Sonic Adventure (??????????? Sonikku Adobencha?) is a platform video game developed by Sonic Team and published by Sega. It was originally released for the Dreamcast as a launch title in Japan in 1998, and worldwide the following year. It was the first game in the main Sonic the Hedgehog series since Sonic &amp; Knuckles in 1994, and was the best-selling game on the Dreamcast.
+
+After series villain Doctor Eggman releases an ancient monster, protagonist Sonic the Hedgehog vows to stop him collecting the Chaos Emeralds. The other playable characters are flying fox Miles "Tails" Prower, love interest Amy Rose, Knuckles the Echidna, who plans to reassemble the Master Emerald, angler Big the Cat, and E-102 Gamma, one of Eggman's robots.
+
+Sonic Adventure received generally positive reviews for its graphics, gameplay, and soundtrack. It became the best-selling Dreamcast game. A sequel, Sonic Adventure 2, was released in 2001 for the Dreamcast. Enhanced ports of the game were released in 2003 for the Nintendo GameCube and Microsoft Windows. It has since been re-released as a downloadable game for Xbox 360 via Xbox Live Arcade, and PlayStation 3 via PlayStation Network in 2010. It is also included in the Dreamcast Collection for the Xbox 360.</desc>
+		<marquee>./images/Sonic Adventure-marquee.png</marquee>
+		<thumbnail>./images/Sonic Adventure-thumb.jpg</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>20100921T000000</releasedate>
+		<developer>Sonic Team</developer>
+		<publisher>Sega</publisher>
+		<genre>Aventure</genre>
+		<players>1</players>
+		<md5>e3088bb004a7ac7739e5aa6676242384</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230215T185552" />
+		<scrap name="HfsDB" date="20231127T013001" />
+	</game>
+	<game>
 		<path>./SONIC GENERATIONS.m3u</path>
 		<name>Sonic Generations</name>
-		<desc>Sonic Generations for Playstation 3 is a platformer in which you control the famous blue hedgehog. You can choose a classic 2D view or opt for a more modern 3D viewpoint to navigate the levels from previous installments in the series.</desc>
+		<desc>The game features levels derived from 20 years of Sonic history, spreading across three eras: Classic, Dreamcast and Modern, which are played as either Classic Sonic or Modern Sonic. Classic Sonic's levels are strictly two dimensional side scrolling stages, using classic moves like the Spin Attack and Spin Dash, while Modern Sonic's levels follow the 2D/3D style gameplay of Sonic Unleashed and Sonic Colors, featuring techniques such as boosting and homing attacks. As well as classic power-ups such as Invincibility and Speed Shoes, certain levels have unique power-ups, such as skateboards in City Escape and Wisp powers in Planet Wisp.</desc>
 		<image>./images/SONIC GENERATIONS-image.png</image>
 		<marquee>./images/SONIC GENERATIONS-marquee.png</marquee>
 		<thumbnail>./images/SONIC GENERATIONS-thumb.png</thumbnail>
 		<fanart>./images/SONIC GENERATIONS-fanart.jpg</fanart>
 		<rating>0.8</rating>
+		<releasedate>20111101T000000</releasedate>
 		<developer>Sonic Team</developer>
-		<publisher>SEGA</publisher>
-		<genre>Platform / Run Jump Scrolling</genre>
-		<family>Sonic</family>
+		<publisher>Sega</publisher>
+		<genre>Action</genre>
+		<players>1</players>
 		<md5>24c030ac711dc9c362449f0686b8a360</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231126T152257" />
+		<scrap name="HfsDB" date="20231127T013001" />
 	</game>
-	<game id="25912">
+	<game>
+		<path>./Sonic the Fighters.m3u</path>
+		<name>Sonic the Fighters</name>
+		<desc>Sonic Championship is a 3D fighting game, featuring characters from the Sonic the Hedgehog franchise. The background story is that Doctor Eggman built the Death Egg II, a new version of his facility that appeared in previous games. Stopping him requires Chaos Emeralds, and various individuals including heroes like Sonic the Hedgehog and Miles "Tails" Prower participate in a fighting tournament to gather them. In total there are eight playable characters (nine in later console releases) and two bosses (Metal Sonic and Doctor Eggman).
+
+Gameplay is mostly typical for a versus fighter, it is a one-on-one fight on a best two out of three basis. Players use jumps, punches, kicks and special weapons. Bean the Dynamite for example, a duck-like character who makes his debut in the Sonic universe, uses bombs. Blocking is done by making use of a limited supply of barriers. The whole action is illustrated in a comical fashion though, like one would expect from a Sonic game. A round is won when a player managed to deplete an opponent's health, unless the timer runs out, in which case the character with the most energy left is the winner. Environments are 3D closed arenas, but the gameplay is mostly 2D, allowing limited sidestep maneuvers.</desc>
+		<image>./images/Sonic the Fighters-image.jpg</image>
+		<marquee>./images/Sonic the Fighters-marquee.png</marquee>
+		<thumbnail>./images/Sonic the Fighters-thumb.jpg</thumbnail>
+		<fanart>./images/Sonic the Fighters-fanart.jpg</fanart>
+		<rating>0.75</rating>
+		<releasedate>20121127T000000</releasedate>
+		<md5>8e9c31c3ef24854a66f7f0b768284163</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230215T185620" />
+		<scrap name="HfsDB" date="20231127T013100" />
+	</game>
+	<game>
+		<path>./Sonic The Hedgehog 2.m3u</path>
+		<name>Sonic the Hedgehog (2006)</name>
+		<desc>Sonic celebrates his 15th anniversary by blazing his way onto the next-generation consoles, with his first adventure set in the human world! Featuring interactive 3D environments and a large cast of returning and new characters, get ready for the reinvention of Sonic The Hedgehog, in his most intense, high velocity escapade to date!</desc>
+		<image>./images/Sonic The Hedgehog 2-image.jpg</image>
+		<marquee>./images/Sonic The Hedgehog 2-marquee.png</marquee>
+		<thumbnail>./images/Sonic The Hedgehog 2-thumb.jpg</thumbnail>
+		<fanart>./images/Sonic The Hedgehog 2-fanart.png</fanart>
+		<rating>0.9</rating>
+		<releasedate>20061221T000000</releasedate>
+		<developer>Sonic Team</developer>
+		<publisher>Sega</publisher>
+		<genre>Plate-formes</genre>
+		<players>1</players>
+		<md5>55a86477be33e38779a44ce6d870a7dc</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230215T185622" />
+		<scrap name="HfsDB" date="20231127T013102" />
+	</game>
+	<game>
 		<path>./SONIC THE HEDGEHOG 4 Episode I.m3u</path>
-		<name>Sonic the Hedgehog 4 : Episode I</name>
-		<desc>Sonic the Hedgehog 4: Episode 1 is a platformer available on the Playstation Store that brings the blue hedgehog back to his roots with a mix of 2D and 3D, similar to what we saw in the old Megadrive episodes.</desc>
+		<name>Sonic the Hedgehog 4: Episode 1</name>
+		<desc>Sonic the Hedgehog 4: Episode I (?????????????4??? ?????I Sonikku za Hejjihoggu F?: Epis?do Wan?) is a 2010 episodic platform video game in the Sonic the Hedgehog series. The game was developed by Dimps, with assistance from Sonic Team,[7] and is intended to emulate the original Sonic the Hedgehog titles on the Sega Genesis.
+
+Episode I was released in October 2010 for iOS, PlayStation Network, WiiWare and Xbox Live Arcade.[1] A release for Windows Phone 7 followed in June 2011,[2] for PC (via Steam) and Android in January 2012,[3][4] for BlackBerry PlayBook in July 2012,[5] and for Ouya in July 2013.[6] A sequel, Sonic the Hedgehog 4: Episode II, was released in 2012.</desc>
 		<image>./images/SONIC THE HEDGEHOG 4 Episode I-image.jpg</image>
 		<video>./videos/SONIC THE HEDGEHOG 4 Episode I-video.mp4</video>
+		<marquee>./images/SONIC THE HEDGEHOG 4 Episode I-marquee.png</marquee>
 		<thumbnail>./images/SONIC THE HEDGEHOG 4 Episode I-thumb.png</thumbnail>
 		<fanart>./images/SONIC THE HEDGEHOG 4 Episode I-fanart.jpg</fanart>
 		<rating>0.65</rating>
-		<developer>Dimps</developer>
-		<publisher>SEGA</publisher>
-		<genre>Platform</genre>
-		<family>Sonic</family>
-		<players>1</players>
+		<releasedate>20101012T000000</releasedate>
+		<developer>Sonic Team</developer>
+		<publisher>Sega</publisher>
+		<genre>Plate-formes</genre>
 		<md5>31640ecae688f785ab9ff3a9680780d2</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231126T152326" />
+		<scrap name="HfsDB" date="20231127T013102" />
 	</game>
-	<game id="25839">
+	<game>
 		<path>./SONIC THE HEDGEHOG 4 Episode II.m3u</path>
-		<name>Sonic the Hedgehog 4 : Episode II</name>
-		<desc>Following the events of Episode I, Metal Sonic has returned to form a formidable alliance with Dr. Eggman! To face this new threat, Sonic will have to call upon an old friend to help him save the day! Joined by Tails, utilise ingenious combination moves and race across four brand new Zones, in order to put an end to their evil plans!
+		<name>Sonic the Hedgehog 4: Episode II</name>
+		<desc>Sonic the Hedgehog 4: Episode II (?????????????4??? ?????II Sonikku za Hejjihoggu F?: Epis?do Ts??) is a 2012 episodic platform video game in the Sonic the Hedgehog series, created as a direct follow-on from Sonic the Hedgehog 4: Episode I. The game was developed by Dimps, with assistance from Sonic Team,[9] and is intended to emulate the original Sonic the Hedgehog titles on the Sega Genesis.
 
-Play alone, or with a friend locally and online, in an evolution of Sonic 2's collaborative gameplay! Unleash Sonic and Tails' devastating joint attacks and combination moves to fight the united force of Metal Sonic and Dr. Eggman.
-
-Episode II features an all new game engine, bringing you updated physics and an original graphical style as you race through four unique Zones.</desc>
+Episode II was released in May 2012 for PC (via Steam),[1] PlayStation Network,[2] Xbox Live Arcade,[3] Android,[4] and iOS,[5] and in July 2013 for Ouya,[10] and Nvidia Shield (as a preinstalled app).[7] A version for the Windows Phone was slated to be released in July 2012,[8][11] but was ultimately cancelled. An additional episode, "Episode Metal", is available for those who purchase both episodes for the same system. As of late 2014, the game is no longer available on iOS devices due to software incompatibility.</desc>
 		<image>./images/SONIC THE HEDGEHOG 4 Episode II-image.png</image>
 		<video>./videos/SONIC THE HEDGEHOG 4 Episode II-video.mp4</video>
+		<marquee>./images/SONIC THE HEDGEHOG 4 Episode II-marquee.png</marquee>
 		<thumbnail>./images/SONIC THE HEDGEHOG 4 Episode II-thumb.png</thumbnail>
 		<fanart>./images/SONIC THE HEDGEHOG 4 Episode II-fanart.jpg</fanart>
 		<rating>0.8</rating>
-		<releasedate>20120516T000000</releasedate>
-		<developer>Dimps</developer>
-		<publisher>SEGA</publisher>
-		<genre>Platform</genre>
-		<family>Sonic</family>
-		<players>1-2</players>
+		<releasedate>20120515T000000</releasedate>
+		<developer>Sonic Team</developer>
+		<publisher>Sega</publisher>
+		<genre>Plate-formes</genre>
+		<players>2</players>
 		<md5>f5deed44c42118ac0a7f9b113f5f872f</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231126T152355" />
+		<scrap name="HfsDB" date="20231127T013201" />
 	</game>
-	<game id="25223">
+	<game>
+		<path>./Sonic The Hedgehog.m3u</path>
+		<name>Sonic the Hedgehog</name>
+		<desc>Sonic celebrates his 15th anniversary by blazing his way onto the next-generation consoles, with his first adventure set in the human world! Featuring interactive 3D environments and a large cast of returning and new characters, get ready for the reinvention of Sonic The Hedgehog, in his most intense, high velocity escapade to date!</desc>
+		<image>./images/Sonic The Hedgehog-image.jpg</image>
+		<marquee>./images/Sonic The Hedgehog-marquee.png</marquee>
+		<thumbnail>./images/Sonic The Hedgehog-thumb.png</thumbnail>
+		<fanart>./images/Sonic The Hedgehog-fanart.jpg</fanart>
+		<boxback>./images/Sonic The Hedgehog-boxback.png</boxback>
+		<rating>0.65</rating>
+		<releasedate>20110329T000000</releasedate>
+		<developer>Backbone Entertainment</developer>
+		<publisher>Sega</publisher>
+		<genre>Plate-formes</genre>
+		<players>1</players>
+		<md5>7f0427d02a0f91e53ff19fddc413be67</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230215T185640" />
+		<scrap name="HfsDB" date="20231127T013201" />
+	</game>
+	<game>
 		<path>./SONIC UNLEASHED.m3u</path>
 		<name>Sonic Unleashed</name>
-		<desc>Sonic Unleashed on PS3 brings the famous blue hedgehog to life in a new kind of adventure. Mixing 3D and 2D, the title pits you against Dr Robotnik who has scattered the pieces of the world. It's up to you to find the pieces of the emerald of chaos and put it back together. The software manages the day/night cycle, which influences Sonic's behaviour.</desc>
+		<desc>Gameplay in Sonic Unleashed focuses on two modes of platforming play: fast-paced levels that take place during daytime, showcasing Sonic's trademark speed as seen in previous games in the series, and slower, night-time levels, during which Sonic's Werehog form emerges, and gameplay switches to an action-based, brawler style of play, in which Sonic battles Gaia enemies</desc>
 		<image>./images/SONIC UNLEASHED-image.png</image>
 		<video>./videos/SONIC UNLEASHED-video.mp4</video>
 		<marquee>./images/SONIC UNLEASHED-marquee.png</marquee>
 		<thumbnail>./images/SONIC UNLEASHED-thumb.png</thumbnail>
+		<fanart>./images/SONIC UNLEASHED-fanart.jpg</fanart>
 		<manual>./manuals/SONIC UNLEASHED-manual.pdf</manual>
 		<rating>0.75</rating>
-		<developer>SEGA</developer>
-		<publisher>Sonic Team</publisher>
-		<genre>Platform</genre>
-		<family>Sonic</family>
+		<releasedate>20081118T000000</releasedate>
+		<developer>Sonic Team</developer>
+		<publisher>Sega</publisher>
+		<genre>Action</genre>
 		<players>1</players>
 		<md5>7325b7735fe0988638795d18472929e4</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231126T152356" />
+		<scrap name="HfsDB" date="20231127T013302" />
 	</game>
 	<game>
 		<path>./SOULCALIBUR  HD ONLINE.m3u</path>
 		<name>SOULCALIBUR  HD ONLINE</name>
 		<md5>7d460ebe57604cf8c942b856daed498a</md5>
+		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231126T152358" />
+		<scrap name="HfsDB" date="20231127T013302" />
 	</game>
-	<game id="25109">
+	<game>
 		<path>./SOULCALIBUR Lost Swords.m3u</path>
-		<name>SoulCalibur : Lost Swords</name>
-		<desc>Like previous games in the series, Soulcalibur: Lost Swords was a weapon-based fighting game. Players could inflict high and low horizontal and vertical attacks, block oncoming attacks, and use parries to gain a tactical advantage. Features such as Soul Crush and Armor Destruction first introduced in Soulcalibur IV have been retained; Soul Crush could be used to make opponents drop collectible items and weapons. Several mechanics were no longer present in the game, however, such as the ability to ring out a character, counter hits, and Just Guard. Guard Impact, while having the same properties as Soulcalibur V, no longer used a specific meter to execute. Two new mechanics were added: Weapon Arts, which granted each character unique attacks such as breaking through an enemy's guards; and support character feature, which allowed players to temporarily borrow another player's character online.</desc>
+		<name>Soulcalibur: Lost Swords</name>
+		<desc>Forge your own destiny. 
+
+Take on a series of mighty enemies in an expansive single player campaign, Collect weapons and armour, and forge powerful new items as you progress. Use your weapons’ elemental properties to give you a handy advantage over certain adversaries.</desc>
+		<image>./images/SOULCALIBUR Lost Swords-image.jpg</image>
 		<marquee>./images/SOULCALIBUR Lost Swords-marquee.png</marquee>
+		<thumbnail>./images/SOULCALIBUR Lost Swords-thumb.jpg</thumbnail>
+		<fanart>./images/SOULCALIBUR Lost Swords-fanart.jpg</fanart>
 		<rating>0.35</rating>
-		<developer>Bandai Namco</developer>
-		<publisher>Bandai Namco</publisher>
-		<genre>Fight</genre>
-		<family>SoulCalibur</family>
+		<releasedate>20140422T000000</releasedate>
+		<developer>Project Soul</developer>
+		<publisher>Namco Bandai</publisher>
+		<genre>Combat</genre>
 		<players>1</players>
 		<md5>f6a3656732fa7d54efc4896d1cde4a0d</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231126T152407" />
+		<scrap name="HfsDB" date="20231127T013402" />
 	</game>
 	<game id="200611">
 		<path>./SplitSecond.m3u</path>
@@ -5018,12 +5062,14 @@ Episode II features an all new game engine, bringing you updated physics and an 
 		<md5>8e5a4e47b05c34cf413b2169e7471aeb</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231126T152408" />
+		<scrap name="HfsDB" date="20231127T013403" />
 	</game>
 	<game>
 		<path>./Super Street Fighter 2 Turbo HD.m3u</path>
 		<name>Super Street Fighter 2 Turbo HD</name>
 		<md5>62efef7845cb78d50c32b651a116dc2f</md5>
 		<scrap name="ScreenScraper" date="20231126T152409" />
+		<scrap name="HfsDB" date="20231127T013501" />
 	</game>
 	<game id="24901">
 		<path>./SUPER STREET FIGHTER IVARCADE EDITION.m3u</path>
@@ -5040,21 +5086,65 @@ Episode II features an all new game engine, bringing you updated physics and an 
 		<md5>7c4ccfea8fec8a607cb4d394abd783a6</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231126T152430" />
+		<scrap name="HfsDB" date="20231127T013501" />
 	</game>
-	<game id="25056">
+	<game>
+		<path>./Tales of Xillia 2.m3u</path>
+		<name>Tales of Xillia 2</name>
+		<desc>Tales of Xillia 2 centers around Ludger Kresnik, a young man and a skilled chef who lives in Trigleph city in Elympios with his brother Julius and their cat Rollo. He strives to follow in his brother’s footsteps and work as an agent in the prestigious Spirius Corporation, a large scale and illustrious company that develops technology for every field imaginable. One day, through a chance encounter, he meets Elle Marta: a young girl travelling alone attempting to reunite with her father at the mythic “Land of Canaan” and ends up accompanying her. His choice to accompany her will send the two on a journey that will change the fate of the two worlds forever.</desc>
+		<image>./images/Tales of Xillia 2-image.png</image>
+		<video>./videos/Tales of Xillia 2-video.mp4</video>
+		<marquee>./images/Tales of Xillia 2-marquee.png</marquee>
+		<thumbnail>./images/Tales of Xillia 2-thumb.jpg</thumbnail>
+		<fanart>./images/Tales of Xillia 2-fanart.jpg</fanart>
+		<manual>./manuals/Tales of Xillia 2-manual.pdf</manual>
+		<rating>0.8</rating>
+		<releasedate>20140819T000000</releasedate>
+		<developer>Namco Tales Studio</developer>
+		<publisher>Bandai Namco Games</publisher>
+		<genre>RPG</genre>
+		<players>4</players>
+		<md5>4b2b8bed09988f2017c07990cc575778</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230215T190223" />
+		<scrap name="HfsDB" date="20231127T013603" />
+	</game>
+	<game>
+		<path>./Tales of Xillia.m3u</path>
+		<name>Tales of Xillia</name>
+		<desc>Set in a world where humans and spirits share a symbiotic existence with each other, Tales of Xillia follows the adventures of two unlikely heroes in a land where two conflicting nations are heading to a clash. Building upon the signature real-time combat, epic storytelling, and strong character relationships from the series, Tales of Xillia immerses players into a sweeping role playing adventure beyond imagination. 
+
+Tales of Xillia follows Jude Mathis, a clever medical student attending school in the capital city, and Milla Maxwell, a mysterious woman accompanied by four unseen beings. Players will be able to choose either Jude or Milla at the outset of their adventure through the world of Rieze Maxia, where humans and spirits live together in harmony. The kingdom of Rashugal has been experimenting with a powerful source that led to draining the mana from the world. Realizing the harm it is inflicting on the world, Jude and Milla set off on a journey to destroy it and restore the mana back to the world.</desc>
+		<image>./images/Tales of Xillia-image.jpg</image>
+		<video>./videos/Tales of Xillia-video.mp4</video>
+		<marquee>./images/Tales of Xillia-marquee.png</marquee>
+		<thumbnail>./images/Tales of Xillia-thumb.jpg</thumbnail>
+		<fanart>./images/Tales of Xillia-fanart.jpg</fanart>
+		<rating>0.85</rating>
+		<releasedate>20130806T000000</releasedate>
+		<developer>Namco Tales Studio</developer>
+		<publisher>Namco Bandai</publisher>
+		<genre>RPG</genre>
+		<players>4</players>
+		<md5>9f6032e72a8828990b07e6a415971eef</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230215T190236" />
+		<scrap name="HfsDB" date="20231127T013603" />
+	</game>
+	<game>
 		<path>./TEKKEN REVOLUTION.m3u</path>
 		<name>Tekken Revolution</name>
-		<desc>Tekken Revolution is a free downloadable fighting game for PS3. You play as a Tekken character and compete against other players online.</desc>
+		<desc>Tekken Revolution (Japanese: ?????????? Hepburn: Tekken Rebory?shon?) is a free-to-play fighting video game developed and published by Namco Bandai. It was released exclusively on the PlayStation 3 via the PlayStation Store on June 11, 2013.[1][2] It is the first game in the Tekken franchise to be made free-to-play in this manner.[3]</desc>
 		<image>./images/TEKKEN REVOLUTION-image.jpg</image>
+		<marquee>./images/TEKKEN REVOLUTION-marquee.png</marquee>
+		<thumbnail>./images/TEKKEN REVOLUTION-thumb.jpg</thumbnail>
+		<fanart>./images/TEKKEN REVOLUTION-fanart.jpg</fanart>
 		<rating>0.7</rating>
-		<releasedate>20130611T000000</releasedate>
-		<developer>Bandai Namco</developer>
-		<publisher>Bandai Namco</publisher>
-		<genre>Fight</genre>
-		<family>Tekken</family>
+		<genre>Combat</genre>
 		<md5>f3ad176d33f5e247176e5bb699610241</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231126T152431" />
+		<scrap name="HfsDB" date="20231127T013604" />
 	</game>
 	<game id="26059">
 		<path>./TEKKEN5 DARK RESURRECTION ONLINE.m3u</path>
@@ -5069,6 +5159,21 @@ Episode II features an all new game engine, bringing you updated physics and an 
 		<md5>de5b129bc38fb7cd47ce777932bf57bb</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231126T152433" />
+		<scrap name="HfsDB" date="20231127T013703" />
+	</game>
+	<game>
+		<path>./The Smurfs 2.m3u</path>
+		<name>The Smurfs 2</name>
+		<desc>The Smurfs 2 video game is an action-packed adventure platformer that provides Smurfs fans of all ages with the opportunity to dive into the magical Smurfs Village and relive iconic moments and key environments from the feature film. Players assume the role of a Smurf and immerse themselves in an interactive adventure through the movie's enchanting environments including New York City and Paris, and expand their movie experience into worlds exclusive to the video game such as The Arctic Tundra and The Lava Jungle.</desc>
+		<marquee>./images/The Smurfs 2-marquee.png</marquee>
+		<thumbnail>./images/The Smurfs 2-thumb.jpg</thumbnail>
+		<rating>0.65</rating>
+		<releasedate>20130723T000000</releasedate>
+		<publisher>Ubisoft</publisher>
+		<md5>a06af4f195f4652af8f6438d6281dd40</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230215T190357" />
+		<scrap name="HfsDB" date="20231127T013704" />
 	</game>
 	<game id="25641">
 		<path>./Tom Clancys EndWar.m3u</path>
@@ -5081,6 +5186,7 @@ Episode II features an all new game engine, bringing you updated physics and an 
 		<md5>35e619b36079925078e9c9e6f6a8bbed</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231126T152434" />
+		<scrap name="HfsDB" date="20231127T013704" />
 	</game>
 	<game id="25536">
 		<path>./Tom Clancys Ghost Recon Advanced Warfighter 2.m3u</path>
@@ -5097,12 +5203,15 @@ nnLike in its predecessor Tom Clancy's Ghost Recon: Advanced Warfighter, you see
 		<md5>a367ec5a84c301b21b00538a6d57a34d</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231126T152436" />
+		<scrap name="HfsDB" date="20231127T013704" />
 	</game>
 	<game>
 		<path>./Tom Clancys Ghost Recon Future Soldier  Multiplayer Beta.m3u</path>
 		<name>Tom Clancys Ghost Recon Future Soldier  Multiplayer Beta</name>
 		<md5>770b02539ddc99a172c8155fab25b4b3</md5>
+		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231126T152438" />
+		<scrap name="HfsDB" date="20231127T013804" />
 	</game>
 	<game id="25142">
 		<path>./Tom Clancys Ghost Recon Future Soldier.m3u</path>
@@ -5119,6 +5228,7 @@ nnLike in its predecessor Tom Clancy's Ghost Recon: Advanced Warfighter, you see
 		<md5>473b58803376e38fe0354ef5fed995ce</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231126T152501" />
+		<scrap name="HfsDB" date="20231127T013804" />
 	</game>
 	<game id="25588">
 		<path>./Tom Clancys H.A.W.X. 2.m3u</path>
@@ -5130,6 +5240,7 @@ nnLike in its predecessor Tom Clancy's Ghost Recon: Advanced Warfighter, you see
 		<md5>914eb4a37e8cfb6368677e63bd599782</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231126T152502" />
+		<scrap name="HfsDB" date="20231127T013804" />
 	</game>
 	<game id="25648">
 		<path>./Tom Clancys H.A.W.X.m3u</path>
@@ -5142,43 +5253,140 @@ nnLike in its predecessor Tom Clancy's Ghost Recon: Advanced Warfighter, you see
 		<md5>6d6c8c1d77e89d3219be41bd2985103d</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231126T152504" />
+		<scrap name="HfsDB" date="20231127T013804" />
+	</game>
+	<game id="200551">
+		<path>./Tom Clancys Rainbow Six Vegas 2.m3u</path>
+		<name>Tom Clancy's Rainbow Six - Vegas 2</name>
+		<md5>d31e505eb8efeecc3af585b506bed3fc</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230215T190546" />
+		<scrap name="HfsDB" date="20231127T013904" />
 	</game>
 	<game>
 		<path>./Tom Clancys Splinter Cell Blacklist Digital.m3u</path>
 		<name>Tom Clancys Splinter Cell Blacklist Digital</name>
 		<md5>418ab24336bff82ad3447b47c58336db</md5>
 		<scrap name="ScreenScraper" date="20231126T152505" />
+		<scrap name="HfsDB" date="20231127T013904" />
+	</game>
+	<game>
+		<path>./Toy Story 3.m3u</path>
+		<name>Toy Story 3</name>
+		<desc>Toy Story 3: The Video Game is a platform video game loosely based on the film Toy Story 3. It was published by Disney Interactive Studios (which is the developer for iOS) and developed by Avalanche Software (PS3, Wii, Xbox 360, PC, Mac OS X), Asobo Studio (PS2, PSP) and n-Space (DS). The game was released in North America on June 15, 2010, for the iOS, Nintendo DS, Wii, PlayStation Portable, PlayStation 3, Microsoft Windows, Mac OS X, and the Xbox 360. A special PlayStation 2 bundle with Toy Story 3: The Video Game was released on October 31, 2010, followed by the game's individual release on November 2, 2010.[1][2] It's the only video game based on the Toy Story franchise to be released for the PlayStation 2, as well as the last video game based on a Disney and/or Pixar product on the console.
+
+Toy Story 3 is the first game based on a film by Pixar to be published entirely by Disney Interactive Studios. Past Disney/Pixar movie games have been made in conjunction with Activision first, then THQ.[3] It is the sequel to the second game that was based on the second film in the franchise.
+
+Most of the voice cast from the film returned to reprise their characters in the game with the exception of Tom Hanks (Woody) and Tim Allen (Buzz Lightyear). Jim Hanks returned to voice Woody from the Toy Story 2 game, and Mike MacRae voiced Buzz. The game also contains content exclusive to the PlayStation 3 version that allows the player(s) to turn into Zurg in Woody's Round up.[4] The game was well received by critics and was a top-seller in the UK.</desc>
+		<image>./images/Toy Story 3-image.jpg</image>
+		<marquee>./images/Toy Story 3-marquee.png</marquee>
+		<thumbnail>./images/Toy Story 3-thumb.jpg</thumbnail>
+		<fanart>./images/Toy Story 3-fanart.jpg</fanart>
+		<rating>0.85</rating>
+		<releasedate>20100615T000000</releasedate>
+		<developer>Avalanche Productions</developer>
+		<publisher>Disney Interactive Studios</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<md5>b2b2776dafa8525943d0b6607f4e857e</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230215T190619" />
+		<scrap name="HfsDB" date="20231127T013906" />
 	</game>
 	<game>
 		<path>./Twisted Metal U.S. Digital.m3u</path>
 		<name>Twisted Metal U.S. Digital</name>
 		<md5>9bbbfbbe481db851144e2a2bdd0a0be2</md5>
 		<scrap name="ScreenScraper" date="20231126T152506" />
+		<scrap name="HfsDB" date="20231127T014004" />
 	</game>
 	<game>
 		<path>./UFC 3 Alpha.m3u</path>
 		<name>UFC 3 Alpha</name>
 		<md5>6a9ec7df4d4213df1ce9b6d34b2ad7f1</md5>
+		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231126T152507" />
+		<scrap name="HfsDB" date="20231127T014004" />
 	</game>
-	<game id="25619">
+	<game>
+		<path>./Virtua Fighter 2.m3u</path>
+		<name>Virtua Fighter 2</name>
+		<desc>Go back to the roots of 3-D fighting with Virtua Fighter 2™, the second title in AM2's flagship fighting franchise. Experience the legendary polygon-based 3-D graphics and fluid fighting mechanics that made the game so influential in the arcades, and later on the Sega Saturn. With all-new online play you can battle friends throughout the world.
+
+Features include:
+
+Arcade perfect with all-new online modes
+
+All 10 original characters and arenas
+
+Online versus mode for head-to-head matches
+
+Online Room match mode for up to 6 players</desc>
+		<image>./images/Virtua Fighter 2-image.jpg</image>
+		<marquee>./images/Virtua Fighter 2-marquee.png</marquee>
+		<thumbnail>./images/Virtua Fighter 2-thumb.jpg</thumbnail>
+		<fanart>./images/Virtua Fighter 2-fanart.jpg</fanart>
+		<rating>0.25</rating>
+		<releasedate>20121127T000000</releasedate>
+		<developer>AM R&amp;D Dept. #2</developer>
+		<publisher>SEGA of America, Inc.</publisher>
+		<genre>Combat</genre>
+		<players>2</players>
+		<md5>c8e7c5ee5f6d14cdcc7aaf6bdb533cd1</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230215T190831" />
+		<scrap name="HfsDB" date="20231127T014005" />
+	</game>
+	<game>
 		<path>./Virtua Fighter 5 Final Showdown.m3u</path>
-		<name>Virtua Fighter 5 Final Showdown</name>
-		<desc>Virtua Fighter 5 Final Showdown is a fighting game for the Playstation 3. It is actually an improved version of Virtua Fighter 5 with a complete overhaul of the game mechanics, new animations, rebalancing, new arenas and two additional characters as well as bonus game modes.</desc>
+		<name>Virtua Fighter 5: Final Showdown</name>
+		<desc>Definitive version of the Virtua Fighter 5 series that incorporates all the enhancements SEGA has rolled out since 2007 and introduces a new character: Taka-Arashi, returning from Virtua Fighter 3 and a karate expert Jean Kujo makes his debut in this gang of 19 playable characters. Its fighting mechanics were overhauled making Final Showdown more accessible to new players while retaining the trademark depth and balance of the game. Final Showdown introduces new stage arenas and interactive environments. In the new Online Mode you can challenge a friend to a Ranked Match or Player Match or play with up to 7 others in Room Match mode. Costumes can be customized, adding a huge variety of customization items sold separately (as DLC packs) for the ultimate Virtua Fighter experience.</desc>
 		<image>./images/Virtua Fighter 5 Final Showdown-image.jpg</image>
 		<marquee>./images/Virtua Fighter 5 Final Showdown-marquee.png</marquee>
 		<thumbnail>./images/Virtua Fighter 5 Final Showdown-thumb.png</thumbnail>
 		<fanart>./images/Virtua Fighter 5 Final Showdown-fanart.jpg</fanart>
 		<rating>0.8</rating>
 		<releasedate>20120605T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Fight / 3D</genre>
-		<family>Virtua Fighter</family>
+		<developer>Sega AM2</developer>
+		<publisher>Sega</publisher>
+		<genre>Combat</genre>
 		<players>2</players>
 		<md5>d6ae99c7e9b4cfb17dda1ae020208344</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231126T152539" />
+		<scrap name="HfsDB" date="20231127T014105" />
+	</game>
+	<game id="26932">
+		<path>./Wakeboarding HD.m3u</path>
+		<name>Wakeboarding Hd</name>
+		<desc>Wakeboarding HD is a game of... wakeboarding on Playstation 3! A bit crazy, the software offers you to ride on the most beautiful seas and oceans of the world, to jump over trees, submarines and even helicopters!</desc>
+		<rating>0.85</rating>
+		<releasedate>20100325T000000</releasedate>
+		<developer>TikGames</developer>
+		<publisher>Creat Studios</publisher>
+		<genre>Sports</genre>
+		<md5>b2d7cd9d677edb954d9b53aa62732a90</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230215T190859" />
+		<scrap name="HfsDB" date="20231127T014105" />
+	</game>
+	<game>
+		<path>./Warhawk.m3u</path>
+		<name>Warhawk</name>
+		<desc>Warhawk is a multiplayer third-person vehicle and flight combat video game developed by Incognito Entertainment exclusively for the PlayStation 3. It is a remake of an aerial warfare game of the same name, which was a launch title on the original PlayStation. Apart from the similarity of controlling aircraft, the remake bears little other resemblance. It was the first PlayStation 3 game to be available both for download on the PlayStation Network and for retail on Blu-ray Disc. For the United States, Blu-ray Disc and PlayStation Network versions were released on August 28, 2007. The PlayStation Network version was released in Europe, Australia and Japan on August 30, August 31 and October 4 respectively. The Blu-ray Disc version was released in Australia and Europe on September 20 and September 21, respectively, but was not released in Japan.</desc>
+		<marquee>./images/Warhawk-marquee.png</marquee>
+		<thumbnail>./images/Warhawk-thumb.jpg</thumbnail>
+		<fanart>./images/Warhawk-fanart.jpg</fanart>
+		<rating>0.85</rating>
+		<releasedate>20070827T000000</releasedate>
+		<developer>Incognito Entertainment</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Shooter</genre>
+		<players>4</players>
+		<md5>d96be4f580d763e852d842ef0c791169</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230215T190906" />
+		<scrap name="HfsDB" date="20231127T014206" />
 	</game>
 	<game id="25151">
 		<path>./WARRIORS OROCHI 3 Ultimate.m3u</path>
@@ -5195,27 +5403,124 @@ Players can fully enjoy the dramatic story WARRIORS OROCHI 3's many heroes even 
 		<md5>76eed2b4eeb3d5081aa6c6e163aedcd0</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231126T152540" />
+		<scrap name="HfsDB" date="20231127T014207" />
 	</game>
-	<game id="25217">
+	<game>
 		<path>./WARRIORS OROCHI 3.m3u</path>
 		<name>Warriors Orochi 3</name>
-		<desc>Warriors Orochi 3 is a mass beat'em all on Playstation 3. Gathering heroes from the different Warriors series but also from Ninja Gaiden or Dead or Alive, this episode proposes us to relive the battles of the past to save up to 120 characters and face a terrible giant hydra. A level editor is also available to create your own stories.</desc>
+		<desc>Warriors Orochi 3 is the third installment in the Warriors Orochi series and the sequel of Warriors Orochi 2.
+
+After vanquishing Orochi, a period of peace came to the land. That peace is suddenly shattered by the appearance of a Hydra. Warriors from different worlds gather to father the Hydra, but only three survive. With the help of the mystic Kaguya, Sima Zhao, Ma Chao and Hanbei Takenaka set to travel in time to save their fallen comrades and form an army against the new threat.
+
+Starting with only four characters, the player sets to gather warriors by altering the outcome of different battles. The characters consist of the characters from the Dynasty Warriors series and Samurai Warriors series and a few from other games such as Ninja Gaiden and Dead or Alive.
+
+The player chooses three warriors before each stage. In battle, these characters can switch places at any time to fight against hordes of enemy soldiers and officers, gathering experience and gems until the victory conditions are met. Weapons and items can also be acquired in battle. Between each battle, the player is sent back to the camp, where he can buy and customize weapons, make characters bond together, equip the characters and distribute growth points to raise the character's level. If certain conditions are met, discussions between specific warriors will unlock new stages or an alternate "Redux" version of a previously cleared battle.</desc>
+		<image>./images/WARRIORS OROCHI 3-image.jpg</image>
+		<marquee>./images/WARRIORS OROCHI 3-marquee.png</marquee>
+		<thumbnail>./images/WARRIORS OROCHI 3-thumb.jpg</thumbnail>
 		<fanart>./images/WARRIORS OROCHI 3-fanart.jpg</fanart>
 		<rating>0.85</rating>
-		<releasedate>20111222T000000</releasedate>
-		<developer>Koei</developer>
-		<publisher>OMEGA Force</publisher>
-		<genre>Beat'em Up</genre>
-		<family>Warriors Orochi</family>
-		<players>2</players>
+		<releasedate>20120320T000000</releasedate>
+		<developer>Omega Force</developer>
+		<publisher>Tecmo Koei</publisher>
+		<genre>Action</genre>
 		<md5>a758f239190739fb3fabb3c5125d96e9</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231126T152550" />
+		<scrap name="HfsDB" date="20231127T014207" />
 	</game>
 	<game>
 		<path>./Watchmen The End is Nigh Part 2.m3u</path>
 		<name>Watchmen The End is Nigh Part 2</name>
 		<md5>a79c0fdf335fe00af2225b4744292fdf</md5>
 		<scrap name="ScreenScraper" date="20231126T152552" />
+		<scrap name="HfsDB" date="20231127T014307" />
+	</game>
+	<game>
+		<path>./Worms 2 Armageddon.m3u</path>
+		<name>Worms 2: Armageddon</name>
+		<desc>This is a 2D turn-based strategy game in which players control worms in a battle to be the last man (worm) standing. Players take turns positioning their worms around fantastical landscapes and use a variety of over-the-top weapons ('cartoony' bazookas, grenades, uzis, exploding sheep, etc.) to defeat opponents' worms.</desc>
+		<image>./images/Worms 2 Armageddon-image.jpg</image>
+		<video>./videos/Worms 2 Armageddon-video.mp4</video>
+		<marquee>./images/Worms 2 Armageddon-marquee.png</marquee>
+		<thumbnail>./images/Worms 2 Armageddon-thumb.jpg</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>20100908T000000</releasedate>
+		<developer>Team 17</developer>
+		<publisher>Team 17</publisher>
+		<genre>Strategie</genre>
+		<players>4</players>
+		<md5>10fc4107556ba7e4cd33c5834e150db0</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230215T191045" />
+		<scrap name="HfsDB" date="20231127T014307" />
+	</game>
+	<game>
+		<path>./Worms Crazy Golf.m3u</path>
+		<name>Worms Crazy Golf</name>
+		<desc>Worms Crazy Golf is a 2011 action game developed by Team17. A sequel to the mobile exclusive "Worms Golf", the game uses the basic framework of the "Worms" series as the foundation for a 2D golf title.</desc>
+		<image>./images/Worms Crazy Golf-image.jpg</image>
+		<video>./videos/Worms Crazy Golf-video.mp4</video>
+		<marquee>./images/Worms Crazy Golf-marquee.png</marquee>
+		<thumbnail>./images/Worms Crazy Golf-thumb.jpg</thumbnail>
+		<rating>0.65</rating>
+		<developer>Team17</developer>
+		<publisher>Team17</publisher>
+		<genre>Combat</genre>
+		<players>2</players>
+		<md5>021481e7e4466a671eb76c5f2f410de4</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230215T191054" />
+		<scrap name="HfsDB" date="20231127T014407" />
+	</game>
+	<game>
+		<path>./Worms Revolution.m3u</path>
+		<name>Worms Revolution</name>
+		<desc>The game has been developed from the ground up and features a completely new game-engine. Exciting new features and challenges have been introduced whilst old favourites such as the Super Sheep and Holy Hand Grenade remain to thrill fans worldwide.</desc>
+		<marquee>./images/Worms Revolution-marquee.png</marquee>
+		<thumbnail>./images/Worms Revolution-thumb.jpg</thumbnail>
+		<rating>0.6</rating>
+		<releasedate>20121009T000000</releasedate>
+		<developer>Team17</developer>
+		<publisher>Team17</publisher>
+		<genre>Strategie</genre>
+		<md5>a490e402d0a06c5ba665c95fd1e9ea2c</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230215T191056" />
+		<scrap name="HfsDB" date="20231127T014408" />
+	</game>
+	<game>
+		<path>./Worms.m3u</path>
+		<name>Worms</name>
+		<desc>Players control a small platoon of worms across a deformable landscape, battling computer or player controlled teams. The game features bright and humorous cartoon-style animation and a varied arsenal of weapons. Full voice communication is also available among the players of the game.</desc>
+		<marquee>./images/Worms-marquee.png</marquee>
+		<thumbnail>./images/Worms-thumb.jpg</thumbnail>
+		<releasedate>20070307T000000</releasedate>
+		<developer>Team17</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Action</genre>
+		<players>4</players>
+		<md5>0103217a5e1b8d012f45720a70f4b900</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230215T191058" />
+		<scrap name="HfsDB" date="20231127T014507" />
+	</game>
+	<game>
+		<path>./Young Justice Legacy.m3u</path>
+		<name>Young Justice: Legacy</name>
+		<desc>In Young Justice: Legacy fans can look forward to an original storyline set in between Seasons 1 and 2 of the television series, written in collaboration with show writers Greg Weisman and Brandon Vietti. The game is packed with fan favorite playable characters, cameo appearances by popular Justice League heroes and villains, and includes online multiplayer as well as local multiplayer modes.</desc>
+		<marquee>./images/Young Justice Legacy-marquee.png</marquee>
+		<thumbnail>./images/Young Justice Legacy-thumb.png</thumbnail>
+		<boxback>./images/Young Justice Legacy-boxback.png</boxback>
+		<rating>0.45</rating>
+		<releasedate>20131119T000000</releasedate>
+		<developer>Freedom Factory</developer>
+		<publisher>Little Orbit</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<md5>f2f6fdc345f03ecb64bec4223d26f221</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230215T191132" />
+		<scrap name="HfsDB" date="20231127T014508" />
 	</game>
 </gameList>
