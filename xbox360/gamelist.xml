@@ -1770,23 +1770,6 @@ The official video game of the MotoGP hits the track with all the riders from th
 		<scrap name="HfsDB" date="20231006T115629" />
 	</game>
 	<game>
-		<path>./Games/Muchi Muchi Pork &amp; Pink Sweets [RF].iso</path>
-		<name>Muchi Muchi Pork! &amp; Pink Sweets</name>
-		<desc>Collecting medals is the primary scoring mechanic in the game. When an enemy is destroyed using the lard attack, they will drop medals shaped like a pig's head. If enemies are destroyed with the lard attack while a bomb is being used, they will drop "p" items instead of medals. Also, Single medals will periodically drop from enemies even if they are not destroyed using the lard attack.
-The medal value starts at 100 points. If there are already medals on screen, the medals that enemies drop will be of an equal value to the medals on screen. If there are no medals on screen, the medal value will increase by 100 points (if the previous value was  1000 points), or 1000 points (if the previous value was  1000 points). The medal value will max out at 10,000 points.
-If the player switches from the B-shot to the A-shot, all medals on screen will be automatically collected. If the player fails to collect the last medal on screen, the medal value will divide by a factor of 10. The player is awarded an extend every 10 million points. An extend item can also be found if the third stage mid-boss is destroyed using the pierce shot.
-Accessing the second loop requires completing the first five stages without losing a single life. If the extend item is collected in stage 3, the player can die once and still proceed to the second loop. Stages 6–10 are identical to the first five stages, but are much more difficult. In addition to this, score extends are no longer awarded.</desc>
-		<thumbnail>./images/Muchi Muchi Pork &amp; Pink Sweets [RF]-thumb.jpg</thumbnail>
-		<rating>0</rating>
-		<genre>Shooter</genre>
-		<players>2</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231004T200945" />
-		<scrap name="TheGamesDB" date="20231004T204644" />
-		<scrap name="HfsDB" date="20231006T115629" />
-	</game>
-	<game>
 		<path>./Games/Murdered Soul Suspect [PAL][NTSCU].iso</path>
 		<name>Murdered: Soul Suspect</name>
 		<desc>Murdered: Soul Suspect is a dark detective thriller with a supernatural twist: the mystery you are solving is your own murder from the afterlife. Play as Ronan O’Connor, a Salem police detective with a checkered past, whose life is brought to an untimely end by a brutal killer. Trapped in a limbo world called Dusk, he is unable to find peace until he can bring his killer to justice.
@@ -11965,12 +11948,6 @@ Enemy Within primarily adds new gameplay elements to the base game, as well as i
 		<scrap name="TheGamesDB" date="20231213T064034" />
 		<scrap name="HfsDB" date="20231213T092315" />
 	</game>
-	<game>
-		<path>./Games/Fable 2 GOTY [RF][En,Pl,Hu,Kr,Cz,Sk,Ch].iso</path>
-		<name>Fable 2 GOTY [RF][En,Pl,Hu,Kr,Cz,Sk,Ch]</name>
-		<scrap name="ScreenScraper" date="20231213T094823" />
-		<scrap name="HfsDB" date="20231213T075029" />
-	</game>
 	<game id="15818">
 		<path>./Games/Fable 3 [RF][SPA].iso</path>
 		<name>Fable III</name>
@@ -12030,18 +12007,6 @@ The protagonist is Jason Brody, a daredevil who is on a holiday in the Pacific w
 		<players>1</players>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231213T094953" />
-	</game>
-	<game id="16973">
-		<path>./Games/Full Auto [RF].iso</path>
-		<name>Full Auto</name>
-		<desc>Crumpled metal, exploding cars, speed, adrenaline and crashes are the keywords of Full Auto on Xbox 360. Choose your car from a wide range of powerful vehicles and equip it with machine guns and cannons before biting the pavement. Once on the track, there are no more rules. Thanks to the unwreck function you can go backwards. Did you take a wrong turn? Renegotiate your trajectory! Correct your mistakes in real time!</desc>
-		<thumbnail>./images/Full Auto [RF]-thumb.png</thumbnail>
-		<rating>0.75</rating>
-		<developer>Pseudo Interactive Inc.</developer>
-		<publisher>SEGA</publisher>
-		<genre>Lightgun Shooter</genre>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231213T095000" />
 	</game>
 	<game id="16797">
 		<path>./Games/Golden Axe Beast Rider [RF].iso</path>
@@ -12181,23 +12146,6 @@ Storyline that spans the franchise and travels the globe: Heists, hijacks and ma
 		<scrap name="TheGamesDB" date="20231213T100741" />
 	</game>
 	<game>
-		<path>./Games/Ghost Recon Future Soldier [PAL][NTSCU].iso</path>
-		<name>Tom Clancy's Ghost Recon: Future Soldier</name>
-		<desc>Developed by the award-winning team behind Tom Clancy's Ghost Recon Advanced Warfighter and Tom Clancy's Ghost Recon Advanced Warfighter 2, the game will feature cutting-edge technology, prototype high-tech weaponry, and state-of-the-art single-player and multiplayer modes. Tom Clancy's Ghost Recon: Future Soldier will go beyond the core Ghost Recon franchise and deliver a fresh gameplay experience, with an unparalleled level of quality that will excite long-time fans and newcomers alike.</desc>
-		<marquee>./images/Ghost Recon Future Soldier [PAL][NTSCU]-marquee.png</marquee>
-		<thumbnail>./images/Ghost Recon Future Soldier [PAL][NTSCU]-thumb.jpg</thumbnail>
-		<fanart>./images/Ghost Recon Future Soldier [PAL][NTSCU]-fanart.jpg</fanart>
-		<rating>0.85</rating>
-		<releasedate>20120522T000000</releasedate>
-		<developer>Ubisoft</developer>
-		<publisher>Ubisoft</publisher>
-		<genre>Shooter</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231213T100610" />
-		<scrap name="HfsDB" date="20231213T100621" />
-	</game>
-	<game>
 		<path>./Games/Gi Joe the Rise of the Cobra [NTSCU][NTSCJ].iso</path>
 		<name>G.I. Joe: The Rise of Cobra</name>
 		<desc>After the events of the film, Duke and Scarlett travels to the Arctic and free Heavy Duty, Ripcord and Snake Eyes from the M.A.R.S Detention Center. Also, they fight the Baroness and bring her to the Pit. In Egypt, the Joes learn that Cobra is taking the Apep (Gem), and must defeat Firefly. In the jungle, the Joes learn that Cobra is making a pyramid-like building in the middle of the jungle. From there, the Joes must defeat James McCullen (who now takes the identity of Destro) at the rooftop of the pyramid building. Finally, they must defeat the Cobra Commander and Storm Shadow at North Magnetic Pole Volcano base.</desc>
@@ -12237,25 +12185,6 @@ All the classic hallmarks of the groundbreaking series return, including incredi
 		<players>4+</players>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231213T100134" />
-	</game>
-	<game id="16164">
-		<path>./Games/Halo Wars [RF].iso</path>
-		<name>Halo Wars</name>
-		<desc>Halo Wars is a strategy game based on the legendary Halo universe. Join the Spirit of Fire crew in their battle against the Covenant alien coalition and prepare to command entire armies of Spartans, warthogs and more. Halo Wars will allow you to easily lead powerful armies in epic battles.</desc>
-		<image>./images/Halo Wars [RF]-image.png</image>
-		<video>./videos/Halo Wars [RF]-video.mp4</video>
-		<marquee>./images/Halo Wars [RF]-marquee.png</marquee>
-		<thumbnail>./images/Halo Wars [RF]-thumb.png</thumbnail>
-		<fanart>./images/Halo Wars [RF]-fanart.jpg</fanart>
-		<rating>0.8</rating>
-		<releasedate>20090303T000000</releasedate>
-		<developer>Ensemble Studios</developer>
-		<publisher>Microsoft</publisher>
-		<genre>Strategy</genre>
-		<players>2-6</players>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231213T100555" />
-		<scrap name="HfsDB" date="20231213T080035" />
 	</game>
 	<game id="17670">
 		<path>./Games/Hot Wheels Beat That [RF].iso</path>
@@ -12461,5 +12390,1190 @@ Online play is also available for players to take their fights online for ranked
 		<scrap name="ScreenScraper" date="20231213T063132" />
 		<scrap name="TheGamesDB" date="20231213T095310" />
 		<scrap name="HfsDB" date="20231213T091611" />
+	</game>
+	<game>
+		<path>./Games/Fable 2 GOTY [RF][En,Pl,Hu,Kr,Cz,Sk,Ch].iso</path>
+		<name>Fable 2 GOTY [RF][En,Pl,Hu,Kr,Cz,Sk,Ch]</name>
+		<scrap name="ScreenScraper" date="20231213T094823" />
+		<scrap name="TheGamesDB" date="20231213T101425" />
+		<scrap name="HfsDB" date="20231213T075029" />
+	</game>
+	<game>
+		<path>./Games/Full Auto [RF].iso</path>
+		<name>Fallout 3</name>
+		<desc>Fallout 3 takes place in the year 2277, 36 years after the setting of Fallout 2 and 200 years after the nuclear apocalypse that devastated the game's world in a future where international conflicts culminated in a Sino-American war in the second half of the 21st century. The game places the player in the role of an inhabitant of Vault 101, a survival shelter the size of a village, designed to protect a small number of humans from the nuclear fallout. When the player character's father disappears under mysterious circumstances, the player is forced to escape from the Vault and journey into the ruins of Washington D.C. to track him down. Along the way the player is assisted by a number of human survivors and must battle a myriad of enemies that inhabit the area now known as the "Capital Wasteland".</desc>
+		<marquee>./images/Full Auto [RF]-marquee.png</marquee>
+		<thumbnail>./images/Full Auto [RF]-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>20081028T000000</releasedate>
+		<developer>Bethesda Game Studios</developer>
+		<publisher>Bethesda Softworks</publisher>
+		<genre>Action, Adventure, Role-Playing, Shooter</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T095000" />
+		<scrap name="TheGamesDB" date="20231213T101427" />
+	</game>
+	<game>
+		<path>./Games/Ghost Recon Future Soldier [PAL][NTSCU].iso</path>
+		<name>Tom Clancy’s Ghost Recon Future Soldier (Future Shop Edition)</name>
+		<marquee>./images/Ghost Recon Future Soldier [PAL][NTSCU]-marquee.png</marquee>
+		<thumbnail>./images/Ghost Recon Future Soldier [PAL][NTSCU]-thumb.jpg</thumbnail>
+		<fanart>./images/Ghost Recon Future Soldier [PAL][NTSCU]-fanart.jpg</fanart>
+		<rating>0.85</rating>
+		<releasedate>20120522T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Action, Shooter</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T100610" />
+		<scrap name="TheGamesDB" date="20231213T101428" />
+		<scrap name="HfsDB" date="20231213T100621" />
+	</game>
+	<game>
+		<path>./Games/GRID 2 [RF].iso</path>
+		<name>GRID 2</name>
+		<desc>Grid 2 (stylised as GRID 2 and known as Race Driver: Grid 2 in Japan) is a racing video game developed and published by Codemasters and is the sequel to 2008's Race Driver: Grid. The game was released for Microsoft Windows, PlayStation 3 and Xbox 360 on 28 May 2013 in North America,[2] 30 May 2013 in Australia, 31 May 2013 in Europe and 25 July 2013 in Japan. On 25 September 2014, Feral Interactive released the GRID 2 Reloaded Edition for Mac.[1]</desc>
+		<thumbnail>./images/GRID 2 [RF]-thumb.jpg</thumbnail>
+		<releasedate>20130528T000000</releasedate>
+		<developer>Codemasters</developer>
+		<publisher>Codemasters</publisher>
+		<genre>Racing</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101429" />
+	</game>
+	<game>
+		<path>./Games/Halo 3 ODST [RF][DVD2].iso</path>
+		<name>Halo 3: ODST</name>
+		<desc>Halo 3: ODST is a 2009 first-person shooter game developed by Bungie and published by Microsoft Game Studios. The fourth installment in the Halo franchise, it was released on the Xbox 360 in September 2009. Players assume the roles of United Nations Space Command soldiers, known as "Orbital Drop Shock Troopers" or ODSTs, during and after the events of Halo 2. In the game's campaign mode, players explore the ruined city of New Mombasa to discover what happened to their missing teammates in the midst of an alien invasion. In the "Firefight" multiplayer option, players battle increasingly difficult waves of enemies to score points and survive as long as possible; Halo 3's multiplayer is contained on a separate disc packaged with ODST.
+
+Bungie initially conceived ODST as a small side project to produce in the lull between Halo 3's completion and Halo: Reach. Instead of featuring recognizable characters such as armored protagonist Master Chief, the developers focused on the ODSTs. Story director Joseph Staten penned a detective story utilizing film noir designs, settings, and characters. Composer Martin O'Donnell abandoned his previous Halo themes to create a quieter, jazz-influenced sound. During development, the planned expansion grew in scope to that of a full-sized game. Release marketing for the game included a tie-in comic, live-action trailers, and print and web advertisements.</desc>
+		<marquee>./images/Halo 3 ODST [RF][DVD2]-marquee.png</marquee>
+		<thumbnail>./images/Halo 3 ODST [RF][DVD2]-thumb.jpg</thumbnail>
+		<fanart>./images/Halo 3 ODST [RF][DVD2]-fanart.jpg</fanart>
+		<releasedate>20090922T000000</releasedate>
+		<developer>Bungie</developer>
+		<publisher>Microsoft Studios</publisher>
+		<genre>Action, Shooter</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101432" />
+	</game>
+	<game>
+		<path>./Games/Halo 4 [RF][DVD1].iso</path>
+		<name>Halo 4</name>
+		<desc>Halo 4 is the start of a new saga in the Master Chief's story. This saga is known as the Reclaimer Saga. At the end of the legendary mode of Halo 3 we see Master Chief Petty Officer John-117 orbiting a planet and hear him say to Cortana "Wake me when you need me". Well now is the time to be needed. The game starts where you last left off in a torn in half ship orbiting a planet around four years after the events of Halo 3. John wakes up to Cortana screaming "John I need you!" This creates the beginning of a new saga. In Halo 4 we see a new breed of enemies called the Prometheans. The Prometheans are AIs created by the Forerunners to protect a planet. Unfortunately you're seen as a threat. However despite being made by the Forerunners the Prometheans have a much darker and more sinister plot. Also aside from the Prometheans, Cortana is turning rampant and has begun to turn on the Master Chief. As a new twist, the Master Chief will be working together with the Spartan IV's the replacements to the Master Chief.</desc>
+		<marquee>./images/Halo 4 [RF][DVD1]-marquee.png</marquee>
+		<thumbnail>./images/Halo 4 [RF][DVD1]-thumb.jpg</thumbnail>
+		<fanart>./images/Halo 4 [RF][DVD1]-fanart.jpg</fanart>
+		<releasedate>20121106T000000</releasedate>
+		<developer>343 Industries</developer>
+		<publisher>Microsoft Studios</publisher>
+		<genre>Action, Shooter</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101437" />
+	</game>
+	<game>
+		<path>./Games/Halo 4 [RF][DVD1][ENG].iso</path>
+		<name>Halo 4</name>
+		<desc>Halo 4 is the start of a new saga in the Master Chief's story. This saga is known as the Reclaimer Saga. At the end of the legendary mode of Halo 3 we see Master Chief Petty Officer John-117 orbiting a planet and hear him say to Cortana "Wake me when you need me". Well now is the time to be needed. The game starts where you last left off in a torn in half ship orbiting a planet around four years after the events of Halo 3. John wakes up to Cortana screaming "John I need you!" This creates the beginning of a new saga. In Halo 4 we see a new breed of enemies called the Prometheans. The Prometheans are AIs created by the Forerunners to protect a planet. Unfortunately you're seen as a threat. However despite being made by the Forerunners the Prometheans have a much darker and more sinister plot. Also aside from the Prometheans, Cortana is turning rampant and has begun to turn on the Master Chief. As a new twist, the Master Chief will be working together with the Spartan IV's the replacements to the Master Chief.</desc>
+		<marquee>./images/Halo 4 [RF][DVD1][ENG]-marquee.png</marquee>
+		<thumbnail>./images/Halo 4 [RF][DVD1][ENG]-thumb.jpg</thumbnail>
+		<fanart>./images/Halo 4 [RF][DVD1][ENG]-fanart.jpg</fanart>
+		<releasedate>20121106T000000</releasedate>
+		<developer>343 Industries</developer>
+		<publisher>Microsoft Studios</publisher>
+		<genre>Action, Shooter</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101440" />
+	</game>
+	<game>
+		<path>./Games/Halo 4 [RF][DVD2][SPA,ENG].iso</path>
+		<name>Halo 4</name>
+		<desc>Halo 4 is the start of a new saga in the Master Chief's story. This saga is known as the Reclaimer Saga. At the end of the legendary mode of Halo 3 we see Master Chief Petty Officer John-117 orbiting a planet and hear him say to Cortana "Wake me when you need me". Well now is the time to be needed. The game starts where you last left off in a torn in half ship orbiting a planet around four years after the events of Halo 3. John wakes up to Cortana screaming "John I need you!" This creates the beginning of a new saga. In Halo 4 we see a new breed of enemies called the Prometheans. The Prometheans are AIs created by the Forerunners to protect a planet. Unfortunately you're seen as a threat. However despite being made by the Forerunners the Prometheans have a much darker and more sinister plot. Also aside from the Prometheans, Cortana is turning rampant and has begun to turn on the Master Chief. As a new twist, the Master Chief will be working together with the Spartan IV's the replacements to the Master Chief.</desc>
+		<marquee>./images/Halo 4 [RF][DVD2][SPA,ENG]-marquee.png</marquee>
+		<thumbnail>./images/Halo 4 [RF][DVD2][SPA,ENG]-thumb.jpg</thumbnail>
+		<fanart>./images/Halo 4 [RF][DVD2][SPA,ENG]-fanart.jpg</fanart>
+		<releasedate>20121106T000000</releasedate>
+		<developer>343 Industries</developer>
+		<publisher>Microsoft Studios</publisher>
+		<genre>Action, Shooter</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101443" />
+	</game>
+	<game>
+		<path>./Games/Halo Wars [RF].iso</path>
+		<name>Halo Wars</name>
+		<desc>The year is 2531, twenty years prior to the events in Halo: Combat Evolved and the Covenant have found something on the planet Garvest. The UNSC ship "Spirit of Fire" is sent to investigate and stop whatever the enemy is up to. What the crew finds could be the only thing that stands between humanity and certain annihilation by the Covenant. Command large armies, lead them into battle, control their every move and use their abilities to gain the upper hand in combat.</desc>
+		<image>./images/Halo Wars [RF]-image.png</image>
+		<video>./videos/Halo Wars [RF]-video.mp4</video>
+		<marquee>./images/Halo Wars [RF]-marquee.png</marquee>
+		<thumbnail>./images/Halo Wars [RF]-thumb.png</thumbnail>
+		<fanart>./images/Halo Wars [RF]-fanart.jpg</fanart>
+		<rating>0.8</rating>
+		<releasedate>20090226T000000</releasedate>
+		<developer>Ensemble Studios</developer>
+		<publisher>Microsoft Studios</publisher>
+		<genre>Strategy</genre>
+		<players>6</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T100555" />
+		<scrap name="TheGamesDB" date="20231213T101446" />
+		<scrap name="HfsDB" date="20231213T080035" />
+	</game>
+	<game>
+		<path>./Games/Hasbro Family Game Night 3 [RF].iso</path>
+		<name>Hasbro Family Game Night 3</name>
+		<thumbnail>./images/Hasbro Family Game Night 3 [RF]-thumb.jpg</thumbnail>
+		<releasedate>20101026T000000</releasedate>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101447" />
+	</game>
+	<game>
+		<path>./Games/Hasbro Family Game Night 4 [NTSCU][NTSCJ].iso</path>
+		<name>Hasbro Family Game Night</name>
+		<thumbnail>./images/Hasbro Family Game Night 4 [NTSCU][NTSCJ]-thumb.jpg</thumbnail>
+		<releasedate>20091110T000000</releasedate>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101449" />
+	</game>
+	<game>
+		<path>./Games/Hasbro Family Game Night [NTSCU].iso</path>
+		<name>Hasbro Family Game Night 3</name>
+		<thumbnail>./images/Hasbro Family Game Night [NTSCU]-thumb.jpg</thumbnail>
+		<releasedate>20101026T000000</releasedate>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101450" />
+	</game>
+	<game>
+		<path>./Games/Heavy Fire Shattered Spear [RF].iso</path>
+		<name>Heavy Fire: Shattered Spear</name>
+		<desc>Heavy Fire is a series of on-rails arcade shooter video games developed by Polish video game developer Teyon between 2010 and 2011. The series includes four games: Heavy Fire: Special Operations (2010), Heavy Fire: Black Arms (2011), Heavy Fire: Afghanistan (2011), and Heavy Fire: Shattered Spear (2011).</desc>
+		<thumbnail>./images/Heavy Fire Shattered Spear [RF]-thumb.jpg</thumbnail>
+		<releasedate>20130129T000000</releasedate>
+		<developer>Mastiff</developer>
+		<genre>Shooter</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101451" />
+	</game>
+	<game>
+		<path>./Games/Hellboy The Science of Evi [RF].iso</path>
+		<name>Hellboy The Science of Evi [RF]</name>
+		<scrap name="TheGamesDB" date="20231213T101451" />
+	</game>
+	<game>
+		<path>./Games/Hunted The Demons Forge [NTSCU].iso</path>
+		<name>Hunted: The Demon's Forge</name>
+		<desc>A brave duo adventures through a violent land of dark fantasy in Hunted: The Demon's Forge. Gamers can engage in third-person 3D combat, or play the game as a shooter. Two-player co-op is available throughout the adventure, with one taking the role of the powerful swordsman, Caddoc, and the other controlling the agile archer, E'lara. Some situations require teamwork to overcome. As one character fights, the other can cast "battle charge" spells to boost combat effectiveness. Players must outwit cunning traps and out-fight ferocious monsters to conquer the dungeons and ruins that hide the keys to their success. As the story unfolds, terrible creatures begin to appear across the countryside, and innocent villagers begin to disappear. The two fortune-seeking heroes are hired to find the missing townsfolk, and follow their quest into a realm of death and despair. Developed by inXile Entertainment, Hunted: The Demon's Forge is the studio's second major console and computer game release, following the 2004 remake of Brian Fargo's The Bard's Tale.</desc>
+		<thumbnail>./images/Hunted The Demons Forge [NTSCU]-thumb.jpg</thumbnail>
+		<releasedate>20110531T000000</releasedate>
+		<developer>inXile Entertainment, Inc.</developer>
+		<publisher>Bethesda Softworks</publisher>
+		<genre>Action, Adventure</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101452" />
+	</game>
+	<game>
+		<path>./Games/Import Tuner Challenge [PAL][NTSCU].iso</path>
+		<name>Import Tuner Challenge</name>
+		<desc>Import Tuner Challenge is the international title for Shutokō Battle X (or Shutokou Battle X), a racing game published by Ubisoft and developed by Genki for the Xbox 360. It is the final main installment in the decade running Shutokō Battle series of games known as Tokyo Xtreme Racer in North America and Tokyo Highway Challenge in Europe, and was the last Genki-developed video game. Despite being the last Shutokou Battle game, this is the only Shutokou Battle game to be on the Microsoft console.</desc>
+		<marquee>./images/Import Tuner Challenge [PAL][NTSCU]-marquee.png</marquee>
+		<thumbnail>./images/Import Tuner Challenge [PAL][NTSCU]-thumb.jpg</thumbnail>
+		<releasedate>20060926T000000</releasedate>
+		<developer>Genki</developer>
+		<publisher>Ubisoft Entertainment</publisher>
+		<genre>Racing</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101455" />
+	</game>
+	<game>
+		<path>./Games/Injustice Gods Among Us Ultimate Edition [RF].iso</path>
+		<name>Injustice: Gods Among Us - Ultimate Edition</name>
+		<desc>Injustice: Gods Among Us is a fighting video game based upon the fictional universe of DC Comics. The game was developed by NetherRealm Studios and published by Warner Bros. Interactive Entertainment for the PlayStation 3, Xbox 360, and Wii U. It was released in April 2013 in North America, Europe, and Australia, and June 2013 in Japan. An expanded version of the game, titled Injustice: Gods Among Us – Ultimate Edition, was released in November 2013 for the PlayStation 3, PlayStation 4, PlayStation Vita, Xbox 360, and Microsoft Windows. A free-to-play mobile app based on Injustice was also released for Android and iOS devices. A prequel comic book series of the same name, written by Tom Taylor, was released beginning in January 2013.
+
+Players select one of several characters from the DC Universe (consisting of both villains and heroes), to engage in combat, aiming to knock out their opponent. The game is set in a 2.5D environment: while character models and backgrounds are rendered in three-dimensional graphics, the characters are restricted to fight within a two-dimensional space. Injustice builds upon several aspects from NetherRealm Studios' previous title, Mortal Kombat, including its controls, game mechanics, narrative-driven campaign, and online functionality.
+
+The storyline is set in a parallel universe within the DC Comics' Multiverse. In this reality, Superman becomes a tyrant and establishes a new world order after the Joker tricks him into killing Lois Lane and destroying Metropolis with a nuclear bomb. In an effort to stop this, Batman summons counterparts of the League's members from another universe to join his insurgency and end the totalitarian regime. The game received positive reviews from critics, who praised its story, gameplay mechanics, and use of the DC Comics license. Injustice became the highest selling game in the United States and United Kingdom during the month of its release. The game also won several awards for "Best Fighting Game" in 2013. A sequel, Injustice 2, was released in May 2017.</desc>
+		<thumbnail>./images/Injustice Gods Among Us Ultimate Edition [RF]-thumb.jpg</thumbnail>
+		<releasedate>20131112T000000</releasedate>
+		<developer>NetherRealm Studios</developer>
+		<publisher>WB Games</publisher>
+		<genre>Action, Fighting</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101455" />
+	</game>
+	<game>
+		<path>./Games/James Bond 007 Blood Stone [RF].iso</path>
+		<name>007: Blood Stone</name>
+		<desc>James Bond 007: Blood Stone features the likeness and voice talent of Daniel Craig, Joss Stone and Judi Dench and features an epic, original story developed by legendary screenwriter Bruce Feirstein. Players can engage in cover-based firefights, lethal hand-to-hand combat and speed their way through explosive adrenaline-fueled driving sequences as they embark on a global chase leading to action on land and sea through Athens, Istanbul, Monaco and Bangkok. Gamers can also feel what it is like to be a 00 agent, as they take the battle online in several robust 16-person multi-player modes that require skill, teamwork and strategy as players compete in matches that will have spies battling mercenaries.</desc>
+		<thumbnail>./images/James Bond 007 Blood Stone [RF]-thumb.jpg</thumbnail>
+		<fanart>./images/James Bond 007 Blood Stone [RF]-fanart.jpg</fanart>
+		<releasedate>20101102T000000</releasedate>
+		<developer>Bizarre Creations, Ltd.</developer>
+		<publisher>Activision</publisher>
+		<genre>Action, Shooter</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101457" />
+	</game>
+	<game>
+		<path>./Games/Jeopardy [NTSCU].iso</path>
+		<name>Jeopardy!</name>
+		<thumbnail>./images/Jeopardy [NTSCU]-thumb.jpg</thumbnail>
+		<releasedate>20121025T000000</releasedate>
+		<developer>Pipeworks Software, Inc.</developer>
+		<publisher>THQ</publisher>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101458" />
+	</game>
+	<game>
+		<path>./Games/Juiced 2 Hot Imports Nights [RF].iso</path>
+		<name>Juiced 2 Hot Imports Nights [RF]</name>
+		<scrap name="TheGamesDB" date="20231213T101458" />
+	</game>
+	<game>
+		<path>./Games/Kane &amp; Lynch 2 Dog Days [RF].iso</path>
+		<name>Kane &amp; Lynch 2 DOg Days Limited Edition - (PAL)</name>
+		<thumbnail>./images/Kane &amp; Lynch 2 Dog Days [RF]-thumb.jpg</thumbnail>
+		<releasedate>20100101T000000</releasedate>
+		<developer>IO Interactive</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Action, Shooter</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101459" />
+	</game>
+	<game>
+		<path>./Games/Kane &amp; Lynch Dead Men [RF].iso</path>
+		<name>Kane &amp; Lynch: Dead Men</name>
+		<desc>Kane &amp; Lynch: Dead Men is a 2007 third-person shooter video game developed by IO Interactive and published by Eidos Interactive in North America and PAL regions, and Spike in Japan, for Microsoft Windows, PlayStation 3 and Xbox 360. The mobile phone version was developed by Kiloo and published by Eidos Mobile. The game was received with mixed to positive reviews, and spawned a sequel, Kane &amp; Lynch 2: Dog Days. As of January 11, 2008, the game has sold over 1 million copies.[1]</desc>
+		<marquee>./images/Kane &amp; Lynch Dead Men [RF]-marquee.png</marquee>
+		<thumbnail>./images/Kane &amp; Lynch Dead Men [RF]-thumb.jpg</thumbnail>
+		<releasedate>20071113T000000</releasedate>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101501" />
+	</game>
+	<game>
+		<path>./Games/King of Fighters 13 [RF].iso</path>
+		<name>King of Fighters 13 [RF]</name>
+		<scrap name="TheGamesDB" date="20231213T101502" />
+	</game>
+	<game>
+		<path>./Games/Kung Fu Panda [RF].iso</path>
+		<name>Kung Fu Panda: Showdown of Legendary Legends </name>
+		<thumbnail>./images/Kung Fu Panda [RF]-thumb.jpg</thumbnail>
+		<releasedate>20150728T000000</releasedate>
+		<developer>Little Orbit</developer>
+		<publisher>Little Orbit</publisher>
+		<genre>Fighting</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101504" />
+	</game>
+	<game>
+		<path>./Games/Left 4 Dead GOTY [RF].iso</path>
+		<name>Left 4 Dead GOTY [RF]</name>
+		<scrap name="TheGamesDB" date="20231213T101504" />
+	</game>
+	<game>
+		<path>./Games/Lego Dimensions [RF].iso</path>
+		<name>LEGO Dimensions</name>
+		<desc>When a mysterious and powerful vortex suddenly appears in various LEGO worlds, different characters from DC Comics, The Lord of the Rings and The LEGO Movie are swept away. To save their friends, Batman, Gandalf and Wyldstyle bravely jump into the vortex and quickly find themselves fighting to save all of LEGO humanity. Let creativity be the guide to a building and gaming adventure - journey through unexpected worlds and team-up with unlikely allies on the quest to defeat the evil Lord Vortech. Play with different from different worlds together in one LEGO videogame, and use each other's vehicles and gadgets in a way never before possible. LEGO Bad Cop driving the DeLorean Time Machine. Why not?! The LEGO Ninja go Masters of Spinjitsu fighting alongside Wonder Woman...yes, please! Get ready to break the rules, because the only rule with LEGO Dimensions is that there are no rules.</desc>
+		<thumbnail>./images/Lego Dimensions [RF]-thumb.jpg</thumbnail>
+		<releasedate>20150927T000000</releasedate>
+		<developer>WB Games</developer>
+		<publisher>WB Games</publisher>
+		<genre>Action, Adventure, Family</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101506" />
+	</game>
+	<game>
+		<path>./Games/Lego Indiana Jones 2 [RF].iso</path>
+		<name>LEGO Indiana Jones 2: The Adventure Continues</name>
+		<desc>Players return to a virtual playroom re-creation of the iconic movie series in LEGO Indiana Jones 2: The Adventure Continues. As in LEGO Indy's Original Adventures, gamers play through famous scenes from the films, with 3D characters and settings created completely from colorful LEGO building blocks. The 2009 sequel game features scenes from all four feature films, including the most recent Indiana Jones movie, The Kingdom of the Crystal Skull. Some characters have new moves since the first game, and new vehicles are available to re-create well-known movie scenes on boats, motorcycles, and mine carts. In a feature new to the LEGO movie game series, players can also create their own levels, using an almost unlimited supply of blocks. Custom levels can be built completely from scratch, or created by altering and adding to the pre-designed levels included in the game. As in the Indiana Jones original and other LEGO movie games (LEGO Star Wars, LEGO Harry Potter, LEGO Batman), players can collect objects hidden throughout the game world to unlock playable characters. More than 60 hidden artifacts in The Adventure Continues can be collected and used to unlock Crystal Skull characters, such as Marion Ravenwood and Mutt Williams, as well as supporting characters and villains from throughout the film series, such as Short Round and Indy's father, Dr. Henry Jones Sr.</desc>
+		<marquee>./images/Lego Indiana Jones 2 [RF]-marquee.png</marquee>
+		<thumbnail>./images/Lego Indiana Jones 2 [RF]-thumb.jpg</thumbnail>
+		<releasedate>20091117T000000</releasedate>
+		<developer>Traveller's Tales Ltd.</developer>
+		<publisher>LucasArts Entertainment Company LLC</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101508" />
+	</game>
+	<game>
+		<path>./Games/Lego Indiana Jones [RF].iso</path>
+		<name>LEGO Indiana Jones 2: The Adventure Continues</name>
+		<desc>Players return to a virtual playroom re-creation of the iconic movie series in LEGO Indiana Jones 2: The Adventure Continues. As in LEGO Indy's Original Adventures, gamers play through famous scenes from the films, with 3D characters and settings created completely from colorful LEGO building blocks. The 2009 sequel game features scenes from all four feature films, including the most recent Indiana Jones movie, The Kingdom of the Crystal Skull. Some characters have new moves since the first game, and new vehicles are available to re-create well-known movie scenes on boats, motorcycles, and mine carts. In a feature new to the LEGO movie game series, players can also create their own levels, using an almost unlimited supply of blocks. Custom levels can be built completely from scratch, or created by altering and adding to the pre-designed levels included in the game. As in the Indiana Jones original and other LEGO movie games (LEGO Star Wars, LEGO Harry Potter, LEGO Batman), players can collect objects hidden throughout the game world to unlock playable characters. More than 60 hidden artifacts in The Adventure Continues can be collected and used to unlock Crystal Skull characters, such as Marion Ravenwood and Mutt Williams, as well as supporting characters and villains from throughout the film series, such as Short Round and Indy's father, Dr. Henry Jones Sr.</desc>
+		<marquee>./images/Lego Indiana Jones [RF]-marquee.png</marquee>
+		<thumbnail>./images/Lego Indiana Jones [RF]-thumb.jpg</thumbnail>
+		<releasedate>20091117T000000</releasedate>
+		<developer>Traveller's Tales Ltd.</developer>
+		<publisher>LucasArts Entertainment Company LLC</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101511" />
+	</game>
+	<game>
+		<path>./Games/LEGO Jurassic World [RF].iso</path>
+		<name>LEGO Jurassic World</name>
+		<desc>Lego Jurassic World is a Lego-themed action-adventure video game developed by TT Fusion and published by Warner Bros. Interactive Entertainment, which was released for Microsoft Windows, Nintendo 3DS, OS X, PlayStation 3, PlayStation 4, PlayStation Vita, Wii U, Xbox 360, and Xbox One. It adapts the plots of all four films in the Jurassic Park franchise, and is part of a series of Lego-themed video games. The game was released on 12 June 2015 to coincide with the theatrical release of Jurassic World. Lego Jurassic World was later released for Android and iOS on 31 March 2016.</desc>
+		<thumbnail>./images/LEGO Jurassic World [RF]-thumb.jpg</thumbnail>
+		<releasedate>20150612T000000</releasedate>
+		<developer>TT Fusion</developer>
+		<publisher>WB Games</publisher>
+		<genre>Action, Adventure</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101512" />
+	</game>
+	<game>
+		<path>./Games/Lego Marvels Avengers [RF].iso</path>
+		<name>LEGO Marvel's Avengers</name>
+		<desc>Avengers Assemble! Experience the first console videogame featuring characters and storylines from the blockbuster film Marvel’s The Avengers and the much anticipated sequel Marvel’s Avengers: Age of Ultron, and more. Play as the most powerful Super Heroes in their quest to save humanity.</desc>
+		<thumbnail>./images/Lego Marvels Avengers [RF]-thumb.png</thumbnail>
+		<releasedate>20160126T000000</releasedate>
+		<developer>TT Games</developer>
+		<publisher>WB Games</publisher>
+		<genre>Action, Adventure</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101514" />
+	</game>
+	<game>
+		<path>./Games/Lego Pirates of the Caribbean [RF].iso</path>
+		<name>LEGO Pirates of the Caribbean: The Video Game</name>
+		<desc>Lego Pirates of the Caribbean: The Video Game is a video game in the Lego video game franchise, developed by Traveller's Tales and published by Disney Interactive Studios and the first Lego game from a Disney movie. Released in May 2011 to coincide with the release of Pirates of the Caribbean: On Stranger Tides, the game is based on the Pirates of the Caribbean film series and its storyline covers all four films. The game is available on the Wii, Nintendo 3DS, Nintendo DS, Microsoft Windows, Xbox 360, PlayStation 3, Mac OS X and PlayStation Portable.[1]</desc>
+		<marquee>./images/Lego Pirates of the Caribbean [RF]-marquee.png</marquee>
+		<thumbnail>./images/Lego Pirates of the Caribbean [RF]-thumb.jpg</thumbnail>
+		<fanart>./images/Lego Pirates of the Caribbean [RF]-fanart.jpg</fanart>
+		<releasedate>20110510T000000</releasedate>
+		<developer>Traveller's Tales Ltd.</developer>
+		<publisher>Disney Interactive</publisher>
+		<genre>Action, Adventure</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101516" />
+	</game>
+	<game>
+		<path>./Games/Lego Star Wars The Force Awakens [RF].iso</path>
+		<name>LEGO Star Wars: The Force Awakens</name>
+		<desc>In LEGO Star Wars: The Force Awakens, players relive the epic action from the blockbuster film Star Wars: The Force Awakens, retold through the clever and witty LEGO lens.
+The game will also feature exclusive playable content that bridges the story gap between Star Wars Episode VI: Return of the Jedi and Star Wars: The Force Awakens.
+LEGO Star Wars: The Force Awakens also introduces Multi-Builds and Blaster Battles to the LEGO videogame universe.
+With Multi-Builds, use available LEGO bricks to open up new paths, then break them apart and re-build them again to open up another! And another!
+During Blaster Battles, use your surroundings as cover to stand against the First Order.</desc>
+		<thumbnail>./images/Lego Star Wars The Force Awakens [RF]-thumb.jpg</thumbnail>
+		<releasedate>20160628T000000</releasedate>
+		<developer>TT Games</developer>
+		<publisher>WB Games</publisher>
+		<genre>Action, Adventure</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101517" />
+	</game>
+	<game>
+		<path>./Games/Lego The Hobbit [RF].iso</path>
+		<name>LEGO The Hobbit</name>
+		<desc>From the makers of the immensely popular LEGO® The Lord of the Rings, comes LEGO The Hobbit, inspired by the first two films inThe Hobbit Trilogy: The Hobbit: An Unexpected Journey and the upcoming The Hobbit: Desolation of Smaug, productions of New Line Cinema and Metro-Goldwyn-Mayer Pictures (MGM) as well as the collection of LEGO The Hobbit constructions sets. The interactive game of LEGO The Hobbit allows gamers to play along their favorite scenes from the films and follows the Hobbit Bilbo Baggins as he is recruited by the Wizard Gandalf to aid Thorin Oakenshield and his Company of Dwarves. Bilbo leaves the comforts of the Shire on a journey through Middle-earth to help the Dwarves reclaim their lost Kingdom of Erebor within the Lonely Mountain. Along the way, he is introduced to ravenous Trolls, dangerous Orcs and, of course, Gollum and his precious Ring. Players will utilize and combine the Dwarves' unique abilities - often with hilarious results - to solve the most diverse Quests of any LEGO videogame to date.</desc>
+		<marquee>./images/Lego The Hobbit [RF]-marquee.png</marquee>
+		<thumbnail>./images/Lego The Hobbit [RF]-thumb.jpg</thumbnail>
+		<releasedate>20140417T000000</releasedate>
+		<developer>WB Games</developer>
+		<publisher>WB Games</publisher>
+		<genre>Action, Adventure</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101518" />
+	</game>
+	<game>
+		<path>./Games/Lego The Lord of the Rings [RF].iso</path>
+		<name>LEGO The Lord of the Rings</name>
+		<desc>LEGO The Lord of the Rings takes players along on the adventures of Frodo Baggins and his unlikely fellowship as they set out on a perilous journey to destroy The One Ring and save Middle-earth. Kids, tweens, teens and parents can traverse the Misty Mountains, explore the Mines of Moria, knock on the Black Gate of Mordor, and partake in epic battles with Orcs, Uruk-hai, the Balrog and other fearsome foes while harnessing the humor and imagination of LEGO gameplay to solve puzzles and explore Middle-earth. Players will take on the form of their favorite members of the fellowship – Frodo the Hobbit, Aragorn the Ranger, Gandalf the Wizard, Legolas the Elf, Gimli the Dwarf, Boromir a Man of Gondor, and Frodo's Hobbit friends Sam, Merry and Pippin – as they relive the most momentous events from the films.</desc>
+		<marquee>./images/Lego The Lord of the Rings [RF]-marquee.png</marquee>
+		<thumbnail>./images/Lego The Lord of the Rings [RF]-thumb.jpg</thumbnail>
+		<fanart>./images/Lego The Lord of the Rings [RF]-fanart.jpg</fanart>
+		<releasedate>20121113T000000</releasedate>
+		<developer>Traveller's Tales Ltd.</developer>
+		<publisher>WB Games</publisher>
+		<genre>Action, Adventure</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101521" />
+	</game>
+	<game>
+		<path>./Games/Leisure Suit Larry Box Office Bust [RF].iso</path>
+		<name>Leisure Suit Larry: Box Office Bust</name>
+		<desc>The Leisure Suit Larry Box Office Bust video game gives gamers an all-access pass to the glitz, glamour, and gorgeous women of Tinseltown. In this third-person adventure game, Larry takes a summer job working on his Uncle Larry's movie lot doing odd jobs and trying to uncover a mole from another studio who threatens to air their dirty laundry in the tabloids. Leisure Suit Larry Box Office Bust is a rollicking, innuendo-laden lampoon of Hollywood that features open-world sandbox gameplay that uses exploration, platforming, racing, and puzzle-solving to complete missions.</desc>
+		<thumbnail>./images/Leisure Suit Larry Box Office Bust [RF]-thumb.jpg</thumbnail>
+		<releasedate>20090331T000000</releasedate>
+		<developer>Team17 Software Limited</developer>
+		<publisher>Funsta</publisher>
+		<genre>Adventure, Puzzle</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101522" />
+	</game>
+	<game>
+		<path>./Games/Lost Planet 3 [RF].iso</path>
+		<name>Lost Planet 2</name>
+		<desc>A decade has passed since the events of Lost Planet, and the face of E.D.N. III has changed dramatically. Terraforming efforts have been successful and the ice has begun to melt, giving way to lush tropical jungles and harsh unforgiving deserts. Players will enter this new environment and follow the exploits of their own customized snow pirate on their quest to seize control of the changing planet. 
+
+Players control their heroes across 6 interconnected episodes, creating a truly unique interactive experience that changes depending upon the actions of the players involved. With this concept, players will have the opportunity to engage in the story in a much more dynamic way as plot threads evolve from different players' perspectives. Beyond the deep single player mode, Lost Planet 2 is loaded with extensive multiplayer modes. The intense and action packed campaign mode comes with the ability to form teams of up to 4 players online to clear mission objectives with friends.</desc>
+		<marquee>./images/Lost Planet 3 [RF]-marquee.png</marquee>
+		<thumbnail>./images/Lost Planet 3 [RF]-thumb.jpg</thumbnail>
+		<fanart>./images/Lost Planet 3 [RF]-fanart.jpg</fanart>
+		<releasedate>20100511T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101524" />
+	</game>
+	<game>
+		<path>./Games/Lucha Libre AAA Heroes of the Ring [NTSCU].iso</path>
+		<name>Lucha Libre AAA Heroes of the Ring [NTSCU]</name>
+		<scrap name="TheGamesDB" date="20231213T101525" />
+	</game>
+	<game>
+		<path>./Games/Madagascar 3 [RF].iso</path>
+		<name>Madagascar 3: The Video Game</name>
+		<desc>Madagascar 3: Europe's Most Wanted is a 2012 American 3D computer-animated comedy film, produced by DreamWorks Animation and distributed by Paramount Pictures.1 It is the third installment of the Madagascar series, a sequel to Madagascar: Escape 2 Africa, and it is the first in the series to be released in 3D. The film is directed by Eric Darnell, Tom McGrath and Conrad Vernon. Its world premiere was held at the 2012 Cannes Film Festival on May 18, 2012.
+
+Alex, Marty, Melman and Gloria are still struggling to get home to New York. This time, their journey takes them to Europe, where they are relentlessly pursued by the murderous Monaco-based French Animal Control officer Captain Chantel Dubois (Frances McDormand). As a means of getting passage to North America, the zoo animals join a circus, where they become close friends with the animal performers, especially Gia (Jessica Chastain), Vitaly (Bryan Cranston) and Stefano (Martin Short). Together, they spectacularly revitalize the business and along the way find themselves reconsidering where their true home really is.
+
+The film was released on June 8, 2012, to critical and commercial success; it is the best-reviewed film in the series, with a 79% "Certified Fresh" approval rating on the review aggregate site Rotten Tomatoes.[5] It is also the highest-grossing Madagascar film with a worldwide gross of over $746 million.[4] A spin-off/sequel titled Penguins of Madagascar was released on November 26, 2014. A sequel, Madagascar 4, was announced for 2018, but it was removed from its schedule due to the studio's restructuring.[6]</desc>
+		<marquee>./images/Madagascar 3 [RF]-marquee.png</marquee>
+		<thumbnail>./images/Madagascar 3 [RF]-thumb.jpg</thumbnail>
+		<releasedate>20120605T000000</releasedate>
+		<publisher>D3 Publisher Inc.</publisher>
+		<genre>Adventure, Family</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101526" />
+	</game>
+	<game>
+		<path>./Games/Marvel Super Hero Squad Comic Combat [RF].iso</path>
+		<name>Marvel Super Hero Squad: Comic Combat</name>
+		<desc>Marvel Super Hero Squad: Comic Combat is a video game that uses the uDraw GameTablet, developed by Griptonite Games, and published by THQ and Vivendi Games. The game is the third in the Marvel Super Hero Squad franchise, acting as the sequel to two video games Marvel Super Hero Squad and Marvel Super Hero Squad: The Infinity Gauntlet. It was released on November 15, 2011 for the uDraw GameTablet, PlayStation 3, Xbox 360, and Nintendo Wii game systems.[1]
+
+Based on characters from Marvel comic books such as Thor and Iron Man, Marvel Super Hero Squad: Comic Combat revolves around Doctor Doom and his minions planning to find a way into the real world to steal the uDraw GameTablet and use it to take over the comic book universe.</desc>
+		<thumbnail>./images/Marvel Super Hero Squad Comic Combat [RF]-thumb.jpg</thumbnail>
+		<releasedate>20111115T000000</releasedate>
+		<developer>Griptonite Games</developer>
+		<publisher>THQ</publisher>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101527" />
+	</game>
+	<game>
+		<path>./Games/Marvel Super Hero Squad Infinity Gauntlet [RF].iso</path>
+		<name>Marvel Super Hero Squad: The Infinity Gauntlet</name>
+		<desc>Marvel Super Hero Squad: The Infinity Gauntlet is a continuation of the video game Marvel Super Hero Squad and it was released on November 16, 2010. Similar to the first game, it features cartoonish Super-deformed versions of the Marvel Comics characters, as seen in the Marvel Super Hero Squad toy line, as well as the television show. The 3DS version was released on October 11, 2011.[1]</desc>
+		<thumbnail>./images/Marvel Super Hero Squad Infinity Gauntlet [RF]-thumb.jpg</thumbnail>
+		<releasedate>20101116T000000</releasedate>
+		<developer>Griptonite Games</developer>
+		<publisher>THQ</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101528" />
+	</game>
+	<game>
+		<path>./Games/Marvel Ultimate Alliance Gold Edition [RF].iso</path>
+		<name>Marvel Ultimate Alliance Gold Edition [RF]</name>
+		<scrap name="TheGamesDB" date="20231213T101528" />
+	</game>
+	<game>
+		<path>./Games/Muchi Muchi Pork &amp; Pink Sweets [RF].iso</path>
+		<name>Muchi Muchi Pork! &amp; Pink Sweets</name>
+		<thumbnail>./images/Muchi Muchi Pork &amp; Pink Sweets [RF]-thumb.jpg</thumbnail>
+		<rating>0</rating>
+		<releasedate>20110224T000000</releasedate>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231004T200945" />
+		<scrap name="TheGamesDB" date="20231213T101529" />
+		<scrap name="HfsDB" date="20231006T115629" />
+	</game>
+	<game>
+		<path>./Games/Project Gotham Racing 4 [RF].iso</path>
+		<name>Project Gotham Racing 4</name>
+		<desc>Project Gotham Racing 4 is the fourth title in the main Project Gotham Racing series, developed by Bizarre Creations and published by Microsoft Game Studios.</desc>
+		<thumbnail>./images/Project Gotham Racing 4 [RF]-thumb.jpg</thumbnail>
+		<fanart>./images/Project Gotham Racing 4 [RF]-fanart.jpg</fanart>
+		<releasedate>20071118T000000</releasedate>
+		<developer>Bizarre Creations, Ltd.</developer>
+		<publisher>Microsoft Studios</publisher>
+		<genre>Racing</genre>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101531" />
+	</game>
+	<game>
+		<path>./Games/Pure [RF].iso</path>
+		<name>Pure</name>
+		<desc>Developed by Black Rock Studio, Disney Interactive Studios' award-winning development studio in Brighton, England, Pure takes off-road racing to a new level. Featuring vertigo-inducing massive aerial jumps and spectacular airborne tricks in photo-realistic real-world locations all over the globe, Pure delivers heart-pounding experiences unique to the genre.</desc>
+		<thumbnail>./images/Pure [RF]-thumb.jpg</thumbnail>
+		<fanart>./images/Pure [RF]-fanart.jpg</fanart>
+		<releasedate>20080923T000000</releasedate>
+		<developer>Black Rock Studio</developer>
+		<publisher>Disney Interactive</publisher>
+		<genre>Racing, Sports</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101535" />
+	</game>
+	<game>
+		<path>./Games/Quake 4 [RF][DVD2][Bonus].iso</path>
+		<name>Quake 4</name>
+		<desc>Quake 4 is a first-person shooter video game, the fourth title in the series of Quake series. The game was developed by Raven Software and published by Activision. Raven Software collaborated with id Software, the creators and developers of preceding Quake games. In this case, id Software supervised the development of the game as well as providing the Doom 3 engine, now referred to as "id Tech 4" and released under the GNU General Public License on 22 November 2011, upon which it was built. Quake 4 went gold in early October 2005 and was released on 18 October 2005 for Microsoft Windows and later for Linux, Xbox 360 and OS X. A special DVD Collectors Edition also exists, including promotional material and the game Quake II with its expansions, The Reckoning and Ground Zero. The Xbox 360 version of Quake 4 is based on the Special Collectors Edition, and therefore also includes Quake II. On 4 August 2011 the game was made available through Steam.
+
+Plotwise, the game is a sequel to Quake II and takes place during the same war as Enemy Territory: Quake Wars. Compared to other titles in the Quake series, Quake 4 has an increased emphasis on the single-player portion of the game.[6] A multiplayer mode is available, but it does not involve playable bots like Quake III Arena, without 3rd party modifications.[7]</desc>
+		<thumbnail>./images/Quake 4 [RF][DVD2][Bonus]-thumb.jpg</thumbnail>
+		<releasedate>20051118T000000</releasedate>
+		<developer>id Software, Raven Software</developer>
+		<publisher>Activision, Bethesda Softworks</publisher>
+		<genre>Shooter</genre>
+		<players>8</players>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101536" />
+	</game>
+	<game>
+		<path>./Games/Rage [NTSCU][DVD2].iso</path>
+		<name>RAGE</name>
+		<desc>Rage is a first-person shooter video game developed by id Software. It uses the company's id Tech 5 game engine.[1] Released in October 2011, the game was first shown as a tech demo on June 11, 2007 at the Apple Worldwide Developers Conference (WWDC),[4] and was officially announced on August 2, 2007 at QuakeCon. On the same day, a trailer for the game was released by GameTrailers.[5]
+
+The game is set in a post-apocalyptic near future, following the impact of the asteroid 99942 Apophis on Earth.[6] The game has been described as similar to the movie Mad Max 2 and to video games such as Fallout and Borderlands.[7] Influences on the driving and racing gameplay include games such as MotorStorm and Burnout.[8] Players can upgrade their cars with racing certificates won from races.[8] Upon its release, the game received fair praise from critics and reviewers.</desc>
+		<marquee>./images/Rage [NTSCU][DVD2]-marquee.png</marquee>
+		<thumbnail>./images/Rage [NTSCU][DVD2]-thumb.jpg</thumbnail>
+		<fanart>./images/Rage [NTSCU][DVD2]-fanart.jpg</fanart>
+		<releasedate>20111004T000000</releasedate>
+		<developer>id Software</developer>
+		<genre>Action, Racing, Shooter</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101542" />
+	</game>
+	<game>
+		<path>./Games/Rage [NTSCU][DVD3].iso</path>
+		<name>RAGE</name>
+		<desc>Rage is a first-person shooter video game developed by id Software. It uses the company's id Tech 5 game engine.[1] Released in October 2011, the game was first shown as a tech demo on June 11, 2007 at the Apple Worldwide Developers Conference (WWDC),[4] and was officially announced on August 2, 2007 at QuakeCon. On the same day, a trailer for the game was released by GameTrailers.[5]
+
+The game is set in a post-apocalyptic near future, following the impact of the asteroid 99942 Apophis on Earth.[6] The game has been described as similar to the movie Mad Max 2 and to video games such as Fallout and Borderlands.[7] Influences on the driving and racing gameplay include games such as MotorStorm and Burnout.[8] Players can upgrade their cars with racing certificates won from races.[8] Upon its release, the game received fair praise from critics and reviewers.</desc>
+		<marquee>./images/Rage [NTSCU][DVD3]-marquee.png</marquee>
+		<thumbnail>./images/Rage [NTSCU][DVD3]-thumb.jpg</thumbnail>
+		<fanart>./images/Rage [NTSCU][DVD3]-fanart.jpg</fanart>
+		<releasedate>20111004T000000</releasedate>
+		<developer>id Software</developer>
+		<genre>Action, Racing, Shooter</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101548" />
+	</game>
+	<game>
+		<path>./Games/Raiden Fighter Aces [NTSCU].iso</path>
+		<name>Raiden Fighters Aces</name>
+		<desc>A compilation of games in the Raiden Fighters franchise. All three arcade classics have been faithfully recreated in this ultimate collection. A new Training mode lets you modify every aspect your ships and wingmen, skip to any level, or play in slow-motion. Comprehensive screen and control settings let you play each game full-screen as a side-scroller, or even vertically on a rotated 4:3 display! Play 2-player co-op games offline, or play Arcade Mode as a lone-wolf, posting high-scores and gameclips to Xbox Live.</desc>
+		<thumbnail>./images/Raiden Fighter Aces [NTSCU]-thumb.png</thumbnail>
+		<releasedate>20090512T000000</releasedate>
+		<developer>Gulti</developer>
+		<publisher>Valcon Games LLC</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101549" />
+	</game>
+	<game>
+		<path>./Games/Raiden IV [NTSCU].iso</path>
+		<name>Raiden IV</name>
+		<desc>THE ROAR OF THUNDER IS BACK! THE SERIES THAT CHANGED THE HISTORY OF ARCADE SHOOT'EM UPS IS COMING TO XBOX 360! Instill fear in your enemies with devastating attacks and earn the acclaimed title of Master Ace!</desc>
+		<thumbnail>./images/Raiden IV [NTSCU]-thumb.jpg</thumbnail>
+		<releasedate>20090908T000000</releasedate>
+		<developer>Moss</developer>
+		<publisher>UFO Interactive Games, Inc.</publisher>
+		<genre>Shooter</genre>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101551" />
+	</game>
+	<game>
+		<path>./Games/Rainbow Six Vegas 2 [RF].iso</path>
+		<name>Rainbow Six Vegas 2 Limited Edition</name>
+		<thumbnail>./images/Rainbow Six Vegas 2 [RF]-thumb.jpg</thumbnail>
+		<releasedate>19700101T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Action, Shooter</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101554" />
+	</game>
+	<game>
+		<path>./Games/Ratatouille [RF][ENG].iso</path>
+		<name>Disney/Pixar Ratatouille</name>
+		<desc>Ratatouille is a video game based on the Pixar film, Ratatouille (2007). It was developed at Heavy Iron Studios and released by THQ, Nintendo (Gamecube only) and SCEA (PS2 and PS3 only) on June 26, 2007, two days before the first theatrical release in Russia. Ratatouille was initially released on twelve systems—Wii,[2] Nintendo DS, PlayStation 3, PlayStation 2, PSP, Xbox 360, Xbox, Nintendo GameCube, Game Boy Advance, Windows, Mac OS X, and J2ME—making it the most comprehensive simultaneous cross-platform launch in THQ's history.</desc>
+		<marquee>./images/Ratatouille [RF][ENG]-marquee.png</marquee>
+		<thumbnail>./images/Ratatouille [RF][ENG]-thumb.jpg</thumbnail>
+		<releasedate>20070626T000000</releasedate>
+		<developer>Heavy Iron Studios</developer>
+		<publisher>THQ</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101556" />
+	</game>
+	<game>
+		<path>./Games/Rayman Raving Rabbids [RF].iso</path>
+		<name>Rayman Raving Rabbids</name>
+		<desc>Rayman Raving Rabbids, known in French as Rayman contre les Lapins Crétins (literally meaning "Rayman against the Moronic Rabbits"), is a spinoff in the Rayman series released by the company Ubisoft as a Wii launch title. The game consists of 75 minigames. The game is primarily designed with the Wii Remote in mind, but is also available on Game Boy Advance, PlayStation 2, Microsoft Windows, Nintendo DS, and Xbox 360. Releases for PlayStation 3 and PSP of the game were planned, but were later cancelled for unknown reasons, making it the only game in the series that was released for the PlayStation 2.
+
+Ubisoft released a sequel to the game, Rayman Raving Rabbids 2, in November 2007, and released the third game in the series, Rayman Raving Rabbids: TV Party, in November 2008. The fourth game in the series, Rabbids Go Home, was released in 2009, though only on the Wii and DS systems and a fifth game, Raving Rabbids: Travel in Time, was released in 2010. A sixth game, Raving Rabbids: Alive &amp; Kicking, was released in 2011 only for Xbox 360 (which requires Kinect) and the seventh game, Rabbids Land, was released as a Wii U exclusive game on November 2012. As of April 2014, the series had sold over 14 million units worldwide.[1]</desc>
+		<thumbnail>./images/Rayman Raving Rabbids [RF]-thumb.jpg</thumbnail>
+		<fanart>./images/Rayman Raving Rabbids [RF]-fanart.jpg</fanart>
+		<releasedate>20070424T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft Entertainment</publisher>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101557" />
+	</game>
+	<game>
+		<path>./Games/Resident Evil  6 [RF][DVD1].iso</path>
+		<name>Resident Evil 5</name>
+		<desc>Produced by series veteran Jun Takeuchi, this next-generation follow-up to the terrifying series introduces the theme of escape as its core survival instinct. As Chris Redfield (former S.T.A.R.S. member and now part of the BSAA unit), your life is in danger as you strive to complete your most dangerous mission yet in a sweltering desert colony where a new breed of evil has been unleashed. Swarms of marauding evil beings will charge at you when your pulse is racing at a heart-shattering pace. Environments will play a bigger factor than ever here, using the power of next-gen systems to create a world where terror might lurk in any alcove or shadow. Powerful lighting effects overwhelm the player with mirage movement and blinding brilliance, and even in the light of day, there is no safe haven in this Resident Evil.</desc>
+		<marquee>./images/Resident Evil  6 [RF][DVD1]-marquee.png</marquee>
+		<thumbnail>./images/Resident Evil  6 [RF][DVD1]-thumb.jpg</thumbnail>
+		<fanart>./images/Resident Evil  6 [RF][DVD1]-fanart.jpg</fanart>
+		<releasedate>20090313T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shooter, Horror</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101600" />
+	</game>
+	<game>
+		<path>./Games/Resident Evil  6 [RF][DVD2].iso</path>
+		<name>Resident Evil 5</name>
+		<desc>Produced by series veteran Jun Takeuchi, this next-generation follow-up to the terrifying series introduces the theme of escape as its core survival instinct. As Chris Redfield (former S.T.A.R.S. member and now part of the BSAA unit), your life is in danger as you strive to complete your most dangerous mission yet in a sweltering desert colony where a new breed of evil has been unleashed. Swarms of marauding evil beings will charge at you when your pulse is racing at a heart-shattering pace. Environments will play a bigger factor than ever here, using the power of next-gen systems to create a world where terror might lurk in any alcove or shadow. Powerful lighting effects overwhelm the player with mirage movement and blinding brilliance, and even in the light of day, there is no safe haven in this Resident Evil.</desc>
+		<marquee>./images/Resident Evil  6 [RF][DVD2]-marquee.png</marquee>
+		<thumbnail>./images/Resident Evil  6 [RF][DVD2]-thumb.jpg</thumbnail>
+		<fanart>./images/Resident Evil  6 [RF][DVD2]-fanart.jpg</fanart>
+		<releasedate>20090313T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shooter, Horror</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101601" />
+	</game>
+	<game>
+		<path>./Games/Resident Evil Revelations 2 [RF].iso</path>
+		<name>Resident Evil: Revelations</name>
+		<desc>Taking place in 2005, between the events of Resident Evil 4 and Resident Evil 5, the action centers on BSAA (Bioterrorism Security Assessment Alliance) member Jill Valentine and introduces her new partner, Parker Luciani. The story is set principally on board a supposedly abandoned cruise ship in the Mediterranean, where Jill and Parker have been sent to search for Chris Redfield, based on his last known GPS coordinates. Far from being empty, the ship hides danger around every corner as Jill and Parker explore the confined space of the ship and must face a menacing new horror that emerges from the darkness.</desc>
+		<marquee>./images/Resident Evil Revelations 2 [RF]-marquee.png</marquee>
+		<thumbnail>./images/Resident Evil Revelations 2 [RF]-thumb.jpg</thumbnail>
+		<fanart>./images/Resident Evil Revelations 2 [RF]-fanart.jpg</fanart>
+		<releasedate>20130521T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shooter, Horror</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101603" />
+	</game>
+	<game>
+		<path>./Games/Rise of the Guardians [RF].iso</path>
+		<name>Rise of the Guardians</name>
+		<thumbnail>./images/Rise of the Guardians [RF]-thumb.jpg</thumbnail>
+		<releasedate>20121120T000000</releasedate>
+		<developer>Torus Games</developer>
+		<publisher>D3 Publisher Inc.</publisher>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101604" />
+	</game>
+	<game>
+		<path>./Games/Sacred 3 [RF].iso</path>
+		<name>Sacred 3</name>
+		<desc>Sacred 3 is a hack and slash brawler named as the third full game in the Sacred video game series, despite notable differences in both gameplay and design. Deep Silver, which acquired the license to Sacred 3 from former development studio Ascaron Entertainment, announced at Gamescom that the earliest it could publish the game would be in early 2012.[2] The game was finally released on August 1, 2014, among negative reviews and cold reception by the fans of the previous games in the franchise, because of the change in genre and alleged shallow gameplay.</desc>
+		<thumbnail>./images/Sacred 3 [RF]-thumb.jpg</thumbnail>
+		<releasedate>20140805T000000</releasedate>
+		<developer>Keen Games</developer>
+		<publisher>Deep Silver</publisher>
+		<genre>Action</genre>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101606" />
+	</game>
+	<game>
+		<path>./Games/Saint Row 2 [RF].iso</path>
+		<name>Saint Row 2 [RF]</name>
+		<scrap name="TheGamesDB" date="20231213T101606" />
+	</game>
+	<game>
+		<path>./Games/Samurai Warriors 2 Empires [PAL][NTSCU].iso</path>
+		<name>Samurai Warriors 2 Empires</name>
+		<desc>Samurai Warriors 2 Empires, the much-anticipated followup to the Tactical Action game Samurai Warriors 2 combines the most exciting aspects of Action, Fighting and Strategy games. Japan is divided into 25 warring states and it is up to you to resurrect a nation using equal amounts of strategy and strength! Before each battle, you will meet with their war council to discuss military and political affairs; then it's time for combat. Samurai Warriors 2 Empires is a tantalizing blend of strategy and true warrior action.</desc>
+		<thumbnail>./images/Samurai Warriors 2 Empires [PAL][NTSCU]-thumb.jpg</thumbnail>
+		<releasedate>20070227T000000</releasedate>
+		<developer>Omega Force</developer>
+		<publisher>Koei Co., Ltd.</publisher>
+		<genre>Action</genre>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101607" />
+	</game>
+	<game>
+		<path>./Games/Scene it Box Office Smash [RF].iso</path>
+		<name>Scene It? Box Office Smash</name>
+		<desc>Scene It? Box Office Smash brings movie and trivia fans together for a game that provides hours of laughter as you challenge your friends and family to see whose movie knowledge reigns supreme reliving some of your favorite moments from the silver screen. Continuing the franchise’s social and engaging trivia experience on the Xbox 360, Scene It? Box Office Smash features all-new questions, more high-definition (HD) movie clips and several new puzzle types, giving you a trivia game overflowing with images as well as audio and video clips from hundreds of films you know and love.
+
+The new game allows up to four teams to challenge one another from the comfort of a living room or via Xbox LIVE. With the new Xbox LIVE experience (coming November 19, 2008), Scene It? Box Office Smash lets players virtually put themselves into the game through custom avatars that respond to your play and react to one another throughout the course of the game.
+
+Features:
+
+New movies, new questions and new puzzle challenges. It’s not just trivia; it’s trivia about movies you love, with hundreds of all-new questions, audio clips, photo stills and HD movie clips never seen before in before.  Also features brand-new types of puzzle challenges that are sure to keep players guessing all night long.
+
+New online multiplayer capabilities. Play a Scene It? match over Xbox LIVE. Better than a phone call, playing over Xbox LIVE builds new memories with old friends and the opportunity to test your knowledge against friends or movie buffs around the world with several new online multiplayer modes.
+Picture yourself at the movies. With the new Xbox LIVE experience, players can literally put themselves into the game through custom characters that respond to your play and react to one another throughout the course of the game.
+More questions on Xbox LIVE. With downloadable content available via Xbox LIVE Marketplace and a content tracking system that minimizes
+question repeats, players always have a fresh play experience.
+
+Everyone gets in the game with the Big Button Pad. With the intuitive wireless Big Button Pad everyone can sit down and play.</desc>
+		<thumbnail>./images/Scene it Box Office Smash [RF]-thumb.jpg</thumbnail>
+		<releasedate>20081028T000000</releasedate>
+		<publisher>Microsoft Studios</publisher>
+		<genre>Board, Party, Quiz</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101608" />
+	</game>
+	<game>
+		<path>./Games/Shaun White Skateboarding 2008 [RF].iso</path>
+		<name>Shaun White Skateboarding</name>
+		<thumbnail>./images/Shaun White Skateboarding 2008 [RF]-thumb.jpg</thumbnail>
+		<releasedate>20101024T000000</releasedate>
+		<genre>Sports</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101609" />
+	</game>
+	<game>
+		<path>./Games/Shaun White Skateboarding 2010 [RF].iso</path>
+		<name>Shaun White Skateboarding</name>
+		<thumbnail>./images/Shaun White Skateboarding 2010 [RF]-thumb.jpg</thumbnail>
+		<releasedate>20101024T000000</releasedate>
+		<genre>Sports</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101610" />
+	</game>
+	<game>
+		<path>./Games/Shaun White Snowboarding [RF].iso</path>
+		<name>Shaun White Snowboarding</name>
+		<thumbnail>./images/Shaun White Snowboarding [RF]-thumb.jpg</thumbnail>
+		<releasedate>20081113T000000</releasedate>
+		<developer>Ubisoft Montreal</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101613" />
+	</game>
+	<game>
+		<path>./Games/Skate 3 [RF].iso</path>
+		<name>Skate 3</name>
+		<desc>SKATE 3 breaks new ground by taking all of the camaraderie and competitive excitement of real-life skateboarding and brings it to the hands of gamers. Whether online or offline, players can now team up to build the ultimate skate crew in the definitive skateboarding co-op experience. In SKATE 3, players take part in team-based challenges, compete against rival crews and leave their mark on the all-new skater's paradise, Port Carverton.</desc>
+		<thumbnail>./images/Skate 3 [RF]-thumb.jpg</thumbnail>
+		<releasedate>20100511T000000</releasedate>
+		<developer>EA Black Box</developer>
+		<publisher>EA Games</publisher>
+		<genre>Sports</genre>
+		<players>6</players>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101618" />
+	</game>
+	<game>
+		<path>./Games/Skylander Giants [RF].iso</path>
+		<name>Skylanders: Giants - Starter Pack</name>
+		<desc>Skylanders: Giants is a 2012 video game in the Skylanders series, a direct sequel to the 2011 game Skylanders: Spyro's Adventure and features the voices of Kevin Michael Richardson, Greg Ellis, Peter Lurie, Steve Blum, Dave Wittenberg, Carlos Alazraqui, Kevin Sorbo, Bobcat Goldthwait, Patrick Seitz and Julie Nathanson. It is the game before Skylanders: Swap Force. As the title suggests, it features larger Skylanders known as "Giants", along with other new gameplay mechanics. It was released on October 17, 2012 in Australia, on October 19, 2012 in Europe, on October 21, 2012 in North America,[6] and on November 22, 2012 in Brazil by Neoplay.[7] It has also been released on the Wii U as a launch title in North America, Europe and Australia.[8][9] This is the final Skylanders game to be owned by Vivendi before Activision became an independent company on July 25, 2013.</desc>
+		<thumbnail>./images/Skylander Giants [RF]-thumb.jpg</thumbnail>
+		<releasedate>20121021T000000</releasedate>
+		<developer>Toys for Bob</developer>
+		<publisher>Activision</publisher>
+		<genre>Action, Puzzle, Platform</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101618" />
+	</game>
+	<game>
+		<path>./Games/Skylanders Imaginators [RF].iso</path>
+		<name>Skylanders Imaginators</name>
+		<thumbnail>./images/Skylanders Imaginators [RF]-thumb.jpg</thumbnail>
+		<releasedate>20161016T000000</releasedate>
+		<developer>Toys for Bob</developer>
+		<publisher>Activision</publisher>
+		<genre>Action, Platform</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101618" />
+	</game>
+	<game>
+		<path>./Games/Skylanders SuperChargers [RF].iso</path>
+		<name>Skylanders SuperChargers</name>
+		<thumbnail>./images/Skylanders SuperChargers [RF]-thumb.jpg</thumbnail>
+		<releasedate>20150920T000000</releasedate>
+		<developer>Vicarious Visions</developer>
+		<publisher>Activision</publisher>
+		<genre>Action, Platform</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101618" />
+	</game>
+	<game>
+		<path>./Games/Skylanders Swap Force [RF].iso</path>
+		<name>Skylanders Swap Force [Starter Pack]</name>
+		<desc>Skylanders: Swap Force is a platformer video game developed by Vicarious Visions and published by Activision. It is the third main game in the Skylanders video game and toy franchise, following 2012's Skylanders: Giants, which was a direct sequel to 2011's Skylanders: Spyro's Adventure (the spin-off of The Legend of Spyro series). It is the game before Skylanders: Trap Team and features the voices of John DiMaggio, Jess Harnell, Audrey Wasilewski, Richard Tatum, David Sobolov, Josh Keaton, Keythe Farley, Dave Wittenberg, Joey Camen, Gregg Berger, Troy Baker and Robin Atkin Downes.
+
+It is the first Skylanders game to be released in North America before other regions, unlike the previous two games where Australia got the installments first. It is also the first Skylanders game not to be owned by Vivendi.</desc>
+		<thumbnail>./images/Skylanders Swap Force [RF]-thumb.jpg</thumbnail>
+		<releasedate>20131013T000000</releasedate>
+		<developer>n-Space, Inc</developer>
+		<publisher>Activision</publisher>
+		<genre>Adventure</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101619" />
+	</game>
+	<game>
+		<path>./Games/Skylanders Trap Team [RF].iso</path>
+		<name>Skylanders Trap Team</name>
+		<desc>Kaos has blown up the walls of the feared Cloudcracker Prison freeing the most notorious villains in Skylands. it's up to you and the Skylanders to find and capture them. using Traptanium, a magic material that can harness the power of the Elements, you have the amazing ability to trap the villains and return them to Skylands to fight for you! Begin the ultimate adventure as you explore Skylands in search of the escaped villains!
+
+
+Starter Pack includes: 1-Video Game, 1-Traptanium Portal, 2-Skylanders Figures, 2-Traps, 1-Character Collector Poster, 2-Sticker Sheets with Secret Codes and 2-Trading Cards.
+
+
+Build the ultimate Trap Team - Over 60 Skylanders to collect and 40+ villains to capture. Sticker Sheets with Secret Codes – Enjoy stickers of your favorite Skylanders. Place the names and codes on the Character Collect Poster to track your collection. The secret codes can be used in the Skylanders Lost Islands and Skylanders Collection Vault Apps. Trading Cards – Learn more about each Skylander’s powers and abilities.</desc>
+		<thumbnail>./images/Skylanders Trap Team [RF]-thumb.jpg</thumbnail>
+		<releasedate>20141005T000000</releasedate>
+		<developer>Beenox Studios</developer>
+		<publisher>Activision</publisher>
+		<genre>Adventure, Platform</genre>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101620" />
+	</game>
+	<game>
+		<path>./Games/Sonic &amp; All-Stars Racing Transformed [RF].iso</path>
+		<name>Sonic &amp; All-Stars Racing Transformed</name>
+		<desc>Sonic &amp; All-Stars Racing Transformed is a kart racing video game developed by Sumo Digital and published by Sega. It was released for the PlayStation 3, Xbox 360, and Wii U in November 2012, for PlayStation Vita in December 2012,[9] for Microsoft Windows in January 2013,[7] for Nintendo 3DS in February 2013, and for iOS and Android in January 2014.[8][10][11] The PS3 and Wii U versions of the game were released in Japan on May 15, 2014.[12]
+
+Sonic &amp; All-Stars Racing Transformed is the sequel to Sonic &amp; Sega All-Stars Racing, the fourth installment in the Sega Superstars series, and the eighth racing game in the Sonic the Hedgehog series. The game was a launch title for the Wii U in North America and Europe.</desc>
+		<thumbnail>./images/Sonic &amp; All-Stars Racing Transformed [RF]-thumb.jpg</thumbnail>
+		<releasedate>20121116T000000</releasedate>
+		<developer>Sumo Digital Ltd.</developer>
+		<publisher>Sega</publisher>
+		<genre>Racing</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101621" />
+	</game>
+	<game>
+		<path>./Games/Soul Calibur 5 [RF].iso</path>
+		<name>SoulCalibur</name>
+		<desc>The highest rated console fighting game ever is back again for a new generation! Sharpen your blades and relive old grudges against classic adversaries in high definition. Prove your mettle against the world with a variety of leaderboards spanning every character and mode. Match your wits and fighting instincts in Arcade, Training and Survival modes, or challenge a friend in local-play Versus mode.</desc>
+		<thumbnail>./images/Soul Calibur 5 [RF]-thumb.jpg</thumbnail>
+		<releasedate>20080702T000000</releasedate>
+		<developer>Project Soul</developer>
+		<publisher>Bandai Namco Entertainment</publisher>
+		<genre>Fighting</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101622" />
+	</game>
+	<game>
+		<path>./Games/Space Chimps [NTSCU].iso</path>
+		<name>Space Chimps</name>
+		<thumbnail>./images/Space Chimps [NTSCU]-thumb.jpg</thumbnail>
+		<releasedate>20080715T000000</releasedate>
+		<genre>Platform</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101623" />
+	</game>
+	<game>
+		<path>./Games/Spider-Man Friend or Foe [RF].iso</path>
+		<name>Spider-Man: Friend or Foe</name>
+		<desc>Spider-Man: Friend or Foe is a Spider-Man video game based on the comic book series and Spider-Man movies. The game was released on October 2, 2007.
+
+Spider-Man: Friend or Foe was originally announced via a promotional page on the back of the Spider-Man 3 video game instruction booklet. The teaser stated that the game would be a "A new twist on the legend. A new take on the movies." The game's website shows a few screenshots of the game and the Green Goblin makes an appearance. The game has a very different engine and style as compared to the previous official film tie-ins.
+
+According to the company report, Spider-Man: Friend or Foe is a unique take on the media franchise. Inspired by the movies Spider-Man, Spider-Man 2, and Spider-Man 3, this action/adventure beat 'em up game reinterprets big-screen moments and battles with a humorous twist. Players team up with famous heroes from the Marvel Comics universe to combat villains and then convert them to sidekicks after defeating them in epic boss battles. The game includes a co-op multiplayer mode, as Spider-Man or a sidekick, in locations around the globe, including Tokyo, Egypt, and Nepal.
+
+Spider-Man: Friend or Foe, along with most other games published by Activision that had used the Marvel licence, was de-listed and removed from all digital storefronts on January 1, 2014.</desc>
+		<marquee>./images/Spider-Man Friend or Foe [RF]-marquee.png</marquee>
+		<thumbnail>./images/Spider-Man Friend or Foe [RF]-thumb.jpg</thumbnail>
+		<releasedate>20071002T000000</releasedate>
+		<developer>Next Level Games</developer>
+		<publisher>Activision</publisher>
+		<genre>Action, Adventure</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101625" />
+	</game>
+	<game>
+		<path>./Games/Spider-Man Web of Shadows [RF].iso</path>
+		<name>Spider-Man: Web of Shadows</name>
+		<desc>When a deadly symbiote invasion devastates the streets of New York City, only Spider-Man can seize control and bring salvation to the city. From the game's direction to Spider-Man's destiny, Spider-Man™: Web of Shadows puts control in the gamer's hands.
+Gamers decide when to switch between the agile Red Suit and formidable Black Suit, whether to ally with Marvel's honored heroes or ferocious villains, which of Spider-Man's abilities to upgrade and what missions to undertake in order to protect Manhattan from certain annihilation.</desc>
+		<marquee>./images/Spider-Man Web of Shadows [RF]-marquee.png</marquee>
+		<thumbnail>./images/Spider-Man Web of Shadows [RF]-thumb.jpg</thumbnail>
+		<releasedate>20081021T000000</releasedate>
+		<developer>Treyarch</developer>
+		<publisher>Activision</publisher>
+		<genre>Action, Adventure, Sandbox</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101627" />
+	</game>
+	<game>
+		<path>./Games/Splinter Cell Blacklist [RF][DVD1].iso</path>
+		<name>Splinter Cell Blacklist Paladin Aircraft Edition</name>
+		<desc>Tom Clancy’s Splinter Cell Blacklist Paladin Multi-Mission Aircraft Edition contains the essential items for fans to stop the Blacklist attacks. In addition to the Splinter Cell Blacklist game, this collector's edition contains a custom hobby-grade, remote-controlled airplane modeled after the in-game Paladin plane that Sam Fisher uses as his mobile hub, the Splinter Cell® Echoes 88-page graphic novel, the exclusive Billionaire’s Yacht Co-Op Map, the bonus Upper Echelon Pack, and a limited edition Splinter Cell Blacklist poster!
+
+Tom Clancy's Splinter Cell® Blacklist™ Paladin Multi-Mission Aircraft Edition contains:
+- Custom 3-channel, ready to fly, dual-engine remote-controlled C-147B Paladin Aircraft with a retail value of $150
+- 88-page limited edition Splinter Cell Echoes graphic novel, by Eisner-nominated comic book writer Nathan Edmonson and illustrator Marc Laming
+- Exclusive Billionaire’s Yacht Co-Op Map: infiltrate a rogue billionaire’s yacht the day after a decadent party in the Coral Sea
+- Bonus Upper Echelon Pack with Dead Coast Co-Op Map, Gold Sonar Goggles &amp; Upper Echelon Suit
+- Limited Edition Sam Fisher poster</desc>
+		<thumbnail>./images/Splinter Cell Blacklist [RF][DVD1]-thumb.jpg</thumbnail>
+		<releasedate>20130820T000000</releasedate>
+		<developer>Ubisoft Toronto</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Action, Shooter, Stealth</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101629" />
+	</game>
+	<game>
+		<path>./Games/Splinter Cell Blacklist [RF][DVD2].iso</path>
+		<name>Splinter Cell Blacklist Paladin Aircraft Edition</name>
+		<desc>Tom Clancy’s Splinter Cell Blacklist Paladin Multi-Mission Aircraft Edition contains the essential items for fans to stop the Blacklist attacks. In addition to the Splinter Cell Blacklist game, this collector's edition contains a custom hobby-grade, remote-controlled airplane modeled after the in-game Paladin plane that Sam Fisher uses as his mobile hub, the Splinter Cell® Echoes 88-page graphic novel, the exclusive Billionaire’s Yacht Co-Op Map, the bonus Upper Echelon Pack, and a limited edition Splinter Cell Blacklist poster!
+
+Tom Clancy's Splinter Cell® Blacklist™ Paladin Multi-Mission Aircraft Edition contains:
+- Custom 3-channel, ready to fly, dual-engine remote-controlled C-147B Paladin Aircraft with a retail value of $150
+- 88-page limited edition Splinter Cell Echoes graphic novel, by Eisner-nominated comic book writer Nathan Edmonson and illustrator Marc Laming
+- Exclusive Billionaire’s Yacht Co-Op Map: infiltrate a rogue billionaire’s yacht the day after a decadent party in the Coral Sea
+- Bonus Upper Echelon Pack with Dead Coast Co-Op Map, Gold Sonar Goggles &amp; Upper Echelon Suit
+- Limited Edition Sam Fisher poster</desc>
+		<thumbnail>./images/Splinter Cell Blacklist [RF][DVD2]-thumb.jpg</thumbnail>
+		<releasedate>20130820T000000</releasedate>
+		<developer>Ubisoft Toronto</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Action, Shooter, Stealth</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101630" />
+	</game>
+	<game>
+		<path>./Games/Star Trek Legacy [RF].iso</path>
+		<name>Star Trek: Legacy</name>
+		<desc>Lead your task force of warships to victory as the Admiral of the fleet. Star Trek: Legacy tests your strategic and tactical skills in real-time combat featuring authentic spaceships, full damage modeling, and spectacular visual effects. Spanning the entire Star Trek Universe, including the Original Series, Next Generation, Deep Space Nine, Voyager, and Enterprise eras, battle your way through graphically stunning space environments in either single player or multiplayer mode.</desc>
+		<thumbnail>./images/Star Trek Legacy [RF]-thumb.jpg</thumbnail>
+		<fanart>./images/Star Trek Legacy [RF]-fanart.jpg</fanart>
+		<releasedate>20061215T000000</releasedate>
+		<developer>Mad Doc Software</developer>
+		<publisher>Bethesda Softworks</publisher>
+		<genre>Flight Simulator</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101632" />
+	</game>
+	<game>
+		<path>./Games/Star Trek [PAL][NTSCU].iso</path>
+		<name>Star Trek D-A-C [Free Game Trial]</name>
+		<desc>Demo of Star Trek D-A-C for the Xbox 360 that was included with the Blu-Ray release of "Star Trek 3-Disc Digital Copy Special Edition".</desc>
+		<marquee>./images/Star Trek [PAL][NTSCU]-marquee.png</marquee>
+		<thumbnail>./images/Star Trek [PAL][NTSCU]-thumb.jpg</thumbnail>
+		<releasedate>20090513T000000</releasedate>
+		<genre>Action, Flight Simulator</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101634" />
+	</game>
+	<game>
+		<path>./Games/Star Wars The Clone Wars Republic Heroes [RF].iso</path>
+		<name>Star Wars The Clone Wars: Republic Heroes</name>
+		<desc>Live the Clone Wars and play as your favorite Jedi and Clone Trooper in the brand-new story of Star Wars The Clone Wars: Republic Heroes. Leap and slice your way through enemy lines with the acrobatic power of a Jedi. Wield an arsenal of elite Clone Trooper weapons-from rocket launchers to thermal detonators. Fight alongside your friend on any mission, at any time with drop-in/drop-out co-op gameplay.</desc>
+		<thumbnail>./images/Star Wars The Clone Wars Republic Heroes [RF]-thumb.jpg</thumbnail>
+		<releasedate>20091006T000000</releasedate>
+		<developer>Krome Studios Pty Ltd.</developer>
+		<publisher>LucasArts Entertainment Company LLC</publisher>
+		<genre>Action, Adventure</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101635" />
+	</game>
+	<game>
+		<path>./Games/Stoked [NTSCU].iso</path>
+		<name>Stoked</name>
+		<desc>No paths, no boundaries, no limits.  Drop out of a helicopter anywhere on the mountain.  Dynamic weather makes riding different every time you play.  Welcome to the backcountry.  Welcome to Stoked.  Featuring over 30 brands and eight pros including Travis Rice, Nicolas Mueller and more!  Changing sun and snow conditions affect when, where, and how you ride.  Bail out of ht helicopter anywhere on the mountain!</desc>
+		<thumbnail>./images/Stoked [NTSCU]-thumb.jpg</thumbnail>
+		<releasedate>20090224T000000</releasedate>
+		<developer>Bongfish GmbH</developer>
+		<publisher>Destineer</publisher>
+		<genre>Action, Adventure, Sports</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101637" />
+	</game>
+	<game>
+		<path>./Games/Summer Athletics The Ultimate Challenge [NTSCU].iso</path>
+		<name>Summer Athletics: The Ultimate Challenge</name>
+		<desc>Summer Athletics brings sports right into your living room: exciting competitions in over 25 of the most popular summer sports disciplines, such as sprinting, hurdles, cycling, archery, javelin, hammer throw, and swimming, will provide long-lasting fun. Four different difficulty levels in two gaming modes, arcade and career, will provide sporting challenges for both experienced and casual gamers alike. The game will feature a character editor, lifelike 3D graphics, realistic athlete animations, and an impressive stadium atmosphere with the flair of live competitions.</desc>
+		<thumbnail>./images/Summer Athletics The Ultimate Challenge [NTSCU]-thumb.jpg</thumbnail>
+		<releasedate>20080729T000000</releasedate>
+		<developer>49Games GmbH</developer>
+		<publisher>Crave Entertainment</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101638" />
+	</game>
+	<game>
+		<path>./Games/Teenage Mutant Ninja Turtles Danger of the Ooze [RF].iso</path>
+		<name>Teenage Mutant Ninja Turtles Danger Of The Ooze</name>
+		<desc>2.5D platformer developed by Wayforward and published by Activision</desc>
+		<thumbnail>./images/Teenage Mutant Ninja Turtles Danger of the Ooze [RF]-thumb.jpg</thumbnail>
+		<releasedate>20141028T000000</releasedate>
+		<developer>WayForward Technologies</developer>
+		<publisher>Activision</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101638" />
+	</game>
+	<game>
+		<path>./Games/Teenage Mutant Ninja Turtles [RF].iso</path>
+		<name>Teenage Mutant Ninja Turtles Danger Of The Ooze</name>
+		<desc>2.5D platformer developed by Wayforward and published by Activision</desc>
+		<thumbnail>./images/Teenage Mutant Ninja Turtles [RF]-thumb.jpg</thumbnail>
+		<releasedate>20141028T000000</releasedate>
+		<developer>WayForward Technologies</developer>
+		<publisher>Activision</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101641" />
+	</game>
+	<game>
+		<path>./Games/Terminator Salvation [RF].iso</path>
+		<name>Terminator Salvation</name>
+		<desc>Terminator Salvation: The Future Begins focuses on the exploits of now 30-year-old John Connor in a world on the road to the extinction of humanity. The game offers players the chance to assume the role of John, battling for survival against the far superior forces of Skynet. Played in a third-person action game, Terminator Salvation features concentrated armed combat against all of the Skynet enemies from the film as well as new enemies specifically designed for the game.</desc>
+		<marquee>./images/Terminator Salvation [RF]-marquee.png</marquee>
+		<thumbnail>./images/Terminator Salvation [RF]-thumb.jpg</thumbnail>
+		<releasedate>20090519T000000</releasedate>
+		<developer>Halcyon Co.</developer>
+		<publisher>Evolved Games</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101643" />
+	</game>
+	<game>
+		<path>./Games/The Adventures of Tintin The Game [RF].iso</path>
+		<name>The Adventures of Tintin: The Game</name>
+		<desc>The interactive adaptation of Tintin's computer-animated debut is an action-adventure game in true spirit, presenting players with a variety of platforming challenges as they proceed along a central storyline, based on the Steven Spielberg film. Players lead the ambitious young reporter to explore exotic locations around the world, overcoming perilous situations with clever thinking and agile button-presses. Captain Haddock, Snowy, and other characters can be unlocked, to play through parts of the story from their own perspectives, using their distinct strengths and special abilities.
+
+Much of the game is played like a 2D platformer, presented in polygonal 3D. Tintin must climb, dash, and make nimble leaps to find his way through each level. In both single-player and co-op modes, his companions lend a hand in puzzle solving, whenever Snowy may need to squeeze ahead through a tight gap, or Haddock may need to stay behind to hold down a gate trigger. Other escapades have the heroes driving, swimming, sword fighting, and piloting a plane. The player's point-of-view shifts as puzzle and action sequences are presented from conventional perspectives. Graphics are in the style of the movie.</desc>
+		<thumbnail>./images/The Adventures of Tintin The Game [RF]-thumb.jpg</thumbnail>
+		<releasedate>20111221T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Action, Adventure</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101644" />
+	</game>
+	<game>
+		<path>./Games/The Bigs 2 [RF].iso</path>
+		<name>The Bigs 2</name>
+		<thumbnail>./images/The Bigs 2 [RF]-thumb.jpg</thumbnail>
+		<releasedate>20090707T000000</releasedate>
+		<genre>Sports</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101645" />
+	</game>
+	<game>
+		<path>./Games/The Chronicles of Narnia Prince Caspian [RF].iso</path>
+		<name>The Chronicles of Narnia: Prince Caspian</name>
+		<desc>The Chronicles of Narnia: Prince Caspian is an action-adventure fantasy video game developed by Traveller's Tales to coincide with the theatrical release of the film of the same name. The game was announced at E3 2007. It was released for the Nintendo DS, Xbox 360, PlayStation 2, Wii, Microsoft Windows and PlayStation 3 on 15 May 2008 in North America to mixed reception. The DS version was also the first game to implement Disney's DGamer online chat service.[1]
+
+A significant feature has William Moseley, Skandar Keynes, Anna Popplewell, Georgie Henley, Ben Barnes, Vincent Grass, Peter Dinklage, and Cornell S. John reprising their roles from the film.
+
+It was the last non-Lego video game released by Traveller's Tales.</desc>
+		<thumbnail>./images/The Chronicles of Narnia Prince Caspian [RF]-thumb.jpg</thumbnail>
+		<releasedate>20080515T000000</releasedate>
+		<developer>Traveller's Tales Ltd.</developer>
+		<publisher>Disney Interactive</publisher>
+		<genre>Action, Adventure</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101646" />
+	</game>
+	<game>
+		<path>./Games/The Chronicles of Riddick Assault on Dark Athena [NTSCU][NTSCJ].iso</path>
+		<name>The Chronicles of Riddick: Assault on Dark Athena</name>
+		<desc>In Chronicles of Riddick: Assault on Dark Athena, you play as Riddick, the most ruthless criminal in the universe, who has been captured by The Dark Athena, a mercenary ship hellbent on eliminating him. Using stealth, firepower, and hand-to-hand combat skills, Riddick must defeat the maniacal Captain Revas. When Riddick steps into the darkness, no one's safe.</desc>
+		<thumbnail>./images/The Chronicles of Riddick Assault on Dark Athena [NTSCU][NTSCJ]-thumb.jpg</thumbnail>
+		<releasedate>20090407T000000</releasedate>
+		<developer>Starbreeze Studios AB</developer>
+		<publisher>Atari SA</publisher>
+		<genre>Action, Shooter</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101647" />
+	</game>
+	<game>
+		<path>./Games/The Legend of Spyro Dawn of the Dragon [RF].iso</path>
+		<name>The Legend of Spyro: Dawn of the Dragon</name>
+		<desc>Three long years have passed since Spyro and Cynder were trapped in the crystal, since then Malefor has unleashed his evil onto the world. In this third chapter of the epic Legend of Spyro trilogy, Spyro must fulfill his destiny and face the Dark Master. As evil spreads over the world, Spyro and Cynder must discover new abilities and unlock their true powers to defeat Malefor and stop him from destroying the world.</desc>
+		<thumbnail>./images/The Legend of Spyro Dawn of the Dragon [RF]-thumb.jpg</thumbnail>
+		<releasedate>20081021T000000</releasedate>
+		<developer>Atari Games</developer>
+		<publisher>Sierra, Activision Blizzard, Inc.</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101648" />
+	</game>
+	<game>
+		<path>./Games/The Lord of the Rings Conquest [NTSCU][NTSCJ].iso</path>
+		<name>The Lord of the Rings: Conquest</name>
+		<desc>The Lord of the Rings: Conquest is an action game developed by Pandemic Studios and published by Electronic Arts. It is derived from the The Lord of the Rings film trilogy, and borrows many gameplay mechanics from Pandemic's Star Wars: Battlefront games. The game allows the player to play as both the forces of good and evil, but unlike The Lord of the Rings: The Battle for Middle-earth, the latter option is based around Sauron stopping the One Ring from being destroyed and using it to regain his lost power.[2] On December 23, 2008, the PlayStation 3 demo was made available on the PlayStation Network[5] while the Xbox 360 demo was released January 2, 2009.[6]
+
+Pandemic was aided by Weta Digital in developing the game. They provided many of their digital models, including the fell beasts. Pandemic also used elements that were cut from the films, and have taken inspiration from J. R. R. Tolkien's original fantasy novel, such as a level based loosely around Balin's conquest of Moria, in which Gimli attempts to retake the dwarven city from the orcs. Some inspiration was less direct: the armies of Rohan and Gondor decide not to attack Minas Morgul in the novel, but a level in the game is based on what might possibly have happened if they had. The game uses Howard Shore's score to the films as its soundtrack.[2]
+
+On March 16, 2010, the online multiplayer modes of The Lord of the Rings: Conquest were shut down for PC, PlayStation 3 and Xbox 360.[7] On August 16, 2010 a group of fans launched the non-profit CNQReboot servers, allowing users of the PC version to play online using tunnelling software that allows network play via the local area network option.[8]</desc>
+		<thumbnail>./images/The Lord of the Rings Conquest [NTSCU][NTSCJ]-thumb.jpg</thumbnail>
+		<releasedate>20090113T000000</releasedate>
+		<developer>Pandemic Studios</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Action, Adventure</genre>
+		<players>16</players>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20231213T101649" />
 	</game>
 </gameList>
