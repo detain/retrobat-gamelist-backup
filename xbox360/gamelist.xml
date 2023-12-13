@@ -6803,13 +6803,6 @@ This mission takes the team across three continents and through hordes of bad gu
 		<scrap name="HfsDB" date="20231213T072102" />
 	</game>
 	<game>
-		<path>./Games/Crash Bandicoot Mind over Mutant [RF].iso</path>
-		<name>Crash Bandicoot Mind over Mutant [RF]</name>
-		<scrap name="ScreenScraper" date="20231213T062235" />
-		<scrap name="TheGamesDB" date="20231213T063539" />
-		<scrap name="HfsDB" date="20231213T072202" />
-	</game>
-	<game>
 		<path>./Games/Crash of The Titans [RF].iso</path>
 		<name>Crash of the Titans</name>
 		<desc>Crash of the Titans is a platform game published by Sierra Entertainment and developed by Vancouver-based Radical Entertainment for the PlayStation 2, PlayStation Portable (ported by SuperVillain Studios), Wii and Xbox 360. The Game Boy Advance and Nintendo DS versions of the game were developed by Amaze Entertainment. The game was first released in North America on October 3, 2007,[1] in Europe on October 12, 2007[2] and in Australia on October 25, 2007.[2] It is the first game in the Crash Bandicoot series not to have a Japanese release.
@@ -7057,13 +7050,6 @@ There are several game modes included. Arcade mode is a direct port of the origi
 		<scrap name="HfsDB" date="20231213T072806" />
 	</game>
 	<game>
-		<path>./Games/Destiny The Taken King Legendary Edition [RF].iso</path>
-		<name>Destiny The Taken King Legendary Edition [RF]</name>
-		<scrap name="ScreenScraper" date="20231213T062311" />
-		<scrap name="TheGamesDB" date="20231213T063604" />
-		<scrap name="HfsDB" date="20231213T072806" />
-	</game>
-	<game>
 		<path>./Games/Destiny [RF].iso</path>
 		<name>Destiny</name>
 		<desc>From the creators of Halo and the publisher of Call of Duty comes Destiny. With an unprecedented variety of FPS gameplay, Destiny promises to deliver an incredible story set within a newly-imagined, always-connected universe filled with action and adventure.
@@ -7226,13 +7212,6 @@ The only confirmed NPCs are Deckard Cain, who has appeared in both of the previo
 		<scrap name="ScreenScraper" date="20231213T062326" />
 		<scrap name="TheGamesDB" date="20231213T063614" />
 		<scrap name="HfsDB" date="20231213T073207" />
-	</game>
-	<game>
-		<path>./Games/Disney Infinity Marvel Super Heroes 2.0 [RF].iso</path>
-		<name>Disney Infinity Marvel Super Heroes 2.0 [RF]</name>
-		<scrap name="ScreenScraper" date="20231213T062328" />
-		<scrap name="TheGamesDB" date="20231213T063615" />
-		<scrap name="HfsDB" date="20231213T073308" />
 	</game>
 	<game>
 		<path>./Games/Disney Infinity [RF].iso</path>
@@ -8032,11 +8011,6 @@ The story once again centers around Point Man and Paxton's mother, Alma Wade, wh
 		<scrap name="TheGamesDB" date="20231213T063659" />
 		<scrap name="HfsDB" date="20231213T075029" />
 	</game>
-	<game>
-		<path>./Games/Fable 2 GOTY [RF][En,Pl,Hu,Kr,Cz,Sk,Ch].iso</path>
-		<name>Fable 2 GOTY [RF][En,Pl,Hu,Kr,Cz,Sk,Ch]</name>
-		<scrap name="HfsDB" date="20231213T075029" />
-	</game>
 	<game id="15845">
 		<path>./Games/Fable 2 [RF][En,Pl,Hu,Kr,Cz,Sk,Ch].iso</path>
 		<name>Fable II</name>
@@ -8077,11 +8051,6 @@ The story once again centers around Point Man and Paxton's mother, Alma Wade, wh
 		<region>cn</region>
 		<scrap name="ScreenScraper" date="20231213T062451" />
 		<scrap name="HfsDB" date="20231213T075130" />
-	</game>
-	<game>
-		<path>./Games/Fable 3 [RF][SPA].iso</path>
-		<name>Fable 3 [RF][SPA]</name>
-		<scrap name="HfsDB" date="20231213T075229" />
 	</game>
 	<game>
 		<path>./Games/Facebreaker [NTSCU][NTSCJ].iso</path>
@@ -8134,21 +8103,6 @@ The story once again centers around Point Man and Paxton's mother, Alma Wade, wh
 		<scrap name="ScreenScraper" date="20231213T062456" />
 		<scrap name="TheGamesDB" date="20231213T063702" />
 		<scrap name="HfsDB" date="20231213T075329" />
-	</game>
-	<game id="16772">
-		<path>./Games/Fast and Furious Showdown [RF].iso</path>
-		<name>Fast and Furious : Showdown</name>
-		<desc>Fast and Furious : Showdown is an action-oriented racing game for Xbox 360. You will play as several characters who will have the joy of driving various vehicles ranging from race cars to armoured tanks and hovercrafts. Alone or with a friend, you will have several missions to complete.</desc>
-		<rating>0.35</rating>
-		<developer>Firebrand Games</developer>
-		<publisher>Activision</publisher>
-		<genre>Race, Driving</genre>
-		<family>Fast and Furious</family>
-		<players>2</players>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231213T062458" />
-		<scrap name="TheGamesDB" date="20231213T063703" />
-		<scrap name="HfsDB" date="20231213T075330" />
 	</game>
 	<game>
 		<path>./Games/FIFA 15 [NTSCU].iso</path>
@@ -8412,19 +8366,6 @@ Switch between foot-based fighting and vehicle-based attacks, where you can pilo
 		<scrap name="HfsDB" date="20231213T080034" />
 	</game>
 	<game>
-		<path>./Games/Halo Wars [RF].iso</path>
-		<name>Fable II / Halo Wars</name>
-		<image>./images/Halo Wars [RF]-image.png</image>
-		<video>./videos/Halo Wars [RF]-video.mp4</video>
-		<marquee>./images/Halo Wars [RF]-marquee.png</marquee>
-		<thumbnail>./images/Halo Wars [RF]-thumb.png</thumbnail>
-		<fanart>./images/Halo Wars [RF]-fanart.jpg</fanart>
-		<rating>0.8</rating>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231213T062531" />
-		<scrap name="HfsDB" date="20231213T080035" />
-	</game>
-	<game>
 		<path>./Games/Happy Feet 2 [RF].iso</path>
 		<name>Happy Feet Two</name>
 		<desc>Happy Feet Two - The Videogame is a 3D musical adventure game for the entire family inspired by the whimsical Antarctic world of the animated film Happy Feet Two. The upbeat game is scored by the three time Grammy Award winning band Ozomatli to get players into the penguin groove.</desc>
@@ -8471,17 +8412,6 @@ Guiding the three young heroes, players travel to remote and dangerous locations
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231213T062536" />
 		<scrap name="TheGamesDB" date="20231213T063724" />
-		<scrap name="HfsDB" date="20231213T080236" />
-	</game>
-	<game>
-		<path>./Games/Hot Wheels Beat That [RF].iso</path>
-		<name>Hot Wheels - Beat That</name>
-		<thumbnail>./images/Hot Wheels Beat That [RF]-thumb.jpg</thumbnail>
-		<fanart>./images/Hot Wheels Beat That [RF]-fanart.jpg</fanart>
-		<rating>0.6</rating>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231213T062537" />
-		<scrap name="TheGamesDB" date="20231213T063725" />
 		<scrap name="HfsDB" date="20231213T080236" />
 	</game>
 	<game>
@@ -8878,17 +8808,6 @@ If you don't like the song list, you can add more songs to the mix. In addition 
 		<scrap name="HfsDB" date="20231213T080839" />
 	</game>
 	<game>
-		<path>./Games/Looney Tunes Acme Arsenal [NTSCU].iso</path>
-		<name>Looney Tunes Acme Arsenal</name>
-		<marquee>./images/Looney Tunes Acme Arsenal [NTSCU]-marquee.png</marquee>
-		<thumbnail>./images/Looney Tunes Acme Arsenal [NTSCU]-thumb.jpg</thumbnail>
-		<rating>0.25</rating>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231213T062606" />
-		<scrap name="TheGamesDB" date="20231213T063753" />
-		<scrap name="HfsDB" date="20231213T080938" />
-	</game>
-	<game>
 		<path>./Games/Lost Planet 2 [RF].iso</path>
 		<name>Lost Planet 2</name>
 		<desc>Lost Planet 2 is a third-person shooter video game developed and published by Capcom. The game is the sequel to Lost Planet: Extreme Condition, taking place ten years after the events of the first game, on the same fictional planet. The game was developed for the PlayStation 3, Xbox 360 and Microsoft Windows.[3] Originally set to be released in early 2010, Capcom delayed the game's consoles release[4] to May 11, 2010 in North America and Europe, May 13, 2010 in Australia and May 20, 2010 for Japan,[5] and the Microsoft Windows version was released on October 12, 2010.[2] As of February 2, 2011, Capcom has stated that the title has sold more than 1.5 million copies worldwide.[6]</desc>
@@ -9092,17 +9011,6 @@ The game received generally positive reviews from critics, who praised its gamep
 		<scrap name="ScreenScraper" date="20231213T062627" />
 		<scrap name="TheGamesDB" date="20231213T063809" />
 		<scrap name="HfsDB" date="20231213T081341" />
-	</game>
-	<game>
-		<path>./Games/Men In Black Alien Crisis [RF].iso</path>
-		<name>Men in Black Alien Crisis</name>
-		<thumbnail>./images/Men In Black Alien Crisis [RF]-thumb.png</thumbnail>
-		<rating>0.25</rating>
-		<lastplayed>20230222T000000</lastplayed>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231213T062629" />
-		<scrap name="TheGamesDB" date="20231213T063810" />
-		<scrap name="HfsDB" date="20231213T081442" />
 	</game>
 	<game>
 		<path>./Games/Mercenaries 2 World in Flames [NTSCU][NTSCJ].iso</path>
@@ -9344,18 +9252,6 @@ Mindjack is a third-person shooter with cover mechanics and unique mind-control 
 		<scrap name="HfsDB" date="20231213T081846" />
 	</game>
 	<game>
-		<path>./Games/Monkey Island Especial Edition Collection [PAL][NTSCU].iso</path>
-		<name>Monkey Island Especial Edition Collection [PAL][NTSCU]</name>
-		<rating>0</rating>
-		<releasedate>20230222T000000</releasedate>
-		<players>0</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231213T062649" />
-		<scrap name="TheGamesDB" date="20231213T063816" />
-		<scrap name="HfsDB" date="20231213T081945" />
-	</game>
-	<game>
 		<path>./Games/Monopoly Streets [RF].iso</path>
 		<name>Monopoly Streets</name>
 		<desc>Monopoly Streets reinvigorates the classic game of fortune in a whole new format. Explore the streets of your favorite town as you journey from the cheap motels of Baltic Avenue to the ritzy Boardwalk suites and more. Watch your fortunes rise and fall as your player headquarters change from a luxurious mansion to a dilapidated hut - and back, if you're lucky. Feeling competitive? Use your street smarts to auction off your properties and break your rivals' banks, or even challenge players worldwide in exciting online play. You set the standards with the opportunity to set and save house rules - play longer, shorter or whatever way you want. Play in classic game mode, explore new game twists in Monopoly City and Monument City or download extra themed boards and tokens online for changing adventures that keep you passing "Go" over and over again. Jump into the excitement of this classic game but watch out - once you reach the top, there's nowhere to go but back down.</desc>
@@ -9394,20 +9290,6 @@ During a game, the board is seen in a perspective view, with the side where the 
 		<scrap name="HfsDB" date="20231213T082046" />
 	</game>
 	<game>
-		<path>./Games/Monster High New Ghoul in School [NTSCU].iso</path>
-		<name>Monster High: New Ghoul In School</name>
-		<thumbnail>./images/Monster High New Ghoul in School [NTSCU]-thumb.jpg</thumbnail>
-		<rating>0</rating>
-		<releasedate>20151117T000000</releasedate>
-		<genre>Action</genre>
-		<players>1</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231213T062654" />
-		<scrap name="TheGamesDB" date="20231213T063820" />
-		<scrap name="HfsDB" date="20231213T082046" />
-	</game>
-	<game>
 		<path>./Games/Monster Jam Path of Destruction [PAL][NTSCU].iso</path>
 		<name>Monster Jam: Path of Destruction</name>
 		<desc>Monster Jam: Path of Destruction is all about authenticity, personality, and fun, with 30 officially licensed Monster Jam trucks, including fan-favorites Grave Digger, Maximum Destruction, and Grinder. Players can also create and customize their own trucks with thousands of options, unlocking new parts and upgrades as they progress through the game. Eight real life stadiums from the Monster Jam circuit help bring the live atmosphere to the living room like never before, with explosive truck introductions, pyrotechnics and lighting, and a roaring crowd. In single player mode the goal is the same as for real life drivers - rise through the ranks of ruthless competitors to ultimately battle against the best at the Monster Jam World Finals! Head-to-head multiplayer modes take the heart-pounding competition to another level.</desc>
@@ -9425,20 +9307,6 @@ During a game, the board is seen in a perspective view, with the side where the 
 		<scrap name="ScreenScraper" date="20231213T062656" />
 		<scrap name="TheGamesDB" date="20231004T204632" />
 		<scrap name="HfsDB" date="20231213T082147" />
-	</game>
-	<game>
-		<path>./Games/Monster Jam [RF].iso</path>
-		<name>Monster Jam</name>
-		<marquee>./images/Monster Jam [RF]-marquee.png</marquee>
-		<thumbnail>./images/Monster Jam [RF]-thumb.jpg</thumbnail>
-		<fanart>./images/Monster Jam [RF]-fanart.jpg</fanart>
-		<boxback>./images/Monster Jam [RF]-boxback.jpg</boxback>
-		<rating>0.5</rating>
-		<lastplayed>20230222T000000</lastplayed>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231213T062659" />
-		<scrap name="TheGamesDB" date="20231213T063821" />
-		<scrap name="HfsDB" date="20231213T082148" />
 	</game>
 	<game>
 		<path>./Games/Monster Madness Battle for Suburbia [PAL][NTSCU].iso</path>
@@ -9497,17 +9365,6 @@ An action-packed third-person shooter, MorphX drops players into the middle of t
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231213T062710" />
 		<scrap name="TheGamesDB" date="20231004T132749" />
-		<scrap name="HfsDB" date="20231213T082347" />
-	</game>
-	<game>
-		<path>./Games/Mortal Kombat vs DC Universe UNCUT [RF].iso</path>
-		<name>Mortal Kombat vs DC Universe UNCUT [RF]</name>
-		<rating>0</rating>
-		<releasedate>20230222T000000</releasedate>
-		<players>0</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<scrap name="ScreenScraper" date="20231213T062712" />
-		<scrap name="TheGamesDB" date="20231213T063823" />
 		<scrap name="HfsDB" date="20231213T082347" />
 	</game>
 	<game id="17027">
@@ -9893,27 +9750,6 @@ Navigate through more than a dozen environments including the sewers, docks, cit
 		<scrap name="ScreenScraper" date="20231213T062811" />
 		<scrap name="TheGamesDB" date="20231213T063834" />
 		<scrap name="HfsDB" date="20231213T083152" />
-	</game>
-	<game>
-		<path>./Games/Otomedius Excellent [NTSCU].iso</path>
-		<name>Otomedius Excellent</name>
-		<desc>This limited edition includes:
-Otomedius Excellent
-Soundtrack disc
-68-page art book
-2-sided pillowcase</desc>
-		<image>./images/Otomedius Excellent [NTSCU]-image.jpg</image>
-		<marquee>./images/Otomedius Excellent [NTSCU]-marquee.png</marquee>
-		<thumbnail>./images/Otomedius Excellent [NTSCU]-thumb.jpg</thumbnail>
-		<boxback>./images/Otomedius Excellent [NTSCU]-boxback.png</boxback>
-		<rating>0.55</rating>
-		<releasedate>20111101T000000</releasedate>
-		<genre>Shoot them up</genre>
-		<lastplayed>20230222T000000</lastplayed>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231213T062813" />
-		<scrap name="TheGamesDB" date="20231213T063835" />
-		<scrap name="HfsDB" date="20231213T083253" />
 	</game>
 	<game>
 		<path>./Games/Overlord II [RF].iso</path>
@@ -10688,21 +10524,6 @@ The game was well received by critics, who complimented the roster and deep game
 		<players>2</players>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231213T062931" />
-		<scrap name="HfsDB" date="20231213T085100" />
-	</game>
-	<game>
-		<path>./Games/Summer Stars 2012 [RF].iso</path>
-		<name>Summer Stars 2012</name>
-		<thumbnail>./images/Summer Stars 2012 [RF]-thumb.jpg</thumbnail>
-		<rating>0.55</rating>
-		<releasedate>20110701T000000</releasedate>
-		<developer>49Games GmbH</developer>
-		<publisher>Deep Silver</publisher>
-		<genre>Sports</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231213T062933" />
-		<scrap name="TheGamesDB" date="20231213T063927" />
 		<scrap name="HfsDB" date="20231213T085100" />
 	</game>
 	<game>
@@ -11581,17 +11402,6 @@ Russian forces capture this space station and divert its harvested solar energy 
 		<scrap name="HfsDB" date="20231213T091009" />
 	</game>
 	<game>
-		<path>./Games/Velvet Assassins [RF].iso</path>
-		<name>Velvet Assassins [RF]</name>
-		<rating>0</rating>
-		<releasedate>20230222T000000</releasedate>
-		<players>0</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<scrap name="ScreenScraper" date="20231213T063102" />
-		<scrap name="TheGamesDB" date="20231213T064015" />
-		<scrap name="HfsDB" date="20231213T091009" />
-	</game>
-	<game>
 		<path>./Games/Venetica [NTSCU].iso</path>
 		<name>Venetica</name>
 		<desc>Death's daughter, Scarlett, journeys into the heart of 16th century Venice to stop an evil necromancer and his undead underlings in this action/role-playing game from German developer Deck 13. Scarlett can equip axes, swords, war hammers, and other weapons to slay her enemies. Combat involves pressing a button to swing, and then timing subsequent button presses to string together powerful combos. Scarlett can also enter a spirit world at any time to move without being seen as well as communicate with the dead. The action takes place predominately within Venice, as players explore the city's five districts and underground catacombs in search of ways to reach her tyrannical target. As she defeats enemies, Scarlett will earn skill points that can be spent on various magic and melee techniques taught by skill trainers. These abilities allow Scarlett to block with specific weapon types, perform longer chain attacks, cast life-stealing spells, and more.</desc>
@@ -11853,23 +11663,6 @@ Besides the normal combat and the action/adventure-like climbing and jumping exe
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231213T063131" />
 		<scrap name="TheGamesDB" date="20231004T190601" />
-		<scrap name="HfsDB" date="20231213T091611" />
-	</game>
-	<game>
-		<path>./Games/Whell of Fortune [NTSCU].iso</path>
-		<name>Wheel of Fortune: Big Money</name>
-		<marquee>./images/Whell of Fortune [NTSCU]-marquee.png</marquee>
-		<thumbnail>./images/Whell of Fortune [NTSCU]-thumb.jpg</thumbnail>
-		<rating>0</rating>
-		<releasedate>20121016T000000</releasedate>
-		<developer>Pipeworks Software, Inc.</developer>
-		<publisher>THQ</publisher>
-		<genre>Puzzle</genre>
-		<players>3</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231213T063132" />
-		<scrap name="TheGamesDB" date="20231213T064024" />
 		<scrap name="HfsDB" date="20231213T091611" />
 	</game>
 	<game>
@@ -12171,5 +11964,502 @@ Enemy Within primarily adds new gameplay elements to the base game, as well as i
 		<scrap name="ScreenScraper" date="20231213T063202" />
 		<scrap name="TheGamesDB" date="20231213T064034" />
 		<scrap name="HfsDB" date="20231213T092315" />
+	</game>
+	<game>
+		<path>./Games/Fable 2 GOTY [RF][En,Pl,Hu,Kr,Cz,Sk,Ch].iso</path>
+		<name>Fable 2 GOTY [RF][En,Pl,Hu,Kr,Cz,Sk,Ch]</name>
+		<scrap name="ScreenScraper" date="20231213T094823" />
+		<scrap name="HfsDB" date="20231213T075029" />
+	</game>
+	<game id="15818">
+		<path>./Games/Fable 3 [RF][SPA].iso</path>
+		<name>Fable III</name>
+		<desc>Set 50 years after the events of Fable II, the continent of Albion (where the Fable series is set) is under the control of Logan, a tyrant king and the Hero's older brother. The player's character, the "Hero", is forced into a quest to become a revolutionary leader to defeat Logan after he reveals his true personality to the Hero. Over the course of the first half of the game, the Hero will overthrow Logan and become ruler of Albion themselves. During the second half of the game, a strange force from Aurora, called The Darkness will threaten Albion and the player has to decide how to react to it.</desc>
+		<image>./images/Fable 3 [RF][SPA]-image.jpg</image>
+		<video>./videos/Fable 3 [RF][SPA]-video.mp4</video>
+		<marquee>./images/Fable 3 [RF][SPA]-marquee.png</marquee>
+		<thumbnail>./images/Fable 3 [RF][SPA]-thumb.png</thumbnail>
+		<fanart>./images/Fable 3 [RF][SPA]-fanart.jpg</fanart>
+		<rating>0.75</rating>
+		<developer>Microsoft</developer>
+		<publisher>Lionhead</publisher>
+		<genre>Role playing games</genre>
+		<family>FABLE</family>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T094854" />
+		<scrap name="HfsDB" date="20231213T075229" />
+	</game>
+	<game id="15860">
+		<path>./Games/Fable Anniversary [RF].iso</path>
+		<name>Fable Anniversary</name>
+		<desc>For Every Choice A Consequence
+
+This role-playing adventure puts you in full control of the choices that will determine your skills, appearance, and reputation. Create your life story from your early years as an inexperienced warrior to the prime of life as you become the most powerful being in the world. Choose the path of righteousness or dedicate your life to evil. And don't forget to hide the chickens ? Jack of Blades is back.</desc>
+		<image>./images/Fable Anniversary [RF]-image.jpg</image>
+		<video>./videos/Fable Anniversary [RF]-video.mp4</video>
+		<marquee>./images/Fable Anniversary [RF]-marquee.png</marquee>
+		<thumbnail>./images/Fable Anniversary [RF]-thumb.png</thumbnail>
+		<fanart>./images/Fable Anniversary [RF]-fanart.jpg</fanart>
+		<rating>0.7</rating>
+		<developer>Lionhead</developer>
+		<publisher>Microsoft</publisher>
+		<genre>Action / Action RPG</genre>
+		<family>FABLE</family>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T094923" />
+	</game>
+	<game id="15676">
+		<path>./Games/Far Cry 3 [RF].iso</path>
+		<name>Far Cry 3</name>
+		<desc>Far Cry 3 is an open world first-person shooter set on the fictional Rook archipelago in the Pacific. Even though the tropical setting resembles the original Far Cry, the gameplay itself is closer to Far Cry 2 as the open world exploration is supplemented by role-playing elements with experience points, crafting, trading, hunting and three skills trees.
+
+The protagonist is Jason Brody, a daredevil who is on a holiday in the Pacific with his two brothers and some friends. When they take a skydiving trip, they land on an island that is controlled by pirates. They are all taken prisoner by the pirate warlord Vaas and his older brother Grant is killed when they attempt to escape. Vaas sarcastically gives Jason an opportunity of 30 seconds to escape before he hunts him down.</desc>
+		<image>./images/Far Cry 3 [RF]-image.jpg</image>
+		<video>./videos/Far Cry 3 [RF]-video.mp4</video>
+		<marquee>./images/Far Cry 3 [RF]-marquee.png</marquee>
+		<thumbnail>./images/Far Cry 3 [RF]-thumb.png</thumbnail>
+		<fanart>./images/Far Cry 3 [RF]-fanart.jpg</fanart>
+		<rating>0.9</rating>
+		<releasedate>20121204T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Shooter / 1st person</genre>
+		<family>Far Cry</family>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T094953" />
+	</game>
+	<game id="16973">
+		<path>./Games/Full Auto [RF].iso</path>
+		<name>Full Auto</name>
+		<desc>Crumpled metal, exploding cars, speed, adrenaline and crashes are the keywords of Full Auto on Xbox 360. Choose your car from a wide range of powerful vehicles and equip it with machine guns and cannons before biting the pavement. Once on the track, there are no more rules. Thanks to the unwreck function you can go backwards. Did you take a wrong turn? Renegotiate your trajectory! Correct your mistakes in real time!</desc>
+		<thumbnail>./images/Full Auto [RF]-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<developer>Pseudo Interactive Inc.</developer>
+		<publisher>SEGA</publisher>
+		<genre>Lightgun Shooter</genre>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T095000" />
+	</game>
+	<game id="16797">
+		<path>./Games/Golden Axe Beast Rider [RF].iso</path>
+		<name>Golden Axe : Beast Rider</name>
+		<desc>Before taking on Death Adder in the company of Ax Battler and the dwarf Gillius Thunderhead in an adventure that has become legendary, Tyris Flare was living happily on the island of Axir, where his home village is located. But a demonic attack on the local Dragon God/Titan during a ceremony in his honour led by the priestesses of Axir was not to be. The God was captured by the demon's henchmen, including 2 twins who were his henchmen, while all the priestesses perished. The dragon still had time to give her his powers of fire. Tyris finds herself embroiled in an adventure in which she must reconstitute the golden axe in order to challenge Death Adder when she finds herself on his land.</desc>
+		<image>./images/Golden Axe Beast Rider [RF]-image.jpg</image>
+		<marquee>./images/Golden Axe Beast Rider [RF]-marquee.png</marquee>
+		<thumbnail>./images/Golden Axe Beast Rider [RF]-thumb.png</thumbnail>
+		<fanart>./images/Golden Axe Beast Rider [RF]-fanart.jpg</fanart>
+		<rating>0.6</rating>
+		<releasedate>20081017T000000</releasedate>
+		<developer>Secret Level</developer>
+		<publisher>SEGA</publisher>
+		<genre>Beat'em Up</genre>
+		<family>Golden Axe</family>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T095056" />
+	</game>
+	<game>
+		<path>./Games/Crash Bandicoot Mind over Mutant [RF].iso</path>
+		<name>Crash Bandicoot Mind over Mutant [RF]</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T062235" />
+		<scrap name="TheGamesDB" date="20231213T063539" />
+		<scrap name="HfsDB" date="20231213T072202" />
+	</game>
+	<game>
+		<path>./Games/Destiny The Taken King Legendary Edition [RF].iso</path>
+		<name>Destiny The Taken King Legendary Edition [RF]</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T062311" />
+		<scrap name="TheGamesDB" date="20231213T063604" />
+		<scrap name="HfsDB" date="20231213T072806" />
+	</game>
+	<game>
+		<path>./Games/Disney Infinity Marvel Super Heroes 2.0 [RF].iso</path>
+		<name>Disney Infinity Marvel Super Heroes 2.0 [RF]</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T062328" />
+		<scrap name="TheGamesDB" date="20231213T063615" />
+		<scrap name="HfsDB" date="20231213T073308" />
+	</game>
+	<game id="16970">
+		<path>./Games/Fantastic 4 Rise of the Silver Surfer [NTSCU].iso</path>
+		<name>Fantastic Four : Rise of the Silver Surfer</name>
+		<desc>Marvel's first family of Super Heroes face its greatest challenge yet as the enigmatic, intergalactic herald, The Silver Surfer comes to Earth to prepare it for destruction.</desc>
+		<image>./images/Fantastic 4 Rise of the Silver Surfer [NTSCU]-image.jpg</image>
+		<video>./videos/Fantastic 4 Rise of the Silver Surfer [NTSCU]-video.mp4</video>
+		<marquee>./images/Fantastic 4 Rise of the Silver Surfer [NTSCU]-marquee.png</marquee>
+		<thumbnail>./images/Fantastic 4 Rise of the Silver Surfer [NTSCU]-thumb.png</thumbnail>
+		<fanart>./images/Fantastic 4 Rise of the Silver Surfer [NTSCU]-fanart.jpg</fanart>
+		<rating>0.45</rating>
+		<releasedate>20070615T000000</releasedate>
+		<developer>Visual Concepts</developer>
+		<publisher>2K Games</publisher>
+		<genre>Action / Adventure</genre>
+		<family>Marvel</family>
+		<players>2-4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T100513" />
+	</game>
+	<game>
+		<path>./Games/Fast and Furious Showdown [RF].iso</path>
+		<name>Fast &amp; Furious: Showdown</name>
+		<desc>BECOME A PART OF THE CREW! Strap in and get ready for an intense ride as you team up to take down a dangerous international gang that can only be stopped by you and the rest of the Fast &amp; Furious crew.
+
+Key Game Features
+
+Team Action Racing: Get behind the wheel of some of the world's most intense rides and take on high-stakes driving missions cooperatively with a friend or computer A.I.
+
+Choose the Experience: Put skills to the test in Challenge Mode, an over-the-top game mode offering addictive objectives and high re-playability
+
+Diverse and customizable cars: Build your dream car and modify it with more than 50 awesome upgrades and performance perks
+
+Storyline that spans the franchise and travels the globe: Heists, hijacks and mayhem combine across 8 epic global locations, from Rio to LA to Moscow, in an original storyline that spans the entire Fast &amp; Furious film franchise.</desc>
+		<marquee>./images/Fast and Furious Showdown [RF]-marquee.png</marquee>
+		<thumbnail>./images/Fast and Furious Showdown [RF]-thumb.jpg</thumbnail>
+		<rating>0.35</rating>
+		<releasedate>20130521T000000</releasedate>
+		<developer>Firebrand Games</developer>
+		<publisher>Activision</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T062458" />
+		<scrap name="TheGamesDB" date="20231213T100416" />
+		<scrap name="HfsDB" date="20231213T075330" />
+	</game>
+	<game>
+		<path>./Games/Fuse [RF].iso</path>
+		<name>Fuse</name>
+		<desc>Fuse is a 4-person co-op story-driven action game that invites players to experience what happens when humans access alien technology they were never meant to have. The game follows the worldwide journey of four elite agents who battle a rogue paramilitary organization to prevent a global arms race from spiraling out of control. Even solo players can experience the unique attributes of all four agents by switching between them at will during combat via the game's LEAP feature. The agents are equipped with unique skills and weapons not only integral for survival, but that also allows for unexpected and extraordinary results. Experimental Fuse weapons are powered by a volatile alien substance that gives players unique capabilities that expand their strategic options in and out of combat. Through lethal teamwork, players can complete objectives and kills to earn Fuse points for powerful upgrades. Players can experience Fuse online or offline and level up along unique character paths, allowing players to unlock more powerful Fuse-driven abilities as the game progresses. In addition, the game's progression system is unified between different modes, allowing players to continue improving their agents regardless of play style.</desc>
+		<thumbnail>./images/Fuse [RF]-thumb.jpg</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>20130528T000000</releasedate>
+		<developer>Insomniac Games</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Action</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T100329" />
+		<scrap name="TheGamesDB" date="20231213T100336" />
+	</game>
+	<game id="15924">
+		<path>./Games/Gears of War 3 [PAL][NTSCU].iso</path>
+		<name>Gears Of War 3</name>
+		<desc>Microsoft's Gears of War 3 is the spectacular conclusion to one of the most memorable and celebrated sagas in video game history. Developed by Epic Games exclusively for Xbox 360, Gears of War 3 plunges players into a harrowing tale of hope, survival and brotherhood. In Gears of War 3, players fight on as Marcus Fenix, the grizzled war hero and leader of Delta Squad. Eighteen months after the fall of the last human city, the war against the Locust rages on. Meanwhile, deep beneath the surface, a fearsome new threat is infecting the planet from within. With survivors scattered and civilization in ruins, time is running out for Marcus and his comrades as they fight to save the human race.</desc>
+		<image>./images/Gears of War 3 [PAL][NTSCU]-image.jpg</image>
+		<video>./videos/Gears of War 3 [PAL][NTSCU]-video.mp4</video>
+		<marquee>./images/Gears of War 3 [PAL][NTSCU]-marquee.png</marquee>
+		<thumbnail>./images/Gears of War 3 [PAL][NTSCU]-thumb.png</thumbnail>
+		<fanart>./images/Gears of War 3 [PAL][NTSCU]-fanart.jpg</fanart>
+		<rating>0.8</rating>
+		<developer>Epic Games</developer>
+		<publisher>Microsoft</publisher>
+		<genre>Shooter / 3rd person</genre>
+		<family>Gears of war</family>
+		<players>1-4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T100825" />
+	</game>
+	<game>
+		<path>./Games/Gears of War Judgement [RF].iso</path>
+		<name>Gears of War: Judgment</name>
+		<desc>"Gears of War: Judgment" takes you back before events of the original "Gears of War" trilogy to the immediate aftermath of Emergence Day - the defining event of the "Gears of War" universe. Follow Kilo Squad, led by Damon Baird and Augustus "The Cole Train" Cole, as they fight to save the city of Halvo Bay from an unstoppable enemy in the most intense 'Gears' game yet.</desc>
+		<marquee>./images/Gears of War Judgement [RF]-marquee.png</marquee>
+		<thumbnail>./images/Gears of War Judgement [RF]-thumb.jpg</thumbnail>
+		<fanart>./images/Gears of War Judgement [RF]-fanart.jpg</fanart>
+		<releasedate>20130319T000000</releasedate>
+		<developer>Epic Games, Inc.</developer>
+		<publisher>Microsoft Studios</publisher>
+		<genre>Action, Shooter</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T095029" />
+		<scrap name="TheGamesDB" date="20231213T100741" />
+	</game>
+	<game>
+		<path>./Games/Ghost Recon Future Soldier [PAL][NTSCU].iso</path>
+		<name>Tom Clancy's Ghost Recon: Future Soldier</name>
+		<desc>Developed by the award-winning team behind Tom Clancy's Ghost Recon Advanced Warfighter and Tom Clancy's Ghost Recon Advanced Warfighter 2, the game will feature cutting-edge technology, prototype high-tech weaponry, and state-of-the-art single-player and multiplayer modes. Tom Clancy's Ghost Recon: Future Soldier will go beyond the core Ghost Recon franchise and deliver a fresh gameplay experience, with an unparalleled level of quality that will excite long-time fans and newcomers alike.</desc>
+		<marquee>./images/Ghost Recon Future Soldier [PAL][NTSCU]-marquee.png</marquee>
+		<thumbnail>./images/Ghost Recon Future Soldier [PAL][NTSCU]-thumb.jpg</thumbnail>
+		<fanart>./images/Ghost Recon Future Soldier [PAL][NTSCU]-fanart.jpg</fanart>
+		<rating>0.85</rating>
+		<releasedate>20120522T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T100610" />
+		<scrap name="HfsDB" date="20231213T100621" />
+	</game>
+	<game>
+		<path>./Games/Gi Joe the Rise of the Cobra [NTSCU][NTSCJ].iso</path>
+		<name>G.I. Joe: The Rise of Cobra</name>
+		<desc>After the events of the film, Duke and Scarlett travels to the Arctic and free Heavy Duty, Ripcord and Snake Eyes from the M.A.R.S Detention Center. Also, they fight the Baroness and bring her to the Pit. In Egypt, the Joes learn that Cobra is taking the Apep (Gem), and must defeat Firefly. In the jungle, the Joes learn that Cobra is making a pyramid-like building in the middle of the jungle. From there, the Joes must defeat James McCullen (who now takes the identity of Destro) at the rooftop of the pyramid building. Finally, they must defeat the Cobra Commander and Storm Shadow at North Magnetic Pole Volcano base.</desc>
+		<marquee>./images/Gi Joe the Rise of the Cobra [NTSCU][NTSCJ]-marquee.png</marquee>
+		<thumbnail>./images/Gi Joe the Rise of the Cobra [NTSCU][NTSCJ]-thumb.jpg</thumbnail>
+		<fanart>./images/Gi Joe the Rise of the Cobra [NTSCU][NTSCJ]-fanart.jpg</fanart>
+		<rating>0.6</rating>
+		<releasedate>20090804T000000</releasedate>
+		<developer>Double Helix Games</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T100255" />
+		<scrap name="TheGamesDB" date="20231213T100307" />
+	</game>
+	<game id="15638">
+		<path>./Games/Grand Theft Auto 5 [RF][DVD2].iso</path>
+		<name>Grand Theft Auto V</name>
+		<desc>Los Santos: a sprawling sun-soaked metropolis full of self-help gurus, starlets and fading celebrities, once the envy of the Western world, now struggling to stay afloat in an era of economic uncertainty and cheap reality TV.
+
+Amidst the turmoil, three very different criminals plot their own chances of survival and success: Franklin, a street hustler looking for real opportunities and serious money; Michael, a professional ex-con whose retirement is a lot less rosy than he hoped it would be; and Trevor, a violent maniac driven by the chance of a cheap high and the next big score. Running out of options, the crew risks everything in a series of daring and dangerous heists that could set them up for life.
+
+The biggest, most dynamic and most diverse open world ever created, Grand Theft Auto V blends storytelling and gameplay in new ways as players repeatedly jump in and out of the lives of the game's three lead characters, playing all sides of the game's interwoven story.
+
+All the classic hallmarks of the groundbreaking series return, including incredible attention to detail and Grand Theft Auto's darkly humorous take on modern culture, alongside a brand new and ambitious approach to open world multiplayer.</desc>
+		<image>./images/Grand Theft Auto 5 [RF][DVD2]-image.jpg</image>
+		<marquee>./images/Grand Theft Auto 5 [RF][DVD2]-marquee.png</marquee>
+		<thumbnail>./images/Grand Theft Auto 5 [RF][DVD2]-thumb.png</thumbnail>
+		<fanart>./images/Grand Theft Auto 5 [RF][DVD2]-fanart.jpg</fanart>
+		<rating>0.85</rating>
+		<releasedate>20130917T000000</releasedate>
+		<developer>Take 2 Interactive</developer>
+		<publisher>Rockstar Games</publisher>
+		<genre>Adventure / RealTime 3D</genre>
+		<family>Grand Theft Auto</family>
+		<players>4+</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T100134" />
+	</game>
+	<game id="16164">
+		<path>./Games/Halo Wars [RF].iso</path>
+		<name>Halo Wars</name>
+		<desc>Halo Wars is a strategy game based on the legendary Halo universe. Join the Spirit of Fire crew in their battle against the Covenant alien coalition and prepare to command entire armies of Spartans, warthogs and more. Halo Wars will allow you to easily lead powerful armies in epic battles.</desc>
+		<image>./images/Halo Wars [RF]-image.png</image>
+		<video>./videos/Halo Wars [RF]-video.mp4</video>
+		<marquee>./images/Halo Wars [RF]-marquee.png</marquee>
+		<thumbnail>./images/Halo Wars [RF]-thumb.png</thumbnail>
+		<fanart>./images/Halo Wars [RF]-fanart.jpg</fanart>
+		<rating>0.8</rating>
+		<releasedate>20090303T000000</releasedate>
+		<developer>Ensemble Studios</developer>
+		<publisher>Microsoft</publisher>
+		<genre>Strategy</genre>
+		<players>2-6</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T100555" />
+		<scrap name="HfsDB" date="20231213T080035" />
+	</game>
+	<game id="17670">
+		<path>./Games/Hot Wheels Beat That [RF].iso</path>
+		<name>Hot Wheels : Beat That !</name>
+		<desc>Choose your car, grab the wheel, and send Mattel's miniature machines racing with Hot Wheels: Beat That! Players can choose from 30 awesome cars authentically modeled from the design specs of official Hot Wheels car models as they compete against friends or the computer AI on an assortment of tracks that run through bedrooms, backyards, and similar neighborhood settings. Each course offers multiple loops, drop-offs, ramps, and jumps, as players race across multiple laps in a variety of life-sized environments to make it first across the finish line!</desc>
+		<thumbnail>./images/Hot Wheels Beat That [RF]-thumb.jpg</thumbnail>
+		<fanart>./images/Hot Wheels Beat That [RF]-fanart.jpg</fanart>
+		<rating>0.6</rating>
+		<releasedate>20070925T000000</releasedate>
+		<developer>Eutechnyx</developer>
+		<publisher>Activision</publisher>
+		<genre>Race, Driving</genre>
+		<family>Hot Wheels</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T100059" />
+		<scrap name="TheGamesDB" date="20231213T063725" />
+		<scrap name="HfsDB" date="20231213T080236" />
+	</game>
+	<game id="16953">
+		<path>./Games/Looney Tunes Acme Arsenal [NTSCU].iso</path>
+		<name>Looney Tunes : Acme Arsenal</name>
+		<desc>Looney Tunes: Acme Arsenal is an action-adventure game featuring seven playable Looney Tunes characters, including Bugs Bunny, Daffy Duck, Tazmanian Devil, Foghorn Leghorn, Marvin the Martian, Gossamer and a special secret character, all rendered in high-definition, next-generation graphics. Engaging in one or two player cooperative gameplay, gamers find themselves immersed in fast-paced combat, puzzle solving challenges and vehicle-based action in rich environments inspired by the popular, outlandish cartoon tales. Players command an arsenal of ACME melee and projectile weapons in outrageous battles and travel to various locations such as Camelot, Ancient Egypt, Mars, the Wild West, the trenches of World War II and more. The Xbox 360 version allows players to fully utilize real-time physics and animation blending and Xbox Live online entertainment network will allow for two player cooperative game play.</desc>
+		<marquee>./images/Looney Tunes Acme Arsenal [NTSCU]-marquee.png</marquee>
+		<thumbnail>./images/Looney Tunes Acme Arsenal [NTSCU]-thumb.jpg</thumbnail>
+		<rating>0.25</rating>
+		<developer>Warner Bros. Interactive</developer>
+		<publisher>Red Tribe</publisher>
+		<genre>Adventure</genre>
+		<family>Looney Tunes</family>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T100033" />
+		<scrap name="TheGamesDB" date="20231213T063753" />
+		<scrap name="HfsDB" date="20231213T080938" />
+	</game>
+	<game id="17014">
+		<path>./Games/Men In Black Alien Crisis [RF].iso</path>
+		<name>Men in Black : Alien Crisis</name>
+		<desc>Men in Black: Alien Crisis is a game mixing action, infiltration, investigation and chases available on Xbox 360. We control an archaeologist temporarily hired by the Men in Black agency, who must participate in a series of missions with his partner, Agent C. We have a substantial arsenal and some accessories to confront our enemies, in the predominantly rail-shooter phases.</desc>
+		<thumbnail>./images/Men In Black Alien Crisis [RF]-thumb.png</thumbnail>
+		<rating>0.25</rating>
+		<developer>Fun Labs</developer>
+		<publisher>Activision</publisher>
+		<genre>Various</genre>
+		<players>2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T100008" />
+		<scrap name="TheGamesDB" date="20231213T063810" />
+		<scrap name="HfsDB" date="20231213T081442" />
+	</game>
+	<game>
+		<path>./Games/Monkey Island Especial Edition Collection [PAL][NTSCU].iso</path>
+		<name>Monkey Island Special Edition Collection - (PAL)</name>
+		<desc>Now, for the first time ever, both Monkey Island Special Edition adventures are together in one box!
+
+Pirates! Adventure! Monkeys! Relive the hilarious swashbuckling misadventures of the wannabe pirate Guybrush Threepwood as he attempts to become the most infamous pirate in the Caribbean! Back by popular demand, The Secret of Monkey Island™: Special Edition faithfully re-imagines the internationally-acclaimed classic pirate adventure game from LucasArts in gorgeous HD detail. Featuring an all new re-imagined contemporary art style, hand-drawn and presented in 1080p, complete voice over by members of the original Monkey Island™ franchise cast, a re-mastered musical score using live instruments, plus scene-for scene-hot swap to seamlessly transition between Special Edition and Classic modes at anytime.
+
+More Pirates! More Adventure! More Monkeys! Relive the second hilarious swashbuckling misadventure of the wannabe pirate Guybrush Threepwood as he searches for the lost treasure of Big Whoop, attempts to win back the beautiful Elaine Marley and takes on the now evil zombie pirate, LeChuck! Monkey Island™ 2 Special Edition: LeChuck’s Revenge™ faithfully re-imagines the original classic in signature special edition detail. Plus, interact with the world of Monkey Island™ like never before with new direct-character controls, an interactive object highlight system, behind the scenes art viewer and creator commentary featuring the original developers of Monkey Island™ 2: LeChuck’s Revenge™!</desc>
+		<thumbnail>./images/Monkey Island Especial Edition Collection [PAL][NTSCU]-thumb.jpg</thumbnail>
+		<rating>0</rating>
+		<releasedate>20110101T000000</releasedate>
+		<developer>LucasArts Entertainment Company LLC</developer>
+		<publisher>LucasArts Entertainment Company LLC</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T062649" />
+		<scrap name="TheGamesDB" date="20231213T095948" />
+		<scrap name="HfsDB" date="20231213T081945" />
+	</game>
+	<game id="18342">
+		<path>./Games/Monster High New Ghoul in School [NTSCU].iso</path>
+		<name>Monster High: New Ghoul in School</name>
+		<desc>Welcome, new ghoul! Come roam the halls of Monster High and get to know your new classmates. Join clubs, make friends and dress up in fierce fashions. But be aware, there's something strange going on at Monster High! Cleo's new amulet has been cursed by the spirit of Spookenhamen, and the student body is falling under his spell. Use your skills and savvy to help save the school and all your new classmates from the mummy's curse! Be Yourself. Be Unique. Be a Monster.</desc>
+		<thumbnail>./images/Monster High New Ghoul in School [NTSCU]-thumb.jpg</thumbnail>
+		<rating>0</rating>
+		<releasedate>20151117T000000</releasedate>
+		<developer>Torus Games</developer>
+		<publisher>Little Orbit</publisher>
+		<genre>Role playing games / Action RPG</genre>
+		<lastplayed>20230222T000000</lastplayed>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T095856" />
+		<scrap name="TheGamesDB" date="20231213T095851" />
+		<scrap name="HfsDB" date="20231213T082046" />
+	</game>
+	<game>
+		<path>./Games/Monster Jam [RF].iso</path>
+		<name>Monster Jam</name>
+		<desc>Experience extreme monster truck action as you catch massive air, crush cars, perform crazy stunts, destroy everything in your path, race to the finish line and more. Battle through stadium races, freestyle competitions and outdoor circuit tracks on your way to becoming the Monster Jam world champion!</desc>
+		<marquee>./images/Monster Jam [RF]-marquee.png</marquee>
+		<thumbnail>./images/Monster Jam [RF]-thumb.jpg</thumbnail>
+		<fanart>./images/Monster Jam [RF]-fanart.jpg</fanart>
+		<boxback>./images/Monster Jam [RF]-boxback.jpg</boxback>
+		<rating>0.5</rating>
+		<releasedate>20071113T000000</releasedate>
+		<developer>Activision, Torus Games</developer>
+		<genre>Racing</genre>
+		<players>4</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T062659" />
+		<scrap name="TheGamesDB" date="20231213T095840" />
+		<scrap name="HfsDB" date="20231213T082148" />
+	</game>
+	<game id="16330">
+		<path>./Games/Mortal Kombat vs DC Universe UNCUT [RF].iso</path>
+		<name>Mortal Kombat Vs Dc Universe</name>
+		<desc>With the simultaneous defeat of Darkseid and Shao Kahn in their respective universes, a freak portal accident has formed the creation of a new entity that is more evil and more powerful entity that embodies the worst of both worlds: Dark Kahn.
+
+Dark Kahn seeks to merge the DC universe and Mortal Kombat universe into one reality, forcing hero and villain alike to form unlikely alliances in order to keep their realities separate before they are consumed by "The Rage", a force that causes an individual to lose their minds and be consumed by their aggression.
+
+In this arcade-style fighting game, both DC and Mortal Kombat universes are represented by 10 champions each, and one "boss" character, for a total of 22 fighters. Play is similar to the 2D Mortal Kombat games (with some 3D elements), focusing more on the special move aspect than the complex combos found in the previous three games (Deadly Alliance, Deception, Armageddon).
+
+In addition, there are new modes of fighting found with in the gameplay: Klose Kombat, Freefall Kombat, and "Test Your Might", which use the environment as a mini-game style scenario to inflict stylized and extensive damage on an opponent, as well as "Rage", which turns standard moves into a devastating opportunity to crush your opponent. Players battle through such locales as Gotham City, Metropolis, the Shaolin Temples, or Earthrealm's Hell.
+
+As with any Mortal Kombat game, Fatalities are still present for the Kombatants and villains, though slightly toned down to meet the DC standards of heroes such as Superman and Batman keeping to their moral code and not killing their opponent. As a result, the DC heroes perform "Heroic Brutalities", which effectively put their opponent out of commission.
+
+Online play is also available for players to take their fights online for ranked matches, play against a friend, or another online opponent in tournaments.</desc>
+		<image>./images/Mortal Kombat vs DC Universe UNCUT [RF]-image.jpg</image>
+		<thumbnail>./images/Mortal Kombat vs DC Universe UNCUT [RF]-thumb.png</thumbnail>
+		<fanart>./images/Mortal Kombat vs DC Universe UNCUT [RF]-fanart.jpg</fanart>
+		<rating>0.7</rating>
+		<developer>Warner Bros. Interactive</developer>
+		<publisher>Warner Bros. Interactive</publisher>
+		<genre>Fight</genre>
+		<family>Mortal Kombat</family>
+		<players>2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T095612" />
+		<scrap name="TheGamesDB" date="20231213T063823" />
+		<scrap name="HfsDB" date="20231213T082347" />
+	</game>
+	<game id="17759">
+		<path>./Games/Otomedius Excellent [NTSCU].iso</path>
+		<name>Otomedius Excellent</name>
+		<desc>Otomedius Excellent offers a single-player campaign and a multi-player mode provided via the Xbox Live service. If stages are too hard, the player can recruit up to three helpers in the Multiplay offline mode. In Score Attack new weapon cards can be unlocked after finishing the main game. Through Xbox Live online multiplayer is possible and new content can be unlocked. There are also several new characters, several extra stages and several character BGM packs that are available through downloadable content.</desc>
+		<image>./images/Otomedius Excellent [NTSCU]-image.png</image>
+		<marquee>./images/Otomedius Excellent [NTSCU]-marquee.png</marquee>
+		<thumbnail>./images/Otomedius Excellent [NTSCU]-thumb.png</thumbnail>
+		<boxback>./images/Otomedius Excellent [NTSCU]-boxback.png</boxback>
+		<rating>0.55</rating>
+		<releasedate>20111101T000000</releasedate>
+		<developer>M2</developer>
+		<publisher>Konami</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1-3</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T095519" />
+		<scrap name="TheGamesDB" date="20231213T063835" />
+		<scrap name="HfsDB" date="20231213T083253" />
+	</game>
+	<game id="17453">
+		<path>./Games/Summer Stars 2012 [RF].iso</path>
+		<name>Summer Stars 2012</name>
+		<desc>Summer Stars 2012 on Xbox 360 is a Kinect compatible multi-event sports game. Featuring 18 summer disciplines such as triple jump, mountain biking and diving, the title offers a career mode as well as a split-screen multiplayer option allowing 4 players to play at the same time.</desc>
+		<thumbnail>./images/Summer Stars 2012 [RF]-thumb.jpg</thumbnail>
+		<rating>0.55</rating>
+		<developer>49Games</developer>
+		<publisher>Deep Silver</publisher>
+		<genre>Sports / Multisports</genre>
+		<players>2-4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T095426" />
+		<scrap name="TheGamesDB" date="20231213T095418" />
+		<scrap name="HfsDB" date="20231213T085100" />
+	</game>
+	<game id="16947">
+		<path>./Games/Velvet Assassins [RF].iso</path>
+		<name>Velvet Assassin</name>
+		<desc>Velvet Assassin on Xbox 360 puts you in the shoes of Violette Summer, an MI6 special agent in World War II Europe. In this game, infiltration is the key to breaking through enemy lines to complete your missions and defeat the German war machine. Use all elements of the environment, including your enemies, to get out of hell.</desc>
+		<thumbnail>./images/Velvet Assassins [RF]-thumb.png</thumbnail>
+		<rating>0.65</rating>
+		<releasedate>20090508T000000</releasedate>
+		<developer>Gamecock Media Group</developer>
+		<publisher>Replay Studios</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T095348" />
+		<scrap name="TheGamesDB" date="20231213T064015" />
+		<scrap name="HfsDB" date="20231213T091009" />
+	</game>
+	<game>
+		<path>./Games/Whell of Fortune [NTSCU].iso</path>
+		<name>Wheel of Fortune: Big Money</name>
+		<marquee>./images/Whell of Fortune [NTSCU]-marquee.png</marquee>
+		<thumbnail>./images/Whell of Fortune [NTSCU]-thumb.jpg</thumbnail>
+		<rating>0</rating>
+		<releasedate>20121016T000000</releasedate>
+		<developer>Pipeworks Software, Inc.</developer>
+		<publisher>THQ</publisher>
+		<genre>Puzzle</genre>
+		<players>3</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T063132" />
+		<scrap name="TheGamesDB" date="20231213T095310" />
+		<scrap name="HfsDB" date="20231213T091611" />
 	</game>
 </gameList>
