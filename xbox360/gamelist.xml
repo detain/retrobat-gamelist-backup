@@ -9256,4 +9256,2232 @@ In the end, the Republic of Helic and its allies emerged victorious. However,thi
 		<scrap name="TheGamesDB" date="20231004T205026" />
 		<scrap name="HfsDB" date="20231006T133412" />
 	</game>
+	<game id="16611">
+		<path>./Games/50 cent Blood On The Sand [RF].iso</path>
+		<name>50 Cent : Blood on the Sand</name>
+		<desc>Play as 50 Cent, the world's biggest hip-hop star, in this fast-paced action shooter! You and the G-Unit will battle across two war-torn countries to collect your payday and exact your revenge on those who have crossed you.</desc>
+		<image>./images/50 cent Blood On The Sand [RF]-image.png</image>
+		<video>./videos/50 cent Blood On The Sand [RF]-video.mp4</video>
+		<marquee>./images/50 cent Blood On The Sand [RF]-marquee.png</marquee>
+		<thumbnail>./images/50 cent Blood On The Sand [RF]-thumb.png</thumbnail>
+		<fanart>./images/50 cent Blood On The Sand [RF]-fanart.jpg</fanart>
+		<rating>0.7</rating>
+		<releasedate>20090224T000000</releasedate>
+		<developer>THQ</developer>
+		<publisher>Swordfish Studios</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T044827" />
+	</game>
+	<game id="16982">
+		<path>./Games/ACDC Live Rock Band Track Pack [NTSCU].iso</path>
+		<name>AC/DC Live : Rock Band Track Pack</name>
+		<desc>AC/DC Live: Rock Band Track Pack is nothing less than the essential song pack for every rock fan on Xbox 360. You will find 18 classic songs from this mythical band live. Amongst others, the famous Highway to Hell, For Those About too Rock, Hells Bells and Thunderstruck.</desc>
+		<marquee>./images/ACDC Live Rock Band Track Pack [NTSCU]-marquee.png</marquee>
+		<thumbnail>./images/ACDC Live Rock Band Track Pack [NTSCU]-thumb.png</thumbnail>
+		<fanart>./images/ACDC Live Rock Band Track Pack [NTSCU]-fanart.jpg</fanart>
+		<rating>0.65</rating>
+		<developer>Harmonix Music Systems</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Music and Dance</genre>
+		<family>Rock Band</family>
+		<players>1-8</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T044844" />
+	</game>
+	<game id="16102">
+		<path>./Games/Ace Combat - Assault Horizon (USA).iso</path>
+		<name>Ace Combat : Assault Horizon</name>
+		<desc>Fly at supersonic speeds and experience intense shooting gameplay with mass destruction! Engage the enemy in intense close range dogfights with a fighter plane! Wipe out enemy ground forces in one full sweep as you evade explosions in an attacker plane! Use an attack helicopter, a bomber, and a gunship to destroy enemy forces with massive firepower! Experience an exciting story set in the real-world in the single player campaign and participate in a variety of 2-16 player online game modes!</desc>
+		<marquee>./images/Ace Combat - Assault Horizon (USA)-marquee.png</marquee>
+		<manual>./manuals/Ace Combat - Assault Horizon (USA)-manual.pdf</manual>
+		<rating>0.7</rating>
+		<releasedate>20111011T000000</releasedate>
+		<developer>Project Aces</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Shooter / Plane</genre>
+		<family>Ace Combat</family>
+		<players>1-16</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20231213T044855" />
+	</game>
+	<game id="16571">
+		<path>./Games/Adventure Time Explore the Dungeon Because I Dont Know [RF].iso</path>
+		<name>Adventure TIme: Explore The Dungeon Because I DON'T KNOW!</name>
+		<desc>Princess Bubblegum summons Finn and Jake to investigate a rash of thefts and kidnappings that have plagued the Candy Kingdom. She thinks the cause lies within her Secret Royal Dungeon, where only the nastiest monsters and criminals are locked up. If they've found a way to escape, the Land of Ooo will be in danger! Show creator Pendleton Ward teams up again with developer WayForward in an all-new action game! Select from fan favorite characters from the show, including Finn, Jake, and many more, and team up with your friends in four-player co-operative multiplayer as the Adventure Time world comes to life through beautiful pixel animations, and voiceover from the original cast.</desc>
+		<marquee>./images/Adventure Time Explore the Dungeon Because I Dont Know [RF]-marquee.png</marquee>
+		<fanart>./images/Adventure Time Explore the Dungeon Because I Dont Know [RF]-fanart.jpg</fanart>
+		<rating>0.65</rating>
+		<releasedate>20131119T000000</releasedate>
+		<developer>D3 Publisher</developer>
+		<publisher>Wayforward</publisher>
+		<genre>Adventure</genre>
+		<family>Adventure Time</family>
+		<players>1-4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T044906" />
+	</game>
+	<game id="16733">
+		<path>./Games/Air Conflicts Secret Wars [NTSCU].iso</path>
+		<name>Air Conflicts Secret Wars</name>
+		<desc>Air Conflicts: Secret Wars is an arcade flight game with battles spanning both World Wars, featuring seven campaigns and 49 missions that engage players in white-knuckle air battles and secret missions across Europe and North Africa. An impressive selection of famous aircraft of the era is available to the player, each showcasing specific strengths and weaknesses in the battle for air supremacy. The game challenges players with an exciting mix of mission types, including - patrolling, sneaking/stealth, hit &amp; run, bombing and escort objectives. Mission objectives are presented in an animated, graphic-novel style format as cockpit chatter keeps the game lively and fun. Casual pilots and veteran simulation fans will appreciate the game's dual control schemes - either arcade, for simpler, faster control, or simulation mode, for more fine-tuned and realistic control. Secret Wars extends its replayability with several multiplayer modes.</desc>
+		<marquee>./images/Air Conflicts Secret Wars [NTSCU]-marquee.png</marquee>
+		<manual>./manuals/Air Conflicts Secret Wars [NTSCU]-manual.pdf</manual>
+		<rating>0.45</rating>
+		<developer>Games Farm</developer>
+		<publisher>Kalypso Media USA, Inc.</publisher>
+		<genre>Fight</genre>
+		<players>1-8</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T044917" />
+	</game>
+	<game>
+		<path>./Games/Air.Conflicts.Secret.Wars.USA.X360-ZTM/default.xex</path>
+		<name>default</name>
+		<md5>82a523123f52f71143b1627db363d0b8</md5>
+		<scrap name="ScreenScraper" date="20231213T044918" />
+	</game>
+	<game id="16826">
+		<path>./Games/Akai Katana [PAL][NTSCU].iso</path>
+		<name>Akai Katana</name>
+		<desc>Unleash the power of the Blood Katana? The Empire's war has ravaged the world and the people are suffering in its relentless pursuit of domination using the feared Blood Katanas. The sacrifices have been great, their deaths giving power to these blades. Do you have the strength to lead a small band of rebels to victory in the face of overwhelming odds?</desc>
+		<image>./images/Akai Katana [PAL][NTSCU]-image.jpg</image>
+		<video>./videos/Akai Katana [PAL][NTSCU]-video.mp4</video>
+		<marquee>./images/Akai Katana [PAL][NTSCU]-marquee.png</marquee>
+		<thumbnail>./images/Akai Katana [PAL][NTSCU]-thumb.png</thumbnail>
+		<fanart>./images/Akai Katana [PAL][NTSCU]-fanart.jpg</fanart>
+		<rating>0.8</rating>
+		<releasedate>20110526T000000</releasedate>
+		<developer>Rising Star Games</developer>
+		<publisher>Cave</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T044942" />
+	</game>
+	<game id="16161">
+		<path>./Games/Aliens Colonial Marines [RF].iso</path>
+		<name>Aliens : Colonial Marines</name>
+		<desc>Aliens: Colonial Marines on Xbox 360 is a first-person game that puts you in the body of an American marine, ready to do anything to face the threat of alien colonisation that is coming. In single player or in cooperation (up to 3 other players at the same time), you will have to use your different weapons to kill the little creatures from elsewhere. Other multiplayer modes are also available for even more green blood on the screen...</desc>
+		<image>./images/Aliens Colonial Marines [RF]-image.jpg</image>
+		<marquee>./images/Aliens Colonial Marines [RF]-marquee.png</marquee>
+		<thumbnail>./images/Aliens Colonial Marines [RF]-thumb.png</thumbnail>
+		<manual>./manuals/Aliens Colonial Marines [RF]-manual.pdf</manual>
+		<rating>0.6</rating>
+		<developer>SEGA</developer>
+		<publisher>Gearbox Software</publisher>
+		<genre>Action</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T045001" />
+	</game>
+	<game id="17494">
+		<path>./Games/Americas Army True Soldiers [NTSCU][NTSCJ].iso</path>
+		<name>America's Army : True Soldiers</name>
+		<desc>The American army simulator arrives on the Xbox 360 with America's Army: True Soldiers. Here, there is no arcade gameplay, everything is rooted in realism. Mainly oriented towards multiplayer, the title proposes confrontations in the rules of art: one shot, one death. Lead a squad of four soldiers specialised in their field and defend your skin against the rest of the world.</desc>
+		<rating>0.25</rating>
+		<developer>Red Storm Entertainment, Inc.</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Action</genre>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T045003" />
+	</game>
+	<game id="16966">
+		<path>./Games/Amped 3 [PAL][NTSCU].iso</path>
+		<name>Amped 3</name>
+		<desc>Amped 3 on Xbox 360 puts you on a snowboard for some fiery downhill runs. Choose your rider, from the most believable to the most ridiculous, and launch yourself down crazy mountains. And if you can't get enough, switch to the snow park editor which allows you to do just about anything you want on the slopes.</desc>
+		<image>./images/Amped 3 [PAL][NTSCU]-image.jpg</image>
+		<video>./videos/Amped 3 [PAL][NTSCU]-video.mp4</video>
+		<marquee>./images/Amped 3 [PAL][NTSCU]-marquee.png</marquee>
+		<thumbnail>./images/Amped 3 [PAL][NTSCU]-thumb.png</thumbnail>
+		<fanart>./images/Amped 3 [PAL][NTSCU]-fanart.jpg</fanart>
+		<manual>./manuals/Amped 3 [PAL][NTSCU]-manual.pdf</manual>
+		<rating>0.7</rating>
+		<releasedate>20051115T000000</releasedate>
+		<developer>2K Games</developer>
+		<publisher>Take 2 Interactive</publisher>
+		<genre>Sports / Extreme</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T045032" />
+	</game>
+	<game id="17181">
+		<path>./Games/Armored Core 4 [NTSCU].iso</path>
+		<name>Armored Core 4</name>
+		<desc>Armored Core 4 is an action game for Xbox 360. At the controls of your mecha, carry out the different missions of the game at 100 km/h, in a futuristic universe that takes up the one of its predecessors. Missiles, energy rifles, swords, a wide range of weapons are at your disposal. A multiplayer mode is also present, for 1 vs 1, 2 vs 2, 4 vs 4, and Battle Royal battles with 4 or 8 players.</desc>
+		<image>./images/Armored Core 4 [NTSCU]-image.png</image>
+		<marquee>./images/Armored Core 4 [NTSCU]-marquee.png</marquee>
+		<thumbnail>./images/Armored Core 4 [NTSCU]-thumb.png</thumbnail>
+		<fanart>./images/Armored Core 4 [NTSCU]-fanart.jpg</fanart>
+		<manual>./manuals/Armored Core 4 [NTSCU]-manual.pdf</manual>
+		<rating>0.65</rating>
+		<releasedate>20070320T000000</releasedate>
+		<developer>From Software</developer>
+		<publisher>From Software</publisher>
+		<genre>Shooter / Vehicle, 3rd person</genre>
+		<family>Armored Core</family>
+		<players>1-8</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T045056" />
+	</game>
+	<game id="16723">
+		<path>./Games/Armored Core V [NTSCU].iso</path>
+		<name>Armored Core V</name>
+		<desc>Armored Core V on Xbox 360 is an action game that puts you in command of an overarmed mecha. However, shooting guns isn't everything in this opus, which is more focused on stealth and strategy than on full-on brawling.</desc>
+		<image>./images/Armored Core V [NTSCU]-image.jpg</image>
+		<marquee>./images/Armored Core V [NTSCU]-marquee.png</marquee>
+		<thumbnail>./images/Armored Core V [NTSCU]-thumb.png</thumbnail>
+		<fanart>./images/Armored Core V [NTSCU]-fanart.jpg</fanart>
+		<rating>0.7</rating>
+		<releasedate>20120101T000000</releasedate>
+		<developer>From Software</developer>
+		<publisher>From Software</publisher>
+		<genre>Shooter / Vehicle, 3rd person</genre>
+		<family>Armored Core</family>
+		<players>1-10</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T045115" />
+	</game>
+	<game id="16702">
+		<path>./Games/Armored Core Verdict Day [RF].iso</path>
+		<name>Armored Core : Verdict Day</name>
+		<desc>Armored Core: Verdict Day is an action game for 360. Assemble your mecha piece by piece and participate in a futuristic war. In addition to the 60 missions of the cooperative scenario mode, you can participate in online turf wars.</desc>
+		<image>./images/Armored Core Verdict Day [RF]-image.jpg</image>
+		<marquee>./images/Armored Core Verdict Day [RF]-marquee.png</marquee>
+		<thumbnail>./images/Armored Core Verdict Day [RF]-thumb.png</thumbnail>
+		<fanart>./images/Armored Core Verdict Day [RF]-fanart.jpg</fanart>
+		<manual>./manuals/Armored Core Verdict Day [RF]-manual.pdf</manual>
+		<rating>0.4</rating>
+		<releasedate>20130926T000000</releasedate>
+		<developer>From Software</developer>
+		<publisher>From Software</publisher>
+		<genre>Shooter / Vehicle, 3rd person</genre>
+		<family>Armored Core</family>
+		<players>1-10</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T045141" />
+	</game>
+	<game id="16603">
+		<path>./Games/Army of Two [NTSCU].iso</path>
+		<name>Army Of Two</name>
+		<desc>A third-person strategic action game, Army Of Two on Xbox 360 puts you in command of Rios and Salem, two friends who have recently joined a private company recruiting mercenaries. The title is primarily based on the cooperative mode present throughout the game's various missions. Army of Two can also be played online, still in co-op mode.</desc>
+		<image>./images/Army of Two [NTSCU]-image.jpg</image>
+		<video>./videos/Army of Two [NTSCU]-video.mp4</video>
+		<marquee>./images/Army of Two [NTSCU]-marquee.png</marquee>
+		<thumbnail>./images/Army of Two [NTSCU]-thumb.png</thumbnail>
+		<fanart>./images/Army of Two [NTSCU]-fanart.jpg</fanart>
+		<manual>./manuals/Army of Two [NTSCU]-manual.pdf</manual>
+		<rating>0.75</rating>
+		<releasedate>20080304T000000</releasedate>
+		<developer>EA Games</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Shooter / 3rd person</genre>
+		<family>Army Of Two</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T045207" />
+	</game>
+	<game id="17862">
+		<path>./Games/Attack of the Movies 3D [NTSCU].iso</path>
+		<name>Attack Of The Movies 3d</name>
+		<manual>./manuals/Attack of the Movies 3D [NTSCU]-manual.pdf</manual>
+		<releasedate>20100518T000000</releasedate>
+		<developer>Panic Button</developer>
+		<publisher>Majesco</publisher>
+		<genre>Lightgun Shooter</genre>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T045213" />
+	</game>
+	<game id="17203">
+		<path>./Games/Cabelas Dangerous Hunts 2011 [PAL][NTSCU].iso</path>
+		<name>Cabela's Dangerous Hunts 2011</name>
+		<desc>Cabela's Dangerous Hunts 2011 is a hunting simulation for Xbox 360. As a young hunter, the player will have to accompany his father in wild environments (American mountains, African savannah...) all around the world to prove his worth by killing various game. Multiplayer events are also available in a separate game mode.</desc>
+		<marquee>./images/Cabelas Dangerous Hunts 2011 [PAL][NTSCU]-marquee.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20101026T000000</releasedate>
+		<developer>Cauldron</developer>
+		<publisher>Activision</publisher>
+		<genre>Lightgun Shooter / Hunting</genre>
+		<family>Cabela's</family>
+		<players>2-4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T045219" />
+	</game>
+	<game>
+		<path>./Games/Call of Duty 12 Black Ops 3 [RF].iso</path>
+		<name>Call of Duty 12 Black Ops 3 [RF]</name>
+		<scrap name="ScreenScraper" date="20231213T045220" />
+	</game>
+	<game id="15857">
+		<path>./Games/Call of Duty 4 Modern Warfare [RF].iso</path>
+		<name>Call of Duty 4 : Modern Warfare</name>
+		<desc>The story takes place in the year of 2011, where a radical leader has executed the president of an unnamed country in the Middle East, and an ultranationalist movement ignites a civil war in Russia. The conflicts are seen from the perspectives of a U.S. Marine Force Recon sergeant and a British SAS commando and are set in various locales, such as the United Kingdom, the Middle East, Azerbaijan, Russia, and Ukraine. The multiplayer portion of the game features various game modes and contains a leveling system that allows the player to unlock additional weapons, weapon attachments, and camouflage schemes as they advance.</desc>
+		<image>./images/Call of Duty 4 Modern Warfare [RF]-image.jpg</image>
+		<video>./videos/Call of Duty 4 Modern Warfare [RF]-video.mp4</video>
+		<marquee>./images/Call of Duty 4 Modern Warfare [RF]-marquee.png</marquee>
+		<thumbnail>./images/Call of Duty 4 Modern Warfare [RF]-thumb.png</thumbnail>
+		<fanart>./images/Call of Duty 4 Modern Warfare [RF]-fanart.jpg</fanart>
+		<manual>./manuals/Call of Duty 4 Modern Warfare [RF]-manual.pdf</manual>
+		<rating>0.85</rating>
+		<releasedate>20071105T000000</releasedate>
+		<developer>Infinity Ward</developer>
+		<publisher>Activision</publisher>
+		<genre>Shooter / 1st person</genre>
+		<family>Call Of Duty</family>
+		<players>1-4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T045248" />
+	</game>
+	<game id="16451">
+		<path>./Games/Call of Juarez Bound in Blood [RF].iso</path>
+		<name>Call of Juarez : Bound in Blood</name>
+		<desc>If there is no longer any question of Billy in this new Call of Juarez on Xbox 360, you will still find the Reverend Ray McCall this time flanked by his brother. Once again, horseback riding will follow duels in the great tradition of the Wild West, interspersed with muscular encounters with Indians and Southerners.</desc>
+		<marquee>./images/Call of Juarez Bound in Blood [RF]-marquee.png</marquee>
+		<rating>0.8</rating>
+		<developer>Techland</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Shooter / 1st person</genre>
+		<family>Call Of Juarez</family>
+		<players>2-12</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T045254" />
+	</game>
+	<game id="16713">
+		<path>./Games/Call of Juarez the Cartel [RF].iso</path>
+		<name>Call of Juarez : The Cartel</name>
+		<desc>Unlike the first two episodes on Xbox 360, the first-person shooter Call of Juarez: The Cartel takes place in the present day. Based on cooperation between the three main heroes, the game invites us to confront a particularly violent Mexican cartel. We'll have to make the most of each character's specificities to clean up Los Angeles and Juarez.</desc>
+		<fanart>./images/Call of Juarez the Cartel [RF]-fanart.jpg</fanart>
+		<rating>0.5</rating>
+		<developer>Ubisoft</developer>
+		<publisher>Techland</publisher>
+		<genre>Shooter / 1st person</genre>
+		<family>Call Of Juarez</family>
+		<players>3</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T045300" />
+	</game>
+	<game id="16890">
+		<path>./Games/Call of Juarez [RF].iso</path>
+		<name>Call Of Juarez</name>
+		<desc>Call of Juarez on Xbox 360 is a first-person shooter set in the Wild West. Play as two iconic characters: Billy, a young fugitive accused of murder, and Reverend Ray, a repentant bandit convinced he is the instrument of divine justice. Two heroes for two radically different ways of playing, each with their own set of moves and of course, their own inventory.</desc>
+		<rating>0.75</rating>
+		<releasedate>20070605T000000</releasedate>
+		<developer>Focus</developer>
+		<publisher>Techland</publisher>
+		<genre>Shooter / 1st person</genre>
+		<family>Call Of Juarez</family>
+		<players>2-16</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T045303" />
+	</game>
+	<game>
+		<path>./Games/Cars 3 Driven to Win [RF].iso</path>
+		<name>Cars 3 Driven to Win [RF]</name>
+		<scrap name="ScreenScraper" date="20231213T045304" />
+	</game>
+	<game id="16836">
+		<path>./Games/Cars [NTSCU][NTSCJ].iso</path>
+		<name>Cars</name>
+		<desc>Cars on Xbox 360 is the adaptation of the Pixar film of the same name. In this racing game you will have only one goal: prove that the hero, Flash McQueen, is the fastest car in the world. To do this, you'll roam the town of Radiator Springs unlocking mini-games and events by talking to the locals, to work your way to ultimate glory. Whether you race against other vehicles or take a wild ride through the desert, the choice is yours...</desc>
+		<marquee>./images/Cars [NTSCU][NTSCJ]-marquee.png</marquee>
+		<thumbnail>./images/Cars [NTSCU][NTSCJ]-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<developer>Rainbow Studios</developer>
+		<publisher>THQ</publisher>
+		<genre>Race, Driving</genre>
+		<family>Cars</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T045314" />
+	</game>
+	<game id="16054">
+		<path>./Games/Catherine [NTSCU].iso</path>
+		<name>Catherine</name>
+		<desc>Catherine is a puzzle game for Xbox 360. The title is aimed at a mature audience and has as its hero Vincent, an indecisive thirty-something who plays both sides of the fence: Katherine his girlfriend and Catherine his lover. In addition to his love affairs, he finds himself confronted with creatures that haunt his dreams. The moral choices you make will affect the course of the story.</desc>
+		<thumbnail>./images/Catherine [NTSCU]-thumb.png</thumbnail>
+		<fanart>./images/Catherine [NTSCU]-fanart.jpg</fanart>
+		<manual>./manuals/Catherine [NTSCU]-manual.pdf</manual>
+		<rating>0.85</rating>
+		<releasedate>20110726T000000</releasedate>
+		<developer>Deep Silver</developer>
+		<publisher>Atlus</publisher>
+		<genre>Adventure</genre>
+		<players>1-2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T045330" />
+	</game>
+	<game id="16294">
+		<path>./Games/Civilization Revolution [PAL][NTSCU].iso</path>
+		<name>Civilization Revolution</name>
+		<desc>Sid Meier brings the greatest strategy game of all time to the Xbox 360 console! Built from the ground up for the Xbox 360 console, Sid Meier's Civilization Revolution challenges you to lead your chosen nation from the dawn of man to the space age on your quest to rule the world. Go head to head with history's greatest leaders as you wage war, conduct diplomacy, discover new technologies and build the most powerful empire the world has ever known. The famously addictive gameplay, endless ways to play and Xbox LIVE multiplayer competitions, matchmaking, Leaderboards, Achievements and downloadable content will keep you coming back for more.</desc>
+		<rating>0.75</rating>
+		<releasedate>20080708T000000</releasedate>
+		<developer>2K Games</developer>
+		<publisher>Firaxis Games</publisher>
+		<genre>Strategy / Build And Management</genre>
+		<family>Civilization</family>
+		<players>2-4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T045333" />
+	</game>
+	<game id="202285">
+		<path>./Games/Cloudy with a Chance of Meatballs [RF].iso</path>
+		<name>Cloudy with a Chance of Meatballs</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T045334" />
+	</game>
+	<game>
+		<path>./Games/Command &amp; Conquer 3 Kanes Wrath [NTSCU][NTSCJ].iso</path>
+		<name>Command &amp; Conquer 3 Kanes Wrath [NTSCU][NTSCJ]</name>
+		<scrap name="ScreenScraper" date="20231213T045336" />
+	</game>
+	<game>
+		<path>./Games/Command &amp; Conquer Red Alert 3 [RF].iso</path>
+		<name>Command &amp; Conquer Red Alert 3 [RF]</name>
+		<scrap name="ScreenScraper" date="20231213T045337" />
+	</game>
+	<game id="16345">
+		<path>./Games/Condemned 2 Bloodshot [RF].iso</path>
+		<name>Condemned 2 : Bloodshot</name>
+		<desc>A former agent specialising in tracking down serial killers, Ethan Thomas must once again plunge into madness in Condemned 2 for Xbox 360, a title that features hand-to-hand combat in a dark and unhealthy world.</desc>
+		<rating>0.75</rating>
+		<developer>Monolith Productions</developer>
+		<publisher>SEGA</publisher>
+		<genre>Action</genre>
+		<players>2-8</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T045339" />
+	</game>
+	<game id="17178">
+		<path>./Games/Conflict Denied Ops [RF].iso</path>
+		<name>Conflict : Denied Ops</name>
+		<desc>The story takes place in a fictional war in Venezuela. General Ramírez and his associates have staged the Ramírez regime where Ramírez is slowly plotting to take over his country. First he sends his troops to seize the Petro Nivera oil refinery, then threatens to deploy nuclear weapons if the United States continue to "meddle in his country's affairs". The US government sends two CIA operatives, Lincoln Graves and Reggie Lang, on a series of missions to take down General Ramírez and any other possible threat. First the two operatives are sent to the ruins of the Santa Cecilia monastery to retrieve important data on Ramírez's connections and associates. After extracting via their commander, they encounter a number of different conflicts all seemingly connected to Ramírez. Eventually they track down Ramírez and end up arresting him.</desc>
+		<rating>0.55</rating>
+		<releasedate>20080212T000000</releasedate>
+		<developer>Pivotal Games</developer>
+		<publisher>Eidos Interactive</publisher>
+		<genre>Action</genre>
+		<players>2-4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T045341" />
+	</game>
+	<game id="16412">
+		<path>./Games/Crackdown 2 [RF].iso</path>
+		<name>Crackdown 2</name>
+		<desc>Crackdown 2 on Xbox 360 is an action game in which you play as a super vigilante in charge of cleaning up the streets of Pacific City. In addition to the members of a terrorist organization, you must face the Freaks, mutant creatures that show up in numbers as soon as night falls. Many weapons and different vehicles are at your disposal to carry out your task. The game includes an online cooperative mode and several modes focused on competition between players.</desc>
+		<image>./images/Crackdown 2 [RF]-image.jpg</image>
+		<video>./videos/Crackdown 2 [RF]-video.mp4</video>
+		<marquee>./images/Crackdown 2 [RF]-marquee.png</marquee>
+		<thumbnail>./images/Crackdown 2 [RF]-thumb.png</thumbnail>
+		<fanart>./images/Crackdown 2 [RF]-fanart.jpg</fanart>
+		<manual>./manuals/Crackdown 2 [RF]-manual.pdf</manual>
+		<rating>0.7</rating>
+		<releasedate>20100706T000000</releasedate>
+		<developer>Ruffian Games</developer>
+		<publisher>Microsoft</publisher>
+		<players>4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T045410" />
+	</game>
+	<game id="16453">
+		<path>./Games/Crackdown [RF].iso</path>
+		<name>Crackdown</name>
+		<desc>Crackdown is an action and racing game for Xbox 360. In the heart of a city shaped like an archipelago, you work for the Agency, and must eradicate six different gangs, with each time many enemies to kill before reaching the head of the organization. A wide range of weapons and ammunition is at your disposal to annihilate the scum. The title also features many driving phases for fierce races.</desc>
+		<image>./images/Crackdown [RF]-image.jpg</image>
+		<video>./videos/Crackdown [RF]-video.mp4</video>
+		<marquee>./images/Crackdown [RF]-marquee.png</marquee>
+		<thumbnail>./images/Crackdown [RF]-thumb.png</thumbnail>
+		<fanart>./images/Crackdown [RF]-fanart.jpg</fanart>
+		<manual>./manuals/Crackdown [RF]-manual.pdf</manual>
+		<rating>0.75</rating>
+		<developer>Microsoft</developer>
+		<publisher>Realtime Worlds</publisher>
+		<genre>Race, Driving</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T045438" />
+	</game>
+	<game>
+		<path>./Games/Crash Bandicoot Mind over Mutant [RF].iso</path>
+		<name>Crash Bandicoot Mind over Mutant [RF]</name>
+		<scrap name="ScreenScraper" date="20231213T045439" />
+	</game>
+	<game id="16591">
+		<path>./Games/Crash of The Titans [RF].iso</path>
+		<name>Crash Of The Titans</name>
+		<desc>This episode of Crash Bandicoot features a massive change in aesthetics and gameplay. The characters have undergone their biggest facelift yet. The gameplay, while still platform-focused, features more combat, allowing Crash to punch and kick enemies, ... The gameplay also focuses on controlling Titans, giant mutants that are far more powerful than Crash himself. They can be controlled by Crash by riding them.
+The game's story centres on the discovery of a substance called Mojo, which Doctor Neo Cortex intends to use to transform the inhabitants of Wumpa Island into an army of loyal mutants known as "Titans". Crash must stop Cortex using the "overlap" technique to take control of them and destroy Cortex's Titans while collecting the mojo.</desc>
+		<image>./images/Crash of The Titans [RF]-image.jpg</image>
+		<marquee>./images/Crash of The Titans [RF]-marquee.png</marquee>
+		<thumbnail>./images/Crash of The Titans [RF]-thumb.png</thumbnail>
+		<fanart>./images/Crash of The Titans [RF]-fanart.jpg</fanart>
+		<rating>0.75</rating>
+		<releasedate>20071002T000000</releasedate>
+		<developer>Radical Entertainment</developer>
+		<publisher>Sierra</publisher>
+		<genre>Action / Adventure</genre>
+		<family>Crash Bandicoot</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T045458" />
+	</game>
+	<game id="17301">
+		<path>./Games/Crash Time [NTSCU].iso</path>
+		<name>Crash Time</name>
+		<desc>An arcade racing game, Crash Time on Xbox 360 immerses us in German car chases, inspired by the Cobra Alert series. The progression follows a succession of missions that often require you to arrest suspects at the controls of the powerful cars of the motorway brigade.</desc>
+		<rating>0.45</rating>
+		<developer>RTL Playtainment</developer>
+		<publisher>Synetic</publisher>
+		<genre>Race, Driving</genre>
+		<family>Crash Time</family>
+		<players>2-4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T045500" />
+	</game>
+	<game id="17915">
+		<path>./Games/Culdcept Saga [NTSCU].iso</path>
+		<name>Culdcept Saga</name>
+		<desc>Culdcept Saga is a strategic role-playing game for Xbox 360. Immerse yourself in a fantasy world where wars have ravaged the world. Your role is to stop these wars using your abilities to control powerful monsters and summon powerful entities through mystical cards. Over 500 cards and summonses are available to unlock for unforgettable battles.</desc>
+		<thumbnail>./images/Culdcept Saga [NTSCU]-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>20080205T000000</releasedate>
+		<developer>OmiyaSoft</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Role playing games</genre>
+		<family>Culdcept</family>
+		<players>1-4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T045506" />
+	</game>
+	<game id="16861">
+		<path>./Games/Damage Inc. Pacific Squadron WWII [PAL][NTSCU].iso</path>
+		<name>Damage Inc. Pacific Squadron Wwii</name>
+		<desc>Damage Inc. Pacific Squadron WWII is an Xbox 360 air combat simulation set during World War II. Players can experience the famous battles of the Pacific in more than 30 aircraft. The single-player mode consists of 11 campaigns and various online multiplayer modes are available to fight or help other players.</desc>
+		<fanart>./images/Damage Inc. Pacific Squadron WWII [PAL][NTSCU]-fanart.jpg</fanart>
+		<rating>0.7</rating>
+		<developer>Trickstar Games</developer>
+		<publisher>Mad Catz</publisher>
+		<genre>Shooter / Plane</genre>
+		<players>2-8</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T045512" />
+	</game>
+	<game id="16740">
+		<path>./Games/Damnation [RF].iso</path>
+		<name>Damnation</name>
+		<desc>Damnation on Xbox 360 is a third-person action game that plunges you into key events in an alternate American history. The player is equipped with a substantial arsenal and acrobatic abilities that allow him to evolve in vertical environments. It is also possible to drive vehicles and motorbikes to carry out the missions of the software. Damnation also features a co-op mode and multiplayer options for up to 8 players.</desc>
+		<rating>0.35</rating>
+		<developer>Blue Omega Entertainment</developer>
+		<publisher>Codemasters</publisher>
+		<genre>Shooter / 3rd person</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T045513" />
+	</game>
+	<game id="17595">
+		<path>./Games/Dance Dance Revolution Universe [NTSCU].iso</path>
+		<name>Dancing Stage Universe</name>
+		<desc>Dancing Stage Universe on Xbox 360 lets you become the king or queen of the dance floor. With a dance floor, you can shake your body to the beat of the greatest DJs' mixes. Download new songs and clips via Xbox Live to continue the fun with your friends.</desc>
+		<rating>0.75</rating>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Music and Dance</genre>
+		<family>Dance Dance Revolution</family>
+		<players>2-4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T045515" />
+	</game>
+	<game id="16536">
+		<path>./Games/Dark Sector [NTSCU].iso</path>
+		<name>Dark Sector</name>
+		<desc>Dark Sector for Xbox 360 is a third-person action game that plays as Hayden Tenno, a special agent tasked with stopping the evil deeds of a Russian scientist. Contaminated by a strange virus during his encounter with the scientist, Hayden develops sinister powers that he chooses to use to complete his mission.</desc>
+		<marquee>./images/Dark Sector [NTSCU]-marquee.png</marquee>
+		<fanart>./images/Dark Sector [NTSCU]-fanart.jpg</fanart>
+		<rating>0.75</rating>
+		<releasedate>20080325T000000</releasedate>
+		<developer>D3 Publisher</developer>
+		<publisher>Digital Extremes</publisher>
+		<genre>Shooter / 3rd person</genre>
+		<players>2-10</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T045525" />
+	</game>
+	<game id="15721">
+		<path>./Games/Dark Souls [NTSCU][NTSCJ].iso</path>
+		<name>Dark Souls</name>
+		<desc>Dark Souls is a brand new dark fantasy RPG designed to completely embrace the concepts of tension in dungeon exploration, fear in encountering enemies, the joy of new discoveries, and a high sense of achievement in progressing. The game is set in a dark fantasy world filled with decadent atmosphere, with a heavy emphasis on player freedom in discovering various tactics and strategies to use in weapon based combat.</desc>
+		<fanart>./images/Dark Souls [NTSCU][NTSCJ]-fanart.jpg</fanart>
+		<rating>0.9</rating>
+		<releasedate>20111004T000000</releasedate>
+		<developer>From Software</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Role playing games / Action RPG</genre>
+		<family>Dark Souls</family>
+		<players>4+</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T045532" />
+	</game>
+	<game id="16793">
+		<path>./Games/De Blob 2 [RF].iso</path>
+		<name>De Blob 2</name>
+		<desc>de Blob 2 is a platform game for Xbox 360. You must save the megalopolis of Prisma City from sinister dictators with monochromatic urges. The existence of new powers for Blob will sharpen and pigment your adventure through a hundred levels, and a cooperative mode that allows a second player to control a flying robot.</desc>
+		<rating>0.8</rating>
+		<developer>Blue Tongue Entertainment</developer>
+		<publisher>THQ</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T045534" />
+	</game>
+	<game id="16396">
+		<path>./Games/Dead or Alive 4 [PAL][NTSCU].iso</path>
+		<name>Dead Or Alive 4</name>
+		<desc>Dead or Alive 4 on Xbox 360 is a fighting game that is essentially based on the notion of sequences and counter sequences. On the menu: new characters, tons of outfits to unlock and tons of moves for each fighter... It's going to be a blast!</desc>
+		<image>./images/Dead or Alive 4 [PAL][NTSCU]-image.jpg</image>
+		<thumbnail>./images/Dead or Alive 4 [PAL][NTSCU]-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<developer>Team Ninja</developer>
+		<publisher>Tecmo</publisher>
+		<genre>Fight</genre>
+		<family>Dead or Alive</family>
+		<players>4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T045545" />
+	</game>
+	<game id="17008">
+		<path>./Games/Deathsmiles [NTSCU].iso</path>
+		<name>Deathsmiles Deluxe Edition</name>
+		<desc>Deathsmiles is a horizontal shoot'em up from Cave on Xbox 360. Coming from the Arcade, this title is resolutely zany by involving witches, giant cows and other original creatures.</desc>
+		<image>./images/Deathsmiles [NTSCU]-image.jpg</image>
+		<fanart>./images/Deathsmiles [NTSCU]-fanart.jpg</fanart>
+		<rating>0.85</rating>
+		<releasedate>20100101T000000</releasedate>
+		<developer>Rising Star Games</developer>
+		<publisher>Cave</publisher>
+		<genre>Shoot'em up / Horizontal</genre>
+		<family>Deathsmiles</family>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T045555" />
+	</game>
+	<game id="16450">
+		<path>./Games/Def Jam Icon [NTSCU].iso</path>
+		<name>Def Jam Icon</name>
+		<desc>Def Jam Icon is a fighting game for Xbox 360. At the head of a famous US rap label, manage your company to make as much money as possible and hire the greatest rappers. But in this very hot universe, fights are also a must for you to impose your law. Six different fighting styles are offered, and all in a very rap atmosphere of course.</desc>
+		<thumbnail>./images/Def Jam Icon [NTSCU]-thumb.png</thumbnail>
+		<rating>0.65</rating>
+		<developer>Electronic Arts</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Fight</genre>
+		<players>1-2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T045601" />
+	</game>
+	<game id="15642">
+		<path>./Games/Destiny [RF].iso</path>
+		<name>Destiny</name>
+		<desc>From the creators of Halo and the publisher of Call of Duty comes Destiny. With an unprecedented variety of FPS gameplay, Destiny promises to deliver an incredible story set within a newly-imagined, always-connected universe filled with action and adventure.
+
+Everything changed with the arrival of the Traveler. It sparked a Golden Age when our civilization spanned the solar system ... but it didn't last. Something hit us, knocked us down. The survivors built a city beneath the Traveler, and have begun to explore our old worlds, only to find them filled with deadly foes. In Destiny, you are a Guardian of the last safe city on Earth, able to wield incredible power. Defend the City. Defeat our enemies. Reclaim all that we have lost.</desc>
+		<image>./images/Destiny [RF]-image.png</image>
+		<thumbnail>./images/Destiny [RF]-thumb.png</thumbnail>
+		<fanart>./images/Destiny [RF]-fanart.jpg</fanart>
+		<rating>0.7</rating>
+		<releasedate>20140909T000000</releasedate>
+		<developer>Bungie</developer>
+		<publisher>Activision</publisher>
+		<genre>Shooter / 1st person</genre>
+		<players>12</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T045616" />
+	</game>
+	<game id="15673">
+		<path>./Games/Diablo III [PAL][NTSCU].iso</path>
+		<name>Diablo III</name>
+		<desc>The game takes place in Sanctuary, the dark fantasy world of the Diablo series. This world was saved twenty years prior by a handful of unnamed heroes in Diablo II, having survived the onslaught brought by the armies of the Burning Hells, who have gone mad from their ordeals. It is up to a new generation of heroes to face the forces of evil threatening the world of Sanctuary.
+
+Players will have the opportunity to explore familiar settings such as Tristram.
+
+The only confirmed NPCs are Deckard Cain, who has appeared in both of the previous games, and his niece, Leah, a new character who accompanies the hero in quests from time to time. The plot will revolve around two surviving Lesser Evils, Azmodan and Belial, and an artifact known as the Black Soulstone. Diablo's world map is composed primarily of two main continents with several small islands in the Northwest region. The world of Sanctuary has been dramatically changed by the destruction of the World Stone in Diablo II: Lord of Destruction.</desc>
+		<image>./images/Diablo III [PAL][NTSCU]-image.jpg</image>
+		<marquee>./images/Diablo III [PAL][NTSCU]-marquee.png</marquee>
+		<thumbnail>./images/Diablo III [PAL][NTSCU]-thumb.png</thumbnail>
+		<fanart>./images/Diablo III [PAL][NTSCU]-fanart.jpg</fanart>
+		<rating>0.85</rating>
+		<developer>Blizzard Entertainment</developer>
+		<publisher>Activision</publisher>
+		<genre>Action / Action RPG</genre>
+		<family>Diablo</family>
+		<players>2-4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T045635" />
+	</game>
+	<game id="16840">
+		<path>./Games/DJ Hero [RF].iso</path>
+		<name>Dj Hero</name>
+		<desc>DJ Hero on Xbox 360 is a rhythm game that is played with a DJ turntable equipped with 3 keys that you have to press at the right time. But that's not all, there's also a crossfader that you have to move according to the keys you have to press, as well as an effects potentiometer. You also have the possibility to scratch with the turntable when you are asked to!</desc>
+		<marquee>./images/DJ Hero [RF]-marquee.png</marquee>
+		<thumbnail>./images/DJ Hero [RF]-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<developer>Freestyle Games</developer>
+		<publisher>Activision</publisher>
+		<genre>Music and Dance</genre>
+		<family>DJ Hero</family>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T045646" />
+	</game>
+	<game id="17159">
+		<path>./Games/Everyone Sing [PAL][NTSCU].iso</path>
+		<name>Everyone Sing</name>
+		<desc>Get the party started with "Everyone Sing" featuring top artists - Nicki Minaj, Nicole Scherzinger, Taio Cruz, The Wanted, Jessie J &amp; more!
+
+Sing to hit tracks either with or against your family and friends, or sing together in your own group. Multiplayer available on every track. Excellent solo play and multiple party modes, including "Know Your Song", "Pass the Bomb" and "Group Mode" for creating your own singing group. Compatible with all existing microphones.</desc>
+		<rating>0.5</rating>
+		<developer>Oxygen Games USA</developer>
+		<publisher>Gusto Games</publisher>
+		<genre>Music and Dance</genre>
+		<players>1-8</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T045648" />
+	</game>
+	<game id="16602">
+		<path>./Games/F.E.A.R Files [RF].iso</path>
+		<name>F.e.a.r. Files</name>
+		<desc>F.E.A.R. Files on Xbox 360 includes the two expansions for F.E.A.R., namely Extraction Point and Perseus Mandate. This first-person shooter has a very special atmosphere, with a paranormal atmosphere and a little girl whispering in your ear before going through the walls. New Instant Action modes, a more intense scenario and new maps for multiplayer are available.</desc>
+		<thumbnail>./images/F.E.A.R Files [RF]-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<developer>TimeGate Studios</developer>
+		<publisher>Sierra</publisher>
+		<genre>Shooter / 1st person</genre>
+		<family>F.E.A.R.</family>
+		<players>2-16</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T045654" />
+	</game>
+	<game id="16436">
+		<path>./Games/F.E.A.R [RF].iso</path>
+		<name>F.e.a.r.</name>
+		<desc>F.E.A.R is a first-person shooter for Xbox 360. You are part of the First Encounter Assault Recon unit, which will plunge you into a horrific and terrible mission. The atmosphere of the game is creepy and scary as hell, especially as monsters and enemies swarm in. The multiplayer can accommodate 16 players for 8 different challenges including Deathmatch (solo or team), CDD (normal or slowed down) or Elimination.</desc>
+		<thumbnail>./images/F.E.A.R [RF]-thumb.png</thumbnail>
+		<fanart>./images/F.E.A.R [RF]-fanart.jpg</fanart>
+		<rating>0.8</rating>
+		<developer>Universal</developer>
+		<publisher>Monolith Productions</publisher>
+		<genre>Shooter / 1st person</genre>
+		<family>F.E.A.R.</family>
+		<players>1-16</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T045705" />
+	</game>
+	<game id="16436">
+		<path>./Games/F.E.A.R. 3 [RF].iso</path>
+		<name>F.e.a.r.</name>
+		<desc>F.E.A.R is a first-person shooter for Xbox 360. You are part of the First Encounter Assault Recon unit, which will plunge you into a horrific and terrible mission. The atmosphere of the game is creepy and scary as hell, especially as monsters and enemies swarm in. The multiplayer can accommodate 16 players for 8 different challenges including Deathmatch (solo or team), CDD (normal or slowed down) or Elimination.</desc>
+		<thumbnail>./images/F.E.A.R. 3 [RF]-thumb.png</thumbnail>
+		<fanart>./images/F.E.A.R. 3 [RF]-fanart.jpg</fanart>
+		<rating>0.8</rating>
+		<developer>Universal</developer>
+		<publisher>Monolith Productions</publisher>
+		<genre>Shooter / 1st person</genre>
+		<family>F.E.A.R.</family>
+		<players>1-16</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T045715" />
+	</game>
+	<game id="15683">
+		<path>./Games/F1 2014 [RF].iso</path>
+		<name>F1 2014</name>
+		<desc>F1 2014 is a racing game available for Xbox 360. With the official licences of the 2014 Formula 1 World Championship, it also includes all its new features, starting with the V6 turbo engines, 8-speed gearboxes and the Spielberg and Sochi circuits. It is then possible to live your own career or to race alone or with up to 16 drivers online on one of the 19 circuits of the game.</desc>
+		<marquee>./images/F1 2014 [RF]-marquee.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20141021T000000</releasedate>
+		<developer>Codemasters</developer>
+		<publisher>Codemasters</publisher>
+		<genre>Race, Driving</genre>
+		<family>F1</family>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T045720" />
+	</game>
+	<game id="16683">
+		<path>./Games/F1 Race Stars [RF].iso</path>
+		<name>F1 Race Stars</name>
+		<desc>F1 Race Stars is a racing game for Xbox 360. The player can play as all the drivers of the 2012 Formula 1 season and drive around revamped circuits with loops, jumps and other shortcuts. Various power-ups are also included, including heat-seeking bullets, boosts, missiles, and a safety car that slows down the leader.</desc>
+		<marquee>./images/F1 Race Stars [RF]-marquee.png</marquee>
+		<fanart>./images/F1 Race Stars [RF]-fanart.jpg</fanart>
+		<manual>./manuals/F1 Race Stars [RF]-manual.pdf</manual>
+		<rating>0.6</rating>
+		<developer>Codemasters</developer>
+		<publisher>Codemasters</publisher>
+		<genre>Race, Driving</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T045735" />
+	</game>
+	<game id="15845">
+		<path>./Games/Fable 2 [RF][En,Pl,Hu,Kr,Cz,Sk,Ch].iso</path>
+		<name>Fable II</name>
+		<desc>Fable 2 is an action role-playing game that truly allows players to live the life they choose in an unimaginably open world environment. Set 500 years after the original, Fable 2 will provide gamers with an epic story and innovative real-time gameplay, including a massive amount of freedom and choice to explore a vast collection of dungeons, catacombs and caves in the world of Albion.</desc>
+		<image>./images/Fable 2 [RF][En,Pl,Hu,Kr,Cz,Sk,Ch]-image.jpg</image>
+		<video>./videos/Fable 2 [RF][En,Pl,Hu,Kr,Cz,Sk,Ch]-video.mp4</video>
+		<marquee>./images/Fable 2 [RF][En,Pl,Hu,Kr,Cz,Sk,Ch]-marquee.png</marquee>
+		<thumbnail>./images/Fable 2 [RF][En,Pl,Hu,Kr,Cz,Sk,Ch]-thumb.png</thumbnail>
+		<fanart>./images/Fable 2 [RF][En,Pl,Hu,Kr,Cz,Sk,Ch]-fanart.jpg</fanart>
+		<rating>0.85</rating>
+		<releasedate>20081021T000000</releasedate>
+		<developer>Lionhead</developer>
+		<publisher>Microsoft</publisher>
+		<genre>Role playing games</genre>
+		<family>FABLE</family>
+		<players>2</players>
+		<lang>en,pl,kr,cn</lang>
+		<region>kr</region>
+		<scrap name="ScreenScraper" date="20231213T045800" />
+	</game>
+	<game id="15818">
+		<path>./Games/Fable 3 [RF][En,Pl,Hu,Ko,Ru,Cz,Sk,Ch].iso</path>
+		<name>Fable III</name>
+		<desc>Set 50 years after the events of Fable II, the continent of Albion (where the Fable series is set) is under the control of Logan, a tyrant king and the Hero's older brother. The player's character, the "Hero", is forced into a quest to become a revolutionary leader to defeat Logan after he reveals his true personality to the Hero. Over the course of the first half of the game, the Hero will overthrow Logan and become ruler of Albion themselves. During the second half of the game, a strange force from Aurora, called The Darkness will threaten Albion and the player has to decide how to react to it.</desc>
+		<image>./images/Fable 3 [RF][En,Pl,Hu,Ko,Ru,Cz,Sk,Ch]-image.jpg</image>
+		<video>./videos/Fable 3 [RF][En,Pl,Hu,Ko,Ru,Cz,Sk,Ch]-video.mp4</video>
+		<marquee>./images/Fable 3 [RF][En,Pl,Hu,Ko,Ru,Cz,Sk,Ch]-marquee.png</marquee>
+		<thumbnail>./images/Fable 3 [RF][En,Pl,Hu,Ko,Ru,Cz,Sk,Ch]-thumb.png</thumbnail>
+		<fanart>./images/Fable 3 [RF][En,Pl,Hu,Ko,Ru,Cz,Sk,Ch]-fanart.jpg</fanart>
+		<rating>0.75</rating>
+		<developer>Microsoft</developer>
+		<publisher>Lionhead</publisher>
+		<genre>Role playing games</genre>
+		<family>FABLE</family>
+		<players>2</players>
+		<lang>en,pl,ru,cn</lang>
+		<region>cn</region>
+		<scrap name="ScreenScraper" date="20231213T045823" />
+	</game>
+	<game id="17319">
+		<path>./Games/Facebreaker [NTSCU][NTSCJ].iso</path>
+		<name>Facebreaker</name>
+		<desc>Get in the ring with a group of eccentric cartoon characters who are just waiting to give you a beating! Facebreaker is an arcade-style boxing game in which you take on your opponent in a series of three rounds until one of you is knocked out. If there is no winner after three rounds, the game switches to sudden death mode and the first person to be knocked out wins. The game also features a tricky move called the "Facebreaker": if you land this move on your opponent, you instantly win the match.</desc>
+		<marquee>./images/Facebreaker [NTSCU][NTSCJ]-marquee.png</marquee>
+		<thumbnail>./images/Facebreaker [NTSCU][NTSCJ]-thumb.png</thumbnail>
+		<fanart>./images/Facebreaker [NTSCU][NTSCJ]-fanart.jpg</fanart>
+		<rating>0.6</rating>
+		<releasedate>20080905T000000</releasedate>
+		<developer>EA Sports</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Sports / Boxing</genre>
+		<players>1-2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T045841" />
+	</game>
+	<game id="16863">
+		<path>./Games/Fairytale Fights [PAL][NTSCU].iso</path>
+		<name>Fairytale Fights</name>
+		<desc>Fairytale Fights on Xbox360 is a platformer and action game that offers the player to discover the world of fairy tales in a trashy version. Playing as a total of four characters, you can chainsaw your enemies with Little Red Riding Hood or kick them off the screen with Snow White. The title gives you the opportunity to rediscover the stories of the fairy tales from a different perspective.</desc>
+		<rating>0.65</rating>
+		<releasedate>20091027T000000</releasedate>
+		<developer>Playlogic</developer>
+		<publisher>Playlogic</publisher>
+		<genre>Platform</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T045843" />
+	</game>
+	<game id="16325">
+		<path>./Games/Family Guy Back To The Multiverse [RF].iso</path>
+		<name>Family Guy : Back to the Multiverse</name>
+		<desc>Family Guy: Back to the Multiverse is an action game for Xbox 360. Based on the Family Guy series, you play as Brian and Stewie who have to cross several universes in order to foil the plans of the adorable toddler's evil twin. Mixing trashy humour and self-mockery, the title offers many nods to the show via several characters well known to fans.</desc>
+		<image>./images/Family Guy Back To The Multiverse [RF]-image.jpg</image>
+		<marquee>./images/Family Guy Back To The Multiverse [RF]-marquee.png</marquee>
+		<thumbnail>./images/Family Guy Back To The Multiverse [RF]-thumb.png</thumbnail>
+		<manual>./manuals/Family Guy Back To The Multiverse [RF]-manual.pdf</manual>
+		<rating>0.75</rating>
+		<releasedate>20121102T000000</releasedate>
+		<developer>Heavy Iron Studios</developer>
+		<publisher>Activision</publisher>
+		<players>2-4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T045902" />
+	</game>
+	<game id="16772">
+		<path>./Games/Fast and Furious Showdown [RF].iso</path>
+		<name>Fast and Furious : Showdown</name>
+		<desc>Fast and Furious : Showdown is an action-oriented racing game for Xbox 360. You will play as several characters who will have the joy of driving various vehicles ranging from race cars to armoured tanks and hovercrafts. Alone or with a friend, you will have several missions to complete.</desc>
+		<rating>0.35</rating>
+		<developer>Firebrand Games</developer>
+		<publisher>Activision</publisher>
+		<genre>Race, Driving</genre>
+		<family>Fast and Furious</family>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T045903" />
+	</game>
+	<game id="15644">
+		<path>./Games/FIFA 15 [NTSCU].iso</path>
+		<name>Fifa 15</name>
+		<desc>Play traditional 11 versus 11 matches with over 500 officially licensed clubs or free your game on the streets in 5 versus 5 street matches. Complete and earn awards in every game mode. Unlock the most coveted players to form your own dream club of international superstars or take on over 100 challenges to build your very own FIFA City. Earn buildings and infrastructure, better players, passionate fans, and grow your city into one of the world's most desirable places to play. Plus, experience the deepest and most engaging Manager Mode ever created for FIFA for the Wii. Compete as team manager with the power to take your favorite club to the top of the league tables - and keep them there!</desc>
+		<marquee>./images/FIFA 15 [NTSCU]-marquee.png</marquee>
+		<rating>0.55</rating>
+		<developer>EA Sports</developer>
+		<publisher>EA Sports</publisher>
+		<genre>Sports / Soccer</genre>
+		<family>FIFA</family>
+		<players>4+</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T045909" />
+	</game>
+	<game id="16746">
+		<path>./Games/Fight Night Round 3 [NTSCU].iso</path>
+		<name>Fight Night : Round 3</name>
+		<desc>Fight Night: Round 3 on Xbox 360 is a boxing game that pits you against the world's biggest boxing stars. Various game modes are available (big punch challenge, quick match, ESPN challenge...) and the fights are in 15 rounds. Protect your flanks to win each fight.</desc>
+		<marquee>./images/Fight Night Round 3 [NTSCU]-marquee.png</marquee>
+		<fanart>./images/Fight Night Round 3 [NTSCU]-fanart.jpg</fanart>
+		<rating>0.9</rating>
+		<developer>EA Sports</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Sports / Boxing</genre>
+		<family>Fight Night</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T045919" />
+	</game>
+	<game id="16364">
+		<path>./Games/Fight Night Round 4 [RF].iso</path>
+		<name>Fight Night : Round 4</name>
+		<desc>Fight Night: Round 4 is a boxing game for Xbox 360 that allows you to play as the most powerful fighters of all time, such as Mike Tyson and Muhammad Ali. The animations are based on improved physics recreating a wide variety of punches, blocks and movements in the ring. Fatigue, adrenaline, footwork and timing must all be mastered if victory is to be achieved.</desc>
+		<rating>0.8</rating>
+		<releasedate>20090630T000000</releasedate>
+		<developer>EA Sports</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Sports / Boxing</genre>
+		<family>Fight Night</family>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T045921" />
+	</game>
+	<game id="16254">
+		<path>./Games/Fist of The North Star Kens Rage 2 [RF].iso</path>
+		<name>Fist of the North Star : Ken's Rage 2</name>
+		<desc>Fist of the North Star: Ken's Rage 2 is a beat'em all adapted from the manga Ken the survivor. Through battles including an impressive number of enemies, the player relives the entire adventure of the heir of Hokuto Shinken.</desc>
+		<marquee>./images/Fist of The North Star Kens Rage 2 [RF]-marquee.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20121220T000000</releasedate>
+		<developer>Tecmo</developer>
+		<publisher>Tecmo</publisher>
+		<genre>Beat'em Up</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T045927" />
+	</game>
+	<game id="16417">
+		<path>./Games/Fist of The North Star Kens Rage [PAL][NTSCU].iso</path>
+		<name>Fist of the North Star : Ken's Rage</name>
+		<desc>Fist of The North Star on Xbox 360 is an action game set in the universe of the Ken the Survivor series. You will be able to play as several characters and follow the storyline of the manga in order to confront the most emblematic enemies of the saga.</desc>
+		<rating>0.7</rating>
+		<releasedate>20100325T000000</releasedate>
+		<developer>Koei</developer>
+		<publisher>Tecmo</publisher>
+		<genre>Beat'em Up</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T045929" />
+	</game>
+	<game id="15974">
+		<path>./Games/Forza Horizon [RF].iso</path>
+		<name>Forza Horizon</name>
+		<desc>Forza Horizon is a racing video game for Microsoft's Xbox 360 video game console. Developed principally by British games developer Playground Games in association with Turn 10 Studios, the game is a part of Turn 10's long-running Forza Motorsport franchise, but is considered more of a spin-off instead of the next true member of the series.</desc>
+		<image>./images/Forza Horizon [RF]-image.jpg</image>
+		<video>./videos/Forza Horizon [RF]-video.mp4</video>
+		<marquee>./images/Forza Horizon [RF]-marquee.png</marquee>
+		<thumbnail>./images/Forza Horizon [RF]-thumb.png</thumbnail>
+		<fanart>./images/Forza Horizon [RF]-fanart.jpg</fanart>
+		<rating>0.85</rating>
+		<releasedate>20121023T000000</releasedate>
+		<developer>Playground Games</developer>
+		<publisher>Microsoft</publisher>
+		<genre>Race, Driving</genre>
+		<family>Forza</family>
+		<players>1-8</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T045952" />
+	</game>
+	<game id="17138">
+		<path>./Games/Fuzion Frenzy 2 [RF].iso</path>
+		<name>Fuzion Frenzy 2</name>
+		<rating>0.6</rating>
+		<developer>Hudson</developer>
+		<publisher>Microsoft</publisher>
+		<genre>Casual Game</genre>
+		<players>1-4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T045954" />
+	</game>
+	<game id="16101">
+		<path>./Games/Gears of War 2 [RF].iso</path>
+		<name>Gears Of War 2</name>
+		<desc>In Gears of War 2 on Xbox 360, you find an old acquaintance, Marcus Fenix ??and the Delta team against the Locusts, in a bloody and intense fight. You will have to advance alone or in a team to follow the course of the scenario which is a direct continuation of the first part.</desc>
+		<image>./images/Gears of War 2 [RF]-image.jpg</image>
+		<video>./videos/Gears of War 2 [RF]-video.mp4</video>
+		<marquee>./images/Gears of War 2 [RF]-marquee.png</marquee>
+		<thumbnail>./images/Gears of War 2 [RF]-thumb.png</thumbnail>
+		<fanart>./images/Gears of War 2 [RF]-fanart.jpg</fanart>
+		<manual>./manuals/Gears of War 2 [RF]-manual.pdf</manual>
+		<rating>0.9</rating>
+		<releasedate>20081107T000000</releasedate>
+		<developer>Epic Games</developer>
+		<publisher>Microsoft</publisher>
+		<genre>Shooter / 3rd person</genre>
+		<family>Gears of war</family>
+		<players>1-10</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T050022" />
+	</game>
+	<game id="16101">
+		<path>./Games/Gears of War 2 [RF][MEX].iso</path>
+		<name>Gears Of War 2</name>
+		<desc>In Gears of War 2 on Xbox 360, you find an old acquaintance, Marcus Fenix ??and the Delta team against the Locusts, in a bloody and intense fight. You will have to advance alone or in a team to follow the course of the scenario which is a direct continuation of the first part.</desc>
+		<image>./images/Gears of War 2 [RF][MEX]-image.jpg</image>
+		<video>./videos/Gears of War 2 [RF][MEX]-video.mp4</video>
+		<marquee>./images/Gears of War 2 [RF][MEX]-marquee.png</marquee>
+		<thumbnail>./images/Gears of War 2 [RF][MEX]-thumb.png</thumbnail>
+		<fanart>./images/Gears of War 2 [RF][MEX]-fanart.jpg</fanart>
+		<manual>./manuals/Gears of War 2 [RF][MEX]-manual.pdf</manual>
+		<rating>0.9</rating>
+		<releasedate>20081107T000000</releasedate>
+		<developer>Epic Games</developer>
+		<publisher>Microsoft</publisher>
+		<genre>Shooter / 3rd person</genre>
+		<family>Gears of war</family>
+		<players>1-10</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T050053" />
+	</game>
+	<game id="15924">
+		<path>./Games/Gears of War 3 [NTSCU][MEX].iso</path>
+		<name>Gears Of War 3</name>
+		<desc>Microsoft's Gears of War 3 is the spectacular conclusion to one of the most memorable and celebrated sagas in video game history. Developed by Epic Games exclusively for Xbox 360, Gears of War 3 plunges players into a harrowing tale of hope, survival and brotherhood. In Gears of War 3, players fight on as Marcus Fenix, the grizzled war hero and leader of Delta Squad. Eighteen months after the fall of the last human city, the war against the Locust rages on. Meanwhile, deep beneath the surface, a fearsome new threat is infecting the planet from within. With survivors scattered and civilization in ruins, time is running out for Marcus and his comrades as they fight to save the human race.</desc>
+		<image>./images/Gears of War 3 [NTSCU][MEX]-image.jpg</image>
+		<video>./videos/Gears of War 3 [NTSCU][MEX]-video.mp4</video>
+		<marquee>./images/Gears of War 3 [NTSCU][MEX]-marquee.png</marquee>
+		<thumbnail>./images/Gears of War 3 [NTSCU][MEX]-thumb.png</thumbnail>
+		<fanart>./images/Gears of War 3 [NTSCU][MEX]-fanart.jpg</fanart>
+		<rating>0.8</rating>
+		<developer>Epic Games</developer>
+		<publisher>Microsoft</publisher>
+		<genre>Shooter / 3rd person</genre>
+		<family>Gears of war</family>
+		<players>1-4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T050117" />
+	</game>
+	<game id="16060">
+		<path>./Games/Gears of War Judgment [RF][MEX].iso</path>
+		<name>Gears of War : Judgment</name>
+		<desc>Gears of War: Judgment is the latest installment of the legendary franchise on the Xbox 360. Again offering a campaign fully playable in cooperation with 4 players, it is a prequel set 15 years before the first Gears of War trilogy, with the ability to unlock a bonus mission narrating events happening during the Gears 3 campaign. Two new multiplayer modes are included, Overrun and Free-for-All.</desc>
+		<image>./images/Gears of War Judgment [RF][MEX]-image.jpg</image>
+		<marquee>./images/Gears of War Judgment [RF][MEX]-marquee.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20130319T000000</releasedate>
+		<developer>People Can Fly</developer>
+		<publisher>Microsoft</publisher>
+		<genre>Shooter / 3rd person</genre>
+		<family>Gears of war</family>
+		<players>2-4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T050127" />
+	</game>
+	<game id="16104">
+		<path>./Games/Gears of War [RF].iso</path>
+		<name>Gears Of War</name>
+		<desc>Gears of War on Xbox 360 is a tactical shooter in which you lead Marcus, a big guy, against a horde of slobbering aliens. But you're not alone and a team operates with you. Your comrades move at their own will and help you in gunfights. Covered combat allows you to use the scenery to your advantage.</desc>
+		<image>./images/Gears of War [RF]-image.jpg</image>
+		<video>./videos/Gears of War [RF]-video.mp4</video>
+		<marquee>./images/Gears of War [RF]-marquee.png</marquee>
+		<thumbnail>./images/Gears of War [RF]-thumb.png</thumbnail>
+		<fanart>./images/Gears of War [RF]-fanart.jpg</fanart>
+		<manual>./manuals/Gears of War [RF]-manual.pdf</manual>
+		<rating>0.85</rating>
+		<developer>Epic Games</developer>
+		<publisher>Microsoft</publisher>
+		<genre>Shooter / 3rd person</genre>
+		<family>Gears of war</family>
+		<players>1-8</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T050206" />
+	</game>
+	<game id="15638">
+		<path>./Games/Grand Theft Auto 5 [RF][DVD1].iso</path>
+		<name>Grand Theft Auto V</name>
+		<desc>Los Santos: a sprawling sun-soaked metropolis full of self-help gurus, starlets and fading celebrities, once the envy of the Western world, now struggling to stay afloat in an era of economic uncertainty and cheap reality TV.
+
+Amidst the turmoil, three very different criminals plot their own chances of survival and success: Franklin, a street hustler looking for real opportunities and serious money; Michael, a professional ex-con whose retirement is a lot less rosy than he hoped it would be; and Trevor, a violent maniac driven by the chance of a cheap high and the next big score. Running out of options, the crew risks everything in a series of daring and dangerous heists that could set them up for life.
+
+The biggest, most dynamic and most diverse open world ever created, Grand Theft Auto V blends storytelling and gameplay in new ways as players repeatedly jump in and out of the lives of the game's three lead characters, playing all sides of the game's interwoven story.
+
+All the classic hallmarks of the groundbreaking series return, including incredible attention to detail and Grand Theft Auto's darkly humorous take on modern culture, alongside a brand new and ambitious approach to open world multiplayer.</desc>
+		<image>./images/Grand Theft Auto 5 [RF][DVD1]-image.jpg</image>
+		<marquee>./images/Grand Theft Auto 5 [RF][DVD1]-marquee.png</marquee>
+		<thumbnail>./images/Grand Theft Auto 5 [RF][DVD1]-thumb.png</thumbnail>
+		<fanart>./images/Grand Theft Auto 5 [RF][DVD1]-fanart.jpg</fanart>
+		<rating>0.85</rating>
+		<releasedate>20130917T000000</releasedate>
+		<developer>Take 2 Interactive</developer>
+		<publisher>Rockstar Games</publisher>
+		<genre>Adventure / RealTime 3D</genre>
+		<family>Grand Theft Auto</family>
+		<players>4+</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T050225" />
+	</game>
+	<game id="17228">
+		<path>./Games/Guilty Gear 2 Overture [NTSCU].iso</path>
+		<name>Guilty Gear 2 Overture</name>
+		<desc>Guilty Gear 2 Overture is a tactical action game that takes place in the universe of the Guilty Gear series. In the different levels, you have to collect magic blocks by summoning creatures.</desc>
+		<image>./images/Guilty Gear 2 Overture [NTSCU]-image.jpg</image>
+		<marquee>./images/Guilty Gear 2 Overture [NTSCU]-marquee.png</marquee>
+		<thumbnail>./images/Guilty Gear 2 Overture [NTSCU]-thumb.png</thumbnail>
+		<fanart>./images/Guilty Gear 2 Overture [NTSCU]-fanart.jpg</fanart>
+		<rating>0.45</rating>
+		<releasedate>20081007T000000</releasedate>
+		<developer>Arc System Works</developer>
+		<publisher>505 Games</publisher>
+		<genre>Action / Adventure</genre>
+		<family>Guilty Gear</family>
+		<players>1-4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T050245" />
+	</game>
+	<game id="16128">
+		<path>./Games/Halo 3 ODST [RF][DVD1][ENG].iso</path>
+		<name>Halo 3 : ODST</name>
+		<desc>Halo 3: ODST happens mostly at the same time of the events of Halo 2 and the very beginning of Halo 3. It details the Covenant's invasion to Earth in year 2552 from the point of view of the Orbital Drop Shock Troopers. The player takes the role of various members of the ODST squad in the war-torn city of New Mombasa - most prominently The Rookie, who can be considered the protagonist of the game.</desc>
+		<image>./images/Halo 3 ODST [RF][DVD1][ENG]-image.png</image>
+		<video>./videos/Halo 3 ODST [RF][DVD1][ENG]-video.mp4</video>
+		<marquee>./images/Halo 3 ODST [RF][DVD1][ENG]-marquee.png</marquee>
+		<thumbnail>./images/Halo 3 ODST [RF][DVD1][ENG]-thumb.png</thumbnail>
+		<fanart>./images/Halo 3 ODST [RF][DVD1][ENG]-fanart.jpg</fanart>
+		<rating>0.8</rating>
+		<releasedate>20090922T000000</releasedate>
+		<developer>Bungie</developer>
+		<publisher>Microsoft</publisher>
+		<genre>Action</genre>
+		<family>Halo</family>
+		<players>1-4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T050308" />
+	</game>
+	<game id="15967">
+		<path>./Games/Halo 3 [RF][ENG].iso</path>
+		<name>Halo 3</name>
+		<desc>Master Chief returns to a Covenant Dominated Earth on a mission to kill the final alien leader. Meanwhile, the Arbiter, Johnson, and Keyes form a loose alliance and escape from Delta Halo. The Covenant is ripped in civil war, and the Elites along with a handful of other alien races become sympathetic to the human cause. Delta Halo's impromptu dis-activation has brought all of the Halos to a "remote activation phase". They can be activated from a facility called the ark, which happens to be on Earth.</desc>
+		<image>./images/Halo 3 [RF][ENG]-image.png</image>
+		<video>./videos/Halo 3 [RF][ENG]-video.mp4</video>
+		<marquee>./images/Halo 3 [RF][ENG]-marquee.png</marquee>
+		<thumbnail>./images/Halo 3 [RF][ENG]-thumb.png</thumbnail>
+		<fanart>./images/Halo 3 [RF][ENG]-fanart.jpg</fanart>
+		<manual>./manuals/Halo 3 [RF][ENG]-manual.pdf</manual>
+		<rating>0.85</rating>
+		<releasedate>20070925T000000</releasedate>
+		<developer>Bungie</developer>
+		<publisher>Microsoft</publisher>
+		<genre>Action</genre>
+		<players>1-16</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T050336" />
+	</game>
+	<game id="15962">
+		<path>./Games/Halo Combat Evolved Anniversary [RF].iso</path>
+		<name>Halo: Combat Evolved  Anniversary</name>
+		<desc>Halo: Combat Evolved Anniversary is a re-release of Halo: Combat Evolved for the Xbox 360, intended to celebrate the tenth anniversary of the Halo series.
+
+The anniversary edition comes with the same single player campaign, the only difference being that the player can switch between the graphics engine used in the original Combat Evolved (for identical graphics to the original), or switch to the same graphics engine used in Halo: Reach (for more modern graphics) at any point during the campaign, even mid session. The campaign also supports co operative gameplay.
+
+The multiplayer portion of the game has all the same maps featured in the original as well as several new ones, and like the single player, players can switch between the classic and modern graphics at any point during the session. The multiplayer has also been enhanced with some of the features from the more recent Halo games including emblems, weapon loadouts, customisable armour and selectable gender.</desc>
+		<image>./images/Halo Combat Evolved Anniversary [RF]-image.jpg</image>
+		<video>./videos/Halo Combat Evolved Anniversary [RF]-video.mp4</video>
+		<marquee>./images/Halo Combat Evolved Anniversary [RF]-marquee.png</marquee>
+		<thumbnail>./images/Halo Combat Evolved Anniversary [RF]-thumb.png</thumbnail>
+		<fanart>./images/Halo Combat Evolved Anniversary [RF]-fanart.jpg</fanart>
+		<rating>0.9</rating>
+		<developer>343 Industries</developer>
+		<publisher>Microsoft</publisher>
+		<genre>Shooter / 1st person</genre>
+		<family>Halo</family>
+		<players>2-16</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T050400" />
+	</game>
+	<game id="15920">
+		<path>./Games/Halo Reach [RF][ENG].iso</path>
+		<name>Halo Reach</name>
+		<desc>Halo Reach on Xbox 360 tells the story of the fall of the planet Reach, before the very first episode of the famous FPS series. It follows the desperate fight of the Noble squad of powerful Spartans against the countless Covenant legions. The campaign is playable in 4 player co-op and the game features a multitude of highly configurable multiplayer modes, including the popular Baptism of Fire. A comprehensive map editor is also included.</desc>
+		<image>./images/Halo Reach [RF][ENG]-image.jpg</image>
+		<video>./videos/Halo Reach [RF][ENG]-video.mp4</video>
+		<marquee>./images/Halo Reach [RF][ENG]-marquee.png</marquee>
+		<thumbnail>./images/Halo Reach [RF][ENG]-thumb.png</thumbnail>
+		<fanart>./images/Halo Reach [RF][ENG]-fanart.jpg</fanart>
+		<rating>0.9</rating>
+		<releasedate>20100914T000000</releasedate>
+		<developer>Bungie</developer>
+		<publisher>Microsoft</publisher>
+		<genre>Action</genre>
+		<family>Halo</family>
+		<players>2-16</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T050422" />
+	</game>
+	<game id="16164">
+		<path>./Games/Halo Wars [RF].iso</path>
+		<name>Halo Wars</name>
+		<desc>Halo Wars is a strategy game based on the legendary Halo universe. Join the Spirit of Fire crew in their battle against the Covenant alien coalition and prepare to command entire armies of Spartans, warthogs and more. Halo Wars will allow you to easily lead powerful armies in epic battles.</desc>
+		<image>./images/Halo Wars [RF]-image.png</image>
+		<video>./videos/Halo Wars [RF]-video.mp4</video>
+		<marquee>./images/Halo Wars [RF]-marquee.png</marquee>
+		<thumbnail>./images/Halo Wars [RF]-thumb.png</thumbnail>
+		<fanart>./images/Halo Wars [RF]-fanart.jpg</fanart>
+		<rating>0.8</rating>
+		<releasedate>20090303T000000</releasedate>
+		<developer>Ensemble Studios</developer>
+		<publisher>Microsoft</publisher>
+		<genre>Strategy</genre>
+		<players>2-6</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T050445" />
+	</game>
+	<game id="17398">
+		<path>./Games/Happy Feet 2 [RF].iso</path>
+		<name>Happy Feet 2</name>
+		<marquee>./images/Happy Feet 2 [RF]-marquee.png</marquee>
+		<developer>KMM Games</developer>
+		<publisher>Warner Bros. Interactive</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T050450" />
+	</game>
+	<game id="16220">
+		<path>./Games/Harry Potter and the Deathly Hallows - Part 1 [RF].iso</path>
+		<name>Harry Potter And The Deathly Hallows - Part 1</name>
+		<marquee>./images/Harry Potter and the Deathly Hallows - Part 1 [RF]-marquee.png</marquee>
+		<rating>0.55</rating>
+		<releasedate>20101116T000000</releasedate>
+		<developer>Electronic Arts</developer>
+		<genre>Adventure</genre>
+		<family>Harry Potter</family>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T050456" />
+	</game>
+	<game id="17030">
+		<path>./Games/History Legends of War Patton [NTSCU].iso</path>
+		<name>History Legends of War : Patton</name>
+		<desc>History Legends of War: Patton is a turn-based strategy game and the follow-up to Legends of War: Patton's Campaign. The game puts you in control of General Patton's army during World War II. Players can go through the whole war, from Belgium to the beaches of France. A small unit of army men is guided as they battle through 21 unique missions. There are four different styles of missions: Attack, Defense, Infiltration, and Sabotage. Attack involves simply eliminating the enemies units, while defense involves resisting enemy attacks over a set number of turns. Infiltration involves completing various missions with your infantrymen while going undetected by enemy units, with Sabotage being the opposite.</desc>
+		<fanart>./images/History Legends of War Patton [NTSCU]-fanart.jpg</fanart>
+		<rating>0.8</rating>
+		<releasedate>20121120T000000</releasedate>
+		<developer>Enigma Software</developer>
+		<publisher>Maximum Games</publisher>
+		<genre>Strategy</genre>
+		<players>1-2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T050502" />
+	</game>
+	<game id="17670">
+		<path>./Games/Hot Wheels Beat That [RF].iso</path>
+		<name>Hot Wheels : Beat That !</name>
+		<desc>Choose your car, grab the wheel, and send Mattel's miniature machines racing with Hot Wheels: Beat That! Players can choose from 30 awesome cars authentically modeled from the design specs of official Hot Wheels car models as they compete against friends or the computer AI on an assortment of tracks that run through bedrooms, backyards, and similar neighborhood settings. Each course offers multiple loops, drop-offs, ramps, and jumps, as players race across multiple laps in a variety of life-sized environments to make it first across the finish line!</desc>
+		<fanart>./images/Hot Wheels Beat That [RF]-fanart.jpg</fanart>
+		<rating>0.6</rating>
+		<releasedate>20070925T000000</releasedate>
+		<developer>Eutechnyx</developer>
+		<publisher>Activision</publisher>
+		<genre>Race, Driving</genre>
+		<family>Hot Wheels</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T050507" />
+	</game>
+	<game id="17053">
+		<path>./Games/Hour of Victory [PAL][NTSCU].iso</path>
+		<name>Hour Of Victory</name>
+		<rating>0.45</rating>
+		<developer>N-Fusion Interactive</developer>
+		<publisher>Warner Bros. Interactive</publisher>
+		<genre>Action</genre>
+		<players>1-12</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T050509" />
+	</game>
+	<game id="16300">
+		<path>./Games/Kameo Elements of Power [NTSCU].iso</path>
+		<name>Kameo : Elements of Power</name>
+		<desc>Kameo: Elements of Power for Xbox 360 is an action-adventure game in which you play as a being capable of transforming into almost anything. Assume the power of your inner warriors to fly to the rescue of your Elemental Ancestors and eliminate Thorn, the evil king of the Trolls.</desc>
+		<image>./images/Kameo Elements of Power [NTSCU]-image.jpg</image>
+		<marquee>./images/Kameo Elements of Power [NTSCU]-marquee.png</marquee>
+		<thumbnail>./images/Kameo Elements of Power [NTSCU]-thumb.png</thumbnail>
+		<manual>./manuals/Kameo Elements of Power [NTSCU]-manual.pdf</manual>
+		<rating>0.85</rating>
+		<developer>Microsoft</developer>
+		<publisher>Rareware</publisher>
+		<genre>Adventure</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T050531" />
+	</game>
+	<game id="201983">
+		<path>./Games/Kengo Legend of the 9 [NTSCU].iso</path>
+		<name>Kengo : Legend of the 9</name>
+		<desc>Join renowned samurai in Kengo Zero on Xbox 360, a sword fighting game that focuses more on technique than on showmanship, and that offers the best swordsmen to fight in feudal Japan. Sharpen your mind as much as your blade and use cunning and anticipation to get the better of your opponent, while respecting the bushido code.</desc>
+		<rating>0.5</rating>
+		<releasedate>20070911T000000</releasedate>
+		<developer>Genki</developer>
+		<publisher>Majesco</publisher>
+		<genre>Fight</genre>
+		<players>1-2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T050534" />
+	</game>
+	<game id="16615">
+		<path>./Games/Kingdom Under Fire Circle of Doom [RF].iso</path>
+		<name>Kingdom under Fire : Circle of Doom</name>
+		<desc>Kingdom under Fire: Circle of Doom on Xbox 360 is an action game with some role-playing elements focused on character development. Choose from 6 heroes, each wielding 5 to 6 types of weapons, learn over 60 spells and 50 skills to defend yourself in randomly generated dungeons to fight against evil creatures.</desc>
+		<image>./images/Kingdom Under Fire Circle of Doom [RF]-image.png</image>
+		<rating>0.65</rating>
+		<releasedate>20080109T000000</releasedate>
+		<developer>Blueside Studios</developer>
+		<publisher>Phantagram Interactive</publisher>
+		<players>2-4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T050541" />
+	</game>
+	<game id="15981">
+		<path>./Games/Left 4 Dead 2 [RF].iso</path>
+		<name>Left 4 Dead 2</name>
+		<desc>Battle the infected again in the sequel to Valve's original hit.
+View larger.
+
+Left 4 Dead 2 is set at roughly the same time as the original ? just after the outbreak that turned most of the population into various zombie mutants. Players assume the role of four new "Survivors," each with their own personality and new dialog. The game leads these "Survivors" through the southeastern region of the US - from Savannah, Georgia through the bayou country, and climaxing in New Orleans? French Quarter.</desc>
+		<marquee>./images/Left 4 Dead 2 [RF]-marquee.png</marquee>
+		<thumbnail>./images/Left 4 Dead 2 [RF]-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<developer>Valve</developer>
+		<publisher>Valve</publisher>
+		<genre>Shooter / 1st person</genre>
+		<family>Left 4 Dead</family>
+		<players>8</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T050551" />
+	</game>
+	<game id="16590">
+		<path>./Games/Legendary [NTSCU].iso</path>
+		<name>Legendary</name>
+		<manual>./manuals/Legendary [NTSCU]-manual.pdf</manual>
+		<rating>0.55</rating>
+		<developer>Spark Unlimited</developer>
+		<publisher>Gamecock Media Group</publisher>
+		<genre>Action</genre>
+		<players>2-8</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T050558" />
+	</game>
+	<game id="16105">
+		<path>./Games/Lego Batman 2 DC Super Heroes [RF].iso</path>
+		<name>LEGO Batman 2 : DC Super Heroes</name>
+		<desc>LEGO Batman 2: DC Super Heroes is an action game and the sequel to LEGO Batman: The Videogame. Just like the first game it draws elements from the Batman universe but built entirely in LEGO-style bricks. It starts when a "Man of the Year" award ceremony in Gotham City is interrupted by the Joker and a gang of bandits. Bruce Wayne is a candidate for the award and changes into Batman to pursue them, teaming up with members of the Justice League.</desc>
+		<image>./images/Lego Batman 2 DC Super Heroes [RF]-image.jpg</image>
+		<video>./videos/Lego Batman 2 DC Super Heroes [RF]-video.mp4</video>
+		<marquee>./images/Lego Batman 2 DC Super Heroes [RF]-marquee.png</marquee>
+		<thumbnail>./images/Lego Batman 2 DC Super Heroes [RF]-thumb.png</thumbnail>
+		<fanart>./images/Lego Batman 2 DC Super Heroes [RF]-fanart.jpg</fanart>
+		<manual>./manuals/Lego Batman 2 DC Super Heroes [RF]-manual.pdf</manual>
+		<rating>0.85</rating>
+		<developer>Travellers Tales</developer>
+		<publisher>Warner Bros. Interactive</publisher>
+		<genre>Adventure</genre>
+		<family>Batman</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T050626" />
+	</game>
+	<game id="15712">
+		<path>./Games/Lego Batman 3 Beyond Gotham [RF].iso</path>
+		<name>LEGO Batman 3: Beyond Gotham</name>
+		<desc>LEGO Batman 3: Beyond Gotham is the third LEGO game based on DC Comics characters. While it prominently features Batman and his supporting cast, as indicated by the subtitle it moves beyond Gotham City into all corners of the DC universe, featuring the Justice League, the Legion of Doom and several Lantern Corps, with all sorts of heroes and villains making an appearance, and the story moving from Earth to outer space and several other planets.</desc>
+		<marquee>./images/Lego Batman 3 Beyond Gotham [RF]-marquee.png</marquee>
+		<fanart>./images/Lego Batman 3 Beyond Gotham [RF]-fanart.jpg</fanart>
+		<rating>0.9</rating>
+		<developer>TT Games</developer>
+		<publisher>Warner Bros. Interactive</publisher>
+		<genre>Platform</genre>
+		<family>Batman</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T050635" />
+	</game>
+	<game id="16062">
+		<path>./Games/Lego Harry Potter Years 1-4 [RF].iso</path>
+		<name>Lego Harry Potter: Years 1-4</name>
+		<marquee>./images/Lego Harry Potter Years 1-4 [RF]-marquee.png</marquee>
+		<thumbnail>./images/Lego Harry Potter Years 1-4 [RF]-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<developer>Warner Bros. Interactive</developer>
+		<publisher>TT Games</publisher>
+		<genre>Adventure</genre>
+		<family>LEGO</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T050645" />
+	</game>
+	<game id="16129">
+		<path>./Games/Lego Harry Potter Years 5-7 [RF].iso</path>
+		<name>Lego Harry Potter: Years 5–7</name>
+		<desc>Lego Harry Potter: Years 5 to 7 on Xbox 360 is an action/adventure game that lets you relive the adventures of the young wizard Harry Potter. Swing various spells to progress through the scenario of the last three films and collect a host of bonuses of all kinds, both in solo and in cooperation.</desc>
+		<marquee>./images/Lego Harry Potter Years 5-7 [RF]-marquee.png</marquee>
+		<rating>0.85</rating>
+		<developer>Warner Bros. Interactive</developer>
+		<publisher>TT Games</publisher>
+		<genre>Adventure</genre>
+		<family>LEGO</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T050653" />
+	</game>
+	<game id="15863">
+		<path>./Games/Lego Marvel Super Heroes [RF].iso</path>
+		<name>Lego Marvel Super Heroes</name>
+		<desc>LEGO Marvel, Super Heroes features an original story crossing the entire Marvel Universe. Players take control of Iron Man, Spider-Man, the Hulk, Captain America, Wolverine and many more Marvel characters as they unite to stop Loki and a host of other Marvel villains from assembling a super-weapon capable of destroying the world.</desc>
+		<marquee>./images/Lego Marvel Super Heroes [RF]-marquee.png</marquee>
+		<fanart>./images/Lego Marvel Super Heroes [RF]-fanart.jpg</fanart>
+		<rating>0.85</rating>
+		<developer>Warner Bros. Interactive</developer>
+		<publisher>TT Games</publisher>
+		<genre>Adventure</genre>
+		<family>LEGO</family>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T050701" />
+	</game>
+	<game id="16383">
+		<path>./Games/Lego Star Wars II - The Original Trilogy [PAL][NTSCU].iso</path>
+		<name>LEGO Star Wars II : The Original Trilogy</name>
+		<desc>Lego Star Wars II: The Original Trilogy on Xbox 360 is an action game in which we find the little yellow men retracing the origins of the saga of George Lucas. You'll find A New Hope, The Empire Strikes Back and Return of the Jedi in a single game where you can control any character in the series and redo the levels with anyone. Use the power of the Force and your lightsaber to defeat Darth Vader.</desc>
+		<marquee>./images/Lego Star Wars II - The Original Trilogy [PAL][NTSCU]-marquee.png</marquee>
+		<thumbnail>./images/Lego Star Wars II - The Original Trilogy [PAL][NTSCU]-thumb.png</thumbnail>
+		<fanart>./images/Lego Star Wars II - The Original Trilogy [PAL][NTSCU]-fanart.jpg</fanart>
+		<rating>0.85</rating>
+		<releasedate>20060911T000000</releasedate>
+		<developer>Travellers Tales</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Action / Adventure</genre>
+		<family>LEGO</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T050716" />
+	</game>
+	<game id="16181">
+		<path>./Games/Lego Star Wars III - The Clone Wars [RF].iso</path>
+		<name>LEGO Star Wars III : The Clone Wars</name>
+		<marquee>./images/Lego Star Wars III - The Clone Wars [RF]-marquee.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20110322T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Travellers Tales</publisher>
+		<genre>Platform</genre>
+		<family>Star Wars</family>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T050721" />
+	</game>
+	<game id="16131">
+		<path>./Games/Lego Star Wars The Complete Saga [RF].iso</path>
+		<name>LEGO Star Wars: The Complete Saga</name>
+		<marquee>./images/Lego Star Wars The Complete Saga [RF]-marquee.png</marquee>
+		<rating>0.8</rating>
+		<developer>Activision</developer>
+		<publisher>Travellers Tales</publisher>
+		<genre>Platform</genre>
+		<family>LEGO</family>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T050727" />
+	</game>
+	<game id="17246">
+		<path>./Games/Lips I Love The 80s [RF].iso</path>
+		<name>Lips : I Love the 80s</name>
+		<rating>0.75</rating>
+		<developer>iNiS</developer>
+		<publisher>Microsoft</publisher>
+		<genre>Music and Dance</genre>
+		<players>2-4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T050729" />
+	</game>
+	<game id="16957">
+		<path>./Games/Lips [RF].iso</path>
+		<name>Lips</name>
+		<rating>0.7</rating>
+		<developer>iNiS</developer>
+		<publisher>Microsoft</publisher>
+		<genre>Casual Game</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T050732" />
+	</game>
+	<game id="16953">
+		<path>./Games/Looney Tunes Acme Arsenal [NTSCU].iso</path>
+		<name>Looney Tunes : Acme Arsenal</name>
+		<desc>Looney Tunes: Acme Arsenal is an action-adventure game featuring seven playable Looney Tunes characters, including Bugs Bunny, Daffy Duck, Tazmanian Devil, Foghorn Leghorn, Marvin the Martian, Gossamer and a special secret character, all rendered in high-definition, next-generation graphics. Engaging in one or two player cooperative gameplay, gamers find themselves immersed in fast-paced combat, puzzle solving challenges and vehicle-based action in rich environments inspired by the popular, outlandish cartoon tales. Players command an arsenal of ACME melee and projectile weapons in outrageous battles and travel to various locations such as Camelot, Ancient Egypt, Mars, the Wild West, the trenches of World War II and more. The Xbox 360 version allows players to fully utilize real-time physics and animation blending and Xbox Live online entertainment network will allow for two player cooperative game play.</desc>
+		<marquee>./images/Looney Tunes Acme Arsenal [NTSCU]-marquee.png</marquee>
+		<rating>0.25</rating>
+		<developer>Warner Bros. Interactive</developer>
+		<publisher>Red Tribe</publisher>
+		<genre>Adventure</genre>
+		<family>Looney Tunes</family>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T050738" />
+	</game>
+	<game id="16341">
+		<path>./Games/Lost Planet 2 [RF].iso</path>
+		<name>Lost Planet 2</name>
+		<desc>Lost Planet 2 is an action game for Xbox 360. Taking place 10 years after the events of the first episode, the game offers us to face the terrible Akrids and various human factions through 6 distinct campaigns. If the game is playable in solo, it lends itself more to cooperation between 4 warriors. Progressing through the missions allows you to unlock upgrades for your soldier, with a view to classic multiplayer matches, capable of hosting up to 16 players at the same time.</desc>
+		<rating>0.7</rating>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<family>Lost Planet</family>
+		<players>2-4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T050740" />
+	</game>
+	<game id="16755">
+		<path>./Games/Lost Planet Extreme Condition Colonies Edition [RF].iso</path>
+		<name>Lost Planet : Extreme Condition : Colonies Edition</name>
+		<desc>Lost Planet: Extreme Condition is an action game that takes place on a distant planet completely frozen and populated by giant insects not really friendly. You play as Wayne, a member of the army who must get rid of the Akrids and avenge his father.</desc>
+		<manual>./manuals/Lost Planet Extreme Condition Colonies Edition [RF]-manual.pdf</manual>
+		<rating>0.75</rating>
+		<releasedate>20080527T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<family>Lost Planet</family>
+		<players>2-16</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T050747" />
+	</game>
+	<game id="17194">
+		<path>./Games/Madagascar 2 [RF].iso</path>
+		<name>Madagascar 2</name>
+		<desc>The crazy animals of Madagascar are back on Xbox 360! In this second opus, save the African savannah and relive the best moments of the film. You play as Alex the lion, Marty the zebra, Melman the giraffe and Gloria the hippo. There are 13 different levels, as well as 10 mini-games, using moves specific to each character.</desc>
+		<rating>0.6</rating>
+		<developer>Toys For Bob</developer>
+		<publisher>Activision</publisher>
+		<genre>Platform</genre>
+		<players>1-4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T050749" />
+	</game>
+	<game id="16333">
+		<path>./Games/Madden NFL 25 [RF].iso</path>
+		<name>Madden Nfl 25</name>
+		<desc>Madden NFL 25 is an American football simulation available on Xbox 360. This episode is supposed to celebrate the 25th anniversary of the series, and includes right-stick running and the ability to play as a club owner and manage the financial aspects of a franchise.</desc>
+		<thumbnail>./images/Madden NFL 25 [RF]-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<developer>EA Sports</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Sports / Football</genre>
+		<family>Madden NFL</family>
+		<players>6</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T050755" />
+	</game>
+	<game id="201823">
+		<path>./Games/Marvel Ultimate Alliance 2 [RF].iso</path>
+		<name>Marvel - Ultimate Alliance 2</name>
+		<desc>During a battle between superheroes and super villains, an explosion killed 600 people. The government decides to introduce a law that consists of taking a census of all super humans and finding out their true identity. Decide whether to support this law or to fight against it by playing the character of your choice among the twenty-four available.</desc>
+		<thumbnail>./images/Marvel Ultimate Alliance 2 [RF]-thumb.png</thumbnail>
+		<developer>Vicarious Vision</developer>
+		<publisher>Activision</publisher>
+		<genre>Role playing games / Action RPG</genre>
+		<players>1-4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T050801" />
+	</game>
+	<game id="16324">
+		<path>./Games/Marvel vs. Capcom 3 Fate of Two Worlds [RF].iso</path>
+		<name>Marvel vs. Capcom 3 : Fate of Two Worlds</name>
+		<desc>Marvel vs. Capcom 3: Fate of Two Worlds is a 2D fighting game for Xbox 360. You will find forty characters from comic books or video games such as Iron Man, Dante or Viewtiful Joe. The combat system is enhanced with new features such as Team Aerials Combos, a combo to be performed by several players, or the X-factor, which allows you to regain punch in a critical state.</desc>
+		<rating>0.8</rating>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight</genre>
+		<family>Marvel Vs. Capcom</family>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T050803" />
+	</game>
+	<game id="16479">
+		<path>./Games/Pro Evolution Soccer 2009 [NTSCU].iso</path>
+		<name>Pro Evolution Soccer 2009</name>
+		<desc>Pro Evolution Soccer 2009 on Xbox 360 is a football simulation focused on realism. Among the new features of this version, we note a reproduction of the Champions League, improved modelling of the players, a larger base of player licences as well as a real improvement in ball control in passing or the construction of an attack. Not forgetting the online mode and the possibility of playing as a single player on the pitch...</desc>
+		<marquee>./images/Pro Evolution Soccer 2009 [NTSCU]-marquee.png</marquee>
+		<rating>0.7</rating>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Sports / Soccer</genre>
+		<family>Pro Evolution Soccer</family>
+		<players>7</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T050808" />
+	</game>
+	<game id="15645">
+		<path>./Games/Pro Evolution Soccer 2015 [NTSCU][BR][MEX].iso</path>
+		<name>Pro Evolution Soccer 2015</name>
+		<desc>PES 2015: Pro Evolution Soccer is the 2015 title in the football series and the first for the PS4 and Xbox One platforms. General improvements include improved presentation and animations, more responsive players, enhanced artificial intelligence especially for team tactics and a better use of how statistics influence individual players. Licenses include the Champions League, Europa League, Asian Champions League, Copa Libertadores and Copa Sudamericana, as well as general leagues and cups. It also has second division for English, Italy and Spain.</desc>
+		<image>./images/Pro Evolution Soccer 2015 [NTSCU][BR][MEX]-image.jpg</image>
+		<thumbnail>./images/Pro Evolution Soccer 2015 [NTSCU][BR][MEX]-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>20141111T000000</releasedate>
+		<developer>PES Productions</developer>
+		<publisher>Konami</publisher>
+		<genre>Sports / Soccer</genre>
+		<family>Pro Evolution Soccer</family>
+		<players>4+</players>
+		<lang>br</lang>
+		<region>br</region>
+		<scrap name="ScreenScraper" date="20231213T050817" />
+	</game>
+	<game id="16757">
+		<path>./Games/Quake 4 [RF][DVD1].iso</path>
+		<name>Quake 4</name>
+		<desc>Quake 4 is the true sequel to Quake II, continuing the Strogg vs. Humans storyline from the point where Quake II ended. The Strogg is an alien cyborg race which, much like the Star Trek Borg race from which they seem to be partly inspired, wander the galaxy conquering planets and wiping civilizations. Their sole purpose is to collect organic body parts with which to swell their ranks. After a prolonged war, the united armed forces of Earth decided to launch a desperate counter attack on the home planet of the invaders, Stroggos. By some twist of fate a sole marine was able to disable the Strogg main planetary defense (aka The Big Gun) and kill Makron, their leader. That was the end of Quake II. The second wave of attack is meant to land on Stroggos and take advantage of the brief disorder, ending the threat of the Strogg forever. Of course it will not be that easy...</desc>
+		<thumbnail>./images/Quake 4 [RF][DVD1]-thumb.png</thumbnail>
+		<fanart>./images/Quake 4 [RF][DVD1]-fanart.jpg</fanart>
+		<manual>./manuals/Quake 4 [RF][DVD1]-manual.pdf</manual>
+		<rating>0.75</rating>
+		<releasedate>20051118T000000</releasedate>
+		<developer>Raven Software</developer>
+		<publisher>Activision</publisher>
+		<genre>Shooter / 1st person</genre>
+		<family>Quake</family>
+		<players>8</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T050830" />
+	</game>
+	<game id="16911">
+		<path>./Games/Quantum Theory [NTSCU].iso</path>
+		<name>Quantum Theory</name>
+		<desc>It has been 300 years since humanity collapsed in the wake of a great war. Nearly all of civilization destroyed, only small groups continue to live on in the wasteland. However, in the wasteland, there are strange towers that have appeared. Seemingly sentient, nobody knows who built them or why, only that anyone who ventures near will know only death. From these towers comes a mysterious substance called diablosis, which corrupts those who touch it, turning them into murderous killing machines. One man, known only as Syd, has made it his mission to destroy these towers and stop the diablosis.</desc>
+		<rating>0.4</rating>
+		<releasedate>20100902T000000</releasedate>
+		<developer>Tecmo</developer>
+		<publisher>Tecmo</publisher>
+		<players>2-8</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T050833" />
+	</game>
+	<game id="16175">
+		<path>./Games/R.U.S.E. [RF].iso</path>
+		<name>R.u.s.e.</name>
+		<desc>R.U.S.E. is a real-time strategy game on 360 that takes us to the middle of World War II, through 23 missions of progressive difficulty. The title is based on a classic system of resource acquisition and unit construction, but introduces the concept of "tricks", powers that allow you to obtain information or, on the contrary, to deceive the enemy. The game also offers a complete multiplayer mode, supported by a system of leagues and experience points.</desc>
+		<rating>0.85</rating>
+		<developer>Eugen Systems</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Strategy</genre>
+		<players>2-8</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T050834" />
+	</game>
+	<game id="16783">
+		<path>./Games/Race Pro [RF].iso</path>
+		<name>Race Pro</name>
+		<desc>Race Pro is a driving sim developed by the acclaimed sim specialist Simbin exclusively for the Xbox 360. Unlike SimBin's PC racing games it features the new Lizard game engine. Race Pro is the company's first console game. Unlike a lot of current racing games, Race Pro features real life racing events that include the WTCC, Formula 3000 and Formula BMW, and feature tracks like Macau and Porto, as well as Laguna Seca in the US.
+nnAs with many other racing games, you will have driver assists to help you round the track, but this can be turned off completely if unwanted. As well as the standard controller, you can also use all of the major force feedback controllers that are available for the 360. The majority of the people featured in Race Pro are real people, and features all the 2007 WTCC drivers as well as other famous drivers such as Tiff Needel and Tor Graves.</desc>
+		<rating>0.7</rating>
+		<developer>Atari</developer>
+		<publisher>SimBin Development Team</publisher>
+		<genre>Race, Driving</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T050837" />
+	</game>
+	<game id="16034">
+		<path>./Games/Rage [NTSCU][DVD1].iso</path>
+		<name>Rage</name>
+		<desc>Rage is id Software's first major first-person-shooter since Doom 3, and the debut of the id Tech 5 game engine. Tech 5's major feature is use of Megatexture technology, essentially allowing for more efficient use of limited memory. As such, Rage is the first id game created predominately with consoles in mind.
+
+Rage takes place an unspecified time after an asteroid strikes the Earth and obliterates all life. The player is a member of the "Ark Project" - a massive undertaking prior to the meteor's impact that placed valuable personnel into underground pods. The pods were meant to keep these VIPs in stasis until the impact's effects had passed, and then release their crew out to repopulate the world. The player awakens as the sole survivor of their damaged pod, and many decades after society had already started to rebuild. The player thus sets off to assist what settlements they find, and avoid The Authority - a mysterious governing force that wants to capture the player to harvest the nanites placed in their body as part of the Ark Project.</desc>
+		<marquee>./images/Rage [NTSCU][DVD1]-marquee.png</marquee>
+		<fanart>./images/Rage [NTSCU][DVD1]-fanart.jpg</fanart>
+		<rating>0.8</rating>
+		<releasedate>20111004T000000</releasedate>
+		<developer>id Software</developer>
+		<publisher>Bethesda Softworks</publisher>
+		<genre>Shooter / 1st person</genre>
+		<family>Rage</family>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T050846" />
+	</game>
+	<game id="15810">
+		<path>./Games/Rayman Legends [RF].iso</path>
+		<name>Rayman Legends</name>
+		<desc>Summary: Rayman Legends is the follow-up to last year's Rayman Origins and aims to bring multiplayer interactions for you to use. The Glade of Dreams is in trouble again. During a 100-year nap, the nightmares multiplied and spread, creating new monsters even scarier than before. These creatures are the stuff of legend? Dragons, giant toads, sea monsters, and even evil luchadores. With the help of Murfy, Rayman and Globox awake and must now help fight these nightmares and save the Teensies.</desc>
+		<image>./images/Rayman Legends [RF]-image.jpg</image>
+		<marquee>./images/Rayman Legends [RF]-marquee.png</marquee>
+		<thumbnail>./images/Rayman Legends [RF]-thumb.png</thumbnail>
+		<fanart>./images/Rayman Legends [RF]-fanart.jpg</fanart>
+		<manual>./manuals/Rayman Legends [RF]-manual.pdf</manual>
+		<rating>0.9</rating>
+		<releasedate>20130903T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Platform</genre>
+		<family>Rayman</family>
+		<players>4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T050910" />
+	</game>
+	<game id="16113">
+		<path>./Games/Rayman Origins [RF].iso</path>
+		<name>Rayman Origins</name>
+		<desc>Rayman Origins is a platform game for Xbox 360. The title offers old-school gameplay in two dimensions and returns to the roots of the series. Through nearly 60 levels, the player must free small creatures called Electoons and collect Lums while being wary of the traps and numerous enemies that await him. Rayman Origins is also playable in 4 player co-op.</desc>
+		<image>./images/Rayman Origins [RF]-image.jpg</image>
+		<video>./videos/Rayman Origins [RF]-video.mp4</video>
+		<marquee>./images/Rayman Origins [RF]-marquee.png</marquee>
+		<thumbnail>./images/Rayman Origins [RF]-thumb.png</thumbnail>
+		<fanart>./images/Rayman Origins [RF]-fanart.jpg</fanart>
+		<rating>0.9</rating>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Platform</genre>
+		<family>Rayman</family>
+		<players>4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T050930" />
+	</game>
+	<game id="15896">
+		<path>./Games/Resident Evil 5 [RF].iso</path>
+		<name>Resident Evil 5</name>
+		<desc>Produced by series veteran Jun Takeuchi, this next-generation follow-up to the terrifying series introduces the theme of escape as its core survival instinct. As Chris Redfield (former S.T.A.R.S. member and now part of the BSAA unit), your life is in danger as you strive to complete your most dangerous mission yet in a sweltering desert colony where a new breed of evil has been unleashed. Swarms of marauding evil beings will charge at you when your pulse is racing at a heart-shattering pace. Environments will play a bigger factor than ever here, using the power of next-gen systems to create a world where terror might lurk in any alcove or shadow. Powerful lighting effects overwhelm the player with mirage movement and blinding brilliance, and even in the light of day, there is no safe haven in this Resident Evil.</desc>
+		<marquee>./images/Resident Evil 5 [RF]-marquee.png</marquee>
+		<thumbnail>./images/Resident Evil 5 [RF]-thumb.png</thumbnail>
+		<fanart>./images/Resident Evil 5 [RF]-fanart.jpg</fanart>
+		<rating>0.8</rating>
+		<releasedate>20090313T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Adventure / Survival Horror</genre>
+		<family>Resident Evil</family>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T050944" />
+	</game>
+	<game id="16829">
+		<path>./Games/Ridge Racer 6 [PAL][NTSCU].iso</path>
+		<name>Ridge Racer 6</name>
+		<desc>Big drift racing is back in Ridge Racer 6. There are 130 cars, loads of prizes and other unlockables in World Xplorer mode. World Xplorer sees you going through a hexagonal based "universe" from easy to difficult races. Nitro is gained by drifting and jumping through the races and allows you to build up three nitro boost cells to use one at a time or one after the other for a bigger boost.
+
+For the first time in the series, Ridge Racer goes online with Online Battle Mode allowing up to 14 players to drift against each other. Also, if you don't want to race you can watch other players racing on Spectator mode. Global Time Attack mode challenges you to get the best times and upload them to the scoreboards, to see if you are best in the world or not.</desc>
+		<image>./images/Ridge Racer 6 [PAL][NTSCU]-image.png</image>
+		<rating>0.75</rating>
+		<releasedate>20051122T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Race, Driving</genre>
+		<family>Ridge Racer</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T050950" />
+	</game>
+	<game id="16547">
+		<path>./Games/Rumble Roses XX [NTSCU][NTSCJ].iso</path>
+		<name>Rumble Roses Xx</name>
+		<desc>Rumble Roses XX is a wrestling game for the Xbox 360 featuring all-female fighters. Gameplay allows you to perform various types of moves, including holds, throws, reversals and finishing moves. There are several modes of play, including handicap and tag-team matches, elimination matches, and more. Online play is available through Xbox Live for 2-4 players at a time. As you progress through the game, you can unlock different items to customize your character, along with entrance animations, penalty games, and other surprises.</desc>
+		<thumbnail>./images/Rumble Roses XX [NTSCU][NTSCJ]-thumb.png</thumbnail>
+		<rating>0.6</rating>
+		<releasedate>20060328T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Fight</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T050955" />
+	</game>
+	<game id="16036">
+		<path>./Games/Sacred 2 Fallen Angel [RF].iso</path>
+		<name>Sacred 2 : Fallen Angel</name>
+		<desc>Although Sacred 2: Fallen Angel is the successor to Sacred, the game takes place 2,000 years before Shaddar summoned the Sakkara-Demon. Set in Ancaria which is at the brink of another war, the player's goal is to prevent this war. However, it's entirely up to the player if the Light or the Chaos will prevail in the end.
+
+All that just because of a godly energy called T-Energy. Once guarded by the Seraphim, then controlled by the High Elves, its exploitation was highly debated even among the High Elves, while more and more resistance began to form. In the end, what was feared to happen, happened: the big war started. Dragonkins, Temple Wardens, Humans, and Orcs fought side by side against the High Elves, but their power was already too great. After all of Ancaria was completely destroyed, they remained in control over the T-Energy. In the end even the remaining High Elves left their old home and built a new empire completely based on the powers of the T-Energy and inside that new home the tension between the high nobility and the clergy is escalating.</desc>
+		<thumbnail>./images/Sacred 2 Fallen Angel [RF]-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>20090512T000000</releasedate>
+		<developer>Ascaron Software</developer>
+		<publisher>KOCH Media</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T051001" />
+	</game>
+	<game id="17013">
+		<path>./Games/Samurai Shodown Sen [RF].iso</path>
+		<name>Samurai Shodown Sen</name>
+		<desc>Samurai Shodown Sen on Xbox 360 from the famous fighting game licence is back for a new opus this time entirely in 3D. No less than 13 characters from the original licence will cross swords with 11 newcomers, always in the 18th century Japanese atmosphere to which the series has accustomed us.</desc>
+		<image>./images/Samurai Shodown Sen [RF]-image.jpg</image>
+		<rating>0.35</rating>
+		<developer>Xseed Games</developer>
+		<publisher>SNK</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Samurai Shodown</family>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T051007" />
+	</game>
+	<game id="17021">
+		<path>./Games/Samurai Warriors 2 [PAL][NTSCU].iso</path>
+		<name>Samurai Warriors 2</name>
+		<desc>Samurai Warriors 2 on Xbox 360 is a beat'em all where you can choose from 26 playable characters. Ten new warriors ready to fight appear, among them the unifier of Japan Tokugawa Ieyasu, the legendary Miyamoto Musashi or the mysterious Fûma Kotarô. Battle your way through levels filled with enemies and slaughter every last one of them.</desc>
+		<thumbnail>./images/Samurai Warriors 2 [PAL][NTSCU]-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<developer>Koei</developer>
+		<publisher>Koei</publisher>
+		<genre>Beat'em Up</genre>
+		<family>Samurai Warriors</family>
+		<players>4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T051013" />
+	</game>
+	<game id="16976">
+		<path>./Games/SBK X Superbike World Championship [NTSCU].iso</path>
+		<name>SBK X : Superbike World Championship</name>
+		<desc>SBK X is the newest iteration of the official videogame series accompanying the Superbike World Championship and based on the 2009 season. This time around the game not only features all the official tracks, drivers, motorcycles and sessions from the Superbike class but also introduces Supersport and Superstock 1000 into the mix. In addition the new Evolving Track feature is introduced. Thanks to this system, the track "rubbers" over time, revealing the best trajectories and allowing the player to enjoy better grip. The system also works for wet races. Here the track dries up faster where most of the riders drive, keeping the player on his toes with constantly changing circumstances.
+
+To enjoy the new features, the player has the choice between Arcade and Simulation Mode at the start of the game:
+
+    Arcade Mode: This mode allows for wheelies and break off beyond the limits without the fear of falling off. The core is the Story Mode in which the player starts out in the Superstock 1000, By gaining reputation points he'll slowly make his way up to the World Superbike Championship. Reputation points are earned by fulfilling the objects during each race. To that end, the races often don't start at the beginning. Instead the player e.g. has to make his way to the 10th place, starting from the 14th in only two rounds.
+
+    Simulation Mode: Here, everything is about realism - even on the lowest setting. The core is the career mode. The player once again starts out in the Superstock 1000 and has 8 seasons to become the new Superbike World Champion. But instead of challenges and chapters, this is the real deal featuring complete races (including qualifying and warm-up), a very sensitive control scheme and tons of ways to change the settings on the motorcycle to best suit the needs of the track and the player
+
+Both modes require the player to create an individual rider by choosing his look, his outfit as well as his riding style and feature several quick-play-options. A multiplayer mode for up to 16 riders is also available sporting quick races, time attack as well as personalized single and team championships.</desc>
+		<rating>0.8</rating>
+		<developer>Black Bean</developer>
+		<publisher>Milestone</publisher>
+		<genre>Race, Driving / Motorcycle</genre>
+		<players>2-16</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T051016" />
+	</game>
+	<game id="17102">
+		<path>./Games/Section 8 [PAL][NTSCU].iso</path>
+		<name>Section 8</name>
+		<desc>Section 8 is a FPS for Xbox 360 that invites you to join an elite unit of soldiers engaged in a futuristic conflict. Oriented mainly towards multiplayer, Section 8 combines confrontation and tactics, in the sense that you yourself can choose your arrival zone on the battlefield. Special events that occur during the course of the game even add to the dynamism of the game.</desc>
+		<thumbnail>./images/Section 8 [PAL][NTSCU]-thumb.png</thumbnail>
+		<rating>0.55</rating>
+		<releasedate>20090901T000000</releasedate>
+		<developer>TimeGate Studios</developer>
+		<publisher>Southpeak Interactive</publisher>
+		<genre>Action</genre>
+		<players>2-32</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T051022" />
+	</game>
+	<game id="16907">
+		<path>./Games/Shadowrun [NTSCU].iso</path>
+		<name>Shadowrun</name>
+		<desc>Shadowrun is a first-person shooter for Xbox 360. War rages between two antagonistic factions in a cyberpunk universe where high technology meets magic. Humans, elves and dwarves are at each other's throats, and it's up to you to impose your law. Three game modes await you in multiplayer, as well as nine levels to complete in solo. In multiplayer, Shadowrun allows you to mix console and PC players.</desc>
+		<marquee>./images/Shadowrun [NTSCU]-marquee.png</marquee>
+		<thumbnail>./images/Shadowrun [NTSCU]-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<developer>Fasa Studio</developer>
+		<publisher>Microsoft</publisher>
+		<genre>Action</genre>
+		<players>1-16</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T051033" />
+	</game>
+	<game id="16562">
+		<path>./Games/Singularity [RF].iso</path>
+		<name>Singularity</name>
+		<desc>Singularity is a first-person shooter for the Xbox 360 that puts you in the shoes of an American soldier sent to scout the Russian island of Katorga 12, a place where horrific experiments have altered the very essence of time. The game revolves around the concept of manipulating time. It is possible to return objects to their original form, to age enemies to the point of dust or to freeze time to overcome obstacles.</desc>
+		<manual>./manuals/Singularity [RF]-manual.pdf</manual>
+		<rating>0.75</rating>
+		<releasedate>20100629T000000</releasedate>
+		<developer>Raven Software</developer>
+		<publisher>Activision</publisher>
+		<genre>Action</genre>
+		<players>2-12</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T051039" />
+	</game>
+	<game id="16338">
+		<path>./Games/Skate 2 [NTSCU][NTSCJ].iso</path>
+		<name>Skate 2</name>
+		<desc>Skate 2 on Xbox 360 takes you through the streets of San Vanelona in search of the best spots to perform the most impressive tricks possible. The game focuses on a very high level of realism, both in the behaviour of the riders and in the execution of the tricks.</desc>
+		<image>./images/Skate 2 [NTSCU][NTSCJ]-image.jpg</image>
+		<marquee>./images/Skate 2 [NTSCU][NTSCJ]-marquee.png</marquee>
+		<thumbnail>./images/Skate 2 [NTSCU][NTSCJ]-thumb.png</thumbnail>
+		<fanart>./images/Skate 2 [NTSCU][NTSCJ]-fanart.jpg</fanart>
+		<rating>0.85</rating>
+		<releasedate>20090121T000000</releasedate>
+		<developer>EA Black Box</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Sports / Skateboard</genre>
+		<players>2-4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T051058" />
+	</game>
+	<game id="16089">
+		<path>./Games/Skylanders Spyros Adventure [RF].iso</path>
+		<name>Skylanders : Spyro's Adventure</name>
+		<desc>Skylanders: Spyro's Adventure is an action-adventure game for Xbox 360. You can play as about thirty creatures by controlling figurines that you have to position on a base supplied with the game. Three of them are also included and the others can be purchased separately. In addition, there are two modes to play in cooperation with a friend or to face an opponent.</desc>
+		<marquee>./images/Skylanders Spyros Adventure [RF]-marquee.png</marquee>
+		<thumbnail>./images/Skylanders Spyros Adventure [RF]-thumb.png</thumbnail>
+		<manual>./manuals/Skylanders Spyros Adventure [RF]-manual.pdf</manual>
+		<rating>0.85</rating>
+		<developer>Activision</developer>
+		<publisher>Toys For Bob</publisher>
+		<genre>Platform</genre>
+		<family>Spyro</family>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T051113" />
+	</game>
+	<game id="16328">
+		<path>./Games/Sonic the Hedgehog [PAL][NTSCU].iso</path>
+		<name>Sonic the Hedgehog</name>
+		<desc>Sonic the Hedgehog is a 2006 platform video game developed by Sonic Team and published by Sega for the PlayStation 3 and Xbox 360. The game primarily allows the player to use Sonic, Shadow and Silver across several stages. Other secondary characters also become playable across the game. The plot follows Sonic's quest to protect Princess Elise after she is kidnapped by his rival Dr. Eggman and is aided by new and returning allies. 
+
+The game shares its name with two earlier Sonic games, a manga, a television series, a comic book series, and their eponymous main character. To disambiguate, the game has been referred to as Sonic 2006. It was produced in commemoration of the 15th anniversary of the Sonic the Hedgehog series. The game faced multiple issues during development, which resulted in rushing the product despite existing bugs. Both versions were heavily criticized for long loading times, poor camera system, gameplay glitches, complicated plot and sloppy character control.</desc>
+		<thumbnail>./images/Sonic the Hedgehog [PAL][NTSCU]-thumb.png</thumbnail>
+		<rating>0.6</rating>
+		<releasedate>20061114T000000</releasedate>
+		<developer>Sonic Team</developer>
+		<publisher>SEGA</publisher>
+		<genre>Platform</genre>
+		<family>Sonic</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T051119" />
+	</game>
+	<game id="16382">
+		<path>./Games/Sonics Ultimate Genesis Collection [NTSCU][NTSCJ].iso</path>
+		<name>Sonic's Ultimate Genesis Collection</name>
+		<desc>Sega Megadrive Ultimate Collection for Xbox 360 is a compilation of many classic Megadrive titles, including Sonic the Hedgehog, Streets of Rage, Ecco the Dolphin, Shining Force, Golden Axe, Phantasy Star, Alex Kidd, Shinobi, Altered Beast and many more. The game also gives you the opportunity to unlock Sega titles released in arcade or on Master System.</desc>
+		<fanart>./images/Sonics Ultimate Genesis Collection [NTSCU][NTSCJ]-fanart.jpg</fanart>
+		<rating>0.85</rating>
+		<releasedate>20090202T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Compilation</genre>
+		<family>Sonic</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T051125" />
+	</game>
+	<game id="16099">
+		<path>./Games/Splinter Cell Conviction [RF].iso</path>
+		<name>Splinter Cell Conviction</name>
+		<desc>Sam Fisher, the infiltration pro, is back on Xbox 360 for a fifth episode of Splinter Cell, subtitled Conviction. This time, it's no longer about infiltration, but about escape. Sam Fisher is wrongly accused of a crime he didn't commit and his former employer, Echelon 3, is after him. To find out who's accusing you, what and why, you'll have to track down the source and get to the bottom of it. If you don't get caught first.</desc>
+		<image>./images/Splinter Cell Conviction [RF]-image.jpg</image>
+		<video>./videos/Splinter Cell Conviction [RF]-video.mp4</video>
+		<marquee>./images/Splinter Cell Conviction [RF]-marquee.png</marquee>
+		<thumbnail>./images/Splinter Cell Conviction [RF]-thumb.png</thumbnail>
+		<fanart>./images/Splinter Cell Conviction [RF]-fanart.jpg</fanart>
+		<manual>./manuals/Splinter Cell Conviction [RF]-manual.pdf</manual>
+		<rating>0.85</rating>
+		<releasedate>20100413T000000</releasedate>
+		<developer>Ubisoft Montreal</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Action / Adventure</genre>
+		<family>Splinter Cell</family>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T051153" />
+	</game>
+	<game id="18289">
+		<path>./Games/SpongeBob HeroPants [RF].iso</path>
+		<name>Spongebob Heropants</name>
+		<desc>SpongeBob HeroPants is a 3D platform game based on the SpongeBob SquarePants cartoon series of Nickelodeon and set directly after the events of 2015 animated movie The SpongeBob Movie: Sponge Out of Water.
+
+Just before SpongeBob enters the Krusty Krab for a normal day of work, he runs into Patrick and Sandy. Together they enter the Krusty Krab where Squidward, Mr. Krabs, and Plankton are attacked by burger and spatulas monsters. First they think it is the work of Planktons, but then Bubbles, the Talking Dolphin, appears and explains that someone is using a page from a magic book to make these weird things happen.
+
+While exploring a 3D platform environment, the characters must fight enemies (like lollipops, robots and squidasaurus), solve puzzles and collect coins and health. For a short period the player can enter superhero mode that makes the characters stronger. The playable characters are SpongeBob, Patrick, Squidward, Sandy, Mr. Krabs, and Plankton.</desc>
+		<marquee>./images/SpongeBob HeroPants [RF]-marquee.png</marquee>
+		<fanart>./images/SpongeBob HeroPants [RF]-fanart.jpg</fanart>
+		<releasedate>20150203T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Adventure</genre>
+		<family>Spongebob Squarepants</family>
+		<players>4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T051203" />
+	</game>
+	<game id="17262">
+		<path>./Games/Stormrise [RF].iso</path>
+		<name>Stormrise</name>
+		<desc>Stormrise is a real-time strategy game for Xbox 360. The story takes place in a post-apocalyptic future, when the Earth has been devastated by a cataclysm. Now a desert, the planet is in the grip of a conflict between two surviving factions: the Echelon, a technologically advanced people, and the Sai, more tribal but well adapted to their new environment. The game features an atypical control system and maps that emphasise the notion of overhang.</desc>
+		<fanart>./images/Stormrise [RF]-fanart.jpg</fanart>
+		<rating>0.45</rating>
+		<releasedate>20090324T000000</releasedate>
+		<developer>The Creative Assembly</developer>
+		<publisher>SEGA</publisher>
+		<genre>Strategy</genre>
+		<players>2-8</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T051209" />
+	</game>
+	<game id="16660">
+		<path>./Games/Stranglehold [RF].iso</path>
+		<name>Stranglehold</name>
+		<desc>Stranglehold is an action game for Xbox 360. You play as Chow Yun-Fat, aka Tequila, a Hong Kong policeman, during seven different missions. Between honour, love, betrayal and revenge, use the weapons at your disposal to annihilate the countless masses of enemies who want your skin. It is also possible to use "Tequila Time", which is based on Bullet Time.</desc>
+		<thumbnail>./images/Stranglehold [RF]-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<developer>Tiger Hill Games</developer>
+		<publisher>Warner Bros. Interactive</publisher>
+		<players>2-6</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T051215" />
+	</game>
+	<game id="16182">
+		<path>./Games/Street Fighter X Tekken [RF].iso</path>
+		<name>Street Fighter X Tekken</name>
+		<desc>Street Fighter X Tekken on Xbox 360 is a fighting game based on the engine and gameplay of Super Street Fighter IV. The particularity of this game is to integrate characters from the Tekken franchise. In this crossover, you will find fighters like Ryu, Chun-Li and Zangief, as well as Kazuya Mishima and Nina Williams, redesigned in the style of the SF IV characters.</desc>
+		<image>./images/Street Fighter X Tekken [RF]-image.jpg</image>
+		<video>./videos/Street Fighter X Tekken [RF]-video.mp4</video>
+		<marquee>./images/Street Fighter X Tekken [RF]-marquee.png</marquee>
+		<thumbnail>./images/Street Fighter X Tekken [RF]-thumb.png</thumbnail>
+		<fanart>./images/Street Fighter X Tekken [RF]-fanart.jpg</fanart>
+		<rating>0.75</rating>
+		<releasedate>20120306T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Street Fighter</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T051240" />
+	</game>
+	<game id="17453">
+		<path>./Games/Summer Stars 2012 [RF].iso</path>
+		<name>Summer Stars 2012</name>
+		<desc>Summer Stars 2012 on Xbox 360 is a Kinect compatible multi-event sports game. Featuring 18 summer disciplines such as triple jump, mountain biking and diving, the title offers a career mode as well as a split-screen multiplayer option allowing 4 players to play at the same time.</desc>
+		<rating>0.55</rating>
+		<developer>49Games</developer>
+		<publisher>Deep Silver</publisher>
+		<genre>Sports / Multisports</genre>
+		<players>2-4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T051242" />
+	</game>
+	<game id="15873">
+		<path>./Games/Super Street Fighter IV - Arcade Edition [RF].iso</path>
+		<name>Super Street Fighter IV : Arcade Edition</name>
+		<desc>Super Street Fighter IV: Arcade Edition is a fighting game for Xbox 360. This edition features a total of 39 fighters. Most of these fighters were already present in previous installments, but Oni, an even more demonic version of Akuma, makes an appearance.</desc>
+		<fanart>./images/Super Street Fighter IV - Arcade Edition [RF]-fanart.jpg</fanart>
+		<rating>0.8</rating>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight</genre>
+		<family>Street Fighter</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T051248" />
+	</game>
+	<game id="16998">
+		<path>./Games/Supremacy MMA [PAL][NTSCU].iso</path>
+		<name>Supremacy Mma</name>
+		<desc>Supremacy MMA is a free fight game for Xbox 360. The confrontations are free: you have no limits. The game takes place in unusual places such as underground bars or dilapidated warehouses. Various scenarios allow us to follow the life of real Free Fighters such as the Frenchman Jerome Le Banner.</desc>
+		<rating>0.5</rating>
+		<developer>505 Games</developer>
+		<publisher>Kung Fu</publisher>
+		<genre>Fight</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T051250" />
+	</game>
+	<game id="16553">
+		<path>./Games/Supreme Commander 2 [RF].iso</path>
+		<name>Supreme Commander 2</name>
+		<desc>The acclaimed futuristic strategy game Supreme Commander returns to Xbox 360 in this new installment, set 25 years after the events of the original. The FTU, the Illuminated and the Cybrans have decided to take up arms again and have hundreds of mechanised units battle it out on vast battlefields, either in the 18 campaign missions or in a traditional skirmish mode. The game also allows you to compete with up to 7 other players in Lan or on the net.</desc>
+		<rating>0.75</rating>
+		<releasedate>20100316T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>Gas Powered Games</publisher>
+		<genre>Strategy</genre>
+		<players>2-4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T051252" />
+	</game>
+	<game id="16435">
+		<path>./Games/Supreme Commander [NTSCU].iso</path>
+		<name>Supreme Commander</name>
+		<desc>Supreme Commander is a strategy game for Xbox 360 in which you take the lead of one of the three available factions, the United Terran Federation, the Aeons or the Cybrans. You have to use your ingenuity to make the best use of the hundreds of units available and to take control of the huge battlefields. A multiplayer mode allows you to extend the adventure and compete with other strategists on the Internet.</desc>
+		<rating>0.85</rating>
+		<releasedate>20080623T000000</releasedate>
+		<developer>Hellbent Games</developer>
+		<publisher>505 Games</publisher>
+		<genre>Strategy</genre>
+		<players>2-4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T051253" />
+	</game>
+	<game id="15973">
+		<path>./Games/Tales of Vesperia [NTSCU][NTSCJ].iso</path>
+		<name>Tales Of Vesperia</name>
+		<desc>Vesperia takes place on the planet Terca Lumireis. The people of Terca Lumireis have come to rely on "blastia", an ancient civilization's technology with a wide array of capabilities, such as providing water, powering ships, or creating barriers around major cities and towns to protect them from monsters. The Imperial Knights and Guild members also use "bodhi blastia" to enhance their abilities in combat. The blastia, created by the elf-like Krityans, are fueled by a substance called "aer" that lends its power to the blastia's ability, but can be fatal to humans in large concentrations.</desc>
+		<rating>0.9</rating>
+		<releasedate>20080919T000000</releasedate>
+		<developer>Bandai Namco</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Role playing games</genre>
+		<family>Tales Of</family>
+		<players>4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T051255" />
+	</game>
+	<game id="16079">
+		<path>./Games/Tekken 6 [RF].iso</path>
+		<name>Tekken 6</name>
+		<desc>The Tekken fighting franchise is back on Xbox 360 with new characters and game modes. After the last tournament, Jin Kazama became the head of the Mishima Zaibatsu company and uses the special forces for his personal propaganda. His actions lead to riots and wars between nations. The G Corporation offers a bounty to anyone who can bring Jin Kazama to them alive. Let the battle begin...</desc>
+		<thumbnail>./images/Tekken 6 [RF]-thumb.png</thumbnail>
+		<fanart>./images/Tekken 6 [RF]-fanart.jpg</fanart>
+		<rating>0.75</rating>
+		<releasedate>20091027T000000</releasedate>
+		<developer>Bandai Namco</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Fight / 3D</genre>
+		<family>Tekken</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T051306" />
+	</game>
+	<game id="15734">
+		<path>./Games/Tekken Tag Tournament 2 [RF].iso</path>
+		<name>Tekken Tag Tournament 2</name>
+		<desc>Tekken Tag Tournament 2 is the eighth main installment in the Tekken fighting game series, originally released in Japanese arcades on September 14, 2011. It received an update, subtitled Unlimited, on March 27, 2012. A console version based on the update was released for PlayStation 3 and Xbox 360 in September 2012, accompanied by an extensive promotional campaign. It was also ported to the Wii U as one of the system's launch titles in November 2012, subtitled Wii U Edition. Like the original Tekken Tag Tournament (1999), the game includes almost every character from past Tekken games, giving it the largest playable roster in a Tekken game to date. Players can choose either a team of two characters on each side or a solo character. Tekken Tag Tournament 2 has been positively received by critics, earning averaged review scores in the range of 82-83% at both GameRankings and Metacritic for the PlayStation 3, Wii U and Xbox 360 versions, as well as several fighting game of the year awards.</desc>
+		<marquee>./images/Tekken Tag Tournament 2 [RF]-marquee.png</marquee>
+		<thumbnail>./images/Tekken Tag Tournament 2 [RF]-thumb.png</thumbnail>
+		<fanart>./images/Tekken Tag Tournament 2 [RF]-fanart.jpg</fanart>
+		<manual>./manuals/Tekken Tag Tournament 2 [RF]-manual.pdf</manual>
+		<rating>0.85</rating>
+		<developer>Bandai Namco</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Fight</genre>
+		<family>Tekken</family>
+		<players>4+</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T051325" />
+	</game>
+	<game id="16448">
+		<path>./Games/Tenchu Z [RF].iso</path>
+		<name>Tenchu Z</name>
+		<desc>Tenchu Z is an infiltration game for Xbox 360. Create your own ninja, and get ready for the adventure mode, which offers more than forty missions and three difficulty levels. There are no less than 130 techniques to collect in order to increase your character's abilities tenfold, as he or she has to demonstrate an unfailing sense of concealment and the art of combat.</desc>
+		<thumbnail>./images/Tenchu Z [RF]-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>20070612T000000</releasedate>
+		<developer>From Software</developer>
+		<publisher>Microsoft</publisher>
+		<genre>Action</genre>
+		<players>2-4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T051330" />
+	</game>
+	<game id="15800">
+		<path>./Games/Terraria [RF].iso</path>
+		<name>Terraria</name>
+		<desc>Dig, fight, explore, build! Nothing is impossible in this action-packed adventure game. The world is your canvas and the ground itself is your paint. Grab your tools and go! You can do many things in Terraria: make weapons and fight off a variety of enemies in numerous biomes, dig deep underground to find accessories, money, and other useful things, gather wood, stone, ores, and other resources to create everything you need to make the world your own and defend it. Build a house, a fort, even a castle, and people will move in to live there and perhaps even sell you different wares to assist you on your journey. But beware, there are even more challenges awaiting you... Are you up to the task?</desc>
+		<marquee>./images/Terraria [RF]-marquee.png</marquee>
+		<fanart>./images/Terraria [RF]-fanart.jpg</fanart>
+		<rating>0.75</rating>
+		<developer>Re-Logic</developer>
+		<publisher>Re-Logic</publisher>
+		<genre>Adventure</genre>
+		<players>1-4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T051340" />
+	</game>
+	<game id="17365">
+		<path>./Games/Tetris Evolution [PAL][NTSCU].iso</path>
+		<name>Tetris Evolution</name>
+		<desc>Tetris Evolution on the Xbox 360 marketplace brings back the most famous puzzle game in the galaxy in a remastered version. The goal is, and remains, the same: you have to make complete lines to score points and make them disappear. Blocks of various shapes fall randomly and increasingly fast from the top of the screen. Be quick-witted enough not to get overwhelmed. If your lines reach the top of the screen, it's game over.</desc>
+		<thumbnail>./images/Tetris Evolution [PAL][NTSCU]-thumb.png</thumbnail>
+		<rating>0.3</rating>
+		<developer>THQ</developer>
+		<publisher>THQ</publisher>
+		<genre>Puzzle-Game / Fall</genre>
+		<family>Tetris</family>
+		<players>1-4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T051346" />
+	</game>
+	<game id="16831">
+		<path>./Games/The Club [PAL][NTSCU].iso</path>
+		<name>The Club</name>
+		<desc>The Club on Xbox 360 is a shooter with a very simple principle: kill as many enemies as possible in order to satisfy the rich people who sent you to the slaughterhouse. Here you are in the middle of arenas filled with guys determined to stop you from advancing. Chain together deaths to boost your score before you can proudly display it online. A multiplayer mode also allows you to compete with friends online.</desc>
+		<rating>0.7</rating>
+		<releasedate>20080202T000000</releasedate>
+		<developer>Bizarre Creations</developer>
+		<publisher>SEGA</publisher>
+		<players>8</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T051348" />
+	</game>
+	<game id="16681">
+		<path>./Games/The Cursed Crusade [NTSCU].iso</path>
+		<name>The Cursed Crusade</name>
+		<desc>The action takes place in the ancient world. Two warriors are about to embark on an adventure across Europe amid the clashes and battles of the 4th Crusade. Denz, a Templar, and Esteban, a mercenary, share the same motivation: to purge their souls of a terrible curse that afflicts them both. Embark on a quest spanning 5 chapters and 30 missions that will take you across medieval Europe. Use your demonic vision to increase your abilities at the expense of your humanity. Easy to learn, the graphics engine features over 90 combos, dozens of weapons and a time-counting system.</desc>
+		<marquee>./images/The Cursed Crusade [NTSCU]-marquee.png</marquee>
+		<fanart>./images/The Cursed Crusade [NTSCU]-fanart.jpg</fanart>
+		<manual>./manuals/The Cursed Crusade [NTSCU]-manual.pdf</manual>
+		<rating>0.7</rating>
+		<releasedate>20111025T000000</releasedate>
+		<developer>Kylotonn</developer>
+		<publisher>DTP Entertainment</publisher>
+		<genre>Action / Adventure</genre>
+		<players>1-2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T051403" />
+	</game>
+	<game id="16775">
+		<path>./Games/The First Templar [RF].iso</path>
+		<name>The First Templar</name>
+		<desc>The First Templar is an action/adventure game with a role-playing element for Xbox 360. The player must join the Templar Order, foil a conspiracy and discover the mysteries of the Holy Grail. Several characters with different skills can be played in solo or in a cooperative mode with two players.</desc>
+		<rating>0.7</rating>
+		<developer>Kalypso Media</developer>
+		<publisher>Haemimont Games</publisher>
+		<genre>Adventure</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T051405" />
+	</game>
+	<game id="16730">
+		<path>./Games/The Incredible Hulk [NTSCU].iso</path>
+		<name>The Incredible Hulk</name>
+		<desc>Bruce Banner lands with a bang on Xbox 360 and he's not happy. So he turns into the Hulk. The Incredible Hulk features the green giant with the rip-stop pants and offers a storyline that follows the feature film of the same name while offering new passages, all in a mostly destructible environment for a 100% brutal action game guaranteed with GMOs.</desc>
+		<marquee>./images/The Incredible Hulk [NTSCU]-marquee.png</marquee>
+		<fanart>./images/The Incredible Hulk [NTSCU]-fanart.jpg</fanart>
+		<rating>0.55</rating>
+		<developer>Edge Of Reality</developer>
+		<publisher>SEGA</publisher>
+		<family>Hulk</family>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T051414" />
+	</game>
+	<game id="16116">
+		<path>./Games/UFC Undisputed 3 [RF].iso</path>
+		<name>Ufc Undisputed 3</name>
+		<desc>UFC Undisputed 3 is an MMA simulation for Xbox 360. More accessible than in the past, the software allows us to participate in various types of matches, to follow a long career or to organise tournaments. The Ultimate mode has been redesigned and the now defunct Pride league is included this year to vary the pleasures.</desc>
+		<thumbnail>./images/UFC Undisputed 3 [RF]-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<developer>Yuke's Media Creations</developer>
+		<publisher>THQ</publisher>
+		<genre>Sports / Fighting</genre>
+		<family>UFC Fighting</family>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T051420" />
+	</game>
 </gameList>
