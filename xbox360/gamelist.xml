@@ -6863,24 +6863,6 @@ Experience iconic settings full of outlaws in the West before it was tamed. The 
 		<scrap name="TheGamesDB" date="20231213T205726" />
 		<scrap name="HfsDB" date="20231213T230133" />
 	</game>
-	<game id="16713">
-		<path>./Games/Call of Juarez the Cartel [RF].iso</path>
-		<name>Call of Juarez : The Cartel</name>
-		<desc>Unlike the first two episodes on Xbox 360, the first-person shooter Call of Juarez: The Cartel takes place in the present day. Based on cooperation between the three main heroes, the game invites us to confront a particularly violent Mexican cartel. We'll have to make the most of each character's specificities to clean up Los Angeles and Juarez.</desc>
-		<marquee>./images/Call of Juarez the Cartel [RF]-marquee.png</marquee>
-		<thumbnail>./images/Call of Juarez the Cartel [RF]-thumb.jpg</thumbnail>
-		<fanart>./images/Call of Juarez the Cartel [RF]-fanart.jpg</fanart>
-		<rating>0.5</rating>
-		<developer>Ubisoft</developer>
-		<publisher>Techland</publisher>
-		<genre>Shooter / 1st person</genre>
-		<family>Call Of Juarez</family>
-		<players>3</players>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231213T213103" />
-		<scrap name="TheGamesDB" date="20231213T205727" />
-		<scrap name="HfsDB" date="20231213T230134" />
-	</game>
 	<game>
 		<path>./Games/Call of Juarez [RF].iso</path>
 		<name>Call of Juarez</name>
@@ -7155,25 +7137,6 @@ A demo of the title was made available to Xbox Live users on December 4, 2007. T
 		<scrap name="TheGamesDB" date="20231213T205756" />
 		<scrap name="HfsDB" date="20231213T230943" />
 	</game>
-	<game id="16861">
-		<path>./Games/Damage Inc. Pacific Squadron WWII [PAL][NTSCU].iso</path>
-		<name>Damage Inc. Pacific Squadron Wwii</name>
-		<desc>Damage Inc. Pacific Squadron WWII is an Xbox 360 air combat simulation set during World War II. Players can experience the famous battles of the Pacific in more than 30 aircraft. The single-player mode consists of 11 campaigns and various online multiplayer modes are available to fight or help other players.</desc>
-		<thumbnail>./images/Damage Inc. Pacific Squadron WWII [PAL][NTSCU]-thumb.jpg</thumbnail>
-		<fanart>./images/Damage Inc. Pacific Squadron WWII [PAL][NTSCU]-fanart.jpg</fanart>
-		<rating>0.7</rating>
-		<developer>Trickstar Games</developer>
-		<publisher>Mad Catz</publisher>
-		<genre>Shooter / Plane</genre>
-		<players>2-8</players>
-		<playcount>1</playcount>
-		<lastplayed>20231213T194819</lastplayed>
-		<gametime>87</gametime>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231213T213405" />
-		<scrap name="TheGamesDB" date="20231213T205757" />
-		<scrap name="HfsDB" date="20231213T230944" />
-	</game>
 	<game>
 		<path>./Games/Damnation [RF].iso</path>
 		<name>Damnation</name>
@@ -7355,14 +7318,6 @@ There are several game modes included. Arcade mode is a direct port of the origi
 		<scrap name="HfsDB" date="20231213T231350" />
 	</game>
 	<game>
-		<path>./Games/Destiny The Taken King Legendary Edition [RF].iso</path>
-		<name>Destiny The Taken King Legendary Edition [RF]</name>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231213T213508" />
-		<scrap name="TheGamesDB" date="20231213T205818" />
-		<scrap name="HfsDB" date="20231213T231448" />
-	</game>
-	<game>
 		<path>./Games/Destiny [RF].iso</path>
 		<name>Destiny</name>
 		<desc>From the creators of Halo and the publisher of Call of Duty comes Destiny. With an unprecedented variety of FPS gameplay, Destiny promises to deliver an incredible story set within a newly-imagined, always-connected universe filled with action and adventure.
@@ -7478,30 +7433,6 @@ The only confirmed NPCs are Deckard Cain, who has appeared in both of the previo
 		<scrap name="ScreenScraper" date="20231213T213620" />
 		<scrap name="TheGamesDB" date="20231213T205832" />
 		<scrap name="HfsDB" date="20231213T231751" />
-	</game>
-	<game id="202227">
-		<path>./Games/Disney Epic Mickey 2 The Power of Two [RF].iso</path>
-		<name>Disney Epic Mickey 2 - The Power of Two</name>
-		<image>./images/Disney Epic Mickey 2 The Power of Two [RF]-image.jpg</image>
-		<video>./videos/Disney Epic Mickey 2 The Power of Two [RF]-video.mp4</video>
-		<marquee>./images/Disney Epic Mickey 2 The Power of Two [RF]-marquee.png</marquee>
-		<thumbnail>./images/Disney Epic Mickey 2 The Power of Two [RF]-thumb.png</thumbnail>
-		<fanart>./images/Disney Epic Mickey 2 The Power of Two [RF]-fanart.jpg</fanart>
-		<rating>0</rating>
-		<family>Mickey Mouse</family>
-		<lastplayed>20230222T000000</lastplayed>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231213T213651" />
-		<scrap name="TheGamesDB" date="20231213T205833" />
-		<scrap name="HfsDB" date="20231213T231751" />
-	</game>
-	<game>
-		<path>./Games/Disney Infinity Marvel Super Heroes 2.0 [RF].iso</path>
-		<name>Disney Infinity Marvel Super Heroes 2.0 [RF]</name>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231213T213700" />
-		<scrap name="TheGamesDB" date="20231213T205835" />
-		<scrap name="HfsDB" date="20231213T231852" />
 	</game>
 	<game>
 		<path>./Games/Disney Infinity [RF].iso</path>
@@ -8196,17 +8127,6 @@ The game was generally received poorly by critics, usually receiving press avera
 		<scrap name="HfsDB" date="20231213T233412" />
 	</game>
 	<game>
-		<path>./Games/Everyone Sing [PAL][NTSCU].iso</path>
-		<name>Everyone Sing</name>
-		<desc>Everyone Sing is the first multi-format singing game where everyone can sing.</desc>
-		<thumbnail>./images/Everyone Sing [PAL][NTSCU]-thumb.jpg</thumbnail>
-		<rating>0.5</rating>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231213T214147" />
-		<scrap name="TheGamesDB" date="20231213T205934" />
-		<scrap name="HfsDB" date="20231213T233412" />
-	</game>
-	<game>
 		<path>./Games/F.E.A.R Files [RF].iso</path>
 		<name>F.E.A.R. Files</name>
 		<desc>F.E.A.R. is a series of first-person shooter survival horror video games developed by Monolith Productions. The game currently has three main games, F.E.A.R., F.E.A.R. 2: Project Origin and F.E.A.R. 3. The series is known for its horror game play and its main antagonist, Alma Wade.</desc>
@@ -8455,23 +8375,6 @@ With all new textures and 3D models, an entirely new lighting system, a slick ne
 		<scrap name="ScreenScraper" date="20231213T214550" />
 		<scrap name="TheGamesDB" date="20231213T210012" />
 		<scrap name="HfsDB" date="20231213T234221" />
-	</game>
-	<game id="16772">
-		<path>./Games/Fast and Furious Showdown [RF].iso</path>
-		<name>Fast and Furious : Showdown</name>
-		<desc>Fast and Furious : Showdown is an action-oriented racing game for Xbox 360. You will play as several characters who will have the joy of driving various vehicles ranging from race cars to armoured tanks and hovercrafts. Alone or with a friend, you will have several missions to complete.</desc>
-		<marquee>./images/Fast and Furious Showdown [RF]-marquee.png</marquee>
-		<thumbnail>./images/Fast and Furious Showdown [RF]-thumb.jpg</thumbnail>
-		<rating>0.35</rating>
-		<developer>Firebrand Games</developer>
-		<publisher>Activision</publisher>
-		<genre>Race, Driving</genre>
-		<family>Fast and Furious</family>
-		<players>2</players>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231213T214552" />
-		<scrap name="TheGamesDB" date="20231213T210013" />
-		<scrap name="HfsDB" date="20231213T234315" />
 	</game>
 	<game>
 		<path>./Games/FIFA 15 [NTSCU].iso</path>
@@ -9010,20 +8913,6 @@ Switch between foot-based fighting and vehicle-based attacks, where you can pilo
 		<scrap name="TheGamesDB" date="20231213T210127" />
 		<scrap name="HfsDB" date="20231213T235525" />
 	</game>
-	<game>
-		<path>./Games/Halo Wars [RF].iso</path>
-		<name>Fable II / Halo Wars</name>
-		<image>./images/Halo Wars [RF]-image.png</image>
-		<video>./videos/Halo Wars [RF]-video.mp4</video>
-		<marquee>./images/Halo Wars [RF]-marquee.png</marquee>
-		<thumbnail>./images/Halo Wars [RF]-thumb.jpg</thumbnail>
-		<fanart>./images/Halo Wars [RF]-fanart.jpg</fanart>
-		<rating>0.8</rating>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231213T215435" />
-		<scrap name="TheGamesDB" date="20231213T210132" />
-		<scrap name="HfsDB" date="20231213T235526" />
-	</game>
 	<game id="16220">
 		<path>./Games/Harry Potter and the Deathly Hallows - Part 1 [RF].iso</path>
 		<name>Harry Potter And The Deathly Hallows - Part 1</name>
@@ -9131,17 +9020,6 @@ The game was created under the creative direction of both the comic book's creat
 		<scrap name="ScreenScraper" date="20231213T215503" />
 		<scrap name="TheGamesDB" date="20231213T210140" />
 		<scrap name="HfsDB" date="20231213T235830" />
-	</game>
-	<game>
-		<path>./Games/Hot Wheels Beat That [RF].iso</path>
-		<name>Hot Wheels - Beat That</name>
-		<thumbnail>./images/Hot Wheels Beat That [RF]-thumb.jpg</thumbnail>
-		<fanart>./images/Hot Wheels Beat That [RF]-fanart.jpg</fanart>
-		<rating>0.6</rating>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231213T215510" />
-		<scrap name="TheGamesDB" date="20231213T210141" />
-		<scrap name="HfsDB" date="20231213T235928" />
 	</game>
 	<game>
 		<path>./Games/Hour of Victory [PAL][NTSCU].iso</path>
@@ -9316,14 +9194,6 @@ A single-player and multiplayer demo were released on the PlayStation Network on
 		<scrap name="ScreenScraper" date="20231213T215603" />
 		<scrap name="TheGamesDB" date="20231213T210155" />
 		<scrap name="HfsDB" date="20231214T000429" />
-	</game>
-	<game>
-		<path>./Games/King of Fighters 13 [RF].iso</path>
-		<name>King of Fighters 13 [RF]</name>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231213T215604" />
-		<scrap name="TheGamesDB" date="20231213T210156" />
-		<scrap name="HfsDB" date="20231214T000430" />
 	</game>
 	<game>
 		<path>./Games/Kingdom Under Fire Circle of Doom [RF].iso</path>
@@ -9654,19 +9524,6 @@ The popularity of the game led to the development of a sequel, Left 4 Dead 2, wh
 		<players>2</players>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231213T215859" />
-		<scrap name="TheGamesDB" date="20231213T210237" />
-		<scrap name="HfsDB" date="20231214T001336" />
-	</game>
-	<game id="202191">
-		<path>./Games/Lego Star Wars The Force Awakens [RF].iso</path>
-		<name>LEGO Star Wars - The Force Awakens</name>
-		<desc>The No. 1 LEGO videogame franchise triumphantly returns with a fun-filled, humorous journey based on the blockbuster Star Wars film. In LEGO Star Wars: The Force Awakens, players relive the epic action from the blockbuster film Star Wars: The Force Awakens, retold through the clever and witty LEGO lens. The game will also feature exclusive playable content that bridges the story gap between Star Wars Episode VI: Return of the Jedi and Star Wars: The Force Awakens. LEGO Star Wars: The Force Awakens also introduces Multi-Builds and Blaster Battles to the LEGO videogame universe. With Multi-Builds, use available LEGO bricks to open up new paths, then break them apart and re-build them again to open up another! And another! During Blaster Battles, use your surroundings as cover to stand against the First Order.</desc>
-		<thumbnail>./images/Lego Star Wars The Force Awakens [RF]-thumb.jpg</thumbnail>
-		<fanart>./images/Lego Star Wars The Force Awakens [RF]-fanart.jpg</fanart>
-		<genre>Action / Adventure</genre>
-		<family>LEGO</family>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231213T215905" />
 		<scrap name="TheGamesDB" date="20231213T210237" />
 		<scrap name="HfsDB" date="20231214T001336" />
 	</game>
@@ -10554,20 +10411,6 @@ During a game, the board is seen in a perspective view, with the side where the 
 		<scrap name="HfsDB" date="20231214T003251" />
 	</game>
 	<game>
-		<path>./Games/Monster Jam [RF].iso</path>
-		<name>Monster Jam</name>
-		<marquee>./images/Monster Jam [RF]-marquee.png</marquee>
-		<thumbnail>./images/Monster Jam [RF]-thumb.png</thumbnail>
-		<fanart>./images/Monster Jam [RF]-fanart.jpg</fanart>
-		<boxback>./images/Monster Jam [RF]-boxback.jpg</boxback>
-		<rating>0.5</rating>
-		<lastplayed>20230222T000000</lastplayed>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231213T220536" />
-		<scrap name="TheGamesDB" date="20231213T210349" />
-		<scrap name="HfsDB" date="20231214T003351" />
-	</game>
-	<game>
 		<path>./Games/Monster Madness Battle for Suburbia [PAL][NTSCU].iso</path>
 		<name>Monster Madness: Battle for Suburbia</name>
 		<desc>"Brrrrraaaaiiiinnnnssss!" Load your shotgun, zombies have run amuck in town and it's up to four teenagers to defend their suburbia in this 3rd person shooter while seeking to find the cause of this invasion. In single player mode (which also can be played in co-op with up to three friends), you go through five areas: Shopping Maul, High School Hell, Cemetery Scary, and Evil Castle. Each area has 3 to 5 stages. 
@@ -10625,35 +10468,6 @@ An action-packed third-person shooter, MorphX drops players into the middle of t
 		<scrap name="ScreenScraper" date="20231213T220613" />
 		<scrap name="TheGamesDB" date="20231213T210353" />
 		<scrap name="HfsDB" date="20231214T003453" />
-	</game>
-	<game id="16330">
-		<path>./Games/Mortal Kombat vs DC Universe UNCUT [RF].iso</path>
-		<name>Mortal Kombat Vs Dc Universe</name>
-		<desc>With the simultaneous defeat of Darkseid and Shao Kahn in their respective universes, a freak portal accident has formed the creation of a new entity that is more evil and more powerful entity that embodies the worst of both worlds: Dark Kahn.
-
-Dark Kahn seeks to merge the DC universe and Mortal Kombat universe into one reality, forcing hero and villain alike to form unlikely alliances in order to keep their realities separate before they are consumed by "The Rage", a force that causes an individual to lose their minds and be consumed by their aggression.
-
-In this arcade-style fighting game, both DC and Mortal Kombat universes are represented by 10 champions each, and one "boss" character, for a total of 22 fighters. Play is similar to the 2D Mortal Kombat games (with some 3D elements), focusing more on the special move aspect than the complex combos found in the previous three games (Deadly Alliance, Deception, Armageddon).
-
-In addition, there are new modes of fighting found with in the gameplay: Klose Kombat, Freefall Kombat, and "Test Your Might", which use the environment as a mini-game style scenario to inflict stylized and extensive damage on an opponent, as well as "Rage", which turns standard moves into a devastating opportunity to crush your opponent. Players battle through such locales as Gotham City, Metropolis, the Shaolin Temples, or Earthrealm's Hell.
-
-As with any Mortal Kombat game, Fatalities are still present for the Kombatants and villains, though slightly toned down to meet the DC standards of heroes such as Superman and Batman keeping to their moral code and not killing their opponent. As a result, the DC heroes perform "Heroic Brutalities", which effectively put their opponent out of commission.
-
-Online play is also available for players to take their fights online for ranked matches, play against a friend, or another online opponent in tournaments.</desc>
-		<image>./images/Mortal Kombat vs DC Universe UNCUT [RF]-image.jpg</image>
-		<thumbnail>./images/Mortal Kombat vs DC Universe UNCUT [RF]-thumb.png</thumbnail>
-		<fanart>./images/Mortal Kombat vs DC Universe UNCUT [RF]-fanart.jpg</fanart>
-		<rating>0.7</rating>
-		<developer>Warner Bros. Interactive</developer>
-		<publisher>Warner Bros. Interactive</publisher>
-		<genre>Fight</genre>
-		<family>Mortal Kombat</family>
-		<players>2</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231213T220614" />
-		<scrap name="TheGamesDB" date="20231213T210354" />
-		<scrap name="HfsDB" date="20231214T003551" />
 	</game>
 	<game>
 		<path>./Games/MUD FIM Motocross World Championship [RF].iso</path>
@@ -12114,23 +11928,6 @@ You can play as one of three characters. Tommy Mac can take lots of damage befor
 		<scrap name="TheGamesDB" date="20231213T210623" />
 		<scrap name="HfsDB" date="20231214T011219" />
 	</game>
-	<game>
-		<path>./Games/The Smurfs 2 [RF].iso</path>
-		<name>The Smurfs 2</name>
-		<desc>The Smurfs 2 video game is an action-packed adventure platformer that provides Smurfs fans of all ages with the opportunity to dive into the magical Smurfs Village and relive iconic moments and key environments from the feature film. Players assume the role of a Smurf and immerse themselves in an interactive adventure through the movie's enchanting environments including New York City and Paris, and expand their movie experience into worlds exclusive to the video game such as The Arctic Tundra and The Lava Jungle.</desc>
-		<image>./images/The Smurfs 2 [RF]-image.jpg</image>
-		<marquee>./images/The Smurfs 2 [RF]-marquee.png</marquee>
-		<thumbnail>./images/The Smurfs 2 [RF]-thumb.jpg</thumbnail>
-		<manual>./manuals/The Smurfs 2 [RF]-manual.pdf</manual>
-		<rating>0.55</rating>
-		<publisher>Ubisoft</publisher>
-		<genre>Plate-formes</genre>
-		<lastplayed>20230222T000000</lastplayed>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231213T221910" />
-		<scrap name="TheGamesDB" date="20231213T210625" />
-		<scrap name="HfsDB" date="20231214T011319" />
-	</game>
 	<game id="16869">
 		<path>./Games/Tiger Woods PGA Tour 12 - The Masters [RF].iso</path>
 		<name>Tiger Woods PGA Tour 12 : The Masters</name>
@@ -12302,43 +12099,6 @@ Shred introduces a snowboarding mode to the series as well as Avatar and Mii sup
 		<scrap name="TheGamesDB" date="20231213T210639" />
 		<scrap name="HfsDB" date="20231214T011621" />
 	</game>
-	<game id="18319">
-		<path>./Games/Tony Hawks Pro Skater 5 [RF].iso</path>
-		<name>Tony Hawk's Pro Skater 5</name>
-		<thumbnail>./images/Tony Hawks Pro Skater 5 [RF]-thumb.jpg</thumbnail>
-		<fanart>./images/Tony Hawks Pro Skater 5 [RF]-fanart.jpg</fanart>
-		<rating>0</rating>
-		<developer>Robomodo                                                        |Disruptive Games</developer>
-		<publisher>Activision</publisher>
-		<genre>Sports / Skateboard</genre>
-		<family>Tony Hawk</family>
-		<lastplayed>20230222T000000</lastplayed>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231213T222009" />
-		<scrap name="TheGamesDB" date="20231213T210640" />
-		<scrap name="HfsDB" date="20231214T011622" />
-	</game>
-	<game id="16720">
-		<path>./Games/Tony Hawks Project 8 [RF].iso</path>
-		<name>Tony Hawk's Project 8</name>
-		<desc>Tony Hawk's Project 8 is a skateboarding game for Xbox 360. Eighth of the name, the game remains faithful to its game system and its gameplay. You play as a contender for the title of skateboarding king, and you have to prove your worth and your level by climbing the ladder little by little.</desc>
-		<image>./images/Tony Hawks Project 8 [RF]-image.png</image>
-		<marquee>./images/Tony Hawks Project 8 [RF]-marquee.png</marquee>
-		<thumbnail>./images/Tony Hawks Project 8 [RF]-thumb.png</thumbnail>
-		<fanart>./images/Tony Hawks Project 8 [RF]-fanart.jpg</fanart>
-		<boxback>./images/Tony Hawks Project 8 [RF]-boxback.jpg</boxback>
-		<rating>0.8</rating>
-		<developer>Neversoft</developer>
-		<publisher>Activision</publisher>
-		<genre>Sports / Skateboard</genre>
-		<family>Tony Hawk</family>
-		<players>1-2</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231213T222025" />
-		<scrap name="TheGamesDB" date="20231213T210641" />
-		<scrap name="HfsDB" date="20231214T011721" />
-	</game>
 	<game>
 		<path>./Games/Tony Hawks Ride [RF].iso</path>
 		<name>Tony Hawk Ride</name>
@@ -12453,42 +12213,6 @@ Originally planned as a part of a game trilogy, the story is a science-fictional
 		<scrap name="ScreenScraper" date="20231213T222135" />
 		<scrap name="TheGamesDB" date="20231213T210655" />
 		<scrap name="HfsDB" date="20231214T012031" />
-	</game>
-	<game id="16266">
-		<path>./Games/Transformers Rise of The Dark Spark [RF].iso</path>
-		<name>Transformers : Rise of the Dark Spark</name>
-		<marquee>./images/Transformers Rise of The Dark Spark [RF]-marquee.png</marquee>
-		<thumbnail>./images/Transformers Rise of The Dark Spark [RF]-thumb.jpg</thumbnail>
-		<rating>0.6</rating>
-		<developer>Activision</developer>
-		<publisher>Edge Of Reality</publisher>
-		<family>Transformers</family>
-		<players>4</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231213T222141" />
-		<scrap name="TheGamesDB" date="20231213T210656" />
-		<scrap name="HfsDB" date="20231214T012031" />
-	</game>
-	<game>
-		<path>./Games/Trivial Pursuit [RF].iso</path>
-		<name>Burnout Paradise: the Ultimate Box / Trivial Pursuit</name>
-		<desc>This compilation includes:
-Burnout Paradise
-Burnout Paradise: Cagney Pack (add-on)
-Burnout Paradise: Bikes Pack (add-on)
-Burnout Paradise: Party Pack (add-on)
-Trophies for PlayStation 3 version
-Various minor refinements
-It is also the first version of the game (and the series as a whole) for the Windows platform.</desc>
-		<marquee>./images/Trivial Pursuit [RF]-marquee.png</marquee>
-		<thumbnail>./images/Trivial Pursuit [RF]-thumb.jpg</thumbnail>
-		<rating>0.7</rating>
-		<lastplayed>20230222T000000</lastplayed>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231213T222148" />
-		<scrap name="TheGamesDB" date="20231213T210658" />
-		<scrap name="HfsDB" date="20231214T012129" />
 	</game>
 	<game>
 		<path>./Games/Tropico 5 [RF].iso</path>
@@ -13163,36 +12887,6 @@ Enemy Within primarily adds new gameplay elements to the base game, as well as i
 		<scrap name="ScreenScraper" date="20231213T222611" />
 		<scrap name="TheGamesDB" date="20231213T210808" />
 		<scrap name="HfsDB" date="20231214T013745" />
-	</game>
-	<game id="16850">
-		<path>./Games/Young Justice Legacy [PAL][NTSCU].iso</path>
-		<name>Young Justice : Legacy</name>
-		<desc>Young Justice: Legacy is a role-playing / action game for Xbox 360. The game allows us to find 12 playable characters including Robin, Nightwing, Super Boy, Batgirl and others. Chaperoned by Batman, Superman or Flash, our superhero troupe will face some notorious villains (Bane, Lex Luthor, Riddler) during 16 missions. Three-player cooperation and power upgrades are also part of the game.</desc>
-		<marquee>./images/Young Justice Legacy [PAL][NTSCU]-marquee.png</marquee>
-		<thumbnail>./images/Young Justice Legacy [PAL][NTSCU]-thumb.jpg</thumbnail>
-		<rating>0.75</rating>
-		<developer>Little Orbit</developer>
-		<publisher>Bandai Namco</publisher>
-		<genre>Role playing games</genre>
-		<lastplayed>20230222T000000</lastplayed>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231213T222617" />
-		<scrap name="TheGamesDB" date="20231213T210809" />
-		<scrap name="HfsDB" date="20231214T013745" />
-	</game>
-	<game id="16269">
-		<path>./Games/Zoo Tycoon [RF].iso</path>
-		<name>Zoo Tycoon</name>
-		<thumbnail>./images/Zoo Tycoon [RF]-thumb.jpg</thumbnail>
-		<rating>0</rating>
-		<developer>Frontier Developments</developer>
-		<publisher>Microsoft</publisher>
-		<genre>Simulation / Build And Management</genre>
-		<lastplayed>20230222T000000</lastplayed>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231213T222618" />
-		<scrap name="TheGamesDB" date="20231213T210810" />
-		<scrap name="HfsDB" date="20231214T013845" />
 	</game>
 	<game id="17420">
 		<path>./Games/Zumas Revenge [NTSCU].iso</path>
@@ -13921,5 +13615,374 @@ Relationships can also be explored if the player so chooses. If an NPC is in fri
 		<scrap name="ScreenScraper" date="20231213T222420" />
 		<scrap name="TheGamesDB" date="20231214T021940" />
 		<scrap name="HfsDB" date="20231214T012935" />
+	</game>
+	<game>
+		<path>./Games/Call of Juarez the Cartel [RF].iso</path>
+		<name>Call of Juarez: The Cartel</name>
+		<desc>Call of Juarez: The Cartel is a first-person shooter video game developed by Techland and published by Ubisoft.[1] The game is part of the Call of Juarez western-themed video games, but is set in modern-day Los Angeles and Mexico as up to three players take the role of law enforcement agents.</desc>
+		<marquee>./images/Call of Juarez the Cartel [RF]-marquee.png</marquee>
+		<thumbnail>./images/Call of Juarez the Cartel [RF]-thumb.jpg</thumbnail>
+		<fanart>./images/Call of Juarez the Cartel [RF]-fanart.jpg</fanart>
+		<rating>0.5</rating>
+		<releasedate>20110719T000000</releasedate>
+		<developer>Techland Sp. z o.o</developer>
+		<publisher>Ubisoft Entertainment</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T213103" />
+		<scrap name="TheGamesDB" date="20231214T022622" />
+		<scrap name="HfsDB" date="20231213T230134" />
+	</game>
+	<game>
+		<path>./Games/Damage Inc. Pacific Squadron WWII [PAL][NTSCU].iso</path>
+		<name>Damage Inc.: Pacific Squadron WWII</name>
+		<desc>Damage Inc.: Pacific Squadron WWII begins with the attack on Pearl Harbor and takes you through all of the real battlefields of the Pacific Theatre. With 23 historically accurate missions and 100+ mission objectives, your experience will include all the challenges that actual pilots faced -- dogfighting, torpedo and dive bombing, carrier takeoffs and landings -- in a mix of intense air-to-air, air-to-ship and air-to-ground combat.
+Expand your gaming experience from single-player campaign to an array of multiplayer challenges. Team up with your friends to replay all the missions in co-op mode with up to four players, or explore new and exclusive multiplayer modes like "Scratch One Flattop" which pits two teams against each other in a mix of fighters and bombers to see who can sink the other team's aircraft carrier first.</desc>
+		<thumbnail>./images/Damage Inc. Pacific Squadron WWII [PAL][NTSCU]-thumb.jpg</thumbnail>
+		<fanart>./images/Damage Inc. Pacific Squadron WWII [PAL][NTSCU]-fanart.jpg</fanart>
+		<rating>0.7</rating>
+		<releasedate>20120828T000000</releasedate>
+		<developer>Mad Catz</developer>
+		<publisher>Trickstar Games</publisher>
+		<genre>Flight Simulator</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20231213T194819</lastplayed>
+		<gametime>87</gametime>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T213405" />
+		<scrap name="TheGamesDB" date="20231214T022518" />
+		<scrap name="HfsDB" date="20231213T230944" />
+	</game>
+	<game>
+		<path>./Games/Destiny The Taken King Legendary Edition [RF].iso</path>
+		<name>Destiny: The Taken King - Legendary Edition</name>
+		<desc>Destiny: The Taken King - Legendary Edition is perfect for new and existing Guardians that are ready to jump into the Destiny universe or continue to carve their legend in the stars. The Legendary Edition features the complete Destiny experience including The Taken King, the next evolution in the Destiny universe, Destiny, Expansion I: The Dark Below and Expansion II: House of Wolves. Unite with 20 million Guardians in the fight to defeat Earth's enemies, reclaim all that we have lost, and Become Legend.</desc>
+		<thumbnail>./images/Destiny The Taken King Legendary Edition [RF]-thumb.jpg</thumbnail>
+		<releasedate>20150915T000000</releasedate>
+		<developer>Bungie</developer>
+		<publisher>Activision</publisher>
+		<genre>Action, Adventure, Role-Playing, MMO</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T213508" />
+		<scrap name="TheGamesDB" date="20231214T022810" />
+		<scrap name="HfsDB" date="20231213T231448" />
+	</game>
+	<game>
+		<path>./Games/Disney Epic Mickey 2 The Power of Two [RF].iso</path>
+		<name>Disney Epic Mickey 2: The Power of Two</name>
+		<desc>Epic Mickey 2 takes place in a world based on classic and retired Disney characters and attractions. The story begins sometime after the conclusion of the original Epic Mickey, with Oswald and the other Wasteland characters starting to rebuild their world. A series of earthquakes threaten to undo the work, but the Mad Doctor appears and convinces Oswald to join forces and combat the new menace. Ortensia, Oswald's girlfriend, doesn't trust the Doctor, so she and Gus, Oswald's gremlin assistant, bring Mickey Mouse back to Wasteland to help.</desc>
+		<image>./images/Disney Epic Mickey 2 The Power of Two [RF]-image.jpg</image>
+		<video>./videos/Disney Epic Mickey 2 The Power of Two [RF]-video.mp4</video>
+		<marquee>./images/Disney Epic Mickey 2 The Power of Two [RF]-marquee.png</marquee>
+		<thumbnail>./images/Disney Epic Mickey 2 The Power of Two [RF]-thumb.jpg</thumbnail>
+		<fanart>./images/Disney Epic Mickey 2 The Power of Two [RF]-fanart.jpg</fanart>
+		<rating>0</rating>
+		<releasedate>20121118T000000</releasedate>
+		<developer>Blitz Game Studios</developer>
+		<publisher>Disney Interactive</publisher>
+		<genre>Action, Adventure, Platform</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T213651" />
+		<scrap name="TheGamesDB" date="20231214T022206" />
+		<scrap name="HfsDB" date="20231213T231751" />
+	</game>
+	<game>
+		<path>./Games/Disney Infinity Marvel Super Heroes 2.0 [RF].iso</path>
+		<name>Disney Infinity 2.0 Edition</name>
+		<thumbnail>./images/Disney Infinity Marvel Super Heroes 2.0 [RF]-thumb.jpg</thumbnail>
+		<releasedate>20140923T000000</releasedate>
+		<genre>Adventure</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T213700" />
+		<scrap name="TheGamesDB" date="20231214T023038" />
+		<scrap name="HfsDB" date="20231213T231852" />
+	</game>
+	<game>
+		<path>./Games/Everyone Sing [PAL][NTSCU].iso</path>
+		<name>Everyone Sing</name>
+		<thumbnail>./images/Everyone Sing [PAL][NTSCU]-thumb.jpg</thumbnail>
+		<rating>0.5</rating>
+		<releasedate>20121023T000000</releasedate>
+		<publisher>Deep Silver</publisher>
+		<genre>Music</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T214147" />
+		<scrap name="TheGamesDB" date="20231214T022715" />
+		<scrap name="HfsDB" date="20231213T233412" />
+	</game>
+	<game>
+		<path>./Games/Fast and Furious Showdown [RF].iso</path>
+		<name>Fast &amp; Furious: Showdown</name>
+		<desc>BECOME A PART OF THE CREW! Strap in and get ready for an intense ride as you team up to take down a dangerous international gang that can only be stopped by you and the rest of the Fast &amp; Furious crew.
+
+Key Game Features
+
+Team Action Racing: Get behind the wheel of some of the world's most intense rides and take on high-stakes driving missions cooperatively with a friend or computer A.I.
+
+Choose the Experience: Put skills to the test in Challenge Mode, an over-the-top game mode offering addictive objectives and high re-playability
+
+Diverse and customizable cars: Build your dream car and modify it with more than 50 awesome upgrades and performance perks
+
+Storyline that spans the franchise and travels the globe: Heists, hijacks and mayhem combine across 8 epic global locations, from Rio to LA to Moscow, in an original storyline that spans the entire Fast &amp; Furious film franchise.</desc>
+		<marquee>./images/Fast and Furious Showdown [RF]-marquee.png</marquee>
+		<thumbnail>./images/Fast and Furious Showdown [RF]-thumb.jpg</thumbnail>
+		<rating>0.35</rating>
+		<releasedate>20130521T000000</releasedate>
+		<developer>Firebrand Games</developer>
+		<publisher>Activision</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T214552" />
+		<scrap name="TheGamesDB" date="20231214T022610" />
+		<scrap name="HfsDB" date="20231213T234315" />
+	</game>
+	<game id="16164">
+		<path>./Games/Halo Wars [RF].iso</path>
+		<name>Halo Wars</name>
+		<desc>Halo Wars is a strategy game based on the legendary Halo universe. Join the Spirit of Fire crew in their battle against the Covenant alien coalition and prepare to command entire armies of Spartans, warthogs and more. Halo Wars will allow you to easily lead powerful armies in epic battles.</desc>
+		<image>./images/Halo Wars [RF]-image.png</image>
+		<video>./videos/Halo Wars [RF]-video.mp4</video>
+		<marquee>./images/Halo Wars [RF]-marquee.png</marquee>
+		<thumbnail>./images/Halo Wars [RF]-thumb.png</thumbnail>
+		<fanart>./images/Halo Wars [RF]-fanart.jpg</fanart>
+		<rating>0.8</rating>
+		<releasedate>20090303T000000</releasedate>
+		<developer>Ensemble Studios</developer>
+		<publisher>Microsoft</publisher>
+		<genre>Strategy</genre>
+		<players>2-6</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231214T022354" />
+		<scrap name="TheGamesDB" date="20231213T210132" />
+		<scrap name="HfsDB" date="20231213T235526" />
+	</game>
+	<game id="17670">
+		<path>./Games/Hot Wheels Beat That [RF].iso</path>
+		<name>Hot Wheels : Beat That !</name>
+		<desc>Choose your car, grab the wheel, and send Mattel's miniature machines racing with Hot Wheels: Beat That! Players can choose from 30 awesome cars authentically modeled from the design specs of official Hot Wheels car models as they compete against friends or the computer AI on an assortment of tracks that run through bedrooms, backyards, and similar neighborhood settings. Each course offers multiple loops, drop-offs, ramps, and jumps, as players race across multiple laps in a variety of life-sized environments to make it first across the finish line!</desc>
+		<thumbnail>./images/Hot Wheels Beat That [RF]-thumb.jpg</thumbnail>
+		<fanart>./images/Hot Wheels Beat That [RF]-fanart.jpg</fanart>
+		<rating>0.6</rating>
+		<releasedate>20070925T000000</releasedate>
+		<developer>Eutechnyx</developer>
+		<publisher>Activision</publisher>
+		<genre>Race, Driving</genre>
+		<family>Hot Wheels</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231214T022640" />
+		<scrap name="TheGamesDB" date="20231213T210141" />
+		<scrap name="HfsDB" date="20231213T235928" />
+	</game>
+	<game>
+		<path>./Games/King of Fighters 13 [RF].iso</path>
+		<name>The King of Fighters XIII</name>
+		<desc>The King of Fighters XIII (??????????????? XIII?) is a fighting game in the The King of Fighters series, developed and published by SNK Playmore originally in 2010. King of Fighters XIII was released for Japanese arcades on July 14, 2010, while ports for the Xbox 360 and PlayStation 3 were during late 2011 in Japan and English regions, with Atlus and Rising Star Games being in charge of releasing them in the United States and Europe respectively. Mobile versions for the iOS and Android operating systems followed in 2011–2012. A PC version was released on Steam on September 13, 2013. Critical reception has been positive and the game has either won or been nominated to multiple Game of the Year type awards.
+
+The game is set after the events from The King of Fighters XI and is also the conclusion of Ash Crimson's story arc, which started in The King of Fighters 2003. It follows another King of Fighters tournament secretly hosted by Those From the Distance Land, the organization behind the events from the two prior games that are trying to break the seal of the demon Orochi and take its power.
+
+Released after The King of Fighters XII, the game was directed by Kei Yamamoto who wanted to bring elements from prior The King of Fighters titles and fix issues from the prior game. This title significantly modifies the gameplay from its predecessor, removing some modes, and adding ones formerly used in the series. It also expands the character roster, re-grouping the playable characters into three-member teams as in the prior installments. The ports are notable for including more content than the original version such as new characters, stages and game modes.</desc>
+		<marquee>./images/King of Fighters 13 [RF]-marquee.png</marquee>
+		<thumbnail>./images/King of Fighters 13 [RF]-thumb.jpg</thumbnail>
+		<manual>./manuals/King of Fighters 13 [RF]-manual.pdf</manual>
+		<releasedate>20111122T000000</releasedate>
+		<genre>Combat</genre>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T215604" />
+		<scrap name="TheGamesDB" date="20231213T210156" />
+		<scrap name="HfsDB" date="20231214T022320" />
+	</game>
+	<game>
+		<path>./Games/Lego Star Wars The Force Awakens [RF].iso</path>
+		<name>LEGO Star Wars: The Force Awakens</name>
+		<desc>In LEGO Star Wars: The Force Awakens, players relive the epic action from the blockbuster film Star Wars: The Force Awakens, retold through the clever and witty LEGO lens.
+The game will also feature exclusive playable content that bridges the story gap between Star Wars Episode VI: Return of the Jedi and Star Wars: The Force Awakens.
+LEGO Star Wars: The Force Awakens also introduces Multi-Builds and Blaster Battles to the LEGO videogame universe.
+With Multi-Builds, use available LEGO bricks to open up new paths, then break them apart and re-build them again to open up another! And another!
+During Blaster Battles, use your surroundings as cover to stand against the First Order.</desc>
+		<thumbnail>./images/Lego Star Wars The Force Awakens [RF]-thumb.jpg</thumbnail>
+		<fanart>./images/Lego Star Wars The Force Awakens [RF]-fanart.jpg</fanart>
+		<releasedate>20160628T000000</releasedate>
+		<developer>TT Games</developer>
+		<publisher>WB Games</publisher>
+		<genre>Action, Adventure</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T215905" />
+		<scrap name="TheGamesDB" date="20231214T022656" />
+		<scrap name="HfsDB" date="20231214T001336" />
+	</game>
+	<game>
+		<path>./Games/Monster Jam [RF].iso</path>
+		<name>Monster Jam</name>
+		<desc>Experience extreme monster truck action as you catch massive air, crush cars, perform crazy stunts, destroy everything in your path, race to the finish line and more. Battle through stadium races, freestyle competitions and outdoor circuit tracks on your way to becoming the Monster Jam world champion!</desc>
+		<marquee>./images/Monster Jam [RF]-marquee.png</marquee>
+		<thumbnail>./images/Monster Jam [RF]-thumb.jpg</thumbnail>
+		<fanart>./images/Monster Jam [RF]-fanart.jpg</fanart>
+		<boxback>./images/Monster Jam [RF]-boxback.jpg</boxback>
+		<rating>0.5</rating>
+		<releasedate>20071113T000000</releasedate>
+		<developer>Activision, Torus Games</developer>
+		<genre>Racing</genre>
+		<players>4</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T220536" />
+		<scrap name="TheGamesDB" date="20231214T022238" />
+		<scrap name="HfsDB" date="20231214T003351" />
+	</game>
+	<game>
+		<path>./Games/Mortal Kombat vs DC Universe UNCUT [RF].iso</path>
+		<name>Mortal Kombat VS DC Universe [Platinum Hits]</name>
+		<desc>Mortal Kombat vs. DC Universe is a crossover fighting video game between Mortal Kombat and the DC Comics fictional universe.
+An attack by both Raiden and Superman simultaneously in their separate universes causes the merging of the Mortal Kombat and DC villains, Shao Kahn and Darkseid, resulting in the creation of Dark Kahn, whose mere existence causes the two universes to begin merging; if allowed to continue, it would result in the destruction of both. Characters from both universes begin to fluctuate in power, becoming stronger or weaker.</desc>
+		<image>./images/Mortal Kombat vs DC Universe UNCUT [RF]-image.jpg</image>
+		<thumbnail>./images/Mortal Kombat vs DC Universe UNCUT [RF]-thumb.jpg</thumbnail>
+		<fanart>./images/Mortal Kombat vs DC Universe UNCUT [RF]-fanart.jpg</fanart>
+		<rating>0.7</rating>
+		<releasedate>20081116T000000</releasedate>
+		<developer>Midway Games</developer>
+		<publisher>WB Games</publisher>
+		<genre>Action, Fighting</genre>
+		<players>2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T220614" />
+		<scrap name="TheGamesDB" date="20231214T022448" />
+		<scrap name="HfsDB" date="20231214T003551" />
+	</game>
+	<game>
+		<path>./Games/The Smurfs 2 [RF].iso</path>
+		<name>The Smurfs 2</name>
+		<desc>The Smurfs 2 video game is an action-packed adventure platformer that provides Smurfs fans of all ages with the opportunity to dive into the magical Smurfs Village and relive iconic moments and key environments from the feature film. Players assume the role of a Smurf and immerse themselves in an interactive adventure through the movie's enchanting environments including New York City and Paris, and expand their movie experience into worlds exclusive to the video game such as The Arctic Tundra and The Lava Jungle.</desc>
+		<image>./images/The Smurfs 2 [RF]-image.jpg</image>
+		<marquee>./images/The Smurfs 2 [RF]-marquee.png</marquee>
+		<thumbnail>./images/The Smurfs 2 [RF]-thumb.jpg</thumbnail>
+		<manual>./manuals/The Smurfs 2 [RF]-manual.pdf</manual>
+		<rating>0.55</rating>
+		<releasedate>20130723T000000</releasedate>
+		<publisher>Ubisoft Entertainment</publisher>
+		<genre>Action, Adventure</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T221910" />
+		<scrap name="TheGamesDB" date="20231214T022215" />
+		<scrap name="HfsDB" date="20231214T011319" />
+	</game>
+	<game>
+		<path>./Games/Tony Hawks Pro Skater 5 [RF].iso</path>
+		<name>Tony Hawk's Pro Skater 5</name>
+		<desc>Tony Hawk's Pro Skater 5 is a skateboarding video game in the Tony Hawk's series developed by Robomodo and Disruptive Games, and published by Activision.[7] The game is the tenth game in the series, being the first main entry in the series since 2007's Proving Ground. The game was released on PlayStation 4 and Xbox One on September 29, 2015 and was critically panned. Patches have since been released to fix the game and add new content. The PlayStation 3 and Xbox 360 versions were released on December 15, 2015 in North America and Europe, after they were delayed to improve the original versions.</desc>
+		<thumbnail>./images/Tony Hawks Pro Skater 5 [RF]-thumb.jpg</thumbnail>
+		<fanart>./images/Tony Hawks Pro Skater 5 [RF]-fanart.jpg</fanart>
+		<rating>0</rating>
+		<releasedate>20151215T000000</releasedate>
+		<developer>Robomodo</developer>
+		<publisher>Activision</publisher>
+		<genre>Sports</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T222009" />
+		<scrap name="TheGamesDB" date="20231214T022707" />
+		<scrap name="HfsDB" date="20231214T011622" />
+	</game>
+	<game>
+		<path>./Games/Tony Hawks Project 8 [RF].iso</path>
+		<name>Tony Hawk's Project 8</name>
+		<desc>Tony Hawk's Project 8, officially abbreviated as THP8, is a skateboarding video game, the eighth installment in the Tony Hawk's series. It was released on PlayStation 2, PlayStation 3, Xbox and Xbox 360.</desc>
+		<image>./images/Tony Hawks Project 8 [RF]-image.png</image>
+		<marquee>./images/Tony Hawks Project 8 [RF]-marquee.png</marquee>
+		<thumbnail>./images/Tony Hawks Project 8 [RF]-thumb.jpg</thumbnail>
+		<fanart>./images/Tony Hawks Project 8 [RF]-fanart.jpg</fanart>
+		<boxback>./images/Tony Hawks Project 8 [RF]-boxback.jpg</boxback>
+		<rating>0.8</rating>
+		<releasedate>20061107T000000</releasedate>
+		<genre>Racing, Sports</genre>
+		<lastplayed>20230222T000000</lastplayed>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T222025" />
+		<scrap name="TheGamesDB" date="20231214T022506" />
+		<scrap name="HfsDB" date="20231214T011721" />
+	</game>
+	<game>
+		<path>./Games/Transformers Rise of The Dark Spark [RF].iso</path>
+		<name>Transformers: Rise of the Dark Spark</name>
+		<desc>Los Autobots y los Decepticons luchan en dos frentes mientras la guerra se libra tanto en Cybertron como en el planeta Tierra en esta explosiva entrada en la saga Transformers. Transformers: Rise of the Dark Spark presenta un modo de campaña de historia (de uno a cuatro jugadores), así como un juego en línea para 4 jugadores en el modo de escalado cooperativo. Por primera vez, lucha a través de los universos de la Tierra y Cybertron en una batalla inolvidable para asegurar la Chispa Oscura. Juega el modo de escalado en línea cooperativo para cuatro jugadores ampliado con nuevas defensas actualizables y desafiantes enemigos de poder. El nuevo sistema de nivelación abarca la campaña y la escalada, lo que permite a los jugadores desbloquear recompensas que ayudarán a la progresión en ambos modos.</desc>
+		<marquee>./images/Transformers Rise of The Dark Spark [RF]-marquee.png</marquee>
+		<thumbnail>./images/Transformers Rise of The Dark Spark [RF]-thumb.jpg</thumbnail>
+		<rating>0.6</rating>
+		<releasedate>20140624T000000</releasedate>
+		<developer>Edge of Reality Inc.</developer>
+		<publisher>Activision</publisher>
+		<genre>Action, Adventure</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T222141" />
+		<scrap name="TheGamesDB" date="20231214T022156" />
+		<scrap name="HfsDB" date="20231214T012031" />
+	</game>
+	<game id="17213">
+		<path>./Games/Trivial Pursuit [RF].iso</path>
+		<name>Trivial Pursuit</name>
+		<desc>Trivial Pursuit on Xbox 360 is the videogame adaptation of the famous board game that has brought so many evenings to life in our homes. On the occasion of its 25th anniversary, discover a host of new questions, new game modes and numerous options on your console to guarantee a unique experience.</desc>
+		<marquee>./images/Trivial Pursuit [RF]-marquee.png</marquee>
+		<thumbnail>./images/Trivial Pursuit [RF]-thumb.jpg</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>20090310T000000</releasedate>
+		<developer>Electronic Arts</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>2-4</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231214T022413" />
+		<scrap name="TheGamesDB" date="20231213T210658" />
+		<scrap name="HfsDB" date="20231214T012129" />
+	</game>
+	<game>
+		<path>./Games/Young Justice Legacy [PAL][NTSCU].iso</path>
+		<name>Young Justice: Legacy</name>
+		<desc>In Young Justice: Legacy fans can look forward to an original storyline set in between Seasons 1 and 2 of the television series, written in collaboration with show writers Greg Weisman and Brandon Vietti. The game is packed with fan favorite playable characters, cameo appearances by popular Justice League heroes and villains, and includes online multiplayer as well as local multiplayer modes.</desc>
+		<marquee>./images/Young Justice Legacy [PAL][NTSCU]-marquee.png</marquee>
+		<thumbnail>./images/Young Justice Legacy [PAL][NTSCU]-thumb.jpg</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>20131119T000000</releasedate>
+		<developer>Freedom Factory Studios</developer>
+		<publisher>Little Orbit</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T222617" />
+		<scrap name="TheGamesDB" date="20231214T022537" />
+		<scrap name="HfsDB" date="20231214T013745" />
+	</game>
+	<game>
+		<path>./Games/Zoo Tycoon [RF].iso</path>
+		<name>Zoo Tycoon</name>
+		<desc>Zoo Tycoon was revealed at E3 2013 In June 2013. The gameplay that was shown included element similar to Zoo Tycoon 2, such as a first person view, and new elements such as feeding animals in first person view. Also like its predecessor, the game allows the player to care for their animals by monitoring their mood, hunger, and thirst. Tycoon Mode, which was introduced in the first Zoo Tycoon, has also returned</desc>
+		<thumbnail>./images/Zoo Tycoon [RF]-thumb.jpg</thumbnail>
+		<rating>0</rating>
+		<releasedate>20131122T000000</releasedate>
+		<developer>Frontier Developments Ltd.</developer>
+		<publisher>Microsoft Studios</publisher>
+		<genre>Life Simulation</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T222618" />
+		<scrap name="TheGamesDB" date="20231214T022528" />
+		<scrap name="HfsDB" date="20231214T013845" />
 	</game>
 </gameList>
