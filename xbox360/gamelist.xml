@@ -5730,24 +5730,6 @@ The game is set in an urban warzone in an unnamed Middle Eastern country, where 
 		<scrap name="TheGamesDB" date="20231213T205535" />
 		<scrap name="HfsDB" date="20231213T223214" />
 	</game>
-	<game id="16982">
-		<path>./Games/ACDC Live Rock Band Track Pack [NTSCU].iso</path>
-		<name>AC/DC Live : Rock Band Track Pack</name>
-		<desc>AC/DC Live: Rock Band Track Pack is nothing less than the essential song pack for every rock fan on Xbox 360. You will find 18 classic songs from this mythical band live. Amongst others, the famous Highway to Hell, For Those About too Rock, Hells Bells and Thunderstruck.</desc>
-		<marquee>./images/ACDC Live Rock Band Track Pack [NTSCU]-marquee.png</marquee>
-		<thumbnail>./images/ACDC Live Rock Band Track Pack [NTSCU]-thumb.png</thumbnail>
-		<fanart>./images/ACDC Live Rock Band Track Pack [NTSCU]-fanart.jpg</fanart>
-		<rating>0.65</rating>
-		<developer>Harmonix Music Systems</developer>
-		<publisher>Electronic Arts</publisher>
-		<genre>Music and Dance</genre>
-		<family>Rock Band</family>
-		<players>1-8</players>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231213T211337" />
-		<scrap name="TheGamesDB" date="20231213T205539" />
-		<scrap name="HfsDB" date="20231213T223310" />
-	</game>
 	<game>
 		<path>./Games/Akai Katana [PAL][NTSCU].iso</path>
 		<name>Akai Katana</name>
@@ -5790,21 +5772,6 @@ Prepare for a new definition of bullet-hell!</desc>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231213T211447" />
 		<scrap name="TheGamesDB" date="20231213T205542" />
-		<scrap name="HfsDB" date="20231213T223412" />
-	</game>
-	<game id="17494">
-		<path>./Games/Americas Army True Soldiers [NTSCU][NTSCJ].iso</path>
-		<name>America's Army : True Soldiers</name>
-		<desc>The American army simulator arrives on the Xbox 360 with America's Army: True Soldiers. Here, there is no arcade gameplay, everything is rooted in realism. Mainly oriented towards multiplayer, the title proposes confrontations in the rules of art: one shot, one death. Lead a squad of four soldiers specialised in their field and defend your skin against the rest of the world.</desc>
-		<marquee>./images/Americas Army True Soldiers [NTSCU][NTSCJ]-marquee.png</marquee>
-		<thumbnail>./images/Americas Army True Soldiers [NTSCU][NTSCJ]-thumb.jpg</thumbnail>
-		<rating>0.25</rating>
-		<developer>Red Storm Entertainment, Inc.</developer>
-		<publisher>Ubisoft</publisher>
-		<genre>Action</genre>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231213T211448" />
-		<scrap name="TheGamesDB" date="20231213T205543" />
 		<scrap name="HfsDB" date="20231213T223412" />
 	</game>
 	<game>
@@ -5995,31 +5962,6 @@ Take on the roles of imaginative human and cyborg characters in over-the-top clo
 		<scrap name="TheGamesDB" date="20231213T205605" />
 		<scrap name="HfsDB" date="20231213T223815" />
 	</game>
-	<game>
-		<path>./Games/Asterix at the Olympic Games [RF].iso</path>
-		<name>Asterix at the Olympic Games</name>
-		<desc>Lovestorix is in love with Princess Irina but Brutus also wants to marry her. To solve this problem, the Princess decides that she'll marry whoever wins the Olympic Games. At the same time the evil Doctormabus has discovered a dimensional key with which he can open portals to parallel dimensions and with it threatens to destroy the balance between the worlds. But of course Asterix &amp; Obelix come to the rescue and have to not only stop Doctormabus but also help Lovestorix win the games.
-
-Like in Astérix &amp; Obélix XXL 2: Mission: Las Vegum you take control over both Asterix and Obelix and fight your way through hordes of Romans, building up combos with your punches and solving small riddles on the way. You can also change between controling Asterix or Obelix at any time. But since you are taking part in the Olympic Games, there are also several mini-games waiting which need to be beat in order to progress further in the story. These mini-games include things like Long Jump or Tug of War. These field events are played much like in Asterix and Obelix which means for example that you alternate between two buttons as fast as you can to run.
-
-Once you've completed an event in the story mode, you can also play these events seperately in Olympic Mode in which two players (or one player against the CPU) fight for the gold medal in each discipline.
-
-During the story mode you also collect helmets by destroying scenery objects or beating up Romans. These can be used to buy health or new combos ingame or unlock small parts of the movie. You also unlock new characters for the Olympic Mode as you advance in the story.
-
-Also the game neither directly follows the storyline of the comic nor the movie, the twist with the portals to the real world is used to also include some actors of the movie in the game.</desc>
-		<image>./images/Asterix at the Olympic Games [RF]-image.jpg</image>
-		<video>./videos/Asterix at the Olympic Games [RF]-video.mp4</video>
-		<marquee>./images/Asterix at the Olympic Games [RF]-marquee.png</marquee>
-		<thumbnail>./images/Asterix at the Olympic Games [RF]-thumb.png</thumbnail>
-		<fanart>./images/Asterix at the Olympic Games [RF]-fanart.jpg</fanart>
-		<boxback>./images/Asterix at the Olympic Games [RF]-boxback.png</boxback>
-		<rating>0.6</rating>
-		<lastplayed>20230222T000000</lastplayed>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231213T211936" />
-		<scrap name="TheGamesDB" date="20231213T205606" />
-		<scrap name="HfsDB" date="20231213T223913" />
-	</game>
 	<game id="17862">
 		<path>./Games/Attack of the Movies 3D [NTSCU].iso</path>
 		<name>Attack Of The Movies 3d</name>
@@ -6052,22 +5994,6 @@ Sigourney Weaver, Stephen Lang, Michelle Rodriguez, and Giovanni Ribisi reprise 
 		<scrap name="TheGamesDB" date="20231213T205607" />
 		<scrap name="HfsDB" date="20231213T224014" />
 	</game>
-	<game id="18352">
-		<path>./Games/Back to the Future The Game - 30th Anniversary Edition [PAL][NTSCU].iso</path>
-		<name>Back to the Future : The Game ? 30th Anniversary E</name>
-		<image>./images/Back to the Future The Game - 30th Anniversary Edition [PAL][NTSCU]-image.png</image>
-		<marquee>./images/Back to the Future The Game - 30th Anniversary Edition [PAL][NTSCU]-marquee.png</marquee>
-		<thumbnail>./images/Back to the Future The Game - 30th Anniversary Edition [PAL][NTSCU]-thumb.png</thumbnail>
-		<fanart>./images/Back to the Future The Game - 30th Anniversary Edition [PAL][NTSCU]-fanart.jpg</fanart>
-		<rating>0</rating>
-		<genre>Adventure</genre>
-		<family>Back to the Future</family>
-		<lastplayed>20230222T000000</lastplayed>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231213T212005" />
-		<scrap name="TheGamesDB" date="20231213T205608" />
-		<scrap name="HfsDB" date="20231213T224014" />
-	</game>
 	<game>
 		<path>./Games/Backbreaker [PAL][NTSCU].iso</path>
 		<name>Backbreaker</name>
@@ -6088,39 +6014,6 @@ Backbreaker received mixed reviews. While it was praised for the Euphoria animat
 		<scrap name="ScreenScraper" date="20231213T212012" />
 		<scrap name="TheGamesDB" date="20231213T205609" />
 		<scrap name="HfsDB" date="20231213T224114" />
-	</game>
-	<game>
-		<path>./Games/Bakugan Battle Brawlers [RF].iso</path>
-		<name>Bakugan: Battle Brawlers</name>
-		<desc>One day the player's character meets Dan Kuso, one of the Battle Brawlers, who teaches him the rules in a fight against Shuji. (you get a Serpenoid, a Juggernoid, and a Saurus that match the attribute you chose at the start of the game). After going to the local store and meeting Alice, who suggests the player should battle with other brawlers in the park to earn BP (Bakugan Points, the game's currency) a strange Bakugan called Leonidas falls from the sky, who is now the new best friend of the player. (Leonidas' attribute depends on what attribute you chose). Leonidas is an unknown and aggressive Bakugan that was created by all the hate and anger of the lost Bakugan trapped in the Doom Dimension. In several fights the player will meet a lot of people but at the same time a Darkus user, whose name is Marduk, decides to rule over all Bakugan together with Vladitor, another Bakugan that suddenly appears.
-
-Right after Naga got the Silent Core, the seals that held Vladitor captive in the Doom Dimension suddenly broke and he escaped from the Doom Dimension. At the end of a tournament when Dan makes the player an official Bakugan Battle Brawler, Marduk is revealed to have allied with Hal G, Masquerade and Naga in order to defeat the Battle Brawlers and rule over the worlds and the Bakugan. The player must win the Ultimate Battle Tournament, defeating also Dan, Runo, Marucho, Julie, Shun, Masquerade, and a 1-on-1 showdown with Omega Leonidas and Battle Axe Vladitor. After the player wins, both Vladitor and Leonidas disappear, saying they have only little power left after the brawl. Later, the player discovers that Vladitor gave Leonidas his remaining power, saying he deserved it, leaving Leonidas to assume that Vladitor "wasn't all bad". The game ends with the player throwing Leonidas in the air shouting, "Bakugan brawl!".</desc>
-		<marquee>./images/Bakugan Battle Brawlers [RF]-marquee.png</marquee>
-		<thumbnail>./images/Bakugan Battle Brawlers [RF]-thumb.jpg</thumbnail>
-		<fanart>./images/Bakugan Battle Brawlers [RF]-fanart.jpg</fanart>
-		<boxback>./images/Bakugan Battle Brawlers [RF]-boxback.jpg</boxback>
-		<rating>0.5</rating>
-		<genre>Strategie</genre>
-		<lastplayed>20230222T000000</lastplayed>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231213T212026" />
-		<scrap name="TheGamesDB" date="20231213T205610" />
-		<scrap name="HfsDB" date="20231213T224115" />
-	</game>
-	<game>
-		<path>./Games/Bakugan Defenders of the Core [PAL][NTSCU].iso</path>
-		<name>Bakugan: Defenders Of The Core</name>
-		<desc>In Bakugan Battle Brawlers: Defenders of the Core, players will create a new hero and lead the brawlers on an epic adventure to save Earth's cities from Spectra and his Vexos minions. Players will discover a whole new aspect of Bakugan by being given complete control over their creatures when taking on their opponents as Bakugan transform from small balls into towering creatures. In the midst of intense battles, players will find themselves bravely exploring dangerous and dark areas to stop the evil spirits that are sucking the life force from the world. Players will unlock all-new levels and characters as they unearth hidden clues and defeat opponents in the quest to save the world from ultimate destruction. Bakugan Battle Brawlers: Defenders of the Core also features split-screen multiplayer action in three different game modes in the console versions, and linked multiplayer on Nintendo DS and PSP system. Coupled with real-time battle gameplay, this will be the first time that players can duke it out with their Bakugan in head-to-head duels, free for all, and strategic destruction battles.</desc>
-		<image>./images/Bakugan Defenders of the Core [PAL][NTSCU]-image.png</image>
-		<marquee>./images/Bakugan Defenders of the Core [PAL][NTSCU]-marquee.png</marquee>
-		<thumbnail>./images/Bakugan Defenders of the Core [PAL][NTSCU]-thumb.jpg</thumbnail>
-		<fanart>./images/Bakugan Defenders of the Core [PAL][NTSCU]-fanart.jpg</fanart>
-		<rating>0.7</rating>
-		<lastplayed>20230222T000000</lastplayed>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231213T212046" />
-		<scrap name="TheGamesDB" date="20231213T205611" />
-		<scrap name="HfsDB" date="20231213T224214" />
 	</game>
 	<game>
 		<path>./Games/Banjo-Kazooie Nuts &amp; Bolts [NTSCU].iso</path>
@@ -6406,26 +6299,6 @@ The Prince can humbly ask the aid of over 50 of his cousins to get the ball roll
 		<scrap name="ScreenScraper" date="20231213T212340" />
 		<scrap name="TheGamesDB" date="20231213T205635" />
 		<scrap name="HfsDB" date="20231213T224721" />
-	</game>
-	<game>
-		<path>./Games/Bionicle Heroes [RF].iso</path>
-		<name>Bionicle Heroes</name>
-		<desc>Bionicle Heroes is an action-shooter where the player takes on the role of the various Lego Bionicle Toa Inika - Jaller, Matoro, Hahli, Kongu, Hewkii, and Nuparu.
-
-These heroes wear Toa Masks of Power - powerups you can find throughout the levels to gain different elemental based abilities. You'll also find Bionicle cannisters to help aid your quest to defeat Vezon - the 7th Piraka who had stolen the Mask of Life.
-
-Gameplay centers around firefights against the alien "robots" called Vahki, Visorak and Borhok. Players will collect Lego pieces for every enemy you defeat, and eventually enable an invulnerable Hero Mode to help defeat the Toa's enemies.</desc>
-		<image>./images/Bionicle Heroes [RF]-image.png</image>
-		<marquee>./images/Bionicle Heroes [RF]-marquee.png</marquee>
-		<thumbnail>./images/Bionicle Heroes [RF]-thumb.jpg</thumbnail>
-		<boxback>./images/Bionicle Heroes [RF]-boxback.png</boxback>
-		<rating>0.75</rating>
-		<genre>Action-Aventure</genre>
-		<lastplayed>20230222T000000</lastplayed>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231213T212348" />
-		<scrap name="TheGamesDB" date="20231213T205636" />
-		<scrap name="HfsDB" date="20231213T224821" />
 	</game>
 	<game>
 		<path>./Games/Birds of Steel [NTSCU].iso</path>
@@ -6840,32 +6713,6 @@ In Blur the storyline plays out in the single player campaign. Here players assu
 		<scrap name="HfsDB" date="20231213T225728" />
 	</game>
 	<game>
-		<path>./Games/Bullet Soul Infinite Burst [RF][JPN].iso</path>
-		<name>Bullet Soul Infinite Burst</name>
-		<desc>A brand-new recipe for the shooting genre which rewards survival through aggressive play. Blending classic shooting game design with a solid dash of modern day bullet hell, this soul food dish has it all! Destroy enemies at close quarters to build your multiplier, and see their bullets rendered harmless. Scour the stages for secret bonuses to push your score to even greater heights.
-Bringing even more heat are Resonator: the moniker of aural wizards Kenji 'Itoken' Ito and Kohta Takahashi, setting fire to your speakers with their tunes. Last but not least, Akio Watanabe lends his skills to the scene, bringing forth some fresh character designs.
-
-Bullet Soul arrives on Steam at last!
-Features here:
-4 different modes, including both DLC from the Xbox 360 original
-3 different ships, and a hidden second loop, complete with true last boss on Normal Mode
-Practice and perfect your score stage by stage in Bancho Mode
-Race the clock and the world's best scores in Caravan Mode
-A 4th ship and further refined gameplay in Version B 
-Leaderboards divided by mode &amp; ship with friend filters
-Includes tate/vertical screen mode with X/Y scaling and smoothing</desc>
-		<thumbnail>./images/Bullet Soul Infinite Burst [RF][JPN]-thumb.png</thumbnail>
-		<rating>0</rating>
-		<genre>Shooter</genre>
-		<players>2</players>
-		<playcount>1</playcount>
-		<lastplayed>20231213T194518</lastplayed>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231213T212856" />
-		<scrap name="TheGamesDB" date="20231213T205710" />
-		<scrap name="HfsDB" date="20231213T225729" />
-	</game>
-	<game>
 		<path>./Games/Bulletstorm [RF].iso</path>
 		<name>Bulletstorm</name>
 		<desc>Set in a futuristic utopia, an elite peacekeeping force thwarts the rumblings of civil war. But deception within the ranks has caused two members of the most feared unit to strike out on their own. Now stranded on an abandoned paradise, Grayson Hunt and Ishi Sato find themselves surrounded by hordes of mutants and flesh eating gangs. They survive on two objectives: get off the planet alive and extract revenge on the man who sent them there. As Grayson Hunt, players wield an arsenal of over-the-top combat moves and outrageously large guns that feed into Bulletstorm’s distinct ‘skillshot’ system producing unprecedented levels of frantic gameplay and yell-inducing satisfaction.</desc>
@@ -6906,25 +6753,6 @@ This edition enhances the original game with eight new missions, four new school
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231213T212936" />
 		<scrap name="TheGamesDB" date="20231213T205716" />
-		<scrap name="HfsDB" date="20231213T225931" />
-	</game>
-	<game>
-		<path>./Games/Burnout Paradise Ultimate Box [RF].iso</path>
-		<name>Burnout Paradise: the Ultimate Box / Trivial Pursuit</name>
-		<desc>This compilation includes:
-Burnout Paradise
-Burnout Paradise: Cagney Pack (add-on)
-Burnout Paradise: Bikes Pack (add-on)
-Burnout Paradise: Party Pack (add-on)
-Trophies for PlayStation 3 version
-Various minor refinements
-It is also the first version of the game (and the series as a whole) for the Windows platform.</desc>
-		<thumbnail>./images/Burnout Paradise Ultimate Box [RF]-thumb.jpg</thumbnail>
-		<rating>0</rating>
-		<lastplayed>20230222T000000</lastplayed>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231213T212938" />
-		<scrap name="TheGamesDB" date="20231213T205717" />
 		<scrap name="HfsDB" date="20231213T225931" />
 	</game>
 	<game>
@@ -7314,20 +7142,6 @@ The game received mixed reviews upon its release; critics disparaged the game's 
 		<scrap name="HfsDB" date="20231213T230842" />
 	</game>
 	<game>
-		<path>./Games/Crash Time [NTSCU].iso</path>
-		<name>Crash Time 5 Undercover</name>
-		<desc>Alarm für Cobra 11: Undercover is the ninth game based on the German TV series Alarm für Cobra 11. The player takes control over the policemen Ben Jäger and Semir Gerkhan who are responsible for the safety on the highways near Cologne. In this installment of the series, Jäger goes undercover to infiltrate a gangster organization in order to nail their bosses. Each of the eight cases deals with another criminal and is divided into several missions in which the player alternately takes the role of Jäger or Gerkhan. As usually, the story is only told with voiceovers.
-
-Undercover abandons the open world concept introduced in Crash Time II and goes back to a mission based structure. While there are still some missions which allow freedom, most of the time is spent in linear sections. Most missions consist of normal races or checkpoint races. Sometimes there is also a car chase; either as pursuer or hunted. In the direct predecessors, the player already could use a handgun while driving: in this game there is an extended weapon selection, e.g. a nail board, oil or EMP. The handling is action based and the player never leaves the car. Multiplayer consists of regular races, checkpoint races and an elimination mode.</desc>
-		<thumbnail>./images/Crash Time [NTSCU]-thumb.jpg</thumbnail>
-		<rating>0.45</rating>
-		<genre>Course</genre>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231213T213352" />
-		<scrap name="TheGamesDB" date="20231213T205755" />
-		<scrap name="HfsDB" date="20231213T230843" />
-	</game>
-	<game>
 		<path>./Games/Culdcept Saga [NTSCU].iso</path>
 		<name>Culdcept Saga</name>
 		<desc>Culdcept Saga (?????? ??? Karudoseputo Saaga?) is a video game developed exclusively for the Xbox 360 video game console. It is the first entry for a Microsoft console in the Magic-meets-Monopoly game franchise that included previous installments on the PlayStation, PlayStation 2, Sega Saturn and Dreamcast.
@@ -7680,21 +7494,6 @@ The only confirmed NPCs are Deckard Cain, who has appeared in both of the previo
 		<scrap name="ScreenScraper" date="20231213T213651" />
 		<scrap name="TheGamesDB" date="20231213T205833" />
 		<scrap name="HfsDB" date="20231213T231751" />
-	</game>
-	<game>
-		<path>./Games/Disney Infinity 3.0 [RF].iso</path>
-		<name>Disney Infinity 3.0 Edition</name>
-		<marquee>./images/Disney Infinity 3.0 [RF]-marquee.png</marquee>
-		<thumbnail>./images/Disney Infinity 3.0 [RF]-thumb.jpg</thumbnail>
-		<rating>0</rating>
-		<developer>Avalanche Software</developer>
-		<publisher>Disney Interactive Studios</publisher>
-		<genre>Action</genre>
-		<lastplayed>20230222T000000</lastplayed>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231213T213658" />
-		<scrap name="TheGamesDB" date="20231213T205835" />
-		<scrap name="HfsDB" date="20231213T231752" />
 	</game>
 	<game>
 		<path>./Games/Disney Infinity Marvel Super Heroes 2.0 [RF].iso</path>
@@ -8535,47 +8334,6 @@ The story once again centers around Point Man and Paxton's mother, Alma Wade, wh
 		<scrap name="ScreenScraper" date="20231213T214312" />
 		<scrap name="TheGamesDB" date="20231213T205956" />
 		<scrap name="HfsDB" date="20231213T233812" />
-	</game>
-	<game id="15818">
-		<path>./Games/Fable 3 [RF][En,Pl,Hu,Ko,Ru,Cz,Sk,Ch].iso</path>
-		<name>Fable III</name>
-		<desc>Set 50 years after the events of Fable II, the continent of Albion (where the Fable series is set) is under the control of Logan, a tyrant king and the Hero's older brother. The player's character, the "Hero", is forced into a quest to become a revolutionary leader to defeat Logan after he reveals his true personality to the Hero. Over the course of the first half of the game, the Hero will overthrow Logan and become ruler of Albion themselves. During the second half of the game, a strange force from Aurora, called The Darkness will threaten Albion and the player has to decide how to react to it.</desc>
-		<image>./images/Fable 3 [RF][En,Pl,Hu,Ko,Ru,Cz,Sk,Ch]-image.jpg</image>
-		<video>./videos/Fable 3 [RF][En,Pl,Hu,Ko,Ru,Cz,Sk,Ch]-video.mp4</video>
-		<marquee>./images/Fable 3 [RF][En,Pl,Hu,Ko,Ru,Cz,Sk,Ch]-marquee.png</marquee>
-		<thumbnail>./images/Fable 3 [RF][En,Pl,Hu,Ko,Ru,Cz,Sk,Ch]-thumb.png</thumbnail>
-		<fanart>./images/Fable 3 [RF][En,Pl,Hu,Ko,Ru,Cz,Sk,Ch]-fanart.jpg</fanart>
-		<rating>0.75</rating>
-		<developer>Microsoft</developer>
-		<publisher>Lionhead</publisher>
-		<genre>Role playing games</genre>
-		<family>FABLE</family>
-		<players>2</players>
-		<lang>en,pl,ru,cn</lang>
-		<region>cn</region>
-		<scrap name="ScreenScraper" date="20231213T214341" />
-		<scrap name="TheGamesDB" date="20231213T205959" />
-		<scrap name="HfsDB" date="20231213T233913" />
-	</game>
-	<game id="15818">
-		<path>./Games/Fable 3 [RF][SPA].iso</path>
-		<name>Fable III</name>
-		<desc>Set 50 years after the events of Fable II, the continent of Albion (where the Fable series is set) is under the control of Logan, a tyrant king and the Hero's older brother. The player's character, the "Hero", is forced into a quest to become a revolutionary leader to defeat Logan after he reveals his true personality to the Hero. Over the course of the first half of the game, the Hero will overthrow Logan and become ruler of Albion themselves. During the second half of the game, a strange force from Aurora, called The Darkness will threaten Albion and the player has to decide how to react to it.</desc>
-		<image>./images/Fable 3 [RF][SPA]-image.jpg</image>
-		<video>./videos/Fable 3 [RF][SPA]-video.mp4</video>
-		<marquee>./images/Fable 3 [RF][SPA]-marquee.png</marquee>
-		<thumbnail>./images/Fable 3 [RF][SPA]-thumb.png</thumbnail>
-		<fanart>./images/Fable 3 [RF][SPA]-fanart.jpg</fanart>
-		<rating>0.75</rating>
-		<developer>Microsoft</developer>
-		<publisher>Lionhead</publisher>
-		<genre>Role playing games</genre>
-		<family>FABLE</family>
-		<players>2</players>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231213T214409" />
-		<scrap name="TheGamesDB" date="20231213T210002" />
-		<scrap name="HfsDB" date="20231213T233913" />
 	</game>
 	<game>
 		<path>./Games/Fable Anniversary [RF].iso</path>
@@ -9484,14 +9242,6 @@ Test your knowledge to make it to Final Jeopardy! and the coveted Winners Circle
 		<scrap name="HfsDB" date="20231214T000130" />
 	</game>
 	<game>
-		<path>./Games/Juiced 2 Hot Imports Nights [RF].iso</path>
-		<name>Juiced 2 Hot Imports Nights [RF]</name>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231213T215519" />
-		<scrap name="TheGamesDB" date="20231213T210150" />
-		<scrap name="HfsDB" date="20231214T000229" />
-	</game>
-	<game>
 		<path>./Games/Kameo Elements of Power [NTSCU].iso</path>
 		<name>Kameo: Elements of Power</name>
 		<desc>Kameo: Elements of Power was one of the Xbox 360 launch games and puts you in the role of the young fairy-like elf Kameo. In the introduction, she storms a castle to rescue her family members, but fails, and loses all her powers. Your task is to collect ten elemental spirits and defeat Thorn, the king of the trolls, along with your evil sister Kalus.
@@ -9818,22 +9568,6 @@ The popularity of the game led to the development of a sequel, Left 4 Dead 2, wh
 		<scrap name="TheGamesDB" date="20231213T210223" />
 		<scrap name="HfsDB" date="20231214T001033" />
 	</game>
-	<game id="18293">
-		<path>./Games/LEGO Jurassic World [RF].iso</path>
-		<name>Lego Jurassic World</name>
-		<desc>LEGO Jurassic World is an action game based on the four Jurassic Park movies and released alongside the 2015 movie Jurassic World. As with many other Tt Games titles it adapts a licensed franchise to a world built up out of LEGO bricks. The game consists of 20 levels, five for each of the movies, played in succession. The game borrows many iconic moments from the films using the original audio clips and often adds a humorous twist.</desc>
-		<marquee>./images/LEGO Jurassic World [RF]-marquee.png</marquee>
-		<thumbnail>./images/LEGO Jurassic World [RF]-thumb.jpg</thumbnail>
-		<fanart>./images/LEGO Jurassic World [RF]-fanart.jpg</fanart>
-		<rating>0.85</rating>
-		<developer>Warner Bros. Interactive</developer>
-		<publisher>Travellers Tales</publisher>
-		<family>LEGO</family>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231213T215811" />
-		<scrap name="TheGamesDB" date="20231213T210224" />
-		<scrap name="HfsDB" date="20231214T001034" />
-	</game>
 	<game>
 		<path>./Games/Lego Marvel Super Heroes [RF].iso</path>
 		<name>LEGO Marvel Super Heroes</name>
@@ -10110,17 +9844,6 @@ If you don't like the song list, you can add more songs to the mix. In addition 
 		<scrap name="ScreenScraper" date="20231213T215921" />
 		<scrap name="TheGamesDB" date="20231213T210246" />
 		<scrap name="HfsDB" date="20231214T001539" />
-	</game>
-	<game>
-		<path>./Games/Looney Tunes Acme Arsenal [NTSCU].iso</path>
-		<name>Looney Tunes Acme Arsenal</name>
-		<marquee>./images/Looney Tunes Acme Arsenal [NTSCU]-marquee.png</marquee>
-		<thumbnail>./images/Looney Tunes Acme Arsenal [NTSCU]-thumb.png</thumbnail>
-		<rating>0.25</rating>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231213T215929" />
-		<scrap name="TheGamesDB" date="20231213T210248" />
-		<scrap name="HfsDB" date="20231214T001638" />
 	</game>
 	<game>
 		<path>./Games/Lost Planet 2 [RF].iso</path>
@@ -10931,23 +10654,6 @@ Online play is also available for players to take their fights online for ranked
 		<scrap name="ScreenScraper" date="20231213T220614" />
 		<scrap name="TheGamesDB" date="20231213T210354" />
 		<scrap name="HfsDB" date="20231214T003551" />
-	</game>
-	<game>
-		<path>./Games/Muchi Muchi Pork &amp; Pink Sweets [RF].iso</path>
-		<name>Muchi Muchi Pork! &amp; Pink Sweets</name>
-		<desc>Collecting medals is the primary scoring mechanic in the game. When an enemy is destroyed using the lard attack, they will drop medals shaped like a pig's head. If enemies are destroyed with the lard attack while a bomb is being used, they will drop "p" items instead of medals. Also, Single medals will periodically drop from enemies even if they are not destroyed using the lard attack.
-The medal value starts at 100 points. If there are already medals on screen, the medals that enemies drop will be of an equal value to the medals on screen. If there are no medals on screen, the medal value will increase by 100 points (if the previous value was  1000 points), or 1000 points (if the previous value was  1000 points). The medal value will max out at 10,000 points.
-If the player switches from the B-shot to the A-shot, all medals on screen will be automatically collected. If the player fails to collect the last medal on screen, the medal value will divide by a factor of 10. The player is awarded an extend every 10 million points. An extend item can also be found if the third stage mid-boss is destroyed using the pierce shot.
-Accessing the second loop requires completing the first five stages without losing a single life. If the extend item is collected in stage 3, the player can die once and still proceed to the second loop. Stages 6–10 are identical to the first five stages, but are much more difficult. In addition to this, score extends are no longer awarded.</desc>
-		<thumbnail>./images/Muchi Muchi Pork &amp; Pink Sweets [RF]-thumb.jpg</thumbnail>
-		<rating>0</rating>
-		<genre>Shooter</genre>
-		<players>2</players>
-		<lastplayed>20230222T000000</lastplayed>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231213T220627" />
-		<scrap name="TheGamesDB" date="20231213T210358" />
-		<scrap name="HfsDB" date="20231214T003652" />
 	</game>
 	<game>
 		<path>./Games/MUD FIM Motocross World Championship [RF].iso</path>
@@ -12633,25 +12339,6 @@ Shred introduces a snowboarding mode to the series as well as Avatar and Mii sup
 		<scrap name="TheGamesDB" date="20231213T210641" />
 		<scrap name="HfsDB" date="20231214T011721" />
 	</game>
-	<game id="16754">
-		<path>./Games/Tony Hawks Proving Ground [RF].iso</path>
-		<name>Tony Hawk's Proving Ground</name>
-		<desc>Tony Hawk's Proving Ground for Xbox 360 features the famous skateboarder and his daredevil crew. Create your own character and develop unique skills based on different skateboarding styles. Transform the environment into a custom skate park, then make your own videos using the included video editor to capture your best tricks and stunts.</desc>
-		<image>./images/Tony Hawks Proving Ground [RF]-image.jpg</image>
-		<marquee>./images/Tony Hawks Proving Ground [RF]-marquee.png</marquee>
-		<thumbnail>./images/Tony Hawks Proving Ground [RF]-thumb.png</thumbnail>
-		<fanart>./images/Tony Hawks Proving Ground [RF]-fanart.jpg</fanart>
-		<boxback>./images/Tony Hawks Proving Ground [RF]-boxback.jpg</boxback>
-		<rating>0.8</rating>
-		<developer>Neversoft</developer>
-		<publisher>Activision</publisher>
-		<genre>Sports / Skateboard</genre>
-		<family>Tony Hawk</family>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231213T222037" />
-		<scrap name="TheGamesDB" date="20231213T210642" />
-		<scrap name="HfsDB" date="20231214T011722" />
-	</game>
 	<game>
 		<path>./Games/Tony Hawks Ride [RF].iso</path>
 		<name>Tony Hawk Ride</name>
@@ -13095,28 +12782,6 @@ A new feature of the game is Piñata Vision, which uses the Xbox Live Vision Cam
 		<scrap name="HfsDB" date="20231214T012739" />
 	</game>
 	<game>
-		<path>./Games/Viva Piñata [PAL][NTSCU].iso</path>
-		<name>Banjo-Kazooie: Nuts &amp; Bolts / Viva Piñata</name>
-		<desc>This is a two-game bundle, which come with Xbox 360 Arcade consoles. It contains two games from Rare:
-Banjo-Kazooie: Nuts and Bolts
-Viva Piñata</desc>
-		<image>./images/Viva Piñata [PAL][NTSCU]-image.jpg</image>
-		<video>./videos/Viva Piñata [PAL][NTSCU]-video.mp4</video>
-		<marquee>./images/Viva Piñata [PAL][NTSCU]-marquee.png</marquee>
-		<thumbnail>./images/Viva Piñata [PAL][NTSCU]-thumb.jpg</thumbnail>
-		<fanart>./images/Viva Piñata [PAL][NTSCU]-fanart.jpg</fanart>
-		<boxback>./images/Viva Piñata [PAL][NTSCU]-boxback.png</boxback>
-		<rating>0.75</rating>
-		<developer>Rare Ltd</developer>
-		<publisher>Microsoft Games Studio</publisher>
-		<genre>Simulation</genre>
-		<lastplayed>20230222T000000</lastplayed>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231213T222402" />
-		<scrap name="TheGamesDB" date="20231213T210730" />
-		<scrap name="HfsDB" date="20231214T012837" />
-	</game>
-	<game>
 		<path>./Games/WALL-E [NTSCU].iso</path>
 		<name>WALL-E</name>
 		<desc>WALL-E (stylized as WALL·E) is the video game adaptation of the movie of the same name.[2] The game was developed and published by Play THQ for multiple platforms. The game was released in North America on June 24, 2008, Europe on July 4, 2008, and Australia on September 4, 2008. The game was also released in Japan on December 11, 2008, although not officially available on the Xbox 360 or any PC.
@@ -13141,21 +12806,6 @@ The PC version includes demos for the video games Ratatouille and Cars.</desc>
 		<scrap name="ScreenScraper" date="20231213T222418" />
 		<scrap name="TheGamesDB" date="20231213T210731" />
 		<scrap name="HfsDB" date="20231214T012840" />
-	</game>
-	<game id="202045">
-		<path>./Games/Warhammer 40000 Space Marine [RF].iso</path>
-		<name>Warhammer 40,000 - Space Marine</name>
-		<image>./images/Warhammer 40000 Space Marine [RF]-image.jpg</image>
-		<marquee>./images/Warhammer 40000 Space Marine [RF]-marquee.png</marquee>
-		<thumbnail>./images/Warhammer 40000 Space Marine [RF]-thumb.jpg</thumbnail>
-		<boxback>./images/Warhammer 40000 Space Marine [RF]-boxback.jpg</boxback>
-		<rating>0</rating>
-		<family>Warhammer 40.000</family>
-		<lastplayed>20230222T000000</lastplayed>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231213T222420" />
-		<scrap name="TheGamesDB" date="20231213T210734" />
-		<scrap name="HfsDB" date="20231214T012935" />
 	</game>
 	<game>
 		<path>./Games/Warhammer Battle March [RF].iso</path>
@@ -13835,5 +13485,441 @@ This is the only Skylanders game to be released on PC.</desc>
 		<scrap name="ScreenScraper" date="20231213T222051" />
 		<scrap name="TheGamesDB" date="20231214T015739" />
 		<scrap name="HfsDB" date="20231214T011828" />
+	</game>
+	<game>
+		<path>./Games/ACDC Live Rock Band Track Pack [NTSCU].iso</path>
+		<name>AC/DC Live: Rock Band Track Pack</name>
+		<desc>Rock Band Track Packs (called Song Packs in Europe and Australia) are a series of supplemental media discs for the Rock Band series of music video games. The packs are developed by Harmonix and Demiurge Studios (earlier packs were developed with Pi Studios), and distributed by MTV Games and Electronic Arts. Harmonix has announced they will release additional discs, containing new songs not in past releases, and have not previously been made available through downloadable content. The track packs are fully functional stand alone games and do not require separate Rock Band titles to play; however, on consoles that support downloadable content, the songs from these packs can be integrated with other Rock Band titles.
+
+
+AC/DC Live: Rock Band Track Pack (AC/DC Live: Rock Band) was announced on September 29, 2008, and was released for the PlayStation 2, PlayStation 3, and Xbox 360 on November 2. The Wii version was released on November 16, 2008. The pack contains all 18 tracks from AC/DC's Live at Donington DVD. The game, through pre-existing licensing deals that AC/DC has with the retail chains, was only available at Wal-Mart and Sam's Club. This exclusivity agreement was only applicable in the United States, and ended on November 4, 2009 when GameStop began selling new copies of the game for $20. Each copy of the track pack includes a code that can be redeemed online to allow Xbox 360 and PlayStation 3 owners to download the content to their console for use in other Rock Band titles. The game can also be played as a standalone title, including a number of Achievements for Xbox 360 owners, but otherwise does not feature many of the gameplay elements of the full Rock Band titles, such as character creation or customization, online play, or a World Tour mode. The track pack retails for $30 for the PS2 version and $40 for other consoles. Harmonix has confirmed that the songs will remain exclusive to the disc release, citing AC/DC's preference to sell their music as full albums instead of singles. They have not ruled out releasing the content in the future should the band's views change.
+
+Song title	Decade	Genre
+"Back in Black" (Live)	1980s	Rock
+"Dirty Deeds Done Dirt Cheap" (Live)	1970s	Rock
+"Fire Your Guns" (Live)	1990s	Rock
+"For Those About to Rock (We Salute You)" (Live)	1980s	Rock
+"Heatseeker" (Live)	1980s	Rock
+"Hell Ain't a Bad Place to Be" (Live)	1970s	Rock
+"Hells Bells" (Live)	1980s	Rock
+"High Voltage" (Live)	1970s	Rock
+"Highway to Hell" (Live)	1970s	Rock
+"Jailbreak" (Live)	1970s	Rock
+"Let There Be Rock" (Live)	1970s	Rock
+"Moneytalks" (Live)	1990s	Rock
+"Shoot to Thrill" (Live)	1980s	Rock
+"T.N.T." (Live)	1970s	Rock
+"The Jack" (Live)	1970s	Rock
+"Thunderstruck" (Live)	1990s	Rock
+"Whole Lotta Rosie" (Live)	1970s	Rock
+"You Shook Me All Night Long" (Live)	1980s	Rock</desc>
+		<marquee>./images/ACDC Live Rock Band Track Pack [NTSCU]-marquee.png</marquee>
+		<thumbnail>./images/ACDC Live Rock Band Track Pack [NTSCU]-thumb.jpg</thumbnail>
+		<fanart>./images/ACDC Live Rock Band Track Pack [NTSCU]-fanart.jpg</fanart>
+		<rating>0.65</rating>
+		<releasedate>20081102T000000</releasedate>
+		<developer>Harmonix Music Systems</developer>
+		<publisher>MTV Games</publisher>
+		<genre>Music</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T211337" />
+		<scrap name="TheGamesDB" date="20231214T021651" />
+		<scrap name="HfsDB" date="20231213T223310" />
+	</game>
+	<game>
+		<path>./Games/Americas Army True Soldiers [NTSCU][NTSCJ].iso</path>
+		<name>America's Army: True Soldiers</name>
+		<desc>America’s Army: True Soldiers is a first-person shooter video game developed by Red Storm Entertainment and published by Ubisoft. It was released on November 15, 2007. It is a spin-off of the United States Army's computer game America's Army. Unlike the original America's Army, this game is not freeware.</desc>
+		<marquee>./images/Americas Army True Soldiers [NTSCU][NTSCJ]-marquee.png</marquee>
+		<thumbnail>./images/Americas Army True Soldiers [NTSCU][NTSCJ]-thumb.jpg</thumbnail>
+		<rating>0.25</rating>
+		<releasedate>20061115T000000</releasedate>
+		<developer>Red Storm Entertainment, Inc.</developer>
+		<publisher>Ubisoft Entertainment</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T211448" />
+		<scrap name="TheGamesDB" date="20231214T021545" />
+		<scrap name="HfsDB" date="20231213T223412" />
+	</game>
+	<game>
+		<path>./Games/Asterix at the Olympic Games [RF].iso</path>
+		<name>Asterix at the Olympic Games</name>
+		<desc>Brutus, the scheming son of emperor Julius Caesar, has found a way to travel through dimensions and become ruler of all worlds. Help Asterix, Obelix and Getafix as they travel to Olympia to stop Brutus and triumph at the Antique Games!</desc>
+		<image>./images/Asterix at the Olympic Games [RF]-image.jpg</image>
+		<video>./videos/Asterix at the Olympic Games [RF]-video.mp4</video>
+		<marquee>./images/Asterix at the Olympic Games [RF]-marquee.png</marquee>
+		<thumbnail>./images/Asterix at the Olympic Games [RF]-thumb.jpg</thumbnail>
+		<fanart>./images/Asterix at the Olympic Games [RF]-fanart.jpg</fanart>
+		<boxback>./images/Asterix at the Olympic Games [RF]-boxback.png</boxback>
+		<rating>0.6</rating>
+		<releasedate>20080101T000000</releasedate>
+		<developer>Etranges Libellules</developer>
+		<publisher>Atari Corp. (UK) Ltd.</publisher>
+		<genre>Adventure</genre>
+		<players>2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T211936" />
+		<scrap name="TheGamesDB" date="20231214T021739" />
+		<scrap name="HfsDB" date="20231213T223913" />
+	</game>
+	<game>
+		<path>./Games/Back to the Future The Game - 30th Anniversary Edition [PAL][NTSCU].iso</path>
+		<name>Back to the Future: The Game</name>
+		<desc>CELEBRATING THE 30TH ANNIVERSARY OF ONE OF THE MOST BELOVED MOVIES OF ALL TIME Six months after the events of Back to the Future Part III, the DeLorean Time Machine mysteriously returns to Hill Valley-driverless! Now, Marty must go back to 1931 to recruit the help of a reluctant teenage Emmett Brown in order to save 1985's Doc from certain death. Can they repair the rifts of the past without accidentally erasing the future?</desc>
+		<image>./images/Back to the Future The Game - 30th Anniversary Edition [PAL][NTSCU]-image.png</image>
+		<marquee>./images/Back to the Future The Game - 30th Anniversary Edition [PAL][NTSCU]-marquee.png</marquee>
+		<thumbnail>./images/Back to the Future The Game - 30th Anniversary Edition [PAL][NTSCU]-thumb.jpg</thumbnail>
+		<fanart>./images/Back to the Future The Game - 30th Anniversary Edition [PAL][NTSCU]-fanart.jpg</fanart>
+		<rating>0</rating>
+		<releasedate>20151013T000000</releasedate>
+		<developer>Telltale Games</developer>
+		<publisher>Telltale Games</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T212005" />
+		<scrap name="TheGamesDB" date="20231214T021500" />
+		<scrap name="HfsDB" date="20231213T224014" />
+	</game>
+	<game>
+		<path>./Games/Bakugan Battle Brawlers [RF].iso</path>
+		<name>Bakugan: Battle Brawlers</name>
+		<desc>One day the player's character meets Dan Kuso, one of the Battle Brawlers, who teaches him the rules in a fight against Shuji. (you get a Serpenoid, a Juggernoid, and a Saurus that match the attribute you chose at the start of the game). After going to the local store and meeting Alice, who suggests the player should battle with other brawlers in the park to earn BP (Bakugan Points, the game's currency) a strange Bakugan called Leonidas falls from the sky, who is now the new best friend of the player. (Leonidas' attribute depends on what attribute you chose). Leonidas is an unknown and aggressive Bakugan that was created by all the hate and anger of the lost Bakugan trapped in the Doom Dimension. In several fights the player will meet a lot of people but at the same time a Darkus user, whose name is Marduk, decides to rule over all Bakugan together with Vladitor, another Bakugan that suddenly appears.
+
+Right after Naga got the Silent Core, the seals that held Vladitor captive in the Doom Dimension suddenly broke and he escaped from the Doom Dimension. At the end of a tournament when Dan makes the player an official Bakugan Battle Brawler, Marduk is revealed to have allied with Hal G, Masquerade and Naga in order to defeat the Battle Brawlers and rule over the worlds and the Bakugan. The player must win the Ultimate Battle Tournament, defeating also Dan, Runo, Marucho, Julie, Shun, Masquerade, and a 1-on-1 showdown with Omega Leonidas and Battle Axe Vladitor. After the player wins, both Vladitor and Leonidas disappear, saying they have only little power left after the brawl. Later, the player discovers that Vladitor gave Leonidas his remaining power, saying he deserved it, leaving Leonidas to assume that Vladitor "wasn't all bad". The game ends with the player throwing Leonidas in the air shouting, "Bakugan brawl!".</desc>
+		<marquee>./images/Bakugan Battle Brawlers [RF]-marquee.png</marquee>
+		<thumbnail>./images/Bakugan Battle Brawlers [RF]-thumb.jpg</thumbnail>
+		<fanart>./images/Bakugan Battle Brawlers [RF]-fanart.jpg</fanart>
+		<boxback>./images/Bakugan Battle Brawlers [RF]-boxback.jpg</boxback>
+		<rating>0.5</rating>
+		<releasedate>20091020T000000</releasedate>
+		<developer>Now Production Co.</developer>
+		<publisher>Activision</publisher>
+		<genre>Strategy</genre>
+		<players>4</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T212026" />
+		<scrap name="TheGamesDB" date="20231214T021252" />
+		<scrap name="HfsDB" date="20231213T224115" />
+	</game>
+	<game id="17137">
+		<path>./Games/Bakugan Defenders of the Core [PAL][NTSCU].iso</path>
+		<name>Bakugan : Defenders of the Core</name>
+		<desc>This episode of Bakugan Battle Brawlers offers an adventure that takes you to the heart of the Bakugan universe, allowing you to join the ranks of the defenders and become part of the story.
+The protagonist is given the arduous task of protecting the Earth and the Bakugan universe from the onslaught of Spectra and his terrible Vexos armies.
+The game really shines in its fusion of strategy and action, forcing you to cleverly use your Bakugan's unique abilities to overcome difficult obstacles and opponents. You'll collect and breed your Bakugan, perfecting their skills and transforming them into powerful allies for your epic battles.</desc>
+		<image>./images/Bakugan Defenders of the Core [PAL][NTSCU]-image.png</image>
+		<marquee>./images/Bakugan Defenders of the Core [PAL][NTSCU]-marquee.png</marquee>
+		<thumbnail>./images/Bakugan Defenders of the Core [PAL][NTSCU]-thumb.png</thumbnail>
+		<fanart>./images/Bakugan Defenders of the Core [PAL][NTSCU]-fanart.jpg</fanart>
+		<rating>0.7</rating>
+		<releasedate>20101026T000000</releasedate>
+		<developer>Now Production</developer>
+		<publisher>Activision</publisher>
+		<genre>Action / Adventure</genre>
+		<family>Bakugan Battle Brawlers</family>
+		<players>2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231214T021817" />
+		<scrap name="TheGamesDB" date="20231213T205611" />
+		<scrap name="HfsDB" date="20231213T224214" />
+	</game>
+	<game>
+		<path>./Games/Bionicle Heroes [RF].iso</path>
+		<name>Bionicle Heroes</name>
+		<desc>Bionicle Heroes is an action-shooter where the player takes on the role of the various Lego Bionicle Toa Inika - Jaller, Matoro, Hahli, Kongu, Hewkii, and Nuparu.
+
+These heroes wear Toa Masks of Power - powerups you can find throughout the levels to gain different elemental based abilities. You'll also find Bionicle cannisters to help aid your quest to defeat Vezon - the 7th Piraka who had stolen the Mask of Life.
+
+Gameplay centers around firefights against the alien "robots" called Vahki, Visorak and Borhok. Players will collect Lego pieces for every enemy you defeat, and eventually enable an invulnerable Hero Mode to help defeat the Toa's enemies.</desc>
+		<image>./images/Bionicle Heroes [RF]-image.png</image>
+		<marquee>./images/Bionicle Heroes [RF]-marquee.png</marquee>
+		<thumbnail>./images/Bionicle Heroes [RF]-thumb.jpg</thumbnail>
+		<boxback>./images/Bionicle Heroes [RF]-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>20061114T000000</releasedate>
+		<developer>Traveller's Tales Ltd.</developer>
+		<publisher>Eidos Interactive</publisher>
+		<genre>Action, Shooter</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T212348" />
+		<scrap name="TheGamesDB" date="20231214T021333" />
+		<scrap name="HfsDB" date="20231213T224821" />
+	</game>
+	<game>
+		<path>./Games/Bullet Soul Infinite Burst [RF][JPN].iso</path>
+		<name>Bullet Soul: Infinite Burst</name>
+		<desc>Bullet Soul is back with a new recipe: Burst! The same aggressive, bullet-cancelling gameplay, flashy pyrotechnics and addictive action, but now with refined level design, more modes and more destruction! Shooting fans of all abilities, it's time to welcome back the true spirit of Japanese shooting games!</desc>
+		<thumbnail>./images/Bullet Soul Infinite Burst [RF][JPN]-thumb.png</thumbnail>
+		<rating>0</rating>
+		<releasedate>20161101T000000</releasedate>
+		<developer>Division2</developer>
+		<publisher>5pb.</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20231213T194518</lastplayed>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T212856" />
+		<scrap name="TheGamesDB" date="20231214T021523" />
+		<scrap name="HfsDB" date="20231213T225729" />
+	</game>
+	<game>
+		<path>./Games/Burnout Paradise Ultimate Box [RF].iso</path>
+		<name>Burnout Paradise: The Ultimate Box</name>
+		<desc>Paradise's gameplay is set in the fictional "Paradise City", an open world in which players can compete in several types of races. Players can also compete online, which includes additional game modes, such as "Cops and Robbers". Several free game updates introduce new features such as a time-of-day cycle and motorcycles. The game also features paid downloadable content in the form of new cars and the fictional "Big Surf Island".</desc>
+		<marquee>./images/Burnout Paradise Ultimate Box [RF]-marquee.png</marquee>
+		<thumbnail>./images/Burnout Paradise Ultimate Box [RF]-thumb.jpg</thumbnail>
+		<rating>0</rating>
+		<releasedate>20090205T000000</releasedate>
+		<developer>Criterion Games</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Action, Racing</genre>
+		<players>4</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T212938" />
+		<scrap name="TheGamesDB" date="20231214T021422" />
+		<scrap name="HfsDB" date="20231213T225931" />
+	</game>
+	<game>
+		<path>./Games/Crash Time [NTSCU].iso</path>
+		<name>Crash Time: Autobahn Pursuit</name>
+		<desc>Fans of arcade-racing-action watch out, Crash Time hits the fast lane. Daring stunts, spectacular crashes, thrilling criminal cases: All fans of the racing genre will easily fall in love with the newest creation of Synetic - the well-known specialists for furious racing-games. Various exciting cases await the player as part of the "Cobra 11" police force. Solving them requires several diverse missions to be successfully completed: Be it helicopter chases, jumps across moving trains or reconnaissance runs in tanks - top-notch entertainment is here. The debut of this brand-new racing-franchise is not short of daring stunts and spectacular crashes either. Unpredictable missions free from set tracks and opponents who seek their own escape routes thanks to the artificial intelligence make the racing both dynamic and authentic, and will not only delight racing aficionados. Truly extensive scenarios complete with highways, country roads and city streets add to variety</desc>
+		<thumbnail>./images/Crash Time [NTSCU]-thumb.jpg</thumbnail>
+		<rating>0.45</rating>
+		<releasedate>20080805T000000</releasedate>
+		<developer>Synetic GmbH</developer>
+		<publisher>Crave Entertainment</publisher>
+		<genre>Racing</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T213352" />
+		<scrap name="TheGamesDB" date="20231214T021845" />
+		<scrap name="HfsDB" date="20231213T230843" />
+	</game>
+	<game>
+		<path>./Games/Disney Infinity 3.0 [RF].iso</path>
+		<name>Disney Infinity 3.0 Edition</name>
+		<marquee>./images/Disney Infinity 3.0 [RF]-marquee.png</marquee>
+		<thumbnail>./images/Disney Infinity 3.0 [RF]-thumb.jpg</thumbnail>
+		<rating>0</rating>
+		<releasedate>20150828T000000</releasedate>
+		<developer>Avalanche Software LLC</developer>
+		<publisher>Disney Interactive</publisher>
+		<genre>Action, Adventure</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T213658" />
+		<scrap name="TheGamesDB" date="20231214T021929" />
+		<scrap name="HfsDB" date="20231213T231752" />
+	</game>
+	<game>
+		<path>./Games/Fable 3 [RF][En,Pl,Hu,Ko,Ru,Cz,Sk,Ch].iso</path>
+		<name>Fable III</name>
+		<desc>Fable III is a 2010 action role-playing open world video game, developed by Lionhead Studios and published by Microsoft Game Studios for the Xbox 360 and Microsoft Windows. The third game in the Fable series, the story focuses on the player character's struggle to overthrow the King of Albion, the player character's brother, by forming alliances and building support for a revolution. After a successful revolt, the player becomes the monarch and is tasked with attempting to defend Albion from a great evil. The game includes voice acting by Ben Kingsley (Sabine), Stephen Fry (Reaver), Simon Pegg (Ben Finn), Naomie Harris (Page), Michael Fassbender (Logan), Zoë Wanamaker (Theresa), Bernard Hill (Sir Walter Beck), Nicholas Hoult (Elliot), John Cleese (Jasper), Jonathan Ross (Barry Hatch), Adjoa Andoh (Kalin), Kellie Bright (Hero of Brightwall female), and Louis Tamone (Hero of Brightwall male).
+
+The game was released on 29 October 2010 for Xbox 360 and on 20 May 2011 for PC via both Games for Windows and Steam. The PC version includes a Hardcore mode and 3D functionality not found in the Xbox 360 version. The game received generally positive reviews.
+
+Gameplay
+The player controls the Royal Hero on their adventure to usurp the current monarch and to then manage the kingdom. While progressing along the main story, the player will have to make impactful decisions that will reflect their standing among their subjects, and which will also have consequences in the future that the player must address. A morality system divides most actions as either "good" or "evil", with good-aligned actions generally expressing generosity, kindness, and forgiveness, whereas evil-aligned actions represent selfishness, greed, and cruelty. Most moral decisions are prompted by dialogue branches, but the player's standing will also be influenced by side quests and how frequently they commit crimes, such as robbery or murder. Rewards, in the form of guild seals and gifts, can be earned through how they are viewed by the populace.
+
+Combat encounters are frequent. The Royal Hero has three main methods of attack: a melee attack, a ranged attack, and magic. The player can customize each of these attacks with different weapons, such as choosing between a sword or hammer as a melee weapon, or the capability of combining two types of spells. Attacks can be held and charged in order to unleash powerful flourishes, at the cost of making the player stationary. Critical hits will put the player and their target into a unique kill animation based on the weapon used and the enemy type being attacked. Over the course of the game, the player will increase their weapons' capabilities. Weapons also change shape and design based on the actions of the player.
+
+The Royal Hero is joined by a pet dog that can be named by the player. The dog will travel alongside the Royal Hero and can be played with, pet, and talked down to. While exploring, the dog can guide the player to treasure chests or point out buried secrets, and they will growl if enemies are ahead. The dog will also assist in combat, primarily in ripping out the throats of downed enemies, but additional tricks can be learned to improve the dog's capabilities.
+
+Instead of a conventional pause menu, Fable III brings the player to the Sanctuary, a hub location that the Royal Hero physically walks through. While in the Sanctuary, the player is safe from combat and can access their weapons, costumes, achievements, save files, and system settings. A map is also available, allowing the player to fast travel across the world, view available quests, and manage their properties.
+
+Gold is an important aspect of the game, especially in the second half of the story where the player is expected to raise around 6.5 million gold before war begins. Money can be earned in many methods. Items and treasures can be pawned at pawnshops, and as prices fluctuate, it's possible to earn a profit on items by buying low and selling high. Virtually every shop and home can be bought by the player, which will then earn the player passive income every five minutes (home properties must be rented out to tenants in order to receive rent). These properties can be repaired, and furniture found through the game can be used to decorate homes. The player can also partake in jobs which play out as basic mini-games, earning multiples more money for extended win streaks.
+
+Relationships can also be explored if the player so chooses. If an NPC is in friendly relations with the Royal Hero, the player can choose to develop a romantic relationship, if the NPC's sexuality is compatible. The player can marry and have children, as well as divorce and end relationships.</desc>
+		<image>./images/Fable 3 [RF][En,Pl,Hu,Ko,Ru,Cz,Sk,Ch]-image.jpg</image>
+		<video>./videos/Fable 3 [RF][En,Pl,Hu,Ko,Ru,Cz,Sk,Ch]-video.mp4</video>
+		<marquee>./images/Fable 3 [RF][En,Pl,Hu,Ko,Ru,Cz,Sk,Ch]-marquee.png</marquee>
+		<thumbnail>./images/Fable 3 [RF][En,Pl,Hu,Ko,Ru,Cz,Sk,Ch]-thumb.jpg</thumbnail>
+		<fanart>./images/Fable 3 [RF][En,Pl,Hu,Ko,Ru,Cz,Sk,Ch]-fanart.jpg</fanart>
+		<rating>0.75</rating>
+		<releasedate>20101029T000000</releasedate>
+		<developer>Lionhead Studios Ltd.</developer>
+		<publisher>Microsoft Studios</publisher>
+		<genre>Action, Role-Playing</genre>
+		<players>1</players>
+		<lang>en,pl,ru,cn</lang>
+		<region>cn</region>
+		<scrap name="ScreenScraper" date="20231213T214341" />
+		<scrap name="TheGamesDB" date="20231214T021857" />
+		<scrap name="HfsDB" date="20231213T233913" />
+	</game>
+	<game>
+		<path>./Games/Fable 3 [RF][SPA].iso</path>
+		<name>Fable III</name>
+		<desc>Fable III is a 2010 action role-playing open world video game, developed by Lionhead Studios and published by Microsoft Game Studios for the Xbox 360 and Microsoft Windows. The third game in the Fable series, the story focuses on the player character's struggle to overthrow the King of Albion, the player character's brother, by forming alliances and building support for a revolution. After a successful revolt, the player becomes the monarch and is tasked with attempting to defend Albion from a great evil. The game includes voice acting by Ben Kingsley (Sabine), Stephen Fry (Reaver), Simon Pegg (Ben Finn), Naomie Harris (Page), Michael Fassbender (Logan), Zoë Wanamaker (Theresa), Bernard Hill (Sir Walter Beck), Nicholas Hoult (Elliot), John Cleese (Jasper), Jonathan Ross (Barry Hatch), Adjoa Andoh (Kalin), Kellie Bright (Hero of Brightwall female), and Louis Tamone (Hero of Brightwall male).
+
+The game was released on 29 October 2010 for Xbox 360 and on 20 May 2011 for PC via both Games for Windows and Steam. The PC version includes a Hardcore mode and 3D functionality not found in the Xbox 360 version. The game received generally positive reviews.
+
+Gameplay
+The player controls the Royal Hero on their adventure to usurp the current monarch and to then manage the kingdom. While progressing along the main story, the player will have to make impactful decisions that will reflect their standing among their subjects, and which will also have consequences in the future that the player must address. A morality system divides most actions as either "good" or "evil", with good-aligned actions generally expressing generosity, kindness, and forgiveness, whereas evil-aligned actions represent selfishness, greed, and cruelty. Most moral decisions are prompted by dialogue branches, but the player's standing will also be influenced by side quests and how frequently they commit crimes, such as robbery or murder. Rewards, in the form of guild seals and gifts, can be earned through how they are viewed by the populace.
+
+Combat encounters are frequent. The Royal Hero has three main methods of attack: a melee attack, a ranged attack, and magic. The player can customize each of these attacks with different weapons, such as choosing between a sword or hammer as a melee weapon, or the capability of combining two types of spells. Attacks can be held and charged in order to unleash powerful flourishes, at the cost of making the player stationary. Critical hits will put the player and their target into a unique kill animation based on the weapon used and the enemy type being attacked. Over the course of the game, the player will increase their weapons' capabilities. Weapons also change shape and design based on the actions of the player.
+
+The Royal Hero is joined by a pet dog that can be named by the player. The dog will travel alongside the Royal Hero and can be played with, pet, and talked down to. While exploring, the dog can guide the player to treasure chests or point out buried secrets, and they will growl if enemies are ahead. The dog will also assist in combat, primarily in ripping out the throats of downed enemies, but additional tricks can be learned to improve the dog's capabilities.
+
+Instead of a conventional pause menu, Fable III brings the player to the Sanctuary, a hub location that the Royal Hero physically walks through. While in the Sanctuary, the player is safe from combat and can access their weapons, costumes, achievements, save files, and system settings. A map is also available, allowing the player to fast travel across the world, view available quests, and manage their properties.
+
+Gold is an important aspect of the game, especially in the second half of the story where the player is expected to raise around 6.5 million gold before war begins. Money can be earned in many methods. Items and treasures can be pawned at pawnshops, and as prices fluctuate, it's possible to earn a profit on items by buying low and selling high. Virtually every shop and home can be bought by the player, which will then earn the player passive income every five minutes (home properties must be rented out to tenants in order to receive rent). These properties can be repaired, and furniture found through the game can be used to decorate homes. The player can also partake in jobs which play out as basic mini-games, earning multiples more money for extended win streaks.
+
+Relationships can also be explored if the player so chooses. If an NPC is in friendly relations with the Royal Hero, the player can choose to develop a romantic relationship, if the NPC's sexuality is compatible. The player can marry and have children, as well as divorce and end relationships.</desc>
+		<image>./images/Fable 3 [RF][SPA]-image.jpg</image>
+		<video>./videos/Fable 3 [RF][SPA]-video.mp4</video>
+		<marquee>./images/Fable 3 [RF][SPA]-marquee.png</marquee>
+		<thumbnail>./images/Fable 3 [RF][SPA]-thumb.jpg</thumbnail>
+		<fanart>./images/Fable 3 [RF][SPA]-fanart.jpg</fanart>
+		<rating>0.75</rating>
+		<releasedate>20101029T000000</releasedate>
+		<developer>Lionhead Studios Ltd.</developer>
+		<publisher>Microsoft Studios</publisher>
+		<genre>Action, Role-Playing</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T214409" />
+		<scrap name="TheGamesDB" date="20231214T021833" />
+		<scrap name="HfsDB" date="20231213T233913" />
+	</game>
+	<game id="16545">
+		<path>./Games/Juiced 2 Hot Imports Nights [RF].iso</path>
+		<name>Juiced 2 : Hot Import Nights</name>
+		<desc>Juiced 2: HIN evolves the current street racing scene, letting players experience the culture of the real-life HIN tour, the nation's largest lifestyle custom car show in an intense racing experience. Featuring track and drift racing at real-world locations around the globe, next-gen AI and vehicle customization, Juiced 2: HIN brings street racing to life, allowing players to test their skills at live street racing events against a back-drop of DJs, fashion, models and musicians. New features include addictive drift/ powersliding races and "Driver DNA" that tracks gamers' personal driving traits.</desc>
+		<marquee>./images/Juiced 2 Hot Imports Nights [RF]-marquee.png</marquee>
+		<thumbnail>./images/Juiced 2 Hot Imports Nights [RF]-thumb.png</thumbnail>
+		<manual>./manuals/Juiced 2 Hot Imports Nights [RF]-manual.pdf</manual>
+		<rating>0.7</rating>
+		<releasedate>20070917T000000</releasedate>
+		<developer>Juice Games</developer>
+		<publisher>THQ</publisher>
+		<genre>Race, Driving</genre>
+		<players>1-2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231214T021610" />
+		<scrap name="TheGamesDB" date="20231213T210150" />
+		<scrap name="HfsDB" date="20231214T000229" />
+	</game>
+	<game>
+		<path>./Games/LEGO Jurassic World [RF].iso</path>
+		<name>LEGO Jurassic World</name>
+		<desc>Lego Jurassic World is a Lego-themed action-adventure video game developed by TT Fusion and published by Warner Bros. Interactive Entertainment, which was released for Microsoft Windows, Nintendo 3DS, OS X, PlayStation 3, PlayStation 4, PlayStation Vita, Wii U, Xbox 360, and Xbox One. It adapts the plots of all four films in the Jurassic Park franchise, and is part of a series of Lego-themed video games. The game was released on 12 June 2015 to coincide with the theatrical release of Jurassic World. Lego Jurassic World was later released for Android and iOS on 31 March 2016.</desc>
+		<marquee>./images/LEGO Jurassic World [RF]-marquee.png</marquee>
+		<thumbnail>./images/LEGO Jurassic World [RF]-thumb.jpg</thumbnail>
+		<fanart>./images/LEGO Jurassic World [RF]-fanart.jpg</fanart>
+		<rating>0.85</rating>
+		<releasedate>20150612T000000</releasedate>
+		<developer>TT Fusion</developer>
+		<publisher>WB Games</publisher>
+		<genre>Action, Adventure</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T215811" />
+		<scrap name="TheGamesDB" date="20231214T021910" />
+		<scrap name="HfsDB" date="20231214T001034" />
+	</game>
+	<game>
+		<path>./Games/Looney Tunes Acme Arsenal [NTSCU].iso</path>
+		<name>Looney Tunes: Acme Arsenal</name>
+		<desc>Tag-team with the Tunes in the fight for their lives! Wield a major arsenal of ACME weapons as the tunes team-up to hunt down the mad scientist, chasing him through exotic locals from the past, present and future.Unite Bugs, Taz, Daffy, Marvin and more in a co-operative whack-and-smash romp through time - including online play!Melee and projectile weapons: Each character's weapon/melee skills can power up three times on the fly as you go.Vehicle Based Action: Race a jet scooter across an alien environment or wage battle on top of a giant flying Pterodactyl...the possibilities are endless!Travel to various locations such as Camelot, Ancient Egypt, Mars, the Wild West and more!Top-notch voice talent provides the characters with their classic voices and an authentic Looney Tunes slapstick adventure, while giving their look an updated, next-generation, modern edge.</desc>
+		<marquee>./images/Looney Tunes Acme Arsenal [NTSCU]-marquee.png</marquee>
+		<thumbnail>./images/Looney Tunes Acme Arsenal [NTSCU]-thumb.jpg</thumbnail>
+		<rating>0.25</rating>
+		<releasedate>20071009T000000</releasedate>
+		<genre>Action, Platform</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T215929" />
+		<scrap name="TheGamesDB" date="20231214T021320" />
+		<scrap name="HfsDB" date="20231214T001638" />
+	</game>
+	<game>
+		<path>./Games/Muchi Muchi Pork &amp; Pink Sweets [RF].iso</path>
+		<name>Muchi Muchi Pork! &amp; Pink Sweets</name>
+		<thumbnail>./images/Muchi Muchi Pork &amp; Pink Sweets [RF]-thumb.jpg</thumbnail>
+		<rating>0</rating>
+		<releasedate>20110224T000000</releasedate>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T220627" />
+		<scrap name="TheGamesDB" date="20231214T021352" />
+		<scrap name="HfsDB" date="20231214T003652" />
+	</game>
+	<game>
+		<path>./Games/Tony Hawks Proving Ground [RF].iso</path>
+		<name>Tony Hawk's Proving Ground</name>
+		<desc>Tony Hawk's Proving Ground features deeper customization than ever before, including a Video Editor with full-featured editing tools and visual effects for creating epic skate videos, and a fully customizable online Skate Lounge where players can skate with friends in the ultimate pad. In addition, players will have the freedom to skate from single player to online seamlessly, as well as utilize new gameplay mechanics such as skateable terrain altering and building, and Bowl Carving, delivering the most empowered skating experience ever. Tony Hawk-s Proving Ground also features even more Nail the Trick moves such as Nail the Grab and Nail the Manual intensifying the thrill of pulling off big tricks.</desc>
+		<image>./images/Tony Hawks Proving Ground [RF]-image.jpg</image>
+		<marquee>./images/Tony Hawks Proving Ground [RF]-marquee.png</marquee>
+		<thumbnail>./images/Tony Hawks Proving Ground [RF]-thumb.jpg</thumbnail>
+		<fanart>./images/Tony Hawks Proving Ground [RF]-fanart.jpg</fanart>
+		<boxback>./images/Tony Hawks Proving Ground [RF]-boxback.jpg</boxback>
+		<rating>0.8</rating>
+		<releasedate>20071015T000000</releasedate>
+		<developer>Neversoft Entertainment</developer>
+		<publisher>Activision</publisher>
+		<genre>Sports</genre>
+		<players>8</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T222037" />
+		<scrap name="TheGamesDB" date="20231214T021750" />
+		<scrap name="HfsDB" date="20231214T011722" />
+	</game>
+	<game>
+		<path>./Games/Viva Piñata [PAL][NTSCU].iso</path>
+		<name>Viva Piñata</name>
+		<desc>Attract and tame your favourite Piñatas. There are more than 60 species that roam wild on Piñata Island. Personalise everything from the grass at your feet to the hat on your Piñata's head. Welcome to Piñata Island, enjoy your stay!</desc>
+		<image>./images/Viva Piñata [PAL][NTSCU]-image.jpg</image>
+		<video>./videos/Viva Piñata [PAL][NTSCU]-video.mp4</video>
+		<marquee>./images/Viva Piñata [PAL][NTSCU]-marquee.png</marquee>
+		<thumbnail>./images/Viva Piñata [PAL][NTSCU]-thumb.jpg</thumbnail>
+		<fanart>./images/Viva Piñata [PAL][NTSCU]-fanart.jpg</fanart>
+		<boxback>./images/Viva Piñata [PAL][NTSCU]-boxback.png</boxback>
+		<rating>0.75</rating>
+		<releasedate>20061109T000000</releasedate>
+		<developer>Rare, Ltd.</developer>
+		<publisher>Microsoft Studios</publisher>
+		<genre>Life Simulation</genre>
+		<players>4</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T222402" />
+		<scrap name="TheGamesDB" date="20231214T021722" />
+		<scrap name="HfsDB" date="20231214T012837" />
+	</game>
+	<game>
+		<path>./Games/Warhammer 40000 Space Marine [RF].iso</path>
+		<name>Warhammer 40,000: Space Marine</name>
+		<desc>Warhammer 40,000: Space Marine is a third-person shooter game developed by Relic Entertainment and published by THQ. It was released for Microsoft Windows, PlayStation 3 and Xbox 360 on September 6, 2011, in North America[1] and September 9, 2011, in Europe.[2] The game takes place in Games Workshop's Warhammer 40,000 universe and features the Ultramarines chapter. Its gameplay focuses on a hybrid shooting and melee combat model. It was Relic's first game released on a PlayStation platform (their first console release in general was 2006's The Outfit).</desc>
+		<image>./images/Warhammer 40000 Space Marine [RF]-image.jpg</image>
+		<marquee>./images/Warhammer 40000 Space Marine [RF]-marquee.png</marquee>
+		<thumbnail>./images/Warhammer 40000 Space Marine [RF]-thumb.jpg</thumbnail>
+		<boxback>./images/Warhammer 40000 Space Marine [RF]-boxback.jpg</boxback>
+		<rating>0</rating>
+		<releasedate>20110906T000000</releasedate>
+		<developer>Relic Entertainment</developer>
+		<publisher>THQ</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<lastplayed>20230222T000000</lastplayed>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231213T222420" />
+		<scrap name="TheGamesDB" date="20231214T021940" />
+		<scrap name="HfsDB" date="20231214T012935" />
 	</game>
 </gameList>
