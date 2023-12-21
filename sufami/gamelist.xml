@@ -1,33 +1,11 @@
 <?xml version="1.0"?>
 <gameList>
-	<game id="64957">
-		<path>./No-Intro/SD Gundam Generation - Ichinen Sensouki (Japan).st</path>
-		<name>Sd Gundam Generation - Ichinen Sensouki</name>
-		<desc>It is a video game adaptation of the series based on the Mobile Suit Gundam anime, specifically Super Deformed Gundam. This is the first in a series of six video games called SD Gundam Generation1,2.</desc>
-		<image>./images/SD Gundam Generation - Ichinen Sensouki (Japan)-image.png</image>
-		<video>./videos/SD Gundam Generation - Ichinen Sensouki (Japan)-video.mp4</video>
-		<marquee>./images/SD Gundam Generation - Ichinen Sensouki (Japan)-marquee.png</marquee>
-		<thumbnail>./images/SD Gundam Generation - Ichinen Sensouki (Japan)-thumb.png</thumbnail>
-		<fanart>./images/SD Gundam Generation - Ichinen Sensouki (Japan)-fanart.jpg</fanart>
-		<boxback>./images/SD Gundam Generation - Ichinen Sensouki (Japan)-boxback.png</boxback>
-		<rating>0.7</rating>
-		<releasedate>19960726T000000</releasedate>
-		<developer>Bandai Namco</developer>
-		<publisher>Bandai Namco</publisher>
-		<genre>Strategy</genre>
-		<players>2</players>
-		<crc32>AFD74DCB</crc32>
-		<md5>84d83ded05c6ec31654dd1e2116e32d3</md5>
-		<lang>jp</lang>
-		<region>jp</region>
-		<cheevosHash>84D83DED05C6EC31654DD1E2116E32D3</cheevosHash>
-		<scrap name="ScreenScraper" date="20221212T044009" />
-		<scrap name="ArcadeDB" date="20221212T082103" />
-	</game>
 	<game id="2717">
 		<path>./No-Intro/Bishoujo Senshi Sailor Moon Sailor Stars - Fuwafuwa Panic 2 (Japan).st</path>
-		<name>Bishoujo Senshi Sailor Moon S - Fuwa Fuwa Panic 2</name>
-		<desc>Bishoujo Senshi Sailor Moon Super S: Fuwa Fuwa Panic is a Sailor Moon themed competitive puzzle game. Players first select a character from among five Sailor Scouts and Chibiusa, each with a unique special move. They will then challenge each other in competition. Each player has a board which contains some balloons, in either red, yellow, green or blue. These balloons can be shot at in order to gain points and fill up the power bar. Balloons of the same color that are adjacent to one another with all be destroyed and generate more points. The goal is to avoid being the player whose balloons are pushed downwards off the board, and to make the opponent receive this fate. As groups of balloons are destroyed, they can reveal power-ups as well as produce black balloons on the opponent's board. Black balloons can only be destroyed by groups of colored balloons being removed adjacent to them. Players with a filled power bar can unleash special abilities.</desc>
+		<name>Bishoujo Senshi Sailor Moon Sailor Stars: Fuwa Fuwa Panic 2</name>
+		<desc>"Pretty Soldier Sailor Moon Sailor Stars: Fluffy Fluffy Panic 2" is a video game released exclusively in Japan by Bandai on September 27, 1996 for the Super Famicom and is the sequel to Sailor Moon SuperS: Fuwa Fuwa Panic. The game made use of Bandai's SuFami Turbo accessory and could not be played without it.
+
+This is a puzzle game based on the Sailor Stars season of the anime. The goal is to defeat the opponent by popping balloons that are arranged above the character's head. Tuxedo Mask is the referee as in the first game. During the game, the Sailor Senshi characters can receive help from Sailor Chibi Chibi who will pop six balloons with hearts she fires from her scepter.</desc>
 		<image>./images/Bishoujo Senshi Sailor Moon Sailor Stars - Fuwafuwa Panic 2 (Japan)-image.jpg</image>
 		<video>./videos/Bishoujo Senshi Sailor Moon Sailor Stars - Fuwafuwa Panic 2 (Japan)-video.mp4</video>
 		<marquee>./images/Bishoujo Senshi Sailor Moon Sailor Stars - Fuwafuwa Panic 2 (Japan)-marquee.png</marquee>
@@ -35,17 +13,17 @@
 		<boxback>./images/Bishoujo Senshi Sailor Moon Sailor Stars - Fuwafuwa Panic 2 (Japan)-boxback.png</boxback>
 		<rating>0.75</rating>
 		<releasedate>19960927T000000</releasedate>
-		<developer>Bandai Namco</developer>
-		<publisher>Bandai Namco</publisher>
+		<developer>Bandai</developer>
+		<publisher>Bandai</publisher>
 		<genre>Puzzle-Game</genre>
 		<family>Sailor Moon</family>
-		<players>2</players>
+		<players>1-2</players>
 		<crc32>BB5C4238</crc32>
 		<md5>55d6940953b7e1ea4d88725cba2fdbca</md5>
 		<lang>jp</lang>
 		<region>jp</region>
 		<cheevosHash>55D6940953B7E1EA4D88725CBA2FDBCA</cheevosHash>
-		<scrap name="ScreenScraper" date="20221212T043946" />
+		<scrap name="ScreenScraper" date="20231214T052959" />
 		<scrap name="ArcadeDB" date="20221212T135834" />
 	</game>
 	<game id="38690">
@@ -70,7 +48,7 @@ The goal of the game is to make puddles splash and soak the opponents. The puddl
 		<lang>jp</lang>
 		<region>jp</region>
 		<cheevosHash>3C951183AE15567C811A675CF44AA22C</cheevosHash>
-		<scrap name="ScreenScraper" date="20221212T043950" />
+		<scrap name="ScreenScraper" date="20231214T053001" />
 		<scrap name="ArcadeDB" date="20221212T135834" />
 	</game>
 	<game id="38799">
@@ -86,14 +64,14 @@ The goal of the game is to make puddles splash and soak the opponents. The puddl
 		<releasedate>19960719T000000</releasedate>
 		<developer>Tom Create</developer>
 		<publisher>Bandai Namco</publisher>
-		<genre>Asiatic board game</genre>
-		<players>4</players>
+		<genre>Thinking</genre>
+		<players>1-4</players>
 		<crc32>4296500D</crc32>
 		<md5>c9cae86f503bd0b6ebef6c481b179536</md5>
 		<lang>jp</lang>
 		<region>jp</region>
 		<cheevosHash>C9CAE86F503BD0B6EBEF6C481B179536</cheevosHash>
-		<scrap name="ScreenScraper" date="20221212T043952" />
+		<scrap name="ScreenScraper" date="20231214T053003" />
 		<scrap name="ArcadeDB" date="20221212T135834" />
 	</game>
 	<game id="38800">
@@ -117,7 +95,7 @@ The goal of the game is to make puddles splash and soak the opponents. The puddl
 		<lang>jp</lang>
 		<region>jp</region>
 		<cheevosHash>27EB2C85BB733416762FA1BCD91A4AB7</cheevosHash>
-		<scrap name="ScreenScraper" date="20221212T043955" />
+		<scrap name="ScreenScraper" date="20231214T053005" />
 		<scrap name="ArcadeDB" date="20221212T135834" />
 	</game>
 	<game id="64851">
@@ -136,13 +114,13 @@ Poi Poi Ninja World could be linked with other Poi Poi Ninja World carts inserte
 		<developer>Tom Create</developer>
 		<publisher>Bandai Namco</publisher>
 		<genre>Action / Labyrinth</genre>
-		<players>4</players>
+		<players>1-4</players>
 		<crc32>32B2B3DD</crc32>
 		<md5>d5c6e9038e60c23b05d5690a03ffa4c9</md5>
 		<lang>jp</lang>
 		<region>jp</region>
 		<cheevosHash>D5C6E9038E60C23B05D5690A03FFA4C9</cheevosHash>
-		<scrap name="ScreenScraper" date="20221212T043958" />
+		<scrap name="ScreenScraper" date="20231214T053007" />
 		<scrap name="ArcadeDB" date="20221212T135834" />
 	</game>
 	<game id="64953">
@@ -159,13 +137,14 @@ Poi Poi Ninja World could be linked with other Poi Poi Ninja World carts inserte
 		<developer>Bandai Namco</developer>
 		<publisher>Bandai Namco</publisher>
 		<genre>Strategy</genre>
-		<players>2</players>
+		<family>SD Gundam</family>
+		<players>1</players>
 		<crc32>72B4235F</crc32>
 		<md5>16375432c8ffc540b459cfd31723572b</md5>
 		<lang>jp</lang>
 		<region>jp</region>
 		<cheevosHash>16375432C8FFC540B459CFD31723572B</cheevosHash>
-		<scrap name="ScreenScraper" date="20221212T044000" />
+		<scrap name="ScreenScraper" date="20231214T053009" />
 		<scrap name="ArcadeDB" date="20221212T135834" />
 	</game>
 	<game id="64954">
@@ -182,13 +161,14 @@ Poi Poi Ninja World could be linked with other Poi Poi Ninja World carts inserte
 		<developer>Bandai Namco</developer>
 		<publisher>Bandai Namco</publisher>
 		<genre>Strategy</genre>
-		<players>2</players>
+		<family>SD Gundam</family>
+		<players>1</players>
 		<crc32>792D884C</crc32>
 		<md5>c1305ecd913e12719c5ea07eea4a440e</md5>
 		<lang>jp</lang>
 		<region>jp</region>
 		<cheevosHash>C1305ECD913E12719C5EA07EEA4A440E</cheevosHash>
-		<scrap name="ScreenScraper" date="20221212T044003" />
+		<scrap name="ScreenScraper" date="20231214T053011" />
 		<scrap name="ArcadeDB" date="20221212T135834" />
 	</game>
 	<game id="64955">
@@ -205,13 +185,14 @@ Poi Poi Ninja World could be linked with other Poi Poi Ninja World carts inserte
 		<developer>Bandai Namco</developer>
 		<publisher>Bandai Namco</publisher>
 		<genre>Strategy</genre>
-		<players>2</players>
+		<family>SD Gundam</family>
+		<players>1</players>
 		<crc32>C5DFA8FD</crc32>
 		<md5>3e84a2bccc251ff42c01166ba55dfdaf</md5>
 		<lang>jp</lang>
 		<region>jp</region>
 		<cheevosHash>3E84A2BCCC251FF42C01166BA55DFDAF</cheevosHash>
-		<scrap name="ScreenScraper" date="20221212T044005" />
+		<scrap name="ScreenScraper" date="20231214T053013" />
 		<scrap name="ArcadeDB" date="20221212T135835" />
 	</game>
 	<game id="64956">
@@ -228,14 +209,40 @@ Poi Poi Ninja World could be linked with other Poi Poi Ninja World carts inserte
 		<developer>Bandai Namco</developer>
 		<publisher>Bandai Namco</publisher>
 		<genre>Strategy</genre>
-		<players>2</players>
+		<family>SD Gundam</family>
+		<players>1</players>
 		<crc32>48ECAE44</crc32>
 		<md5>3bf7fd80b609beb19fd4c40b65f9224c</md5>
 		<lang>jp</lang>
 		<region>jp</region>
 		<cheevosHash>3BF7FD80B609BEB19FD4C40B65F9224C</cheevosHash>
-		<scrap name="ScreenScraper" date="20221212T044007" />
+		<scrap name="ScreenScraper" date="20231214T053015" />
 		<scrap name="ArcadeDB" date="20221212T135835" />
+	</game>
+	<game id="64957">
+		<path>./No-Intro/SD Gundam Generation - Ichinen Sensouki (Japan).st</path>
+		<name>Sd Gundam Generation - Ichinen Sensouki</name>
+		<desc>It is a video game adaptation of the series based on the Mobile Suit Gundam anime, specifically Super Deformed Gundam. This is the first in a series of six video games called SD Gundam Generation1,2.</desc>
+		<image>./images/SD Gundam Generation - Ichinen Sensouki (Japan)-image.png</image>
+		<video>./videos/SD Gundam Generation - Ichinen Sensouki (Japan)-video.mp4</video>
+		<marquee>./images/SD Gundam Generation - Ichinen Sensouki (Japan)-marquee.png</marquee>
+		<thumbnail>./images/SD Gundam Generation - Ichinen Sensouki (Japan)-thumb.png</thumbnail>
+		<fanart>./images/SD Gundam Generation - Ichinen Sensouki (Japan)-fanart.jpg</fanart>
+		<boxback>./images/SD Gundam Generation - Ichinen Sensouki (Japan)-boxback.png</boxback>
+		<rating>0.7</rating>
+		<releasedate>19960726T000000</releasedate>
+		<developer>Bandai Namco</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Strategy</genre>
+		<family>SD Gundam</family>
+		<players>1</players>
+		<crc32>AFD74DCB</crc32>
+		<md5>84d83ded05c6ec31654dd1e2116e32d3</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<cheevosHash>84D83DED05C6EC31654DD1E2116E32D3</cheevosHash>
+		<scrap name="ScreenScraper" date="20231214T053017" />
+		<scrap name="ArcadeDB" date="20221212T082103" />
 	</game>
 	<game id="64958">
 		<path>./No-Intro/SD Gundam Generation - Zanscare Senki (Japan).st</path>
@@ -252,13 +259,14 @@ It is the fifth of six SD Gundam Generation games released for the Sufami Turbo 
 		<developer>Bandai Namco</developer>
 		<publisher>Bandai Namco</publisher>
 		<genre>Strategy</genre>
-		<players>2</players>
+		<family>SD Gundam</family>
+		<players>1</players>
 		<crc32>EFD3A865</crc32>
 		<md5>9892637e1523509c16b4e8017e99200f</md5>
 		<lang>jp</lang>
 		<region>jp</region>
 		<cheevosHash>9892637E1523509C16B4E8017E99200F</cheevosHash>
-		<scrap name="ScreenScraper" date="20221212T044011" />
+		<scrap name="ScreenScraper" date="20231214T053019" />
 		<scrap name="ArcadeDB" date="20221212T135835" />
 	</game>
 	<game id="64964">
@@ -278,13 +286,13 @@ The game was a companion product to SD Ultra Battle: Ultraman Densetsu, and was 
 		<developer>Tom Create</developer>
 		<publisher>Bandai Namco</publisher>
 		<genre>Action</genre>
-		<players>2</players>
+		<players>1-2</players>
 		<crc32>43AD5A45</crc32>
 		<md5>bb8daddcf18fc44442baa041888da924</md5>
 		<lang>jp</lang>
 		<region>jp</region>
 		<cheevosHash>BB8DADDCF18FC44442BAA041888DA924</cheevosHash>
-		<scrap name="ScreenScraper" date="20221212T044013" />
+		<scrap name="ScreenScraper" date="20231214T053021" />
 		<scrap name="ArcadeDB" date="20221212T135835" />
 	</game>
 	<game id="64965">
@@ -302,15 +310,15 @@ The game was a companion product to SD Ultra Battle: Seven Densetsu, and was rel
 		<releasedate>19960628T000000</releasedate>
 		<developer>Tom Create</developer>
 		<publisher>Bandai Namco</publisher>
-		<genre>Fight</genre>
+		<genre>Action</genre>
 		<family>Ultraman</family>
-		<players>2</players>
+		<players>1-2</players>
 		<crc32>04939D14</crc32>
 		<md5>bd6aee0e7a861fe738f9cfe69084a3c5</md5>
 		<lang>jp</lang>
 		<region>jp</region>
 		<cheevosHash>BD6AEE0E7A861FE738F9CFE69084A3C5</cheevosHash>
-		<scrap name="ScreenScraper" date="20221212T044015" />
+		<scrap name="ScreenScraper" date="20231214T053023" />
 		<scrap name="ArcadeDB" date="20221212T135835" />
 	</game>
 </gameList>

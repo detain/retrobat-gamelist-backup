@@ -1,5 +1,23 @@
 <?xml version="1.0"?>
 <gameList>
+	<game id="99443">
+		<path>./No-Intro/08002 (Taiwan).bin</path>
+		<name>ZZZ(notgame):08002</name>
+		<hidden>true</hidden>
+		<md5>927f0738d3ebe5f0d9267d05bf96b1da</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231103T015417" />
+	</game>
+	<game>
+		<path>./No-Intro/16007 (Taiwan).bin</path>
+		<name>16007 (Taiwan)</name>
+		<md5>7e7e1321ad9e4f3e1a512ab4fe3abb0c</md5>
+		<scrap name="ScreenScraper" date="20231103T015418" />
+		<video>./videos/16007 (Taiwan)-video.mp4</video>
+		<marquee>./images/16007 (Taiwan)-marquee.png</marquee>
+		<thumbnail>./images/16007 (Taiwan)-thumb.png</thumbnail>
+		<boxback>./images/16007 (Taiwan)-boxback.png</boxback>
+	</game>
 	<game id="59224">
 		<path>./No-Intro/Boom Zoo (Taiwan).bin</path>
 		<name>Boom Zoo</name>
@@ -12,11 +30,11 @@
 		<developer>Funtech Technology</developer>
 		<publisher>Funtech Technology</publisher>
 		<genre>Action</genre>
-		<players>1</players>
+		<players>1-2</players>
 		<crc32>6099BB44</crc32>
 		<md5>62aba0124eec12567f0facd8475d4ef8</md5>
 		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20221211T065503" />
+		<scrap name="ScreenScraper" date="20231214T053025" />
 		<scrap name="ArcadeDB" date="20221212T082214" />
 	</game>
 	<game id="59229">
@@ -30,11 +48,11 @@
 		<developer>AV Artisan</developer>
 		<publisher>Funtech Technology</publisher>
 		<genre>Puzzle-Game</genre>
-		<players>2</players>
+		<players>1-2</players>
 		<crc32>B2BF31DC</crc32>
 		<md5>7c637797ae8f3c1e92230a9fa80e8269</md5>
 		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20221211T065507" />
+		<scrap name="ScreenScraper" date="20231214T053027" />
 		<scrap name="ArcadeDB" date="20221212T082214" />
 	</game>
 	<game id="59227">
@@ -53,17 +71,26 @@
 		<crc32>AC4FA721</crc32>
 		<md5>99a7216288b76485dbfea69f679ae002</md5>
 		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20221211T065511" />
+		<scrap name="ScreenScraper" date="20231214T053030" />
 		<scrap name="ArcadeDB" date="20221212T082214" />
 	</game>
-	<game id="99441">
+	<game id="59233">
 		<path>./No-Intro/Journey to the Laugh (Taiwan).bin</path>
-		<name>ZZZ(notgame):16005</name>
+		<name>C.U.G.</name>
+		<desc>A platformer loosely and humorously based on Journey to the West. Players take control of Sun Wukong.</desc>
+		<video>./videos/Journey to the Laugh (Taiwan)-video.mp4</video>
+		<marquee>./images/Journey to the Laugh (Taiwan)-marquee.png</marquee>
+		<thumbnail>./images/Journey to the Laugh (Taiwan)-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<developer>Funtech Technology</developer>
+		<publisher>Funtech Technology</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
 		<hidden>true</hidden>
 		<crc32>CEE25EEA</crc32>
 		<md5>fb45bfe814878e759ecb413484848db9</md5>
 		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20221211T065512" />
+		<scrap name="ScreenScraper" date="20231214T053043" />
 		<scrap name="ArcadeDB" date="20221212T082214" />
 	</game>
 	<game id="59230">
@@ -77,21 +104,31 @@
 		<developer>Funtech Technology</developer>
 		<publisher>Funtech Technology</publisher>
 		<genre>Sports / Pool</genre>
-		<players>2</players>
+		<players>1-2</players>
 		<crc32>AED4E4F8</crc32>
 		<md5>17c068084dc1e4ebafc78e2653e0e26a</md5>
 		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20221211T065516" />
+		<scrap name="ScreenScraper" date="20231214T053045" />
 		<scrap name="ArcadeDB" date="20221212T082214" />
 	</game>
-	<game id="99444">
+	<game id="59228">
 		<path>./No-Intro/Monopoly - Adventure in Africa (Taiwan).bin</path>
-		<name>ZZZ(notgame):08003</name>
+		<name>African Adventure</name>
+		<desc>In this board game which is similar to Monopoly, players use money to build properties on the spaces they land on, such as farms, quarries or hotels. These will generate more money so the player can then buy supplies to go into the middle of the board and hunt for hidden treasure.</desc>
+		<video>./videos/Monopoly - Adventure in Africa (Taiwan)-video.mp4</video>
+		<marquee>./images/Monopoly - Adventure in Africa (Taiwan)-marquee.png</marquee>
+		<thumbnail>./images/Monopoly - Adventure in Africa (Taiwan)-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<developer>Panda Entertainment Technology Co., Ltd.</developer>
+		<publisher>Funtech Technology</publisher>
+		<genre>Board game</genre>
+		<family>Monopoly</family>
+		<players>1-2</players>
 		<hidden>true</hidden>
 		<crc32>DC3B7B84</crc32>
 		<md5>2f738d44d74f987be4b96b6ee4097e1e</md5>
 		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20221211T065516" />
+		<scrap name="ScreenScraper" date="20231214T053058" />
 		<scrap name="ArcadeDB" date="20221212T082214" />
 	</game>
 	<game id="59232">
@@ -101,64 +138,73 @@
 		<video>./videos/Sango Fighter (Taiwan)-video.mp4</video>
 		<marquee>./images/Sango Fighter (Taiwan)-marquee.png</marquee>
 		<thumbnail>./images/Sango Fighter (Taiwan)-thumb.png</thumbnail>
+		<fanart>./images/Sango Fighter (Taiwan)-fanart.jpg</fanart>
 		<boxback>./images/Sango Fighter (Taiwan)-boxback.png</boxback>
 		<rating>0.65</rating>
 		<developer>Panda Entertainment Technology Co., Ltd.</developer>
 		<publisher>Funtech Technology</publisher>
-		<genre>Fight</genre>
-		<players>2</players>
+		<genre>Fight / 2D</genre>
+		<family>Sango Fighter</family>
+		<players>1-2</players>
 		<crc32>A4DE6DDE</crc32>
 		<md5>45e297d693cd2308f637f68a2389ace4</md5>
 		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20221211T065521" />
+		<scrap name="ScreenScraper" date="20231214T053104" />
 		<scrap name="ArcadeDB" date="20221212T082214" />
 	</game>
-	<game id="99446">
+	<game id="59235">
 		<path>./No-Intro/Speedy Dragon (Taiwan).bin</path>
-		<name>ZZZ(notgame):16003</name>
+		<name>Speedy Dragon</name>
+		<desc>Yinsu Feilong (Speedy Dragon) is a colourful platform action game comparable to the Sonic the Hedgehog series which was released exclusively for the Taiwanese Super A'Can. Playing as a determined-looking young man with a baseball bat, the player must make their way through six side-scrolling stages, each with a boss at the end that must be defeated.</desc>
+		<video>./videos/Speedy Dragon (Taiwan)-video.mp4</video>
+		<marquee>./images/Speedy Dragon (Taiwan)-marquee.png</marquee>
+		<thumbnail>./images/Speedy Dragon (Taiwan)-thumb.png</thumbnail>
+		<rating>0.55</rating>
+		<developer>AV Artisan</developer>
+		<publisher>Funtech Technology</publisher>
+		<genre>Action</genre>
+		<players>1</players>
 		<hidden>true</hidden>
 		<crc32>F631383C</crc32>
 		<md5>16ff1f3d682d582b696d86ad1a128efd</md5>
 		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20221211T065522" />
+		<scrap name="ScreenScraper" date="20231214T053120" />
 		<scrap name="ArcadeDB" date="20221212T082214" />
 	</game>
-	<game id="99442">
+	<game id="59226">
 		<path>./No-Intro/Super Taiwanese Baseball League (Taiwan).bin</path>
-		<name>ZZZ(notgame):16004</name>
+		<name>Super Taiwanese Baseball League</name>
+		<desc>This game is the sequel to and an improvement upon the Taiwanese game World Pro Baseball for the Mega Drive (itself a copycat of Power League '93 for the PC Engine) featuring fully licensed teams and players from Chinese Professional Baseball League. It features big animations of certain plays and digitized samples of cheering crowds.</desc>
+		<video>./videos/Super Taiwanese Baseball League (Taiwan)-video.mp4</video>
+		<marquee>./images/Super Taiwanese Baseball League (Taiwan)-marquee.png</marquee>
+		<thumbnail>./images/Super Taiwanese Baseball League (Taiwan)-thumb.png</thumbnail>
+		<rating>0.45</rating>
+		<developer>Quan Wei Technology</developer>
+		<publisher>Funtech Technology</publisher>
+		<genre>Sports / Baseball</genre>
+		<players>1-2</players>
 		<hidden>true</hidden>
 		<crc32>CCF6829B</crc32>
 		<md5>dc2d01a03d210d2ce937efd6685d6a28</md5>
 		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20221211T065529" />
+		<scrap name="ScreenScraper" date="20231214T053136" />
 		<scrap name="ArcadeDB" date="20221212T082215" />
 	</game>
-	<game id="99445">
+	<game id="59234">
 		<path>./No-Intro/The Son of Evil (Taiwan).bin</path>
-		<name>ZZZ(notgame):16002</name>
+		<name>The Son of Evil</name>
+		<desc>The Son of Evil is an RPG launched with the Super A'Can and intended to be its flagship title. It plays in a manner similar to popular JRPGs like Final Fantasy IV but with more emphasis on personal choice. The player has branching dialogue paths with even trivial NPCs as well as in more plot critical moments which can change events in the game and even make the protagonist good or evil.</desc>
+		<video>./videos/The Son of Evil (Taiwan)-video.mp4</video>
+		<rating>0.6</rating>
+		<developer>Funtech Technology</developer>
+		<publisher>Funtech Technology</publisher>
+		<genre>Action</genre>
+		<players>1</players>
 		<hidden>true</hidden>
 		<crc32>9F6119A7</crc32>
 		<md5>517316018ed64cd43e225f1dd074eaf2</md5>
 		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20221211T065530" />
+		<scrap name="ScreenScraper" date="20231214T053142" />
 		<scrap name="ArcadeDB" date="20221212T082215" />
-	</game>
-	<game id="99443">
-		<path>./No-Intro/08002 (Taiwan).bin</path>
-		<name>ZZZ(notgame):08002</name>
-		<hidden>true</hidden>
-		<md5>927f0738d3ebe5f0d9267d05bf96b1da</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20231103T015417" />
-	</game>
-	<game>
-		<path>./No-Intro/16007 (Taiwan).bin</path>
-		<name>16007 (Taiwan)</name>
-		<md5>7e7e1321ad9e4f3e1a512ab4fe3abb0c</md5>
-		<scrap name="ScreenScraper" date="20231103T015418" />
-		<video>./videos/16007 (Taiwan)-video.mp4</video>
-		<marquee>./images/16007 (Taiwan)-marquee.png</marquee>
-		<thumbnail>./images/16007 (Taiwan)-thumb.png</thumbnail>
-		<boxback>./images/16007 (Taiwan)-boxback.png</boxback>
 	</game>
 </gameList>
