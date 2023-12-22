@@ -1,12 +1,6 @@
 <?xml version="1.0"?>
 <gameList>
 	<game>
-		<path>./TOSEC/Applications/[DSK]/AMRAD Amateur Radio Logbook (1994)(Spencer)/AMRAD Amateur Radio Logbook (1994)(Spencer).dsk</path>
-		<name>AMRAD Amateur Radio Logbook (1994)(Spencer)</name>
-		<md5>be6de0b9b2963c6218a3ca547522d420</md5>
-		<scrap name="ScreenScraper" date="20230218T013508" />
-	</game>
-	<game>
 		<path>./TOSEC/Applications/[DSK]/Beta DOS 1.0 For the Plus D (1990)(Betasoft)/Beta DOS 1.0 For the Plus D (1990)(Betasoft).dsk</path>
 		<name>Beta DOS 1.0 For the Plus D (1990)(Betasoft)</name>
 		<md5>0d71b4952dadbfb1061acc1f4640c787</md5>
@@ -336,12 +330,6 @@
 		<scrap name="ScreenScraper" date="20230218T013636" />
 	</game>
 	<game>
-		<path>./TOSEC/Applications/[SAD]/Alternative Module Player - ALM &amp; Tunes v1.2 (1994)(Aley Keprt)/Alternative Module Player - ALM &amp; Tunes v1.2 (1994)(Aley Keprt).sad</path>
-		<name>Alternative Module Player - ALM &amp; Tunes v1.2 (1994)(Aley Keprt)</name>
-		<md5>36d1ed21bf7b6fb66dfa0dd8aa10baf7</md5>
-		<scrap name="ScreenScraper" date="20230218T013637" />
-	</game>
-	<game>
 		<path>./TOSEC/Applications/[SAD]/Boing! Graphics (19xx)(Samtech)/Boing! Graphics (19xx)(Samtech).sad</path>
 		<name>Boing! Graphics (19xx)(Samtech)</name>
 		<md5>3efefec20d7a06d3c74b2f2c10d26869</md5>
@@ -360,12 +348,6 @@
 		<name>E-Copier v2.0 (1993)(Chris White)</name>
 		<md5>5d9469e250fc6cbbb0ce60dd57aaa4f3</md5>
 		<scrap name="ScreenScraper" date="20230218T013643" />
-	</game>
-	<game>
-		<path>./TOSEC/Applications/[SAD]/Fast E-Tracker Player (19xx)(Simon Cooke)/Fast E-Tracker Player (19xx)(Simon Cooke).sad</path>
-		<name>Fast E-Tracker Player (19xx)(Simon Cooke)</name>
-		<md5>a2a900b47c87caacff4d196d327028c0</md5>
-		<scrap name="ScreenScraper" date="20230218T013645" />
 	</game>
 	<game>
 		<path>./TOSEC/Applications/[SAD]/Font Loader (1991)(Phantom Software)/Font Loader (1991)(Phantom Software).sad</path>
@@ -2090,5 +2072,26 @@ One wrong move, one brief hesitation or mis-placed pipe section, and you'll drow
 		<md5>c706bc84abbe1e530290aca804608573</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20230218T014520" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/[DSK]/AMRAD Amateur Radio Logbook (1994)(Spencer)/AMRAD Amateur Radio Logbook (1994)(Spencer).dsk</path>
+		<name>AMRAD Amateur Radio Logbook (1994)(Spencer)</name>
+		<md5>be6de0b9b2963c6218a3ca547522d420</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230218T013508" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/[SAD]/Alternative Module Player - ALM &amp; Tunes v1.2 (1994)(Aley Keprt)/Alternative Module Player - ALM &amp; Tunes v1.2 (1994)(Aley Keprt).sad</path>
+		<name>Alternative Module Player - ALM &amp; Tunes v1.2 (1994)(Aley Keprt)</name>
+		<md5>36d1ed21bf7b6fb66dfa0dd8aa10baf7</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230218T013637" />
+	</game>
+	<game>
+		<path>./TOSEC/Applications/[SAD]/Fast E-Tracker Player (19xx)(Simon Cooke)/Fast E-Tracker Player (19xx)(Simon Cooke).sad</path>
+		<name>Fast E-Tracker Player (19xx)(Simon Cooke)</name>
+		<md5>a2a900b47c87caacff4d196d327028c0</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230218T013645" />
 	</game>
 </gameList>
