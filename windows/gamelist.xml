@@ -1,60 +1,5 @@
 <?xml version="1.0"?>
 <gameList>
-	<game>
-		<path>./eXoWin3xConverted/Dilbert - Not Just A Calendar (1997).pc</path>
-		<name>Dilbert: Not Just A Calendar</name>
-		<desc>Dilbert: Not Just A Calendar is based on the Cedco calendar, and includes a Dilbert-themed screen saver, calendar, address book, time-wasting advice, to-do list, event scheduler, and alarm. It also includes a jigsaw puzzle, which is the important part.The jigsaw puzzle features classic-style jigsaw shapes, allows setting the number of pieces from 30 to 494, and optionally can randomly rotate the pieces. The pieces start in a puzzle box, and can be dragged out from there into the main window. If a piece is in the correct position, it will snap into place. More than 300 images are included, all from Dilbert comic strips.</desc>
-		<releasedate>19970101T000000</releasedate>
-		<developer>Cedco Publishing Company</developer>
-		<publisher>Cedco Publishing Company</publisher>
-		<genre>Puzzle</genre>
-		<manual />
-		<image>./downloaded_images/Dilbert_ Not Just A Calendar-01.jpg</image>
-	</game>
-	<game>
-		<path>./eXoWin3xConverted/The Madness of Roland (1995).pc</path>
-		<name>The Madness of Roland</name>
-		<desc>Billed as "the world's first interactive multimedia novel," this brilliantly fulfills the latter half of its claim (i.e. “multimedia novel”) while dismally failing the first (i.e. “interactive”). It's an art film whose commercial value arises from the novelty of the medium. Based on the legend of the Paladin Roland, a knight in the service of Charlemagne, the tale of Madness of Roland is told from multiple points of view which you can select at will. Each character tells their own, often contradictory, version of the story. Roland uses text, digital color paintings, animation, QuickTime video, professional "radio theatre" narration, hypertextual links and a complete original soundtrack to transport you to the world of Charlemagne's France.</desc>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Greg Roach</developer>
-		<publisher>HyperBole Studios</publisher>
-		<genre>Adventure-Visual</genre>
-		<manual />
-		<image>./downloaded_images/The Madness of Roland-01.jpg</image>
-	</game>
-	<game>
-		<path>./eXoWin3xConverted/Planetary Taxi (1995).pc</path>
-		<name>Planetary Taxi</name>
-		<desc>Zoom through a scale model of the solar system at the wheel of your own cosmic taxicab, dropping off wacky passengers--mountain climbers, aliens, little old ladies--as you go. In the process, find out where a golf ball will fly the farthest, bounce the highest, or freeze the fastest. These and a thousand more facts about our solar system come to life in this entertaining game of discovery. Aspiring astronomers and physicists will also love the spectacular QuickTime movies of recent space missions and NASA fly-bys.</desc>
-		<releasedate>19950101T000000</releasedate>
-		<developer>The Voyager Company</developer>
-		<publisher>The Voyager Company</publisher>
-		<genre>Adventure-Visual</genre>
-		<manual />
-		<image>./downloaded_images/Planetary Taxi-01.jpg</image>
-	</game>
-	<game>
-		<path>./eXoWin3xConverted/SimCity 2000 - CD Collection (1996).pc</path>
-		<name>SimCity 2000: CD Collection</name>
-		<desc>Develop and build your own city! This collection includes SimCity 2000, SimCity 2000 Scenarios Volume 1: Great Disasters, SimCity 2000 Bonus Cities and Scenarios, and the Urban Renewal Kit which allows you to build your own cities free of charge and them import them into the game!</desc>
-		<releasedate>19960101T000000</releasedate>
-		<developer>Maxis Software Inc.</developer>
-		<publisher>Maxis Software Inc.</publisher>
-		<genre>Strategy-Management</genre>
-		<manual>./manuals/SimCity 2000 - CD Collection (1993).pdf</manual>
-		<image>./downloaded_images/SimCity 2000_ CD Collection-01.jpg</image>
-	</game>
-	<game>
-		<path>./eXoWin3xConverted/SimPark (1996).pc</path>
-		<name>SimPark</name>
-		<desc>Made by Maxis, the company famous for its line of "Sim" games, SimPark deals with the simulation and management of a real wildlife park.  SimPark allows you to build and manage parks from scratch, completely isolated from civilization.  You have the choice of choosing from hundreds of different species of flowers, bushes, plants, mammals, birds, and reptiles to live and thrive in your park.  Which plants and animals to put in is completely your choice, but you have to make sure that their biological needs are met so that they won't die.  You start out with a bare patch of land, but as you add plants and animals, it will begin to grow.  Depending on the climate and food available, certain animals will even begin migrating to your park.  SimPark contains a massive database of plants and animals that you need to use in order for your park to flourish.  Over hundreds of species are cataloged in SimPark, and each article includes a brief bio, their scientific name, their wants and needs, and even an authentic recording of what each animal sounds like.  You need to utilize this information to figure out what plants and animals to put in your park, in order for the creatures to flourish.  If a creature or plant does not get enough food, a plant does not like the climate, or trees do not get the amount of water they need, your park will not grow.When plants and animals are placed incorrectly, the park becomes unstable.  Weeds and animals will begin to overpopulate the park.  Other trees will die or get overeaten by rampaging species.  Because of this, the game tries to teach the concept of a "balanced ecosystem."  It is up to you to have an understanding of the animals in your park to preserve a balance.  Only through a perfectly balanced biological system can all of the creatures flourish.Besides the biological aspect, there is also the managerial aspect of it.  Above all, it is up to you to manage the budget for the park.  Planting trees and adapting animals costs money, and if you can't manage that money, you're fired.  Even though you get federal funding each year, it is also important to attract visitors to the park to make a little income.  You need to make provisions for humans, like paths and bathrooms.  You also have to make sure visitors behave and do not litter or ravage the park.  Besides this, you also have the duty to identify species in your park, through a mini-game which has you identify them through their characteristics.  As well, you may  have to decide on other things like if you want to receive donations, or cater to boyscout parties (which might have negative affects on the ecosystem).Like any classic Sim game, you can ravage your own park with disasters.  You can simulate a garbage dump disaster (a large pile of garbage and lots of rats), a fire, an alien invasion (pink and blue blobs that create garbage) and a kudzu infestation.</desc>
-		<releasedate>19960101T000000</releasedate>
-		<developer>Maxis Software Inc.</developer>
-		<publisher>Maxis Software Inc.</publisher>
-		<genre>Strategy-Management</genre>
-		<manual />
-		<image>./downloaded_images/SimPark-01.jpg</image>
-	</game>
 	<game id="158402">
 		<path>./eXoWin3xConverted/101 Dalmatians - Escape From DeVil Manor (1997).pc</path>
 		<name>101 Dalmatians Escape From DeVil Manor</name>
@@ -13498,5 +13443,72 @@ Also included is a Parent's Guide with suggested activities and complementary ma
 		<thumbnail>./images/Zurk's Rainforest Lab (1995)-thumb.png</thumbnail>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20231222T125100" />
+	</game>
+	<game id="159045">
+		<path>./eXoWin3xConverted/Dilbert - Not Just A Calendar (1997).pc</path>
+		<name>Dilbert: Not Just A Calendar</name>
+		<desc>Dilbert: Not Just A Calendar is based on the Cedco calendar, and includes a Dilbert-themed screen saver, calendar, address book, time-wasting advice, to-do list, event scheduler, and alarm. It also includes a jigsaw puzzle, which is the important part.The jigsaw puzzle features classic-style jigsaw shapes, allows setting the number of pieces from 30 to 494, and optionally can randomly rotate the pieces. The pieces start in a puzzle box, and can be dragged out from there into the main window. If a piece is in the correct position, it will snap into place. More than 300 images are included, all from Dilbert comic strips.</desc>
+		<image>./downloaded_images/Dilbert_ Not Just A Calendar-01.jpg</image>
+		<thumbnail>./images/Dilbert - Not Just A Calendar (1997)-thumb.png</thumbnail>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Cedco Publishing Company</developer>
+		<publisher>Cedco Publishing Company</publisher>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231223T003844" />
+	</game>
+	<game id="158950">
+		<path>./eXoWin3xConverted/Planetary Taxi (1995).pc</path>
+		<name>Planetary Taxi</name>
+		<desc>Zoom through a scale model of the solar system at the wheel of your own cosmic taxicab, dropping off wacky passengers--mountain climbers, aliens, little old ladies--as you go. In the process, find out where a golf ball will fly the farthest, bounce the highest, or freeze the fastest. These and a thousand more facts about our solar system come to life in this entertaining game of discovery. Aspiring astronomers and physicists will also love the spectacular QuickTime movies of recent space missions and NASA fly-bys.</desc>
+		<image>./downloaded_images/Planetary Taxi-01.jpg</image>
+		<developer>The Voyager Company</developer>
+		<publisher>The Voyager Company</publisher>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231223T003846" />
+	</game>
+	<game id="157098">
+		<path>./eXoWin3xConverted/SimCity 2000 - CD Collection (1996).pc</path>
+		<name>SimCity 2000: CD Collection</name>
+		<desc>SimCity 2000 is the successor to the ground breaking city simulation game Sim City. You are once again the mayor, but this time you can fully customize the terrain before building your city. The graphics are isometric, whereas the original had graphics displayed in a top-down fashion.
+
+This title adds numerous features over the original such as the ability of building ''light'' zones, subways, hospitals, colleges, zoos, and arcos which are actually cities in cities. You can now give names to places, and your city is surrounded by neighboring towns with which you can make trade. Finally, instead of the poll in the first game you now have the option of reading several newspapers to get an idea of your progress.
+
+Develop and build your own city! This collection includes SimCity 2000, SimCity 2000 Scenarios Volume 1: Great Disasters, SimCity 2000 Bonus Cities and Scenarios, and the Urban Renewal Kit which allows you to build your own cities free of charge and them import them into the game!</desc>
+		<image>./downloaded_images/SimCity 2000_ CD Collection-01.jpg</image>
+		<video>./videos/SimCity 2000 - CD Collection (1996)-video.mp4</video>
+		<marquee>./images/SimCity 2000 - CD Collection (1996)-marquee.png</marquee>
+		<thumbnail>./images/SimCity 2000 - CD Collection (1996)-thumb.png</thumbnail>
+		<fanart>./images/SimCity 2000 - CD Collection (1996)-fanart.jpg</fanart>
+		<manual>./manuals/SimCity 2000 - CD Collection (1993).pdf</manual>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Maxis Software</developer>
+		<publisher>Maxis Software</publisher>
+		<genre>Strategy / Build And Management</genre>
+		<family>SimCity</family>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231223T003853" />
+	</game>
+	<game id="158647">
+		<path>./eXoWin3xConverted/SimPark (1996).pc</path>
+		<name>SimPark</name>
+		<desc>Made by Maxis, the company famous for its line of ''Sim'' games, SimPark deals with the simulation and management of a real wildlife park.  SimPark allows you to build and manage parks from scratch, completely isolated from civilization.  You have the choice of choosing from hundreds of different species of flowers, bushes, plants, mammals, birds, and reptiles to live and thrive in your park.  Which plants and animals to put in is completely your choice, but you have to make sure that their biological needs are met so that they won't die.  You start out with a bare patch of land, but as you add plants and animals, it will begin to grow.  Depending on the climate and food available, certain animals will even begin migrating to your park.  SimPark contains a massive database of plants and animals that you need to use in order for your park to flourish.  Over hundreds of species are cataloged in SimPark, and each article includes a brief bio, their scientific name, their wants and needs, and even an authentic recording of what each animal sounds like.  You need to utilize this information to figure out what plants and animals to put in your park, in order for the creatures to flourish.  If a creature or plant does not get enough food, a plant does not like the climate, or trees do not get the amount of water they need, your park will not grow.When plants and animals are placed incorrectly, the park becomes unstable.  Weeds and animals will begin to overpopulate the park.  Other trees will die or get overeaten by rampaging species.  Because of this, the game tries to teach the concept of a ''balanced ecosystem.''  It is up to you to have an understanding of the animals in your park to preserve a balance.  Only through a perfectly balanced biological system can all of the creatures flourish.Besides the biological aspect, there is also the managerial aspect of it.  Above all, it is up to you to manage the budget for the park.  Planting trees and adapting animals costs money, and if you can't manage that money, you're fired.  Even though you get federal funding each year, it is also important to attract visitors to the park to make a little income.  You need to make provisions for humans, like paths and bathrooms.  You also have to make sure visitors behave and do not litter or ravage the park.  Besides this, you also have the duty to identify species in your park, through a mini-game which has you identify them through their characteristics.  As well, you may  have to decide on other things like if you want to receive donations, or cater to boyscout parties (which might have negative affects on the ecosystem).Like any classic Sim game, you can ravage your own park with disasters.  You can simulate a garbage dump disaster (a large pile of garbage and lots of rats), a fire, an alien invasion (pink and blue blobs that create garbage) and a kudzu infestation.</desc>
+		<image>./downloaded_images/SimPark-01.jpg</image>
+		<thumbnail>./images/SimPark (1996)-thumb.png</thumbnail>
+		<developer>Maxis Software</developer>
+		<publisher>Maxis Software</publisher>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231223T003900" />
+	</game>
+	<game id="158482">
+		<path>./eXoWin3xConverted/The Madness of Roland (1995).pc</path>
+		<name>The Madness of Roland</name>
+		<desc>Billed as ''the world's first interactive multimedia novel,'' this brilliantly fulfills the latter half of its claim (i.e. ?multimedia novel?) while dismally failing the first (i.e. ?interactive?). It's an art film whose commercial value arises from the novelty of the medium. Based on the legend of the Paladin Roland, a knight in the service of Charlemagne, the tale of Madness of Roland is told from multiple points of view which you can select at will. Each character tells their own, often contradictory, version of the story. Roland uses text, digital color paintings, animation, QuickTime video, professional ''radio theatre'' narration, hypertextual links and a complete original soundtrack to transport you to the world of Charlemagne's France.</desc>
+		<image>./downloaded_images/The Madness of Roland-01.jpg</image>
+		<thumbnail>./images/The Madness of Roland (1995)-thumb.png</thumbnail>
+		<developer>Greg Roach</developer>
+		<publisher>Hyperbole Studios</publisher>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231223T003908" />
 	</game>
 </gameList>
