@@ -74,13 +74,6 @@
 		<scrap name="ScreenScraper" date="20231102T021916" />
 		<scrap name="HfsDB" date="20231115T094506" />
 	</game>
-	<game>
-		<path>./TeknoParrot/PokkenTournament.7z</path>
-		<name>PokkenTournament</name>
-		<scrap name="ScreenScraper" date="20231102T021917" />
-		<scrap name="HfsDB" date="20231115T094506" />
-		<scrap name="ArcadeDB" date="20231102T194420" />
-	</game>
 	<game id="42675">
 		<path>./TeknoParrot/Radikal Bikers.7z</path>
 		<name>Radikal Bikers</name>
@@ -151,5 +144,12 @@ You must choose from four pizza couriers each with his or her own particular abi
 		<name>Yu-Gi-Oh! 5D's Duel Terminal (USA)</name>
 		<scrap name="ScreenScraper" date="20231102T021938" />
 		<scrap name="HfsDB" date="20231115T094508" />
+	</game>
+	<game>
+		<path>./TeknoParrot/PokkenTournament.7z</path>
+		<name>PokkenTournament</name>
+		<scrap name="ScreenScraper" date="20231102T021917" />
+		<scrap name="HfsDB" date="20231115T094506" />
+		<scrap name="ArcadeDB" date="20231228T022250" />
 	</game>
 </gameList>

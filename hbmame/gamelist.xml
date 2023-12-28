@@ -9216,236 +9216,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=69685&a
 		<scrap name="ArcadeDB" date="20230228T092514" />
 	</game>
 	<game>
-		<path>./ROMs (bios-devices)/arkanoid68705p3.zip</path>
-		<name>Arkanoid MC68705P3 Interface</name>
-		<image>./images/arkanoid68705p3-image.png</image>
-		<releasedate>19691231T190000</releasedate>
-		<genre>System / Device</genre>
-		<players>0</players>
-		<crc32>F3F10ABB</crc32>
-		<md5>a7ab00a0f5352d8a006a35e536443600</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230216T160759" />
-		<scrap name="HfsDB" date="20231115T092651" />
-		<scrap name="ArcadeDB" date="20230218T031046" />
-	</game>
-	<game>
-		<path>./ROMs (bios-devices)/arkanoid68705p5.zip</path>
-		<name>Arkanoid MC68705P5 Interface</name>
-		<image>./images/arkanoid68705p5-image.png</image>
-		<releasedate>19691231T190000</releasedate>
-		<genre>System / Device</genre>
-		<players>0</players>
-		<crc32>B1654C9B</crc32>
-		<md5>d846842bf12d07bfa7ca3e9f0537c213</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230216T160803" />
-		<scrap name="HfsDB" date="20231115T092651" />
-		<scrap name="ArcadeDB" date="20230218T031047" />
-	</game>
-	<game>
-		<path>./ROMs (bios-devices)/atari_cage.zip</path>
-		<name>Atari CAGE</name>
-		<image>./images/atari_cage-image.png</image>
-		<releasedate>19691231T190000</releasedate>
-		<genre>System / Device</genre>
-		<players>0</players>
-		<crc32>6B404CCB</crc32>
-		<md5>9b42e551a0d987c040bd11d9ac2649de</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230216T160807" />
-		<scrap name="HfsDB" date="20231115T092651" />
-		<scrap name="ArcadeDB" date="20230218T031047" />
-	</game>
-	<game>
-		<path>./ROMs (bios-devices)/atari_cage_seattle.zip</path>
-		<name>Atari CAGE Seattle</name>
-		<image>./images/atari_cage_seattle-image.png</image>
-		<releasedate>19691231T190000</releasedate>
-		<genre>System / Device</genre>
-		<players>0</players>
-		<crc32>6B404CCB</crc32>
-		<md5>9b42e551a0d987c040bd11d9ac2649de</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230216T160811" />
-		<scrap name="HfsDB" date="20231115T092652" />
-		<scrap name="ArcadeDB" date="20230218T031047" />
-	</game>
-	<game>
-		<path>./ROMs (bios-devices)/decobsmt.zip</path>
-		<name>Data East/Sega/Stern BSMT2000 Sound Board</name>
-		<image>./images/decobsmt-image.png</image>
-		<releasedate>19691231T190000</releasedate>
-		<genre>System / Device</genre>
-		<players>0</players>
-		<crc32>44C11C2C</crc32>
-		<md5>6fb1df5aa0bedc95e392c7cb875afea9</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230216T160815" />
-		<scrap name="HfsDB" date="20231115T092652" />
-		<scrap name="ArcadeDB" date="20230218T031047" />
-	</game>
-	<game>
-		<path>./ROMs (bios-devices)/ds1001.zip</path>
-		<name>Yamaha DS1001 / Konami 053982</name>
-		<image>./images/ds1001-image.png</image>
-		<releasedate>19691231T190000</releasedate>
-		<genre>System / Device</genre>
-		<players>0</players>
-		<hidden>true</hidden>
-		<crc32>5D3DAD10</crc32>
-		<md5>3f7c70a44c4496240a13f0d8ddf9b178</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230216T160817" />
-		<scrap name="HfsDB" date="20231115T092652" />
-		<scrap name="ArcadeDB" date="20230218T031048" />
-	</game>
-	<game>
-		<path>./ROMs (bios-devices)/gotsndr1vt.zip</path>
-		<name>Gottlieb Sound rev. 1 with Votrax</name>
-		<image>./images/gotsndr1vt-image.png</image>
-		<releasedate>19691231T190000</releasedate>
-		<genre>System / Device</genre>
-		<players>0</players>
-		<crc32>5F919DBC</crc32>
-		<md5>b784c07140810457f6244d267cbbbb72</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230216T160821" />
-		<scrap name="HfsDB" date="20231115T092653" />
-		<scrap name="ArcadeDB" date="20230218T031048" />
-	</game>
-	<game>
-		<path>./ROMs (bios-devices)/s_smp.zip</path>
-		<name>Nintendo/Sony S-SMP</name>
-		<image>./images/s_smp-image.png</image>
-		<releasedate>19691231T190000</releasedate>
-		<genre>System / Device</genre>
-		<players>0</players>
-		<hidden>true</hidden>
-		<crc32>307BE18C</crc32>
-		<md5>f80b6f46db83e714922190e37b9c6a80</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230216T160823" />
-		<scrap name="HfsDB" date="20231115T092653" />
-		<scrap name="ArcadeDB" date="20230218T031048" />
-	</game>
-	<game>
-		<path>./ROMs (bios-devices)/taito68705.zip</path>
-		<name>Taito MC68705 MCU Interface</name>
-		<image>./images/taito68705-image.png</image>
-		<releasedate>19691231T190000</releasedate>
-		<genre>System / Device</genre>
-		<players>0</players>
-		<crc32>B1654C9B</crc32>
-		<md5>d846842bf12d07bfa7ca3e9f0537c213</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230216T160828" />
-		<scrap name="HfsDB" date="20231115T092653" />
-		<scrap name="ArcadeDB" date="20230218T031051" />
-	</game>
-	<game>
-		<path>./ROMs (bios-devices)/taito68705tiger.zip</path>
-		<name>Taito MC68705 MCU Interface</name>
-		<image>./images/taito68705tiger-image.png</image>
-		<releasedate>19691231T190000</releasedate>
-		<genre>System / Device</genre>
-		<players>0</players>
-		<crc32>B1654C9B</crc32>
-		<md5>d846842bf12d07bfa7ca3e9f0537c213</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230216T160832" />
-		<scrap name="HfsDB" date="20231115T092653" />
-		<scrap name="ArcadeDB" date="20230218T031051" />
-	</game>
-	<game>
-		<path>./ROMs (bios-devices)/taitosjsecmcu.zip</path>
-		<name>Taito SJ Security MCU Interface</name>
-		<image>./images/taitosjsecmcu-image.png</image>
-		<releasedate>19691231T190000</releasedate>
-		<genre>System / Device</genre>
-		<players>0</players>
-		<crc32>B1654C9B</crc32>
-		<md5>d846842bf12d07bfa7ca3e9f0537c213</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230216T160835" />
-		<scrap name="HfsDB" date="20231115T092654" />
-		<scrap name="ArcadeDB" date="20230218T031051" />
-	</game>
-	<game>
-		<path>./ROMs (bios-devices)/tms32033.zip</path>
-		<name>Texas Instruments TMS320VC33</name>
-		<image>./images/tms32033-image.png</image>
-		<releasedate>19691231T190000</releasedate>
-		<genre>System / Device</genre>
-		<players>0</players>
-		<crc32>6B404CCB</crc32>
-		<md5>9b42e551a0d987c040bd11d9ac2649de</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230216T160839" />
-		<scrap name="HfsDB" date="20231115T092654" />
-		<scrap name="ArcadeDB" date="20230218T031051" />
-	</game>
-	<game>
-		<path>./ROMs (bios-devices)/ym2413.zip</path>
-		<name>YM2413 OPLL</name>
-		<image>./images/ym2413-image.png</image>
-		<releasedate>19691231T190000</releasedate>
-		<genre>System / Device</genre>
-		<players>0</players>
-		<hidden>true</hidden>
-		<crc32>5737E541</crc32>
-		<md5>21ba73df83aab5f2c82f986abdd5e22a</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230216T160845" />
-		<scrap name="HfsDB" date="20231115T092654" />
-		<scrap name="ArcadeDB" date="20230218T031051" />
-	</game>
-	<game>
-		<path>./ROMs (bios-devices)/ym2423.zip</path>
-		<name>YM2423 OPLL-X</name>
-		<image>./images/ym2423-image.png</image>
-		<releasedate>19691231T190000</releasedate>
-		<genre>System / Device</genre>
-		<players>0</players>
-		<hidden>true</hidden>
-		<crc32>C963199A</crc32>
-		<md5>e29da387e055a2ce34c3f2454c0e7a14</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230216T160850" />
-		<scrap name="HfsDB" date="20231115T092655" />
-		<scrap name="ArcadeDB" date="20230218T031051" />
-	</game>
-	<game>
-		<path>./ROMs (bios-devices)/ymf281.zip</path>
-		<name>YMF281 OPLLP</name>
-		<image>./images/ymf281-image.png</image>
-		<releasedate>19691231T190000</releasedate>
-		<genre>System / Device</genre>
-		<players>0</players>
-		<hidden>true</hidden>
-		<crc32>D72E95B4</crc32>
-		<md5>382559e51e708f377e4bcb9a711a7e67</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230216T160852" />
-		<scrap name="HfsDB" date="20231115T092655" />
-		<scrap name="ArcadeDB" date="20230218T031051" />
-	</game>
-	<game>
 		<path>./ROMs (merged)/1943kai.zip</path>
 		<name>1943 Kai: Midway Kaisen</name>
 		<desc>1943: The Battle of Midway Mark II is a vertical scrolling shooter arcade game released exclusively in Japan by Capcom in June 1988. It is the third game in the 19XX series, an update of 1943: The Battle Of Midway, released a year prior. The title of this game translates from Japanese as "1943 Modified - Midway Naval Battle"
@@ -9473,17 +9243,6 @@ The difficulty has been upped so that the game is even more unforgivably fierce.
 		<scrap name="ScreenScraper" date="20230216T161017" />
 		<scrap name="HfsDB" date="20231115T092655" />
 		<scrap name="ArcadeDB" date="20230228T085634" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/19yy.zip</path>
-		<name>19yy</name>
-		<crc32>AE8A7B12</crc32>
-		<md5>b92ab64eee830f3ade433cf33f0d7988</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230216T161117" />
-		<scrap name="HfsDB" date="20231115T092656" />
-		<scrap name="ArcadeDB" date="20230218T031050" />
 	</game>
 	<game>
 		<path>./ROMs (merged)/3countb.zip</path>
@@ -9616,26 +9375,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=14&amp;
 		<scrap name="ArcadeDB" date="20230228T085645" />
 	</game>
 	<game>
-		<path>./ROMs (merged)/aa.zip</path>
-		<name>Alien Armada</name>
-		<crc32>61C9288A</crc32>
-		<md5>0f285122a14f999aa26b0110c8a9134a</md5>
-		<scrap name="ScreenScraper" date="20230216T161251" />
-		<scrap name="HfsDB" date="20231115T092657" />
-		<scrap name="ArcadeDB" date="20230218T031050" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/absurd.zip</path>
-		<name>Absurd!/QuadBlok (non-working alpha ver 3)</name>
-		<crc32>2B14E338</crc32>
-		<md5>22aa23449955c7d0f8547736fcc2aa9b</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230216T161254" />
-		<scrap name="HfsDB" date="20231115T092657" />
-		<scrap name="ArcadeDB" date="20230218T031050" />
-	</game>
-	<game>
 		<path>./ROMs (merged)/aburner2.zip</path>
 		<name>After Burner II</name>
 		<image>./images/aburner2-image.png</image>
@@ -9656,15 +9395,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=14&amp;
 		<scrap name="ScreenScraper" date="20230216T161323" />
 		<scrap name="HfsDB" date="20231115T092658" />
 		<scrap name="ArcadeDB" date="20230228T085652" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/abyssal.zip</path>
-		<name>abyssal</name>
-		<crc32>C5D9F1D9</crc32>
-		<md5>86d0f82caa5ff7d9726d5e2ed8cb5b91</md5>
-		<scrap name="ScreenScraper" date="20230216T161326" />
-		<scrap name="HfsDB" date="20231115T092658" />
-		<scrap name="ArcadeDB" date="20230218T031050" />
 	</game>
 	<game>
 		<path>./ROMs (merged)/airwolf.zip</path>
@@ -9772,15 +9502,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=35657&a
 		<scrap name="ArcadeDB" date="20230228T085655" />
 	</game>
 	<game>
-		<path>./ROMs (merged)/akiradmo.zip</path>
-		<name>Akira Demo</name>
-		<crc32>B27633BB</crc32>
-		<md5>2d24d81a6af8f353de85c450d9301ee7</md5>
-		<scrap name="ScreenScraper" date="20230216T161409" />
-		<scrap name="HfsDB" date="20231115T092659" />
-		<scrap name="ArcadeDB" date="20230218T031051" />
-	</game>
-	<game>
 		<path>./ROMs (merged)/aliencha.zip</path>
 		<name>Alien Challenge</name>
 		<image>./images/aliencha-image.png</image>
@@ -9802,64 +9523,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=35657&a
 		<scrap name="ScreenScraper" date="20230216T161429" />
 		<scrap name="HfsDB" date="20231115T092700" />
 		<scrap name="ArcadeDB" date="20230228T085658" />
-	</game>
-	<game id="204354">
-		<path>./ROMs (merged)/alienres.zip</path>
-		<name>Alien Rescue</name>
-		<image>./images/alienres-image.png</image>
-		<video>./videos/alienres-video.mp4</video>
-		<thumbnail>./images/alienres-thumb.png</thumbnail>
-		<boxback>./images/alienres-boxback.png</boxback>
-		<releasedate>20190701T000000</releasedate>
-		<developer>monstersgoboom</developer>
-		<publisher>monstersgoboom</publisher>
-		<genre>Platform</genre>
-		<players>1</players>
-		<crc32>E3C7BB03</crc32>
-		<md5>a4ab1a1bfe2468270ab994da7019d34a</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230216T161443" />
-		<scrap name="HfsDB" date="20231115T092700" />
-		<scrap name="ArcadeDB" date="20230218T031051" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/alpha1v.zip</path>
-		<name>Alpha One</name>
-		<desc>Arcade Video game published 34 years ago:
-
-Alpha One (c) 1988 Vision Electronics.
-
-- TECHNICAL -
-
-Main CPU: Zilog Z80, M6803
-Sound Chips: (2x) General Instrument AY8910, (2x) MSM5205
-
-Players: 2
-Buttons: 2
-
-- STAFF -
-
-Programmed by: Kyle Hodgetts, Tony Windsor
-
-- CONTRIBUTE -
-
-Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=11063&amp;o=2</desc>
-		<image>./images/alpha1v-image.png</image>
-		<video>./videos/alpha1v-video.mp4</video>
-		<marquee>./images/alpha1v-marquee.png</marquee>
-		<releasedate>19880101T000000</releasedate>
-		<developer>Vision Electronics</developer>
-		<publisher>Vision Electronics</publisher>
-		<genre>Shooter / Flying Horizontal</genre>
-		<players>2</players>
-		<crc32>A653CDE6</crc32>
-		<md5>ffa16bc2f8a9ca089c86e70009404ada</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230216T161453" />
-		<scrap name="HfsDB" date="20231115T092700" />
-		<scrap name="ArcadeDB" date="20230218T031051" />
 	</game>
 	<game>
 		<path>./ROMs (merged)/alpine.zip</path>
@@ -10119,15 +9782,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=118&amp
 		<scrap name="ArcadeDB" date="20230228T085720" />
 	</game>
 	<game>
-		<path>./ROMs (merged)/aquario.zip</path>
-		<name>aquario</name>
-		<crc32>F741C373</crc32>
-		<md5>2e3a1ec9338a57f71e52ee96e79ecdf3</md5>
-		<scrap name="ScreenScraper" date="20230216T161901" />
-		<scrap name="HfsDB" date="20231115T092754" />
-		<scrap name="ArcadeDB" date="20230218T031051" />
-	</game>
-	<game>
 		<path>./ROMs (merged)/arabianm.zip</path>
 		<name>Arabian Magic</name>
 		<desc>The game is set in the mythical world of The Arabian Nights. Some time ago, the Evil One plagued the peaceful kingdom of Shahariyard. In order to save the King - who, by sorcery, had been transformed into a monkey - a group of heroes must find the Jewel of Seven Colors and release the evil hex.
@@ -10366,35 +10020,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=3846&am
 		<scrap name="ArcadeDB" date="20230228T085752" />
 	</game>
 	<game>
-		<path>./ROMs (merged)/bace.zip</path>
-		<name>Balloon Ace</name>
-		<crc32>874C874A</crc32>
-		<md5>901f633dff4422fd7776e406b30008e6</md5>
-		<scrap name="ScreenScraper" date="20230216T162336" />
-		<scrap name="HfsDB" date="20231115T092801" />
-		<scrap name="ArcadeDB" date="20230218T031051" />
-	</game>
-	<game id="109301">
-		<path>./ROMs (merged)/badapple.zip</path>
-		<name>ZZZ(notgame):Demos</name>
-		<desc>Homebrew Demo</desc>
-		<thumbnail>./images/badapple-thumb.png</thumbnail>
-		<boxback>./images/badapple-boxback.png</boxback>
-		<releasedate>20020101T000000</releasedate>
-		<developer>Jeff Kurtz</developer>
-		<publisher>Homebrew</publisher>
-		<genre>Platform</genre>
-		<arcadesystemname>neogeo</arcadesystemname>
-		<hidden>true</hidden>
-		<crc32>66DA4070</crc32>
-		<md5>29763132dbd0e276e9fd8f63ae3d0e2d</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230216T162345" />
-		<scrap name="HfsDB" date="20231115T092801" />
-		<scrap name="ArcadeDB" date="20230218T031051" />
-	</game>
-	<game>
 		<path>./ROMs (merged)/baddudes.zip</path>
 		<name>Bad Dudes vs. Dragonninja</name>
 		<desc>Arcade Video game published 34 years ago:
@@ -10616,35 +10241,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=181&amp
 		<scrap name="ArcadeDB" date="20230228T085810" />
 	</game>
 	<game>
-		<path>./ROMs (merged)/bbugtest.zip</path>
-		<name>Test Rom - Boxing Bugs</name>
-		<crc32>E2290ACC</crc32>
-		<md5>123453eb60581381ae5847f6793ebab4</md5>
-		<scrap name="ScreenScraper" date="20230216T162627" />
-		<scrap name="HfsDB" date="20231115T092804" />
-		<scrap name="ArcadeDB" date="20230218T031052" />
-	</game>
-	<game id="109301">
-		<path>./ROMs (merged)/beast.zip</path>
-		<name>ZZZ(notgame):Demos</name>
-		<desc>Homebrew Demo</desc>
-		<thumbnail>./images/beast-thumb.png</thumbnail>
-		<boxback>./images/beast-boxback.png</boxback>
-		<releasedate>20020101T000000</releasedate>
-		<developer>Jeff Kurtz</developer>
-		<publisher>Homebrew</publisher>
-		<genre>Platform</genre>
-		<arcadesystemname>neogeo</arcadesystemname>
-		<hidden>true</hidden>
-		<crc32>D822333C</crc32>
-		<md5>ddc9987526b3ee9b03630d3f34a3eaa4</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230216T162635" />
-		<scrap name="HfsDB" date="20231115T092805" />
-		<scrap name="ArcadeDB" date="20230218T031052" />
-	</game>
-	<game>
 		<path>./ROMs (merged)/bgaregga.zip</path>
 		<name>Battle Garegga</name>
 		<image>./images/bgaregga-image.png</image>
@@ -10825,15 +10421,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=299&amp
 		<scrap name="ScreenScraper" date="20230216T162943" />
 		<scrap name="HfsDB" date="20231115T092808" />
 		<scrap name="ArcadeDB" date="20230228T085838" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/bonusstage.zip</path>
-		<name>bonusstage</name>
-		<crc32>72C174A7</crc32>
-		<md5>e4052ba16eeb2c1578b3f6c76fa04b9f</md5>
-		<scrap name="ScreenScraper" date="20230216T162946" />
-		<scrap name="HfsDB" date="20231115T092808" />
-		<scrap name="ArcadeDB" date="20230218T031052" />
 	</game>
 	<game>
 		<path>./ROMs (merged)/bonzeadv.zip</path>
@@ -11300,33 +10887,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=359&amp
 		<scrap name="ArcadeDB" date="20230228T085902" />
 	</game>
 	<game>
-		<path>./ROMs (merged)/c2frog.zip</path>
-		<name>Frog Feast (Sega C2 hardware)</name>
-		<crc32>C9A791DC</crc32>
-		<md5>de8e1a88215f558bf85b6616fb9c466d</md5>
-		<scrap name="ScreenScraper" date="20230216T163336" />
-		<scrap name="HfsDB" date="20231115T092857" />
-		<scrap name="ArcadeDB" date="20230218T031052" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/cabalng.zip</path>
-		<name>cabalng</name>
-		<crc32>C81FE95D</crc32>
-		<md5>4c3b68199a2b06cf6988dcc4960d34ab</md5>
-		<scrap name="ScreenScraper" date="20230216T163406" />
-		<scrap name="HfsDB" date="20231115T092857" />
-		<scrap name="ArcadeDB" date="20230218T031052" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/cakefght.zip</path>
-		<name>cakefght</name>
-		<crc32>06D93957</crc32>
-		<md5>aa4d3acfb93cfbf36feb77f84b41163d</md5>
-		<scrap name="ScreenScraper" date="20230216T163410" />
-		<scrap name="HfsDB" date="20231115T092857" />
-		<scrap name="ArcadeDB" date="20230218T031052" />
-	</game>
-	<game>
 		<path>./ROMs (merged)/cameltry.zip</path>
 		<name>Cameltry</name>
 		<desc>There's a kind of knick-knack you may find in dusty games rooms, a maze through which you navigate a marble by subtly tilting the board, dancing with gravity and momentum, deftly rolling your sphere out of dead ends and around the obstacles posed by holes in the board. Marble Madness explores this theme in a fudged 3-D perspective, Cloud Kingdoms in a flat 2-D one -- both by directly influencing the actions of the ball. The game takes a different approach toward a similar end; instead of moving the ball around the board, you move the board around the ball.
@@ -11351,15 +10911,6 @@ That's right; from the get-go, gravity pulls ever down, down, down on your ball 
 		<scrap name="ScreenScraper" date="20230216T163427" />
 		<scrap name="HfsDB" date="20231115T092858" />
 		<scrap name="ArcadeDB" date="20230228T085909" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/caravan.zip</path>
-		<name>Project Neon Caravan Edition (Prealpha 0.4.19)</name>
-		<crc32>2257F0AC</crc32>
-		<md5>aa5557a2942aa93df390f73d23c62854</md5>
-		<scrap name="ScreenScraper" date="20230216T163456" />
-		<scrap name="HfsDB" date="20231115T092858" />
-		<scrap name="ArcadeDB" date="20230218T031052" />
 	</game>
 	<game>
 		<path>./ROMs (merged)/cball.zip</path>
@@ -11499,26 +11050,6 @@ Following the initial arcade release in 1997, a PlayStation version and a Sega S
 		<scrap name="HfsDB" date="20231115T092902" />
 		<scrap name="ArcadeDB" date="20230228T085925" />
 	</game>
-	<game id="109301">
-		<path>./ROMs (merged)/cndi.zip</path>
-		<name>ZZZ(notgame):Demos</name>
-		<desc>Homebrew Demo</desc>
-		<thumbnail>./images/cndi-thumb.png</thumbnail>
-		<boxback>./images/cndi-boxback.png</boxback>
-		<releasedate>20020101T000000</releasedate>
-		<developer>Jeff Kurtz</developer>
-		<publisher>Homebrew</publisher>
-		<genre>Platform</genre>
-		<arcadesystemname>neogeo</arcadesystemname>
-		<hidden>true</hidden>
-		<crc32>E68AEB96</crc32>
-		<md5>d0fb92a36e16edf9b90a25b241ac83c9</md5>
-		<lang>jp</lang>
-		<region>jp</region>
-		<scrap name="ScreenScraper" date="20230216T163716" />
-		<scrap name="HfsDB" date="20231115T092902" />
-		<scrap name="ArcadeDB" date="20230218T031052" />
-	</game>
 	<game id="203852">
 		<path>./ROMs (merged)/columnsn.zip</path>
 		<name>Columns (Neo-Geo)</name>
@@ -11542,32 +11073,6 @@ Following the initial arcade release in 1997, a PlayStation version and a Sega S
 		<scrap name="ScreenScraper" date="20230216T163732" />
 		<scrap name="HfsDB" date="20231115T092902" />
 		<scrap name="ArcadeDB" date="20230228T085925" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/conquest.zip</path>
-		<name>Conquest</name>
-		<desc>Arcade Video game published 40 years ago:
-
-Conquest (c) 1982 Tago Electronics.
-
-Never released.
-
-- CONTRIBUTE -
-
-Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=29875&amp;o=2</desc>
-		<image>./images/conquest-image.png</image>
-		<releasedate>19820101T000000</releasedate>
-		<developer>Williams / Vid Kidz</developer>
-		<publisher>Williams / Vid Kidz</publisher>
-		<genre>Shooter / Field</genre>
-		<players>1</players>
-		<crc32>F81E3D9E</crc32>
-		<md5>6435aaa491872b08c9cc27c24b33ea93</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230216T163802" />
-		<scrap name="HfsDB" date="20231115T092903" />
-		<scrap name="ArcadeDB" date="20230218T031053" />
 	</game>
 	<game>
 		<path>./ROMs (merged)/contcirc.zip</path>
@@ -11617,22 +11122,6 @@ The car has high and low gears, and is susceptible to damage from contact with a
 		<scrap name="HfsDB" date="20231115T092904" />
 		<scrap name="ArcadeDB" date="20230228T085933" />
 	</game>
-	<game id="79304">
-		<path>./ROMs (merged)/cps1demo.zip</path>
-		<name>ZZZ(notgame):Chaos Demo</name>
-		<image>./images/cps1demo-image.png</image>
-		<releasedate>20020101T000000</releasedate>
-		<developer>Chaos</developer>
-		<publisher>Chaos</publisher>
-		<hidden>true</hidden>
-		<crc32>E8B98167</crc32>
-		<md5>1689954f5357aff93e89da81373c5152</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230216T163908" />
-		<scrap name="HfsDB" date="20231115T092904" />
-		<scrap name="ArcadeDB" date="20230218T031053" />
-	</game>
 	<game id="122981">
 		<path>./ROMs (merged)/cps1frog.zip</path>
 		<name>Frog Feast</name>
@@ -11658,15 +11147,6 @@ The game concept is pretty simple: 2 Frogs who have to eat as much insects as po
 		<scrap name="ScreenScraper" date="20230216T163927" />
 		<scrap name="HfsDB" date="20231115T092904" />
 		<scrap name="ArcadeDB" date="20230228T085933" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/crashh.zip</path>
-		<name>Crash (Pac-Man)</name>
-		<crc32>2EA1C220</crc32>
-		<md5>37fde41d5b38899a6db625cb0f8bcdcb</md5>
-		<scrap name="ScreenScraper" date="20230216T163931" />
-		<scrap name="HfsDB" date="20231115T092904" />
-		<scrap name="ArcadeDB" date="20230218T031053" />
 	</game>
 	<game>
 		<path>./ROMs (merged)/crimec.zip</path>
@@ -11744,15 +11224,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=84572&a
 		<scrap name="ScreenScraper" date="20230216T164056" />
 		<scrap name="HfsDB" date="20231115T092906" />
 		<scrap name="ArcadeDB" date="20230228T085942" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/cthd2k3b.zip</path>
-		<name>Crouching Tiger Hidden Dragon 2003 (Hidden Characters Boss V1)</name>
-		<crc32>2605BB0D</crc32>
-		<md5>75dc87484a0942b84f2daac9bdc0f9b8</md5>
-		<scrap name="ScreenScraper" date="20230216T164115" />
-		<scrap name="HfsDB" date="20231115T092906" />
-		<scrap name="ArcadeDB" date="20230218T031053" />
 	</game>
 	<game>
 		<path>./ROMs (merged)/ctomaday.zip</path>
@@ -12055,23 +11526,6 @@ Another unique feature is that it introduced the power zones, which can be utili
 		<scrap name="ArcadeDB" date="20230228T085958" />
 	</game>
 	<game>
-		<path>./ROMs (merged)/dderby.zip</path>
-		<name>Death Derby</name>
-		<crc32>04D6456A</crc32>
-		<md5>b4c758cc8256d0a1b8cf08ce7c2bce53</md5>
-		<scrap name="ScreenScraper" date="20230216T164353" />
-		<scrap name="HfsDB" date="20231115T092959" />
-		<scrap name="ArcadeDB" date="20230218T031053" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/ddpsdoj.zip</path>
-		<name>ddpsdoj</name>
-		<crc32>96A723AF</crc32>
-		<scrap name="ScreenScraper" date="20230216T164423" />
-		<scrap name="HfsDB" date="20231115T092959" />
-		<scrap name="ArcadeDB" date="20230218T031053" />
-	</game>
-	<game>
 		<path>./ROMs (merged)/ddragon2.zip</path>
 		<name>Double Dragon II - The Revenge</name>
 		<desc>Double Dragon II: The Revenge (ダブルドラゴンII ザ・リベンジ Daburu Doragon II: Za Ribenji?) is a side-scrolling beat 'em up produced by Technōs Japan originally released as a coin-operated arcade game in 1988. It is the first sequel to Double Dragon, released during the previous year. The sequel involves Billy and Jimmy Lee in a mission to avenge their girlfriend Marian after she is shot to death by the Black Warriors leader Willy, who is retaliating against the Lee brothers after his defeat at the end of the previous game. Double Dragon II was initially developed as an upgrade kit for the original Double Dragon, but evolved into a stand-alone game due to an increase in memory size, resulting in the developers reusing assets for both games.[1]</desc>
@@ -12093,15 +11547,6 @@ Another unique feature is that it introduced the power zones, which can be utili
 		<scrap name="ScreenScraper" date="20230216T164446" />
 		<scrap name="HfsDB" date="20231115T093047" />
 		<scrap name="ArcadeDB" date="20230228T090004" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/ddsprdmo.zip</path>
-		<name>Double Dragon SpritePool demo</name>
-		<crc32>CB34321C</crc32>
-		<md5>0203afeb5ebe8722472d53e1a5989869</md5>
-		<scrap name="ScreenScraper" date="20230216T164512" />
-		<scrap name="HfsDB" date="20231115T093001" />
-		<scrap name="ArcadeDB" date="20230218T031054" />
 	</game>
 	<game>
 		<path>./ROMs (merged)/deadconx.zip</path>
@@ -12155,27 +11600,6 @@ It features a group of detectives who set out to fight a crime family. The game 
 		<scrap name="ArcadeDB" date="20230228T090019" />
 	</game>
 	<game>
-		<path>./ROMs (merged)/decomult.zip</path>
-		<name>DECO Cassette System ROM Multigame</name>
-		<image>./images/decomult-image.png</image>
-		<video>./videos/decomult-video.mp4</video>
-		<thumbnail>./images/decomult-thumb.png</thumbnail>
-		<boxback>./images/decomult-boxback.png</boxback>
-		<releasedate>20080101T000000</releasedate>
-		<developer>bootleg (David Widel)</developer>
-		<publisher>bootleg (David Widel)</publisher>
-		<genre>MultiGame / Compilation</genre>
-		<players>2</players>
-		<hidden>true</hidden>
-		<crc32>011F241B</crc32>
-		<md5>97d1031057db864f9674baa59a47d49d</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230216T164645" />
-		<scrap name="HfsDB" date="20231115T093003" />
-		<scrap name="ArcadeDB" date="20230218T031054" />
-	</game>
-	<game>
 		<path>./ROMs (merged)/defender.zip</path>
 		<name>Defender</name>
 		<desc>You must defend the Earth from an extraterrestrial invasion. Destroy the many types of enemy ships descending from the sky before they reach humans and turn them into mutants.</desc>
@@ -12219,15 +11643,6 @@ It features a group of detectives who set out to fight a crime family. The game 
 		<scrap name="ScreenScraper" date="20230216T164730" />
 		<scrap name="HfsDB" date="20231115T093047" />
 		<scrap name="ArcadeDB" date="20230228T090025" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/didemo.zip</path>
-		<name>DatImage demo</name>
-		<crc32>C35D786E</crc32>
-		<md5>ccbac8f78174b25c457beb91227679d4</md5>
-		<scrap name="ScreenScraper" date="20230216T164734" />
-		<scrap name="HfsDB" date="20231115T093004" />
-		<scrap name="ArcadeDB" date="20230218T031054" />
 	</game>
 	<game>
 		<path>./ROMs (merged)/diggerma.zip</path>
@@ -12593,15 +12008,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=677&amp
 		<scrap name="ArcadeDB" date="20230228T090056" />
 	</game>
 	<game>
-		<path>./ROMs (merged)/dragons1.zip</path>
-		<name>Dragon's Heaven</name>
-		<crc32>7A074806</crc32>
-		<md5>ef28de7f8606a9d65ea0afe73845b581</md5>
-		<scrap name="ScreenScraper" date="20230216T165018" />
-		<scrap name="HfsDB" date="20231115T093010" />
-		<scrap name="ArcadeDB" date="20230218T031054" />
-	</game>
-	<game>
 		<path>./ROMs (merged)/dragoona.zip</path>
 		<name>Dragoon Might</name>
 		<desc>Dragoon Might features two distinct game modes. A single match mode in which the player must defeat their opponents in round-based matches, and a team match mode similar to The King of Fighters series in which two teams of three members must battle each other until the members of one team are all defeated.</desc>
@@ -12700,22 +12106,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=3097&am
 		<scrap name="ArcadeDB" date="20230228T090106" />
 	</game>
 	<game>
-		<path>./ROMs (merged)/ds1001.zip</path>
-		<name>Yamaha DS1001 / Konami 053982</name>
-		<image>./images/ds1001-image.png</image>
-		<releasedate>19691231T190000</releasedate>
-		<genre>System / Device</genre>
-		<players>0</players>
-		<hidden>true</hidden>
-		<crc32>5D3DAD10</crc32>
-		<md5>3f7c70a44c4496240a13f0d8ddf9b178</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230216T165121" />
-		<scrap name="HfsDB" date="20231115T093012" />
-		<scrap name="ArcadeDB" date="20230218T031054" />
-	</game>
-	<game>
 		<path>./ROMs (merged)/dstlk.zip</path>
 		<name>Darkstalkers: The Night Warriors</name>
 		<desc>Capcom CPS-II cart. published 28 years ago:
@@ -12800,35 +12190,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=595&amp
 		<scrap name="ScreenScraper" date="20230216T165155" />
 		<scrap name="HfsDB" date="20231115T093052" />
 		<scrap name="ArcadeDB" date="20230228T090112" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/dti.zip</path>
-		<name>Duck Tales (Intro demo v1)</name>
-		<crc32>EFB5A6D3</crc32>
-		<md5>8ad080f31a282853bf22f4c83b846302</md5>
-		<scrap name="ScreenScraper" date="20230216T165159" />
-		<scrap name="HfsDB" date="20231115T093053" />
-		<scrap name="ArcadeDB" date="20230218T031054" />
-	</game>
-	<game id="109301">
-		<path>./ROMs (merged)/dwi.zip</path>
-		<name>ZZZ(notgame):Demos</name>
-		<desc>Homebrew Demo</desc>
-		<thumbnail>./images/dwi-thumb.png</thumbnail>
-		<boxback>./images/dwi-boxback.png</boxback>
-		<releasedate>20020101T000000</releasedate>
-		<developer>Jeff Kurtz</developer>
-		<publisher>Homebrew</publisher>
-		<genre>Platform</genre>
-		<arcadesystemname>neogeo</arcadesystemname>
-		<hidden>true</hidden>
-		<crc32>0D25C8D3</crc32>
-		<md5>82e2d9c1a2043f7439f20a3948beac17</md5>
-		<lang>jp</lang>
-		<region>jp</region>
-		<scrap name="ScreenScraper" date="20230216T165208" />
-		<scrap name="HfsDB" date="20231115T093053" />
-		<scrap name="ArcadeDB" date="20230218T031055" />
 	</game>
 	<game>
 		<path>./ROMs (merged)/eightman.zip</path>
@@ -13034,24 +12395,6 @@ As the game progresses, more computer eyes are added to levels and they take les
 		<scrap name="ArcadeDB" date="20230228T090139" />
 	</game>
 	<game>
-		<path>./ROMs (merged)/f2demo.zip</path>
-		<name>Demo - Taito F2</name>
-		<crc32>7CCC9CF2</crc32>
-		<md5>2fac817d1f62b216f9102ffa34e3a520</md5>
-		<scrap name="ScreenScraper" date="20230216T165447" />
-		<scrap name="HfsDB" date="20231115T093101" />
-		<scrap name="ArcadeDB" date="20230218T031055" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/fantzone01.zip</path>
-		<name>fantzone01</name>
-		<crc32>1176F3E8</crc32>
-		<md5>6519d9eb4e332f0d7c02ab3590c9f7a5</md5>
-		<scrap name="ScreenScraper" date="20230216T165451" />
-		<scrap name="HfsDB" date="20231115T093101" />
-		<scrap name="ArcadeDB" date="20230218T031055" />
-	</game>
-	<game>
 		<path>./ROMs (merged)/fbfrenzy.zip</path>
 		<name>Football Frenzy</name>
 		<desc>SNK Neo-Geo MVS cart. published 30 years ago:
@@ -13113,15 +12456,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=869&amp
 		<scrap name="ArcadeDB" date="20230228T090156" />
 	</game>
 	<game>
-		<path>./ROMs (merged)/ffeast.zip</path>
-		<name>Frog Feast (NeoGeo)</name>
-		<crc32>BB219985</crc32>
-		<md5>b1ed24c59f1bf5e6df8ae146ec89cb69</md5>
-		<scrap name="ScreenScraper" date="20230216T165853" />
-		<scrap name="HfsDB" date="20231115T093103" />
-		<scrap name="ArcadeDB" date="20230218T031055" />
-	</game>
-	<game>
 		<path>./ROMs (merged)/ffight.zip</path>
 		<name>Final Fight</name>
 		<desc>Choosing one of three fighters, Cody, Guy or Mayor Mike Haggar, you make your way through the streets of Metro City battling the forces of the street gang MAD GEAR in order to rescue Cody's girlfriend Jessica the daughter of the mayor from Belger, the evil leader of the gang.
@@ -13149,15 +12483,6 @@ Final Fight consists of six stages or "rounds", as well as two bonus rounds. Eac
 		<scrap name="ScreenScraper" date="20230216T165913" />
 		<scrap name="HfsDB" date="20231115T093104" />
 		<scrap name="ArcadeDB" date="20230228T090157" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/ffightaec2.zip</path>
-		<name>ffightaec2</name>
-		<crc32>82702E38</crc32>
-		<md5>03341cf1635cf98b4c5f58bba83f4ddd</md5>
-		<scrap name="ScreenScraper" date="20230216T165918" />
-		<scrap name="HfsDB" date="20231115T093104" />
-		<scrap name="ArcadeDB" date="20230218T031055" />
 	</game>
 	<game>
 		<path>./ROMs (merged)/fghthist.zip</path>
@@ -13367,41 +12692,6 @@ Forgotten Worlds can be played by up to two players simultaneously. The player c
 		<lang>en</lang>
 		<region>wr</region>
 		<scrap name="ScreenScraper" date="20230216T170121" />
-		<scrap name="HfsDB" date="20231115T093109" />
-		<scrap name="ArcadeDB" date="20230218T031056" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/fourplay.zip</path>
-		<name>Four Play</name>
-		<desc>Arcade Video game published 20 years ago:
-
-Four Play (c) 2002 Macro.
-
-Unlicensed compilation of games running on a Galaxian-derived hardware.
-
-- CONTRIBUTE -
-
-Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=145516&amp;o=2</desc>
-		<image>./images/fourplay-image.png</image>
-		<releasedate>20020101T000000</releasedate>
-		<developer>Macro</developer>
-		<publisher>Macro</publisher>
-		<genre>MultiGame / Compilation</genre>
-		<players>2</players>
-		<crc32>8A1A7130</crc32>
-		<md5>4568edebd201eb6919599cd91755fc12</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230216T170126" />
-		<scrap name="HfsDB" date="20231115T093109" />
-		<scrap name="ArcadeDB" date="20230218T031056" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/fr2.zip</path>
-		<name>Idol Mahjong Final Romance 2</name>
-		<crc32>FD1433AD</crc32>
-		<md5>014dd0611237a0d7d1149e26199fc5cb</md5>
-		<scrap name="ScreenScraper" date="20230216T170130" />
 		<scrap name="HfsDB" date="20231115T093109" />
 		<scrap name="ArcadeDB" date="20230218T031056" />
 	</game>
@@ -14002,15 +13292,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=1704&am
 		<scrap name="ArcadeDB" date="20230228T091127" />
 	</game>
 	<game>
-		<path>./ROMs (merged)/garoupy.zip</path>
-		<name>Garou - Mark of the Wolves (P1 Add Char)</name>
-		<crc32>3F354F8A</crc32>
-		<md5>16ea8dcce51d6bf98bf489d43c25cce8</md5>
-		<scrap name="ScreenScraper" date="20230216T170614" />
-		<scrap name="HfsDB" date="20231115T093156" />
-		<scrap name="ArcadeDB" date="20230218T031057" />
-	</game>
-	<game>
 		<path>./ROMs (merged)/gaunt2.zip</path>
 		<name>Gauntlet II</name>
 		<image>./images/gaunt2-image.png</image>
@@ -14054,15 +13335,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=1704&am
 		<scrap name="ScreenScraper" date="20230216T170654" />
 		<scrap name="HfsDB" date="20231115T093158" />
 		<scrap name="ArcadeDB" date="20230228T091138" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/gbi.zip</path>
-		<name>GhostBusters (Intro demo)</name>
-		<crc32>FC5F5E00</crc32>
-		<md5>70af184c50c0c925884b5f282d612602</md5>
-		<scrap name="ScreenScraper" date="20230216T170658" />
-		<scrap name="HfsDB" date="20231115T093158" />
-		<scrap name="ArcadeDB" date="20230218T031057" />
 	</game>
 	<game>
 		<path>./ROMs (merged)/gekiridn.zip</path>
@@ -14182,15 +13454,6 @@ Giga Wing takes place during a fictional war within a steampunk setting. The pla
 		<scrap name="ScreenScraper" date="20230216T170908" />
 		<scrap name="HfsDB" date="20231115T093205" />
 		<scrap name="ArcadeDB" date="20230228T091158" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/gnw_bride.zip</path>
-		<name>Game &amp;amp; Watch: Bride</name>
-		<crc32>5046541C</crc32>
-		<md5>b1ddf5afb98d57e34be37cf8ae3e709e</md5>
-		<scrap name="ScreenScraper" date="20230216T170913" />
-		<scrap name="HfsDB" date="20231115T093205" />
-		<scrap name="ArcadeDB" date="20230218T031057" />
 	</game>
 	<game>
 		<path>./ROMs (merged)/goalx3.zip</path>
@@ -14419,15 +13682,6 @@ Gun Frontier was ported to the Sega Saturn in 1997 and was later included in the
 		<scrap name="ArcadeDB" date="20230228T091227" />
 	</game>
 	<game>
-		<path>./ROMs (merged)/gxg.zip</path>
-		<name>gxg</name>
-		<crc32>5B988F1A</crc32>
-		<md5>898a656908170e4a2ba1e0e6b4c4097d</md5>
-		<scrap name="ScreenScraper" date="20230216T171257" />
-		<scrap name="HfsDB" date="20231115T093214" />
-		<scrap name="ArcadeDB" date="20230218T031057" />
-	</game>
-	<game>
 		<path>./ROMs (merged)/gyruss.zip</path>
 		<name>Gyruss</name>
 		<desc>Gyruss is a shoot 'em up video arcade game developed by Konami, and released in 1983. 
@@ -14508,15 +13762,6 @@ R.Hirst "KOO", M.Jones, "BOX" and the Elliott Brother's are arguably considered 
 		<scrap name="ScreenScraper" date="20230216T171411" />
 		<scrap name="HfsDB" date="20231115T093217" />
 		<scrap name="ArcadeDB" date="20230228T091236" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/hypernoid.zip</path>
-		<name>hypernoid</name>
-		<crc32>68493BEC</crc32>
-		<md5>a3e259d928324bc3d9d77cf28edf7855</md5>
-		<scrap name="ScreenScraper" date="20230216T171415" />
-		<scrap name="HfsDB" date="20231115T093217" />
-		<scrap name="ArcadeDB" date="20230218T031057" />
 	</game>
 	<game>
 		<path>./ROMs (merged)/hyperspt.zip</path>
@@ -14639,15 +13884,6 @@ The player controls an insect-sized warrior named "Kai", who takes on a vast arm
 		<scrap name="ArcadeDB" date="20230228T091255" />
 	</game>
 	<game>
-		<path>./ROMs (merged)/iocero.zip</path>
-		<name>Primo Demo</name>
-		<crc32>FF488057</crc32>
-		<md5>3c95fb7949ef966fc0c61f57d651ffe8</md5>
-		<scrap name="ScreenScraper" date="20230216T171711" />
-		<scrap name="HfsDB" date="20231115T093256" />
-		<scrap name="ArcadeDB" date="20230218T031057" />
-	</game>
-	<game>
 		<path>./ROMs (merged)/ironclad.zip</path>
 		<name>Choutetsu Brikin'ger / Iron Clad</name>
 		<desc>SNK Neo-Geo MVS cart. published 26 years ago:
@@ -14717,15 +13953,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=4234&am
 		<scrap name="ArcadeDB" date="20230228T091257" />
 	</game>
 	<game>
-		<path>./ROMs (merged)/itecdemo.zip</path>
-		<name>Demo - Itec</name>
-		<crc32>A332E0D7</crc32>
-		<md5>55496ee3f95275c5100eb919132da173</md5>
-		<scrap name="ScreenScraper" date="20230216T171735" />
-		<scrap name="HfsDB" date="20231115T093257" />
-		<scrap name="ArcadeDB" date="20230218T031058" />
-	</game>
-	<game>
 		<path>./ROMs (merged)/jockeygp.zip</path>
 		<name>Jockey Grand Prix</name>
 		<desc>SNK Neo-Geo MVS cart. published 21 years ago:
@@ -14768,23 +13995,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=3884&am
 		<scrap name="ScreenScraper" date="20230216T171755" />
 		<scrap name="HfsDB" date="20231115T093258" />
 		<scrap name="ArcadeDB" date="20230228T091259" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/jojobanc.zip</path>
-		<name>JoJo no Kimyou na Bouken: Mirai e no Isan (Japan 990927, NO CD)</name>
-		<crc32>01E47FEB</crc32>
-		<scrap name="ScreenScraper" date="20230216T171758" />
-		<scrap name="HfsDB" date="20231115T093258" />
-		<scrap name="ArcadeDB" date="20230218T031058" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/jojonc.zip</path>
-		<name>JoJo's Venture (Asia 990128, NO CD)</name>
-		<crc32>9B6722B4</crc32>
-		<md5>7c23289d5fd6e3c6c8248456d1b48a6a</md5>
-		<scrap name="ScreenScraper" date="20230216T171807" />
-		<scrap name="HfsDB" date="20231115T093258" />
-		<scrap name="ArcadeDB" date="20230218T031058" />
 	</game>
 	<game>
 		<path>./ROMs (merged)/joyjoy.zip</path>
@@ -14877,15 +14087,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=2089&am
 		<scrap name="ScreenScraper" date="20230216T171851" />
 		<scrap name="HfsDB" date="20231115T093301" />
 		<scrap name="ArcadeDB" date="20230228T091304" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/jumpbugx.zip</path>
-		<name>Jump Bug (Extra Sounds)</name>
-		<crc32>C5CF9B2D</crc32>
-		<md5>e51f2a30630923412b6631277cb5f835</md5>
-		<scrap name="ScreenScraper" date="20230216T171855" />
-		<scrap name="HfsDB" date="20231115T093301" />
-		<scrap name="ArcadeDB" date="20230218T031058" />
 	</game>
 	<game>
 		<path>./ROMs (merged)/kabukikl.zip</path>
@@ -15006,15 +14207,6 @@ Another unique feature is that it introduced the power zones, which can be utili
 		<scrap name="ScreenScraper" date="20230216T171940" />
 		<scrap name="HfsDB" date="20231115T093303" />
 		<scrap name="ArcadeDB" date="20230228T091310" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/kangaroh.zip</path>
-		<name>Kagaroo (Qbertish) (incomplete)</name>
-		<crc32>DE478596</crc32>
-		<md5>3ca58370ce937079b2f6e35f99852ee2</md5>
-		<scrap name="ScreenScraper" date="20230216T171944" />
-		<scrap name="HfsDB" date="20231115T093304" />
-		<scrap name="ArcadeDB" date="20230218T031058" />
 	</game>
 	<game>
 		<path>./ROMs (merged)/karatblz.zip</path>
@@ -15345,15 +14537,6 @@ You play Lee, who has become trapped in the Temple by the Triads, and must escap
 		<scrap name="ScreenScraper" date="20230216T172328" />
 		<scrap name="HfsDB" date="20231115T093310" />
 		<scrap name="ArcadeDB" date="20230228T091337" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/knacki.zip</path>
-		<name>KnackiBalls</name>
-		<crc32>84A5B7F1</crc32>
-		<md5>98aadf7425c2af8dd251cac03a27d651</md5>
-		<scrap name="ScreenScraper" date="20230216T172406" />
-		<scrap name="HfsDB" date="20231115T093311" />
-		<scrap name="ArcadeDB" date="20230218T031058" />
 	</game>
 	<game>
 		<path>./ROMs (merged)/knckhead.zip</path>
@@ -16833,15 +16016,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=1290&am
 		<scrap name="ArcadeDB" date="20230228T091419" />
 	</game>
 	<game>
-		<path>./ROMs (merged)/kof99hp.zip</path>
-		<name>Kof'99 (2 Add Char set 2)</name>
-		<crc32>CDC3AFFB</crc32>
-		<md5>d1bdc3e326974e88fadced0f2a87eca4</md5>
-		<scrap name="ScreenScraper" date="20230216T173007" />
-		<scrap name="HfsDB" date="20231115T093400" />
-		<scrap name="ArcadeDB" date="20230218T031058" />
-	</game>
-	<game>
 		<path>./ROMs (merged)/kotm.zip</path>
 		<name>King of the Monsters</name>
 		<desc>SNK Neo-Geo MVS cart. published 31 years ago:
@@ -17151,24 +16325,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=40073&a
 		<scrap name="ArcadeDB" date="20230228T091445" />
 	</game>
 	<game>
-		<path>./ROMs (merged)/lazybug.zip</path>
-		<name>Lazy Bug</name>
-		<crc32>9929AE7F</crc32>
-		<md5>baba6f61255e16fd3560d31f0d9c2f76</md5>
-		<scrap name="ScreenScraper" date="20230216T173503" />
-		<scrap name="HfsDB" date="20231115T093405" />
-		<scrap name="ArcadeDB" date="20230218T031059" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/lernit.zip</path>
-		<name>Team Lernit</name>
-		<crc32>F2903110</crc32>
-		<md5>571713295ac85bcea64cce4e180c772d</md5>
-		<scrap name="ScreenScraper" date="20230216T173535" />
-		<scrap name="HfsDB" date="20231115T093406" />
-		<scrap name="ArcadeDB" date="20230218T031059" />
-	</game>
-	<game>
 		<path>./ROMs (merged)/lhb2.zip</path>
 		<name>Long Hu Bang II</name>
 		<image>./images/lhb2-image.png</image>
@@ -17337,33 +16493,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=1395&am
 		<scrap name="ScreenScraper" date="20230216T173659" />
 		<scrap name="HfsDB" date="20231115T093409" />
 		<scrap name="ArcadeDB" date="20230228T091458" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/looptris.zip</path>
-		<name>looptris</name>
-		<crc32>D6AA1385</crc32>
-		<md5>24b95a83018f0a4288d2f32a3352859d</md5>
-		<scrap name="ScreenScraper" date="20230216T173703" />
-		<scrap name="HfsDB" date="20231115T093409" />
-		<scrap name="ArcadeDB" date="20230218T031059" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/ltorb.zip</path>
-		<name>Jonas Indiana and The Lost Temple of RA (beta - 20050717)</name>
-		<crc32>4A6FF385</crc32>
-		<md5>266345dc1b200956cedff9d8f16698d7</md5>
-		<scrap name="ScreenScraper" date="20230216T173751" />
-		<scrap name="HfsDB" date="20231115T093409" />
-		<scrap name="ArcadeDB" date="20230218T031059" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/madpac.zip</path>
-		<name>Mad Pac [h]</name>
-		<crc32>543780A5</crc32>
-		<md5>ea0190c95d508c0cc127139f69b18ae0</md5>
-		<scrap name="ScreenScraper" date="20230216T173756" />
-		<scrap name="HfsDB" date="20231115T093410" />
-		<scrap name="ArcadeDB" date="20230218T031059" />
 	</game>
 	<game>
 		<path>./ROMs (merged)/mappy.zip</path>
@@ -17857,15 +16986,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=1634&am
 		<scrap name="ArcadeDB" date="20230228T091552" />
 	</game>
 	<game>
-		<path>./ROMs (merged)/mineswp.zip</path>
-		<name>Mine Sweeper [h]</name>
-		<crc32>0155D244</crc32>
-		<md5>dd178bc0e47405926a57f3fe1a3b43c1</md5>
-		<scrap name="ScreenScraper" date="20230216T174447" />
-		<scrap name="HfsDB" date="20231115T093503" />
-		<scrap name="ArcadeDB" date="20230218T031059" />
-	</game>
-	<game>
 		<path>./ROMs (merged)/missile.zip</path>
 		<name>Missile Command</name>
 		<image>./images/missile-image.png</image>
@@ -17888,15 +17008,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=1634&am
 		<scrap name="ArcadeDB" date="20230228T091556" />
 	</game>
 	<game>
-		<path>./ROMs (merged)/mitcdemo.zip</path>
-		<name>Demo - Mitchell</name>
-		<crc32>0F1BC6E0</crc32>
-		<md5>d2cb94c8b27b150326a3f46fcc0ded28</md5>
-		<scrap name="ScreenScraper" date="20230216T174511" />
-		<scrap name="HfsDB" date="20231115T093506" />
-		<scrap name="ArcadeDB" date="20230218T031059" />
-	</game>
-	<game>
 		<path>./ROMs (merged)/mjdchuka.zip</path>
 		<name>Mahjong The Dai Chuuka Ken</name>
 		<image>./images/mjdchuka-image.png</image>
@@ -17914,60 +17025,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=1634&am
 		<scrap name="ScreenScraper" date="20230216T174525" />
 		<scrap name="HfsDB" date="20231115T093507" />
 		<scrap name="ArcadeDB" date="20230218T031059" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/mjelctrn.zip</path>
-		<name>Mahjong Electron Base</name>
-		<image>./images/mjelctrn-image.png</image>
-		<video>./videos/mjelctrn-video.mp4</video>
-		<thumbnail>./images/mjelctrn-thumb.png</thumbnail>
-		<boxback>./images/mjelctrn-boxback.png</boxback>
-		<releasedate>19930101T000000</releasedate>
-		<genre>Reflexion</genre>
-		<players>1</players>
-		<crc32>874E3177</crc32>
-		<md5>15a800055fa133cdbcbc07507bdff1b0</md5>
-		<lang>jp</lang>
-		<region>jp</region>
-		<scrap name="ScreenScraper" date="20230216T174541" />
-		<scrap name="HfsDB" date="20231115T093507" />
-		<scrap name="ArcadeDB" date="20230218T031100" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/mjmyster.zip</path>
-		<name>Mahjong The Mysterious World</name>
-		<image>./images/mjmyster-image.png</image>
-		<video>./videos/mjmyster-video.mp4</video>
-		<thumbnail>./images/mjmyster-thumb.png</thumbnail>
-		<boxback>./images/mjmyster-boxback.png</boxback>
-		<releasedate>19940101T000000</releasedate>
-		<genre>Reflexion</genre>
-		<players>1</players>
-		<crc32>D64CE756</crc32>
-		<md5>d91c57c6fe20f27c71d11437e0fd25bf</md5>
-		<lang>jp</lang>
-		<region>jp</region>
-		<scrap name="ScreenScraper" date="20230216T174554" />
-		<scrap name="HfsDB" date="20231115T093507" />
-		<scrap name="ArcadeDB" date="20230218T031100" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/mjreach1.zip</path>
-		<name>Mahjong Reach Ippatsu</name>
-		<image>./images/mjreach1-image.png</image>
-		<video>./videos/mjreach1-video.mp4</video>
-		<thumbnail>./images/mjreach1-thumb.png</thumbnail>
-		<boxback>./images/mjreach1-boxback.png</boxback>
-		<releasedate>19980101T000000</releasedate>
-		<genre>Reflexion</genre>
-		<players>1</players>
-		<crc32>D2D6006F</crc32>
-		<md5>ef5cbb2311f183285da9500dcb2be503</md5>
-		<lang>jp</lang>
-		<region>jp</region>
-		<scrap name="ScreenScraper" date="20230216T174609" />
-		<scrap name="HfsDB" date="20231115T093508" />
-		<scrap name="ArcadeDB" date="20230218T031100" />
 	</game>
 	<game>
 		<path>./ROMs (merged)/mk.zip</path>
@@ -18799,15 +17856,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=1675&am
 		<scrap name="ArcadeDB" date="20230228T091609" />
 	</game>
 	<game>
-		<path>./ROMs (merged)/monaco.zip</path>
-		<name>Monaco GP</name>
-		<crc32>65E0C022</crc32>
-		<md5>7fae6bfc0fe17f7961f81eb603d64b49</md5>
-		<scrap name="ScreenScraper" date="20230216T174742" />
-		<scrap name="HfsDB" date="20231115T093515" />
-		<scrap name="ArcadeDB" date="20230218T031100" />
-	</game>
-	<game>
 		<path>./ROMs (merged)/mooncrst.zip</path>
 		<name>Moon Cresta</name>
 		<image>./images/mooncrst-image.png</image>
@@ -18909,15 +17957,6 @@ The game offers either joystick or keyboard control (and fair warning: the keybo
 		<scrap name="ScreenScraper" date="20230216T174859" />
 		<scrap name="HfsDB" date="20231115T093518" />
 		<scrap name="ArcadeDB" date="20230228T091618" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/mrdonm.zip</path>
-		<name>Mr. Do Nightmare</name>
-		<crc32>709EAEB3</crc32>
-		<md5>cfd70d3ca581b9fa11ccaef7c664ad9a</md5>
-		<scrap name="ScreenScraper" date="20230216T174903" />
-		<scrap name="HfsDB" date="20231115T093518" />
-		<scrap name="ArcadeDB" date="20230218T031100" />
 	</game>
 	<game>
 		<path>./ROMs (merged)/mrkougar.zip</path>
@@ -19519,15 +18558,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=1617&am
 		<scrap name="ArcadeDB" date="20230228T091648" />
 	</game>
 	<game>
-		<path>./ROMs (merged)/mslug5ast.zip</path>
-		<name>mslug5ast</name>
-		<crc32>0852DBB9</crc32>
-		<md5>7911407e06537c672c8a2fb58e32cddf</md5>
-		<scrap name="ScreenScraper" date="20230216T175333" />
-		<scrap name="HfsDB" date="20231115T093559" />
-		<scrap name="ArcadeDB" date="20230218T031100" />
-	</game>
-	<game>
 		<path>./ROMs (merged)/mslug6.zip</path>
 		<name>Metal Slug 6</name>
 		<desc>Arcade Video game published 16 years ago:
@@ -19726,15 +18756,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=1618&am
 		<scrap name="ArcadeDB" date="20230228T091655" />
 	</game>
 	<game>
-		<path>./ROMs (merged)/mspacmnx.zip</path>
-		<name>Ms. Pac-Man (hires hack)</name>
-		<crc32>DE6AD51C</crc32>
-		<md5>f76f4ae6016667de19fe85b36ae6e8d2</md5>
-		<scrap name="ScreenScraper" date="20230216T175451" />
-		<scrap name="HfsDB" date="20231115T093602" />
-		<scrap name="ArcadeDB" date="20230218T031100" />
-	</game>
-	<game>
 		<path>./ROMs (merged)/mtlchamp.zip</path>
 		<name>Martial Champion</name>
 		<image>./images/mtlchamp-image.png</image>
@@ -19754,24 +18775,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=1618&am
 		<scrap name="ScreenScraper" date="20230216T175509" />
 		<scrap name="HfsDB" date="20231115T093603" />
 		<scrap name="ArcadeDB" date="20230228T091659" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/mtturbo.zip</path>
-		<name>Make Trax (Turbo Hack)</name>
-		<crc32>BA9B88C9</crc32>
-		<md5>e206878278733e36ecb55605f08f3dc6</md5>
-		<scrap name="ScreenScraper" date="20230216T175513" />
-		<scrap name="HfsDB" date="20231115T093603" />
-		<scrap name="ArcadeDB" date="20230218T031100" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/multi15.zip</path>
-		<name>Multipac 1.5</name>
-		<crc32>C09D3FF1</crc32>
-		<md5>3125fd0f2d7495f74e3c9506524c46a9</md5>
-		<scrap name="ScreenScraper" date="20230216T175517" />
-		<scrap name="HfsDB" date="20231115T093603" />
-		<scrap name="ArcadeDB" date="20230218T031101" />
 	</game>
 	<game>
 		<path>./ROMs (merged)/mutantf.zip</path>
@@ -19942,18 +18945,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=1711&am
 		<scrap name="HfsDB" date="20231115T093608" />
 		<scrap name="ArcadeDB" date="20230228T091720" />
 	</game>
-	<game id="360118">
-		<path>./ROMs (merged)/nblktiger.zip</path>
-		<name>ZZZ(notgame):Neo Black Tiger</name>
-		<hidden>true</hidden>
-		<crc32>47390C66</crc32>
-		<md5>7a06ec3125ec28bfe54254ac8546c3d8</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230216T175810" />
-		<scrap name="HfsDB" date="20231115T093608" />
-		<scrap name="ArcadeDB" date="20230218T031101" />
-	</game>
 	<game>
 		<path>./ROMs (merged)/ncombat.zip</path>
 		<name>Ninja Combat</name>
@@ -20108,44 +19099,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=1779&am
 		<scrap name="ArcadeDB" date="20230228T091726" />
 	</game>
 	<game>
-		<path>./ROMs (merged)/ndo_a_td.zip</path>
-		<name>ndo_a_td</name>
-		<crc32>6880C2A7</crc32>
-		<md5>452af2f9d127f13b0ddae3be44ef49a2</md5>
-		<scrap name="ScreenScraper" date="20230216T175901" />
-		<scrap name="HfsDB" date="20231115T093610" />
-		<scrap name="ArcadeDB" date="20230218T031101" />
-	</game>
-	<game id="109301">
-		<path>./ROMs (merged)/neo2500.zip</path>
-		<name>ZZZ(notgame):Demos</name>
-		<desc>Homebrew Demo</desc>
-		<thumbnail>./images/neo2500-thumb.png</thumbnail>
-		<boxback>./images/neo2500-boxback.png</boxback>
-		<releasedate>20020101T000000</releasedate>
-		<developer>Jeff Kurtz</developer>
-		<publisher>Homebrew</publisher>
-		<genre>Platform</genre>
-		<arcadesystemname>neogeo</arcadesystemname>
-		<hidden>true</hidden>
-		<crc32>3BBB35BA</crc32>
-		<md5>3116240415b8f1d41ab80b072ff42811</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230216T175909" />
-		<scrap name="HfsDB" date="20231115T093610" />
-		<scrap name="ArcadeDB" date="20230218T031101" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/neo3d.zip</path>
-		<name>Neo 3D Demo</name>
-		<crc32>9C6FEC54</crc32>
-		<md5>a726e12a994279a8a7ea6e6fcaef2083</md5>
-		<scrap name="ScreenScraper" date="20230216T175913" />
-		<scrap name="HfsDB" date="20231115T093611" />
-		<scrap name="ArcadeDB" date="20230218T031101" />
-	</game>
-	<game>
 		<path>./ROMs (merged)/neobombe.zip</path>
 		<name>Neo Bomberman</name>
 		<desc>SNK Neo-Geo MVS cart. published 25 years ago:
@@ -20214,26 +19167,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=1745&am
 		<scrap name="ScreenScraper" date="20230216T175938" />
 		<scrap name="HfsDB" date="20231115T093611" />
 		<scrap name="ArcadeDB" date="20230228T091729" />
-	</game>
-	<game id="109301">
-		<path>./ROMs (merged)/neocstlv.zip</path>
-		<name>ZZZ(notgame):Demos</name>
-		<desc>Homebrew Demo</desc>
-		<thumbnail>./images/neocstlv-thumb.png</thumbnail>
-		<boxback>./images/neocstlv-boxback.png</boxback>
-		<releasedate>20020101T000000</releasedate>
-		<developer>Jeff Kurtz</developer>
-		<publisher>Homebrew</publisher>
-		<genre>Platform</genre>
-		<arcadesystemname>neogeo</arcadesystemname>
-		<hidden>true</hidden>
-		<crc32>27F50F7D</crc32>
-		<md5>740a9d44df0a2f17c0e524e4feb7b196</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230216T175947" />
-		<scrap name="HfsDB" date="20231115T093612" />
-		<scrap name="ArcadeDB" date="20230218T031101" />
 	</game>
 	<game>
 		<path>./ROMs (merged)/neocup98.zip</path>
@@ -20315,26 +19248,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=1749&am
 		<scrap name="HfsDB" date="20231115T093613" />
 		<scrap name="ArcadeDB" date="20230228T091735" />
 	</game>
-	<game id="109301">
-		<path>./ROMs (merged)/neodemo.zip</path>
-		<name>ZZZ(notgame):Demos</name>
-		<desc>Homebrew Demo</desc>
-		<thumbnail>./images/neodemo-thumb.png</thumbnail>
-		<boxback>./images/neodemo-boxback.png</boxback>
-		<releasedate>20020101T000000</releasedate>
-		<developer>Jeff Kurtz</developer>
-		<publisher>Homebrew</publisher>
-		<genre>Platform</genre>
-		<arcadesystemname>neogeo</arcadesystemname>
-		<hidden>true</hidden>
-		<crc32>5BFA1DD5</crc32>
-		<md5>a15555e8f35f06fcd57529f548be5e5d</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230216T180022" />
-		<scrap name="HfsDB" date="20231115T093613" />
-		<scrap name="ArcadeDB" date="20230218T031101" />
-	</game>
 	<game>
 		<path>./ROMs (merged)/neodrift.zip</path>
 		<name>Neo Drift Out - New Technology</name>
@@ -20411,24 +19324,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=1746&am
 		<scrap name="HfsDB" date="20231115T093614" />
 		<scrap name="ArcadeDB" date="20230228T091739" />
 	</game>
-	<game>
-		<path>./ROMs (merged)/neofight.zip</path>
-		<name>Neo Fight</name>
-		<crc32>C28364E5</crc32>
-		<md5>dd4111754bce7b76d06f391fd55adb12</md5>
-		<scrap name="ScreenScraper" date="20230216T180052" />
-		<scrap name="HfsDB" date="20231115T093614" />
-		<scrap name="ArcadeDB" date="20230218T031101" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/neogal1.zip</path>
-		<name>Neo Geo Galaga Demo R001</name>
-		<crc32>4D6B9851</crc32>
-		<md5>2044d38858e969499d8a295794a86c76</md5>
-		<scrap name="ScreenScraper" date="20230216T180055" />
-		<scrap name="HfsDB" date="20231115T093614" />
-		<scrap name="ArcadeDB" date="20230218T031102" />
-	</game>
 	<game id="108996">
 		<path>./ROMs (merged)/neonopon.zip</path>
 		<name>Neo No Panepon</name>
@@ -20453,15 +19348,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=1746&am
 		<scrap name="ScreenScraper" date="20230216T180111" />
 		<scrap name="HfsDB" date="20231115T093615" />
 		<scrap name="ArcadeDB" date="20230228T091739" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/neopang.zip</path>
-		<name>neopang</name>
-		<crc32>16427CEF</crc32>
-		<md5>6b169e883a8e3b1c6b6c13018a4d9ce5</md5>
-		<scrap name="ScreenScraper" date="20230216T180114" />
-		<scrap name="HfsDB" date="20231115T093615" />
-		<scrap name="ArcadeDB" date="20230218T031102" />
 	</game>
 	<game id="108997">
 		<path>./ROMs (merged)/neopong.zip</path>
@@ -20488,42 +19374,6 @@ On each side there is a 'bat' with which you will protect the ball so that it do
 		<scrap name="HfsDB" date="20231115T093656" />
 		<scrap name="ArcadeDB" date="20230228T091739" />
 	</game>
-	<game>
-		<path>./ROMs (merged)/neoromjb.zip</path>
-		<name>Neo Rom Jukebox</name>
-		<crc32>956994B3</crc32>
-		<md5>191fc7009d4350716010d6c138b77b45</md5>
-		<scrap name="ScreenScraper" date="20230216T180141" />
-		<scrap name="HfsDB" date="20231115T093656" />
-		<scrap name="ArcadeDB" date="20230218T031102" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/neothund.zip</path>
-		<name>Neo Thunder</name>
-		<crc32>B94244A5</crc32>
-		<md5>dc269661dbcf8785ba49964505875510</md5>
-		<scrap name="ScreenScraper" date="20230216T180145" />
-		<scrap name="HfsDB" date="20231115T093656" />
-		<scrap name="ArcadeDB" date="20230218T031102" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/neotrisd1.zip</path>
-		<name>Neotris Demo 1</name>
-		<crc32>4291358D</crc32>
-		<md5>4a2ef159890a3077b8c6ab87cc49b411</md5>
-		<scrap name="ScreenScraper" date="20230216T180150" />
-		<scrap name="HfsDB" date="20231115T093657" />
-		<scrap name="ArcadeDB" date="20230218T031102" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/ng4ptest.zip</path>
-		<name>ng4ptest</name>
-		<crc32>55E66F0D</crc32>
-		<md5>cd1ccb60d733a174aeb87de7a30996a7</md5>
-		<scrap name="ScreenScraper" date="20230216T180154" />
-		<scrap name="HfsDB" date="20231115T093657" />
-		<scrap name="ArcadeDB" date="20230218T031102" />
-	</game>
 	<game id="108999">
 		<path>./ROMs (merged)/ngem2k.zip</path>
 		<name>NGEM2K</name>
@@ -20545,71 +19395,6 @@ On each side there is a 'bat' with which you will protect the ball so that it do
 		<scrap name="ScreenScraper" date="20230216T180211" />
 		<scrap name="HfsDB" date="20231115T093657" />
 		<scrap name="ArcadeDB" date="20230228T091739" />
-	</game>
-	<game id="109301">
-		<path>./ROMs (merged)/ngftdemo.zip</path>
-		<name>ZZZ(notgame):Demos</name>
-		<desc>Homebrew Demo</desc>
-		<thumbnail>./images/ngftdemo-thumb.png</thumbnail>
-		<boxback>./images/ngftdemo-boxback.png</boxback>
-		<releasedate>20020101T000000</releasedate>
-		<developer>Jeff Kurtz</developer>
-		<publisher>Homebrew</publisher>
-		<genre>Platform</genre>
-		<arcadesystemname>neogeo</arcadesystemname>
-		<hidden>true</hidden>
-		<crc32>FA3D2F51</crc32>
-		<md5>2d33796336a9be33672018ac6a50cfa9</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230216T180218" />
-		<scrap name="HfsDB" date="20231115T093657" />
-		<scrap name="ArcadeDB" date="20230218T031102" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/ngmontst.zip</path>
-		<name>NeoGeo Monitor Test</name>
-		<crc32>93089817</crc32>
-		<md5>90cfcdfc0c3b57f4f43ca331036cfbb7</md5>
-		<scrap name="ScreenScraper" date="20230216T180221" />
-		<scrap name="HfsDB" date="20231115T093658" />
-		<scrap name="ArcadeDB" date="20230218T031102" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/ngmontst3.zip</path>
-		<name>ngmontst3</name>
-		<crc32>163C856F</crc32>
-		<md5>9e32f06a5e539fbfd10b6573463ccf13</md5>
-		<scrap name="ScreenScraper" date="20230216T180225" />
-		<scrap name="HfsDB" date="20231115T093658" />
-		<scrap name="ArcadeDB" date="20230218T031102" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/ngtd2.zip</path>
-		<name>NeoGeo Tech Demo 2</name>
-		<crc32>E800CB65</crc32>
-		<md5>03b49c5740b02de5a117e3c84c56d34e</md5>
-		<scrap name="ScreenScraper" date="20230216T180229" />
-		<scrap name="HfsDB" date="20231115T093658" />
-		<scrap name="ArcadeDB" date="20230218T031103" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/ngtetris.zip</path>
-		<name>NeoGeo 2-Player Tetris</name>
-		<crc32>9A668BF5</crc32>
-		<md5>b196e3967ff6dd69f1f52f87eb2f71b0</md5>
-		<scrap name="ScreenScraper" date="20230216T180232" />
-		<scrap name="HfsDB" date="20231115T093658" />
-		<scrap name="ArcadeDB" date="20230218T031103" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/ngym2610.zip</path>
-		<name>NeoGeo YM2610 Test</name>
-		<crc32>03AA2EE5</crc32>
-		<md5>3951a480c66f5b46da61689990f5c996</md5>
-		<scrap name="ScreenScraper" date="20230216T180236" />
-		<scrap name="HfsDB" date="20231115T093659" />
-		<scrap name="ArcadeDB" date="20230218T031103" />
 	</game>
 	<game>
 		<path>./ROMs (merged)/ninjamas.zip</path>
@@ -20811,24 +19596,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=1775&am
 		<scrap name="ArcadeDB" date="20230228T091744" />
 	</game>
 	<game>
-		<path>./ROMs (merged)/nsmbd.zip</path>
-		<name>nsmbd</name>
-		<crc32>52B60975</crc32>
-		<md5>0802124d00d1cbe0d70ce932102f0686</md5>
-		<scrap name="ScreenScraper" date="20230216T180346" />
-		<scrap name="HfsDB" date="20231115T093701" />
-		<scrap name="ArcadeDB" date="20230218T031103" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/nyan.zip</path>
-		<name>Nyan Cat demo (v1)</name>
-		<crc32>43AA0CC6</crc32>
-		<md5>24285752dc9551047f6caf4db31d7e68</md5>
-		<scrap name="ScreenScraper" date="20230216T180349" />
-		<scrap name="HfsDB" date="20231115T093701" />
-		<scrap name="ArcadeDB" date="20230218T031103" />
-	</game>
-	<game>
 		<path>./ROMs (merged)/olds.zip</path>
 		<name>Oriental Legend Special / Xi You Shi E Zhuan Super</name>
 		<image>./images/olds-image.png</image>
@@ -20888,15 +19655,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=1775&am
 		<scrap name="ScreenScraper" date="20230216T180505" />
 		<scrap name="HfsDB" date="20231115T093703" />
 		<scrap name="ArcadeDB" date="20230228T091750" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/pachello.zip</path>
-		<name>Hello, World!</name>
-		<crc32>06F9D7B1</crc32>
-		<md5>e79c00d2c24470f981dbe224e9f81107</md5>
-		<scrap name="ScreenScraper" date="20230216T180551" />
-		<scrap name="HfsDB" date="20231115T093703" />
-		<scrap name="ArcadeDB" date="20230218T031103" />
 	</game>
 	<game>
 		<path>./ROMs (merged)/pacland.zip</path>
@@ -21122,24 +19880,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=1913&am
 		<scrap name="ScreenScraper" date="20230216T180615" />
 		<scrap name="HfsDB" date="20231115T093703" />
 		<scrap name="ArcadeDB" date="20230228T091755" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/pacmatri.zip</path>
-		<name>Matrix Effect</name>
-		<crc32>B2E5EBAB</crc32>
-		<md5>7441b9239ef841ce35cb43b58b741301</md5>
-		<scrap name="ScreenScraper" date="20230216T180619" />
-		<scrap name="HfsDB" date="20231115T093703" />
-		<scrap name="ArcadeDB" date="20230218T031103" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/pandajump.zip</path>
-		<name>pandajump</name>
-		<crc32>F530CE0C</crc32>
-		<md5>2ec43799de42a93608b8da67f12f065a</md5>
-		<scrap name="ScreenScraper" date="20230216T180622" />
-		<scrap name="HfsDB" date="20231115T093704" />
-		<scrap name="ArcadeDB" date="20230218T031103" />
 	</game>
 	<game>
 		<path>./ROMs (merged)/pang.zip</path>
@@ -21474,150 +20214,6 @@ In the two-player mode, the player can choose between Pocket Game or 9-Ball Game
 		<scrap name="ArcadeDB" date="20230228T091809" />
 	</game>
 	<game>
-		<path>./ROMs (merged)/pcmademo.zip</path>
-		<name>ADPCM-A Playback Demo</name>
-		<crc32>0D43A983</crc32>
-		<md5>b03de832f8528a72eb667e9ab4fdfa89</md5>
-		<scrap name="ScreenScraper" date="20230216T180829" />
-		<scrap name="HfsDB" date="20231115T093706" />
-		<scrap name="ArcadeDB" date="20230218T031104" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/pcmbdemo.zip</path>
-		<name>ADPCM-B Playback Demo</name>
-		<crc32>F7C85831</crc32>
-		<md5>a9b855f9d7d5e121d658a5753b1b3c13</md5>
-		<scrap name="ScreenScraper" date="20230216T180833" />
-		<scrap name="HfsDB" date="20231115T093756" />
-		<scrap name="ArcadeDB" date="20230218T031104" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/pc_ark.zip</path>
-		<name>pc_ark</name>
-		<crc32>B13AAC5D</crc32>
-		<md5>81aba80f2d27325f632cecf9a2085117</md5>
-		<scrap name="ScreenScraper" date="20230216T180837" />
-		<scrap name="HfsDB" date="20231115T093757" />
-		<scrap name="ArcadeDB" date="20230218T031104" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/pc_bb2.zip</path>
-		<name>pc_bb2</name>
-		<crc32>8CAAD470</crc32>
-		<md5>e318c2edc4fc4c3d1aec495aedd70756</md5>
-		<scrap name="ScreenScraper" date="20230216T180840" />
-		<scrap name="HfsDB" date="20231115T093757" />
-		<scrap name="ArcadeDB" date="20230218T031104" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/pc_cch.zip</path>
-		<name>pc_cch</name>
-		<crc32>0BFA6A99</crc32>
-		<md5>130f913a9f0b4eb98f6c87dfd0731442</md5>
-		<scrap name="ScreenScraper" date="20230216T180843" />
-		<scrap name="HfsDB" date="20231115T093757" />
-		<scrap name="ArcadeDB" date="20230218T031104" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/pc_ctfrc.zip</path>
-		<name>pc_ctfrc</name>
-		<crc32>A167F7B6</crc32>
-		<md5>9101f069cd7c2c3e88c6704da7375810</md5>
-		<scrap name="ScreenScraper" date="20230216T180847" />
-		<scrap name="HfsDB" date="20231115T093757" />
-		<scrap name="ArcadeDB" date="20230218T031104" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/pc_digdg.zip</path>
-		<name>pc_digdg</name>
-		<crc32>FFDF9AB1</crc32>
-		<md5>090a701587a16710502f431fd0b746ad</md5>
-		<scrap name="ScreenScraper" date="20230216T180850" />
-		<scrap name="HfsDB" date="20231115T093758" />
-		<scrap name="ArcadeDB" date="20230218T031104" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/pc_dk.zip</path>
-		<name>pc_dk</name>
-		<crc32>FD9BAD54</crc32>
-		<md5>48b77ef44f5f5027f7154344eb9f6895</md5>
-		<scrap name="ScreenScraper" date="20230216T180854" />
-		<scrap name="HfsDB" date="20231115T093758" />
-		<scrap name="ArcadeDB" date="20230218T031104" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/pc_dk3.zip</path>
-		<name>pc_dk3</name>
-		<crc32>5278DF2F</crc32>
-		<md5>384e1bf4d88d20c062336823a2f91cff</md5>
-		<scrap name="ScreenScraper" date="20230216T180858" />
-		<scrap name="HfsDB" date="20231115T093758" />
-		<scrap name="ArcadeDB" date="20230218T031105" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/pc_galag.zip</path>
-		<name>pc_galag</name>
-		<crc32>BE98F08A</crc32>
-		<md5>47bba8d8e45f28f888fa9feb95fcfb56</md5>
-		<scrap name="ScreenScraper" date="20230216T180902" />
-		<scrap name="HfsDB" date="20231115T093758" />
-		<scrap name="ArcadeDB" date="20230218T031105" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/pc_gyrus.zip</path>
-		<name>pc_gyrus</name>
-		<crc32>606C452F</crc32>
-		<md5>ce532616679925169a96655bb570f514</md5>
-		<scrap name="ScreenScraper" date="20230216T180906" />
-		<scrap name="HfsDB" date="20231115T093759" />
-		<scrap name="ArcadeDB" date="20230218T031105" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/pc_krsty.zip</path>
-		<name>pc_krsty</name>
-		<crc32>FB3D4FDB</crc32>
-		<md5>1579a54d59e10b3ee03d6932f5a28772</md5>
-		<scrap name="ScreenScraper" date="20230216T180909" />
-		<scrap name="HfsDB" date="20231115T093759" />
-		<scrap name="ArcadeDB" date="20230218T031105" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/pc_mman5.zip</path>
-		<name>pc_mman5</name>
-		<crc32>5CEF73F4</crc32>
-		<md5>66eddb2c12ed095482ec3215237881c8</md5>
-		<scrap name="ScreenScraper" date="20230216T180913" />
-		<scrap name="HfsDB" date="20231115T093759" />
-		<scrap name="ArcadeDB" date="20230218T031105" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/pc_pacm.zip</path>
-		<name>pc_pacm</name>
-		<crc32>41FA1463</crc32>
-		<md5>47302f8faa18b95aeeba29bb530db085</md5>
-		<scrap name="ScreenScraper" date="20230216T180917" />
-		<scrap name="HfsDB" date="20231115T093759" />
-		<scrap name="ArcadeDB" date="20230218T031105" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/pc_parsl.zip</path>
-		<name>pc_parsl</name>
-		<crc32>0EDAD11D</crc32>
-		<md5>d39912a44a4c89189bd2487719b75eaa</md5>
-		<scrap name="ScreenScraper" date="20230216T180920" />
-		<scrap name="HfsDB" date="20231115T093759" />
-		<scrap name="ArcadeDB" date="20230218T031105" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/pc_skykd.zip</path>
-		<name>pc_skykd</name>
-		<crc32>641129D9</crc32>
-		<md5>150fbfdddd06cb20f7975d1604cb2d84</md5>
-		<scrap name="ScreenScraper" date="20230216T180925" />
-		<scrap name="HfsDB" date="20231115T093800" />
-		<scrap name="ArcadeDB" date="20230218T031105" />
-	</game>
-	<game>
 		<path>./ROMs (merged)/pc_smb.zip</path>
 		<name>Super Mario Bros.</name>
 		<image>./images/pc_smb-image.png</image>
@@ -21700,42 +20296,6 @@ In the two-player mode, the player can choose between Pocket Game or 9-Ball Game
 		<scrap name="ScreenScraper" date="20230216T181035" />
 		<scrap name="HfsDB" date="20231115T093802" />
 		<scrap name="ArcadeDB" date="20230228T091817" />
-	</game>
-	<game id="79315">
-		<path>./ROMs (merged)/pgemeni.zip</path>
-		<name>P-gemeni</name>
-		<image>./images/pgemeni-image.png</image>
-		<video>./videos/pgemeni-video.mp4</video>
-		<thumbnail>./images/pgemeni-thumb.png</thumbnail>
-		<boxback>./images/pgemeni-boxback.png</boxback>
-		<releasedate>20060101T000000</releasedate>
-		<developer>blastar@gmx.ne</developer>
-		<publisher>blastar@gmx.ne</publisher>
-		<genre>Thinking</genre>
-		<players>1</players>
-		<crc32>D6CFD971</crc32>
-		<md5>e91053b156a5e1bccf2e3260e9470d8c</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230216T181048" />
-		<scrap name="HfsDB" date="20231115T093802" />
-		<scrap name="ArcadeDB" date="20230218T031105" />
-	</game>
-	<game id="79304">
-		<path>./ROMs (merged)/pgmdemo.zip</path>
-		<name>ZZZ(notgame):Chaos Demo</name>
-		<image>./images/pgmdemo-image.png</image>
-		<releasedate>20020101T000000</releasedate>
-		<developer>Chaos</developer>
-		<publisher>Chaos</publisher>
-		<hidden>true</hidden>
-		<crc32>B4EF725F</crc32>
-		<md5>3be1052988bf23cc4d0c6f2fe89d84f7</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230216T181053" />
-		<scrap name="HfsDB" date="20231115T093803" />
-		<scrap name="ArcadeDB" date="20230218T031106" />
 	</game>
 	<game id="109000">
 		<path>./ROMs (merged)/pgmfrog.zip</path>
@@ -22086,15 +20646,6 @@ The fact that you are not playing against a virtual opponent and that the bluff 
 		<scrap name="ArcadeDB" date="20230228T091840" />
 	</game>
 	<game>
-		<path>./ROMs (merged)/ppong.zip</path>
-		<name>Ping Pong demo (Pacman Hardware)</name>
-		<crc32>B43577E8</crc32>
-		<md5>02ba65157c84e3af0463b05741afe720</md5>
-		<scrap name="ScreenScraper" date="20230216T181511" />
-		<scrap name="HfsDB" date="20231115T093859" />
-		<scrap name="ArcadeDB" date="20230218T031106" />
-	</game>
-	<game>
 		<path>./ROMs (merged)/preisle2.zip</path>
 		<name>Prehistoric Isle 2</name>
 		<desc>SNK Neo-Geo MVS cart. published 23 years ago:
@@ -22213,15 +20764,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=2036&am
 		<scrap name="ScreenScraper" date="20230216T181641" />
 		<scrap name="HfsDB" date="20231115T093900" />
 		<scrap name="ArcadeDB" date="20230228T091851" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/puckmanx.zip</path>
-		<name>PuckMan (Japan set 1, Probably Bootleg) (hires hack)</name>
-		<crc32>195041EC</crc32>
-		<md5>3ff84a14ba3f71831a060f5c14724e74</md5>
-		<scrap name="ScreenScraper" date="20230216T181645" />
-		<scrap name="HfsDB" date="20231115T093900" />
-		<scrap name="ArcadeDB" date="20230218T031106" />
 	</game>
 	<game>
 		<path>./ROMs (merged)/pulstar.zip</path>
@@ -22489,15 +21031,6 @@ One week later all the competitors from the previous tournament and other family
 		<scrap name="ArcadeDB" date="20230228T091903" />
 	</game>
 	<game>
-		<path>./ROMs (merged)/rainboh.zip</path>
-		<name>Rainbow (Incomplete)</name>
-		<crc32>4444F104</crc32>
-		<md5>cce1849cedb93d1a82bfa57f7361609e</md5>
-		<scrap name="ScreenScraper" date="20230216T181936" />
-		<scrap name="HfsDB" date="20231115T093905" />
-		<scrap name="ArcadeDB" date="20230218T031106" />
-	</game>
-	<game>
 		<path>./ROMs (merged)/rallyx.zip</path>
 		<name>Rally X</name>
 		<image>./images/rallyx-image.png</image>
@@ -22762,15 +21295,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=2188&am
 		<scrap name="ScreenScraper" date="20230216T182053" />
 		<scrap name="HfsDB" date="20231115T093909" />
 		<scrap name="ArcadeDB" date="20230228T091913" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/rci.zip</path>
-		<name>Robocop (Intro demo)</name>
-		<crc32>0FE10EB0</crc32>
-		<md5>d29f249fce441e96117b6b440606a4fc</md5>
-		<scrap name="ScreenScraper" date="20230216T182137" />
-		<scrap name="HfsDB" date="20231115T093910" />
-		<scrap name="ArcadeDB" date="20230218T031106" />
 	</game>
 	<game>
 		<path>./ROMs (merged)/redeartn.zip</path>
@@ -23450,15 +21974,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=2688&am
 		<scrap name="ArcadeDB" date="20230228T091949" />
 	</game>
 	<game>
-		<path>./ROMs (merged)/sagaiav2.zip</path>
-		<name>Sagaia (dual screen) (V2)</name>
-		<crc32>230E40B1</crc32>
-		<md5>428de21f380c799ea808ccc51b1eac20</md5>
-		<scrap name="ScreenScraper" date="20230216T190719" />
-		<scrap name="HfsDB" date="20231115T093959" />
-		<scrap name="ArcadeDB" date="20230218T031106" />
-	</game>
-	<game>
 		<path>./ROMs (merged)/sailormn.zip</path>
 		<name>Pretty Soldier Sailor Moon</name>
 		<desc>The game is a side-scrolling "beat-'em-up" game, one or two players pick their desired Senshi and travel through various stages defeating enemies. Items are sometimes dropped by enemies that can range from items that restore health, give extra points, or crystals that allow the Senshi to perform special attacks. Up to five crystals can be collected per player to power up the Senshi's special attacks. During the most difficult moments in battle, Tuxedo Mask will appear and throw a rose, which is a bonus to pick up and depart.</desc>
@@ -23505,15 +22020,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=2688&am
 		<scrap name="ScreenScraper" date="20230216T190821" />
 		<scrap name="HfsDB" date="20231115T094000" />
 		<scrap name="ArcadeDB" date="20230228T091953" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/samantha.zip</path>
-		<name>Everlasting Summer: Samantha demo</name>
-		<crc32>9C8F67FE</crc32>
-		<md5>417cd1b2e640d13787c4bf1f7aebdf40</md5>
-		<scrap name="ScreenScraper" date="20230216T190825" />
-		<scrap name="HfsDB" date="20231115T094000" />
-		<scrap name="ArcadeDB" date="20230218T031106" />
 	</game>
 	<game>
 		<path>./ROMs (merged)/samsh5sp.zip</path>
@@ -23770,15 +22276,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=2307&am
 		<scrap name="ScreenScraper" date="20230216T191226" />
 		<scrap name="HfsDB" date="20231115T094002" />
 		<scrap name="ArcadeDB" date="20230228T092015" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/santabll.zip</path>
-		<name>Santaball</name>
-		<crc32>61E5238C</crc32>
-		<md5>06337bef8a07cbd690957baf12fe26f1</md5>
-		<scrap name="ScreenScraper" date="20230216T191230" />
-		<scrap name="HfsDB" date="20231115T094003" />
-		<scrap name="ArcadeDB" date="20230218T031106" />
 	</game>
 	<game>
 		<path>./ROMs (merged)/sarge.zip</path>
@@ -24045,23 +22542,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=2713&am
 		<scrap name="ArcadeDB" date="20230228T092036" />
 	</game>
 	<game>
-		<path>./ROMs (merged)/sdojak.zip</path>
-		<name>sdojak</name>
-		<crc32>1F919CFB</crc32>
-		<scrap name="ScreenScraper" date="20230216T191554" />
-		<scrap name="HfsDB" date="20231115T094007" />
-		<scrap name="ArcadeDB" date="20230218T031106" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/seafight.zip</path>
-		<name>Sea Fighter 0.01.009</name>
-		<crc32>1EE7B788</crc32>
-		<md5>d248c87e7fedacd2ae8c947691cb12ac</md5>
-		<scrap name="ScreenScraper" date="20230216T191557" />
-		<scrap name="HfsDB" date="20231115T094007" />
-		<scrap name="ArcadeDB" date="20230218T031107" />
-	</game>
-	<game>
 		<path>./ROMs (merged)/sengoku.zip</path>
 		<name>Sengoku / Sengoku Denshou</name>
 		<desc>SNK Neo-Geo MVS cart. published 31 years ago:
@@ -24154,17 +22634,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=2386&am
 		<scrap name="ScreenScraper" date="20230216T191627" />
 		<scrap name="HfsDB" date="20231115T094008" />
 		<scrap name="ArcadeDB" date="20230228T092038" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/seq1.zip</path>
-		<name>16 Step Simple Sequencer</name>
-		<crc32>607B45FD</crc32>
-		<md5>c8d5737873d434248fb83129c7dee2d7</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230216T191830" />
-		<scrap name="HfsDB" date="20231115T094008" />
-		<scrap name="ArcadeDB" date="20230218T031107" />
 	</game>
 	<game>
 		<path>./ROMs (merged)/sf2.zip</path>
@@ -24372,32 +22841,6 @@ Street Fighter Alpha 3, the third game in the Alpha series, has a total of 31 fi
 		<scrap name="ScreenScraper" date="20230216T192300" />
 		<scrap name="HfsDB" date="20231115T094013" />
 		<scrap name="ArcadeDB" date="20230228T092116" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/sfiii2nc.zip</path>
-		<name>Street Fighter III 2nd Impact: Giant Attack (Asia 970930, NO CD)</name>
-		<crc32>5A030CC4</crc32>
-		<md5>fbe9f7d6575a17fac3a154909ae5928d</md5>
-		<scrap name="ScreenScraper" date="20230216T192305" />
-		<scrap name="HfsDB" date="20231115T094014" />
-		<scrap name="ArcadeDB" date="20230218T031107" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/sfiii3nc.zip</path>
-		<name>Street Fighter III 3rd Strike: Fight for the Future (Japan 990608, NO CD)</name>
-		<crc32>C4BE3B64</crc32>
-		<scrap name="ScreenScraper" date="20230216T192308" />
-		<scrap name="HfsDB" date="20231115T094014" />
-		<scrap name="ArcadeDB" date="20230218T031107" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/sfiiinc.zip</path>
-		<name>Street Fighter III: New Generation (Asia 970204, NO CD)</name>
-		<crc32>81030C4F</crc32>
-		<md5>a0bf543e8dcb3ce34c2d17e500a4e8da</md5>
-		<scrap name="ScreenScraper" date="20230216T192315" />
-		<scrap name="HfsDB" date="20231115T094058" />
-		<scrap name="ArcadeDB" date="20230218T031107" />
 	</game>
 	<game>
 		<path>./ROMs (merged)/sfz2al.zip</path>
@@ -24645,15 +23088,6 @@ As you make progress you encounter over twenty different enemies. These include 
 		<scrap name="ScreenScraper" date="20230216T192442" />
 		<scrap name="HfsDB" date="20231115T094101" />
 		<scrap name="ArcadeDB" date="20230228T092125" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/shaman16.zip</path>
-		<name>Shaman King demo 0.16</name>
-		<crc32>395D4B8C</crc32>
-		<md5>be7b571c2dbe766d6a628466b4a25896</md5>
-		<scrap name="ScreenScraper" date="20230216T192446" />
-		<scrap name="HfsDB" date="20231115T094101" />
-		<scrap name="ArcadeDB" date="20230218T031107" />
 	</game>
 	<game>
 		<path>./ROMs (merged)/shocktro.zip</path>
@@ -24912,24 +23346,6 @@ The gong that determines the new “Master of Muscle Bomber” is sounded…</de
 		<scrap name="ArcadeDB" date="20230228T092145" />
 	</game>
 	<game>
-		<path>./ROMs (merged)/smi.zip</path>
-		<name>Spiderman (Intro demo)</name>
-		<crc32>A6B5D1CF</crc32>
-		<md5>f96e94b86cddb6b7e55b799e4ca3abb5</md5>
-		<scrap name="ScreenScraper" date="20230216T192815" />
-		<scrap name="HfsDB" date="20231115T094107" />
-		<scrap name="ArcadeDB" date="20230218T031107" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/snddemo.zip</path>
-		<name>Sound-Loop Demo</name>
-		<crc32>C8699185</crc32>
-		<md5>f7e83cdf075747b32761374e868be65a</md5>
-		<scrap name="ScreenScraper" date="20230216T192819" />
-		<scrap name="HfsDB" date="20231115T094107" />
-		<scrap name="ArcadeDB" date="20230218T031107" />
-	</game>
-	<game>
 		<path>./ROMs (merged)/snowbro2.zip</path>
 		<name>Snow Bros. 2 - With New Elves / Otenki Paradise</name>
 		<image>./images/snowbro2-image.png</image>
@@ -25037,15 +23453,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=2485&am
 		<scrap name="ArcadeDB" date="20230228T092150" />
 	</game>
 	<game>
-		<path>./ROMs (merged)/sokoban.zip</path>
-		<name>Sokoban LE</name>
-		<crc32>7832BB55</crc32>
-		<md5>6455a97f8e7406431018cd58d49d1b23</md5>
-		<scrap name="ScreenScraper" date="20230216T192914" />
-		<scrap name="HfsDB" date="20231115T094110" />
-		<scrap name="ArcadeDB" date="20230218T031107" />
-	</game>
-	<game>
 		<path>./ROMs (merged)/soldivid.zip</path>
 		<name>Sol Divide - The Sword Of Darkness</name>
 		<image>./images/soldivid-image.png</image>
@@ -25087,24 +23494,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=2485&am
 		<scrap name="ScreenScraper" date="20230216T192949" />
 		<scrap name="HfsDB" date="20231115T094111" />
 		<scrap name="ArcadeDB" date="20230228T092153" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/spacmissx.zip</path>
-		<name>Space Missile - Space Fighting Game (Extra Sounds)</name>
-		<crc32>9A4DB90F</crc32>
-		<md5>7e8a297db0a58e7949b6151ad87e665e</md5>
-		<scrap name="ScreenScraper" date="20230216T193050" />
-		<scrap name="HfsDB" date="20231115T094112" />
-		<scrap name="ArcadeDB" date="20230218T031108" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/spacwarp.zip</path>
-		<name>Space War (Proto on Space Duel HW)</name>
-		<crc32>E208C306</crc32>
-		<md5>796d651960433d0e5cba9969632d0716</md5>
-		<scrap name="ScreenScraper" date="20230216T193053" />
-		<scrap name="HfsDB" date="20231115T094112" />
-		<scrap name="ArcadeDB" date="20230218T031108" />
 	</game>
 	<game>
 		<path>./ROMs (merged)/spcenctr.zip</path>
@@ -25150,15 +23539,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=2485&am
 		<scrap name="ScreenScraper" date="20230216T193129" />
 		<scrap name="HfsDB" date="20231115T094113" />
 		<scrap name="ArcadeDB" date="20230228T092203" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/speccies.zip</path>
-		<name>Speccies 2</name>
-		<crc32>6720935E</crc32>
-		<md5>2332453f4f51ce345d72fbaff624dfed</md5>
-		<scrap name="ScreenScraper" date="20230216T193133" />
-		<scrap name="HfsDB" date="20231115T094113" />
-		<scrap name="ArcadeDB" date="20230218T031108" />
 	</game>
 	<game>
 		<path>./ROMs (merged)/spectar.zip</path>
@@ -25207,15 +23587,6 @@ Burst right into the feverish puzzle action that combines irresistible, addictiv
 		<scrap name="ScreenScraper" date="20230216T193212" />
 		<scrap name="HfsDB" date="20231115T094115" />
 		<scrap name="ArcadeDB" date="20230228T092207" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/spicegirls.zip</path>
-		<name>Spice Girls</name>
-		<crc32>A3BE608A</crc32>
-		<md5>98e2343f0c5b0de5ecb1f9ce901ddd90</md5>
-		<scrap name="ScreenScraper" date="20230216T193216" />
-		<scrap name="HfsDB" date="20231115T094115" />
-		<scrap name="ArcadeDB" date="20230218T031108" />
 	</game>
 	<game>
 		<path>./ROMs (merged)/spinmast.zip</path>
@@ -25312,24 +23683,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=2588&am
 		<scrap name="ScreenScraper" date="20230216T193256" />
 		<scrap name="HfsDB" date="20231115T094200" />
 		<scrap name="ArcadeDB" date="20230228T092211" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/spriteex.zip</path>
-		<name>Sprite Experimenter</name>
-		<crc32>B6614ACE</crc32>
-		<md5>8c9969cd88859a1a68bdcbacbe811b43</md5>
-		<scrap name="ScreenScraper" date="20230216T193300" />
-		<scrap name="HfsDB" date="20231115T094200" />
-		<scrap name="ArcadeDB" date="20230218T031108" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/sqij.zip</path>
-		<name>SQIJ!</name>
-		<crc32>9775B3D7</crc32>
-		<md5>064d356b5f833c223ca4ffc24ea238c0</md5>
-		<scrap name="ScreenScraper" date="20230216T193303" />
-		<scrap name="HfsDB" date="20231115T094200" />
-		<scrap name="ArcadeDB" date="20230218T031108" />
 	</game>
 	<game>
 		<path>./ROMs (merged)/srallyc.zip</path>
@@ -25714,15 +24067,6 @@ Strider marked the video game debut of Hiryu, a member of a secret group of ninj
 		<scrap name="ScreenScraper" date="20230216T193756" />
 		<scrap name="HfsDB" date="20231115T094206" />
 		<scrap name="ArcadeDB" date="20230228T092256" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/suicide.zip</path>
-		<name>Suicide Test</name>
-		<crc32>97D13A78</crc32>
-		<md5>3490e0c4d678364886d9d89724275abe</md5>
-		<scrap name="ScreenScraper" date="20230216T193801" />
-		<scrap name="HfsDB" date="20231115T094206" />
-		<scrap name="ArcadeDB" date="20230218T031108" />
 	</game>
 	<game>
 		<path>./ROMs (merged)/suikoenb.zip</path>
@@ -26148,51 +24492,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=2480&am
 		<scrap name="ArcadeDB" date="20230228T092315" />
 	</game>
 	<game>
-		<path>./ROMs (merged)/sys16dem.zip</path>
-		<name>Demo - Sega System 16</name>
-		<crc32>425F78FC</crc32>
-		<md5>709b89e76b28748fe9bbd704cfb01535</md5>
-		<scrap name="ScreenScraper" date="20230216T194007" />
-		<scrap name="HfsDB" date="20231115T094211" />
-		<scrap name="ArcadeDB" date="20230218T031108" />
-	</game>
-	<game id="152761">
-		<path>./ROMs (merged)/syscheck.zip</path>
-		<name>ZZZ(notgame):Neo-geo Bios</name>
-		<desc>A cartridge-based arcade system board. The MVS stands for Multi Video System, and as its name suggest, offers owners the ability to put up to six different arcade titles into a single cabinet, a key economic consideration for operators with limited floorspace. With its games stored on self-contained cartridges, a game cabinet can be exchanged for a different game title by swapping the game's ROM-cartridge and cabinet artwork.</desc>
-		<image>./images/syscheck-image.png</image>
-		<marquee>./images/syscheck-marquee.png</marquee>
-		<releasedate>19900101T000000</releasedate>
-		<publisher>SNK</publisher>
-		<genre>Various / System</genre>
-		<arcadesystemname>neogeo</arcadesystemname>
-		<players>2</players>
-		<hidden>true</hidden>
-		<crc32>3364F115</crc32>
-		<md5>25a2d6a90cf1fbf3050b20314f985562</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230216T194015" />
-		<scrap name="HfsDB" date="20231115T094211" />
-		<scrap name="ArcadeDB" date="20230218T031109" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/s_smp.zip</path>
-		<name>Nintendo/Sony S-SMP</name>
-		<image>./images/s_smp-image.png</image>
-		<releasedate>19691231T190000</releasedate>
-		<genre>System / Device</genre>
-		<players>0</players>
-		<hidden>true</hidden>
-		<crc32>307BE18C</crc32>
-		<md5>f80b6f46db83e714922190e37b9c6a80</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230216T194017" />
-		<scrap name="HfsDB" date="20231115T094211" />
-		<scrap name="ArcadeDB" date="20230218T031109" />
-	</game>
-	<game>
 		<path>./ROMs (merged)/taotaido.zip</path>
 		<name>Tao Taido</name>
 		<image>./images/taotaido-image.png</image>
@@ -26363,48 +24662,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=2480&am
 		<scrap name="ArcadeDB" date="20230228T092330" />
 	</game>
 	<game>
-		<path>./ROMs (merged)/tenkai.zip</path>
-		<name>Mahjong Tenkaigen</name>
-		<image>./images/tenkai-image.png</image>
-		<video>./videos/tenkai-video.mp4</video>
-		<thumbnail>./images/tenkai-thumb.png</thumbnail>
-		<boxback>./images/tenkai-boxback.png</boxback>
-		<releasedate>19910101T000000</releasedate>
-		<genre>Reflexion</genre>
-		<players>1</players>
-		<crc32>4EE9AE91</crc32>
-		<md5>f79d326ea298f3a5c85d79f228316543</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230216T194237" />
-		<scrap name="HfsDB" date="20231115T094259" />
-		<scrap name="ArcadeDB" date="20230218T031109" />
-	</game>
-	<game id="418998">
-		<path>./ROMs (merged)/teot.zip</path>
-		<name>Eye of Typhoon ,The</name>
-		<desc>There are 12 playable fighters to choose from and two boss characters. The object of the game is to win two matches out of three. Each character has a set of moves in addition to two basic punches and kicks. Players also have the ability to taunt others, but unlike games such as SNK's Art of Fighting series, this has no effect and would actually leave the player open to attacks.
-
-In single player mode, after selecting a character, the player must also select an opponent. The opponent order cycles randomly according to the character select screen. After the first twelve are defeated, the player must defeat two bosses, Powell and Mahesvara. Unlike Fight Fever, there is a 2-on-2 team mode, where players can choose two characters whether in certain order or randomly. The camera also zooms in and out depending on how far apart the characters are, like in the Art of Fighting series.</desc>
-		<image>./images/teot-image.png</image>
-		<video>./videos/teot-video.mp4</video>
-		<thumbnail>./images/teot-thumb.png</thumbnail>
-		<boxback>./images/teot-boxback.png</boxback>
-		<releasedate>19960101T000000</releasedate>
-		<developer>Viccom</developer>
-		<publisher>Viccom</publisher>
-		<genre>Fight / 2D</genre>
-		<arcadesystemname>neogeo</arcadesystemname>
-		<players>2</players>
-		<crc32>8CB7C22F</crc32>
-		<md5>f7db5998dd6ba2e643334d303d37648e</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230216T194252" />
-		<scrap name="HfsDB" date="20231115T094259" />
-		<scrap name="ArcadeDB" date="20230218T031109" />
-	</game>
-	<game>
 		<path>./ROMs (merged)/terracre.zip</path>
 		<name>Terra Cresta</name>
 		<image>./images/terracre-image.png</image>
@@ -26423,15 +24680,6 @@ In single player mode, after selecting a character, the player must also select 
 		<scrap name="ScreenScraper" date="20230216T194309" />
 		<scrap name="HfsDB" date="20231115T094300" />
 		<scrap name="ArcadeDB" date="20230228T092332" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/test01.zip</path>
-		<name>MVS Test 01</name>
-		<crc32>BEC2B10D</crc32>
-		<md5>c162bf2af9bd18d50a0fcdf36f0d3fd2</md5>
-		<scrap name="ScreenScraper" date="20230216T194313" />
-		<scrap name="HfsDB" date="20231115T094300" />
-		<scrap name="ArcadeDB" date="20230218T031109" />
 	</game>
 	<game>
 		<path>./ROMs (merged)/theglad.zip</path>
@@ -26454,15 +24702,6 @@ In single player mode, after selecting a character, the player must also select 
 		<scrap name="ScreenScraper" date="20230216T194331" />
 		<scrap name="HfsDB" date="20231115T094301" />
 		<scrap name="ArcadeDB" date="20230228T092334" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/theglobpb.zip</path>
-		<name>theglobpb</name>
-		<crc32>C96990DB</crc32>
-		<md5>27d9101857e50b1dd37754e0b22e003b</md5>
-		<scrap name="ScreenScraper" date="20230216T194335" />
-		<scrap name="HfsDB" date="20231115T094301" />
-		<scrap name="ArcadeDB" date="20230218T031109" />
 	</game>
 	<game>
 		<path>./ROMs (merged)/theroes.zip</path>
@@ -26560,21 +24799,6 @@ Walk through the levels and destroy enemies using your knife and defeat the end-
 		<scrap name="HfsDB" date="20231115T094303" />
 		<scrap name="ArcadeDB" date="20230228T092339" />
 	</game>
-	<game id="88111">
-		<path>./ROMs (merged)/timesup.zip</path>
-		<name>ZZZ(notgame):Timesup</name>
-		<image>./images/timesup-image.png</image>
-		<thumbnail>./images/timesup-thumb.png</thumbnail>
-		<boxback>./images/timesup-boxback.png</boxback>
-		<hidden>true</hidden>
-		<crc32>0BF4FCC3</crc32>
-		<md5>025aa667e88d9deac9f580f5f5e3fa5a</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230216T194448" />
-		<scrap name="HfsDB" date="20231115T094303" />
-		<scrap name="ArcadeDB" date="20230218T031109" />
-	</game>
 	<game id="109297">
 		<path>./ROMs (merged)/timesupd.zip</path>
 		<name>Time's Up</name>
@@ -26599,15 +24823,6 @@ Walk through the levels and destroy enemies using your knife and defeat the end-
 		<scrap name="ArcadeDB" date="20230228T092340" />
 	</game>
 	<game>
-		<path>./ROMs (merged)/tinyworld.zip</path>
-		<name>Tiny World 82 (demo)</name>
-		<crc32>F34900EF</crc32>
-		<md5>69759af71d7be5ed29c3daa91d40adb2</md5>
-		<scrap name="ScreenScraper" date="20230216T194505" />
-		<scrap name="HfsDB" date="20231115T094304" />
-		<scrap name="ArcadeDB" date="20230218T031109" />
-	</game>
-	<game>
 		<path>./ROMs (merged)/tkdensho.zip</path>
 		<name>Toukidenshou - Angel Eyes</name>
 		<image>./images/tkdensho-image.png</image>
@@ -26626,24 +24841,6 @@ Walk through the levels and destroy enemies using your knife and defeat the end-
 		<scrap name="ScreenScraper" date="20230216T194522" />
 		<scrap name="HfsDB" date="20231115T094304" />
 		<scrap name="ArcadeDB" date="20230228T092341" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/tldemo.zip</path>
-		<name>Demo - System Timed Cheat Tool</name>
-		<crc32>A7015F9A</crc32>
-		<md5>6a19dd75d9fdc139fcec9f9adcd487d8</md5>
-		<scrap name="ScreenScraper" date="20230216T194526" />
-		<scrap name="HfsDB" date="20231115T094304" />
-		<scrap name="ArcadeDB" date="20230218T031110" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/tldemo2.zip</path>
-		<name>Demo - 256 colours</name>
-		<crc32>DC375B6D</crc32>
-		<md5>0cda27daf259a8ae0a22302b19c4c0d4</md5>
-		<scrap name="ScreenScraper" date="20230216T194530" />
-		<scrap name="HfsDB" date="20231115T094305" />
-		<scrap name="ArcadeDB" date="20230218T031110" />
 	</game>
 	<game>
 		<path>./ROMs (merged)/tmnt2.zip</path>
@@ -26669,41 +24866,6 @@ Walk through the levels and destroy enemies using your knife and defeat the end-
 		<scrap name="ScreenScraper" date="20230216T194555" />
 		<scrap name="HfsDB" date="20231115T094306" />
 		<scrap name="ArcadeDB" date="20230228T092344" />
-	</game>
-	<game id="109301">
-		<path>./ROMs (merged)/tmnti.zip</path>
-		<name>ZZZ(notgame):Demos</name>
-		<desc>Homebrew Demo</desc>
-		<thumbnail>./images/tmnti-thumb.png</thumbnail>
-		<boxback>./images/tmnti-boxback.png</boxback>
-		<releasedate>20020101T000000</releasedate>
-		<developer>Jeff Kurtz</developer>
-		<publisher>Homebrew</publisher>
-		<genre>Platform</genre>
-		<arcadesystemname>neogeo</arcadesystemname>
-		<hidden>true</hidden>
-		<crc32>D0FFC850</crc32>
-		<md5>9a4804058806e1248e5ddf2f7e7d85bd</md5>
-		<lang>jp</lang>
-		<region>jp</region>
-		<scrap name="ScreenScraper" date="20230216T194603" />
-		<scrap name="HfsDB" date="20231115T094306" />
-		<scrap name="ArcadeDB" date="20230218T031110" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/tms32033.zip</path>
-		<name>Texas Instruments TMS320VC33</name>
-		<image>./images/tms32033-image.png</image>
-		<releasedate>19691231T190000</releasedate>
-		<genre>System / Device</genre>
-		<players>0</players>
-		<crc32>6B404CCB</crc32>
-		<md5>9b42e551a0d987c040bd11d9ac2649de</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230216T194607" />
-		<scrap name="HfsDB" date="20231115T094306" />
-		<scrap name="ArcadeDB" date="20230218T031110" />
 	</game>
 	<game id="87614">
 		<path>./ROMs (merged)/totc.zip</path>
@@ -26931,42 +25093,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=2881&am
 		<scrap name="ScreenScraper" date="20230216T194849" />
 		<scrap name="HfsDB" date="20231115T094312" />
 		<scrap name="ArcadeDB" date="20230228T092405" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/tst_gor1.zip</path>
-		<name>Test Rom - Gorf Complete Memory Diagnostics</name>
-		<crc32>CABA0989</crc32>
-		<md5>f0be70d80c6363213c2ebffe2d4fb35f</md5>
-		<scrap name="ScreenScraper" date="20230216T194853" />
-		<scrap name="HfsDB" date="20231115T094312" />
-		<scrap name="ArcadeDB" date="20230218T031110" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/tst_gorf.zip</path>
-		<name>Test Rom - Gorf</name>
-		<crc32>43DF0494</crc32>
-		<md5>afec82ec3e4600af7ba372176433aced</md5>
-		<scrap name="ScreenScraper" date="20230216T194857" />
-		<scrap name="HfsDB" date="20231115T094312" />
-		<scrap name="ArcadeDB" date="20230218T031110" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/tst_wow2.zip</path>
-		<name>Test Rom - Wizard of Wor (ver 0.2b)</name>
-		<crc32>287B69CF</crc32>
-		<md5>7e3636e0d1188b708ccf474022064ba1</md5>
-		<scrap name="ScreenScraper" date="20230216T194900" />
-		<scrap name="HfsDB" date="20231115T094312" />
-		<scrap name="ArcadeDB" date="20230218T031110" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/tst_wow3.zip</path>
-		<name>Test Rom - Wizard of Wor (ver 0.3)</name>
-		<crc32>6D2846AA</crc32>
-		<md5>2f6d0469c5e16d65c7236d797ee51af1</md5>
-		<scrap name="ScreenScraper" date="20230216T194904" />
-		<scrap name="HfsDB" date="20231115T094313" />
-		<scrap name="ArcadeDB" date="20230218T031110" />
 	</game>
 	<game>
 		<path>./ROMs (merged)/turfmast.zip</path>
@@ -27198,23 +25324,6 @@ Only one Japanese prototype board is known to have been manufactured.</desc>
 		<scrap name="HfsDB" date="20231115T094400" />
 		<scrap name="ArcadeDB" date="20230228T092414" />
 	</game>
-	<game id="43814">
-		<path>./ROMs (merged)/twister.zip</path>
-		<name>ZZZ(notgame):Twister</name>
-		<image>./images/twister-image.png</image>
-		<releasedate>19960101T000000</releasedate>
-		<publisher>SEGA</publisher>
-		<genre>Various / Electro- Mechanical</genre>
-		<players>1</players>
-		<hidden>true</hidden>
-		<crc32>39E7727D</crc32>
-		<md5>4d72378fd47e3736b515403e3c70ceb9</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230216T195040" />
-		<scrap name="HfsDB" date="20231115T094400" />
-		<scrap name="ArcadeDB" date="20230218T031110" />
-	</game>
 	<game>
 		<path>./ROMs (merged)/tws96.zip</path>
 		<name>Tecmo World Soccer '96</name>
@@ -27380,15 +25489,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=2850&am
 		<scrap name="ArcadeDB" date="20230228T092429" />
 	</game>
 	<game>
-		<path>./ROMs (merged)/vantris.zip</path>
-		<name>Vantris 98</name>
-		<crc32>8D73643D</crc32>
-		<md5>9db7ab0392b368f46158e424d24a491b</md5>
-		<scrap name="ScreenScraper" date="20230216T195208" />
-		<scrap name="HfsDB" date="20231115T094404" />
-		<scrap name="ArcadeDB" date="20230218T031111" />
-	</game>
-	<game>
 		<path>./ROMs (merged)/varth.zip</path>
 		<name>Varth: Operation Thunderstorm</name>
 		<desc>Varth: Operation Thunderstorm was produced by Capcom in 1992.
@@ -27418,32 +25518,6 @@ A vertically scrolling shooter with planes and other ships to destroy. The game 
 		<scrap name="ScreenScraper" date="20230216T195226" />
 		<scrap name="HfsDB" date="20231115T094404" />
 		<scrap name="ArcadeDB" date="20230228T092432" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/videight.zip</path>
-		<name>Video Eight</name>
-		<desc>Arcade Video game published 21 years ago:
-
-Video Eight (c) 2001 Macro.
-
-Unlicensed compilation of games running on Galaxian-derived hardware.
-
-- CONTRIBUTE -
-
-Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=145523&amp;o=2</desc>
-		<image>./images/videight-image.png</image>
-		<releasedate>20010101T000000</releasedate>
-		<developer>Macro</developer>
-		<publisher>Macro</publisher>
-		<genre>MultiGame / Compilation</genre>
-		<players>2</players>
-		<crc32>D3225F6B</crc32>
-		<md5>6b146c982902ec3d464043ad36c2c0e9</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230216T195231" />
-		<scrap name="HfsDB" date="20231115T094405" />
-		<scrap name="ArcadeDB" date="20230218T031111" />
 	</game>
 	<game>
 		<path>./ROMs (merged)/viostorm.zip</path>
@@ -27546,15 +25620,6 @@ Oddly and unlike Vampire Hunter 2, Vampire Savior 2 uses Night Warriors 's (Vamp
 		<scrap name="ScreenScraper" date="20230216T195446" />
 		<scrap name="HfsDB" date="20231115T094407" />
 		<scrap name="ArcadeDB" date="20230228T092445" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/wbeast.zip</path>
-		<name>Wriggly Beasties</name>
-		<crc32>DF1B7EE5</crc32>
-		<md5>21d1cfe93383d5723224d545569e462a</md5>
-		<scrap name="ScreenScraper" date="20230216T195450" />
-		<scrap name="HfsDB" date="20231115T094407" />
-		<scrap name="ArcadeDB" date="20230218T031111" />
 	</game>
 	<game>
 		<path>./ROMs (merged)/wbml.zip</path>
@@ -28029,15 +26094,6 @@ Warriors of Fate follows Liu Bei's plight in Jingzhou from Romance of the Three 
 		<scrap name="ArcadeDB" date="20230228T092506" />
 	</game>
 	<game>
-		<path>./ROMs (merged)/xeno.zip</path>
-		<name>xeno</name>
-		<crc32>174090EF</crc32>
-		<md5>ab1c5505d4fd83bce4edb5e338acc60a</md5>
-		<scrap name="ScreenScraper" date="20230216T195851" />
-		<scrap name="HfsDB" date="20231115T094414" />
-		<scrap name="ArcadeDB" date="20230218T031111" />
-	</game>
-	<game>
 		<path>./ROMs (merged)/xevious.zip</path>
 		<name>Xevious</name>
 		<desc>Arcade Video game published 40 years ago:
@@ -28305,15 +26361,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=3217&am
 		<scrap name="ArcadeDB" date="20230228T092508" />
 	</game>
 	<game>
-		<path>./ROMs (merged)/xmas2017.zip</path>
-		<name>Xmas/Happy New Year 2017 demo</name>
-		<crc32>63A69C70</crc32>
-		<md5>198515dce25ce2a7d4a5edd87b8fc84e</md5>
-		<scrap name="ScreenScraper" date="20230216T195911" />
-		<scrap name="HfsDB" date="20231115T094414" />
-		<scrap name="ArcadeDB" date="20230218T031111" />
-	</game>
-	<game>
 		<path>./ROMs (merged)/xmcota.zip</path>
 		<name>X-Men: Children of the Atom</name>
 		<desc>Ten mutant heroes and villians compete in one-on-one combat to decide the fate of the world. Each hero and villian has special powers that can be unleashed upon opponents. Play culminates after defeating the two mutant bosses, The Juggernaut and Magneto.
@@ -28383,60 +26430,6 @@ After defeating all the opponents, a player's mutant will go head-to-head with t
 		<scrap name="ArcadeDB" date="20230228T092516" />
 	</game>
 	<game>
-		<path>./ROMs (merged)/ym2413.zip</path>
-		<name>YM2413 OPLL</name>
-		<image>./images/ym2413-image.png</image>
-		<releasedate>19691231T190000</releasedate>
-		<genre>System / Device</genre>
-		<players>0</players>
-		<crc32>5737E541</crc32>
-		<md5>21ba73df83aab5f2c82f986abdd5e22a</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230216T200015" />
-		<scrap name="HfsDB" date="20231115T094501" />
-		<scrap name="ArcadeDB" date="20230218T031111" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/ym2423.zip</path>
-		<name>YM2423 OPLL-X</name>
-		<image>./images/ym2423-image.png</image>
-		<releasedate>19691231T190000</releasedate>
-		<genre>System / Device</genre>
-		<players>0</players>
-		<crc32>C963199A</crc32>
-		<md5>e29da387e055a2ce34c3f2454c0e7a14</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230216T200015" />
-		<scrap name="HfsDB" date="20231115T094501" />
-		<scrap name="ArcadeDB" date="20230218T031111" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/ymf281.zip</path>
-		<name>YMF281 OPLLP</name>
-		<image>./images/ymf281-image.png</image>
-		<releasedate>19691231T190000</releasedate>
-		<genre>System / Device</genre>
-		<players>0</players>
-		<crc32>D72E95B4</crc32>
-		<md5>382559e51e708f377e4bcb9a711a7e67</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230216T200016" />
-		<scrap name="HfsDB" date="20231115T094501" />
-		<scrap name="ArcadeDB" date="20230218T031111" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/zap.zip</path>
-		<name>Space Zap Tribute</name>
-		<crc32>B6064424</crc32>
-		<md5>62fe8a5f50e08056f248fa5bddb6fb9f</md5>
-		<scrap name="ScreenScraper" date="20230216T200016" />
-		<scrap name="HfsDB" date="20231115T094501" />
-		<scrap name="ArcadeDB" date="20230218T031112" />
-	</game>
-	<game>
 		<path>./ROMs (merged)/zeroteam.zip</path>
 		<name>Zero Team USA</name>
 		<image>./images/zeroteam-image.png</image>
@@ -28449,48 +26442,6 @@ After defeating all the opponents, a player's mutant will go head-to-head with t
 		<players>4</players>
 		<crc32>D9BA47A9</crc32>
 		<md5>68f9206032baca9885e8a26a9bd9604e</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20230216T200016" />
-		<scrap name="HfsDB" date="20231115T094502" />
-		<scrap name="ArcadeDB" date="20230218T031114" />
-	</game>
-	<game>
-		<path>./ROMs (merged)/zintrckb.zip</path>
-		<name>Zintrick / Oshidashi Zentrix</name>
-		<desc>押し出し ジントリック (c) 1996 SNK.
-(Oshidashi Zintrick)
-
-Bootleg release of Neo-Geo CD exclusive game "Oshidashi Zintrick [Model ADCD-104]".
-
-- TECHNICAL -
-
-Runs on the SNK "Neo-Geo MVS" hardware.
-
-Players: 2
-Control: 8-way joystick
-Buttons: 3
-=&gt; Mode 1: [A] Spin, [B] Shot, [C] Special attack
-=&gt; Mode 2: [A] Shot, [B] Spin, [C] Special attack
-=&gt; Mode 3: [A] Spin, [C] Special attack
-
-- TIPS AND TRICKS -
-
-* Play As Ryu Eagle (Ninja):
-Put the machine in 'Free Play' mode (via dip switches), at the character selection screen, highlight Subberg, hold Up+B and press A.
-
-- CONTRIBUTE -
-
-Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=3254&amp;o=2</desc>
-		<image>./images/zintrckb-image.png</image>
-		<video>./videos/zintrckb-video.mp4</video>
-		<releasedate>19960101T000000</releasedate>
-		<developer>bootleg</developer>
-		<publisher>bootleg</publisher>
-		<genre>Puzzle / Toss</genre>
-		<players>2</players>
-		<crc32>EE259FB4</crc32>
-		<md5>cd636e43a28117fcdf65c620e806bc6b</md5>
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230216T200016" />
@@ -28572,5 +26523,2170 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=3261&am
 		<scrap name="ScreenScraper" date="20230216T200017" />
 		<scrap name="HfsDB" date="20231115T094503" />
 		<scrap name="ArcadeDB" date="20230218T031117" />
+	</game>
+	<game>
+		<path>./ROMs (bios-devices)/arkanoid68705p3.zip</path>
+		<name>Arkanoid MC68705P3 Interface</name>
+		<image>./images/arkanoid68705p3-image.png</image>
+		<releasedate>19691231T190000</releasedate>
+		<genre>System / Device</genre>
+		<players>0</players>
+		<crc32>F3F10ABB</crc32>
+		<md5>a7ab00a0f5352d8a006a35e536443600</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230216T160759" />
+		<scrap name="HfsDB" date="20231115T092651" />
+		<scrap name="ArcadeDB" date="20231227T203713" />
+	</game>
+	<game>
+		<path>./ROMs (bios-devices)/arkanoid68705p5.zip</path>
+		<name>Arkanoid MC68705P5 Interface</name>
+		<image>./images/arkanoid68705p5-image.png</image>
+		<releasedate>19691231T190000</releasedate>
+		<genre>System / Device</genre>
+		<players>0</players>
+		<crc32>B1654C9B</crc32>
+		<md5>d846842bf12d07bfa7ca3e9f0537c213</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230216T160803" />
+		<scrap name="HfsDB" date="20231115T092651" />
+		<scrap name="ArcadeDB" date="20231227T203713" />
+	</game>
+	<game>
+		<path>./ROMs (bios-devices)/atari_cage.zip</path>
+		<name>Atari CAGE</name>
+		<image>./images/atari_cage-image.png</image>
+		<releasedate>19691231T190000</releasedate>
+		<genre>System / Device</genre>
+		<players>0</players>
+		<crc32>6B404CCB</crc32>
+		<md5>9b42e551a0d987c040bd11d9ac2649de</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230216T160807" />
+		<scrap name="HfsDB" date="20231115T092651" />
+		<scrap name="ArcadeDB" date="20231227T203713" />
+	</game>
+	<game>
+		<path>./ROMs (bios-devices)/atari_cage_seattle.zip</path>
+		<name>Atari CAGE Seattle</name>
+		<image>./images/atari_cage_seattle-image.png</image>
+		<releasedate>19691231T190000</releasedate>
+		<genre>System / Device</genre>
+		<players>0</players>
+		<crc32>6B404CCB</crc32>
+		<md5>9b42e551a0d987c040bd11d9ac2649de</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230216T160811" />
+		<scrap name="HfsDB" date="20231115T092652" />
+		<scrap name="ArcadeDB" date="20231227T203713" />
+	</game>
+	<game>
+		<path>./ROMs (bios-devices)/decobsmt.zip</path>
+		<name>Data East/Sega/Stern BSMT2000 Sound Board</name>
+		<image>./images/decobsmt-image.png</image>
+		<releasedate>19691231T190000</releasedate>
+		<genre>System / Device</genre>
+		<players>0</players>
+		<crc32>44C11C2C</crc32>
+		<md5>6fb1df5aa0bedc95e392c7cb875afea9</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230216T160815" />
+		<scrap name="HfsDB" date="20231115T092652" />
+		<scrap name="ArcadeDB" date="20231227T203714" />
+	</game>
+	<game>
+		<path>./ROMs (bios-devices)/ds1001.zip</path>
+		<name>Yamaha DS1001 / Konami 053982</name>
+		<image>./images/ds1001-image.png</image>
+		<releasedate>19691231T190000</releasedate>
+		<genre>System / Device</genre>
+		<players>0</players>
+		<hidden>true</hidden>
+		<crc32>5D3DAD10</crc32>
+		<md5>3f7c70a44c4496240a13f0d8ddf9b178</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230216T160817" />
+		<scrap name="HfsDB" date="20231115T092652" />
+		<scrap name="ArcadeDB" date="20231227T203714" />
+	</game>
+	<game>
+		<path>./ROMs (bios-devices)/gotsndr1vt.zip</path>
+		<name>Gottlieb Sound rev. 1 with Votrax</name>
+		<image>./images/gotsndr1vt-image.png</image>
+		<releasedate>19691231T190000</releasedate>
+		<genre>System / Device</genre>
+		<players>0</players>
+		<crc32>5F919DBC</crc32>
+		<md5>b784c07140810457f6244d267cbbbb72</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230216T160821" />
+		<scrap name="HfsDB" date="20231115T092653" />
+		<scrap name="ArcadeDB" date="20231227T203714" />
+	</game>
+	<game>
+		<path>./ROMs (bios-devices)/s_smp.zip</path>
+		<name>Nintendo/Sony S-SMP</name>
+		<image>./images/s_smp-image.png</image>
+		<releasedate>19691231T190000</releasedate>
+		<genre>System / Device</genre>
+		<players>0</players>
+		<hidden>true</hidden>
+		<crc32>307BE18C</crc32>
+		<md5>f80b6f46db83e714922190e37b9c6a80</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230216T160823" />
+		<scrap name="HfsDB" date="20231115T092653" />
+		<scrap name="ArcadeDB" date="20231227T203714" />
+	</game>
+	<game>
+		<path>./ROMs (bios-devices)/taito68705.zip</path>
+		<name>Taito MC68705 MCU Interface</name>
+		<image>./images/taito68705-image.png</image>
+		<releasedate>19691231T190000</releasedate>
+		<genre>System / Device</genre>
+		<players>0</players>
+		<crc32>B1654C9B</crc32>
+		<md5>d846842bf12d07bfa7ca3e9f0537c213</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230216T160828" />
+		<scrap name="HfsDB" date="20231115T092653" />
+		<scrap name="ArcadeDB" date="20231227T203714" />
+	</game>
+	<game>
+		<path>./ROMs (bios-devices)/taito68705tiger.zip</path>
+		<name>Taito MC68705 MCU Interface (Tiger-Heli)</name>
+		<image>./images/taito68705tiger-image.png</image>
+		<releasedate>19691231T190000</releasedate>
+		<genre>System / Device</genre>
+		<players>0</players>
+		<crc32>B1654C9B</crc32>
+		<md5>d846842bf12d07bfa7ca3e9f0537c213</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230216T160832" />
+		<scrap name="HfsDB" date="20231115T092653" />
+		<scrap name="ArcadeDB" date="20231227T203714" />
+	</game>
+	<game>
+		<path>./ROMs (bios-devices)/taitosjsecmcu.zip</path>
+		<name>Taito SJ Security MCU Interface</name>
+		<image>./images/taitosjsecmcu-image.png</image>
+		<releasedate>19691231T190000</releasedate>
+		<genre>System / Device</genre>
+		<players>0</players>
+		<crc32>B1654C9B</crc32>
+		<md5>d846842bf12d07bfa7ca3e9f0537c213</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230216T160835" />
+		<scrap name="HfsDB" date="20231115T092654" />
+		<scrap name="ArcadeDB" date="20231227T203714" />
+	</game>
+	<game>
+		<path>./ROMs (bios-devices)/tms32033.zip</path>
+		<name>Texas Instruments TMS320VC33</name>
+		<image>./images/tms32033-image.png</image>
+		<releasedate>19691231T190000</releasedate>
+		<genre>System / Device</genre>
+		<players>0</players>
+		<crc32>6B404CCB</crc32>
+		<md5>9b42e551a0d987c040bd11d9ac2649de</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230216T160839" />
+		<scrap name="HfsDB" date="20231115T092654" />
+		<scrap name="ArcadeDB" date="20231227T203715" />
+	</game>
+	<game>
+		<path>./ROMs (bios-devices)/ym2413.zip</path>
+		<name>YM2413 OPLL</name>
+		<image>./images/ym2413-image.png</image>
+		<releasedate>19691231T190000</releasedate>
+		<genre>System / Device</genre>
+		<players>0</players>
+		<hidden>true</hidden>
+		<crc32>5737E541</crc32>
+		<md5>21ba73df83aab5f2c82f986abdd5e22a</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230216T160845" />
+		<scrap name="HfsDB" date="20231115T092654" />
+		<scrap name="ArcadeDB" date="20231227T203715" />
+	</game>
+	<game>
+		<path>./ROMs (bios-devices)/ym2423.zip</path>
+		<name>YM2423 OPLL-X</name>
+		<image>./images/ym2423-image.png</image>
+		<releasedate>19691231T190000</releasedate>
+		<genre>System / Device</genre>
+		<players>0</players>
+		<hidden>true</hidden>
+		<crc32>C963199A</crc32>
+		<md5>e29da387e055a2ce34c3f2454c0e7a14</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230216T160850" />
+		<scrap name="HfsDB" date="20231115T092655" />
+		<scrap name="ArcadeDB" date="20231227T203715" />
+	</game>
+	<game>
+		<path>./ROMs (bios-devices)/ymf281.zip</path>
+		<name>YMF281 OPLLP</name>
+		<image>./images/ymf281-image.png</image>
+		<releasedate>19691231T190000</releasedate>
+		<genre>System / Device</genre>
+		<players>0</players>
+		<hidden>true</hidden>
+		<crc32>D72E95B4</crc32>
+		<md5>382559e51e708f377e4bcb9a711a7e67</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230216T160852" />
+		<scrap name="HfsDB" date="20231115T092655" />
+		<scrap name="ArcadeDB" date="20231227T203715" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/19yy.zip</path>
+		<name>19yy</name>
+		<crc32>AE8A7B12</crc32>
+		<md5>b92ab64eee830f3ade433cf33f0d7988</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230216T161117" />
+		<scrap name="HfsDB" date="20231115T092656" />
+		<scrap name="ArcadeDB" date="20231227T203715" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/aa.zip</path>
+		<name>Alien Armada</name>
+		<crc32>61C9288A</crc32>
+		<md5>0f285122a14f999aa26b0110c8a9134a</md5>
+		<scrap name="ScreenScraper" date="20230216T161251" />
+		<scrap name="HfsDB" date="20231115T092657" />
+		<scrap name="ArcadeDB" date="20231227T203715" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/absurd.zip</path>
+		<name>Absurd!/QuadBlok (non-working alpha ver 3)</name>
+		<crc32>2B14E338</crc32>
+		<md5>22aa23449955c7d0f8547736fcc2aa9b</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230216T161254" />
+		<scrap name="HfsDB" date="20231115T092657" />
+		<scrap name="ArcadeDB" date="20231227T203715" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/abyssal.zip</path>
+		<name>abyssal</name>
+		<crc32>C5D9F1D9</crc32>
+		<md5>86d0f82caa5ff7d9726d5e2ed8cb5b91</md5>
+		<scrap name="ScreenScraper" date="20230216T161326" />
+		<scrap name="HfsDB" date="20231115T092658" />
+		<scrap name="ArcadeDB" date="20231227T203715" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/akiradmo.zip</path>
+		<name>Akira Demo</name>
+		<crc32>B27633BB</crc32>
+		<md5>2d24d81a6af8f353de85c450d9301ee7</md5>
+		<scrap name="ScreenScraper" date="20230216T161409" />
+		<scrap name="HfsDB" date="20231115T092659" />
+		<scrap name="ArcadeDB" date="20231227T203715" />
+	</game>
+	<game id="204354">
+		<path>./ROMs (merged)/alienres.zip</path>
+		<name>Alien Rescue</name>
+		<image>./images/alienres-image.png</image>
+		<video>./videos/alienres-video.mp4</video>
+		<thumbnail>./images/alienres-thumb.png</thumbnail>
+		<boxback>./images/alienres-boxback.png</boxback>
+		<releasedate>20190701T000000</releasedate>
+		<developer>monstersgoboom</developer>
+		<publisher>monstersgoboom</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<crc32>E3C7BB03</crc32>
+		<md5>a4ab1a1bfe2468270ab994da7019d34a</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230216T161443" />
+		<scrap name="HfsDB" date="20231115T092700" />
+		<scrap name="ArcadeDB" date="20231227T203716" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/alpha1v.zip</path>
+		<name>Alpha One (Vision Electronics)</name>
+		<desc>Arcade Video game published 35 years ago:
+
+Alpha One (c) 1988 Vision Electronics.
+
+- TECHNICAL -
+
+Main CPU: Zilog Z80, M6803
+Sound Chips: (2x) General Instrument AY8910, (2x) MSM5205
+
+Players: 2
+Buttons: 2
+
+- STAFF -
+
+Programmed by: Kyle Hodgetts, Tony Windsor
+
+- CONTRIBUTE -
+
+Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=11063&amp;o=2</desc>
+		<image>./images/alpha1v-image.png</image>
+		<video>./videos/alpha1v-video.mp4</video>
+		<marquee>./images/alpha1v-marquee.png</marquee>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Vision Electronics</developer>
+		<publisher>Vision Electronics</publisher>
+		<genre>Shooter / Flying Horizontal</genre>
+		<players>2</players>
+		<crc32>A653CDE6</crc32>
+		<md5>ffa16bc2f8a9ca089c86e70009404ada</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230216T161453" />
+		<scrap name="HfsDB" date="20231115T092700" />
+		<scrap name="ArcadeDB" date="20231227T203716" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/aquario.zip</path>
+		<name>aquario</name>
+		<crc32>F741C373</crc32>
+		<md5>2e3a1ec9338a57f71e52ee96e79ecdf3</md5>
+		<scrap name="ScreenScraper" date="20230216T161901" />
+		<scrap name="HfsDB" date="20231115T092754" />
+		<scrap name="ArcadeDB" date="20231227T203716" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/bace.zip</path>
+		<name>Balloon Ace</name>
+		<crc32>874C874A</crc32>
+		<md5>901f633dff4422fd7776e406b30008e6</md5>
+		<scrap name="ScreenScraper" date="20230216T162336" />
+		<scrap name="HfsDB" date="20231115T092801" />
+		<scrap name="ArcadeDB" date="20231227T203716" />
+	</game>
+	<game id="109301">
+		<path>./ROMs (merged)/badapple.zip</path>
+		<name>ZZZ(notgame):Demos</name>
+		<desc>Homebrew Demo</desc>
+		<thumbnail>./images/badapple-thumb.png</thumbnail>
+		<boxback>./images/badapple-boxback.png</boxback>
+		<releasedate>20020101T000000</releasedate>
+		<developer>Jeff Kurtz</developer>
+		<publisher>Homebrew</publisher>
+		<genre>Platform</genre>
+		<arcadesystemname>neogeo</arcadesystemname>
+		<hidden>true</hidden>
+		<crc32>66DA4070</crc32>
+		<md5>29763132dbd0e276e9fd8f63ae3d0e2d</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230216T162345" />
+		<scrap name="HfsDB" date="20231115T092801" />
+		<scrap name="ArcadeDB" date="20231227T203716" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/bbugtest.zip</path>
+		<name>Test Rom - Boxing Bugs</name>
+		<crc32>E2290ACC</crc32>
+		<md5>123453eb60581381ae5847f6793ebab4</md5>
+		<scrap name="ScreenScraper" date="20230216T162627" />
+		<scrap name="HfsDB" date="20231115T092804" />
+		<scrap name="ArcadeDB" date="20231227T203716" />
+	</game>
+	<game id="109301">
+		<path>./ROMs (merged)/beast.zip</path>
+		<name>ZZZ(notgame):Demos</name>
+		<desc>Homebrew Demo</desc>
+		<thumbnail>./images/beast-thumb.png</thumbnail>
+		<boxback>./images/beast-boxback.png</boxback>
+		<releasedate>20020101T000000</releasedate>
+		<developer>Jeff Kurtz</developer>
+		<publisher>Homebrew</publisher>
+		<genre>Platform</genre>
+		<arcadesystemname>neogeo</arcadesystemname>
+		<hidden>true</hidden>
+		<crc32>D822333C</crc32>
+		<md5>ddc9987526b3ee9b03630d3f34a3eaa4</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230216T162635" />
+		<scrap name="HfsDB" date="20231115T092805" />
+		<scrap name="ArcadeDB" date="20231227T203716" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/bonusstage.zip</path>
+		<name>bonusstage</name>
+		<crc32>72C174A7</crc32>
+		<md5>e4052ba16eeb2c1578b3f6c76fa04b9f</md5>
+		<scrap name="ScreenScraper" date="20230216T162946" />
+		<scrap name="HfsDB" date="20231115T092808" />
+		<scrap name="ArcadeDB" date="20231227T203716" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/c2frog.zip</path>
+		<name>Frog Feast (Sega C2 hardware)</name>
+		<crc32>C9A791DC</crc32>
+		<md5>de8e1a88215f558bf85b6616fb9c466d</md5>
+		<scrap name="ScreenScraper" date="20230216T163336" />
+		<scrap name="HfsDB" date="20231115T092857" />
+		<scrap name="ArcadeDB" date="20231227T203716" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/cabalng.zip</path>
+		<name>cabalng</name>
+		<crc32>C81FE95D</crc32>
+		<md5>4c3b68199a2b06cf6988dcc4960d34ab</md5>
+		<scrap name="ScreenScraper" date="20230216T163406" />
+		<scrap name="HfsDB" date="20231115T092857" />
+		<scrap name="ArcadeDB" date="20231227T203717" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/cakefght.zip</path>
+		<name>cakefght</name>
+		<crc32>06D93957</crc32>
+		<md5>aa4d3acfb93cfbf36feb77f84b41163d</md5>
+		<scrap name="ScreenScraper" date="20230216T163410" />
+		<scrap name="HfsDB" date="20231115T092857" />
+		<scrap name="ArcadeDB" date="20231227T203717" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/caravan.zip</path>
+		<name>Project Neon Caravan Edition (Prealpha 0.4.19)</name>
+		<crc32>2257F0AC</crc32>
+		<md5>aa5557a2942aa93df390f73d23c62854</md5>
+		<scrap name="ScreenScraper" date="20230216T163456" />
+		<scrap name="HfsDB" date="20231115T092858" />
+		<scrap name="ArcadeDB" date="20231227T203717" />
+	</game>
+	<game id="109301">
+		<path>./ROMs (merged)/cndi.zip</path>
+		<name>ZZZ(notgame):Demos</name>
+		<desc>Homebrew Demo</desc>
+		<thumbnail>./images/cndi-thumb.png</thumbnail>
+		<boxback>./images/cndi-boxback.png</boxback>
+		<releasedate>20020101T000000</releasedate>
+		<developer>Jeff Kurtz</developer>
+		<publisher>Homebrew</publisher>
+		<genre>Platform</genre>
+		<arcadesystemname>neogeo</arcadesystemname>
+		<hidden>true</hidden>
+		<crc32>E68AEB96</crc32>
+		<md5>d0fb92a36e16edf9b90a25b241ac83c9</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230216T163716" />
+		<scrap name="HfsDB" date="20231115T092902" />
+		<scrap name="ArcadeDB" date="20231227T203717" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/conquest.zip</path>
+		<name>Conquest (prototype)</name>
+		<desc>Arcade Video game published 41 years ago:
+
+Conquest (c) 1982 Tago Electronics.
+
+Never released.
+
+- CONTRIBUTE -
+
+Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=29875&amp;o=2</desc>
+		<image>./images/conquest-image.png</image>
+		<video>./videos/conquest-video.mp4</video>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Williams / Vid Kidz</developer>
+		<publisher>Williams / Vid Kidz</publisher>
+		<genre>Shooter / Field</genre>
+		<players>1</players>
+		<crc32>F81E3D9E</crc32>
+		<md5>6435aaa491872b08c9cc27c24b33ea93</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230216T163802" />
+		<scrap name="HfsDB" date="20231115T092903" />
+		<scrap name="ArcadeDB" date="20231227T203719" />
+	</game>
+	<game id="79304">
+		<path>./ROMs (merged)/cps1demo.zip</path>
+		<name>ZZZ(notgame):Chaos Demo</name>
+		<image>./images/cps1demo-image.png</image>
+		<releasedate>20020101T000000</releasedate>
+		<developer>Chaos</developer>
+		<publisher>Chaos</publisher>
+		<hidden>true</hidden>
+		<crc32>E8B98167</crc32>
+		<md5>1689954f5357aff93e89da81373c5152</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230216T163908" />
+		<scrap name="HfsDB" date="20231115T092904" />
+		<scrap name="ArcadeDB" date="20231227T203719" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/crashh.zip</path>
+		<name>Crash (Pac-Man)</name>
+		<crc32>2EA1C220</crc32>
+		<md5>37fde41d5b38899a6db625cb0f8bcdcb</md5>
+		<scrap name="ScreenScraper" date="20230216T163931" />
+		<scrap name="HfsDB" date="20231115T092904" />
+		<scrap name="ArcadeDB" date="20231227T203719" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/cthd2k3b.zip</path>
+		<name>Crouching Tiger Hidden Dragon 2003 (Hidden Characters Boss V1)</name>
+		<crc32>2605BB0D</crc32>
+		<md5>75dc87484a0942b84f2daac9bdc0f9b8</md5>
+		<scrap name="ScreenScraper" date="20230216T164115" />
+		<scrap name="HfsDB" date="20231115T092906" />
+		<scrap name="ArcadeDB" date="20231227T203719" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/dderby.zip</path>
+		<name>Death Derby</name>
+		<crc32>04D6456A</crc32>
+		<md5>b4c758cc8256d0a1b8cf08ce7c2bce53</md5>
+		<scrap name="ScreenScraper" date="20230216T164353" />
+		<scrap name="HfsDB" date="20231115T092959" />
+		<scrap name="ArcadeDB" date="20231227T203719" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/ddpsdoj.zip</path>
+		<name>ddpsdoj</name>
+		<crc32>96A723AF</crc32>
+		<scrap name="ScreenScraper" date="20230216T164423" />
+		<scrap name="HfsDB" date="20231115T092959" />
+		<scrap name="ArcadeDB" date="20231227T203719" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/ddsprdmo.zip</path>
+		<name>Double Dragon SpritePool demo</name>
+		<crc32>CB34321C</crc32>
+		<md5>0203afeb5ebe8722472d53e1a5989869</md5>
+		<scrap name="ScreenScraper" date="20230216T164512" />
+		<scrap name="HfsDB" date="20231115T093001" />
+		<scrap name="ArcadeDB" date="20231227T203720" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/decomult.zip</path>
+		<name>DECO Cassette System ROM Multigame (David Widel)</name>
+		<image>./images/decomult-image.png</image>
+		<video>./videos/decomult-video.mp4</video>
+		<thumbnail>./images/decomult-thumb.png</thumbnail>
+		<boxback>./images/decomult-boxback.png</boxback>
+		<releasedate>20080101T000000</releasedate>
+		<developer>bootleg (David Widel)</developer>
+		<publisher>bootleg (David Widel)</publisher>
+		<genre>MultiGame / Compilation</genre>
+		<players>2</players>
+		<hidden>true</hidden>
+		<crc32>011F241B</crc32>
+		<md5>97d1031057db864f9674baa59a47d49d</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230216T164645" />
+		<scrap name="HfsDB" date="20231115T093003" />
+		<scrap name="ArcadeDB" date="20231227T203720" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/didemo.zip</path>
+		<name>DatImage demo</name>
+		<crc32>C35D786E</crc32>
+		<md5>ccbac8f78174b25c457beb91227679d4</md5>
+		<scrap name="ScreenScraper" date="20230216T164734" />
+		<scrap name="HfsDB" date="20231115T093004" />
+		<scrap name="ArcadeDB" date="20231227T203720" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/dragons1.zip</path>
+		<name>Dragon's Heaven</name>
+		<crc32>7A074806</crc32>
+		<md5>ef28de7f8606a9d65ea0afe73845b581</md5>
+		<scrap name="ScreenScraper" date="20230216T165018" />
+		<scrap name="HfsDB" date="20231115T093010" />
+		<scrap name="ArcadeDB" date="20231227T203720" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/ds1001.zip</path>
+		<name>Yamaha DS1001 / Konami 053982</name>
+		<image>./images/ds1001-image.png</image>
+		<releasedate>19691231T190000</releasedate>
+		<genre>System / Device</genre>
+		<players>0</players>
+		<hidden>true</hidden>
+		<crc32>5D3DAD10</crc32>
+		<md5>3f7c70a44c4496240a13f0d8ddf9b178</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230216T165121" />
+		<scrap name="HfsDB" date="20231115T093012" />
+		<scrap name="ArcadeDB" date="20231227T203720" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/dti.zip</path>
+		<name>Duck Tales (Intro demo v1)</name>
+		<crc32>EFB5A6D3</crc32>
+		<md5>8ad080f31a282853bf22f4c83b846302</md5>
+		<scrap name="ScreenScraper" date="20230216T165159" />
+		<scrap name="HfsDB" date="20231115T093053" />
+		<scrap name="ArcadeDB" date="20231227T203720" />
+	</game>
+	<game id="109301">
+		<path>./ROMs (merged)/dwi.zip</path>
+		<name>ZZZ(notgame):Demos</name>
+		<desc>Homebrew Demo</desc>
+		<thumbnail>./images/dwi-thumb.png</thumbnail>
+		<boxback>./images/dwi-boxback.png</boxback>
+		<releasedate>20020101T000000</releasedate>
+		<developer>Jeff Kurtz</developer>
+		<publisher>Homebrew</publisher>
+		<genre>Platform</genre>
+		<arcadesystemname>neogeo</arcadesystemname>
+		<hidden>true</hidden>
+		<crc32>0D25C8D3</crc32>
+		<md5>82e2d9c1a2043f7439f20a3948beac17</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230216T165208" />
+		<scrap name="HfsDB" date="20231115T093053" />
+		<scrap name="ArcadeDB" date="20231227T203720" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/f2demo.zip</path>
+		<name>Demo - Taito F2</name>
+		<crc32>7CCC9CF2</crc32>
+		<md5>2fac817d1f62b216f9102ffa34e3a520</md5>
+		<scrap name="ScreenScraper" date="20230216T165447" />
+		<scrap name="HfsDB" date="20231115T093101" />
+		<scrap name="ArcadeDB" date="20231227T203721" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/fantzone01.zip</path>
+		<name>fantzone01</name>
+		<crc32>1176F3E8</crc32>
+		<md5>6519d9eb4e332f0d7c02ab3590c9f7a5</md5>
+		<scrap name="ScreenScraper" date="20230216T165451" />
+		<scrap name="HfsDB" date="20231115T093101" />
+		<scrap name="ArcadeDB" date="20231227T203721" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/ffeast.zip</path>
+		<name>Frog Feast (NeoGeo)</name>
+		<crc32>BB219985</crc32>
+		<md5>b1ed24c59f1bf5e6df8ae146ec89cb69</md5>
+		<scrap name="ScreenScraper" date="20230216T165853" />
+		<scrap name="HfsDB" date="20231115T093103" />
+		<scrap name="ArcadeDB" date="20231227T203721" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/ffightaec2.zip</path>
+		<name>ffightaec2</name>
+		<crc32>82702E38</crc32>
+		<md5>03341cf1635cf98b4c5f58bba83f4ddd</md5>
+		<scrap name="ScreenScraper" date="20230216T165918" />
+		<scrap name="HfsDB" date="20231115T093104" />
+		<scrap name="ArcadeDB" date="20231227T203721" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/fourplay.zip</path>
+		<name>Four Play</name>
+		<desc>Arcade Video game published 21 years ago:
+
+Four Play (c) 2002 Macro.
+
+Unlicensed compilation of games running on a Galaxian-derived hardware.
+
+- CONTRIBUTE -
+
+Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=145516&amp;o=2</desc>
+		<image>./images/fourplay-image.png</image>
+		<releasedate>20020101T000000</releasedate>
+		<developer>Macro</developer>
+		<publisher>Macro</publisher>
+		<genre>MultiGame / Compilation</genre>
+		<players>2</players>
+		<crc32>8A1A7130</crc32>
+		<md5>4568edebd201eb6919599cd91755fc12</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230216T170126" />
+		<scrap name="HfsDB" date="20231115T093109" />
+		<scrap name="ArcadeDB" date="20231227T203721" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/fr2.zip</path>
+		<name>Idol Mahjong Final Romance 2</name>
+		<crc32>FD1433AD</crc32>
+		<md5>014dd0611237a0d7d1149e26199fc5cb</md5>
+		<scrap name="ScreenScraper" date="20230216T170130" />
+		<scrap name="HfsDB" date="20231115T093109" />
+		<scrap name="ArcadeDB" date="20231227T203721" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/garoupy.zip</path>
+		<name>Garou - Mark of the Wolves (P1 Add Char)</name>
+		<crc32>3F354F8A</crc32>
+		<md5>16ea8dcce51d6bf98bf489d43c25cce8</md5>
+		<scrap name="ScreenScraper" date="20230216T170614" />
+		<scrap name="HfsDB" date="20231115T093156" />
+		<scrap name="ArcadeDB" date="20231227T203721" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/gbi.zip</path>
+		<name>GhostBusters (Intro demo)</name>
+		<crc32>FC5F5E00</crc32>
+		<md5>70af184c50c0c925884b5f282d612602</md5>
+		<scrap name="ScreenScraper" date="20230216T170658" />
+		<scrap name="HfsDB" date="20231115T093158" />
+		<scrap name="ArcadeDB" date="20231227T203721" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/gnw_bride.zip</path>
+		<name>Game &amp;amp; Watch: Bride</name>
+		<crc32>5046541C</crc32>
+		<md5>b1ddf5afb98d57e34be37cf8ae3e709e</md5>
+		<scrap name="ScreenScraper" date="20230216T170913" />
+		<scrap name="HfsDB" date="20231115T093205" />
+		<scrap name="ArcadeDB" date="20231227T203721" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/gxg.zip</path>
+		<name>gxg</name>
+		<crc32>5B988F1A</crc32>
+		<md5>898a656908170e4a2ba1e0e6b4c4097d</md5>
+		<scrap name="ScreenScraper" date="20230216T171257" />
+		<scrap name="HfsDB" date="20231115T093214" />
+		<scrap name="ArcadeDB" date="20231227T203722" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/hypernoid.zip</path>
+		<name>hypernoid</name>
+		<crc32>68493BEC</crc32>
+		<md5>a3e259d928324bc3d9d77cf28edf7855</md5>
+		<scrap name="ScreenScraper" date="20230216T171415" />
+		<scrap name="HfsDB" date="20231115T093217" />
+		<scrap name="ArcadeDB" date="20231227T203722" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/iocero.zip</path>
+		<name>Primo Demo</name>
+		<crc32>FF488057</crc32>
+		<md5>3c95fb7949ef966fc0c61f57d651ffe8</md5>
+		<scrap name="ScreenScraper" date="20230216T171711" />
+		<scrap name="HfsDB" date="20231115T093256" />
+		<scrap name="ArcadeDB" date="20231227T203722" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/itecdemo.zip</path>
+		<name>Demo - Itec</name>
+		<crc32>A332E0D7</crc32>
+		<md5>55496ee3f95275c5100eb919132da173</md5>
+		<scrap name="ScreenScraper" date="20230216T171735" />
+		<scrap name="HfsDB" date="20231115T093257" />
+		<scrap name="ArcadeDB" date="20231227T203722" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/jojobanc.zip</path>
+		<name>JoJo no Kimyou na Bouken: Mirai e no Isan (Japan 990927, NO CD)</name>
+		<crc32>01E47FEB</crc32>
+		<scrap name="ScreenScraper" date="20230216T171758" />
+		<scrap name="HfsDB" date="20231115T093258" />
+		<scrap name="ArcadeDB" date="20231227T203722" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/jojonc.zip</path>
+		<name>JoJo's Venture (Asia 990128, NO CD)</name>
+		<crc32>9B6722B4</crc32>
+		<md5>7c23289d5fd6e3c6c8248456d1b48a6a</md5>
+		<scrap name="ScreenScraper" date="20230216T171807" />
+		<scrap name="HfsDB" date="20231115T093258" />
+		<scrap name="ArcadeDB" date="20231227T203722" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/jumpbugx.zip</path>
+		<name>Jump Bug (Extra Sounds)</name>
+		<crc32>C5CF9B2D</crc32>
+		<md5>e51f2a30630923412b6631277cb5f835</md5>
+		<scrap name="ScreenScraper" date="20230216T171855" />
+		<scrap name="HfsDB" date="20231115T093301" />
+		<scrap name="ArcadeDB" date="20231227T203722" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/kangaroh.zip</path>
+		<name>Kagaroo (Qbertish) (incomplete)</name>
+		<crc32>DE478596</crc32>
+		<md5>3ca58370ce937079b2f6e35f99852ee2</md5>
+		<scrap name="ScreenScraper" date="20230216T171944" />
+		<scrap name="HfsDB" date="20231115T093304" />
+		<scrap name="ArcadeDB" date="20231227T203722" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/knacki.zip</path>
+		<name>KnackiBalls</name>
+		<crc32>84A5B7F1</crc32>
+		<md5>98aadf7425c2af8dd251cac03a27d651</md5>
+		<scrap name="ScreenScraper" date="20230216T172406" />
+		<scrap name="HfsDB" date="20231115T093311" />
+		<scrap name="ArcadeDB" date="20231227T203722" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/kof99hp.zip</path>
+		<name>Kof'99 (2 Add Char set 2)</name>
+		<crc32>CDC3AFFB</crc32>
+		<md5>d1bdc3e326974e88fadced0f2a87eca4</md5>
+		<scrap name="ScreenScraper" date="20230216T173007" />
+		<scrap name="HfsDB" date="20231115T093400" />
+		<scrap name="ArcadeDB" date="20231227T203723" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/lazybug.zip</path>
+		<name>Lazy Bug</name>
+		<crc32>9929AE7F</crc32>
+		<md5>baba6f61255e16fd3560d31f0d9c2f76</md5>
+		<scrap name="ScreenScraper" date="20230216T173503" />
+		<scrap name="HfsDB" date="20231115T093405" />
+		<scrap name="ArcadeDB" date="20231227T203723" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/lernit.zip</path>
+		<name>Team Lernit</name>
+		<crc32>F2903110</crc32>
+		<md5>571713295ac85bcea64cce4e180c772d</md5>
+		<scrap name="ScreenScraper" date="20230216T173535" />
+		<scrap name="HfsDB" date="20231115T093406" />
+		<scrap name="ArcadeDB" date="20231227T203723" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/looptris.zip</path>
+		<name>looptris</name>
+		<crc32>D6AA1385</crc32>
+		<md5>24b95a83018f0a4288d2f32a3352859d</md5>
+		<scrap name="ScreenScraper" date="20230216T173703" />
+		<scrap name="HfsDB" date="20231115T093409" />
+		<scrap name="ArcadeDB" date="20231227T203723" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/ltorb.zip</path>
+		<name>Jonas Indiana and The Lost Temple of RA (beta - 20050717)</name>
+		<crc32>4A6FF385</crc32>
+		<md5>266345dc1b200956cedff9d8f16698d7</md5>
+		<scrap name="ScreenScraper" date="20230216T173751" />
+		<scrap name="HfsDB" date="20231115T093409" />
+		<scrap name="ArcadeDB" date="20231227T203723" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/madpac.zip</path>
+		<name>Mad Pac [h]</name>
+		<crc32>543780A5</crc32>
+		<md5>ea0190c95d508c0cc127139f69b18ae0</md5>
+		<scrap name="ScreenScraper" date="20230216T173756" />
+		<scrap name="HfsDB" date="20231115T093410" />
+		<scrap name="ArcadeDB" date="20231227T203723" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/mineswp.zip</path>
+		<name>Mine Sweeper [h]</name>
+		<crc32>0155D244</crc32>
+		<md5>dd178bc0e47405926a57f3fe1a3b43c1</md5>
+		<scrap name="ScreenScraper" date="20230216T174447" />
+		<scrap name="HfsDB" date="20231115T093503" />
+		<scrap name="ArcadeDB" date="20231227T203723" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/mitcdemo.zip</path>
+		<name>Demo - Mitchell</name>
+		<crc32>0F1BC6E0</crc32>
+		<md5>d2cb94c8b27b150326a3f46fcc0ded28</md5>
+		<scrap name="ScreenScraper" date="20230216T174511" />
+		<scrap name="HfsDB" date="20231115T093506" />
+		<scrap name="ArcadeDB" date="20231227T203723" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/mjelctrn.zip</path>
+		<name>Mahjong Electron Base (parts 2 &amp; 4, Japan, Bet)</name>
+		<desc>Arcade Video game published 30 years ago:
+
+Mahjong Electron Base Part.2 + Part.4 (c) 1993 Dynax.
+
+A classic Mahjong BET game ever with strict score system and function of 'Three Tiles Exchange'. A special effect of Ron or Reach is shown when announced. Play with six girls and wonderful background music.
+
+- TECHNICAL -
+
+Main CPU: Zilog Z80 (@ 5.5 Mhz)
+Sound Chips: General Instrument AY8910 (@ 2.75 Mhz), YM2413 (@ 3.58 Mhz), OKI MSM5205 (@ 384 Khz)
+
+Screen orientation: Horizontal
+Video resolution: 512 x 240 pixels
+Screen refresh: 60.00 Hz
+Palette colors: 4096
+
+Players: 1
+
+- TIPS AND TRICKS -
+
+When the notice of 'Three Tiles Exchange available' is shown during game, skip it first by pressing the start button. Then play the game normally until the gal throws her last tile out. Keep pressing the 'DonDen' button for almost 40-50 times and 'Three Tiles Exchange available' will appear again. The other two chances of exchange will come after pressing the button 4-6 times each. Attempt to make your whole tile group to match the opponent's last tile after exchange then a Ron of Yakuman can be achieved. It will be easier to fulfil this trick if the girls last tile is forced to be the one expected.
+
+- SERIES -
+
+1. Mahjong Electromagnetic Base (1989)
+2. Mahjong Electron Base Part.2 + Part.3 Super Express (1990)
+3. Mahjong Electron Base Part.2 + Part.4 (1993)
+
+- CONTRIBUTE -
+
+Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=1470&amp;o=2</desc>
+		<image>./images/mjelctrn-image.png</image>
+		<video>./videos/mjelctrn-video.mp4</video>
+		<thumbnail>./images/mjelctrn-thumb.png</thumbnail>
+		<boxback>./images/mjelctrn-boxback.png</boxback>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Dynax</developer>
+		<publisher>Dynax</publisher>
+		<genre>Tabletop / Mahjong</genre>
+		<players>2</players>
+		<crc32>874E3177</crc32>
+		<md5>15a800055fa133cdbcbc07507bdff1b0</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230216T174541" />
+		<scrap name="HfsDB" date="20231115T093507" />
+		<scrap name="ArcadeDB" date="20231227T203724" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/mjmyster.zip</path>
+		<name>Mahjong The Mysterious World [BET] (Japan, set 1)</name>
+		<desc>Medal video game published 29 years ago:
+
+Mahjong The Mysterious World (c) 1994 Dynax.
+
+- TECHNICAL -
+
+Main CPU: Zilog Z80 (@ 8 Mhz)
+Sound Chips: YM2413 (@ 3.579545 Mhz), OKI6295 (@ 8 Khz), AY8910 (@ 2 Mhz)
+
+Players: 1
+
+- TRIVIA -
+
+Mahjong The Mysterious World was released in January 1994 in Japan.
+
+This game has another Japanese title called "Mahjong Sekai no Shinpi".
+
+- TIPS AND TRICKS -
+
+If you want to see a girl's uncensored gfx, enter Test Mode then select Option -&gt; Gal Mode Check.
+
+- CONTRIBUTE -
+
+Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=4897&amp;o=2</desc>
+		<image>./images/mjmyster-image.png</image>
+		<video>./videos/mjmyster-video.mp4</video>
+		<thumbnail>./images/mjmyster-thumb.png</thumbnail>
+		<boxback>./images/mjmyster-boxback.png</boxback>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Dynax</developer>
+		<publisher>Dynax</publisher>
+		<genre>Tabletop / Mahjong</genre>
+		<players>1</players>
+		<crc32>D64CE756</crc32>
+		<md5>d91c57c6fe20f27c71d11437e0fd25bf</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230216T174554" />
+		<scrap name="HfsDB" date="20231115T093507" />
+		<scrap name="ArcadeDB" date="20231227T203724" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/mjreach1.zip</path>
+		<name>Mahjong Reach Ippatsu [BET] (Japan)</name>
+		<desc>Medal video game published 25 years ago:
+
+Mahjong Reach Ippatsu (c) 1998 Nihon System, Incorporated.
+
+Gambling mahjong game.
+
+- TECHNICAL -
+
+Main CPU: Zilog Z80 (@ 8 Mhz)
+Sound Chips: YM2413 (@ 3.579545 Mhz), OKI6295 (@ 8 Khz)
+
+Screen orientation: Horizontal
+Video resolution: 336 x 240 pixels
+Screen refresh: 60.00 Hz
+Palette colors: 512
+
+Players: 2
+
+- TRIVIA -
+
+Released in December 1998.
+
+The title of this game translates from Japanese as 'Mahjong Reach One Shot'.
+
+- CONTRIBUTE -
+
+Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=4429&amp;o=2</desc>
+		<image>./images/mjreach1-image.png</image>
+		<video>./videos/mjreach1-video.mp4</video>
+		<thumbnail>./images/mjreach1-thumb.png</thumbnail>
+		<boxback>./images/mjreach1-boxback.png</boxback>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Nihon System</developer>
+		<publisher>Nihon System</publisher>
+		<genre>Tabletop / Mahjong</genre>
+		<players>2</players>
+		<crc32>D2D6006F</crc32>
+		<md5>ef5cbb2311f183285da9500dcb2be503</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230216T174609" />
+		<scrap name="HfsDB" date="20231115T093508" />
+		<scrap name="ArcadeDB" date="20231227T203724" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/monaco.zip</path>
+		<name>Monaco GP</name>
+		<crc32>65E0C022</crc32>
+		<md5>7fae6bfc0fe17f7961f81eb603d64b49</md5>
+		<scrap name="ScreenScraper" date="20230216T174742" />
+		<scrap name="HfsDB" date="20231115T093515" />
+		<scrap name="ArcadeDB" date="20231227T203724" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/mrdonm.zip</path>
+		<name>Mr. Do Nightmare</name>
+		<crc32>709EAEB3</crc32>
+		<md5>cfd70d3ca581b9fa11ccaef7c664ad9a</md5>
+		<scrap name="ScreenScraper" date="20230216T174903" />
+		<scrap name="HfsDB" date="20231115T093518" />
+		<scrap name="ArcadeDB" date="20231227T203724" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/mslug5ast.zip</path>
+		<name>mslug5ast</name>
+		<crc32>0852DBB9</crc32>
+		<md5>7911407e06537c672c8a2fb58e32cddf</md5>
+		<scrap name="ScreenScraper" date="20230216T175333" />
+		<scrap name="HfsDB" date="20231115T093559" />
+		<scrap name="ArcadeDB" date="20231227T203724" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/mspacmnx.zip</path>
+		<name>Ms. Pac-Man (hires hack)</name>
+		<crc32>DE6AD51C</crc32>
+		<md5>f76f4ae6016667de19fe85b36ae6e8d2</md5>
+		<scrap name="ScreenScraper" date="20230216T175451" />
+		<scrap name="HfsDB" date="20231115T093602" />
+		<scrap name="ArcadeDB" date="20231227T203724" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/mtturbo.zip</path>
+		<name>Make Trax (Turbo Hack)</name>
+		<crc32>BA9B88C9</crc32>
+		<md5>e206878278733e36ecb55605f08f3dc6</md5>
+		<scrap name="ScreenScraper" date="20230216T175513" />
+		<scrap name="HfsDB" date="20231115T093603" />
+		<scrap name="ArcadeDB" date="20231227T203724" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/multi15.zip</path>
+		<name>Multipac 1.5</name>
+		<crc32>C09D3FF1</crc32>
+		<md5>3125fd0f2d7495f74e3c9506524c46a9</md5>
+		<scrap name="ScreenScraper" date="20230216T175517" />
+		<scrap name="HfsDB" date="20231115T093603" />
+		<scrap name="ArcadeDB" date="20231227T203725" />
+	</game>
+	<game id="360118">
+		<path>./ROMs (merged)/nblktiger.zip</path>
+		<name>ZZZ(notgame):Neo Black Tiger</name>
+		<hidden>true</hidden>
+		<crc32>47390C66</crc32>
+		<md5>7a06ec3125ec28bfe54254ac8546c3d8</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230216T175810" />
+		<scrap name="HfsDB" date="20231115T093608" />
+		<scrap name="ArcadeDB" date="20231227T203725" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/ndo_a_td.zip</path>
+		<name>ndo_a_td</name>
+		<crc32>6880C2A7</crc32>
+		<md5>452af2f9d127f13b0ddae3be44ef49a2</md5>
+		<scrap name="ScreenScraper" date="20230216T175901" />
+		<scrap name="HfsDB" date="20231115T093610" />
+		<scrap name="ArcadeDB" date="20231227T203725" />
+	</game>
+	<game id="109301">
+		<path>./ROMs (merged)/neo2500.zip</path>
+		<name>ZZZ(notgame):Demos</name>
+		<desc>Homebrew Demo</desc>
+		<thumbnail>./images/neo2500-thumb.png</thumbnail>
+		<boxback>./images/neo2500-boxback.png</boxback>
+		<releasedate>20020101T000000</releasedate>
+		<developer>Jeff Kurtz</developer>
+		<publisher>Homebrew</publisher>
+		<genre>Platform</genre>
+		<arcadesystemname>neogeo</arcadesystemname>
+		<hidden>true</hidden>
+		<crc32>3BBB35BA</crc32>
+		<md5>3116240415b8f1d41ab80b072ff42811</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230216T175909" />
+		<scrap name="HfsDB" date="20231115T093610" />
+		<scrap name="ArcadeDB" date="20231227T203725" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/neo3d.zip</path>
+		<name>Neo 3D Demo</name>
+		<crc32>9C6FEC54</crc32>
+		<md5>a726e12a994279a8a7ea6e6fcaef2083</md5>
+		<scrap name="ScreenScraper" date="20230216T175913" />
+		<scrap name="HfsDB" date="20231115T093611" />
+		<scrap name="ArcadeDB" date="20231227T203725" />
+	</game>
+	<game id="109301">
+		<path>./ROMs (merged)/neocstlv.zip</path>
+		<name>ZZZ(notgame):Demos</name>
+		<desc>Homebrew Demo</desc>
+		<thumbnail>./images/neocstlv-thumb.png</thumbnail>
+		<boxback>./images/neocstlv-boxback.png</boxback>
+		<releasedate>20020101T000000</releasedate>
+		<developer>Jeff Kurtz</developer>
+		<publisher>Homebrew</publisher>
+		<genre>Platform</genre>
+		<arcadesystemname>neogeo</arcadesystemname>
+		<hidden>true</hidden>
+		<crc32>27F50F7D</crc32>
+		<md5>740a9d44df0a2f17c0e524e4feb7b196</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230216T175947" />
+		<scrap name="HfsDB" date="20231115T093612" />
+		<scrap name="ArcadeDB" date="20231227T203725" />
+	</game>
+	<game id="109301">
+		<path>./ROMs (merged)/neodemo.zip</path>
+		<name>ZZZ(notgame):Demos</name>
+		<desc>Homebrew Demo</desc>
+		<thumbnail>./images/neodemo-thumb.png</thumbnail>
+		<boxback>./images/neodemo-boxback.png</boxback>
+		<releasedate>20020101T000000</releasedate>
+		<developer>Jeff Kurtz</developer>
+		<publisher>Homebrew</publisher>
+		<genre>Platform</genre>
+		<arcadesystemname>neogeo</arcadesystemname>
+		<hidden>true</hidden>
+		<crc32>5BFA1DD5</crc32>
+		<md5>a15555e8f35f06fcd57529f548be5e5d</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230216T180022" />
+		<scrap name="HfsDB" date="20231115T093613" />
+		<scrap name="ArcadeDB" date="20231227T203725" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/neofight.zip</path>
+		<name>Neo Fight</name>
+		<crc32>C28364E5</crc32>
+		<md5>dd4111754bce7b76d06f391fd55adb12</md5>
+		<scrap name="ScreenScraper" date="20230216T180052" />
+		<scrap name="HfsDB" date="20231115T093614" />
+		<scrap name="ArcadeDB" date="20231227T203725" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/neogal1.zip</path>
+		<name>Neo Geo Galaga Demo R001</name>
+		<crc32>4D6B9851</crc32>
+		<md5>2044d38858e969499d8a295794a86c76</md5>
+		<scrap name="ScreenScraper" date="20230216T180055" />
+		<scrap name="HfsDB" date="20231115T093614" />
+		<scrap name="ArcadeDB" date="20231227T203725" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/neopang.zip</path>
+		<name>neopang</name>
+		<crc32>16427CEF</crc32>
+		<md5>6b169e883a8e3b1c6b6c13018a4d9ce5</md5>
+		<scrap name="ScreenScraper" date="20230216T180114" />
+		<scrap name="HfsDB" date="20231115T093615" />
+		<scrap name="ArcadeDB" date="20231227T203726" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/neoromjb.zip</path>
+		<name>Neo Rom Jukebox</name>
+		<crc32>956994B3</crc32>
+		<md5>191fc7009d4350716010d6c138b77b45</md5>
+		<scrap name="ScreenScraper" date="20230216T180141" />
+		<scrap name="HfsDB" date="20231115T093656" />
+		<scrap name="ArcadeDB" date="20231227T203726" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/neothund.zip</path>
+		<name>Neo Thunder</name>
+		<crc32>B94244A5</crc32>
+		<md5>dc269661dbcf8785ba49964505875510</md5>
+		<scrap name="ScreenScraper" date="20230216T180145" />
+		<scrap name="HfsDB" date="20231115T093656" />
+		<scrap name="ArcadeDB" date="20231227T203726" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/neotrisd1.zip</path>
+		<name>Neotris Demo 1</name>
+		<crc32>4291358D</crc32>
+		<md5>4a2ef159890a3077b8c6ab87cc49b411</md5>
+		<scrap name="ScreenScraper" date="20230216T180150" />
+		<scrap name="HfsDB" date="20231115T093657" />
+		<scrap name="ArcadeDB" date="20231227T203726" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/ng4ptest.zip</path>
+		<name>ng4ptest</name>
+		<crc32>55E66F0D</crc32>
+		<md5>cd1ccb60d733a174aeb87de7a30996a7</md5>
+		<scrap name="ScreenScraper" date="20230216T180154" />
+		<scrap name="HfsDB" date="20231115T093657" />
+		<scrap name="ArcadeDB" date="20231227T203726" />
+	</game>
+	<game id="109301">
+		<path>./ROMs (merged)/ngftdemo.zip</path>
+		<name>ZZZ(notgame):Demos</name>
+		<desc>Homebrew Demo</desc>
+		<thumbnail>./images/ngftdemo-thumb.png</thumbnail>
+		<boxback>./images/ngftdemo-boxback.png</boxback>
+		<releasedate>20020101T000000</releasedate>
+		<developer>Jeff Kurtz</developer>
+		<publisher>Homebrew</publisher>
+		<genre>Platform</genre>
+		<arcadesystemname>neogeo</arcadesystemname>
+		<hidden>true</hidden>
+		<crc32>FA3D2F51</crc32>
+		<md5>2d33796336a9be33672018ac6a50cfa9</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230216T180218" />
+		<scrap name="HfsDB" date="20231115T093657" />
+		<scrap name="ArcadeDB" date="20231227T203726" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/ngmontst.zip</path>
+		<name>NeoGeo Monitor Test</name>
+		<crc32>93089817</crc32>
+		<md5>90cfcdfc0c3b57f4f43ca331036cfbb7</md5>
+		<scrap name="ScreenScraper" date="20230216T180221" />
+		<scrap name="HfsDB" date="20231115T093658" />
+		<scrap name="ArcadeDB" date="20231227T203726" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/ngmontst3.zip</path>
+		<name>ngmontst3</name>
+		<crc32>163C856F</crc32>
+		<md5>9e32f06a5e539fbfd10b6573463ccf13</md5>
+		<scrap name="ScreenScraper" date="20230216T180225" />
+		<scrap name="HfsDB" date="20231115T093658" />
+		<scrap name="ArcadeDB" date="20231227T203726" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/ngtd2.zip</path>
+		<name>NeoGeo Tech Demo 2</name>
+		<crc32>E800CB65</crc32>
+		<md5>03b49c5740b02de5a117e3c84c56d34e</md5>
+		<scrap name="ScreenScraper" date="20230216T180229" />
+		<scrap name="HfsDB" date="20231115T093658" />
+		<scrap name="ArcadeDB" date="20231227T203727" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/ngtetris.zip</path>
+		<name>NeoGeo 2-Player Tetris</name>
+		<crc32>9A668BF5</crc32>
+		<md5>b196e3967ff6dd69f1f52f87eb2f71b0</md5>
+		<scrap name="ScreenScraper" date="20230216T180232" />
+		<scrap name="HfsDB" date="20231115T093658" />
+		<scrap name="ArcadeDB" date="20231227T203727" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/ngym2610.zip</path>
+		<name>NeoGeo YM2610 Test</name>
+		<crc32>03AA2EE5</crc32>
+		<md5>3951a480c66f5b46da61689990f5c996</md5>
+		<scrap name="ScreenScraper" date="20230216T180236" />
+		<scrap name="HfsDB" date="20231115T093659" />
+		<scrap name="ArcadeDB" date="20231227T203727" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/nsmbd.zip</path>
+		<name>nsmbd</name>
+		<crc32>52B60975</crc32>
+		<md5>0802124d00d1cbe0d70ce932102f0686</md5>
+		<scrap name="ScreenScraper" date="20230216T180346" />
+		<scrap name="HfsDB" date="20231115T093701" />
+		<scrap name="ArcadeDB" date="20231227T203727" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/nyan.zip</path>
+		<name>Nyan Cat demo (v1)</name>
+		<crc32>43AA0CC6</crc32>
+		<md5>24285752dc9551047f6caf4db31d7e68</md5>
+		<scrap name="ScreenScraper" date="20230216T180349" />
+		<scrap name="HfsDB" date="20231115T093701" />
+		<scrap name="ArcadeDB" date="20231227T203727" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/pachello.zip</path>
+		<name>Hello, World!</name>
+		<crc32>06F9D7B1</crc32>
+		<md5>e79c00d2c24470f981dbe224e9f81107</md5>
+		<scrap name="ScreenScraper" date="20230216T180551" />
+		<scrap name="HfsDB" date="20231115T093703" />
+		<scrap name="ArcadeDB" date="20231227T203727" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/pacmatri.zip</path>
+		<name>Matrix Effect</name>
+		<crc32>B2E5EBAB</crc32>
+		<md5>7441b9239ef841ce35cb43b58b741301</md5>
+		<scrap name="ScreenScraper" date="20230216T180619" />
+		<scrap name="HfsDB" date="20231115T093703" />
+		<scrap name="ArcadeDB" date="20231227T203727" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/pandajump.zip</path>
+		<name>pandajump</name>
+		<crc32>F530CE0C</crc32>
+		<md5>2ec43799de42a93608b8da67f12f065a</md5>
+		<scrap name="ScreenScraper" date="20230216T180622" />
+		<scrap name="HfsDB" date="20231115T093704" />
+		<scrap name="ArcadeDB" date="20231227T203727" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/pcmademo.zip</path>
+		<name>ADPCM-A Playback Demo</name>
+		<crc32>0D43A983</crc32>
+		<md5>b03de832f8528a72eb667e9ab4fdfa89</md5>
+		<scrap name="ScreenScraper" date="20230216T180829" />
+		<scrap name="HfsDB" date="20231115T093706" />
+		<scrap name="ArcadeDB" date="20231227T203727" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/pcmbdemo.zip</path>
+		<name>ADPCM-B Playback Demo</name>
+		<crc32>F7C85831</crc32>
+		<md5>a9b855f9d7d5e121d658a5753b1b3c13</md5>
+		<scrap name="ScreenScraper" date="20230216T180833" />
+		<scrap name="HfsDB" date="20231115T093756" />
+		<scrap name="ArcadeDB" date="20231227T203728" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/pc_ark.zip</path>
+		<name>pc_ark</name>
+		<crc32>B13AAC5D</crc32>
+		<md5>81aba80f2d27325f632cecf9a2085117</md5>
+		<scrap name="ScreenScraper" date="20230216T180837" />
+		<scrap name="HfsDB" date="20231115T093757" />
+		<scrap name="ArcadeDB" date="20231227T203728" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/pc_bb2.zip</path>
+		<name>pc_bb2</name>
+		<crc32>8CAAD470</crc32>
+		<md5>e318c2edc4fc4c3d1aec495aedd70756</md5>
+		<scrap name="ScreenScraper" date="20230216T180840" />
+		<scrap name="HfsDB" date="20231115T093757" />
+		<scrap name="ArcadeDB" date="20231227T203728" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/pc_cch.zip</path>
+		<name>pc_cch</name>
+		<crc32>0BFA6A99</crc32>
+		<md5>130f913a9f0b4eb98f6c87dfd0731442</md5>
+		<scrap name="ScreenScraper" date="20230216T180843" />
+		<scrap name="HfsDB" date="20231115T093757" />
+		<scrap name="ArcadeDB" date="20231227T203728" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/pc_ctfrc.zip</path>
+		<name>pc_ctfrc</name>
+		<crc32>A167F7B6</crc32>
+		<md5>9101f069cd7c2c3e88c6704da7375810</md5>
+		<scrap name="ScreenScraper" date="20230216T180847" />
+		<scrap name="HfsDB" date="20231115T093757" />
+		<scrap name="ArcadeDB" date="20231227T203728" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/pc_digdg.zip</path>
+		<name>pc_digdg</name>
+		<crc32>FFDF9AB1</crc32>
+		<md5>090a701587a16710502f431fd0b746ad</md5>
+		<scrap name="ScreenScraper" date="20230216T180850" />
+		<scrap name="HfsDB" date="20231115T093758" />
+		<scrap name="ArcadeDB" date="20231227T203728" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/pc_dk.zip</path>
+		<name>pc_dk</name>
+		<crc32>FD9BAD54</crc32>
+		<md5>48b77ef44f5f5027f7154344eb9f6895</md5>
+		<scrap name="ScreenScraper" date="20230216T180854" />
+		<scrap name="HfsDB" date="20231115T093758" />
+		<scrap name="ArcadeDB" date="20231227T203728" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/pc_dk3.zip</path>
+		<name>pc_dk3</name>
+		<crc32>5278DF2F</crc32>
+		<md5>384e1bf4d88d20c062336823a2f91cff</md5>
+		<scrap name="ScreenScraper" date="20230216T180858" />
+		<scrap name="HfsDB" date="20231115T093758" />
+		<scrap name="ArcadeDB" date="20231227T203728" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/pc_galag.zip</path>
+		<name>pc_galag</name>
+		<crc32>BE98F08A</crc32>
+		<md5>47bba8d8e45f28f888fa9feb95fcfb56</md5>
+		<scrap name="ScreenScraper" date="20230216T180902" />
+		<scrap name="HfsDB" date="20231115T093758" />
+		<scrap name="ArcadeDB" date="20231227T203728" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/pc_gyrus.zip</path>
+		<name>pc_gyrus</name>
+		<crc32>606C452F</crc32>
+		<md5>ce532616679925169a96655bb570f514</md5>
+		<scrap name="ScreenScraper" date="20230216T180906" />
+		<scrap name="HfsDB" date="20231115T093759" />
+		<scrap name="ArcadeDB" date="20231227T203729" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/pc_krsty.zip</path>
+		<name>pc_krsty</name>
+		<crc32>FB3D4FDB</crc32>
+		<md5>1579a54d59e10b3ee03d6932f5a28772</md5>
+		<scrap name="ScreenScraper" date="20230216T180909" />
+		<scrap name="HfsDB" date="20231115T093759" />
+		<scrap name="ArcadeDB" date="20231227T203729" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/pc_mman5.zip</path>
+		<name>pc_mman5</name>
+		<crc32>5CEF73F4</crc32>
+		<md5>66eddb2c12ed095482ec3215237881c8</md5>
+		<scrap name="ScreenScraper" date="20230216T180913" />
+		<scrap name="HfsDB" date="20231115T093759" />
+		<scrap name="ArcadeDB" date="20231227T203729" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/pc_pacm.zip</path>
+		<name>pc_pacm</name>
+		<crc32>41FA1463</crc32>
+		<md5>47302f8faa18b95aeeba29bb530db085</md5>
+		<scrap name="ScreenScraper" date="20230216T180917" />
+		<scrap name="HfsDB" date="20231115T093759" />
+		<scrap name="ArcadeDB" date="20231227T203729" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/pc_parsl.zip</path>
+		<name>pc_parsl</name>
+		<crc32>0EDAD11D</crc32>
+		<md5>d39912a44a4c89189bd2487719b75eaa</md5>
+		<scrap name="ScreenScraper" date="20230216T180920" />
+		<scrap name="HfsDB" date="20231115T093759" />
+		<scrap name="ArcadeDB" date="20231227T203729" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/pc_skykd.zip</path>
+		<name>pc_skykd</name>
+		<crc32>641129D9</crc32>
+		<md5>150fbfdddd06cb20f7975d1604cb2d84</md5>
+		<scrap name="ScreenScraper" date="20230216T180925" />
+		<scrap name="HfsDB" date="20231115T093800" />
+		<scrap name="ArcadeDB" date="20231227T203729" />
+	</game>
+	<game id="79315">
+		<path>./ROMs (merged)/pgemeni.zip</path>
+		<name>P-gemeni</name>
+		<image>./images/pgemeni-image.png</image>
+		<video>./videos/pgemeni-video.mp4</video>
+		<thumbnail>./images/pgemeni-thumb.png</thumbnail>
+		<boxback>./images/pgemeni-boxback.png</boxback>
+		<releasedate>20060101T000000</releasedate>
+		<developer>blastar@gmx.ne</developer>
+		<publisher>blastar@gmx.ne</publisher>
+		<genre>Thinking</genre>
+		<players>1</players>
+		<crc32>D6CFD971</crc32>
+		<md5>e91053b156a5e1bccf2e3260e9470d8c</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230216T181048" />
+		<scrap name="HfsDB" date="20231115T093802" />
+		<scrap name="ArcadeDB" date="20231227T203729" />
+	</game>
+	<game id="79304">
+		<path>./ROMs (merged)/pgmdemo.zip</path>
+		<name>ZZZ(notgame):Chaos Demo</name>
+		<image>./images/pgmdemo-image.png</image>
+		<releasedate>20020101T000000</releasedate>
+		<developer>Chaos</developer>
+		<publisher>Chaos</publisher>
+		<hidden>true</hidden>
+		<crc32>B4EF725F</crc32>
+		<md5>3be1052988bf23cc4d0c6f2fe89d84f7</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230216T181053" />
+		<scrap name="HfsDB" date="20231115T093803" />
+		<scrap name="ArcadeDB" date="20231227T203729" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/ppong.zip</path>
+		<name>Ping Pong demo (Pacman Hardware)</name>
+		<crc32>B43577E8</crc32>
+		<md5>02ba65157c84e3af0463b05741afe720</md5>
+		<scrap name="ScreenScraper" date="20230216T181511" />
+		<scrap name="HfsDB" date="20231115T093859" />
+		<scrap name="ArcadeDB" date="20231227T203729" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/puckmanx.zip</path>
+		<name>PuckMan (Japan set 1, Probably Bootleg) (hires hack)</name>
+		<crc32>195041EC</crc32>
+		<md5>3ff84a14ba3f71831a060f5c14724e74</md5>
+		<scrap name="ScreenScraper" date="20230216T181645" />
+		<scrap name="HfsDB" date="20231115T093900" />
+		<scrap name="ArcadeDB" date="20231227T203730" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/rainboh.zip</path>
+		<name>Rainbow (Incomplete)</name>
+		<crc32>4444F104</crc32>
+		<md5>cce1849cedb93d1a82bfa57f7361609e</md5>
+		<scrap name="ScreenScraper" date="20230216T181936" />
+		<scrap name="HfsDB" date="20231115T093905" />
+		<scrap name="ArcadeDB" date="20231227T203730" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/rci.zip</path>
+		<name>Robocop (Intro demo)</name>
+		<crc32>0FE10EB0</crc32>
+		<md5>d29f249fce441e96117b6b440606a4fc</md5>
+		<scrap name="ScreenScraper" date="20230216T182137" />
+		<scrap name="HfsDB" date="20231115T093910" />
+		<scrap name="ArcadeDB" date="20231227T203730" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/sagaiav2.zip</path>
+		<name>Sagaia (dual screen) (V2)</name>
+		<crc32>230E40B1</crc32>
+		<md5>428de21f380c799ea808ccc51b1eac20</md5>
+		<scrap name="ScreenScraper" date="20230216T190719" />
+		<scrap name="HfsDB" date="20231115T093959" />
+		<scrap name="ArcadeDB" date="20231227T203730" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/samantha.zip</path>
+		<name>Everlasting Summer: Samantha demo</name>
+		<crc32>9C8F67FE</crc32>
+		<md5>417cd1b2e640d13787c4bf1f7aebdf40</md5>
+		<scrap name="ScreenScraper" date="20230216T190825" />
+		<scrap name="HfsDB" date="20231115T094000" />
+		<scrap name="ArcadeDB" date="20231227T203730" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/santabll.zip</path>
+		<name>Santaball</name>
+		<crc32>61E5238C</crc32>
+		<md5>06337bef8a07cbd690957baf12fe26f1</md5>
+		<scrap name="ScreenScraper" date="20230216T191230" />
+		<scrap name="HfsDB" date="20231115T094003" />
+		<scrap name="ArcadeDB" date="20231227T203730" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/sdojak.zip</path>
+		<name>sdojak</name>
+		<crc32>1F919CFB</crc32>
+		<scrap name="ScreenScraper" date="20230216T191554" />
+		<scrap name="HfsDB" date="20231115T094007" />
+		<scrap name="ArcadeDB" date="20231227T203730" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/seafight.zip</path>
+		<name>Sea Fighter 0.01.009</name>
+		<crc32>1EE7B788</crc32>
+		<md5>d248c87e7fedacd2ae8c947691cb12ac</md5>
+		<scrap name="ScreenScraper" date="20230216T191557" />
+		<scrap name="HfsDB" date="20231115T094007" />
+		<scrap name="ArcadeDB" date="20231227T203730" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/seq1.zip</path>
+		<name>16 Step Simple Sequencer</name>
+		<crc32>607B45FD</crc32>
+		<md5>c8d5737873d434248fb83129c7dee2d7</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230216T191830" />
+		<scrap name="HfsDB" date="20231115T094008" />
+		<scrap name="ArcadeDB" date="20231227T203731" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/sfiii2nc.zip</path>
+		<name>Street Fighter III 2nd Impact: Giant Attack (Asia 970930, NO CD)</name>
+		<crc32>5A030CC4</crc32>
+		<md5>fbe9f7d6575a17fac3a154909ae5928d</md5>
+		<scrap name="ScreenScraper" date="20230216T192305" />
+		<scrap name="HfsDB" date="20231115T094014" />
+		<scrap name="ArcadeDB" date="20231227T203731" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/sfiii3nc.zip</path>
+		<name>Street Fighter III 3rd Strike: Fight for the Future (Japan 990608, NO CD)</name>
+		<crc32>C4BE3B64</crc32>
+		<scrap name="ScreenScraper" date="20230216T192308" />
+		<scrap name="HfsDB" date="20231115T094014" />
+		<scrap name="ArcadeDB" date="20231227T203731" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/sfiiinc.zip</path>
+		<name>Street Fighter III: New Generation (Asia 970204, NO CD)</name>
+		<crc32>81030C4F</crc32>
+		<md5>a0bf543e8dcb3ce34c2d17e500a4e8da</md5>
+		<scrap name="ScreenScraper" date="20230216T192315" />
+		<scrap name="HfsDB" date="20231115T094058" />
+		<scrap name="ArcadeDB" date="20231227T203731" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/shaman16.zip</path>
+		<name>Shaman King demo 0.16</name>
+		<crc32>395D4B8C</crc32>
+		<md5>be7b571c2dbe766d6a628466b4a25896</md5>
+		<scrap name="ScreenScraper" date="20230216T192446" />
+		<scrap name="HfsDB" date="20231115T094101" />
+		<scrap name="ArcadeDB" date="20231227T203731" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/smi.zip</path>
+		<name>Spiderman (Intro demo)</name>
+		<crc32>A6B5D1CF</crc32>
+		<md5>f96e94b86cddb6b7e55b799e4ca3abb5</md5>
+		<scrap name="ScreenScraper" date="20230216T192815" />
+		<scrap name="HfsDB" date="20231115T094107" />
+		<scrap name="ArcadeDB" date="20231227T203731" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/snddemo.zip</path>
+		<name>Sound-Loop Demo</name>
+		<crc32>C8699185</crc32>
+		<md5>f7e83cdf075747b32761374e868be65a</md5>
+		<scrap name="ScreenScraper" date="20230216T192819" />
+		<scrap name="HfsDB" date="20231115T094107" />
+		<scrap name="ArcadeDB" date="20231227T203731" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/sokoban.zip</path>
+		<name>Sokoban LE</name>
+		<crc32>7832BB55</crc32>
+		<md5>6455a97f8e7406431018cd58d49d1b23</md5>
+		<scrap name="ScreenScraper" date="20230216T192914" />
+		<scrap name="HfsDB" date="20231115T094110" />
+		<scrap name="ArcadeDB" date="20231227T203731" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/spacmissx.zip</path>
+		<name>Space Missile - Space Fighting Game (Extra Sounds)</name>
+		<crc32>9A4DB90F</crc32>
+		<md5>7e8a297db0a58e7949b6151ad87e665e</md5>
+		<scrap name="ScreenScraper" date="20230216T193050" />
+		<scrap name="HfsDB" date="20231115T094112" />
+		<scrap name="ArcadeDB" date="20231227T203731" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/spacwarp.zip</path>
+		<name>Space War (Proto on Space Duel HW)</name>
+		<crc32>E208C306</crc32>
+		<md5>796d651960433d0e5cba9969632d0716</md5>
+		<scrap name="ScreenScraper" date="20230216T193053" />
+		<scrap name="HfsDB" date="20231115T094112" />
+		<scrap name="ArcadeDB" date="20231227T203732" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/speccies.zip</path>
+		<name>Speccies 2</name>
+		<crc32>6720935E</crc32>
+		<md5>2332453f4f51ce345d72fbaff624dfed</md5>
+		<scrap name="ScreenScraper" date="20230216T193133" />
+		<scrap name="HfsDB" date="20231115T094113" />
+		<scrap name="ArcadeDB" date="20231227T203732" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/spicegirls.zip</path>
+		<name>Spice Girls</name>
+		<crc32>A3BE608A</crc32>
+		<md5>98e2343f0c5b0de5ecb1f9ce901ddd90</md5>
+		<scrap name="ScreenScraper" date="20230216T193216" />
+		<scrap name="HfsDB" date="20231115T094115" />
+		<scrap name="ArcadeDB" date="20231227T203732" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/spriteex.zip</path>
+		<name>Sprite Experimenter</name>
+		<crc32>B6614ACE</crc32>
+		<md5>8c9969cd88859a1a68bdcbacbe811b43</md5>
+		<scrap name="ScreenScraper" date="20230216T193300" />
+		<scrap name="HfsDB" date="20231115T094200" />
+		<scrap name="ArcadeDB" date="20231227T203732" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/sqij.zip</path>
+		<name>SQIJ!</name>
+		<crc32>9775B3D7</crc32>
+		<md5>064d356b5f833c223ca4ffc24ea238c0</md5>
+		<scrap name="ScreenScraper" date="20230216T193303" />
+		<scrap name="HfsDB" date="20231115T094200" />
+		<scrap name="ArcadeDB" date="20231227T203732" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/suicide.zip</path>
+		<name>Suicide Test</name>
+		<crc32>97D13A78</crc32>
+		<md5>3490e0c4d678364886d9d89724275abe</md5>
+		<scrap name="ScreenScraper" date="20230216T193801" />
+		<scrap name="HfsDB" date="20231115T094206" />
+		<scrap name="ArcadeDB" date="20231227T203732" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/sys16dem.zip</path>
+		<name>Demo - Sega System 16</name>
+		<crc32>425F78FC</crc32>
+		<md5>709b89e76b28748fe9bbd704cfb01535</md5>
+		<scrap name="ScreenScraper" date="20230216T194007" />
+		<scrap name="HfsDB" date="20231115T094211" />
+		<scrap name="ArcadeDB" date="20231227T203732" />
+	</game>
+	<game id="152761">
+		<path>./ROMs (merged)/syscheck.zip</path>
+		<name>ZZZ(notgame):Neo-geo Bios</name>
+		<desc>A cartridge-based arcade system board. The MVS stands for Multi Video System, and as its name suggest, offers owners the ability to put up to six different arcade titles into a single cabinet, a key economic consideration for operators with limited floorspace. With its games stored on self-contained cartridges, a game cabinet can be exchanged for a different game title by swapping the game's ROM-cartridge and cabinet artwork.</desc>
+		<image>./images/syscheck-image.png</image>
+		<marquee>./images/syscheck-marquee.png</marquee>
+		<releasedate>19900101T000000</releasedate>
+		<publisher>SNK</publisher>
+		<genre>Various / System</genre>
+		<arcadesystemname>neogeo</arcadesystemname>
+		<players>2</players>
+		<hidden>true</hidden>
+		<crc32>3364F115</crc32>
+		<md5>25a2d6a90cf1fbf3050b20314f985562</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230216T194015" />
+		<scrap name="HfsDB" date="20231115T094211" />
+		<scrap name="ArcadeDB" date="20231227T203732" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/s_smp.zip</path>
+		<name>Nintendo/Sony S-SMP</name>
+		<image>./images/s_smp-image.png</image>
+		<releasedate>19691231T190000</releasedate>
+		<genre>System / Device</genre>
+		<players>0</players>
+		<hidden>true</hidden>
+		<crc32>307BE18C</crc32>
+		<md5>f80b6f46db83e714922190e37b9c6a80</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230216T194017" />
+		<scrap name="HfsDB" date="20231115T094211" />
+		<scrap name="ArcadeDB" date="20231227T203733" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/tenkai.zip</path>
+		<name>Mahjong Tenkaigen (Japan, Bet)</name>
+		<desc>Arcade Video game published 32 years ago:
+
+Mahjong Tenkaigen (c) 1991 Dynax.
+
+- TECHNICAL -
+
+Main CPU: TMP91640 (@ 10.73635 Mhz)
+Sound Chips: General Instrument AY8910 (@ 1.375 Mhz), YM2413 (@ 3.579545 Mhz)
+
+Players: 1
+
+- TRIVIA -
+
+Released in June 1991.
+
+- SERIES -
+
+1. Mahjong Tenkaigen (1991)
+2. Mahjong Tenkaigen Part 2 (1991)
+
+- CONTRIBUTE -
+
+Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=9902&amp;o=2</desc>
+		<image>./images/tenkai-image.png</image>
+		<video>./videos/tenkai-video.mp4</video>
+		<thumbnail>./images/tenkai-thumb.png</thumbnail>
+		<boxback>./images/tenkai-boxback.png</boxback>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Dynax</developer>
+		<publisher>Dynax</publisher>
+		<genre>Tabletop / Mahjong</genre>
+		<players>2</players>
+		<crc32>4EE9AE91</crc32>
+		<md5>f79d326ea298f3a5c85d79f228316543</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230216T194237" />
+		<scrap name="HfsDB" date="20231115T094259" />
+		<scrap name="ArcadeDB" date="20231227T203733" />
+	</game>
+	<game id="418998">
+		<path>./ROMs (merged)/teot.zip</path>
+		<name>Eye of Typhoon ,The</name>
+		<desc>There are 12 playable fighters to choose from and two boss characters. The object of the game is to win two matches out of three. Each character has a set of moves in addition to two basic punches and kicks. Players also have the ability to taunt others, but unlike games such as SNK's Art of Fighting series, this has no effect and would actually leave the player open to attacks.
+
+In single player mode, after selecting a character, the player must also select an opponent. The opponent order cycles randomly according to the character select screen. After the first twelve are defeated, the player must defeat two bosses, Powell and Mahesvara. Unlike Fight Fever, there is a 2-on-2 team mode, where players can choose two characters whether in certain order or randomly. The camera also zooms in and out depending on how far apart the characters are, like in the Art of Fighting series.</desc>
+		<image>./images/teot-image.png</image>
+		<video>./videos/teot-video.mp4</video>
+		<thumbnail>./images/teot-thumb.png</thumbnail>
+		<boxback>./images/teot-boxback.png</boxback>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Viccom</developer>
+		<publisher>Viccom</publisher>
+		<genre>Fight / 2D</genre>
+		<arcadesystemname>neogeo</arcadesystemname>
+		<players>2</players>
+		<crc32>8CB7C22F</crc32>
+		<md5>f7db5998dd6ba2e643334d303d37648e</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230216T194252" />
+		<scrap name="HfsDB" date="20231115T094259" />
+		<scrap name="ArcadeDB" date="20231227T203733" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/test01.zip</path>
+		<name>MVS Test 01</name>
+		<crc32>BEC2B10D</crc32>
+		<md5>c162bf2af9bd18d50a0fcdf36f0d3fd2</md5>
+		<scrap name="ScreenScraper" date="20230216T194313" />
+		<scrap name="HfsDB" date="20231115T094300" />
+		<scrap name="ArcadeDB" date="20231227T203733" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/theglobpb.zip</path>
+		<name>theglobpb</name>
+		<crc32>C96990DB</crc32>
+		<md5>27d9101857e50b1dd37754e0b22e003b</md5>
+		<scrap name="ScreenScraper" date="20230216T194335" />
+		<scrap name="HfsDB" date="20231115T094301" />
+		<scrap name="ArcadeDB" date="20231227T203733" />
+	</game>
+	<game id="88111">
+		<path>./ROMs (merged)/timesup.zip</path>
+		<name>ZZZ(notgame):Timesup</name>
+		<image>./images/timesup-image.png</image>
+		<thumbnail>./images/timesup-thumb.png</thumbnail>
+		<boxback>./images/timesup-boxback.png</boxback>
+		<hidden>true</hidden>
+		<crc32>0BF4FCC3</crc32>
+		<md5>025aa667e88d9deac9f580f5f5e3fa5a</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230216T194448" />
+		<scrap name="HfsDB" date="20231115T094303" />
+		<scrap name="ArcadeDB" date="20231227T203733" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/tinyworld.zip</path>
+		<name>Tiny World 82 (demo)</name>
+		<crc32>F34900EF</crc32>
+		<md5>69759af71d7be5ed29c3daa91d40adb2</md5>
+		<scrap name="ScreenScraper" date="20230216T194505" />
+		<scrap name="HfsDB" date="20231115T094304" />
+		<scrap name="ArcadeDB" date="20231227T203733" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/tldemo.zip</path>
+		<name>Demo - System Timed Cheat Tool</name>
+		<crc32>A7015F9A</crc32>
+		<md5>6a19dd75d9fdc139fcec9f9adcd487d8</md5>
+		<scrap name="ScreenScraper" date="20230216T194526" />
+		<scrap name="HfsDB" date="20231115T094304" />
+		<scrap name="ArcadeDB" date="20231227T203733" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/tldemo2.zip</path>
+		<name>Demo - 256 colours</name>
+		<crc32>DC375B6D</crc32>
+		<md5>0cda27daf259a8ae0a22302b19c4c0d4</md5>
+		<scrap name="ScreenScraper" date="20230216T194530" />
+		<scrap name="HfsDB" date="20231115T094305" />
+		<scrap name="ArcadeDB" date="20231227T203734" />
+	</game>
+	<game id="109301">
+		<path>./ROMs (merged)/tmnti.zip</path>
+		<name>ZZZ(notgame):Demos</name>
+		<desc>Homebrew Demo</desc>
+		<thumbnail>./images/tmnti-thumb.png</thumbnail>
+		<boxback>./images/tmnti-boxback.png</boxback>
+		<releasedate>20020101T000000</releasedate>
+		<developer>Jeff Kurtz</developer>
+		<publisher>Homebrew</publisher>
+		<genre>Platform</genre>
+		<arcadesystemname>neogeo</arcadesystemname>
+		<hidden>true</hidden>
+		<crc32>D0FFC850</crc32>
+		<md5>9a4804058806e1248e5ddf2f7e7d85bd</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230216T194603" />
+		<scrap name="HfsDB" date="20231115T094306" />
+		<scrap name="ArcadeDB" date="20231227T203734" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/tms32033.zip</path>
+		<name>Texas Instruments TMS320VC33</name>
+		<image>./images/tms32033-image.png</image>
+		<releasedate>19691231T190000</releasedate>
+		<genre>System / Device</genre>
+		<players>0</players>
+		<crc32>6B404CCB</crc32>
+		<md5>9b42e551a0d987c040bd11d9ac2649de</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230216T194607" />
+		<scrap name="HfsDB" date="20231115T094306" />
+		<scrap name="ArcadeDB" date="20231227T203734" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/tst_gor1.zip</path>
+		<name>Test Rom - Gorf Complete Memory Diagnostics</name>
+		<crc32>CABA0989</crc32>
+		<md5>f0be70d80c6363213c2ebffe2d4fb35f</md5>
+		<scrap name="ScreenScraper" date="20230216T194853" />
+		<scrap name="HfsDB" date="20231115T094312" />
+		<scrap name="ArcadeDB" date="20231227T203734" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/tst_gorf.zip</path>
+		<name>Test Rom - Gorf</name>
+		<crc32>43DF0494</crc32>
+		<md5>afec82ec3e4600af7ba372176433aced</md5>
+		<scrap name="ScreenScraper" date="20230216T194857" />
+		<scrap name="HfsDB" date="20231115T094312" />
+		<scrap name="ArcadeDB" date="20231227T203734" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/tst_wow2.zip</path>
+		<name>Test Rom - Wizard of Wor (ver 0.2b)</name>
+		<crc32>287B69CF</crc32>
+		<md5>7e3636e0d1188b708ccf474022064ba1</md5>
+		<scrap name="ScreenScraper" date="20230216T194900" />
+		<scrap name="HfsDB" date="20231115T094312" />
+		<scrap name="ArcadeDB" date="20231227T203734" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/tst_wow3.zip</path>
+		<name>Test Rom - Wizard of Wor (ver 0.3)</name>
+		<crc32>6D2846AA</crc32>
+		<md5>2f6d0469c5e16d65c7236d797ee51af1</md5>
+		<scrap name="ScreenScraper" date="20230216T194904" />
+		<scrap name="HfsDB" date="20231115T094313" />
+		<scrap name="ArcadeDB" date="20231227T203734" />
+	</game>
+	<game id="43814">
+		<path>./ROMs (merged)/twister.zip</path>
+		<name>ZZZ(notgame):Twister</name>
+		<image>./images/twister-image.png</image>
+		<releasedate>19960101T000000</releasedate>
+		<publisher>SEGA</publisher>
+		<genre>Various / Electro- Mechanical</genre>
+		<players>1</players>
+		<hidden>true</hidden>
+		<crc32>39E7727D</crc32>
+		<md5>4d72378fd47e3736b515403e3c70ceb9</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230216T195040" />
+		<scrap name="HfsDB" date="20231115T094400" />
+		<scrap name="ArcadeDB" date="20231227T203734" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/vantris.zip</path>
+		<name>Vantris 98</name>
+		<crc32>8D73643D</crc32>
+		<md5>9db7ab0392b368f46158e424d24a491b</md5>
+		<scrap name="ScreenScraper" date="20230216T195208" />
+		<scrap name="HfsDB" date="20231115T094404" />
+		<scrap name="ArcadeDB" date="20231227T203734" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/videight.zip</path>
+		<name>Video Eight</name>
+		<desc>Arcade Video game published 22 years ago:
+
+Video Eight (c) 2001 Macro.
+
+Unlicensed compilation of games running on Galaxian-derived hardware.
+
+- CONTRIBUTE -
+
+Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=145523&amp;o=2</desc>
+		<image>./images/videight-image.png</image>
+		<releasedate>20010101T000000</releasedate>
+		<developer>Macro</developer>
+		<publisher>Macro</publisher>
+		<genre>MultiGame / Compilation</genre>
+		<players>2</players>
+		<crc32>D3225F6B</crc32>
+		<md5>6b146c982902ec3d464043ad36c2c0e9</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230216T195231" />
+		<scrap name="HfsDB" date="20231115T094405" />
+		<scrap name="ArcadeDB" date="20231227T203735" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/wbeast.zip</path>
+		<name>Wriggly Beasties</name>
+		<crc32>DF1B7EE5</crc32>
+		<md5>21d1cfe93383d5723224d545569e462a</md5>
+		<scrap name="ScreenScraper" date="20230216T195450" />
+		<scrap name="HfsDB" date="20231115T094407" />
+		<scrap name="ArcadeDB" date="20231227T203735" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/xeno.zip</path>
+		<name>xeno</name>
+		<crc32>174090EF</crc32>
+		<md5>ab1c5505d4fd83bce4edb5e338acc60a</md5>
+		<scrap name="ScreenScraper" date="20230216T195851" />
+		<scrap name="HfsDB" date="20231115T094414" />
+		<scrap name="ArcadeDB" date="20231227T203735" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/xmas2017.zip</path>
+		<name>Xmas/Happy New Year 2017 demo</name>
+		<crc32>63A69C70</crc32>
+		<md5>198515dce25ce2a7d4a5edd87b8fc84e</md5>
+		<scrap name="ScreenScraper" date="20230216T195911" />
+		<scrap name="HfsDB" date="20231115T094414" />
+		<scrap name="ArcadeDB" date="20231227T203735" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/ym2413.zip</path>
+		<name>YM2413 OPLL</name>
+		<image>./images/ym2413-image.png</image>
+		<releasedate>19691231T190000</releasedate>
+		<genre>System / Device</genre>
+		<players>0</players>
+		<crc32>5737E541</crc32>
+		<md5>21ba73df83aab5f2c82f986abdd5e22a</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230216T200015" />
+		<scrap name="HfsDB" date="20231115T094501" />
+		<scrap name="ArcadeDB" date="20231227T203735" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/ym2423.zip</path>
+		<name>YM2423 OPLL-X</name>
+		<image>./images/ym2423-image.png</image>
+		<releasedate>19691231T190000</releasedate>
+		<genre>System / Device</genre>
+		<players>0</players>
+		<crc32>C963199A</crc32>
+		<md5>e29da387e055a2ce34c3f2454c0e7a14</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230216T200015" />
+		<scrap name="HfsDB" date="20231115T094501" />
+		<scrap name="ArcadeDB" date="20231227T203735" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/ymf281.zip</path>
+		<name>YMF281 OPLLP</name>
+		<image>./images/ymf281-image.png</image>
+		<releasedate>19691231T190000</releasedate>
+		<genre>System / Device</genre>
+		<players>0</players>
+		<crc32>D72E95B4</crc32>
+		<md5>382559e51e708f377e4bcb9a711a7e67</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230216T200016" />
+		<scrap name="HfsDB" date="20231115T094501" />
+		<scrap name="ArcadeDB" date="20231227T203735" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/zap.zip</path>
+		<name>Space Zap Tribute</name>
+		<crc32>B6064424</crc32>
+		<md5>62fe8a5f50e08056f248fa5bddb6fb9f</md5>
+		<scrap name="ScreenScraper" date="20230216T200016" />
+		<scrap name="HfsDB" date="20231115T094501" />
+		<scrap name="ArcadeDB" date="20231227T203735" />
+	</game>
+	<game>
+		<path>./ROMs (merged)/zintrckb.zip</path>
+		<name>Zintrick / Oshidashi Zentrix (bootleg of CD version)</name>
+		<desc>SNK Neo-Geo MVS cart.:
+
+押し出し ジントリック (c) 1996 SNK.
+(Oshidashi Zintrick)
+
+Bootleg release of Neo-Geo CD exclusive game "Oshidashi Zintrick [Model ADCD-104]".
+
+- TECHNICAL -
+
+Runs on the SNK "Neo-Geo MVS" hardware.
+
+Players: 2
+Control: 8-way joystick
+Buttons: 3
+=&gt; Mode 1: [A] Spin, [B] Shot, [C] Special attack
+=&gt; Mode 2: [A] Shot, [B] Spin, [C] Special attack
+=&gt; Mode 3: [A] Spin, [C] Special attack
+
+- TIPS AND TRICKS -
+
+* Play As Ryu Eagle (Ninja):
+Put the machine in 'Free Play' mode (via dip switches), at the character selection screen, highlight Subberg, hold Up+B and press A.
+
+- CONTRIBUTE -
+
+Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=3254&amp;o=2</desc>
+		<image>./images/zintrckb-image.png</image>
+		<video>./videos/zintrckb-video.mp4</video>
+		<releasedate>19960101T000000</releasedate>
+		<developer>bootleg</developer>
+		<publisher>bootleg</publisher>
+		<genre>Puzzle / Toss</genre>
+		<players>2</players>
+		<crc32>EE259FB4</crc32>
+		<md5>cd636e43a28117fcdf65c620e806bc6b</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230216T200016" />
+		<scrap name="HfsDB" date="20231115T094502" />
+		<scrap name="ArcadeDB" date="20231227T203736" />
 	</game>
 </gameList>

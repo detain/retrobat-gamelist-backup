@@ -1456,8 +1456,8 @@ The game is made to be played with a two-joystick setup, known as the twin-stick
 	</game>
 	<game>
 		<path>./Games/vf3tb.zip</path>
-		<name>Virtua Fighter 3 Team Battle</name>
-		<desc>Arcade Video game published 25 years ago:
+		<name>Virtua Fighter 3 Team Battle (Japan)</name>
+		<desc>Arcade Video game published 26 years ago:
 
 Virtua Fighter 3 Team Battle (c) 1997 Sega.
 
@@ -1503,8 +1503,8 @@ Virtua Fighter 3 Team Battle was released on September 26, 1997.
 - PORTS -
 
 * CONSOLES:
-Sega Dreamcast [JP] (Nov. 27, 1998) "Virtua Fighter 3tb [Model HDR-0002]"
-Sega Dreamcast [JP] (???. ??, ????) "Virtua Fighter 3tb [Repeat Edition] [Model HDR-0017]"
+[JP] Sega Dreamcast (Nov.27, 1998) "Virtua Fighter 3tb [Model HDR-0002]"
+[JP] Sega Dreamcast (1998) "Virtua Fighter 3tb [Repeat Edition] [Model HDR-0017]"
 
 - CONTRIBUTE -
 
@@ -1522,6 +1522,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=3681&am
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20230218T025359" />
-		<scrap name="ArcadeDB" date="20230228T174735" />
+		<scrap name="ArcadeDB" date="20231228T022252" />
 	</game>
 </gameList>
