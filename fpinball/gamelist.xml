@@ -14726,18 +14726,6 @@ Most of the rules and play are similar to the real table, but a few things may p
 		<scrap name="ScreenScraper" date="20230315T084452" />
 	</game>
 	<game>
-		<path>./Future Pinball Recreated Tables/Pinball Action (One player) (Tehkan)(1985)(sergiosalaman)(2.2)/Pinball Action (One player) (Tehkan)(1985)(sergiosalaman)(2.0)/1 Player Pinball Action.zip</path>
-		<name>1 Player Pinball Action</name>
-		<md5>5ed8d949d109324e1d64184c26057ba5</md5>
-		<scrap name="ScreenScraper" date="20230315T084455" />
-	</game>
-	<game>
-		<path>./Future Pinball Recreated Tables/Pinball Action (One player) (Tehkan)(1985)(sergiosalaman)(2.2)/Pinball Action (One player) (Tehkan)(1985)(sergiosalaman)(2.2)/1 Player Pinball Action.zip</path>
-		<name>1 Player Pinball Action</name>
-		<md5>7585ae643fd3361c88815380d24ec266</md5>
-		<scrap name="ScreenScraper" date="20230315T084500" />
-	</game>
-	<game>
 		<path>./Future Pinball Recreated Tables/Pinball Planet (Pin International)(19xx)(Patrick)(Version 1)/Pinballplanet.fpt</path>
 		<name>Pinballplanet</name>
 		<md5>0a45b289a3e547d93c81f2c59dc902d3</md5>
@@ -38931,12 +38919,6 @@ MULTI BALL: Capture 3 balls under the blue ramp to trigger 3 targets J. Shoot th
 		<scrap name="ScreenScraper" date="20231227T180105" />
 	</game>
 	<game>
-		<path>./Future Pinball Original Tables/1024 Bytes (Northern Pinball Team)(1.0)/1024 Bytes v1.0.fpt</path>
-		<name>1024 Bytes v1.0</name>
-		<md5>6c1f85de50289fc5a0b0012083995de6</md5>
-		<scrap name="ScreenScraper" date="20231227T180106" />
-	</game>
-	<game>
 		<path>./Future Pinball Original Tables/2001 - A Space Odyssey (iGi)(beta10_Vector Cube Onholo)/2001 - A Space Odyssey (iGi)(beta0.24).fpt</path>
 		<name>2001 - A Space Odyssey (iGi)(beta0.24)</name>
 		<md5>0a0046fb822fe1cb6fb3c9b4dc1d5cbf</md5>
@@ -39603,18 +39585,6 @@ Light "DREAMON", by hitting star targets (under star holograms) for a 60 second 
 		<name>Alice Cooper (2.0)</name>
 		<md5>223f97c39f86680a2aa60fa6553bf509</md5>
 		<scrap name="ScreenScraper" date="20231227T180358" />
-	</game>
-	<game>
-		<path>./Future Pinball Original Tables/Alien (RipleYYY)(1.1)/1.0/10_ALIEN 1.0.fpt</path>
-		<name>10_ALIEN 1.0</name>
-		<md5>352920ebd3dc0383273d05a85d3776e3</md5>
-		<scrap name="ScreenScraper" date="20231227T180359" />
-	</game>
-	<game>
-		<path>./Future Pinball Original Tables/Alien (RipleYYY)(1.1)/1.1/10_ALIEN 1.1.fpt</path>
-		<name>10_ALIEN 1.1</name>
-		<md5>37c60de2a53e9e77e6ae9522d9d35a75</md5>
-		<scrap name="ScreenScraper" date="20231227T180400" />
 	</game>
 	<game>
 		<path>./Future Pinball Original Tables/Alien (RipleYYY)(1.1)/beta/Alien.fpt</path>
@@ -42371,18 +42341,6 @@ Light "DREAMON", by hitting star targets (under star holograms) for a 60 second 
 		<name>DevilDinosaur</name>
 		<md5>f23983568dd88f034c68b66c68aa1817</md5>
 		<scrap name="ScreenScraper" date="20231227T181721" />
-	</game>
-	<game>
-		<path>./Future Pinball Original Tables/Diablo II (victorkpm)(beta2)/beta1/101_Diablo II beta1.fpt</path>
-		<name>101_Diablo II beta1</name>
-		<md5>72088f7c7d4a363dce177a37b0179475</md5>
-		<scrap name="ScreenScraper" date="20231227T181723" />
-	</game>
-	<game>
-		<path>./Future Pinball Original Tables/Diablo II (victorkpm)(beta2)/beta2/101_Diablo II beta2.fpt</path>
-		<name>101_Diablo II beta2</name>
-		<md5>2a80062caf631e82281b7e87a2c3ef05</md5>
-		<scrap name="ScreenScraper" date="20231227T181724" />
 	</game>
 	<game>
 		<path>./Future Pinball Original Tables/Die Hard (rom)(0.2)[Normal, CAB editions]/DieHard 0.1.fpt</path>
@@ -54442,5 +54400,54 @@ The rotospinners offers small bonuses and will raise the guard targets from time
 		<path>./Future Pinball Recreated Tables [MODs, HACKs]/Taxi (Williams)(1988)(DRAKKO)(2.0)[Mod BAM by bigsilverhotdog]/[x27v1]taxi_2.0.fpt</path>
 		<name>[x27v1]taxi_2.0</name>
 		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Future Pinball Original Tables/1024 Bytes (Northern Pinball Team)(1.0)/1024 Bytes v1.0.fpt</path>
+		<name>1024 Bytes v1.0</name>
+		<md5>6c1f85de50289fc5a0b0012083995de6</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231227T180106" />
+	</game>
+	<game>
+		<path>./Future Pinball Original Tables/Alien (RipleYYY)(1.1)/1.0/10_ALIEN 1.0.fpt</path>
+		<name>10_ALIEN 1.0</name>
+		<md5>352920ebd3dc0383273d05a85d3776e3</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231227T180359" />
+	</game>
+	<game>
+		<path>./Future Pinball Original Tables/Alien (RipleYYY)(1.1)/1.1/10_ALIEN 1.1.fpt</path>
+		<name>10_ALIEN 1.1</name>
+		<md5>37c60de2a53e9e77e6ae9522d9d35a75</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231227T180400" />
+	</game>
+	<game>
+		<path>./Future Pinball Original Tables/Diablo II (victorkpm)(beta2)/beta1/101_Diablo II beta1.fpt</path>
+		<name>101_Diablo II beta1</name>
+		<md5>72088f7c7d4a363dce177a37b0179475</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231227T181723" />
+	</game>
+	<game>
+		<path>./Future Pinball Original Tables/Diablo II (victorkpm)(beta2)/beta2/101_Diablo II beta2.fpt</path>
+		<name>101_Diablo II beta2</name>
+		<md5>2a80062caf631e82281b7e87a2c3ef05</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20231227T181724" />
+	</game>
+	<game>
+		<path>./Future Pinball Recreated Tables/Pinball Action (One player) (Tehkan)(1985)(sergiosalaman)(2.2)/Pinball Action (One player) (Tehkan)(1985)(sergiosalaman)(2.0)/1 Player Pinball Action.zip</path>
+		<name>1 Player Pinball Action</name>
+		<md5>5ed8d949d109324e1d64184c26057ba5</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230315T084455" />
+	</game>
+	<game>
+		<path>./Future Pinball Recreated Tables/Pinball Action (One player) (Tehkan)(1985)(sergiosalaman)(2.2)/Pinball Action (One player) (Tehkan)(1985)(sergiosalaman)(2.2)/1 Player Pinball Action.zip</path>
+		<name>1 Player Pinball Action</name>
+		<md5>7585ae643fd3361c88815380d24ec266</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230315T084500" />
 	</game>
 </gameList>
