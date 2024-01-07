@@ -63,12 +63,6 @@
 		<scrap name="HfsDB" date="20231115T094505" />
 	</game>
 	<game>
-		<path>./TeknoParrot/Luigi's Mansion Arcade.7z</path>
-		<name>Luigi's Mansion Arcade</name>
-		<scrap name="ScreenScraper" date="20231102T021914" />
-		<scrap name="HfsDB" date="20231115T094506" />
-	</game>
-	<game>
 		<path>./TeknoParrot/Mario Kart DX.7z</path>
 		<name>Mario Kart DX</name>
 		<scrap name="ScreenScraper" date="20231102T021916" />
@@ -96,12 +90,6 @@ You must choose from four pizza couriers each with his or her own particular abi
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231102T021924" />
 		<scrap name="HfsDB" date="20231115T094506" />
-	</game>
-	<game>
-		<path>./TeknoParrot/Silent Hill The Arcade.7z</path>
-		<name>Silent Hill The Arcade</name>
-		<scrap name="ScreenScraper" date="20231102T021925" />
-		<scrap name="HfsDB" date="20231115T094507" />
 	</game>
 	<game>
 		<path>./TeknoParrot/Sonic Storm aka Mach Storm.7z</path>

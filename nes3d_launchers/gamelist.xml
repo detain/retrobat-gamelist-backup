@@ -6,7 +6,6 @@
 		<desc>This time, Lolo has a red friend who will do for him some of the work. Unlike the two previous Lolo games, here you can wander around a world map and enter different locations in a non-linear fashion. However, some of the locations remain blocked until you find a key after completing another level. 
 
 The gameplay is very similar to the one of the two previous games. You have to collect all the hearts in each room. Enemies will prevent you from doing that, and others will appear once you have eaten all the hearts and are hurrying towards the exit. The puzzles involve mostly pushing things to prevent enemies from stopping you.</desc>
-		<image>./images/Adventures of Lolo 3-image.png</image>
 		<marquee>./images/Adventures of Lolo 3-marquee.png</marquee>
 		<thumbnail>./images/Adventures of Lolo 3-thumb.png</thumbnail>
 		<rating>0.7</rating>
@@ -942,6 +941,7 @@ Important: This game makes references to suicide. If this is a concern, you may 
 		<scrap name="ScreenScraper" date="20230627T170416" />
 		<scrap name="TheGamesDB" date="20230627T170732" />
 		<scrap name="HfsDB" date="20230627T164308" />
+		<image>./images/Depths-image.png</image>
 		<image>./images/Depths-image.png</image>
 	</game>
 	<game id="1616">

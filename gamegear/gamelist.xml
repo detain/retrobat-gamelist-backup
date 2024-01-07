@@ -1,14 +1,5 @@
 <?xml version="1.0"?>
 <gameList>
-	<game id="416563">
-		<path>./No-Intro/Waternet (World) (Aftermarket) (Homebrew).gg</path>
-		<name>Waternet</name>
-		<crc32>6BB36DFC</crc32>
-		<md5>44d92c492caa17f298d216b9e272dd3d</md5>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ScreenScraper" date="20230223T083624" />
-	</game>
 	<game>
 		<path>./TOSEC/Applications/Game Gear Button Test (2016-02-02)(szr)(PD)/Game Gear Button Test (2016-02-02)(szr)(PD).bin</path>
 		<name>Game Gear Button Test (2016-02-02)(szr)(PD)</name>

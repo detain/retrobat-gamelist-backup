@@ -49856,9 +49856,7 @@ The player can only shoot one bullet at a time and has to destroy 20 tanks in ea
 		<image>./images/Tanks but No Tanks (USA)-image.png</image>
 		<video>./videos/Tanks but No Tanks (USA)-video.mp4</video>
 		<marquee>./images/Tanks but No Tanks (USA)-marquee.png</marquee>
-		<thumbnail>./images/Tanks but No Tanks (USA)-thumb.png</thumbnail>
 		<manual>./manuals/Tanks but No Tanks (USA)-manual.pdf</manual>
-		<bezel>./images/Tanks but No Tanks (USA)-bezel.png</bezel>
 		<rating>0.7</rating>
 		<releasedate>19820506T000000</releasedate>
 		<developer>Bit Corp.</developer>
@@ -49869,7 +49867,6 @@ The player can only shoot one bullet at a time and has to destroy 20 tanks in ea
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20231103T024654" />
-		<boxback>./images/Tanks but No Tanks (USA)-boxback.png</boxback>
 	</game>
 	<game id="51317">
 		<path>./No-Intro/Time Warp (Europe).a26</path>
